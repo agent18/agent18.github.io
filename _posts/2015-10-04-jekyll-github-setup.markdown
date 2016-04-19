@@ -1,0 +1,105 @@
+---
+layout: post
+comments: true
+title:  "Setup Github Jekyll Site in 5 mins (in hindsight)"
+date:   2015-04-15 23:01
+permalink: /:title.html
+---
+
+---
+<br><br>
+<div style="display: flex; justify-content: center;">
+
+    <img src="/images/title.jpg" width="400" height="250"/>	
+
+</div>
+<br><br>
+
+# TOC
+{:.no_toc}
+
+1. 
+{:toc}
+
+
+
+# Introduction
+You have been warned. Setting up github and jekyll takes 5 mins only in hind sight. Anyways, one persons hindsight is another persons sight (an Agent 13:51).
+
+Jekyll is the engine which we use to build us the static site from simple text based files. Github is the online server where we host our website from. This is a quick and dirty installation, without getting into too many details. Do comment in case you would like some more info or are stuck in a certain place regarding this setup. I will most probably get in touch with you within a day. Thank You.
+
+# Jekyll Settings
+
+Installation of Jekyll is not covered here. But just putting what I found [here](https://jekyllrb.com/) regarding installation as well for the sake of completeness.
+
+	$ gem install jekyll
+	
+	$ cd folder-where-you-would-like-to-have-your-sitefolder
+
+	$ jekyll new my-awesome-site
+
+	$ cd my-awesome-site
+
+
+
+# Github account
+
+Create a Github account. And follow this exact [website](https://help.github.com/articles/creating-a-new-repository/). To sum up, create an account and make a repository named as 'agent18/github.io'(for my case). And leave everything else blank. 
+
+# Github settings
+
+Next as per this [website](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/#platform-linux). I shall sum up the ideas below like somebody did it for me.
+
+	
+	$ cd my-awesome-site
+	
+	$ git init
+
+	$ git add .
+
+	$ git commit -m "first commit"
+
+	$ git remote add origin paste-remote-repository-url
+
+You can find the 'paste-remote-repository-url' as soon as you finish creating your repository. Its a pad with an arrow symbol.
+
+	$ git remote -v
+	
+	$ git push origin master 
+
+Type in your username and password. Check if your github page repository looks similar to [mojombos](https://github.com/mojombo/mojombo.github.io). 
+
+# Posts
+
+All that is left to do is write posts in markdown and check the output and push to github as attemped below.
+
+Go to terminal and go inside my-awesome-site
+
+	$ cd my-awesome-site
+
+	$ jekyll serve #hosts your site on a temorary server such as  http://127.0.0.1:4000/, and you can see how your site looks
+
+	$ git add -A
+
+	$ git commit -m "My site looks fine, Now moving on to other important things."
+
+	$ git push
+
+and the rest is history.
+
+
+# Discuss comments
+
+For discuss comments look [here](http://www.perfectlyrandom.org/2014/06/29/adding-disqus-to-your-jekyll-powered-github-pages/) and [here](https://agent18.disqus.com/admin/settings/universalcode/).
+
+
+--- 
+
+**P.S**:
+
+Modify the files inside folder '_posts' to have more posts in your site. Its easy after this. At any point if you are stuck, I am more than happy to help. It took me a while despite receiveing a lot of help from an STM. But it needn't take you a while. 
+
+Peace and Godbless(oneword-yes).
+
+
+
