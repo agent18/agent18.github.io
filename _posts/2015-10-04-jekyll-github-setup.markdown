@@ -1,105 +1,67 @@
 ---
 layout: post
 comments: true
-title:  "Setup Github Jekyll Site in 5 mins (in hindsight)"
-date:   2015-04-15 23:01
-permalink: /:title.html
+title:  " How to make jekyll work with github for your blog site"
+date:   2015-10-04 23:54
+categories: jekyll update
 ---
 
 ---
 <br><br>
-<div style="display: flex; justify-content: center;">
-
-    <img src="/images/title.jpg" width="400" height="250"/>	
-
-</div>
-<br><br>
-
-# TOC
-{:.no_toc}
-
-1. 
-{:toc}
 
 
 
-# Introduction
-You have been warned. Setting up github and jekyll takes 5 mins only in hind sight. Anyways, one persons hindsight is another persons sight (an Agent 13:51).
+<!-- <img src="/images/git.png" width="200" height="200" /> --> 
 
-Jekyll is the engine which we use to build us the static site from simple text based files. Github is the online server where we host our website from. This is a quick and dirty installation, without getting into too many details. Do comment in case you would like some more info or are stuck in a certain place regarding this setup. I will most probably get in touch with you within a day. Thank You.
+## ***Entry question*** : How to get posting after installing jekyll.
 
-# Jekyll Settings
+---
 
-Installation of Jekyll is not covered here. But just putting what I found [here](https://jekyllrb.com/) regarding installation as well for the sake of completeness.
 
-	$ gem install jekyll
+## Github pages
+
+1) Follow githubpages word to word to make agent18.github.io work. And now we have "hellow world" displaying in the website.
+
+Note: Cloned folder is also called username.github.io
+
+---
+
+## Jekyll 
+(http://jekyllrb.com/docs/usage/)
+
+After installing Jekyll(fingers crossed), type the commands below as found in  http://jekyllrb.com/docs/usage/ or below:
 	
-	$ cd folder-where-you-would-like-to-have-your-sitefolder
 
-	$ jekyll new my-awesome-site
+	$ jekyll new myblog
+	$ cd myblog
+	$ jekyll serve
 
-	$ cd my-awesome-site
+- myblog is now a folder you created with basic file structure of jekyll in it.
+- "Serve"  hosts the site locally. Serve also watches for changes you make and updates the local site.
+- The command below puts the files in the github cloned folder that exists on your pc.
 
+	$ jekyll build -d ¨full directory without courts or anything¨
 
+---
 
-# Github account
-
-Create a Github account. And follow this exact [website](https://help.github.com/articles/creating-a-new-repository/). To sum up, create an account and make a repository named as 'agent18/github.io'(for my case). And leave everything else blank. 
-
-# Github settings
-
-Next as per this [website](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/#platform-linux). I shall sum up the ideas below like somebody did it for me.
-
-	
-	$ cd my-awesome-site
-	
-	$ git init
-
-	$ git add .
-
-	$ git commit -m "first commit"
-
-	$ git remote add origin paste-remote-repository-url
-
-You can find the 'paste-remote-repository-url' as soon as you finish creating your repository. Its a pad with an arrow symbol.
-
-	$ git remote -v
-	
-	$ git push origin master 
-
-Type in your username and password. Check if your github page repository looks similar to [mojombos](https://github.com/mojombo/mojombo.github.io). 
-
-# Posts
-
-All that is left to do is write posts in markdown and check the output and push to github as attemped below.
-
-Go to terminal and go inside my-awesome-site
-
-	$ cd my-awesome-site
-
-	$ jekyll serve #hosts your site on a temorary server such as  http://127.0.0.1:4000/, and you can see how your site looks
-
-	$ git add -A
-
-	$ git commit -m "My site looks fine, Now moving on to other important things."
-
-	$ git push
-
-and the rest is history.
+## Github and jekyll
 
 
-# Discuss comments
+Once it does the above, then you can use the following to send it to your repo(sitory). Go to username.githun.io folder then;
 
-For discuss comments look [here](http://www.perfectlyrandom.org/2014/06/29/adding-disqus-to-your-jekyll-powered-github-pages/) and [here](https://agent18.disqus.com/admin/settings/universalcode/).
+	$ git add --all
+	$ git commit -m ¨Initial commit¨
+	$ git push -u origin master
 
+Username and then password and then go to username.github.io and it works like a charm.
 
---- 
+---
 
-**P.S**:
+## Disqus comments
 
-Modify the files inside folder '_posts' to have more posts in your site. Its easy after this. At any point if you are stuck, I am more than happy to help. It took me a while despite receiveing a lot of help from an STM. But it needn't take you a while. 
-
-Peace and Godbless(oneword-yes).
+http://www.perfectlyrandom.org/2014/06/29/adding-disqus-to-your-jekyll-powered-github-pages/
+https://agent18.disqus.com/admin/settings/universalcode/
+### Alstubleift and Amen.
 
 
 

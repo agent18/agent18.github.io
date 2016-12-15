@@ -1,0 +1,164 @@
+---
+layout: post
+comments: true
+title:  "Emperical Evidence (Edited)"
+date:   2015-10-29 20:00
+categories: jekyll update
+---
+
+# TOC
+{:.no_toc}
+
+1. 
+{:toc}
+
+---
+
+<br>
+
+## Entry question: Why do we need Emperical evidence
+{:.no_toc}
+
+<br>
+
+---
+
+<br>
+
+# Life Quotes
+
+>"Don't organize your folders, let your desktop be clustered with files of all possible sizes, don't bother if those icons camouflage with your favorite wallpaper. It doesn't matter if your pillow slips outside its cover. It doesn't really matter if your slippers are almost inside your room. Nor does it if the t-shirt you ordered online does not look the way you thought it would be or if your room is dirty and your stuff is **messy**. Open the door, go out, close it and walk... Happiness is outside your small apartment. It is in what you write, the movies you watch, the food you eat, the places you visit and the people who you talk to. ‪#‎liketobeclean‬but ‪#‎hatekeepingitclean‬ "
+- As I was browsing through fb today I came across this. some likes, one comment saying, "wow"
+
+Wow. What a saying. Man I should just go out, close it and walk. And happiness will hit me like a tsunami! EOD. End of discussion. I have been such a fool all these years!!!
+
+>"Follow vaishnavism and everything will be okay. God cares for you, thats why he made you and he loves you".
+- Random vaishnavite cunt
+
+Wow, Some one loves me. Great. GOD GOD GOD!!! I have been such a fool for all these years.
+
+>""The earth is flat"- Albert Einstein"- www.truth.md
+
+Wow, it really must be flat, if Albert Einstein thinks so.
+
+>"If I have a girlfriend life will be awesome."- someone I know
+
+Wow, Yes. Imagine if I had a girlfriend. I can hold hands, cuddle, have sex. Evolution will give me several carrots.
+
+>"If I just get this one thing, life will be awesome"- said no one
+
+Indeed, if he knows that life will awesome in all probability it is gonna be awesome.
+
+>"Life will be great if I have a lot of money(some millions of dollars perhaps)"
+
+Indeed.
+
+<br>
+
+---
+
+<br>
+
+# Setting it up:
+
+In the post Map vs Territory, we learnt that Map != Territory, and that your map is created using heuristics and biases and not state of the art infinte-ram-unbelievable-prediction-power-technology. Now that we know Map != territoy what should we do? Now that we know peoples beliefs != reality, what should we do? What can we do?
+
+<br>
+
+---
+
+<br>
+
+# Emperical Evidence
+
+
+Emperical Evidence is objective information usually obtained from experiments and observations. The findings of the experiments, observations should be replicable. If you are trying to find the attraction between electrons and nuetrons, the results should be the same across different labs. If you cant replicate them then it suggests that our current understanding of the system adnd test methods are insufficient. 
+-http://undsci.berkeley.edu/article/howscienceworks_17
+
+Martin seligman did a riguorous study correcting for all sorts of biases, about what makes people lastingly happy and found that x% of contribution comes from pleaseurable life. y% comes from meanignful life and z% from a life of flow. Whats hidden and something that has been eating me for a while as well, is that, he also says between the lines that this is true not only for the days he conducted experiments. He is sticking his head out and saying that this is the reality and is not likely to suddenly change any time soon.
+
+Tomorrow, if I ask seligman to reproduce these results, he should be able to do it with a new set of studies. If he gets y% for pleasurable life, then his hypothesis as a whole can be thrown in dustbin. Period.
+
+
+<br>
+
+---
+
+<br>
+
+# New found light
+
+Can emperical evidence be used to get reliable information about the territory?
+
+Say you want to know how much water you have to drink before workout and the hydration patterns necessary, to maximise gain during workout?
+But your map(belief) says, "just drink what you want it doesnt matter". Hence proved, drinking as you want is the best hydration strategy known to mankind.
+
+Hmmm, if only there was some way we could get reliable information.
+
+Welcome to scooby's site. Here we can get the necessary information on body building. If we are doubtful about this site (which we should be) then, you can check for yourself in the reference below the post. Yes this god forsaken man has references. The only body building site I know of, that actually has references to fucking journals or for that matter references even. 
+
+
+<br>
+
+---
+
+<br>
+
+# Why are respected science journals supposed to be the truth, reality?
+
+Science journals contain some information usally from studies or other scientific methods, which constitute as evidence for the hypothesis extended in the same. New matter in the journal is backed up with evidence. All other matter is referenced to older journals. They are peer reviewed. Peer review enusures that the extended evidence makes sense to the peers. The authors have to defend their paper to the questions posed from the peer review. After all this if it works out, it is published. It is available to all. All information to repeat these findings are available. If this is EE, then it is repeatable and objective. The authors in general from universities might not want to fake the results or forge it as if they are caught to cause massive damage to their reputaion [citation needed]. 
+
+Doesn't it flow by logic that the scenario of the authors would be as I have quoted? The dangers of logic and unfalsifiable statements coming soon.
+
+
+<br>
+
+---
+
+<br>
+
+# In conclusion
+
+It is important that we are not carried away by how we feel towards a statement. Unless there is EE of the correctness of the statement, how can you trust a statement. Science journals are one way you can get your hand on EE, the reality.
+
+In general you have two kinds of people. People who give you the map, and people who give you the territory. Choose wisely. Choose Map. 
+Bazinga!
+
+
+<br>
+
+---
+
+<br>
+
+# List of surprising insights!
+
+
+EE with example, and seeing the hidden meaning I was struggling with for a while.
+
+Help of structure from comments quite helped this post.
+
+Once the example came in it was not that hard. Until then it was HELL. Although it took a lot of time to come up with the post.
+
+Using paragraphs in essays. Less clumsy!//[citation needded]
+
+I was focussing on generating content. Didnt work at all. Need to focuss on understanding and seeing what I dont understand and write about that.
+
+P.S
+
+Thank You for the so called harsh comments. Thanks to the audien for the constant feedback. Keep them coming. I am looking to improve. I need to get this. As they say in counter strike, "HE's Open, fire fire fire".
+
+Peace.
+
+<!-- For the first time I see my post looking good, looking like an STMS or a YUDKOWSKY, reson: paragraph. Not talking about content at all. --!>
+
+<!-- Got a comment on the post regarding small paragraphs and clunkyness. I have alwasy envied how the other bloggers have clean posts. --!>
+
+<!-- <img src="/images/git.png" width="200" height="200" /> --> 
+
+<br>
+
+---
+
+<br>
+
