@@ -6,7 +6,7 @@ layout: default
 
   <div style="display: flex; justify-content: center;">
 
-      <img src="/images/title.jpg" width="600" height="375"/>	
+      <img src="/images/title.jpg" width="400" height="250"/>	
 
   </div>
   <!--This is commneted for now! This is the counter that is present at the bottom!	

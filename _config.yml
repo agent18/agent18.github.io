@@ -1,13 +1,11 @@
 # Site settings
-title: An Agents r-word essay collection.
-email: your-email@domain.com
+title: An Agents r-word essay collection!
+email: thetj09@gmail.com	
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Its no who you are underneath, but what you do that defines you - Rachel Dawes (Batman Begins)
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+twitter_username: No_twitter
 github_username:  agent18
 
 # Build settings
