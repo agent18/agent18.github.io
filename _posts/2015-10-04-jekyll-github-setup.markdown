@@ -1,14 +1,14 @@
 ---
 layout: post
 comments: true
-title:  " How to make jekyll work with github for your blog site"
+title:  "How to make jekyll work with github for your blog site"
 date:   2015-10-04 23:54
-categories: jekyll update
+categories: The Beginning
+permalink: /:title.html
 ---
 
 ---
 <br><br>
-
 
 
 <!-- <img src="/images/git.png" width="200" height="200" /> --> 
