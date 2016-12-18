@@ -7,7 +7,7 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
 <br>
-    	<img src="/images/title.jpg" width="800" height="500" />	
+    	<img src="/images/20151004_map _territory/map1.jpg" width="800" height="500" />	
 
     <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
