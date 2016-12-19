@@ -8,10 +8,12 @@ permalink: /:title.html
 ---
 <!-- <img src="/images/git.png" width="200" height="200" /> --> 
 ---
+
 #### **Entry question** : How to get a static-blogging-site up and running using jekyll and Github pages.
 This is supposed to be a guide based on my experience with trying to use github and jekyll within an **ubuntu** environment. This is definitely not the complete guide. Several issues are not discussed in detail. But please hit me up in case you are stuck. Maybe I am able help. I am more than glad to help.
 
 ---
+
 #### **What do we want to do?**
 
 We want to write some posts in simple-plain-text-based Markdown and then magically want it to show up in a site username.github.io, which is also the name of our repository(folder) on github. To get this to work, we need to install jekyll, write 3 commands and then setup github pages and write ~7 more commands and then we should have a working site. I warn you now and I warn you hard that it took me quite some time to get it to work. Especially getting jekyll running was a pain. For now dont delve too much into what each command does and run with the flow. We figure out things as and when we hit a road block.
@@ -70,6 +72,7 @@ At the top of your GitHub repository's Quick Setup page, click "pad-with-left-ar
 We have now created the repository online and synced with my-awesome-site localy. Check your repository page ("github.com/username") to see if you see the contents of my-awesome-site. We can display the site on our browser locally ($ jekyll serve) and upload ($ git push) to see the changes online @ username.github.io .
 
 ---
+
 #### **From now on!**
 Go to \_posts folder in my-awesome-site. Look at the basic post and emulate future posts. Look around and the one thing that helps is to go through the [jekyll docs][jekyll_usage] as and when required, but patiently. Spend some time and make the changes you want to the site. From now on the work flow will be as follows: 
 	$ git add -A
