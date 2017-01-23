@@ -15,12 +15,11 @@ permalink: /:title.html
 
 #### **Entry question** : 
 
-With this post I want to discover and clarify for myself as to why I should be doing something that I think I should be doing.
+I was given some knowledge 2 years back which was polished last year during august - courtesy STM. Been "busy" with masters and finding a job. Now that I finally found a job -which was the official excuse for not taking pretty much any action during the last 2 years- what should I be doing and why should I be doing it. What are the reasons to focus on 
 
 
 #### **What should you be doing?**
 
-I was handed some knowledge 2 years back which was polished last year during august (courtesy STM). Been "busy" with masters and finding a job. Now that I finally found a job -which was the official excuse for not taking pretty much any action during the last 2 years- what should I be doing and why should I be doing it.
 #### **Why should you be doing**
 1) batman begins,  its not who you are but what you do that defines you!
 
