@@ -54,6 +54,7 @@ The cure for RSI, BP and the like proposed by [Dr. John Saruno][Saruno_wiki], is
 I urge you all to take the time and go through the above links (atleast) and my journey and be cured, if the pain was just in your head. Hope it helps.
 
 #### **Pain begins**
+![](images/rsi/trans1.jpg)
 
 I just finished my bachelors, which means I was about 22 years old (2012). I joined in a research institute to work. It involved CAD and FEM. It slowly went on to working late in the evening and clicking the mouse more and more. Thats when I had my first experience with RSI. It got pretty bad, and I started taking advice from my prof who has carpel tunnel regarding exercises and so on. I used to switch to the left hand and have shortcut commands to ease work. I think my friend informed me that writing on the keyboard is much less painfull than using the mouse and I took to it. _I believed it_. I got an ergonomic keyboard and mouse to save my hand from more damage. This particular mouse I absolutely didn't use as it was so uncomfortable and slowing me down.
 
@@ -67,6 +68,7 @@ Towards the end of my tenure at the research institute, i.e., @ 24 years old, I 
 
 
 #### **Pain rises**
+![](images/rsi/trans3.jpg)
 
 In about three months I was on my way to Netherlands for my masters (Aug, 2014) and quit my job. I wanted to bulk the fuck up. I started working out, and was too retarded and stupid to start with the beginners work out, started pumping huge amounts (20 kg bench press for my level) of iron at the gym. One day, when I was doing lunges or squats I think I pulled my back. From then on things went downhill.
 
@@ -79,7 +81,7 @@ I did move around, even moved from city to city during these 3 months, but it wa
 To add to all this, I had a totally unconnected surgery (pilunoidal sinus) which screwed my ability to sit even more for a while.
 
 #### **Pain mildens but wait**
-
+![](/images/rsi/trans2.jpg)
 At the end of those three months, I took a flight to Netherlands, about 13 hrs. I never imagined my flight to Netherlands would be so free of pain. I am probably biased or having some major inaccuracies in my story, but as far as I remember, I had no/very little pain. Very peaceful, just taking care of healing my wound due to that unconnected surgery I was talking about earlier. It just didn't't add up. Just _one day before, I am lying down most of the time, and then suddenly riding a plane without much issues!_ WHaaaaaaaaT! ALMOST AS IF SUDDENLY I was doing things that previously I hadn't imagined I'd do.
 
 Once I came to Netherlands, I think I found the chair that "works" for my back, the mattress at my new house already was good enough! Hmmm! Interesting ;). I was worried about getting a cycle, and guess what, no problems there either, the cycle I test-tried worked for my back! Whaaaaaaat (high-pitched this time)! What are the odds!
@@ -99,6 +101,7 @@ After I came back started working out with extremely small weights. Just decided
 To counter KP, I tried to do a jog with proper stretching. On the advice of my Phisio, I started with 12 mins jog. I would jog very slowly for 2 mins and then rest for 1 min and constantly check and think if I have pain or not. Needless to say, I couldn't continue with that. It gave me pain!
 
 #### **The final motivation**
+![](/images/rsi/trans4.jpg)
 
 My life recipe was I used atleast an external or ergonomic keyboard, stuck to ergonomic postures, didn't climb the stairs, did low weights in the gym and life was going to be alright. Pain was in control but working out with low weights was boring, when I had to move to Munich for a period of seven months. I already got used to the way to working in Netherlands. I knew my chairs, the ones that would work, at my department, at the library and most importantly at home. I knew my gym, and all the amenities around, that would support my body. Having moved to another city, I needed to figure this out all over again.
 
@@ -125,6 +128,8 @@ The theory behind this revolutionary cure is roughly as follows: You probably st
 Thats great! I tried it and it worked for me. The pain seems to be in my head.
 
 #### **The Extension**
+![](/images/rsi/ext.jpg)
+
 I started reading about BP and how it might be connected to the RSI theory. Turns out my [thalaivan Saruno][Saruno_wiki], kicks ass there as well. I saw related posts. I clearly remember my plight just when I got to Munich. I had a very bad chair (one without backrest) when I first went to my Munich home. I immediately started looking for chairs. For the first few days as soon as I came home I would go to sleep or lye down almost asap as I couldn't handle doing things without a proper back rest, or so I thought. BP would creep up as I sat without backrest. I don't know how the link happened but then I found that Saruno had written a book on BP! God bless that MAN! No points for guessing that **I didn't have to read that book as well!**
 
 I found this amazing inspiring tale of this guy. In fear that I might not find it again I quote it partially here. The amazon book link is [here][amazon_BP]. The actual review is [here][amazon_review_BP].
@@ -139,6 +144,7 @@ Remember I was talking about KP. Yes that was another of my worries too. I didn'
 Soon enough I hit the gym optimistically. Within a few weeks, I was pumping **80 motherfuckering kgs** at the leg press machine as opposed to my max of 20 kgs a few months back. I was extending about 50 kgs. Unfucking believable for what I was capable of doing a few months back. SHACKKKKED!
 
 #### **Caution**
+![](/images/rsi/caution.jpg)
 
 I do get backpain now and then, much more frequently than RSI. But I feel the trick is in not giving a shit especially for things as silly as posture. When I am exercising, I look for BP and KP the next day or the next time or even after work out. This is the indicator I use to continue or approach with caution, any activity.
 
@@ -204,7 +210,7 @@ I would like to thank an STM, whose esteemed existance has helped me so much in 
 Of course exercise caution while attempting the principles, avoid going full retard. Upgrade slowly and good luck. It is possible the pain is not in your head alone, so exercise cautiously or get in touch with a doctor I guess.
 #### **Conclusion**
 I believe I have come a long way with the RSI, KP, and BP. I feel like I am young again. Today, I skipped every alternate step in the stairs from the third floor, just like when I was a kid. As I speak of it, I realize a growing pain in my knee, I wonder if thats real? I am not too worried about it. And two days later I continue writing this paragraph, "what pain?", I asked!
-
+![](/images/rsi/final.jpg)
 #### **0ther links and success stories**
 [http://aaroniba.net/articles/tmp/how-i-cured-my-rsi-pain.html][aaroniba]
 [http://pradeep90.github.io/Curing-RSI.html][stm]
