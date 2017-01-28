@@ -21,6 +21,7 @@ permalink: /:title.html
 Hi I am an Agent and **I used to suffer** from RSI. (Hear Here!) And this is my story...
 
 ----
+
 #### **Abbreviations**
     KP - Knee Pain
     BP - Back Pain
@@ -29,6 +30,7 @@ Hi I am an Agent and **I used to suffer** from RSI. (Hear Here!) And this is my 
 I use quotations throughout the essay to inform the reader that in hindsight, I believe I was just misinterpretting things.
 
 ----
+
 #### **The Synopsis**
 
 Around 3-4 years back I had my first encounter with RSI aka Repetitive Stress Injury. It was "_natural_" then, for me to conclude the "_obvious_" that I was clicking the mouse like a Bitch and hence I got RSI. Along with this, overworking like crazy, sitting in "bad chairs" and riding bikes for long distances, I "_figured_" that I have back pain as a result. During this time I also had small encounters with knee pain. Of course, all around me there were people sitting in various weird postures and not giving a fuck. I used to think, man, one day he's going to face the music.

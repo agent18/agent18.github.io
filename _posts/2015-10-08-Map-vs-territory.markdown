@@ -13,7 +13,7 @@ permalink: /:title.html
 1. 
 {:toc}
 
-## Entry question: What is Map and territory 
+## Entry question: What is Map and territory?
 {:.no_toc}
 ---
 <br>
@@ -25,10 +25,8 @@ I could reach from A to B in a territory in so many routes. Around the mountain,
 
 How do you decide which path you should choose. 
 
-a) Travel with a stop watch and measure time 
-<br>
-b) You can just tread every single path, count the number of footsteps and then...
-<br>
+a) Travel with a stop watch and measure time <br>
+b) You can just tread every single path, count the number of footsteps and then...<br>
 c) Or you could make a map by making a few runs and then do all the calculations on the map.
 
 (hint: we are in 2000 B.c and there are no stop watches)
