@@ -1,140 +1,73 @@
 ---
 layout: post
 comments: true
-title:  "Map vs territory"
-date:   2015-10-08 23:49
+title:  "Map vs territory (reboot)"
+date:   2017-01-28 21:22
 categories: The Beginning
 permalink: /:title.html
 ---
-
-# TOC
-{:.no_toc}
-
-1. 
-{:toc}
-
-## Entry question: What is Map and territory?
-{:.no_toc}
----
-<br>
-
-## History
-
-Lets say you are in 2000 B.C.
-I could reach from A to B in a territory in so many routes. Around the mountain, over a mountain etc...
-
-How do you decide which path you should choose. 
-
-a) Travel with a stop watch and measure time <br>
-b) You can just tread every single path, count the number of footsteps and then...<br>
-c) Or you could make a map by making a few runs and then do all the calculations on the map.
-
-(hint: we are in 2000 B.c and there are no stop watches)
-
----
-<br>
-	
-## Map and territory
-
-A Map is an estimate of the actual territory. A Map is what you make of, of your territory. In the above example it appears that maps are constructed to reduce the computation costs.
-
-> Warning: Map is not the actual territory. 
-
-But anyways, Why are we talking about this?
-
----
-<br>
-
-## Brain, its map and the actual territory
-
-You can imagine the brain as a person inside a dark room. This brain is capable of receiving and giving out signals from within the dark room (a.k.a skull). It deploys various sensors (a.k.a organs) to get information about the world, outside of the dark room. It takes this information and _processes_ it and comes up with a map of the actual territory. The map is such an accurate representation of the territory that you can trust the map a 420% (*sarcasm*). 
-
->  My God, she's bad at math. 
-<br>
->      --Phil Dunphy(modern family)
-
-Whenever I say Map and terrirtory I want to realise that I am not just talking about actual regions. As in, the territory, does not just refer to the actual region in the earth.
-
-The territory stands for the reality. Present, past, future. The truth. The absolute truth. The Map stands for everything thats in your head. Everything that your brain came up with via sensors processing the data from the sensors and making its own map, while it is in the dark room (a.k.a skull).
-
-The brain always works with the map it made of the actual territory. I repeat to myself, the brain works with the map and not the territory.
-
----
-<br>
-
-## The analogy break up
-
-There are so many ways you could go from A to B, but which one is the best(shortest). The map is construced not by travelling every fucking path, but by travelling to some points in the territory.
-
-There are so many ways you can do something, but which one is the best thing for you to do. 
-The map is constructed not by doing every fucking thing, but by using the built in code called **H&B(hueristics and biases)**, that _cleverly_ constructs the map that is such an accurate representation of the actual reality, that we can totally forget about the territory and allow the map to guide us :) (*sarcasm*).
-
-Again the map is what you make of the territory. 
-
-	$ 	Map != territory
-
+Unfinished, Dont read!
+I want to explain map vs territory, quote a few examples and then talk about its potential uses cause whats the point of knowing somehting when its not of any use.
 ---
 
-<br>
+#### **Map vs Territory**
+If we are in 2000 BC and we wanted to know what is the shortest route from point A to B, there are probably many approaches. One could physically take a variety of routes and count his steps. This would be very time consuming as there are too many routes one can tread, but once he does that he can choose the one with shortest number of steps. An alternative would be to make a small map, highlighting the main locations we might need to pass through and then make a sufficient trips around A and B, so that you are able to make an informed choice by looking at the Map. So essentially, we are talking about a **Map** of the actual **Territory**. Map is not the territory, but seems in the above case to be a decent estimate of the territory around A and B.
 
-## Introduction to H&B
+We define more seriously, within this series of essays, that the Territory is everything that is the reality, the absolute truth and the like. Your Map being your version of the territory. For example, according to Google, it was supposed to rain yesterday at 08:00, but it snowed. The reality, i.e., the Territory being quite different from the Map (i.e, your prediction of the territory).
 
-First things first, the brain has limited resources. By that I mean it does not have infinite computation power. 
-The brain doesnt compute the actual territory as it is extremely costly. It uses shortcuts instead.
-The brain needs to take into account several million factors in order to come up with the actual reality which can be quite costly.
+Some of the biggest mistakes in life would sum up how bad ones Map is and that there is a need to make large changes.
+You might think that moving to netherlands far away from parents is going to be epic. You might think that just for the fact that you are in foreign land, you should start getting girls. You make such huge investments (46000 Euros), and only later realize how ridiculously wrong you were. Your Map completely misguiding you. If only you could had a better Map that determined the Territory better. I am not saying that getting girls is an acceptable motto for life, thats for an other discussion.
 
-The cost can be seen in the following manner: Everyperson is just a piece of code, a robot, a computer whatever...  and functions as per the code. But the code is run on limited resources. The world has so many of those persons with code. It doesnt stop with persons there are trillions of other living organisms. 
+When you form your decision based on ads. So I had this experience where I was convinced by a bunch of marketting folk that I have to pay 25k rs for a set of CAD related courses and that it would be very useful for me in my future to win competitions and to crack the bigger issues. My map previously empty on this issue, slowly started filling in information. I didn't end up completeing these courses, there were very bad, it was a money making ploy I later gathered and updated my Map.
 
-From the beginning of time(or an initial condition) if we simulated until now and further on using a very very powerful conputer, we can basically predict with high level accuracy the actual territory. The Map can then be an accurate representation of the territory.
+#### **Our Map vs Territory**
+We humans also have a Map, and typically have a very very crude version of our territory which allows us to make decisions as stated in the above examples. Our brain gathers information via our sensory organs such as eyes, skin etc., and forms its own map using Hueristics & Biases (H&B). These Hueristics and Biases are shipped with inherantly or passed through and improved through evolution and help the brain form the map faster. Rather than making hard computations to form the actual territory, the brain uses simple design rules to form the map. For example one of the H&B is social proof. When several people do it, your brain starts believing that shit is real.
 
+The Tirupathi Temple is a destination flocked my millions of followers. You see in one such temples mass hysteria. Everyone feeds off of each others feeling. You might feel that the profecy is true and that you are feeling god. Why does one get the highness or even desire of bursting crackers only when he bursts them along with those millions of people who burst crackers on the day of deewali. If you did it a day later, the excitement is completely different, in fact you don't want to. Your brain beleives that some thing should be exciting because so many million people are doing it. So your brain uses social proof to determine what is reality and what is not the Territory. It forms its maps using several of these design rules(H&B). As the brain has finite computational power, these rules come in handy to make rather simplified calulations to make the map, which might be quite different from the territory.
 
-But, thats fucking costly. But fret not(I mean fret like fuck! Panick) we have H&B, that are shortcuts and pieces of code in our system that helps us construct the Map.
+On the same lines, You see so many people with girlfriends and you cannot but feel like a loser. What if you have much more important things to do and you are stuck trying to get girlfriends as your main life goal. To put things in perspective, if BATMAN had said, " I want to fuck rachel everyday and that he can't focus on Gotham because he is busy thinking about Rachel and how to get her and not be a loser, imagine what happens to Gotham. Gotham becomes completely fucked.  BATMAN god bless that man, for some reason chose to overule his MAP despite him being given the stick to fight for his city, to save mankind. 
 
-#### **For example,**
-I think I am supposed to do an MS in life. <br>
-_Well.... how do you know that_<br>
-I looked at others, in my social group. They are all doing an MS. <br>
-_Case closed_ H&B FTW	
-
-#### B1
-
-In one of the cases: H and B lets you figure out what you are supposed to be doing in life, by making you feel that you should be doing what the others are doing.
-
-The H&B that was constructed couple of million years ago, when we were in forests, living like the quintessential tribesman, is still in use and hasnt adapted itself to the new age (not that it was pretty epic then). I am passing no judgement on this as of now.
-
-In the forests we need to survive and we are fucked if we go alone to a place. Its probably best to do what the group collectively thinks is cool for lack of better options.
+The poitn being that your brian is falwed in making such decisions and we shoudl realize that work towards making improving our map to math the territory as much as possible. Why would you want to live in a dream land far away from reality, when the laws of reality will prevail. Trump thinks that global waeming is a hoax perpetrated by China. His map believes in some wierd, made up "reality". He thinks banning muslims from several countries who hardly have any history of producing terrorists to the US, is a great solution. His "reality" is completely fucked. It could be too late to react to the destructive powers of nature, when you abuse it. It appears time and again with these examples that we want to be as close as possible to the reality, the territory. 
+ 
 
 
----
-<br>
-
-## Conclusion
-Anyways, we want go from A to B and would like to know the best way to go from A to B. We do that by treading every single path from A to B, Correct???
-
-We construct a map so that we can cheaply compute the best way to go from A to B.
-
-We want to compute the best course of action for ourselves. We do that by treading every single course of action. Correct???
-
-We construct a map of the reality (territory) our H&B so that we can cheaply compute the BEST (*sarcasm*)  course of action. 
-
-Unfortunately the map is not quite that good. Is it even useable?(later on another post probably). Map in many cases might not be equal to territory. We saw an example of how h&b can be misleading.
-
-Be careful! Until next time this is finally an Agents first post from 'Startup with an STM' section.
 
 
----
-<br>ddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 
-## The other side
 
-Yes you know about the Map and the territory. You kept saying that the map is not the territory and rather the brain does a poor job of coming up with an accurate enough map. The prediction power of the reality by the map is quite low for amatuers in a field.
+whay? is it slike this... Computation costs ect...
 
-The map need'nt always be wrong. With experience and some other tools the prediction power of the reality, i.e., the  map, can be improved.
 
-For now, Later. Peace!
 
-P.S
+improve map slaves...
 
-Idhu chumma trailer mattum than ma, Main picture innum varala... Varum. 
+#### **Hueristics and Biases**
+Given a super computer, and a full understanding of the huersitics and biases adn tehe physics of the eatrth it should be possible to determine what is going to happen in the next 10 seconds exactly. But we dont have such resources. We have a finit brian, with finite computation ability 
+#### **Now what**
 
-Amen!
+> “Understanding is the first step to acceptance, and only with acceptance can there be recovery.” –Illaythalabathy Albus Dumbledore.
+
+Yes I understand that I am a potential fuck up. But where do I start? what do I do? How do I know that I am improving, 
+
+So first know what you need to do: At this point it seems that earning as much money and planning to learn skills htat will be essntial seem to be th enumber one things, if the profecy is true. 
+
+Next you are not going to be able to do it in the light of H&B: H&B are constantly going to make you feel like a loser. You suck with girls, you have no social life, no stories to tell, you dont travel. It matter according to the Map you have. But is it the reality, Do we want to be close to the rality or what?
+
+How  do I find the mathivanan to stay strong, write, think, do in the direction that is needed.
+
+Like every action we do and we slowly become that. For example, A person was saying that he wanted to be rational, i.e., make the decisions that he knows are right, but he is not able to . how do you get there, start making the decisions, and to quote from chandramukhi
+>"Ganga chandramukhi ah ninna, chandramukhi ah maarina"
+
+#pnn
+
+Some decisions
+I didnt see the match
+I didn;t take the first house or should be able to say decisively regarding th eother house
+
+
+Now that we know that we are
+What are you going to change?
+How are you going to change?
+What now? Seriously What the fuck now?
+
+
