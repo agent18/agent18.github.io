@@ -7,67 +7,40 @@ categories: The Beginning
 permalink: /:title.html
 ---
 Unfinished, Dont read!
-I want to explain map vs territory, quote a few examples and then talk about its potential uses cause whats the point of knowing somehting when its not of any use.
+I want to explain map vs territory, quote a few examples and then talk about its potential uses cause whats the point of knowing something when its not of any use.
 ---
 
 #### **Map vs Territory**
-If we are in 2000 BC and we wanted to know what is the shortest route from point A to B, there are probably many approaches. One could physically take a variety of routes and count his steps. This would be very time consuming as there are too many routes one can tread, but once he does that he can choose the one with shortest number of steps. An alternative would be to make a small map, highlighting the main locations we might need to pass through and then make a sufficient trips around A and B, so that you are able to make an informed choice by looking at the Map. So essentially, we are talking about a **Map** of the actual **Territory**. Map is not the territory, but seems in the above case to be a decent estimate of the territory around A and B.
+> Map and Territory is a metaphor for belief and reality
+  - Alfred Korzybski
 
-We define more seriously, within this series of essays, that the Territory is everything that is the reality, the absolute truth and the like. Your Map being your version of the territory. For example, according to Google, it was supposed to rain yesterday at 08:00, but it snowed. The reality, i.e., the Territory being quite different from the Map (i.e, your prediction of the territory).
-
-Some of the biggest mistakes in life would sum up how bad ones Map is and that there is a need to make large changes.
-You might think that moving to netherlands far away from parents is going to be epic. You might think that just for the fact that you are in foreign land, you should start getting girls. You make such huge investments (46000 Euros), and only later realize how ridiculously wrong you were. Your Map completely misguiding you. If only you could had a better Map that determined the Territory better. I am not saying that getting girls is an acceptable motto for life, thats for an other discussion.
-
-When you form your decision based on ads. So I had this experience where I was convinced by a bunch of marketting folk that I have to pay 25k rs for a set of CAD related courses and that it would be very useful for me in my future to win competitions and to crack the bigger issues. My map previously empty on this issue, slowly started filling in information. I didn't end up completeing these courses, there were very bad, it was a money making ploy I later gathered and updated my Map.
-
-#### **Our Map vs Territory**
-We humans also have a Map, and typically have a very very crude version of our territory which allows us to make decisions as stated in the above examples. Our brain gathers information via our sensory organs such as eyes, skin etc., and forms its own map using Hueristics & Biases (H&B). These Hueristics and Biases are shipped with inherantly or passed through and improved through evolution and help the brain form the map faster. Rather than making hard computations to form the actual territory, the brain uses simple design rules to form the map. For example one of the H&B is social proof. When several people do it, your brain starts believing that shit is real.
-
-The Tirupathi Temple is a destination flocked my millions of followers. You see in one such temples mass hysteria. Everyone feeds off of each others feeling. You might feel that the profecy is true and that you are feeling god. Why does one get the highness or even desire of bursting crackers only when he bursts them along with those millions of people who burst crackers on the day of deewali. If you did it a day later, the excitement is completely different, in fact you don't want to. Your brain beleives that some thing should be exciting because so many million people are doing it. So your brain uses social proof to determine what is reality and what is not the Territory. It forms its maps using several of these design rules(H&B). As the brain has finite computational power, these rules come in handy to make rather simplified calulations to make the map, which might be quite different from the territory.
-
-On the same lines, You see so many people with girlfriends and you cannot but feel like a loser. What if you have much more important things to do and you are stuck trying to get girlfriends as your main life goal. To put things in perspective, if BATMAN had said, " I want to fuck rachel everyday and that he can't focus on Gotham because he is busy thinking about Rachel and how to get her and not be a loser, imagine what happens to Gotham. Gotham becomes completely fucked.  BATMAN god bless that man, for some reason chose to overule his MAP despite him being given the stick to fight for his city, to save mankind. 
-
-The poitn being that your brian is falwed in making such decisions and we shoudl realize that work towards making improving our map to math the territory as much as possible. Why would you want to live in a dream land far away from reality, when the laws of reality will prevail. Trump thinks that global waeming is a hoax perpetrated by China. His map believes in some wierd, made up "reality". He thinks banning muslims from several countries who hardly have any history of producing terrorists to the US, is a great solution. His "reality" is completely fucked. It could be too late to react to the destructive powers of nature, when you abuse it. It appears time and again with these examples that we want to be as close as possible to the reality, the territory. 
- 
-
-
-
-
-
-
-whay? is it slike this... Computation costs ect...
-
-
-
-improve map slaves...
+Some of the biggest mistakes in life would inform me about how different my belief and reality. You might think that moving to netherlands far away from parents is going to be epic. You might think that just that you are in a foreign land that is not India, getting girls would be so much more easier. You might remember your friend saying, "Macha, just because you are in foreign land why is it going to change who you really are?". 46000 Euros later, you realize how wrong you were. Your Map completely having misguided you. If only you had a better Map that determined the actual Territory. In another unrelated event, burnt 25k rs for a CAD course, which I thought was going to be useful. 25k! Poof!
 
 #### **Hueristics and Biases**
-Given a super computer, and a full understanding of the huersitics and biases adn tehe physics of the eatrth it should be possible to determine what is going to happen in the next 10 seconds exactly. But we dont have such resources. We have a finit brian, with finite computation ability 
+To determine the exact reality can be costly. Given a super computer, and a full understanding of the human brain and the physics of the earth it should be possible to determine by simulation, what could be the reality ;). But we dont have such resources. We have a finite sized brian, with finite computation ability. Our brain gathers information via our sensory organs such as eyes, skin etc., and forms its own map using Hueristics & Biases (H&Bs). These H&Bs are passed on and "improved" through evolution. To an extent they are hardwired into our system. Rather than making hard computations to get to know the actual territory, the brain uses simple design rules to form its map. For example, one of the H&Bs is called [social proof][social_proof].
+
+> Social proof is the phenomenon where people assume actions of others in an attempt to reflect correct behaviour for a given    situation. This is especially observed in ambiguous social situations where people are unable to decide appropriate mode of behavior, and is driven by the assumption that surrounding people posses more knowledge about the situation.
+ -[Wikipedia][social_proof]
+
+Popular temples, football stadiums, music concerts, sitcoms with laughter tracks, and political rallies are some sites where we can observe social proof. When several thousand people do an activity, we seem to believe that the activity is something we should be doing as well. In India bursting crackers is a big deal on the day of Diwali. Somehow bursting crackers the very next day or a week later, does not seem to create the same enthusiasm as on the day of Diwali. Social proof starts to work based on the assumption that the people surrounding you should be Correct. The action in the end needn't be Correct. It is easy to imagine that the pollution as a result of bursting crackers can be harmful to people and dogs, say in the long run. But you know who cares to investigate it. Social proof shall prevail over irrespective of Right or Wrong?
+
+#### **Potential issues with a faulty Map**
+
+Brains are flawed by making such decisions. We should realize that and work towards improving our map to match the territory as much as possible say for example, by overcoming the bias. Trump thinks that global warming is a hoax perpetrated by China, when 97% of the climate scientists have reason to believe we are super fucked already. His map, it appears, would reflect nothing close to reality. His decisions hence can be brutal to the country. He can speed up global warming and when its effects completely materialize we might be mightyly unprepared resulting in the loss of many lives. Why would you want to live in a dream land far away from reality, when the laws of reality will eventually prevail and fuck you up. We want to be as close as possible to the reality.
+
+Wars are going on. Innocent people are getting fucked. Animal cruelty is at an all time high. Global warming is happening. Super high pollution levels. We don't know if we have sustainable lifestyles. Are all these problems going to take care of themselves? Should we believe that someone else will take care of it? But Why? Maybe they are waiting for you to take care of it? You seem to be not too worried about it. Your actions - which are a result of your Map - seem to be focusing on first world problems like your lack of cooldom and your inability to get girls. To say the least it appears that the Map is wrong or atleast needs recalibration.
+
+#### **Its Urgent**
+There is a need to act on it today. I have only about 4 more years to pick up new skills, with each skill demanding 10k hours. I need to understand the type of career moves I need to make so that I am able to maximize my impact on this world and act on it. I need to collect more information on the Territory and make my decisions based on the Territory. Everything is going to take time and I better use all the time I have now to first understand what I need to do and then do it.
+
 #### **Now what**
 
 > “Understanding is the first step to acceptance, and only with acceptance can there be recovery.” –Illaythalabathy Albus Dumbledore.
 
-Yes I understand that I am a potential fuck up. But where do I start? what do I do? How do I know that I am improving, 
+Right! In order to make the right decisions, our current map seems insufficient. Accepted! At this point it seems that earning as much money and planning to learn skills that will be essential seem to be the number one things, if the profecy(explained in another post) is true.
 
-So first know what you need to do: At this point it seems that earning as much money and planning to learn skills htat will be essntial seem to be th enumber one things, if the profecy is true. 
-
-Next you are not going to be able to do it in the light of H&B: H&B are constantly going to make you feel like a loser. You suck with girls, you have no social life, no stories to tell, you dont travel. It matter according to the Map you have. But is it the reality, Do we want to be close to the rality or what?
-
-How  do I find the mathivanan to stay strong, write, think, do in the direction that is needed.
-
-Like every action we do and we slowly become that. For example, A person was saying that he wanted to be rational, i.e., make the decisions that he knows are right, but he is not able to . how do you get there, start making the decisions, and to quote from chandramukhi
->"Ganga chandramukhi ah ninna, chandramukhi ah maarina"
-
-#pnn
-
-Some decisions
-I didnt see the match
-I didn;t take the first house or should be able to say decisively regarding th eother house
+Next I am not going to be able to do it in the light of H&Bs: H&Bs are constantly going to make you feel like a loser. You suck with girls, you have no social life, no stories to tell, you don't travel. I dont feel like writing in the week and spend a lot of time on FB and Youtube. In an attempt to speeden the truth finding task, I begin with making two more posts of 1000 words each by the end of tomorrow. Of course, we measure by the ends and not the means. Its not about how many posts you write, but say the number of arguments clearly explained?
 
 
-Now that we know that we are
-What are you going to change?
-How are you going to change?
-What now? Seriously What the fuck now?
-
-
+[social_proof]:https://en.wikipedia.org/wiki/Social_proof
+[martin_seligman_ted]: https://www.youtube.com/watch?v=flqx4zjLljI
