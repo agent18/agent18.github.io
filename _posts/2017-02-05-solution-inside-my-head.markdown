@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  "Solution inside your head"
+title:  "Solution inside your head (reboot)"
 date:   2017-02-05 15:56
 categories:
 permalink: /:title.html
@@ -61,7 +61,7 @@ It appears that there is a solution inside your head. You always seem to use the
 P.S
 Struggled like hell with this essay! Even though it was beautifully uncovered in this [blog][stm]. Used a lot of content from that post. 
 
-And Yes I didn't deliver on two posts! Sorry bou dah! 
+And Yes I didn't deliver the two posts! Sorry bou dah! 
 
 ---
 
