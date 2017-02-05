@@ -207,6 +207,11 @@ Of course exercise caution while attempting the principles, avoid going full ret
 #### **Conclusion**
 I believe I have come a long way with the RSI, KP, and BP. I feel like I am young again. Today, I skipped every alternate step in the stairs from the third floor, just like when I was a kid. As I speak of it, I realize a growing pain in my knee, I wonder if thats real? I am not too worried about it. And two days later I continue writing this paragraph, "what pain?", I asked!
 
+#### **Update**
+5/02/2017 
+I have been sitting for about an hour eating and watching youtube. I come back and plan that I am going to write
+Baam NP in a few minutes!
+
 #### **0ther links and success stories**
 [http://aaroniba.net/articles/tmp/how-i-cured-my-rsi-pain.html][aaroniba]
 [http://pradeep90.github.io/Curing-RSI.html][stm]
