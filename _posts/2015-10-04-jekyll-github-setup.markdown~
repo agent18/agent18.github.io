@@ -75,6 +75,7 @@ We have now created the repository online and synced with my-awesome-site locall
 
 #### **From now on!**
 Go to \_posts folder in my-awesome-site. Look at the basic post and emulate future posts. Look around and the one thing that helps is to go through the [jekyll docs][jekyll_usage] as and when required, but patiently. Spend some time and make the changes you want to the site. From now on the work flow will be as follows: 
+
 	$ git add -A
 	$ git commit # dialog window opens to receive info on the commit
 	$ git push 
