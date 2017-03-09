@@ -1,0 +1,26 @@
+---
+layout: post
+comments: true
+title:  "What do you want in a house"
+date:   2017-02-15 22:12
+categories: The Beginning
+permalink: /:title.html
+---
+
+#### The solemn oath
+
+We will distinguish reality from fakity by one thing and one thing only impact.
+
+
+#### Problem statement
+
+I have a big decision to make almost as if tomorrow, and I want to make a well thoughtout decision.
+
+What do I need in a house?
+I need peace1
+
+
+
+
+What don't I like in this house?
+
