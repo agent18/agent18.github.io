@@ -212,6 +212,9 @@ I believe I have come a long way with the RSI, KP, and BP. I feel like I am youn
 I have been sitting for about an hour eating and watching youtube. I come back and plan that I am going to write
 Baam NP in a few minutes!
 
+11/02/2017
+Wanted to finish a few things at work and realised it might take more time than expected, got a little stresses, and guess who showed up! Hand pain! Wow, I was clicking like a bitch the entire day, only using my right hand to go through catalogues to select components, and placing things on powerpoints. For a second I got worried, then I told my self , "I reapeat again, we have more important things to deal with, please go away, dont stop me". I continued to work with the same fervor. I can't remmeber when it vanished, but I can tell that after that instant I didnt think of it again. Poof! Gone!
+
 #### **0ther links and success stories**
 [http://aaroniba.net/articles/tmp/how-i-cured-my-rsi-pain.html][aaroniba]
 [http://pradeep90.github.io/Curing-RSI.html][stm]

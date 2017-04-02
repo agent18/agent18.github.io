@@ -215,6 +215,12 @@ Baam NP in a few minutes!
 11/02/2017
 Wanted to finish a few things at work and realised it might take more time than expected, got a little stresses, and guess who showed up! Hand pain! Wow, I was clicking like a bitch the entire day, only using my right hand to go through catalogues to select components, and placing things on powerpoints. For a second I got worried, then I told my self , "I reapeat again, we have more important things to deal with, please go away, dont stop me". I continued to work with the same fervor. I can't remmeber when it vanished, but I can tell that after that instant I didnt think of it again. Poof! Gone!
 
+xx/xx/2017	
+In between these two dates tried squats without weights but kept hands close to the body. Afraid I am doing it wrong though. Felt pain during work out, got afraid and then continued to do it the next time. Volla pandian. I still need to check the posture once again.
+
+19/03/2017
+One week back on a saturday, played football 2 hrs straight on a concrete surface. Ran like a motherfucker. Wow. The feeling. Count't walk the next few days due to severe soreness, minute bp after a day. For the first time in ~2 years I really did an intense session where I had used some of the muscles much more than they were capable of. 
+Inner thigh Muscle still sore. Played for .5 hrs to 1 hr yesterday. Limping and still playing. Lack of mobility owing to sore muscles. No knee pain. Inner thigh muscles need focus. BP, KP, RSI alles Gut! 
 #### **0ther links and success stories**
 [http://aaroniba.net/articles/tmp/how-i-cured-my-rsi-pain.html][aaroniba]
 [http://pradeep90.github.io/Curing-RSI.html][stm]
