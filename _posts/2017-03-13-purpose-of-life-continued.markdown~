@@ -67,5 +67,5 @@ I would like to make a point that i was writing this essay, which I knew was a d
 
 [witpol]:/What-is-the-purpose-of-life.html
 [simh]:/solution-inside-my-head.html
-[c4] : https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FChannel4News%2Fvideos%2F10154643419306939%2F&show_text=1&width=560
+[c4]: https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FChannel4News%2Fvideos%2F10154643419306939%2F&show_text=1&width=560
 [aj+]:https://www.facebook.com/ajplusenglish/videos/931325910342250/
