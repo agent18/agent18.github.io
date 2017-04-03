@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title:  "What is the purpose of life (2)"
-date:   2017-02-15 22:12
+date:   2017-03-01 22:12
 categories: The Beginning
 permalink: /:title.html
 ---
@@ -58,11 +58,13 @@ P.S
 > More than 20 million people are facing starvation and famine across four countries in what the UN heard described as the largest humanitarian crisis in more than 70 years.    
 - [Channel 4 news] March 11 2017
 
-> we need 4.4 billion $ to save the life's of people in Yemen and some other countries
+> We need 4.4 billion $ to save the life's of 20 million people in Yemen, South Sudan and Nigeria who are starving.
 - [AJ+] few days back!
 
 I would like to make a point that i was writing this essay, which I knew was a dead end. And suddenly, out of nowhere, it hit me, one of the major points IMHO, that will guide me towards my true and ultimate value system - H&B's. Fuck I remember being stuck at this very point a year back. 
+
 ---
+
 [witpol]:/What-is-the-purpose-of-life.html
 [simh]:/solution-inside-my-head.html
 [c4] : https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FChannel4News%2Fvideos%2F10154643419306939%2F&show_text=1&width=560
