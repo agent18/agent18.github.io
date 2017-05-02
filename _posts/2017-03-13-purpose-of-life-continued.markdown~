@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title:  "What is the purpose of life (2)"
-date:   2017-03-01 22:12
+date:   2017-03-13 22:12
 categories: The Beginning
 permalink: /:title.html
 ---

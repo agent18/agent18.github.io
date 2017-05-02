@@ -59,7 +59,7 @@ P.S
 - [Channel 4 news] March 11 2017
 
 > We need 4.4 billion $ to save the life's of 20 million people in Yemen, South Sudan and Nigeria who are starving.
-- [AJ+] few days back!
+- [AJ+][aj+] few days back!
 
 I would like to make a point that i was writing this essay, which I knew was a dead end. And suddenly, out of nowhere, it hit me, one of the major points IMHO, that will guide me towards my true and ultimate value system - H&B's. Fuck I remember being stuck at this very point a year back. 
 

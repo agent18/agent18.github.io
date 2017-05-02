@@ -1,0 +1,31 @@
+---
+layout: post
+comments: true
+title:  "      "
+date:   2017-02-15 22:12
+categories: The Beginning
+permalink: /:title.html
+---
+
+Last week I did the 300 word experiment where I wrote 300 wrods a day, but then I have not done much after. I didnt plan another pact with a friend for 30 eurso. I just went with the flow
+
+Last two days including today I find that I spend time as much as possible watching youtube. Recently I am trying to write a hard essay, and I find the need to procrastinate even more.  Just like in those 600 word a day post essays. 
+
+At this point I am just writing some 300 words. I am like what is the point. no seriously what is the point! 
+
+
+I find that when I am at home it is harder to write, I dont really write. Uesualy I think Vishwesh house helps. as he works and I work as well.
+
+Last sunday I decided I am going to not have messenger on my phone. I still end up spending around 3 hrs on the phone everyday. Facebook I guess was not really the problem.
+
+I think this is too wague and broad. I need something that will make me write and also make write well. I need to spend long times on writeing and withou being distracted. How does 4 to 6 sound?
+
+Anyways tomorrow will write the post on availability and plan one for the next day as well. in the  realm of hpmor or stm essay collection.
+
+The writing of this essay is itself a joke. Of course I am greatly maximising the number of words. 
+
+How about making a couple of posts compulsory and also making some time to get off of the phone when I am back home? or go to a fucking library. No more excuses.
+
+
+Also clean up your fucking blog!
+
