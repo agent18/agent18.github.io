@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title:  "      "
-date:   2017-04-21 22:12
+date:   
 categories: The Beginning
 permalink: /:title.html
 ---
