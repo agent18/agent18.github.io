@@ -1,0 +1,77 @@
+---
+layout: post
+comments: true
+title:  "To be or not to be FROZEN (2) - Breaking things down "
+date:   2017-05-20 22:19
+categories: The Beginning
+permalink: /:title.html
+---
+
+#### Prelude
+In [this post][break-cryonics-down] blog post, Robin Hanson explains something interesting about probabilities. I try to explain his points as they seem to make sense to me. I will not at the beginning of each sentence say, "Robin said in his post that", instead I'll make it my narrative. But for all practical reasons, please assume if they are good that it was Robins point. 
+
+#### Cryonics
+
+There seem to be two sides of the coin. Some [people][get-frozen] whom an STM respects for their rational ability, vouch for cryonics. But there are also other articles that say this is a [scam][cryonics_scam]. Beware [this scam article][cryonics_scam] is a heavily biased article against cryonics, I will explain in this series more about it.
+
+How in gods name do you make the decision on which side to take. Is it a good idea to just go on by what STM respects? Possibly, because I cannot at this moment be wiser, than them who breath rationality every day and make changes in their lives to reflect what needs to be done. But... I will go ahead and look at their reasoning. Not everything we need in life is available from these people. This is Decision making one o one. Could be a great learning. Could help convince people. It could very well be a scam. ;)
+
+In summary, there are two contradicting positions that one can take regarding cryonics. Both give points, but how do you evaluate them. It's easy to compare numbers 3 and 4. It's easy to see that 3 is lesser than 4. So what now!
+
+#### Break things down
+
+When you receive a bill from the doctor after an expensive surgery, you don't see just how much it costs in total. You don't see just one number. Instead you see a list of things along with their associated costs, and then a total. Although the end result is what we use to pay the hospital, it gives us an understanding of what they've charged you where. You can probably question the authorities, if things are not right. 
+
+When you are paying someone for the damages you caused him, you receive a bill from him clearly stating what costs are about to happen. If he just gives you a number, its going to be hard to know where he is claiming what. This info could help us cross check say with another company. Similarly for divorce cases, we are expected to quote prices component wise an not one single full amount.  In other words, we want a *breakdown of the costs*. It could also be worthwhile to ask for a breakdown of expenses to your son, for whose education you are paying. ;)
+
+> The essence of analysis is to "break it down", to take apart vague wholes into clearer parts.  For the same reasons we make point lists to help us make tough job decisions, or ask people who sue for damages to name an amount and break it into components, we should try to break down these important social claims via simple calculations.  And the absence of attempts at this is a sad commentary on something.    
+-[Robin Hanson][break-cryonics-down].
+
+Imagine someone telling you that the time to travel to work is faster by flight than bus. And you say it is by bus. You break it down for him, into smaller simple addable splits, such as time of travel in the bus/flight, wait time and so on. And he just refuses to break it down into component estimates and just insisted on the confidence in their total difference estimates.
+ 
+> Such silent disputants reject our most powerful tool for resolving disagreements: analysis – breaking vaguer wholes into clearer parts.   
+-[Robin Hanson][break-cryonics-down]
+
+People can blatantly say cryonics is bullshit. They can give a few statements and walk away. They can be fixed in their head that cryonics is bullshit. We want to make an independent decision, based on reasonable numbers. Those empty words of confidence don't help us make decisions. We cannot be swayed by it. But something else might.
+
+As with cryonics it is a matter of the future, it seems more reasonable to use probability based on our history and the problems we have solved in the past. With cryonics, the technology does not exist, _yet_.
+
+#### Probability
+
+> Assume you die soon in a way a cryonics org can freeze you with its usual quality.  (If not, you don't have to pay for freezing.)  Regarding the year 2090, consider the conditional probability of each of the following steps, given the previous steps:    
+1) Civilization still exists and has kept growing in technical capability.   
+2) Your cryonics org and it successors have kept you continuously frozen.   
+3) Someone is willing and allowed to pay modest costs to revive you.   
+4) Brain science has workable input/output models of relevant brain cell types.   
+5) Usual freezing quality preserved relevant model-needed details.   
+6) Cheap scanning tech slices & 2D scans brains at model-needed spatial, chem resolution.   
+7) Error correction codes reconstruct most connections across slices, fractures.   
+8) Cheap computers can real-time sim entire scanned sets of connected cells.    
+9) Sim life seems worth living enough that they don't prefer suicide.   
+10) Such sims of you are as worthy as your kid of your identifying with them.   
+
+Even if there is a chance of 80% for everything except step 4 with 50% chance we still get to 6% chance of cryonics working for you in the end.
+
+#### P.Ss
+
+Please read [the article][break-cryonics-down] by Robin Hanson. He's ridiculously articulate and hits you perfectly with his English.
+
+#### Open Issues
+
+- Cost of being frozen and cost of additional life years.
+
+- Probability 20 years back
+
+- The cost to keep your body frozen vs other things you can do?
+
+- Criticisms:  What to do after waking up from cryosleep
+
+
+[break-cryonics-down]:http://www.overcomingbias.com/2009/03/break-cryonics-down.html
+[Normal-cryonics]:http://lesswrong.com/lw/1mc/normal_cryonics/
+[get-frozen]:http://www.overcomingbias.com/2008/12/we-agree-get-froze.html
+[cryonics-wiki]:https://wiki.lesswrong.com/wiki/Cryonics
+[alcor-faq]:http://www.alcor.org/FAQs/faq01.html
+[conan]:http://youtu.be/PF7NpKG_S8g
+[quora_elon]:https://www.quora.com/Will-Elon-Musk-do-a-Walt-Disney-and-freeze-himself-when-he-dies
+[cryonics_scam]:http://www.medicalbag.com/grey-matter/cryonics-science-or-scam/article/472333/
