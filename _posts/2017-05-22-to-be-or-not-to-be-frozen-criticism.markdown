@@ -10,7 +10,7 @@ permalink: /:title.html
 
 In the [first post][tb-intro] on the _'to be or not to be - Frozen'_ series I wrote about my first impressions on why one might need to get into cryonics. In the [next post][tb-break] we deal with why it is important to break things down to make a better estimate. In the [post following that][prolty] we discuss using probability the relation between what cryonics costs us now as compared to the "value" of a life year. 
 
-There are a lot of criticisms. Today my goal is to list them and explain a little about them. My primary goal being to be aware of the criticisms regarding cryonics. 
+We look at some criticisms and update our overall
 
 Criticisms are got from various sources such as from [Robin Hanson's][break-cryonics-down] post's comments, articles I find on quora and so on.
 
