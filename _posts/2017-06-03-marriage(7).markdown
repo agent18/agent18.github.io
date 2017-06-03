@@ -1,0 +1,52 @@
+---
+layout: post
+comments: true
+title:  "Marriage - Looking back at assumptions(7)"
+date: 03-06-2017 19:56
+categories: The Beginning
+permalink: /:title.html
+---
+
+#### Reviewing the assumption
+
+I had a look at reddit to see if what we saw in the ["don't marry"][don't_marry] appeared here as well. Seems odd. I see a complete different narrative. Of course people are offering their opinion on why, not many men hate marriage. But besides that I rarely saw comments saying that "men hate their marriages", "Wifes are bitches, they change" and so on. I tried all sorts of key words. But I don't see the guys complaining/warning as they did in ["don't marry"][don't_marry]. I guess I have not come across a neutral article, which asks if people have good / bad marriages. I would have more confidence in such a result.
+
+#### A search 
+["Married people of Reddit: Is marriage as bad as everyone says it is?"][reddit_marr_men] from two years ago: People in the thread were giving opinions, instead of OK/NOK answers with specific examples if NOK. For example, one person said, "Yes, but only if you do not choose wisely. If you do choose wisely it is the best decision you will ever make". This is a useless comment. For some it worked out, for some not. Overall only 35 comments including replies, and not useful.
+
+["Why men hate the idea of marriage so much?"][reddit_marr_men_2] from one year ago: Couple of people expressing their wish to not marry. Around 30 comments. 
+
+["Married Men – Post Here If You Hate Your Life. Tell the world, what is it like in your marriage?"[reddit_marr_men_3]] from two years ago: Ok finally something serious. The usual that we saw in ["don't marry"][don't_marry]. In all 31 comments. Not good enough.
+
+Why?
+#### Thoughts
+
+The thread ["don't marry"][don't_marry] says, "If you hate your marriage, please comment here". 
+
+Hypothesis: People who hate marriage are more likely to whine on posts about marriage, than people who like marriage.
+
+What if this hypothesis is true. And maybe the way this thread ["don't marry"][don't_marry] is named, attracts only people who outright hate their marriages. What are the chances that a happily married man lands on such a site. Why would such a site even land up on a happyly-married guys search list.
+
+Remember the quote a few articles back in [my blog post][marr_thej] :
+> A statistical impossibility for ALL the men in this thread to have married the “wrong woman”.
+-someone in the thread
+
+This is where I think the problem is. From this above quote my confidence that a marriage would suck skyrocketed. But I am not sure anymore that this would be true.
+
+It appears to me more and more that the thread ["don't marry"][don't_marry], or any thread for that matter, can only tell me how women make life miserable. But the statistic that there is ~50% divorce rate tells me very clearly that marriages "work" only half of the times in developed countries like Netherlands and US. 
+
+The fact that I tried to use the article to come up with a confidence level and a probability seems outright wrong, without further investigation.
+
+[sex_stats]:http://healthresearchfunding.org/sexless-marriage-statistics/
+[don't_marry]:https://dontmarry.wordpress.com/
+[cryonics]:http://www.overcomingbias.com/2009/03/break-cryonics-down.html
+[not_working]:http://mgtow.proboards.com/index.cgi?board=general&action=display&thread=415&page=1
+[nl_mar_age]:http://www.iamexpat.nl/read-and-discuss/expat-page/news/the-dutch-getting-married-later-and-less-often
+[daily_mail]:http://www.dailymail.co.uk/femail/article-3536424/How-times-week-REALLY-having-sex.html
+[every_day]:https://www.everydayfamily.com/how-often-do-normal-couples-have-sex/
+[wiki_divorce]:https://en.wikipedia.org/wiki/Divorce_demography
+[scooby]:http://scoobysworkshop.com/bodybuilding-nutrition-made-simple/
+[reddit_marr_men]:https://www.reddit.com/r/AskReddit/comments/31wlwy/serious_married_people_of_reddit_is_marriage_as/
+[reddit_marr_men_2]:https://www.reddit.com/r/AskReddit/comments/473szp/why_men_hate_the_idea_of_marriage_so_much/
+[reddit_marr_men_3]:https://www.reddit.com/r/AskReddit/comments/2ftvmj/married_men_post_here_if_you_hate_your_life_tell/
+[marr_thej]:/marriage(2).html
