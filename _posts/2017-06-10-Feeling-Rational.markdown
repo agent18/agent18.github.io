@@ -60,6 +60,7 @@ Here models of reality can mean the Map, i.e, your belief. If your map says that
 
 Such sadness on waking, is a result of a rational action. And hence the emotion is rational?
 
+
 [ele_wiki]:http://rationalwiki.org/wiki/Eliezer_Yudkowsky
 [ele_start]:https://wiki.lesswrong.com/wiki/Sequences
 [ele_book]:https://wiki.lesswrong.com/wiki/Sequences#Rationality:_From_AI_to_Zombies

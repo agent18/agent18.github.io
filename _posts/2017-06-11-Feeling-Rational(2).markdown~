@@ -1,0 +1,43 @@
+---
+layout: post
+comments: true
+title:  "Feeling Rational - Definitions (2)"
+date:    11-06-2017 21:23
+categories: The Beginning
+permalink: /:title.html
+---
+> Tho kaise hey aap log    
+-carrymanati 
+
+Yesterday I was trying to understand what [Eliezer][ele_wiki] was trying say in his article, ["Feeling Rational"][tj_feeling]. I didn't get far with it, so I am continuing decoding the article.  
+
+#### Feeling Rational 
+>So is rationality orthogonal to feeling?  No; our emotions arise from our models of reality. If I believe that my dead brother has been discovered alive, I will be happy; if I wake up and realize it was a dream, I will be sad.  P. C. Hodgell said:  "That which can be destroyed by the truth should be."  My dreaming self's happiness was opposed by truth.  My sadness on waking is rational; there is no truth which destroys it.
+
+What the fuck does he mean by models of reality?
+ 
+I think plants grow as a result of photosynthesis. I think, if I jump off a cliff, I will fucking fall down due to gravity. These are all beliefs. My brother is alive is a belief. So it appears to me that possibly 'models of reality' means belief. 
+
+It appears that emotions arise from our beliefs. When we are confronted by the truth against our belief, we should update our Map. This is nothing but [rationality][tj_feeling]. When my dreaming self's happiness is opposed by the truth, I update my map. I feel sad as a result of my map updating to the truth. My emotion is as a result of my belief being shattered. 
+
+>My sadness on waking is rational; there is no truth which destroys it. 
+
+My sadness on waking seems to be a result of rationality. But what does it mean to say, "My sadness on waking is rational, there is no truth which destroys it.
+
+#### Counter example
+It is my belief that women will make my life 10x better. When I don't get women I am sad, When I get them I am happy. Emotions arise from my belief that women will make my life 10x better. What is rational about this emotion? I didn't update any belief.
+
+I don't don't see or understand what it means to say that emotions are rational.
+
+P.S
+This is more than mind boggling. Fuck its a simple few sentences, but yet, I cannot understand it. It feels like I am puzzling out the intended meanings of words. So fucking hard. This sucks, that it comes from Eliezer,
+
+
+[ele_wiki]:http://rationalwiki.org/wiki/Eliezer_Yudkowsky
+[ele_start]:https://wiki.lesswrong.com/wiki/Sequences
+[ele_book]:https://wiki.lesswrong.com/wiki/Sequences#Rationality:_From_AI_to_Zombies
+[ele_map]:https://wiki.lesswrong.com/wiki/Map_and_Territory
+[ele_what]:http://lesswrong.com/lw/31/what_do_we_mean_by_rationality/
+[ele_feeling]:http://lesswrong.com/lw/hp/feeling_rational/
+[tj_feeling]:/Feeling-Rational.html
+[mvt]:/Map-vs-territory.html
