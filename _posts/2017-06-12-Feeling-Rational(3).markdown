@@ -1,0 +1,53 @@
+---
+layout: post
+comments: true
+title:  "Feeling Rational - Pushing further (3)"
+date:    12-06-2017 20:10
+categories: The Beginning
+permalink: /:title.html
+---
+> Tho kaise hey aap log    
+-carrymanati 
+
+Yesterday I got frustrated with what [Eliezer][ele_wiki] was trying say in his article, ["Feeling Rational"][tj_feeling]. I am pushing through it today as well.
+
+#### Rationalists taboo
+
+>Rationality begins by asking how-the-world-is, but spreads virally to any other thought which depends on how we think the world is.  By talking about your beliefs about "how-the-world-is", I mean anything you believe is out there in reality, anything that either does or does not exist, any member of the class "things that can make other things happen".  If you believe that there is a goblin in your closet that ties your shoe's laces together, then this is a belief about how-the-world-is.  Your shoes are real—you can pick them up.  If there's something out there which can reach out and tie your shoelaces together, it must be real too, part of the vast web of causes and effects we call the "universe".
+
+When you start out in the path of updating based on evidence, you start out with asking how things work. For example, you ask 'what happens when we jump off a cliff?'. Apparently that is how we start, we start by asking questions on how the world actually is. But soon enough, once we are in, the idea/art of rationality spreads wildly to every single thought that we had all along related to how we think the world is? You catch on to the point that you have already some thoughts on this world, and that they fucking need to be updated.
+
+When Eliezer talks about 'beliefs about the working of the world', he means anything you believe to be the 'truth'. Anything, whether it exists or not, anything that is part of the class "things that can make other things happen". 
+
+If you believe that there is a goblin in your closet, tying your shoe's laces together, then this is a belief about how-the-world-is. Your shoes are real, i.e, you can pick them up, so the goblin must also be real. This is as a result of cause and effect. 
+
+So what? What is the connection of this with the next paragraph?
+
+>Feeling angry at the goblin who tied your shoelaces involves a state of mind that is not just about how-the-world-is.  Suppose that, as a Buddhist or a lobotomy patient or just a very phlegmatic person, finding your shoelaces tied together didn't make you angry.  This wouldn't affect what you expected to see in the world—you'd still expect to open up your closet and find your shoelaces tied together. Your anger or calm shouldn't affect your best guess here, because what happens in your closet does not depend on your emotional state of mind; though it may take some effort to think that clearly.
+
+Feeling angry at the goblin who tied your shoelaces involves a state of mind that is not just about understanding how-the-world-is. Whether you are calm or angry, the reality is not going to change. We cannot allow our emotions to affect our best guess.
+
+I get angry at something like people smoking around me. Whether I get angry or not, I should still expect to see people smoking around me. Whether I am angry at people smoking or not should not affect my best guess that they will continue to smoke. Is my anger clouding my view to see it? Worse, am I loosing sight of the bigger picture? But what is Elizer trying to say because of that? I guess he is only trying to say that emotional state of mind cannot change the reality. Don't we know that? Is he trying to ask us to not get angry?
+
+The very fact that I am angry to see someone smoke is informing me that I expect to see people not smoking. Once they smoke, I get angry, because I expect the smokers to do otherwise. Is this what he is talking about?
+
+>But the angry feeling is tangled up with a state of mind that is about how-the-world-is; you become angry because you think the goblin tied your shoelaces.  The criterion of rationality spreads virally, from the initial question of whether or not a goblin tied your shoelaces, to the resulting anger.
+
+The criterion of the art of updating ones belief based on evidence(?) moves, from the initial question of whether or not a goblin tied your shoelaces, to the resulting anger. 
+
+I guess Eliezer is saying that there is anger now and that's all is the focus and that probably once I am angry, I loose focus of the question at hand, i.e., how-the-world-works.
+
+What does criterion of rationality even mean?
+
+P.S
+
+This is very close to hopeless. I am not able to do this. I need help! STM bro, bless me!
+
+[ele_wiki]:http://rationalwiki.org/wiki/Eliezer_Yudkowsky
+[ele_start]:https://wiki.lesswrong.com/wiki/Sequences
+[ele_book]:https://wiki.lesswrong.com/wiki/Sequences#Rationality:_From_AI_to_Zombies
+[ele_map]:https://wiki.lesswrong.com/wiki/Map_and_Territory
+[ele_what]:http://lesswrong.com/lw/31/what_do_we_mean_by_rationality/
+[ele_feeling]:http://lesswrong.com/lw/hp/feeling_rational/
+[tj_feeling]:/Feeling-Rational.html
+[mvt]:/Map-vs-territory.html

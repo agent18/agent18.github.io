@@ -202,6 +202,7 @@ I would like to thank an STM, whose esteemed existance has helped me so much in 
 
 #### **Disclaimer**
 Of course exercise caution while attempting the principles, avoid going full retard. Upgrade slowly and good luck. It is possible the pain is not in your head alone, so exercise cautiously or get in touch with a doctor I guess.
+
 #### **Conclusion**
 I believe I have come a long way with the RSI, KP, and BP. I feel like I am young again. Today, I skipped every alternate step in the stairs from the third floor, just like when I was a kid. As I speak of it, I realize a growing pain in my knee, I wonder if thats real? I am not too worried about it. And two days later I continue writing this paragraph, "what pain?", I asked!
 
@@ -232,6 +233,23 @@ I think even on monday I got some pain in the knee while running, don't remember
 Happily scooby type squatting nowadays. 10 kg with ease, 8 reps, 3 sets. Planking with 10kg on the back. side planking with 12 kg. Pushing myself. Enjoying. 
 
 Alles gut! 
+
+12-06-2017
+
+Still play football like a mad ass, after which I can't move a lot every saturday. Last saturday I also fell down on my knee, luckily, I can still run, and do all my exercises. 
+
+Day before yesterday I started actual barbell squats, not sure if my posture is right. Doing it slowly and keeping back "straight" and leaning a lot for some reason.
+
+Notice that I feel a lot of stress in my back after doing squats with 12 kg. Need to look into more details of how to do it. Of course there is nothing wrong with me.
+
+Recently I also noticed some very weird uncomfortableness in my back at work, I don't give a fuck about it, but it is odd. It feels like old times ;). Sitting really low seems to be the most comfortable position. 
+
+Over the last few days, I found myself waking up with a wierd back pull for a few days, I don't seem to have it anymore.
+
+When I rest my ankle on my other foot, I sometimes see that the knee joints ache. I still run 20 minutes when I go to the gym, sometimes my knees slightly ache, push through it and can't remember feeling anything later.
+
+Doing a lot of powerpoint, clicking etc, no rsi.
+
 #### **0ther links and success stories**
 [http://aaroniba.net/articles/tmp/how-i-cured-my-rsi-pain.html][aaroniba]
 [http://pradeep90.github.io/Curing-RSI.html][stm]
