@@ -39,9 +39,13 @@ I guess Eliezer is saying that there is anger now and that's all is the focus an
 
 What does criterion of rationality even mean?
 
+>Becoming more rational—arriving at better estimates of how-the-world-is—can diminish feelings or intensify them. Sometimes we run away from strong feelings by denying the facts, by flinching away from the view of the world that gave rise to the powerful emotion.  If so, then as you study the skills of rationality and train yourself not to deny facts, your feelings will become stronger.
+
+I have nothing to add. I do not get what he is trying to say. I don't understand what he is talking about.
+
 P.S
 
-This is very close to hopeless. I am not able to do this. I need help! STM bro, bless me!
+This is hopeless. I am not able to do this. I need help! STM bro, bless me!
 
 [ele_wiki]:http://rationalwiki.org/wiki/Eliezer_Yudkowsky
 [ele_start]:https://wiki.lesswrong.com/wiki/Sequences
