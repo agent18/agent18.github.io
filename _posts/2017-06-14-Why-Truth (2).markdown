@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title:  " Why Truth "
-date: 13-06-2017 22:47
+date: 14-06-2017 22:47
 categories: The Beginning
 permalink: /:title.html
 ---
