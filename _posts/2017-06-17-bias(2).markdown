@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title:  "Bias (2)"
-date:  15-06-2017	22:34  
+date:  17-06-2017	20:00
 categories: The Beginning
 permalink: /:title.html
 ---
