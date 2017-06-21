@@ -36,10 +36,18 @@ In ancestral days there was little going on and very few people in a clan. The e
 
 As we saw earlier selective reporting affects availability bias. It is expected that with more severe selection, our availability bias is affected even more. 
 
+
+
+
 ### Open Issue
 How is it concluded by Eliezer that there is an availability bias at work, while talking about the 1979 study?
 
 Can we just show the middle finger to correlations that we think might not be causation related.
+
+Discussion on bill gates, what does he want to say with 
+>The objective frequency of Bill Gates is 0.00000000015, but you hear about him much more often.  Conversely, 19% of the planet lives on less than $1/day, and I doubt that one fifth of the blog posts you read are written by them.
+
+	
 
 [causation]:http://www.abs.gov.au/websitedbs/a3121120.nsf/home/statistical+language+-+correlation+and+causation
 [causation_hil]:https://www.fastcodesign.com/3030529/hilarious-graphs-prove-that-correlation-isnt-causation
