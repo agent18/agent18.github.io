@@ -1,0 +1,113 @@
+---
+layout: post
+comments: true
+title:  "Measuring Success with Deep thinking"
+date:    24-06-2016	13:20
+categories: The Beginning
+permalink: /:title.html
+---
+
+> Sometimes people deserve to have their faith rewarded
+Lucius Fox
+
+#### An assessment of the last 6 months
+
+Over the last 6 months, I had made some experiments, to get me to keep writing.
+
+I tried:
+
+1) writing by myself without any commitment, just by shear enthusiasm.
+
+I don't know if output was low, but I didn't write on several days of the week, because I was lazy. I averaged one post per week, hustling the fuck out only on the weekends.
+
+2) Writing 600 words a day, correcting it and publishing it.
+
+Somehow writing continuously was important to get more output and I decided to go for the kill. I decided to write 600 words of publishable content everyday. I planned it for one week. It was hopeless. Generating content was such a mega pain as I also had to research most of the times. Some of the posts were downright dirt. I spent much time on optimizing on what to write that would generate content that is publishable. I also spent time procrastinating much. In case I didn't make a post by the day, it cost me 5 euros.
+
+3) Then I tried writing 300 words a day for a week, No pressure
+
+This one was aimed at getting me to work everyday but in a much more relaxed setting. You don't want to hate writing right! I only had to write 300 words and it gave me ample time to research. This I tried it for a week or 2 and then ultimately fell back to my old ways of procrastinating as in the first case. Price per day was 5 euros during this phase.
+
+I suspect that lack of publishing, didn't give me a sense of closure or feeling of accomplishment. I guess I was implicitly measuring the number of posts I generated from this method and ti frankly stank.
+
+4) Then, 30 posts of 'readable quality' (no word limit), with one day/week break to do what ever the fuck I wanted.
+
+I think this one as a success for I wrote almost all days, continuously. For actual reasonable reasons sometime, I didn't make it 3 times only. Most importantly I liked this. I belive at the end of the day I was done with the post. Instead of cramming everything into one post, I did a series. Had enough time to research. How many ever words I wrote, the blog had to just simply deal with it.I feel happy about the progress from Thej who didn't write in x days, to thej who has a decent record now. This should just be the beginning. Price of post was 3 euros.
+
+Today is the last post of the series.
+
+#### Introduction
+
+During my religious times, I and my friends would focus on being in "Good company". That is to say that we hang out with other religious people, or listen to scriptures and the like. I guess the point was to focus only on 'God', and nothing else. Makes sense for someone who's ultimate goal is to be one with GOD, to maximize the time he spends learning and hearing about GOD. When rationality is so important to make the right decision and we observe that we hardly are, when it is the difference between night and day, when it can help you make the decisions no body else can, when thinking critically gets shit done, when writing clearly about things and doing the hard work is the only known way to make the 'right' decisions, shouldn't we keep ourselves in "Good company"?
+
+Ideas might seem clear in the head, but they pass the official test of being 'understood' only when you are able to explain it to someone either in person or via a post. It's often times clear to me, how much I suck, when I see instances of myself sucking while trying to explain a concept I thought I 'knew'. For example, I think there is a defined way in which I am using single courts, double courts and no courts. I guess I am trying to use double courts in the usual way as we use air-courts, i.e., when using a word sarcastically, questioning the actual intention of words. For example, earlier I used "Good Company". The courts was only to inform that there is nothing really good about it.  I also use double quotes while quoting someone. So now you ask me "why do I use single courts?". I use single courts when the meaning of a word is fuzzy and yet I let it pass. For example, in this paragraph I use the word 'understood', in single court, in the first sentence. This is because I don't fully explain what I mean by understood and I expect the reader to move on from it. Anyways, I guess now it is sort of clear why I use single or double courts. The words just didn't flow out of my head. It was a deliberate effort to explain something that clarified the thinking for me. I guess we can say that I had to 'clarify' my thinking, looking at the time it took to actually write this. 15 mins.
+
+Writing seems to clarify thought. Writing seems to be my 'good company'. When I write I think about rationality and such. When I don't I am on my own worried and thinking about 1st world problems.
+
+I have been writing for the last 6 months on and off. I was trying different experiments to see which one keeps me going on and on. But ultimately I think it was the fact that I hadn't gotten closer to my goal in 4 months that made me go for the 30 post challenge. During this time some of the metrics I use to measure my progress implicitly were number of posts written different periods, number of words written per post and the like. To prove the success of this experiment, to my friend who I arranged to pay 3 euros for lack of a post everyday (except fridays), "Look at what I have been doing from Jan to may (~15 posts in total) and May to jun(>15 posts)". It's been 6 months since I began my journey of writing for the last time. At the end of each essay, I look at the number of words I have written. Something around ~500 words/ post seems fine by me on a weekday, considering the time I spend on say researching for the article, followed by writing it up and then finally reading it and correcting it as necessary. All of the above suggested metrics seem absurd because...
+
+My friend came to me a couple of years back and said, measure not the means but the end. He explained further, that there is no reason to believe that your means will get you to the end. Example, measuring number of words to improve your rational ability is in no way proven to get you to the END.
+
+What would be great is to measure the end. God forbid, what is the end?
+
+#### What is the End?
+
+In my case, currently I would like to figure out what to do in life. In other words I would like to know the following:
+
+1) EA or not, else what?
+2) What should I do in life,
+	a) Continue design job @ 40k Euros per annum, with a savings of 12k euros per year!
+	b) Startup and earn in millions of Euros.
+	c) MBA at top university, ending with an annual savings of...
+	d) Finance job earning 130 k $ per annum in US, with an annual savings of...
+	e) programming job earning 130 k $ per annum, with an annual savings of...
+3) Grow as an action taking rational thinker
+
+#### Milestone
+
+Let's say the ultimate goal for us could be for example to clear the GATE exam by getting a particular score. Keeping this vision(END) in mind, we can have some milestones say through the month; along with a proper definition-of-done for each milestone to help us track our progress. For example, one milestone could be to 'Successfully finish the Structural dynamics topic' with a definition-of-done being that I should be able to solve all the previous years questions. In such a manner every subject can be 'finished'. This can then be followed by mock tests for the GATE and then improving on aspects where we lag to produce the sufficient score.
+
+So,
+
+	End: Crack GATE with a score of xx.xx
+	Milestone 1: Complete individual subjects with definition-of-done being to be capable of solving all the previous year questions.
+	Milestone 2: Solve mock papers and see how you fair. Improve where there are issues.
+
+	Based on the time we have until exam, and checking with a few seniors we can get a rough estimate for the plan.
+
+We know that we have to measure the end. In the above case, we try to do it in parts with the help of different milestones. We have numbers everywhere, so it is really easy to see where we are lagging and make up for it. But what about other not so concrete ENDS.
+
+I would like to know if I need to get into EA; if yes, then what should I be doing next. If this were at work, they would guess a tentative amount of hrs for the job (not binding). I would make and submit a document with my findings for review to a few people, and then they would approve of it or give corrections. In my case, making a document would mean to write a post  or a series of posts, describing the result. The job of review I hope to give it to my pal and near-co-conspirator AN STM. But how in gods name do I measure or know that I am making progress in this particular aspect? How will I know when I going to meet the milestone. I don't want to count the words/ posts or number of days worked. But I still want to know that I am putting in sufficient effort in the right direction.
+
+#### Numbers to the rescue?
+
+In ["Deep Thinking"][stm_deep], an STM had talked about Cal Newport and quoted one of his points. So for now I assume Cal Newport is a trust-able source to provide quality information.
+
+Cal Newport, in [this post][cal_deep] talks about 2 ways to measure success/progress
+	a) Milestones
+	b) Hours spent working deeply towards a milestone
+
+He says that he fluctuates between the two methods, as he sees fit. Cal says, when you are attempting to finish a proof, you can't really put a time on it. I mean you can say it will take a week, but it might need more time; months or even years. It's hard to predict.
+
+>It’s hard to predict. Tracking hours in this context ensures, _at the very least_, that these projects are getting a good share of my time, even if I can’t predict what will finish and when.
+
+Of course what is Deep-Thinking needs to be discussed in detail. But for now we take a simplistic definition, number of hrs clocked without distractions. I have heard an STM say in his posts I think, regarding counting hrs!
+
+However having only milestones has the effect of making you hustle to get work done. At my work, I think we hustle. We do exactly 40 hr weeks. Our team has milestones, and priorities are based around these milestones while planning work for colleagues. So milestone is the priority and resources are allocated around it. As Cal puts it, in this case there seems to be a certain predictability of the event. Of course if shit happens, we need to replan.
+
+In the case of answering my question: "To get into EA or not?", milestone would mean to obtain document for review with conclusions. It is basically like a proof. And my guess is it is not possible to put a time on it. But to ensure continuous progress and at the very least, regular work done with less procrastination, would it help to use Hours-spent-working-deeply-towards-a-milestone?
+
+I guess so, it is only a start. It's one of the clauses like, "A post needs to have atleast a 1000 words". A post takes its own time to come about. I can force it and finish it within a day, but I guess the quality suffers (like today?).
+
+One of the other suggested metrics by an STM was to measure the number of arguments explained. It could still be a viable option provided someone else is able to objectively measure it for me.
+
+#### The deal
+
+I will fill out the official details tomorrow. But for now, I guess I will be maximizing amount of Deep-Thinking hours or have a target per week. I will actively schedule my distractions to specific times.
+
+#### open issues
+
+What is deep thinking
+
+[stm_deep]:http://pradeep90.github.io/Deep-Thinking.html
+[Cal_deep]:http://calnewport.com/blog/2014/03/23/deep-habits-should-you-track-hours-or-milestones/
