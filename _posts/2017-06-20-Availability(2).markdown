@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  " Availability      "
+title:  " Availability  (2)    "
 date: 20-06-2017  21:00
 categories: The Beginning
 permalink: /:title.html
