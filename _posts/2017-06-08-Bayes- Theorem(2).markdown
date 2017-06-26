@@ -64,4 +64,4 @@ Why and where is Bayes theorem useful for us?
 
 
 [arbital_exp]:https://arbital.com/p/bayes_frequency_diagram/?l=55z
-[bayes_thej_1]:
+[bayes_thej_1]:/bias.html
