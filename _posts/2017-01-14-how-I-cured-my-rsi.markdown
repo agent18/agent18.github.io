@@ -254,6 +254,10 @@ Doing a lot of powerpoint, clicking etc, no rsi.
 
 Today I ran for 20 mins and did squats as part of my workout. I see pain in the back (bp). felt very uncomfortable sitting while working in the evening. Very conscious. Recently I heard that my bp can be caused by lack of vitamin D. Oops! I am quite worried about it.
 
+27-06-2017
+
+Did spartan workout last thursday. Did more pushups than before. Not running regularly. But playing basket ball and TT. Played on 25th both the sports and I think it gave me quite some stress in the back. I am alright now. I even went to the gym. Sticking to the don't care attitude. Ran for 20 mins on the treadmill like a bitch today. I had nech ache while writing todays post. I told myself to fuck off. Can't remember when it went, but it was gone. Guess what its back now, when I wrting about this again! :) 
+
 #### **0ther links and success stories**
 [http://aaroniba.net/articles/tmp/how-i-cured-my-rsi-pain.html][aaroniba]
 [http://pradeep90.github.io/Curing-RSI.html][stm]
