@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title:  "Hind-sight bias     "
-date:   26-06-2017	20:48
+date:   27-06-2017	20:48
 categories: The Beginning
 permalink: /:title.html
 ---
