@@ -6,12 +6,14 @@ date:    3-07-2017 19:07
 categories: The Beginning
 permalink: /:title.html
 ---
+
 Post discussion with an STM.
 
-##### Introduction
+#### **Introduction**
+
 Goal is to come to the best answer we can with the resources we have at hand.
 
-#### Example application of Bayes theorem
+#### **Example application of Bayes theorem**
 Let's say there is a system in front of you and you have no idea how to operate it, neither are there instructions, what would you do?
 You would give some inputs and see what outputs happen. Bayes theorem I am informed is a much better way to proceed with determining what needs to be done. Let us understand it with the following example:
 
@@ -21,7 +23,7 @@ Given the task of determining which world we are in currently, we are provided w
 
 The first coin is tossed. We get Heads. This means that we are not in worlds based on, TTT, for example. Immediately our confidence in HHH, HHT, HTH, HTT, goes up to 25% and the confidence in the other worlds pretty much goes to 0. Next we get another heads. Our confidence in HHH,HHT,THH goes up to 33.3% and the rest goes to 0. Next we get another heads, confidence on HHH reaches 100% and we have thus determined the world we live in by using the Bayes theorem.
 
-#### Determining our value system
+#### **Determining our value system**
 
 Currently we don't know our true value system (the actual reality). We have some ideas about what it can be, as a result of feelings and existing biases. Our current Value System needs an update as it currently has equal confidence on many hypotheses. There is a system in front of you and you have no idea how it works, neither are there instructions, what would you do? 
 
@@ -53,11 +55,11 @@ It appears to me that the author is also saying that we should use actual paymen
 
 For now I shall go past this. As this seems to be taking me away from the actual goal. I assume for now that the study is representative of the world.
 
-#### Hypothesis
+#### **Hypothesis #1**
 
 ~80$ is the mean amount anyone would pay whether they can save 2,000 , 20,000 or 200,000 birds. It appears that there is no relationship between the number of birds you save and WTP.
 
-1. Humans care for all birds, not just the first 2000. It's because of messed up brain that they don't see it.
+**Hypothesis:** Humans care for all birds, not just the first 2000. It's because of messed up brain that they don't see it.
 
 Looking at the observation it might appear that Humans wanted to save only 2000 birds. I think this is the wrong inference because, in all probability, a lesser number of birds (than 2000) might still have churned out the same mean 80$. An inference that the amount one pays has no or little relationship with the number of birds they will be saving seems right, as this type of scope neglect is observed in [many other cases][ele_scope]. 
 
@@ -81,7 +83,9 @@ In total we seem to have formed a couple of hypotheses.
 	2) We visualize based on our capability, something small (one bird in black oil struggling to get free), and make decisions based on that instead of shutting up and multiplying.
 	3) Evolutionary hardwiring prohibits us from visualizing large numbers. This somehow results in us using other things based on our capability to make decisions, instead of shutting up and multiplying. 
 
-1. Humans care for no birds, not just every bird after 2000. It's because of the messed up brain that they don't see it.
+#### **Hypothesis 2**
+
+**Hypothesis:** Humans care for no birds, not just every bird after 2000. It's because of the messed up brain that they don't see it.
 
 Why were they willing to pay 80$ to begin with, if they didn't care about it? Why were people emotionally stressed that birds were in pain in the first place?
 
@@ -113,16 +117,18 @@ In total we seem to have formed a couple of hypotheses.
 	2) I am fitting data to the hypothesis I want to win
 	3) I have always been a meat eater, Hence I don't give a shit about birds. They are tasty. Period!
 
-#### Open issues
+#### **Open issues**
 What is the number that we use to jump from side of the boat to the other? What if it is 50%.
 
 WTP or actual payment, which takes us to our Value system and why?
 
 Continue with other hypothesis...
 
+
 ---
 
 William H. Desvousges, F. Reed Johnson, Richard W. Dunford,Kevin J. Boyle, Sara P. Hudson, and K. Nicole Wilson, "Measuring Nonuse Damages Using Contingent Valuation: An Experimental Evaluation of Accuracy" 1992
+
 [wiki_scope]:https://en.wikipedia.org/wiki/Scope_neglect
 [th_purpose]:/purpose-of-life-continued.html
 [william_scope]:http://www.rti.org/sites/default/files/resources/bk-0001-1009_web.pdf
