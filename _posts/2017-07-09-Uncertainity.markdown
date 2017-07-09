@@ -1,0 +1,27 @@
+---
+layout: post
+comments: true
+title:  "Uncertainity"
+date:   09-07-2017 14:26
+categories: The Beginning
+permalink: /:title.html
+published: False
+---
+In [focus your uncertainity][ele_focus], Eliezer talks about a novice tv reporter who has to come up with excuses in advance for 3 scenarios, but he has limitedd time. How would you go about it, as this is not like school where in you have clear numbers to deal with.
+
+Eleizer doesn't really get into how to solve the problem with this essay.
+
+>Well written, but I guess we don't have many folk here who object to the concept of subjective probability   
+-[Robin Hanson in the comments][ele_focus]
+
+
+
+
+
+
+
+---
+
+[ele_focus]:http://lesswrong.com/lw/ia/focus_your_uncertainty/
+[ele_narrow]:http://lesswrong.com/lw/ic/the_virtue_of_narrowness/
+[ele_belief]:http://lesswrong.com/lw/i7/belief_as_attire/
