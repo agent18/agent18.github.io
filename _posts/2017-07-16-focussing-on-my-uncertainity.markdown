@@ -5,6 +5,7 @@ title:  "  Focussing on my uncertainity"
 date:    16-07-2017 17:32
 categories: The Beginning
 permalink: /:title.html
+published: False
 ---
 
 
