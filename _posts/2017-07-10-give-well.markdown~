@@ -1,0 +1,44 @@
+---
+layout: post
+comments: true
+title:  "   Give Well Netherlands   "
+date:    10-07-2017	22:47
+categories: The Beginning
+permalink: /:title.html
+published: False
+---
+
+[Give Well][give_well] seems to not be able to help in Netherlands with Tax-deductible transactions, but work with the help of Effective Altruism Foundation which is a non-profit that claims tax-deductible transactions for many countries, including Netherlands, Germany and switzerland.
+
+>German, Swiss, and Dutch donors can make a tax-deductible donation to the [Effective Altruism Foundation][EAF] for the support of GiveWell or one or more of our recommended charities.
+
+Once we click the donate page, we have options for visa, direct debit, and bank transfer. Went through the bank transfer with a fake address, to see the process, but I guess the system thought I made the donation. Need to clarify it I guess.
+
+[EAF][EAF] will send our information to [GiveWell][give_well].
+
+#### Tax-deductible
+
+>In Germany, Switzerland (see confirmation of tax exemption and deductibility list (Spendenliste)) and the Netherlands EAF itself is directly exempt from taxes.  
+-[EAF FAQ #5][EAF_faq_5]
+
+EAF will send the tax forms in the month of january.
+
+This [website][tax_expats], claims that as long as an institution is registered in the [ANBI database][ANBI_data], then it is tax-deductible. Checked the ANBI database. **Both MIRI and EAF are in the ANBI** 
+
+And Also:
+
+>Your donations are deductible if the total amount is at least 1% of your income. The maximum amount is 10% of your income. If you have a partner then both incomes are taken together. 
+
+
+**Need to verify the above**
+
+
+
+
+
+[ANBI_data]:https://www.belastingdienst.nl/rekenhulpen/anbi_zoeken/
+[EAF_faq_5]:https://ea-foundation.org/donate/faq/#5
+[tax_expats]:https://www.expatax.nl/taxtips
+[EAF]:https://ea-foundation.org/givewell/
+[give_well]:https://secure.givewell.org/
+[dutch_tax_ded]:https://www.belastingdienst.nl/rekenhulpen/anbi_zoeken/

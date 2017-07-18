@@ -6,7 +6,7 @@ layout: default
 
   <div style="display: flex; justify-content: center;">
 
-      <img src="/images/title.jpg" width="400" height="250"/>	
+      <img src="/images/title.jpg" width="600" height="375"/>	
 
   </div>
   <!--This is commneted for now! This is the counter that is present at the bottom!	
@@ -26,7 +26,7 @@ layout: default
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
+	{{ post.excerpt }}
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
