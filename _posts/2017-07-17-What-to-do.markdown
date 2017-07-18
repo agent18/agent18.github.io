@@ -5,7 +5,6 @@ title:  "Value system ?"
 date:    17-07-2017 19:06
 categories: The Beginning
 permalink: /:title.html
-published:False
 ---
 
 >This is why rationalists put such a heavy premium on the paradoxical-seeming claim that a belief is only really worthwhile if you could, in principle, be persuaded to believe otherwise.
