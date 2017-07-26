@@ -26,7 +26,7 @@ Well!
 #### Feelings and wants the connection
 We seem to have wants; Wants sucha as 'I want food', 'I want a girlfriend', 'I want a social life' etc. We want some wants more than the others, We choose one over the other based on the fact as to how we feel towards something. Based on the where we are, who we are around, time of day etc., we want some things more than others. Like for example, **NOW** I see there is a sick want to get girlfriends despite the fact that there are other things to do as there are so many millions of people suffering. But **if I am in a situation** where there is one person dying and I need to give up the only time I actually get laid in my life, well I guess I would. And **I am in such a situation now**, millions of people are dying, and I am busy thinking looking at facebook and youtube, when I am actively supposed to be generating money and pumping it for 
 
-How many people am I supposed to save? how much is the value of a human life to me? is absolutely unclear. Feelings give me some input but they appear to not scale well, they appear to be circular as seen above. Based on the way a a situation is looked at, it gives different answers. Below I would like to give examples of the following, that question the ability of feelings to help me realize what I want.
+How many people am I supposed to save? how much is the value of a human life to me? is absolutely unclear. Feelings give me some input but they appear to not scale well, they appear to be circular as seen above. Based on the way a situation is looked at, it gives different answers. Below I would like to give examples of the following, that question the ability of feelings to help me realize what I want.
 
 Now take this for example. 
 >Other recent research shows similar results. Two Israeli psychologists asked people to contribute to a costly life-saving treatment. They could offer that contribution to a group of eight sick children, or to an individual child selected from the group. The target amount needed to save the child (or children) was the same in both cases. Contributions to individual group members far outweighed the contributions to the entire group.
@@ -35,7 +35,7 @@ With this study almost everything is the same, its only the number of people nee
 
 As Eleizer puts it in his [blog][], how can it be that 1,312,433,101 happy children is significantly better than 1,312,433,100 happy children, but then somewhat worse to have 1,312,433,108 happy children?
 
-The contribution for the individual child far outweighed the contribution to the entire group. All children are the same to us. We don't know them, we just see the donation posting online. the individual child is theoretically the same to us as any other child from the group. Let's take the first child from the group. and compare him to the individual child. Both are theroitically supposed to be the same, i.e., be valued the same. But somehow, it appears that the outcome, i.e., money received per child is atleast 8 times smaller in the case of the group. What doesn't make sense is that the value of the every child in the group, was worth less to the contributors merely by the presense of some other children. As eleizer asks, how can the value of a child go down significantly, just because he is standing next to a few other people. 
+The contribution for the individual child far outweighed the contribution to the entire group. All children are the same to us. We don't know them, we just see the donation posting online. the individual child is theoretically the same to us as any other child from the group. Let's take the first child from the group and compare him to the individual child. Both are theoretically supposed to be the same, i.e., be valued the same. But somehow, it appears that the outcome, i.e., money received per child is atleast 8 times smaller in the case of the group. What doesn't make sense is that the value of the every child in the group, was worth less to the contributors merely by the presense of some other children. As eleizer asks, how can the value of a child go down significantly, just because he is standing next to a few other people. 
 
 If the individual child got X$ and the group also got X$ maybe someone can come and give some reason like people want to give their limited money to a cause and they gave X$ to any cause, irrespective of the number. But apparently the individual contributions far outweighed the contributions of the group, despite both groups having the same target amount.
 
@@ -43,6 +43,9 @@ Frankly I am not fully convinced of the point made by Eliezer based on this stud
 
 Well frankly there is no denying that something is terribly wrong when 1,312,433,101 happy children is significantly better than 1,312,433,100 happy children, but then somewhat worse to have 1,312,433,108 happy children. This statement seems to be the key. If someone says that thats how the eqution is written, I guess we can chuck that argument, because, the brain clearly doesn't understand large numbers. If you tell two groups that there are 100,00 people or 100,000,000 people respectively, both the groups would beleive it, as we have no way of imagining or differentiating between the two. i.e., we don't understand numbers of such a scale. We can't imagine the difference, other than that it is somehow "much larger". For the study, we are talking in billions and adding that with 8 or 1. Looking at all the hueristics and biases, the stupid decisions that people make, I think it would be really unwise to conclude that somehow 1,312,433,108 happy children are less worthy of having in this world as opposed to 1,312,433,101 happy children.
 
+I am tempted to say that it makes sense. I am tempted to say that we probably want to donate to a cause rather than what is in the cause. I want to say that we probably want to donate to only one thing and pretty much the same amount. This could be a hypothesis. Looking at it from an evolutionary stand point and considering the tribal stone age mentality, it appears that the analogous situation to this is saving 1 person from the tribe and saving 8 people from the tribe. Can't imagine why someone would help the only the induvidual as much and not help the group so much. 
+
+But Why is there such a value system? 
 An explanation that the emotional arousal
 
 In some places it is straight forward, that it is hard to make certain calculations, unless we can point numbers at them as sometimes we cant just make a decision. Will you save your mother or father? But lets say we are not faced with such situations everyday.: 
@@ -90,11 +93,11 @@ You see that your feelings are untrustable as they are giving you circular resul
 
 >the rule of logic which states that if a conditional statement (‘if p then q ’) is accepted, and the antecedent ( p ) holds, then the consequent ( q ) may be inferred.
 
-At this point yes I did start clubbing feelings and intuition together. " I feel that modes ponens is right". Everything seems to be ultimately a feeling or rather, something that makes me feel like something is right or wrong, something I should be doing.
+At this point yes I did start clubbing feelings and intuition together. " I feel that modes ponens is right". Everything seems to be ultimately a feeling or rather, something that makes me feel like something is right or wrong, something I should be doing on not.
 
-I can't start at questioning my very thought process right now. Then I am gone! Where will I even begin then. It's one thing that I have been avoiding all along. The one tool I would continue to use and question later. Maybe this is it. You have to use this faulty system, to repair the faulty system. This is how far you can get with this faulty system. you think with the faulty system as Eleizer says, else you become no different than a rock. When you remove all your feelings, you don't become an ideal philosopher, you just become a rock. When you are  empty as an ideal philosopher and reject everyfeeling you have, (which seems like the direction to go), where will you go...
+Often times I have thought of questioning my current thought process, but I refrained from it. I can't start at questioning my very thought process right now. Then I am gone! Where will I even begin then. It's one thing that I have been avoiding all along. The one tool I would continue to use and question only later is my current reasoning capability. Maybe this is it. You have to use this faulty system, to repair the faulty system. This is how far you can get with this faulty system. You think with the faulty system as Eleizer says, else you become no different than a rock. When you remove all your feelings, you don't become an ideal philosopher of perfect emptiness, you just become a rock. When you are  empty as an ideal philosopher and reject every feeling you have, (which seems like the direction to go), where will you go, what will you do?
 
-As Eleizer says in the [same post][]
+As Eleizer says in the [same post][], 
 
 >But what do you do anyway?
 
@@ -114,6 +117,30 @@ If you remove the feelings, there is no you. You just become a rock. If you full
 
 But how do you know what feelings are right?
 
+How do you know modus ponens is right?
+>"Intuition", as a term of art, is not a curse word when it comes to morality - there is nothing else to argue from.  Even modus ponens is an "intuition" in this sense - it's just that modus ponens still seems like a good idea after being formalized, reflected on, extrapolated out to see if it has sensible consequences, etcetera.
+
+> The snow is white if and only if the snow is white
+
+How do you know what feelings are right? 
+We take every intuition we have, reflect upon it, extrapolate to see if it has sensible consequences.
+
+Take the intuition wherein you want to save the life of a child who is dying right now, right next to you, who got run over by van. You very well know that you have to pay 10k right now and you won't get it back. But what I just said was hypothetical, whereas in real life, there are millions of children dying. Your intuition wanted to save the dying child now, so you should be atleast saving one child now although the emotional quotient is high?
+
+Well should I just ask my self from within, and get the answer that is best suited? So should I just question myself asking, why it makes a difference if the person is next to me or not. It's a helpless child, why am I calculating what I feel into the picture? when I want that child to be alive?
+
+My second intuition could be right and I have to extrapolate the intuition to the first...
+
+Well you feel too stongly against this?
+
+You also feel too strongly against going shopping should you?
+But its just shopping. how can you compare that with saving a life? 
+
+I still cant make sense of the reaonsing I am providing myself regarding this.. I need to define I feel like, something consistant and then go by it. not keep making excuses as they come up. Make the hypothesis before testing it?
+
+our brain has some shortcomings, it can't naturally multiply, it can't naturally compare different situations.
+
+
 
 #### What I am worried about
 
@@ -127,7 +154,7 @@ garding saving people is lets say X. and then I feel I want to conclude and this
 
 Eleizer says, bro, you don't stop looking for an answer once you think something is or feel something is. but then despite further reasoning, observation, rational thought, if it still appears to stay the same then ok!
 
-Lets do the first question we did now with the new reasonign abilbities we have gained?
+Lets do the first question we did now with the new reasoning abilities we have gained?
 
 
 Science can always look at Hueristics and biases are always there to probably tell you better. Better how?
