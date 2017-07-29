@@ -5,7 +5,7 @@ title:  "Why Value system ?"
 date:    19-07-2017 19:17
 categories: The Beginning
 permalink: /:title.html
-published: True
+published: False
 ---
 
 ## Why Value system ?
