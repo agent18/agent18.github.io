@@ -5,6 +5,7 @@ title:  "Uncertainity"
 date:   09-07-2017 14:26
 categories: The Beginning
 permalink: /:title.html
+published: False
 ---
 09-07-2017 14:26
 In [focus your uncertainity][ele_focus], Eliezer talks about a novice tv reporter who has to come up with excuses in advance for 3 scenarios, but he has limitedd time. How would you go about it, as this is not like school where in you have clear numbers to deal with.
