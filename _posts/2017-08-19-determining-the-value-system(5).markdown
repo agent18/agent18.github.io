@@ -7,13 +7,13 @@ categories: The Beginning
 permalink: /:title.html
 published: True
 ---
-#### Conclusion on feelings:
+#### **Conclusion on feelings:**
 
 Everything is a feeling. Feelings allow us to guess what our true value system might wan't us to do. Feelings are a result of heuristics and biases. Feelings are limited in their ability to reproduce reality. 
 
 We partially know where feelings are really bad at representing the value system, such as when feelings is expected to work with large numbers; or when the value is different for each scenario which has the same impact. For example, you see a person about to commit suicide, you hear about deaths of 100's of kids in Africa due to a simple lack of nets, you see a person is going to die if he does not have funding to support his health condition. The impact for all situations is that people are going to die, yet the feelings are not as strong in each of the cases to push us to action.
 
-#### Going round and round
+#### **Going round and round**
 
 I know am going round and round. I can't believe the number of times I have tried to iterate this. Here we go another time!
 
@@ -36,30 +36,30 @@ I, like many people tear up at the sight of pain. There are enough people in pai
 
 And so we started investigating how to determine the true value system. Which is it that the brain wants? Does it wan't us to go all the way, or does it want us not to go all the way? Whenever I say brain, whenever I say "my value system", I am talking about me and what I want, it appears.
 
-#### Tearing up vs not
+#### **Tearing up vs not**
 
 I read  this post on facebook on the page called [Humans of Bombay][hob], about an acid attack victim who got blind as a result, and still has a child to raise. Did I mention she is poor too, her father doing his best to take care of her. Just like several other people, I tear up like anything while reading the story. So much pain, so very well captured by the post. Just like several other people I did nothing. Although some nice people helped her fundraise to the extent needed, there are several other people just like her or even worse than here in condition who need this help too, and what about them? 
 
 >Not on Humans of Bombay, no right to fundraise
 
-[This man][holocast] saved 669 children during the holocast. He didn't tell his wife about it. 50 years later, she found out that he had a book where he kept account of all of this. A very sweet event was held for him and he was surprised by the entire audience being the kids he saved. He teared. I tore up and so did so many others who watched the video. It felt amazing to see that he was there for so many young innocent children. 
+[This man][holocaust] saved 669 children during the holocaust. He didn't tell his wife about it. 50 years later, she found out that he had a book where he kept account of all of this. A very sweet event was held for him and he was surprised by the entire audience being the kids he saved. He teared. I tore up and so did so many others who watched the video. It felt amazing to see that he was there for so many young innocent children. 
 
 An old man named [mohammed][fuck_me_2] adopts only terminally ill children and takes care of them. He knows they are going to die soon and need a lot of care that goes against money, sleep, time to have fun, etc... And yet, he continues to do that having lost 10 lives in his house. Read the article, the details, see the video, you will tear up AF.
 
 Some clash between people and the government in South Sudan, several people migrating from South Sudan and going to Uganda. 40,000 refuges are in malaria prone zone, there is lack of food, 10 children die a day, all these people walked for several weeks without food, flies mounting small young helpless children. Tore up the most, watching the [video][fuck_me].
 
-Just now when I think about the same sudan video, I don't tear up at all. As I think about mohammed who helps terminally ill children, I don't tear up at all. The same with the other examples. I know several million people are dying all around the fucking world. I don't tear up. So many incurable diseases, so much pain, so what?
+Just now when I think about the same Sudan video, I don't tear up at all. As I think about mohammed who helps terminally ill children, I don't tear up at all. The same with the other examples. I know several million people are dying all around the fucking world. I don't tear up. So many incurable diseases, so much pain, so what?
 
 Based on how the information of a dieing man reaches us, we have different intensities of emotions.
 
-#### Emotional stimulation
-When I get emotionally stimulated, I say to myself so many things. "This is what I want to do in life", "There are so many important things to focus on and yet I find myself thinking about some of the most silliest of social games played", "A life time wont be enough to solve these problems, and I have got to become a millionaire atleast", "Distance doesn't matter, your neighbouring village is burning like hell, and here you are thinking about leggings, ass and other shit". But I am not emotionally stimulated always, and I don't know if I can trust the emotional stimulation to be reflecting the true value system.
+#### **Emotional stimulation**
+When I get emotionally stimulated, I say to myself so many things. "This is what I want to do in life", "There are so many important things to focus on and yet I find myself thinking about some of the most silliest of social games played", "A life time wont be enough to solve these problems, and I have got to become a millionaire atleast", "Distance doesn't matter, your neighboring village is burning like hell, and here you are thinking about leggings, ass and other shit". But I am not emotionally stimulated always, and I don't know if I can trust the emotional stimulation to be reflecting the true value system.
 
 Earlier I seem to have pointed to 'situations having high emotional arousal', as the situations where we can gauge the true response of people. I didn't go into detail of it. But now... 
 
 Lets take an example for which the impact is stoppable death. So someone is about to die. They could die as a result of cancer or other deadly diseases, they could be committing suicide 3 miles away, they could die because someone is about to kill them and you are the only one around, or they could die out of starvation at an accessible location a few thousand miles away. In some cases I hear about deaths, in some cases I see videos, and in others I am present in the situation to act.
 
-All the situations have quite similar impacts.  The stoppable death of an unknown life. If the impact is the same in all cases, why is the emotional stimulation different. Heuristics and Biases, the way we attempt to see reality with, might be the reason. Visual stimulation creates a much higher emotional arousal than hearing about someone dying for example. When I see a baby is drowning, I am sure to take immediate action, but when I hear about 10 children dying in sudan every single day due to lack of basic amenities, I am like, "Well Okay."  I feel very strongly about the emotional arousal and subsequent response in the case of the drowning baby and as stated earlier is accepted to be beyond right. I look to my solution in my head to judge the last sentence and it passes with flying colors.
+All the situations have quite similar impacts.  The stoppable death of an unknown life. If the impact is the same in all cases, why is the emotional stimulation different. Heuristics and Biases, the way we attempt to see reality with, might be the reason. Visual stimulation creates a much higher emotional arousal than hearing about someone dying for example. When I see a baby is drowning, I am sure to take immediate action, but when I hear about 10 children dying in Sudan every single day due to lack of basic amenities, I am like, "Well Okay."  I feel very strongly about the emotional arousal and subsequent response in the case of the drowning baby and as stated earlier is accepted to be beyond right. I look to my solution in my head to judge the last sentence and it passes with flying colors.
 
 Whats *important* to us is a *drowning baby* for sure! A *drowning baby* creates high *emotional stimulation*. *High emotional stimulation* is also found in the many examples quoted in the *'Tearing up' section*. All these examples from the *'tearing up' section* & the *drowning baby* seem to be primarily *visually stimulated*. (When a human life is involved and we happen to see it in a video format or in plain sight, there seems to be high emotional stimulation, especially when we are able to observe their pain and there is no dearth of such things). 
 
@@ -69,17 +69,17 @@ Looking at the impact from these *Visually Stimulated* scenarios involving a lif
 
 There are a couple of aspects that need to be dealt with here on. Namely, what is the *action* we are expected to take, can we also extrapolate the action just like we extrapolate the *emotional stimulation*? What does it mean to us that the 'time of availability of emotional stimulation is for a small period', for a given scenario as observed in the *'tearing up' section*?
 
-#### Time of feeling
+#### **Time of feeling**
 
 I guess it is easy to imagine that the time of feeling is small owing to how our brain is. Heuristics work on availability, when other things are "available" it is easier for it to move on. I don't know why. Despite the fact that I cry for a minute, the next minute I am almost back to normal. It has short term emotional memory. I guess this part needs to be looked at a little more deeply and clearly. More on the next post.
 
-#### Action
+#### **Action**
 
 Having seen that we can extrapolate the importance of a life, from visually stimulated tasks, we ask ourselves, what about the action then?
 
-It is no doubt the action that needs to be taken is to save the baby from drowning. If there are 4 scenarios, that have different emotional responses owing to the fact that some are *visually stimulated* and some are not, and  with the same impact ; if the emotional response/ importance of the scenario can be assumed to be the same for all 4 scenarios, then why should the fucking aravind action be any different.
+It is no doubt the action that needs to be taken is to save the baby from drowning. If there are 4 scenarios, that have different emotional responses owing to the fact that some are *visually stimulated* and some are not, and  with the same impact ; if the emotional response/ importance of the scenario can be assumed to be the same for all 4 scenarios, then why should the action be any different?
 
-#### Partial Summary
+#### **Partial Summary**
 - Important to us = baby drowning
 - Baby drowning => high emotional stimulation
 - High Emotional stimulation also found as in the "Tearing up section"
@@ -109,4 +109,4 @@ It is no doubt the action that needs to be taken is to save the baby from drowni
 [fuck_me_2]:http://www.latimes.com/local/lanow/la-me-ln-foster-father-sick-children-2017-story.html
 [peter_famine]:https://www.utilitarian.net/singer/by/1972----.htm
 [hob]:https://www.facebook.com/humansofbombay/photos/a.188058468069805.1073741828.188056068070045/695438903998423/?type=3&theater
-[holocast]:https://www.youtube.com/watch?v=rQzqfsgftBo
+[holocaust]:https://www.youtube.com/watch?v=rQzqfsgftBo
