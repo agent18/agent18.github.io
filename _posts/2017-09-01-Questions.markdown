@@ -5,7 +5,7 @@ title:  "  Questions "
 date:    01-09-2017 20:12
 categories: The Beginning
 permalink: /:title.html
-published: False
+published: True
 ---
 
 #### Basics
@@ -23,7 +23,7 @@ published: False
 
 - Shouldn't everyone have the same values? Then Why do terrorists exist? When will Achilles be wrong
 
-- Achiles has same rule today and same rule yesterday, but then why didn't he realize it yesterday. 
+- Achiles has same rule today and same rule yesterdays, but then why didn't he realize it yesterday. 
 
 - Why should you look at the world in an ideal setting to determine what you want?
 
@@ -49,7 +49,7 @@ published: False
 
 - What do you mean with 'one does not understand numbers'? What do you forbid and what not?
 
-#### Further
+#### Further conclusions
 
 - What should we do in life, in general? Should we do random things, save lives, or kill ourselves, or just go by our circular preferences?
 
