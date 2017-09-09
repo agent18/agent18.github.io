@@ -166,7 +166,7 @@ Can you convince dog about ice cream truck
 
 intellectual rule
 value rule 
-smart dog
+smart dog- what was the point of this example?
 
 What magic is that?
 intell that is not in your script
