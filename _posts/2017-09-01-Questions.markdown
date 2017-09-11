@@ -18,12 +18,11 @@ published: True
 
 - What are H&B's? How are they related to the solution inside your head? Why do they exist?
 
+- Achiles has same rule today and same rule yesterdays, but then why didn't he realize it yesterday. 
 
 #### Understanding values
 
 - Shouldn't everyone have the same values? Then Why do terrorists exist? When will Achilles be wrong
-
-- Achiles has same rule today and same rule yesterdays, but then why didn't he realize it yesterday. 
 
 - Why should you look at the world in an ideal setting to determine what you want?
 
@@ -58,3 +57,4 @@ published: True
 #### Other
 
 - Motivated skepticism, Why is it not important for you know all things with the same rigor?
+- Motivation - an excerpt from discussion 2
