@@ -26,11 +26,11 @@ published: True
 
 - Why should you look at the world in an ideal setting to determine what you want?
 
-- How do we know which feelings to trust? What is the criterion with which we can reliably distinguish false feelings from real ones? Does emotional stimulation and visual stimulation help in determining the real value system?
+- **How do we know which feelings to trust? What is the criterion with which we can reliably distinguish false feelings from real ones? Does emotional stimulation and visual stimulation help in determining the real value system?**
 
 - What are some important values and why?
 
-- How much is a human life worth to you?
+**- How much is a human life worth to you? how far do we go to save it?**
 
 - Don't we think the life of ants is pointless? Anything that we do is just carrying on some legacy left over by some random process. Why not just do random things?
 
