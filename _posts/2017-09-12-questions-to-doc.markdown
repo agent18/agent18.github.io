@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title:  "  The story so far(2) "
-date:    12-089-2017 17:18
+date:    12-09-2017 17:18
 categories: The Beginning
 permalink: /:title.html
 published: False
