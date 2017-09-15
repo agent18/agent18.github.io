@@ -10,20 +10,24 @@ published: True
 
 #### Basics
 
-- How to convince Socrates, regarding modes ponens?
+~- How to convince Socrates, regarding modes ponens? ~
 
-- How to convince a smart dog, regarding south sudan?
+~- How to convince a smart dog, regarding south sudan?~
 
-- What do you mean by the solution inside your head, Value system, rules? How are they different from each other?
+~- What do you mean by the solution inside your head, Value system, rules? How are they different from each other?~
 
-- What are H&B's? How are they related to the solution inside your head? Why do they exist?
+~- What are H&B's? How are they related to the solution inside your head? Why do they exist?~
 
-- Achiles has same rule today and same rule yesterdays, but then why didn't he realize it yesterday. 
+~- Achiles has same rule today and same rule yesterdays, but then why didn't he realize it yesterday.~
 
 #### Understanding values
 
-- Shouldn't everyone have the same values? Then Why do terrorists exist? When will Achilles be wrong
+~- Shouldn't everyone have the same values? Then Why do terrorists exist? When will Achilles be wrong~
 
+- How do you know your understanding is the best? At some point it is about faith right? How dare you say paranormal activity is fake?
+(Peer review, science beased, I just feel it. I am open to change my understanding of the rules, provided the hard evidence provided.)
+
+- Explain the model you are using in Asnwers (2) with citations?
 - Why should you look at the world in an ideal setting to determine what you want?
 
 - **How do we know which feelings to trust? What is the criterion with which we can reliably distinguish false feelings from real ones? Does emotional stimulation and visual stimulation help in determining the real value system?**

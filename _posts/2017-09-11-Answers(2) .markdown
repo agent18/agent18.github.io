@@ -10,53 +10,62 @@ published: True
 
 #### Highlights from 'Answers' made last week
 
-Last week we started the 'Answers' series to the 'Questions' post.
+Last week we started the 'Answers' series to the 'Questions' post. These are the summarized conclusions we came up with.
 
 >A Socrates can never be convinced about magic. He either has the magic a.k.a, the primary/basic rules, or not.
 
 >You cannot convince a rock, you cannot convince an infinitely powerful computer about south sudan, or a very very smart dog that can talk.
 
->We have these primary rules, somehow. We can use them to understand the territory better. Initially we thought, blacks should be slaves, women should not have equal right, but then slowly, we discover that they are also just people like us. And then we modify our understanding of the rules. So, we have primary rules somehow, and we can use them to improve our understanding of our rules.
+>We have these primary rules, somehow. We can use them to understand the territory better. Initially we thought, blacks should be slaves, women should not have equal rights, but then slowly, we realised that they are also just people like us. It just happened by chance that we were not born black. If we would not like this to be our treatment, then it should most likely not be theirs. And then we modify our understanding of the rules. So, we have primary rules somehow, and we can use these rules to improve our understanding of our rules.
 
-> It appears that as these rules cannot be taught to you- as they are not convincible to someone who doesn't have that rule- the only place possble to receive it from is like from our "father", Evolution, just like how we carry characteristics in our genes.
+> It appears that as these rules cannot be taught to you- as Socrates can never be convinced as he doesn't have that rule- the only place possible to receive it from is like from our "father", Evolution, just like how we carry characteristics in our genes.
 
 We have answered the 'basic' questions from the 'Questions' post, mostly off of the 1st discussion with an STM.
 
 #### Rules
 
->  Shouldn't everyone have the same values? Then Why do terrorists exist? When will Achilles be wrong
+This is the model we are using.
+>It is like a rough map of some terrain. Initially, it just marks out some hills and a river (“Don’t kill me, I won’t kill you. Let’s hunt together”). Nothing is to scale. There are vast parts unmarked (“how to treat women, blacks, gays, etc.”). Then, as we gain more and more knowledge, we fill in the vaguer parts of the map (“Ah! Black people are basically just like me. It is wrong to treat them like slaves”)
 
-Does everyone have the same primary rules?
+We start now with our current understanding of our primary/basic rules ("Look at evidence to determine reality as you have seen your feelings fail you again and again", "Modes ponens"), the ones that you cannot be actually convinced about. From this understanding we formulate new rules ("Religion is the shizzz"). Now we use the primary/basic rules to re-understand our newly formulated rules ("Is religion really the shizz?"), and also try to clarify what our basic/primary rules actually mean in various extrapolations, cause they are so vague now ("how do I use evidence correctly, as I have limited computational ability and moreover my thoughts are clouded by my H&B").
 
-I believe that most of the people have the basic/primary rules that we have been talking about in the last essay. These being:
+>  Shouldn't everyone have the same values?
+
+Looking at the rules we saw in the previous essay gives us more insight to answering the question I think.
 
 > If A => B is accepted, then if A happens, then B can be inferred. (intellectual rule)
 > Look at evidence to decide what the reality will be like (intellectual rule)
 > When people are suffering we should help them (value rule)
 
-Without Modes Ponens, I suppose education would be really hard, or for that matter communication. Evidence based understanding is there everywhere. It's in science religion literally everywhere. But there is a catch, the understanding of evidence seems to differ (#PNN). Will come to that in a bit. Recently, I joined a group on fb that was debating about flat earth and globe earth. The earth is not flat(let's not get into the details of it). But Flat Earthers, made wild claims, and supported every claim with some sort of evidence. To me suprisingly, they had answers for every single question posed by the Globians as we are called. They also looked at evidence, they also had this subjective probability. No surprise that ALL these FE's were Christians, they went out of thier way to make the bible right. Bible is right and from there they bounced with finding "evidence" to fit it. In theory, we have the same rules, but somehow something went wrong.
-
+Without Modes Ponens, I suppose education would be really hard, or for that matter communication. Evidence based understanding is there everywhere. It's in science, even in religion and literally everywhere else. But there is a catch, the understanding of evidence seems to differ between the different patrons. Recently, I joined a group on fb that was debating about flat earth and globe earth. The earth is not flat(let's not get into the details of it). But Flat Earthers (FEs), made wild claims, and supported every claim with some sort of evidence. Every piece of explanation someone gave FEs regarding Flat Earth seemed to their eyes as evidence. They definitely think it is a good idea to look at evidence, but their understanding of reliable evidence is quite something else. We use science, they contradict science. Science works whether you like it or not. It was no surprise that all the FEs came from the school of Christianity. They went out of their way to make the bible right. Bible is right and from there they worked on finding "evidence" to fit it. **It appears that we do have the same true rules, but our current understanding of the rules are twisted.**
 
 Peter Singer writes in [Famine, Affluence and ...][], "I suppose, most of them would want to save a drowning baby, even if it means that you get your clothes dirty". Time and again we see several people donating money because it pains them to see others suffer. Although they don't take it to the logical conclusion. Let's for now say that it is due to some H&B's misfiring. But it appears that the rule still holds for most of us. 'Suffering is bad'.
 
-Looking at the 3 rules for now we know it appears that with some decent confidence we can say that most people have the same/similar rules (!).
+Looking at the 3 rules we now know it appears with some decent confidence that **most people have the same/similar basic/primary rules, the difference comes in understanding and using them as we saw with the FE example**. Other examples, could be belief in astrology, homeopathy, ghosts aka paranormal activity etc...
 
-Interesting. But then why do Terrorists exist?
+How do you know your understanding is the best?(added to backlog)
 
-#### But why do terrorists exist if we all have the same basic rules
+#### Looking in detail: Religion H&B and more
 
-Hmmm. Our rules tell us what we want. We don't know the exact rules, aka the true solution in the head. We don't know the reality the territory completely. As an STM said in [this post][], your understanding of the solution in the head (current SITH), is very wague. Initially you have a rought map, nothing to scale, some mountains and some water marked here and there. This would correspond to 'don't kill each other', 'help people who are dying', ' help each other to survive and procreate'. But then you can use these rules to understand more about the rules, and discover more of the reality and mark for your reference in the map.
+As we saw last week, we are able to change our understanding of the rules, by reasoning, looking at evidence, using methods that show reliable and repeatable results every single time (for example, science). One of the understanding of the rules changed in the past for me was religion. It just didn't hold up to the questions asked.
 
->It is like a rough map of some terrain. Initially, it just marks out some hills and a river (“Don’t kill me, I won’t kill you. Let’s hunt together”). Nothing is to scale. There are vast parts unmarked (“how to treat women, blacks, gays, etc.”). Then, as we gain more and more knowledge, we fill in the vaguer parts of the map (“Ah! Black people are basically just like me. It is wrong to treat them like slaves”)
+Why did I get into it in the first place? And why was I in it for so long and then why did I just get out of it after such a long time? What was different, if your true rules don't change? We can change our understanding of our rules. It doesn't just happen by itself normally. We need to really put some effort to understand it better, despite what we might feel is right (owing to H&B's). And make sure it stands up to all our questions asked.
 
-So not all rules are clear to us, our map is currently shit. It has very basic stuff.  As we saw last week, we are able to change our understanding of the rules, by reasoning, looking at evidence, using methods that show they work every time etc... One of the understanding of the rules changed in the past for me was religion. It just didn't hold up to the questions asked. We need to really put in some effort to understand better and act accordingly despite what we might feel is right (owing to H&B's). It appears that this is where shit went cray. Terrorists, republicans and democrats #pnn. We have this amazing thing called H&B. These were probably a mechanism to bridge the billion rules and billion facts that we would need to process. H&B's are to be undertood as shortcuts. They might have worked well for small problems back in the days, but right now they massively back fire, with [circular preferences][], misinterpretation of the true SITH, etc...
+It appears that this is where shit went cray. Terrorists, republicans, democrats, socialists, etcetera. We have this amazing thing called H&B. These were probably a mechanism to bridge the billion rules and billion facts that we would need to process in order to understand the true rules. But hey, we don't have the computational resources to do that. So what does the brain do? H&B's are to be understood as shortcuts that connect us to our true value system, in a really bad way. They might have worked well for small problems back in the days, but right now they massively back fire, with [circular preferences][], misinterpretation of the true SITH, etc...
 
-H&B's such as social proof, social conditioning etc... can really twist the understanding of a persons SITH. It was very easy to believe in religion. We might think we are doing something right. Screwed up logic can sound pefect. We are not trained to critically analyse what people say to us, the anologies they make and how it affects us. Imagine a small kid, growing up with terrorists. Reading the kuran every single day, being told that death is the penalty for , conservative views about how womne should dress and interpretting the saying that, "the world should have only muslims" too literally to the extent that he doesn't mind even giving up his life. Also, When so many people believe around you that the KURan is the word of allah, why would you believ otherwise? We have a H&B called social proof. #PNN man. Get this! If the same kid was brought up else where he would have different world views. When you see from a high level, you see that the kid is same, but his surroundings make him understand his SITH very differently. However, it appears to be possible that everyone can come to similar ideas in the end, if they followed a rigourous, scientific process of understanding themselves, and the things around them. When you are ready for change, when evidence strongly points that your understanding is wrong, I don't see much problem. Change is hard, change is painful. Change is possibel. Everyone does it. I did it an STM did it. So many people have done it. Basically understanding the rules. I say similar ideas because, Even though Eliezer and Robin hanson have the same end goal, 'better prospering of mankind', both differ in their way of handling the problem, in some aspects. It's hard for everyones subjective probability to completly align. I suspect this is the reason. To a point its all numbers very distinctive and straightforward, but then after that. Our powers are still finite.
+>Then Why do terrorists exist? When will Achilles be wrong?
 
-Compared to the terrorist look at me, standing in the umbrella with an STM, am thinking about completely different things. To a point it is social proof but then when evidence based learning is preached every second of the choir, I suspect that we are quite different form the religious people, who cannot in any circumstance give it up.
+H&B's such as social proof, social conditioning etc... can really twist the understanding of a persons SITH. It was very easy to believe in religion. We might think we are doing something right. Screwed up logic can sound perfect (H&B). We are not trained to critically analyze what people say to us, the analogies they make and how it affects us. Imagine a small kid, growing up with terrorists, reading the kuran every single day, being told that death is the penalty for leaving religion, being shown and told conservative views about how women should dress and repetitive saying of "the world should have only muslims", to the extent that he doesn't mind even giving up his own life.
+
+>Social proof (also known as informational social influence) is a psychological and social phenomenon where people assume the actions of others in an attempt to reflect correct behavior in a given situation.    
+-[Wiki][]
+
+Get this! If the same kid was brought up in a different part of the world, there is a high chance he would not be a terrorist. Social proof, social conditioning are no joke. He would have completely different world views. When you see from a high level, you see that the kid is same, but his surroundings make him understand his SITH very differently. If you are not taught the scientific way of understanding things, which means to trust evidence of repeatable and reproducible experiments only, then higher chance of you being fucked and getting dragged into random ideologies for no better reason other than things like Social proof. However, it appears to be possible that everyone can come to *similar* ideas in the end, if only they followed a rigourous, scientific process of understanding themselves, and the things around them; Even terrorists. When you are ready for change, when evidence strongly points that your understanding is wrong, when you look to understand your rules better, I guess, you will start your own vishwaroopam transformation. Change is hard, change is painful, but certainly change is possible. We can definitely do it. So many people have done it.
+
+I say everyone can come to _similar ideas_ because, even though Eliezer and Robin hanson have the same end goal, 'to turn the world into an advanced civilization', both differ in their way of handling the problem, in some aspects (Not going into that now). It's hard for everyones subjective probability to completely align I guess (Not getting into this either). I suspect this is the reason. To a point its all numbers very distinctive and straightforward, but then after that. Our powers are still finite.
+
 
 ---
-
 For me what to do in life, has changed mighty much. Initially, just like the herd it was 'being successful, getting lot of money and bitches', then it moved on to 'god', then, 'tim ferrises 4 hr work week and about taking constant mini-retirements, giving less of a fuck about making more money', 'PUA', and then random stuff for a while, and then back to this.
 
 An stm said this last weekend, and I quite agree with him.
@@ -182,6 +191,7 @@ The solution inside the head is the only thing that I guess we have been consult
 
 You see that you feel the same way towards random people.
 
+Also get this. You have been very lucky to be in a state like this. It just happened that you don't have to fight for food, water shelter and my oh my health care. It's not a meritocratic society. Not everyone is born with the same thing, to develop themseles. Please do not blame it on the people.  Anyways, in socialistic countries, we see people paying a lot of tax, even upto 50% that goes to people who earn less, so that they can live rather decently. There is health care for all at the same price or the rich pay more. The idea being that anyone can get diseases. Some treatments are costly AF. We share the burden, not everyone is going to be sick at the same time. we there by offset costs and help out each other in return as well. But the rich people can afford it, but the poor people will never be able to afford it. Does that mean they should be allowed to die? Its surprising how man-made boundries, dictate who gets health care and who not. Suddenly theose man-made boundries constitute a group of people who are known as 'X' and those people and only those people shall be taken care off. Why, why not exclude some people there, you know just for fucks sake,
 
 #### proof of peole showing glimpses
 Humans of bombay
@@ -244,5 +254,5 @@ you cannot deny, that the things that I came up with are not the magic of writin
 
 AS PG says, expect 80% of the ideas to come when youare writing. My good ness put the burden on writing, not on you throught the day or some shit.
 
-I kept saying in the start of writing. I felt excieted and scared to write, I kept saying I am going to compose my 5th symphony. I am quite relaxed having done my work for today. 
+I kept saying in the start of writing. I felt excieted and scared to write, I kept saying I am going to compose my 5th symphony. I am quite relaxed having done my work for today.
 [video_of_hugging]:https://www.youtube.com/watch?v=gjiQqG9vamE
