@@ -8,7 +8,7 @@ permalink: /:title.html
 published: True
 ---
 
-#### Highlights from 'Answers' made last week
+#### **Highlights from 'Answers' made last week**
 
 Last week we started the 'Answers' series to the 'Questions' post. These are the summarized conclusions we came up with.
 
@@ -16,18 +16,18 @@ Last week we started the 'Answers' series to the 'Questions' post. These are the
 
 >You cannot convince a rock, you cannot convince an infinitely powerful computer about south sudan, or a very very smart dog that can talk.
 
->We have these primary rules, somehow. We can use them to understand the territory better. Initially we thought, blacks should be slaves, women should not have equal rights, but then slowly, we realised that they are also just people like us. It just happened by chance that we were not born black. If we would not like this to be our treatment, then it should most likely not be theirs. And then we modify our understanding of the rules. So, we have primary rules somehow, and we can use these rules to improve our understanding of our rules.
+>We have these primary rules, somehow. We can use them to understand the territory better. Initially we thought, blacks should be slaves, women should not have equal rights, but then slowly, we realized that they are also just people like us. It just happened by chance that we were not born black. If we would not like this to be our treatment, then it should most likely not be theirs. And then we modify our understanding of the rules. So, we have primary rules somehow, and we can use these rules to improve our understanding of our rules.
 
 > It appears that as these rules cannot be taught to you- as Socrates can never be convinced as he doesn't have that rule- the only place possible to receive it from is like from our "father", Evolution, just like how we carry characteristics in our genes.
 
 We have answered the 'basic' questions from the 'Questions' post, mostly off of the 1st discussion with an STM.
 
-#### Rules
+#### **Rules**
 
 This is the model we are using.
 >It is like a rough map of some terrain. Initially, it just marks out some hills and a river (“Don’t kill me, I won’t kill you. Let’s hunt together”). Nothing is to scale. There are vast parts unmarked (“how to treat women, blacks, gays, etc.”). Then, as we gain more and more knowledge, we fill in the vaguer parts of the map (“Ah! Black people are basically just like me. It is wrong to treat them like slaves”)
 
-We start now with our current understanding of our primary/basic rules ("Look at evidence to determine reality as you have seen your feelings fail you again and again", "Modes ponens"), the ones that you cannot be actually convinced about. From this understanding we formulate new rules ("Religion is the shizzz"). Now we use the primary/basic rules to re-understand our newly formulated rules ("Is religion really the shizz?"), and also try to clarify what our basic/primary rules actually mean in various extrapolations, cause they are so vague now ("how do I use evidence correctly, as I have limited computational ability and moreover my thoughts are clouded by my H&B").
+We start now with our current understanding of our primary/basic rules ("Look at evidence to determine reality as you have seen your feelings fail you again and again", "Modes Ponens"), the ones that you cannot be actually convinced about. From this understanding we formulate new rules ("Religion is the shizzz"). Now we use the primary/basic rules to re-understand our newly formulated rules ("Is religion really the shizz?"), and also try to clarify what our basic/primary rules actually mean in various extrapolations, cause they are so vague now ("how do I use evidence correctly, as I have limited computational ability and moreover my thoughts are clouded by my H&B").
 
 >  Shouldn't everyone have the same values?
 
@@ -45,13 +45,13 @@ Looking at the 3 rules we now know it appears with some decent confidence that *
 
 How do you know your understanding is the best?(added to backlog)
 
-#### Looking in detail: Religion H&B and more
+#### **Looking in detail: Religion H&B and more**
 
 As we saw last week, we are able to change our understanding of the rules, by reasoning, looking at evidence, using methods that show reliable and repeatable results every single time (for example, science). One of the understanding of the rules changed in the past for me was religion. It just didn't hold up to the questions asked.
 
 Why did I get into it in the first place? And why was I in it for so long and then why did I just get out of it after such a long time? What was different, if your true rules don't change? We can change our understanding of our rules. It doesn't just happen by itself normally. We need to really put some effort to understand it better, despite what we might feel is right (owing to H&B's). And make sure it stands up to all our questions asked.
 
-It appears that this is where shit went cray. Terrorists, republicans, democrats, socialists, etcetera. We have this amazing thing called H&B. These were probably a mechanism to bridge the billion rules and billion facts that we would need to process in order to understand the true rules. But hey, we don't have the computational resources to do that. So what does the brain do? H&B's are to be understood as shortcuts that connect us to our true value system, in a really bad way. They might have worked well for small problems back in the days, but right now they massively back fire, with [circular preferences][], misinterpretation of the true SITH, etc...
+It appears that H&Bs is where shit went cray. Terrorists, republicans, democrats, socialists, etcetera. We have this amazing thing called H&B. These were probably a mechanism to bridge the billion rules and billion facts that we would need to process in order to understand the true rules. But hey, we don't have the computational resources to do that. So what does the brain do? H&B's are to be understood as shortcuts that connect us to our true value system, in a really bad way. They might have worked well for small problems back in the days, but right now they massively back fire, with [circular preferences][], misinterpretation of the true SITH, etc...
 
 >Then Why do terrorists exist? When will Achilles be wrong?
 
@@ -60,57 +60,43 @@ H&B's such as social proof, social conditioning etc... can really twist the unde
 >Social proof (also known as informational social influence) is a psychological and social phenomenon where people assume the actions of others in an attempt to reflect correct behavior in a given situation.    
 -[Wiki][]
 
-Get this! If the same kid was brought up in a different part of the world, there is a high chance he would not be a terrorist. Social proof, social conditioning are no joke. He would have completely different world views. When you see from a high level, you see that the kid is same, but his surroundings make him understand his SITH very differently. If you are not taught the scientific way of understanding things, which means to trust evidence of repeatable and reproducible experiments only, then higher chance of you being fucked and getting dragged into random ideologies for no better reason other than things like Social proof. However, it appears to be possible that everyone can come to *similar* ideas in the end, if only they followed a rigourous, scientific process of understanding themselves, and the things around them; Even terrorists. When you are ready for change, when evidence strongly points that your understanding is wrong, when you look to understand your rules better, I guess, you will start your own vishwaroopam transformation. Change is hard, change is painful, but certainly change is possible. We can definitely do it. So many people have done it.
+Get this!**If the same kid was brought up in a different part of the world, there is a high chance he would not be a terrorist**. Social proof, social conditioning are no joke. He would have completely different world views. When you see from a high level, you see that the kid is same, but his surroundings make him understand his SITH very differently. If you are not taught the scientific way of understanding things, which means to trust evidence of repeatable and reproducible experiments only, then higher chance of you being fucked and getting dragged into random ideologies for no better reason other than things like Social proof. However, it appears to be possible that everyone can come to *similar* ideas in the end, if only they followed a rigorous, scientific process of understanding themselves, and the things around them; Even terrorists. When you are ready for change, when evidence strongly points that your understanding is wrong, when you look to understand your rules better, I guess, you will start your own vishwaroopam transformation. Change is hard, change is painful, but certainly change is possible. We can definitely do it. So many people have done it.
 
-I say everyone can come to _similar ideas_ because, even though Eliezer and Robin hanson have the same end goal, 'to turn the world into an advanced civilization', both differ in their way of handling the problem, in some aspects (Not going into that now). It's hard for everyones subjective probability to completely align I guess (Not getting into this either). I suspect this is the reason. To a point its all numbers very distinctive and straightforward, but then after that. Our powers are still finite.
+I say everyone can come to _similar ideas_ because, even though Eliezer and Robin Hanson have the same end goal, 'to turn the world into an advanced civilization', both differ in their way of handling the problem, in some aspects (Not going into that now). It's hard for everyones subjective probability to completely align I guess (Not getting into this either). I suspect this is the reason. To a point its all numbers very distinctive and straightforward, but then after that. Our powers are still finite.
 
+**Terrorists seem to exist because of a misconception in their understanding of their true values.**
 
----
-For me what to do in life, has changed mighty much. Initially, just like the herd it was 'being successful, getting lot of money and bitches', then it moved on to 'god', then, 'tim ferrises 4 hr work week and about taking constant mini-retirements, giving less of a fuck about making more money', 'PUA', and then random stuff for a while, and then back to this.
+**Achilles will go wrong, will take the other tracks, only when his understanding of the "right track" is out of sync with reality.**
+
+#### **Updating your rules based on evidence**
+
+For me what to do in life, has changed mighty much. Initially, just like the herd it was about 'being successful, getting lot of money and bitches', then it moved on to 'god', then 'Tim Ferrise's 4 hr work week and about taking constant mini-retirements, giving less of a fuck about making more money', then 'PUA and gaining social status', and then random stuff for a while, and then back to this.
 
 An stm said this last weekend, and I quite agree with him.
 
->People might say, "you are fickle minded, you can't stick to one thing. You are easily convinced. You don't stand your ground. You keep changing, Now you are saying no to marriage, later you will marry, you just can't make up your mind". In the end we need to understand that it is they who have the problem. Changing based on evidence, is nothing short of a good thing. Its they who think they somehow got it right on the first try, its they who seem to need a kick on their asses. Look at this whole population that is marrying. Despite all the evidence and them not even considering it. Just falling for it to go with the herd behaviour for some reaosn (H&B, I might add)
+>Looking at the big picture it might appear that you can't commit to one thing, you are fickle minded, you are "easily convinced", you don't stand your ground. What ever that means! Now you might say that you won't marry and later you might end up marrying. But in the end, we need to understand that we need to change in front of the mighty evidence. Just staying your current ground, just because you have been believing in it for so long, doesn't sound like a solid argument. And what are the chances you got it right in the first try anyway? It is surprising that people refuse to change even despite the weight of the evidence, still clinging to the past. Are they saying they got everything right the first time itself, that no amount of interrogation can change it. What are the chances? What are the chances? Look at the whole population that is marrying, without a single point of doubt or even any analyses. And look at those people advising people to marry. Haha. Its I who knows the statistics, it's I who has done the research not them.
 
-Why am I right? Bitch
-Sceince? Tot morgen
+Yes every time it sounded like this was it. 'This' is what we were going to do for the rest of our lives. I started planning my life based on religion and suddenly got thrown off of the bus. Good thing it didn't happen after many more years. Changing in the face of evidence how many ever times, doesn't seem to matter. In fact what are the chances others hit the nail in the head the first time anyway. It seems to take a few tries to get it right. It only looks like a good thing that in the face of mighty evidence, we are nothing, we shall change, we need to change.
 
-Conclusion:
-We have basic rules (the ones that need no convincing) "dont kill", "Live long", "Follow modes ponens", etcetera. From which we formulate more rules, "relgion might be true", or "there seems to be no way in hell that religion might be true". Then people informed me that the way I had gotten into religion was not scientific. So what if it is not scientic? Then You went deeper. You realised that the evidence the religious people provided didn't hold up to the science at all. You update your rules, regarding how to look at evidecnce. You use your current understanding of the rules, and it seems possible to get a better understadning of the rules. I still continue to say rules becuase, the funtamental rule that answres how to understand evidence, was not just changed, but shaken AF bitch.
+**So Achilles goes wrong when his understanding of the rules go cray.**
 
-This gives me confidence that there is something is happening to my understanding, based on my current understanding.
-
-This one rule discussed above can make such a difference. The difference between terrosim and anti-terrorism (if thats a thing) I guess.
-
-Also, many people have migrated from relgion, what happend in their cases. Why did their understanding of the rules change and why did they come out of their religion, depsite a lot of social pressure. Understanding of evidence.
-
-So achilles goes wrong when his understanding of the rules go cray.
-
----
-
-#### Story so far
-
-
-
-Now what?
-I want to answer two questions mainly:
+#### **What to trust?**
 
 - **How do we know which feelings to trust? What is the criterion with which we can reliably distinguish false feelings from real ones? Does emotional stimulation and visual stimulation help in determining the real value system?**
 
 -**How much is a human life worth to you? how far do we go to save it?**
 
 
-#### How to understand what we truly want?
-The thing that I have learned until now s that We have rules, which are wague. Their understanding can be changed by using the current understanding of the rules.  I cannot be convinced about south sudan, or for that matter modes ponens.
+#### **How to understand what we truly want?**
+The thing we have with us, is our feelings. Everything is a feeling. We have feelings, which give us an indication of what we might want, but then they are circular. Feelings are primarily (to my knowledge) operated by the mighty H&B's. This is where the confusion comes from.  We have some data, as a result of H&B. This data is a filter on our rules. We don't know what our true rules are. We hope to get to the rules say by adding a negative filter to the H&B, having been able to understand several of these H&B's, atleast sticking to the most important ones.
 
-We have feelings, which give us an indication of what we might want, but then they are circular. Feelings are primarily (to my knowledge) operated by the mighty H&B's. This is where the confusion comes. becuase the data we have is after H&B's. If that is the case, and if we know some of the important H&B's, is it possible to derive from there what will be the actual rule? WHat will be the actual value system?
+H&B's guide our feelings. H&B's are shortcuts. H&B's are circular and cannot be trusted in many situations to represent the true SITH. For example, the feeling you get when we give food worth 2 Euros to a homeless person; their face, the thanks that you receive, is nothing short of beautiful. Whereas say, you donated a few hundred euros to an NGO that has the best potential to save many lives; You get hardly anything via a feeling. **Feelings are skewed max.**
 
-We have some data, as a result of H&B. This data is filter on our rules. We don't know what our true rules are. We hope to get to the rules say by addin a negative filter to the H&B, having been able to understand several of these. Atleast sticking to the most important ones.
+All we have is the H&B and our feelings. How do we go from there to determining what the real value system wants. We see two sets of reactions to an event of a kind. For example, People are dying everywhere, we don't feel like helping someone in a remote land far far away, but someone we see in person suffering, we seem to be more emotionally stimulated. Another example is we cry for a minute on fb when we see 40k people suffering, but then the next moment we are back to watching Youtube as though life is normal. Our H&B's work to be emotionally more stimulated when something happens in front of us [fact][], rather than behind us. But then you check with your SITH, but how does that make a life more valuable. It makes sense as a shortcut, but well not as a real rule. So whether we are visually stimulated or not, whether someone is close by or not, we sure as hell want to help. Great.
 
-#### Discuss H&B's
+Now we go on to the next big question. How far do we go? We check with our SITH, when thinking about a drowning baby, and the answer comes from within, that clothes are fucking not important. Then you think how much you can pay, and the thing is there is not one drowning baby but several. Saving every child might not be possible, but saving as many children as possible could be one of the conclusions. This is where you ask for more hardcore evidence to join the EA club. But...
 
-H&B's guide our feelings. H&B's are shortcuts. H&B's are circular and cannot be trusted in many situations to represent the true SITH. For example, the feeling you get when we give food worth 2 Euros to a homeless person. Their face, the thanks that you receive, is nothing short of beautiful. Whereas say, you donated a few hundred euros to someplace where you know has the best potential to save many lives, well nothing. Literally. #Feelings are screwed.
-
+<!--
 The one question I have been on again and again is about how to differentiate between the right and wrong feelings w.r.t your true value system, if everything is a feeling which are a direct result of H&B's. In other words, when are H&B's right and when are they wrong. My question is much more specific, how far do we go, to save a life. There is no question that I will and everyone should not concern themselves with dirtying their clothes, when it comes to saving a drowning baby. Can we extrapolate this directly to saying that we should go all the way, so far that, we just are barely able to survive as long as we can and continue serving mankind?
 
 But then most of our actions are not in that direction.
@@ -256,3 +242,5 @@ AS PG says, expect 80% of the ideas to come when youare writing. My good ness pu
 
 I kept saying in the start of writing. I felt excieted and scared to write, I kept saying I am going to compose my 5th symphony. I am quite relaxed having done my work for today.
 [video_of_hugging]:https://www.youtube.com/watch?v=gjiQqG9vamE
+
+-->
