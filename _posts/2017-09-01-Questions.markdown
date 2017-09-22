@@ -62,3 +62,6 @@ published: True
 
 - Motivated skepticism, Why is it not important for you know all things with the same rigor?
 - Motivation - an excerpt from discussion 2
+
+
+Differentiating feelings and SITH
