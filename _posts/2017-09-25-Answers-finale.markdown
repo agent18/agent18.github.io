@@ -207,7 +207,7 @@ option B) I need to know exactly what is the worth of the hand. Only then I will
 
 <br>
 
-#### Appendix: Answer to all other questions(not edited multiple times, read at your own risk)
+#### **Appendix: Answer to all other questions(not edited multiple times, read at your own risk)**
 
 - Don't we think the life of ants is pointless? Anything that we do is just carrying on some legacy left over by some random process. Why not just do random things?
 
