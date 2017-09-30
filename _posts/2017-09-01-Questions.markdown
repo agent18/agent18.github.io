@@ -77,6 +77,8 @@ published: True
 
 Differentiating feelings and SITH
 
+
+
 Only then I will take action... I need to know exactly what is the worth of the hand. Everything has to come from outside. you cant trust anything that comes from inside?
 
 a
