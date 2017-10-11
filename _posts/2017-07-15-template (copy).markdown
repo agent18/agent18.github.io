@@ -1,0 +1,29 @@
+---
+layout: post
+comments: true
+title:  "  cardio baby "
+date:    29-07-2017 17:18
+categories: The Beginning
+permalink: /:title.html
+published: False
+---
+
+---
+11 oct 2017 
+
+time = 21 min
+
+avg = 21.8 kmph
+
+Max = 28.0 kmph
+
+TTM = 21
+
+ODO = 7.7
+
+dist = 7.69 km
+
+
+
+
+

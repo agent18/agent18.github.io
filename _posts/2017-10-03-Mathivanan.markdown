@@ -167,6 +167,7 @@ Another thing that de-motivates me is the presence of back pain. I am used to do
 There are three factors that determine motivation. The first one is the capacity to to keep the brain in flow, fully active and in use of all its 108 bit ram. The second is the feedback/reward/punishment. The third is the delay in these rewards. For now, we have explored the scene relating to cardio and lifting weights. Next week we go on to even more important topics.
 
 <!--
+Some people dance for ever, some people dicuss flow, some people game design , ar rahman, tennis, whats happening
 #### Writing
 
 How do I continue to write. I remember days when I am so bored to write. 2 hrs how do I get done with that shit. The problem is it is not challenging. More challenging by making it like words per hour.
