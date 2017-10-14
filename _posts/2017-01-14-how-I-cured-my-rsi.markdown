@@ -258,6 +258,27 @@ Today I ran for 20 mins and did squats as part of my workout. I see pain in the 
 
 Did spartan workout last thursday. Did more pushups than before. Not running regularly. But playing basket ball and TT. Played on 25th both the sports and I think it gave me quite some stress in the back. I am alright now. I even went to the gym. Sticking to the don't care attitude. Ran for 20 mins on the treadmill like a bitch today. I had nech ache while writing todays post. I told myself to fuck off. Can't remember when it went, but it was gone. Guess what its back now, when I wrting about this again! :) 
 
+---
+
+12-10-2017
+
+I was doing planks with 15 kg and side planks with 18 kg and full body workouts for a while now 2 times a week.
+
+Around 5th sept I said to myself that I will be doing the intermediate workout of scooby. Started with 4 days a week, after 2-3 weeks did 5 days, and its 12th october now. Celebrating my monthiversary.
+
+During the last 2-3 weeks, I felt that my planks were paining(lower back ache) and reduced the weight to zero and decided to pick it up from there again. Today am at 5 kg again.
+
+I do have some pain from time to time, but I don't make a big deal of it. I suspect it comes with my mood. Mornings I am upset it stays, and then magically it vanishes with my mood I think.
+
+The sqats I did on 4th (45kg), kinda scared me, as I was afraid my back pain was due to wrong form and shit or worse over-training.
+
+On 9th I squated 42 kg on the third set peaceful.
+
+Today the 12th I squated 45 kg in the third set and followed it up in the next set with the same. WAAAAAAT!. Milestone for pandian. It was almost as if the world was saying, its in your head bro. I thought 45 kg was my limit but I did 8 reps without too much difficulty. I was rewarded with Sweat. Macha, you have no problem, follow proper form, you can do more weights! PNN
+
+Since Sept 4th I have been writing sitting on the bed, back against a cushion.
+
+ 
 #### **0ther links and success stories**
 [http://aaroniba.net/articles/tmp/how-i-cured-my-rsi-pain.html][aaroniba]
 [http://pradeep90.github.io/Curing-RSI.html][stm]

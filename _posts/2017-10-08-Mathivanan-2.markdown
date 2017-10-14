@@ -5,39 +5,112 @@ title:  " Motivation (2)"
 date:    08-10-2017 09:39
 categories: The Beginning
 permalink: /:title.html
-published: False
+published: True
 ---
-#### Motivation
+
+#### **Motivation**
 
 Motivation is given by the following equation:
 
-  $ Motivation = Capacity * (value of feedback/reward/punishment) / delay in reward
+  $ Motivation = Capacity * (value of feedback or reward or punishment) / delay in reward
 
 This simple equation houses much more than getting the motivation needed to do things you don't like.
 
+Last week we saw about this equation and came up with some changes regarding how to improve motivation for cardio and working out. This week I came across a beautiful lecture on Flow, the grandfather of motivation. We are going to talk about flow as Mihaly did in his lecture. Share a few examples of flow in the world. Guess how to improve flow in cardio, working out and writing.
 
-#### Flow talk by Mihaly
+#### **Flow**
 
-Mihaly talks about this thing called flow. Defined as a very nice state of happiness, that lasts. Unlike say eating a chocolate. This is deeply connected to our good friend motivation. When you are in flow, you want to do more of that activity giving you flow. You do it out of your own will, there is no obligation. Time flies by you, you don't feel the minutes or the hours anymore. You are in a state of deep concentration. You are in your own world. All the problems, pain you have cannot be focussed on because you dont have anymore ram to do other stuff. You get right feedback from moment to moment that keeps you wanting to live in this matrix. Your challenge and skill level need to be complementary.
+> What is flow? It is what we feel when we are fully alive. When we are involved with what we do, and in harmony with the environment around us. It is something that happens most easily. When we sing, dance, do sports - but it can happen when we work, read a good book or have a good conversation
 
-Flow is basically a fancy way to say that you have great motivation to keep doing something.
+In his talk Mihaly primarily talks about this thing called flow. Defined as a very nice state of happiness, that lasts, unlike say eating a chocolate. This is deeply connected to our good friend motivation. When you are in flow, you want to do more of that activity giving you flow. You do it out of your own will, there is no obligation. Time flies by you, you don't feel the minutes or the hours anymore. You are in a state of deep concentration. You are in your own world. All the problems, pain you have cannot be focused on because you don't have anymore ram to do other stuff. You get the right feedback from moment to moment that keeps you wanting to live in this reality as long as you can. The challenge and your skill level would have the perfect balance and would be complimentary in such a state of flow.
 
-Example: Games, playing sports, chess, figure skating, managing a company, trouble-shooting, art such as painting, etc...
+Flow is basically another way to say that you have great motivation to keep doing something for long periods of time.
 
-I have experienced flow in the following activities.
+For example, Games are designed to do just that. In Japan and other developed nations, kids complete 10k hours of gaming by the age of 21. This would mean that they could've played for 2 hrs a day for 12 years straight. Imagine the motivation needed to do so much gaming, i.e., for 2 hrs per day for 12 years straight, all the while doing school, homework, exams amidst other things. Gaming is not a chore surely for these kids. It's pure joy. You don't want to quit playing. You want to keep playing. I remember playing AOE in gaming centers with friends when I was young. Just way too many hours we would sit in the center and we couldn't stop. All I did during my summer vacation (3 months) during 7th to 10th, is go to my friends house and play PS or Nintendo for a hours, and then follow it up with some basketball. Life was amazing to just do this. Did I like it? I loved it.
 
-primary factors...
+>"Concentration is like breathing: you never think of it. the roof could fall in, if it missed you you would be unaware of it."- Chess player (not an exaggeration apparently)
 
+Other examples where one can observe flow is working-out, doing cardio, playing sports, chess, figure skating, managing a company, trouble-shooting, art such as painting, and simply any other activity wherein you can tap the ...
 
+#### **Characteristics of flow**
 
-Some interesting quotes on people regarding flow
+> How does it feel to be in flow?
+>
+1. Attention is focused on a limited stimulus field.
+1. There is full concentration, complete involvement.
+1. Action and awareness merge
+1. There is freedom from worry about failure.
+1. Self-consciousness disappears
+1. The sense of time becomes distorted.
+1. The experience becomes its own reward - auto-telic
 
-Challenge vs skill
+The last time I played basketball, I was playing with a bunch of new kids. It was a good match of skill between the two teams, and it was getting intense. I was tired and I couldn't move, but I didn't want to stop. I wanted it to continue. I didn't care about anything in the world, other than playing and experiencing more of it. Playing was its own reward. It wouldn't matter if we lost or won, as long as we kept playing. It wouldn't matter if we lost or won, but if we did our best, and killed it with those shots or screens or passes or plays. This was more important than the ultimate goal of winning the game. Every single moment we should have flow. Sure it would be nice to win, but I am afraid the climax, the end, is not all that rewarding, unless something huge is at stake. Atleast while playing friends it didn't seem to matter. I was not afraid to take on a big player even. How I fared doing that is another issue. But there was a freedom from worry about failure in some cases for me, not everything though. I was afraid to shoot as my percentage is bad. I would imagine it gets better with even more skill, that I feel more of this freedom from worry about failure.
 
-What happens when challenge and skill don't meet.
+I workout for ~50 mins every week day. I can't remember ever looking at the watch or yawning. I don't want to do anything else other than keep lifting during the time. Writing the reps down or planning the next reps is boring. But I have to do that to get more feedback with every moment, which ultimately pushes me into more flow, so I don't mind doing it. Sure, I workout to get great physique, be muscular and stuff, but that type of motivation I suspect will get me nowhere in terms of going to the gym everyday. Without all the pump, the feedback and epicness you feel while you lift to your max, I suspect the motivation lasts. The sweat that comes out of you when you struggle and finish the set, the instant feedback you get with every rep makes it worthwhile. Like while playing ball, even here I don't have complete freedom from worry about failure. I will acknowledge that from time to time I have this fear about my back. I guess that with time say after 1 year of working out I should be able to loosen up much more and reap more, the rewards of just experiencing it.
 
+Sometimes, as soon as my workout is over, I feel that I am back to a regular life. Until then nothing mattered to me, I was in flow and suddenly as though my mom pulled the plug off the game, I am back to regular life with less awesomeness. I suspect I didn't end on a high; for example, a set that exhausts the hell out of me, something that allows me to carry over the amazing feeling while ending the activity just a little longer.
 
->"Concentration is like breathing: you never think of it. the roof could fall in, if it missed you you would be unaware of it."- Chess player
+A few weeks back after I showed an STM that I was serious, we had a talk for 3 hrs. Hello guru what are you saying? 3 hrs?. So much was going on, lot of feedback with our peace signs I guess, lot of questions being asked and answers. I guess every answer you make is a feedback, an approval, a step in the right direction. I was learning so much. I honestly don't know how time went off so fast. Nothing came in the way, No mobile phones were not to be found in the vicinity of the crime scene.
+
+And right now while writing, there is still 24 mins left as part of a 1 hr writing session. I don't know how that happened. I am surprised that so much time passed away so easily. I was writing about my experiences, I was re-collecting how it felt to be in places of awesomeness, like the gym, ball court etc... With regard to writing it's one the places where I am not consistent in achieving flow. I acknowledge that.
+
+Rock climbers have flow.
+
+>"You're so involved in what you're doing, you aren't thinking about yourself as separate from the immediate activity. You're no longer a participant observer, only a participant. You're moving in harmony with something else you're part of"- rock climber
+
+> I feel safer climbing rocks than crossing an intersection. I am in control. I have my life in my hand.
+
+Even Surgeons. If you keep doing it for the money, you are not going to be able to keep at it. There is something else about being a surgeon that gets you going for many many hours.
+
+>"You are not aware of the body except your hands... not aware of self or personal problems... If involved, you are not aware of aching feet, not aware of self."- Surgeon
+
+It is probably clear by now, that long term goals, like of playing in the NBA or having an amazing physique, or getting lot of money in an activity, might not get you far when it comes to not feeling bored, while working. There are other things besides long term goals. As we saw above, we hear people talking about the journey rather than the end being the reward.
+
+So...
+
+#### **How to foster flow?**
+
+>How to foster flow? flow doesn't come from the long term goal, it comes from being able to do right the next thing.
+
+> Conditions of the flow experience
+
+> There are clear goals every step of the way
+
+> There is immediate feedback
+
+> Balance between challenges and skills
+
+**Lifting weights:**    
+Looking at the lifting-weights example, our goals in every step of the way is simple and clear. Lift to your limit, and show progress from last week, with every set. We obtain feedback, per set looking at the progress from last week, knowing we are doing our absolute best, being focused in achieving every rep with all our might and body. This rewards us with things like sweat and exhaustion. We hit the right mount of challenge level corresponding to skill (capability) with lifting the weights that you just can do good slow reps with. It takes a little trial and error, where in sometimes you start lifting more than you can handle and sometimes otherwise. Just purely working out is not enough. It needs to be followed by proper nutrition.
+
+Things I would do better to keep the flow going even better is to, not fall out on the nutrition aspect, improve the system I use to make notes of the reps and weights. I need to squint to read my notes and it is a definite buzz kill. There are some exercises like calf raises, that I don't bother doing them well. I just do something and move on, naturally the motivation to do this is not that great. I am always waiting for squats, where I fully see myself living every single rep, or atleast just lifting to my limit. This seems to be really crucial in lifting that we need to keep the challenge to as high as physically possible. To this effect I will try to do more slow reps with larger challenging weights for the calf-raises and other boring exercises.
+
+**Cardio:**    
+I do cardio for 20 mins every day. Recently I noticed that I was feeling bored. I didn't know if I was improving, I was setting up random goals to "succeed". Last one week I am using a speedometer. This is still highly experimental. The goal is to clear as much as distance physically possible within a particular time. Immediate feedback I get is feeling of constant exhaustion, reading of time, distance and current speed to let me know that I am killing it. How I attempt to balance the challenge and skill is by setting my goal of a current speed to be achieved. This way I know I am on my limit or not by looking at the speedometer. I give myself regular breaks to keep the challenge possible, and I sprint towards the end to finish with exhaustion, and doing atleast the distance that I did the previous day.
+
+I am having a hard time, gaugeing the feedback. The city I live in is windy from location to location. In some parts it slopes down and some up. To match the challenge and skill, I planned to choose a speed that I know is on the boundary of exhaustion, but that value varies with the wind and slope. So I am trying to come up with some rules of thumb to help me decide what the goal should be given a perceived slope and wind speed. I am afraid that as part of this, sometimes I am over-challenging myself, leading to anxiety and sometimes, under-challenging myself, leading to boredom. I suspect it would be better to measure heart-rate instead. This is a number seems to gauge clearly, how much I exert. Whether it is wind or tide, I could look to get this number and compare it to a particular value based off of a few trials. I could improve on it with time. Unfortunately, I am afraid, there is so much going on with the different variables, that the speedometer is not a complete valuable addition in the way I use it. It could certainly be there in addition to the heart-rate meter. However, this week I wan't to give a shot to using average speed instead of distance covered, to keep me motivated. I know the avg. speed I need to do my usual route. I will try to push myself so that the average speed keeps to the number I need throughout the entire journey. This way I suspect, it is not as bad as my older method. Let's see.
+
+Another thing I wan't to do is talk to my friends who cycle long distances as a hobby. To ask them what keeps them going. Cardio is important, and I would like to get the flow in it as much as I can. I have had my moments of flow with cardio, that I barely can think about anything else, that I am giving my life to cycling. That is what every moment should feel like.
+
+**Writing:**    
+Now and then when I write, time just flies for me. The "clear goals" while writing are coming up with new insights, matching the word count in the given time (similar to the idea of a speedometer). This is incidentally also the only immediate feedback I hope to receive. As for keeping the challenge and skill balanced I try to do X thousand words in an hour. The conclusion seems to be that the goal is clear, feedback every moment is available, challenge and skill can be balanced. I can improve the speed of writing and reduce mistakes with the help typeracer, if that is a problem. The mechanism to keep the challenge vs skill balanced will be done by increasing the number of words per hour.
+
+Let's assume this way works to generate flow. What would I do on fridays, when I typically have to spend 4 hrs re-editing and re-writing the essay. I feel a huge amount of resistance to do the task on friday. I procrastinate much more than the other days. I start activity only at 9 pm, and finish by 4 am. In total I probably clock 4 hrs. All these 4 hrs are timed but they have no specific goal in terms of numbers, as it is hard to keep track of edits. Towards the last hour my goal is to re-edit one last time before publishing. I have a great desire to just continue watching youtube. Somehow the youtube I watch while I procrastinate is so much more pleasing.
+
+Normal days are not fine either. I think I am feeling bored. I find it not challenging. I suspect it is because, I can just write "random stuff" in the last 15 mins to make up for any time loss. I don't think, this way is helping me with the flow.
+
+More on this coming soon...
+
+#### **Summary:**
+There was race car event in Belgium where it's a 24 hr race. 3 drivers drive the car for 8 hrs straight. My colleague at work is actually going there for the whole race. If I thought driving was boring, what about watching? How can a mundane activity as driving the same laps over and over again, allow someone to drive for 8 hrs straight. Why would anyone in their right mind even choose such a profession. And that's when you realize he is not a truck driver. He is a racer. Get it?
+
+More on this coming soon...
+
+<!--
+Why keyboard didn't happen
+In apthy you use no skills and you have nothing to do. Apathy is worse for some people, anxiety for others
+
+Next chord next note is what we look forward to.
 
 1880
 #### Examples Meeting flow
@@ -282,6 +355,7 @@ Loosing motivation to write at the end of the day, Want to sleep!
 #### speedometer
 For the first time today, I had a working speedometer with my bike. Spent some time setting up but I suspect it is worth it. Only time will tell. Atleast the first 5 mins I had never felt like that before. of course it could be a novelty thing. But I don't think today was boring. But let us see how it goes tomorrow. I am afraid the thing that I check to measure it with is a very fragile idea. I should  instead measure things like, does it still feel like an obligation. Are you bored during that time, do you think about anything else? What is your only thought, your only focus, your life at that moment. I think it was a check check and check. Cardio baby. Is is an obligation? Well last monday it was. Tomorrow I want to see what I can do, how much better I can be? how full cna I keep my time during cycling. I have my immediate feedback, and my ulterior goal is met. Stay healthy as scooby says. Next I would slowly like to cut out on the extra stuff I eat, like the mini samosas and stuff, but lets see.
 
+Day 3 cardio baby. almost passing out!
 
 #### Working out
 Today I think I had the best press workout yet. Every workout for me, I have fabourite excercises. Like for the push workout it is by far the press. For the leg workout it is by far the squats. Why?
@@ -289,3 +363,4 @@ Today I think I had the best press workout yet. Every workout for me, I have fab
 I suspect this all has to do with motivation. The thing that I think of and look forward to is squats and press. I am literally just doing things during calf raises and barbell rows etc...
 
 Immediate feedback, shows in the results. Last week I could do 6 kg of flys, but I it was not too easy not too tough. I had the idea of using 8kg for as many reps as I can. I got to fucking 6 reps, something I couldn't image last week. Feedback. Challenge was up the whole workout today. Right from press to flys. If you are doing a weight that takes 12 reps and you find it boring and you find your peace in the last reps where you push your self, then start with a heavier weight, do less reps. Then you don't feel the continuous burn, so once you are done with the higher weights for  afew reps shift. This way the challenge level stayed tight, for me to keep up with. I am seeing improvement from last time. I am able to do more. The pump because of that and because of the challenge is killer.
+-->

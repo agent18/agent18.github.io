@@ -1,0 +1,50 @@
+---
+layout: post
+comments: true
+title:  "  Career "
+date:    11-10-2017 22:15
+categories: The Beginning
+permalink: /:title.html
+published: False
+---
+
+#### Building a satisfying career and making a difference
+
+>Career capital is anything that puts you in a better position to make a difference in the future, including skills, connections, credentials and runway.
+
+> young and you have a lot to learn.
+
+
+>Some of the best ways to gain career capital early on include:
+
+>Working in any organisation which has, or with any people who have, a reputation for high performance e.g. top consultancy or technology firms, or any work with a great mentor or team.
+
+Not the current one I am in right now!
+
+>Undertaking certain graduate studies, especially applied quantitative subjects like economics, computer science and applied mathematics.
+
+Possible options...
+
+>Anything that gives you a valuable transferable skill e.g. programming, data science, marketing.
+
+Possible options...
+
+>Taking opportunities which allow you to achieve impressive and socially valuable things e.g. founding an organisation, doing anything at which you might excel.
+
+???
+
+
+#### Mistake 1
+
+Invest enough in to workout in the long run, you cannot be mozart of Mark, in other news they did invest quite their time into their work.
+
+>If you want to get your dream job, then you’ll probably need to invest in yourself first.
+
+Most people reach their peak impact in 40.
+
+Expert-level performance in established fields requires 10-30 yers of focussed practice.
+#### [All the evidence-based advice we found on how to be successful in any job][ling2]
+
+
+[ling]:https://80000hours.org/career-guide/career-capital/
+[ling2]:https://80000hours.org/career-guide/how-to-be-successful/
