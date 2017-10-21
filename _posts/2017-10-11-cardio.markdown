@@ -78,3 +78,92 @@ ODO = 34.4
 dist = 7.83 km
 
 day = normal I think
+
+---
+
+14-10-2017
+
+time = 40.5 min
+
+avg = 22.4kmph
+
+Max = 33.1 kmph
+
+TTM = 2.23
+
+ODO = 49.7
+
+dist = 15.25 km
+
+day = normal I think
+
+---
+
+17-10-2017
+
+time = 21.0 min
+
+avg = 22.6 kmph
+
+Max = 33.7 kmph
+
+TTM = 2.44
+
+ODO = 57.7
+
+dist = 7.92 km
+
+day = normal I think
+
+---
+
+18-10-2017
+
+time = 20.53 min
+
+avg = 19.1 kmph
+
+Max = 37.2 kmph
+
+TTM = 3.05
+
+ODO = 65.6
+dist = 7.96 km
+
+day = normal I think
+
+---
+
+19-10-2017
+
+time = 20.57 min
+
+avg = 22.8 kmph
+
+Max = 36.6 kmph
+
+TTM = 3.26
+
+ODO = 73.6
+
+dist = 7.99 km
+
+day = normal day
+
+---
+
+20-10-2017
+
+time = 20.53 min
+
+avg = 19.1 kmph
+
+Max = 26.3 kmph
+
+TTM = 3.49
+
+ODO = 81.0
+dist = 7.36 km
+
+day = windy af
+
