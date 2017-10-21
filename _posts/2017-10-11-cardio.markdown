@@ -9,7 +9,7 @@ published: False
 ---
 
 --- Week 4 I think
-10 oct 2017 
+10 oct 2017
 
 time = 21 min
 
@@ -25,7 +25,7 @@ dist = 7.69 km
 
 ---
 
-11 oct 2017 
+11 oct 2017
 
 time = 21:43 min
 
@@ -62,3 +62,19 @@ day = normal I think
 
 ---
 
+13- 0ct 2017
+
+
+time = 21:03 min
+
+avg = 22.3 kmph
+
+Max = 29.2 kmph
+
+TTM = 1:41
+
+ODO = 34.4
+
+dist = 7.83 km
+
+day = normal I think

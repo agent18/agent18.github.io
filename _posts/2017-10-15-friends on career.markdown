@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  "  body "
+title:  "  Friends on career "
 date:    14-10-2017 17:18
 categories: The Beginning
 permalink: /:title.html

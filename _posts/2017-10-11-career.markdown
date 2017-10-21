@@ -1,12 +1,17 @@
 ---
 layout: post
 comments: true
-title:  "  Career "
+title:  "  Career"
 date:    11-10-2017 22:15
 categories: The Beginning
 permalink: /:title.html
 published: False
+
 ---
+
+#### Career
+
+
 
 #### Building a satisfying career and making a difference
 
@@ -48,3 +53,4 @@ Expert-level performance in established fields requires 10-30 yers of focussed p
 
 [ling]:https://80000hours.org/career-guide/career-capital/
 [ling2]:https://80000hours.org/career-guide/how-to-be-successful/
+[ling0]:https://80000hours.org/career-guide/world-problems/
