@@ -8,5 +8,9 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: No_twitter
 github_username:  agent18
 
+include : ["_pages"]
+
 # Build settings
 markdown: kramdown
+
+

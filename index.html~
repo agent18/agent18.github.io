@@ -4,21 +4,10 @@ layout: default
 
 <div class="home">
 
+  <!-- Picture 
   <div style="display: flex; justify-content: center;">
-
       <img src="/images/title.jpg" width="600" height="375"/>	
-
-  </div>
-  <!--This is commneted for now! This is the counter that is present at the bottom!	
-  <br><br><hr>
-
-      	<h1 style="color:red" class="Counter" align="middle">Number of Arguments clearly explained: </h1>
-      	<br>
-      	<h1 style="color:red" class="Count" align="middle">0</h1>
-	<h3 style="color:grey" class="Update-date" align="right">Last updated on Nov 15, 2015</h3>
-
-  <hr> 
-  -->		
+  </div> -->
 
   <h1 style="font-size:30px" class="page-heading">Posts</h1>
   
@@ -26,7 +15,7 @@ layout: default
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-	{{ post.excerpt }}
+	
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
