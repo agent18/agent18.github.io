@@ -46,23 +46,38 @@ I should admit that I am sometimes afraid to give up working out as I will loose
 
 #### First things first: other things
 
-Maintain your closest friendships. The [80k hours][80k_successful] explains several other ideas to keep yourself mentally and physically capable. This is added to the backlog for now.
+Maintain your closest friendships. There is a lot to be read about positive psychology that can improve our overall productivity and happiness, these need to be looked at as well. [80k hours][80k_successful] explains several other ideas to keep yourself mentally and physically capable. This is added to the backlog for now.
 
 profession, main salary, best saving, pressure, tax, savings expenditure, bonus and % increase, per hour payment, in 2 years pay and saving and in 5 years pay and saving
 
 #### Career data I have
-I am a mechanical engineer, I am 27 years old. I live in holland and earn 40k euros/ year working at a precision engineering company as a design engineer. My best saving per year will be 16 k euros, with reasonable living. It's a 9 to 5 job, relatively no pressure. I am doing design work as well as solving and troubleshooting for issues that occur in my company. For not so big companies, unlike ASML, this is a "pretty good" salary for a starter after masters according to my peers. My tax is about 26%, savings about 40%(16k), 34% (13,6k) expenditure. I think I can expect a 3 to 5 % increase in pay every year, maximum (1.5k after taxes). Taking into account my holidays (28 days/ year) I get paid about ~21 euros an hour.
+I am a mechanical engineer, I am 27 years old. I live in holland and earn 40k euros/ year working at a precision engineering company as a design engineer. My best saving per year will be 16 k euros, with reasonable living. It's a 9 to 5 job, relatively no pressure. I am doing design work as well as solving and troubleshooting for issues that occur in my company. For not so big companies, unlike ASML, this is a "pretty good" salary for a starter after masters according to my peers. My tax is about 26%, savings about 40%(16k), 34% (13,6k) expenditure. I think I can expect a 3 to 5 % increase in pay every year, maximum (1.5k after taxes), leading to a saving of 17.5k.
 
-My friend works at shell, holland in a management role, fresher just like me. Shell is big company, and so he gets paid 45k when he started. 12.5k increase per year, which comes to 27% hike for the first year. He would earn 52.5 k in the second year. It is a relatively high pressure job, where you are responsible for a lot of important things. 2 years here managing people, I guess you can get a good hike of atleast 20% when jumping companies. Taking into account his holidays, he gets paid about ~25 euros per hour in the first year and 30 euros in the next year. With his kind of earning, I could have a tax of 30%, expenditure of 27.2 % (13,6k), and a saving of 22k euros (42.8%).
-Growth is crazy.
+My friend works at shell, holland in a management role, fresher just like me. Shell is big company, and so he gets paid 45k when he started; 12.5k increase per year, which comes to 27% hike for the first year. He would earn 52.5 k in the second year. It is a relatively high pressure job, where you are responsible for a lot of important things. 2 years of managing people is great experience and can further your salary by jumping companies. I guess you can get a good hike of atleast 20% when jumping companies. For me this would mean a tax of 30%, expenditure of 27.2 % (13,6k), and a saving of 22k euros (42.8%). But the growth is crazy for holland standards.  At the end of 1st year a saving of ~19k. At the end of 2nd year a saving of ~27.5k. We are looking at a 100k salary in 5 years. A possible saving of 50k in 5 years.
 
-My colleague who is a fantastic electrical engineer, who knows his shit, who is probably as important as me in the company, gets 52 k now after 3 years of work here. I cannot believe all those years of work has got him this far only when my friend can earn more than him.
+My colleague who is a fantastic electrical engineer 48 years old, who knows his shit, who is probably atleast as important as me in the company, gets 52k now after 3 years of work here. He is 48 I cannot believe, all those years of work has got him only this far, when my friend from shell can earn more than him in a year.
 
-If I had a career at ASML, within the same profession, as it is a big ass company, the pay is more, the bonuses are crazy depending on what the record the company breaks each year. With ASML the start salary is 46k. Roughly the tax is 30%, expenditure still the same of 13,6k (29%), and a saving of 19k (41%). Also there is this thing called profit sharing within the company and I heard last year everyone got a bonus of 20% (9.2k), when taxed at 50%, becomes an extra 4.6k in the pocket, making the annual possible savings as 23.6k. I don't know what the salary hike is with every year, It has to be around 10% atleast (in between what shell and my company offers.)
+If I had a career at ASML, within the same profession, as it is a big ass company, the pay is more, the bonuses are crazy depending on what record the company breaks each year. With ASML the start salary is 46k. Roughly the tax is 30%, expenditure still the same of 13,6k (29%), and a saving of 19k (41%). Also there is this thing called profit sharing within the company and I heard last year everyone got a bonus of 20% (9.2k), when taxed at 50%, becomes an extra 4.6k in the pocket, making the annual possible savings as 23.6k. I don't know what the salary hike is with every year, It has to be around 10% atleast (in between what shell and my company offers). This would amount to 3.5k euros. In total at the end of first year I would be able to save ~19k+4.6k = 23.6k. At the end of second year I would be able to earn an additional 3.5 k = 27.5k.
 
 I want to check how the growth is within ASML. Maybe this career and slowly moving to a design leader position where I don't do stuff, but manage people, will make me earn more.
 
+A friend in the same field as me, growing in a general manner (also like me) says he can save 32k euros (38k$) off a 81.7k euros (95k$) first year salary in the bay area US. I don't know how the pay hikes in the US are. Assuming a 5% increase we get about ~36k in savings at the end of 2nd year.  Work timings are quite erratic for the first 2 years, with long hours and pressure. But after those 2 years the company claims its going to be different, with possibilities to change to different departments.
+
+Another friend doing data science in Apple earns about 130k in his first year. Which means it is possible to save 50k. In fields like these, it is possible to get good hikes. My friend claims he will get atleast a 30 to 40 k hike in the next year. This would mean that you could potentially save 70k euros.
+
+Another friend who did her electrical engineering in india, did her masters in engineering management. This fetched her a job in analytics & finance, leading to a pay of only 85k after 3 years in Detroit in JP morgan. She can save 15k easily. I will make that 25 k$ (21.5k Euros) as a miser. In 2 more years she expects to reach 120 k easily. An estimated saving of 36k Euros.
+
+Another friend who is in Deloitte, also gets paid about 85k euros and this is after 3 years of working there should be saving 21.5k euros now  and in 2 more years, 36k euros per year.
+
+A first peak into the data shows me that I probably need to work in the US, becuase the pay and pay rise is higher than what is achievable here. It can be admitted that the work culture seems to be quite different than in holland, with the clocking of more hours to taking up a lot of pressure. If I am going after maximizing money, as long as I don't have a startup, I should probably go to the US. As a last point Data Science seems very attractive for 2 reasons, [80k hours][80k_problems] recommends it for people to pursue rather than mechanical engineering, and the big bucks seem to be located here especially with top companies like Google, Apple etc...
+
+If one has to go to the US, the typical path is via Masters. There is also another route of directly applying to companies but I am told the chances are much lower. In case Data science is the option, it could possibly be done by first migrating to a job in holland in Data science and then trying to jump to US with rich experience. The Masters route although a typical one, is going to cost me a few years of uncertainty and a lot of money. There are other factors that affect your chance of getting into the US, such as the work visa. Maybe jumping career here in holland, getting the citizenship in the next 4 years and then taking a bigger risk to go to the US makes sense. In case things don't work out, we can always come back to holland and continue what we were doing here once we have a citizenship.
+
+The whole thing is quite fuzzy. I will collect more data and ideas of attempting migration and write another essay next week.
+
+<!--
 My cousin from dubai
+
 
 My friend from germany in a tech job, similar to mine in the sense that if I go to that country, I can earn pretty much the same. Unless its computer science, you don't really get the big bucks in engineering, unless of course you are part of the management.
 
@@ -73,7 +88,7 @@ My brother works for a graphic card company in the bay area as an antenna design
 
 I have seen others in the industry, and by far the biggest buck earner is the guy from google doing data analytics for products. He says there is a lot of pressure, but then, he still manages to do 9 to 5. of course he is brighter than me and worked in the field of analytics for 2 years and did a masters in an ivy league institute. But the DA job he claims he can get 200k easily by the next year. I also checked with him how much he can save, he said it was about. You get 30% taxed, I think he said he can save about 33k $, which amounts to about 29 k euros. But that is what he can save with all his trips abroad and a posh house. Maybe I can save 43k, which could be 36k euros.
 
-AShwin in the same field as me, growing in a general manner (also like me) says he can save 38k $ which is 32k euro. everything we get in addition to 95k with a tax of 30% will be savings. Whcih means for a salary of 200k$, you could potentially save 32k Euro + 51k euros. This could be in 5 years for me for my journey from here. 80k Euros mother fucker. savings. 52 fucking lakhs a year.
+
 
 In 5 years with the best known example of money making (shell) I could save
 
@@ -142,7 +157,7 @@ Most people reach their peak impact in 40.
 
 Expert-level performance in established fields requires 10-30 yers of focussed practice.
 #### [All the evidence-based advice we found on how to be successful in any job][ling2]
-
+-->
 
 [ling]:https://80000hours.org/career-guide/career-capital/
 [ling2]:https://80000hours.org/career-guide/how-to-be-successful/
