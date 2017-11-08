@@ -177,3 +177,21 @@ European Citizenship
 canadian pr
 
 australian pr!
+
+
+#### Vinesh microsfot
+
+Goal: Considering moving to forin
+
+What do you do in microsoft?
+
+If you don't mind how much do you earn?
+
+growth in 5 years?
+
+what is your plan?
+
+How to move to forin?
+
+
+job security, job pressure, 
