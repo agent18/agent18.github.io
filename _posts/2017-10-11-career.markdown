@@ -2,10 +2,10 @@
 layout: post
 comments: true
 title:  "  Career"
-date:    11-10-2017 22:15
+date:    1-11-2017 22:15
 categories: The Beginning
 permalink: /:title.html
-published: False
+published: True
 
 ---
 

@@ -1,164 +1,307 @@
 ---
 layout: post
 comments: true
-title:  "  Career"
-date:    11-10-2017 22:15
+title:  "  Career-Dream Job-first draft"
+date:    08-11-2017 21:15
 categories: The Beginning
 permalink: /:title.html
-published: False
+published: True
 
 ---
 
-#### First things First: Savings
-Whether you are saving to give or whether you are going to do research to solve the [big questions][80k_problems], or you are just don't know what to do and want to gain solid transferable CC (Career Capital), there are somethings that we need to take care of. Savings for that rainy day. Also the goal is to "Give" all through your life, to be productive as hell, so we will be investing and focusing on things that gets us this longevity.
-
-According to the [80k hrs website][80k_successful], they suggest to save for 6 months to 1 year of comfortable living. This is priority. Until then we need to cut back your donations to 1%. In case shit hits the roof suddenly, in case you want to take some risks or make some big career changes, you have the flexibility and saving cushion to fall back on.
-
-Well, it might appear that, that is that. Well it's not. We need to save for retirement. I don't know how much I need, I don't know what is good. I don't know how to factor like inflation etc... Without getting into the detail of it, I am again citing [80k articles' ][80k_successful]. Their rule of thumb is to save 15% for retirement. Right now I shall not question it. As and when I find time to read about it, I shall optimize the retirement savings.
-
-My situation right now is that I have to give money back to my parents (no pressure), in the regime of 36k euros. It will take 3 years of good savings to do that. I will get back to retirement savings once I have paid my parents this money. It feels really wrong to talk about this now. But my parents are probably going to leave me a house worth 133k euros in India, plus 13k euros in savings atleast, and probably these 36k euros will come back to me as well, as they are extremely well off. So for these 3 years, I am not going to be worried about retirement savings, but just will keep my cushion, so that I can take the decisions that I want to and can be independent.
-
-In conclusion, these are some crucial years for me, I will keep with me 6k euros (6 months worth expenditure), and the rest, I will send it back to parents. I add to the backlog to read the recommended books regarding financial matter as in the  [80k hours website][ 80k_successful].
-
-#### First things first : Physical health
-
-Having had ailments like RSI and even to this day back pain and knee pain (seemingly not serious), and noting the alarm from the [80k website][80k_successful], it seems wise to invest in physical health. This means eating well and regular exercising. By the end of December I will read  more and come up with concrete parameters regarding health and what exactly I should do. One of the parameters I believe is fat percentage, that directly relates to good/bad health. For now, I am strength training 4-5 days a week and doing cardio for atleast 20 minutes everyday as per the "advice" of an STM. I also play sport for about 2 hrs on sunday.
-
-It's been 2 months since I started the [intermediate workout of scooby][scooby_intermediate]. 3 years back when I tried the intermediate workout I became "bedridden" for a while. Its going well now in the sense that I am working out to my best current capability and am not "bedridden" in any way, by that I mean I try to keep the workout sessions challenging. I could never imagine doing squats a year and a half ago. From time to time I still do get BP. I don't know if it is associated with my 8 hr sitting at work, or something I am missing in food, or my lack of posture at home while writing sitting on the bed, or stressing my back during workouts (barbell rows and deadlifts).
-
-I am particularly concerned that maybe some exercises like the barbellrow and the deadlifts are probably causing some pain, as I remember seeing backpain when performing those exercises recently. Usually my rule of thumb is that if there is no serious pain in the back after a workout, the next day or a few hrs from the workout then, all is good. Having learn't about RSI, I am skeptical about any pain in the back, neck, or knee. It could all be in the head. But what about the off-chance that your form is shit and you are actually screwing your back? I would expect increased frequencies of backpain or more lasting pain.
-
-Right now I don't measure anything, like the number of occurrences and duration of bp, but maybe I should?
-
-A quick test would be to not do these excercises for a week and see if I have the typical pains I do have during the week, such as pain when sitting etc... or I could log the pain when I get them, for 2 weeks, and see if it has anything to do with the type of workout. I would suspect to see patterns related to days when I do pull workout (barbell row) and leg workout (squats & Dead lifts).
-
-One of my biggest worries is if I really minutely keep tabs of this whole situation, constantly check if I have pain or not, like I did 3 years back, I am internally on high alert for pain. As I write this and think about it, I feel pain already. This is the type of shit I want to avoid. Over the past many months, my mantra has been not to give a fuck about pain, especially when it comes for seemingly silly reasons, for example having a bad posture while writing. I have read a lot of articles from people with RSI and chronic BP. The goal is to continue doing things, unless there is a crazy alarm. I remember this amazon review of this guy who shared his story of being bedridden to I-can-dance-again. It was all about challenging the status quo and not being afraid to challenge the body about it's alarms.
-
-Sure, I could start doing machines instead of doing the excercises where the form could go wrong. I will look into it. My current gym, does not have too many machines, as it is a small gym. I will look into the options. I don't want to spend too much time in the gym as a result. As long as I am able to work the same muscles shouldn't be a problem.
-
-In summary, I think I am saying I will stick to slow form and low weights in cases where I think it is serious and slowly build up. For squats I initially started with nothing and over 3 or 4 months moved slowly to a barbell. Recently I am pushing further and further to my limits as I am more confident with it. In case I see pain beyond what I think is normal (normal being the thing I feel when I do squats), I will stop or try again with lower weights. I will roughly keep tabs about BP and see how I am doing over time, by that I mean, I will do it on paper, in a way that I can't see the history, so that I don't worry myself causing more pain. I will review this once a week.
-
-**Stress**
-I should admit that I am sometimes afraid to give up working out as I will loose my gains or my progress. Sometimes, certain things make life so busy that you can't go to a workout, it's not the end of the world. Although, Cardio should ideally not be missed. Only recently have I come to terms about not stressing about missing a workout or not worrying that I am unable to make progress in weights in an exercise. Things take time. I want to tell myself that the visible gains will take a few years. Gains such that I will be able to shoulder press 30kg with one hand will take atleast a year. I want to focus on the now, and how I feel during a workout, do my best at eating well and reaping the best gains possible.
-
-[scooby_intermediate]:http://scoobysworkshop.com/intermediate-workout-plan/
+I am going to go step by step with the 80k blog and see where it takes me. I see there are lot of great points, amazingly evidence based. I would like to read about it and summarize the contents to my liking. Based on the old articles, it is clear to us that we want to use our time in the best way possible to create as much as impact as possible. This could mean donating 10k euros a year or 100k $ a year based on what is possible and high impact.
 
 
-#### First things first: other things
+### You can be wrong
 
-Maintain your closest friendships. There is a lot to be read about positive psychology that can improve our overall productivity and happiness, these need to be looked at as well. [80k hours][80k_successful] explains several other ideas to keep yourself mentally and physically capable. This is added to the backlog for now.
+Deep down you don't know what you want to do. We make wrong decisions all the time.
 
-profession, main salary, best saving, pressure, tax, savings expenditure, bonus and % increase, per hour payment, in 2 years pay and saving and in 5 years pay and saving
+> We are bad at predicting what will make us happy
 
-#### Career data I have
-I am a mechanical engineer, I am 27 years old. I live in holland and earn 40k euros/ year working at a precision engineering company as a design engineer. My best saving per year will be 16 k euros, with reasonable living. It's a 9 to 5 job, relatively no pressure. I am doing design work as well as solving and troubleshooting for issues that occur in my company. For not so big companies, unlike ASML, this is a "pretty good" salary for a starter after masters according to my peers. My tax is about 26%, savings about 40%(16k), 34% (13,6k) expenditure. I think I can expect a 3 to 5 % increase in pay every year, maximum (1.5k after taxes), leading to a saving of 17.5k.
+> It turns out we’re even bad at remembering how satisfying different experiences were
 
-My friend works at shell, holland in a management role, fresher just like me. Shell is big company, and so he gets paid 45k when he started; 12.5k increase per year, which comes to 27% hike for the first year. He would earn 52.5 k in the second year. It is a relatively high pressure job, where you are responsible for a lot of important things. 2 years of managing people is great experience and can further your salary by jumping companies. I guess you can get a good hike of atleast 20% when jumping companies. For me this would mean a tax of 30%, expenditure of 27.2 % (13,6k), and a saving of 22k euros (42.8%). But the growth is crazy for holland standards.  At the end of 1st year a saving of ~19k. At the end of 2nd year a saving of ~27.5k. We are looking at a 100k salary in 5 years. A possible saving of 50k in 5 years.
+>Some people imagine that the answer (to life) involves discovering their passion through a flash of insight, while others think that the key elements of their dream job are that it be easy and highly paid. - [80h hrs][ling4]
 
-My colleague who is a fantastic electrical engineer 48 years old, who knows his shit, who is probably atleast as important as me in the company, gets 52k now after 3 years of work here. He is 48 I cannot believe, all those years of work has got him only this far, when my friend from shell can earn more than him in a year.
+>We’ve reviewed two decades of research into the causes of a satisfying life and career, drawing on over 60 studies, and we didn’t find much evidence for these views.- [80h hrs][ling4]
 
-If I had a career at ASML, within the same profession, as it is a big ass company, the pay is more, the bonuses are crazy depending on what record the company breaks each year. With ASML the start salary is 46k. Roughly the tax is 30%, expenditure still the same of 13,6k (29%), and a saving of 19k (41%). Also there is this thing called profit sharing within the company and I heard last year everyone got a bonus of 20% (9.2k), when taxed at 50%, becomes an extra 4.6k in the pocket, making the annual possible savings as 23.6k. I don't know what the salary hike is with every year, It has to be around 10% atleast (in between what shell and my company offers). This would amount to 3.5k euros. In total at the end of first year I would be able to save ~19k+4.6k = 23.6k. At the end of second year I would be able to earn an additional 3.5 k = 27.5k.
+Boom! Passion and 'what makes you happy' and the Robin Sharma type of advice can go straight into the bin.
 
-I want to check how the growth is within ASML. Maybe this career and slowly moving to a design leader position where I don't do stuff, but manage people, will make me earn more.
+> You're passion can lead you astray - [80h hrs][ling4]
 
-A friend in the same field as me, growing in a general manner (also like me) says he can save 32k euros (38k$) off a 81.7k euros (95k$) first year salary in the bay area US. I don't know how the pay hikes in the US are. Assuming a 5% increase we get about ~36k in savings at the end of 2nd year.  Work timings are quite erratic for the first 2 years, with long hours and pressure. But after those 2 years the company claims its going to be different, with possibilities to change to different departments.
+You might want to become an ice cream vendor or a bus driver when you were young or even now. But there is no telling that you will be able to create the impact you need
 
-Another friend doing data science in Apple earns about 130k in his first year. Which means it is possible to save 50k. In fields like these, it is possible to get good hikes. My friend claims he will get atleast a 30 to 40 k hike in the next year. This would mean that you could potentially save 70k euros.
 
-Another friend who did her electrical engineering in india, did her masters in engineering management. This fetched her a job in analytics & finance, leading to a pay of only 85k after 3 years in Detroit in JP morgan. She can save 15k easily. I will make that 25 k$ (21.5k Euros) as a miser. In 2 more years she expects to reach 120 k easily. An estimated saving of 36k Euros.
+### Dream job
 
-Another friend who is in Deloitte, also gets paid about 85k euros and this is after 3 years of working there should be saving 21.5k euros now  and in 2 more years, 36k euros per year.
+A dream job would have the [following][ling4]:
 
-A first peak into the data shows me that I probably need to work in the US, becuase the pay and pay rise is higher than what is achievable here. It can be admitted that the work culture seems to be quite different than in holland, with the clocking of more hours to taking up a lot of pressure. If I am going after maximizing money, as long as I don't have a startup, I should probably go to the US. As a last point Data Science seems very attractive for 2 reasons, [80k hours][80k_problems] recommends it for people to pursue rather than mechanical engineering, and the big bucks seem to be located here especially with top companies like Google, Apple etc...
+1. You would be working on something you are good at
 
-If one has to go to the US, the typical path is via Masters. There is also another route of directly applying to companies but I am told the chances are much lower. In case Data science is the option, it could possibly be done by first migrating to a job in holland in Data science and then trying to jump to US with rich experience. The Masters route although a typical one, is going to cost me a few years of uncertainty and a lot of money. There are other factors that affect your chance of getting into the US, such as the work visa. Maybe jumping career here in holland, getting the citizenship in the next 4 years and then taking a bigger risk to go to the US makes sense. In case things don't work out, we can always come back to holland and continue what we were doing here once we have a citizenship.
+1. Your work would have direct(saving lives directly) or indirect impact (donations)
 
-The whole thing is quite fuzzy. I will collect more data and ideas of attempting migration and write another essay next week.
+1. [Flow][motivation] while working; lack of major negatives (unfair pay); supportive colleagues
 
+1. Moderate amount of stress associated with you being in Flow can exist.
+
+### Shaking the foundation of everything you know?
+
+Developing skill seems to be what I should focus on. Theoretically, I could be good at anything provided I practice and have the space to practice. So right now I guess this means to look for work in industries where I can create the maximum impact for the world over the 80k work hours of my life.
+
+> the evidence suggests that money and avoiding stress aren’t that important.
+
+Money might be important to us to create larger impact, but it's a relief to know that stress might not be as serious as I think.
+
+---
+
+### Stress
+
+**Why are we talking about stress?**
+
+I have been afraid about stress. Stress can kill apparently. Should I be concerned?
+
+What I actually want is to be useful/productive for a prolonged period of time in human services whether be it earning to give or research or directly solving a problem. I think it would be hard for me to work in a very stressful environment for the rest of my life or even a year or two. By that I mean what?
+
+I want to successfully complete my 80k hrs and not die prematurely, because I risked bad cardio vascular profile owing to high stress or bad eating. It would be a shame to die at 47 of a heart attack for example. This should be motivation enough to look at the type of job or atleast how to live with stress.
+
+**What do you mean by stress?**
+
+There are two vivid cases of stress I can imagine. At least on 3 occasions I made a mistake and had to inform my boss later that I made a mistake. The last time I burried my mistake for about 6 months straight, only to see in the end that it was not an issue. I remember, the horror, the prolonger stress. Surprisingly, when I did take a look at the error again, it was not that big of a deal. Anyways, some of the worst days of my life. Life is much different now. Somehow the job I am in right now, has these review processes, they are very understanding that it is easy to make mistakes and I am almost not worried about such a thing within the scope of my job anymore.
+
+Another example, is when I had to find a roommate for my current house, else I was going to loose around 2 months rent. The sad part was it kept prolonging for about 2 months the whole ordeal, as it was not the right season and people kept misleading me regarding taking the room. Totally not worth it.
+
+I guess one of the times I was stressed about my master thesis was when my computer crashed at a very crucial point in the thesis, and I had to try different ways to bring it back to life. I don't even mind this, as they were quite temporary. But the first two cases of stress are by far the worst, I would like to have nothing to do with it. I suspect even loosing a job is not going to be as stressful. Things where lot of my personal money is on the line, times when I feared being confronted by my boss because I made a mistake, and having crazy deadlines while things going wrong everywhere, are not really what I want. I want to avoid them as I suspect they will kill me mentally. I don't expect regular jobs to be of that scale. Although I should talk to a few friends about it. I believe life in Holland and also Europe is much more relaxed compared to the West.
+
+**Is stress good/bad ?**
+
+> ”A widely used definition of stressful situations is one in which the demands of the situation threaten to exceed the resources of the individual"
+
+Science seems to suggest that there is a lot of evidence pointing that STRESS is BAD. In this [80k hrs][stress_80k] website they discuss it in detail. A quote from the website:
+
+> “This OSRev [Overview of Systematic Reviews] confirmed that work-related stress is an important social determinant of CV [Cardiovascular] diseases and mortality.”
+
+Scared? But wait! Kelly Mcgonigal a leading doctor of phscycology in her [TED Talk][stress_kelly] says otherwise.
+
+**Debunking Kelly Mcgonigal?**
+
+Stress has always been viewed as harmful. Kelly Mcgonigal says that it need not be true and that our view on the stress is key. Kelly bases her understanding on 3 studies according to the [TED Talk][stress_kelly].
+
+1. 30k people tracked regarding how stressed they were in the last year and if they viewed stress as harmful to their health. Based on who died using public records, they understood that people who viewed stress as not harmful, had the lowest risk of dying.
+
+But what Kelly doesn't seem to mention is the chance that the correlation need not necessarily imply causality.
+
+>”There is a simpler, less mysterious way of accounting for the results: people who experience stress but who suffer minimal ill effects from it come to believe that stress cannot hurt them, whereas people who do suffer ill effects come to believe that stress is harmful. Voilà, we now have the correlation those researchers found but with belief as an outcome rather than a cause.”- [Robert Epstein][stress_80k]
+
+2. Study at Harvard where there was a control group and a test group, with the test group being told that stress is not harmful before hand. The cardiovascular profile of the test group looks like the profile of someone with courage and joy.
+
+This only informs us that the short-term impacts are not harmful. In other words this might point only to acute stress and viewing it the right way would lead to healthy cardiovascular proflies. But great. Not all stress is bad.
+
+3. A study of x people pointing to the fact that caring created resillience, when you "connect" with others in stress
+
+With this I guess Kelly wanted to stress (pun-intended) the need to connect with people in stress and reach out to people as it builds better resilience.
+
+> When you choose to view stress in this way, you are not just getting better at stress, you are telling yourself that you can trust you to handle all the life-challenges and you are remembering that you don't have to face them alone. - Kelly Mcgonigal
+
+[Kelly Mcgonigal's take on stress][stress_kelly] towards the very end of her ted talk says this:
+
+> "Go after what is creating meaning in your life, and then trust yourself to handle what follows"
+
+One, I am afraid she might have just pulled it out of her ass. How did she come to the conclusion. It feels right too, it resonates with the SITH, BUT...
+Two, What all classifies as creating meaning in your life I am not sure. Atleast help me with examples. This whole EA thing gives me meaning, but I rarely think about it while working. And I suspect the stress coming from work, might be it's own thing not related to meaning.
+
+**Other research**
+
+> The researchers found that heart disease and mortality rates increased steeply with every step down the ladder. -[80k hrs][stress_80k]
+
+Researchers found on multiple occasions that even though some people had much high demands than their subordinates (for example people ranking higher in the military than the others), these people had twice as low mortality rates as their subordinates. An explanation for this is that, "It *seems* the negative effects of higher job demands in higher ranks were offset by the higher sense of control, *but overall, higher job demands were still associated with higher risk of heart disease.*", says [80k hrs team][stress_80k].
+
+Even in this case the authors themselves say that this might not mean causal data as the leaders might have had a predisposition to lowstress levels and that is what might have caused them to be leaders in the first place. Another argument by the authors is that the leaders might not really have high stress.
+
+>”Research also suggests that moderate levels of stress can have positive effects on job satisfaction and organizational commitment while reducing turnover intent.
+
+In summary, research suggests the presence of stress that is harmful and stress that can be made/is useful.
+
+[A clinical assistant professor, an harvard alumini][stress_harvard] is cited by [80k hrs][stress_80k] and unlike the [80k hrs][stress_80k] website this guy goes on to give examples of good and bad stress levels, which is what we need.
+
+**What is good stress level?**
+> "There's good stress, there's tolerable stress, and there's toxic stress," says Bruce McEwen of Rockefeller University, an expert on stress and the brain who trained both Sapolsky and Dhabhar - [Clinical assistant professor][stress_harvard]
+
+There is this constant talk in the [80k hrs website on stress][stress_80k] that moderate amount of stress should help us. But what is moderate stress level?
+
+>The good, moderate level of stress is when the demands of a situation roughly match the abilities of the person to deal with them - [80k hrs website on stress][stress_80k]
+
+This looks like but [FLOW][motivation], as discussed in earlier posts.
+
+> Situations we typically perceive as stressful—a confrontation with a co-worker, the pressure to perform, a to-do list that's too long—are not the toxic type of stress that's been linked to serious health issues such as cardiovascular disease, autoimmune disorders, severe depression and cognitive impairment.-[Clinical assistant professor][stress_harvard], *no citation in the article! The author might have pulled it out from his ass.*
+
+>THE POINT AT WHICH CHRONIC STRESS turns toxic is when it becomes unrelenting and traumatic, and when sufferers lack control and social support. "What we tend to mean when we talk about stress are the daily experiences of time scarcity, role uncertainty, social conflict and pressure," says Kelly McGonigal,-[Clinical assistant professor][stress_harvard]
+
+To me this sounds like the cases of stress I had detailed in the beginning, which I obviously want to avoid, such as when large money is at stake or when I made a mistake at work and had to face my boss (who would fuck me with his disappointment) to clear my conscience.
+
+Worst case if shit hits the roof, Cognitive-behavioral interventions can be looked at.
+
+**Conclusion**
+- There seems to be quite lack of conclusion about causation and correlation in the research
+- Evidence suggests that acute stress can be beneficial. (No contest!)
+- It is important to *think of stress as aiding the body* and not causing harm, to feel energised and not be afraid.
+- Keeping stress such that you balance your skills and challenges, is important (keep work in flow regime)
+- High Autonomy and control might be able to offset high stress in the form of demands (causal-correlation confusion also exists here)
+- Social support to you and by you to others, can help you live much longer by creating the resilleance you need.
+
+From the charts on conclusions [80k hrs website][stress_80k] and [harvard alumini webiste cited by 80k hrs][stress_harvard], which I guess the respective authors just came up with, despite not knowing clearly if the data was causal or correlated, here it a chart from [80k hrs][stress_80k]
+
+![alt text][stress_summary]
+
+
+My final 2 cents is this: View stress from the job, just the regular ones like finishing something on time, working on an unknown problem, doing something new, as something that energizes you. Know you can handle it and it is going to make you healthier. Deadly types of stress that last longer than a day, for large time periods, where in you have no sense of control is bad and damaging for health, and ultimately your purpose.
+
+I am not that scared of stress anymore.
+
+ToDo: Contact friends to understand stress level of different types of work in US. Some how with holand I am not too afraid, this countyr and its people are chill AF. It's probably the whole Europe.
+
+---
+
+### Long hours
+
+I worry about long hours working. I immediately imagine a dull job in India, where I have to work 6 days a week without any vacation and long hours where in I bore myself to death. That's just because of some poor [Availability](https://en.wikipedia.org/wiki/Availability_heuristic) I have. But that need not be the case, and also I am quite well educated and prefer handling challenging problems. Unless I am going to be doing some business, I don't see myself going back to India.
+
+Anyways,
+
+**Evidence**
+Towards the last year of my Bachelors, I think after I went to the college and came back (a period of 12 hrs), I still had energy to come home and clock 2 hrs of studies for my Gate exam. Hmmm.
+
+During my work as a project associate in IIT, I remember regularly clocking a lot of time at work (more than 8 hrs). I remember doing multiple all-nighters to make sure work got done (mostly in fear of living up to the expectations of my boss), but nevertheless. There was one time when I had to submit a paper in 15 days. I pulled many all-nighters in that short period (12-18 hrs per day).
+
+During my masters, there was a time, when 2 months straight, I had time to do nothing else than study. I ate outside as much as needed. I think I clocked around 12-14 hrs studies everyday even weekends.
+
+During the entire 2nd year of my masters, I pretty much worked everyday. I had courses, internship, thesis. I saw no option but to do well in everything, which somewhat meant to clock as many hours as possible, as there was always things to do; and I probably worked for 8 to 14 hrs everyday, including weekends.
+
+I mean what else do you do with your time? You wan't to make the most of it.
+
+Over the last year I have been clocking an additional 2 hrs at home (on and off), after getting back from an 8 hr work day. For the past 2 months, I have been doing an 8 hr job from 9 to 5 followed by 1 hr at the gym followed by 21 minute cardio, followed by ~2 hr work at home on other important things.
+
+At my current work right now, although sometimes it is boring to work, the last week I was really investigating something, failing a lot. Many days, I just went back home because I was not paid to do it or that the gym closes soon and I have to be at the gym. I would have been happy to spend time and get to the bottom of the issue say if I was paid for extra hours. Here working extra hours is going to get me nothing other than make me closer to closure. I could just come and continue the work the next day, no questions asked. Working extra hours perhaps doesn't generate enough extra value needed. If this was my thesis, I was the sole shareholder and I would have not cared one bit how much time I was spending. Work done was more important for me. Working 9 hrs a day for 5 days a week does not seem bad atall.
+
+I mean what else do you do with your time? You wan't to make the most of it. Relax? Well is it fun to relax?
+
+All the above parts of my life, seem to have either some personal stake (very important to finish my masters well), involved a lot of money and I suspect had flow. If it was a data entry job, I would have probably hacked myself to death. But I was constantly thinking, maybe I was even enjoying it. Maybe I was in flow, because I could just keep working followed by more working.
+
+In India, my cousin in finance, claims he likes his job, and I think clocks 12 hrs a day 5 days a week. My friend in a similar position in finance, clocks 12 hrs. I wouldn't suspect the job of my friend at a news station needs him to clock any less than 10 hrs per day. My dad worked for the last 15 years in a job with 5.5 to 6 day workweek. He often came back home late. I suspect he clocked ~10 hrs, followed by the drive of 3 hrs/day.
+
+People in the US like my brother clock 12 hrs a day to finish work (as claimed by him in the last 2 months). they do get paid real good. Most of my schoolmates work in the US and will probably settle there. I suspect I am over thinking this.
+
+This was it, Say I am working in a startup, I should have no problem putting in long hours, considering that I will be rewarded heftily for my work, either in terms of money or any other useful gains. If I can make 100k $ extra, I don't mind working for 12 hrs a day 5 days a week. The only other use of my time besides work would be to do other activities that would create more impact such as workout, cardio, writing and thinking critically.
+
+As long as the job is not mind-numbing, putting in long hours I am afraid will not be a problem. So it seems that flow is an important criterion and probably "dit is het" (this is it).
+
+Conclusions:
+- It is not impossible to work long hours.
+- I have worked long hrs all along in my past
+- India and US are great examples for people clocking more than the 8 hrs required.
+- Personal stake, hefty money motivators, along with flow would seem like the ideal partners for long working hour jobs
+
+I can work long hours if I am paid good enough?
+
+ToDo: Contact friends and get average time of work for the type of work they do.
+
+---
+
+### Vacations
+
+Ideally once a year, back home for 4 weeks seems alright, but...
+
+During the time I was a project associate, before my masters, I didn't have vacations. I took holidays to apply for masters and nothing else.
+
+During my masters, I went away atleast once a year, but I suspect it is mostly because I was going to feel lonely in my city as all my friends left for vacations.
+
+At work it has been 11 months, since I took a holiday. Going on a holiday implies spending money. It's a really costly affair to take a vacation, and it's not worth it to do so often. I am for some adventure, but the price I think outweighs the actual gains. However I am spending quite some money to go back to India to spend some of my mandatory vacations days (23 working days). I could maybe use these days in a different way by taking time off from work now and then to do other important things.
+
+Including this year and last, I think I took a vacation once towards the end of the year. My only vacation I like is either to India, where I can do my own thing or to london where my cousins are at. My goal is to do nothing, and work on things that are important to me, with people cooking for me  and I am doing my own thing.
+
+Here I have 27 vacation days, sometimes I can have as much as 40 vacation days as opposed to the US where there is only 15 vacation days, but I guess I can deal with it, as have several others who deal with it as well.
+
+
+#### Summary
+
+We briefly saw what we might like in a job. We saw that stress might not be such a virus, working long hours when in flow is not really a problem, and that vacation days are not really a deal breaker. More on this to be continued. :)
 <!--
-My cousin from dubai
+#### References:
 
+1. [https://80000hours.org/career-guide/job-satisfaction/#dont-aim-for-low-stress][ling4]
 
-My friend from germany in a tech job, similar to mine in the sense that if I go to that country, I can earn pretty much the same. Unless its computer science, you don't really get the big bucks in engineering, unless of course you are part of the management.
-
-
-My friend body, works for google in the bay area.
-
-My brother works for a graphic card company in the bay area as an antenna designer. After 5 years of work ex, he gets paid130k with other options(for now I will not value them or value them at an additional 10k)
-
-I have seen others in the industry, and by far the biggest buck earner is the guy from google doing data analytics for products. He says there is a lot of pressure, but then, he still manages to do 9 to 5. of course he is brighter than me and worked in the field of analytics for 2 years and did a masters in an ivy league institute. But the DA job he claims he can get 200k easily by the next year. I also checked with him how much he can save, he said it was about. You get 30% taxed, I think he said he can save about 33k $, which amounts to about 29 k euros. But that is what he can save with all his trips abroad and a posh house. Maybe I can save 43k, which could be 36k euros.
-
-
-
-In 5 years with the best known example of money making (shell) I could save
-
-
-Moving to DA, might not be hard for now. but moving to the US might be hard.
-
-Things I want to know,,,, how much can you earn in 10 years
-
-Of course the travel to US will be a bitch, but anything you do, in the US, profitable by 10k to 50k euros over time.s
-
-[80k_successful]:https://80000hours.org/career-guide/how-to-be-successful/#13-consider-teaching-yourself-these-other-useful-work-skills
-[80k_problems]:https://80000hours.org/career-guide/world-problems/
-
-
-#### First analysis
-
-According to 80k hrs website, I am unable to decide or choose which problem might give me the best impact.Of course it has shortlisted some of the problems.
-
-It seems to me that working on career capital instead can get be better results. Why am I saying this?
-
-I am a deisgn engineer, having looked at the my best senior with 9 years of design expereince, and assuming that I can be him,  maybe I can do design projects to save the world. This field is doesn't earn as much as a data scientist in the top companies in the US. Anyways, I see that I am unable to evaluate my scenario as opposed to contributing the field of data science.  and then came probabilities.
-
-But to get the big bucks, you need to start your own company. or to contribute to actual problems, your design skills are not key. With sufficient design knowledge or even no design knowledge I think one can still run a company with the right set of skills. For example, if you wanted to get a contractin rotterdam with the govn to solve probelms, I think it requires branching into some form of engineering management.
-
-I have never been the guy to lead teams of such a high level. But maybe I can, maybe I take baby steps. But the point is I don't see it workign well right up as so many things need to go right for it.
-#### Career
-Go to the 80k hours website, see how you can contribute, if you can't then its either making huge money or gainging crazy career capital that will help you gain money or do things well. We first start there.
-
-
-
-
-
-#### Building a satisfying career and making a difference
-
->Career capital is anything that puts you in a better position to make a difference in the future, including skills, connections, credentials and runway.
-
-> young and you have a lot to learn.
-
-
->Some of the best ways to gain career capital early on include:
-
->Working in any organisation which has, or with any people who have, a reputation for high performance e.g. top consultancy or technology firms, or any work with a great mentor or team.
-
-Not the current one I am in right now!
-
->Undertaking certain graduate studies, especially applied quantitative subjects like economics, computer science and applied mathematics.
-
-Possible options...
-
->Anything that gives you a valuable transferable skill e.g. programming, data science, marketing.
-
-Possible options...
-
->Taking opportunities which allow you to achieve impressive and socially valuable things e.g. founding an organisation, doing anything at which you might excel.
-
-???
-
-
-#### Mistake 1
-
-Invest enough in to workout in the long run, you cannot be mozart of Mark, in other news they did invest quite their time into their work.
-
->If you want to get your dream job, then you’ll probably need to invest in yourself first.
-
-Most people reach their peak impact in 40.
-
-Expert-level performance in established fields requires 10-30 yers of focussed practice.
-#### [All the evidence-based advice we found on how to be successful in any job][ling2]
+1. Youtube video by Kelly Mcgonigal on stress not being "harmful" : [https://www.youtube.com/watch?v=RcGyVTAoXEU][stress_kelly]
 -->
 
+[stress_summary]:../images/stress.png
+[stress_harvard]:http://web.archive.org/web/20160219062737/http://alumni.stanford.edu/get/page/magazine/article/?article_id=70134
+[stress_80k]:https://80000hours.org/2016/02/should-you-look-for-a-low-stress-job/
+[stress_kelly]:https://www.youtube.com/watch?v=RcGyVTAoXEU
+[motivation]: /Mathivanan-2.html
+[ling4]: https://80000hours.org/career-guide/job-satisfaction/#dont-aim-for-low-stress
 [ling]:https://80000hours.org/career-guide/career-capital/
 [ling2]:https://80000hours.org/career-guide/how-to-be-successful/
 [ling0]:https://80000hours.org/career-guide/world-problems/
+
+
+<!--
+
+#### Stress
+Stress has always been viewed as harmful in the past. One of the things that I think about while thinking of doing a job in the USA is Stress, pressure from your seniors to get work done at. As a side note another thing I worry about doing is working long hours. My belief being that I might have to forgo my time at the gym or my time working on other important things outside.
+
+Kelly Mcgonical (beauty and brains), quotes 3 studies to make a point about stress.
+
+1. 30k people tracked regarding how stressed they were in the last year and if they viewed stress as harmful to their health. Based on who died using public records, they understood that people who viewed stress as not harmful, had the lowest risk of dying.
+
+The text basically does not talk about life satisfaction but says that the way we think about stress can increase life expectancy. Life expectancy is a great thing but what about how you feel during the moments of stress is important. Do people who live really long have great life satisfaction? Does it mean they loved the work they did? Does it mean they lived a fulfilling life?
+
+Maybe it is possible to understand from this that they didn't let stress take over their lives. Listen to what kelly says next
+
+OMG 43% increased risk of dying if you had a lot of stress! Only if stress is harmful for your health.
+
+> 182K AMERICANS DIED not from stress but from the belief that STRESS is HARMFUL.
+
+> Can changing how you think about stress make you healthier? YES YES YES. Changing mind about stress, changes bodies response to stress...
+
+> What if you viewed something stressful as  signs that your body is energized, was preparing you to meet this challenge? Study at Harvard uni while making a social stress stress. Pounding heart is preparing you for action; Breathing fasster well, more O2 to your brain. Participants who learned to view their stress response as helpful for their performance less stressed out, less anxious, more confident. A change in the way your bloodvessels react in when you think stress is helpful is that it does not constrict anymore liek in stressful situations. And this is the thing, apparently it looks a lot like what happenes when in moments of joy and courage.
+
+> This is my body helping me to rise to the challenge
+
+
+> Stress makes you social
+
+Pitutary gland pumps oxytocin, a harmone that increases empathy, makes you crave physical contact,
+
+Ocytocin is motivating you to seek support
+
+Your biological stress reposnse wants to make sure you are able to notice others in struggle so you can support each other.
+
+When life is difficult you stress repsonse wants you to be surrounded by people
+
+Oxytocin protects your CVS from stress,   it helps heart cells re-generate and heal from any stress induced damage
+
+Benifits of oxytocin are enhanced by social contact and social support
+
+When you seek support or help someone else in this situation you release oxytocin... Stress response becomes healthier  and you recover fastre from stress
+
+Stress resposne has stress resillence which is the human connection!
+
+Study 3:
+Caring created resillience
+
+Harmful effects of stress in your helath are not inevitable
+
+How you think and how you act can transform
+
+Helpful stress response, biology of courage
+
+when you connect with others under stress, you can create resillience
+
+> When you choose to view stress in this way, you are not just getting better at stress, you are telling yourself that you can trust you to handle all the life-challenges and you are remembering that you don't have to face them alone.
+
+> Helping others in stress
+
+
+>Go after what is creating meaning in your life, and then trust yourself to handle what follows
+
+Stress/anxiety at the gym
+
+-->
