@@ -128,7 +128,7 @@ While doing cardio, recently I got access to a heart-rate meter. I like the idea
 **Working out**
 I go to the gym 5 times a week. When I am in the gym its all fun usually. I think its about loosing my gains which puts the fear of god into me to go to the gym everyday. I cannot afford to loose my gains. If I didn't go to the gym a full week, then probably I feel less motivated than usualy. But now when I am at my career high number of days at the gym, I feel the need to keep going.
 
-### Things I want to explore in teh coming posts
+### Things I want to explore in the coming posts
 - Long term goals and its effects.
 - going to the gym everyday motivation (how?)
 - Check if I can draw parallels from cardio motivation (how?)
