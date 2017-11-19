@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  "  Career-Dream Job-first draft"
+title:  "  Career-Dream Job"
 date:    08-11-2017 21:15
 categories: The Beginning
 permalink: /:title.html
@@ -218,6 +218,33 @@ At work it has been 11 months, since I took a holiday. Going on a holiday implie
 Including this year and last, I think I took a vacation once towards the end of the year. My only vacation I like is either to India, where I can do my own thing or to london where my cousins are at. My goal is to do nothing, and work on things that are important to me, with people cooking for me  and I am doing my own thing.
 
 Here I have 27 vacation days, sometimes I can have as much as 40 vacation days as opposed to the US where there is only 15 vacation days, but I guess I can deal with it, as have several others who deal with it as well.
+
+#### Other considerations regarding your dream job
+
+1. Work that’s engaging
+
+>The freedom to decide how to perform your work.
+Clear tasks, with a clearly defined start and end.
+Variety in the types of task.
+Feedback, so you know how well you’re doing.
+
+2. Work that helps others
+
+
+3. Work you’re good at
+
+4. Work with supportive colleagues
+
+5. Lack of major negatives
+
+>A long commute, especially if it’s over an hour by bus.
+Very long hours.
+Pay you feel is unfair.
+Job insecurity.
+
+6. Work that fits with the rest of your life
+
+>You don’t have to get all the ingredients of a fulfilling life from your job. It’s possible to find a job that pays the bills and excel in a side project; or to find a sense of meaning through philanthropy or volunteering; or to build great relationships outside of work.
 
 
 #### Summary

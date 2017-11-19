@@ -167,3 +167,7 @@ dist = 7.36 km
 
 day = windy af
 
+---
+
+Date; 			time; 			avg;			max;			
+
