@@ -133,7 +133,8 @@ I go to the gym 5 times a week. When I am in the gym its all fun usually. I thin
 - going to the gym everyday motivation (how?)
 - Check if I can draw parallels from cardio motivation (how?)
 - explore programming and connections to work and how to bring that type of feedback into my current work.
-- 
+
+
 <!--
 
 ###Long term goals?
