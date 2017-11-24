@@ -102,7 +102,7 @@ Right now we want to incorporate the following in our work week.
 
 ### Concretely specifying action for next week
 
-The two activities I juggle between right now are reading from [80k hrs][80k_site] and the other activity is writing what I have learnt or my plan.
+The two activities I juggle between right now are reading from [80k hrs][80k_uur] and the other activity is writing what I have learnt or my plan.
 We want to maximize our productivity. So for now we shall roughly measure it in terms of hours. The goal shall be to clock atleast 10hrs per week from monday to friday (2 hrs a day). Every hour implies to me either writing 1k words or reading 10k words/hr (170WPM). For the next week, I will give myself the freedom per hour to choose what activity I want to do. I can either write or read for the hour. On the thursday I review my content and start re-editing. Friday by 1 o clock, which is a hard deadline I wrap up, with 5 euro being paid for evey extra hour. We will test this over the next week and the coming weeks and see how things go. Everyday at the max I am allowed to start my work by 7:45 pm. I shall finish my work in 2:15 hrs at any cost. Penalty for any failure other than for exceptional reasons, 20 euros per day. Cheers.
 
 During the 2:15 hrs, cell phones, facebook and youtube are BANNED, unless for exceptional reasons. Please state your exceptional reason to your friend. This would be an attempt to keep it real.
@@ -134,6 +134,8 @@ I go to the gym 5 times a week. When I am in the gym its all fun usually. I thin
 - Check if I can draw parallels from cardio motivation (how?)
 - explore programming and connections to work and how to bring that type of feedback into my current work.
 
+
+[80k_uur]:https://80000hours.org/career-guide/how-much-difference-can-one-person-make/#so-how-can-you-improve-lives-with-your-career
 
 <!--
 
