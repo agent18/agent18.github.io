@@ -1,0 +1,365 @@
+---
+layout: post
+comments: true
+title:  "  Career- Contributing directly"
+date:    27-11-2017 19:39
+categories: The Beginning
+permalink: /:title.html
+published: True
+
+---
+### Lastweek tonight
+
+[career-1]:/career.html
+[career-2]:/career(2).html
+[80k-uur]:https://80000hours.org/
+[80k-advice-biggest-problems]:https://80000hours.org/career-guide/world-problems/
+
+Last week we saw [80k-org][80k-uur] suggesting that Earning-to-give might be a good option but we should first consider contributing directly, by working in an effective NGO, doing research, or working for the government, as the sectors are talent-constrained rather than money-constrained. Followed by how to get in...
+
+As our priorities line up with the research done by 80k-org, we consider with this post what is needed and if it is possible for us to contribute.
+
+### Applying to your own career
+
+>For each problem, list out some specific career options you could take that would help the problem. You can get ideas in our profiles, as well as further reading on each area. Also remember you can contribute to any problem area through donations and advocacy, even if it’s not the focus of your day job. -advice of [80k-world-problems][80k-advice-biggest-problems]
+
+So for lack of any better way to reduce the list of global problems, I took the 8k-org survey that allows us to prioritize the issues according to our current knowledge.
+
+Out of this came,
+- Global priorities research
+- Health in under-developed countries
+- AI
+
+This is a short list of where I could work, considering my current knowedge that I fed into the system. I looked at each one of them and this is what they need.
+
+### Global priorities research
+
+Global priorities research is about figuring out which global problem has higher priority.
+
+>For example, if a foundation wants to improve others’ lives as much as possible, should it focus on immigration policy, international development, scientific research or something else? Or if the government of India wants to spur economic development, should it focus on improving education, healthcare, microeconomic reform, or something else?
+
+Most needed are researchers, and in particular:
+
+>Researchers trained in economics, mathematics, or philosophy to develop the methodology for setting global priorities.
+Researchers trained in social and natural sciences with the ability to collect data and analyse specific global problems.
+and people who can do research and manegirial works.
+
+The idea is to be of real high impact by helping other researchers and the research group to keep focus and prioritize what is important. You could also publish.
+
+But, I don't have an economics degree/math/philosophy. In fact economics is something that I have never done. Managing I guess I can. I have never really done it though, other than organising events and some leadership here and there. I am NOT a natural leader, I don't always lead, it depends on the 'status' at a location. If people are indecisive, I can tell them what to do.
+
+Off the bat they say money is not really the bottle neck here. Of course I could donate, but looking at other options...
+
+**How to enter**
+
+If you want to work in this area as a researcher, you’ll need training in the relevant disciplines.
+
+>If you are an undergraduate, you can major in, or take classes in mathematics, economics, statistics, or analytic philosophy. If you are out of university, you can take online classes in these subjects, for example this [introduction to microeconomics](https://smart.ly/course/learn-microeconomics-i-supply--demand--smartly/95437d2a-0211-4899-825d-e2107c6729e6).
+
+This seems like a good option to ateast grasp somthing about economics, to see how it is, to get a feel etc...
+
+>In general, the best graduate subject is an Economics PhD. Other useful subjects include statistics, applied maths and public policy.
+
+Economics Phd, seems out of question for now, because, even if I do courses, why would any one give me a phd. If this is what I really need to do, I should at least jump careers I guess, work for a year or 2 and with that experience apply for a masters/phd and go to the US. With the option of either working to make money and later getting into places that need help, once I have decent expertise. But looking at the long term it might be worth it. As the industry is talent constratined. If I am able to position myself in good place, then I could create large impact.
+
+
+**Summary**
+My interviewer at ASML told me this, that "If I want money I should do something else other" than engineering or the particular job  I was applying to. The place I currnetly work pays me 40k euros. My colleague who works in the same place, with probably 15 to 20 years of experience, earns 52k euros. I could be getting something like this if I jumped to ASML in one more year, I suspect. I could go into green energy in the future in the hopes of creating "impact", as some sort of product manager at max, as right now I am in lithography, I am not sure how transferable this job is. If I want to earn to give, the amount I earn seems to be quite less with respect to the scope of giving. And suddenly I wondering about transferable skills obtained at this job. I can go into the precision industry only. Smaller companies will pay me only less, and there seem to be only 2 companies paying me decently.
+
+This is the clincher. However, mathematics, economics and statistics, seem to have large pull in the EA industry or the all problems in general. I don't know how about working as an economist, but it doesn't seem to be widely necessary and also higher paying than mechanical engineering.
+
+Todo: Think about current job and changing it and the career capital earned and to be used in other companies.
+
+
+Not able to comment any further for now.
+
+
+**Specific career paths**
+
+- Do online course, try to get a job for a year  and try to apply for phd or masters economics/statistics/mathematics. And go on from there,
+
+> if you get through, you have a high chance of landing a good research job in academia or policy – promising areas for social impact – and you have back-up options in the corporate sector since the skills you learn are in-demand (unlike many PhD programs). You should especially consider an economics PhD if you want to go into research roles, are good at math (i.e. quant GRE score above 165) and have a proven interest in economics research.
+
+I didn't have 165 but I had 157 or something. I am sure I can train it. But the above seems too demotivating, and things that I have never done in my life, viz a viz, ecnomics of any degree and policy. I am sure I am jumping to conclusions and that I can find my motivation just as 80k hrs says, "People grow to like other things as well".
+
+- Mathmatics phd
+
+I don't think I am cut out for it. I would atleast need a masters degree to then jump to a phd. I am sure it will be interesting.
+
+-dATA science?
+
+Seems to have high potential, not sure of applicability. Money seems to be here. There is also an increasing demand.
+Test fit by taking a course [intro to DS](https://www.udacity.com/course/intro-to-data-science--ud359)
+
+Most actionable jump for my level. Quick learning, adn no need of fancy degree, learning some softwares is what is required.
+
+
+ToDo: profile on different careers. I want to start there.
+
+### Health in poor countries
+
+> Every year around ten million people in poorer countries die of illnesses that can be very cheaply prevented or managed, including malaria, HIV, tuberculosis and diarrhoea. Tens of millions more suffer from persistent undernutrition or parasitic diseases that cause them to be less mentally and physically capable than they otherwise would be.
+
+>Options for working on the problem include serving as a donor to effective projects, working as an economist in intergovernmental organizations such as the World Bank or World Health Organization, or starting or working in a non-profit that scales up proven treatments.
+
+Wow, is economics king? Everywhere they seem to need economists, I guess one creates more impact not by donating, but by working effectively. Period. Wow the work that 80k hrs is doing is incredible. I could be that economist.
+
+These two seem to repeating themselves time and again and show themselves in diffenet colors. As a data scientist I could always work on other problems elsewhere with the power I wield.
+
+No points for guessing that somehow an economics phd will help!
+
+>What skill sets and resources are most needed?
+The ability to fundraise large sums, or move money within bureaucracies to better projects.
+People with on-the-ground logistical skills in international development (i.e. the kind of person who could get 100,000 malaria nets distributed in Africa).
+Entrepreneurs (mostly in non-profits but also sometimes for-profits) who could found one of these charities.
+Development economists and cost-effectiveness researchers, including economists, statisticians and disease control experts.
+Money to fund GiveWell recommended charities.
+We think that people capable of starting outstanding projects in this area are likely to be able to attract the necessary funding, making the area mostly talent constrained.
+
+Of course donating is an option, but it needs to be evaluated what could be my contribution. For example, maybe I can hire two economicians to work on this topic for me. How about that?
+
+Impression I get, money is not really the problem, this problem is only sometimes recommended.
+
+I will come back to this, having first gone a full circle on what needs to be done in this world to begin with?
+
+
+**Career paths**
+
+- Plan a career around founding a new global health non-profit
+- Researcher at Give well
+- Fundraising large sums of money or move money within bureaucracies to better projects
+- Development economists and cost-effectiveness researchers, including economists, statisticians and disease control experts.
+- Grantmaker at Bill and melinda gates foundation
+- biomedical researcher
+
+
+
+#### Artificail intelligence
+
+Looking at [this video][ai-video] it definitely puts the fear of AI into everybody. The arguments made are strong. A gist is that AI has all the necessary ingredients to become the next industrial revolution. The growth would be super quick, once stable AI is made that can think for itself. The issue lies in understanding what should be the morals of an AI. Cause the AI can quickly become too powerful as it has an almost infinite memory and it can possibly not be controlled. When wielded right it could be the most powerful.
+
+Looking at this the picture I get is that I can't reallyu work for it other than in a manegerial role, a role that brings huge funding and the like. Economists don't really haave a role but policy makers are also wanted here.
+
+Earning to give is an option. There seems to be a surplus with big institutions that would typically get academic funding, but there is hardly any with orgs like MIRI. Donating to them is still an option.
+4669
+
+The jist is that one could work on
+- Technical research, that is quite talent constrained
+- Strategy and policy research
+- Complementary roles --> Academic Project manager
+- Advocacy and capacity building --> Research management
+
+
+### Overall
+
+Overall it appears to me that there are two types of work, you can do. One is to earn-to-give. And the other is everything else. Everything else involves things like, doing techinical research or other research (like GiveWell), supporting NGO's as an economist, founding charities,  other complimentary roles in NGO's that create high impact, advocacy.
+
+80k-org suggests to try to contribute directly before considering Givin-what-we-can. Right now giving-what-we-can seems to be the quickest thing I can do. By that I mean that I can already do it. If the above roles listed in each of the profiles are important and the need of the hour, then I better start looking at each of them and see which one will suit me and in which I will have the biggest chance of success. Something like chance of success multiplies by impact should allow me to decide what I should work on.
+
+I will continue reading 80k-org website and move on to the other important things like Career-Capital. It seems wise to develop skills and work in managing institutions that are responsible for large impact. Also to consider in that case would be jumping career and my current capital being earned.
+
+
+>Just as we saw with choosing a problem, this means the most effective approach for you will be something you enjoy, that motivates you, and is a good fit for your skills. We sometimes come across people tempted to do a job they’d hate in order to have more impact. That’s likely a bad idea, since they’ll just burn out. Their example could also discourage others from doing good.
+
+[ai-video]:https://youtu.be/MnT1xgZgkpk
+
+#### things i could do
+
+1. Plan a career in managing founding companies.
+
+My friend in holland does things like this. Once he hits his success, I will get involved with him. Even for earning-to-give, founding and making money seems to be an option. He has soms contacts in india, who I should meet just to get an idea of what would be possible, if I can start as an apprentice/mentee to someone killing it in business.
+
+2. Data science
+3. Economics degree and then normal job
+
+Taking a normal job after such a jump seems pointless. As DS seems to be much more viable option withe more money in it.
+
+4. Economics degree and then a job in the NGO's
+This makes sense. Seems to be the need of the hour for the NGO's
+
+5. My current job as an engineer in the precision industry.
+Not sure about the career capital I have earned and how it will be useful in non-research based precision industries.
+More over the growth in this part of the country seems really slow. For example, someone I know working in paypal, got an untimely bonus of 10k$. What! Doens't happen ever in holland.
+
+At the very least need to look at gaining diff career capital and moving to the US
+
+6. Other options could be to do an MBA/finance degree and try getting into Dubai
+
+I have heard stories where people did philosophy phd and who started working in a finance firm donating about a 6 figure salary. So it would be wise to check out their careers or rather what such a career would need.
+
+7. Programming
+
+Something the idea of which feels so awesome. I would love to get into it, but only if this makes sense impact wise.
+
+Don't know how acheivable such a position is especially considering the over crowded and heavy competition for a job.
+
+### advocacy
+>In fact, there’s reason to think that advocacy is typically better than earning to give. One reason for this is that everyone wants more money so there’s a lot of competition, which places a limit on how much you can easily earn (and subsequently donate). There’s a lot less competition to spread good ideas, for the reasons we just discussed. So we expect that it would be possible for many people to influence more money than they could donate.
+
+
+>Taking a stable job and doing advocacy part time can be effective because you don’t need to worry about funding your advocacy, which helps you to stay independent and take bigger risks. You’ll also be seen as more impartial.
+
+
+>Finally, you’ll be in a better position to advocate for attention to pressing problems if you’re successful in your field, because you’ll be more credible and make more influential connections. So sometimes the best path for advocacy is just to enter the field where you have the greatest chances of success.
+
+
+### research
+
+>If you might be a top 10% researcher in a pressing problem area, then it’s likely to be the highest impact path for you.
+
+#### Academic admin
+>If you’re interested in these positions, the best path is usually to pursue a PhD, pick a field, then apply to research groups.
+
+
+### Direct working
+
+Starting a charity that focusses on neglected (hence high impact) areas (ex: sms for vaccinations in India after 6 months of research)
+
+>Finally, direct work can be for-profit as well as non-profit. For instance, Send Wave enables African migrant workers to transfer money to their families through a mobile app for fees of 3%, rather than 10% fees with Western Union. So for every $1 of revenue they make, they make some of the poorest people in the world several dollars richer. They’ve already had an impact equivalent to donating millions of dollars, and they’re growing quickly. The total size of the market is hundreds of billions of dollars, and several times larger than all aid spending. If they can slightly accelerate the roll out of cheaper ways to transfer money, it’ll have a big impact.
+
+>One mistake people make is trying to work out which organisations are needed from their armchair, or by choosing an issue that they’ve happened to come across in their own lives. Instead, go and learn about big, neglected social problems. Take a job in the area, do further study and speak to lots of people working on the problem, to find out what the world really needs. You need to get near the edge of an area before you’ll spot the ideas others haven’t, and have the connections you’ll need to execute.
+
+
+### right approach for you?
+
+>The first thing to note is that these four approaches are not exclusive, and you can do more than one at the same time. For instance, a teacher helps their students (direct impact), but could also develop new educational techniques (research) or tell their students about pressing problems (advocacy). We know a teacher who did private tutoring in order to donate more (earning to give). As we’ve seen, often your impact is more about how you use your position than the position itself. This means, you’ll want to look for the positions that offer the best balance of ways to contribute directly, through advocacy and through donations. In our career reviews, we assess each path on these three ways of contributing.
+
+>Third, do something where you have the chance to excel. Throughout this article, there is a vital general principle to bear in mind: the most successful people in a field have far more impact than the typical career.
+
+>Just as we saw with choosing a problem, this means the most effective approach for you will be something you enjoy, that motivates you, and is a good fit for your skills. We sometimes come across people tempted to do a job they’d hate in order to have more impact. That’s likely a bad idea, since they’ll just burn out. Their example could also discourage others from doing good.
+
+>An outstanding charity worker will likely do more good than a mediocre engineer earning to give, and the reverse is also true.
+
+>On the other hand, as we’ve seen, people often underestimate how easily they can become interested in new jobs.
+
+>If you already have expertise in an area, then that should also be factored in. We have more specific advice broken down by area here, as well as in the career reviews and problem profiles.
+http://wiki.80000hours.org/index.php/Advice_by_expertise
+
+### summary
+
+Moreover, if you focus on the approaches that are best suited to the problems you want to solve and where you have the best personal fit, you can do even more good again. And you can do this while having a more satisfying career too.
+
+
+
+
+---
+[80k-approaches-to-EA]:https://80000hours.org/career-guide/high-impact-jobs/#top
+>Apply this to your own career
+Before we move on, make an initial short list of high impact careers you could work towards in the long-run. The following steps may help:
+
+Done above
+
+>Decide which two to five problems you think are most pressing.
+Find the relevant problem profiles, read the list of career ideas in each profile, and note any that could be a good fit for you.
+
+With Global prio research, careers in research, mathematics and economics seem what is needed. I suppose I could get into each of those, but of course the chance of success and that I am already 26 need to be taken into account. Same with AI and health in poor countries. I have listed some of the profiles I could be doing above.
+
+>Go through the four approaches we covered in this chapter, and list out any other options that could be a good fit for you.
+The aim at this point is just to come up with more options. We’ll explain how to further narrow down in an upcoming article.
+
+
+
+### Reflection
+
+I am just writing and writing and writing. What is the fucking point. What I want to do is to know reliably what I need to do. The approach on a high level seems alright, but I need to spend time understanding things and classifying thigs. Once I understand the problems or note what each problem needs, I should take a step bakc and evaluate what I can do with specific career options. Maybe I can't get far, but that is what the other parts of the essay are. Right now see your pitfall and see how you can move from there.
+
+Once again, the goal is to first see the topics and what they need. How to get there according to 80k and from there on the feasibility and impact. This was good.
+
+How I will go about the feasibility and impact is fully not clear. That is why I guess I am looking at the impact and induvidual profiles to see if it is going to suit me or not.
+
+Another thing I noticed is that I am doing too much, writing and reading. The task is too tough right now. I also see a certain flow. I was able t work 3 hrs straight, which is pretty decent for my stds. I have never really worked so much. I should look to cash in on this type of work. Come early and start early is the key.No pressure. I want to get work done. There is so much of unknown and so much work to do.
+
+In the sprit of deal that I made, I want to reduce the deal such that I do lesser words when I am having to do research. and also reading 10k is almost impossible and leads stright to failure. However, 6k seeems possible.  In the sprit of the deal, I aproove of these choices as I have clocked good hours.
+
+Another thing I should probably consider is about writing well.
+
+--------------------------------------------------------------
+
+My grade of 7.5/10 for my master thesis is not representative of the work I put in or the success of my project. The research direction didn't come from me, as I barely had experience in it. I trusted the faculty to give me a good assignment. Unfortunately, it was more about taking an idea and implementing it to see if it works. Went quite deep into linear algebra. I did a lot of coding, and read a lot of papers. Did everything I could with my time to solve the issue. I dived heavily into the theory, but unfortunately, I didn't think of some fundamental things that questioned the need of my research or the use of it. My goal was not to do research unfortunately, my goal was to learn from the best and learn as much as I could. I spent several hours a day working on python, I spent several months understanding the fundamentals and why things came about. But I do think I am work slow (citation needed, compared to what?)
+
+My point is I learn quick, I work hard when I have a personal stake in the situation. I am sure I can step up and with long time spent on it I can definitely kill. Every extra hour I spend at work would mean more impact and that would be life, essentially. So great.
+
+My current boss thinks I work fast, I pick up things quickly. He didn't expect me to finish the project I had started at the beginning of the job within one month, but guess what. I stepped in for several projects and delivered results according to him at pretty good speed. From knowing nothing in a project, I have delivered, and I continue to deliver, its everyday bro.
+
+
+
+An idea could be during the month that I am in india, I could do a course in economics and a course in data science. I am quite inclined to do these as it would free me from the burden of writing. and I honestly wouldn't mind working on these for 4 hrs a day even. Have some pretty decent deadlines and in those 36 days actually crack something.
+
+
+So, early career, the ideal is to find a job that offers both impact and career capital, but if forced to choose between the two, lean towards career capital.
+
+This doesn’t mean ignoring social impact – it’s best to stay involved through volunteering, conferences, donating 1-10%, and so on, so you stay motivated and keep learning. And if you come across an especially good opportunity for impact, then it might be better to focus on that. Rather, the question is where to put your focus most of the time.
+
+
+
+
+
+-------------------------------------------------------------------------
+
+### My profile
+I look at all my friends, and the best case reachable example, is in the next few years earning 200k a year and donating around 100k, by working on data science. Maybe it is not too late to do my studies again. I have no idea how feasible this is. I have to move countries, to start with and I am already 26, not sure how much of a criterion age is.
+
+I enjoy going deep into engineering. Answering questions or highly fundamental things, or predicting soluitions for the reality, learning about things that I think are crazy (like designing a machine where in two objects are positioned at an accuracy of 100 micron, and people are able to solve complex matters). I would love to write code. I see that I have no affinity towards management. I am an engineering guy and I like solving problems. In my free time I would like to organize events ror birthdays.
+
+Recently I found myself thinking about not leaveing the place I work at as things are slowly getting more complex and interesting. Rather, I think I it takes some time to get up to speed before you go deeper into the complex dynamcis of the machine that works with electrons, I would easily I feel would love to be the guy developing concepts day in and day out which result in high impact solutions for my company.
+
+Anything challenging is welcome I guess with the addition that I would like to stay in it for a bit long, as I can become really good at it. And that everything takes time. If its not lithography or vacuum design its going to be some thing else. I don't want to sabotage the rest of my life because of the decision I took to be in this field only for one year now. Always measure in impact. But currently I am trying to understand personal fit.
+
+I suspect doing a phd or doing things in mathematics or economics or statistics, sounds quite interesting. My point being I can. However, I need to admit although I might have good grades  in particular subjects, I didn't actually understand every single detail of it. Especially maths, parts with all the different type of domains, I never really got them. All over, I think I kept lacking some information with regard to maths. But despite my handicap, if grades were any indication, I did score quite good in subject related to dynamcis, numerical methods, all involving matrices. Even with dynamics, the ultra basics for me is shaky. For example how does the equation of perturbation even work. Why does it work? At some point you see it works and you just accept such things.
+
+How about I do some courses in economics.i.e., look at the most pressing problem, and if they say they don't really need mopney (money is not the bottle neck) and if they say they need researchers, why not I try to be one. I suspect it is as far-fetched as becoming a data-scientist. As in both cases an eghx has to branch to a new field spend some time there and then bolt to the US. With Economics however, I guess I can apply for a phd. The good bad and the most ugly question is why would anyone in their right mind offer you a phd instead of TOM DICK and HARRY who have done their bachelors in economics. I don't know the first thing about it. but I can learn?
+
+Maybe I can start with a masters course and convert it to a phd? What about funding? MAn this is going to be so hard to come up with some answer regarding what I am going to do in the future.
+
+And why did an stm say just do profiles of people you know, that should give you a good idea on what you could do and how to move to the US.
+
+I see that I could also go in the way I am going, and slowly branch to managing high impact projects which will involve both technical and manegerial skills.
+
+#### Skillsets
+
+My current skillsets are being able to work in new new topics repeatedly, mild python scripting knowledge, design knowldege, problem solving analytical, Worked in the precision industry for over a year.
+
+### Over 30 years learning new things how to use?
+
+
+#### summary
+There are many ways you can contribute, Currently I see a large focus on economics to actually provide relief to regions like 'global prio research' and health in poor countries.
+
+Donating is surely an option to every important scenario. But maybe as I am in my prime can do more.
+
+Another option would be to work in the capacity of manager to assist people do high level tasks, while you prioritize the actual useful work needed to be done.
+
+Managerial qualities, economics, data science are three things that seem to appear everywhere that can actually do good to the community.
+
+Imagine doing a couple of courses online in economics and then actually following it up with a phd and a job. And at 40's say when you have spent enough time on the science, you can put your forces to actually help people in need more directly.
+
+Currently I am going to move on further and explore career capital and the like, before actually making a more profound statement on this.
+
+
+Do a summary on profiles enxt week, the different profiles next week, considering earning to give is an option.
+---
+
+>However, his focus on climate change wasn’t the result of a careful comparison of the pros and cons of different areas. Rather, by his own admission, he’d happened to read about it, and found it engaging because it was sciency and he was geeky.
+
+>The problem with this approach is that you might happen to stumble across an area that’s just not that big, important or easy to make progress on. You’re also much more likely to stumble across the problems that already receive the most attention, which makes them lower impact.
+
+>The nuclear power stations will all be switched off in a few years. How can we keep Britain’s lights on? …unplug your mobile-phone charger when it’s not in use.
+
+
+---
+
+>Finally, factor in personal fit. We don’t think everyone should work on the number one problem. If you’re a great fit for an area, you might have over 10 times as much impact as in one that doesn’t motivate you. So this could easily change your personal ranking.
+
+Just remember there are many ways to help solve each problem, so it’s usually possible to find work you enjoy. Moreover, it’s easier to develop new passions than most people expect.
+
+Despite all the uncertainties, your choice of problem might be the single biggest decision in determining your impact.
+
+>if you want to do good in the world, it’s worth really taking the time to learn about different global problems, and how you might contribute to them. It takes time, and there’s a lot to learn, but it’s hard to imagine anything more interesting, or more important.
+
+
+>Apply this to your own career
+Using the resources above, write down the three global problems that you think are most pressing for you to work on. Your personal list will depend on your values, empirical assumptions, and personal fit with the areas.
+
+For each problem, list out some specific career options you could take that would help the problem. You can get ideas in our profiles, as well as further reading on each area. Also remember you can contribute to any problem area through donations and advocacy, even if it’s not the focus of your day job.
+
+This list of problems is just a starting point. The next step is to find concrete career options that will make a difference within the area, which we cover in the next article, then to find an option with excellent personal fit, which we also cover later.

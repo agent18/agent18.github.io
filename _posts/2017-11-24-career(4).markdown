@@ -69,7 +69,7 @@ There seem to be not many people earning to give to the places with highest impa
 
 [less-wrong][https://intelligence.org/topcontributors/]
 
-If earning to give is what we should be doing then, I want to earn much much more than what I do now.
+If [earning to give][80k-earning-to-give] is what we should be doing then, I want to earn much much more than what I do now.
 
 >Which jobs are highest-paying?
 In short, it’s jobs in finance, management, medicine, law, real estate and technology.
@@ -85,15 +85,28 @@ The following offer a good combination of pay, flexibility and outlook. We’ve 
 >Data science
 >Management consulting
 
+>Law, investment banking and medicine are other obvious high earning options, but we think they’re a bit worse than the ones above based on their weaker combination of flexibility, growth of the area and direct impact. Art and Entertainment can be highly paid, but the chances of success are sufficiently low that the pay is low on average
+
+>Choose an employer that matches your donation 1:1
+
+>You’re a good fit for a higher earning option. Don’t become a consultant if you’d hate it – you’ll be more likely to burn out and put your career in a worse long-term position, and you won’t earn that much anyway. Even if you only care about your impact, it’s important to be good at your job.
+
+We need to think what is good for us in the long term.
+
+>In fact, if you’re especially focused on the global problems we think are most pressing, especially within the effective altruism community, then we don’t think earning to give should be your first choice. This is because these areas seem more talent constrained than funding constrained. Instead, we recommend trying to first contribute directly, in effective non-profits, government or research.
+
+Red flag? [80k org][80k-uur] suggesting to first contribute directly in effective non-profits, government or research. This means that I should atleast consider other things than earning-to-give
+
 Next I guess it would be nice to do a compilation of the jobs and their impact. A post involving different profiles and what [80k org][80k-uur] suggests and a path for you to achieve it. This could be followed on with more realistic examples which would come out of interviewing people you know.
 
+[80k-earning-to-give]:https://80000hours.org/articles/earning-to-give/#whats-the-best-way-to-earn-to-give
 
 <!--
 
->You’re a good fit for a higher earning option. Don’t become a consultant if you’d hate it – you’ll be more likely to burn out and put your career in a worse long-term position, and you won’t earn that much anyway. Even if you only care about your impact, it’s important to be good at your job.
-You want to gain skills in a higher earning option (for use in more direct work later on), and earning to give could help you to stay engaged with social impact while you do so. (In the next article we explain why it’s important to gain “career capital”.)
+>You want to gain skills in a higher earning option (for use in more direct work later on), and earning to give could help you to stay engaged with social impact while you do so. (In the next article we explain why it’s important to gain “career capital”.)
 You’re very uncertain about which problems are most pressing. Earning to give provides the most flexibility because you can easily change where you donate, or even save the money and give later.
 You want to contribute to an area that is more funding-constrained rather than talent constrained.
+
 In fact, if you’re especially focused on the global problems we think are most pressing, especially within the effective altruism community, then we don’t think earning to give should be your first choice. This is because these areas seem more talent constrained than funding constrained. Instead, we recommend trying to first contribute directly, in effective non-profits, government or research.
 
 More red flags,  dont make it your first option.
@@ -114,9 +127,7 @@ Offers flexible career capital, so you can switch out later if you change your m
 Doesn’t cause harm
 
 
->Which jobs are highest-paying?
-In short, it’s jobs in finance, management, medicine, law, real estate and technology. You can see a lot more data in this separate analysis.
-.
+
 What are some of the best options overall?
 The following offer a good combination of pay, flexibility and outlook. We’ve also already advised people who’ve taken them and been satisfied.
 .
