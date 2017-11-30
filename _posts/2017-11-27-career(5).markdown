@@ -290,10 +290,144 @@ So, early career, the ideal is to find a job that offers both impact and career 
 
 This doesn’t mean ignoring social impact – it’s best to stay involved through volunteering, conferences, donating 1-10%, and so on, so you stay motivated and keep learning. And if you come across an especially good opportunity for impact, then it might be better to focus on that. Rather, the question is where to put your focus most of the time.
 
+And thats why we move on to Career capital
+
+### Career captial
+
+>The safest jobs are those that involve creativity, high level problem solving, and social intelligence, such as: management, marketing, social work, and engineering.
+
+>In general, the more uncertain you are about the future and your career, the more important it is to gain career capital that’s flexible. One consequence of this is that flexibility is usually most important at the start of your career. At this point you haven’t tried any jobs, so it’s the point when you know the least about what you want to do in the future.
+
+>If you’re really uncertain, then you could make flexible career capital your main focus. As you learn more, you can make your plan more and more targeted. (We’ll cover how to do this in a later article.)
+
+>Just pick an area, perform highly, learn valuable skills, and meet influential people. You’ll end up in a better position than if you try to do a bit of everything and don’t achieve anything.
+
+Consulting jobs
+
+Sales and marketting at ASML?
+
+Investment banking
+
+ If you have relatively good quantitative skills, then consider sales and trading or asset management in investment banking.
+
+>In general, however, we prefer consulting to these options because: (i) it’s growing, whereas these industries are flat and have a worse outlook (ii) it seems to give you a wider range of options (iii) the work is often more engaging at the early levels (though often still boring!) (iv) you get to explore several industries (v) there are better arguments that some parts of law and banking are harmful. Law also requires an expensive up-front investment.
+
+Jack and master of none?
+
+Economics-> one stop option to money, policy, social sciences, academia and social impact
+
+>Dillon couldn’t imagine studying anything except philosophy. Then he found out about the research that shows that our interests can easily change.
+https://80000hours.org/career-guide/job-satisfaction/
+
+https://80000hours.org/career-guide/member-stories/dillon-bowen/ very interesting profile!
+
+Programming?
+
+>e know lots of examples of people who started with no technology background, and within six months ended up with highly paid programming jobs they enjoy far more than their old jobs. Programming is also a growing, in-demand skill that can be used in many areas. Bootcamps are intensive, three-month programmes that aim to get you a job as soon as possible.
+
+
+Speak to rajesh, how to move to US, options to consider, sales and marketting
+
+
+>But you don’t need to become an entrepreneur. You can build these “soft” aspects of career capital in almost any job if you perform well. Doing great work builds your reputation, and that allows you to make connections with other high achievers. If you push yourself to do great work, then you’ll probably learn more too.
+
+>There are plenty of cases where someone has turned success in one field into success in another by using the reputation and connections they gained. For instance, Sheryl Sandberg started in consulting, then worked in the Treasury, and is now COO at Facebook.
+
+>This means that if you want to build career capital, it’s worth considering any area where you have good fit, even if it doesn’t seem like a good option in general.
+
+>If you care about social impact, then it’s especially useful to have achievements that involve doing good. It’ll mean you meet people who deeply care about social impact, and that will be more useful than knowing lots of accountants.
+
+>Although we like stories of those who achieved apparently instant fame and early success, like the Forbes 30 under 30, they’re not the norm. Besides those who got lucky, behind most great achievements are many years spent diligently building expertise.
+
+Very important! We are looking at years of work.
+
+>We’ve seen people transform their careers by doing things like learning to program, being mentored by the right boss, and going to the right graduate school.
+
+#### Applying to your career
+6230
+>Apply this to your own career
+Go over all the four paths to career capital and ways to gain career capital in any job, and note down three new ways you could gain career capital.
+Can you work at a high-performance, growing organisation?
+Do you have a good option for graduate study?
+Can you do something that will teach you a valuable skill?
+Is there an option where you’ll achieve something impressive, especially if relevant to social impact?
+
+
+
+The four paths to gaining career capital are:
+
+- Working at a growing organization that has a reputation for high performance
+
+I am not sure working anywhere in Holland, except a production based environment will have any performance pace. The job I work at currently is theoretically no pressure. Things appear to be going really slow. I spend a lot of time on things that gain me no new knowledge. Yes this is the thing. I spend hours on hours to get data, and barely work on the data to spit out meaningful results. This happens time and again. I assemble modules and spend time verifying and reverifying. My objective is to solve the problem, but that involves quite a labour intensive process. This is the one which I would like to outsource or supervise. I would like to deal with only the high level tasks.
+
+Instead of working actually as a design engineer, if I continue to work on problem solving of any kind, manage milestones, then I hopefully gain good career capital, in terms of being given responsibility and analytical skills.
+
+The company I am working at is probably going to be a billion dollar company in a few years, or even go bankrupt and shut down. It's in a crucial phase.
+
+
+Options are:
+Move to other companies, that work on say consultancy. Move to ASML in a completely different aspect of work for example, data science or marketting and sales (business manager or something), Do a management traineeship in shell.
+
+
+I know a friend in portugal, who after masters in aerospace management, joint a data science company, that is growing like crazy. Apparently people put 12 hrs a day at work. This sounds to me like a high performance space. As soon as he joined he was summoned to start working in Australia as they recenlty opened a company there. It is all in data science.
+
+Finding such small and growing companies sound to me like a startup that's in the phase of growing like crazy. I will be on the look out for such companies or people who need such commited individuals!
+
+- Pursue certain grad studies
+Maybe another masters, I don't know how I will serve in the realm of a phd. I am thinking about data science, computer science, economics or management related.
+
+- Develop valuable transferable skill
+
+Skills at my current job that can be transfered are problem solving, getting abrest a situation ASAFP, "programming"
+
+- Do what contributes to build career capital
+
+>It’s easy to focus on “hard” aspects of career capital, like having a brand-name employer, because they’re concrete; but the “soft” aspects of career capital – your skills, achievements, connections and reputation – are equally important, if not more so.
+
+Within my current career I gain skills, but as I said at a slow rate. There are scopes for achievements, if I deliver on the current milestone with useful documents made by myself. Unfortunately I am going on a vacation.
+
+
+
+>What’s the most valuable career capital you already have? Identifying your most valuable career capital can give you clues about what you’ll be best at, and help you to convince employers to hire you. Review each of the categories:
+Skills, which you can break down into (i) transferable skills, (ii) knowledge, and (iii) personality traits,
+Connections,
+Credentials,
+Runway.
+If you’re stuck, list out the five achievements you’re most proud of, and ask what they have in common.
+
+
+I will list valuable career capital I already have. and brek them into skills:
+
+- Working on unknown problems and coming up to speed in no time.
+This is transferable. The knowlede I gained is in precision industry, however, the broad picture is problem solving byt forming hypothesis and showing how your numbers relate to the solution.
+
+
+- analytical problem solving
+
+Problem solving by forming hypothesis, looking at data, informing what data needs to be pulled out.
+
+- Ability to lead
+- Currently wokred on a milestones
 
 
 
 
+If you’re early in your career, take our career quiz. Select “early career” and it’ll mainly rank options by their potential for career capital.
+If you’re late in your career, take a look at our advice by area.
+
+5 aceivements I am ppround of:
+
+1) solving a TT that my boss said "This is what I expected from you", after having rubbished a few times and somehow generating the data and the solution within 3 days, from scratch. Although I pressured myself to come up with a solution that very day, it took me 3 days. But the comment of my boss made my day.
+
+2) When mmy boss told me that I had good work with LETI.
+
+3) When my boss though I was milestone worthy. Getting a milestone of this level at relatively short time is what is important
+
+My gate rank of 1061. Having come3 from a background of bull shit bachelors, I am proud of this achievement that is almost selfmade.
+
+All of these things have that I finished things in record time, or that they were above my skill level and I did still perform, all of these have my boss happy and give me a PC.
+
+I am not sure where I am going with this. I should check out career capital and what exactly I am gainging from my current job. Do some profiles of the jobs I am interested in so far a small spreadsheet to compare what I should be doing in the coming years.
 -------------------------------------------------------------------------
 
 ### My profile
