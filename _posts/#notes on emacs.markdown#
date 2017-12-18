@@ -1,0 +1,26 @@
+---
+layout: post
+comments: true
+title:  "Notes on emacs"
+date:    18-12-2017 19:39
+categories: The Beginning
+permalink: /:title.html
+published: False
+
+---
+
+org-mode by using indirect buffer, vertical split screen, and visibility cycling. All handled via hotkeys.
+
+clone window direct buffer... split screen?
+
+reg-x split screen
+org  bullets
+
+google from within emacs
+
+
+abbrev mode stuff
+
+search files within directory, oh how convinient rgrep
+
+back ground and foreground color 
