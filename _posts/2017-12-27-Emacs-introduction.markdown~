@@ -1,0 +1,104 @@
+---
+layout: post
+comments: true
+title:  "A new beginning- Emacs"
+date:    27-12-2017 15:00
+categories: The Beginning
+permalink: /:title.html
+published: True
+
+---
+## TODO's
+
+
+##  Why Emacs
+
+An STM suggested to me that if I am looking for something over the long term (20
+years or more) I should check out EMACS. [This video][emacs_video] showed how
+emacs could be used by writers, people who are not programmers, people who would
+like their shit to be not clumsy AF, People who would like to free their mind of
+the all the shit that is hindering your progress. 
+
+[emacs_video]:https://www.youtube.com/watch?v=FtieBc3KptU
+
+You want to be at your creative best and not be bogged down by shit like
+formatting and the like (for example writing in word and bleeding from your eyes
+as you get shit done). Plus the things that org-mode can do are really fancy
+as mentioned in [the same video linked above][emacs_video], they give us better
+control over what we are writing with simple key strokes.
+
+In summary, 
+
+- you don't have to move your hands to the right (dark) side of your keyboard.
+- emacs has keybindings (shortcuts) for basic movement, without moving to the
+  right side of your keyboard 
+- we write in plane text and plane text only.
+- org-mode allows to see just the headlines, minus the text with simple
+  keybindings
+- You can split the screen which ever way you want (all with hot keys) and
+  screens can be mirrored with one side showing outline of the doc and the other
+  showing everything else.
+- Writers, programmers, academicians all praise this software and claim to have
+  switched from others because EMACS fucking kills. 
+- I am sold!
+- I have only scratched the tip of the iceberg I suspect. I want to do much much
+  more with it.
+
+>Yes, my friends, it is true. After more than fifteen years using Vim, teaching
+>Vim, proselytizing about Vim, all the while scoffing in the general direction
+>of Emacs, I’ve seen the light. The light of Lisp… Or something. -
+>Aaron bieber
+
+There is a whole community, some special metions with creation of
+documentation and some interesting modes would be Ian Barton and
+Carsten Doiminik.
+
+## Getting started
+
+### Installation basics
+
+Installing from the ubuntu software centre is possible, but for some
+reason it didn't install the latest version. I followed the
+installation procedure [here][ask-ubuntu-installation]. I am
+replecating the infor here.
+
+	$ sudo add-apt-repository ppa:ubuntu-elisp/ppa
+	$ sudo apt-get update
+	$ sudo apt-get install emacs-snapshot
+
+In case you already installed an older version of emacs use the
+following to remove the current running version:
+
+	$ sudo apt-get remove --auto-remove emacs
+
+I ran into [this error][emacs-stack-error-thej] whence I had the old
+installation. Maybe it is not necessary to fix do it right away, but
+keep it in mind. Many packages including Helm and Markdown-mode didn't work.
+
+[emacs-stack-error-thej]:https://stackoverflow.com/questions/47983227/helm-installation-package-emacs-24-4-unavailable/47985613?noredirect=1#comment82941695_47985613
+
+[ask-ubuntu-installation]: https://askubuntu.com/questions/598985/how-to-upgrade-to-the-latest-emacs
+
+### Things to know 
+
+One of the ideas behind emacs is to allow you to write efficiently
+without having to do silly key strokes that would involve moving your
+entire arm to another location. Bear with the initial discomfort, and
+it will pay off. 
+
+We are not going to use the up, down, left, right, delete, home, end
+page up buttons when we are in emacs. 
+
+#### Basic navigation
+
+In this document as well as in every other documentation in the world
+on emacs `C-x` 
+
+	
+## Org mode the farthest I have come
+
+## Markdown mode
+
+
+
+

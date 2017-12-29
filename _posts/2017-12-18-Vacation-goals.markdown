@@ -35,5 +35,12 @@ Some goals and and their priorities are listed here.
 - bitcoin setup
 - pscycology based books
 - how to write
+- beard cream sukhu
 
 Been sick for the last 2 weeks and drinking during friends marriage. Back now, with another sickness due to outside eating perhaps. fuck it. Moving on!
+
+## pandian panindain 
+
+### pandian panindian pandiajsdhj
+
+

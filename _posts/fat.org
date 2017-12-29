@@ -1,0 +1,42 @@
+#+STARTUP: align
+
+* Tasks
+** TODO how to hide columns 
+** DONE import CSV to ORG
+** TODO remove and access the formula TBLM and access it easily
+
+* Fat measurement details trial 1
+
+|          |       |     |      |       |       |        |     |       |      |       |
+| date     |       | time |    1 |     2 |     3 | weight | bfp |   lbm |   bf |  ffmi |
+|----------+-------+-----+------+-------+-------+--------+-----+-------+------+-------|
+| <8>      | <5>   | <3> | 10.5 |       |       |        |     |       |      |       |
+| 10/14/17 | Saturday |  22 | 10.5 |  22.3 | 12.16 |     63 |  12 | 54.89 | 8.10 | 18.22 |
+| 10/21/17 | Sunday |  23 | 10.5 |    25 | 14.66 |     61 |  12 | 54.89 |  8.1 | 18.22 |
+| 12/12/17 | Sunday |  12 | 10.5 | 24.66 |    15 |     60 |  13 | 51.98 | 8.07 | 17.25 |
+|          |       |     |      |       |       |        |     |       |      |       |
+#+TBLFM: $4=vmean(11,10,10.5)
+
+
+
+
+* Fat measurement details 2
+
+| date     | Day      | time |     1 |     2 |     3 | weight | bfp |   lbm |   bf |  ffmi | Loc 1,1 | loc1,2 | loc1,3 | Loc 2,1 | loc2,3 | loc2,2 | Loc 3,1 | loc3,2 | loc3,3 |
+|----------+----------+------+-------+-------+-------+--------+-----+-------+------+-------+---------+--------+--------+---------+--------+--------+---------+--------+--------|
+| 10/14/17 | Saturday |   22 | 10.50 | 22.66 | 12.17 |     63 |  12 | 54.89 | 8.11 | 18.23 |      11 |     10 |   10.5 |      23 |     23 |     22 |      12 |   11.5 |     13 |
+| 10/21/17 | Sunday   |   23 | 10.83 | 25.00 | 14.67 |     61 |  12 | 54.89 | 8.11 | 18.23 |       9 |   11.5 |     12 |      27 |     23 |     25 |      15 |     15 |     14 |
+| 12/12/17 | Sunday   |   12 |  7.63 | 24.67 | 15.00 |     60 |  13 | 51.92 | 8.07 | 17.26 |     7.9 |      7 |      8 |      23 |     26 |     25 |      15 |     14 |     16 |
+#+TBLFM: $4=vmean($12..$14);%.2f:: $5=vmean($15..$17);%.2f :: $6=vmean($18..$20);%.2f :: $11=$11;%.2f ::  $10=$10;%.2f
+
+
+* Help
+| command       | function                             | link             |                  |   |
+|---------------+--------------------------------------+------------------+------------------+---|
+| C-u C-c \vert |                                      | CSV to ORG table | [[https://stackoverflow.com/questions/1241581/emacs-import-a-csv-into-org-mode][csv-to-org-table]] |   |
+| C-c }         | rows and col visible                 |                  |                  |   |
+| C-u C-c *     | Reapplies all formulas               |                  |                  |   |
+| C-c C-c       | Reapps(If you are on the TBLFM line) |                  |                  |   |
+| C-c SPC       | Clear cell                           |                  |                  |   |
+| M-S-right     | add col and sub col(left)            |                  |                  |   |
+| C-c `         | edit => cells                        |                  |                  |   |

@@ -1,0 +1,26 @@
+* Tasks
+** TODO how to hide columns 
+** DONE import CSV to ORG
+** TODO quick access to personal help file
+
+* Fat measurement details
+
+|          |          |      |       |       |       |        |     |         |       |         |
+| date     |          | time |     1 |     2 |     3 | weight | bfp |     lbm |    bf |    ffmi |
+|----------+----------+------+-------+-------+-------+--------+-----+---------+-------+---------|
+| 10/14/17 | Saturday |   22 |  10.5 |  22.3 | 12.16 |     63 |  12 |   54.89 | 8.109 | 18.2284 |
+| 10/21/17 | Sunday   |   23 | 10.83 |    25 | 14.66 |     61 |  12 |   54.89 | 8.109 | 18.2284 |
+| 12/12/17 | Sunday   |   12 |  7.63 | 24.66 |    15 |     60 |  13 | 51.9218 |  8.07 |  17.259 |
+|          |          |      |       |       |       |        |     |         |       |         |
+#+TBLFM: $4=vmean(11,10,10.5)
+
+
+* Help
+| command   | function                             | link             |   |
+|-----------+--------------------------------------+------------------+---|
+| C-u C-c   | CSV to ORG table                     | [[https://stackoverflow.com/questions/1241581/emacs-import-a-csv-into-org-mode][csv-to-org-table]] |   |
+| C-c }     | rows and col visible                 |                  |   |
+| C-u C-c * | Reapplies all formulas               |                  |   |
+| C-c C-c   | Reapps(If you are on the TBLFM line) |                  |   |
+| C-c SPC   | Clear cell                           |                  |   |
+| M-S-right | add col and sub col(left)            |                  |   |
