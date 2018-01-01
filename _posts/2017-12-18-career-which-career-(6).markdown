@@ -5,7 +5,7 @@ title:  "  Career- Contributing directly"
 date:    27-11-2017 19:39
 categories: The Beginning
 permalink: /:title.html
-published: True
+published: False
 
 ---
 
