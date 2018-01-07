@@ -405,6 +405,7 @@ explained in the above sections. This mode has the basics that I need,
 such as visibility cycling and highlights the headings, although not in
 different colours according to their level (as in org-mode).
 
+Check [this link](https://github.com/defunkt/markdown-mode), for more info.
 
 	
 

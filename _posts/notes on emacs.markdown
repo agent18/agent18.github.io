@@ -12,7 +12,6 @@ published: False
 org-mode by using indirect buffer,~ vertical split screen~, and visibility cycling. All handled via hotkeys.
 
 clone window direct buffer... split screen?
-
 reg-x split screen
 org  bullets
 
@@ -57,6 +56,7 @@ C-y to Yank
 Dont worry about saving... trust in auto save mode for every 300 characters--> check this???
 
 quit by C-x and C-c so that you save everything before you get aat a here!
+
 
 C-x o to switch between visble buffers
 
