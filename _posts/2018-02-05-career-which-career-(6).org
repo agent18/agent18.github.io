@@ -1,0 +1,500 @@
+--------------
+
+layout: post comments: true title: " Career-a brief review of events so
+far" date: 02-01-2018 categories: The Beginning permalink: /:title.html
+published: True
+
+--------------
+** Goal
+
+I want to create maximum impact over my entire career could be either
+by earning to give or by gaining sufficient career captial and using
+that to create the max impact.
+
+** History
+
+This career series of posts was written with the idea of helping me
+understand what I needed to do w.r.t my career and how to get there. As
+it has been a while (4 weeks), I would like to re-boot my system. The
+primary goal that is expected to drive all change and actions in my life
+is based of this [[/Answers-finale.html][Answers]] post.
+
+So in [Career-1][Career-1] we saw about some basics and the career data
+I have. In the following post [Dream Job][Career-2], we discussed what
+should be there in a dream job, such as flow, moderate amount of stress.
+This post has a synopsis of the research on stress and my final
+understanding. It's a good post I will keep it for now as it contains
+quite some intersting things about long hours, stress and vacation. As
+the post says, its everything about how a job should be and what it
+should have, what I should look at in a job.
+
+[Post 3][career-3] seems to be a post that can be skipped. I suspect it
+was a post written for completeness. Then maybe it can stay.
+
+#+BEGIN_QUOTE
+  There's no reason to be embarrassed by this fact, but it does
+  emphasize how important it is to consider how you can use your good
+  fortune to help others. In a more equal and intuitive world, we could
+  just focus on helping those around us, and making our own lives go
+  well. But it turns out we have an enormous opportunity to help other
+  people with little cost to ourselves -- and it would be a terrible
+  shame to squander it.
+#+END_QUOTE
+
+In [Post-4][career-4] we discuss where we need to focus and what we can
+do to maximize our impact. There are several areas and several things
+that we could do. With this post is quite clear that there are several
+opportunities, and a proper analysis needs to be made so that we can
+start in this direction over the next year.
+
+In [Post-5][career-5] we discuss about how the suggestion of [80k
+hours][80k-uur] is to start with direct work if possible rather than
+earning to give. As it is not a shortage of funds that is the major
+problem but the using of the funds in an effective way or channelling
+funds to the right medium to create large/right impact.
+
+All these posts are written not with a proper beginning or end. So I
+guess I shall keep them and proceed further. I think what would be best
+now is to do profiling of different fields, how I can get into that
+field, my key uncertainities and what could be the impact. This is going
+to be a highly experimental post. The main problem with this post is
+going to be the uncertainity. Its gonna be cray cray cray.
+
+Before that I also quickly make a synopsis of the 80k hours links...
+
+
+*** TODO rewrite Career capital to gain more understanding, lots of things are vague,
+*** Direct work vs indirect work (earning to give)
+
+#+BEGIN_QUOTE
+  80,000 Hours thinks that only a small proportion of people should earn
+  to give long term.
+  we think that most people should be doing things like politics,
+  policy, high-value research, for-profit and non-profit
+  entrepreneurship, and direct work for highly socially valuable
+  organizations.  [1]
+#+END_QUOTE
+
+*** Choosing an area to focus
+
+Work on neglected, solvable, personal-fit-making-sense,
+expertise-making-sense type of problems.  [2]
+
+*** Best approaches Which jobs are good/great?
+
+-  Earning to give
+-  Advocacy
+-  Research
+-  Direct work
+
+[[https://80000hours.org/career-guide/high-impact-jobs/][80k hours high impact jobs]] suggest the following as the different ways to contribute
+
+[[/career(5).html][This post]] written by me briefly discusses the
+actions suggested in
+[[https://80000hours.org/career-guide/high-impact-jobs/][80k hours high impact jobs]]. The outcome seems to me that that
+
+1. either we become mathematicians, staticians or economicians
+   (preferably Phd's)
+
+2. Develop generic career capital involving leadership (founding),
+   management abilities (fundraising large sums of money within
+   bureaucracies)
+
+3. Getting into policy making, shaping type of roles; Grant maker
+
+4. Earning to give is always an option, but first we need to see what we
+   can do directly.
+
+The [[https://80000hours.org/career-quiz/#/][Career quiz]] suggest me the [[https://80000hours.org/career-quiz/#/quantitative=yes&verbalAndSocial=yes&riskTolerance=no&challengeTolerance=yes&careerStage=early&pathType=directImpact%252C+advocacy%252C+earningToGive%252C+research][following based on my answers]]:
+
+-  Management consulting
+-  Working at effective non-profits
+-  Product manager at Tech
+-  Data Science ( for skill-building & earning to give)
+-  Economics phd
+-  Software engineering at large tech-firms
+-  Machine learning phdg
+
+*** Career Capital
+
+80k hrs is very clear in their advice *that we should look for opportunities of direct
+impact rather* than earning to give, to begin with.
+
+People peak after 10 to 20 years of experience. Being successful takes
+time. Invest in your now for a better impact tomorrow.
+
+#+BEGIN_QUOTE
+  For instance, *learning marketing or management* is flexible because
+  almost all organisations need these skills; whereas becoming an expert
+  on Kenyan microfinance is not. - [80k hrs on Career
+  Capital][80k-career-capital]
+#+END_QUOTE
+
+I read the story about Tara and constantly think that I am not that high
+acheiver, what ever they touch which turns to gold. But thats ok, things
+take time, and I am going to be that acheiver. Let's already start
+learnign something. I am spending too much time just doing nothing.
+
+#+BEGIN_QUOTE
+  If you're really uncertain, then you could make flexible career
+  capital your main focus. As you learn more, you can make your plan
+  more and more targeted. (We'll cover how to do this in a later
+  article.)
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+  Bear in mind, the advice “build flexible career capital” is not the
+same as “don't close any doors”. Some people try to avoid committing
+  to a specific path because they're unsure what to do. *Rather, the
+  advice is to commit to a path in which you'll gain career capital
+  that's useful in many other paths. Just pick an area, perform highly,
+  learn valuable skills, and meet influential people.* You'll end up in
+  a better position than if you try to do a bit of everything and don't
+  achieve anything.
+#+END_QUOTE
+
+This is one of the important pieces of advice without which I would
+just continue to mentally masturbate. I guess it is hard to already
+know what you can do in the future. I feel that this above quote is an
+easy way out of all the hard computations. It suggests to generically
+go for something that I am a personal  fit in and kill at it! As long
+as I am in one of the fields they have talked about, I should be good?
+
+*Dont do a bit of everything!* 
+
+
+- Working in any organisation which has, or with any people who have, a
+reputation for high performance e.g. top consultancy or technology
+firms, or any work with a great mentor or team. 
+
+-  Undertaking certain
+graduate studies, especially applied quantitative subjects like
+economics, computer science and applied mathematics. 
+
+-  Anything that gives you a valuable transferable skill e.g. programming, data
+science, marketing. 
+
+- Taking opportunities which allow you to achieve
+impressive and socially valuable things e.g. founding an organisation,
+doing anything at which you might excel.**** Work at a growing
+organisation that has a reputation for high performance
+
+The skill consulting/management seems to give you!
+
+#+BEGIN_QUOTE
+  Consulting works because the companies make you work hard, train you
+  up, and put you around other productive people, building your skills
+  and connections. These jobs are also widely recognised as competitive
+  positions, which gives you a credential.*But there are many other
+  positions that can provide similar benefits.*
+#+END_QUOTE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1] https://80000hours.org/2015/07/80000-hours-thinks-that-only-a-small-proportion-of-people-should-earn-to-give-long-term/
+
+[2] https://80000hours.org/career-guide/most-pressing-problems/
+
+**** comparing two options interms of Career Capital
+
+*Skills*
+
+what will you learn in this job, and how fast will you learn?
+You can break skills down into transferable skills, knowledge and
+personality traits. Some especially useful transferable skills
+include: personal productivity, analysis and problem-solving, the
+ability to learn quickly, decision-making, social skills, and
+management. We cover why and how to learn them in a later article. If
+you want to do good, you also need to learn all about the world’s most
+pressing problems and how to solve them. A job will be best for
+learning when you are pushed to improve and get lots of feedback from
+mentors.
+
+acheivements, connect
+
+#+BEGIN_QUOTE
+The very best career capital comes from impressive achievements.
+
+Doing great work builds your reputation, and that allows you to make
+connections with other high achievers.
+
+If you want to make a big difference in the world, you need something
+valuable to contribute. Level up before you take on the big boss.
+#+END_QUOTE
+
+*Connections*
+
+who will you work with and meet in this job? Your connections are how
+you’ll find opportunities, spread ideas and start new projects. The
+people you spend time with also shape your character. For both
+reasons, it’s important to make connections who are influential and
+who care about social impact.
+
+*Credentials*
+
+will this job act as a good signal to future collaborators or employers? 
+
+
+*Runway*
+how much money will you save in this job? 
+
+*Gaining flexible and future-proof career capital*
+
+Future proof, ability to do other things based on interest and what is
+needed at the particular hour!
+
+#+BEGIN_QUOTE
+In general, the more uncertain you are about the future and your
+career, the more important it is to gain career capital that’s
+flexible.
+#+END_QUOTE
+
+Flexibility is more important at the start of the career as this is
+the point when you know the least about your career and what you want
+to do in the future and what you can do!
+
+*** Planning
+According to [[https://80000hours.org/career-guide/career-planning/][80k hrs (career planning)]],
+
+What should we do over the next 10 or 20 years? What is the right
+career for us?
+
+These are hard questions to answer for the following reasons:
+
+#+BEGIN_QUOTE
+1. You'll change more than you think
+
+2. The world will change, many industries wont exist in the next 20
+   years
+
+3. You'll learn more about what is best for you, what you can do best
+   (personal fit?). It's hard to predict what you're going to be good
+   at ahead of time.
+
+There is no single "Right career for you"
+#+END_QUOTE
+
+
+I have no idea what to do in the medium term even. I am just looking
+to make either make huge money and gain career capital or just work
+directly. But right now I have no idea how to evaluate what I could be
+doing and if I could be doing that in 10 to 20 years. I think the
+easier and much more soothing-to-the-ear option, due to my
+uncertainity is to start off with buildng flexible career capital and
+figure it out on the way what is best for me. 
+
+As the [[https://80000hours.org/career-guide/career-planning/][80k hours website]] says the idea of figureing out what career will work
+in the end for you is just like what the top people have to figure out
+while makeing a startup. We need 3 plans:
+
+Plan A, one where we see a top option, a personal fit which we feel
+reasonably ok, in the medium term (5-10 years?). If we are uncertain
+or very uncertain we shall look at building flexible career capital
+
+Plan B, promising nearby alternative
+
+Plan Z, the fall back option in case not even one start aligns itself
+to work out for you!
+
+#+BEGIN_QUOTE
+Not a single thing I wrote in my 25 yar plan was right. For me the
+Journey was not predictible at all, world is changing. Only thing we
+can do is prepare. Things will change. 
+#+END_QUOTE
+
+***** Summary
+So much english until now. 
+
+In essence, we will not be able to predict what we can do . I think
+what we can do is prepare. Prepare as in, know somethign roughly what
+we might want to do for creating maximum impact. 
+
+For example, we could found companies that help people ( direct
+work). Definitely something to prep for. We could become top
+management officials/ management consultants who earn like hell and
+give it away ( earning to give). The thing I don't know reliably if
+things would work out the way I want. Hell I can't even predict which
+of those will create the most impact mainly due to the million
+uncertainities in between. But I know I can start somewhere, in a
+"future proof" career trajectory, such that with some effort based on
+my later  "better" understanding of my capabilites and the worlds
+necessities, I could just move to the place that needs me the most,
+where I can contribute the most. Note that sucha career shoudl be
+flexible, like a marketting job for example ( every company needs
+this)
+
+flexible- useful in many different types of jobs, and likely to remain
+useful in the future.
+
+Such would be the type of job that we want to be in!
+
+First I want to summarize things, and then proceed further with
+evaluating options by looking at career paths of certain people!
+
+
+
+* Narrowing down
+
+[[https://80000hours.org/career-guide/personal-fit/][How to narrow down or even begin narrowing down according to 80k hours?]]
+
+** but first some key parameters
+
+I can write essays over essays, but that is not what i want. I want
+something that is concise, atleast has a way of writing, not just
+blindly what I feel. This cannot be that type of essay, and franlkly
+its a pain for the reader and me. 
+
+Goal is to come up with hardcore understanding using parameters that
+can be argued for and against, with a clear conclusion
+
+So the parameters are:
+
+1. Flexible-career-capital
+   
+2. Skills that you gain, 
+
+3. Connections that you will make
+
+4. Runway
+
+Money you will make
+
+5. What people you know say?
+
+6. Personal fit
+
+7. Which plan would it be?
+
+A/B/Z
+
+8. Impact
+
+will be based on career capital, Runway
+
+9. Job demand 
+
+10. Ability to sport
+
+11. Key uncertainities
+
+12. how to get there? ability to get there, some career paths?
+** Making a big list of options.
+
+Right now the problems I work would just allow me the ability to
+earn-to-give and allow me career capital with which I should be able
+to be bigger things.
+
+Bigger things would look like this:
+
+He started the "Founder's forum for good"
+#+BEGIN_QUOTE
+Before all that, I spent a couple years in finance (from a philosophy degree) in the US, started
+and sold a business in Europe, and ran a chain of Segway dealerships
+in California.
+#+END_QUOTE
+
+Management, finance, marketting and sales seems to surely have its benifits
+
+
+*** Design engineering/ Mechanical engineering in Netherlands
+
+I suspect engineering does not have much scope for me either with
+earning-to-give or building-career-capital that is transferable and
+felxible (useful in many different jobs and future proof). 
+
+The first thing that the interviewer at ASML told me is that if I am
+looking at this job, then I am already aware that money is not going
+to be big. I suspect he was talking about the career growth etc... A
+job in Shell (Management traineeship) could go all the way to 100 k
+euros in 5 years within the same company. As an engineer, with the
+bonus that we usually get withing 5 years, I cannot expect that growth.
+
+It appears that there are other careers in other regions that should
+allow me to earn much more than what I do now. I am young and
+thriving, ready for some crazy hard ass challenges, ready to work long
+hours if there is enough career capital on the plate.
+
+1. Flexible-career-capital
+
+I work in the precision industry as a design/mechanical engineer. Job
+is prmarily about problem solving and learning different
+things. Involves a lot of shit, like having to deal with low-level
+work. Lots of things bogging you down like shit, like having to deal
+with HDF5 files and looking at them manually, copying time stamps to
+determine where I need to be. 
+
+- Lots of low-level work needs to be done, way of work sucks to get to the cream of
+problem solving. 
+
+- Way of work sucks, slow, and unmotivating for a decent part. 
+
+Although can't rememeber feeling like I want to kill myself or feeling
+that I have to go to work. It seems natural. Challenges are in plenty.
+
+- Still can be challenging. 
+
+2. Skills that you gain, 
+
+Decent problem solving skills, but need to move through quite some
+low-level work. I am right now going into a clean room and doing
+clamps and taking pictures. Not sure if it gets better say in data
+science, where data always needs to be cleaned up.
+
+3. Connections that you will make
+
+Well nothing great except the CEO of the company. Colleagues are laid
+back, clock 7.5 hours on an 8 hr work day. Not good for morale. DL is
+really good, asks the right questions. This job might lead to a better
+job but well, 
+
+Probably not the best people to surround with as they are laid back, I
+guess because I am in R&D. These people are not going to help me
+spread ideas or are niether influential to help me out. 
+
+Some brainy people are here with whom I could collborate and work
+with.
+
+Thats it for now. I 
+4. Runway
+
+Money you will make
+
+5. What people you know say?
+
+6. Personal fit
+
+7. Which plan would it be?
+
+A/B/Z
+
+8. Impact
+
+will be based on career capital, Runway
+
+9. Job demand 
+
+10. Ability to sport
+
+11. Key uncertainities
+
+12. how to get there? ability to get there, some career paths?
+
+*** Design engineering in the US
+*** Data Scientist
+*** Programming/ Software engineer at google
+*** Management consultancy @ Mckinsey
+*** Investment banking with 100 mill
+*** Finance
+*** Business opportunities/ business management
