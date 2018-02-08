@@ -349,47 +349,322 @@ evaluating options by looking at career paths of certain people!
 
 [[https://80000hours.org/career-guide/personal-fit/][How to narrow down or even begin narrowing down according to 80k hours?]]
 
+
+
+Bigger things would look like this:
+
+He started the "Founder's forum for good"
+#+BEGIN_QUOTE
+Before all that, I spent a couple years in finance (from a philosophy degree) in the US, started
+and sold a business in Europe, and ran a chain of Segway dealerships
+in California.
+#+END_QUOTE
+
+Without a clear idea of what I want to do or what I could be doing, I
+see myself in the blind. I am really uncertain about what I could be
+doing, I don't know if I should just choose something, or how to go
+about it. 
+
+In other words, when I want to compare things, I don't understand what
+to look for.
+
+So I want to roughly say, I want flexible career capital. By that I
+mean I should be able to jump to something bigger and better when the
+time arises. I see roughly a couple of ways this is going down.
+
+3 Concrete ways I think I might actually contribute to society in the
+long run.
+
+1. Earn to give in data science / Management consulting / programming
+
+2. Working as a researcher at GiveWell, looking at data and
+   determining which place needs funding and how effective they are. 
+
+3. Having the ability to found companies that can cause much bigger
+   impact
+
+4. Manage a business or start something that can make millions or is
+   useful to a large number of people
+
+What type of skills would it involve?
+
+
 ** but first some key parameters
 
 I can write essays over essays, but that is not what i want. I want
 something that is concise, atleast has a way of writing, not just
 blindly what I feel. This cannot be that type of essay, and franlkly
-its a pain for the reader and me. 
+its a pain for the reader and me to consolidate it later.
 
 Goal is to come up with hardcore understanding using parameters that
 can be argued for and against, with a clear conclusion
 
 So the parameters are:
 
+*** TODO Uncertinity in knowing how my current job fares in terms of learning and gaining career capital
+
 1. Flexible-career-capital
    
+   Something that is future proof and something that allows me to
+   change to different types of jobs is the definition of career
+   capital. For example, you don't want to do something real specific,
+   like know exactly how to train a komodo dragon of age 3. You need
+   to be flexbile in the sense, have a wide scope to be useful in
+   various scenarios and move as we have more information. We need to
+   build on the old info and not just throw it away. It's time and
+   skill we spent there. Tara went on to be a pharmacist in the red
+   cross, despite realizing that she can do better elsewhere, she does
+   not have the skills. This is what you want to avoid.
+
+   With *Design engineering in NL*, I am not sure how
+   transferable the skills learnt here are. Yes I work on problem
+   solving in the precision industry. But I don't know how I will fare
+   in the automotive industry for example. Unless I am in a
+   consultancy that changes me every 6 months, I doubt I can do
+   better. 
+
+   It might help me climb the stages say as a design leader and go
+   into management, but I am not sure what the scene is. Specifically,
+   I am not sure if it will make enough money as challenges go
+   up. What I do is creative, and I suspect my job can be AI'd. If
+   mine can be AIed, then data science should also be, but I don't see
+   any alarms caused there. 
+
+   In summary, seems AI unreplacable for now, I am not sure how to
+   quantify or qualify the Career capital obtained through
+   this. Although I can say that with my current job, very little is
+   going on. Either change jobs to much more learning and better
+   peers! Need to write a little about it, before I conclude. I am not
+   here to complain.
+
+   *Data Science, Management, finance, marketting and programming* is
+   considered as flexible career capital as every company needs them
+   and is and will be in great demand. hat will be relevant in many
+   different jobs in the future as technology changes. This prevents
+   you from getting stuck in a dead end, especially early in your
+   career.
+
 2. Skills that you gain, 
+Programming, statistics
+
+Personal productivity, problem-solving
+
+Decision making, social skills and management
+
+Statistics and forms of data science and being good with numbers and
+problem solving seem to be part of finance, management consulting,
+programming and data science.
+
+As things are slow at my job as a design engineer, although from time
+to time I do problem solving, I dont think I will end up with any proper
+acheivements or skills, so Moving is impoeritive.
 
 3. Connections that you will make
+I don't really know much about this. Anyways, I have heard stories of
+management consultants knowing big people, also data scientists. My
+job, well, not much as I have here first hand.
 
 4. Runway
 
-Money you will make
+   Hypothesis: Doing engineering will not get me crazy runway
+   
+   Evidence: This is the money that I will be able to save in case I
+   get laid off or need to try something else. Also money I can give
+   falls in this category. For the sake of convinience, we will just
+   talk about money earned and money saved as our key indicators.
 
-5. What people you know say?
+   My data science friend working in apple earns about 150k $ just by
+   himself after 2 years of work + a killer masters, with madass
+   bonusses. My brother an antenna design engineer in Nvidia, probably
+   does something similar after 5 years of experience. My friend in
+   somewhat a similar field as I (mechanical engineering;
+   troubleshooting etc...) earns about 95k. All the above are in the
+   same region. 
 
-6. Personal fit
 
-7. Which plan would it be?
+   Hypothesis: Working in Holland probably never gets any better 
+   
+   Evidence:As a hollander working for the last year, I suspect the
+   way of work throughout is about 8 hrs/day and nothing more. Their
+   whole lifestyle is relaxed. For example, I have 40 motherfucking
+   days of paid vacation. The only case I have heard of life being
+   fast paced, long-hours, crazy money ( like the US), is with
+   investment banking. This makes sense, the job demands that. The
+   normal folk people get paid not as much as US, get many holidays
+   and get work 8 hrs and done. My colleague who is a very good
+   electrical engineer gets paid a meer 52k Euros with 20 years of
+   experience. My special "performance bonus" was 700 Euros. I can't
+   imagine someone with mech engineering in my company with similar
+   years of experience, gets much more. The increase in salaries are
+   at max 5% (translates to <500 Euros a years, i.e., 50 euros a
+   month) Kill me! Although I am in a startup, this one is modestly
+   funded. Maybe the situation is much better when I join say ASML a
+   leading lithographer. 
 
-A/B/Z
+   Talking about saving, my current saving with participating in
+   limited sort of activities could be 14k euros. My saving could increase
+   to ~22k euros conservatively saying. My peer in US can save about say
+   35k $ (28k Euros), 6k is nothing short of awesome. And I suspect
+   his pay increases are more than that we have here, along with
+   growth. 
+
+   To me it looks like working in holland based on runway never gets
+   better. But it is rather easy to get a citizenship. This would me
+   for a great plan Z. I could try everything I want and fail and pick
+   up myself in Holland.
+
+
+   Hypothesis: CS engineers, Data scientists, create more value for
+   the company and hence get more money. These people also do a lot of
+   problem solving.
+
+5. Personal fit
+
+   To me the easiest thing to move to would be DS, as it involves
+   little programming and some problem solving. Traineeships are
+   around the corner. I could prep for free online, or if I am cray, I
+   could take a bootcamp in UK. Wow! Moving certainly would start from
+   netherlands and slowly move to the US say after joining Google
+   here.
+
+   Management consultancy is right off the charts something that I am
+   currently not cut out for. There was a Shell traineeship, which I
+   felt I might not be suited for (read as "Hard") right from the
+   beginning ( well my worry is mainly about quantitative reasoning in
+   break neck speeds.). I am young and thriving and I suspect I can
+   pull my shit up and prep for it if thats what it takes, and go into
+   some form of management after which I can migrate to a consultancy?
+   Cause right now I am just an engineer. Mckinsey doesn't want to
+   hire this Nigga! I want to work my ass off in my prime and kill
+   it. Learn a lot, be pushed beyond things. I suspect I can always
+   pick up from where I left and get back to engineering if I suck.
+
+   Investment banking could be the hardest, from a skillset point of
+   view. Right now to get into it, I don't know anyway, other than
+   doing a proper degree. I don't know how I'll fare. I am ready to
+   put in the hours and be good at it. It's ok to fail. The money is
+   crazy, I want a part of that. Maybe somehow get into finance of
+   sorts and from there, move to other avenues. If not now when!
+
+   Design engineering is pretty much what I can get into, I fit in
+   pretty well. With some years of experience I should be quite
+   good. Although with my current job, I am more like doing problem
+   solving for the precision industry. Thinking of ways to come up
+   with solutions is mostly what I do nowadays. I think I am slow,
+   that things take a long while to get done, but I don't hear that
+   feedback from my leader yet.
+
 
 8. Impact
 
-will be based on career capital, Runway
+will be based on career capital, Runway. Right now I am not looking at
+what will be the exact impact. I will take rough rules of thumb as
+prescribed by 80k hrs. The [[https://80000hours.org/career-guide/career-capital/][website]] already informed me that Management
+consultancy would be my best option to create impact. 
 
-9. Job demand 
+This is what I want to be like, I would like to move to interesting
+and hard problems solve them. I want to be as good as possible with my
+job. Be an acheiver, just like the other souls interviewed by
+80k-hours-website.
 
-10. Ability to sport
+My career could look something like this...
 
-11. Key uncertainities
+#+BEGIN_QUOTE
+Before all that, I spent a couple years in finance (from a philosophy degree) in the US, started
+and sold a business in Europe, and ran a chain of Segway dealerships
+in California.
+#+END_QUOTE
+
+The profiles of people on the website are nothing short of
+exceptional. That's what I want to be, and hopefully that creates a
+lot of impact. Maximize success, be really good at what I do. Donate
+as much as possible and jump to opportunities to lead,
+With more time and more knowledge I should be able to choose and move
+up like the guy above.
 
 12. how to get there? ability to get there, some career paths?
+
+For *Design Engineering*, maybe there is a scope in the future to
+startup once I am very good with what I do, maybe become CTO material
+and then make good money, just like doing a business. But the
+probabilities of that happening are low, I feel if I stick to this
+job. I will become a Design leader but then there are several people
+in line I have to beat to get to that position within a company. I
+just want a role where I provide direction and allow people to work it
+out. I just want to push for change in the way I see fit. Even more
+rare is the company you startup actually going to be directly
+impactful. So my point is yeah, I am already there. To get to US, I
+could try to apply to US first and see, or move to some other bigger
+company like ASML, and move within the company after good performance
+over some years.
+
+For *Management Consulting* I think I can get in, in 2 ways. Popular
+opinion on [[https://80000hours.org/career-guide/][80k-hours-website]] is that one has to be part of the
+Mckinsey, BCG and BAin. So assuming that I have to be there only, I
+could do 
+
+- MBA
+
+- part-time MBA
+
+- Management traineeship at shell followed by attempting to apply to
+  Mckinsey with a killer profile.
+
+For *investment banking* I could possibly do
+
+- an economics masters in NL 
+
+- or do some basic courses and try to get an internship and see where
+  that takes you, within a company. 
+
+For *data science* I see the following
+
+- start a traineeship ( apply and get selected of course)
+
+- join a company in a starting position in Netherlands.
+
+- Learn enough DS online for 6 months and then look to appllying in
+  the US
+
+- Apply for a masters
+
+For *Programming* I guess I would, start picking up programming skills
+and try to hit google nl in 2 years and from there try to move to the
+US. I am not really keen on doing programming but Data science is more
+something I am in for. DS has both problem solving and little data
+science. Something I can migrate to almost now.
+
+For *business* I will see how my friend is faring with his startup in
+Holland and then maybe look for some options here. He told me has
+contacts, but nothing materialized. Anyways it still seems farfetched,
+that I would start running a huge company. I could run companies for
+people and become big like that, but what we are talking about seems
+far-fetched. I had several freinds saying in air that I could work
+with them, but in reality they themselves were struggling. I don't see
+an opportunity that would allow me to gain experience and go on from
+there. I wouldn't know what a career like that looks like. I don't see
+options, and I don't see any value in giving up my current job and
+trying something like this. A store manager I am not sure what it
+would constitute to in a resume to what all I want to become in the
+future. I want to make money, and shit loads of it. Get it, not be a
+store manger! 
+
+Going to Dubai for the money, could be a good plan A, but without
+planZ it is useless. I see all sorts of options opening up with an
+MBA. 
+
+Next week I will write more about specific ways I can do things, with
+the costs etc.. that it would take to actually do things like that.
+And the week after I think I should just go for decision making. 
+
+Meanwhile tomorrow I want to make sure I have written enough and
+produce some TODO's. It's going to be painful! right o right o 
+
+
+
+This would mean somehow build my profile in DS before applying or?
+just apply?
+
 ** Making a big list of options.
 
 Right now the problems I work would just allow me the ability to
