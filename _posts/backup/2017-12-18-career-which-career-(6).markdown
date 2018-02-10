@@ -1,11 +1,12 @@
 ---
+
 layout: post
 comments: true
 title:  "  Career-a brief review of events so far"
 date:    02-01-2018
 categories: The Beginning
 permalink: /:title.html
-published: True
+published: False
 
 ---
 
