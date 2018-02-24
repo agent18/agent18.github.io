@@ -1,0 +1,89 @@
+## installed ruby
+
+sudo apt install ruby
+
+## installing jekyll
+
+>ERROR:  While executing gem ... (Gem::FilePermissionError)
+    You don't have write permissions for the /var/lib/gems/2.3.0 directory.
+eghx@agent18:~$ sudo gem install jekyll bundler
+Fetching: public_suffix-3.0.2.gem (100%)
+Successfully installed public_suffix-3.0.2
+Fetching: addressable-2.5.2.gem (100%)
+Successfully installed addressable-2.5.2
+Fetching: colorator-1.1.0.gem (100%)
+Successfully installed colorator-1.1.0
+Fetching: http_parser.rb-0.6.0.gem (100%)
+Building native extensions.  This could take a while...
+ERROR:  Error installing jekyll:
+	ERROR: Failed to build gem native extension.
+
+    current directory: /var/lib/gems/2.3.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/usr/bin/ruby2.3 -r ./siteconf20180218-12553-1je2fp5.rb extconf.rb
+mkmf.rb can't find header files for ruby at /usr/lib/ruby/include/ruby.h
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /var/lib/gems/2.3.0/gems/http_parser.rb-0.6.0 for inspection.
+Results logged to /var/lib/gems/2.3.0/extensions/x86_64-linux/2.3.0/http_parser.rb-0.6.0/gem_make.out
+Fetching: bundler-1.16.1.gem (100%)
+Successfully installed bundler-1.16.1
+Parsing documentation for bundler-1.16.1
+Installing ri documentation for bundler-1.16.1
+Done installing documentation for bundler after 9 seconds
+1 gem installed
+
+
+## Removed Ruby with purge
+
+https://stackoverflow.com/questions/3957730/how-can-i-uninstall-ruby-on-ubuntu
+
+## installed ruby-dev as suggested here
+
+https://github.com/jekyll/jekyll-help/issues/209
+
+## dont know if rbuy gems is installed, but gem is available!
+
+$gem -h
+
+$ gem update --system
+https://rubygems.org/pages/download
+
+
+## removed ruby using purge in the middle of the installation of RVM
+
+https://stackoverflow.com/questions/34521806/installing-jekyll-on-ubuntu-14-04/34523631#34523631
+
+shows how to install if we get the error:
+
+ERROR:  Error installing jekyll:
+    ERROR: Failed to build gem native extension.
+
+
+
+## Finally
+
+use this for the best installation
+
+https://stackoverflow.com/questions/34521806/installing-jekyll-on-ubuntu-14-04/34523631#34523631
+
+installed bundler separately!
+
+## Finally
+
+git init
+
+git remote add orgin url
+
+git push remote origin
+
+git branch /-a/-r for see which branches you have
+
+Right now the setup is not complete as master local is still light!
+
+
+https://stackoverflow.com/questions/18116198/merge-local-master-branch-with-remote-master-branch-in-git
+
+git checkout master
+git fetch remote
+git reset --hard remote/master
