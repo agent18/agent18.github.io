@@ -291,6 +291,10 @@ reason](https://stackoverflow.com/questions/19361068/missing-packages-from-gnu-e
 Stongly recommend adding it. With this I was able to install all the
 packages I wanted easily using the method described below.
 
+Load the init file without exiting by simply typing:
+
+     M-x load-file "filename"
+     
 To install a package all you need to do is type
 
 	M-x package-list-packages
@@ -320,8 +324,16 @@ later.
 
 [emacs-init-wiki]:https://www.emacswiki.org/emacs/InitFile
 
+If you want to install markdown mode for example,
 
----
+[Markdown-mode-MAN][markdown-mode-jblevins]
+
+
+[markdown-mode-jblevins]: https://jblevins.org/projects/markdown-mode/
+
+If you want to set global key bindings, then you will find in [Rules of
+thumb to overide global commands](https://emacs.stackexchange.com/questions/27926/avoiding-overwriting-global-key-bindings) that `C-c <letter>` is available
+for usage for end users. And [this website]( https://emacs.stackexchange.com/questions/3488/define-controlshift-keys-without-kbd) gives the right syntax.
 
 ## Org mode, the farthest I have come
 
@@ -455,4 +467,4 @@ Peace.
 * TODO figure out how to install other things as per emacswiki
 * TODO Figure out how to use the web browser from emacs
 * TODO figure out how to write similar to org mode and convert it to
-  markdown or html.
+	markdown or html.

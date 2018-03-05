@@ -1,0 +1,178 @@
+---
+layout: post
+comments: true
+title:  "Questions for Career mode"
+date:    27-02-2018 21:00
+categories: The Beginning
+permalink: /:title.html
+published: False
+---
+
+# Questions for Career
+
+In the last essay I covered very briefly that I would like to work on
+certain things such as:
+ 
+ 
+ 
+## Rant
+
+I am done with the procrastination. I am done with feeling sorry for
+myself. I am done feeling overwhelmed. I am not done though. I am
+capable enough to handle all this shit. I want to figure out what
+questions I would want answered before I move on. Dit is het.
+
+
+I have like a million thoughts going in my mind. I don't know which to
+focus on. I want to help myself stream line my thinking with this
+essay. Tell myself these are the things I need to do. Give a way
+ahead.
+
+Also write 750 words a day
+
+I have been procrastinating way too much. I want to up the anti, not
+feel so much resistance while working as
+
+Too many rules dont work, Whats not possible or too hard doesn't
+work. 
+
+Write 300 words a day. Just that and publish it! followed by a
+re-write in the weekend on one day
+
+Log pain!
+
+## Todays 750 words of publishable shit - Getting to the questions
+
+### What is missing? 
+
+I need to write or think about the best way to proceed further.
+
+When I am working on stuff at work, there is some sort of
+structure. As I said earlier I find it hard to come up with answers,
+there are so many  things to do. 
+
+I don't know what are my exact criteria, how to evaluate different
+options? 
+
+Well I do know that I have to use I have to use things like personal
+fit, skills to be gained, connections and the other one while doing
+this. But it is still wague. What are the actual skills that I need?
+How does personal fit compare with other things? ability to do direct
+work in the future
+
+### Very clear examples of what I could be doing in the future
+
+Some linkedin profiles based off of 80k uur and actual things that I
+could be doing, or I see myself doing.
+
+### Career paths
+There are a couple of career paths I have in mind based on 80k
+hours. From the previous post?
+
+
+   What would be earnings? and what could be direct impact
+   possibilities?
+   How do I bloddy get there?
+   What would be the evaluation of different parameters?
+   What could be improvements?
+   What are the costs to improve? 
+   So here again there are like 2 things. Ideally one could become
+   something but what are the chances one becomes the ideal scenario?
+   How to evaluate something like this? 
+   
+Our current options are:
+1. Sticking to design engineering or doing something here and
+   maximizing ability to product lead
+   
+2. Data science
+
+3. Programming
+
+4. Management consulting at the Big 3
+
+5. Investment banking
+
+6. Doing a business? Business management and business opportunities
+writing dumping etc...
+
+7. Marketting
+
+8. other things to research
+
+high paying jobs in the netherladns (200k jobs Kaththi) that I could
+migrate to
+
+---
+
+>Always Name your uncertainity, dont just say its a bunch of shit or
+>its complicated or feel overwhelmed
+
+Several variations exist within each chosen field that vary the
+deciding parameters. For example, if you look at deisng engineering,
+we see that it could vary based on location (US, Netherlands, or
+other), what else? If you can 
+
+### Going to the US?
+
+How and why?
+
+### Going to Dubai?
+
+### How long before I get citizenship in netherlands and what do I
+need for that?
+
+Speak to Ram
+
+### Final list of career paths
+
+### Breaking sterotypes
+
+Essay can be 1k words. but short essays to be compiled later needn't
+be
+
+I will write quickly adn then rewrite and cut all things
+uneccessary. While doing this the word count gets affected for me. So
+for example, right now, I am struggling. I want to publish everyday
+atleast 500 to 600 words. for making a firsst draft I could use the
+750 words but for rewrites i think I might do better focussing on
+publishing. What say. After a few days, I can re-write them, say every
+one week to make an actual post.
+
+## Making a big list of options.
+
+Right now the problems I work would just allow me the ability to
+earn-to-give and allow me career capital with which I should be able
+to be bigger things.
+
+Bigger things would look like this:
+
+He started the "Founder's forum for good"
+
+> Before all that, I spent a couple years in finance (from a philosophy degree) in the US, started
+> and sold a business in Europe, and ran a chain of Segway dealerships
+> in California.
+
+Management, finance, marketting and sales seems to surely have its benifits
+
+### Design engineering/ Mechanical engineering in Netherlands
+
+### Design engineering in the US
+
+### Data Scientist
+
+### Programming/ Software engineer at google
+
+### Management consultancy @ Mckinsey
+
+### Investment banking with 100 mill
+### Finance
+
+### Business opportunities/ business management
+
+<https://80000hours.org/2015/07/80000-hours-thinks-that-only-a-small-proportion-of-people-should-earn-to-give-long-term/>
+
+<https://80000hours.org/career-guide/most-pressing-problems/>
+
+
+
+

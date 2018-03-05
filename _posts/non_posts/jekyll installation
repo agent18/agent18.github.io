@@ -87,3 +87,8 @@ https://stackoverflow.com/questions/18116198/merge-local-master-branch-with-remo
 git checkout master
 git fetch remote
 git reset --hard remote/master
+
+https://stackoverflow.com/questions/19720711/git-warning-push-default-is-unset-its-implicit-value-is-changing
+git config --global push.default simple
+
+git push --set-upstream origin master
