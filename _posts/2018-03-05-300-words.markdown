@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title:  " Publishing posts every day "
-date:    04-03-2018 20:53
+date:    05-03-2018 20:53
 categories: The Beginning
 permalink: /:title.html
 published: True

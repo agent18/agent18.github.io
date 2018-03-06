@@ -145,3 +145,6 @@ getting a permit, based on my Munich condition?
 
 <https://80000hours.org/career-guide/most-pressing-problems/>
 
+P.S
+
+The first hour was horrible, 2 and 3 rd hour become better, but not like yesterday. I was working on something that I had written earlier, possibly that's the reason.
