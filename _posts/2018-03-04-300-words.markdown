@@ -140,7 +140,7 @@ task. In the end that is the only thing that has kept me writing
 "continuously". I will commit to writing this week 1 post a day, every day
 (except Friday t/m Sunday).
 
-As a by product of the **1 publishable post per day" week, we improve
+As a by product of the **1 publishable post per day** week, we improve
 the quality of life on Fridays by not piling up all the work on
 Friday. We also improve the quality of essay by removing the
 "deleting-words-phobia". We will finally have the power to delete
