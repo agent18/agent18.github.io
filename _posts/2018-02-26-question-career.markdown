@@ -147,4 +147,6 @@ getting a permit, based on my Munich condition?
 
 P.S
 
-The first hour was horrible, 2 and 3 rd hour become better, but not like yesterday. I was working on something that I had written earlier, possibly that's the reason.
+The first hour was horrible, 2 and 3 rd hour become better, but not
+like yesterday. In total 2.5 hrs. I was working on something that I had written earlier,
+possibly that's the reason. After first 45 mins took about 40 mins break
