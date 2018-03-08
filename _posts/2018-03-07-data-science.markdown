@@ -22,7 +22,7 @@ appears to be the closest to what I can migrate to work wise.
 # Diving into the details
 
 - Skills obtainable: Problem-solving, programming, large
-  data-analysis, all of which are transferable.
+  data-analysis, statistics all of which are transferable.
   
 - Connections: No idea. But my friend in DS who worked in MuSigma
   India, now in Apple seems to have worked with big-shots. If direct
