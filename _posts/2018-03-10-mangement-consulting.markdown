@@ -38,7 +38,7 @@ highest paid jobs. But paying for an MBA would burn a lot of my
 current runway.
 
 
-## known paths
+## Known paths
 
 At the start you join somehow (after a masters/other ways). TBD!
 
