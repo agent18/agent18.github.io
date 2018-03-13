@@ -1,0 +1,125 @@
+-
+layout: post
+comments: true
+title:  "Finance "
+date:    13-03-2018 20:00
+categories: The Beginning
+permalink: /:title.html
+published: True
+---
+
+## The basics
+
+I have heard a lot on and off online and with people who talk to me
+about investment banking, hedge funds, equity bla bla bla.
+
+I have no clue what I am looking into. A brief research into the best
+aspects of making money has left me confused and it seems the right
+point to gian clarity on such a situation.
+
+>There are many roles in financial services that play a key part in
+>ensuring capital markets run smoothly and efficiently.  Two such
+>roles, investment banking and trading, are components of most large
+>Wall Street investment firms, where these integral functions are
+>counted on to provide the bulk of revenue. - [Investopedia][investopedia-tradev-vs-IB]
+
+>A trader brings buyers and sellers together so that assets can be
+>exchanged. For that intermediary role, the trader gets paid. Trader
+>types include flow traders, who use client funds, and agency traders,
+>who act as middlemen and place trades on behalf of clients. Other
+>types of traders may engage in trades on behalf of their firms as
+>proprietary traders, or take the other side of a trade when no buyer
+>or seller is available.
+
+>What is an Investment Banker?  Investment banking is the part of the
+>financial company that does deals. Similar to traders, investment
+>bankers put together buyers and sellers, and like traders, they are
+>involved in the bond and stock markets. But investment bankers
+>perform additional functions. They bring together buyers and sellers
+>via mergers and acquisitions (M&A), or they might raise money in the
+>debt (bond) or equity (stock) markets when they sell a company to the
+>public in an initial public offering (IPO) or when restructuring
+>existing companies
+
+
+P.S
+
+Heavy procrastination. Read a lot, didn't feel like putting a post
+together, as it was a lot of work and I didn't have time in the
+end. Barely worked for an hour and half.
+<!--
+
+https://80000hours.org/career-reviews/front-office-finance/
+
+https://80000hours.org/career-reviews/trading-in-quantitative-hedge-funds/
+
+https://80000hours.org/about/impact/studies-of-career-change/
+
+[investopedia-tradev-vs-IB]: https://www.investopedia.com/articles/professionals/091714/trader-vs-investment-banker-which-job-best-you.asp
+
+## First impressions
+[Which career path allows you to earn the most?
+#Investment-Banking!](https://80000hours.org/2013/06/where-can-i-earn-the-most/)
+
+Lot of money involved. Every case study in 80k hours typically claims to
+be able to give ~1mn$ after 3 years in work. Long hours of work (90+
+hours), i.e., ~13 hours a day.
+
+Looking at what the job involves on Quora, there is so much negativity
+ending on "but the money is great".  Causing me to maybe consider
+backing off a bit. There seem to be many divisions one can work in
+within investment banking, which have possibly different levels of
+intellectual stimulation and money involved. 
+
+
+## What the fuck is Investment Banking?
+
+Is it different from trading?
+
+## Diving into the details
+
+Skills: Analytical skills?
+
+Credentials: You should probably have earned others a lot of money,
+should serve as credentials.
+
+Connections: Apparently you will know a lot of people in your life
+time who are CEO's and CFO's. Many of your colleagues would be working
+in other companies once they exit, . There are specific jobs reserved
+for investment banking type of people within industry
+
+Runway: Possibly the best runway possible
+
+	Cons: Long hours, 80-90hrs?
+
+## Entry route for me
+
+1. MBA 
+MBA seems to be a good platform to get into investment banking.
+
+
+Examples?
+
+what if I just stay in the Netherlands?
+
+### MBA needed?
+
+
+
+## Exit route?
+
+## how the exit route is in the direction of what you want to do?
+
+## Speak to people in finance
+- aerospace girl
+- ram
+- vishnu
+
+
+
+
+other links to go through?
+
+https://80000hours.org/articles/highest-paying-jobs/
+
+-->
