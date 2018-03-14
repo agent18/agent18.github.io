@@ -144,3 +144,7 @@ In case I get stuck in Netherlands what do I do?
   * [ ] Can I expect a scholarship if I do a masters in the US
 		
   * [ ] Getting a job in respective countries once I  apply for their bootcamps
+
+
+  * [ ] Check this course out "Machine learning in Trading"combination
+        of finance and DS
