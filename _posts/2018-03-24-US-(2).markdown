@@ -1,0 +1,175 @@
+---
+layout: post
+comments: true
+title:  "US (2) "
+date:    24-03-2018 16:31
+categories: The Beginning
+permalink: /:title.html
+published: True
+---
+
+With this post I would like to get a feel of the probability that it
+is to be one day a green carder in the US.
+
+## PR
+
+Green card is the permanent residence card for people in the
+US. Except voting you pretty much are able to do a lot of things.
+
+## General info
+
+**How many years it takes to get Green card?** 
+
+10-15 years after application by your sponsor it appears when applying
+after a H1B for an Indian. How my cousin got a green card is rather
+unclear. L1 to green card (tbd) is not known.
+
+**Which career stands a good chance of getting a job in the US?**
+
+Not much dearth of jobs for students in CS.-[Quora](https://www.quora.com/What-is-the-scope-for-jobs-in-USA-after-MS-in-CS). All opinions
+state it should be possible. More research on this needs to be done. (tbd)
+
+**Applying through family is a possibility?**
+
+My brother will be a citizen in 20 years from now (I will be 46 by then) tops,
+in the US. It appears that this route is far-fetched but still an
+option. From that time he can apply for my green card it will take
+12-16 years before we get an interview (I will be 58 by then). I can
+know more later. I doubt this changes things. Appears to be too
+far-fetched and almost useless?
+
+
+## F-1 to H1B
+
+The most common way to go the green card way is to start with a
+masters.
+
+>The "F" visa is for academic studies. An F1 visa is issued to
+>students who are attending an academic program or English Language
+>Program. F1 visas are by far the most common form of international
+>student visa in the U.S. F1 students must maintain the minimum course
+>load for full-time student status.-[Source](https://www.internationalstudent.com/study_usa/preparation/student-visa/)
+
+Students coming to the US on an F-1 visa (usually) get a period of 12
+months to work, called the OPT. This can be extended to upto 36 months
+in total provided one's course has to do with STEM. 
+
+Typically an MBA doesn't come under this, but can be hacked to come
+under this by adding some courses related to STEM. [OPT FAQ](http://www.dartmouth.edu/~ovis/updates/f1/optfaqs.html);
+[Duration of OPT](https://www.quora.com/Does-MBA-come-under-STEM-What-is-the-OPT-period-for-STEM)
+
+>Students on post-completion OPT may not accumulate more than 90 days
+>of unemployment or you will be out of valid F-1 status.-
+>[BerkleyOffice](https://internationaloffice.berkeley.edu/students/employment/opt/unemployment)
+
+>Students who receive a STEM extension are given an additional 60 days
+>of unemployment for a total of 150 days of unemployment over their
+>entire post-completion OPT period. - [BerkleyOffice](https://internationaloffice.berkeley.edu/students/employment/opt/unemployment)
+
+So once on the OPT period one has a total of 90 days to be
+unemployed. This is quite a small period.
+
+In addition within an OPT one must work directly related to his degree
+as given in the I-20 apparently.
+
+During this period I guess we try to find a H1B sponsor. When fired on
+an H1B Visa we have 60 days to find a job.
+
+>However, on January 17, 2017, the Department of Homeland Security
+>implemented a new rule that, among other things, extends a 60-day
+>grace period to any H-1B holder that finds themselves without a
+>job. Consult an immigration attorney once you have been fired.-
+>[Quora](https://www.quora.com/How-many-days-can-an-H1B-worker-stay-in-the-US-if-he-is-fired-Does-he-need-to-go-back-to-India-or-can-he-look-for-another-job-here-under-the-B1-visa)
+
+When fired it is also possible to migrate to other visas.
+
+**Other ways of getting an H1B or other visas?**
+
+- Seeking a H1B from a non-profit employer
+- Enrolling in an F1 CPT program
+- Apply for O1 visa for highly skilled people
+- J1 trainee or intern
+[Quora](https://www.quora.com/What-are-the-chances-of-a-masters-student-to-obtain-a-work-visa-in-the-US)
+
+
+There are many other visas that can allow you to work in the US, and
+hopefully provide you a path to the green colored
+card-[quora-other-visas](https://www.quora.com/Is-H1B-visa-the-only-option-to-work-in-U-S#)
+
+There is the O1 for highly skilled people in tech etc... There is the
+L1 for people who can migrate within the same company but to the
+US. H1B is also available for work at non-profits as well
+(tbr). There is also the TN visa for citizens of Canada. 
+
+**What are the chances of getting H1B through lottery**
+
+Assuming we somehow do a STEM course and get the OPT Extension in
+total of 36 months. 
+
+>Timeline: Assuming a student graduates in May 17, Company can apply
+>in April 17, 18,19,20. (Opt begins in June 17 and ends in June
+>20). Application in April 17 depends on when the student gets a job
+>and whether the company applies before joining.
+
+>Grad graduating in Dec 16. The company can apply in April
+>17,18,19. Opt starts in Jan 17 and ends in Jan 20)- [Quora](https://www.quora.com/How-many-times-an-F-1-student-can-apply-for-H1B-visa#)
+
+Let's take the lower number of 3. 
+
+There are 20k H1B's given for advanced degree people and 65k for
+general quota people. Those who don't get in the 20k will also be
+pooled in for the 65k H1B's. 
+
+Catch is there are no statistics. But we know only two things that
+there were 199k applicants in total for the H1B visa and that in total
+there are about 85k H1B tickets. This means a 30% chance atleast for 3
+years to try my luck with H1B. Some others on quora estimate it at
+50-55% for masters engineers based on their availability (bias).
+
+Things can change drastically in the future. Apparently in the OBAMA
+administration there were already plans for increasing the total
+number of H1B's/year.
+
+## Going to Canada before coming to the US?
+
+A Canadian PR costs about 5-6k$. It should take 6 months to prep and
+upto 14 months to receive a decision or even more when applying via
+the express entry program, due to gathering of all documents.
+
+Apparently once you start working in Canada but then you loose a job
+you get employment benefits (survival only I would think), but good to
+know.
+
+[how long to get PR in CANADA?](https://www.quora.com/How-long-does-it-take-to-get-Canadian-Permanent-Residence) [Unemployment benefits for PR in
+CANADA](https://www.quora.com/What-are-the-unemployment-benefits-for-Canada-PR-holder)
+
+Apparently it is not easier to move to US. A TN VISA is for Canadian
+citizens only and can be used to work in the US in 63 specific
+occupational regions.In theory you cannot really apply for green
+card. If that is the goal then H1B seems to be the way to go or
+atleast better than TN. TN is not a dual intent visa - strictly based
+on opinions on Quora and [here](http://www.alllaw.com/articles/nolo/us-immigration/canadian-citizen-tn-status-get-green-card.html). It is possible to work in the US
+but one can switch to other VISAS, mainly H1B. 
+
+## Summary
+
+Typical way to go to the US and get a green card is you start with an
+F-1 then go on the OPT, get an H1B sponsor and then on your way to
+green card. After studies assuming you get a job immediately and
+somehow the lottery also works in your favour and you get a H1B, you
+can then apply for your green card, which typically takes 10-15
+years. Joing big companies like Google, Facebook to have a secure
+enough future. 
+
+Other possibilities if the H1B is too mainstream or you don get the
+lottery exist, such as H1B through non-profit or the O1 visa
+etc... Also there are routes to go to a Canadian citizenship (7-10
+years in total), but right now it doesn't seem to make sense as we
+will still be stuck on an H1B and the lottery process as the TN VISA
+is not dual-intent.
+
+## TODO 
+
+  * [ ] L1 to Green Card the journey?
+  * [ ] Best careers in US for getting a job?
+  * [ ] H1B for non-profits? All Non-profits? Whats the fine print 
