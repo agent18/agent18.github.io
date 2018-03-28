@@ -30,3 +30,7 @@ How long does it take to be a product leader in design and please tell more abou
 ## Backlog TODO's
 
 Extract all todos and past here.
+
+## Backlog life
+
+OLD age! Fear ! accidents ! handicapped?
