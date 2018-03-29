@@ -34,3 +34,8 @@ Extract all todos and past here.
 ## Backlog life
 
 OLD age! Fear ! accidents ! handicapped?
+
+buy heart rate meter
+buy watch 
+
+basic rig needed for gaming!
