@@ -1,0 +1,118 @@
+---
+layout: post
+comments: true
+title:  "Netherlands "
+date:    31-03-2018 20:26
+categories: The Beginning
+permalink: /:title.html
+published: True
+---
+
+**What is long term EC**
+
+>having a residence permit as a long-term resident EC allows you to
+>apply more easily for a residence permit in one of the other EU
+>countries that also have this residence permit. You do have to meet
+>the conditions which that country has for the residence permit.
+
+**Dutch PR vs citizenship**
+
+>Really depends what you are looking. If you are looking for
+>flexibility to travel for work or pleasure, you should get a Dutch
+>passport. The OCI card from India gives you the same options as an
+>Indian passport except being able to run for office and own
+>agricultural land.-[Quora-Pr-vs-citizenship](https://www.quora.com/Would-you-recommend-an-Indian-living-in-the-Netherlands-to-apply-for-a-residence-permit-or-for-a-passport)
+
+> the biggest disadvantage to it is that it won't let me live/work in
+> other EU countries.-[Reddit](https://www.reddit.com/r/thenetherlands/comments/4nqlww/citizen_vs_permanent_residency/)
+
+>Permanent Resident (PR): You get a Residence Permit that will let you
+>stay in Netherlands indefinitely. The PR will become invalid only
+>when you stay out of Netherlands for more than 1 year continuously.
+
+**Bypassing my problems**
+
+Apply for PR and apply for passport simultaneously. I am confident I
+will get a PR. It will take me atleast 3 years from now to receive it
+in hand.
+
+>Dutch Citizenship: You can surrender your Indian passport and get a
+>Netherlands passport.  The prerequisites for citizenship and PR are
+>same – only that PR takes about 2 months to arrive from the time you
+>apply for it while the passport will take about 1 year. So a lot of
+>Indians apply for the PR and also apply for the passport in parallel.
+>-[Indians in Netherlands](http://indiansinnetherlands.com/my-experiences/dutch-citizenship/)
+
+> It is possible to apply for PR and Citizenship at the same time!
+
+People have gotten their Citizenship rejected and Pr not as in the
+same post above, for not meeting the requirements. However, appeals
+can be made. I need to write soem FB posts and check with others
+regarding what works and not.
+
+**Q&A in the website**
+
+[Indians in Netherlands Citizenship](http://indiansinnetherlands.com/my-experiences/dutch-citizenship/) is gold. 
+
+Masoud: What do they check when applying for citizenship? RP
+records/gemente records?
+
+Suri: Only if you de-register it is a problem, otherwise, it is not!
+
+Mostly my case but it is risky considering I was not in the country.
+
+## TODO
+
+**When does PR become invalid**
+
+**Dutch Citizenship vs Dutch PR vs EU PR vs EU blue card vs**
+
+**Why Dutch PR? What are the advantages?**
+
+**How to count number of years for PR or for citizenship?**
+
+**What happens when you loose citizenship in India?**
+
+>In case you decide to go back and live in India as a Dutch citizen,
+>you can live like an Indian citizen except that you cannot vote. You
+>can reapply for Indian passport after 5yrs of change to Dutch
+>passport and 1 year of continuous living in India. - [Indians in
+>Netherlands](http://indiansinnetherlands.com/my-experiences/dutch-citizenship/)
+
+>Because India issues OCI (Overseas Citizen of India) card, you do not
+>sacrifice your India relationship in terms of access or decision to
+>go back for good -  - [Indians in
+>Netherlands](http://indiansinnetherlands.com/my-experiences/dutch-citizenship/)
+
+
+**What can you and can't you do on a PR?**
+
+
+**Can you work anywhere with a PR in EU?**
+
+I still don't have a clear answer on when a PR becomes invalid.
+
+
+**Why Dutch Citizenship?**
+
+**Dutch or EU PR**
+
+**Is there a difference between PR and Citizenship**
+
+**PR to Citizenship**
+
+**My special case with Germany!**
+
+**Getting an EU card vs Netherladns Citizenship**
+
+**Leaving the country after getting a pramit**
+
+**How to apply citizenship for family members**
+
+**How easy is it to get laid off and how much time before I returen to
+my country?**
+
+**EU blue card**
+
+**Coming back to Netherlands? How?**
+
