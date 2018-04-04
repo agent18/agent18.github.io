@@ -1,53 +1,59 @@
--
+---
 layout: post
 comments: true
 title:  "Finance "
-date:    13-03-2018 20:00
+date:    02-04-2018 10:38
 categories: The Beginning
 permalink: /:title.html
-published: True
+published: False
 ---
+# Do not know what this is about
 
-## The basics
+## Trading
 
-I have heard a lot on and off online and with people who talk to me
-about investment banking, hedge funds, equity bla bla bla.
+**Skills**
 
-I have no clue what I am looking into. A brief research into the best
-aspects of making money has left me confused and it seems the right
-point to gain clarity on such a situation.
+**Example careers**
 
->There are many roles in financial services that play a key part in
->ensuring capital markets run smoothly and efficiently.  Two such
->roles, investment banking and trading, are components of most large
->Wall Street investment firms, where these integral functions are
->counted on to provide the bulk of revenue. - [Investopedia][investopedia-tradev-vs-IB]
+**Credentials**
 
->A trader brings buyers and sellers together so that assets can be
->exchanged. For that intermediary role, the trader gets paid. Trader
->types include flow traders, who use client funds, and agency traders,
->who act as middlemen and place trades on behalf of clients. Other
->types of traders may engage in trades on behalf of their firms as
->proprietary traders, or take the other side of a trade when no buyer
->or seller is available.
+**Connections**
 
->What is an Investment Banker?  Investment banking is the part of the
->financial company that does deals. Similar to traders, investment
->bankers put together buyers and sellers, and like traders, they are
->involved in the bond and stock markets. But investment bankers
->perform additional functions. They bring together buyers and sellers
->via mergers and acquisitions (M&A), or they might raise money in the
->debt (bond) or equity (stock) markets when they sell a company to the
->public in an initial public offering (IPO) or when restructuring
->existing companies
+**Runway**
 
 
-P.S
 
-Heavy procrastination. Read a lot, didn't feel like putting a post
-together, as it was a lot of work and I didn't have time in the
-end. Barely worked for an hour and half.
 
+## Speaking to people in Finance
+
+**Diff types of finance jobs? Brief intro?**
+
+**Investment banking? What it entails**
+
+**Trading? What it entails?**
+
+
+**Moving out of Investment Banking and Trading after a few years**
+
+**Skills earned?**
+
+**MBA in IIMS?**
+
+**Earning potential and moving abraod?**
+
+**Work culture in India?**
+
+
+
+
+
+
+
+
+
+
+# Muted
+	
 <!--
 https://www.quora.com/What-is-it-like-to-be-an-investment-banker
 
