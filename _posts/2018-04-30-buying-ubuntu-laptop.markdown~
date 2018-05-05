@@ -1,0 +1,79 @@
+---
+layout: post
+comments: true
+title:  " Buying an ubuntu-compatible laptop"
+date:    30-04-2018 21:09
+categories: The Beginning
+permalink: /:title.html
+published: False
+---
+
+## Basics
+
+Use [ubuntu-certified-hardware](https://certification.ubuntu.com/certification/)
+
+Always, google said laptop with keywords: Laptop name, ubuntu,
+linux. Check for issues in that laptop
+
+Know your laptop
+
+## Current laptop specs
+
+AMD A6 processor
+750 GB harddisk
+3.3 gig ram
+with 2gb ish graphics card
+
+WIFI radeon
+
+Basically wifi gave up after a year or 2 of usage, no going back, apparently, laptop screen
+started flickering and is not portable anymore. I didn't know but
+there is a massive video card problem, which is responsible for the
+fucked up boottime. 
+
+On a fresh boot my system hangs and is super super slow, even while
+running just some basic chrome and emacs. Make a lot of sound,
+informing high processor usage when I a run videos for example. 
+
+Bottom line, I have spent time and tried to fix this. A lot of
+time. Not worth it anymore.
+
+Budget 200 bucks
+
+Problems documented by me alone:
+
+https://askubuntu.com/questions/804013/ubuntu-stuck-at-shutdown-after-connecting-to-external-screen/804831#804831
+https://askubuntu.com/questions/1001123/rt3290-ralink-wifi-drops-every-5-mins-ubuntu-14-04
+
+
+## Buying ubuntu pre-installed?
+
+Might be pricy 
+
+
+## Using a chromebook
+
+it is basically linux os. Hardware should be fine, but usually comes
+with limited specs as it is meant for being light and carrying around!
+
+## Why not a Desktop
+
+I would like a laptop, one that I can move around.
+
+## Buying second-hand
+
+Places to buy
+
+informatique
+mediamarkt
+bol.com
+coolblue
+azerty
+
+## TODO
+
+  * [ ] Check System76 for what types of laptops they sell, maybe you
+        can buy them
+		
+  * [ ] Find cheapest laptop and put up your research on it, such as
+        specs, cost, where to buy and run over the basics part.
