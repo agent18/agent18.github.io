@@ -5,7 +5,7 @@ title:  " Installing Ubuntu 16 on Dell E5430"
 date:    06-05-2018 08:39
 categories: The Beginning
 permalink: /:title.html
-published: True
+published: False
 ---
 
 [Install ubuntu using this link for instructions](https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop#5)
@@ -40,3 +40,27 @@ Get chrome [here](https://askubuntu.com/questions/510056/how-to-install-google-c
 	
 ## Installing 3rd party softwares as necessary by UBUNTU	
 
+During installation I had selected "install all 3rd party software"
+Because of this secure boot switched on, I am not convinced it all happened smoothly.
+
+So I did [this](https://askubuntu.com/questions/290293/how-can-i-install-the-third-party-software-option-after-ive-skipped-it-in-the), 
+
+	sudo apt-get install ubuntu-restricted-extras
+
+## Update and restart to finish installing updates
+
+## Problem tabs
+
+Mouse pad seems to be less sensitive and regions with actual non-working mouse arrow
+
+
+## Boot time 
+
+may6 2018- 
+
+## Performace
+
+Seems fast. Windows key seems to work well as the apps are quickly shown. 
+
+
+C-M-t works super fast. I am happy about the initial startup and of course with comparison to the shit that is my old laptop with ubunut and new laptop with windows 10. Get out of here.

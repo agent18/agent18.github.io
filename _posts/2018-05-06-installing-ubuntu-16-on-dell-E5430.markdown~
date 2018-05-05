@@ -40,3 +40,7 @@ Get chrome [here](https://askubuntu.com/questions/510056/how-to-install-google-c
 	
 ## Installing 3rd party softwares as necessary by UBUNTU	
 
+During installation I had selected "install all 3rd party software"
+Because of this secure boot switched on, I am not convinced it all happened smoothly.
+
+So I did this,
