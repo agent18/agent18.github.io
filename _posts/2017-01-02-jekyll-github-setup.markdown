@@ -21,17 +21,72 @@ We want to write some posts in simple-plain-text-based Markdown and then magical
 --- 
 
 #### **Jekyll** 
-Start [here][jekyll_welcome] to understand what jekyll is and move on to the next page to see some instructions on how to get started. The instructions are reproduced here for convenience.
+Start [here][jekyll_welcome] to understand what jekyll is and move on to the next
+page to see some instructions on how to get started. We need jekyll
+and bundler installed via gem. I found a nice help on [this stack
+website](https://stackoverflow.com/a/34523631/5986651):
 
-	$ gem install jekyll bundler # installs jekyll and required programs 
+	gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3
 
-Get this previous command running and you are almost there in the setup. I spent around a full day (5-6 hrs atleast) getting this to work. My direction to a future me and readers is to first type this command. This command will give you whats the problem. Either some programs are missing or some other error shows up. In either cases I just Google it, preferably use only stackoverflow domains and I am good to go. Sometimes putting a sudo in front of the commands could just be the solution, in case it asks for permissions in the error. It took me a while to catch on to the game. I had to just follow the errors meticulously and solve them one by one, try different things etc... But **you** can. It has been done in the past. A silly ass noob, to ruby rvm gem, and jekyll, did it. You can too. Do it yourself! After installing Jekyll(fingers crossed):
+	\curl -sSL https://get.rvm.io | bash # install RVM (development version)
+
+	rvm get head # Make Sure RVM up to date
+	
+Got some errors here. Apprently the license was not updated. followed
+exactly what the error msg suggested me to do. 
+
+	GPG signature verification failed for '/home/eghx/.rvm/archives/rvm-installer' - 'https://raw.githubusercontent.com/rvm/rvm/master/binscripts/rvm-installer.asc'! Try to install GPG v2 and then fetch the public key:
+
+	gpg2 --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3
+
+	or if it fails:
+
+	command curl -sSL https://rvm.io/mpapis.asc | gpg2 --import -
+
+	the key can be compared with:
+
+	https://rvm.io/mpapis.asc
+	https://keybase.io/mpapis
+
+	NOTE: GPG version 2.1.17 have a bug which cause failures during fetching keys from remote server. Please downgrade or upgrade to newer version (if available) or use the second method described above.
+
+I didn't compare the key though. Just checked if the next steps
+worked.
+
+	rvm get head
+	
+	rvm install ruby # will install latest version of ruby
+
+	rvm list # Listing install rubies will you get versions of ruby which is installed by RVM
+
+	rvm use < ruby-version > # for instances ruby-1.9.3-p125
+	
+	gem install jekyll bundler
+
+
+After installing Jekyll(fingers crossed):
 
 	$ jekyll new my-awesome-site # initiates jekyll into current folder named "my-awesome-site"	
 	$ cd .../.../my-awesome-site # go to that folder we just created "my-awesome-site"
 	$ jekyll serve  # hosts site locally
 
-Serves a local website (details in the terminal) that you can open and see on your browser. Yes you already have a local website! Congratulations!
+Should serve a local website (details in the terminal) that you can open and see on your browser. Yes you already have a local website! Congratulations!
+
+
+**On a fresh terminal RVM does not work**
+
+Jekyll might not work the next time you open a new terminal [like here.](https://stackoverflow.com/questions/23963018/rvm-is-not-a-function-selecting-rubies-with-rvm-use-will-not-work?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
+
+The above has the solution that brings back the use of jekyll rvm
+etc...
+
+	Open console
+	Select Edit -> Profile Preferences
+	Select tab: Title and Command
+	Check box 'Run command as a login shell'
+	Restart terminal
+
+Jekyll would be smoothly installed.
 
 --- 
 
@@ -41,7 +96,8 @@ Serves a local website (details in the terminal) that you can open and see on yo
 #### **Github repository**
 Create a new Github repository using this [page's][github_pages] exact instructions. Make sure to call the repository "username.github.io". Be careful with instruction #5 on that page - like it says, because you will be importing contents into the repository, you should not do any of those three things - README, etc. Also, ignore instruction #7. You will now have a new empty Github repository called "username.github.io". In my case it is [agent18.github.io][agent18id].
 
-#### **Setting up a sync connection between online (http://github.com/agent18) and local (my-awesome-site)** 
+#### **Setting up a first connection between online (http://github.com/agent18) and local (my-awesome-site)** 
+
 Go inside topmost jekyll folder (my-awesome-site) - the one that contains \_posts/, \_site/, etc. Now, we will make this folder into a git repository. This folder is what should go up on Github. Follow the instructions on [this page][github_add_existing]. Step 1 is already done, so skip it. The commands are reproduced for convenience:
 
 	$ cd my-awesome-site # go inside the jekyll folder
@@ -81,6 +137,36 @@ Go to \_posts folder in my-awesome-site. Look at the basic post and emulate futu
 	$ git push 
 
 Type Username and password and then go to username.github.io and it works like a charm. Wait a few minutes before you see the changes on your site.
+
+
+#### **on a fresh boot & existing repository in Github, with jekyll site**
+
+If: New PC, fresh jekyll install (as above), already available github site
+run with jekyll. Then: do the following:
+
+	sudo apt-get install git
+
+	git clone https://github.com/agent18/agent18.github.io.git myblock
+	
+	git add -A
+	
+	git commit -m "empty testing git on new pc"
+
+	git config --global user.email "agent18@github.io"
+	
+	git config --global user.name "agent18"
+	
+	git config --global push.default simple
+	
+	git config --global credential.helper cache
+
+	git commit -m "empty testing git on new pc"
+	
+	git push
+
+That's it. Git will start working, in combination with jekyll.
+
+	jekyll serve
 
 ---
 

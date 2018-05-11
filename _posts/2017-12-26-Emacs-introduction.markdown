@@ -51,6 +51,7 @@ In summary,
 
 There is a whole community out there. Some special metions with
 creation of decent documentation and some interesting modes would be
+
 Ian Barton and Carsten Doiminik.
 
 [^1]: Plain text is the format that will probably never be 
@@ -73,9 +74,9 @@ reason it didn't install the latest version. I followed the
 installation procedure [here][ask-ubuntu-installation]. I am
 replecating the information here for convinience. 
 
-	$ sudo add-apt-repository ppa:ubuntu-elisp/ppa
-	$ sudo apt-get update
-	$ sudo apt-get install emacs-snapshot
+	sudo add-apt-repository ppa:kelleyk/emacs
+	sudo apt-get update
+	sudo apt-get install emacs25
 
 In case you already installed an older version of emacs use the
 following to remove the current running version:
@@ -89,7 +90,7 @@ emacs as above.
 
 [emacs-stack-error-thej]:https://stackoverflow.com/questions/47983227/helm-installation-package-emacs-24-4-unavailable/47985613?noredirect=1#comment82941695_47985613
 
-[ask-ubuntu-installation]: https://askubuntu.com/questions/598985/how-to-upgrade-to-the-latest-emacs
+[ask-ubuntu-installation]:https://askubuntu.com/questions/598985/how-to-upgrade-to-the-latest-emacs
 
 ### Things to know 
 
@@ -235,7 +236,7 @@ This is what I constantly see online, people madly in love with this
 invention. And people crying and preeching to others to use this madness
 that is Emacs.
 
-### Configuration
+## Configuring Emacs to your needs
 
 This is the part that is sort of hard to grasp within emacs. I make a
 quick attempt to list out the important things.
@@ -286,10 +287,9 @@ emacs][aabi-emacs-from-vim] , here is my init file (just copy it):
 	(package-initialize)
 	
 I added the marmalade line as well (which is not there in Aaron
-Biebers init file), for [some
-reason](https://stackoverflow.com/questions/19361068/missing-packages-from-gnu-emacs).
-Stongly recommend adding it. With this I was able to install all the
-packages I wanted easily using the method described below.
+Biebers init file), for [some reason](https://stackoverflow.com/questions/19361068/missing-packages-from-gnu-emacs). Stongly recommend adding
+it. With this I was able to install all the packages I wanted easily
+using the method described below.
 
 Load the init file without exiting by simply typing:
 
@@ -305,7 +305,6 @@ clicking on the `install button` or just type `M-x package-install <package name
 
 [emacs-for-beginners]:http://orgmode.org/worg/org-tutorials/org4beginners.html
 
-
 Links like [this][emacs-for-beginners] also say I need to add
 other things in my init file, but I suspect the data is outdated in
 some parts, and I suggest that as you need you shall add to your init
@@ -317,23 +316,109 @@ well. This document hopes to just get you started and I detail out
 some of the things I spent a lot of time on, and hope you don't have
 to. :)
 
+[emacs-init-wiki]:https://www.emacswiki.org/emacs/InitFile
+
+If you want to install markdown mode for example, use this
+([Markdown-mode-Manual][markdown-mode-jblevins]).
+
+[markdown-mode-jblevins]: https://jblevins.org/projects/markdown-mode/
+
+**P.S**
+
 [Aarob Bieber's page][aabi-emacs-from-vim] also shows other ways of
 installation. But it went over my head and I will get back to it
 later.
 
-
-[emacs-init-wiki]:https://www.emacswiki.org/emacs/InitFile
-
-If you want to install markdown mode for example,
-
-[Markdown-mode-MAN][markdown-mode-jblevins]
-
-
-[markdown-mode-jblevins]: https://jblevins.org/projects/markdown-mode/
+### Setting global key bindings
 
 If you want to set global key bindings, then you will find in [Rules of
 thumb to overide global commands](https://emacs.stackexchange.com/questions/27926/avoiding-overwriting-global-key-bindings) that `C-c <letter>` is available
 for usage for end users. And [this website]( https://emacs.stackexchange.com/questions/3488/define-controlshift-keys-without-kbd) gives the right syntax.
+
+
+### Adding Word counter
+
+According to [github ](https://github.com/bnbeckwith/wc-mode),
+
+	git clone git://github.com/bnbeckwith/wc-mode.git
+
+and then  you add the follwing to the init file.
+
+
+	;; https://github.com/bnbeckwith/wc-mode
+	;; Add the path to the repo
+	(add-to-list 'load-path "~/emacs_stuff/wc-mode/")
+	(require 'wc-mode)
+	;; Suggested setting
+	(global-set-key "\C-cw" 'wc-mode)
+
+### Using python console from emacs in python mode
+
+I have an anaconda installation of python. Setting up emacs to use
+Anaconda's python or any python that you want can be done by adding this
+to the init file:
+
+	(setq python-shell-interpreter "/pathto/anaconda3/bin/python")
+
+More info can be found [here](https://stackoverflow.com/questions/2515754/changing-python-interpreter-for-emacs?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
+
+P.S
+It appears that opening your python from the desktop and in the
+terminal environment inherit different PATH variables. This lead to
+the point that some files were not called and gave some
+errors. Beware, I have documented this over [here (in stackoverflow)](https://stackoverflow.com/questions/49829307/emacs-python-not-able-to-find-package-module)
+
+
+### My final init file
+
+	;; https://blog.aaronbieber.com/2015/05/24/from-vim-to-emacs-in-fourteen-days.html 
+
+	(require 'package)
+
+	(add-to-list 'package-archives '("org" . "http://orgmode.org/elpa/"))
+	(add-to-list 'package-archives '("marmalade" . "http://marmalade-repo.org/packages/"))
+	(add-to-list 'package-archives '("melpa" . "http://melpa.org/packages/"))
+	(add-to-list 'package-archives '("melpa-stable" . "http://stable.melpa.org/packages/"))
+
+	(setq package-enable-at-startup nil)
+	(package-initialize)
+
+	;; https://www.gnu.org/software/emacs/manual/html_node/efaq/Turning-on-auto_002dfill-by-default.html
+
+	(setq-default auto-fill-function 'do-auto-fill)
+
+	;; https://github.com/bnbeckwith/wc-mode
+
+	;; Add the path to the repo
+	(add-to-list 'load-path "~/emacs_stuff/wc-mode/")
+	(require 'wc-mode)
+	;; Suggested setting
+	(global-set-key "\C-cw" 'wc-mode)
+
+
+	;; https://github.com/syohex/emacs-mode-line-timer
+
+	;; Add the path to the repo
+	(add-to-list 'load-path "~/emacs_stuff/emacs-mode-line-timer")
+	(require 'mode-line-timer)
+	;; Suggested setting
+	(global-set-key "\C-ct" 'mode-line-timer-start)
+	(global-set-key "\C-cp" 'mode-line-timer-stop)
+	;; https://emacs.stackexchange.com/questions/3488/define-controlshift-keys-without-kbd
+
+	;; https://emacs.stackexchange.com/questions/27926/avoiding-overwriting-global-key-bindings
+	;; info on key bindings
+
+
+	;; https://www.emacswiki.org/emacs/AutoFillMode
+	(add-hook 'text-mode-hook 'turn-on-auto-fill)
+
+
+
+	;; for python
+	;; https://stackoverflow.com/questions/2515754/changing-python-interpreter-for-emacs?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
+
+	(setq python-shell-interpreter "/home/eghx/anaconda3/bin/python")
 
 ## Org mode, the farthest I have come
 
@@ -407,9 +492,6 @@ With its foot quite deep into the philosopy of org-mode, comes another
 mode called Markdown mode.
 
 
-
----
-
 ## Markdown mode
 
 Markdown mode is the currently what I use. Installation is simple as
@@ -419,8 +501,12 @@ different colours according to their level (as in org-mode).
 
 Check [this link](https://github.com/defunkt/markdown-mode), for more info.
 
-	
+## How do I run a function on start-up?
 
+[Based on this answer on emacs.exchange:](https://emacs.stackexchange.com/questions/15097/how-do-i-run-a-function-on-start-up?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
+
+	(markdown-toggle-url-hiding)
+	
 
 
 ---
