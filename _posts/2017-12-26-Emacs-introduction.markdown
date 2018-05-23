@@ -507,6 +507,16 @@ Check [this link](https://github.com/defunkt/markdown-mode), for more info.
 
 	(markdown-toggle-url-hiding)
 	
+This will and does not work, as it first needs `markdown-mode` to be
+alive. After quite some deliberation, we go with [adding a hook](https://emacs.stackexchange.com/questions/17266/how-to-automatically-load-flyspell-mode-when-markdown-md-mdwn-file-is-open)
+instead of `eval-after-load`.
+	
+## Emacs: invalid byte opcode: op=183, ptr=185
+
+Markdown mode not working with tables, giving error.
+
+	M-x package-delete RET `package name`
+	M-x package-install RET `package name`
 
 
 ---
