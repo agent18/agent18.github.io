@@ -5,7 +5,7 @@ title:  " Summary before appying to 80k"
 date:    19-05-2018 08:39
 categories: The Beginning
 permalink: /:title.html
-published: True
+published: False
 ---
 ## GOAL:
 
