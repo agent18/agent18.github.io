@@ -389,3 +389,20 @@ done. Use the 800 $ budget to kill. Say you will spend the next 2
 weeks killing it for a godforsaken laptop.
 
 First kill then buy. Without killing there is no point buying!
+
+And the last point is do I even need gaming?
+
+If I am in india, I could workout, play sport training and do so many
+things and do a course that is important!
+
+My comp gets stuck when I use extra tabs... So I suggest going for a
+good laptop anyway
+
+But I am going to buy it anyway for now. I will save 200 bucks. and
+this stuck at thing is very risky for me. as my probability is
+increasing for me to buy a new laptop. I would liek to buy an dtest my
+new laptop before going to india... so that I can use my time wisely
+there doing usefull courses etc...
+
+Lets not over think this. Lets go get a laptop! Peace!
+
