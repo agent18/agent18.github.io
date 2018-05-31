@@ -5,8 +5,9 @@ title:  " Summary before appying to 80k"
 date:    19-05-2018 08:39
 categories: The Beginning
 permalink: /:title.html
-published: False
+published: True
 ---
+
 ## GOAL:
 
 Summary, wague
@@ -205,20 +206,22 @@ having extra time to work on other charity projects.
 
 #### summary
 
-In summary I would like the skills to be like these people or earn
-like this. I would like to leave such a legacy behind like that of
-TARA. It is important for me to dream big and currently these people
-are already like a hard goal, a challenging goal for me I guess.
+In summary I would like the skills to be like these people or at least
+earn a lot to give. I would like to leave such a legacy behind like
+that of TARA. It is important for me to dream big and currently these
+people are already like a hard goal, a challenging goal for me I
+guess.
 
 The importance of direct work has been stressed a lot by 80k hours. In
 the long run that is what I guess I should be doing. But for the next
 few years, no harm in making money as well as building career
-capital. But again, money is not the objective now. Gaining skills to
-make crazy impact is.
+capital. But money is not the objective, getting yourself in shape to
+do good is. Gaining skills to make crazy impact is.
 
 So, Ability to work in leading roles or operational roles in NGO's or
 found my own NGO, is one of the things I see myself doing. or even
-doing the research that they deem the most necessary.
+doing the research that they deem the most necessary, or earning
+crazily to give.
 
 ### Making the list
 
@@ -386,6 +389,18 @@ Skills:
 >learning when you are pushed to improve and get lots of feedback from
 >mentors.
 
+- Transferable skills
+  - personal productivity
+  - Critical thinking, analysis and problem solving
+  - ability to learn quickly
+  - decision-making
+  - social skills
+  - management
+- Knowledge
+
+- Personality traits
+  - Confidence
+  
 Connections:
 
 >Connections – who will you work with and meet in this job? Your
@@ -394,6 +409,12 @@ Connections:
 >character. For both reasons, it’s important to make connections who
 >are influential and who care about social impact.
 
+Are my connections going to get me jobs in different industries or
+other industries?
+
+Are my connections going to inspire me to do good?
+
+Are my connections influential?
 
 Credentials:
 
@@ -434,21 +455,22 @@ What are your chances of excelling in that area?
 
 So the assumptions here is that I will try to grow in the precision
 industry as a precision engineer, and slowly climb the ladder of
-becoming a team lead (DL).
+becoming a team lead (DL) in a span of 8 years in
+Netherlands/USA. Then start gaining skills in leadership and boast
+decent achievements 
 
 **Skills**: as compared to say management consulting is a '5/10'
 
 Right now I am learning a very specific amount of skills. Skills like
 making proper drawings, Skills on how to design for the precision
-industry, how to keep things simple etc... Great for the precision
-engineering market but I dont think it preps me for the Leadership
-type of jobs that I plan in the future.
+industry, What type of motors work where, how to keep things simple
+etc... Great for the precision engineering market but I dont think it
+preps me for the Leadership/research type of jobs that I plan in the future.
 
 Even if I become a design leader (as they call it here), it would take
-say 8 years atleast (35), where I go into a CTO kind of role, where I am
-managing a technical team, knowing on a high level what my team is
-doing. Maybe there are other possibilities, but 8 years of engineering
-seems quite unnecessary. 
+say 8 years atleast (35), where I go into a tech leadership kind of
+role, where I am managing a technical team, knowing on a high level
+what my team is doing. 
 
 A part of my work is also critical thinking but it is definitely a
 small part (20-30%), but it is a small part. 
@@ -462,24 +484,313 @@ myself 'wasting' a lot of time here.
 Last is I work for <40 hrs a week and I am barely at any pressure or
 pushed to achieve great things,
 
+As far as I have seen and the fact that even glassdoor says this, more
+experience is not really valued a lot beyond 1-2 few decades. My
+colleague ears 52k with 30 years of expereince and I earn 40k. If I
+switch companies already I can make as much as him.
+
+So, the dearth of transferable skills, the minimum quantity of
+critical thinking, a decent amount of creativity building, 
+
+- Transferable skills: 
+  - personal productivity: 4
+  - Critical thinking, analysis and problem solving: 5
+  - ability to learn quickly: 8
+  - decision-making: 4
+  - social skills: 3
+  - management: 4.5
+  - Team workingish: 6.5
+  
+- Knowledge:  4
+
+- Personality traits: 5.5
+  - Confidence: 5.5
+
+  
+
 **Connections**:
 
-I am not sure how these connections 
+I will work with other design engineers and physicists in the job. I
+might be able to find opportunities in related fields. But I don't
+think this would be useful, considering that this is probably not the
+industry I should continue in. 
+
+Are my connections going to get me jobs in different industries or
+other industries?
+
+Maybe, but definitely not different industries.
+
+Are my connections going to inspire me to do good?
+
+5-10% chance that may happen. These people are all about taking it
+easy, taking some sun, travelling, girl friends  and thats it.
+
+Are my connections influential?
+There is a 20% chance that 1 out of 30-50 colleagues I would know
+would use his influence to help me out. This is the right now of
+course.
+
+Considering all this, I give this a 3/10 if management consulting
+connections would be an 8/10 for connections.
+
 
 **Credentials**:
 
 I see myself growing up the ladder very very slowly (4-5 years per
-promotion)
+promotion). It is a slow working environment (mainly because of
+research). Right now maybe I can boast to other precision companies
+regarding what I could do for them.
+
+Regarding great achievements, I don't think I have any, and if I will
+have any in the coming years. Even If I move to a larger company I do
+not see myself doing great things as a mechanical engineer. 
+
+When I am trouble shooting for example, then there is scope for
+achievement, but otherwise, it will always be normal. I am not in any
+position to say save large sums of money for the company. 
+
+It seems like a normal 9-5 job with some performance indicators of me
+learning quickly but that is it I think.
+
+For a writer it is his blog, for a coder it is his Github, for a
+mechanical deisgner, it is his portfolio of work done till now, which
+would of course be useful to take up other jobs in the same precision
+industry. 
+
+
+
+slow working , little accountability
 
 **Runway**:
 
+In Netherlands I can save about 14-20k euros/year now based on where I
+work. The growth would be 5% every year. Period.
+
 **Personal Fit**:
+
+To excel in this area would mean to give money either by starting up
+or just being a typical engineer, or learning the skills to
+lead/research after 8 years and using it to actually make impact.
+
+The probability of success in with starting up would be 3%; The
+probability of success of continuing as an engineer and donating 10%
+would be 99%; The probability of clocking 5 years in the lead role as
+a Design leader and then moving to a job where I can do direct work in
+top NGO and make impact; 50%, but the impact in each of the cases would be
+drastically different.
+
+
 
 **Impact**:
 
+To talk about the impact following up from the last section on
+personal fit,
+
+I estimate the impact of starting up in tech to be 2500 lives 
+ - total donations (10 mill $)
+ - cost of one life (4000$)
+ - total lives saved = 2500
+
+ 
+I estimate the impact of being an engineer as
+ - Total donations per annum (10% of 46k$)
+ - cost of one life (4k$)
+ - total lives saved per annum = 1.15
+ - total lives saved in 40 years ~= 1.15*40 * 2 = 92 lives (assuming 5%
+   inflation and 5% salary increase every year and a non-conservative factor) 
+   
+   
+I estimate the impact of moving into the leadership roles after 8
+years as:
+
+
+If you look at an NGO like 80k hours, it has 20 people in total, and
+they have been in existence for about 8 years. They claim to have
+changed the lives of 1k people in these 8 years. We assume each life
+changed might be saving atleast 1000 lives per person over their
+lifetime. If 30% is attributed to 80k hours, then...
+
+ - Number of lives expected to be saved by 80k in the 8 years = 30%*1000
+lives * 1000 changed lives = 300k lives 
+
+ - estimated contribution of one of the 20  80khrs members for 40
+ years is = 300k lives over 8 years by all/20 80khrs members/ 8 years
+ = 1.8k lives per person per year; Ridiculous!
+
+ - 15 years of working and 10% donations later we would have saved 15
+   lives
+ - Working as a leader in a top NGO say like 80k hours for the next 25
+   years could save >25k lives. Holy Fuck!
+ 
+ If you look at 
+ 
 **Job satisfaction**:
 
-#### 
+##### Data science
+
+**Skills** 
+
+Statistics, critical thinking, programming and machine learning could
+be the knowledge and skills I would transfer to research based jobs,
+and not necessarily leadership based jobs. However I suspect that a
+role in project management could get me somewhere.
+
+Also DS is only the starting point. Once I start DS, programming,
+using different languages all will be things I will be working on,
+which allows for a machine learning PhD maybe. DS looks like a good
+place to start skills wise.
+
+>The technical skills you develop also open the possibility to
+>transition into different roles including software engineering,
+>founding or joining early-stage startups, academia,2 and quant
+>finance.
+
+
+- Transferable skills
+  - personal productivity: 6
+  - Critical thinking, analysis and problem solving: 7.5
+  - ability to learn quickly: 7
+  - decision-making:6
+  - social skills: 4
+  - management : 4.5
+  - team working:
+- Knowledge: 8
+
+- Personality traits
+  - Confidence: 6
+  
+
+**Connections**
+
+**Credentials**
+
+**Runway**
+
+**Personal fit**
+
+**Supportive conditions/Job Satisfaction**
+
+**Impact**
+
+##### Programming 
+
+
+**Skills**6.4
+
+Apparently, learning to program could also be a gateway to DS,
+Quantitative Finance, tech entrepreneurship, research and freelance
+development. Useful in a multitude of industries, highly
+transferable. 
+
+- Transferable skills 5.6
+  - personal productivity:6 
+  - Critical thinking, analysis and problem solving: 7.5
+  - ability to learn quickly: 7
+  - decision-making: 5.5
+  - social skills: 3.0
+  - management:4
+- Knowledge: 8
+
+- Personality traits
+  - Confidence: 6
+  
+
+**Connections**
+ It is likely to become more valuable in the future
+ 
+**Credentials**
+
+**Runway**
+
+**Personal fit**
+
+**Supportive conditions/Job Satisfaction**
+
+**Impact**
+
+
+
+##### Machine learning PhD
+
+Its possible to go for it, I guess, but I am not sure of so many
+things, such as the skill required to get in in the first place. If at
+all anything, I will start with DS and see how I can branch to ML or
+Programming. In order to put say 1000 hrs of work, it would take me a
+year atleast, and before that I am not sure anyone is interested in me
+doing a PhD. But I can look at a masters followed by a PhD route. But
+let's see. It's all right now too far-fetched to me.
+
+
+**Skills** 8
+
+It a PhD. You learn more about programming and statistics for >10000 straight.
+
+**Connections**
+
+**Credentials**
+
+**Runway**
+
+**Personal fit**
+
+**Supportive conditions/Job Satisfaction**
+
+**Impact**
+
+##### Economics PhD
+
+Too far-fetched, based on the link I studied. As I am already 27 and
+it takes quite some effort to get to the point of applying. I don't
+have the means or the scope to go into this any further. 
+
+Everything can be as high but it is not really a personal fit at all.
+
+**Skills**: 8
+
+**Connections**:7
+
+**Credentials**:8
+
+**Runway**:8
+
+**Personal fit** : 2
+
+**Supportive conditions/Job Satisfaction** 7
+
+**Impact**
+
+##### Working @ effective non profits
+
+As per the frequent words from 80k hours, working in an NGO should not
+be the first thing to do for 2 reasons:
+
+1. Experience is not really considered epic here
+
+We rather learn much much more in the industry and then make the jump
+to use our skills to make lives better.
+
+2. Going to another job from here would be hard.
+
+Going back to the industry would be hard. The skills that we gain in
+the industry are much more valuable. 
+
+**Skills**
+
+Transferable skills:
+
+**Connections**
+
+**Credentials**
+
+**Runway**
+
+**Personal fit**
+
+**Supportive conditions/Job Satisfaction**
+
+**Impact**
+
+##### Starting up
 
 **Skills**
 
@@ -494,6 +805,30 @@ promotion)
 **Supportive conditions/Job Satisfaction**
 
 **Impact**
+
+
+##### Party Politics/ Congressional staffer/ Civil Services UK
+
+**Skills**
+
+**Connections**
+
+**Credentials**
+
+**Runway**
+
+**Personal fit**
+
+**Supportive conditions/Job Satisfaction**
+
+**Impact**
+
+
+
+
+
+
+	
 
 ### Why not an MBA?
 
@@ -559,4 +894,8 @@ regarding the line of thought.
 ## Log
 20 May: established the frame work spent quite a few hours in the library
 21 May: Wanked
-	22 May: 1.5 hrs continuous, no break, of course on a mind level 1k words
+22 May: 1.5 hrs continuous, no break, of course on a mind level 1k
+words
+23 May: 1 hr of writing, and half hour of setting up other things
+
+	
