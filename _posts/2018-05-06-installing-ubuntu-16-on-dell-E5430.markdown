@@ -5,10 +5,196 @@ title:  " Installing Ubuntu 16 and setting it up on Dell E5430"
 date:    06-05-2018 08:39
 categories: The Beginning
 permalink: /:title.html
-published: True
+published: False
 ---
 
-## Installing Ubuntu
+
+## installing ubuntu dual boot windows 10
+
+[seems like a nice video for following](https://www.youtube.com/watch?v=qNeJvujdB-0&t=183s); also following [random page](https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/)
+
+PC on time starts at 16;58 rea; time!
+
+[how to di install a pre-installed
+windows with wifi](https://askubuntu.com/questions/221835/how-do-i-install-ubuntu-alongside-a-pre-installed-windows-with-uefi?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa) ask ubuntu page!
+
+Secure boot UeFI Fast boot; current system runs on UEFI mode-->
+MSinfo32 on run gives the info....
+
+Space > 20 gb
+
+Windows ont shutdown in 'fast-startupmode' (basically hibernation!)
+
+Dont understand "if installing on gpt type partition and you need to
+leave UEFI enabled"?
+
+--> powershell--> Confirm-SecureBootUEFI
+
+true imples secure boot is there and enabled!
+
+current boot mode is UEFI, need to boot ubuntu in UEFI, and only
+disable secure boot.....  [boot mode should match](https://help.ubuntu.com/community/UEFI)
+
+secure boot is avoid malware to use the boot loader
+
+UEFI is an alternative to BIOS that can support larger systems and is
+hence somehow prefered by microsoft
+
+
+Suggestions based on uefi ubuntu page and ask ubuntu page
+
+Keep secure boot on UEFI on fast boot swtiched off  and try ubuntu first, if good, then install, if
+still not good, then try boot repair
+
+We might need to create some space for EFI''''' might!
+
+Getting grub and repairing the boot will be seen later or dealt with
+later!
+
+now to tht real installation?
+#### Partitioning 
+
+for now i allowcate 150gb, if needed later, i will refer to [this](https://askubuntu.com/a/812653/443958)
+and follow the instructions to increase the size of the partition as
+and when required.
+
+#### disable fast startup
+
+control panel--> power options-->choose what buttons do--> change
+unavilable settings--> turn off fast boot--> save changes
+
+#### disable secure boot?
+F2
+[set password in bios to change secure boot](https://itsfoss.com/disable-secure-boot-in-acer/)
+now disable boot
+
+#### Try ubuntu 
+
+unable to diable intel srt tech, as it is not there --> suggested by
+uefi page
+
+Based on [the video](https://www.youtube.com/watch?v=qNeJvujdB-0&t=183s)
+	`check disck for errors defects`
+
+one error found! no help online,, might be due to graphics drivers!
+might be realted to squashfs (previously seen as a problem with secure
+boot) 
+
+moving further anyway then
+
+first try --> didn't work; black screen 
+
+second try based on updating to [nomodeset](https://askubuntu.com/questions/832163/black-screen-when-loading-ubuntu-live-usb/832173?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
+
+	e to edit grub
+	replace `quiet splash` by `nomodeset`
+	
+This is done as some hardware might have issues.
+
+ubuntu looks good so far!
+
+Checked if partition was GPT or mBr, looks like uefi and gpt go hand
+in hand, but i checked it using [the link shown](http://www.thpc.info/how/gpt_or_mbr.html)
+
+>The 4-partition limit no longer exists with disks that use the GUID
+>Partition Table (GPT). GPT supports up to 128 partitions by default
+>and does not include the concepts of primary, extended, or logical
+>partitions (although many tools refer to all GPT partitions as
+>"primary partitions," simply because those tools were written with
+>the older MBR system in mind). [-askubuntu](https://askubuntu.com/questions/149821/my-disk-already-has-4-primary-partitions-how-can-i-install-ubuntu?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
+
+
+--------------------
+
+- partitions of the free space
+	- swap 2x ram 16gb (swap)
+  - root 25gb ext4 journouling system (/)
+  - home 120gb ext4 journouling system /(home)
+  
+---- 
+
+#### Installation complete
+
+restart now hangs -- could be the graphics? lets wait and see
+
+hard reset
+
+#### Grub not showing
+
+changed somehting in the bootorder to `windows boot manager` and it
+went stright to grub.. need to check if I can make this better
+
+#### ubuntu booting
+
+hangs with quiet splash
+
+takes way too long with  nomodeset, don't know why?
+
+it boots into ubuntu, 
+
+takes so much time before 
+
+
+#### Nvidia stuff
+
+[Possible Nvidia support ](https://github.com/rdjondo/TensorFlowGPUonUbuntu/wiki/Installing-Ubuntu-16.04-LTS-in-Dual-Boot-with-NVIDIA-GPU-support) for system with dual boot, suggesting
+removal of secure boot
+
+[Latest Long Lived Branch version for Linux x86_64/AMD64/EM64T,](https://gist.github.com/wangruohui/df039f0dc434d6486f5d4d098aa52d07) to
+be used!
+
+[installation guide 1](http://www.linuxandubuntu.com/home/how-to-install-latest-nvidia-drivers-in-linux)
+
+sudo apt-get install nvidia-390
+
+cehecked 390 support for 1050 and moving on. restart
+
+testing if system works without nomodeset
+System works,seems to take less time than before 
+
+login screen -33s from selection 
+screen- 47
+mozilla - 61s
+
+
+
+Much better than old systems i have used, but still! the fact the
+windows boots to login in <10s is painful.
+
+[Possible Nvidia support ](https://github.com/rdjondo/TensorFlowGPUonUbuntu/wiki/Installing-Ubuntu-16.04-LTS-in-Dual-Boot-with-NVIDIA-GPU-support) says to try 
+
+	nvidia-settings
+
+to open the settings menu as a check as well
+
+
+different display settings open up finally to allow to use the
+different resolutions!
+
+
+[this askubuntu post](https://askubuntu.com/questions/760934/graphics-issues-after-while-installing-ubuntu-16-04-16-10-with-nvidia-graphics) covers basics of graphics and not
+	particulars, refer to the above for details succh as which and
+	what!
+	
+#### boot time slow
+
+No problem with UUID [UUID check with /etc/fstab](https://askubuntu.com/questions/760694/really-slow-boot-on-16-04?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
+
+checking out DE, Xorg to see if it might have anything to do with it
+followed by `system-analyze-blame`
+
+
+removed network waiting (14s)
+
+login screen -33s from selection 
+screen- 43
+chrome - 61s
+---------------------------------------------------------
+
+aspci vishnu said something
+
+and also sleep is taking a long time, check it with using the nvidia swtichoffer!
+## Installing Ubuntu overwriting windows 10
 
 [Install ubuntu using this link for instructions](https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop#5)
 
