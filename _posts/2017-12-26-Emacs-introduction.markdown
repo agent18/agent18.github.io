@@ -369,6 +369,10 @@ the point that some files were not called and gave some
 errors. Beware, I have documented this over [here (in stackoverflow)](https://stackoverflow.com/questions/49829307/emacs-python-not-able-to-find-package-module)
 
 
+### Using indirect buffers
+
+[Indirect Buffers](http://www.gnu.org/software/emacs/manual/html_node/emacs/Indirect-Buffers.html#Indirect-Buffers) 
+
 ### My final init file
 
 	;; https://blog.aaronbieber.com/2015/05/24/from-vim-to-emacs-in-fourteen-days.html 
@@ -412,13 +416,41 @@ errors. Beware, I have documented this over [here (in stackoverflow)](https://st
 
 	;; https://www.emacswiki.org/emacs/AutoFillMode
 	(add-hook 'text-mode-hook 'turn-on-auto-fill)
-
-
+	(add-hook 'text-mode-hook 'flyspell-mode)
 
 	;; for python
 	;; https://stackoverflow.com/questions/2515754/changing-python-interpreter-for-emacs?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
 
 	(setq python-shell-interpreter "/home/eghx/anaconda3/bin/python")
+
+
+	;;https://emacs.stackexchange.com/questions/15097/how-do-i-run-a-function-on-start-up?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
+
+	;; https://stackoverflow.com/questions/2736087/eval-after-load-vs-mode-hook?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
+	;;doesn't work
+	;;(eval-after-load "markdown-mode"
+	;; '(markdown-toggle-url-hiding)) 
+
+	;; https://stackoverflow.com/questions/2736087/eval-after-load-vs-mode-hook?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
+
+	(add-hook 'markdown-mode-hook 'markdown-toggle-url-hiding)
+	(custom-set-variables
+;; custom-set-variables was added by Custom.
+;; If you edit it by hand, you could mess it up, so be careful.
+;; Your init file should contain only one such instance.
+;; If there is more than one, they won't work right.
+'(package-selected-packages (quote (markdown-mode))))
+
+	(custom-set-faces
+;; custom-set-faces was added by Custom.
+;; If you edit it by hand, you could mess it up, so be careful.
+;; Your init file should contain only one such instance.
+;; If there is more than one, they won't work right.
+'(markdown-header-face-1 ((t (:inherit markdown-header-face :foreground "medium blue" :height 1.0))))
+'(markdown-header-face-2 ((t (:inherit markdown-header-face :foreground "medium blue" :height 1.0))))
+'(markdown-header-face-3 ((t (:inherit markdown-header-face :foreground "dark orange" :height 1.0))))
+'(markdown-header-face-4 ((t (:inherit markdown-header-face :foreground "dark cyan" :height 1.0)))))
+
 
 ## Org mode, the farthest I have come
 

@@ -5,7 +5,7 @@ title:  " Summary before appying to 80k"
 date:    19-05-2018 08:39
 categories: The Beginning
 permalink: /:title.html
-published: True
+published: False
 ---
 
 ## GOAL:
@@ -359,6 +359,47 @@ When we are ready to bet on small chances then:
 - Party politics
 
 
+#### My next steps
+
+The focus for this article should be that I deveop through this post
+what I should do next, like in the next 6 months. Where should I begin
+and what should I do.
+
+I am broadly looking at few things based on the rough list I have and
+the Career Quiz
+
+1. Sticking to design engineering
+
+	- Working in the US?
+	- Staying in DE
+	- Attempting to startup
+	- Going into the NGO management after a few years in this field.
+	
+2. Moving to DataScience
+   
+   - DS
+   - Programming
+   - Machine learning PhD
+   - Working at GiveWell type of NGO's
+   
+3. Doing an MBA
+
+	- IB
+	- NGO as analyst or management
+	- Management Consulting
+	- Marketting Sales
+	- trading in quantitative hedge funds
+	
+	
+4. Civil services
+
+	Dont know where or how to start, other than in India, but I am not
+    sure of the evaluating the kind of impact I can have in India
+	
+5. Think Tanks
+
+6. Working at Effective Altruism organizations
+
 #### Comparing
 
 The plan is to write about these:
@@ -400,7 +441,9 @@ Skills:
 
 - Personality traits
   - Confidence
-  
+
+
+
 Connections:
 
 >Connections – who will you work with and meet in this job? Your
@@ -435,6 +478,12 @@ Runway:
 >paying down high-interest debt before donating more than 1% per year
 >or taking a big pay cut for greater impact.
 
+Ability to quickly save enough money for 18 months is what seems to be
+defining runway. How much I can donate is a question answerd by the
+impact section.
+
+Runway seems to be always important.
+
 **Supportive conditions**
 
 > Impact and personal life
@@ -451,7 +500,33 @@ Runway:
 
 What are your chances of excelling in that area?
 
-##### Design engineering (Machine Design) in 'Europe'
+**In summary,**
+
+ $ (f1xCareer Capital +f2xImpact +f3xSupportive conditions) *
+ Personalfit
+ 
+>If you are still early in your career, then it’s best to place
+>greater importance on career capital than on role impact
+
+>The more uncertain you are about the long-run, the more you should
+>prioritise flexible career capital over
+
+>The more altruistically-minded you are, the less weight you’ll need
+>to place on job satisfaction relative to the other factors.
+
+There by I see f1 = 1, f2 = 0.7, and f3 = 0.5.
+
+80k suggests role-impact and not impact. This would mean that I
+somehow have an idea of what problem I have chosen to focus
+on. On a high level, it is all about saving lives, adding good years
+to lives around the world now and later. 
+
+To simplify the solving of the above problem, I suggest we just stick
+to impact as being saving lives. I will try to make estimations of
+saving lives with this.
+
+
+#### Design engineering (Machine Design) in 'Europe'
 
 So the assumptions here is that I will try to grow in the precision
 industry as a precision engineer, and slowly climb the ladder of
@@ -557,83 +632,78 @@ mechanical deisgner, it is his portfolio of work done till now, which
 would of course be useful to take up other jobs in the same precision
 industry. 
 
-
-
 slow working , little accountability
 
 **Runway**:
 
-In Netherlands I can save about 14-20k euros/year now based on where I
+In Netherlands I can save about 14-20k euros/year at this moment based on where I
 work. The growth would be 5% every year. Period.
 
 **Personal Fit**:
 
-To excel in this area would mean to give money either by starting up
-or just being a typical engineer, or learning the skills to
-lead/research after 8 years and using it to actually make impact.
+To excel in this area would mean 
 
-The probability of success in with starting up would be 3%; The
-probability of success of continuing as an engineer and donating 10%
-would be 99%; The probability of clocking 5 years in the lead role as
-a Design leader and then moving to a job where I can do direct work in
-top NGO and make impact; 50%, but the impact in each of the cases would be
-drastically different.
+- being a typical engineer for the rest of my life and grow through
+  the ranks slowly and probably consulting after a period of time.  
+  I estimate this at 100% chance of success for me. This is like the
+  minimum I should be able to achieve at any cost.[10/10]
+  
+- to give money either by starting up 
+
+	The probability of succeeding in starting up, seems to be dependent on:
+	- Chance of having the vision to be a Y-combinator level startup and
+          applying (5%)	  
+	- chance of getting accepted in Y-combinator (2.5%)
+	- Chance of that startup succeeding (25% based on current
+      [Ycombinator list](https://yclist.com/) of 11 years)
+	- = 0.03% (by multiplying everything) [0.003/10]
+	  
+
+- learning the skills to lead/research after 8 years and using it to actually make impact.
+
+    Success would be based on the following:
+	- Possibility of learning the skills after 8 years of doing random
+      design work @ 33 (80%)
+	- Possibility of learning the right skills being in this industry
+      (85% assuming any industry should be able to give me this skill
+      or that I should be able to branch)
+	- = 64% [6.4/10]
 
 
 
 **Impact**:
 
-To talk about the impact following up from the last section on
-personal fit,
+The impact of being a typical engineer for the next 40 years is
+estimated to be <300 lives. []
 
-I estimate the impact of starting up in tech to be 2500 lives 
- - total donations (10 mill $)
- - cost of one life (4000$)
- - total lives saved = 2500
+The impact of being a successful tech startup as per the earnings of
+employees ([2.5m$](https://80000hours.org/2014/05/how-much-do-y-combinator-founders-earn/#fn:5)) is ~21k lives over 30 years, assuming I take
+the next 10 years to prep for such a scheme.
 
- 
-I estimate the impact of being an engineer as
- - Total donations per annum (10% of 46k$)
- - cost of one life (4k$)
- - total lives saved per annum = 1.15
- - total lives saved in 40 years ~= 1.15*40 * 2 = 92 lives (assuming 5%
-   inflation and 5% salary increase every year and a non-conservative factor) 
+As a person working for an NGO like either GiveWell or 80k, the
+estimated impact ranges from 600 to 3000 lives over 40 years. Another
+estimate for an analyst informs that 1500 lives will be saved. To keep
+things simple, we stick to this final number of 1500 lives over 40
+years. It is assumed that the contribution of the Analyst and the
+contribution of the operations/managers is the same for lack of
+knowledge, hopefully leading to a conservative number. As we will be
+spending the next 10 years prepping for it in essence, we would have
+970 lives of impact.
+
+
+    
    
-   
-I estimate the impact of moving into the leadership roles after 8
-years as:
 
 
-If you look at an NGO like 80k hours, it has 20 people in total, and
-they have been in existence for about 8 years. They claim to have
-changed the lives of 1k people in these 8 years. We assume each life
-changed might be saving atleast 1000 lives per person over their
-lifetime. If 30% is attributed to 80k hours, then...
-
- - Number of lives expected to be saved by 80k in the 8 years = 30%*1000
-lives * 1000 changed lives = 300k lives 
-
- - estimated contribution of one of the 20  80khrs members for 40
- years is = 300k lives over 8 years by all/20 80khrs members/ 8 years
- = 1.8k lives per person per year; Ridiculous!
-
- - 15 years of working and 10% donations later we would have saved 15
-   lives
- - Working as a leader in a top NGO say like 80k hours for the next 25
-   years could save >25k lives. Holy Fuck!
- 
- If you look at 
- 
-**Job satisfaction**:
-
-##### Data science
+#### Data science
 
 **Skills** 
 
 Statistics, critical thinking, programming and machine learning could
 be the knowledge and skills I would transfer to research based jobs,
 and not necessarily leadership based jobs. However I suspect that a
-role in project management could get me somewhere.
+role in project management after a few years could get me somewhere
+like an all-rounder in the field of DS.
 
 Also DS is only the starting point. Once I start DS, programming,
 using different languages all will be things I will be working on,
@@ -642,9 +712,10 @@ place to start skills wise.
 
 >The technical skills you develop also open the possibility to
 >transition into different roles including software engineering,
->founding or joining early-stage startups, academia,2 and quant
->finance.
+>founding or joining early-stage startups, academia, and quant
+>finance. - [80k-DS](https://80000hours.org/career-reviews/data-science/) 
 
+These are quite some possibilities 
 
 - Transferable skills
   - personal productivity: 6
@@ -659,20 +730,133 @@ place to start skills wise.
 - Personality traits
   - Confidence: 6
   
+I also suspect DS unlike the R&D work that I am doing, will be faster
+paced and so I suspect that there is more learning happening.
 
 **Connections**
 
+Depending on where I work and what I do for which which companies. If
+it is an in house job, then you are not chatting with clients, but if
+you are consulting or doing work for clients, then possible better
+connections than design engineering. For lack of knowing any better, I
+raise it by one point more than Design engineering.
+
 **Credentials**
 
-**Runway**
+DS has a fast paced scene as I get from 80k. Faster feedback cycle,
+and large connection between work and outcomes can be felt. Further
+impression I get is that you can brag about your outcomes, rather they
+will be braggable to a future employer. Seeing my friend in DS and
+what all he has bragged about being in Musigma in his first 2 years
+sound amazing.
+
+I suspect with this career, that would be one advantage, i.e., to be
+able to brag with credentials. For example, X was low and I suggested
+Y and then X soured.
+
+Companies like KLM even have jobs for engineers and data
+scientists. This could be quite lucrative for me and for the company,
+as I span both the spectra.
+
+So I give it a 7
+
+**Runway** 
+My friend in the US earns top dollar in Apple. Once you are Apple
+worth, there seems to be a lot of potential scope and growth. I want
+to believe that its like programming, where the society is highly
+meritocratic, so get the NERD on.
+
+Anyways, if I compare it to design engineering now and within
+Netherlands, how much will I earn? According to [payscale](https://www.payscale.com/research/NL/Job=Data_Scientist/Salary/54000e8c/Entry-Level-Amsterdam) both
+design engineering in eindhoven area and data scientist in Amsterdam
+for entry level have same pay. Both seem rather accessible to me.
+
+So I give it a 5 as well. 
+
+There is no reason to look at jobs in US as getting them now would be
+hard and already feels unrealistic for now.
 
 **Personal fit**
 
+I think the personal fit is also good here. I am up for challenging
+jobs all the time. I love programming and can spend like any other
+sane human being a very large time working on it. 
+
+I think I can very well learn and get better at these skills over some
+time. I could quickly do bootcamps from home and become good at DS. I
+am a fast learner and have worked on proper programming assignments
+before. I have done a bit of critical thinking, hypothesis forming and
+solving problems. I love it to begin with and I think there is a lot
+of room to get better and I can get better at it, with more defined
+ways of thinking.
+
+So I think I have some experience with it. I can already work with
+python and I am young. I see this as a great fit for me. I feel that I
+should be able to achieve great forms of success within DS if I stick
+to it over my entire career. So I offer this a 93% chance of success.
+
+I have solved problems at my work, I enjoy doing them.
+
+
 **Supportive conditions/Job Satisfaction**
+
+- I should be enjoying the work
+- Cleaning up the data will be boring, it takes up a lot of time.
+- Basic needs will be satisfied mostly (money, hours and commute)
+- Am not worried I will have too many problems, my point being it is
+  not investment banking.
+- Again I look up to people in the US like my brother and other actual
+  data scientists, they seem to have time to do other things as well.
+
+-Mentorship culture is quite common apparently according to 80k.
+
+Overall, I suspect the time to be a little more, but keeping the
+bigger picture in mind, that I am learning potential skill every extra
+hour I work, I shall not be cribbing about it then.
+
+I will rank it just a little smaller than Design engineering to factor
+in the uncertainity.
+
 
 **Impact**
 
-##### Programming 
+There is a lot of scope for direct impact if one has skills, by using
+this science in companies like:
+
+>including the Center for Disease Control, Google, Khan Academy, Bayes
+>Impact and DataKind.
+
+Moneywise I have not much idea about my earning potential here in
+Netherlands. As seen in the RunWay, both jobs pay the same. 
+
+However if I work for top companies which seems like a possibility,
+earning potential will be really good. 
+
+Moving to the US already seems to increase earning-to-give, for now, I
+shall not factor in this thing about going to US as the same can be
+done for design engineering as well.
+
+But, I think there is better chances of selling your self due to the
+credentials earned. I am not able to scoop it out but, last time I saw
+on glasssdoor, experience here is valued a lot as opposed to Design
+engineering.
+
+>Most people move on to other jobs if they have more than 20 years'
+>experience in this career. Experience has a moderate effect on pay
+>for this job.- [Payscale-mechanical-engineering](https://www.payscale.com/research/NL/Job=Mechanical_Engineer/Salary)
+
+I am afraid the same holds for engineers in general, unless you
+somehow move the ladder in management.
+
+Where with DS, I don't see such warnings. 
+
+I don't know how to measure its direct impact capabilities, but that
+means I can either earn to give or work for NGOs, which has said
+impact. and accordingly probabilities need to be processed.
+
+**Perceived ability to get a job**
+
+#### Programming 
 
 
 **Skills**6.4
@@ -710,7 +894,7 @@ transferable.
 
 
 
-##### Machine learning PhD
+#### Machine learning PhD
 
 Its possible to go for it, I guess, but I am not sure of so many
 things, such as the skill required to get in in the first place. If at
@@ -737,7 +921,7 @@ It a PhD. You learn more about programming and statistics for >10000 straight.
 
 **Impact**
 
-##### Economics PhD
+#### Economics PhD
 
 Too far-fetched, based on the link I studied. As I am already 27 and
 it takes quite some effort to get to the point of applying. I don't
@@ -759,7 +943,7 @@ Everything can be as high but it is not really a personal fit at all.
 
 **Impact**
 
-##### Working @ effective non profits
+#### Working @ effective non profits
 
 As per the frequent words from 80k hours, working in an NGO should not
 be the first thing to do for 2 reasons:
@@ -790,7 +974,7 @@ Transferable skills:
 
 **Impact**
 
-##### Starting up
+#### Starting up
 
 **Skills**
 
@@ -805,9 +989,18 @@ Transferable skills:
 **Supportive conditions/Job Satisfaction**
 
 **Impact**
+As a person working for an NGO like either GiveWell or 80k, the
+estimated impact ranges from 600 to 3000 lives over 40 years. Another
+estimate for an analyst informs that 1500 lives will be saved. To keep
+things simple, we stick to this final number of 1500 lives over 40
+years. It is assumed that the contribution of the Analyst and the
+contribution of the operations/managers is the same for lack of
+knowledge, hopefully leading to a conservative number. As we will be
+spending the next 10 years prepping for it in essence, we would have
+970 lives of impact.
 
 
-##### Party Politics/ Congressional staffer/ Civil Services UK
+#### Party Politics/ Congressional staffer/ Civil Services UK
 
 **Skills**
 
@@ -830,7 +1023,7 @@ Transferable skills:
 
 	
 
-### Why not an MBA?
+#### Why not an MBA?
 
 I suspect I am seeing signs and strong signs pointing me to do
 otherwise. I think I need to clearly write it all out. It is an exit
@@ -852,6 +1045,113 @@ motherfucking skill, thats it. interpersonal or whatever.
 
 
 
+##  calculations
+#### Impact calculations derivations
+##### Calculating impact of direct working in 80k hours
+
+**Problem**
+
+80k hours has changed the lines of 1k people over 8 years. Per change
+the cost is about 1337$. We seek to
+estimate the contribution of an agent in case he joins 80k hours. 
+
+**Assumptions or guesses**
+80k is a reputed NGO, that is committed to create massive impact. It
+is one such organization which I would want to join with the hopes of
+creating large change.
+
+They are about 15 people excluding advisors, 2 co-founders, 6 core
+members, 3 freelancers and 4 operations people. 
+
+My contribution would be 1.8% in the first year assuming my
+contribution is [10%](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/) of the co-founder, and core team 30% of
+co-founder, management team 10% of co-founder each.
+
+**Other factors**
+- contribution of the donors
+- Contribution of myself, incase someone else replaced me, how better
+  I was than someone else
+
+
+**Factors:**
+- contribution of 80k compared to the total lives saved compared to
+  people whose plan was changed (20%) (guess)
+- contribution of 80k compared to donors (40%)(based on [GiveWell estimate](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/))
+- contribution from me as compared to the contribution of my
+  replaceable job as say an analyst or an operations person (10%) (
+ [GiveWell estimate](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/))
+- Contribution to me compared to other employees such as founders
+  1.18% (as in assumptions and guesses)
+- I estimate the number of lives saved in a my lifetime in my current
+  normal job, by donating 15% as 222 lives (derived in the impact
+  section of design engineering)
+  
+  Although I think 10% is a fair number to assume for donations, I
+  suspect that with the change in plan based on 80k hours
+  intervention, the impact could be atleast 1.5 times than what I
+  could have done without 80k hours.
+  
+- Number of plans changed in a year = 457 on average and is growing
+(last 2 years plans changed was >1k)
+
+**The calculation**
+
+- Number of lives saved would thus be: 457*222 lives per year
+
+- Number of lives saved by me per year =  Multiplying by all factors
+  with the number of lives saved in total per year= 10 lives
+  
+- If this grows compounded at 2% with 1% inflation in costs and a 10%
+  interest every 5 years for the next 40 years, we get 626 lives.
+  
+**Reflection on the calculation**
+
+- I feel like I have been heavily hoping for this answer to turn out
+  ridiculously large say in k's of people saved. But its 2x more than
+  what I could save just being a design engineer. I want to say JUST
+  2x more. Nevertheless, I shall use these numbers, conservative as
+  they may be.
+  
+- The numbers produced here seem conservative and very rough, with
+  the estimates of my contribution as well as the number of
+  plans changed (as we take average and not the current)
+  
+  Changing the numbers a bit, and making it less conservative, I
+  stumble upon another rough estimate of about 2777 lives per
+  lifetime per person.
+  
+  So I would say there is a possibility of saving 600 to 3000 lives
+  over the next 40 years for me.
+  
+- Another estimate of value created in [$ @ GiveWell is $97,900](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/) which
+  translates to about 1500 lives roughly over 40 years (compounded at
+  2% with 1% inflation in costs and a 10% interest every 5 years)
+  
+- I guess it is more about the ball park or the relatively larger good
+  you can do by working in organizations such as GiveWell.
+  
+##### Calculating the impact of working in design engineering
+
+I estimate the impact of being an engineer as
+ - Total donations per annum (20% of 46k$)
+ - cost of one life (4k$)
+ 
+ - Inflation = 2% in cost of life 
+ - Number of years of donation = 40
+ - Increase in salary = 5% max per annum
+ - Job change every 5 years with 12.5% increase
+ - = <300
+ 
+ 
+I estimate the impact of starting up in tech to be
+ - Total donations per annum (60% of [2.5m$](https://80000hours.org/2014/05/how-much-do-y-combinator-founders-earn/#fn:5))
+ - cost of one life (4k$)
+ - Inflation = 2% in cost of life 
+ - Number of years of donation = 40
+ - Increase in salary = 5% max per annum
+ - Job change every 5 years with 12.5% increase
+ - ~38k lives
+ 
 ## Plan
 
 This post is going to serve as a summary, before I apply to 80k
@@ -864,11 +1164,13 @@ But I see time and again that he is trying to write a lot. Somehow, for some
 reason he belives that writing is everything, or writing helps in solving what
 he wants!
 
+
 ### P.S
 
 Working at the library from 8:11 with a small pee break. Set up
 markdown mode coloring, figured out how to add comments in markdown mode.
 	
+
 
 
 
