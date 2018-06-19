@@ -361,7 +361,7 @@ When we are ready to bet on small chances then:
 
 #### My next steps
 
-The focus for this article should be that I deveop through this post
+The focus for this article should be that I develop through this post
 what I should do next, like in the next 6 months. Where should I begin
 and what should I do.
 
@@ -528,6 +528,7 @@ saving lives with this.
 
 #### Design engineering (Machine Design) in 'Europe'
 
+
 So the assumptions here is that I will try to grow in the precision
 industry as a precision engineer, and slowly climb the ladder of
 becoming a team lead (DL) in a span of 8 years in
@@ -663,11 +664,11 @@ To excel in this area would mean
 
     Success would be based on the following:
 	- Possibility of learning the skills after 8 years of doing random
-      design work @ 33 (80%)
+      design work @ 33 (70%)
 	- Possibility of learning the right skills being in this industry
-      (85% assuming any industry should be able to give me this skill
+      (75% assuming any industry should be able to give me this skill
       or that I should be able to branch)
-	- = 64% [6.4/10]
+	- = 52.5% [5.25/10]
 
 
 
@@ -778,6 +779,9 @@ hard and already feels unrealistic for now.
 
 **Personal fit**
 
+Anyone can come into data science, we are not talking about data core
+or machine learning. The skills are basically stats. 
+
 I think the personal fit is also good here. I am up for challenging
 jobs all the time. I love programming and can spend like any other
 sane human being a very large time working on it. 
@@ -797,48 +801,77 @@ to it over my entire career. So I offer this a 93% chance of success.
 
 I have solved problems at my work, I enjoy doing them.
 
+- DS as a means of earning to give (Netherlands)
 
-**Supportive conditions/Job Satisfaction**
+  100 to 200k is all far-fetched and possible in say US. For now we
+  leave it outside the scope of this document.
+  
+  Just like in Design engineering, here I consider success to be able
+  to go steadily on the DS journey in Netherlands. Picking up the
+  career and being "successful" shall not be that hard. Being
+  exceptional (not sure how to define it) will be the hard thing.
+  
+  I know a few of my colleagues who are in DS right out of the masters
+  degree in some engineering. Plus from everything I have seen it is a
+  learn-able skill, and appears to be definitely reachable.
+  
+  [10/10]
 
-- I should be enjoying the work
-- Cleaning up the data will be boring, it takes up a lot of time.
-- Basic needs will be satisfied mostly (money, hours and commute)
-- Am not worried I will have too many problems, my point being it is
-  not investment banking.
-- Again I look up to people in the US like my brother and other actual
-  data scientists, they seem to have time to do other things as well.
 
--Mentorship culture is quite common apparently according to 80k.
+- Ds in startups
 
-Overall, I suspect the time to be a little more, but keeping the
-bigger picture in mind, that I am learning potential skill every extra
-hour I work, I shall not be cribbing about it then.
+I will use the same numbers as in DE for this. [0.003/10]
 
-I will rank it just a little smaller than Design engineering to factor
-in the uncertainity.
+- DS in NGO's
+
+Here we could be talking. With good stats and quants capability, I
+think we might have a good future here to do good.
+
+There are NGO's which use DS to do good. Due to the skills I learn in
+DS, I think I will be worthy as an analyst/DS at NGOs. If I spend
+enough time, I could already manage a team and gain a large amount of
+CC and try to work for NGO's
+
+Success would be based on the following:
+
+- Possibility of learning the right skills for the NGO work (80%)
+
 
 
 **Impact**
 
-There is a lot of scope for direct impact if one has skills, by using
-this science in companies like:
+An bachelor in some field in Facebook can earn (bachelors) 100k base
+salary + 130k over 4 years equity. Wow. 
 
->including the Center for Disease Control, Google, Khan Academy, Bayes
->Impact and DataKind.
+As far as I checked glassdoor and payscale, the pay in Netherlands
+also seems to be higher than in . According to payscale DS's seem to earn[
+53k](https://www.payscale.com/research/NL/Job=Data_Scientist/Salary/05582c7c/Amsterdam) and design engineers [40k](https://www.payscale.com/research/NL/Job=Mechanical_Design_Engineer/Salary). I can easily find this out by
+calling for a vacancy worst case. Not able to get proper estimates on
+glassdoor, but it looks high. 
 
-Moneywise I have not much idea about my earning potential here in
-Netherlands. As seen in the RunWay, both jobs pay the same. 
+Also DS is heavily hyped by 80k hours for its ability to quickly turn
+people in money making machines. 
 
-However if I work for top companies which seems like a possibility,
-earning potential will be really good. 
+>Data Incubator reports that its graduates can get starting salaries
+>of $100K to $200K.
 
-Moving to the US already seems to increase earning-to-give, for now, I
-shall not factor in this thing about going to US as the same can be
-done for design engineering as well.
+But I think some info that is missing is that these people who succeed
+are not
+ordinary people. The interview process is rigorous.
+
+So I bring my expectations down a little bit as to whether I can be
+those crazy achievers. back to ground 0 again. But I can apply and
+see where I stand. 
+
+So Assuming similar interest rates compounded and inflation as in DE,
+I expect to save 365 lives. However if I work for top companies which
+seems like a possibility, earning potential will be really good. If I
+earn about 200k in 10 years, then the lives I will save will be ~500
+lives. I see scope for tuning quite good here.
 
 But, I think there is better chances of selling your self due to the
 credentials earned. I am not able to scoop it out but, last time I saw
-on glasssdoor, experience here is valued a lot as opposed to Design
+on glassdoor, experience here is valued a lot as opposed to Design
 engineering.
 
 >Most people move on to other jobs if they have more than 20 years'
@@ -854,7 +887,346 @@ I don't know how to measure its direct impact capabilities, but that
 means I can either earn to give or work for NGOs, which has said
 impact. and accordingly probabilities need to be processed.
 
+
+There is a lot of scope for direct impact if one has skills, by using
+this science in companies like:
+
+>including the Center for Disease Control, Google, Khan Academy, Bayes
+>Impact and DataKind.
+
+I will assume all NGO's to have same impact for now.
+
+
+**Supportive conditions/Job Satisfaction**
+
+- I should be enjoying the work
+- Cleaning up the data will be boring, it takes up a lot of time.
+- Basic needs will be satisfied mostly (money, hours and commute)
+- Am not worried I will have too many problems learning or fitting in, my point being it is
+  not investment banking.
+- Again I look up to people in the US like my brother and other actual
+  data scientists, they seem to have time to do other things as
+  well. Not like they are working 24x7.
+- Also this is expected to be a very satisfying career according to
+  80k, due to the feedback etc...
+
+-Mentorship culture is quite common apparently according to 80k.
+
+- project management is the fulfilling part of the career as all
+analysts are just the right hand for project managers, just like my
+DL.
+
+Overall, I suspect the time to be a little more, but keeping the
+bigger picture in mind, that I am learning potential skill every extra
+hour I work, I shall not be cribbing about it then.
+
+I will rank it as a result 1 point more than DE.
+
 **Perceived ability to get a job**
+
+
+#### Management consulting
+
+Finishing an MBA allows travel into a couple of venues, of which one
+of them is MC. 80k hours has done a [complete career profile on
+them](https://80000hours.org/career-guide/reports/management-consulting/). Based on [MBAcrystalball](https://www.mbacrystalball.com/blog/2017/12/18/investment-banking-vs-management-consulting/), it appears that an MC does
+just about anything that is needed to be done to improve the
+performance of a company. The impression I get is that you are given
+challenging problems and you have to come up with solutions for it.
+
+
+**Skills**
+
+Management consulting is hyped by 80k for its [career
+capital](https://80000hours.org/career-reviews/management-consulting/). They seem to offer sufficient transferable skills. You
+actually work in different problems and become a generalist in an
+industry.
+
+>work in an industry you served as a consultant, venture capital,
+>private equity, policy/civil service, work on a “strategy team” for a
+>company. [Career Capital 80k hours](https://80000hours.org/career-reviews/management-consulting/)
+
+
+- Transferable skills 
+  - personal productivity:8.5
+  - Critical thinking, analysis and problem solving: 8
+  - ability to learn quickly: 7.5
+  - decision-making: 7
+  - social skills: 4.0
+  - management:6
+- Knowledge: 8
+
+- Personality traits
+  - Confidence: 6.5
+  
+
+**Connections**
+
+It is likely to become more valuable in the future. But it well known
+that we will meet our clients atleast in MC. And we are given lot of
+responsibility right from the
+start.  
+
+ 
+**Credentials**
+
+I think with MC you will make good credentials. I suppose you are
+solving problems after problems. The exit opportunities look aplenty,
+so I guess just knowing this is good enough.
+
+**Runway**
+
+MC's earn [30-50% of what IB's earn](https://80000hours.org/career-guide/reports/management-consulting/). At the associate level you
+earn 80k to 170k. This would probably allow you to donate in the 30%
+brackets. It should give enough runway right in the first year I
+think assuming I do not have any more loans and shit.
+
+**Personal fit**
+
+>If the mean income of a hedge fund trader is $650,000, then that’s
+>$20m over a 30 year career. If you donated half, that would be enough
+>to cover the salaries of about 5 non-profit CEOs or 2-3 academic
+>researchers, while still having a huge amount left to live on. 
+
+- Earning to give
+
+  - Chances of clearing getting >730 in GMAT (70%)
+  - Chances of clearing the scholarship criteria for RSM after
+    getting 740 (60%).
+	
+	Look at my history, I have never been the top
+    performer, of course, I can hope for things to be different, but
+    will it really be, of course I will put my heart and soul this
+	time. 60% is already a lot I guess.
+	
+  - MC jobs are highly competitive and 80k suggest to attach a 50%
+    probability with it.
+	
+  - Chances of staying within the chosen field >5 years (60%)
+  - Chances that I will deal with 60 hrs of work (85%)
+  
+  - There is a 1/8th chance of making it to partner(12.5%) by age 45,
+    which is pretty killer.
+  
+  So this makes it I barely see myself put the time and effort to make
+  partner now but if I can make 600k + bonus, why not. Only 1/8th
+  associates make partner anyway. As partner though you could earn a
+  freaking lot. We will estimate the impact later. But this is a path
+  then for earning-to-give and in case you crash and burn, you have
+  exit opportunities #career-capital.
+  
+  So a total of :1.3% <!-- Investigate this whole idea of multiplying
+  continuously, more the P numbers you have higher the chance of
+  getting a super low number -->
+  
+- Earning to give once we leave industry after 5 years
+  
+  Similar chances apply except for 
+  - Chances of moving to another industry due to stress or
+    incapability (40%)
+  - This would come to about 8%
+  - If I was able to come this far, I assume from there on it is easy
+    to get a job and advance more quickly in the industry. I don't
+    know how much I can earn, but I suspect it is atleast around 150k,
+    which is like a normal salary in the US. All the big boys in big
+    companies are MBA's. So push furthere work hard and see where it
+    takes us. I am not estimating anything more than that. 
+
+>You can generally advance more quickly in industry by starting in
+>consulting then entering industry several years later
+
+- Starting up
+
+I will use same chances as calculated before.
+
+- Working for an NGO after 8 years
+
+There are some chances of working say at the Gates Foundation or other
+NGO's. But it is not a 100% clear how this would pan out. I assume the
+same percentage of success as obtained earlier in DS.
+
+**Supportive conditions/Job Satisfaction**
+There is good feedback and training. Job satisfaction, although 60
+hours needed can be gotten better than in IB and as we have
+challenging projects it becomes more exciting. To me I am convinced,
+that it will be challenging or overwhelming. 
+
+Even if shit goes wrong try to sweat a few years and cash in on the
+exit opportunities as possible.
+
+**Impact**
+
+- Earning to give (partner after 45)
+
+	- At associate level we get 130k 
+	- after 5 years 250k
+	- after 7 years 450k
+	- 600k + bonus after 7 more years say
+
+We can expect to save 1448 lives
+
+- Earning to give by once we leave industry
+
+I will assume the mean earnings to be ~150k and from there on use a 5%
+increase compounded and 12.5 % every 5 years to compute this
+number. For some reason I assume the salary in US otherwise it
+completely doesn't make sense at all to work in Holland for example. ~
+840 lives. or if we compare it to the DS way of earning *1.3 lets say
+
+- Exit after 5 years to something else
+
+In 5 years we can save about 100-150 people, half of what can do in DE
+or DS. But again these are salaries in the US. 
+
+- Using skills earned to Startup
+
+I would use the same impact as classified earlier
+
+- Using skills earned to move to and NGO
+
+
+<!-- What happens once you exit nah mean? What skills do you got? -->
+
+
+**Exit opportunities**
+
+If MC turns out to be not for you after a few years, then MC seems to
+have decent exit opportunities. People move on to do various things,
+not exactly like a demotion.
+
+- Move to industry that you worked as a consultant 
+
+>You can generally advance more quickly in industry by starting in
+>consulting then entering industry several years later.
+
+- policy/civil service but not sure how age plays a factor.
+- VC / PE, If I can't handle MC and go to PE, then why will I choose
+  PE, which seems to be even more demanding, depending on where you
+  join.
+
+#### IB/ Finance/ Trading/ private equity /
+
+
+
+
+**Skills**
+
+Sufficient Exit opportunities in IB/PE. One can go to consulting or 
+
+Skills in finance can apparently be earned within 6 months. After that
+it is a mudane job.
+
+
+- Transferable skills 
+  - personal productivity:8.5
+  - Critical thinking, analysis and problem solving: 8
+  - ability to learn quickly: 7.5
+  - decision-making: 7
+  - social skills: 4.0
+  - management:6
+- Knowledge: 8
+
+- Personality traits
+  - Confidence: 6.5
+  
+
+**Connections** It is likely to become more valuable in the
+ future. But it well known that we will meet our clients atleast in
+ MC. And we are given lot of responsibility right from the
+ start. [Investment banking on the other hand](https://news.efinancialcareers.com/uk-en/152549/working-for-mckinsey-bain-and-boston-consulting-vs-goldman-jpm-and-morgan-stanley) is work in front of
+ a PC most of the time and meeting clients does not happen very often
+ especially within the first few years.
+ 
+**Credentials**
+
+I think with MC/IB you will make good credentials. MC it is clear that
+one will make that 
+**Runway**
+
+**Personal fit**
+
+>If the mean income of a hedge fund trader is $650,000, then that’s
+>$20m over a 30 year career. If you donated half, that would be enough
+>to cover the salaries of about 5 non-profit CEOs or 2-3 academic
+>researchers, while still having a huge amount left to live on. 
+
+- Earning to give
+
+  - Chances of clearing getting >730 in GMAT (70%)
+  - Chances of clearing the scholarship criteria for RSM after
+    getting 740 (60%) Look at my history, I have never been the top
+    performer, of course, I can hope for things to be different, but
+    will it really be, of course I will put my heart and soul this
+		time. 60% is already a lot I guess.
+  - Chances of not burning out and quitting (10%)
+  - getting a job in the top tier firm (50%)
+  
+  <!-- Maybe speaking to a few people might help .. Saw youtube video,
+  fears are well founded. But need to check private equity and hedge
+  funds and what those exit opportunities mean-->
+  
+  So a total of :2.1% <!-- Might improve the percentage -->
+  
+- Earning to give once we leave industry after 5 years
+Lets say same as in MC
+
+- Starting
+Same as in MC
+- Working for an NGO after 8 years
+Same as in MC
+
+**Supportive conditions/Job Satisfaction**
+
+- Need to kiss ass
+- Need to face time
+- long freaking hours 80-100k
+- No life what so ever but a lot of money
+- mundane work
+
+Need I go on?
+
+**Impact**
+
+- Earning to give 
+
+Assuming IB makes the same as PE and hedge funder
+According to [80k-hours-trading](https://80000hours.org/2017/05/how-much-do-hedge-fund-traders-earn/), junior traders earn 300k - 3m per
+year, this they reach within 8 years. More senior you get, the more
+crazier it gets that Sr managers earn >10m$ "easily". 
+
+Assuming average earnings of 800k over 30 years, it appears that one
+can save 3771 lives.
+
+With Management consulting one earns[ 30 to 50%](https://80000hours.org/career-guide/reports/management-consulting/) less than people in IB,
+ASsuming IB and trading get the same money, we can say that we
+probably might save <2000 lives.
+
+
+- Exit after 5 years to something else
+
+In 5 years we can save about 100-150 people, half of what can do in DE
+or DS. But again these are salaries in the US. 
+
+- Using skills earned to Startup
+
+I would use the same impact as classified earlier
+
+- Using skills earned to move to and NGO
+
+
+<!-- What happens once you exit nah mean? What skills do you got? -->
+
+
+**Exit opportunities**
+What is it?
+
+
+
+
+
+
+
+
 
 #### Programming 
 
@@ -1201,3 +1573,216 @@ words
 23 May: 1 hr of writing, and half hour of setting up other things
 
 	
+## PLan A B C
+## Tangents
+
+#### IB
+
+[Rubin and Archer ](https://www.youtube.com/watch?v=R4ibMt0kQiw)were analysts quit IB for the following reasons:
+
+- Despite putting 80-100 hrs/ week they still had to kiss ass,
+  sometimes it doesn't make 
+  
+- Exit options are good apparently
+
+- Mundane, not really, mainly ppts.
+
+- Work goes unnoticed if kissing ass is not done 
+
+- pretend to do work, when there is no work
+
+- Very competitive
+
+- Can learn the finance skills in 6 months.
+
+- analyst to associate almost needs in MBA go in private equity and
+  hedge funds (500k$)
+  
+- MBA for higher ups anyway most people.
+
+- The skills you learn in IB can be got within 6 months (finanacial modelling), you don't
+  really need to spend years working here to gain the skills
+  
+- Pure skills might be more freaking valuable or business skills that
+  will allow you to scale a company from the ground up
+ 
+- POlitics Bonus... 
+
+- Pretend to do work... 
+
+- Whether they like you are not. Unhealthy!
+
+- They might not use your work everything you sacrificed. 
+
+- He missed his cousins wedding and they still took the name out of
+the book he made.
+
+- If you focus on Statups and gaining crazy skill, then you will get
+equity. and a fulfilling career. Stick to this part of the game.
+
+----- 
+
+What is IB?
+
+Supporting companies that do mergers. Nothing sexy. As analysts
+support the bbuying selling of companies, raising capital etc...
+
+What do they do Day to Day?
+
+There is an organizational schematic. The associate will drop at 7pm
+in the evening a task of making 100 pages of document within the next
+morning with good graphs and stuff that the higher ups can deal with.
+
+Do market research, projections on excel what the company can
+	buy... they present the ppt and engage as advisor. 1-2 months
+	
+Is IB fun?
+
+Everybody is super excited. 100 hrs a week, not working on models
+every week, lot of politics, youre even changing font colors on
+things.
+
+Lot of analysts use IB as a stepping stone finance and the corporate
+world... exit opportunities. Hedge funds and private equity after 3
+years. I am not sure I am 
+
+21 years-  80-90k base ...signing bonus 10k ... bonus at the end of
+the year...  75% to 100% of annual salary. 150 to 200 k ... By the 3rd
+year you could make 250k . 150k easily @ 22 years. 100 hrs a week.
+
+
+Exit opportunities: 
+
+looks good on the resume.... good for MBA to exit to
+
+
+Avg day: 8 to 9 am start.. 3-4 deals... need ppt by 3pm.. do
+stuff... models draft by 2pm... follow up work for to other
+things...until 7 pm. 
+
+After that... you sometimes have to work until 2am and even drop off
+the stuff at your MD's house. if you go to sleep at 6 am you are still
+expected to come back to work at 10am. (get out of here)
+
+Doesn't happen everyday, but it does happen. NO Weekends
+
+168 hrs - 100 hrs work -40 hrs sleep = 28 hrs!
+
+They have breaking into startups.
+
+## Who earns the most
+
+People in management law or Finance
+
+
+## Consultant
+
+X-BCG employee is glamourous?
+
+
+
+## MBA
+
+There are couple of things one can do after an MBA, such as management
+consulting, Investment Banking Private Equity, Hedge Funds, Trading. 
+
+I barely have a clue of what each of this is. 
+
+In [this post](https://news.efinancialcareers.com/uk-en/152549/working-for-mckinsey-bain-and-boston-consulting-vs-goldman-jpm-and-morgan-stanley) the difference between an IB'er and an MC't is
+seen. 
+
+> Investment banking (IB) denotes a financial service that creates
+> capital for individuals and organizations, according to one
+> definition. Investment bankers (i-bankers, or just “bankers”) give
+> investors counsel on market strategies that can minimize their risks
+> and maximize their returns. They provide assistance for mergers,
+> acquisitions, and restructuring. Risk management is a major part of
+> the i-banker job. - [MBAcrystalball](https://www.mbacrystalball.com/blog/2017/12/18/investment-banking-vs-management-consulting/)
+
+
+>A management consultant (MC) provides expert advice to businesses on
+>operations, restructuring, and cost reduction. They are called upon
+>to create strategies to help companies make a turnaround. They look
+>at what their client companies have been doing and suggest what they
+>can do to perform better. MCs deal with different types of problems
+>and, for example, may be called upon to suggest to a marketing team
+>how to improve its product delivery or advise HR people how to create
+>a new health plan for employees.-[MBAcrystalball](https://www.mbacrystalball.com/blog/2017/12/18/investment-banking-vs-management-consulting/)
+
+It is clear from the above that one majors in Finance and the other
+just in about anything to help a company get back or improve. MC's are
+generally generalists, but somehow in the end are working for a
+particular type of industry. 
+
+Job satisfaction is expected to be better in MC than in IB, and the
+hours are not that bad as in IB. Sometimes we work weekends, sometimes
+not. IB in addition to all this shit, needs Facetime and 
+
+Pay in MC is about 30-50% of an IB'er.
+
+Pay in MC is detailed [here](https://news.efinancialcareers.com/nl-en/246284/work-in-management-consulting-how-much-you-will-make-at-mckinsey-bcg-and-bain). It appears that at Mckinsey one
+earned in the year of 2017 an average salary of 140k. Which basically
+a high performing engineer in apple can doing DS. [80k says a similar
+salary for an associate as well (80 to 170k)](https://80000hours.org/career-guide/reports/management-consulting/)
+
+**PE** is usually seen as an exit opportunity for IB. I googled what
+it is and found some finance jargon and I leave it at that. PE can be
+as bad as IB in terms of hours clocked or not depending on somethings,
+but the pay gets even higher than in IB is my understanding according
+to [this video](https://www.youtube.com/watch?v=R4ibMt0kQiw). People usually work for a few years in IB and then
+move on to PE. PE apparently has more interesting work. Hours are
+better when deals are not being made. But if in the middle of the deal
+16 hours. But PE hours for juniors might still be punishingly
+hard. Pay is same apparently according to [this source](https://news.efinancialcareers.com/nl-en/178146/honest-account-working-promised-land-private-equity), but
+somehow the environment is better and chances of a burn out are
+less. The hours still look bad according to this [quora post](https://www.quora.com/Whats-it-like-to-work-in-private-equity).
+
+**Hedge funds**
+
+ So you start at a company
+and based on the amount of success you add, you get a corresponding
+compensation. So in the beginning years it is not really high as you
+need time to learn the tricks of the game. 
+
+>We found that junior traders typically earn $300k – $3m per year, and
+>it’s possible to reach these roles in 4 – 8 years. Senior portfolio
+>managers can easily earn over $10m per year,-[80khours-hedgefunds](https://80000hours.org/2017/05/how-much-do-hedge-fund-traders-earn/)
+
+- Money is crazy. 
+- Hours are not as bad as in IB (50-60hrs). Apparently as the job
+  revolves around capital markets and market closes.
+
+As pleasant as that may sound, a brief view of what happens as [shown
+here](http://www.lifeonthebuyside.com/buy-side-analyst-good-bad-day/) wants you to get away from this as well. I cannot deal with
+these things knowingly that they will happen some time. I am not cut
+out for this, I think. I have hated it always and I would liek to add
+value in a different way.
+
+In all of these programs it is to be understood that there is crazy
+competition and you need to be the best of the best. Also there is the
+possibility of market crashing affecting you. With all the stress I
+doubt I will be able to eat sometimes, or go to the gym even.
+
+#### chances hedge fund
+Earnings need to be corrected for chances of leaving a job to more
+operational roles, future prospects of industry and personal fit.
+
+## Exit opportunities and their salaries and  direct work potential
+
+MC--> policy , startegy tesam in Google say, PE/ VC, Entrepreneurship.
+
+Work at gates foundation
+
+1/8 chance of becoming partner
+
+Continue from
+here... https://80000hours.org/career-guide/reports/management-consulting/
+
+Possibility to go higher up in the rankings
+
+50% probability that you get an MC job
+
+>Overall, of people we’ve coached, around one in four of the people
+>who entered consulting found it stressful and unenjoyable, one in
+>four enjoyed it, and the remainder thought it was a positive
+>experience with significant challenges.
