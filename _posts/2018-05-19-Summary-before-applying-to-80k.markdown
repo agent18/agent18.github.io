@@ -1425,39 +1425,43 @@ not exactly like a demotion.
 
 #### IB/ Finance/ Trading/private equity 
 
+Based on the end appendix, I assume IB, Finance, Trading and PE all to
+be similarly build regarding all the parameters I am using to compare.
+
 **Skills**
 
-Sufficient Exit opportunities in IB/PE. One can go to consulting or 
+Sufficient Exit opportunities in IB/PE. One can go to consulting even.
 
 Skills in finance can apparently be earned within 6 months. After that
 it is a mudane job.
 
+Skills are good enough to transfer jobs even to MC and likely many
+more exit opportunities occur.
 
-- Transferable skills 
-  - personal productivity:8.5
-  - Critical thinking, analysis and problem solving: 8
-  - ability to learn quickly: 7.5
-  - decision-making: 7
-  - social skills: 4.0
-  - management:6
-- Knowledge: 8
+**Connections**
 
-- Personality traits
-  - Confidence: 6.5
-  
-
-**Connections** It is likely to become more valuable in the
- future. But it well known that we will meet our clients atleast in
- MC. And we are given lot of responsibility right from the
- start. [Investment banking on the other hand](https://news.efinancialcareers.com/uk-en/152549/working-for-mckinsey-bain-and-boston-consulting-vs-goldman-jpm-and-morgan-stanley) is work in front of
- a PC most of the time and meeting clients does not happen very often
- especially within the first few years.
+It is likely to become more valuable in the future. But it is well known
+ that we will meet our clients atleast in MC. And we are given lot of
+ responsibility right from the start. [Investment banking on the other
+ hand](https://news.efinancialcareers.com/uk-en/152549/working-for-mckinsey-bain-and-boston-consulting-vs-goldman-jpm-and-morgan-stanley) is work in front of a PC most of the time and meeting
+ clients does not happen very often especially within the first few
+ years.
+ 
+ 6.
  
 **Credentials**
 
-I think with MC/IB you will make good credentials. MC it is clear that
-one will make that 
+I think with MC/IB you will make good credentials. You are making
+crazy money, you have IB written on your resume.
+
+8.0
+
 **Runway**
+
+After getting into IB runway might be crazy, but until then, the same
+runway as in DE or DS exists.
+
+7.
 
 **Personal fit**
 
@@ -1470,26 +1474,25 @@ one will make that
 
   - Chances of clearing getting >730 in GMAT (70%)
   - Chances of clearing the scholarship criteria for RSM after
-    getting 740 (60%) Look at my history, I have never been the top
-    performer, of course, I can hope for things to be different, but
-    will it really be, of course I will put my heart and soul this
-		time. 60% is already a lot I guess.
+    getting 740 (60%) (same as in MC)
   - Chances of not burning out and quitting (10%)
   - getting a job in the top tier firm (50%)
+  - Chances of staying for more than 5 years (10%)
+  
+  If in MC most people don't make partner and only 12.5% do, in IB I
+  consider it to be even less.
   
   <!-- Maybe speaking to a few people might help .. Saw youtube video,
   fears are well founded. But need to check private equity and hedge
-  funds and what those exit opportunities mean-->
+  funds and what those exit opportunities mean. Based on the footnotes
+  I fuond online, they are expected to be equally fucked up.-->
   
-  So a total of :2.1% <!-- Might improve the percentage -->
+  So a total of :0.2%
   
 - Earning to give once we leave industry after 5 years
+
 Lets say same as in MC
 
-- Starting
-Same as in MC
-- Working for an NGO after 8 years
-Same as in MC
 
 **Supportive conditions/Job Satisfaction**
 
@@ -1500,6 +1503,10 @@ Same as in MC
 - mundane work
 
 Need I go on?
+
+I am really afraid of the idea of such a life.
+
+3.
 
 **Impact**
 
@@ -1513,93 +1520,44 @@ crazier it gets that Sr managers earn >10m$ "easily".
 Assuming average earnings of 800k over 30 years, it appears that one
 can save 3771 lives.
 
-With Management consulting one earns[ 30 to 50%](https://80000hours.org/career-guide/reports/management-consulting/) less than people in IB,
-ASsuming IB and trading get the same money, we can say that we
-probably might save <2000 lives.
-
-
 - Exit after 5 years to something else
 
 In 5 years we can save about 100-150 people, half of what can do in DE
-or DS. But again these are salaries in the US. 
-
-- Using skills earned to Startup
-
-I would use the same impact as classified earlier
+or DS.
 
 - Using skills earned to move to and NGO
+
+NGO's not sure what skill applies. I don't have the confidence in
+selecting this, so I am going to just assume the same figures as in
+MC.
 
 
 <!-- What happens once you exit nah mean? What skills do you got? -->
 
+<!-- Should I investigate trading a bit further? or hedge funds? -->
 
 **Exit opportunities**
 What is it?
 
-#### Programming 
 
 
-**Skills**6.4
+#### Programming, Machine learning PhD 
 
 Apparently, learning to program could also be a gateway to DS,
 Quantitative Finance, tech entrepreneurship, research and freelance
 development. Useful in a multitude of industries, highly
-transferable. 
+transferable. But I am far from being a programmer. I still think DS
+is the first place to start, as it allows me to immediately move to
+the other industry.
 
-- Transferable skills 5.6
-  - personal productivity:6 
-  - Critical thinking, analysis and problem solving: 7.5
-  - ability to learn quickly: 7
-  - decision-making: 5.5
-  - social skills: 3.0
-  - management:4
-- Knowledge: 8
+Also I am not sure how I will compete with all those programmers who
+have been programming since they were kids. So I need time and a lot
+of it. The same goes for Machine Learning PhD. 
 
-- Personality traits
-  - Confidence: 6
-  
+These could result in being the most fulfilling careers, but that is
+not the only motive here. 
 
-**Connections**
- It is likely to become more valuable in the future
- 
-**Credentials**
-
-**Runway**
-
-**Personal fit**
-
-**Supportive conditions/Job Satisfaction**
-
-**Impact**
-
-
-
-#### Machine learning PhD
-
-Its possible to go for it, I guess, but I am not sure of so many
-things, such as the skill required to get in in the first place. If at
-all anything, I will start with DS and see how I can branch to ML or
-Programming. In order to put say 1000 hrs of work, it would take me a
-year atleast, and before that I am not sure anyone is interested in me
-doing a PhD. But I can look at a masters followed by a PhD route. But
-let's see. It's all right now too far-fetched to me.
-
-
-**Skills** 8
-
-It a PhD. You learn more about programming and statistics for >10000 straight.
-
-**Connections**
-
-**Credentials**
-
-**Runway**
-
-**Personal fit**
-
-**Supportive conditions/Job Satisfaction**
-
-**Impact**
+So for now I will start with 
 
 #### Economics PhD
 
@@ -1622,6 +1580,17 @@ Everything can be as high but it is not really a personal fit at all.
 **Supportive conditions/Job Satisfaction** 7
 
 **Impact**
+
+#### Other interesting options
+Mixture of 2 industries
+
+DS + DE
+
+DS + finance
+
+Programming + finance
+
+
 
 #### Working @ effective non profits
 
@@ -1704,7 +1673,7 @@ spending the next 10 years prepping for it in essence, we would have
 	
 
 #### Why not an MBA?
-
+	
 I suspect I am seeing signs and strong signs pointing me to do
 otherwise. I think I need to clearly write it all out. It is an exit
 strategy and thats all it is. Maybe you can do other things? Get in
@@ -2104,6 +2073,14 @@ Continue excel to detail out more info like salary, etc... etc..
 
 Discuss with Ram ... estimating prolties like when you add more and
 more, the value become sless.!
+
+Where can I come in with my innovation?
+
+Where can I be most useful?
+Because there are people already doing things, why should I go there,
+when I do not know if I can add value to it. Earning to give I
+understand, but direct work not sure.
+
 ## Rant
 
 How do I want to make the excel sheet with all the numbers?
