@@ -1548,16 +1548,25 @@ Quantitative Finance, tech entrepreneurship, research and freelance
 development. Useful in a multitude of industries, highly
 transferable. But I am far from being a programmer. I still think DS
 is the first place to start, as it allows me to immediately move to
-the other industry.
+the other industry and start gaining experience.
 
 Also I am not sure how I will compete with all those programmers who
 have been programming since they were kids. So I need time and a lot
-of it. The same goes for Machine Learning PhD. 
+of it. The same goes for Machine Learning PhD. So instead of staying
+in DE I will go to DS, which already has some programming. I will pick
+it up from there more about programming.
+
+<!--  I think I need to understand what it means to programm. i.e, -->
+<!--  what job I can do and what is the min. requirement to do that. -->
 
 These could result in being the most fulfilling careers, but that is
 not the only motive here. 
 
 So for now I will start with 
+
+But maybe then you decide to go into programming instead of DS..
+
+<!-- need to check this out instead -->
 
 #### Economics PhD
 
@@ -1567,19 +1576,89 @@ have the means or the scope to go into this any further.
 
 Everything can be as high but it is not really a personal fit at all.
 
-**Skills**: 8
 
-**Connections**:7
+**Skills**: 9
+
+- Excellent job prospects
+
+Lowest unemployment rate amongst any science and engineering PhD's
+
+
+- Can go into wide variety of jobs after PhD (highly transferable?)
+ 
+  Academia as well as jobs in policy, think tanks, NGO research, World
+  banks, IB, Consulting
+  
+- Good safety net if not in Academia
+
+**Connections**:6
+
+Probably not much, but you get credentials which are very good which
+can allow you to get connections. No during a PhD I suppose.
 
 **Credentials**:8
 
-**Runway**:8
+PhD in Economics. Gives you credentials to go into some of the most
+important direct work jobs.
+
+<!--  talk think tanks to kat's friend -->
+
+**Runway**: 6
+
+It is what comes with a DE. Once on an Eco PhD it has very low pay, no
+savings. but after that there is of course no problem. DE is what
+should account for its current runway I guess. So unfortunately... 6
 
 **Personal fit** : 2
 
+- Good at math and enjoy formal models in economics
+
+- 70+ hours of study per week (10 hrs a day every day)
+
+- Love intellectual pursuits and have a strong drive to do self-
+directed research
+
+<!-- You mean like what am doing now? -->
+Have no idea what economics is and will probably need 
+
+- Chances of getting 165+ GRE?
+- prepared to work for long hours
+- research roles interest
+
+Need proven math ability to enter...
+
+>An economics major isn’t required but you need proven math ability
+>and it helps to have taken mathematical economics classes.
+
+<!-- don't knwo what sort of economics capabilities I might have? -->
+
+Look more[ here (person from non-quants background)](https://80000hours.org/2015/06/advice-on-entering-a-us-economics-phd-from-the-uk-with-a-non-quantitative-background/) and [here (complete
+guide to getting an Economics PhD)](https://qz.com/116081/the-complete-guide-to-getting-into-an-economics-phd-program/) 
+
 **Supportive conditions/Job Satisfaction** 7
 
+
+Very solid safety net
+
 **Impact**
+Academic: Chances to do research in high-prio areas 
+
+Academic salary median is at 108k$
+
+Non-academic jobs and academic jobs seemed to be focused on direct
+impact.
+
+>You gain a broad set of tools for understanding how the social world
+>works, which is helpful for evaluating causes and interventions. This
+>may help you better evaluate your future career options to have more
+>impact. A notable example of this in action is the founding of
+>GiveDirectly (one of GiveWell’s top recommended charities), which was
+>founded by economics PhD students.
+
+<!-- what abou tan economics master? -->
+
+Also exists an advocacy potential, through journalism, writing books
+and influencing policy through your research.
 
 #### Other interesting options
 Mixture of 2 industries
@@ -2061,6 +2140,115 @@ Possibility to go higher up in the rankings
 >four enjoyed it, and the remainder thought it was a positive
 >experience with significant challenges.
 
+## Economics Phd
+
+Non quantitative background would need additional training. Being a
+ME, I am not sure what I need.
+
+165+ in GRE is definitely achievable with some training. 
+
+
+### Personal fit
+
+I don't know how much of a fit it is. So I am trying to estimate my
+fit..
+
+In [here (80k non-quants bc help)](https://80000hours.org/2015/06/advice-on-entering-a-us-economics-phd-from-the-uk-with-a-non-quantitative-background/) I find that it is rather hard to
+get an Economics PhD, if we haven't done MATH or ECONOMICS. Atlest
+that the switch wont be straightforward. 
+
+Although I am in Engineering, the switch we are looking according to
+the link above seems to be 1-3 years, i.e, doing a transition course
+and then a masters and gathering up some decent references and then
+trying to get a PhD.
+
+I think it makes sense to consider what happened. It appears that
+University of Florida (UF) is ranked 105 in 2015, the year I had
+joined and TU delft is ranked 17 for mechanical engineering according
+to [here](https://www.topuniversities.com/university-rankings/university-subject-rankings/2015/engineering-mechanical). Checking on another site informs me that TU delft is
+fucking ranked 18. Get out of here!
+
+That is going for me to say that I have actually been studying here
+instead of in the US. 
+
+The credentials that got me here in Mehanical engineering
+
+Although I do see really fucking stupid people overall in TUDELFt,
+unfortunately even in material science. People who are so stupider
+than me. Who basically studied shit in their bachelors and yet got
+admitted to rank 18 university. 
+
+To further comment about TU delft. I see that, even in my batch, there
+were some really intelligent people or rather, people who have done
+some realted work on a subject before, but I could match their
+intelligence by putting in more hours than they did with their social
+life. 
+
+The master that I joined also had one really dumb person, who somehow
+managed to finish it. My problem is TU Delft although a credential
+doens't reflect my capability. Although, I would say I will be inthe
+80% of my class. mostly. I am not very dumb or anything, and towards
+the 2nd year, I also earned quite some >9s in my subjects in subjects
+that had a lot of math involved, also dynamics and the like. This I
+can highlight for the team.
+
+Coming back I cannot claim crazy references to get an eco phd. I
+suspect I have better references now, example, Rixen, Matthijs from TU
+Munich and Tu delft, and maybe Sandipan or Palram from IIT. Mostly I
+should just do some economics course and score highly there say even
+on course era or something. I need to get evaluated how good I could
+be to get an Eco Phd from then on.
+
+I think speaking to an Eco Phd guy or looking at the two guides I have
+in front of me, shed more light.
+
+But according to [ here (person from non-quants background)](https://80000hours.org/2015/06/advice-on-entering-a-us-economics-phd-from-the-uk-with-a-non-quantitative-background/), 
+
+>The most straightforward route is to do either the one year economics
+>diploma at Cambridge or the two-year masters at LSE (which has a year
+>diploma at the beginning). These courses are designed for people who
+>have done other subjects for undergrad, and if you do well in the
+>first year you can progress on to do a masters. If you perform highly
+>in the masters program, and line up some good references, you stand a
+>shot at getting into a US PhD program at the end (and an even better
+>shot of getting into an UK PhD).
+
+Sounds like a 60% chance at best.
+
+a) I don't have the money now to do a diploma 
+b) If even then you "only have a shot", its not that good of a bet to
+be placed.
+
+Apparently a lot of harvard graduates have done a masters and then a
+year of work in research to obtain a stellar reference, that gets them
+some place good. 
+
+[Certainity of finding soe job exists for sure](http://noahpinionblog.blogspot.com/2013/05/if-you-get-phd-get-economics-phd.html) according to Noah
+
+My uncertainity lies in how do you define good?
+
+How much time I need to prep for an eco master?
+
+Frankly speaking Harvard is obviously not for me.
+
+
+### Am I good enough?
+
+- High grade (min. 3.5+)
+
+Based on [authority conversion of dutch score to US](https://www.studyinholland.nl/documentation/grading-systems-in-the-netherlands-the-united-states-and-the-united-kingdom.pdf) and wiki's [internal
+US conversion](https://en.wikipedia.org/wiki/Academic_grading_in_the_United_States), I think my grade is 4.0/4.0. [Another source](https://www.mastersportal.com/articles/764/how-are-grades-different-in-the-netherlands-compared-to-the-us.html)
+suggests that my grade 3.75. Both seems to be decent. 
+
+- I will work hard on quants and try to obtain 165+ in GRE
+
+I think I can. But Verbal I have no control over.
+
+- Good reference letters
+
+This is the thing that I have not much idea about.
+
+
 ## Todo
 
 copy 80k ranking in the same excel, 
@@ -2080,6 +2268,18 @@ Where can I be most useful?
 Because there are people already doing things, why should I go there,
 when I do not know if I can add value to it. Earning to give I
 understand, but direct work not sure.
+
+
+### Ideas
+
+What If I take another 6 months to evaluate by trying out some things
+like economics, MBA etc... 
+
+MEanwhile also write about persuation.
+
+Did anyone ask you everyone asks you how your weekend was ? 
+
+Godfordome, what about my goals?
 
 ## Rant
 
