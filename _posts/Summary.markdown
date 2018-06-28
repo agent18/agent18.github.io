@@ -1619,152 +1619,37 @@ so after 7 years not sure.
 
 **Personal fit** : 2
 
-1. Success here is defined as getting into a government organization and
-getting the [rare chance](http://allegedwisdom.blogspot.com/2017/03/the-story-of-lucky-economist.html) of making crazy impact (to be read as 400
-lives over a lifetime by a particular act) in addition to donations
-possible as a result of the job.
-
-2. Success could also be defined as the impact of finding a job that
-   earns >120k $
-
-For all this first I need to answer the probability of getting in top
+First I need to answer the probability of getting in top
 20 colleges if I start pursuing Econ Phd from now.
 
 - Chances of getting 165+ in GRE quants (85%)
 
-Good at math and enjoy formal models in economics? 
+I love math. I have always loved it. I love it when things get
+technical. I love LA, Calculus, ODE etc... It has all been part of my
+Gate training and I didn't shy from learning from very good Authors.
+
+- Chances of learning Economics enough to get into top 20? (70%)
 
 >An economics major isn’t required but you need proven math ability
 >and it helps to have taken mathematical economics classes.
 
 I don't know anything about economics and need to see how I fare by
-taking some courses.
+taking some courses. I can take some courses and see how I fare. I am
+not sure this is proof, but I think I can do better in math with
+practice and I am sure it would be fun. Chances that I fare well
+(i.e., scoring>80/100) once I take a few econ courses I guess is 70%
 
-I can take some courses and see how I fare
- 
-I love math. I have always loved it. I love it when things get
-technical. I love LA, Calculus, ODE etc... It has all been part of my
-Gate training and I didn't shy from learning from very good Authors.
+- Chances of a getting an Econ Phd within top 20 (other factors) (70%)
 
-I am not sure this is proof, but I think I can do better in math with
-practice and I am sure it would be fun.
+Top 10 is more respected with better placement at tenure track and has
+[less variance in results](https://drive.google.com/file/d/0B2NkhkJxVzqbTG1PZFNyMEN0bEU/view). But I think it needs more work and is
+quite far-fetched for me currently.
 
-Chances that I fare well (i.e., scoring>80/100) once I take a few econ
-courses
-
-80%.
-
-proven math ability
-- prepared to work for long hours
-  
-  80%
-
-70+ hours of study per week (10 hrs a day every day)- 80k hours
-  possible?
-  
-Atleast during the first year according to  [econdjobrunours](https://www.econjobrumors.com/topic/how-many-hours-do-you-work-at-various-phases-of-your-phd-studies/page/2).
-
-1 year should not be a problem, after that it could vary is the
-impression I get. I will leave this at that!
-
-- Research roles interest 80%
-
-Love intellectual pursuits and have a strong drive to do self-
-directed research?
-
-<!-- You mean like what am doing now? -->
-
-Not sure. I have done some research in the past with my thesis and my
-work in IIT, I am not really sure how different this is, but as long
-as I can make it challenging and solve amazing problems I can't see
-why it would be a problem.
-
-I am quite afraid of the anxiety due to unsupervised thesis work.
-
-But if your research is completely your own, I would take the most
-important topic for me and try to do and learn everything I can about
-it. I would take something like poverty for example.
-
-
-
-**Personal fit** : 2
-
-1. Success here is defined as getting into a government organization and
-getting the [rare chance](http://allegedwisdom.blogspot.com/2017/03/the-story-of-lucky-economist.html) of making crazy impact (to be read as 400
-lives over a lifetime by a particular act) in addition to donations
-possible as a result of the job.
-
-2. Success could also be defined as the impact of finding a job that
-   earns >120k $
-
-For all this first I need to answer the probability of getting in top
-20 colleges if I start pursuing Econ Phd from now.
-
-- Good at math and enjoy formal models in economics? 
-
-Don't know anything about economics.
-
-- 70+ hours of study per week (10 hrs a day every day)- 80k hours
-  possible?
-  
-Atleast during the first year according to  [econdjobrunours](https://www.econjobrumors.com/topic/how-many-hours-do-you-work-at-various-phases-of-your-phd-studies/page/2).
-
-1 year should not be a problem, after that it could vary is the
-impression I get. I will leave this at that!
-
-- Love intellectual pursuits and have a strong drive to do self-
-directed research?
-
-<!-- You mean like what am doing now? -->
-
-Not sure. I have done some research in the past with my thesis and my
-work in IIT, I am not really sure how different this is, but as long
-as I can make it challenging and solve amazing problems I can't see
-why it would be a problem.
-
-I am quite afraid of the anxiety due to unsupervised thesis work.
-
-But if your research is completely your own, I would take the most
-important topic for me and try to do and learn everything I can about
-it. I would take something like poverty for example.
-
-- Chances of getting 165+ GRE?
-
-	85%
-	
-- prepared to work for long hours
-
-	80%
-	
-- research roles interest
-
-	80%
-	
-Need proven math ability to enter...
-
->An economics major isn’t required but you need proven math ability
->and it helps to have taken mathematical economics classes.
-
-I can take some courses and see how I fare
- 
-I love math. I have always loved it. I love it when things get
-technical. I love LA, Calculus, ODE etc... It has all been part of my
-Gate training and I didn't shy from learning from very good Authors.
-
-I am not sure this is proof, but I think I can do better in math with
-practice and I am sure it would be fun.
-
-Chances that I fare well (i.e., scoring>80/100) once I take a few econ
-courses
-
-80%.
-
-<!-- don't knwo what sort of economics capabilities I might have? -->
-
-- Chances that I get an Econ Phd
-
-Look more[ here (person from non-quants background)](https://80000hours.org/2015/06/advice-on-entering-a-us-economics-phd-from-the-uk-with-a-non-quantitative-background/) and [here (complete
-guide to getting an Economics PhD)](https://qz.com/116081/the-complete-guide-to-getting-into-an-economics-phd-program/) 
+Looking here (person from non-quants
+background)](https://80000hours.org/2015/06/advice-on-entering-a-us-economics-phd-from-the-uk-with-a-non-quantitative-background/)
+and [here (complete guide to getting an Economics PhD)](https://qz.com/116081/the-complete-guide-to-getting-into-an-economics-phd-program/) regarding
+what is needed to get into the top 5, already informs me sufficiently
+that top 20 might still be hard.
 
 Of course being from a "non-quants background", I don't know what
 exactly applies to me when compared to the journey of this [philosophy
@@ -1772,35 +1657,71 @@ student](https://80000hours.org/2015/06/advice-on-entering-a-us-economics-phd-fr
 top 20 and I think the requirements could be relaxed. I need some
 consultation though.
 
-<!-- I need some advice from an Econ major to estimate this -->
+- prepared to work for long hours (90%)
 
-Right now I am thinking that a few courses should get me en route to
-an econ PhD
+I have done it in the past. Currently, I clock about 11 hrs on 4
+weekdays per week, and still manage to go to the gym. 80k hours says
+that I should be prepared to do 70+ hours a week (10 hrs a
+day). Atleast during the first year of studies according to
+[econdjobrunours](https://www.econjobrumors.com/topic/how-many-hours-do-you-work-at-various-phases-of-your-phd-studies/page/2). So I don't really see it as a problem, if this
+is the way of life for the next 5 years then there might be a problem,
+but I am not too much worried about it.
 
+- Research roles interest (80%)
 
-- Chances for needing a citizenship to do good?
+Love intellectual pursuits and have a strong drive to do self-
+directed research? Can what I am doing now be considered as an answer
+to the question?
 
-not sure if citizenship in the US is needed. What about doing this in
-other countries.
+Anyways, Not sure. I have done some research in the past with my thesis
+and my work in IIT, I am not really sure how different this is, but as
+long as I can make it challenging and solve amazing problems
+(intellectually satisfying) I can't see why it would be a problem. +
+with available extra hours I would like to see what else I can work on
+and improve.
 
-- Chances of getting a job?
+I am quite afraid of the anxiety due to unsupervised thesis work
+though.
 
->I completed my PhD in Econ (well Applied Econ) last year at an unranked school, and had little trouble finding a good job. The academic job market wasn't very receptive, but I received a fair amount of interest from different businesses, and ended up in risk management at a bank. 
+But if your research is completely your own, I would take the most
+important topic for me and try to do and learn everything I can about
+it. I would take something like poverty for example.
+
+So the chance of completing decently an Econ Phd within top 20 is: 30%
+
+1. Success here is defined as getting into academia or a government
+organization and getting the [rare chance](http://allegedwisdom.blogspot.com/2017/03/the-story-of-lucky-economist.html) of making crazy impact
+(to be read as 400 lives over a lifetime by a particular act) in
+addition to donations possible as a result of the job.
+
+Everyone gets a job in the end with an Econ Phd. But being able to
+save another 400 lives [comes rarely.](http://allegedwisdom.blogspot.com/2017/03/the-story-of-lucky-economist.html)+ another 100 lives based on
+advocacy. I weigh this at 20%. Seems high but still.
+
+This puts us at 6% in total. For lack of better ways this 6% is also
+representative of the academic careers even.
+
+2. Success can still be achieved with MC or other private sector jobs
+
+- Chances of finding a job in general is high (85%)
+
+>I completed my PhD in Econ (well Applied Econ) last year at an
+>unranked school, and had little trouble finding a good job. The
+>academic job market wasn't very receptive, but I received a fair
+>amount of interest from different businesses, and ended up in risk
+>management at a bank.
 
 >Most of my peers had similar success finding work. It seemed to me
 >that getting a tenure-track job from an unranked school is
 >difficult. But, getting a good, well paying non-academic job was
->pretty easy.
+>pretty easy. -[Noahpinion comments](http://noahpinionblog.blogspot.com/2013/05/if-you-get-phd-get-economics-phd.html)
 
-According to [Noahopinion](http://noahpinionblog.blogspot.com/2013/05/if-you-get-phd-get-economics-phd.html) there seems to be anecdotal evidence
-that even with top 50 one should be fine with regards to getting a job.
-
-<!-- need some more advice regarding this -->
+This puts us at a personal fit of 24%.
 
 **Supportive conditions/Job Satisfaction** 7
 
 
-Very solid safety net, except for in the PhD where there is less
+Very solid safety net, except for during the PhD where there is less
 feedback and more anxiety. Either you become a tenure track academic,
 or a non-tenure track academic or go to a job in policy or consulting
 etc...
@@ -1809,19 +1730,22 @@ It is known that Economics PhD can be intellectually satisfying.
 
 **Impact**
 
-I think here we need to really classify what are the different
-things we are going to consider as impact. 
+1. Impact including the [rare chance](http://allegedwisdom.blogspot.com/2017/03/the-story-of-lucky-economist.html) would be
 
-Maybe not here but in personal fit. I am going to retrim that section
-to make more sense and not appear bleau
+	- impact of the rare chance 400 lives
+	- impact due to advocacy 100 lives (pure guess) 
+	- impact due to a jobs paying greater a median acdemic salary of
+		108k Compounded at 4% with inflation of 2%, 20% donations and
+		10% hike every 5 years (243 people)
+		
+In total 750 lives
 
-First I assume that 
-Academic: Chances to do research in high-prio areas 
+2. Impact not including the [rare chance](http://allegedwisdom.blogspot.com/2017/03/the-story-of-lucky-economist.html) would be 
 
-Academic salary median is at 108k$
-
-Non-academic jobs and academic jobs seemed to be focused on direct
-impact.
+	- impact of an MC consulting job lets for 30 years even
+      considering leaving it and moving into other industries
+	  is about 500 lives.
+	- impact due to advocacy 100 lives (pure guess) 
 
 >You gain a broad set of tools for understanding how the social world
 >works, which is helpful for evaluating causes and interventions. This
@@ -1830,13 +1754,227 @@ impact.
 >GiveDirectly (one of GiveWell’s top recommended charities), which was
 >founded by economics PhD students.
 
-<!-- what abou tan economics master? -->
-
 Also exists an advocacy potential, through journalism, writing books
 and influencing policy through your research.
+<!-- what abou tan economics master? -->
 
+	
+#### Working at an effective Altruism organization 
+
+**Skills**
+
+DS or research as an Analyst/content writer is as far as I see myself
+going in. When I think of skills, I think of transferable
+skills. Skills that will make me so valuable that I can transfer
+ideally transfer from one profession to another.
+
+The best skill is given by MC is the first assumption.
+
+With such a research job, I am not sure where I can go next other than
+within the EA community.Over the course of a few years, I rely heavily
+on my connections to help me out for another job. Once I spent 6-7
+years in it, what will I do next if it doens't work out? Rather than
+that EA jobs seem to suck with transferable skills, unless in
+management or administration is my guess. Research jobs where I
+currently see my best fit involve lot of critical thinking etc... but
+what type of jobs in the private sector can I go to afterwards, let
+alone them paying a lot.
+
+I suspect the job to be demanding and so I would say learning other
+things on the side might be a little hard.
+
+There is very litle on the job training, and lack of senior
+mentorship. And the expertise is tied to the EA movement (unlike MC
+for example).
+
+>People sometimes worry that working at effective altruist
+>organisations doesn’t lead to concrete foreseeable future career
+>options. As we’ve argued above, you are likely to build skills and
+>connections which mean you’ll have good opportunities in the
+>future. However you might still feel uneasy not knowing what the
+>future holds, even if on reflection you believe that you’ll have good
+>future career options.
+
+For the reasons stated above I give it a 6.5 to factor in some
+uncertainty.
+
+Yes it seems to be good with connections and credibility but not
+really transferable skill. You can however work different roles or
+mixed roles based on ones fit.
+
+<!-- what about the other things you can learn? -->
+
+**Connections**
+
+There is little doubt regarding the connections I could make when I
+want to be in the EA community [as exclaimed in this epic article by
+80k ](https://80000hours.org/career-reviews/working-at-effective-altruist-organisations/#how-good-is-the-career-capital) and [by the person who worked in GiveWell](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/). But my
+connections seem to only belong here and around here. 
+
+I think I am again saying that I can't hop between industries but only
+within the EA movement. 
+
+I am talking as though that is a bad thing. Well 80k exclaims, what if
+EA grows down in popularity, I feel like I would be completely
+abandoned. Where as if I did MC or DS I find my relavance in a wide
+variety of places.
+
+>If you think the EA community will keep growing, then the value of
+>these connections just gets stronger over time.
+
+But as I am looking for connections to improve my chances of success
+in EA, I give it a solid 8.
+
+**Credentials**
+
+They are less prestigious than Google, Mckinsey or World bank, but
+nevertheless some of the organizations have terrific credentials like
+having gone through Y-combinator etc...
+
+>Can get impressive achievements due to high levels of responsibility
+> Some impressive affiliations (Y Combinator, Oxford, Good Ventures)
+> Less brand recognition
+
+Sounds like an 7. I don't think though that it beats DS cred. Atleast
+there is some uncertainty.
+
+**Runway**
+
+I think I can transition to this job say by doing an internship at one
+of the foundations. So this is could be sooner than I think. Of course
+the current Runway of DE will make sense for it which would stand at
+6.0. But also the earnings of EA work are very low and I am going to
+say that with EA getting an 18 month runway would take even more
+time. As they almost pay the lowest.
+
+Without 18k in the bank don't go into this?
+
+>As with other startups, there is a risk of your organisation running
+>out of funding (though this hasn’t happened to any of the major
+>organisations), or substantially changing its strategy, meaning you
+>could lose your job.
+
+**Personal Fit**
+
+I think I am not yet a personal fit, but I can quickly get up to speed
+with what they want and start working for them asap.
+
+- Ability to gain Experience (80%)
+
+> A track record of engaging with research in the community and making
+> productive contributions to it.
+  
+  I don't know how I am supposed to get experience before working in
+  an EA organization.
+  
+  But I can try doing other things, like starting an EA org in my city
+  or working 80k or someone offline, producing some work for them and
+  showing how much I am worth.
+  
+  I could also do an internship now or apply for it and plan for 2
+  months next year if this is the highest impact career. i.e, do
+  everything in my capability to get all the experience I need. 
+  
+  I mean what else is there to do in life.
+  
+- Relevant disciplines can be easily studied and skills built (85%)
+
+>Having studied relevant disciplines at university, such as economics,
+>statistics, philosophy or another quantitative field, helps, but
+>isn’t necessary.
+
+This I can compensate for by working on it by myself at home.
+
+Personal fit involves how successful I will be if I pursue an EAO and
+work with them and create the impact I need.
+
+Seems like a very complex problem 
+
+- Care about EA (90%)
+
+> They really care about effective altruism, and are happy to talk
+> about it all day.
+
+What else is there to do in life?
+
+- Can you manage your time and be efficient and self-directed? (85%)
+
+With more responsibility I will thrive. I thrive in new situations and
+learn quickly literally anything. I have demonstrated my level at my
+current company and my internship atleast (based on the feedback I
+have received. 
+
+I am always looking for hard problems to solve.
+
+>They’re self-directed, able to manage their time well, they can
+>create efficient and productive plans, and keep track of complex
+>projects.
+
+I think I would waste time, but with regular feedback I can
+improve.
+
+I have never really been on high alert except for during my work at
+IIT or my entire masters. But then basically I worked all the time to
+ensure success, as nothing was more important than this.
+
+I am not sure how good I am, but I think I can manage a decent job and
+will get better based on how important the job is to me I guess.
+
+- Managing in case you loose your current job or the startup crashes
+  (80%)
+
+It is possible the EA movement as a whole loses it's momentum? If I
+loose my job, atleast I am part of the community and would have built
+some contacts.
+
+If I loose my job right in the beginning, and can't find anything
+tangible, then I can always go back to where I belong. If I loose my
+job for whatever reason say after 5-10 years then it appears I should
+have enough contacts to pull me through this.
+
+i.e., Exit opportunities earlier are fine and later might revolve
+around how I set it up with my connections.
+
+But it is scary, say you have to move to the US, and then you find
+that you loose your job, yes it is scary. But that is with any startup
+and sometime you got to take your chances, with a good plan C
+
+In total I would have 41.6%.
+
+
+**Impact**
+
+- Looking at number of lives due to this direct work
+
+I assume working at an Effective EAO will allow me to save 970 lives
+as detailed in the appendix. or more.
+
+Also...
+
+- Talent constrained vs funding constrained
+
+Many organizations are talents
+
+**Exit options**
+
+>- Well positioned for senior positions in EA organizations
+
+>- Connections in EA community allow exits into wide range of sectors
+
+Perfect.
+
+Main point with any career is build your connections and create value.
+
+What about don't do direct work yet?
+
+**Satisfying conditions**
+
+I really hope. It's going to be EA 24*7? Let's see.
+
+8.0 is the guess.
 
 #### Other interesting options
+
 Mixture of 2 industries
 
 DS + DE
@@ -1844,9 +1982,6 @@ DS + DE
 DS + finance
 
 Programming + finance
-
-
-
 
 #### Working @ effective non profits
 
@@ -1941,10 +2076,6 @@ do need relavant experience, sometimes lilke, social sciences etc...
 
 The places I am targetting appears that all I need is crazy as
 motherfucking skill, thats it. interpersonal or whatever.
-
-
-
-
 
 ---
 
@@ -2104,6 +2235,11 @@ words
 	
 ## PLan A B C
 ## Tangents
+
+
+
+
+
 
 #### IB
 
@@ -2465,6 +2601,72 @@ I think I can. But Verbal I have no control over.
 
 This is the thing that I have not much idea about.
 
+  
+#### Working @ effective altruism organizations
+
+**Basic qualifications**
+
+>If you’re a highly self-motivated individual who cares deeply about
+>the ideas of effective altruism, we think it’s one of the
+>highest-impact things you can do with your career.
+
+>If you’re a good fit for one of the positions, and believe in the
+>ideas of effective altruism, we think that working at an EA
+>organisation is one of the highest-impact things you can do with your
+>career.
+
+[Why?](https://80000hours.org/career-reviews/working-at-effective-altruist-organisations/#why-is-working-at-an-ea-organisation-high-impact)
+
+Types of roles
+- research 
+- marketing and outreach
+- product management
+- operations
+- Management
+
+>Meet the leaders of the organisations by attending EAG
+>conferences. Demonstrate your fit by commenting on organisations’
+>blogs, volunteering at EA Global conferences, helping to run local EA
+>groups, and doing freelance work and internships. 
+
+>If you’re a good fit for one of the positions, and believe in the
+>ideas of effective altruism, we think that working at an EA
+>organisation is one of the highest-impact things you can do with your
+>career.
+
+
+But won’t I be replaceable? 
+
+>Some people worry that since a lot of people want to work at
+>effective altruist organisations, if you don’t take a job, someone
+>else who’s capable will do it, so you won’t have much impact. They
+>also often think that they should earn to give instead – take a high
+>earning job and donate to these organisations, since their donations
+>won’t be replaceable.
+
+Exactly what I was thinking.
+
+**Impact**
+
+>To get a sense of how much value you create by working at an EA
+>organisation, we asked the organisations how much funding they would
+>have traded for their most recent hire. They gave an average of
+>$126,000 – $505,000 and a median of $77,000 – $307,000 per year.4
+>Some of the organisations gave figures as high as $1m. There is
+>incentive to inflate these figures in order to attract hires,5 but it
+>at least suggests that these hires are expected to have a major
+>positive impact on the organisation.
+
+>This is substantially more than most people could donate, even if
+>they work in one of the highest-paying industries. This suggests that
+>if you could get one of these jobs, your personal fit is similar to
+>other recent hires, and you think these organisations are effective,
+>it would be better to do that than to earn to give.
+
+#### Working @ effective altruism organizations TO BE SENT BACK 
+
+**Skills**
+
 
 ## Todo
 
@@ -2489,7 +2691,10 @@ understand, but direct work not sure.
 
 - There are others to do these kind of things, what is your
   contribution then? 
-  
+
+<!-- Settling the debate of number of lives saved -->
+
+<!-- Add? job security? -->
 ### Ideas
 
 What If I take another 6 months to evaluate by trying out some things
@@ -2532,30 +2737,3 @@ From DE impact NGO
 ## Success
 
 	What do you think you will kill? and what is the evidence?
-## Emacs question draft
-[![issue][1]][1] [![issue2][2]][2]
-
-## Problem
-
-There is severe lag(>10s) in my markdown document (14k words) which I run within emacs. It appears that Markdown-mode seems to be computing something everysingle time I type a character and renders emacs unusable. I suspect it has to do with the above 2 pictures. The color rendering changes with every character.
-
-## Things I did
-
-Re-installed markdown-mode (to the latest available one), looked for a while on stack. Tried to remove the coloring scheme from my init file, but it still is there somehow. I use forward slashes and checked with general syntax and that doesn't seem to be the issue. It exists even with very few characters.
-
-When I copy and paste the same thing into another file, somehow it works for now without any of the color rendering issues.
-
-
-## Info
-I am running Markdown mode on my Emacs 25.3.2 based on [this](https://askubuntu.com/a/851646/443958) installation.
-
-## init file
-
-https://pastebin.com/FwsF390f
-
-P.S
-I am very new to handling errors in emacs and I feel completely helpless without emacs to write now. Any help is appreciated. 
-
-
-  [1]: https://i.stack.imgur.com/yWTr9.png
-  [2]: https://i.stack.imgur.com/Bb7g9.png
