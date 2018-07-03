@@ -10,14 +10,9 @@ published: False
 
 ## GOAL:
 
-Summary, wague
-
-Rationalist taboo
-
-
-Clear goals, immediate feedback, challenging 
-
-
+To identify/estimate the career direction I need to take in the coming months
+with a high level view on the impact.
+                               
 ### Clear Goals
 
 Based on [this](https://80000hours.org/career-guide/personal-fit/) 
@@ -64,19 +59,16 @@ No wifi writing for 45 mins
 
 ## Making a list of options
 
-Making it Testing!
-
 ### What do you want to be?
 
-Either I earn-to-give or we do direct work, which leads to saving
-lives. Earning to give needs no explanation. An example of direct work
-would be to lead an NGO that stages interventions.
-
-
+Either I earn-to-give or we do direct work, with the goal being to
+maximize saving lives. Earning to give needs no explanation. An
+example of direct work would be to lead an NGO that stages
+interventions to help the poor come to their feet. 
 
 Over the course of sifting through [80k hours](80000hrs.org) website, I have seen
 many profiles and would aspire to be like those people. Below is a
-small summary of such profiles.
+small summary of some such profiles.
 
 #### Earning-to-give 
 
@@ -86,23 +78,22 @@ his salary.
 - **Management Consulting** and earn > 250k$  in 5-10 years and give
   as much as possible
   
-- **Data scientist/Project Management** and earn in 200k$ in 5-10
+- **Data scientist/Project Management** and earn 200k$ in 5-10
   years and give as much as possible
   
-- **Programming** and earn in 200k$ in 5-10 years and give as much as
+- **Programming** and earn 200k$ in 5-10 years and give as much as
   possible
 
-- **Entrepreneurship**
-  
-  * [ ] Earning potential in each of these professions please
-
+- **Entrepreneurship** although with very small chance, has the
+  potential to cause major influence with earning, advocacy and direct
+  work.
 
 [Ben West](https://80000hours.org/career-guide/member-stories/ben-west/)([LinkedIn](https://www.linkedin.com/in/bentwest/)) an entrepreneur was in connection with
-80k hours, able to set aside his uncertainty and now based on his
+80k hours, was able to set aside his uncertainty and now based on his
 evaluation, he is expected to donate millions to charity. He is going
-to keep a minimum fucking wage.
+to keep a minimum wage for himself and donate the rest of his salary.
 
-Amazing, he can even say things like this!
+<!-- Amazing, he can even say things like this! -->
 
 #### Direct working
 
@@ -112,24 +103,25 @@ Amazing, he can even say things like this!
 >non-profit entrepreneurship, and direct work for highly socially
 >valuable organizations.
 
-- Found & Lead Effective Altruism organizations as necessary or most
+- Found &/or Lead Effective Altruism organizations as necessary or most
   impactful
   
-[Tara Macaulay](https://www.linkedin.com/in/tarajmacaulay/)([Linkedin](https://www.linkedin.com/in/tarajmacaulay/)), (then) head of operation (now CEO)
-in the Centre for Effective Altruism. Tara has always been outstanding
-at her work, be it with saving money for her company or rising the
-ranks very fast. She has apparently left a lasting impact in Bhutan
-where she worked on direct impact project
+[Tara Macaulay](https://www.linkedin.com/in/tarajmacaulay/)([Linkedin](https://www.linkedin.com/in/tarajmacaulay/)), was (then) head of operation (now
+CEO) in the Centre for Effective Altruism. Tara has always been
+outstanding at her work, be it with saving money for her company or
+rising the ranks very fast. She has apparently left a lasting impact
+in Bhutan where she worked on direct impact project
 
-*She interned without pay at CEA* leading the fuck out of it and then
+*She interned without pay at CEA* showing great leadership skills and then
 rose the ranks to become the current CEO. 
 
-TBW, She has no MBA degrees. She has a pharma degree.
+She has no MBA degrees. She has a pharma degree.
 
-[Rob Mather](https://80000hours.org/career-guide/career-capital/)([LinkedIn](https://www.linkedin.com/in/rob-mather-b0331235/)), CEO of Against Malaria foundation,
-critically acclaimed as one of the most effective organizations.
+[Rob Mather](https://80000hours.org/career-guide/career-capital/)([LinkedIn](https://www.linkedin.com/in/rob-mather-b0331235/)), is the CEO of Against Malaria
+foundation - critically acclaimed as one of the most effective
+organizations by GiveWell.
 
-TBW, He has had top education, and possibly an all the time high
+He has had top education, and possibly an all the time high
 achiever who went to Harvard Business School and University of
 Cambridge.
 
@@ -405,6 +397,7 @@ the Career Quiz
 
 6. Working at Effective Altruism organizations
 
+
 #### Comparing
 
 The plan is to write about these:
@@ -534,6 +527,7 @@ to lives around the world now and later.
 To simplify the solving of the above problem, I suggest we just stick
 to impact as being saving lives. I will try to make estimations of
 saving lives with this.
+
 #### Design engineering (Machine Design) in 'Europe' for Direct work
 
 **Skills**: 
@@ -1535,10 +1529,7 @@ MC.
 <!-- Should I investigate trading a bit further? or hedge funds? -->
 
 **Exit opportunities**
-What is it?
-
-
-
+What is it?   asd    
 #### Programming, Machine learning PhD 
 
 Apparently, learning to program could also be a gateway to DS,
@@ -1941,7 +1932,6 @@ and sometime you got to take your chances, with a good plan C
 
 In total I would have 41.6%.
 
-
 **Impact**
 
 - Looking at number of lives due to this direct work
@@ -1971,7 +1961,9 @@ What about don't do direct work yet?
 
 I really hope. It's going to be EA 24*7? Let's see.
 
-8.0 is the guess.
+8.0 is the guess.       
+
+
 
 #### Other interesting options
 
@@ -1983,7 +1975,37 @@ DS + finance
 
 Programming + finance
 
+
 #### Working @ effective non profits
+
+Seems to be the same as working at an EAO, but more detailed. I will
+skip it for now.
+
+I remember reading in 80k hours the importance of not working in an
+NGO now but working on it later than now. First build CC and then come
+back, as it is easier to go one way than the other.
+
+**Skill building**
+
+>For the most part, we discourage people from working at non-profits
+>at the start of their career, because top private sector jobs, like
+>consulting, tend to offer more flexible career capital — the skills,
+>connections and credentials that put you in a better position to make
+>a difference in the future. - Source
+
+>This is because top private sector jobs let you build connections
+>with talented colleagues who go into a wide range of sectors, give
+>you widely recognised credentials, and often give you better training
+>than non-profits. It’s also more common to go from the corporate
+>sector into non-profits than the other way around, so if you’re
+>considering both, it can be better to work in the corporate sector
+>first.
+
+Training wise, advice wise it, considering working at both corporate
+and non-profits would mean to gain work first at the corporate sector.
+
+The goal right now is not to create the highest impact yet.. but to
+make flexible career capital the most important thing in the world.
 
 As per the frequent words from 80k hours, working in an NGO should not
 be the first thing to do for 2 reasons:
@@ -1996,48 +2018,396 @@ to use our skills to make lives better.
 2. Going to another job from here would be hard.
 
 Going back to the industry would be hard. The skills that we gain in
-the industry are much more valuable. 
+the industry are much more valuable.
 
 **Skills**
 
-Transferable skills:
+Transferable skills: for now its risky so 5
 
 **Connections**
 
+Yes in the field, but if shit goes wrong with the EA moment or that
+there is a funding contraint as these are startups. It would be better
+to rely on real world corporate experience first.
+
+5
 **Credentials**
-
+5
 **Runway**
-
+5
 **Personal fit**
-
+5
 **Supportive conditions/Job Satisfaction**
-
+8
 **Impact**
+8
+   
+   
+   
+#### Founding a startup
 
-#### Starting up
+There seems to be a lot of pointing towards learning to program and
+learning the business. I guess that any skill you learn is useful nad
+anything you are very good at will put you in a better place to
+startup.
+
 
 **Skills**
 
+>Starting a tech company will force you to rapidly learn highly useful
+>entrepreneurial and technical skills, meet lots of people, and it
+>looks impressive (even if your business eventually fails, at least in
+>failure-tolerant cultures such as the US and UK). Overall, we think
+>it’s one of the best options for career capital.
+
+For CC it appears to be really good, as we are usually all-rounders
+while working for or co-founding a small startup.
+
+While attempting to find a job once your startup tanks I am not sure
+how good it is, but if you have the skills to start up and get a seed
+accelerator, you must be having some skills. As pointed out by 80k in
+the above quote, even if you fail, depending on the failure tolerant
+cultures, you should be still able to pull it off get good career
+capital.
+
+It should atleast be an 8. Points are low due to uncertainty. 
+
+
 **Connections**
+
+You will probably meet a ton of people in the community, possibly some
+influential people,depending on how good you are. If they will help me
+to find opportunities and spread ideas later, it is not clear, but
+likely based on how good they know you are.
+
+Beware of [some horror stories and the connections as a result](https://www.quora.com/What-are-some-startup-accelerator-and-incubator-horror-stories).
+
+I will just assign it to be less than MC. This is primarily due to
+uncertainity. (7)
+
 
 **Credentials**
 
+Having gone quite far with a startup might already serve as reasonable
+credentials.
+
+But doing this is quite hard. So I guess it at 6 points due to the
+uncertainty.
+
 **Runway**
+
+Starting up takes time, before you get the minimum wage to live after
+being accepted by an incubator, there is a lot of work to be done on
+your own time. 
+
+Current runway is important, and future runway to build will take a
+long time.
+
+Current runway depends on the job that I am doing currently and it
+would take me 3 years of earning in DE to make that much of money. So
+a 6.
 
 **Personal fit**
 
+>Consider this career if you think you can develop strong technical
+>skills, as well as the ability to deal with high risk of failure,
+>work very long hours and do something unconventional.
+
+>The high risk of entrepreneurship also means that it’s likely not
+>enough people pursue it in order to gain personal status or wealth,
+>so society is likely to be undersupplied with entrepreneurs. One
+>study estimates that for every $1 of profit earned by an innovator,
+>$50 of benefits are generated for society at large.
+
+>One concern is that some companies within technology have been
+>accused of exploiting addictive tendencies to gain users, so the fact
+>that a product gains lots of users may be a poor indication of its
+>value in these cases.
+
+> Highly unsure of average impact.
+
+In order to estimate personal fit I will look at the chances. I assume
+success to be able to get into Y-combinator and come out as a
+successful business as:
+
+- Chance of having the vision to be a Y-combinator level startup and
+applying (5%)	
+
+This seems like a lot especially considering my current level of
+skills. But I do pick up things relatively fast, and can work long
+hours. For now, lets just role with that number.
+
+- chance of getting accepted in Y-combinator (2.5%)
+- Chance of that startup succeeding (25% based on current
+  [Ycombinator list](https://yclist.com/) of 11 years)
+- = 0.03% (by multiplying everything)
+
 **Supportive conditions/Job Satisfaction**
 
+I suspect there might be stress due to lack of funding, long hours are
+there here, but I barely see myself complaining. There is a high
+degree of autonomy and I have a personal stake in the situation. I
+should definitely try it out with some decent skill or always be on
+the lookout for some opportunities.
+
+6.
+
+I am not worried about it though!
+
 **Impact**
-As a person working for an NGO like either GiveWell or 80k, the
-estimated impact ranges from 600 to 3000 lives over 40 years. Another
-estimate for an analyst informs that 1500 lives will be saved. To keep
-things simple, we stick to this final number of 1500 lives over 40
-years. It is assumed that the contribution of the Analyst and the
-contribution of the operations/managers is the same for lack of
-knowledge, hopefully leading to a conservative number. As we will be
-spending the next 10 years prepping for it in essence, we would have
-970 lives of impact.
+
+I estimate the impact of starting up in tech to be
+ - Total donations per annum (60% of [2.5m$](https://80000hours.org/2014/05/how-much-do-y-combinator-founders-earn/#fn:5))
+ - cost of one life (4k$)
+ - Inflation = 2% in cost of life 
+ - Number of years of donation = 30
+ - Increase in salary = 0% max per annum
+ - Job change every 5 years with 0% increase
+ - ~8k lives
+ 
+
+#### Startup employee
+
+I guess I need to split it as an additional contribution.
+
+We expect lower impact, risk and personal demands than a co-founder, 
+
+>If you get the opportunity to join a startup that’s taking off, you
+>may have greater earnings and impact by joining it than founding your
+>own e.g. the 100th employee of Dropbox still made about $10m,
+>equivalent to a 10% stake in a $100m company. -
+>[Startup-employee-80000-hrs](https://80000hours.org/career-reviews/startup-early-employee/)
+
+The situation we envision and work out odds for is that, we join at
+the beginning of a taking off startup and we are say 50-100 employees
+into a big ass startup.
+
+I keep the values for this quite rough. To me this appears as an
+option in addition to something I choose. When I am at the position of
+applying for jobs, that is when I should evaluate how important it is.
+
+**Skills**
+
+Depends on startup and the things you do, for example, DE, or DS or
+management etc... Lets give it an 8, assuming that if you are one of
+the first 50-100 employees you are probably given a lot of
+responsibility and somehow the skills and knowledge become
+transferable.
+
+8.
+
+**Connections**
+
+Depending on the job and whom we have to interact with we might have
+much larger set of connections.
+
+Whether these connections will get you somewhere? depends and for the
+uncertainty, it gets 6.
+
+**Credentials**
+
+It is very uncertain and depends on the field of choice. I say this
+because the Credentials I have evaluated are different based on the
+fields chosen.
+
+Usually though if it is a high impact startup then you probably have
+better credentials. I think this is tough to evaluate. I give it a
+value of 7, sort of like an average of the fields I have seen until now.
+
+**Runway**
+
+Will be lower than a normal job in the beginning. 6.0 in the beginning
+I guess.
+
+
+**Personal fit**
+
+As said earlier I will evaluate this further in the coming days when I
+am in the lookout say for a job.
+
+I am already working in a startup. When talking about how successful I
+will be? 
+
+Unfortunately the odds are that of how successful any startup would be
+or how a startup would grow to be the next Airbnb etc... We will use
+the same numbers as in `Founding a startup section`.
+
+0.03%. The personal fit is ofcourse only for the extra contribution.
+
+**Impact**
+
+Impact in a startup is estimated at 8k lives. 
+
+>Instead of receiving about 20% of the company’s equity, as a founder
+>would, you’ll receive 0.1% – 1% depending on your role and how early
+>you join, and you’ll receive more of your compensation as salary
+>rather than equity. - [80k hours startup employee](https://80000hours.org/career-reviews/startup-early-employee/)
+
+So the resulting impact is expected to be, lets say 0.5% of 8k = 40
+in addition to the impact a normal engineer would have over his
+lifetime, which is about 200-300 lives.
+
+Of course there are other ways of increasing the number of lives
+saved, but these could just well be our conservative estimates.
+
+**Supporting conditions**
+
+It cannot be as intense as it is for the co-founder. This is pretty
+much the impression I get. Trainings and learnings from experienced
+people might not really be present here. 
+
+It would be a lot of responsibility. Might have good autonomy and
+decent working hours. It will certainly fit with the rest of my life
+relationships etc..
+
+8
+
+#### software engineering
+
+**Entry**
+
+Easy to enter apparently with a year of work, but as a junior software
+developer.
+
+> Many people can get an entry-level job after around a year of
+> part-time learning, or you can do a full-time twelve-week coding
+> bootcamp, such as App Academy. Be careful to avoid low-quality
+> bootcamps. A comprehensive guide to getting your first job is here.
+
+>This profile focuses on software engineers employed by large
+>technology companies,
+
+
+**Skills**
+
+- gain skills that there is a shortage off
+
+- exit opportunities include: data science, quantitative finance, tech
+entrepreneurship, research and freelance work.
+
+>Knowing programming is also helpful in many other industries and is
+>likely to become more valuable in the future. 
+
+Not much scope for other things besides programming such as
+entrepreneurship or work with different organizations like in
+consulting.
+
+There is some scope for management level roles as you progress.
+
+So skills are transferable and is usually a decent fit for earning to
+give, not so much direct work unless you find something to do in your
+freetime that somehow improves this.
+
+7
+
+**Connections**
+
+Being at large companies gives possibility to make connections with
+wealthy and influential people many of whom might want to do good.
+
+6.5 due to the hype and factoring for uncertainity.
+
+**Credentials**
+
+Working at top-tier companies already gets you lot of prestige
+apparently comparable to working in finance or consulting
+
+Assuming getting into top companies is only a matter of effort, I give
+it a close 7.5 as compared to MC.
+
+**runway**
+
+>Software engineering is a moderately well-paid career. Average US
+>earnings (including bonuses) for entry-level software engineers are
+>$56,000-$72,000; graduates of bootcamps can start on around $100,000,
+>and engineers at Google on around $120,000. However, progression is
+>more limited than in many alternatives and many engineers “cap out”
+>after a few years.
+
+Even at google the estimated salary is 300k at max.
+
+US seems to be the place to be and further more silicon valley and
+possibly after a killer bootcamp.
+
+Runway for now is still with DE. Once I get a job in real programming
+an earn decently ofsourse, it should not be a problem.
+
+But I need time and so the thing of DE applies.
+
+**Personal fit**
+
+The impression I get based on [80k hrs profile on SE](https://80000hours.org/career-reviews/software-engineering/) is that:
+- humanities and science people have done it by their own
+- need to demonstrate strong interest in programming
+
+<!-- talk to suruta mudi to get some ideas -->
+
+>We’ve seen many cases of people with humanities and social science
+>degrees get junior software engineer jobs with high salaries, just
+>through learning on their own or through doing bootcamps.
+
+>Many people can get an entry-level job after around a year of
+>part-time learning,
+
+Beware this is for the entry level.
+
+One of the comments:
+
+>Most companies will require you to pass a coding test before even
+>talking to you about a software engineering position. So unless you
+>can solve some of these[ programming challenges](https://www.testdome.com/programming-tests), don't even bother
+>applying
+
+There is web development, app development and OS development
+
+>The US Bureau of Labor Statistics projects 22% growth in US
+>employment of software engineers from 2012-22, which is much higher
+>than the growth rate for all occupations (11%).
+
+But it doesn't seem to be building skills for direct working I
+think. Especially that of an analyst, or an organization person. I
+could be a web developer and develop apps for them though, but I don't
+at this moment see this taking off in that direction.
+
+It comes with decent exit opportunities, but when will I move to it ?
+
+-Chance of making it to google in the US (60%)
+
+- Chance of learning the skills of being google worthy in Europe (80%)
+ 
+48%
+
+**Impact**
+
+Assuming I start with a salary of 120 k at google in the next 5 years.
+- with an increase in salary of 4%
+- inflation of 2%
+- every 5 year increase of 10%
+
+Can save about ~400 people. In addition I could work on some advocacy,
+and direct work due to the available time. I will just estimate that
+at say another 20 lives (wild ass guess)
+
+There is possibility to do more, by working remotely say from
+Thailand.
+
+**Supporting conditions**
+
+>Software engineers tend to work shorter hours than many corporate
+>jobs, with 40-50-hour weeks being typical (though this does vary by
+>company and team). Remote work, flexible hours and freelance work are
+>common. The best companies in the industry, like Google, are leaders
+>in evidence-based management and are widely regarded as among the
+>best places in the world to work.
+
+8
+
+**Further readings**
+
+[maximizing donations via software engineering](https://80000hours.org/2013/06/maximizing-your-donations-via-a-job/)
+
+[Working in Thailand](https://80000hours.org/2014/09/should-you-move-to-thailand/)
+
 
 
 #### Party Politics/ Congressional staffer/ Civil Services UK
@@ -2081,46 +2451,50 @@ motherfucking skill, thats it. interpersonal or whatever.
 
 
 
+
+
 ##  calculations
+  
 #### Impact calculations derivations
 ##### Calculating impact of direct working in 80k hours
 
 **Problem**
 
-80k hours has changed the lines of 1k people over 8 years. Per change
-the cost is about 1337$. We seek to
-estimate the contribution of an agent in case he joins 80k hours. 
+80k hours has changed the lives of 1k people over 8 years. Per change
+the cost is about 1337$. We seek to estimate the contribution of an
+analyst in case he joins 80k hours.
 
-**Assumptions or guesses**
-80k is a reputed NGO, that is committed to create massive impact. It
+**Assumptions or guesses** 
+
+80k is a reputed NGO, that is committed to creating massive impact. It
 is one such organization which I would want to join with the hopes of
-creating large change.
+creating large impact.
 
 They are about 15 people excluding advisors, 2 co-founders, 6 core
 members, 3 freelancers and 4 operations people. 
 
-My contribution would be 1.8% in the first year assuming my
-contribution is [10%](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/) of the co-founder, and core team 30% of
-co-founder, management team 10% of co-founder each.
+My contribution would be 1.8% of the whole company, in the first year
+assuming my contribution is [10%](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/) of the co-founder, and the core
+team and management team at 30% and 10% each respectively.
 
-**Other factors**
-- contribution of the donors
-- Contribution of myself, incase someone else replaced me, how better
-  I was than someone else
-
+<!-- **Other factors** -->
+<!-- - contribution of the donors -->
+<!-- - Contribution of the analyst assuming he is replaceable -->
 
 **Factors:**
-- contribution of 80k compared to the total lives saved compared to
-  people whose plan was changed (20%) (guess)
-- contribution of 80k compared to donors (40%)(based on [GiveWell estimate](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/))
-- contribution from me as compared to the contribution of my
-  replaceable job as say an analyst or an operations person (10%) (
- [GiveWell estimate](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/))
-- Contribution to me compared to other employees such as founders
-  1.18% (as in assumptions and guesses)
-- I estimate the number of lives saved in a my lifetime in my current
-  normal job, by donating 15% as 222 lives (derived in the impact
-  section of design engineering)
+
+- contribution of 80k to the total lives saved by the changed lives
+  (based on 80k's plan) (20%) (guess based on one of the profiles)
+- contribution of 80k with the donors money (40%)(based on [GiveWell
+  estimate](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/))
+- contribution from the analyst when he is replaceable (10%) (
+  [GiveWell estimate](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/))
+- Contribution to the analyst is 1.18% of the whole company (as in
+  assumptions and guesses)
+- The minimum number of lives saved by anyone whose plans have been
+  changed is assumed to be what I can contribute at my easiest. i.e.,
+  working at DE for the rest of my life and donating 15%. Easy. Comes
+  to about 222 lives. (derived above)
   
   Although I think 10% is a fair number to assume for donations, I
   suspect that with the change in plan based on 80k hours
@@ -2134,19 +2508,41 @@ co-founder, management team 10% of co-founder each.
 
 - Number of lives saved would thus be: 457*222 lives per year
 
-- Number of lives saved by me per year =  Multiplying by all factors
-  with the number of lives saved in total per year= 10 lives
+- Number of lives saved by an analyst per year = Multiplying by all
+  factors with the number of lives saved in total per year= 10 lives
   
 - If this grows compounded at 2% with 1% inflation in costs and a 10%
-  interest every 5 years for the next 40 years, we get 626 lives.
+  hike every 5 years for the next 40 years, we get 626 lives.
   
 **Reflection on the calculation**
 
 - I feel like I have been heavily hoping for this answer to turn out
-  ridiculously large say in k's of people saved. But its 2x more than
-  what I could save just being a design engineer. I want to say JUST
-  2x more. Nevertheless, I shall use these numbers, conservative as
-  they may be.
+  ridiculously large say in k's of people saved. But its 2-3x more
+  than what I could save just being a design engineer. I want to say
+  JUST 2x more, but I will wash my mouth. 
+  
+  >Stanford economists have demonstrated that the average value of a
+  >year of quality human life is actually closer to about $129,000.
+  
+   But what I don't understand is that, I am STUPID. It is not the
+  difference between 200 and 600 rs my dear motherfucker, it is the
+  goddamn difference between 25 million to 75 million $, just for one
+  year.  (My internal bells just went off! essay writing you rock)
+  
+  Looking at this, even if I spend 4k on a saving a fucking life,
+  imagine the value I create. It is very easy to fall for shit due to
+  my scope insensitivity, But pandians are awake and kicking now. 
+  
+  Even sticking to the cost of saving a life alone right now. To save
+  200 lives and to save 600 lives is the the goddamn difference
+  between saving 800k$ and 2.4mill$.  It might not feel a lot, it
+  might not do a lot inside, but mind you, you are scope insensitive.
+  
+  Shut up and multiply has never been so resounding inside my head. A
+  year later it starts to make sense? Pandian Pan indian.
+  
+  Nevertheless, I shall use these numbers, conservative as they may
+  be.
   
 - The numbers produced here seem conservative and very rough, with
   the estimates of my contribution as well as the number of
@@ -2165,6 +2561,34 @@ co-founder, management team 10% of co-founder each.
   
 - I guess it is more about the ball park or the relatively larger good
   you can do by working in organizations such as GiveWell.
+  
+- Recently I came across an argument regarding ["Why I am not
+  replaceable"](https://80000hours.org/career-reviews/working-at-effective-altruist-organisations/#why-is-working-at-an-ea-organisation-high-impact), by 80k hrs of course and it argued that if I take
+  up job at an EAO, then I free up the other person who is "supposed
+  to replace me" to do other good things. 
+  
+  Also Most organizations are talent constrained rather than funding
+  constrained, adding more points to the above argument regarding
+  replaceability.
+  
+  And in that case the GiveWell estimate would go from 97k to 1mill/
+  year.
+  
+  But, 
+  
+  >To get a sense of how much value you create by working at an EA
+  >organisation, we asked the organisations how much funding they
+  >would have traded for their most recent hire. They gave an average
+  >of $126,000 – $505,000 and a median of $77,000 – $307,000 per
+  >year.
+  
+  It appears that assuming yourself as not replaceable as well as
+  assuming yourself completely replaceable might not be a good
+  estimate. We will fall in between and based on the expected value an
+  EAO thinks of us, it appears that the 97k is indeed a nice
+  conservative number and we will stick with the impact calculated as
+  a result.
+  
   
 ##### Calculating the impact of working in design engineering
 
@@ -2208,6 +2632,135 @@ Working at the library from 8:11 with a small pee break. Set up
 markdown mode coloring, figured out how to add comments in markdown mode.
 
 
+## Analysis
+  * [ ] Fix the bug of impact of Top NGO's
+  * [x] add 80k results and do some checking
+  * [ ] Add 80k resutls and write results of sanity check for each
+        section
+  * [ ] Confirm that you needn't change anything
+  * [ ] Conclude results per division CC, Total impact, also
+        induvidual impact and finally multiply with the personal fit
+        and inform the findings.
+		
+I have now two sets of data one that I made including my personal fit,
+all based on articles mostly from 80k. The other being the set of data
+from 80k's career reviews summary with their own evaluation of the
+numbers.
+
+**Why didn't I use the numbers from 80k directly**
+
+For me I wanted to compare impact across all types of saving
+lives. Also 80k didn't suggest to use it. They asked me to compare
+opportunities across the different points they had provided. Plus I
+made some subdivisions of each profession trying to gauge how useful
+it would be if I went in one direction instead of the other. I could
+have probably extrapolated from 80k numbers now in hindsight. 
+
+I guess I still could.
+
+**Performing a sanity check:**
+
+For Career Capital: The ranking goes as 
+
+| rank | My result     | rank (80k) | 80k           |
+|------|---------------|------------|---------------|
+| 1    | MC            | 1          | MC            |
+| 2    | Econ PhD      | 2          | Econ Phd      |
+| 3    | IB            | 2          | DS            |
+| 4    | DS            | 2          | Working @ NGO |
+| 5    | Working @ NGO | 2          | Starting up   |
+| 6    | Starting up   | 3          | IB            |
+| 7    | DE            | -          | -             |
+
+
+For Impact:
+
+I compute total impact to the extent possible by translating
+everything into equivalent money possibly generated and then translate
+it to lives by dividing it with 4000 $(The cost of a life according to
+AMF).
+
+With 80k hours these are just points to individual impact. So I don't
+know if we can directly compare direct earning and direct impact. In
+other words, is the 5 star rating in direct impact and a 5 start
+rating in Earning and that of the career capital equal to each other.
+
+Adding them directly I compare the result in the end:
+
+| rank | Work                            | rank (80k) |
+|------|---------------------------------|------------|
+| 1    | Starting up                     | 1          |
+| 2    | IB(ETG)                         | 3          |
+| 3    | MC(as a partner)                | 3          |
+| 4    | Direct working @ EAO (DS etc..) | 1          |
+| 5    | Econ PhD. with rare chance      | 6          |
+| 6    | MC (exit after 5 year)          | -          |
+| 7    | DS/SE in the US                 | 5          |
+| 8    | DE in the US                    | -          |
+| 9    | DS in Europe                    | -          |
+| 10   | DE in Europe                    | -          |
+
+My confidence in the estimates are reasonable. I find my estimates to
+be better because,
+
+- I wouldn't rate IB and MC on the same level ever as according to 80k
+hours, an MC will always earn 30-40% lower than an IB'er.
+
+- One this I concede and suspect might be wrong, is the impact of
+  direct working.[ I haven't factored the comment about not loosing value
+  due to being replaceable](http://disq.us/p/1tkqy0u). If that is the case Direct working would
+  freaking skyrocket.
+  
+>To get a sense of how much value you create by working at an EA
+>organisation, we asked the organisations how much funding they would
+>have traded for their most recent hire. They gave an average of
+>$126,000 – $505,000 and a median of $77,000 – $307,000 per year.
+
+This is still in the bounds of what was estimated earlier. Due to the
+uncertainity, it is not in the top position. But does the accuracy of
+this number need to be improved, considering that the personal fit
+will take down starting up right royally? I guess not.
+
+
+
+### Question to Ram
+
+1. Can I multiply prolties? Is there a better way to do this while
+   comparing different options
+
+So I am attempting to estimate which career is my best fit. In order
+to do that I look at the chances of an event A, B to G. I multiply all
+of these chances to get my personal fit.
+
+The problem is though, with every career, my events are quite
+different and the number of events also are different.
+
+Also, the more number of events I have my personal fit automatically
+goes down big time. 80% probabilities in 2 events will give me a very
+bad personal fit of 64%.
+
+Can you comment on if this is the way of the world or can I do better?
+
+2. What is the best way to estimate lifetime salary.
+
+My typical approach is assume a salary growth of 4% an inflation of 2%
+and 10% increase every 5 years and take it all the way till I am 70.
+
+By doing this my estimate really large salaries when I am say 70. I am
+afraid it is realistic. So for example, my current salary is 40k/year,
+I claim it to become 362k/year when I am 70.
+
+Sometimes I really know what the salary is going to be at a certain
+level and then I use that directly, say in the case of Management
+Consulting.
+
+Is there a better approach? Your thoughts on what I can do better and
+what I am doing wrong.
+
+
+
+
+
 ## Reflection
 
 Work at a growing organization
@@ -2220,6 +2773,13 @@ Do what contributes to build career capital
 
 
 Blockchain
+
+- Summary of the whole thing.
+- compare main careers
+- Look at things like startup to aid or increase CC in tech only
+- There seems to be a possibility of being more than one.
+
+
 ## Ideas
 
 Please look at reaching out to the 80k community with this post
@@ -2663,14 +3223,11 @@ Exactly what I was thinking.
 >other recent hires, and you think these organisations are effective,
 >it would be better to do that than to earn to give.
 
-#### Working @ effective altruism organizations TO BE SENT BACK 
-
-**Skills**
 
 
 ## Todo
 
-copy 80k ranking in the same excel, 
+copy 80k ranking in the samel excel, 
 
 look at all comments and propose actions
 
@@ -2695,7 +3252,22 @@ understand, but direct work not sure.
 <!-- Settling the debate of number of lives saved -->
 
 <!-- Add? job security? -->
-### Ideas
+
+<!-- Growing old -->
+
+<!-- >30 and learning -->
+
+### Plan
+
+  * [ ] repair one section by section and repair numbers or add
+        uncertainity- from tomorrow already else it becomes one
+        gigantic task
+		
+  * [ ] check the thing with probabilities
+  * [ ] have a look at the comments and see if there is anything
+        useful
+		
+### ideas
 
 What If I take another 6 months to evaluate by trying out some things
 like economics, MBA etc... 
@@ -2736,4 +3308,4 @@ That settles it.
 From DE impact NGO
 ## Success
 
-	What do you think you will kill? and what is the evidence?
+What do you think you will kill? and what is the evidence?
