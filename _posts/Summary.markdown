@@ -2587,7 +2587,7 @@ team and management team at 30% and 10% each respectively.
   estimate. We will fall in between and based on the expected value an
   EAO thinks of us, it appears that the 97k is indeed a nice
   conservative number and we will stick with the impact calculated as
-  a result.
+	  a result.
   
   
 ##### Calculating the impact of working in design engineering
