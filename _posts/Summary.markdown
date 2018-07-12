@@ -7,131 +7,155 @@ categories: The Beginning
 permalink: /:title.html
 published: False
 ---
+## Disclaimer
 
+### Abbreviations
+
+At any point if you do not understand an abbreviation, please have a
+look here.
+
+| Abb. | Expantion                       |
+|------|---------------------------------|
+| EA   | Effective Altruism              |
+| ETG  | Earning-to-give                 |
+| DW   | Direct Work                     |
+| CEA  | Centre for Effective Altruism   |
+| AMF  | Against Malaria Foundation      |
+| EAO  | Effective Altruism Organization |
+| fCC  | flexible career capital         |
+|      |                                 |
+	
 ## GOAL:
 
-To identify/estimate the career direction I need to take in the coming months
-with a high level view on the impact.
+To identify/estimate the career direction I need to take in the coming
+months focusing on impact.
                                
-### Clear Goals
+### Achieving the Goals
 
-Based on [this](https://80000hours.org/career-guide/personal-fit/) 
+Based on [the 80k-hours guide](https://80000hours.org/career-guide/personal-fit/) a way forward in determining the way
+forward would be to answer the following questions.
 
 <!-- Making a list of options -->
-What do you want to do in life? Exact examples of profiles that you
-would like to be like?
 
+**Making a list of options** by using these questions:
 
-What are the different career paths you think are available to you?
-Give one way how you would achieve it?
+What do you want to do in life? Provide exact examples of profiles
+that you would like to be like? What are the different career paths
+you think are available to you? Give one way how you would achieve
+it?
 
-<!-- Rankingish your options  -->
-Compare them based on Skills, Connections, Credentials, Runway,
-&
-Personal fit, job satisfaction, Impact
+<!-- Rankingish your options --> 
+
+**Comparing different options** based on Skills, Connections,
+Credentials, Runway, & Personal fit, job satisfaction, Impact
 
 <!-- Write out key uncertainities -->
-What is the info that can change your ranking?
 
-### What do you hate?
-
-rewriting, correcting spelling, rewriting large large chunks of shit!
-
-<!-- Get wholistic view using S-TAB -->
-Lets try to work on sections that are well defined as shown in the
-Clear Goals section. We will continue to have the overview of what we
-are doing, instead of just writing using the power of cycling `S-TAB`.
-
-<!-- Re-write and refactor, do not repeat -->
-We will write like we speak and edit per section or subsection. We
-will refactor, rewrite and correct spelling then and there or as
-required. We will just not keep blabbing shit for one hr as that makes
-it difficult for editing.
-
-<!-- Remove -->
-We will remove everything as is required.
-
-
-No wifi writing for 45 mins
-
----
-
+**Write out your key uncertainities:** What are the things that you
+are uncertain about? Can you quickly test
+them? Are they going to change your ranking largely?
 
 ## Making a list of options
 
-### What do you want to be?
 
-Either I earn-to-give or we do direct work, with the goal being to
-maximize saving lives. Earning to give needs no explanation. An
-example of direct work would be to lead an NGO that stages
-interventions to help the poor come to their feet. 
+### What can I do to create large impact? (broadly)
 
-Over the course of sifting through [80k hours](80000hrs.org) website, I have seen
-many profiles and would aspire to be like those people. Below is a
-small summary of some such profiles.
+One can either earn-to-give (ETG), or do direct work, and if highly unsure
+about the future improve their skills and build career capital with the
+goal being to maximize saving lives. Earning-to-give needs no
+explanation. An example of direct work (DW) would be to work for an
+NGO that stages interventions to help the poor get back upon their
+feet. Working in Management consulting (MC) would be a way to keep
+building flexible Career Capital (FCC) which will allow later to take
+up different types of jobs in different industries.
+
+In addition to these one can also perform advocacy - the promotion of
+solutions to pressing problems. For example, in addition to or instead
+of earning yourself, you could inspire/persuade a friend to pursue ETG
+as well. I don't plan to discuss advocacy right now in detail. I hope
+to take it up on another post at another time as I don't see it having
+much consequence for me at this time. Of course we should do
+everything we can to get others to also pursue Effective Altruism (EA).
+
+The 80k-hours guide features several career-reviews that they
+recommend us to pursue and profiles of people who they consider to be
+high impact causers. From this we can derive what is possible within
+this world, what have other high impact causers done, and what are
+some possible careers that might make sense for us. This would allow
+for further fine-tuning later in the essay.
+
+A small side note: This essay heavily relies on the 80k-hours guide. I
+have dealt with why we should use the work of 80k hours in the
+appendix.
+
+<!-- todo why 80k hours is the shizz -->
 
 #### Earning-to-give 
+
+A career in ETG might include one of the following:
 
 - **An investment banker** who will earn in millions and give away >50% of
 his salary.
 
-- **Management Consulting** and earn > 250k$  in 5-10 years and give
-  as much as possible
+- A **Management Consultant** who will earn > 250k$ and
+  give away >30%
   
-- **Data scientist/Project Management** and earn 200k$ in 5-10
-  years and give as much as possible
+- A **Data scientist/Project Management** who will earn 200k$ (in 5-10
+  years) and give as much as possible
   
-- **Programming** and earn 200k$ in 5-10 years and give as much as
+- A **Programmer** who will earn 200k$ (in a few years) and give as much as
   possible
 
-- **Entrepreneurship** although with very small chance, has the
-  potential to cause major influence with earning, advocacy and direct
-  work.
+- Taking up **Entrepreneurship** although with very small chance of
+  success, has the potential to cause major influence with earning,
+  advocacy and direct work.
+  
+[Ben West](https://80000hours.org/career-guide/member-stories/ben-west/)([LinkedIn](https://www.linkedin.com/in/bentwest/)) an entrepreneur (with the guidance in
+career from 80k-hours) is expected to donate millions to charity. He
+is going to keep a minimum wage for himself and donate the rest of his
+salary.
 
-[Ben West](https://80000hours.org/career-guide/member-stories/ben-west/)([LinkedIn](https://www.linkedin.com/in/bentwest/)) an entrepreneur was in connection with
-80k hours, was able to set aside his uncertainty and now based on his
-evaluation, he is expected to donate millions to charity. He is going
-to keep a minimum wage for himself and donate the rest of his salary.
+Ben West is a fantastic and inspiring example of someone who is going
+to ETG. There is a lot of luck involved in such a career, but
+nevertheless, it is the attitude that is at praise here - A person who
+can earn millions saying he will keep minimum wage.
 
 <!-- Amazing, he can even say things like this! -->
 
 #### Direct working
 
 >80,000 Hours thinks that only a small proportion of people should
->earn to give long term. we think that most people should be doing
+>earn to give long term. We think that most people should be doing
 >things like politics, policy, high-value research, for-profit and
 >non-profit entrepreneurship, and direct work for highly socially
 >valuable organizations.
 
-- Found &/or Lead Effective Altruism organizations as necessary or most
-  impactful
+1. Found &/or Lead or manage Effective Altruism organizations to be
+  most impactful. Some inspiring profiles covered by 80k-hours in this
+  area of direct work, below:
   
-[Tara Macaulay](https://www.linkedin.com/in/tarajmacaulay/)([Linkedin](https://www.linkedin.com/in/tarajmacaulay/)), was (then) head of operation (now
-CEO) in the Centre for Effective Altruism. Tara has always been
+[Tara Macaulay](https://www.linkedin.com/in/tarajmacaulay/)([Linkedin](https://www.linkedin.com/in/tarajmacaulay/)), was (then) head of operations (now
+CEO) in the Centre for Effective Altruism (CEA). Tara has always been
 outstanding at her work, be it with saving money for her company or
 rising the ranks very fast. She has apparently left a lasting impact
-in Bhutan where she worked on direct impact project
-
-*She interned without pay at CEA* showing great leadership skills and then
-rose the ranks to become the current CEO. 
-
-She has no MBA degrees. She has a pharma degree.
+in Bhutan where she worked on direct impact projects.*She interned
+without pay at CEA* showing great leadership skills and then rose the
+ranks to become the current CEO. She has no MBA degrees and infact
+only has a pharma degree but that hasn't stopped her. The CEA gets a
+lot of funding (in millions) which it directs to worthy applicants
+that can create large impact.
 
 [Rob Mather](https://80000hours.org/career-guide/career-capital/)([LinkedIn](https://www.linkedin.com/in/rob-mather-b0331235/)), is the CEO of Against Malaria
-foundation - critically acclaimed as one of the most effective
-organizations by GiveWell.
-
-He has had top education, and possibly an all the time high
-achiever who went to Harvard Business School and University of
-Cambridge.
+foundation (AMF) - critically acclaimed as one of the most effective
+organizations by GiveWell. He has had top education, and possibly an
+all-the-time high achiever who went to Harvard Business School and
+University of Cambridge. The AMF saves millions of lives a year.
 
 [David Goldberg](https://80000hours.org/career-guide/member-stories/david-goldberg/)([LinkedIn](https://www.linkedin.com/in/davidjonathangoldberg/)), co-founder of Founders Pledge,
-that makes Tech entrepreneurs donate by pledging in case their
-startups succeed.
-
-TBW, He is definitely another high achiever, who went to Cambridge,
-but has a degree in philosophy. He has done everything other than
-continuing with philosophy. He has founded 2 organizations per companies,
+that makes Tech entrepreneurs legally bounded to donate in case their
+startups succeed. He is definitely another all-the-time high achiever,
+who went to Cambridge, but has a degree in philosophy. He has done
+everything other than continuing with philosophy.
 
 >Before all that, I spent a couple years in finance in the US, started
 >and sold a business in Europe, and ran a chain of Segway dealerships
@@ -139,90 +163,114 @@ continuing with philosophy. He has founded 2 organizations per companies,
 >honest, which was largely the result of having no clear idea of what
 >I wanted to do with my life until recently.
 
-  * [ ] Seems to be a scope to intern at these places (seems to be
-        working based on availability)
-		
-	
-[Niel Bowerman ](https://80000hours.org/career-guide/member-stories/niel-bowerman/)(Linkedin), previously the Assistant Director of
-Future of Humanity Institute, (Oxford University), is another
-outstanding talent featured in the 80k hours website.
+But now he has focused all of his might into the Founders Pledge to
+create high impact.
 
-TBW he does not have an MBA, he is a physics major, currently handling
-fundraising, operations management etc... and now he is the head of AI
-policy. 
+  <!-- Seems to be a scope to intern at these places (seems to be -->
+  <!--       working based on availability) -->
+
+We saw a few different profiles, each of them doing amazing things in
+a joint effort to save as many lives as possible
+
+2. Be an Analyst/researcher at Effective Altruism Organizations (EAOs)
+   such as GiveWell or 80k-hours
+
+In organizations like GiveWell, 80k-hours, CEA etc... they need people
+to write useful content in an understandable way and they need people
+to research what programs are effective and most impactful. In other
+words, solving problems with limited data, knowing what type of data
+is interesting, and presenting it in clear manner, is done by analysts
+or researchers. Here the main criteria are strong critical thinking
+skills, statistics and Mathematics.
+
+Most of the EAO's have very few people (10-30), funneling or creating
+impact in the order of millions of dollars. As an analyst you could
+already [make an impact of 97k$ a year](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/).
+
+3. Working in Policy
+
+This involves, shaping the policy of governments to impact a population of a city,
+state, country or world. 
+
+For example, an Economics PhD working with the government, will
+[sometimes have the chance to impact a large population](http://allegedwisdom.blogspot.com/2017/03/the-story-of-lucky-economist.html) by
+influencing policy based on logic and numbers. Although these chances
+are rare an Econ Phd is still considered one of the best PhD's to
+pursue (I guess owing to the impact).
+
+[Niel Bowerman ](https://80000hours.org/career-guide/member-stories/niel-bowerman/) ([Linkedin](https://www.linkedin.com/in/nielbowerman/)), previously the Assistant Director
+of Future of Humanity Institute, studied at Oxford University,
+is another outstanding talent featured in the 80k-hours website. He
+does not have an MBA, he is a physics major, previously handling
+fundraising, operations management etc... And now he is the head of AI
+policy for 80k-hours. With this he is able to guide potential
+candidates in the right direction to assist in mitigating the [risks
+of AI](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/).
 
 **Lessons learnt:**
 
-Not everyone has an MBA. Everyone has shown definite signs of
-greatness from the beginning and looking at their profile, they are
-headed for more greatness. 
+- According to 80k-hours DW must be pursued by most of the people as
+EAO's are usually not talent constrained
 
-Strong intterpersonal skills maybe?
+- *Most of the featured profiles in the 80k-hours website do not have
+an MBA*. Everyone has shown definite signs of greatness from the
+beginning and looking at their profile, they are headed for more
+greatness.
 
-- Being an Analyst, researcher at GiveWell or 80000hrs
-
-In organizations like GiveWell and 80000 hrs, they need people to do
-the research to identify using data & researching what is better and
-how we can do best. In other words solving problems with limited data,
-knowing what type of data is interesting and finding it.
-
-Here the main criteria are strong critical thinking skills, and
-statistics or Math knowledge. 
-
-- Policy and others
-
-I think this is too far-fetched for me. I skip it for now
-
+- Being in EAOs seems to allow to achieve a large impact (quantified later)
+  
 #### Building career capital
 
-[Dillon Bowen](https://80000hours.org/career-guide/member-stories/dillon-bowen/)([Linkedin](https://www.linkedin.com/in/dillon-bowen-409791a1/)) another high achiever is working
+Although ultimately we might be ETG or doing DW, when we are young it
+is advised to focus on gaining flexible career capital to allow us
+flexibility in the job market and to be useful in different domains as
+needed by the then important focus area.
+
+[Dillon Bowen](https://80000hours.org/career-guide/member-stories/dillon-bowen/)([Linkedin](https://www.linkedin.com/in/dillon-bowen-409791a1/)) is working
 towards his Economics PhD based on the counseling he got from
-80k. Economics PhD is highly recommended graduate program by 80k
-hours, due to the high impact in direct working.
+80k. Economics PhD is highly recommended graduate program by
+80k-hours guide, due to the high impact in direct working.
 
-But I don't really think I have the age or the talent for an Economics
-PhD.
+<!-- But I don't really think I have the age or the talent for an Economics -->
+<!-- PhD. -->
+
+ <!-- TBW, He has no MBA, as a result. -->
+
+[Peter Huford](https://80000hours.org/career-guide/member-stories/peter-hurford/)([LinkedIn](https://www.linkedin.com/in/peterhurford8/)), taught himself how to program from
+political science background that now, he is improving his skills in
+business, programming and finance and also having extra time to work
+on other charity projects. Peter seems to be a great example of one
+who is building great FCC.
 
 
-
-TBW, He has no MBA, as a result.
-
-[Peter Huford](https://80000hours.org/career-guide/member-stories/peter-hurford/)([LinkedIn](https://www.linkedin.com/in/peterhurford8/)), another outstanding talent, taught
-himself how to program from political science background that now, he
-is improving his skills in business, programming and finance and also
-having extra time to work on other charity projects.
-
-
-  * [ ] Appears that I should follow something like this, and talk to
-        Herman maybe, as the spending time on an MBA to do some IB is
-        not really seeming to be required. A better understanding or
-        working or creation of new things can increase the outcome 10
-        fold in no time. I think I should just focus on things like
-        this and get better and become really skillful.
+  <!-- * [ ] Appears that I should follow something like this, and talk to -->
+  <!--       Herman maybe, as the spending time on an MBA to do some IB is -->
+  <!--       not really seeming to be required. A better understanding or -->
+  <!--       working or creation of new things can increase the outcome 10 -->
+  <!--       fold in no time. I think I should just focus on things like -->
+  <!--       this and get better and become really skillful. -->
 
 
 #### summary
 
-In summary I would like the skills to be like these people or at least
-earn a lot to give. I would like to leave such a legacy behind like
-that of TARA. It is important for me to dream big and currently these
-people are already like a hard goal, a challenging goal for me I
-guess.
+In summary I would like a profile as above which would allow me to
+create the maximum impact I can. I would like to leave such a legacy
+behind (like that of TARA). It is important for me to dream big and
+currently the profiles of these people seem already hard enough to set
+as my goal.
 
-The importance of direct work has been stressed a lot by 80k hours. In
+The importance of direct work has been stressed a lot by 80k-hours. In
 the long run that is what I guess I should be doing. But for the next
 few years, no harm in making money as well as building career
 capital. But money is not the objective, getting yourself in shape to
 do good is. Gaining skills to make crazy impact is.
 
-So, Ability to work in leading roles or operational roles in NGO's or
-found my own NGO, is one of the things I see myself doing. or even
-doing the research that they deem the most necessary, or earning
-crazily to give.
+In the following section we make a list of options and evaluate them
+to see what we should be doing to make the largest impact we can.
 
 ### Making the list
 
-Making a list according to 80k hours sounds far-too-specific like
+Making a list according to 80k-hours sounds far-too-specific like
 "economics researcher focusing on global health", "marketing for meat
 substitutes" etc...
 
@@ -259,7 +307,7 @@ example, things I could do with a better tool. Of course I could have
 a better way of work. Well let there be better problems to solve.
 
 2) An MBA to management consulting or IB or trading(very high job
-satisfaction according to 80k hours) for now, hoping to get some
+satisfaction according to 80k-hours) for now, hoping to get some
 experience and a lot of money, to propel career ahead.
 
 Right now it appears that the an MBA can open avenues into consulting,
@@ -409,7 +457,7 @@ Personal fit, job satisfaction, Supportive conditions, Impact
 And to all the career options I have until now.
 
 Following this, I would like to also use the decision making chart and
-the decision tool of the 80k hours website to do the same. 
+the decision tool of the 80k-hours website to do the same. 
 
 
 
@@ -644,7 +692,7 @@ So a total 35%.
 **Impact**:
 
 I made some calculations on the number of lives saved if one works for
-top NGO's like GiveWell or 80k hours. It comes to about 600-3000 lives
+top NGO's like GiveWell or 80k-hours. It comes to about 600-3000 lives
 (shown in appendix). Another estimate by a person who worked there,
 relates to 1500 lives (extrapolated to 40 years). We use this number
 as it is made by a givewell employee.  As we will be spending the next
@@ -869,7 +917,7 @@ things up, but I estimate it at 2 times the impact of full time DE. If
 I can donate 20% and also make an extra 20% in sales then that will
 result twice the impact. Yes I am pulling these numbers almost out of
 my ass, as I don't have good estimates of it. I will refine this
-number later.
+number later if needed.
 
 
 The impact of moving to the US could be much better as the pay is
@@ -1093,7 +1141,7 @@ earn[ 53k](https://www.payscale.com/research/NL/Job=Data_Scientist/Salary/05582c
 out by calling for a vacancy worst case. Not able to get proper
 estimates on glassdoor, but it looks high.
 
-Also DS is heavily hyped by 80k hours for its ability to quickly turn
+Also DS is heavily hyped by 80k-hours for its ability to quickly turn
 people in money making machines. 
 
 >Data Incubator reports that its graduates can get starting salaries
@@ -1124,7 +1172,7 @@ I will assume all NGO's to have same impact for now.
 - Working for DS now and moving to an NGO within the next 5 years.
 
 I assume the same impact irrespective of the NGO joined. By definition
-an NGO worth joining is for sure recommended by 80k hours for example.
+an NGO worth joining is for sure recommended by 80k-hours for example.
 
 So My impact is the same as that in 'DE for Direct work', i.e., 970 lives
 
@@ -1182,7 +1230,7 @@ I will rank it as the same as DE then.
 #### Management consulting
 
 Finishing an MBA allows travel into a couple of venues, of which one
-of them is MC. 80k hours has done a [complete career profile on
+of them is MC. 80k-hours has done a [complete career profile on
 them](https://80000hours.org/career-guide/reports/management-consulting/). Based on [MBAcrystalball](https://www.mbacrystalball.com/blog/2017/12/18/investment-banking-vs-management-consulting/), it appears that an MC does
 just about anything that is needed to be done to improve the
 performance of a company. The impression I get is that you are given
@@ -1198,7 +1246,7 @@ industry with quite some exit opportunities:
 
 >work in an industry you served as a consultant, venture capital,
 >private equity, policy/civil service, work on a “strategy team” for a
->company. [Career Capital 80k hours](https://80000hours.org/career-reviews/management-consulting/)
+>company. [Career Capital 80k-hours](https://80000hours.org/career-reviews/management-consulting/)
 
 You can pretty much do a lot with such exit opportunities. i.e., go to
 place where you think your resources are most needed?
@@ -1234,7 +1282,7 @@ So I present this with 9? It seems like it is far apart from anything
 I have seen before in either DS or DE. DS is also supposed to good
 connections. But I will say this, if MC's are the top performers, if
 tom dick and harry can become DS's, if MC's earn more than DS's, if
-MC's connections are highly talked about by 80k hours, if you know and
+MC's connections are highly talked about by 80k-hours, if you know and
 work with your peers who are brilliant, 
 
 OK I will settle with an 8 considering DS is at 5. <!-- I am afraid it -->
@@ -1318,8 +1366,8 @@ So a 6 or a 7.
   - Similar chances as above still apply.
   - Chance of clearing GMAT and getting a scholarship still make sense
     (42%)
-  - Chance of getting the top MC job (50%)
-  - Chance of getting a job that is paying similar to DS (90%)
+  -~~Chance of getting the top MC job (50%)~~
+  - Chance of getting a job that is paying similar to DS (70%)
   
   If I got this far then I should be somewhat good to begin with hence
   the probability.
@@ -1349,10 +1397,10 @@ So the chances pan out to be:
   - Similar chances as above still apply.
   - Chance of clearing GMAT and getting a scholarship still make sense
     (42%)
-  - Chance of getting the top MC job (50%)
-  - Chance of getting into a the likes of Gates Foundation (80%)
+  - ~~Chance of getting the top MC job (50%)~~
+  - Chance of getting into a the likes of Gates Foundation (70%)
   
-  In total it is 16.8
+  In total it is 
 
 **Supportive conditions/Job Satisfaction**
 There is good feedback and training. Job satisfaction, although 60
@@ -1613,7 +1661,7 @@ so after 7 years not sure.
 First I need to answer the probability of getting in top
 20 colleges if I start pursuing Econ Phd from now.
 
-- Chances of getting 165+ in GRE quants (85%)
+- Chances of getting 165+ in GRE quants (90%)
 
 I love math. I have always loved it. I love it when things get
 technical. I love LA, Calculus, ODE etc... It has all been part of my
@@ -1648,10 +1696,10 @@ student](https://80000hours.org/2015/06/advice-on-entering-a-us-economics-phd-fr
 top 20 and I think the requirements could be relaxed. I need some
 consultation though.
 
-- prepared to work for long hours (90%)
+- prepared to work for long hours (95%)
 
 I have done it in the past. Currently, I clock about 11 hrs on 4
-weekdays per week, and still manage to go to the gym. 80k hours says
+weekdays per week, and still manage to go to the gym. 80k-hours says
 that I should be prepared to do 70+ hours a week (10 hrs a
 day). Atleast during the first year of studies according to
 [econdjobrunours](https://www.econjobrumors.com/topic/how-many-hours-do-you-work-at-various-phases-of-your-phd-studies/page/2). So I don't really see it as a problem, if this
@@ -1678,7 +1726,7 @@ But if your research is completely your own, I would take the most
 important topic for me and try to do and learn everything I can about
 it. I would take something like poverty for example.
 
-So the chance of completing decently an Econ Phd within top 20 is: 30%
+So the chance of completing decently an Econ Phd within top 20 is: 33.5%
 
 1. Success here is defined as getting into academia or a government
 organization and getting the [rare chance](http://allegedwisdom.blogspot.com/2017/03/the-story-of-lucky-economist.html) of making crazy impact
@@ -1686,11 +1734,11 @@ organization and getting the [rare chance](http://allegedwisdom.blogspot.com/201
 addition to donations possible as a result of the job.
 
 Everyone gets a job in the end with an Econ Phd. But being able to
-save another 400 lives [comes rarely.](http://allegedwisdom.blogspot.com/2017/03/the-story-of-lucky-economist.html)+ another 100 lives based on
-advocacy. I weigh this at 20%. Seems high but still.
+save another 400 lives [comes rarely.](http://allegedwisdom.blogspot.com/2017/03/the-story-of-lucky-economist.html)+ another 50 lives based on
+advocacy. I weigh this at 20%. Seems high based on what I have read,
+but still.
 
-This puts us at 6% in total. For lack of better ways this 6% is also
-representative of the academic careers even.
+This puts us at 6% in total. 
 
 2. Success can still be achieved with MC or other private sector jobs
 
@@ -1707,7 +1755,7 @@ representative of the academic careers even.
 >difficult. But, getting a good, well paying non-academic job was
 >pretty easy. -[Noahpinion comments](http://noahpinionblog.blogspot.com/2013/05/if-you-get-phd-get-economics-phd.html)
 
-This puts us at a personal fit of 24%.
+This puts us at a personal fit of 29%.
 
 **Supportive conditions/Job Satisfaction** 7
 
@@ -1733,10 +1781,10 @@ In total 750 lives
 
 2. Impact not including the [rare chance](http://allegedwisdom.blogspot.com/2017/03/the-story-of-lucky-economist.html) would be 
 
-	- impact of an MC consulting job lets for 30 years even
-      considering leaving it and moving into other industries
-	  is about 500 lives.
-	- impact due to advocacy 100 lives (pure guess) 
+	- impact from taking up an MC job followed by the many exit
+      opportunities for 30 years (lesser time than that in the MC
+      profile considered above) is about 500 lives
+	- impact due to advocacy 50 lives (pure guess) 
 
 >You gain a broad set of tools for understanding how the social world
 >works, which is helpful for evaluating causes and interventions. This
@@ -1981,7 +2029,7 @@ Programming + finance
 Seems to be the same as working at an EAO, but more detailed. I will
 skip it for now.
 
-I remember reading in 80k hours the importance of not working in an
+I remember reading in 80k-hours the importance of not working in an
 NGO now but working on it later than now. First build CC and then come
 back, as it is easier to go one way than the other.
 
@@ -2007,7 +2055,7 @@ and non-profits would mean to gain work first at the corporate sector.
 The goal right now is not to create the highest impact yet.. but to
 make flexible career capital the most important thing in the world.
 
-As per the frequent words from 80k hours, working in an NGO should not
+As per the frequent words from 80k-hours, working in an NGO should not
 be the first thing to do for 2 reasons:
 
 1. Experience is not really considered epic here
@@ -2241,7 +2289,7 @@ Impact in a startup is estimated at 8k lives.
 >Instead of receiving about 20% of the company’s equity, as a founder
 >would, you’ll receive 0.1% – 1% depending on your role and how early
 >you join, and you’ll receive more of your compensation as salary
->rather than equity. - [80k hours startup employee](https://80000hours.org/career-reviews/startup-early-employee/)
+>rather than equity. - [80k-hours startup employee](https://80000hours.org/career-reviews/startup-early-employee/)
 
 So the resulting impact is expected to be, lets say 0.5% of 8k = 40
 in addition to the impact a normal engineer would have over his
@@ -2408,7 +2456,10 @@ Thailand.
 
 [Working in Thailand](https://80000hours.org/2014/09/should-you-move-to-thailand/)
 
+[5 profiles of people who moved into
+programming](https://80000hours.org/2014/06/case-series-why-and-how-to-learn-programming/)
 
+also meet <!-- suruta mudi! -->
 
 #### Party Politics/ Congressional staffer/ Civil Services UK
 
@@ -2433,6 +2484,9 @@ Thailand.
 
 	
 
+#### Dubai
+put out the discussion with praveen here.
+
 #### Why not an MBA?
 	
 I suspect I am seeing signs and strong signs pointing me to do
@@ -2456,13 +2510,13 @@ motherfucking skill, thats it. interpersonal or whatever.
 ##  calculations
   
 #### Impact calculations derivations
-##### Calculating impact of direct working in 80k hours
+##### Calculating impact of direct working in 80k-hours
 
 **Problem**
 
-80k hours has changed the lives of 1k people over 8 years. Per change
+80k-hours has changed the lives of 1k people over 8 years. Per change
 the cost is about 1337$. We seek to estimate the contribution of an
-analyst in case he joins 80k hours.
+analyst in case he joins 80k-hours.
 
 **Assumptions or guesses** 
 
@@ -2497,9 +2551,9 @@ team and management team at 30% and 10% each respectively.
   to about 222 lives. (derived above)
   
   Although I think 10% is a fair number to assume for donations, I
-  suspect that with the change in plan based on 80k hours
+  suspect that with the change in plan based on 80k-hours
   intervention, the impact could be atleast 1.5 times than what I
-  could have done without 80k hours.
+  could have done without 80k-hours.
   
 - Number of plans changed in a year = 457 on average and is growing
 (last 2 years plans changed was >1k)
@@ -2512,37 +2566,33 @@ team and management team at 30% and 10% each respectively.
   factors with the number of lives saved in total per year= 10 lives
   
 - If this grows compounded at 2% with 1% inflation in costs and a 10%
-  hike every 5 years for the next 40 years, we get 626 lives.
+  hike every 5 years for the next 40 years, we get **626 lives**.
   
 **Reflection on the calculation**
 
 - I feel like I have been heavily hoping for this answer to turn out
-  ridiculously large say in k's of people saved. But its 2-3x more
+  ridiculously large say in k's of people saved. But its only 2-3x more
   than what I could save just being a design engineer. I want to say
   JUST 2x more, but I will wash my mouth. 
   
   >Stanford economists have demonstrated that the average value of a
   >year of quality human life is actually closer to about $129,000.
   
-   But what I don't understand is that, I am STUPID. It is not the
-  difference between 200 and 600 rs my dear motherfucker, it is the
-  goddamn difference between 25 million to 75 million $, just for one
-  year.  (My internal bells just went off! essay writing you rock)
+  I am very STUPID. It is not the difference between 200 and 600 rs my
+  dear motherfucker, it is the goddamn difference between 25 million
+  to 75 million $ in value, and that too just for one year.  (My
+  internal bells just went off!  essay writing you rock)
   
   Looking at this, even if I spend 4k on a saving a fucking life,
   imagine the value I create. It is very easy to fall for shit due to
-  my scope insensitivity, But pandians are awake and kicking now. 
+  my scope insensitivity, but pandians are awake and kicking now. 
   
-  Even sticking to the cost of saving a life alone right now. To save
-  200 lives and to save 600 lives is the the goddamn difference
-  between saving 800k$ and 2.4mill$.  It might not feel a lot, it
-  might not do a lot inside, but mind you, you are scope insensitive.
-  
-  Shut up and multiply has never been so resounding inside my head. A
-  year later it starts to make sense? Pandian Pan indian.
-  
-  Nevertheless, I shall use these numbers, conservative as they may
-  be.
+  Even if we assume the value to the cost of saving a life alone,
+  right now. To save 200 lives and to save 600 lives is the goddamn
+  difference between saving 800k$ and 2.4mill$ over a life time. It
+  might not do a lot inside, but mind you, you are scope
+  insensitive. Shut up and multiply has never been so resounding
+  inside my head this much. A year later it starts to make sense.
   
 - The numbers produced here seem conservative and very rough, with
   the estimates of my contribution as well as the number of
@@ -2553,25 +2603,26 @@ team and management team at 30% and 10% each respectively.
   lifetime per person.
   
   So I would say there is a possibility of saving 600 to 3000 lives
-  over the next 40 years for me.
+  over the next 40 years for me while doing direct work.
   
-- Another estimate of value created in [$ @ GiveWell is $97,900](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/) which
-  translates to about 1500 lives roughly over 40 years (compounded at
-  2% with 1% inflation in costs and a 10% interest every 5 years)
+- Another estimate of value created by working [@ GiveWell is
+  $97,900](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/) which translates to about 1500 lives roughly over 40
+  years (compounded at 2% with 1% inflation in costs and a 10%
+  interest every 5 years)
   
 - I guess it is more about the ball park or the relatively larger good
-  you can do by working in organizations such as GiveWell.
+  you can do by working in EAO's such as GiveWell.
   
 - Recently I came across an argument regarding ["Why I am not
-  replaceable"](https://80000hours.org/career-reviews/working-at-effective-altruist-organisations/#why-is-working-at-an-ea-organisation-high-impact), by 80k hrs of course and it argued that if I take
+  replaceable"](https://80000hours.org/career-reviews/working-at-effective-altruist-organisations/#why-is-working-at-an-ea-organisation-high-impact), by 80k hrs. And it argued that if I take
   up job at an EAO, then I free up the other person who is "supposed
   to replace me" to do other good things. 
   
-  Also Most organizations are talent constrained rather than funding
+  Also most organizations are talent constrained rather than funding
   constrained, adding more points to the above argument regarding
   replaceability.
   
-  And in that case the GiveWell estimate would go from 97k to 1mill/
+  And in that case the GiveWell estimate would go from 97k to 970k/
   year.
   
   But, 
@@ -2582,12 +2633,12 @@ team and management team at 30% and 10% each respectively.
   >of $126,000 – $505,000 and a median of $77,000 – $307,000 per
   >year.
   
-  It appears that assuming yourself as not replaceable as well as
-  assuming yourself completely replaceable might not be a good
+  It appears that assuming yourself as not completely replaceable as
+  well as assuming yourself completely replaceable might not be a good
   estimate. We will fall in between and based on the expected value an
   EAO thinks of us, it appears that the 97k is indeed a nice
   conservative number and we will stick with the impact calculated as
-	  a result.
+  a result which is 970 lives over 40 years. 
   
   
 ##### Calculating the impact of working in design engineering
@@ -2615,8 +2666,7 @@ I estimate the impact of starting up in tech to be
  
 ## Plan
 
-This post is going to serve as a summary, before I apply to 80k
-hours. I see an stm talk about 21k words etc... on his wall.
+This post is going to serve as a summary, before I apply to 80k-hours. I see an stm talk about 21k words etc... on his wall.
 
 For me the problem with so many words is having to rewrite the whole thing(not
 motivating), 
@@ -2633,9 +2683,9 @@ markdown mode coloring, figured out how to add comments in markdown mode.
 
 
 ## Analysis
-  * [ ] Fix the bug of impact of Top NGO's
+  * [x] Fix the bug of impact of Top NGO's
   * [x] add 80k results and do some checking
-  * [ ] Add 80k resutls and write results of sanity check for each
+  * [x] Add 80k resutls and write results of sanity check for each
         section
   * [ ] Confirm that you needn't change anything
   * [ ] Conclude results per division CC, Total impact, also
@@ -2644,34 +2694,40 @@ markdown mode coloring, figured out how to add comments in markdown mode.
 		
 I have now two sets of data one that I made including my personal fit,
 all based on articles mostly from 80k. The other being the set of data
-from 80k's career reviews summary with their own evaluation of the
+from[ 80k's career reviews](https://80000hours.org/career-reviews/) summary with their own evaluation of the
 numbers.
 
 **Why didn't I use the numbers from 80k directly**
 
 For me I wanted to compare impact across all types of saving
-lives. Also 80k didn't suggest to use it. They asked me to compare
-opportunities across the different points they had provided. Plus I
-made some subdivisions of each profession trying to gauge how useful
-it would be if I went in one direction instead of the other. I could
-have probably extrapolated from 80k numbers now in hindsight. 
+lives. Plus I made some subdivisions of each profession trying to
+gauge how useful it would be if I went in one direction instead of the
+other within the same career. For example, MC as ETG or MC followed by
+DW. I could have probably extrapolated from 80k numbers now in
+hindsight. 
 
 I guess I still could.
 
-**Performing a sanity check:**
+**Performing the sanity check:**
 
 For Career Capital: The ranking goes as 
 
-| rank | My result     | rank (80k) | 80k           |
-|------|---------------|------------|---------------|
-| 1    | MC            | 1          | MC            |
-| 2    | Econ PhD      | 2          | Econ Phd      |
-| 3    | IB            | 2          | DS            |
-| 4    | DS            | 2          | Working @ NGO |
-| 5    | Working @ NGO | 2          | Starting up   |
-| 6    | Starting up   | 3          | IB            |
-| 7    | DE            | -          | -             |
+| rank | My result     | rank 80k |
+|------|---------------|----------|
+| 1    | MC            | 1        |
+| 2    | Econ PhD      | 2        |
+| 3    | IB            | 3        |
+| 4    | DS            | 2        |
+| 5    | Working @ NGO | 2        |
+| 6    | Starting up   | 2        |
+| 7    | DE            | -        |
 
+80k-hours evaluates DS better than IB in CC. But if you can go from IB
+to MC, PE, hedge funds and other exit opportunities, I don't see why
+it is bad in CC. IB on the resume seems to sound fancier than DS.
+
+But this is not the deal breaker.  I don't see the need to make it
+more accurate as personal fit will be the deal breaker anyways.
 
 For Impact:
 
@@ -2680,12 +2736,12 @@ everything into equivalent money possibly generated and then translate
 it to lives by dividing it with 4000 $(The cost of a life according to
 AMF).
 
-With 80k hours these are just points to individual impact. So I don't
+With 80k-hours these are just points to individual impact. So I don't
 know if we can directly compare direct earning and direct impact. In
 other words, is the 5 star rating in direct impact and a 5 start
 rating in Earning and that of the career capital equal to each other.
 
-Adding them directly I compare the result in the end:
+Adding them directly I compare the result:
 
 | rank | Work                            | rank (80k) |
 |------|---------------------------------|------------|
@@ -2700,26 +2756,68 @@ Adding them directly I compare the result in the end:
 | 9    | DS in Europe                    | -          |
 | 10   | DE in Europe                    | -          |
 
-My confidence in the estimates are reasonable. I find my estimates to
-be better because,
+I find my estimates to be reasonable.
 
-- I wouldn't rate IB and MC on the same level ever as according to 80k
-hours, an MC will always earn 30-40% lower than an IB'er.
+- Based on mainly 80k text I generate these values as much as I can
+assuming every 4k$ saves 1 life.
 
-- One this I concede and suspect might be wrong, is the impact of
-  direct working.[ I haven't factored the comment about not loosing value
-  due to being replaceable](http://disq.us/p/1tkqy0u). If that is the case Direct working would
-  freaking skyrocket.
+- I am not sure if the 80k scale is made to be directly added.
+
+- I have attempted to consider a type of career within a career
+  category. For example, within MC I look at MC primarily for direct
+  giving and MC for earning. This is generally not done by 80k-hours.
   
->To get a sense of how much value you create by working at an EA
->organisation, we asked the organisations how much funding they would
->have traded for their most recent hire. They gave an average of
->$126,000 – $505,000 and a median of $77,000 – $307,000 per year.
+  I think what 80k hrs might have with their scaling is that they show
+  the maximum capabilities in direct working and earning or
+  advocacy. Unlike what I have done, as a person can probably pursue
+  one activity primarily and not all of them simultaneously.
 
-This is still in the bounds of what was estimated earlier. Due to the
-uncertainity, it is not in the top position. But does the accuracy of
-this number need to be improved, considering that the personal fit
-will take down starting up right royally? I guess not.
+With this I conclude the section on impact, reasonable as well.
+
+Supporting conditions/ Job satisfaction:
+
+| rank | My result |
+|------|-----------|
+| 1    | DE        |
+| 2    | EAO       |
+| 2    | DS        |
+| 2    | Startup   |
+| 5    | MC        |
+| 5    | Econ PhD  |
+| 6    | IB        |
+
+No supportive conditions details given in the 80k directory. But it
+can be derived based on their career profiles.
+
+But I don't care about it too much except for working crazy hours like
+in IB, or that I have to uselessly sit in an office and do mundane
+work.
+
+
+Personal fit:
+
+| rank | Personal fit                |
+|------|-----------------------------|
+| 1    | DE (ETG)                    |
+| 2    | DS                          |
+| 3    | Econ Phd normal             |
+| 4    | DS (DW)                     |
+| 5    | DE (Sales)                  |
+| 6    | DE in US                    |
+| 6    | SE                          |
+| 7    | EAO                         |
+| 8    | DS in US                    |
+| 9    | DE (DW)                     |
+| 10   | MC (non-partner track)      |
+| 11   | MC (DW)                     |
+| 12   | IB (DW)                     |
+| 12   | Econ Phd (with rare chance) |
+| 13   | MC(ETG/partner)             |
+| 14   | IB(ETG)                     |
+| 15   | starting up                 |
+
+
+Total
 
 
 
@@ -2760,6 +2858,526 @@ what I am doing wrong.
 
 
 
+
+
+
+## Analysis
+  * [x] Fix the bug of impact of Top NGO's
+  * [x] add 80k results and do some checking
+  * [x] Add 80k resutls and write results of sanity check for each
+        section
+  * [ ] Confirm that you needn't change anything
+  * [ ] Conclude results per division CC, Total impact, also
+        induvidual impact and finally multiply with the personal fit
+        and inform the findings.
+		
+I have now two sets of data one that I made including my personal fit,
+all based on articles mostly from 80k. The other being the set of data
+from[ 80k's career reviews](https://80000hours.org/career-reviews/) summary with their own evaluation of the
+numbers.
+
+**Why didn't I use the numbers from 80k directly**
+
+For me I wanted to compare impact across all types of saving
+lives. Plus I made some subdivisions of each profession trying to
+gauge how useful it would be if I went in one direction instead of the
+other within the same career. For example, MC as ETG or MC followed by
+DW. I could have probably extrapolated from 80k numbers now in
+hindsight. 
+
+I guess I still could.
+
+**Performing the sanity check:**
+
+For Career Capital: The ranking goes as 
+
+| rank | My result     | rank 80k |
+|------|---------------|----------|
+| 1    | MC            | 1        |
+| 2    | Econ PhD      | 2        |
+| 3    | IB            | 3        |
+| 4    | DS            | 2        |
+| 5    | Working @ NGO | 2        |
+| 6    | Starting up   | 2        |
+| 7    | DE            | -        |
+
+80k-hours evaluates DS better than IB in CC. But if you can go from IB
+to MC, PE, hedge funds and other exit opportunities, I don't see why
+it is bad in CC. IB on the resume seems to sound fancier than DS.
+
+But this is not the deal breaker.  I don't see the need to make it
+more accurate as personal fit will be the deal breaker anyways.
+
+For Impact:
+
+I compute total impact to the extent possible by translating
+everything into equivalent money possibly generated and then translate
+it to lives by dividing it with 4000 $(The cost of a life according to
+AMF).
+
+With 80k-hours these are just points to individual impact. So I don't
+know if we can directly compare direct earning and direct impact. In
+other words, is the 5 star rating in direct impact and a 5 start
+rating in Earning and that of the career capital equal to each other.
+
+Adding them directly I compare the result:
+
+| rank | Work                            | rank (80k) |
+|------|---------------------------------|------------|
+| 1    | Starting up                     | 1          |
+| 2    | IB(ETG)                         | 3          |
+| 3    | MC(as a partner)                | 3          |
+| 4    | Direct working @ EAO (DS etc..) | 1          |
+| 5    | Econ PhD. with rare chance      | 6          |
+| 6    | MC (exit after 5 year)          | -          |
+| 7    | DS/SE in the US                 | 5          |
+| 8    | DE in the US                    | -          |
+| 9    | DS in Europe                    | -          |
+| 10   | DE in Europe                    | -          |
+
+I find my estimates to be reasonable.
+
+- Based on mainly 80k text I generate these values as much as I can
+assuming every 4k$ saves 1 life.
+
+- I am not sure if the 80k scale is made to be directly added.
+
+- I have attempted to consider a type of career within a career
+  category. For example, within MC I look at MC primarily for direct
+  giving and MC for earning. This is generally not done by 80k-hours.
+  
+  I think what 80k hrs might have with their scaling is that they show
+  the maximum capabilities in direct working and earning or
+  advocacy. Unlike what I have done, as a person can probably pursue
+  one activity primarily and not all of them simultaneously.
+
+With this I conclude the section on impact, reasonable as well.
+
+Supporting conditions/ Job satisfaction:
+
+| rank | My result |
+|------|-----------|
+| 1    | DE        |
+| 2    | EAO       |
+| 2    | DS        |
+| 2    | Startup   |
+| 5    | MC        |
+| 5    | Econ PhD  |
+| 6    | IB        |
+
+No supportive conditions details given in the 80k directory. But it
+can be derived based on their career profiles.
+
+But I don't care about it too much except for working crazy hours like
+in IB, or that I have to uselessly sit in an office and do mundane
+work.
+
+
+Personal fit:
+
+| rank | Personal fit                |
+|------|-----------------------------|
+| 1    | DE (ETG)                    |
+| 2    | DS                          |
+| 3    | Econ Phd normal             |
+| 4    | DS (DW)                     |
+| 5    | DE (Sales)                  |
+| 6    | DE in US                    |
+| 6    | SE                          |
+| 7    | EAO                         |
+| 8    | DS in US                    |
+| 9    | DE (DW)                     |
+| 10   | MC (non-partner track)      |
+| 11   | MC (DW)                     |
+| 12   | IB (DW)                     |
+| 12   | Econ Phd (with rare chance) |
+| 13   | MC(ETG/partner)             |
+| 14   | IB(ETG)                     |
+| 15   | starting up                 |
+
+
+Total
+
+It appears that **DS for direct giving** would be the best to choose,
+looking at CC, impact and Personal fit together.
+
+  * [ ] One thing I want to check is how CC and Impact are compared to
+        gether.
+		
+An Econ Phd would be the next best thing, if we don't really try to
+1work in the government and look out for that rare chance as an
+analyst.
+
+It is very suprising that DS for ETG at NL is the third option,
+followed by DE for earning to give.
+
+The personal fit plays a mightly role in all of this I guess.
+
+
+### How to equate CC and IT
+
+> If you are still early in your career, then it’s best to place greater
+> importance on career capital than on role impact, as you’re likely to
+> be able to find plenty of good opportunities to invest in yourself. If
+> you’re late in your career, place less importance on career capital
+> and more on making an impact now. That said, the amount of weight to
+> put on career capital can also depend on which problems you want to
+> work on. See more.
+>
+> The more uncertain you are about the long-run, the more you should
+> prioritise flexible career capital over narrow career
+> capital. Flexible career capital is career capital that’s useful in
+> many different roles.
+>
+> The more altruistically-minded you are, the less weight you’ll need to
+> place on job satisfaction relative to the other factors.  Bear in mind
+> that personal fit is potentially the most important factor because it
+> can improve everything else.
+
+I am early in my career (27) and would like to place more weight on
+flexible CC.
+
+>Anything that gives you a valuable transferable skill
+>e.g. programming, data science, marketing.
+
+>flexible – useful in many different types of jobs, and likely to
+>remain useful in the future. For instance, learning marketing or
+>management is flexible because almost all organisations need these
+>skills; -[80k CC](https://80000hours.org/career-guide/career-capital/)
+
+1. IT of EAO = CC of MC ; Everything from there could just be a linear
+extrapolation.
+
+Seems to be a reasonable estimate I think. I do not want to match it
+to the IT of IB as it then makes IT of EAO look really low (looking at
+it linearly). Which seems to not be the case.
+
+80k gives Direct impact capabilities a max rating when one works in an
+EAO. 
+
+Also there could be other career profiles that could have much larger
+impact say 100k lives. If I take them to be the gold standard then
+everything else will have a small number compared to CC. 
+
+I think what I am doing here is compare achievable CC to Achievable
+impact. This sounds reasonable?
+
+Well! 
+
+Atleast it seems to not make sense to compare to a president. 
+
+Is it possible to somehow estimate the impact worth of CC and equate
+it to EAO.
+
+In my head I have already made the decision that IT of EAO = CC of
+MC. I am only trying to prove it right I think. 
+
+I shall comeback to this later I guess. for now, this seems fine.
+
+2. Rate max best CC as 10 and best IT as 10.
+
+But the problem is that impact is like very non linear. There is
+impact of 400 and there is like 10 times its impact.
+
+Say I know something that can save 8k lives and then something that
+can save 400 lives. 8 lives can be 10 and 400 lives can be 0.5. But
+then in CC, IB could have a max 10 and DE could have a 5 already. If
+we add it up directly then the contribution of impact is so low for
+DE. What does this mean? I 
+
+I am afraid it is not weighed properly
+
+Define properly. If there is an accepted number of CC which can
+correlate with Impact. Maybe even then we have lot of problems. 
+
+  * [ ] I feel too confused. I would like to get the data out
+again. Look at 3-4 cases only and decide how I am going to compare and
+weight the different alternatives.
+
+  * [ ] look at the 80k guide
+  
+  or just keep it as it is and go forward. Don't do the adding?
+
+
+Skip this. Don't need to add and compare. Seems pointless when I have
+no idea what it means. It seems like just a ranking.
+
+### Looking at the ranking
+
+The second best option seems to be DS in NL as ETG. Shocked! I guess
+it is because of the ridiculous personal fit that this has happened.
+IB is out of the question. I am really afraid of burning out, the way
+of work is quite unhealthy and I need to take care of myself for
+serving mankind on the long run.
+
+**CC**
+MC seems promising CCwise. But say I find out I am not partner
+material or I didn't get a scholarship or the hours are sick, then ETG
+is not really an option, so I have to move out. When I move out yes I
+can do other things, join a company bla bla and rise the ranks. What I
+am uncertain about this is being able to work in an EAO. 
+
+MC is my decentest chance of maximizing ETG. And it is not really out
+of my scope I think, although my personal fit might say otherwise. The
+personal fit factors in a ton of uncertainity and path that I have
+chosen i.e., an MBA without scholarship sounds unimaginable. In case
+it is not the cut for me, then with the GREATEST CC (5 stars on 80k) I
+should be able to pick up my shit and do other things. But, the other
+best way to create impact is by working at an EAO. *My uncertainity is
+whether I am allowed to work at an EAO*.
+
+<!-- MC in EAO OK/NOK: mail rob now -->
+
+Given 6 months more, my personal fit estimate would have improved
+because, that is how long I plan to take to prepare for GMAT and give
+a score. By then I can make a better decision to move out to DS byt
+year 28- whats in another few months. It seems like I should be able
+to pick up DS with a delay of 6 months. I don't see it as a problem.
+
+I assume the impact due to an MBA not in any of the top 3 or without
+a scholarship as shit. I don't consider the career.
+
+maybe... <!-- try to evaluate a MC without scholarship and  -->
+
+
+**Impact based**
+
+I don't think I can already start working in an EAO as I might need
+some special skills, or do other things to get attention of people in
+the community before I apply for a job, but never the less, based on
+
+
+**Best choice overall**
+
+DS in the beginning and moving to opportunities in DW seems to be the
+best option with decent CC ([4/5](https://80000hours.org/career-reviews/) according to 80k) and decent
+possibilities to DW ([3/5](https://80000hours.org/career-reviews/) according to 80k). However, because of
+the skills, I see decent chances of moving to an EAO in some
+years. There by gaining sufficient flexible CC and capabilities and
+credentials to move to be worthy of a top EAO. 
+
+By this I mean for the next 5 years, I will work my ass off and
+understand and build my skills in programming and statistics and
+writing. This will allow me to improve my scene in the 80k community
+and join as an analyst, or writer, researcher based on DATA. Critical
+thinking is the main think, solving problems is the other part of it. 
+
+At this point I say, why won't I be offered a job in EAO, taking into
+account why I am doing what I doing.
+
+#### Elimination of the obvious
+
+I have the numbers that I need and can already make a decision. Just
+choose the highest number and I should be good right? Well there is
+uncertainity in the numbers and I want to take it slow and start by
+first removing the obvious ones based on reasoning and looking at the
+numbers.
+
+**CC wise**
+
+DE for DW is a no go, has the lowest cc rating. One can argue that
+once you get into and EAO, you will do great things and with the time
+that DE in NL offers I can pretty much build whatever skill I want.
+
+The point is the EAO's primarily require organizational capabilities,
+research capabilities, writing capabilities, DS, programming, as far
+as I know. But DE seems to offer none of this. Staying in DE and
+becoming great at it and moving to a start up can be an option, but we
+know how low probability that is.
+
+<!-- What do EAO's actually require skills wise -->
+
+So over all, for the above reasons it seems like a weak choice, but an
+obvious other option is to do DS instead and it seems to beat the DE
+for DW instantly as it gives you several opportunities to become
+capable for EAO, wiht programming and statistics info. Everything
+thing that you do at work, is counting towards the 10k hours unlike in
+DE where the work at an EAO is almost orthogonal.
+
+**Support conditions wise**
+
+SC wise it appears that IB is a sure reject. I am really afraid of the
+long hours and the tales of horror, lack of excitement in job. Which
+is why I think it is a poor fit SC wise even for me. SC, I
+gather/understand/guess that it is better even with MC. With hours
+being reasonable.
+
+**Total wise**
+
+An Econ Phd can contribute moderately towards impact using ETG and
+Advocacy. But, the one that has most impact is when an Econ Phd can
+just save too many lives by being at the right place and at the right
+moment. The thing is people look at Econ people with respect regarding
+things they say, and this makes them very valuable in the field of
+policy. 
+
+An Econ PhD however with such a chance of getting this opportunity of
+potentially adding benefits to a few millions of lives seems mighty
+low as factored in the profile on Econ PhD. To add further, the
+estimated impact was calculated to be lesser than EAO impact. Based on
+my source who is an Econ PhD from the top 5 universities and got a job
+in the government, I think it is wise to let this rare chance in
+combination with an Econ PhD slide. 
+
+Despite with the scope of causing maximum impact ever, the chances of
+succeeding are really really low for now. 
+
+However, in the later stages of my life working for a startup or
+co-founding a startup should definitely be considered, considering the
+impact. With a year or 2 of effort, we can better estimate the success
+of the startup (say you get accepted into Ycombinator). Even to
+attempt startups I need some proper CC, having worked a few years,
+which I can use to add value.
+
+<!-- I am afraid that I give more probability to something that is far
+--> <!-- away, I seem to be more optimistic about scenario that is -->
+<!-- more far away-->
+
+As a sanity check, all the ones eliminated until now, seem to be on
+the bottom of the list, when organized based on the total awarded to
+each independent career path.
+
+#### Comparing EAO vs DS
+
+Comparing working now at an EAO and taking up DS now, I interpret the
+advice from 80k as 'take up DS now'.
+
+> If you are still early in your career, then it’s best to place greater
+> importance on career capital than on role impact, as you’re likely to
+> be able to find plenty of good opportunities to invest in yourself. If
+> you’re late in your career, place less importance on career capital
+> and more on making an impact now. That said, the amount of weight to
+> put on career capital can also depend on which problems you want to
+> work on. See more. 
+
+I anyways need skills, which I need to spend time on. By the looks of
+it, statistics, organizational etc... Maybe it may workout that after
+one year I should move to EAO. But for now, I don't think EAO is the
+right place for me yet.
+
+The CC at an EAO is not really great with respect to getting training
+or assistance from experienced people. The DS track followed by
+working at an EAO at some point in life seems better than the EAO
+track right away based on the advice of 80k-hours.
+
+#### Comparing Econ Phd without the rare chance vs DS
+
+An Econ Phd although hyped greatly by 80k-hours due to its advocacy
+potential and possible impact and CC, it still seems to be a not so
+great fit. Impact wise I claim an Econ Phd without the rare chance can
+save 550 lives @ 29% personal fit. Where as a job at an EAO can save
+>970 lives @ 41% personal fit.
+
+It appears that EAO is the place to be and not an Econ PhD. As seen
+above though, we want to start with something else (say DS) before we
+move to an EAO. By extension then 'DS for DW' beats Econ PhD. 
+
+#### DS vs MC (becoming partner)
+
+MC along with becoming a partner is an incredible opportunity for
+ETG. However the personal fit of 1.3% is really low for something with
+a potential to save >1200 lives over ones life time. It appears that
+it would be better to bet on EAO instead. As the >1200 lives is
+dependent on several stages of the career over the next 25 years. It's
+not like you can work it out a little and figure out much better
+estimates of the personal fit. A personal fit of of 57% is required
+for it to match the 'total' of a job at an EAO. With 1 years effort I
+can know if I got scholarship in top 20. I would still be at a
+personal fit of 25% and far from competing with 'working at an EAO'.
+
+Although an MC is great in CC, I am not sure how it translates when I
+would like to work for an EAO. In any case based on the personal fit
+(i.e., probability of success) a DS would still beat an MC as the
+number of lives saved has been assumed to be the same when working at
+an EAO. 
+
+At this moment it appears that MC of any form is not favourable even
+with a few years of going further with the career due to the large
+uncertainity and seemingly better option of 'DS for DW'. And as said
+earlier, even if I spent time to see how far I get with 
+
+So becoming partner is far fetched. Even if I went as far as finishing
+my MBA successfully, my other options now are to work for some
+organization (with an impact of 700 lives) or join an EAO (with an
+impact of >970 lives). I am not sure why I would go with any of these
+two options as DS with an EAO track seems more possible with similar
+impact levels. 
+
+There by it appears that MC is not worth pursuing just for the CC
+alone, as impact estimated along with the personal fit, can be
+obtained by other means with much more confidence.
+
+#### Eliminating 
+
+Having eliminated Starting up, Econ Phd with rare chance and IB, I see
+that MC all variations of an MC career at low in the table.
+
+This I think is mainly due to the personal fit. For example, becoming
+a partner at a top agency is going to be really hard, even for the top
+brains, and I estimated that probability to be 1%. Even if you save
+1000 lives, it is still not the right move for you, as the net result
+is looked at `0.01x1000=10 lives`
+
+Getting an MC is so hard already that the even if there are back up
+options, the personal fit is still low. This does not make any more
+sense and hence until the personal fit is revised this does not seem
+to make sense. 
+
+Also, 
+
+
+
+### Questions to Ram
+
+1. Can I multiply prolties? Is there a better way to do this while
+   comparing different options
+
+So I am attempting to estimate which career is my best fit. In order
+to do that I look at the chances of an event A, B to G. I multiply all
+of these chances to get my personal fit.
+
+The problem is though, with every career, my events are quite
+different and the number of events also are different.
+
+Also, the more number of events I have my personal fit automatically
+goes down big time. 80% probabilities in 2 events will give me a very
+bad personal fit of 64%.
+
+Can you comment on if this is the way of the world or can I do better?
+
+**Answer**
+Ram suggests to use atleast the same number of events for each case.
+
+2. What is the best way to estimate lifetime salary.
+
+My typical approach is assume a salary growth of 4% an inflation of 2%
+and 10% increase every 5 years and take it all the way till I am 70.
+
+By doing this my estimate really large salaries when I am say 70. I am
+afraid it is realistic. So for example, my current salary is 40k/year,
+I claim it to become 362k/year when I am 70.
+
+Sometimes I really know what the salary is going to be at a certain
+level and then I use that directly, say in the case of Management
+Consulting.
+
+Is there a better approach? Your thoughts on what I can do better and
+what I am doing wrong.
+
+**Answer:**
+Above 45 the rise in salary cannot be as much as 4%. 
+
+3. While evaluating careers. 
+
+lets take MBA track with becoming partner, leaving Mc after 5 years or
+do something else.
+
+While estimating the P of each of this, the P of MBA multiplies.
+
+I look at it like independent tracks, but in reality they are backup
+options, which I will take up based on how they pan out.
+
+How can I caliculate resulting number of balls I can buy?
 
 ## Reflection
 
@@ -3263,12 +3881,42 @@ understand, but direct work not sure.
         uncertainity- from tomorrow already else it becomes one
         gigantic task
 		
-  * [ ] check the thing with probabilities
+  * [x] check the thing with probabilities
+  * [ ] Act on probabilities?
   * [ ] have a look at the comments and see if there is anything
         useful
-		
-### ideas
+  * [ ] [Career planning tool ](https://80000hours.org/career-planning-tool/)
+  * [ ] [research decision tool](https://80000hours.org/career-decision/)
+  * [ ] [investigate risk aversion](https://80000hours.org/career-decision/)
+  
+- [x] Make analysis of which is best?
+- [ ] Most important is probability: having same events for diff prolties
+- [x] XxCC = YxImpact; X? Y?
+- [ ] 30 years 20 to 30 prime?  
+- [ ] Speak to sivagagnam, praneeth burra regarding age issues
+- [ ] risk aversion
+- [ ] Plan ABZ
+- [ ] fix the document for reading by others
+- [ ] improving personal fits
+- [ ] DS vs SE
+- [ ] MC after scholarship working as a big shot ETG
 
+Do an analysis based on the current results I have. Figure out your
+uncertainties but don't act on them yet. Once we have done the
+analysis, assuming v02-00 is right then we can kill it in other ways.
+
+The other thing is there are some errors in the v02-00 document. As an
+attempt at addressing the "flaw" of equating XxCC and YxImpact, how
+about we first strip all those factors down and try to repair it or
+your know get it on a scale of 1 to 10. EQUATING?
+
+It's almost set what I want to do. Clean the essay first and then
+focus on your uncertainities. Period. nothing else to do for
+now. clean up website for others viewing
+
+
+### ideas
+	
 What If I take another 6 months to evaluate by trying out some things
 like economics, MBA etc... 
 
@@ -3309,3 +3957,34 @@ From DE impact NGO
 ## Success
 
 What do you think you will kill? and what is the evidence?
+## Age
+
+Learning to program later in life:
+https://news.ycombinator.com/item?id=4350827
+
+A decent site quoting studies and not quora for crying out loud
+http://www.mempowered.com/aging/why-learning-harder-we-get-older
+
+17 year olds were affected much more by interference in learning than
+were 9 or 12 year olds.
+
+Quoting some scientist
+https://www.fastcompany.com/3045424/what-it-takes-to-change-your-brains-patterns-after-age-25
+
+In the above article they talk about how we can make new pathways when
+we are young and that as we get old it will be harder. I doubt that I
+am unable to learn something new say when I am 32. 
+
+Granted it will slower than I can now due to the plasticity thingy,
+granted there will be young people who are faster than me in
+that, but I suppose I have laid down some foundation for it. By that I
+mean it won't be completely new.
+
+The thing I am worried about is about having enough time to learn it
+and having opportunities to intern and then change job.
+
+I am looking for an answer where people tell me "Don't try to learn
+someting completely new at the age of 35" for example.
+## Other worthwhile skills
+
+Interpersonal skills sales type of skills
