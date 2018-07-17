@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  "Fixing ubuntu"
+title:  "Fixed ubuntu power-off scenes? "
 date:    06-07-2018 19:39
 categories: The Beginning
 permalink: /:title.html
@@ -408,6 +408,190 @@ Jul 12 18:20:26 eghx-nitro kernel: [93219.939317] PM: Restoring platform NVS mem
 Jul 12 18:20:26 eghx-nitro kernel: [93219.940090] Suspended for
 73329.209 seconds
 
+### July 13 computer continues to sleep
+### July 14 42 hrs of sleep ~90% --> 50% + 10 mins of work **OK**
+Jul 12 22:03:04 eghx-nitro systemd[1]: Starting Suspend...
+Jul 12 22:03:04 eghx-nitro systemd-sleep[30051]: Failed to connect to non-global ctrl_ifname: (nil)  error: No such file or directory
+Jul 12 22:03:04 eghx-nitro systemd-sleep[30052]: /lib/systemd/system-sleep/wpasupplicant failed with error code 255.
+Jul 12 22:03:04 eghx-nitro systemd-sleep[30051]: Suspending system...
+Jul 12 22:03:04 eghx-nitro kernel: [105632.977934] PM: Syncing filesystems ... done.
+Jul 12 22:03:04 eghx-nitro kernel: [105633.147275] PM: Preparing system for sleep (mem)
+Jul 14 16:53:08 eghx-nitro kernel: [105635.504742] Freezing user space processes ... (elapsed 0.001 seconds) done.
+Jul 14 16:53:08 eghx-nitro kernel: [105635.506504] OOM killer disabled.
+Jul 14 16:53:08 eghx-nitro kernel: [105635.506505] Freezing remaining freezable tasks ... (elapsed 0.001 seconds) done.
+Jul 14 16:53:08 eghx-nitro kernel: [105635.507885] PM: Suspending system (mem)
+Jul 14 16:53:08 eghx-nitro kernel: [105635.507946] Suspending console(s) (use no_console_suspend to debug)
+Jul 14 16:53:08 eghx-nitro kernel: [105635.724020] sd 2:0:0:0: [sdb] Synchronizing SCSI cache
+Jul 14 16:53:08 eghx-nitro kernel: [105635.724395] sd 0:0:0:0: [sda] Synchronizing SCSI cache
+Jul 14 16:53:08 eghx-nitro kernel: [105635.724618] sd 2:0:0:0: [sdb] Stopping disk
+Jul 14 16:53:08 eghx-nitro kernel: [105635.725823] sd 0:0:0:0: [sda] Stopping disk
+Jul 14 16:53:08 eghx-nitro kernel: [105637.040479] PM: suspend of devices complete after 1317.536 msecs
+Jul 14 16:53:08 eghx-nitro kernel: [105637.062292] PM: late suspend of devices complete after 21.808 msecs
+Jul 14 16:53:08 eghx-nitro kernel: [105637.194285] PM: noirq suspend of devices complete after 131.988 msecs
+Jul 14 16:53:08 eghx-nitro kernel: [105637.194894] ACPI: Preparing to enter system sleep state S3
+Jul 14 16:53:08 eghx-nitro kernel: [105637.195602] ACPI: EC: event blocked
+Jul 14 16:53:08 eghx-nitro kernel: [105637.195602] ACPI: EC: EC stopped
+Jul 14 16:53:08 eghx-nitro kernel: [105637.195603] PM: Saving platform NVS memory
+Jul 14 16:53:08 eghx-nitro kernel: [105637.195692] Disabling non-boot CPUs ...
+Jul 14 16:53:08 eghx-nitro kernel: [105637.210770] irq_migrate_all_off_this_cpu: 2 callbacks suppressed
+Jul 14 16:53:08 eghx-nitro kernel: [105637.210772] IRQ 316: no longer affine to CPU1
+Jul 14 16:53:08 eghx-nitro kernel: [105637.210777] IRQ 317: no longer affine to CPU1
+Jul 14 16:53:08 eghx-nitro kernel: [105637.211795] smpboot: CPU 1 is now offline
+Jul 14 16:53:08 eghx-nitro kernel: [105637.230721] IRQ 122: no longer affine to CPU2
+Jul 14 16:53:08 eghx-nitro kernel: [105637.230759] IRQ 318: no longer affine to CPU2
+Jul 14 16:53:08 eghx-nitro kernel: [105637.230764] IRQ 321: no longer affine to CPU2
+Jul 14 16:53:08 eghx-nitro kernel: [105637.231778] smpboot: CPU 2 is now offline
+Jul 14 16:53:08 eghx-nitro kernel: [105637.254651] IRQ 1: no longer affine to CPU3
+Jul 14 16:53:08 eghx-nitro kernel: [105637.254657] IRQ 8: no longer affine to CPU3
+Jul 14 16:53:08 eghx-nitro kernel: [105637.254662] IRQ 9: no longer affine to CPU3
+Jul 14 16:53:08 eghx-nitro kernel: [105637.254667] IRQ 14: no longer affine to CPU3
+Jul 14 16:53:08 eghx-nitro kernel: [105637.254672] IRQ 16: no longer affine to CPU3
+Jul 14 16:53:08 eghx-nitro kernel: [105637.255738] smpboot: CPU 3 is now offline
+Jul 14 16:53:08 eghx-nitro kernel: [105637.258794] ACPI: Low-level resume complete
+Jul 14 16:53:08 eghx-nitro kernel: [105637.258926] ACPI: EC: EC started
+Jul 14 16:53:08 eghx-nitro kernel: [105637.258927] PM: Restoring platform NVS memory
+Jul 14 16:53:08 eghx-nitro kernel: [105637.259699] Suspended for 154199.483 seconds
+### No more logging required
+
+Logging is not necessary anymore. No signs of failing PC for one week
+now after upgrade and stuff! We will start logging again if it happens
+again!
+
+Computer not shutdown since july 6 atleast. Works very much fine.
+
+### July 15 <4 hrs of sleep ~100% --> switch off ; available: 99% **NOK**
+It still  continued to work without swtiching off until 50% (after
+that I didn't try)
+Jul 14 19:50:24 eghx-nitro systemd[1]: Starting Suspend...
+Jul 14 19:50:24 eghx-nitro systemd-sleep[24117]: Failed to connect to non-global ctrl_ifname: (nil)  error: No such file or directory
+Jul 14 19:50:24 eghx-nitro systemd-sleep[24118]: /lib/systemd/system-sleep/wpasupplicant failed with error code 255.
+Jul 14 19:50:24 eghx-nitro systemd-sleep[24117]: Suspending system...
+Jul 15 09:36:18 eghx-nitro rsyslogd: [origin software="rsyslogd" swVersion="8.16.0" x-pid="827" x-info="http://www.rsyslog.com"] start
+Jul 15 09:36:18 eghx-nitro rsyslogd-2222: command 'KLogPermitNonKernelFacility' is currently not permitted - did you already set it via a RainerScript command (v6+ config)? [v8.16.0 try http://www.rsyslog.com/e/2222 ]
+Jul 15 09:36:18 eghx-nitro rsyslogd: rsyslogd's groupid changed to 108
+Jul 15 09:36:18 eghx-nitro rsyslogd: rsyslogd's userid changed to 104
+Jul 15 09:36:18 eghx-nitro systemd-modules-load[246]: Inserted module 'lp'
+Jul 15 09:36:18 eghx-nitro systemd-modules-load[246]: Inserted module 'ppdev'
+Jul 15 09:36:18 eghx-nitro systemd-modules-load[246]: Inserted module 'parport_pc'
+Jul 15 09:36:18 eghx-nitro loadkeys[250]: Loading /etc/console-setup/cached.kmap.gz
+Jul 15 09:36:18 eghx-nitro systemd[1]: Started Load Kernel Modules.
+Jul 15 09:36:18 eghx-nitro systemd[1]: Mounting Configuration File System...
+Jul 15 09:36:18 eghx-nitro systemd[1]: Starting Apply Kernel Variables...
+Jul 15 09:36:18 eghx-nitro systemd[1]: Mounting FUSE Control File System...
+Jul 15 09:36:18 eghx-nitro systemd[1]: Mounted Configuration File System.
+Jul 15 09:36:18 eghx-nitro systemd[1]: Mounted FUSE Control File System.
+Jul 15 09:36:18 eghx-nitro systemd[1]: Started Apply Kernel Variables.
+Jul 15 09:36:18 eghx-nitro rsyslogd-2039: Could not open output pipe '/dev/xconsole':: No such file or directory [v8.16.0 try http://www.rsyslog.com/e/2039 ]
+Jul 15 09:36:18 eghx-nitro systemd[1]: Started Create Static Device Nodes in /dev.
+Jul 15 09:36:18 eghx-nitro systemd[1]: Starting udev Kernel Device Manager...
+Jul 15 09:36:18 eghx-nitro systemd[1]: Started udev Kernel Device Manager.
+Jul 15 09:36:18 eghx-nitro systemd[1]: Starting Remount Root and Kernel File Systems...
+Jul 15 09:36:18 eghx-nitro rsyslogd-2007: action 'action 10' suspended, next retry is Sun Jul 15 09:36:48 2018 [v8.16.0 try http://www.rsyslog.com/e/2007 ]
+
+### I was wrong
+  * [ ] I suspect it could be something like loose battery? 
+  * [ ] or somthing like maybe I should not leave it at 100% charge?
+  
+
+as the amount of battery seems to be according really high not worthy
+of a turn off!
+
+I am testing now how long my laptop works with "98%" battery
+
+It atleast stayed until 49% after that I put it on charge
+### July 16 24 hrs of sleep 51%-->50% + 30 mins video **OK**
+
+
+Jul 15 22:58:39 eghx-nitro systemd[1]: Starting Suspend...
+Jul 15 22:58:39 eghx-nitro wpa_supplicant[1047]: nl80211: deinit ifname=wlp2s0 disabled_11b_rates=0
+Jul 15 22:58:44 eghx-nitro whoopsie[984]: [22:58:44] Cannot reach: https://daisy.ubuntu.com
+Jul 15 22:58:44 eghx-nitro whoopsie[984]: [22:58:44] Cannot reach: https://daisy.ubuntu.com
+Jul 15 22:58:49 eghx-nitro systemd-sleep[32389]: Selected interface 'p2p-dev-wlp2s0'
+Jul 15 22:58:49 eghx-nitro systemd-sleep[32389]: 'SUSPEND' command timed out.
+Jul 15 22:58:49 eghx-nitro systemd-sleep[32391]: /lib/systemd/system-sleep/wpasupplicant failed with error code 254.
+Jul 15 22:58:49 eghx-nitro systemd-sleep[32389]: Suspending system...
+Jul 15 22:58:49 eghx-nitro kernel: [26582.116582] PM: Syncing filesystems ... done.
+Jul 15 22:58:49 eghx-nitro kernel: [26582.384698] PM: Preparing system for sleep (mem)
+Jul 16 18:59:23 eghx-nitro kernel: [26584.402776] Freezing user space processes ... (elapsed 0.002 seconds) done.
+Jul 16 18:59:23 eghx-nitro kernel: [26584.404781] OOM killer disabled.
+Jul 16 18:59:23 eghx-nitro kernel: [26584.404781] Freezing remaining freezable tasks ... (elapsed 0.001 seconds) done.
+Jul 16 18:59:23 eghx-nitro kernel: [26584.406183] PM: Suspending system (mem)
+Jul 16 18:59:23 eghx-nitro kernel: [26584.406217] Suspending console(s) (use no_console_suspend to debug)
+Jul 16 18:59:23 eghx-nitro kernel: [26584.514876] sd 2:0:0:0: [sdb] Synchronizing SCSI cache
+Jul 16 18:59:23 eghx-nitro kernel: [26584.515213] sd 0:0:0:0: [sda] Synchronizing SCSI cache
+Jul 16 18:59:23 eghx-nitro kernel: [26584.515526] sd 2:0:0:0: [sdb] Stopping disk
+Jul 16 18:59:23 eghx-nitro kernel: [26584.516634] sd 0:0:0:0: [sda] Stopping disk
+Jul 16 18:59:23 eghx-nitro kernel: [26585.795563] PM: suspend of devices complete after 1281.545 msecs
+Jul 16 18:59:23 eghx-nitro kernel: [26585.817384] PM: late suspend of devices complete after 21.814 msecs
+Jul 16 18:59:23 eghx-nitro kernel: [26585.949380] PM: noirq suspend of devices complete after 131.982 msecs
+Jul 16 18:59:23 eghx-nitro kernel: [26585.949988] ACPI: Preparing to enter system sleep state S3
+Jul 16 18:59:23 eghx-nitro kernel: [26585.950692] ACPI: EC: event blocked
+Jul 16 18:59:23 eghx-nitro kernel: [26585.950693] ACPI: EC: EC stopped
+Jul 16 18:59:23 eghx-nitro kernel: [26585.950693] PM: Saving platform NVS memory
+Jul 16 18:59:23 eghx-nitro kernel: [26585.950789] Disabling non-boot CPUs ...
+Jul 16 18:59:23 eghx-nitro kernel: [26585.965859] irq_migrate_all_off_this_cpu: 2 callbacks suppressed
+Jul 16 18:59:23 eghx-nitro kernel: [26585.965861] IRQ 317: no longer affine to CPU1
+Jul 16 18:59:23 eghx-nitro kernel: [26585.965868] IRQ 322: no longer affine to CPU1
+Jul 16 18:59:23 eghx-nitro kernel: [26585.966886] smpboot: CPU 1 is now offline
+Jul 16 18:59:23 eghx-nitro kernel: [26585.989832] IRQ 122: no longer affine to CPU2
+Jul 16 18:59:23 eghx-nitro kernel: [26585.989867] IRQ 320: no longer affine to CPU2
+Jul 16 18:59:23 eghx-nitro kernel: [26585.990893] smpboot: CPU 2 is now offline
+Jul 16 18:59:23 eghx-nitro kernel: [26586.013743] IRQ 1: no longer affine to CPU3
+Jul 16 18:59:23 eghx-nitro kernel: [26586.013749] IRQ 8: no longer affine to CPU3
+Jul 16 18:59:23 eghx-nitro kernel: [26586.013754] IRQ 9: no longer affine to CPU3
+Jul 16 18:59:23 eghx-nitro kernel: [26586.013759] IRQ 14: no longer affine to CPU3
+Jul 16 18:59:23 eghx-nitro kernel: [26586.013764] IRQ 16: no longer affine to CPU3
+Jul 16 18:59:23 eghx-nitro kernel: [26586.013768] IRQ 17: no longer affine to CPU3
+Jul 16 18:59:23 eghx-nitro kernel: [26586.014829] smpboot: CPU 3 is now offline
+Jul 16 18:59:23 eghx-nitro kernel: [26586.017862] ACPI: Low-level resume complete
+Jul 16 18:59:23 eghx-nitro kernel: [26586.017998] ACPI: EC: EC started
+Jul 16 18:59:23 eghx-nitro kernel: [26586.017998] PM: Restoring platform NVS memory
+Jul 16 18:59:23 eghx-nitro kernel: [26586.018775] Suspended for
+72028.452 seconds
+
+### July 17 20 hrs of sleep 100%-->90% +45 mins of video and work
+**OK**
+Jul 16 22:40:03 eghx-nitro systemd[1]: Starting Suspend...
+Jul 16 22:40:03 eghx-nitro systemd-sleep[14434]: Failed to connect to non-global ctrl_ifname: (nil)  error: No such file or directory
+Jul 16 22:40:03 eghx-nitro systemd-sleep[14435]: /lib/systemd/system-sleep/wpasupplicant failed with error code 255.
+Jul 16 22:40:03 eghx-nitro systemd-sleep[14434]: Suspending system...
+Jul 16 22:40:04 eghx-nitro kernel: [37595.280414] PM: Syncing filesystems ... done.
+Jul 16 22:40:04 eghx-nitro kernel: [37596.172622] PM: Preparing system for sleep (mem)
+Jul 17 18:29:34 eghx-nitro kernel: [37598.331501] Freezing user space processes ... (elapsed 0.002 seconds) done.
+Jul 17 18:29:34 eghx-nitro kernel: [37598.333569] OOM killer disabled.
+Jul 17 18:29:34 eghx-nitro kernel: [37598.333569] Freezing remaining freezable tasks ... (elapsed 0.001 seconds) done.
+Jul 17 18:29:34 eghx-nitro kernel: [37598.334588] PM: Suspending system (mem)
+Jul 17 18:29:34 eghx-nitro kernel: [37598.334626] Suspending console(s) (use no_console_suspend to debug)
+Jul 17 18:29:34 eghx-nitro kernel: [37598.443489] sd 2:0:0:0: [sdb] Synchronizing SCSI cache
+Jul 17 18:29:34 eghx-nitro kernel: [37598.443680] sd 0:0:0:0: [sda] Synchronizing SCSI cache
+Jul 17 18:29:34 eghx-nitro kernel: [37598.444053] sd 2:0:0:0: [sdb] Stopping disk
+Jul 17 18:29:34 eghx-nitro kernel: [37598.445063] sd 0:0:0:0: [sda] Stopping disk
+Jul 17 18:29:34 eghx-nitro kernel: [37599.740603] PM: suspend of devices complete after 1297.941 msecs
+Jul 17 18:29:34 eghx-nitro kernel: [37599.762456] PM: late suspend of devices complete after 21.847 msecs
+Jul 17 18:29:34 eghx-nitro kernel: [37599.894419] PM: noirq suspend of devices complete after 131.958 msecs
+Jul 17 18:29:34 eghx-nitro kernel: [37599.895026] ACPI: Preparing to enter system sleep state S3
+Jul 17 18:29:34 eghx-nitro kernel: [37599.895736] ACPI: EC: event blocked
+Jul 17 18:29:34 eghx-nitro kernel: [37599.895736] ACPI: EC: EC stopped
+Jul 17 18:29:34 eghx-nitro kernel: [37599.895737] PM: Saving platform NVS memory
+Jul 17 18:29:34 eghx-nitro kernel: [37599.895833] Disabling non-boot CPUs ...
+Jul 17 18:29:34 eghx-nitro kernel: [37599.910893] irq_migrate_all_off_this_cpu: 2 callbacks suppressed
+Jul 17 18:29:34 eghx-nitro kernel: [37599.910894] IRQ 317: no longer affine to CPU1
+Jul 17 18:29:34 eghx-nitro kernel: [37599.911918] smpboot: CPU 1 is now offline
+Jul 17 18:29:34 eghx-nitro kernel: [37599.934858] IRQ 122: no longer affine to CPU2
+Jul 17 18:29:34 eghx-nitro kernel: [37599.934887] IRQ 315: no longer affine to CPU2
+Jul 17 18:29:34 eghx-nitro kernel: [37599.934896] IRQ 320: no longer affine to CPU2
+Jul 17 18:29:34 eghx-nitro kernel: [37599.935913] smpboot: CPU 2 is now offline
+Jul 17 18:29:34 eghx-nitro kernel: [37599.958781] IRQ 1: no longer affine to CPU3
+Jul 17 18:29:34 eghx-nitro kernel: [37599.958787] IRQ 8: no longer affine to CPU3
+Jul 17 18:29:34 eghx-nitro kernel: [37599.958791] IRQ 9: no longer affine to CPU3
+Jul 17 18:29:34 eghx-nitro kernel: [37599.958796] IRQ 14: no longer affine to CPU3
+Jul 17 18:29:34 eghx-nitro kernel: [37599.958802] IRQ 16: no longer affine to CPU3
+Jul 17 18:29:34 eghx-nitro kernel: [37599.958806] IRQ 17: no longer affine to CPU3
+Jul 17 18:29:34 eghx-nitro kernel: [37599.959867] smpboot: CPU 3 is now offline
+Jul 17 18:29:34 eghx-nitro kernel: [37599.962860] ACPI: Low-level resume complete
+Jul 17 18:29:34 eghx-nitro kernel: [37599.962994] ACPI: EC: EC started
+Jul 17 18:29:34 eghx-nitro kernel: [37599.962995] PM: Restoring platform NVS memory
+Jul 17 18:29:34 eghx-nitro kernel: [37599.963772] Suspended for 71365.836 seconds
 ## Appendix 1
   
   
@@ -439,7 +623,7 @@ event blocked
 
 		  
 ### Appendix 2: proper suspend
-
+	
 Jul  3 22:33:26 eghx-nitro systemd[1]: Starting Suspend...
 Jul  3 22:33:26 eghx-nitro systemd-sleep[18625]: Failed to connect to non-global ctrl_ifname: (nil)  error: No such file or directory
 Jul  3 22:33:26 eghx-nitro systemd-sleep[18626]: /lib/systemd/system-sleep/wpasupplicant failed with error code 255.
