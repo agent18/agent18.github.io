@@ -591,7 +591,10 @@ Jul 17 18:29:34 eghx-nitro kernel: [37599.959867] smpboot: CPU 3 is now offline
 Jul 17 18:29:34 eghx-nitro kernel: [37599.962860] ACPI: Low-level resume complete
 Jul 17 18:29:34 eghx-nitro kernel: [37599.962994] ACPI: EC: EC started
 Jul 17 18:29:34 eghx-nitro kernel: [37599.962995] PM: Restoring platform NVS memory
-Jul 17 18:29:34 eghx-nitro kernel: [37599.963772] Suspended for 71365.836 seconds
+Jul 17 18:29:34 eghx-nitro kernel: [37599.963772] Suspended for
+71365.836 seconds
+### July 18, 19, 20 went ok! no issues 20-24 hrs sleep! No log
+### July 21?
 ## Appendix 1
   
   

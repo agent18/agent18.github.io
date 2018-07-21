@@ -3,36 +3,20 @@ layout: default
 ---
 
 <div class="home">
-
-  <!-- Picture 
-  <div style="display: flex; justify-content: center;">
-      <img src="/images/title.jpg" width="600" height="375"/>	
-  </div> -->
-
-  <h1 style="font-size:30px" class="page-heading">Posts</h1>
   
+  <h1 style="font-size:30px" class="page-heading">Posts</h1>
+
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-	
+
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
       </li>
     {% endfor %}
   </ul>
-
-<!-- This is the COUNTER -->
-  <br><br><hr>
-
-      	<h1 style="color:red" class="Counter" align="middle">Number of Arguments clearly explained: </h1>
-      	<br>
-      	<h1 style="color:red" class="Count" align="middle">0</h1>
-	<h3 style="color:grey" class="Update-date" align="right">Last updated on Nov 15, 2015</h3>
-
-  <hr><br><br>
-<!-- End of counter! -->
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 

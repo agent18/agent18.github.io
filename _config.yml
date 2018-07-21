@@ -2,7 +2,6 @@
 title: An Agents r-word essay collection!
 email: thetj09@gmail.com	
 description: > # this means to ignore newlines until "baseurl:"
-  Its no who you are underneath, but what you do that defines you - Rachel Dawes (Batman Begins)
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: No_twitter

@@ -253,8 +253,8 @@ who is building great FCC.
 
 #### summary
 
-In summary I would like a profile as above which would allow me to
-create a large impact. I would like to leave such a legacy behind
+In summary I would like a profile as seen above which would allow me
+to create a large impact. I would like to leave such a legacy behind
 (like that of TARA). It is important for me to dream big and currently
 the profiles of these people seem like a hard target to set as my
 goal. Instead of hoping for something bigger than this, I would like
@@ -271,7 +271,23 @@ In the following section we make a list of options and evaluate them
 to see what we should be doing in the coming years to make the largest
 impact we can.
 
-<!-- Still needs some work -->
+In essence I look at my past and look at the evidence and advice from
+80k hours and estimate what would be the best impact direction I
+should travel in. 
+<!-- needs some work -->
+
+<!-- <\!-- #### Trying to try -\-> -->
+
+<!-- Beware of the [trying to try](https://www.lesswrong.com/posts/WLJwTJ7uGPA5Qphbp/trying-to-try) trap? -->
+
+<!-- >Instead of asking what you could do, you ought to have been asking -->
+<!-- >what needs to be done." -->
+
+<!-- I am not sure if I am trying to try or actually trying. This is vague -->
+<!-- for me right now. -->
+
+
+<!-- <\!-- Still needs some work -\-> -->
 
 
 ### Making the list
@@ -282,9 +298,9 @@ substitutes" etc...
 
 As I am still young and agile, I am only looking to build fCC of
 course with a focus that I will be able to make large impact later. I
-have no idea on what exact problem I would like to work or I would
-best fit in. So, the focus is on the direction for **the next few
-years**.
+I have no idea on what exact problem I would like to work or I would
+best fit in. So, the focus is on the choice of direction for **the
+next few years**.
 
 Furthermore if I miss something, I would like to put the onus on my
 reviewers of this essay a.k.a the 80k community, an STM and the
@@ -322,7 +338,7 @@ Early (27) finished masters and working for ~2 years
 
 All possible ways: Direct, indirect, earning to give, research etc...
 
-And the output is:
+**And the output is:**
 
 - Policy oriented Civil services
 - Economics PhD
@@ -342,122 +358,29 @@ When we are ready to bet on small chances then the output changes to:
 - Data science
 - Party politics
 
-
-#### My rough list!
-
-Roughly I imagine the list to be:
-
-1) Continuing in the same job or being a design engineer and rising
-the ranks as so.
-
-- Far too specific information learning at the moment (suspect it is useless)
-
-As echoed previously to myself and in my archive, it appears that I am
-learning something too specific, like how to make drawings and how to
-design in tight tolerances, these are far too specific
-
-- I do a bit of trouble shooting and critical thinking, I would like
-  to do more.
-
-- I do not want to work on puzzling out more about volumes and
-interferences manually, say using (god-forbid) powerpoint. for
-example, things I could do with a better tool. Of course I could have
-a better way of work. Well let there be better problems to solve.
-
-2) An MBA to management consulting or IB or trading(very high job
-satisfaction according to 80k-hours) for now, hoping to get some
-experience and a lot of money, to propel career ahead.
-
-Right now it appears that the an MBA can open avenues into consulting,
-IB and Trading. These seem to allow to get good experience and a lot
-of money. Job satisfaction and long hours might suffer for a few.
-
-Other than doing an MBA there dont seem many options. And I have
-echoed my sentiment to a couple of MBA graduates who seem to agree
-([IB at JP Morgan](https://www.linkedin.com/in/ram-narayan-86b7b199/)),([Marketeer from Newyork who has scholarships in
-MBA](https://www.linkedin.com/in/rawanalhaffar/)), Another friend who is an Analyst in California going into
-product management.
-
-But right now I do not need to make the choice of what I will be
-taking. I can leave that decision for sometime in the future.
-
-3) Data science (research, critical thinking?), moving on to
-programming or not
-
-I sort of club DS and programming together. As I see DS my first
-direction to go into even if programming is what I might do in the
-end. DS already involves some programming and I can get a job I think
-quickly (3 months) in Netherlands and from there get better at it and
-programming and see where it takes me. Although, DS would be much more
-oriented towards critical thinking I guess.
-
-4) Starting up
-
-No idea where to start, no ideas of what to start, lack of skill and
-confidence. A tech start-up sounds interesting, maybe I could find
-some work there. I could go over to some meeting in rotterdam and see
-what the scene is like. 
-
-I think we should expect a long lead time with tech startups,
-especially ones that involve making a phisical product of any
-nature. 
-
-Although I am currently working in a startup I see that I don't have
-any "startup benifits"
-
-5) Joining an NGO, starting as an Intern
-
-6) Data-science or Programming in Finance (best of two worlds)
-	
-#### My next steps
-
-The focus for this article should be that I develop through this post
-what I should do next, like in the next 6 months. Where should I begin
-and what should I do.
-
-I am broadly looking at few things based on the rough list I have and
-the Career Quiz
-
-1. Sticking to design engineering
-
-	- Working in the US?
-	- Staying in DE
-	- Attempting to startup
-	- Going into the NGO management after a few years in this field.
-	
-2. Moving to DataScience
-   
-   - DS
-   - Programming
-   - Machine learning PhD
-   - Working at GiveWell type of NGO's
-   
-3. Doing an MBA
-
-	- IB
-	- NGO as analyst or management
-	- Management Consulting
-	- Marketting Sales
-	- trading in quantitative hedge funds
-	
-	
-4. Civil services
-
-	Dont know where or how to start, other than in India, but I am not
-    sure of the evaluating the kind of impact I can have in India
-	
-5. Think Tanks
-
-6. Working at Effective Altruism organizations
-
+In addition to the above, I also would like to evaluate the current job I
+am working at now, difference between working at the US and in
+Netherlands, and if the career can somehow lead to Direct Work.
 
 #### Comparing
 
-The plan is to write about these:
+The following parameters are used to compare each career line:
+
+- Career Capital
+  - Skills
+  - Connections 
+  - Credentials
+  - Career Capital
+
+- Personal Fit
+
+- Job satisfaction or supportive conditions
+
+- Impact
 
 Compare them based on Career Capital:  Skills, Connections, Credentials, Runway,
 &
-Personal fit, job satisfaction, Supportive conditions, Impact
+Personal fit, job satisfaction Supportive conditions, Impact
 
 And to all the career options I have until now.
 
@@ -1251,7 +1174,7 @@ every extra hour I work, I shall not be cribbing about it then.
 I will rank it as the same as DE then.
 
 
-#### Management consulting
+#### MBA into Management consulting
 
 Finishing an MBA allows travel into a couple of venues, of which one
 of them is MC. 80k-hours has done a [complete career profile on
@@ -1464,14 +1387,37 @@ at a 7 as compared to 8 from DS.
 	- and 30% donation
 	- for a beginners salary of 150k (assumption i.e., after quitting
       MC)
+	- interest of 2% after age 50
 	  
-  This gives about 700 lives. <!-- one thing I am not confident about
+  This gives about 700 lives in total. <!-- one thing I am not confident about
   is at the age of 40 I should be earning in millions, is that even
   possible? Raaam? -->
 
 - Direct working potential
 
-970 lives same as any NGO over 35 years of working.
+970 lives same as any NGO over 35 years of working+ ETG as an MC
+
+I am not sure that a top MCer can get into the NGO as say an
+analyst. There is some evidence of people going into it, but right now
+I am not sure. After working a few years at the top firms, if I wan't
+to move to NGO's I don't know if I can. 
+
+Yeah I am not sure. I have tried to ask my friends what if I can get a
+job, but it sounds too far fetched. Why would I slog so much to gain
+some part of the capabilities to go into DW. I see DS as a direct
+learning to jump as an analyst in NGO's. Becoming an MC in the top
+tier firms seems very very hard. If my plan is to go there then that
+is what I should do.
+
+But people go into consulting from random [applied physics](https://www.linkedin.com/in/borisnaar/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_top%3BRBPj%2FS4mQJuPekMFdt120Q%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_top-search_srp_result&lici=Zcn778IiTcKe573Tp9BzjA%3D%3D),
+[offshore](https://www.linkedin.com/in/pascal-smulders-00a9b665/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_top%3BRBPj%2FS4mQJuPekMFdt120Q%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_top-search_srp_result&lici=H2eQm%2BpGT22%2FhseUYpUDLQ%3D%3D) and did a wide variety of stuff and somehow got in, [very
+talented and systems engineer](https://www.linkedin.com/in/jo-hoogslag-49abba83/), aerospace background. Most of the
+people I immediately find online are people who are from other
+departments only. But somehow are either trainees or have done some
+decent stuff in their career. Or maybe it is just about how they
+sell. One thing I would like to know is how to get a job in these
+places without dutch.
+
 
 **Exit opportunities**
 
@@ -1491,7 +1437,7 @@ not exactly like a demotion.
 
 
 
-#### IB/ Finance/ Trading/private equity 
+#### MBA into IB/ Finance/ Trading/private equity 
 
 Based on the end appendix, I assume IB, Finance, Trading and PE all to
 be similarly build regarding all the parameters I am using to compare.
@@ -1804,10 +1750,11 @@ It is known that Economics PhD can be intellectually satisfying.
 1. Impact including the [rare chance](http://allegedwisdom.blogspot.com/2017/03/the-story-of-lucky-economist.html) would be
 
 	- impact of the rare chance 400 lives
-	- impact due to advocacy 100 lives (pure guess) 
+	- impact due to advocacy 50 lives (pure guess) 
 	- impact due to a jobs paying greater a median acdemic salary of
 		108k Compounded at 4% with inflation of 2%, 20% donations and
 		10% hike every 5 years (243 people)
+	- Earning for a period of 30 years
 		
 In total 750 lives
 
@@ -1815,7 +1762,7 @@ In total 750 lives
 
 	- impact from taking up an MC job followed by the many exit
       opportunities for 30 years (lesser time than that in the MC
-      profile considered above) is about 500 lives
+      profile considered above) is about 550 lives
 	- impact due to advocacy 50 lives (pure guess) 
 
 >You gain a broad set of tools for understanding how the social world
@@ -1829,6 +1776,10 @@ Also exists an advocacy potential, through journalism, writing books
 and influencing policy through your research.
 <!-- what abou tan economics master? -->
 
+I am not really going to nail this, as this is like an exit
+opportunity and will be same as DS or MC I guess. If the main path is
+not really that much worth, I would look at an MBA instead. And for
+sure an Econ PhD would be much harder I think.
 
 #### Working at an effective Altruism organization 
 
@@ -2187,8 +2138,7 @@ Current runway depends on the job that I am doing currently and it
 would take me 3 years of earning in DE to make that much of money. So
 a 6.
 
-**Personal fit**
-
+**Personal**
 >Consider this career if you think you can develop strong technical
 >skills, as well as the ability to deal with high risk of failure,
 >work very long hours and do something unconventional.
@@ -2213,38 +2163,38 @@ successful business as:
 - Chance of having the vision to be a Y-combinator level startup and
 applying (5%)	
 
-This seems like a lot especially considering my current level of
-skills. But I do pick up things relatively fast, and can work long
-hours. For now, lets just role with that number.
+		This seems like a lot especially considering my current level of
+		skills. But I do pick up things relatively fast, and can work long
+		hours. For now, lets just role with that number.
 
-- chance of getting accepted in Y-combinator (2.5%)
+		- chance of getting accepted in Y-combinator (2.5%)
 - Chance of that startup succeeding (25% based on current
   [Ycombinator list](https://yclist.com/) of 11 years)
 - = 0.03% (by multiplying everything)
 
-**Supportive conditions/Job Satisfaction**
+		**Supportive conditions/Job Satisfaction**
 
-I suspect there might be stress due to lack of funding, long hours are
+		I suspect there might be stress due to lack of funding, long hours are
 there here, but I barely see myself complaining. There is a high
 degree of autonomy and I have a personal stake in the situation. I
 should definitely try it out with some decent skill or always be on
 the lookout for some opportunities.
 
-6.
+		6.
 
-I am not worried about it though!
+		I am not worried about it though!
 
-**Impact**
+		**Impact**
 
-I estimate the impact of starting up in tech to be
- - Total donations per annum (60% of [2.5m$](https://80000hours.org/2014/05/how-much-do-y-combinator-founders-earn/#fn:5))
- - cost of one life (4k$)
- - Inflation = 2% in cost of life 
- - Number of years of donation = 30
- - Increase in salary = 0% max per annum
- - Job change every 5 years with 0% increase
- - ~8k lives
- 
+		I estimate the impact of starting up in tech to be
+	- Total donations per annum (60% of [2.5m$](https://80000hours.org/2014/05/how-much-do-y-combinator-founders-earn/#fn:5))
+   - cost of one life (4k$)
+   - Inflation = 2% in cost of life 
+   - Number of years of donation = 30
+   - Increase in salary = 0% max per annum
+   - Job change every 5 years with 0% increase
+   - ~8k lives
+
 
 #### Startup employee
 
@@ -2478,7 +2428,7 @@ and direct work due to the available time. I will just estimate that
 at say another 20 lives (wild ass guess)
 
 There is possibility to do more, by working remotely say from
-Thailand.
+Thailand. Working lesser hours on work and on other side projects.
 
 **Supporting conditions**
 
@@ -3911,53 +3861,40 @@ understand, but direct work not sure.
 <!-- >30 and learning -->
 
 ### Plan
-
-  * [ ] repair one section by section and repair numbers or add
-        uncertainity- from tomorrow already else it becomes one
-        gigantic task
 		
-  * [x] check the thing with probabilities
-  * [ ] Act on probabilities?
-  * [ ] have a look at the comments and see if there is anything
-        useful
   * [ ] [Career planning tool ](https://80000hours.org/career-planning-tool/)
   * [ ] [research decision tool](https://80000hours.org/career-decision/)
-  * [ ] [investigate risk aversion](https://80000hours.org/career-decision/)
+  * [x] [investigate risk aversion](https://80000hours.org/career-decision/)
+REad some stuff got no where!
+  * [ ] RE-writing main parts of the essay
+  * [ ] Re-writing the prolties from sheet to emacs
+  * [ ] making the impact calculations
+  * [ ] Final analysis
+  * [ ] MC vs DS 
+  * [ ] uncertainities of DS for DW 
+
+Getting a job in DW after DS
+MC to DW skills?
+DS vs SE
+  * [ ] Explain the probability calcs and theories
+Such as "having same events for diff
+      prolties"
+XxCC = YxImpact; X? Y?
+
+and the total impact calculations
+
+  * [ ] Fix blog to clean it
   
-- [x] Make analysis of which is best?
-- [ ] Most important is probability: having same events for diff
-      prolties
-- [x] XxCC = YxImpact; X? Y?
-- [ ] 30 years 20 to 30 prime?  
-- [ ] Speak to sivagagnam, praneeth burra regarding age issues
-- [ ] risk aversion
-- [ ] Plan ABZ
-- [ ] fix the document for reading by others
-- [ ] improving personal fits
-- [ ] DS vs SE
-- [ ] MC after scholarship working as a big shot ETG
+  * [ ] 30 years 20 to 30 prime?  
 
-~~Do an analysis based on the current results I have. Figure out your
-uncertainties but don't act on them yet. Once we have done the
-analysis, assuming v02-00 is right then we can kill it in other ways.~~
+  * [ ] Get feedback from
+Rajesh, Sivagagnam, Ram, Praneeth burra and talk to them about
+uncertainities
 
-~~The other thing is there are some errors in the v02-00 document. As an
-attempt at addressing the "flaw" of equating XxCC and YxImpact, how
-about we first strip all those factors down and try to repair it or
-your know get it on a scale of 1 to 10. EQUATING?
-~~
-
-It's almost set what I want to do. Clean the essay first and then
-focus on your uncertainities. Period. nothing else to do for
-now. clean up website for others viewing
-
-  * [x] Also work on the personality fit to account for enough
-        prolties
-  * [ ] Check prolties once againe
+  * [ ] Apply for coaching
   
-  * [ ] How to factor in raja rams statements
-
-Answer 3 of raja rams work
+  * [ ] Plan ABZ
+  * [ ] Name your uncertainities
 
 ### Probabilities
 
@@ -3979,11 +3916,13 @@ In the case of Econ Phd and MC I have 6 events!
   * [x] Try for MC and see the net contribution to the result
   
   * [x] Check if the calculations are ok?
-  * [ ] Check if impact calc are ok?
-  * [ ] check if prolty calcs are ok?
-  * [ ] Send to Vinod sivagagnam style
+  * [x] Check if impact calc are ok?
+  * [x] check if prolty * impact calcs are ok?
+  * [ ] Wrap it up
+  * [ ] name your uncertainities in the end
+  * [x] Send to Vinod sivagagnam style
   Time to sum up?
-
+Continue this! good job
 
 ### ideas
 	
