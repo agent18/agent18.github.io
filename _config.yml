@@ -1,15 +1,13 @@
 # Site settings
-title: An Agents r-word essay collection!
-email: thetj09@gmail.com	
+title: An Agents rationality essays collection!
+email: thetj09@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: No_twitter
+# twitter_username: No_twitter
 github_username:  agent18
 
 include : ["_pages"]
 
 # Build settings
 markdown: kramdown
-
-

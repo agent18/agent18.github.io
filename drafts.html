@@ -8,7 +8,7 @@ title: Drafts
   <h1 style="font-size:30px" class="page-heading">Posts</h1>
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.categories.drafts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 

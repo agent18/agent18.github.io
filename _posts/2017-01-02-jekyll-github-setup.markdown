@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "How to make jekyll work with github for your blog site"
 date:   2017-01-10 23:54
-categories: The Beginning
+categories: Notes
 permalink: /:title.html
 ---
 <!-- <img src="/images/git.png" width="200" height="200" /> --> 

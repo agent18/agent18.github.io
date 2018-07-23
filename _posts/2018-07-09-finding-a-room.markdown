@@ -3,9 +3,9 @@ layout: post
 comments: true
 title:  " finding  a house"
 date:    06-07-2018 08:39
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
-published: false
+published: True
 ---
 
 

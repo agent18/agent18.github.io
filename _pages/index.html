@@ -6,16 +6,16 @@ layout: default
 
   <!-- Picture 
   <div style="display: flex; justify-content: center;">
-      <img src="/images/title.jpg" width="600" height="375"/>	
+      <img src="/images/title.jpg" width="600" height="375"/>
   </div> -->
 
   <h1 style="font-size:30px" class="page-heading">Posts</h1>
-  
+
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-	
+
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>

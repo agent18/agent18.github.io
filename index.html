@@ -4,7 +4,13 @@ layout: default
 
 <div class="home">
 
-  <h1 style="font-size:30px" class="page-heading">Posts</h1>
+  <h1 style="font-size:30px" class="page-heading">Home</h1>
+  <br>
+  <p> Welcome to my website!</p>
+
+  <!-- <img src="/images/title.jpg" width="800" height="500" /> -->
+  <br>
+  <h2 style="font-size:30px" class="page-heading">Recent Posts</h2>
 
   <ul class="post-list">
     {% for post in site.posts limit:5 %}
@@ -19,5 +25,6 @@ layout: default
   </ul>
 
 <p>Check out my <a href="./notes.html">notes</a> on various topics or peruse the <a href="./archive.html">archives</a>.</p>
-  <!--<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+<br>
+<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 </div>

@@ -3,9 +3,9 @@ layout: post
 comments: true
 title:  " Buying a new laptop or NOT?"
 date:    12-05-2018 08:39
-categories: The Beginning
+categories: draft
 permalink: /:title.html
-published: false
+published: True
 ---
 
 ## Current laptop

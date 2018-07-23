@@ -3,9 +3,9 @@ layout: post
 comments: true
 title:  " Cardio baby"
 date:    08-07-2018 19:52
-categories: The Beginning
+categories: draft
 permalink: /:title.html
-published: false
+published: True
 ---
 
 

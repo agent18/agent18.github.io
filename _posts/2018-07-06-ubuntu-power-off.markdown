@@ -3,9 +3,9 @@ layout: post
 comments: true
 title:  "Fixed ubuntu power-off scenes? "
 date:    06-07-2018 19:39
-categories: The Beginning
+categories: draft
 permalink: /:title.html
-published: false
+published: True
 ---
 
 # Hypothesis
