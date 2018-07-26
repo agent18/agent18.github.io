@@ -736,14 +736,14 @@ I can briefly try sales and if all hell brakes loose then I can always
 move back in DE. Considering such a tree we get:
 		
 		75% x 400 = 300	
-		75% x 400 + 25% x 200 = 350 
+		75% x 400 + 25% x 95% x 200 ~= 350 
 		
 - DE in US
 
 Just like in sales, I can always move back to being a DE in Nl. 
 		
 		48% x 300 = 144
-		48% x 300 + 52% x 200 = 248
+		48% x 300 + 52% x 95% x 200 ~= 248
 			
 With the above calculations we see that DE in NL might be better that
 DE in US if we do not consider the decision tree, but if we do
@@ -923,7 +923,7 @@ Assuming that one can still go back to DE after trying a brief stint
 at a top Effective Altruism Foundation
 
 	42% x 875 = 380
-	42% x 875 + 58% x 200 = 480 
+	42% x 875 + 58% x 95% x 200 = 480 
 
 **Summary**
 
@@ -1208,14 +1208,6 @@ this science in companies like:
 
 I will assume all NGO's to have same impact for now.
 
-
-- Working for DS now and moving to an NGO within the next 5 years.
-
-I assume the same impact irrespective of the NGO joined. By definition
-an NGO worth joining is for sure recommended by 80k-hours for example.
-
-So my impact is 970 lives.
-
 - Working for DS now and staying in NL/europe for the next 40 years
 
 	- With compound interest of 4% a year
@@ -1229,16 +1221,46 @@ So my impact is 970 lives.
 - Working for DS for the next 5 years and moving to the US
 
 	- With compound interest of 4% a year
+	- increase in salary of 2% after age 50
 	- inflation of 2% a year
 	- increase of 10% every 5 years
 	- and 20% donation
 	- for a beginners salary of 130k (based on salary of Bachelor's
       student from waterloo university in DS working at Facebook)
+	  
 	
 367 lives for 35 years in the US + ~13 lives for the first 5 years in
 NL= 400 lives.
 
+- Working for DS now and moving to an NGO within the next 5 years.
 
+I assume the same impact irrespective of the NGO joined. By definition
+an NGO worth joining is for sure recommended by 80k-hours for example.
+
+So my impact is 970 lives.
+
+**Personal fit x Impact**
+
+- DS in NL
+
+In case DS fails I can always go back into DE.
+
+		88% x 237 = 208
+		88% x 237 + 12% x 95% x 200 = 231
+	
+- DS in US 
+
+In case DS in US fails I will try DS in NL and if that fails as well it
+would be DE in NL
+	
+		47% x 400 = 188
+		47% x 400 + 53% x (231) = 310
+
+- DS in the pursuit of EAO
+
+		76% x 970 = 738
+		76% x 970 + 24% x (231) = 793
+		
 
 #### MBA into Management consulting
 
@@ -1329,6 +1351,18 @@ which the runway will be the same as for the job in DE in NL.
 
 So a 6 or a 7.
 
+**Supportive conditions/Job Satisfaction**
+There is good feedback and training. Job satisfaction, although 60
+hours needed can be gotten better than in IB and as we have
+challenging projects it becomes more exciting. To me I am convinced,
+that it will be challenging or overwhelming. 
+
+Even if shit goes wrong try to sweat a few years and cash in on the
+exit opportunities as possible.
+
+Support conditions are a bit smaller than in DS or DE. I will keep it
+at a 7 as compared to 8 from DS.
+
 **Personal fit**
 
 >If the mean income of a hedge fund trader is $650,000, then that’s
@@ -1415,17 +1449,7 @@ So the chances pan out to be:
   
   In total it is 
 
-**Supportive conditions/Job Satisfaction**
-There is good feedback and training. Job satisfaction, although 60
-hours needed can be gotten better than in IB and as we have
-challenging projects it becomes more exciting. To me I am convinced,
-that it will be challenging or overwhelming. 
 
-Even if shit goes wrong try to sweat a few years and cash in on the
-exit opportunities as possible.
-
-Support conditions are a bit smaller than in DS or DE. I will keep it
-at a 7 as compared to 8 from DS.
 
 **Impact**
 
@@ -1483,6 +1507,7 @@ departments only. But somehow are either trainees or have done some
 decent stuff in their career. Or maybe it is just about how they
 sell. One thing I would like to know is how to get a job in these
 places without dutch.
+
 
 
 **Exit opportunities**
