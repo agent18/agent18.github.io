@@ -7,58 +7,35 @@ categories: drafts
 permalink: /:title.html
 published: True
 ---
-## Disclaimer
 
-### Abbreviations
+---
 
-At any point if you do not understand an abbreviation, please have a
-look here.
+## Reading this essay
 
-| Abbreviation | Expansion                       |
-|--------------|:--------------------------------|
-| EA           | Effective Altruism              |
-| ETG          | Earning-to-give                 |
-| DW           | Direct Work                     |
-| CEA          | Centre for Effective Altruism   |
-| AMF          | Against Malaria Foundation      |
-| EAO          | Effective Altruism Organization |
-| fCC          | flexible career capital         |
-|              |                                 |
-	
-## GOAL:
+This essay is filled with abbreviations. Just like in any sane
+article, the abbreviations are explained the first time only. In case
+you skip sections or forget what an abbreviation would mean, you can
+find all the abbreviations in the appendix at the end of the post.
 
-To identify/estimate the career direction I need to take in the coming
-months focusing on impact.
-                               
-### Achieving the Goals
+---
 
-Based on [the 80k-hours guide](https://80000hours.org/career-guide/personal-fit/) a way forward in determining the way
-forward would be to answer the following questions.
+## Entry question:
 
-<!-- Making a list of options -->
+The Goal with this essay is to identify/estimate the career direction
+I need to take in the coming months focusing on impact.
 
-**Making a list of options** by using these questions:
+---
 
-What do you want to do in life? Provide exact examples of profiles
-that you would like to be like? What are the different career paths
-you think are available to you? Give one way how you would achieve
-it?
+## Impact
 
-<!-- Rankingish your options --> 
+In one of the earlier essays, we concluded on what is important to
+us. We came to the conclusion that human lives are very important to
+us. In fact nothing else seemed to matter other than maximizing the
+saving of lives. This is the impact we should run after.
 
-**Comparing different options** based on Skills, Connections,
-Credentials, Runway, & Personal fit, job satisfaction, Impact
+<!-- Link missing -->
 
-<!-- Write out key uncertainities -->
-
-**Write out your key uncertainities:** What are the things that you
-are uncertain about? Can you quickly test
-them? Are they going to change your ranking largely?
-
-## Making a list of options
-
-
-### What can I do to create large impact? (broadly)
+### **What can I do to create large impact? (broadly)**
 
 One can either earn-to-give (ETG), or do direct work, and if highly unsure
 about the future improve their skills and build career capital with the
@@ -90,7 +67,7 @@ appendix.
 
 <!-- todo why 80k hours is the shizz -->
 
-#### Earning-to-give 
+#### **Earning-to-give** 
 
 A career in ETG might include one of the following:
 
@@ -122,7 +99,7 @@ can earn millions saying he will keep minimum wage.
 
 <!-- Amazing, he can even say things like this! -->
 
-#### Direct working
+#### **Direct working**  
 
 >80,000 Hours thinks that only a small proportion of people should
 >earn to give long term. We think that most people should be doing
@@ -130,20 +107,20 @@ can earn millions saying he will keep minimum wage.
 >non-profit entrepreneurship, and direct work for highly socially
 >valuable organizations.
 
-1. Found &/or Lead or manage Effective Altruism organizations to be
+- Found &/or Lead or manage Effective Altruism organizations to be
   most impactful. Some inspiring profiles covered by 80k-hours in this
   area of direct work, below:
   
-[Tara Macaulay](https://www.linkedin.com/in/tarajmacaulay/)([Linkedin](https://www.linkedin.com/in/tarajmacaulay/)), was (then) head of operations (now
-CEO) in the Centre for Effective Altruism (CEA). Tara has always been
-outstanding at her work, be it with saving money for her company or
-rising the ranks very fast. She has apparently left a lasting impact
-in Bhutan where she worked on direct impact projects.*She interned
-without pay at CEA* showing great leadership skills and then rose the
-ranks to become the current CEO. She has no MBA degrees and infact
-only has a pharma degree but that hasn't stopped her. The CEA gets a
-lot of funding (in millions) which it directs to worthy applicants
-that can create large impact.
+  [Tara Macaulay](https://www.linkedin.com/in/tarajmacaulay/)([Linkedin](https://www.linkedin.com/in/tarajmacaulay/)), was (then) head of operations (now
+  CEO) in the Centre for Effective Altruism (CEA). Tara has always been
+  outstanding at her work, be it with saving money for her company or
+  rising the ranks very fast. She has apparently left a lasting impact
+  in Bhutan where she worked on direct impact projects.*She interned
+  without pay at CEA* showing great leadership skills and then rose the
+  ranks to become the current CEO. She has no MBA degrees and infact
+  only has a pharma degree but that hasn't stopped her. The CEA gets a
+  lot of funding (in millions) which it directs to worthy applicants
+  that can create large impact.
 
 [Rob Mather](https://80000hours.org/career-guide/career-capital/)([LinkedIn](https://www.linkedin.com/in/rob-mather-b0331235/)), is the CEO of Against Malaria
 foundation (AMF) - critically acclaimed as one of the most effective
@@ -172,7 +149,7 @@ create high impact.
 We saw a few different profiles, each of them doing amazing things in
 a joint effort to save as many lives as possible
 
-2. Be an Analyst/researcher at Effective Altruism Organizations (EAOs)
+- Be an Analyst/researcher at Effective Altruism Organizations (EAOs)
    such as GiveWell or 80k-hours
 
 In organizations like GiveWell, 80k-hours, CEA etc... they need people
@@ -187,7 +164,7 @@ Most of the EAO's have very few people (10-30), funneling or creating
 impact in the order of millions of dollars. As an analyst you could
 already [make an impact of 97k$ a year](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/).
 
-3. Working in Policy
+- Working in Policy
 
 This involves, shaping the policy of governments to impact a population of a city,
 state, country or world. 
@@ -219,15 +196,14 @@ greatness.
 
 - Being in EAOs seems to allow to achieve a large impact (quantified later)
   
-#### Advocacy
+#### **Advocacy**
 
 Advocacy is the promotion of solutions to pressing problems leading to
-impact. All the work is judged by impact. 
+impact. All the work is judged by impact. A simple form of advocacy,
+is when you convince your friend about ETG. By doing this you increase
+your impact by a lot.
 
-A simple form of advocacy, is when you convince your friend about
-ETG. By doing this you increase your impact by a lot. 
-
-#### Building career capital
+#### **Building career capital**
 
 Career Capital (CC) broadly talks about the skills, connections,
 credentials and runway to allow for us to take on high impact tasks
@@ -293,9 +269,7 @@ who is building great FCC.
   <!--       this and get better and become really skillful. -->
 
 
-#### summary
-
-
+#### **Summary**
 
 The importance of direct work has been stressed a lot by 80k-hours. In
 the long run that is what I guess I should be doing. But for the next
@@ -303,9 +277,9 @@ few years, no harm in making money as well as building career
 capital. But money is not the objective, getting yourself in shape to
 do good is; Gaining skills to make crazy impact is. The different
 examples of people creating their best impact shows what is possible
-and how reasonable to keep the expectations, I guess. I would like to be
-like these people, high-achieving and high-impact causing. I need to
-carefully evaluate the different options that are available.
+and how reasonable to keep the expectations, I guess. I would like to
+be like these people, high-achieving and high-impact causing. I need
+to carefully evaluate the different options that are available.
 
 I will also be evaluating where I can create most impact based on the
 different paths that I take, considering the success and failure
@@ -327,7 +301,34 @@ evaluate different options based on what is important for you.
 <!-- <\!-- Still needs some work -\-> -->
 
 
-### Making the list
+---
+
+## Finding the right career for you
+
+Based on [the 80k-hours guide](https://80000hours.org/career-guide/personal-fit/) we first make a list of options,
+then compare it with different parameters and at last write out our
+key uncertainities and look at how to deal with them.
+
+<!-- Making a list of options -->
+
+**Making a list of options** by using these questions: What do you
+want to do in life? Provide exact examples of profiles that you would
+like to be like? What are the different career paths you think are
+available to you? Give one way how you would achieve it?
+
+<!-- Rankingish your options --> 
+
+**Comparing different options** based on Skills, Connections,
+Credentials, Runway, & Personal fit, job satisfaction, Impact
+
+<!-- Write out key uncertainities -->
+
+**Write out your key uncertainities:** What are the things that you
+are uncertain about? Can you quickly test
+them? Are they going to change your ranking largely?
+
+
+### **Making the list**
 
 Making a list according to 80k-hours sounds far-too-specific like
 "economics researcher focusing on global health", "marketing for meat
@@ -402,7 +403,7 @@ Netherlands, and if the career can somehow lead to Direct Work.
 #### Comparing
 
 The following parameters are used to compare each career path:
-
+	
 - Career Capital
   - Skills
   - Connections 
@@ -431,15 +432,13 @@ Skills:
 >you want to do good, you also need to learn all about the world’s
 >most pressing problems and how to solve them. A job will be best for
 >learning when you are pushed to improve and get lots of feedback from
->mentors.
+>mentors. - [80k hours Career Capital](https://80000hours.org/career-guide/career-capital/)
 
 The current plan is to focus on FCC.
 
-
-
 Will the job allow me FCC? 
 
-Will it give me important skills like programming Data-science which
+Will it give me important skills like programming, Data-science which
 can be transferred over a wide variety of industries.
 
 Connections:
@@ -448,7 +447,7 @@ Connections:
 >connections are how you’ll find opportunities, spread ideas and start
 >new projects. The people you spend time with also shape your
 >character. For both reasons, it’s important to make connections who
->are influential and who care about social impact.
+>are influential and who care about social impact. - [80k hours Career Capital](https://80000hours.org/career-guide/career-capital/)
 
 Are my connections going to get me jobs in different industries or
 other industries?
@@ -459,11 +458,11 @@ Are my connections influential?
 
 Credentials:
 
-> will this job act as a good signal to future collaborators or
+> Will this job act as a good signal to future collaborators or
 > employers? Note that we don’t just mean formal credentials like
 > having a law degree, but also your achievements and reputation. If
 > you’re a writer, it’s the quality of your blog. If you’re a coder,
-> it’s your GitHub.
+> it’s your GitHub. -[80k hours Career Capital](https://80000hours.org/career-guide/career-capital/)
 
 Runway:
 
@@ -474,13 +473,24 @@ Runway:
 >security. 12-18 months of runway is even more useful because it gives
 >you the flexibility to make a major career change. It’s usually worth
 >paying down high-interest debt before donating more than 1% per year
->or taking a big pay cut for greater impact.
+>or taking a big pay cut for greater impact. -[80k hours Career Capital](https://80000hours.org/career-guide/career-capital/)
 
-Ability to quickly save enough money for 18 months is what seems to be
-defining runway. How much I can donate is a question answerd by the
-impact section.
+Ability to quickly save enough money for the next 18 months is what
+seems to be defining runway. How much I can donate is a question
+answerd by the impact section. Runway seems to be always important.
 
-Runway seems to be always important.
+
+**Impact**
+
+Number of lives saved is the ultimate variable we are interested
+in.
+
+In order to determine the effective impact of pursuing a career, we
+should do more than just multiply the impact with the personal fit. We
+should look at it like a decision tree. If we succeed our impact is
+say X. If we fail our impact will be Y. Therefore,
+
+Effective impact = Personal fit x X + (1-Personal fit) x Y
 
 **Supportive conditions**
 
@@ -489,24 +499,23 @@ Runway seems to be always important.
 - Basic needs
 - fit with rest of life
 
-> Impact and personal life
-> Engaging work - Will you get freedom to decide how to work, clear tasks, clear feedback and variety in what you do?
-> Colleagues- Will you like them and will they support you?
-> basic needs- Will you earn enough money, will the hours be manageable, and will the commute be reasonable?
-> Fit with rest of your life -– Will you be able to improve your
-> personal relationships, and uphold any other important personal
-> priorities?
-
-[Source: how to compare different careers ](https://80000hours.org/articles/framework/#questions-for-assessing-each-factor) 
+> Impact and personal life Engaging work - Will you get freedom to
+> decide how to work, clear tasks, clear feedback and variety in what
+> you do?  Colleagues- Will you like them and will they support you?
+> basic needs- Will you earn enough money, will the hours be
+> manageable, and will the commute be reasonable?  Fit with rest of
+> your life -– Will you be able to improve your personal
+> relationships, and uphold any other important personal priorities?
+> -[80k hours Career Capital](https://80000hours.org/career-guide/career-capital/)
 
 **Personal Fit**
 
 What are your chances of excelling in that area?
 
-**In summary,**
+**In total**
 
- $ (f1xCareer Capital +f2xImpact +f3supportive conditions) *
- Personalfit
+	$ (f1 x Career Capital +f2 x Impact +f3 x supportive conditions) *
+	Personal fit
  
 >If you are still early in your career, then it’s best to place
 >greater importance on career capital than on role impact
@@ -517,19 +526,236 @@ What are your chances of excelling in that area?
 >The more altruistically-minded you are, the less weight you’ll need
 >to place on job satisfaction relative to the other factors.
 
-There by I see f1 = 1, f2 = 0.7, and f3 = 0.5.
-
 80k suggests role-impact and not impact. This would mean that I
-somehow have an idea of what problem I have chosen to focus
-on. On a high level, it is all about saving lives, adding good years
-to lives around the world now and later. 
+somehow have an idea of what problem I have chosen to focus on. On a
+high level, it is all about saving lives, adding good years to lives
+around the world now and later.
 
 To simplify the solving of the above problem, I suggest we just stick
 to impact as being saving lives. I will try to make estimations of
-saving lives with this.
+saving lives with this. The value of these factors are explained later.
 
-### Evaluating the list
-#### Design engineering (Machine Design) in 'Europe' for Direct work
+[Source: how to compare different careers ](https://80000hours.org/articles/framework/#questions-for-assessing-each-factor) 
+
+Instead of rejecting a low-personal-fit-high-impact career, what if we
+took it and played our chances. In case we win, we gain huge impact, if
+we loose, we can pick still make decent effort.
+
+
+	Effective impact = Personal fit x X + (1-Personal fit) x Y
+
+So we will look at Effective impact.
+
+
+---
+
+### **Evaluating different profiles**
+
+With this section I hope to take each career path, and evaluate it
+based on the parameters from the last section. In the end I would have
+a table for different career paths in the rows and the parameters in
+the columns. For each of the parameters, I come up with a number
+usually from 1-10, based on the points I make in favor of or against
+the career path.
+
+
+#### **Design engineering for ETG**
+
+I am currently a Design Engineer in the precision industry. The
+function of such an engineer is to design parts/products to the
+specifications provided, verify and assemble them.  Here the following
+cases are evaluated in this profile:
+
+- Design Engineering in NL/Europe
+- Design Engineering in US
+- Design Engineering to Sales in NL
+
+<!-- going to the US with DE might be possible but I suspec only with -->
+<!-- L1 I will make a separate post out of it -->
+
+**Skills**:
+
+- Not very challenging all the time, not pushed to do more and given
+  only a small amount of feedback.
+
+I work for ~40 hrs a week in NL and I am barely at any pressure or
+pushed to achieve great things. Learning in general is slow. I suspect
+that there will be more pressure in the US or if I move to Sales, but
+there is a lot of paper work to do in general, in addition to the lack
+of challenging problems given to you for solving
+
+- Small percentage of critical thinking
+
+Critical thinking is about 20-30% of the time . Most of the time I am
+not working on hard problems. I am doing a lot of work that does not
+translate necessarily to improvement of my skill such as making small
+modifications to existing setups, or covering for poor procedures
+written by others.
+
+- Not very valuable even with 30 years of experience
+
+>For the first five to ten years in this position, salary increases
+>somewhat, but any additional experience does not have a big effect on
+>pay. - [payscale](https://www.payscale.com/research/NL/Job=Design_Engineer/Salary)
+
+- Decent transferable skills
+
+I will have quite some knowledge of the Semicon industry, maybe a good
+chance to port to Sales, So I think it does offer some sort of FCC
+(flexible Career capital). Even within the company I work for they
+were looking for normal people to shift to management side provided
+they had a few years of experience. I have seen the useless nutheads
+in sales who do not understand the product and have no idea what it
+can do, still pitch it to others and try to make a sale. I think I
+would be a welcome relief to such an industry needing solid engineers
+who can also talk.
+
+Although I am not sure of why going into automotive or space might be
+interesting, moving to other such industries might be hard or
+impossible. I have seen people move from other industries to precision
+engineering, but not the other way around. I suspect going the other
+way might need a lot of pre-knowledge, and current knowledge might
+just not be fully portable. So I will have to stay in Precision
+engineering for ever. With regard to ETG, I don't see it as a big problem.
+
+This job is usually not intense and has a long development cycle, so
+work hours are not too long, allowing us time to learn other things
+and improve in the areas needed. But learning more about design seems
+to only come with more experience in the field, rather than reading
+about things.
+
+I don't expect the resulting skills to be very much different between
+here and the US. A decent amount of transferable skills, the minimum
+quantity of critical thinking, a decent amount of creativity while
+working seems to result in a skill rating of 6.5/10.
+
+**Connections**:
+
+I work with other design engineers and physicists in the job. I might
+be able to find opportunities in related fields using these
+contacts. As I am mostly working with only my team, it doesn't give me
+opportunities to meet top players in the industry. As a result  the
+connection rating is at 4/10.
+
+**Credentials**:
+
+I see myself growing up the ladder very very slowly (4-5 years per
+promotion). It is a slow working environment (mainly because of the
+long development cycles). Right now maybe I can boast to other
+precision companies regarding what I could do for the place I work
+in. Moving within the precision engineering industry should not be a
+problem, but I think it stops with that. I would put DE at an above
+value of 6/10.
+
+**Runway**:
+
+I can't move immediately into sales or even to the US. The runway for
+all the cases will correspond to what I earn at DE in NL. It is
+estimated for 18months worth of dough, 2-3 years of saving is required.
+
+<!-- Ways of moving to the US and prolty estimates unknown, but runway -->
+<!-- could be crazy, but I still suspect I need to clock a few good -->
+<!-- years here before I am able to migrate reasonably-->
+
+**Personal Fit**:
+
+To excel in this area would mean, 
+
+- I can be a typical engineer for the rest of my life and grow through
+  the ranks slowly. This is like the minimum I should be able to
+  achieve at any cost. I estimate this at 95% chance of success for
+  me.
+  
+- There seems to be a decent opportunity into sales. But is sales a
+good fit for me? I suspect I can be good at it. I have seen random
+people move into sales and succeed. My cousin was an ordinary
+Mechanical Engineer who rose the ranks in sales and now ears lots of
+money in Dubai. Another cousin moved from electrical engineering
+(brainy guy though) and managed a killer career that got him to a US
+green card directly. Considering that Sales can make more money, I
+should atleast try a brief stint in it. I can always fall back to DE
+as and when I like. I expect the chance of success to be 75%.
+
+- Moving to the US
+
+  There are a couple of ways I go to the US, either by direct applying
+  or by migrating from one country to the other via an L1 visa.  <!--
+  Also possibly go to Canada and follow the L1 route --> In 5 years
+  time I would expect to have worthy experience with which I can try
+  for a switch to the US. By then I would have an NL Citizenship and
+  if things don't work out in the US, I can always fall back into
+  holland and do what I do.
+  
+  - Chance of becoming really good in DE (80%)
+  - Chance of managing an L1 or getting selected directly (60%)
+          
+So in total: 80%*60% = 48% of success.
+
+**Impact**:
+
+- The impact of being a typical engineer for the next 40 years in NL is
+estimated to be ~200 lives based on:
+
+	- Salary raise of 4% per year for the next 40 years
+	- 10% increase every 5 years
+	- 20% donation
+	- increase of 2%/year on the cost of lives
+	- beginners salary of 53k$
+
+- The impact of moving into sales can probably significantly switch
+things up, conservatively I guesstimate it at atleast 2 times the
+impact of full time DE. Yes I am pulling these numbers almost out of
+my ass, as I don't have good estimates of it. I will refine this
+number later if needed. Resulting in 400 lives.
+
+- The impact of moving to the US could be much better as the pay is
+reasonably higher.
+
+	- Salary raise of 4% per year
+	- 10% increase every 5 years
+	- 20% donation
+	- increase of 2%/year on the cost of lives
+	- for a beginners salary of 100k
+	- 2% increase in salary from 50 years of age
+  
+280 lives in the US for 35 years + 13 lives for the first 5 years in
+NL = ~300 lives.
+
+**Personal fit x Impact**
+
+- DE in NL
+
+		95% x 200 = 190
+
+This is the minimum I can do and so the rest of the 7% wouldn't
+matter. 
+
+- DE followed by sales
+
+I can briefly try sales and if all hell brakes loose then I can always
+move back in DE. Considering such a tree we get:
+		
+		75% x 400 = 300	
+		75% x 400 + 25% x 200 = 350 
+		
+- DE in US
+
+Just like in sales, I can always move back to being a DE in Nl. 
+		
+		48% x 300 = 144
+		48% x 300 + 52% x 200 = 248
+			
+With the above calculations we see that DE in NL might be better that
+DE in US if we do not consider the decision tree, but if we do
+consider the decision tree, it turns out that trying it would still be
+better than just being a DE in NL.
+
+We could make the Decision tree even more complicated, with many
+branches etc... to work out other situations. But for now, it appears
+that Sales and US could be good options to get myself into, as opposed
+to a traditional job.
+
+#### **Design engineering (Machine Design) in 'Europe' for Direct work**
 
 **Skills**: 
 
@@ -631,7 +857,8 @@ either found an NGO, or work in one in operations or research.
 
 - chances of learning skills at the age of 33 within design
   engineering (85%)
-- possibility of learning the right skills within this industry (60%)
+- possibility of learning the right skills while spending time in this
+  industry (70%)
 - Getting a job after in either research or management in top NGO's
   based on research or operations related credentials (70%)
   
@@ -640,7 +867,7 @@ either found an NGO, or work in one in operations or research.
   knowledge and skills. I would have 40 days of vacation every year,
   which I could really use to become better or even take internships.
 
-So a total 35%.
+So a total 42%.
 
 **Impact**:
 
@@ -670,7 +897,7 @@ That becomes:
 - 10% hike every 5 years
 - And donating 20% of the income.
 
-- 970*7/8 if I get into an EAO.
+- 970*7/8 if I get into an EAO at the age of 35
 
 In total: 875 lives
 
@@ -688,6 +915,15 @@ chilling, going to the beach, working and planning on pleasurable
 activities after activities. 
 
 <!-- Not that I am any great soul or something; Well ;)-->
+
+
+**Personal fit x Impact**
+
+Assuming that one can still go back to DE after trying a brief stint
+at a top Effective Altruism Foundation
+
+	42% x 875 = 380
+	42% x 875 + 58% x 200 = 480 
 
 **Summary**
 
@@ -711,202 +947,10 @@ large number. Turns out to be 5 times larger than estimates by just
 doing DE for earning-to-give.
 
 	
-#### Design engineering (Machine Design) in 'Europe' for Earning to give
-
-With this section we attempt to deal with 3 types of ways of earning
-to give. One with being an all-the-time DE in NL, doing DE for now,
-but then moving on to Sales and the other moving to the US and
-sticking to DE and/or sales.
-
-DE in Europe is a low paying job as compared to the US
-options. Depending on the size of the company your pay varies. 
-
-<!-- going to the US with DE might be possible but I suspec only with -->
-<!-- L1 I will make a separate post out of it -->
-
-With the following I try to see how many lives I can save with such an
-earning, what is the extent of flexible CC being here in Europe and in
-PE (precision engineering).
-
-**Skills**:
-
-- Not very challenging all the time, not pushed to do more and given
-  only a decent amount of feedback.
-
-I work for <40 hrs a week and I am barely at any pressure or
-pushed to achieve great things,
-
-- gaining management skills takes a long while before it happens
-
-As mentioned before, it would take 7-8 years before I move into a
-Design Leader position.
-
-- Small percentage of critical thinking
-
-As said earlier 20-30% is probably critical thinking.
-
-- Not very valuable even with many many years of experience
-
-As said before.
-
-- Decent transferable skills
-
-I will have quite some knowledge of the Semicon industry, maybe a good
-chance to port to Sales, So I think it does offer some sort of FCC
-(flexible Career capital) to offer. Even within my company they were
-looking for people in the management side who would have more than 5
-years of Semicon experience. Plus I have seen the useless nutheads in
-sales who do not understand the product and have no idea what it can
-do and still pitch it to others, I think I would be a welcome relief
-to such an industry needing solid engineers who can also talk.
-
-Although I am not sure of why going into automotive or space might be
-interesting, moving to other such industries might be hard or
-impossible. I have seen people move from other industries to
-precision, but not the other way around. I suspect going the other way
-might need a lot of pre-knowledge and your knowledge might just not be
-fully portable. So I can stay in PE for ever, not a problem, there
-should be enough scope for me to do so I guess. Atleast I don't see
-why not.
-
-With my free time I can prep in DS but I don't expect to become really
-good at it as I am working only part time. I have 2 months of vacation
-and all this can be used for additional good.
-
-- All companies in Netherlands, Germany, Europe have this lifestyle in
-general.
-
-A decent amount of transferable skills, the minimum quantity
-of critical thinking, a decent amount of creativity while working.
-
-So, 
-- Transferable skills : 6.5
-
-**Connections**:
-
-I will work with other design engineers and physicists in the job. I
-might be able to find opportunities in related fields.
-
-Connections might be useful in finding jobs outside. Do not have any
-out of the world connections that will actually help. 
-
-This sounds like it is at 4, slightly better than last section.
-
-**Credentials**:
-
-I see myself growing up the ladder very very slowly (4-5 years per
-promotion). It is a slow working environment (mainly because of
-research). Right now maybe I can boast to other precision companies
-regarding what I could do for them.
-
-The first two years leave me with very little credentials worthy for
-the Semicon market as there were some cancellations of projects, but I
-am hopeful about the next few months. But still I am quite positive I
-can find my way in the Semicon industry to the World Leader ASML's
-house even now. 
-
-Credentials wise, as I am in the Semicon and expect to move into
-Semicon or other PE related work, I suspect I should survive and be
-able to quote something decent.
-
-Credential level assignments need to be given and take time and other
-company priorities come in the way of my success.
-
-I would put it at an above average value of 6.
-
-**Runway**:
-
-Same as quoted in the previous section. Runway of 18k would take
-realistically 3 years and there is scope for improvement if I move to
-another company but still remains average of 6.
-
-Runway in case I move into sales will be different, but right now I
-would have to clock my years in PE before I make the ultimate
-decision.
-
-Even if I have to move to the US I still need to be in NL for a few
-years before I plot the jump.
-
-<!-- Ways of moving to the US and prolty estimates unknown, but runway -->
-<!-- could be crazy, but I still suspect I need to clock a few good -->
-<!-- years here before I am able to migrate reasonably-->
-
-**Personal Fit**:
-
-To excel in this area would mean 
-
-- being a typical engineer for the rest of my life and grow through
-  the ranks slowly and probably consulting after a period of time.  
-  I estimate this at 95% chance of success for me. This is like the
-  minimum I should be able to achieve at any cost. (95%)
-  
-- Somehow see opportunity into sales and move into it after a few
-years in the PE industry.
-But is sales a good fit for me? I don't know, I have seen random
-people move into sales and succeed. My cousin was an ordinary
-Mechanical Engineer who rose the ranks in sales and got crazy
-cuts. Another cousin moved from electrical engineering (brainy guy
-though) and managed a killer career.
-
-I will atleast try a brief stint if I am stuck to DE. I can always
-fall back to DE as and when I like. The way I would do it is join ASML
-(the leading lithographers) and from there see where it takes me. 
-
-So I expect the chance to be slightly more than landing an elite MC
-job. (65%)
-
-- Moving to the US
-
-  There are a couple of ways I go to the US, either by direct applying
-  or by migrating from one country to the other via an L1 visa.  <!--
-  Also possibly go to Canada and follow the L1 route -->
-  
-  In 5 years time I would suspect to have worthy experience with which
-  I can try for a switch to the US. By then I would have an NL
-  Citizenship and I can reduce the risk of crashing an burning in
-  life.
-  
-  - Chance of becoming really good in DE (80%)
-  - Chance of managing an L1 or getting selected directly (60%)
-  
-  DE in PE is quite niche I think, so I suspect it to be easier to get
-  into the US than say DS for example.
-  
-  So in total: 80%*60% = 48% of success.
-
-**Impact**:
-
-The impact of being a typical engineer for the next 40 years is
-estimated to be ~200 lives.
-- Salary raise of 4% per year
-- inflation of 2% on the cost of lives
-- 10% increase every 5 years
-- 20% donation
-
-The impact of moving into sales can probably significantly switch
-things up, but I estimate it at 2 times the impact of full time DE. If
-I can donate 20% and also make an extra 20% in sales then that will
-result twice the impact. Yes I am pulling these numbers almost out of
-my ass, as I don't have good estimates of it. I will refine this
-number later if needed. 
-
-The impact of moving to the US could be much better as the pay is
-reasonably higher.
-
-  - With compound interest of 4% a year
-  - inflation of 2% a year
-  - increase of 10% every 5 years
-  - and 20% donation every year 
-  - for a beginners salary of 100k
-  - 2% increase in salary from 50 years of age
-  
-280 lives in the US for 35 years + 13 lives for the first 5 years in
-NL = ~300 lives.
-		
-#### Data science for direct giving
+#### Data science 
 
 With this section I am going to try to write about DS for direct
-giving
+giving, ETG in the NL and in the US.
 
 **Skills**
 
@@ -1011,6 +1055,34 @@ hard and already feels unrealistic for now.
 
 So I will give it 7 as compared to the 6 for DE.
 
+**Supportive conditions/Job Satisfaction**
+
+- I should be enjoying the work
+- Cleaning up the data will be boring, it takes up a lot of time.
+- Basic needs will be satisfied mostly (money, hours and commute)
+- Am not worried I will have too many problems learning or fitting in,
+  my point being it is not investment banking.
+- Again I look up to people in the US like my brother and other actual
+  data scientists, they seem to have time to do other things as
+  well. Not like they are working 24x7.
+  
+  Also 80k suggests that the hours are moderate 50 hrs per week I
+  think. This is peacefully doable.
+  
+- Also this is expected to be a very satisfying career according to
+  80k, due to the fast feedback cycle.
+
+-Mentorship culture is quite common apparently according to 80k.
+
+- project management could be even more fulfilling as PM have more
+control, more responsibility than analysts who are just the right hand
+for project managers, just like my DL in DE.
+
+Overall, I suspect the time to be a little more, but keeping the
+bigger picture in mind, that I am getting better at a potential skill
+every extra hour I work, I shall not be cribbing about it then.
+I will rank it as the same as DE then.
+
 **Personal fit**
 
 Anyone can come into data science, we are not talking about data core
@@ -1048,9 +1120,9 @@ I have solved problems at my work, I enjoy doing them.
   masters degree as I. Plus from everything I have seen it is a
   learn-able skill, and appears to be definitely learn-able.
   
-  I think I can probably do more but I will stick to the above
-  definition of success and I think that there is a 93% chance of
-  success.  
+  - 95% chance of entering into DS
+  - 93% chance of working 40 years with 20% donations
+  - In total, 88% chance of success
   
 - DS as a means of earning to give (US)
 
@@ -1068,10 +1140,7 @@ I have solved problems at my work, I enjoy doing them.
   
   Chance of getting L1 within company? No idea (50%)?
   
-  So in total: 93%\*80%\*50% = 37.2% of success.
-  
-  <!-- I think I need to write a prolty caleculation for
-  moving to the US --> 
+  So in total: 95%x85%x65% = 47% of success.
 
 - DS in NGO's
 
@@ -1093,7 +1162,7 @@ Chance to get into an NGO after 5 years in the realm of DS = 80%
 
 <!-- check if I have used other chances of getting in NGO -->
 
-Total chance = 80%\*93% = 74.4%
+Total chance = 80%\*95% = 76%
 
 **Impact**
 
@@ -1169,33 +1238,6 @@ So my impact is 970 lives.
 367 lives for 35 years in the US + ~13 lives for the first 5 years in
 NL= 400 lives.
 
-**Supportive conditions/Job Satisfaction**
-
-- I should be enjoying the work
-- Cleaning up the data will be boring, it takes up a lot of time.
-- Basic needs will be satisfied mostly (money, hours and commute)
-- Am not worried I will have too many problems learning or fitting in,
-  my point being it is not investment banking.
-- Again I look up to people in the US like my brother and other actual
-  data scientists, they seem to have time to do other things as
-  well. Not like they are working 24x7.
-  
-  Also 80k suggests that the hours are moderate 50 hrs per week I
-  think. This is peacefully doable.
-  
-- Also this is expected to be a very satisfying career according to
-  80k, due to the fast feedback cycle.
-
--Mentorship culture is quite common apparently according to 80k.
-
-- project management could be even more fulfilling as PM have more
-control, more responsibility than analysts who are just the right hand
-for project managers, just like my DL in DE.
-
-Overall, I suspect the time to be a little more, but keeping the
-bigger picture in mind, that I am getting better at a potential skill
-every extra hour I work, I shall not be cribbing about it then.
-I will rank it as the same as DE then.
 
 
 #### MBA into Management consulting
@@ -3896,6 +3938,8 @@ understand, but direct work not sure.
   * [x] [investigate risk aversion](https://80000hours.org/career-decision/)
 REad some stuff got no where!
   * [ ] RE-writing main parts of the essay
+	* [ ] Keep all text in $ corrected for value of lives
+	
   * [ ] Re-writing the prolties from sheet to emacs
   * [ ] making the impact calculations
   * [ ] Final analysis
@@ -3912,7 +3956,7 @@ XxCC = YxImpact; X? Y?
 
 and the total impact calculations
 
-  * [ ] Fix blog to clean it
+  * [x] Fix blog to clean it
   
   * [ ] 30 years 20 to 30 prime?  
 
@@ -4060,3 +4104,14 @@ Interpersonal skills sales type of skills
       MC)
 	  
 
+## Abbreviations
+| Abbreviation | Expansion                       |
+|--------------|:--------------------------------|
+| EA           | Effective Altruism              |
+| ETG          | Earning-to-give                 |
+| DW           | Direct Work                     |
+| CEA          | Centre for Effective Altruism   |
+| AMF          | Against Malaria Foundation      |
+| EAO          | Effective Altruism Organization |
+| fCC          | flexible career capital         |
+|              |                                 |
