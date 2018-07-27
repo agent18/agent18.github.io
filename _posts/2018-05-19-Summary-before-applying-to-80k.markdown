@@ -1479,7 +1479,7 @@ So the chances pan out to be:
       MC)
 	- interest of 2% after age 50
 	  
-  This gives about 700 lives in total. <!-- one thing I am not confident about
+  This gives about 635 lives + first years at MC gives 70 lives = 700  <!-- one thing I am not confident about
   is at the age of 40 I should be earning in millions, is that even
   possible? Raaam? -->
 
@@ -1508,7 +1508,46 @@ decent stuff in their career. Or maybe it is just about how they
 sell. One thing I would like to know is how to get a job in these
 places without dutch.
 
+**Personal Fit x Impact**
 
+
+- MC with a focus on becoming partner
+
+The decision tree with MC is slightly complicated to explain I
+think. The think is I can try for GMAT and Scholarship. It would cost
+me a year. I estimate the chances as per earlier in the discussion of
+personal fit. I expect that if I fail in a year then I already know
+that this is not for me and I can get back to DS with a focus on
+direct giving, which has an effective impact of 730.
+
+Once I do my MBA and find that I don't have a job in the top
+companies, I would be in a much better situation to evaluate what is
+the course for me. As a minimum I say that I should be able to do
+something that will get me on the road to DS or project management and
+have a few years delayed route to EAO anyways. I reduce the value by
+25% to account for the delays. Further, after 5 or 6 years of work in
+case I decide to take the exit opportunities, such a career path has
+the potential to save 700 lives, say with 50% of success. In the end
+even after 20 years if I don't become partner then I suspect I can
+meet the impact of taking an exit opportunity (700 lives). If I came
+so far, I should be able to do that atleast I guess. The effective
+value of such a decision tree becomes then: 651 lives.
+
+{:.tablestyletwo}
+| Crossroad             | Success | Other | #lives if Success | #lives if failure | EI: Success | EI: failure |
+|-----------------------|---------|-------|-------------------|-------------------|-------------|-------------|
+| GMAT                  | 70.0%   | 30.0% | NA                | 730               | 469         | 219         |
+| Scholarship           | 60.0%   | 40.0% | NA                | 730               | 378         | 292         |
+| McKinsey              | 50.0%   | 50.0% | NA                | 50%x700           | 368         | 263         |
+| 5+ yrs & 60+ hrs/week | 51.0%   | 49.0% | NA                | 700               | 392         | 343         |
+| Make partner          | 12.5%   | 87.5% | 1,250             | 700               | 156         | 613         |
+
+This sums up the whole MC career I think. I think I should run these
+numbers by someone to know if where I stand. I am not sure how good
+are my chances to DW. I suspect they are poor even with the skills as
+I gathered from my friends with an MBA. But it is for later
+evaluation. Atleast I am not able to do it justice. Maybe that turns
+the tables over. Not sure. Later!
 
 **Exit opportunities**
 
@@ -1609,9 +1648,7 @@ Lets say same as in MC
 
 Need I go on?
 
-I am really afraid of the idea of such a life.
-
-3.
+**I am really afraid of the idea of such a life: 3 then.**
 
 **Impact**
 
@@ -1640,6 +1677,21 @@ MC.
 <!-- What happens once you exit nah mean? What skills do you got? -->
 
 <!-- Should I investigate trading a bit further? or hedge funds? -->
+
+**Personal Fit x Investment banking**
+
+I am very afraid or completely not inclined to starting this
+career. I maybe can work for 2-3 years. But If I am not working for
+more than that then it seems like there is no point doing IB. IB is
+all about money and putting in crazy hours all through your life at
+the cost of sleep, health etc... I understand it has the maximum
+potential. I do feel guilty that so many lives are at stake. But as
+80k hours says, personal fit is quite important. I strongly suspect I
+will burn out. Instead if I did something else I could atleast get a
+decent impact out there.
+
+So I am almost confident that I am not going into the likes of IB, so
+I don't see any point in evaluating more about it.
 
 **Exit opportunities**
 What is it?   asd    
@@ -1842,7 +1894,7 @@ It is known that Economics PhD can be intellectually satisfying.
 
 	- impact of the rare chance 400 lives
 	- impact due to advocacy 50 lives (pure guess) 
-	- impact due to a jobs paying greater a median acdemic salary of
+	- impact due to a jobs paying greater than median acdemic salary of
 		108k Compounded at 4% with inflation of 2%, 20% donations and
 		10% hike every 5 years (243 people)
 	- Earning for a period of 30 years
@@ -1871,6 +1923,22 @@ I am not really going to nail this, as this is like an exit
 opportunity and will be same as DS or MC I guess. If the main path is
 not really that much worth, I would look at an MBA instead. And for
 sure an Econ PhD would be much harder I think.
+
+**Personal fit x Impact**
+
+The rare chance scope is not really lucrative as it happens way too
+rarely. But it is highly recommended by 80k. So I guess a path that
+they would envision me taking is where I get into academia and do
+research on my own in a tenure track (ETG parallelly)
+
+But going into Academia is hard for a person who has never gotten into
+top universities on merit. I think it is very competitive, I wouldn't
+survive. Of course I could try it and see how far it takes me as in
+case I fail at the end of the Phd in not getting an academic position
+I can still do other things like MC and still keep at giving high
+output. 
+
+But first I need to estimate the value of pursuing an academic degree.
 
 #### Working at an effective Altruism organization 
 
