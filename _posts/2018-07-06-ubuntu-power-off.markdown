@@ -595,6 +595,188 @@ Jul 17 18:29:34 eghx-nitro kernel: [37599.963772] Suspended for
 71365.836 seconds
 ### July 18, 19, 20 went ok! no issues 20-24 hrs sleep! No log
 ### July 21?
+### July 28 locked PC and then closed screen resulting in restart**NOK**
+No Idea what happened. only one hr of sleep and boom some it looked
+like it had already restarted!
+
+Jul 28 11:30:40 eghx-nitro wpa_supplicant[1008]: nl80211: deinit ifname=p2p-dev-wlp2s0 disabled_11b_rates=0
+Jul 28 11:30:40 eghx-nitro systemd[1]: Reached target Sleep.
+Jul 28 11:30:40 eghx-nitro systemd[1]: Starting Suspend...
+Jul 28 11:30:41 eghx-nitro wpa_supplicant[1008]: nl80211: deinit ifname=wlp2s0 disabled_11b_rates=0
+Jul 28 11:30:45 eghx-nitro whoopsie[938]: [11:30:45] Cannot reach: https://daisy.ubuntu.com
+Jul 28 11:30:45 eghx-nitro whoopsie[938]: [11:30:45] Cannot reach: https://daisy.ubuntu.com
+Jul 28 11:30:50 eghx-nitro systemd-sleep[30578]: Selected interface 'wlp2s0'
+Jul 28 11:30:50 eghx-nitro systemd-sleep[30578]: 'SUSPEND' command timed out.
+Jul 28 11:30:50 eghx-nitro systemd-sleep[30579]: /lib/systemd/system-sleep/wpasupplicant failed with error code 254.
+Jul 28 11:30:50 eghx-nitro systemd-sleep[30578]: Suspending system...
+Jul 28 11:30:50 eghx-nitro kernel: [50201.567281] PM: suspend entry (deep)
+Jul 28 11:30:51 eghx-nitro kernel: [50201.567282] PM: Syncing filesystems ... done.
+Jul 28 12:32:58 eghx-nitro kernel: [50203.860835] Freezing user space processes ... (elapsed 0.062 seconds) done.
+Jul 28 12:32:58 eghx-nitro kernel: [50203.923160] OOM killer disabled.
+Jul 28 12:32:58 eghx-nitro kernel: [50203.923162] Freezing remaining freezable tasks ... (elapsed 0.001 seconds) done.
+Jul 28 12:32:58 eghx-nitro kernel: [50203.924953] Suspending console(s) (use no_console_suspend to debug)
+Jul 28 12:32:58 eghx-nitro kernel: [50204.055025] sd 2:0:0:0: [sdb] Synchronizing SCSI cache
+Jul 28 12:32:58 eghx-nitro kernel: [50204.055130] sd 2:0:0:0: [sdb] Stopping disk
+Jul 28 12:32:58 eghx-nitro kernel: [50204.062459] sd 0:0:0:0: [sda] Synchronizing SCSI cache
+Jul 28 12:32:58 eghx-nitro kernel: [50204.063866] sd 0:0:0:0: [sda] Stopping disk
+Jul 28 12:32:58 eghx-nitro kernel: [50205.331224] ACPI: EC: interrupt blocked
+Jul 28 12:32:58 eghx-nitro kernel: [50205.487145] ACPI: Preparing to enter system sleep state S3
+Jul 28 12:32:58 eghx-nitro kernel: [50205.488071] ACPI: EC: event blocked
+Jul 28 12:32:58 eghx-nitro kernel: [50205.488072] ACPI: EC: EC stopped
+Jul 28 12:32:58 eghx-nitro kernel: [50205.488073] PM: Saving platform NVS memory
+Jul 28 12:32:58 eghx-nitro kernel: [50205.488167] Disabling non-boot CPUs ...
+Jul 28 12:32:58 eghx-nitro kernel: [50205.502932] irq_migrate_all_off_this_cpu: 2 callbacks suppressed
+Jul 28 12:32:58 eghx-nitro kernel: [50205.502934] IRQ 124: no longer affine to CPU1
+Jul 28 12:32:58 eghx-nitro kernel: [50205.502940] IRQ 129: no longer affine to CPU1
+Jul 28 12:32:58 eghx-nitro kernel: [50205.503961] smpboot: CPU 1 is now offline
+Jul 28 12:32:58 eghx-nitro kernel: [50205.526947] IRQ 122: no longer affine to CPU2
+Jul 28 12:32:58 eghx-nitro kernel: [50205.526952] IRQ 123: no longer affine to CPU2
+Jul 28 12:32:58 eghx-nitro kernel: [50205.527973] smpboot: CPU 2 is now offline
+Jul 28 12:32:58 eghx-nitro kernel: [50205.550884] IRQ 1: no longer affine to CPU3
+Jul 28 12:32:58 eghx-nitro kernel: [50205.550890] IRQ 8: no longer affine to CPU3
+Jul 28 12:32:58 eghx-nitro kernel: [50205.550894] IRQ 9: no longer affine to CPU3
+Jul 28 12:32:58 eghx-nitro kernel: [50205.550899] IRQ 14: no longer affine to CPU3
+Jul 28 12:32:58 eghx-nitro kernel: [50205.550904] IRQ 16: no longer affine to CPU3
+Jul 28 12:32:58 eghx-nitro kernel: [50205.550909] IRQ 17: no longer affine to CPU3
+Jul 28 12:32:58 eghx-nitro kernel: [50205.551935] smpboot: CPU 3 is now offline
+Jul 28 12:32:58 eghx-nitro kernel: [50205.554844] ACPI: Low-level resume complete
+Jul 28 12:32:58 eghx-nitro kernel: [50205.554976] ACPI: EC: EC started
+Jul 28 12:32:58 eghx-nitro kernel: [50205.554977] PM: Restoring platform NVS memory
+Jul 28 12:32:58 eghx-nitro kernel: [50205.557028] Enabling non-boot CPUs ...
+Jul 28 12:32:58 eghx-nitro kernel: [50205.557091] x86: Booting SMP configuration:
+Jul 28 12:32:58 eghx-nitro kernel: [50205.557092] smpboot: Booting Node 0 Processor 1 APIC 0x2
+Jul 28 12:32:58 eghx-nitro kernel: [50205.558638]  cache: parent cpu1 should not be sleeping
+Jul 28 12:32:58 eghx-nitro kernel: [50205.558671] intel_pstate: Disabling energy efficiency optimization
+Jul 28 12:32:58 eghx-nitro kernel: [50205.558770] CPU1 is up
+Jul 28 12:32:58 eghx-nitro kernel: [50205.558804] smpboot: Booting Node 0 Processor 2 APIC 0x4
+Jul 28 12:32:58 eghx-nitro kernel: [50205.560356]  cache: parent cpu2 should not be sleeping
+Jul 28 12:32:58 eghx-nitro kernel: [50205.560498] CPU2 is up
+Jul 28 12:32:58 eghx-nitro kernel: [50205.560517] smpboot: Booting Node 0 Processor 3 APIC 0x6
+Jul 28 12:32:58 eghx-nitro kernel: [50205.562090]  cache: parent cpu3 should not be sleeping
+Jul 28 12:32:58 eghx-nitro kernel: [50205.562239] CPU3 is up
+Jul 28 12:32:58 eghx-nitro kernel: [50205.564812] ACPI: Waking up from system sleep state S3
+Jul 28 12:32:58 eghx-nitro kernel: [50205.568621] ACPI: EC: interrupt unblocked
+Jul 28 12:32:58 eghx-nitro kernel: [50205.815020] ACPI: EC: event unblocked
+Jul 28 12:32:58 eghx-nitro kernel: [50205.827191] sd 0:0:0:0: [sda] Starting disk
+Jul 28 12:32:58 eghx-nitro kernel: [50205.827194] sd 2:0:0:0: [sdb] Starting disk
+Jul 28 12:32:58 eghx-nitro kernel: [50205.854725] r8169 0000:03:00.1 enp3s0f1: link down
+Jul 28 12:32:58 eghx-nitro kernel: [50206.106115] usb 1-7: reset full-speed USB device number 2 using xhci_hcd
+Jul 28 12:32:58 eghx-nitro kernel: [50206.148667] ata1: SATA link up 6.0 Gbps (SStatus 133 SControl 300)
+Jul 28 12:32:58 eghx-nitro kernel: [50206.149470] ata1.00: configured for UDMA/133
+Jul 28 12:32:58 eghx-nitro kernel: [50206.382732] usb 1-9: reset high-speed USB device number 3 using xhci_hcd
+Jul 28 12:32:58 eghx-nitro kernel: [50206.578390] acpi LNXPOWER:01: Turning OFF
+Jul 28 12:32:58 eghx-nitro kernel: [50206.578437] OOM killer enabled.
+Jul 28 12:32:58 eghx-nitro kernel: [50206.578438] Restarting tasks ... 
+Jul 28 12:32:58 eghx-nitro kernel: [50206.578564] Bluetooth: hci0: using rampatch file: qca/rampatch_usb_00000302.bin
+Jul 28 12:32:58 eghx-nitro kernel: [50206.578565] Bluetooth: hci0: QCA: patch rome 0x302 build 0x138, firmware rome 0x302 build 0x111
+Jul 28 12:32:58 eghx-nitro kernel: [50206.592834] done.
+Jul 28 12:32:58 eghx-nitro kernel: [50206.610128] Bluetooth: hci0: using NVM file: qca/nvm_usb_00000302.bin
+Jul 28 12:32:58 eghx-nitro kernel: [50206.654648] PM: suspend exit
+Jul 28 12:32:58 eghx-nitro kernel: [50206.663920] Read-error on swap-device (8:16:1638994096)
+Jul 28 12:32:58 eghx-nitro kernel: [50207.342647] [drm] RC6 on
+Jul 28 12:32:59 eghx-nitro kernel: [50207.886402] ata3: SATA link up 6.0 Gbps (SStatus 133 SControl 300)
+Jul 28 12:32:59 eghx-nitro kernel: [50207.933282] ata3.00: configured for UDMA/100
+Jul 28 12:33:00 eghx-nitro systemd-sleep[30578]: Failed to connect to non-global ctrl_ifname: (nil)  error: No such file or directory
+Jul 28 12:33:00 eghx-nitro acpid: client 
+
+### July 29 4 hr sleep and then opens with restarting
+Is it possible that I pressed the power button by accident? or
+squeezed the laptop so much?
+
+Jul 29 15:47:07 eghx-nitro systemd[1]: Starting Suspend...
+Jul 29 15:47:07 eghx-nitro wpa_supplicant[1008]: nl80211: deinit ifname=wlp2s0 disabled_11b_rates=0
+Jul 29 15:47:17 eghx-nitro systemd-sleep[19913]: Selected interface 'p2p-dev-wlp2s0'
+Jul 29 15:47:17 eghx-nitro systemd-sleep[19913]: 'SUSPEND' command timed out.
+Jul 29 15:47:17 eghx-nitro systemd-sleep[19914]: /lib/systemd/system-sleep/wpasupplicant failed with error code 254.
+Jul 29 15:47:17 eghx-nitro systemd-sleep[19913]: Suspending system...
+Jul 29 15:47:17 eghx-nitro kernel: [72279.061259] PM: suspend entry (deep)
+Jul 29 15:47:17 eghx-nitro kernel: [72279.061262] PM: Syncing filesystems ... done.
+Jul 29 20:05:49 eghx-nitro kernel: [72281.864212] Freezing user space processes ... (elapsed 0.002 seconds) done.
+Jul 29 20:05:49 eghx-nitro kernel: [72281.866236] OOM killer disabled.
+Jul 29 20:05:49 eghx-nitro kernel: [72281.866237] Freezing remaining freezable tasks ... (elapsed 0.001 seconds) done.
+Jul 29 20:05:49 eghx-nitro kernel: [72281.867609] Suspending console(s) (use no_console_suspend to debug)
+Jul 29 20:05:49 eghx-nitro kernel: [72282.104217] sd 2:0:0:0: [sdb] Synchronizing SCSI cache
+Jul 29 20:05:49 eghx-nitro kernel: [72282.104330] sd 2:0:0:0: [sdb] Stopping disk
+Jul 29 20:05:49 eghx-nitro kernel: [72282.104499] sd 0:0:0:0: [sda] Synchronizing SCSI cache
+Jul 29 20:05:49 eghx-nitro kernel: [72282.105856] sd 0:0:0:0: [sda] Stopping disk
+Jul 29 20:05:49 eghx-nitro kernel: [72283.376848] ACPI: EC: interrupt blocked
+Jul 29 20:05:49 eghx-nitro kernel: [72283.532811] ACPI: Preparing to enter system sleep state S3
+Jul 29 20:05:49 eghx-nitro kernel: [72283.533741] ACPI: EC: event blocked
+Jul 29 20:05:49 eghx-nitro kernel: [72283.533742] ACPI: EC: EC stopped
+Jul 29 20:05:49 eghx-nitro kernel: [72283.533743] PM: Saving platform NVS memory
+Jul 29 20:05:49 eghx-nitro kernel: [72283.533840] Disabling non-boot CPUs ...
+Jul 29 20:05:49 eghx-nitro kernel: [72283.548602] irq_migrate_all_off_this_cpu: 2 callbacks suppressed
+Jul 29 20:05:49 eghx-nitro kernel: [72283.548604] IRQ 123: no longer affine to CPU1
+Jul 29 20:05:49 eghx-nitro kernel: [72283.548608] IRQ 124: no longer affine to CPU1
+Jul 29 20:05:49 eghx-nitro kernel: [72283.549626] smpboot: CPU 1 is now offline
+Jul 29 20:05:49 eghx-nitro kernel: [72283.568587] IRQ 122: no longer affine to CPU2
+Jul 29 20:05:49 eghx-nitro kernel: [72283.568594] IRQ 129: no longer affine to CPU2
+Jul 29 20:05:49 eghx-nitro kernel: [72283.569605] smpboot: CPU 2 is now offline
+Jul 29 20:05:49 eghx-nitro kernel: [72283.592546] IRQ 1: no longer affine to CPU3
+Jul 29 20:05:49 eghx-nitro kernel: [72283.592552] IRQ 8: no longer affine to CPU3
+Jul 29 20:05:49 eghx-nitro kernel: [72283.592557] IRQ 9: no longer affine to CPU3
+Jul 29 20:05:49 eghx-nitro kernel: [72283.592562] IRQ 14: no longer affine to CPU3
+Jul 29 20:05:49 eghx-nitro kernel: [72283.592566] IRQ 16: no longer affine to CPU3
+Jul 29 20:05:49 eghx-nitro kernel: [72283.592570] IRQ 17: no longer affine to CPU3
+Jul 29 20:05:49 eghx-nitro kernel: [72283.593596] smpboot: CPU 3 is now offline
+Jul 29 20:05:49 eghx-nitro kernel: [72283.596616] ACPI: Low-level resume complete
+Jul 29 20:05:49 eghx-nitro kernel: [72283.596752] ACPI: EC: EC started
+Jul 29 20:05:49 eghx-nitro kernel: [72283.596752] PM: Restoring platform NVS memory
+Jul 29 20:05:49 eghx-nitro kernel: [72283.599107] Enabling non-boot CPUs ...
+Jul 29 20:05:49 eghx-nitro kernel: [72283.599142] x86: Booting SMP configuration:
+Jul 29 20:05:49 eghx-nitro kernel: [72283.599143] smpboot: Booting Node 0 Processor 1 APIC 0x2
+Jul 29 20:05:49 eghx-nitro kernel: [72283.601047]  cache: parent cpu1 should not be sleeping
+Jul 29 20:05:49 eghx-nitro kernel: [72283.601086] intel_pstate: Disabling energy efficiency optimization
+Jul 29 20:05:49 eghx-nitro kernel: [72283.601202] CPU1 is up
+Jul 29 20:05:49 eghx-nitro kernel: [72283.601238] smpboot: Booting Node 0 Processor 2 APIC 0x4
+Jul 29 20:05:49 eghx-nitro kernel: [72283.603145]  cache: parent cpu2 should not be sleeping
+Jul 29 20:05:49 eghx-nitro kernel: [72283.603312] CPU2 is up
+Jul 29 20:05:49 eghx-nitro kernel: [72283.603335] smpboot: Booting Node 0 Processor 3 APIC 0x6
+Jul 29 20:05:49 eghx-nitro kernel: [72283.605267]  cache: parent cpu3 should not be sleeping
+Jul 29 20:05:49 eghx-nitro kernel: [72283.605441] CPU3 is up
+Jul 29 20:05:49 eghx-nitro kernel: [72283.608597] ACPI: Waking up from system sleep state S3
+Jul 29 20:05:49 eghx-nitro kernel: [72283.613081] ACPI: EC: interrupt unblocked
+Jul 29 20:05:49 eghx-nitro kernel: [72283.864225] ACPI: EC: event unblocked
+Jul 29 20:05:49 eghx-nitro kernel: [72283.876197] sd 0:0:0:0: [sda] Starting disk
+Jul 29 20:05:49 eghx-nitro kernel: [72283.876231] sd 2:0:0:0: [sdb] Starting disk
+Jul 29 20:05:49 eghx-nitro kernel: [72283.903457] r8169 0000:03:00.1 enp3s0f1: link down
+Jul 29 20:05:49 eghx-nitro kernel: [72284.111873] usb 1-9: reset high-speed USB device number 3 using xhci_hcd
+Jul 29 20:05:49 eghx-nitro kernel: [72284.198598] ata1: SATA link up 6.0 Gbps (SStatus 133 SControl 300)
+Jul 29 20:05:49 eghx-nitro kernel: [72284.199483] ata1.00: configured for UDMA/133
+Jul 29 20:05:49 eghx-nitro kernel: [72284.388111] usb 1-7: reset full-speed USB device number 2 using xhci_hcd
+Jul 29 20:05:49 eghx-nitro kernel: [72284.539964] acpi LNXPOWER:01: Turning OFF
+Jul 29 20:05:49 eghx-nitro kernel: [72284.540036] Bluetooth: hci0: using rampatch file: qca/rampatch_usb_00000302.bin
+Jul 29 20:05:49 eghx-nitro kernel: [72284.540039] Bluetooth: hci0: QCA: patch rome 0x302 build 0x138, firmware rome 0x302 build 0x111
+Jul 29 20:05:49 eghx-nitro kernel: [72284.540079] OOM killer enabled.
+Jul 29 20:05:49 eghx-nitro kernel: [72284.540080] Restarting tasks ... done.
+Jul 29 20:05:49 eghx-nitro systemd[1]: Time has been changed
+Jul 29 20:05:49 eghx-nitro bluetoothd[819]: Endpoint unregistered: sender=:1.391 path=/MediaEndpoint/A2DPSource
+Jul 29 20:05:49 eghx-nitro bluetoothd[819]: Endpoint unregistered: sender=:1.391 path=/MediaEndpoint/A2DPSink
+Jul 29 20:05:49 eghx-nitro systemd[1]: Starting Load/Save RF Kill Switch Status...
+Jul 29 20:05:49 eghx-nitro acpid: client 31033[0:0] has disconnected
+Jul 29 20:05:49 eghx-nitro systemd[31398]: Time has been changed
+Jul 29 20:05:49 eghx-nitro systemd[1]: bluetooth.target: Unit not needed anymore. Stopping.
+Jul 29 20:05:49 eghx-nitro systemd[1]: Stopped target Bluetooth.
+Jul 29 20:05:49 eghx-nitro kernel: [72284.567796] Bluetooth: hci0: using NVM file: qca/nvm_usb_00000302.bin
+Jul 29 20:05:50 eghx-nitro systemd-sleep[19913]: System resumed.
+Jul 29 20:05:50 eghx-nitro kernel: [72284.609763] PM: suspend exit
+Jul 29 20:05:50 eghx-nitro systemd-sleep[19913]: Failed to connect to non-global ctrl_ifname: (nil)  error: No such file or directory
+Jul 29 20:05:50 eghx-nitro systemd-sleep[20023]: /lib/systemd/system-sleep/wpasupplicant failed with error code 255.
+Jul 29 20:05:50 eghx-nitro systemd-sleep[19913]: /dev/sda:
+Jul 29 20:05:50 eghx-nitro systemd-sleep[19913]:  setting Advanced
+Power Management level to 0x80 (128)
+
+### Solution
+
+Seems to be a problem with other Acer nitro 5's
+Loose screw and non re-settable stuff!
+
+
+Try to reproduce it by shaking or something.
+
+It looks like it is not an ubunut problem. Not many have complained
+about it as well.
+
 ## Appendix 1
   
   
