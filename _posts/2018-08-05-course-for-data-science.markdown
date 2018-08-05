@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "The right course for a Data Science Beginner"
 date:    05-08-2018 11:10
-categories: drafts
+categories: notes
 permalink: /:title.html
 published: True
 ---
@@ -17,27 +17,43 @@ particular course.
 
 ## What am I looking for
 
-A course on which I can spend a 6x20 (120hrs) hrs to learn DS. No
-adambaram, simple just follow the course.
-
-Speaking to DS.
+I am looking for a course on which I can spend ~6x20 hrs (120 hrs) to
+learn DS. I just want a course where I can follow said material in an
+ordered way to get a grip of the basics of DS. This is how I want to
+start. I hope this is enough to already start applying for jobs in DS.
 
 >To get an entry-level job you usually need basic familiarity with a
 >statistical programming language like R or Python, statistics, basic
 >machine learning algorithms, database systems and data communication
->and visualisation.
+>and visualization. - 80k hours career guide
 
-[Pre-study for joining Galvanize bootcamps](https://github.com/zipfian/data-science-primer)
+I will find courses and run it by my DS friend.
 
-[kaggle](https://www.kaggle.com/hiteshp/head-start-for-data-scientist)
+[Roman Duda of 80k suggests this coursera course for ultra
+beginners](https://www.coursera.org/specializations/jhu-data-science). It is the same as the 10 set capstone project suggested
+in quora, and looks good to start. Costs are about 40€/ month. I hope
+to finish it in less than 2 months.
 
-[Roman Duda of 80k suggests this
-courseera course for ultra beginners](https://www.coursera.org/specializations/jhu-data-science) looks like the 10 set
-capstone project suggested in quora, and looks good to start, costs
-50$ a month.
+There is a coarse [CS109](http://cs109.github.io/2015/) for DS by Harvard. Surprisingly all the
+[lectures and slides](http://cs109.github.io/2015/pages/videos.html) are available. The [Assignments from 2013 and
+2014](http://cs109.github.io/2014/index.html) along with solutions are available as well (bottom of the
+page). There are some videos [here](https://www.youtube.com/channel/UC0-KaiZFXBlGOFN71YsEV8g/videos) made by cs109 for tutoring on
+some small parts like git etc... This seems to cost 0€.
 
+A course by udacity known as the [Data analyst nano degree](https://in.udacity.com/course/data-analyst-nanodegree--nd002) costs
+about 550€ for a 160 hr with 30% off with code UMQXGK87482XHCN. So
+the cost should come to 385€.
 
-Still want to investigate 2 other course atleast or check with Body!
+This [quora answer on DS resources](http://qr.ae/TUIJ91) seems to be very informative,
+regarding where to learn basics, where to get data from. The same
+question has developed an [answer wiki](http://qr.ae/TUIJ9N) which also contains
+multiple sources for doing things. The way the answer is formed is
+that we quickly learn some basics and get into doing projects and
+learning from there.
+
+Should I just start with projects? What projects do I do? Or which
+course do I then take?
+
 ## References
 
 [80k-hours guide to DS](https://80000hours.org/career-reviews/data-science/)
@@ -56,16 +72,18 @@ references in DS within Quora](http://qr.ae/TUIJvg)
 Some suggestions were to look at Kaggle and statistics content on Khan
 academy.
 
-[8 skills you need to become a DS Udacity](https://blog.udacity.com/2014/11/data-science-job-skills.html)
+[Pre-study for joining Galvanize bootcamps](https://github.com/zipfian/data-science-primer)
 
-[Hiring trends in DS Udacity](https://blog.udacity.com/2015/02/hiring-trends-data-mean.html)
+~~[8 skills you need to become a DS Udacity](https://blog.udacity.com/2014/11/data-science-job-skills.html)~~
 
-
-
+~~[Hiring trends in DS Udacity](https://blog.udacity.com/2015/02/hiring-trends-data-mean.html)~~
 
 
 ## References for later
 
+I think [this kaggle link](https://www.kaggle.com/hiteshp/head-start-for-data-scientist) is like a project with a summary
+submitted for a competition, something which I should hope to achieve
+as part of my training.
 
 ## Dump
 
@@ -78,9 +96,7 @@ academy.
 - Look at bootcamps
 - Look at jobs in finance or in ASML or klm or banks
 
-
-
-## DS Scholarship
+## If applying for DS Scholarship
 
 Why financial aid?
 
