@@ -1,0 +1,57 @@
+---
+layout: post
+comments: true
+title:  "Git- my everyday learnings"
+date:    05-08-2018 08:39
+categories: notes
+permalink: /:title.html
+published: True
+---
+
+## Have an already existing repository?
+
+[From Gihthub:](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
+
+	git init
+
+	git add .
+	
+	git commit -m "First commit"
+
+Create a new git repository, and don't add any files in it. No readme
+nothing, just an empty repo.
+
+	git remote add origin remote
+    https://github.com/username/name-of-repository.git
+	
+	git push origin master
+
+
+
+That's it... type in your credentials. 
+
+## .gitignore
+
+Sometimes you might want to add a .gitignore file to ignore certain
+folders or files:
+
+Create the file in the main folder
+
+	touch .gitignore
+	
+For ignoring files add `*.filetype`. For ignoring folders add
+`/ignore-this-folder/` followed by `git add`, `git commit`, `git push`
+([Source](https://www.jamescoyle.net/how-to/1094-ignoring-files-in-git-with-gitignore), and [this](https://github.com/pradeep90/Emacs-Config/blob/master/.gitignore)). Check your github repo online to see if
+the changes are reflected. Mostly not!
+
+So do the following based of of this question: [gitignore not
+working](https://stackoverflow.com/questions/25436312/gitignore-not-working)
+
+	git rm -rf --cached .
+	git add .
+	
+	
+	
+
+
+

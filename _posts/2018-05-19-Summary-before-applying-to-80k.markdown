@@ -1934,7 +1934,7 @@ take this path, as there seems to already be better paths than an Econ PhD.
 #### Working at an effective Altruism organization 
 
 DS or research as an Analyst/content writer, is what I see myself
-starting in with Effective Altruism Organizations. With time I hope to
+starting with Effective Altruism Organizations. With time I hope to
 take up more senior roles or start other important organizations with
 a better understanding of what is needed.
 
@@ -2095,7 +2095,7 @@ to speed with what they want and start working for them asap.
 	startup and sometime you got to take your chances, with a good
 	plan C.
 
-In total I would have 41.6%.
+In total I would have 41.6% of personal fit right now.
 
 **Impact**
 
@@ -2572,163 +2572,7 @@ motherfucking skill, thats it. interpersonal or whatever.
 
 
 
-###  calculations
-##### Calculating impact of direct working in 80k-hours
 
-**Problem**
-
-80k-hours has changed the lives of 1k people over 8 years. Per change
-the cost is about 1337$. We seek to estimate the contribution of an
-analyst in case he joins 80k-hours.
-
-**Assumptions or guesses** 
-
-80k is a reputed NGO, that is committed to creating massive impact. It
-is one such organization which I would want to join with the hopes of
-creating large impact.
-
-They are about 15 people excluding advisors, 2 co-founders, 6 core
-members, 3 freelancers and 4 operations people. 
-
-My contribution would be 1.8% of the whole company, in the first year
-assuming my contribution is [10%](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/) of the co-founder, and the core
-team and management team at 30% and 10% each respectively.
-
-<!-- **Other factors** -->
-<!-- - contribution of the donors -->
-<!-- - Contribution of the analyst assuming he is replaceable -->
-
-**Factors:**
-
-- contribution of 80k to the total lives saved by the changed lives
-  (based on 80k's plan) (20%) (guess based on one of the profiles)
-- contribution of 80k with the donors money (40%)(based on [GiveWell
-  estimate](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/))
-- contribution from the analyst when he is replaceable (10%) (
-  [GiveWell estimate](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/))
-- Contribution to the analyst is 1.18% of the whole company (as in
-  assumptions and guesses)
-- The minimum number of lives saved by anyone whose plans have been
-  changed is assumed to be what I can contribute at my easiest. i.e.,
-  working at DE for the rest of my life and donating 15%. Easy. Comes
-  to about 222 lives. (derived above)
-  
-  Although I think 10% is a fair number to assume for donations, I
-  suspect that with the change in plan based on 80k-hours
-  intervention, the impact could be atleast 1.5 times than what I
-  could have done without 80k-hours.
-  
-- Number of plans changed in a year = 457 on average and is growing
-(last 2 years plans changed was >1k)
-
-**The calculation**
-
-- Number of lives saved would thus be: 457*222 lives per year
-
-- Number of lives saved by an analyst per year = Multiplying by all
-  factors with the number of lives saved in total per year= 10 lives
-  
-- If this grows compounded at 2% with 1% inflation in costs and a 10%
-  hike every 5 years for the next 40 years, we get **626 lives**.
-  
-**Reflection on the calculation**
-
-- I feel like I have been heavily hoping for this answer to turn out
-  ridiculously large say in k's of people saved. But its only 2-3x more
-  than what I could save just being a design engineer. I want to say
-  JUST 2x more, but I will wash my mouth. 
-  
-  >Stanford economists have demonstrated that the average value of a
-  >year of quality human life is actually closer to about $129,000.
-  
-  I am very STUPID. It is not the difference between 200 and 600 rs my
-  dear motherfucker, it is the goddamn difference between 25 million
-  to 75 million $ in value, and that too just for one year.  (My
-  internal bells just went off!  essay writing you rock)
-  
-  Looking at this, even if I spend 4k on a saving a fucking life,
-  imagine the value I create. It is very easy to fall for shit due to
-  my scope insensitivity, but pandians are awake and kicking now. 
-  
-  Even if we assume the value to the cost of saving a life alone,
-  right now. To save 200 lives and to save 600 lives is the goddamn
-  difference between saving 800k$ and 2.4mill$ over a life time. It
-  might not do a lot inside, but mind you, you are scope
-  insensitive. Shut up and multiply has never been so resounding
-  inside my head this much. A year later it starts to make sense.
-  
-- The numbers produced here seem conservative and very rough, with
-  the estimates of my contribution as well as the number of
-  plans changed (as we take average and not the current)
-  
-  Changing the numbers a bit, and making it less conservative, I
-  stumble upon another rough estimate of about 2777 lives per
-  lifetime per person.
-  
-  So I would say there is a possibility of saving 600 to 3000 lives
-  over the next 40 years for me while doing direct work.
-  
-- Another estimate of value created by working [@ GiveWell is
-  $97,900](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/) which translates to about 1500 lives roughly over 40
-  years (compounded at 2% with 1% inflation in costs and a 10%
-  interest every 5 years)
-  
-- I guess it is more about the ball park or the relatively larger good
-  you can do by working in EAO's such as GiveWell.
-  
-- Recently I came across an argument regarding ["Why I am not
-  replaceable"](https://80000hours.org/career-reviews/working-at-effective-altruist-organisations/#why-is-working-at-an-ea-organisation-high-impact), by 80k hrs. And it argued that if I take
-  up job at an EAO, then I free up the other person who is "supposed
-  to replace me" to do other good things. 
-  
-  Also most organizations are talent constrained rather than funding
-  constrained, adding more points to the above argument regarding
-  replaceability.
-  
-  And in that case the GiveWell estimate would go from 97k to 970k/
-  year.
-  
-  But, 
-  
-  >To get a sense of how much value you create by working at an EA
-  >organisation, we asked the organisations how much funding they
-  >would have traded for their most recent hire. They gave an average
-  >of $126,000 – $505,000 and a median of $77,000 – $307,000 per
-  >year.
-  
-  It appears that assuming yourself as not completely replaceable as
-  well as assuming yourself completely replaceable might not be a good
-  estimate. We will fall in between and based on the expected value an
-  EAO thinks of us, it appears that the 97k is indeed a nice
-  conservative number and we will stick with the impact calculated as
-  a result which is 970 lives over 40 years. 
-  
-  Another thing is that the whole [Indirect
-effects](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/) is not taken into account at all.
-
-##### Calculating the impact of working in design engineering
-
-I estimate the impact of being an engineer as
- - Total donations per annum (20% of 46k$)
- - cost of one life (4k$)
- 
- - Inflation = 2% in cost of life 
- - Number of years of donation = 40
- - Increase in salary = 4% max per annum
- - Job change every 5 years with 10% increase
- - 20% donation per year
- - = <200
- 
- 
-I estimate the impact of starting up in tech to be
- - Total donations per annum (60% of [2.5m$](https://80000hours.org/2014/05/how-much-do-y-combinator-founders-earn/#fn:5))
- - cost of one life (4k$)
- - Inflation = 2% in cost of life 
- - Number of years of donation = 40
- - Increase in salary = 5% max per annum
- - Job change every 5 years with 12.5% increase
- - ~38k lives
- 
 ## Analysis
   * [x] Fix the bug of impact of Top NGO's
   * [x] add 80k results and do some checking
@@ -4132,3 +3976,166 @@ Interpersonal skills sales type of skills
 | EAO          | Effective Altruism Organization |
 | fCC          | flexible career capital         |
 |              |                                 |
+#### Calculating impact of direct working in 80k-hours
+
+In this appendix the goal is to calculate number of lives saved by
+working in an EAO. It is attempted to estimate the impact of a
+researcher at 80k-hours-EAO. This is "validated" against an estimate
+from a researcher from GiveWell. Further the value is reflected upon
+considering replaceability  of a researcher in a job and the effective
+impact as such.
+
+**Problem**
+
+80k-hours has changed the lives of 1k people over 8 years. Per change
+the cost is about 1337$. We seek to estimate the contribution of an
+analyst in case he joins 80k-hours.
+
+**Assumptions or guesses** 
+
+80k is a reputed NGO, that is committed to creating massive impact. It
+is one such organization which I would want to join with the hopes of
+creating large impact.
+
+They are about 15 people excluding advisors, 2 co-founders, 6 core
+members, 3 freelancers and 4 operations people. 
+
+My contribution would be 1.8% of the whole company, in the first year
+assuming my contribution is [10%](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/) of the co-founder, and the core
+team and management team at 30% and 10% each respectively.
+
+<!-- **Other factors** -->
+<!-- - contribution of the donors -->
+<!-- - Contribution of the analyst assuming he is replaceable -->
+
+**Factors:**
+
+- contribution of 80k to the total lives saved by the changed lives
+  (based on 80k's plan) (20%) (guess based on one of the profiles)
+- contribution of 80k with the donors money (40%)(based on [GiveWell
+  estimate](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/))
+- contribution from the analyst when he is replaceable (10%) (
+  [GiveWell estimate](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/))
+- Contribution to the analyst is 1.18% of the whole company (as in
+  assumptions and guesses)
+- The minimum number of lives saved by anyone whose plans have been
+  changed is assumed to be what I can contribute at my easiest. i.e.,
+  working at DE for the rest of my life and donating 15%. Easy. Comes
+  to about 222 lives. (derived above)
+  
+  Although I think 10% is a fair number to assume for donations, I
+  suspect that with the change in plan based on 80k-hours
+  intervention, the impact could be atleast 1.5 times than what I
+  could have done without 80k-hours.
+  
+- Number of plans changed in a year = 457 on average and is growing
+(last 2 years plans changed was >1k)
+
+**The calculation**
+
+- Number of lives saved would thus be: 457*222 lives per year
+
+- Number of lives saved by an analyst per year = Multiplying by all
+  factors with the number of lives saved in total per year= 10 lives
+  
+- If this grows compounded at 2% with 1% inflation in costs and a 10%
+  hike every 5 years for the next 40 years, we get **626 lives**.
+  
+**Reflection on the calculation**
+
+- I feel like I have been heavily hoping for this answer to turn out
+  ridiculously large say in k's of people saved. But its only 2-3x more
+  than what I could save just being a design engineer. I want to say
+  JUST 2x more, but I will wash my mouth. 
+  
+  >Stanford economists have demonstrated that the average value of a
+  >year of quality human life is actually closer to about $129,000.
+  
+  I am very STUPID. It is not the difference between 200 and 600 rs my
+  dear motherfucker, it is the goddamn difference between 25 million
+  to 75 million $ in value, and that too just for one year.  (My
+  internal bells just went off!  essay writing you rock)
+  
+  Looking at this, even if I spend 4k on a saving a fucking life,
+  imagine the value I create. It is very easy to fall for shit due to
+  my scope insensitivity, but pandians are awake and kicking now. 
+  
+  Even if we assume the value to the cost of saving a life alone,
+  right now. To save 200 lives and to save 600 lives is the goddamn
+  difference between saving 800k$ and 2.4mill$ over a life time. It
+  might not do a lot inside, but mind you, you are scope
+  insensitive. Shut up and multiply has never been so resounding
+  inside my head this much. A year later it starts to make sense.
+  
+- The numbers produced here seem conservative and very rough, with
+  the estimates of my contribution as well as the number of
+  plans changed (as we take average and not the current)
+  
+  Changing the numbers a bit, and making it less conservative, I
+  stumble upon another rough estimate of about 2777 lives per
+  lifetime per person.
+  
+  So I would say there is a possibility of saving 600 to 3000 lives
+  over the next 40 years for me while doing direct work.
+  
+- Another estimate of value created by working [@ GiveWell is
+  $97,900](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/) which translates to about 1500 lives roughly over 40
+  years (compounded at 2% with 1% inflation in costs and a 10%
+  interest every 5 years)
+  
+- I guess it is more about the ball park or the relatively larger good
+  you can do by working in EAO's such as GiveWell.
+  
+- Recently I came across an argument regarding ["Why I am not
+  replaceable"](https://80000hours.org/career-reviews/working-at-effective-altruist-organisations/#why-is-working-at-an-ea-organisation-high-impact), by 80k hrs. And it argued that if I take
+  up job at an EAO, then I free up the other person who is "supposed
+  to replace me" to do other good things. 
+  
+  Also most organizations are talent constrained rather than funding
+  constrained, adding more points to the above argument regarding
+  replaceability.
+  
+  And in that case the GiveWell estimate would go from 97k to 970k/
+  year.
+  
+  But, 
+  
+  >To get a sense of how much value you create by working at an EA
+  >organisation, we asked the organisations how much funding they
+  >would have traded for their most recent hire. They gave an average
+  >of $126,000 – $505,000 and a median of $77,000 – $307,000 per
+  >year.
+  
+  It appears that assuming yourself as not completely replaceable as
+  well as assuming yourself completely replaceable might not be a good
+  estimate. We will fall in between and based on the expected value an
+  EAO thinks of us, it appears that the 97k is indeed a nice
+  conservative number and we will stick with the impact calculated as
+  a result which is 970 lives over 40 years. 
+  
+  Another thing is that the whole [Indirect
+effects](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/) is not taken into account at all.
+
+#### Calculating the impact of working in design engineering
+
+I estimate the impact of being an engineer as
+ - Total donations per annum (20% of 46k$)
+ - cost of one life (4k$)
+ 
+ - Inflation = 2% in cost of life 
+ - Number of years of donation = 40
+ - Increase in salary = 4% max per annum
+ - Job change every 5 years with 10% increase
+ - 20% donation per year
+ - = <200
+ 
+ 
+I estimate the impact of starting up in tech to be
+ - Total donations per annum (60% of [2.5m$](https://80000hours.org/2014/05/how-much-do-y-combinator-founders-earn/#fn:5))
+ - cost of one life (4k$)
+ - Inflation = 2% in cost of life 
+ - Number of years of donation = 40
+ - Increase in salary = 5% max per annum
+ - Job change every 5 years with 12.5% increase
+ - ~38k lives
+ 
