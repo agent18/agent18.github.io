@@ -1656,8 +1656,7 @@ In this profile we are going to see about three types of paths:
 - Taking academic jobs
 - Taking non-academic jobs with a rare chance at making large
   impact
-- Taking non-academic jobs for ETG
-
+  
 **Why Econ PhD**
 
 >You gain a broad set of tools for understanding how the social world
@@ -1675,9 +1674,6 @@ important cause of its impact.
 >Economics professors get a lot freedom to do research across a wide
 >range of topics and disciplines, which gives you great option value
 >for future research.
-
-
-
 
 **Skills**
 
@@ -1856,22 +1852,6 @@ So the chance of completing decently an Econ Phd within top 20 is:
 	
 		33% x 60% x 20% = 4%
 
-3. Non-academia jobs without rare chance
-
-	>I completed my PhD in Econ (well Applied Econ) last year at an
-	>unranked school, and had little trouble finding a good job. The
-	>academic job market wasn't very receptive, but I received a fair
-	>amount of interest from different businesses, and ended up in risk
-	>management at a bank.
-
-	>Most of my peers had similar success finding work. It seemed to me
-	>that getting a tenure-track job from an unranked school is
-	>difficult. But, getting a good, well paying non-academic job was
-	>pretty easy. -[Noahpinion comments](http://noahpinionblog.blogspot.com/2013/05/if-you-get-phd-get-economics-phd.html)
-
-	Chances of finding a job in general is high (85%). This puts us at a
-	personal fit of 29%.
-
 **Impact**
 1. Impact of being in academia
 	
@@ -1892,27 +1872,6 @@ So the chance of completing decently an Econ Phd within top 20 is:
 	- Earning for a period of 30 years	
 	- In total 750 lives
 
-3. Impact not including the [rare chance](http://allegedwisdom.blogspot.com/2017/03/the-story-of-lucky-economist.html) would be 
-
-	- Value from taking up an MC job has effective impact is 670
-      lives. This is for 40 years. The contribution extrapolated to 33 
-	- impact due to advocacy 50 lives (pure guess) 
-
->You gain a broad set of tools for understanding how the social world
->works, which is helpful for evaluating causes and interventions. This
->may help you better evaluate your future career options to have more
->impact. A notable example of this in action is the founding of
->GiveDirectly (one of GiveWell’s top recommended charities), which was
->founded by economics PhD students.
-
-Also exists an advocacy potential, through journalism, writing books
-and influencing policy through your research.
-<!-- what abou tan economics master? -->
-
-I am not really going to nail this, as this is like an exit
-opportunity and will be same as DS or MC I guess. If the main path is
-not really that much worth, I would look at an MBA instead. And for
-sure an Econ PhD would be much harder I think.
 
 **Personal fit x Impact**
 
@@ -1940,7 +1899,8 @@ Effective Value: 565 lives.
 With this career path we are interested in going to the tenure
 track. But the Effective value is much more than the maximum impact
 with the tenure track. This is because the '#lives if other is
-significantly higher than what a tenure track can provide. 
+significantly higher than what a tenure track can provide. If this is
+the case, then there is no point of pursuing this career.
 
 - Econ PhD with rare chance working at government agency
 
@@ -1961,49 +1921,44 @@ anytime within the next 40 years. In case we do not get the rare
 chance, then we have only the ETG to show, which would come to about
 350 for 33 years of working in economics waiting for that rare chance.
 
-- Econ PhD with no rare chance
+Although the rare chance path can lead to an impact of 750, it most of
+the cases we would get an impact of 350. Once we complete the PhD and
+get an agency job, we are left with an impact of:
 
-{:.tablestyletwo}
-| Crossroad                        | Success | Other | # lives if success | # lives if other | EA: if success | EA: if other |
-|----------------------------------|---------|-------|--------------------|------------------|----------------|--------------|
-| 165+ in GRE                      | 90.0%   | 10.0% | NA                 | 730              | 520            | 73           |
-| Learning Eco to get into top 20  | 70.0%   | 30.0% | NA                 | 730              | 359            | 219          |
-| other factors for getting in phd | 70.0%   | 30.0% | NA                 | 730              | 294            | 219          |
-| long hour working                | 95.0%   | 5.0%  | NA                 | 0                | 420            | 0            |
-| research role interest           | 80.0%   | 20.0% | NA                 | 0                | 442            | 0            |
-| getting job without rarechance   | 85%     | 15.0% | 553                | 553              | 470            | 83           |
-
-With an effective value of 593.
-
+	12% x 750 + 88% x 350 = 398
+	
+If this is the combined impact, then I am not sure I am expected to
+take this path, as there seems to already be better paths than an Econ PhD.
 
 
 #### Working at an effective Altruism organization 
 
+DS or research as an Analyst/content writer, is what I see myself
+starting in with Effective Altruism Organizations. With time I hope to
+take up more senior roles or start other important organizations with
+a better understanding of what is needed.
+
 **Skills**
 
-DS or research as an Analyst/content writer is as far as I see myself
-going in. When I think of skills, I think of transferable
-skills. Skills that will make me so valuable that I can transfer
-ideally transfer from one profession to another.
+>We’ve asked leaders of effective non-profits whether it makes sense
+>to start your career in the non-profit sector. They said you can
+>usually advance faster in the corporate sector because you get better
+>training, and that’s where they hire from. -
+>[80k-hours-career-guide](https://80000hours.org/career-guide/career-capital/#mistake-2-not-building-flexible-career-capital-that-will-be-useful-in-the-future)
 
-The best skill is given by MC is the first assumption.
-
-With such a research job, I am not sure where I can go next other than
-within the EA community.Over the course of a few years, I rely heavily
-on my connections to help me out for another job. Once I spent 6-7
-years in it, what will I do next if it doens't work out? Rather than
-that EA jobs seem to suck with transferable skills, unless in
-management or administration is my guess. Research jobs where I
-currently see my best fit involve lot of critical thinking etc... but
-what type of jobs in the private sector can I go to afterwards, let
-alone them paying a lot.
-
-I suspect the job to be demanding and so I would say learning other
-things on the side might be a little hard.
-
+It is widely accepted in the community that it is far easier to go
+from corporate job to EAO rather than the other way around.
 There is very litle on the job training, and lack of senior
-mentorship. And the expertise is tied to the EA movement (unlike MC
-for example).
+mentorship, and the expertise is tied to the EA movement (unlike MC
+for example). 
+
+In case we lose job because of changing strategies within
+organizations, EAOs running out of funding or stagnation of the EA
+movement, then finding a job might be hard say after 10 years of EA
+experience. FCC is not only for being able to move from one industry
+to the other based on the current need of the world, but it is also
+for being able to adapt to changing scenarios. But 80k-hours-guide
+seems to suggest otherwise.
 
 >People sometimes worry that working at effective altruist
 >organisations doesn’t lead to concrete foreseeable future career
@@ -2013,35 +1968,34 @@ for example).
 >future holds, even if on reflection you believe that you’ll have good
 >future career options.
 
-For the reasons stated above I give it a 6.5 to factor in some
-uncertainty.
+<!-- Poor performance cannot be hidden here as most EAO's have a few
+tens of --> <!-- people working for them. Hopefully this can be seen
+within a year and --> <!-- if necessary we can go back to what we were
+doing all our life. -->
 
-Yes it seems to be good with connections and credibility but not
-really transferable skill. You can however work different roles or
-mixed roles based on ones fit.
-
-<!-- what about the other things you can learn? -->
+For me it is scary when I think about taking it up right away, to
+abandon all the FCC I can get and immediately join an EAO. I give it a
+6.5/10, although there are the advantages of having a lot of autonomy
+in work, and the possibility to test fit for a wide range of roles.
 
 **Connections**
 
 There is little doubt regarding the connections I could make when I
-want to be in the EA community [as exclaimed in this epic article by
-80k ](https://80000hours.org/career-reviews/working-at-effective-altruist-organisations/#how-good-is-the-career-capital) and [by the person who worked in GiveWell](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/). But my
-connections seem to only belong here and around here. 
-
-I think I am again saying that I can't hop between industries but only
-within the EA movement. 
-
-I am talking as though that is a bad thing. Well 80k exclaims, what if
-EA grows down in popularity, I feel like I would be completely
-abandoned. Where as if I did MC or DS I find my relavance in a wide
-variety of places.
+want to be in the EA community [as exclaimed in this article by 80k
+](https://80000hours.org/career-reviews/working-at-effective-altruist-organisations/#how-good-is-the-career-capital) and [by the person who worked in GiveWell](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/). But my connections
+seem to only belong here and around here. They will help me find work
+within the EA community. 
 
 >If you think the EA community will keep growing, then the value of
 >these connections just gets stronger over time.
 
+80k-hours-guide already seems to mention this in a number of places,
+that there is a problem if the EA movement stagnates for some
+reason. I can't see why it would happen, but 80k-hours-guide mentions
+it a couple of times and this should be taken into account.
+
 But as I am looking for connections to improve my chances of success
-in EA, I give it a solid 8.
+in EA, I give it a solid 7/10.
 
 **Credentials**
 
@@ -2049,113 +2003,97 @@ They are less prestigious than Google, Mckinsey or World bank, but
 nevertheless some of the organizations have terrific credentials like
 having gone through Y-combinator etc...
 
->Can get impressive achievements due to high levels of responsibility
+> Can get impressive achievements due to high levels of responsibility
 > Some impressive affiliations (Y Combinator, Oxford, Good Ventures)
 > Less brand recognition
 
-Sounds like an 7. I don't think though that it beats DS cred. Atleast
-there is some uncertainty.
+The community is very much evidence based and as a result I wouldn't
+expect vague feedback or very subjective performance evaluations. This
+I suspect already to lead to boastable achievements. Being in a small
+organization, allows for high levels of responsibility allowing for
+more credentials to be earned. Sounds like an 7/10.
 
 **Runway**
 
 I think I can transition to this job say by doing an internship at one
-of the foundations. So this is could be sooner than I think. Of course
-the current Runway of DE will make sense for it which would stand at
-6.0. But also the earnings of EA work are very low and I am going to
-say that with EA getting an 18 month runway would take even more
-time. As they almost pay the lowest.
+of the foundations. So this is could be sooner than I think. The
+current runway for DE will hold still as it will take me a couple of
+years to move to and EAO. 
 
-Without 18k in the bank don't go into this?
+Once in an EAO, runway is even lower. Ability to save money for
+retirement is slow and low.
 
 >As with other startups, there is a risk of your organisation running
 >out of funding (though this hasn’t happened to any of the major
 >organisations), or substantially changing its strategy, meaning you
 >could lose your job.
 
+Without 18k maybe we should not go into this. 5/10
+
 **Personal Fit**
 
-I think I am not yet a personal fit, but I can quickly get up to speed
-with what they want and start working for them asap.
+I think I am not yet a personal fit for EAO, but I can quickly get up
+to speed with what they want and start working for them asap.
 
 - Ability to gain Experience (80%)
 
 > A track record of engaging with research in the community and making
 > productive contributions to it.
   
-  I don't know how I am supposed to get experience before working in
-  an EA organization.
-  
-  But I can try doing other things, like starting an EA org in my city
-  or working 80k or someone offline, producing some work for them and
-  showing how much I am worth.
-  
-  I could also do an internship now or apply for it and plan for 2
-  months next year if this is the highest impact career. i.e, do
-  everything in my capability to get all the experience I need. 
-  
-  I mean what else is there to do in life.
+  I currently don't have any experience other than "blogging", and
+  being a 10-percenter for over 1.5 years. But I can try doing other
+  things, like starting an EA org in my city or working for 80k-hours
+  or someone from home, producing some work for them and showing how
+  much I am worth. I could also apply for an internship of 2 months,
+  provided I get that time off. I mean what else is there to do in
+  life.
   
 - Relevant disciplines can be easily studied and skills built (85%)
 
->Having studied relevant disciplines at university, such as economics,
->statistics, philosophy or another quantitative field, helps, but
->isn’t necessary.
-
-This I can compensate for by working on it by myself at home.
-
-Personal fit involves how successful I will be if I pursue an EAO and
-work with them and create the impact I need.
-
-Seems like a very complex problem 
+	I can work on what topics such as statistics, philosophy and
+    blogging from home to build myself to be work-ready for an EAO.
 
 - Care about EA (90%)
 
-> They really care about effective altruism, and are happy to talk
-> about it all day.
+	> They really care about effective altruism, and are happy to talk
+	> about it all day.
 
-What else is there to do in life?
+	What else is there to do in life?
 
 - Can you manage your time and be efficient and self-directed? (85%)
 
-With more responsibility I will thrive. I thrive in new situations and
-learn quickly and literally anything. I have demonstrated this ability
-at my current company and my internship atleast (based on the feedback
-I have received.
+	With more responsibility I will thrive. I thrive in new situations
+	and learn quickly and literally anything. I have demonstrated this
+	ability at my current company and my internship (according to the
+	feedback I have received. I am always looking for hard problems to
+	solve.
 
-I am always looking for hard problems to solve.
+	>They’re self-directed, able to manage their time well, they can
+	>create efficient and productive plans, and keep track of complex
+	>projects.
 
->They’re self-directed, able to manage their time well, they can
->create efficient and productive plans, and keep track of complex
->projects.
-
-I think I would waste time, but with regular feedback I can
-improve.
-
-I have never really been on high alert except for during my work at
-IIT or my entire masters. But then basically I worked all the time to
-ensure success, as nothing was more important than this.
-
-I am not sure how good I am, but I think I can manage a decent job and
-will get better based on how important the job is to me I guess.
+	I am not sure how good I am, but I think I can manage a decent job
+	and will get better based on how important the job is to me I
+	guess. I am also very hardworking.
 
 - Managing in case you loose your current job or the startup crashes
   (80%)
 
-It is possible the EA movement as a whole loses it's momentum? If I
-loose my job, atleast I am part of the community and would have built
-some contacts.
+	It is possible the EA movement as a whole loses it's momentum? If
+	I loose my job, atleast I am part of the community and would have
+	built some contacts.
 
-If I loose my job right in the beginning, and can't find anything
-tangible, then I can always go back to where I belong. If I loose my
-job for whatever reason say after 5-10 years then it appears I should
-have enough contacts to pull me through this.
+	If I loose my job right in the beginning, and can't find anything
+	tangible, then I can always go back to where I used to belong. If
+	I loose my job for whatever reason say after 5-10 years then it
+	appears I should have enough contacts in EA to pull me through
+	this. In any case it is better to invest in some FCC before I join
+	EAOs to handle all situations.
 
-i.e., Exit opportunities earlier are fine and later might revolve
-around how I set it up with my connections.
-
-But it is scary, say you have to move to the US, and then you find
-that you loose your job, yes it is scary. But that is with any startup
-and sometime you got to take your chances, with a good plan C
+	But it is scary, say you have to move to the US, and then you find
+	that you loose your job, yes it is scary. But that is with any
+	startup and sometime you got to take your chances, with a good
+	plan C.
 
 In total I would have 41.6%.
 
@@ -2193,90 +2131,14 @@ I really hope. It's going to be EA 24*7? Let's see.
 
 
 #### Other interesting options
->Machine learning is a hot area a lot of people want to get into, so
-there is a risk that it could become more difficult to get jobs as
-lots of people crowd into the area. For example, MIT’s introduction to
-machine learning course recently had 700 people sign up – they had to
-use an overflow lecture room and deliberately weed people out of the
-course early.18 If machine learning turns out to progress more slowly
-than is expected, and doesn’t live up to the hype, then the number of
-jobs might shrink as well.  Mixture of 2 industries
 
-DS + DE
+Other options to look at
 
-DS + finance
-
-Programming + finance
+- Finance + SE
+- Finance + DS
 
 
-#### Working @ effective non profits
 
-Seems to be the same as working at an EAO, but more detailed. I will
-skip it for now.
-
-I remember reading in 80k-hours the importance of not working in an
-NGO now but working on it later than now. First build CC and then come
-back, as it is easier to go one way than the other.
-
-**Skill building**
-
->For the most part, we discourage people from working at non-profits
->at the start of their career, because top private sector jobs, like
->consulting, tend to offer more flexible career capital — the skills,
->connections and credentials that put you in a better position to make
->a difference in the future. - Source
-
->This is because top private sector jobs let you build connections
->with talented colleagues who go into a wide range of sectors, give
->you widely recognised credentials, and often give you better training
->than non-profits. It’s also more common to go from the corporate
->sector into non-profits than the other way around, so if you’re
->considering both, it can be better to work in the corporate sector
->first.
-
-Training wise, advice wise it, considering working at both corporate
-and non-profits would mean to gain work first at the corporate sector.
-
-The goal right now is not to create the highest impact yet.. but to
-make flexible career capital the most important thing in the world.
-
-As per the frequent words from 80k-hours, working in an NGO should not
-be the first thing to do for 2 reasons:
-
-1. Experience is not really considered epic here
-
-We rather learn much much more in the industry and then make the jump
-to use our skills to make lives better.
-
-2. Going to another job from here would be hard.
-
-Going back to the industry would be hard. The skills that we gain in
-the industry are much more valuable.
-
-**Skills**
-
-Transferable skills: for now its risky so 5
-
-**Connections**
-
-Yes in the field, but if shit goes wrong with the EA moment or that
-there is a funding contraint as these are startups. It would be better
-to rely on real world corporate experience first.
-
-5
-**Credentials**
-5
-**Runway**
-5
-**Personal fit**
-5
-**Supportive conditions/Job Satisfaction**
-8
-**Impact**
-8
-   
-   
-	
 #### Founding a startup
 
 There seems to be a lot of pointing towards learning to program and
