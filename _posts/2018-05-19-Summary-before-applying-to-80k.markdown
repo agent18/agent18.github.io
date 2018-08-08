@@ -2425,9 +2425,10 @@ One of the comments:
 
 There is web development, app development and OS development
 
-also meet <!-- suruta mudi! -->
+<!-- also meet <\!-- suruta mudi! -\-> -->
 
-#### Startup employee
+
+#### Startup employee (to be archived)
 
 I guess I need to split it as an additional contribution.
 
@@ -2445,7 +2446,8 @@ into a big ass startup.
 
 I keep the values for this quite rough. To me this appears as an
 option in addition to something I choose. When I am at the position of
-applying for jobs, that is when I should evaluate how important it is.
+applying for jobs, that is when I should evaluate how important it
+is.
 
 **Skills**
 
@@ -2455,7 +2457,7 @@ the first 50-100 employees you are probably given a lot of
 responsibility and somehow the skills and knowledge become
 transferable.
 
-8.
+8/10.
 
 **Connections**
 
@@ -2521,14 +2523,106 @@ It would be a lot of responsibility. Might have good autonomy and
 decent working hours. It will certainly fit with the rest of my life
 relationships etc..
 
-8
+8/10.
 
 #### Other interesting options
 
-Other options to look at
+**Startup employee**
 
-- Finance + SE
-- Finance + DS
+As said by 80k-hours-guide, being an employee of a seemingly
+taking off startup could give us large earnings.
+
+>If you get the opportunity to join a startup that’s taking off, you
+>may have greater earnings and impact by joining it than founding your
+>own e.g. the 100th employee of Dropbox still made about $10m,
+>equivalent to a 10% stake in a $100m company. -
+>[Startup-employee-80000-hrs](https://80000hours.org/career-reviews/startup-early-employee/)
+
+Joining a startup will be based on the field I choose to take on
+further. With most paths like MC, DS, I don't want to begin at a
+startup as I don't have much to offer, i.e., experience. 
+
+In startups we typically don't get senior mentorship, training and the
+like. If it is really small say 10-15 people then you are expected to
+perform by yourself with very little help from others as they might
+not know much. When things get technical, I would rely on experience,
+regarding softskills I think I can pick it up on the job. 
+
+We get a lot of autonomy and responsibility in startups. Its nice for
+soft skills but not really for hard skills especially when you are
+developing it from scratch, I think. I will evaluate possibilities of
+going into startup with each career.
+
+**Finance + DS**
+
+I do not know how to evaluate this. It appears that it gives more FCC
+than simply DS. But to go into it directly might be hard. I would
+atleast need to do some courses. In case I choose DS, I would first
+like to get a job and start with it and from there explore other
+options. In any case, I will evaluate these type of options as well as
+and when I choose the path and start looking for jobs.
+
+**Finance + SE**
+
+Same as DS. I will look into this when the time is right.
+
+**Dubai**
+
+Seems like a lucrative option especially for ETG. I have a few cousins
+who are in their early 40s. These people were ordinary people in my
+home town, with a bachelors and having a normal job. All three of them
+went to Dubai one by one and got jobs. All three of them own BMWs
+now. They have houses worth 200k $ in India (This is quite a lot for a
+house in India). They lead luxurious lives, none of their wives work
+and they have exotic holidays. My dad was exclaiming recently that one
+of them went to US for 1 week with his family for 18k$. That is sheer
+luxury spending or in other words someone who can clearly ETG and
+more.
+
+Long time back they reached this state of luxury. Dubai seems to be a
+money milking country. I should definitely give it a try at some point
+if things don't work out. I would most certainly like to estimate how
+much my earning potential would be. 
+
+One of the cousins was a mechanical engineer. The other two are in
+insurance etc...
+
+The one thing that is not nice with Dubai, is that we could loose our
+job in an instant, there is not much security about that. All contacts
+developed as a result might go waste. 
+
+<!-- talk to kailash and what he is doin in dubai, how much he earns -->
+
+<!-- talk to guy who said money printing -->
+
+One way I see myself go there, is to finish an MBA, work for a few
+years and then try Dubai. But first I want my citizenship in
+Netherlands.
+
+<!--  need to estimate potential earnings -->
+
+possible routes, mech --> sales --> dubai or mech to mba to dubai
+
+**Party politics, Policy**
+
+All this as far as I have seen require a US citizenship or UK
+citizenship. Not sure how to see myself there. This seems quite far
+fetched. Of course doing something related to policy could be possible
+through an MBA or an Econ Phd. By the looks of it Econ PhD is quite
+far fetched. 
+
+**Think Tanks**
+
+Not sure. Haven't done much research into it. I will atleast read the
+page on think tanks.
+
+I am more and more inclined to get FCC and call it a day. 
+
+<!-- What would be nice, is something like jobs that can get us to the -->
+<!-- other options, as that could also be a deciding factor.--> 
+
+If MC can get me somewhere in the vicinity of PP Policy etc... then
+maybe it is a good option. Impact needs to be evaluated as well.
 
 
 
