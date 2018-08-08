@@ -31,8 +31,8 @@ I will find courses and run it by my DS friend.
 
 [Roman Duda of 80k suggests this coursera course for ultra
 beginners](https://www.coursera.org/specializations/jhu-data-science). It is the same as the 10 set capstone project suggested
-in quora, and looks good to start. Costs are about 40€/ month. I hope
-to finish it in less than 2 months.
+in quora, and looks like a good to start. Costs are about 40€/
+month. I hope to finish it in less than 2 months.
 
 There is a coarse [CS109](http://cs109.github.io/2015/) for DS by Harvard. Surprisingly all the
 [lectures and slides](http://cs109.github.io/2015/pages/videos.html) are available. The [Assignments from 2013 and
@@ -41,8 +41,8 @@ page). There are some videos [here](https://www.youtube.com/channel/UC0-KaiZFXBl
 some small parts like git etc... This seems to cost 0€.
 
 A course by udacity known as the [Data analyst nano degree](https://in.udacity.com/course/data-analyst-nanodegree--nd002) costs
-about 550€ for a 160 hr with 30% off with code UMQXGK87482XHCN. So
-the cost should come to 385€.
+about 550€ for a 160 hr (30% off with code UMQXGK87482XHCN, So the
+cost should come to 385€).
 
 This [quora answer on DS resources](http://qr.ae/TUIJ91) seems to be very informative,
 regarding where to learn basics, where to get data from. The same
@@ -53,6 +53,9 @@ learning from there.
 
 Should I just start with projects? What projects do I do? Or which
 course do I then take?
+
+As per the suggestion of a friend in DS I take the Courseera course
+and finish it and see where it takes me.
 
 ## References
 
@@ -133,3 +136,65 @@ suggest starting the course and paying once I successfully port to DS,
 then I am very much interested in the loan. Thank You for considering
 my application.
 
+<!-- ## mail to body -->
+
+<!-- Body, -->
+
+<!-- I am finally starting the course for DS. My plan is to spend about 160 hrs (most course align with this (40 weeks course 4 hrs per week)), and then just apply for a junior position and then learn during the job. -->
+
+<!-- This coursera course is for beginners. Costs are about 40€/ month. I -->
+<!-- hope to finish it in less than 2 months max.  There is a coarse CS109 -->
+<!-- for DS by Harvard. Surprisingly all the lectures and slides are -->
+<!-- available. The Assignments from 2013 and 2014 along with solutions are -->
+<!-- available as well (bottom of the page). There are some videos here -->
+<!-- made by cs109 for tutoring on some small parts like git etc… This -->
+<!-- seems to cost 0€. -->
+
+<!-- A course by udacity known as the Data analyst nano degree costs 385€. -->
+
+<!-- This quora answer on DS resources seems to be very informative, -->
+<!-- regarding where to learn basics, where to get data from. Answer -->
+<!-- suggests starting with projects. The same question has a developed -->
+<!-- answer wiki which also contains multiple sources for doing things. The -->
+<!-- way the answer is formed is that we quickly learn some basics and get -->
+<!-- into doing projects and learning from there. -->
+
+<!-- I am looking for cheap (I don't know if I will follow through), tests -->
+<!-- to finish a course worthy enough to put on my profile and then apply -->
+<!-- for jobs. -->
+
+<!-- Please give me your valuable feedback. I am in my vacation now so -->
+<!-- sooner I start the better. -->
+
+<!-- Thanks Body! -->
+
+<!-- Regards, Thej Kiran Ravichandran -->
+
+<!-- ## body speaks -->
+
+<!-- Title inflation---  -->
+
+<!-- 60-70% left side  -->
+
+<!-- Science: -->
+<!-- answer questions taking care of biases and defining finding to -->
+<!-- audience -->
+
+<!-- SQL Python R very well! -->
+
+<!-- 30% -->
+<!-- Machine learning AI Deep learning -->
+
+
+<!-- DAta enginerr analys sceninet ? -->
+
+
+<!-- Data engineer to Gerogia tech online courses; business analytics -->
+
+<!-- nanodegree.... 2-3 weeks ...  -->
+
+<!-- What are you doing? -->
+
+<!-- data  -->
+
+<!-- cracking the pm interview -->
