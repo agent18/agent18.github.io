@@ -1,9 +1,9 @@
 ---
 layout: post
 comments: true
-title:  "Fixed ubuntu power-off scenes? "
+title:  "Acer Nitro 5 with Ubuntu random shutdown "
 date:    06-07-2018 19:39
-categories: draft
+categories: notes
 permalink: /:title.html
 published: True
 ---
@@ -12,56 +12,51 @@ published: True
 
   * [x] suspend not suspending after lid close
   
-  Looks like it does something
+  Laptop seems to sleep well (>24 hrs) sometimes and not some other
+  times. The timing of failure-to-sleep is random.
   
-  Although I see the following:
+  * [ ] Error in syslog is the reason (fault of Ubuntu)?
 
+  Laptop randomly shuts down while sleeping. This doesn't happen on
+  every sleep. The sleep log looks similar for the above cases as far
+  as the syslog is available in case the laptop shutsdown randomly.
+
+  No traceable evidence that something like this happens due to Ubuntu
+  on Google.
+  
+  * [ ] The graphic card is the problem
+  
+  The error in syslog also appeared in another system of mine same
+  installation. The syslog looks quite similar in different laptops,
+  although there are errors. In any case I can toggle the graphic card
+  off and see if it helps.
+  
+
+  * [x] Tried setting up hibernating instead that doesn't work
+  
+  
+  [Link](https://askubuntu.com/questions/768136/how-can-i-hibernate-on-ubuntu-16-04)! Getting hibernation to work is not trivial.
+  
+  * [x] Maybe battery is loose?
 	
-        Jul  6 19:45:46 eghx-nitro systemd[1]: Reached target Sleep.
-          Jul  6 19:45:46 eghx-nitro systemd[1]: Starting Suspend...
-          Jul  6 19:45:46 eghx-nitro systemd-sleep[5248]: Failed to connect to non-global ctrl_ifname: (nil)  error: No such file or directory
-			  Jul  6 19:45:46 eghx-nitro systemd-sleep[5249]: /lib/systemd/system-sleep/wpasupplicant failed with error code 255.
-          Jul  6 19:45:46 eghx-nitro systemd-sleep[5248]: Suspending
-		  system...
-		  
+  The [acer nitro 5](https://community.acer.com/en/discussion/536218/acer-nitro-5-turning-off-randomly-while-not-charging?breakffcache=a4779) forum suggests that the screws at the bottom of the
+  laptop need to be tightened a bit more (around hand tight).
   
-  More in Appendix 1.
-  
-  
-  * [ ] Check if it is your graphics card
-  
-  get toggler and see if that helps
-  
-  is your pc working now?
-  
-  But it also happened in another system of mine same installation.
-  
-    * [ ] Error in syslog is the reason?
+  * [x] Upgrade to latest kernel
 
-
-
-
-
-  * [ ] Tried hibernating instead that doesn't work
-  
-  
-  [link](https://askubuntu.com/questions/768136/how-can-i-hibernate-on-ubuntu-16-04). Hibernating has other problems.
-  
-    * [ ] Battery loose?
-  
-## Fixing links on askubuntu
-
-[same error ](https://askubuntu.com/a/817667/443958) nothing wrong with this though. This link
-provides other places to search for,
-
-	Kernel change is the solution, but mine is quite older
-
-	ps aux | grep su
+  And check this page ([more suggestions](https://askubuntu.com/questions/765747/upgraded-ubuntu-16-04-sometimes-fails-to-sleep/817667#817667)) for more
+    solution. Upgraded system using,
 	
-Kernel up-to-date and much much older.
-	
-No error
+		$ sudo apt-get upgrade 
   
+  Some days its lasts the whole day. Somedays it just freaking switches
+off. 
+
+## Trying to check if the syslog errors are the problem
+
+[Same error ](https://askubuntu.com/a/817667/443958) nothing wrong with this though. This link
+provides other places to search for.
+
 [Similar error message but doesn't
 seem to work](https://askubuntu.com/questions/972433/not-able-to-suspend-because-of-failed-to-connect-to-non-global-ctrl-ifname-nil)  
   
@@ -80,44 +75,30 @@ Searches of the following gives no useful results.
 	
 	Failed to connect to non-global ctrl_ifname: (nil)  error: No such
 	file or directory
-	
-## Main problem
 
-  * [x] PM: Supending check
-~~Don't know what `Pm:Suspending` is.~~
+**Nothing useful here**
 
-Appendix 2 shows a proper suspend or a successful one and it has the
-`PM: Suspending system (mem)` in it.
+## Solution
 
-  * [x]  Don't know if system is suspending at all. 
-  
-  I think it is as it is able to sleep for 16 hrs reliably  (after
-  upgrade data on july 6)
-  Before upgrade 24 hrs was not completely predictable.
+I tightened all the screws (on aug 17) to slightly greater than hand
+tight. On Aug 21 before I went on my trip to bangalore (Test trip). I
+did a similar trip on Aug 8th (control trip). On Aug 21st my PC has
+survived all the way till 1.5 days later when I picked it up to write
+some thing. On Aug 8th my PC didn't survive even 4 hrs.
 
-## Todo:
-
-Upgrade pc and make it up to date
-
-  * [x] Upgrade to latest kernel
-
-And check this page ([more suggestions](https://askubuntu.com/questions/765747/upgraded-ubuntu-16-04-sometimes-fails-to-sleep/817667#817667)) for more solution.
-
-Upgraded system using 
-	
-		$ sudo apt-get upgrade 
-  
-  
-Problem
-
-Some days its lasts the whole day. Somedays it just freaking switches
-off. 
-  
-with the same error. Example July 3 and july 4 was fine.  
-  
+For now I assume this to confirm that my laptop is alright. I will put
+the laptop to more rigorous tests these coming days by taking it on my
+journey back to netherlands on sleep. The laptop can easily sleep for
+more than 48 hrs at full battery.
 
 
-## DATA
+
+## Appendix DATA
+
+Logging data to see differences between different days when the sleep
+if OK and NOK. Also logging changes I make to the system to see if it
+works properly.
+
 ### July 6 attempted repairing, but mainly ended up updating and upgrading
 ### July 7 10 hrs sleep + 45 mins youtube **OK**
 july 7 00:17:20 eghx-nitro systemd[1]: Starting Network Manager Script
@@ -766,7 +747,7 @@ Jul 29 20:05:50 eghx-nitro systemd-sleep[19913]: /dev/sda:
 Jul 29 20:05:50 eghx-nitro systemd-sleep[19913]:  setting Advanced
 Power Management level to 0x80 (128)
 
-### Solution
+### Solution discovery
 
 Seems to be a problem with other Acer nitro 5's
 Loose screw and non re-settable stuff!
@@ -777,7 +758,31 @@ Try to reproduce it by shaking or something.
 It looks like it is not an ubunut problem. Not many have complained
 about it as well.
 
-## Appendix 1
+### Aug 2 2 days of sleep not withstandable it seems **NOK**
+### Aug 8 as soon as I took it to the station in my bag **NOK**
+### Try solution soon
+### Aug 12 Laptop sleeping for 52 hrs **OK** No movement
+### Aug 17 tightend screws all screws
+tightened all screws, lets see. Slightly more than hand tight I think,
+till I slippedish!
+
+Next try battery reset, remove battery and place again.
+
+Test to be done tomorrow!
+
+### Aug 21 tested tightening of screws OK
+
+Seems to be working fine. despite taking it on train, closing it and
+opening it multiple times.
+
+### Aug 29 tested >2 day sleep with loss of 50% of battery
+### Sep 4-5 tested, chennai to amsterdam (24 hrs)
+
+Came back with 56% charge and no sleep. Also used to mildly charge my
+phone and tablet!
+
+### Test is thus complete!
+## Appendix example
   
   
   

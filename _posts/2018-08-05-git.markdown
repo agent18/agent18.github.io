@@ -8,27 +8,49 @@ permalink: /:title.html
 published: True
 ---
 
-## Have an already existing repository?
+## Folder to repository in Github?
 
-[From Gihthub:](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
+- Go to said folder & :
 
-	git init
+		git init
 
-	git add .
-	
-	git commit -m "First commit"
+		git add .
+		
+		git commit -m "First commit"
 
-Create a new git repository, and don't add any files in it. No readme
+[Source: Github](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
+
+- Create a new git repository, and don't add any files in it. No readme
 nothing, just an empty repo.
 
-	git remote add origin remote
-    https://github.com/username/name-of-repository.git
-	
-	git push origin master
-
-
+		git remote add origin remote
+		https://github.com/username/name-of-repository.git
+		
+		git push origin master
 
 That's it... type in your credentials. 
+
+---
+
+## Creating a new git repo and connecting to local
+
+- Create a new repo on Github
+
+- Open Terminal
+
+		git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+
+- Add create files you want
+
+- And then sync with online repo
+
+		git add -A
+		git commit -m "first commit"
+		git push
+		
+	That's it... type in your credentials. 
+
+---
 
 ## .gitignore
 
@@ -51,7 +73,16 @@ working](https://stackoverflow.com/questions/25436312/gitignore-not-working)
 	git add .
 	
 	
-	
+---
 
+## Changing name of git repository
+
+[Source](https://help.github.com/articles/renaming-a-repository/)
+
+- Change name of repository by going to settings on the repo page
+
+- Change the repo link on the local git cloned folder
+
+		git remote set-url origin new_url
 
 

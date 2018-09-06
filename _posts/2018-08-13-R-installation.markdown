@@ -1,0 +1,138 @@
+---
+layout: post
+comments: true
+title:  "R installation and setup (Linux and Emacs)"
+date:    13-08-2018 08:39
+categories: notes
+permalink: /:title.html
+published: True
+---
+
+## Uninstalling R
+
+Lets start here.
+
+	$ R
+	> .libPaths() 
+
+Delete these folders that you see as output,
+
+	sudo apt-get remove r-base-core
+	sudo apt-get remove r-base
+	sudo apt-get autoremove
+
+[Source](https://stackoverflow.com/questions/24118558/complete-remove-and-reinstall-r-including-all-packages)
+
+## Installing R for Ubuntu 16.10
+
+	sudo apt-get install r-base
+	
+This installs R version 3.2.3. But the latest version is 3.5.
+
+>It installs 3.2 because that's the default in the Ubuntu 16.04
+>repository. If you want the most up to date version of R for Ubuntu
+>it's best to follow the instructions at the [cran page for R on
+>Ubuntu](https://cran.r-project.org/bin/linux/ubuntu/). - [stack](https://stackoverflow.com/questions/44567499/install-r-latest-verison-on-ubuntu-16-04)
+
+
+Based on [cran page for R on Ubuntu](https://cran.r-project.org/bin/linux/ubuntu/) && [Stack](https://stackoverflow.com/a/48518006/5986651): add `deb
+https://cloud.r-project.org/bin/linux/ubuntu xenial-cran35/` to
+`/etc/apt/sources.list`. Run the following commands:
+
+	sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys
+	E084DAB9
+	
+	sudo apt-get update
+	sudo apt-get install r-base
+	
+	R --version
+	
+That is it.
+
+## Installing R-studio
+
+Its a [yak shave](https://mikewilliamson.wordpress.com/2016/11/14/installing-r-studio-on-ubuntu-16-10/) to install it due to the [Gstreamer
+dependency](https://mikewilliamson.wordpress.com/2016/11/14/installing-r-studio-on-ubuntu-16-10/). But thanks to the [Mike Williamson and his blog](https://mikewilliamson.wordpress.com/2016/11/14/installing-r-studio-on-ubuntu-16-10/)
+and the further answer in [stack](https://askubuntu.com/a/862520/443958), it was a very smooth install for
+Ubuntu 16.10 as per [this stack answer](https://stackoverflow.com/a/48518006/5986651).
+
+**Preparing to install R Studio**
+
+	sudo apt install libjpeg62
+
+**Specifically installing for Ubuntu 16.10** (For other versions refer
+to the stack answer):
+
+	wget --tries=3 --timeout=120 http://ftp.ca.debian.org/debian/pool/main/g/gstreamer0.10/libgstreamer0.10-0_0.10.36-1.5_amd64.deb
+	wget --tries=3 --timeout=120 http://ftp.ca.debian.org/debian/pool/main/g/gst-plugins-base0.10/libgstreamer-plugins-base0.10-0_0.10.36-2_amd64.deb
+	sudo dpkg -i libgstreamer0.10-0_0.10.36-1.5_amd64.deb
+	sudo dpkg -i libgstreamer-plugins-base0.10-0_0.10.36-2_amd64.deb
+	sudo apt-mark hold libgstreamer-plugins-base0.10-0
+	sudo apt-mark hold libgstreamer0.10
+
+**Installing R Studio**
+
+	wget --tries=3 --timeout=120 https://download1.rstudio.org/rstudio-xenial-1.1.383-amd64.deb
+	sudo dpkg -i rstudio-*-amd64.deb
+	
+	rstudio
+	
+Thats it! 
+
+
+**Note:**
+
+>i386 refers to the 32-bit edition and amd64 (or x86_64) refers to the
+>64-bit edition for Intel and AMD processors.- [stack](https://askubuntu.com/a/54298/443958)
+
+## Setting up R with Emacs
+
+[R-bloggers](https://www.r-bloggers.com/using-r-with-emacs-and-ess/), suggests to install package `ESS` and
+`ESS-smart-underscore` and some other `org` and `org-ref` type of
+packages. The org stuff seem to be unnecessary for me, so I skip them
+for now. Further more [r-bloggers](https://www.r-bloggers.com/using-r-with-emacs-and-ess/) link to their github repository
+and the [minimum-working-init-file](https://github.com/pprevos/r.prevos.net/blob/master/Miscellaneous/BodyImage/init.el) for our reference.
+
+The [init-file ](https://github.com/pprevos/r.prevos.net/blob/master/Miscellaneous/BodyImage/init.el) linked above shows that we need to add `require
+ess-site`. I don't understand what it is and why we need it. I stick
+to installing the required packages `ESS` and
+`ESS-smart-underscore`. This can be manually installed with `M-x
+package-list-packages RET` or you can add it to the init file. In my
+case I add the packages to my `package-init.el` file which will
+automatically install it. Furthermore the following is added to the
+`init.el` based on [r-bloggers-init-file](https://github.com/pprevos/r.prevos.net/blob/master/Miscellaneous/BodyImage/init.el):
+
+	;; Line numbers
+	(add-hook 'ess-mode-hook 'linum-mode)
+
+This allows for line numbers during the usage of ESS.
+
+### Testing if the above works
+
+Yes it works.
+
+To get a console simply do:
+
+	M-x R
+	
+The setup we now want to have is R editor on the left and R console on
+the right. Create `testing.R` file. Run `C-x 3` to split the
+window. Go to the other window (`C-x 0`). Open the console using `M-x
+R`. The [following command](https://stats.blogoverflow.com/2011/08/using-emacs-to-work-with-r/) will run the file in the console:
+
+	C-c C-l
+
+Toodles! Some more helpful configuration things are given in
+[here](https://stats.blogoverflow.com/2011/08/using-emacs-to-work-with-r/). This shall be taken into account later if needed.
+
+### Writing R code
+
+`_` key is bound to `<-` by default in the `ESS`
+mode. `ESS-smart-underscore` tries to overcome this issue (I have not
+yet tested how).
+
+
+		
+### Time taken to understand and install and procrastinate
+
+	1hr 35 mins.
