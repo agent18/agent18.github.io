@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post2
 comments: true
 title:  " Summary before appying to 80k"
 date:    19-05-2018 08:39
@@ -11,7 +11,8 @@ published: True
 
 ---
 
-{:toc}
+{% include toc.html %}
+
 
 ## Entry question:
 
