@@ -11,7 +11,7 @@ published: True
 
 ---
 
-{% include toc.html %}
+
 
 
 ## Entry question:
