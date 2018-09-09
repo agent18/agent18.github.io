@@ -6,7 +6,6 @@ date:    19-05-2018 08:39
 categories: drafts
 permalink: /:title.html
 published: True
-toc: true
 ---
 
 
