@@ -1,5 +1,5 @@
 ---
-layout: post2
+layout: post
 comments: true
 title:  " Summary before appying to 80k"
 date:    19-05-2018 08:39
@@ -8,65 +8,51 @@ permalink: /:title.html
 published: True
 ---
 
-
 ---
-
-
-
 
 ## Entry question:
 
-The Goal with this essay is to identify/estimate the career direction
-I need to take in the coming months focusing on impact.
+What should I be doing career-wise in the coming months with a focus
+on maximizing impact over lifetime? By [impact we
+mean](/Answers-finale.html) total number of lives saved over a lifetime.
 
 ---
 
-## Impact
+## What can I do to create large impact?
 
-In one of the earlier essays, we concluded on what is important to
-us. We came to the conclusion that human lives are very important to
-us. In fact nothing else seemed to matter other than maximizing the
-saving of lives. This is the impact we should run after.
+According to [80k-hours-career-guide](www.80000hours.org), there seem to be a few
+[approaches](https://80000hours.org/career-guide/high-impact-jobs/#top) to having maximum impact. One can either earn-to-give
+(ETG), do direct work (DW), and perform advocacy or research. When we
+are too unsure about what we want/can do, then we can look into
+building flexible-career-capital (FCC), which is building of skills
+and knowledge that will be useful in a wide variety of industries over
+time, allowing us the freedom to work on pressing problems in the
+future.
 
-<!-- Link missing -->
+Earning-to-give needs no explanation. An example of direct work would
+be to work for an NGO that stages interventions to help the poor get
+back upon their feet, i.e., working directly where needed. Working in
+Management consulting (MC) or Data Science (DS) would be a way to keep
+building flexible Career Capital (FCC), as these jobs allow you to
+become valid in a multitude of industries. The promotion of solutions
+to pressing problems is called advocacy; Inspiring/persuading friends
+to contribute to pressing problems is an example of advocacy. I don't
+plan to discuss advocacy right now in detail. I hope to take it up on
+another post at another time as I don't see it having much consequence
+for me at this time. Of course, we should do everything we can to get
+others to also pursue Effective Altruism (EA).
 
-https://80000hours.org/2017/11/talent-gaps-survey-2017/
+In the following we attempt to look briefly at the different
+approaches to creating impact and some top examples of people who work
+in the industry, as featured in the 80k-hours-career-guide.
 
-  * [ ] What is needed...  to be done
-  
-### What can I do to create large impact? (broadly)
-
-One can either earn-to-give (ETG), or do direct work, and if highly unsure
-about the future improve their skills and build career capital with the
-goal being to maximize saving lives. Earning-to-give needs no
-explanation. An example of direct work (DW) would be to work for an
-NGO that stages interventions to help the poor get back upon their
-feet. Working in Management consulting (MC) would be a way to keep
-building flexible Career Capital (FCC) which will allow later to take
-up different types of jobs in different industries.
-
-In addition to these one can also perform advocacy - the promotion of
-solutions to pressing problems. For example, in addition to or instead
-of earning yourself, you could inspire/persuade a friend to pursue ETG
-as well. I don't plan to discuss advocacy right now in detail. I hope
-to take it up on another post at another time as I don't see it having
-much consequence for me at this time. Of course we should do
-everything we can to get others to also pursue Effective Altruism (EA).
-
-The 80k-hours guide features several career-reviews that they
-recommend us to pursue and profiles of people who they consider to be
-high impact causers. From this we can derive what is possible within
-this world, what have other high impact causers done, and what are
-some possible careers that might make sense for us. This would allow
-for further fine-tuning later in the essay.
-
-A small side note: This essay heavily relies on the 80k-hours guide. I
+**A small side note:** This essay heavily relies on the 80k-hours guide. I
 have dealt with why we should use the work of 80k hours in the
 appendix.
 
 <!-- todo why 80k hours is the shizz -->
 
-#### Earning-to-give 
+### Approach 1: Earning-to-give 
 
 A career in ETG might include one of the following:
 
@@ -76,160 +62,150 @@ his salary.
 - A **Management Consultant** who will earn > 250k$ and
   give away >30%
   
-- A **Data scientist/Project Management** who will earn 200k$ (in 5-10
+- A **Data scientist/Project Manager** who will earn 200k$ (in 5-10
   years) and give as much as possible
   
-- A **Programmer** who will earn 200k$ (in a few years) and give as much as
+- A **Programmer** who will earn 200k$ and give as much as
   possible
 
 - Taking up **Entrepreneurship** although with very small chance of
   success, has the potential to cause major influence with earning,
   advocacy and direct work.
   
-[Ben West](https://80000hours.org/career-guide/member-stories/ben-west/)([LinkedIn](https://www.linkedin.com/in/bentwest/)) an entrepreneur (with the guidance in
-career from 80k-hours) is expected to donate millions to charity. He
-is going to keep a minimum wage for himself and donate the rest of his
-salary.
-
-Ben West is a fantastic and inspiring example of someone who is going
-to ETG. There is a lot of luck involved in such a career, but
-nevertheless, it is the attitude that is at praise here - A person who
-can earn millions saying he will keep minimum wage.
+  [Ben West](https://80000hours.org/career-guide/member-stories/ben-west/) ([LinkedIn](https://www.linkedin.com/in/bentwest/)) an entrepreneur (who was guided by
+  80k-hours) is expected to donate millions to charity. He is going to
+  keep a minimum wage for himself and donate the rest of his salary. Ben
+  West is a fantastic and inspiring example of someone who is going to
+  be ETG. There is a lot of luck involved with entrepreneurship, but
+  nevertheless, it is the attitude that is at praise here - A person who
+  can earn millions saying he will keep minimum wage.
 
 <!-- Amazing, he can even say things like this! -->
 
-#### Direct working  
+### Approach 2: Direct working  
 
 >80,000 Hours thinks that only a small proportion of people should
 >earn to give long term. We think that most people should be doing
 >things like politics, policy, high-value research, for-profit and
 >non-profit entrepreneurship, and direct work for highly socially
->valuable organizations.
+>valuable organizations - [80k-hours-career-guide](https://80000hours.org/)
+
+Most types of DW featured in the 80k-hours-career-guide fall under
 
 - Found &/or Lead or manage Effective Altruism organizations to be
   most impactful. Some inspiring profiles covered by 80k-hours in this
-  area of direct work, below:
+  area of direct work, are below:
   
   [Tara Macaulay](https://80000hours.org/career-guide/member-stories/tara/)([Linkedin](https://www.linkedin.com/in/tarajmacaulay/)), was (then) head of operations (now
   CEO) in the Centre for Effective Altruism (CEA). Tara has always been
   outstanding at her work, be it with saving money for her company or
   rising the ranks very fast. She has apparently left a lasting impact
-  in Bhutan where she worked on direct impact projects.*She interned
-  without pay at CEA* showing great leadership skills and then rose the
+  in Bhutan where she worked on direct impact projects. She interned
+  without pay at CEA showing great leadership skills and then rose the
   ranks to become the current CEO. She has no MBA degrees and infact
   only has a pharma degree but that hasn't stopped her. The CEA gets a
   lot of funding (in millions) which it directs to worthy applicants
   that can create large impact.
 
-[Rob Mather](https://80000hours.org/career-guide/career-capital/)([LinkedIn](https://www.linkedin.com/in/rob-mather-b0331235/)), is the CEO of Against Malaria
-foundation (AMF) - critically acclaimed as one of the most effective
-organizations by GiveWell. He has had top education, and possibly an
-all-the-time high achiever who went to Harvard Business School and
-University of Cambridge. The AMF saves millions of lives a year.
+	[Rob Mather](https://80000hours.org/career-guide/career-capital/)([LinkedIn](https://www.linkedin.com/in/rob-mather-b0331235/)), is the CEO of Against Malaria
+	foundation (AMF) - critically acclaimed as one of the most
+	effective organizations by GiveWell. He has had top education, and
+	possibly an all-the-time high achiever who went to Harvard
+	Business School and University of Cambridge. The AMF saves
+	millions of lives a year, I repeat millions.
 
-[David Goldberg](https://80000hours.org/career-guide/member-stories/david-goldberg/)([LinkedIn](https://www.linkedin.com/in/davidjonathangoldberg/)), co-founder of Founders Pledge,
-that makes Tech entrepreneurs legally bounded to donate in case their
-startups succeed. He is definitely another all-the-time high achiever,
-who went to Cambridge, but has a degree in philosophy. He has done
-everything other than continuing with philosophy.
+	[David Goldberg](https://80000hours.org/career-guide/member-stories/david-goldberg/)([LinkedIn](https://www.linkedin.com/in/davidjonathangoldberg/)), co-founder of Founders Pledge,
+	that makes Tech entrepreneurs legally bound to donate in case their
+	startups succeed. He is definitely another all-the-time high achiever,
+	who went to Cambridge, but has a degree in philosophy. He has done
+	everything other than continuing with philosophy.
 
->Before all that, I spent a couple years in finance in the US, started
->and sold a business in Europe, and ran a chain of Segway dealerships
->in California. All in, a pretty bizarre career trajectory if I’m
->honest, which was largely the result of having no clear idea of what
->I wanted to do with my life until recently.
+	>Before all that, I spent a couple years in finance in the US, started
+	>and sold a business in Europe, and ran a chain of Segway dealerships
+	>in California. All in, a pretty bizarre career trajectory if I’m
+	>honest, which was largely the result of having no clear idea of what
+	>I wanted to do with my life until recently.
 
-But now he has focused all of his might into the Founders Pledge to
-create high impact.
+	But now he has focused all of his might into the Founders Pledge to
+	create high impact.
 
   <!-- Seems to be a scope to intern at these places (seems to be -->
   <!--       working based on availability) -->
 
-We saw a few different profiles, each of them doing amazing things in
-a joint effort to save as many lives as possible
 
 - Be an Analyst/researcher at Effective Altruism Organizations (EAOs)
-   such as GiveWell or 80k-hours
+   such as GiveWell or 80000hours
 
-In organizations like GiveWell, 80k-hours, CEA etc... they need people
-to write useful content in an understandable way and they need people
-to research what programs are effective and most impactful. In other
-words, solving problems with limited data, knowing what type of data
-is interesting, and presenting it in clear manner, is done by analysts
-or researchers. Here the main criteria are strong critical thinking
-skills, statistics and Mathematics.
-
-Most of the EAO's have very few people (10-30), funneling or creating
-impact in the order of millions of dollars. As an analyst you could
-already [make an impact of 97k$ a year](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/).
+	In organizations like GiveWell, 80k-hours, Centre for Effective
+	Altruism (CEA) etc... they need people to write useful content in
+	an understandable way and they need people to research what
+	programs are effective and most impactful. In other words, solving
+	problems with limited data, knowing what type of data is
+	interesting, and presenting it in clear manner, is done by
+	analysts or researchers. Here the main criteria are strong
+	critical thinking skills, statistics and Mathematics. Most of the
+	EAO's have very few people (10-30), the top members creating
+	impact in the order of millions of dollars. As an beginner analyst
+	you could already [make an impact of 97k$ a year](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/). 
 
 - Working in Policy
 
-This involves, shaping the policy of governments to impact a population of a city,
-state, country or world. 
+	This involves shaping the policy of governments to impact a
+	population of a city, state, country or world. For example, an
+	Economics PhD working with the government, will [sometimes have
+	the chance to impact a large population](http://allegedwisdom.blogspot.com/2017/03/the-story-of-lucky-economist.html) by influencing policy
+	based on logic and numbers. Although these chances are rare an
+	Economics Phd is still considered [one of the best PhD's to
+	pursue](https://80000hours.org/career-reviews/economics-phd/) (I guess owing to the impact).
 
-For example, an Economics PhD working with the government, will
-[sometimes have the chance to impact a large population](http://allegedwisdom.blogspot.com/2017/03/the-story-of-lucky-economist.html) by
-influencing policy based on logic and numbers. Although these chances
-are rare an Econ Phd is still considered one of the best PhD's to
-pursue (I guess owing to the impact).
+	[Niel Bowerman ](https://80000hours.org/career-guide/member-stories/niel-bowerman/) ([Linkedin](https://www.linkedin.com/in/nielbowerman/)), previously the Assistant Director
+	of Future of Humanity Institute, studied at Oxford University,
+	is another outstanding talent featured in the 80k-hours website. He
+	does not have an MBA, he is a physics major, previously handling
+	fundraising, operations management etc... And now he is the head of AI
+	policy for 80k-hours. With this he is able to guide potential
+	candidates in the right direction to assist in mitigating the [risks
+	of AI](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/) through policy.
 
-[Niel Bowerman ](https://80000hours.org/career-guide/member-stories/niel-bowerman/) ([Linkedin](https://www.linkedin.com/in/nielbowerman/)), previously the Assistant Director
-of Future of Humanity Institute, studied at Oxford University,
-is another outstanding talent featured in the 80k-hours website. He
-does not have an MBA, he is a physics major, previously handling
-fundraising, operations management etc... And now he is the head of AI
-policy for 80k-hours. With this he is able to guide potential
-candidates in the right direction to assist in mitigating the [risks
-of AI](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/).
-
-**Lessons learnt:**
-
-- According to 80k-hours DW must be pursued by most of the people as
-EAO's are usually not talent constrained
-
-- *Most of the featured profiles in the 80k-hours website do not have
-an MBA*. Everyone has shown definite signs of greatness from the
-beginning and looking at their profile, they are headed for more
-greatness.
-
-- Being in EAOs seems to allow to achieve a large impact (quantified later)
-  
-#### Advocacy
+### Approach 3: Advocacy
 
 Advocacy is the promotion of solutions to pressing problems leading to
-impact. All the work is judged by impact. A simple form of advocacy,
-is when you convince your friend about ETG. By doing this you increase
-your impact by a lot.
+impact. A simple form of advocacy, is when you convince your friend
+about ETG. By doing this you increase your impact even more.
 
-#### Building career capital
+>The second path does more good – in fact probably about twice as much
+>– and this illustrates the power of advocacy.
+
+### Approach 4: Building career capital
 
 Career Capital (CC) broadly talks about the skills, connections,
 credentials and runway to allow for us to take on high impact tasks
-later. The greater the CC the better. Better skills roughly translates to better
-output, more chance of learning and even more chance of making lot of
-impact. In Sales, the more you sell the more the money you take
-home. Better your sales skills are, better you are able to make more
-money which can be donated to make maximum impact, for example.
+later. The greater the CC the better, roughly speaking. Better skills
+roughly translates to better output, more chance of learning and even
+more chance of making a lot of impact. In Sales, the more you sell the
+more the money you take home. The better your sales skills are, the
+better you are able to make more money, which can be in turn donated
+to make maximum impact.
 
 When we are young and we don't know what problem we should be working
-on or where we can create a lot of impact, then flexible career
-capital (FCC) comes in handy. In an attempt to keep options open for
-us to move to the problem we can address later, we should consider
+on or where we can create a lot of impact, flexible career capital
+(FCC) comes in handy then.
+
+>flexible – useful in many different types of jobs, and likely to
+>remain useful in the future. For instance, learning marketing or
+>management is flexible because almost all organisations need these
+>skills; -[80k hours on Career Capital](https://80000hours.org/career-guide/career-capital/)
+
+In an attempt to keep options open for us
+to move to the problem we can best address later, we should consider
 FCC. For example, if one does an MBA and goes into management
 consulting for the next few years, the exit opportunities are
 aplenty. A management consultant after a few years of work has wide
-scope for working in different industries, in some cases there is
-scope for direct work, in the best case he can become partner and
-donate a lot of money for the rest of his life to make the best
-impact.
-
-Although ultimately we might be ETG or doing DW, when we are young it
-is advised to focus on gaining flexible career capital to allow us
-flexibility in the job market and to be useful in different domains as
-needed by the then important focus areas.
-
-It is something that does not take you to a dead end. For example,
+scope for working in different industries and in different positions
+of choice, in some cases there is scope for direct work, and in others
+one can even become partner and donate a lot of money for the rest of
+his life to make the best impact. FCC is something that does not take
+you to a dead end. For example,
 
 >It’s widely accepted in the non-profit sector that it’s easier to
 >switch from a business job to a non-profit job than vice versa. So if
@@ -241,21 +217,20 @@ likely to remain useful in the future. Jobs that allow you to gain
 skill that can later be transferred to other jobs are the types of
 work we should be interested in early career I guess.
 
-[Dillon Bowen](https://80000hours.org/career-guide/member-stories/dillon-bowen/)([Linkedin](https://www.linkedin.com/in/dillon-bowen-409791a1/)) is working
-towards his Economics PhD based on the counseling he got from
-80k. Economics PhD is highly recommended graduate program by
-80k-hours guide, due to the high impact in direct working. Such a PhD
-allows for jobs in academia (which have a unique way of doing DW), you
-can go into Management Consulting, or you can join the government and
-work in helping policy formation. So it allows you the CC to decide
-later to either ETG, DW in policy or in academia based on what is the
-best for you at that time in your life. 
+[Dillon Bowen](https://80000hours.org/career-guide/member-stories/dillon-bowen/)([Linkedin](https://www.linkedin.com/in/dillon-bowen-409791a1/)) is working towards his Economics PhD
+based on the counseling he got from 80k-hours-career-guide. Economics
+PhD is highly recommended graduate program by 80k-hours-career-guide,
+due to the high impact in direct working. Such a PhD allows for jobs
+in academia (which have a unique way of doing DW), you can go into
+Management Consulting, or you can join the government and work in
+policy. So it allows you the CC to decide later to either ETG, DW in
+policy or do research in academia.
 
  <!-- TBW, He has no MBA, as a result. -->
 
-[Peter Huford](https://80000hours.org/career-guide/member-stories/peter-hurford/)([LinkedIn](https://www.linkedin.com/in/peterhurford8/)), taught himself how to program from
+[Peter Huford](https://80000hours.org/career-guide/member-stories/peter-hurford/)([LinkedIn](https://www.linkedin.com/in/peterhurford8/)), taught himself how to program from a
 political science background that now, he is improving his skills in
-business, programming and finance and also having extra time to work
+business, programming and finance and is also having extra time to work
 on other charity projects. Peter seems to be a great example of one
 who is building great FCC.
 
@@ -267,34 +242,27 @@ who is building great FCC.
   <!--       fold in no time. I think I should just focus on things like -->
   <!--       this and get better and become really skillful. -->
 
->Anything that gives you a valuable transferable skill
->e.g. programming, data science, marketing.
 
->flexible – useful in many different types of jobs, and likely to
->remain useful in the future. For instance, learning marketing or
->management is flexible because almost all organisations need these
->skills; -[80k CC](https://80000hours.org/career-guide/career-capital/)
 
 <!-- fix the above -->
 
 
-#### Summary
+### Summary
 
 The importance of direct work has been stressed a lot by 80k-hours. In
 the long run that is what I guess I should be doing. But for the next
 few years, no harm in making money as well as building career
-capital. But money is not the objective, getting yourself in shape to
+capital. But money is not the objective, getting oneself in shape to
 do good is; Gaining skills to make crazy impact is. The different
-examples of people creating their best impact shows what is possible
-and how reasonable to keep the expectations, I guess. I would like to
-be like these people, high-achieving and high-impact causing. I need
-to carefully evaluate the different options that are available.
+examples of people creating their best impact shows us what is
+possible and how reasonable to keep the expectations, I guess. I would
+like to be like these people, high-achieving and high-impact-causing.
 
-I will also be evaluating where I can create most impact based on the
-different paths that I take, considering the success and failure
-scenarios. The next section attempts to discuss based on the
-80k-career-guide, what career options to choose from and how to
-evaluate different options based on what is important for you.
+I need to be evaluating the different options available, and come up
+with where I can make the most impact based on the different paths
+that I take, considering the success and failure probabilities. The
+next section attempts to identify potential careers and review them
+considering my personal fit.  
 
 <!-- <\!-- #### Trying to try -\-> -->
 
@@ -309,9 +277,8 @@ evaluate different options based on what is important for you.
 
 <!-- <\!-- Still needs some work -\-> -->
 
-
 ---
-
+	
 ## Finding the right career for you
 
 Based on [the 80k-hours guide](https://80000hours.org/career-guide/personal-fit/) we first make a list of options,
@@ -320,45 +287,37 @@ key uncertainities and look at how to deal with them.
 
 <!-- Making a list of options -->
 
-**Making a list of options** by using these questions: What do you
+- **We make a list of options** by using these questions: What do you
 want to do in life? Provide exact examples of profiles that you would
 like to be like? What are the different career paths you think are
-available to you? Give one way how you would achieve it?
+available to you? Give one way how you would achieve it? These have in
+part been done in the last section and will be factored in.
 
 <!-- Rankingish your options --> 
 
-**Comparing different options** based on Skills, Connections,
-Credentials, Runway, & Personal fit, job satisfaction, Impact
+- **We compare different options** based on Career Capital (Skills, Connections,
+Credentials, Runway), Personal fit, job satisfaction and impact.
 
 <!-- Write out key uncertainities -->
 
-**Write out your key uncertainities:** What are the things that you
-are uncertain about? Can you quickly test
-them? Are they going to change your ranking largely?
-
-
-### Making the list
+- **We write out your key uncertainities:** What are the things that you
+are uncertain about? Can you quickly test them? Are they going to
+change your ranking largely?
 
 Making a list according to 80k-hours sounds far-too-specific like
 "economics researcher focusing on global health", "marketing for meat
-substitutes" etc...
-
-As I am still young and agile, I am only looking to build fCC of
-course with a focus that I will be able to make large impact later. I
-I have no idea on what exact problem I would like to work or I would
+substitutes" etc... I am currently looking to build FCC. I also need
+to consider if the FCC allows me to do lot of impact in the future. I
+have no idea on what exact problem I would like to work on or I would
 best fit in. So, the focus is on the choice of direction for **the
 next few years**.
 
-Furthermore if I miss something, I would like to put the onus on my
-reviewers of this essay a.k.a the 80k community, an STM and the
-decision tool to point it out.
-
-#### Career Quiz: recommended list of careers
+### Career Quiz: recommended list of careers
 
 The [80k-hours career guide has a career-quiz](https://80000hours.org/career-quiz/#/) of 6 questions based
 on which you get a few career recommendations.
 
-The **Career Q&A**
+**The Career Q&A**
 
 1. Could you become good at math, science or logic?
 Yes (outperform 80% of graduates)
@@ -409,7 +368,7 @@ In addition to the above, I also would like to evaluate the current job I
 am working at now, difference between working at the US and in
 Netherlands, and if the career can somehow lead to Direct Work.
 
-#### Comparing
+### Comparing
 
 The following parameters are used to compare each career path:
 	
@@ -428,7 +387,7 @@ The following parameters are used to compare each career path:
 Following this, I could use the decision making chart and the decision
 tool of the 80k-hours website to do the same to determine the result.
 
-**Career Capital**
+### Career Capital
 
 Skills:
 
@@ -489,7 +448,7 @@ seems to be defining runway. How much I can donate is a question
 answerd by the impact section. Runway seems to be always important.
 
 
-**Impact**
+### Impact
 
 Number of lives saved is the ultimate variable we are interested
 in.
@@ -501,7 +460,7 @@ say X. If we fail our impact will be Y. Therefore,
 
 Effective impact = Personal fit x X + (1-Personal fit) x Y
 
-**Supportive conditions**
+### Supportive conditions
 
 - Engaging work
 - Colleagues
@@ -517,11 +476,11 @@ Effective impact = Personal fit x X + (1-Personal fit) x Y
 > relationships, and uphold any other important personal priorities?
 > -[80k hours Career Capital](https://80000hours.org/career-guide/career-capital/)
 
-**Personal Fit**
+### Personal Fit
 
 What are your chances of excelling in that area?
 
-**In total**
+### In total
 
 	$ (f1 x Career Capital +f2 x Impact +f3 x supportive conditions) *
 	Personal fit
@@ -558,7 +517,7 @@ So we will look at Effective impact.
 
 ---
 
-### Evaluating different profiles
+## Evaluating different profiles
 
 With this section I hope to take each career path, and evaluate it
 based on the parameters from the last section. In the end I would have
@@ -568,7 +527,7 @@ usually from 1-10, based on the points I make in favor of or against
 the career path.
 
 
-#### Design engineering for ETG
+### Design engineering for ETG
 
 I am currently a Design Engineer in the precision industry. The
 function of such an engineer is to design parts/products to the
@@ -776,7 +735,7 @@ branches etc... to work out other situations. But for now, it appears
 that trying Sales and US options could be good options to get myself
 into, as opposed to a traditional job.
 
-#### Design engineering (Machine Design) in 'Europe' for Direct work
+### Design engineering (Machine Design) in 'Europe' for Direct work
 
 **Skills**: 
 
@@ -899,7 +858,7 @@ gives me time (22hrs a week on avg), a citizenship, sabbatical leave
 with which I can slowly and meticulously plot my way out of DE to
 Direct work.
 
-#### Data science 
+### Data science 
 
 With this section Data science (DS) is discussed in the following way:
 
@@ -1152,7 +1111,7 @@ something that I should work on ensuring as this is turning out to be
 a lucrative and promising career. DS in general is very good for CC as
 well.
 
-#### MBA into Management consulting
+### MBA into Management consulting
 
 Finishing an MBA allows travel into a couple of venues, of which one
 of them is MC. 80k-hours has done a [complete career profile on
@@ -1515,7 +1474,7 @@ graduate school.
 
 <!-- Maybe this shit should go to the analysis -->
 
-#### MBA into IB/ Finance/ Trading/private equity 
+### MBA into IB/ Finance/ Trading/private equity 
 
 Based on the end appendix, I assume IB, Finance, Trading and PE all to
 be similarly build regarding all the parameters I am using to compare.
@@ -1632,7 +1591,7 @@ So I am almost confident that I am not going into the likes of IB, so
 I don't see any point in evaluating this any further.
 
 
-#### Programming, Machine learning PhD 
+### Programming, Machine learning PhD 
 
 Apparently, learning to program could also be a gateway to DS,
 Quantitative Finance, tech entrepreneurship, research and freelance
@@ -1659,7 +1618,7 @@ But maybe then you decide to go into programming instead of DS..
 
 <!-- need to check this out instead -->
 
-#### Economics PhD
+### Economics PhD
 
 In this profile we are going to see about three types of paths:
 
@@ -1941,7 +1900,7 @@ If this is the combined impact, then I am not sure I am expected to
 take this path, as there seems to already be better paths than an Econ PhD.
 
 
-#### Working at an effective Altruism organization 
+### Working at an effective Altruism organization 
 
 DS or research as an Analyst/content writer, is what I see myself
 starting with Effective Altruism Organizations. With time I hope to
@@ -2140,7 +2099,7 @@ I really hope. It's going to be EA 24*7? Let's see.
 
 
 
-#### Founding a startup
+### Founding a startup
 
 There seems to be a lot of pointing towards learning to program and
 learning the business. I guess that any skill you learn is useful and
@@ -2274,7 +2233,7 @@ for now I will leave it at this and I will evaluate my options in a
 few years or every 6 months and see if there is any scope for starting
 up.
 
-#### software engineering
+### software engineering
 
 Main source:[ 80k-hours-career-guide](https://80000hours.org/career-reviews/software-engineering/)
 
@@ -2435,7 +2394,7 @@ There is web development, app development and OS development
 <!-- also meet <\!-- suruta mudi! -\-> -->
 
 
-#### Startup employee (to be archived)
+### Startup employee (to be archived)
 
 I guess I need to split it as an additional contribution.
 
@@ -2532,7 +2491,7 @@ relationships etc..
 
 8/10.
 
-#### Other interesting options
+### Other interesting options
 
 **Startup employee**
 
@@ -2648,7 +2607,7 @@ need' -->
 <!-- -->
 
 
-#### Dubai
+### Dubai
 
 
 **Dubai**
@@ -2945,7 +2904,11 @@ Final table trading off:
 | credentials                             | worth probably lesser                       | worth much higher                               |
 | recommended 80k-hours-career-guide      | YES                                         | Sometimes                                       |
 |                                         |                                             |                                                 |
+|                                         |                                             |                                                 |
 
+Most of the featured profiles in the 80k-hours-career-guide have no
+MBAs
+	
 #### Can Management Consulting help in DW
 
 I am not sure... as ram says if you want to go into acad positions,
@@ -3045,12 +3008,206 @@ the exit opportunities for upto 5 years after quitting.
 - 
 
 
+## What is needed?
+
+Up until now, we have seen about the different careers that I can take
+up. With this section I want to investigate what problems are there
+and how DS or MC can help me in them.
+
+To me this sounds more like what do EAOs need rather than anything
+else. Careers like MC, DE for ETG, it is very clear what needs to be
+done and the chances of doing them can be estimated, but what we want
+to know or what is the unknown is if the DS, MC, can get us into think
+tanks, finance jobs as researchers and what ever else there is. This
+is the question that needs answering.
+
+I still find the question of what is needed directed at choosing the
+problem right now, as far fetched. But what if there is a problem that
+needs a special kind of skill? 
+
+So are there problems that "I" could take on if I got some special
+skill?
+
+What do the other important problems need?
+
+Can I get them by working in DS or MC?
+
+https://80000hours.org/2017/11/talent-gaps-survey-2017/
+
+  * [ ] What is needed...  to be done
+  
+### What do the other important problems need?
+
+[Here](https://80000hours.org/articles/cause-selection/) we have a ranking of the different problems by
+80k-hours-guide. I first looked at the recommended ones:
+
+- Positively shaping AI
+- Promoting Effective Altruism
+- 
+
+**Positively shaping AI**
+
+Google Deepmind, OpenAI are some projects that I could get into with
+knowledge of writing software. I would imagine a 5 year period to get
+up to speed if this is the direction I should be going into. I suspect
+DS would be a decent start or maybe even just simply software, if
+there is some statistics involved. DS seems to allow me to work on
+Machine Learning, so I am inclined to be in this realm of DS.
+
+There are organizational roles available like project manager
+etc... Some involving managing and writing grants to ensure funding.
+
+There are lot of organizations, which work on it as given [in the
+80k-hours-guide](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/#what-can-you-do-to-help).
+
+Funding is alright with this, but it is primarily talent
+constrained. So not really for ETG.
+
+
+> Does consulting allow me scope to get into these roles?
+>
+> HR;
+> personnel management;
+> project management;
+> event management;
+> media and communications;
+> visual and website design;
+> accounting.
+
+As per the estimation of lives saved in EAOs, most jobs in EAOS
+should give you a lot of impact, in the order of 1000 lives. Joining
+DS or SE can allow to work in the technical side. Joining MC can
+possibly give me scope to work in other managerial roles. 
+
+**Note to self**: From time to time I should also try to apply for
+jobs directly, based on things like this I hear:
+
+>You should apply if you are a software engineer who is fairly
+>comfortable with linear algebra, basic statistics, and the basics of
+>stochastic gradient descent. Experience in machine learning is a
+>bonus. You are not expected to have mastery of deep learning — the
+>problems we pursue are always at the edge of the state of the art,
+>which means that nobody's an expert.
+
+
+**Promoting effective Altruism**
+
+<!-- What I can do -->
+What I can do is work for EAOs, ETG, founding new organizations as
+needed, and make connections to my field of expertise and the EA
+community.
+
+<!-- Where I can work -->
+Organizations such as CEA, 80k-hours and Founders pledge do exactly
+that. These type of organizations route funding to the best regions
+and are in control of growing and strengthening the movement.
+
+<!-- Can DS and MC get me there? -->
+
+DS can help me in research or getting analyst positions. I am not
+fully sure if MC can get me these type of jobs. <!-- ask ram -->
+
+**Global priorities research**
+
+
+<!-- What is needed and what I can do -->
+
+> Researchers trained in economics, mathematics, or philosophy to
+> develop the methodology for setting global priorities.  Researchers
+> trained in social and natural sciences with the ability to collect
+> data and analyse specific global problems.
+
+
+<!-- Where can I work -->
+
+Join the Global Priorities institute in a research position or support
+with managerial positions. 
+
+<!-- Can DS and MC get me there -->
+
+For GPI, a firm no. They need Economists of any level.
+
+For FHI, they need project managers who can lead certain
+movements. This could be possible with an MC? <!-- Ask ram -->
+
+So MC probably, and DS not!
+
+<!-- Could be also possible with DS to get into it in AI related tasks -->
+<!-- within FHI. But this has nothing to do with Global Priorities -->
+<!-- research I think, this is just advancing AI research. -->
+
+**Improving institutional decision making**
+
+<!-- What is needed -->
+
+getting a position in behavorial science/research lab, doing
+fundamental research, fostering adoption of proven techniques,
+directing more funding towards this research.
+
+This seems to be one research area that is funding restricted and 80k
+hours suggests the need to become program managers in various places
+who can divert funding to these places or this research.
+
+
+<!-- Where can I work -->
+
+There are some places
+
+<!-- Can DS or MC get me there -->
+
+It looks like DS or MC might not be able to get me there. Somehow
+behavioural/ decision science PhD would help.
+
+Seems very much not for me, except for trying to be a program
+manager. And I think it is also hard to become a program
+manager. 
+
+To be noted is that this is possibly quite neglected in terms of
+funding and research and fostering the best practices where it matters.
+
+
+
+
+Let me join DS for now, over the next 6 months I will again evaluate
+what I need to do, There are so many options, I need to spend a lot of
+time on this. It looks like MC or DS will give me CC and I can fine
+tune my path to create large impact.
+
+MC is hard to get, DS is relatively my personal fit. If nothing works
+out in the next few years (I will also do an internship for any EAO
+from here), and then apply for an MBA and go from there on.
+
+<!--  speak to vishnu about earnings and about what all you can do and -->
+<!--  what I want to do such as policy, research, be an analyst, -->
+<!--  critical thinking-->
+
+	
 ## Plan A B C
 ## Further works
+
 - write to 80k hours
 - ask for feedback from rajesh, STM, try to establish connection with
   an STM once again!
 - focussing on Data Science course!
+
+## Reflection/summary/futureworks
+
+Work at a growing organization
+
+Pursue certain graduate studies
+
+Develop valuable transferable skill
+
+Do what contributes to build career capital
+
+
+Blockchain
+
+- Summary of the whole thing.
+- compare main careers
+- Look at things like startup to aid or increase CC in tech only
+- There seems to be a possibility of being more than one.
+
 
 ## plan for this esay
 
@@ -3087,6 +3244,11 @@ What am I afraid of?
 If I have a table to scroll on the left what is my problem? people can
 move on in a hyperlinked way. If they cant then I am afraid the
 article moves 
+
+For now I assume that is possible. LEt me focus on important things
+and then create placeholders for things like tables that need to be
+there so I can batch them.
+
 
 
 ## Appendix
@@ -3472,195 +3634,6 @@ to make sense.
 Also, 
 
 
-
-
-## What is needed?
-
-Up until now, we have seen about the different careers that I can take
-up. With this section I want to investigate what problems are there
-and how DS or MC can help me in them.
-
-To me this sounds more like what do EAOs need rather than anything
-else. Careers like MC, DE for ETG, it is very clear what needs to be
-done and the chances of doing them can be estimated, but what we want
-to know or what is the unknown is if the DS, MC, can get us into think
-tanks, finance jobs as researchers and what ever else there is. This
-is the question that needs answering.
-
-I still find the question of what is needed directed at choosing the
-problem right now, as far fetched. But what if there is a problem that
-needs a special kind of skill? 
-
-So are there problems that "I" could take on if I got some special
-skill?
-
-What do the other important problems need?
-
-Can I get them by working in DS or MC?
-
-## What do the other important problems need?
-
-[Here](https://80000hours.org/articles/cause-selection/) we have a ranking of the different problems by
-80k-hours-guide. I first looked at the recommended ones:
-
-- Positively shaping AI
-- Promoting Effective Altruism
-- 
-
-**Positively shaping AI**
-
-Google Deepmind, OpenAI are some projects that I could get into with
-knowledge of writing software. I would imagine a 5 year period to get
-up to speed if this is the direction I should be going into. I suspect
-DS would be a decent start or maybe even just simply software, if
-there is some statistics involved. DS seems to allow me to work on
-Machine Learning, so I am inclined to be in this realm of DS.
-
-There are organizational roles available like project manager
-etc... Some involving managing and writing grants to ensure funding.
-
-There are lot of organizations, which work on it as given [in the
-80k-hours-guide](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/#what-can-you-do-to-help).
-
-Funding is alright with this, but it is primarily talent
-constrained. So not really for ETG.
-
-
-> Does consulting allow me scope to get into these roles?
->
-> HR;
-> personnel management;
-> project management;
-> event management;
-> media and communications;
-> visual and website design;
-> accounting.
-
-As per the estimation of lives saved in EAOs, most jobs in EAOS
-should give you a lot of impact, in the order of 1000 lives. Joining
-DS or SE can allow to work in the technical side. Joining MC can
-possibly give me scope to work in other managerial roles. 
-
-**Note to self**: From time to time I should also try to apply for
-jobs directly, based on things like this I hear:
-
->You should apply if you are a software engineer who is fairly
->comfortable with linear algebra, basic statistics, and the basics of
->stochastic gradient descent. Experience in machine learning is a
->bonus. You are not expected to have mastery of deep learning — the
->problems we pursue are always at the edge of the state of the art,
->which means that nobody's an expert.
-
-
-**Promoting effective Altruism**
-
-<!-- What I can do -->
-What I can do is work for EAOs, ETG, founding new organizations as
-needed, and make connections to my field of expertise and the EA
-community.
-
-<!-- Where I can work -->
-Organizations such as CEA, 80k-hours and Founders pledge do exactly
-that. These type of organizations route funding to the best regions
-and are in control of growing and strengthening the movement.
-
-<!-- Can DS and MC get me there? -->
-
-DS can help me in research or getting analyst positions. I am not
-fully sure if MC can get me these type of jobs. <!-- ask ram -->
-
-**Global priorities research**
-
-
-<!-- What is needed and what I can do -->
-
-> Researchers trained in economics, mathematics, or philosophy to
-> develop the methodology for setting global priorities.  Researchers
-> trained in social and natural sciences with the ability to collect
-> data and analyse specific global problems.
-
-
-<!-- Where can I work -->
-
-Join the Global Priorities institute in a research position or support
-with managerial positions. 
-
-<!-- Can DS and MC get me there -->
-
-For GPI, a firm no. They need Economists of any level.
-
-For FHI, they need project managers who can lead certain
-movements. This could be possible with an MC? <!-- Ask ram -->
-
-So MC probably, and DS not!
-
-<!-- Could be also possible with DS to get into it in AI related tasks -->
-<!-- within FHI. But this has nothing to do with Global Priorities -->
-<!-- research I think, this is just advancing AI research. -->
-
-**Improving institutional decision making**
-
-<!-- What is needed -->
-
-getting a position in behavorial science/research lab, doing
-fundamental research, fostering adoption of proven techniques,
-directing more funding towards this research.
-
-This seems to be one research area that is funding restricted and 80k
-hours suggests the need to become program managers in various places
-who can divert funding to these places or this research.
-
-
-<!-- Where can I work -->
-
-There are some places
-
-<!-- Can DS or MC get me there -->
-
-It looks like DS or MC might not be able to get me there. Somehow
-behavioural/ decision science PhD would help.
-
-Seems very much not for me, except for trying to be a program
-manager. And I think it is also hard to become a program
-manager. 
-
-To be noted is that this is possibly quite neglected in terms of
-funding and research and fostering the best practices where it matters.
-
-
-
-
-Let me join DS for now, over the next 6 months I will again evaluate
-what I need to do, There are so many options, I need to spend a lot of
-time on this. It looks like MC or DS will give me CC and I can fine
-tune my path to create large impact.
-
-MC is hard to get, DS is relatively my personal fit. If nothing works
-out in the next few years (I will also do an internship for any EAO
-from here), and then apply for an MBA and go from there on.
-
-<!--  speak to vishnu about earnings and about what all you can do and -->
-<!--  what I want to do such as policy, research, be an analyst, -->
-<!--  critical thinking-->
-
-	
-## Reflection
-
-Work at a growing organization
-
-Pursue certain graduate studies
-
-Develop valuable transferable skill
-
-Do what contributes to build career capital
-
-
-Blockchain
-
-- Summary of the whole thing.
-- compare main careers
-- Look at things like startup to aid or increase CC in tech only
-- There seems to be a possibility of being more than one.
 
 
 ## Philosophy

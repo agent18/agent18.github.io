@@ -86,3 +86,24 @@ working](https://stackoverflow.com/questions/25436312/gitignore-not-working)
 		git remote set-url origin new_url
 
 
+## Creating a new branch
+
+[Source](https://stackoverflow.com/a/32391944/5986651)
+
+
+	git checkout master
+	
+	git checkout -b new_branch master
+	
+	git push origin new_branch
+	
+## Going back to older commit
+
+[Source](https://stackoverflow.com/questions/4114095/how-to-revert-a-git-repository-to-a-previous-commit)
+
+
+	git revert --no-commit oldercommit..HEAD
+	git commit -m "reverted to oldercommit"
+	
+x
+	
