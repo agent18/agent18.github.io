@@ -664,3 +664,188 @@ and having opportunities to intern and then change job.
 
 I am looking for an answer where people tell me "Don't try to learn
 something completely new at the age of 35" for example.
+## Startup employee ( archived)
+
+I guess I need to split it as an additional contribution.
+
+We expect lower impact, risk and personal demands than a co-founder, 
+
+>If you get the opportunity to join a startup that’s taking off, you
+>may have greater earnings and impact by joining it than founding your
+>own e.g. the 100th employee of Dropbox still made about $10m,
+>equivalent to a 10% stake in a $100m company. -
+>[Startup-employee-80000-hrs](https://80000hours.org/career-reviews/startup-early-employee/)
+
+The situation we envision and work out odds for is that, we join at
+the beginning of a taking off startup and we are say 50-100 employees
+into a big ass startup.
+
+I keep the values for this quite rough. To me this appears as an
+option in addition to something I choose. When I am at the position of
+applying for jobs, that is when I should evaluate how important it
+is.
+
+**Skills**
+
+Depends on startup and the things you do, for example, DE, or DS or
+management etc... Lets give it an 8, assuming that if you are one of
+the first 50-100 employees you are probably given a lot of
+responsibility and somehow the skills and knowledge become
+transferable.
+
+8/10.
+
+**Connections**
+
+Depending on the job and whom we have to interact with we might have
+much larger set of connections.
+
+Whether these connections will get you somewhere? depends and for the
+uncertainty, it gets 6.
+
+**Credentials**
+
+It is very uncertain and depends on the field of choice. I say this
+because the Credentials I have evaluated are different based on the
+fields chosen.
+
+Usually though if it is a high impact startup then you probably have
+better credentials. I think this is tough to evaluate. I give it a
+value of 7, sort of like an average of the fields I have seen until now.
+
+**Runway**
+
+Will be lower than a normal job in the beginning. 6.0 in the beginning
+I guess.
+
+
+**Personal fit**
+
+As said earlier I will evaluate this further in the coming days when I
+am in the lookout say for a job.
+
+I am already working in a startup. When talking about how successful I
+will be? 
+
+Unfortunately the odds are that of how successful any startup would be
+or how a startup would grow to be the next Airbnb etc... We will use
+the same numbers as in `Founding a startup section`.
+
+0.03%. The personal fit is ofcourse only for the extra contribution.
+
+**Impact**
+
+Impact in a startup is estimated at 8k lives. 
+
+>Instead of receiving about 20% of the company’s equity, as a founder
+>would, you’ll receive 0.1% – 1% depending on your role and how early
+>you join, and you’ll receive more of your compensation as salary
+>rather than equity. - [80k-hours startup employee](https://80000hours.org/career-reviews/startup-early-employee/)
+
+So the resulting impact is expected to be, lets say 0.5% of 8k = 40
+in addition to the impact a normal engineer would have over his
+lifetime, which is about 200-300 lives.
+
+Of course there are other ways of increasing the number of lives
+saved, but these could just well be our conservative estimates.
+
+**Supporting conditions**
+
+It cannot be as intense as it is for the co-founder. This is pretty
+much the impression I get. Trainings and learnings from experienced
+people might not really be present here. 
+
+It would be a lot of responsibility. Might have good autonomy and
+decent working hours. It will certainly fit with the rest of my life
+relationships etc..
+
+8/10.
+
+## Management Consulting
+
+- MC with a focus on becoming partner
+
+		rough-impact = 1.3% x 1250 = 15 lives
+		
+	The rough-impact seems to really suggest that Management
+	Consulting with a focus on becoming partner is useless. The
+	effective impact is computed with the below table as 708
+	lives. 
+		
+	{:.tablestyletwo}
+	| Crossroad             | Success | Other | #lives if Success | #lives if failure | EI: Success | EI: failure |
+	|-----------------------|---------|-------|-------------------|-------------------|-------------|-------------|
+	| GMAT                  | 70.0%   | 30.0% | NA                | 790               | 471         | 237         |
+	| Scholarship           | 60.0%   | 40.0% | NA                | 790               | 357         | 316         |
+	| McKinsey              | 50.0%   | 50.0% | NA                | 50%x700           | 368         | 263         |
+	| 5+ yrs & 60+ hrs/week | 51.0%   | 49.0% | NA                | 700               | 392         | 343         |
+	| Make partner          | 12.5%   | 87.5% | 1,250             | 700               | 156         | 613         |
+
+
+    Looking at the effective-impact seems to suggest completely
+different things, mainly because the rough-impact is missing what
+happens in the case of failure.
+
+    Explanation of the above table is as follows: Imagine this as a
+	decision tree with each step branching into success and
+	failure. At each Success node, branches the next step. 'Success'
+	column denotes the personal fit at each stage. '#lives if success'
+	is nothing but the impact. 'EI: Success' and 'EI: Failure', is the
+	effective value obtained at each node in the branch. For example,
+	at the 'Make partner' step, I have 156 lives saved if success, and
+	613 lives effective saved in case of failure. This is obtained by
+		
+		'EI: Success' =  Success x '#lives if Success'; 
+		'EI: Failure' = Failure x '#lives if failure';
+		Effective value  = 'EI: Success' + 'EI: Failure'
+	
+	As we move up to the previous branch we have to take into account
+    the effective value from the next step. i.e., 
+	
+		'EI: Success' = Sucess (n) x Effective value (n+1) 
+		'EI: Failure' = Failure x '#lives if failure';
+	
+	This is carried on till the top of the branch, i.e., 'GMAT'. One
+    thing that needs explanation is the '#lives if failure'
+    column. This is done as follows: If I prep for GMAT and fail, I
+    can always go back to say Data Science with almost negligible
+    loss. That is why the effective-impact of Data Science (790 lives)
+    is used. The same goes for when I apply to certain universities
+    for scholarship and don't get in. Once I do my MBA and find that I
+    don't have a job in the top companies, then I expect my self to
+    have only half the impact of an exit opportunity after working in
+    Mckinsey. Step 4, after 5 or 6 years of work in case I decide to
+    take the exit opportunities, such a career path has the potential
+    to save 700 lives. If after 20 years if I don't become partner
+    then I suspect I can atleast meet the impact of taking an exit
+    opportunity (700 lives). The effective value of such a decision tree
+    becomes then: **708 lives.**
+
+
+**Reflection**
+### Programming, Machine learning PhD 
+
+Apparently, learning to program could also be a gateway to DS,
+Quantitative Finance, tech entrepreneurship, research and freelance
+development. Useful in a multitude of industries, highly
+transferable. But I am far from being a programmer. I still think DS
+is the first place to start, as it allows me to immediately move to
+the other industry and start gaining experience.
+	
+Also I am not sure how I will compete with all those programmers who
+have been programming since they were kids. So I need time and a lot
+of it. The same goes for Machine Learning PhD. So instead of staying
+in DE I will go to DS, which already has some programming. I will pick
+it up from there more about programming.
+
+<!--  I think I need to understand what it means to programm. i.e, -->
+<!--  what job I can do and what is the min. requirement to do that. -->
+
+These could result in being the most fulfilling careers, but that is
+not the only motive here. 
+
+So for now I will start with 
+
+But maybe then you decide to go into programming instead of DS..
+
+<!-- need to check this out instead -->

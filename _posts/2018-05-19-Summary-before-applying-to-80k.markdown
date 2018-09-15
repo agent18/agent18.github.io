@@ -315,34 +315,37 @@ next few years**.
 ### Career Quiz: recommended list of careers
 
 The [80k-hours career guide has a career-quiz](https://80000hours.org/career-quiz/#/) of 6 questions based
-on which you get a few career recommendations.
-
-**The Career Q&A**
+on which you get a few career recommendations. The questions and my
+answers written are:
 
 1. Could you become good at math, science or logic?
-Yes (outperform 80% of graduates)
+   
+   Yes (outperform 80% of graduates).
 
 2. Could you become good at writing and speaking? 
-Yes (Outperforming 80% of graduates in a humanities subject)
+   
+   Yes (Outperforming 80% of graduates in a humanities subject).
 
 3. Are you happy betting on a small chance of a big impact?
-No
+
+	No.
 
 4. Are you happy trying to work in the most demanding fields?
-Yes
+   
+   Yes, challenging work for long hours should not be a problem I
+suppose. I have seen evidences of this in my past, with my master
+thesis (10-14 hrs a day, programming, reading), with my work in IIT
+Madras (easily clocked 10 hrs or more a day for 1 year atleast), while
+doing courses in my masters and for a few months recently where I
+worked 10-11 hrs a day working for a company and doing blog work.
 
-Challenging and long hours should not be a problem I suppose. I have
-seen evidences of this in my past, with my master thesis(10-14 hrs a
-day, programming, reading), with my work in IIT Madras (easily clocked
-10 hrs or more a day for 1 year atleast), Courses in my masters
-etc... and for a few months worked on writing on the blog and
-researching at home  5) How far through your career are you?
-
-Early (27) finished masters and working for ~2 years
+5. How far through your career are you?  
+   
+   Early (27) finished masters and working for ~2 years.
 
 6. How do you want to contribute? 
 
-All possible ways: Direct, indirect, earning to give, research etc...
+	All possible ways: Direct, indirect, earning to give, research etc...
 
 **And the output is:**
 
@@ -354,7 +357,7 @@ All possible ways: Direct, indirect, earning to give, research etc...
 - Software engineering (skill building and earning to give)
 - Trading in quantitative hedge funds
 
-When we are ready to bet on small chances then the output changes to:
+When ready to bet on small chances then the output changes to:
 
 - Congressional staffer
 - Policy oriented Civil services
@@ -364,13 +367,15 @@ When we are ready to bet on small chances then the output changes to:
 - Data science
 - Party politics
 
-In addition to the above, I also would like to evaluate the current job I
-am working at now, difference between working at the US and in
-Netherlands, and if the career can somehow lead to Direct Work.
+In addition to the above career paths, I would also like to evaluate
+some other paths like, the current job I am working at now, difference
+between working at the US, Netherlands and Dubai, etc...
 
-### Comparing
+### Comparing different careers
 
-The following parameters are used to compare each career path:
+The following parameters is used to compare each career path based on
+the [80k-hours-career-guide](https://80000hours.org/) - what each of the them mean is
+elaborated in the coming sub-section. :
 	
 - Career Capital
   - Skills
@@ -378,61 +383,47 @@ The following parameters are used to compare each career path:
   - Credentials
   - Career Capital
 
-- Personal Fit
-
 - Job satisfaction or supportive conditions
+
+- Personal Fit
 
 - Impact
 
-Following this, I could use the decision making chart and the decision
-tool of the 80k-hours website to do the same to determine the result.
+
 
 ### Career Capital
 
-Skills:
-
->Skills – what will you learn in this job, and how fast will you
+>**Skills** – what will you learn in this job, and how fast will you
 >learn? You can break skills down into transferable skills, knowledge
 >and personality traits. Some especially useful transferable skills
 >include: personal productivity, analysis and problem-solving, the
 >ability to learn quickly, decision-making, social skills, and
->management. We cover why and how to learn them in a later article. If
->you want to do good, you also need to learn all about the world’s
->most pressing problems and how to solve them. A job will be best for
->learning when you are pushed to improve and get lots of feedback from
->mentors. - [80k hours Career Capital](https://80000hours.org/career-guide/career-capital/)
+>management. - [80k hours Career Capital](https://80000hours.org/career-guide/career-capital/)
 
-The current plan is to focus on FCC.
+Is the career path going to lead to transferable skills like in
+programming or Data Science, which is useful in a number of
+industries?, is it going to allow you to gain soft skills like
+critical thinking?, are questions to reflect on.
 
-Will the job allow me FCC? 
-
-Will it give me important skills like programming, Data-science which
-can be transferred over a wide variety of industries.
-
-Connections:
-
->Connections – who will you work with and meet in this job? Your
+>**Connections** – who will you work with and meet in this job? Your
 >connections are how you’ll find opportunities, spread ideas and start
 >new projects. The people you spend time with also shape your
 >character. For both reasons, it’s important to make connections who
 >are influential and who care about social impact. - [80k hours Career Capital](https://80000hours.org/career-guide/career-capital/)
 
 Are my connections going to get me jobs in different industries or
-other industries?
-
-Are my connections going to inspire me to do good?
-
-Are my connections influential?
-
-Credentials:
+other industries? Are my connections going to inspire me to do good?
+Are my connections influential?, are some of the questions to reflect
+on while considering each career path.
 
 > Will this job act as a good signal to future collaborators or
-> employers? Note that we don’t just mean formal credentials like
+> employers? Note that we don’t just mean formal **credentials** like
 > having a law degree, but also your achievements and reputation. If
 > you’re a writer, it’s the quality of your blog. If you’re a coder,
 > it’s your GitHub. -[80k hours Career Capital](https://80000hours.org/career-guide/career-capital/)
 
-Runway:
+How good is this career path to help you grow or express your achievements
+? This is very important to sell yourself to the next interviewer.
 
 >how much money will you save in this job? Your runway is how long you
 >could comfortably live with no income. It depends on both your
@@ -444,28 +435,11 @@ Runway:
 >or taking a big pay cut for greater impact. -[80k hours Career Capital](https://80000hours.org/career-guide/career-capital/)
 
 Ability to quickly save enough money for the next 18 months is what
-seems to be defining runway. How much I can donate is a question
-answerd by the impact section. Runway seems to be always important.
+seems to be defining **runway**. How much I can donate is a question
+answerd by the impact section.
 
-
-### Impact
-
-Number of lives saved is the ultimate variable we are interested
-in.
-
-In order to determine the effective impact of pursuing a career, we
-should do more than just multiply the impact with the personal fit. We
-should look at it like a decision tree. If we succeed our impact is
-say X. If we fail our impact will be Y. Therefore,
-
-Effective impact = Personal fit x X + (1-Personal fit) x Y
 
 ### Supportive conditions
-
-- Engaging work
-- Colleagues
-- Basic needs
-- fit with rest of life
 
 > Impact and personal life Engaging work - Will you get freedom to
 > decide how to work, clear tasks, clear feedback and variety in what
@@ -476,44 +450,59 @@ Effective impact = Personal fit x X + (1-Personal fit) x Y
 > relationships, and uphold any other important personal priorities?
 > -[80k hours Career Capital](https://80000hours.org/career-guide/career-capital/)
 
+i.e., 
+
+- Engaging work
+- Good Colleagues
+- Career that satisfies basic needs
+- Career that fits with rest of life
+
 ### Personal Fit
 
-What are your chances of excelling in that area?
+What are your chances of excelling in that area? is defined by the
+personal fit.
+
+### Impact
+
+Number of lives saved is the ultimate variable we are interested
+in. 
+
 
 ### In total
+
+The total can be computed per career path,x as follows:
 
 	$ (f1 x Career Capital +f2 x Impact +f3 x supportive conditions) *
 	Personal fit
  
->If you are still early in your career, then it’s best to place
->greater importance on career capital than on role impact
+f1, f2, f3 are weights for their respective variables. These values
+are decided by us based on how important that particular variable
+is. If we are early in the career we add more weight to CC. The more
+altruistically-minded we are, the less weight we need to place on the
+supporting conditions.
 
->The more uncertain you are about the long-run, the more you should
->prioritise flexible career capital over
-
->The more altruistically-minded you are, the less weight you’ll need
->to place on job satisfaction relative to the other factors.
-
-80k suggests role-impact and not impact. This would mean that I
-somehow have an idea of what problem I have chosen to focus on. On a
-high level, it is all about saving lives, adding good years to lives
-around the world now and later.
-
-To simplify the solving of the above problem, I suggest we just stick
-to impact as being saving lives. I will try to make estimations of
-saving lives with this. The value of these factors are explained later.
-
-[Source: how to compare different careers ](https://80000hours.org/articles/framework/#questions-for-assessing-each-factor) 
-
-Instead of rejecting a low-personal-fit-high-impact career, what if we
-took it and played our chances. In case we win, we gain huge impact, if
-we loose, we can pick still make decent effort.
-
+I don't think it is enough to just look at the result from the above
+formula. All the numbers/values generated are quite subjective and
+have uncertainty in them. It is thus suggested to look at the
+individual variables as well and look at these numbers as more like a
+guide than the reality. Career Capital can be looked at as a weighted
+sum of skill, connections, credentials and runway. This can already
+help us weed out the very mediocre performing ones. Supportive
+conditions is not very important for me unless a career is known for
+screwing up health. To determine the effective impact of pursuing a
+career, we should do more than just multiply the impact with the
+personal fit. We should look at it like a decision tree. If we succeed
+our impact is say X. If we fail our impact will be Y. Therefore,
 
 	Effective impact = Personal fit x X + (1-Personal fit) x Y
 
-So we will look at Effective impact.
+When the personal fit comprises of succeeding in multiple events we
+use the above formula in the form of a decision tree.
 
+[Source: how to compare different careers ](https://80000hours.org/articles/framework/#questions-for-assessing-each-factor) 
+
+In the next section we take each career path and obtain values to each
+of the above variables.
 
 ---
 
@@ -531,30 +520,27 @@ the career path.
 
 I am currently a Design Engineer in the precision industry. The
 function of such an engineer is to design parts/products to the
-specifications provided, verify and assemble them.  Here the following
-cases are evaluated in this profile:
+specifications provided, assemble and verify them. In this post the
+following cases are evaluated within this profile:
 
 - Design Engineering in NL/Europe
 - Design Engineering in US
 - Design Engineering to Sales in NL
-
-<!-- going to the US with DE might be possible but I suspec only with -->
-<!-- L1 I will make a separate post out of it -->
 
 **Skills**:
 
 - Not very challenging all the time, not pushed to do more and given
   only a small amount of feedback.
 
-I work for ~40 hrs a week in NL and I am barely at any pressure or
+	I work for ~40 hrs a week in NL and I am barely at any pressure or
 pushed to achieve great things. Learning in general is slow. I suspect
 that there will be more pressure in the US or if I move to Sales, but
 there is a lot of paper work to do in general, in addition to the lack
-of challenging problems given to you for solving
+of challenging problems given to you for solving.
 
 - Small percentage of critical thinking
 
-Critical thinking is about 20-30% of the time . Most of the time I am
+	Critical thinking is about 20-30% of the time. Most of the time I am
 not working on hard problems. I am doing a lot of work that does not
 translate necessarily to improvement of my skill such as making small
 modifications to existing setups, or covering for poor procedures
@@ -562,37 +548,39 @@ written by others.
 
 - Not very valuable even with 30 years of experience
 
->For the first five to ten years in this position, salary increases
->somewhat, but any additional experience does not have a big effect on
->pay. - [payscale](https://www.payscale.com/research/NL/Job=Design_Engineer/Salary)
+	>For the first five to ten years in this position, salary increases
+	>somewhat, but any additional experience does not have a big effect on
+	>pay. - [payscale](https://www.payscale.com/research/NL/Job=Design_Engineer/Salary)
+
+	My colleague who is an electrical engineer with experience of >20
+	years earns ~15k Euros more than me.
 
 - Decent transferable skills
 
-I will have quite some knowledge of the Semicon industry, maybe a good
-chance to port to Sales, So I think it does offer some sort of FCC
-(flexible Career capital). Even within the company I work for they
-were looking for normal people to shift to management side provided
-they had a few years of experience. I have seen the useless nutheads
-in sales who do not understand the product and have no idea what it
-can do, still pitch it to others and try to make a sale. I think I
-would be a welcome relief to such an industry needing solid engineers
-who can also talk.
+	I will have quite some knowledge of the Semicon industry, maybe a
+good chance to port to Sales, so I think it does offer some sort of
+FCC. Even within the company I work for they were looking for normal
+people to shift to management side provided they had a few years of
+experience. I have seen the useless nutheads in sales who do not
+understand the product and have no idea what it can do, still pitch it
+to others and try to make a sale. I think I would be a welcome relief
+to such an space needing solid engineers who can also talk.
 
-Although I am not sure of why going into automotive or space might be
-interesting, moving to other such industries might be hard or
+	Although I am not sure of why going into automotive or space might be
+interesting, moving into such industries might be hard or
 impossible. I have seen people move from other industries to precision
 engineering, but not the other way around. I suspect going the other
 way might need a lot of pre-knowledge, and current knowledge might
 just not be fully portable. So I will have to stay in Precision
-engineering for ever. With regard to ETG, I don't see it as a big problem.
+engineering for ever. 
 
-This job is usually not intense and has a long development cycle, so
+	This job is usually not intense and has a long development cycle, so
 work hours are not too long, allowing us time to learn other things
 and improve in the areas needed. But learning more about design seems
 to only come with more experience in the field, rather than reading
 about things.
 
-I don't expect the resulting skills to be very much different between
+	I don't expect the resulting skills to be very much different between
 here and the US. A decent amount of transferable skills, the minimum
 quantity of critical thinking, a decent amount of creativity while
 working seems to result in a skill rating of 6.5/10.
@@ -608,26 +596,30 @@ connection rating is at 4/10.
 **Credentials**:
 
 For a writer it is his blog, for a coder it is his Github, for a
-mechanical deisgner, it is his portfolio of work done till now,which
+mechanical deisgner, it is his portfolio of work done till now, which
 would help find other jobs in the same industry. Jumping jobs is
-sometimes the best way to get a raise. I see myself growing up the
-ladder very very slowly (4-5 years per promotion). It is a slow
-working environment (mainly because of the long development
-cycles). Right now maybe I can boast to future precision companies
-regarding what I do at my current employer. Moving within the
-precision engineering industry should not be a problem, but I think it
-stops with that. I would put DE at a rating of 6/10 for credentials.
+sometimes the best way to get a nice raise. I see myself growing up
+the ladder very very slowly (4-5 years per promotion). It is a slow
+working environment (mainly because of the long development cycles)
+and as a result I would have fewer credentials. Right now maybe I can
+boast to future precision companies regarding what I do at my current
+employer. Moving within the precision engineering industry should not
+be a problem, but I think it stops with that. I would put DE at a
+rating of 6/10 for credentials.
 
 **Runway**:
 
 I can't move immediately into sales or even to the US. The runway for
 all the cases will correspond to what I earn at DE in NL. It is
-estimated for 18months worth of dough, 2-3 years of saving is
+estimated for 18 months worth of dough, 2-3 years of saving is
 required. An average rating of 5/10 is given here.
 
-<!-- Ways of moving to the US and prolty estimates unknown, but runway -->
-<!-- could be crazy, but I still suspect I need to clock a few good -->
-<!-- years here before I am able to migrate reasonably-->
+**Supporting conditions**:
+
+I would rate it at an 8/10 as the work is usualy engaging, with good
+colleagues who are likely to help. It satisfies my basic needs for
+sure and fits well with the rest of my life by allowing me time to
+work on other things.
 
 **Personal Fit**:
 
@@ -641,7 +633,7 @@ To excel in this area would mean,
 - There seems to be a decent opportunity into sales. But is sales a
 good fit for me? I suspect I can be good at it. I have seen random
 people move into sales and succeed. My cousin was an ordinary
-Mechanical Engineer who rose the ranks in sales and now ears lots of
+Mechanical Engineer who rose the ranks in sales and now earns lots of
 money in Dubai. Another cousin moved from electrical engineering
 (brainy guy though) and managed a killer career that got him to a US
 green card directly. Considering that Sales can make more money, I
@@ -650,7 +642,7 @@ as and when I like. I expect the chance of success to be 75%.
 
 - Moving to the US
 
-  There are a couple of ways I go to the US, either by direct applying
+  There are a couple of ways I can go to the US, either by direct applying
   or by migrating from one country to the other via an L1 visa.  <!--
   Also possibly go to Canada and follow the L1 route --> In 5 years
   time I would expect to have worthy experience with which I can try
@@ -673,11 +665,12 @@ So in total: 80%*60% = 48% of success.
 - The impact of being a typical engineer for the next 40 years in NL is
 estimated to be ~200 lives based on:
 
+	- beginners salary of 53k$
 	- Salary raise of 4% per year for the next 40 years
 	- 10% increase every 5 years
 	- 20% donation
-	- increase of 2%/year on the cost of lives
-	- beginners salary of 53k$
+	- increase of 2% per year on the cost of lives
+
 
 - The impact of moving into sales can probably significantly switch
 things up, conservatively I guesstimate it at atleast 2 times the
@@ -686,123 +679,130 @@ my ass, as I don't have good estimates of it. I will refine this
 number later if needed. Resulting in 400 lives.
 
 - The impact of moving to the US could be much better as the pay is
-reasonably higher.
+reasonably higher. 280 lives in the US for 35 years + 13 lives for the
+first 5 years in NL = ~300 lives, based on:
 
+	- for a beginners salary of 100k
 	- Salary raise of 4% per year
+	- 2% increase in salary from 50 years of age
 	- 10% increase every 5 years
 	- 20% donation
-	- increase of 2%/year on the cost of lives
-	- for a beginners salary of 100k
-	- 2% increase in salary from 50 years of age
-  
-280 lives in the US for 35 years + 13 lives for the first 5 years in
-NL = ~300 lives.
+	- increase of 2% per year on the cost of lives
+ 
 
 **Personal fit x Impact**
 
+Based on the numbers calculated earlier in the 'personal fit' and
+'impact' sub-sections for DE, we compute the effective impact.
+
 - DE in NL
+		
+		rough-impact = 95% x 200 = 190
 
-		95% x 200 = 190
 
-This is the minimum I can do and so the rest of the 7% wouldn't
-matter. 
+This is the least I expect I am able to do. I assume that in case of
+failure (5%) I am unable to contribute anything at all. So I do not
+compute the effective impact separately as done below.
 
 - DE followed by sales
 
 I can briefly try sales and if all hell brakes loose then I can always
 move back in DE. Considering such a tree we get:
 		
-		75% x 400 = 300	
-		75% x 400 + 25% x 95% x 200 ~= 350 
+		rough-impact = 75% x 400 = 300	
+		Effective Impact = 75% x 400 + 25% x 95% x 200 ~= 350 
 		
 - DE in US
 
-Just like in sales, I can always move back to being a DE in Nl. 
+Just like in sales, I can always move back to being a DE in Nl as I
+hope to obtain by citizenship before moving to the US. So, 
 		
-		48% x 300 = 144
-		48% x 300 + 52% x 95% x 200 ~= 248
+		rough-impact = 48% x 300 = 144
+		Effective Impact = 48% x 300 + 52% x 95% x 200 ~= 248
 
 
 **Conclusion DE ETG**
 
 With the above calculations we see that DE in NL might be better than
-DE in US if we do not consider the decision tree, but if we do
-consider the decision tree, it turns out that trying it would still be
-better than just being a DE in NL.
+DE in US if we do not consider the decision tree (rough-impact), but
+if we do consider the decision tree (effective impact), it turns out
+that trying it would still be better than just being a DE in NL. So it
+seems important to use the effective impact than the rough impact in
+most cases.
 
 We could make the Decision tree even more complicated, with many
 branches etc... to work out other situations. But for now, it appears
 that trying Sales and US options could be good options to get myself
-into, as opposed to a traditional job.
+into, as opposed to a conservative option of `DE in NL`.
 
 ### Design engineering (Machine Design) in 'Europe' for Direct work
 
 **Skills**: 
 
-- Lot of skills not useful in DW
+- Lot of skills acquired that is not useful in DW
 
-	Right now I am learning a very specific amount of skills. Skills
+	Right now I am learning a very specific set of skills. Skills
 	related to making proper drawings, how to design for the precision
 	industry, how to keep things simple etc... Great for the precision
 	engineering market but I dont think it preps me for the Leadership
 	or research type of jobs that would be needed in DW.
 
-- gaining management skills takes a long while before it even begins
+- Gaining management skills takes a long while before it even begins
 
-	Even if I become a design leader (as they call it here), it would
-	take say 5-8 years atleast (35), where I go into a tech leadership
-	kinds of role, where I am managing a technical team, knowing on a
-	high level what my team is doing.
+    Becoming a design leader (a.k.a tech leadership roles), would take
+	say 5-8 years atleast (age 35) where I am managing a technical
+	team, knowing on a high level what my team is doing.
 
 - Not very challenging all the time, not pushed to do more or given a
 lot of feedback
 
 	I have already talked about this in the last section on 'DE for
 	ETG'.  As an engineer I have to do a lot of unnecessary things,
-	kind a like doing experiments manually. Time is really precious
-	and you would want every single minute to count. I see myself
-	'wasting' a lot of time here. I work for <40 hrs a week and I am
-	barely at any pressure or pushed to achieve great things.
+	like repairing poor documentation, doing repetitive experiments
+	manually, calling people to get work done etc... Time is really
+	precious and you would want every single minute to count. I see
+	myself 'wasting' a lot of time here. I work for <40 hrs a week and
+	I am barely at any pressure or pushed to achieve great things.
 
 Overall, the dearth of transferable skills, minimum time spent on
-critical thinking and a decent amount of creativity building gets it a
+critical thinking and a ordinary amount of creativity building gets it a
 rating of 5/10.
 
 **Connections**:
 
-AS mentioned in 'DE for ETG', connections within the industry are
+As mentioned in 'DE for ETG', connections within the industry are
 already not that great. Connections to move to DW or meeting people
 interested in EA, is hard I observe. Thus rated as 3/10. 
 
 **Credentials**:
 
 Credentials wise I am very limited. The assignments given to me and
-available in general don't allow you to boast crazy performance boosts
-or high impact. I think I will not be able to boast any reasonable
-achievements, other than my performance reviews, that can look good on
-my application to GiveWell type EAOs. So I rate this at 5/10.
+available in general don't allow me to boast crazy performance boosts
+or high impact. Learning is slow making the initial years with poor
+credentials. I think I will not be able to boast any reasonable
+achievements within the next few years, other than my performance
+reviews, that MIGHT look good on my application to GiveWell type of
+EAOs. So I rate this at 5/10.
 
 **Runway**:
 
 In Netherlands I can save about 6-8k euros per year. Removing my
-donation, and all other extra expenses that seem to be coming, I think
-I can save about 6k per year. I can improve this if necessary by
-4k/year by joining another company. Runway gathering takes a slow 3
-years for saving for 18 months worth. An average rating of 5/10 is
-given here.
+donation, and all other extra expenses that seem to be popping out of
+nowhere, I think I can save about 6k per year. I can improve this if
+necessary by 4k/year by joining another company. Runway gathering
+takes a slow 3 years for saving for 18 months worth. An average rating
+of 5/10 is given here.
 
 **Supporting conditions**
 
 Work is engaging, I can always find decent challenges. Basic needs are
 met, colleagues seem to be fine and ready to help when you ask for
-help. Work outside of DE towards the Direct Work can also be quite
-engaging.
-
-It is hard to find like minded people here who share any interest in
-Altruism. Of all the people I have met, I do not know a single soul
-who does anything related to EA. They are too busy chilling, going to
-the beach, working and planning on pleasurable activities after
-activities. 
+help. Work outside of the 9-5 DE job, towards Direct Work can also be
+quite engaging. It is hard to find like minded people here who share
+any interest in Altruism. Of all the people I have met, I do not know
+a single soul who does anything related to EA. They are too busy
+chilling, going to the beach, working and planning pleasurable
+activities after activities. 5/10.
 
 <!-- Not that I am any great soul or something; Well ;)-->
 
@@ -813,42 +813,51 @@ either found an NGO, or work in one in operations or research.
 
 - chances of learning skills at the age of 33 within design
   engineering (85%)
+  
 - possibility of learning the right skills while spending time in this
-  industry (70%)
+  industry (70%). This is assuming I can learn in my ample available
+  free time of 14-22 hrs.
   
-  This is assuming I can learn in my ample available free time (14-22
-  hrs).
-  
-- Getting a job in either research or management in top NGO's
-  based on research or operations related credentials (70%)
+- Getting a job in either research or management in top NGO's based on
+  research or operations related credentials from DE (70%)
   
   I don't expect it to be as tough as getting a job in MC. Plus I have
   quite some spare time on my hand. I could always look to improve my
   knowledge and skills. I would have 40 days of vacation every year,
   which I could really use to become better or even take internships.
 
-So a total 42% chance of success.
+So a chance of 42% for success.
 
 **Impact**:
 
 It is argued in the appendix that impact of working in an EAO is
-estimated at >970 lives when we work for 40 years. That becomes: 
+estimated at >970 lives when we work for 40 years. A short version is:
+[An analyst from GiveWell](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/) has made this calculation and estimates
+a contribution in the first year of ~97k$. This over 40 years comes to
+\> 970 lives. Assuming one can keep up with this, with:
+
+- 4% growth per year
+- 2% growth per year after 50
+- 7% growth every 5-7 years
+- Cost of a life now, 4k$
+- inflation in the cost of saving lives 2%
+- All this for the next 40 years
+
+That totals to 875 lives given,
 
 - 23 lives over the first 9 years in DE
-- 970*7/8 if I work in the EAO for the next 35 years.
-- total: 875 lives
-
-
+- '970*35/40' if I work in the EAO for the next 35 years.
 
 **Personal fit x Impact**
 
-Simply multiplying the personal fit and the impact.
+Simply multiplying the personal fit and the impact gives us (rough-impact):
 
-	42% x 875 = 380
+	42% x 875 = 380 lives
 	
-In case EAO doesn't work out we can always move back to 'DE in NL'
+In case EAO doesn't work out we can always move back to 'DE in NL',
+which implies the effective impact then becomes:
 
-	42% x 875 + 58% x 95% x 200 = 480 
+	42% x 875 + 58% x 95% x 200 = 480 lives
 
 **Conclusion DE for DW**
 
@@ -860,7 +869,8 @@ Direct work.
 
 ### Data science 
 
-With this section Data science (DS) is discussed in the following way:
+With this section the following three career paths based on Data
+Science (DS) are evaluated :
 
 - DS for direct Work
 - DS for ETG in the NL
@@ -868,44 +878,44 @@ With this section Data science (DS) is discussed in the following way:
 
 **Skills**
 
-- Nice set of skills for research and maybe management
+- Nice set of skills for research and maybe management roles for EAOs
 
-Statistics, critical thinking, programming and machine learning could
+	Statistics, critical thinking, programming and machine learning could
 be the knowledge and skills I would transfer to research based jobs,
-and not necessarily leadership based jobs. However I suspect that a
+and not necessarily leadership based jobs. However, I suspect that a
 role in project management after a few years could get me somewhere
 like an all-rounder in the field of DS.
 
 - High Flexible Career Capital according to 80k-hours-guide
 
->The technical skills you develop also open the possibility to
+	>The technical skills you develop also open the possibility to
 >transition into different roles including software engineering,
 >founding or joining early-stage startups, academia, and quant
 >finance. - [80k-DS](https://80000hours.org/career-reviews/data-science/) 
 
-DS is used in a many industries, including EA, offering FCC. Also DS
-is only the starting point. Skills wise it looks like a great place to
-start, with little effort. With very good skill I could move to NGO's (Direct impact potential)
-as well. 
+	DS is used in many types of work including EAOs, consulting,
+finance etc... offering high FCC. Skills wise it looks like a great
+place to start, with little effort.
 
 - Free time to develop additional skills
 
-Once I start DS I suspect I have quite some time to do programming,
+	Once I start DS I suspect I have quite some time to do programming,
 using different languages and focus on some high-risk paths like
 starting up or even a machine learning PhD. Even if I am in the US,
-working time is apparently ([reasonable and flexible hours](https://80000hours.org/career-reviews/data-science/)).
+working time is apparently ([reasonable and flexible](https://80000hours.org/career-reviews/data-science/)).
 
-- More valuable with more experience.
+- It appears that you are more valuable with more experience.
  
-A good rating of 8/10 seems to be applicable for DS considering the
+ A good rating of 8/10 seems to be applicable for DS considering the
 skills aspect.
 
 **Connections**
 
 Connections depends on where I am working and which type of company I
-will be working for. For example working in a consultancy, might have
-a great chance to meet many people and building the network. The
-network as a result would be better than in DE. 
+will be working for. For example working in a consultancy (like Mu
+Sigma), might allow for a great chance to meet many people and
+building the network. The network as a result would be better than in
+DE.
 
 - Connections that further NGO opportunities: 4.5/10
 
@@ -917,19 +927,19 @@ network as a result would be better than in DE.
 
 DS has a fast paced scene, I gather from 80k-hours-guide. Faster
 feedback cycle, and large connection between work and outcomes can be
-felt. Further impression I get is that there it will be easy to obtain
-bragable credentials. My belief that DS will give good credentials
+felt. Further impression I get is that it will be easy to obtain
+braggable credentials. My belief that DS will give good credentials
 combined with an uncertainty, leaves it at a rating of 7.5/10.
 
 **Runway** 
 
 DS in NL probably starts with a slightly higher salary than DE based
-on estimates from Payscale DS's seem to earn ([46k€](https://www.payscale.com/research/NL/Job=Data_Scientist/Salary/05582c7c/Amsterdam) and design
+on estimates from Payscale. DS seems to earn ([46k€](https://www.payscale.com/research/NL/Job=Data_Scientist/Salary/05582c7c/Amsterdam) and design
 engineers [40k€](https://www.payscale.com/research/NL/Job=Mechanical_Design_Engineer/Salary)). This implies a faster runway than DE. DS in US
 allows a more faster collection of the runway for 18 months. But in
-any case right now it appears I will have to work in NL and slowly
-plot my travel towards US or NGO's. So I suspect it to take about 2
-years. So I will give it 7/10/
+any case right now it appears I will have to work in NL and so the
+runway here is relevant. So I expect it to take about 2 years. So I
+will give it 7/10.
 
 **Supportive conditions/Job Satisfaction**
 
@@ -938,16 +948,16 @@ years. So I will give it 7/10/
 - Basic needs will be satisfied (money, hours and commute)
 - Am not worried I will have too many problems learning or fitting in,
   my point being it is not investment banking.
-- Again I look up to people in the US like my brother and other actual
-  data scientists, they seem to have time to do other things as
+- I look at people in the US like my brother and other actual
+  data scientists, and they seem to have time to do other things as
   well. Not like they are working 24x7. Also 80k suggests that the
-  hours are moderate 50 hrs per week I think. This is peacefully
+  hours are moderate about 50 hrs per week. This is peacefully
   doable.
   
 - Also this is expected to be a very satisfying career according to
-  80k, due to the fast feedback cycle.
+  80k-hours, due to the fast feedback cycle.
 
--Mentorship culture is quite common apparently according to 80k.
+- Mentorship culture is quite common apparently according to 80k-hours.
 
 - project management could be even more fulfilling as it has more
 control, more responsibility than analysts who are just the right hand
@@ -957,32 +967,31 @@ It looks good overall, thus with a rating of 8/10.
   
 **Personal fit**
 
-Companies like KLM even have jobs for engineers and data
-scientists. This could be quite lucrative for me and for the company,
-as I span both the spectra. Anyone can jump into data science (we are
-not talking about data core or machine learning). I have seen
-colleagues of mine who were doing a masters with me and moved into
-DS. The skills are basically stats, programming in python, R and SQL.
-So personal fit wise, it is good here.
+Companies like KLM seem to have jobs for engineers who are also
+aspiring data scientists. This could be quite lucrative for me and for
+the company, as I span both the spectra. Anyone can jump into data
+science (we are not talking about data core or machine learning as I
+am given to understand that is something else). I have seen colleagues
+of mine who were doing a masters with me who moved into DS. The skills
+that are nice to have are basically stats, programming in python, R
+and SQL. So personal fit wise, these are not too hard to learn. And
+for beginners it could all be just waived off.
 
 I am a fast learner and have worked on proper programming assignments
 before. I have done a fair bit of critical thinking, hypothesis
 forming and solving problems at work and my masters. I love it to
 begin with and I think there is a lot of room to get better and I can
-get better at it, with more defined ways of thinking.
-
-I am up for challenging jobs all the time. I love programming and can
-spend like any other sane human being a very large time working on it.
+get better at it, with more defined ways of thinking. I am up for
+challenging jobs all the time. I love programming and can spend like
+any other sane human being a very large time working on it.
 
 - DS as a means of earning to give (Netherlands)
   
   Here success would mean moving to a job in DS in NL from DE. This is
   to be followed by 40 years of work, with 20% of donations every
-  year.
-  
-  I know a few of my colleagues who are in DS right out of a similar
-  masters degree as I. Plus from everything I have seen it is a
-  learn-able skill, and appears to be definitely learn-able.
+  year. I know a few of my colleagues who are in DS right out of a
+  similar masters degree as I. Plus from everything I have seen it is
+  a learn-able skill, and appears to be definitely learn-able.
   
   - 95% chance of entering into DS
   - 93% chance of working 40 years with 20% donations
@@ -990,10 +999,10 @@ spend like any other sane human being a very large time working on it.
   
 - DS as a means of earning to give (US)
 
-  The career should probably look like this: I should be able to get
-  jobs in europe within Google or Facebook and slowly plot my
-  migration. I could also do a one year masters for example to move to
-  the US.
+  The career path should probably look like this: I should be able to
+  get jobs in europe within Google or Facebook and slowly plot my
+  migration with an L1. I could also do a one year masters for example
+  to move to the US.
   
   - Getting US worthy skills in 5 years time (80%)
   - Getting an L1 (65%) (This is a guess factoring uncertainty)
@@ -1001,44 +1010,47 @@ spend like any other sane human being a very large time working on it.
 
 - DS in NGO's
 
-With good stats and quants capability, I think we might have a good
-fit in analyst roles. There are also NGO's which use DS to do good,
-like khan academy etc... If I spend enough time, I could already
-manage a team and gain more FCC. So personally after 4-5 years (10k
-hours of skill development) I suspect I should be quite
+	With good stats and quants capability, I think we might have a
+good fit for analyst roles. Every hour in Data Science seems like
+preparation for the ultimate work in EAOs. There are also NGO's which
+use DS to do good, like khan academy etc... If I spend enough time, I
+could already manage a team and gain more FCC. So personally after 4-5
+years (10k hours of skill development) I suspect I should be quite
 valuable.
 
 - Chance to get into an NGO after 5 years in the realm of DS = 80%
 
-Total chance = 95%*80% = 76%
+	Total chance = 95%*80% = 76%
+
+<!-- What if you are not cut out for NGOs then MBA is the thing you -->
+<!-- should be doing? What if I am not cut out for MBA? hahahah? -->
 
 **Impact**
 
 DS in top companies seems to be earning people top dollars.  My friend
-in the US earns 130-170k $ in Apple. Once you are Apple worthy, there
-seems to be a lot of potential scope and growth. I have also heard the
-pays in Facebook sometimes being about 200k $ with a few years of
-experience. A simple bachelor's student in California in Data science
-from a Waterloo university earns a base salary of 100k + stocks of 30k
-a year. As far as I checked glassdoor and payscale, the pay in
+in the US earns 130-170k $ in Apple. I have also heard the pays in
+Facebook sometimes being about 200k$ with a few years of experience. A
+simple bachelor's student in California in Data science from a
+Waterloo university earns a base salary of 100k + stocks of 30k a
+year. As far as I checked glassdoor and payscale, the pay in
 Netherlands also seems to be higher than in DE. According to payscale
-DS's seem to earn[ 53k](https://www.payscale.com/research/NL/Job=Data_Scientist/Salary/05582c7c/Amsterdam) and design engineers [40k](https://www.payscale.com/research/NL/Job=Mechanical_Design_Engineer/Salary) €. Not able
-to get proper estimates on glassdoor, but it looks high. Also DS is
-heavily hyped by 80k-hours for its ability to quickly transform into
-ETG.
+DataScientists seem to earn[ 53k](https://www.payscale.com/research/NL/Job=Data_Scientist/Salary/05582c7c/Amsterdam) and design engineers [40k](https://www.payscale.com/research/NL/Job=Mechanical_Design_Engineer/Salary)
+€. Not able to get proper estimates on glassdoor, but it looks high
+though. Also DS is heavily hyped by 80k-hours for its ability to
+quickly transform into ETG.
 
 >Data Incubator reports that its graduates can get starting salaries
 >of $100K to $200K.
 
 Bootcamps could be an option for me but I think some info that is
-missing is that these people who succeed are not ordinary people. The
-interview process itself is rigorous to get into, with these
-bootcamps. But with skill it is possible to get lot of money for
-ETG. Skills can be learned with time. I am not able to scoop it out
-but, last time I saw on glassdoor, you are more valuable with
-experience.
+missing is that these people who get into these camps are not ordinary
+people. The interview process itself is rigorous to get into, with
+these bootcamps. But with skill it is possible to get lot of money for
+ETG. Skills can be learned with time. I am not able to find it again
+but, last time I saw on glassdoor, a Data Scientist is more valuable
+with experience.
 
-There is a lot of scope for direct impact if one has skills, by using
+There is a lot of scope for direct impact as well if one has skills, by using
 this science in companies like:
 
 >the Center for Disease Control, Google, Khan Academy, Bayes Impact
@@ -1047,105 +1059,114 @@ this science in companies like:
 
 - Working for DS now and staying in NL/europe for the next 40 years
 
+	- for a beginners salary of [53k from Payscale](https://www.payscale.com/research/NL/Job=Data_Scientist/Salary/05582c7c/Amsterdam)€ 
 	- With salary growth of 4% a year
 	- inflation of 2% a year
 	- increase of 10% every 5 years
 	- and 20% donation
-	- for a beginners salary of [53k from Payscale](https://www.payscale.com/research/NL/Job=Data_Scientist/Salary/05582c7c/Amsterdam)€ 
-	
-237 lives.
+
+	237 lives.
 
 - Working for DS for the next 5 years and moving to the US
 
+	- for a beginners salary of 130k (based on salary of Bachelor's
+      student from waterloo university in DS working at Facebook)
 	- With compound interest of 4% a year
 	- increase in salary of 2% after age 50
 	- inflation of 2% a year
 	- increase of 10% every 5 years
 	- and 20% donation
-	- for a beginners salary of 130k (based on salary of Bachelor's
-      student from waterloo university in DS working at Facebook)
-	  
 	
-367 lives for 35 years in the US + ~13 lives for the first 5 years in
+	367 lives for 35 years in the US + ~13 lives for the first 5 years in
 NL= 400 lives.
 
 - Working for DS now and moving to an NGO within the next 5 years.
 
-I assume the same impact irrespective of the NGO joined. By definition
-an NGO worth joining is for sure recommended by 80k-hours for example.
+	I assume the same impact irrespective of the NGO joined. By definition
+an NGO worth joining is atleast recommended by 80k-hours, for example.
 So my impact will be close to 970 lives.
 
 **Personal fit x Impact**
 
+Here also we calculate the rough-impact and the effective-impact.
+
 - DS in NL
 
 
-		88% x 237 = 208
+		rough-impact = 88% x 237 = 208
 
-In case DS fails I can always go back into DE.
+	In case DS fails I can always go back into DE.
 
-		88% x 237 + 12% x 95% x 200 = 231
+		Effective-impact = 88% x 237 + 12% x 95% x 200 = 231
 	
 - DS in US 
 
 	
-		47% x 400 = 188
+		rough-impact = 47% x 400 = 188
 
 	In case DS in US fails I will try DS in NL and if that fails as
 	well it would be DE in NL
 
-		47% x 400 + 53% x (231) = 310
+		Effective-impact = 47% x 400 + 53% x (231) = 310
 
 - DS in the pursuit of EAO
 
-		76% x 970 = 738
+		rough-impact = 76% x 970 = 738
 	
 	In case this fails, I can always fall back and pursue DS in NL.
 	
-		76% x 970 + 24% x (231) = 793
+		Effective-impact = 76% x 970 + 24% x (231) = 793
 		
 **Conclusion for DS**
 
 DS in EAO is most lucrative if the numbers are right. This is
-something that I should work on ensuring as this is turning out to be
-a lucrative and promising career. DS in general is very good for CC as
-well.
+something that I should work on figuring out, as this is turning out
+to be a lucrative and promising career. More certainty the better. DS
+in general is very good for CC as well according to
+80k-hours-career-guide.
 
+Something in addition to the above that I need to work on is knowing
+for myself, if I am actually cut out for work in
+Effective-Altruism-Organization. I really care about impact and if
+this is not for me then I will stop at nothing to jump into consulting
+and an MBA, for example.
+	
 ### MBA into Management consulting
 
 Finishing an MBA allows travel into a couple of venues, of which one
-of them is MC. 80k-hours has done a [complete career profile on
-them](https://80000hours.org/career-guide/reports/management-consulting/). Based on [MBAcrystalball](https://www.mbacrystalball.com/blog/2017/12/18/investment-banking-vs-management-consulting/), it appears that an MC does
-just about anything that is needed to be done to improve the
-performance of a company. The impression I get is that you are given
-challenging problems and you have to come up with solutions for it.
-Every few months you work on a new problem in teams and come up with a
-solution.
-
+of them is Management Consulting (Management Consulting). 80k-hours
+has done a [complete career profile on them](https://80000hours.org/career-guide/reports/management-consulting/) which is used as the
+main source. [MBAcrystalball](https://www.mbacrystalball.com/blog/2017/12/18/investment-banking-vs-management-consulting/) suggests that an MC does just about
+anything that is needed to be done to improve the performance of a
+company. The impression I get is that you are given challenging
+problems and you have to come up with solutions for it.  Every few
+months you work on a new problem in teams and come up with a solution.
+	
 **Skills**
 
-Management consulting is hyped by 80k for its [career
-capital](https://80000hours.org/career-reviews/management-consulting/). They seem to offer sufficient transferable skills. You
-actually work on different problems and become a generalist in an
-industry with quite some exit opportunities:
+ All the big heads in big companies like Apple, Microsoft, Google are
+  MBA degree holders, some with humble consulting
+  beginnings. Management consulting is hyped by 80k for its [career
+  capital](https://80000hours.org/career-reviews/management-consulting/). They seem to offer sufficient transferable skills. You
+  actually work on different problems and become a generalist in an
+  industry with quite some exit opportunities:
 
 >You can work in an industry you served as a consultant, venture
 >capital, private equity, policy/civil service, work on a “strategy
->team” for a company. [Career Capital 80k-hours](https://80000hours.org/career-reviews/management-consulting/)
-
-You can pretty much do a lot with such exit opportunities. 
+>team” for a company. -[Career Capital 80k-hours](https://80000hours.org/career-reviews/management-consulting/)
 
 >Although a significant portion of your time will be spent on
 >preparing powerpoint presentations, email, and “grunt” tasks, such as
 >creating databases, junior consultants gain responsibility relatively
 >quickly, and work on solving challenging business problems.
 
-We spend more time and effort in this career and it appears to be
-filled with great things in terms of CC such as learning, growth,
-mentorship and regular feedback and working on tough problems to grow
-along with the top performing peers. 80k hours values MC > DS
-comparing career capital. These skills I am not sure I can gain say if
-I work by myself at home. We rate it 10/10.
+ We spend
+  more time and effort in this career and it appears to be filled with
+  important things such as learning, growth, mentorship, regular
+  feedback and working on tough problems with the top performing
+  peers. 80k hours values MC > DS comparing career capital. These
+  skills are hard to gain say if I work by myself at home. In
+  conclusion, we rate it 10/10.
 
 **Connections**
 
@@ -1156,37 +1177,37 @@ I work by myself at home. We rate it 10/10.
 
 MC is all about consulting for big companies. You constantly have to
 travel and meet with clients and deliver for them in their
-locations. Projects are 2-3 months short and you have scope to get
-lots of connections. Also, your colleagues around you are also
-high-achievers and could be very valuable.
-
-So I present this with 9/10. It seems like it is far apart from
-anything I have seen before in either DS or DE. DS is also supposed to
-be good connections. But I will say this, if MC's are the top
-performers, if almost everyone can become Data Scientists, if MCs earn
-more than DSs, if MC's connections are highly talked about by
-80k-hours, if you know and work with your peers who are brilliant,
-then MC seems to be much better than DS in terms of connections. OK I
-will settle with an 8/10 considering DS is at 5.
+locations. Projects are 2-3 months short and you have the scope to get
+lots of connections. Also, your colleagues around you are
+high-achievers and could be very valuable in the future for helping
+you get jobs, get leads related to work etc... So I present this with
+8/10. This is much better than anything we have seen so far including
+Data Science and DE. 
 
 **Credentials**
 
 I think with MC you will make good credentials as you are solving
-problems after problems in short time for the top 500. The exit
-opportunities look aplenty, so I guess just knowing this is good
-enough. Based on these I will put it slightly above DS.  8/10.
+problems after problems in short time for the top 500
+companies. Consulting from top companies on your CV itself serves as a
+credential. 
+
+>BIGGEST plus of being in consulting before launching a startup is the
+>brand value on CV. When you have a startup idea and you go visit
+>venture capitalists and potential investors - they will want to bet
+>on the idea as well as on the man (with equal amount of importance to
+>both). And if the man has BCG/McKinsey/similar on his CV, it lends
+>credibility. -Friend who is currently in Investment Banking
+
+Based on these I will put it slightly above DS. 8/10.
 
 **Runway**
 
 MC's earn [30-50% of what IB's earn](https://80000hours.org/career-guide/reports/management-consulting/). At the associate level you
-earn 80k to 170k. This would probably allow you to donate in the 30%
-brackets. It should give enough runway right in the first year I think
-assuming I do not have any more loans and shit. Runway is not
-something I would be worried about if I was a Management consultant as
-I would earning a 100k+ salary atleast.
-
-For the next few years the time to accumulate runway will be the same
-as for the job in DE in NL, which will result in 18 months.
+earn around 80k to 170k. Runway is not something I would be worried
+about if I was a Management Consultant as I would be earning a 100k+
+salary atleast. However, for the next few years the time to accumulate
+runway will be the same as for the job in DE/DS in NL, which will
+result in developing runway over 18 months.
 
 **Supportive conditions/Job Satisfaction**
 
@@ -1195,42 +1216,45 @@ decent considering the challenging atmosphere and variety in work. I
 am not sure 60 hour work days are really very bad. I think I can
 manage it for a few years atleast. Also this is not as bad as in other
 sectors like Finance. Even if things go wrong, if we try to sweat a
-few years we can cash in on the exit opportunities as
-possible. Support conditions are a bit weaker than in DS or DE. I will
-keep it at a 7 as compared to 8 from DS.
+few years we can cash in on the exit opportunities. Support conditions
+are a bit weaker than in DS or DE. I will keep it at a 7/10 as compared
+to 8/10 from DS.
 
 **Exit opportunities**
 
 If MC turns out to be not for you after a few years, then MC seems to
-have decent exit opportunities. People move on to do various things,
-not exactly like a demotion.
+have decent exit opportunities. People move on to do various things:
 
 - Move to industry that you worked as a consultant 
 
 >You can generally advance more quickly in industry by starting in
 >consulting then entering industry several years later.
 
-- policy/civil service but not sure how age plays a factor.
-- VC / PE, If I can't handle MC and go to PE, then why will I choose
-  PE, which seems to be even more demanding, depending on where you
-  join.
+- Get into policy/civil service but not sure how age plays a factor here
+- Venture capital/ private equity
+- Entrepreneurship
+- Occupy 'chief of staff' position in a large company
+- Join the strategy team for companies like Google
+- Work in a company you consulted for
+
+Lot of opportunity for growth and Earning.
 
 **Personal fit**
 
 - Earning to give
 
-  - Chances of clearing getting >730 in GMAT (70%)
+  - Chances of getting >730 in GMAT (70%)
   - Chances of clearing the scholarship criteria for RSM after
     getting 730 (60%).
 	
 	I am not sure I have reasonable achievements for this and a
 	serious lack of time to develop big achievements. But with a nice
-	story on the CV and a good Recommendation maybe it is still
+	story on the CV and a good recommendation maybe it is still
 	possible.
 	
-  - MC jobs are highly competitive and 80k-hours-guide suggest to
-    attach a 50% probability with it with getting a job once you
-    graduate.
+  - MC jobs are highly competitive and 80k-hours-guide suggests to
+    attach a 50% probability with getting a job at the top firms once
+    you graduate.
 	
   - Chances of staying within MC >5 years (60%)
   - Chances that I will deal with 60 hrs of work (85%)
@@ -1238,16 +1262,16 @@ not exactly like a demotion.
   - There is a[ 1/8th chance of making it to partner](https://80000hours.org/career-reviews/management-consulting/#job-satisfaction)(12.5%) by age
     45, which brings down the personal fit quite a bit.
     
-  So a total of : 1.3% 
+  - So a total of : 1.3% 
   
-- Earning to give once we leave industry after 5 years (ETG taking the
-  exit opportunities in MC)
+- Earning to give once we leave industry after 5 years ( and take the
+  exit opportunities`
   
-  - Similar chances as above still apply.
-  - Chance of clearing GMAT and getting a scholarship still make sense
-    (42%)
+  - Chance of clearing GMAT and getting a scholarship still make
+    applies (42%)
   - Chance of getting the top MC job (50%)
-  - Chance of getting a job that is paying similar to DS (70%)
+  - Chance of getting a job that is paying similar to Data Science
+    atleast (70%)
   
   >You can generally advance more quickly in industry by starting in
   >consulting then entering industry several years later
@@ -1255,209 +1279,182 @@ not exactly like a demotion.
   If I was able to come this far, I assume from there on it is easy to
   get a job and advance more quickly in the industry. I don't know how
   much I can earn, but I suspect it is atleast around 150k, which is
-  like a normal salary in the US. All the big heads in big companies
-  like Apple, Microsoft, Google are MBA degree holders. So push
-  further, work hard and see where it takes us. Hence the probability
-  of 70%.
+  like a normal salary in the US.
   
- - In total 18.9%
+  - In total 18.9%
 
 - Working for an NGO after 3-5 years in MC
 
-	I am not comeacross a wide variety of opportunities. Nor has
-	80k-hours-mentioned Direct work exit opportunities. There are some
-	chances of working say at the Gates Foundation or other NGO's. But
-	it is barely clear how this would pan out or how an MC job would
-	help in this case especially. The impact could be pretty high if
-	we are able to work at NGO's like Gates foundation.
-
-	So the chances pan out to be I think
-
-  - Similar chances as above still apply.
+	I have not come across a wide range of opportunities in this
+	aspect, nor has 80k-hours-mentioned Direct Work exit opportunities
+	for MC. There are some chances of working say at the Gates
+	Foundation or other NGO's. But it is barely clear how this would
+	pan out or how an MC job would help in this case especially. The
+	impact could be pretty high if we are able to work at NGO's like
+	Gates foundation. Also I have not really seen MBA holders or
+	management consultants who work in EAOs featured in the
+	80k-hours-career-guide more than once. So it appears that
+	Effective-Altruism-Organizations is not a space for them. Corollary
+	being: Effective-Altruism-Organizations seem to not need an
+	MBA. Anyways, the chances seem to pan out as:
+	
   - Chance of clearing GMAT and getting a scholarship still make sense
     (42%)
   - Chance of getting the top MC job (50%)
   - Chance of getting into a the likes of Gates Foundation (70%)
+	
+	(it's a Guess)
   - In total it is 18.9%.
 
 **Impact**
 
-- [Earning to give (partner after 45)](https://80000hours.org/career-reviews/management-consulting/#job-satisfaction)
+- Earning to give (partner after 45)  
+
+	The Earning potential is listed in [Management consulting report
+  on the 80k-hours-career-guide ](https://80000hours.org/career-reviews/management-consulting/#job-satisfaction) when working in the top firms in
+  US.
 
 	- At associate level we get 130k 
 	- after 5 years 250k
 	- after 7 years 450k
-	- 600k + bonus after 7 more years say
+	- 600k + bonus after 7 more years
 	- Donating 40% ([Like this](https://qz.com/515655/this-couple-lives-on-6-of-their-income-so-they-can-give-100000-a-year-to-charity/) maybe)
-	- inflation of 2%
+	- cost of a life being 4k$
+	- inflation of 2% on the cost of life
 	- retiring at 57
 	- getting 75% last drawn for the rest of life (another 20 years
       atleast)
 	- I didn't take into account the bonuses which is expected to be a
       lot more.
 
-	We can expect to save upwards of 1250 lives
+	We can expect to save upwards of 1250 lives in case we become
+    partner, which is absolutely crazy.
 
 - Earning to give, once we leave MC in 5 years
 
+	- for a beginners salary of 150k-170k (assumption i.e., after quitting
+      MC)
 	- With salary growth of 4% a year
 	- 2% salary growth after 50
+	- cost of life being 4k$
 	- inflation of 2% a year
 	- increase of 10% every 5 years
 	- and 30% donation
-	- for a beginners salary of 150k (assumption i.e., after quitting
-      MC)
-	  
-  This gives about 635 lives + first years at MC gives 70 lives = 700  <!-- one thing I am not confident about
-  is at the age of 40 I should be earning in millions, is that even
-  possible? Raaam? rajesh -->
 
+  This gives about 635-700 lives + first years at MC gives 70 lives =
+  700 
+  
 - Direct working potential
 
 I assume the impact for now to be the same for all EAOs, including the
 ones that might be relevant to MC. This brings us to 970 lives i.e.,
-35 years of working in an EAO + ETG as an MC for the first few years.
+35 years of working in an Effective-Altruism-Organization in addition
+to ETG as an MC for the first few years.
 
 **Personal Fit x Impact**
-
-- MC with a focus on becoming partner
-
-{:.tablestyletwo}
-| Crossroad             | Success | Other | #lives if Success | #lives if failure | EI: Success | EI: failure |
-|-----------------------|---------|-------|-------------------|-------------------|-------------|-------------|
-| GMAT                  | 70.0%   | 30.0% | NA                | 730               | 469         | 219         |
-| Scholarship           | 60.0%   | 40.0% | NA                | 730               | 378         | 292         |
-| McKinsey              | 50.0%   | 50.0% | NA                | 50%x700           | 368         | 263         |
-| 5+ yrs & 60+ hrs/week | 51.0%   | 49.0% | NA                | 700               | 392         | 343         |
-| Make partner          | 12.5%   | 87.5% | 1,250             | 700               | 156         | 613         |
-
-The decision tree with MC is tabulated above. The thing is I can try
-for GMAT and Scholarship. It would cost me a year. I estimate the
-chances as per earlier in the discussion of personal fit. I expect
-that if I fail in a year then I already know that this is not for me
-and I can get back to DS with a focus on direct giving, which has an
-effective impact of 730.
-
-Once I do my MBA and find that I don't have a job in the top
-companies, I would be in a much better situation to evaluate what is
-the course for me. As a minimum I say that I should be able to do
-something that will get me on the road to DS or project management and
-have a few years delayed route to EAO anyways. I reduce the value by
-25% to account for the delays. Further, after 5 or 6 years of work in
-case I decide to take the exit opportunities, such a career path has
-the potential to save 700 lives, say with 50% of success. In the end
-even after 20 years if I don't become partner then I suspect I can
-meet the impact of taking an exit opportunity (700 lives). If I came
-so far, I should be able to do that atleast I guess. The effective
-value of such a decision tree becomes then: 651 lives.
-
-This sums up the whole MC career I think. I think I should run these
-numbers by someone to know if where I stand. I am not sure how good
-are my chances to DW. I suspect they are poor even with the skills as
-I gathered from my friends with an MBA. But it is for later
-evaluation. Atleast I am not able to do it justice. Maybe that turns
-the tables over. Not sure. Later!
-
-As partner though you could earn a freaking lot. We will estimate
-the impact later. But this is a path then for earning-to-give. And
-in case you crash and burn, you still have exit opportunities and in
-my case maybe a citizenship in NL to continue DE or DS.
-
-Yeah I am not sure. I have tried to ask my friends what if I can get a
-job, but it sounds too far fetched. Why would I slog so much to gain
-some part of the capabilities to go into DW. I see DS as a direct
-learning to jump as an analyst in NGO's. Becoming an MC in the top
-tier firms seems very very hard. If my plan is to go there then that
-is what I should do.
-
-- Trying out MC in top firms by directly applying
-
-	A quick search on LinkedIn shows that many people have move to
-	consulting from engineering (without an MBA). These people are
-	sometimes from the exact university I studied and with probably a
-	similar technical knowledge as me. People from [applied
-	physics](https://www.linkedin.com/in/borisnaar/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_top%3BRBPj%2FS4mQJuPekMFdt120Q%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_top-search_srp_result&lici=Zcn778IiTcKe573Tp9BzjA%3D%3D) and [offshore](https://www.linkedin.com/in/pascal-smulders-00a9b665/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_top%3BRBPj%2FS4mQJuPekMFdt120Q%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_top-search_srp_result&lici=H2eQm%2BpGT22%2FhseUYpUDLQ%3D%3D) who have done a wide variety of
-	other things seem to have gotten in. A [very talented systems
-	engineer](https://www.linkedin.com/in/jo-hoogslag-49abba83/) and a person from aerospace background from my
-	university has gotten in. Most of the people I immediately find
-	online are people who are from other departments only. But somehow
-	are either trainees or have done some decent stuff in their
-	career. Or maybe it is just about how they sell. One thing I would
-	like to know is how to get a job in these places without dutch.
-
-	Personal fit at say 40%. This way I can gain some experience,
-    check if I have good fit and find my way to the top schools a bit
-    later if required.
-	
-**Reflection**
 
 So MC seems to have an unusually high skill offered, lot of
 connections, limited potential to do direct work but crazy potential
 for ETG. However considering personal fit and other things like my
-wish/ability to do an MBA with a scholarship only, and to try be that
-high-achiever that top MBA's need, I feel that I have less chance as
-shown above. However trying it and succeeding could impact many more
-lives with small loss in end result. And hence we look at the decision
-tree and try to see the effective value looking at failure scenarios
-as well. The effective value of such a decision tree is 673 lives.
+wish/ability to do an MBA with a scholarship, I feel that I have less
+chance as seen above in the personal fit. Looking at the rough-impact
+is demotivating.
+
+		rough-impact = 1.3% x 1250 = 15 lives
+		
+However trying it and succeeding could impact many more lives. Betting
+on the small chance to create large impact might not be all that bad,
+if the failure alternatives are reasonable. That is why it is
+important to see the important steps to becoming a Partner at a firm,
+and obtain the effective impact. A decision tree with such an idea is
+below:
 
 {:.tablestyletwo}
 | Crossroad             | Success | Other | #lives if Success | #lives if failure | EI: Success | EI: failure |
 |-----------------------|---------|-------|-------------------|-------------------|-------------|-------------|
-| GMAT                  | 70.0%   | 30.0% | NA                | 730               | 469         | 219         |
-| Scholarship           | 60.0%   | 40.0% | NA                | 730               | 378         | 292         |
-| McKinsey              | 50.0%   | 50.0% | NA                | 65%x700           | 368         | 263         |
+| GMAT                  | 70.0%   | 30.0% | NA                | 790               | 471         | 237         |
+| Scholarship           | 60.0%   | 40.0% | NA                | 790               | 357         | 316         |
+| McKinsey              | 50.0%   | 50.0% | NA                | 65%x700           | 368         | 228         |
 | 5+ yrs & 60+ hrs/week | 51.0%   | 49.0% | NA                | 700               | 392         | 343         |
 | Make partner          | 12.5%   | 87.5% | 1,250             | 700               | 156         | 613         |
 
+<br>
 
-The explanation of the numbers above is as follows: If I only succeed
-all the way, then the impact I could create would be greater than 1250
-lives over my lifetime. I think this is huge as compared to other
-profiles. I could fail at different points in the decision tree. If I
-fail to get a scholarship or if I fail getting a decent score in GMAT,
-it would cost me a year in time. I can pick up my stuff and work
-towards 'DS for DW', hence an impact of 730 lives. Taking small risks
-now, seems like a good idea to better gauge what I am capable of. And
-taking risks without much severe consequence can lead to doing
-significant good. There is a 50% chance of getting a job at
+Explanation of the above table is as follows: Imagine this as a
+decision tree with each step branching into success and failure. At
+the success of one branch lies the beginning of the next
+branch. 'Success' column denotes the personal fit at each
+stage. '#lives if success' is nothing but the impact. 'EI: Success'
+and 'EI: Failure', are the effective values obtained at each node in
+the branch. For example, at the 'Make partner' step, I have 156 lives
+saved if success, and 613 lives effective saved in case of
+failure. This is obtained by
+
+	'EI: Success' =  Success x '#lives if Success'; 
+	'EI: Failure' = Failure x '#lives if failure';
+	Effective value  = 'EI: Success' + 'EI: Failure'
+	
+As we move up to the previous branch we have to take into account the
+effective value from the next step as a result of the decision
+tree. i.e.,
+		
+		'EI: Success' = Sucess (n) x Effective value (n+1) 
+		'EI: Failure' = Failure x '#lives if failure';
+	
+This is carried on till the top of the branch, i.e., 'GMAT', to sum
+obtain the Effective value as:
+
+	Effective value = 471+237 = 708 lives
+	
+One thing that needs explanation is the '#lives if failure' column.
+If I succeed all the way, then the impact I could create would be
+greater than 1250 lives over my lifetime. I think this is huge as
+compared to other profiles. I could fail at different points in the
+decision tree. If I fail to get a scholarship or if I fail getting a
+decent score in GMAT, it would cost me a year in time. I can pick up
+my stuff and work towards 'DS for DW', hence I use the
+Effective-Impact of 790 lives corresponding to 'DS for DW'. Taking
+small risks now, seems like a good idea to better gauge what I am
+capable of. And taking risks without much severe consequence can lead
+to doing significant good. There is a 50% chance of getting a job at
 Mckinsey. In case it doesn't work out then, it's not the end of the
 world. I think I can still get to 'DS for NL', or look at other
-consultancies or marketing etc... At this time I would be in a much
-better position to evaluate what is the best direction for me to go
-in. Let's say the impact in this case is 65% of taking one of the exit
-opportunities in MC (its an optimistic guess). After working 5 years
-if I realize that MC is not for me, I would take the exit
+consultancies or marketing etc... During this time I would be in a
+much better position to evaluate what is the best direction for me to
+go in once I failed to get into Mckinsey. Let's say the (failure)
+impact in this case is 65% of taking one of the exit opportunities in
+MC (its an optimistic guess). And that is '65% x 700'. After working 5
+years if I realize that MC is not for me, I would take the exit
 opportunities. The impact would then be 700 as calculated earlier for
 'ETG taking exit opportunities in MC'. And in the last case if I push
-further and still fail then I would still expect the impact to be 700
-or greater. Going further in MC should only further my impact. And the
-effective value of such a tree is 673 lives.
+further and still fail then I would expect the impact to still 700 or
+greater. And the effective value of such a tree is 708 lives.
 
 To boost my chances or to see if I am a fit for MC much earlier I
 could also try to get a job directly. A quick search on LinkedIn shows
 that many people have moved to consulting from engineering (without an
-MBA and also from my same university). These people are sometimes from the
-exact university I studied and with probably similar technical
+MBA and also from my same university). These people are sometimes from
+the exact university I studied and with probably similar technical
 knowledge as me. People from [applied physics](https://www.linkedin.com/in/borisnaar/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_top%3BRBPj%2FS4mQJuPekMFdt120Q%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_top-search_srp_result&lici=Zcn778IiTcKe573Tp9BzjA%3D%3D) and [offshore](https://www.linkedin.com/in/pascal-smulders-00a9b665/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_top%3BRBPj%2FS4mQJuPekMFdt120Q%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_top-search_srp_result&lici=H2eQm%2BpGT22%2FhseUYpUDLQ%3D%3D)
 who have done a wide variety of other things seem to have gotten in. A
 [very talented systems engineer](https://www.linkedin.com/in/jo-hoogslag-49abba83/) and a person from aerospace
 background from my university has gotten in. Most of the people I
-immediately find online are people who are from un-related departments
-only. But it feels like they have done some interesting things in
-their life. I can spend a few months and try this as well before
-starting anything. This way I could get some experience and see how I
-fare in consulting. If all goes well, use this to do an MBA in a top
-college and continue killing it.
+immediately find online are people who do not have a business
+background. But it feels like they have done some other interesting
+things in their life. I can spend a few months and try this as well
+before starting anything. This way I could get some experience and see
+how I fare in consulting. If all goes well, I could use the few years
+of experience to do an MBA in a top college and continue killing it.
 
-I feel at many times that I might not be suited for it, as it is for
-people who have been achieving all their life. I thought in the past,
-that I could never get a 9 in my grades. I got many in the second year
-of may masters. I never thought I was cut out for these things. I
-thought in the past that my first job would be a disaster because I
-knew nothing, I have been getting good evaluations until now. These
-might not look like big achievements, but all I want to say that I
-don't know my potential yet.
+I feel at many times that I might not be suited for Management
+Consulting in top firms, as it is for people who have been achieving
+all their life. I thought in the past, that I could never get a 9 in
+my grades. I got many in the second year of my masters. I thought in
+the past that my first job would be a disaster because I knew nothing,
+I have been getting very good performance evaluations until now. These
+might not look like big achievements to the average high-achiever, but
+all I want to say that I don't know my potential yet or atleast I am
+pretty bad at estimating my potential.
 
 >Early on you know relatively little about your strengths and
 >options. Once you’ve spent a few years learning more, you’ll be able
@@ -1465,43 +1462,45 @@ don't know my potential yet.
 >this exploration early, if possible, so you can use the lessons
 >later.
 
-80k-hours-guide suggests to try to explore careers before going to
-graduate school.
+> "You have been asking what you could do in the great events that are
+> now stirring, and have found that you could do nothing. But
+> that is because your suffering has caused you to phrase the
+> question in the wrong way... Instead of asking what you
+> could do, you ought to have been asking what needs to be
+> done."  —Steven Brust, The Paths of the Dead
 
->If it doesn’t go well, you can use the “graduate school reset”: do a
->Masters, MBA, law degree, or PhD, then return to the traditional
->path.
 
 <!-- Maybe this shit should go to the analysis -->
 
+
+
 ### MBA into IB/ Finance/ Trading/private equity 
 
-Based on the end appendix, I assume IB, Finance, Trading and PE all to
-be similarly build regarding all the parameters I am using to compare.
+I assume impact, CC and personal fit to be all the same for Investment
+Banking (IB), Trading and Private Equity (PE). All this will
+collectively be called Finance front office for now.
 
 <!--  to to find something about the end appendix -->
 
 **Skills**
 
-Sufficient Exit opportunities in IB/PE. One can go to consulting
-even. Skills in finance can apparently be earned within 6
-months. After that it is a mudane job. Skills are good enough to
-transfer jobs even to MC and likely many more exit opportunities
-occur. 8.5/10.
+Sufficient Exit opportunities exist in Finance. One can go to
+consulting even. Skills in finance can apparently be earned within 6
+months. Skills are good enough to transfer jobs even to MC and likely
+many more exit opportunities are available. 8.5/10.
 
 **Connections**
 
 Unlike MC, [Investment banking on the other hand](https://news.efinancialcareers.com/uk-en/152549/working-for-mckinsey-bain-and-boston-consulting-vs-goldman-jpm-and-morgan-stanley) is work in front
 of a PC most of the time and meeting clients does not happen very
-often especially within the first few years.
- 
- 6/10
+often especially within the first few years. 6/10.
  
 **Credentials**
 
-I think with MC/IB you will make good credentials. You are making
-crazy money, you have IB written on your resume. If you can move from
-IB to MC, then I conclude it has sufficient credentials. 8/10.
+I think you will make good credentials in the end always. You are
+making crazy money, you have IB/PE written on your resume. If you can
+move from IB to MC, then I conclude it has sufficient
+credentials. 8/10.
 
 **Runway**
 
@@ -1512,13 +1511,15 @@ runway as in DE or DS exists holds. 7/10.
 **Supportive conditions/Job Satisfaction**
 
 - Need to kiss ass
-- Need to [face time](https://thetab.com/2015/12/21/face-time-how-investment-banking-interns-are-trying-to-impress-their-bosses-66037)
+- Need to [face time](https://thetab.com/2015/12/21/face-time-how-investment-banking-interns-are-trying-to-impress-their-bosses-66037) in Investment Banking
 - long freaking hours 80-100hrs/week
-- No life what so ever but a lot of money
-- mundane work
+- No life what so ever but a shit load of money
+- Very mundane work
+- For every month you get only 2 days off while working in IB front
+  office in the top companies.
 - Loss in health?
 
-Need I go on?
+Need I go on! 
 
 **Personal fit**
 
@@ -1548,8 +1549,8 @@ Need I go on?
   
 - Earning to give once we leave industry after 5 years
 
-I don't see myself going on with IB, so for now I will assume the same
-personal fit as in MC. 11%.
+	I will assume the same percentage as in Management
+    Consulting. 18.9%. If required I will refine it later.
 
 **Impact**
 
@@ -1559,13 +1560,13 @@ According to [80k-hours-trading](https://80000hours.org/2017/05/how-much-do-hedg
 year, this they reach within 8 years. More senior you get, the more
 crazier it gets that Sr managers earn >10m$ "easily". Assuming average
 earnings of 800k over 30 years, it appears that one can save **3771**
-lives.
+lives with 50% donation.
 
 - Exit after 5 years to something else
 
 In 5 years we can save about 100-150 people and then cash in on the
-exit opportunities. Based on MC I guess the impact to be 700 lives. In
-total 800ish.
+exit opportunities. Say we exit into MC I guess the impact to be 700
+lives. In total 800ish.
 
 - Using skills earned to move to EAOs
 
@@ -1591,42 +1592,19 @@ So I am almost confident that I am not going into the likes of IB, so
 I don't see any point in evaluating this any further.
 
 
-### Programming, Machine learning PhD 
-
-Apparently, learning to program could also be a gateway to DS,
-Quantitative Finance, tech entrepreneurship, research and freelance
-development. Useful in a multitude of industries, highly
-transferable. But I am far from being a programmer. I still think DS
-is the first place to start, as it allows me to immediately move to
-the other industry and start gaining experience.
-	
-Also I am not sure how I will compete with all those programmers who
-have been programming since they were kids. So I need time and a lot
-of it. The same goes for Machine Learning PhD. So instead of staying
-in DE I will go to DS, which already has some programming. I will pick
-it up from there more about programming.
-
-<!--  I think I need to understand what it means to programm. i.e, -->
-<!--  what job I can do and what is the min. requirement to do that. -->
-
-These could result in being the most fulfilling careers, but that is
-not the only motive here. 
-
-So for now I will start with 
-
-But maybe then you decide to go into programming instead of DS..
-
-<!-- need to check this out instead -->
-
 ### Economics PhD
 
-In this profile we are going to see about three types of paths:
+In this profile we are going to review 2 types of paths under an
+Economics PhD. They are :
 
-- Taking academic jobs
-- Taking non-academic jobs with a rare chance at making large
-  impact
+1. Working in academia after Economics PhD
+2. Taking up non-academic jobs which involves a [rare chance at making
+  large impact](http://allegedwisdom.blogspot.com/2017/03/the-story-of-lucky-economist.html) (what this rare chance is, is explained later)
   
 **Why Econ PhD**
+
+80k-hours-career-guide recommends it as one of the best studies you
+can do, if you are a good fit for it.
 
 >You gain a broad set of tools for understanding how the social world
 >works, which is helpful for evaluating causes and interventions. This
@@ -1635,20 +1613,24 @@ In this profile we are going to see about three types of paths:
 >GiveDirectly (one of GiveWell’s top recommended charities), which was
 >founded by economics PhD students.
 
-In addition we get adovocacy position
-
-The ability to get a job is very high. Academic work seems to be very
-important cause of its impact. 
+Academic work also seems to be very important because of the impact it
+can have.  In addition we get to also perform advocacy. Apparently
+economics PhD's are taken quite seriously with their ideas and inputs.
 
 >Economics professors get a lot freedom to do research across a wide
 >range of topics and disciplines, which gives you great option value
 >for future research.
 
+And finally, the FCC seems to be quite good that you can go into any
+field related to statistics and critical thinking, such as Data
+Science, Management Consulting, Finance etc... with the odds of
+getting a job being quite high.
+
 **Skills**
 
 - Excellent job prospects
 
-Lowest unemployment rate amongst any science and engineering PhD's
+	Lowest unemployment rate amongst any science and engineering PhD's
 
 - Can go into wide variety of jobs after PhD (highly transferable)
  
@@ -1662,8 +1644,8 @@ Lowest unemployment rate amongst any science and engineering PhD's
 **Connections**
 
 Probably not much, but you get credentials which are very good which
-can allow you to get connections. No during a PhD I suppose. This gets
-a 6/10.
+can allow you to get connections (Not during a PhD I suppose). This gets
+a 6/10 rating.
 
 **Credentials**
 
@@ -1678,37 +1660,49 @@ A PhD in Economics by itself is a solid credential as people respect
 what you should be capable of to do such a PhD. A PhD in economics,
 gives you credentials for advocacy, in your job and blog life,[ as far
 as I have seen.](http://noahpinionblog.blogspot.com/2013/05/if-you-get-phd-get-economics-phd.html) It can thus be argued that you have a very
-important role in decision making as people value your insight into
+important role in aiding decision making as people value your insight into
 matters. This puts the credentials as 8/10.
 
 **Runway**
 
-It is what comes with a DE. But it is worth to consider the money I
-might have during an Econ PhD. The salary is around 15k$/year during
-an Econ PhD. But with jobs I think I can easily make >100k $. So we
-are at 5/10.
+
+The runway of DE holds for now. So it will take 2-3 years before I
+have 18 months worth of runway. But it is worth to consider the money
+I might have during an Economics PhD. The salary is around 15k$/year
+during an Economics PhD. And this is going to be the order of the day
+for 5-7 years after joining an Economics PhD. We can make >100k$ with
+jobs after an Economics PhD but that is going to be after 10 years
+from now, as I need time to prep before getting a PhD followed by 5-7
+years during the PhD. So we are at a rating of 5/10.
 
 **Supportive conditions/Job Satisfaction**
 
-Very solid safety net, except for during the PhD where there is less
-feedback and more anxiety. Either you become a tenure track academic,
-or a non-tenure track academic or go to a job in policy or consulting
-etc... The life of an Economics PhD can be intellectually satisfying.
+ Economics PhD provides a solid safety net regarding jobs, and is
+expected to lead to a very fulfilling, intellectually satisfying
+career, except for during the PhD where there is less feedback and
+more anxiety.
 
 The rating thus is 7/10.
 
+**Exit opportunities**
+
+Finishing the PhD badly or dropping out are still
+options to a future in MC or EAOs etc.. So not much to worry
+about.
+		
 **Personal fit** 
 
-Assuming we want to be able to get into academic positions, we see
-that the Top 10 universities are more respected with better placement
-at tenure track and has [less variance in results](https://drive.google.com/file/d/0B2NkhkJxVzqbTG1PZFNyMEN0bEU/view). Mentally
-extrapolating to top 20 from [ what might be necessary to get into top
-5](https://80000hours.org/2015/06/advice-on-entering-a-us-economics-phd-from-the-uk-with-a-non-quantitative-background/), it appears that top 20 might still be hard being from
-"non-quants background". Even for non-academic jobs, it is easy to get
-a job with a non-top 20 college, but the goal for us is to be the best
-we can, and not just take have good odds of getting a non-academic
-job. It appears to be important to atleast make it to the top 20
-colleges, the probabilities for which are as shown:
+Getting a PhD in the top 10 universities is going to be really hard
+and seems like it needs dedicated years of growth in that field before
+embarking on the PhD. The top 20 seems like it maybe achievable,
+considering that I got into the top 20 universities in engineering for
+my masters. Maybe with a few years of work in economics I can pull
+something similar. Assuming we need to get into the top 20
+universities, the probabilities are estimated below:
+
+Mentally extrapolating to top 20 from [ what might be
+necessary to get into top 5](https://80000hours.org/2015/06/advice-on-entering-a-us-economics-phd-from-the-uk-with-a-non-quantitative-background/), it appears that top 20 might still be
+hard being from "non-quants background".
 
 - Chances of getting 165+ in GRE quants (90%)
 
@@ -1717,30 +1711,31 @@ colleges, the probabilities for which are as shown:
 	from learning from very top Authors.
 
 - Chances of learning Economics enough to get into top 20 within 2
-  years? (70%)
+  years (70%)
 
 	>An economics major isn’t required but you need proven math ability
 	>and it helps to have taken mathematical economics classes.
 
-	I don't know anything about economics and need to see how I fare by
-	taking some courses. I can take some courses and see how I fare. I
-	think I can do better in math with practice and I am sure it would be
-	fun. Chances that I fare well (i.e., scoring>80/100) once I take a few
-	econ courses I guess is 70%
+	I don't know anything about economics and need to see how I fare
+	by taking some courses. I think I can do better in math with
+	practice and I am sure it would be fun. Chances that I fare well
+	(i.e., scoring>80%) once I take a few economics courses I guess is
+	70%.
 
 - Chances of a getting an Econ Phd within top 20 (other factors) (70%)
 
 	These factors would be things like, recommendation letters and
-	statement of purpose working to my favor.
+	statement of purpose working to my favor, and the like.
 
 - prepared to work for long hours (95%)
 
 	I have done it in the past. Currently, I clock about 11 hrs on 4
-	weekdays per week, and still manage to go to the gym. 80k-hours says
-	that I should be prepared to do 70+ hours a week (10 hrs a
-	day), atleast during the first year of studies according to
-	[econ-job-rumors-website](https://www.econjobrumors.com/topic/how-many-hours-do-you-work-at-various-phases-of-your-phd-studies/page/2). This is not a lot. And I don't see much
-	panic around for the work after the PhD. So this is good.
+	weekdays per week, and still manage to go to the gym. 80k-hours
+	says that I should be prepared to do 70+ hours a week (10 hrs a
+	day). I would need to do that atleast during the first year of
+	studies according to [econ-job-rumors-website](https://www.econjobrumors.com/topic/how-many-hours-do-you-work-at-various-phases-of-your-phd-studies/page/2). This is not a
+	lot. And I don't see much panic around for the work after the
+	PhD. So this is good.
 
 - Research roles interest (80%)
 
@@ -1748,14 +1743,11 @@ colleges, the probabilities for which are as shown:
 	>directed research? 
 
 	Can't say really. But I guess I would like intellectual
-	pursuits. Self-directed research should not be a problem I think. I am
-	here to create change. I would like the tools to do the research
-	required. And the passion for doing anything seems to be contained in
+	pursuits. Self-directed research should not be a problem I
+	think. And the passion for doing anything seems to be contained in
 	the equation of motivation. With good skills to understand how the
-	social world works, I suspect I should be able to squeeze the
-	necessary amount from the equation. Finishing the PhD badly or
-	dropping out are still options to a future in MC or EAOs etc.. So not
-	much to worry about.
+	social world works and better critical thinking, all of this should be
+	a breeze. 
 
 So the chance of completing decently an Econ Phd within top 20 is:
 33.5%
@@ -1767,7 +1759,7 @@ So the chance of completing decently an Econ Phd within top 20 is:
 
 	>the top 10 universities place nearly five times as many students
 	>to tenure-track positions at top 20 universities as those ranked 11
-	>through 20.- [Assessing placement economics](https://drive.google.com/file/d/0B2NkhkJxVzqbTG1PZFNyMEN0bEU/view)
+	>through 20. -[Assessing placement economics](https://drive.google.com/file/d/0B2NkhkJxVzqbTG1PZFNyMEN0bEU/view)
 	
 	Tenure tracks are those in which a professor is given a permanent
     contract. He can then carry out the research that he wants. Tenure
@@ -1778,7 +1770,7 @@ So the chance of completing decently an Econ Phd within top 20 is:
 	>bloggers, by the way—Tyler Cowen teaches at George Mason
 	>University (ranked 64th), Mark Thoma teaches at the University of
 	>Oregon (ranked 56th), and Scott Sumner teaches at Bentley, for
-	>example. - [Qz complete guide to Econ PhD](https://qz.com/116081/the-complete-guide-to-getting-into-an-economics-phd-program/)
+	>example. -[Qz complete guide to Econ PhD](https://qz.com/116081/the-complete-guide-to-getting-into-an-economics-phd-program/)
 	
 	It seems fine to work in non-top schools. 
 
@@ -1803,25 +1795,28 @@ So the chance of completing decently an Econ Phd within top 20 is:
 		
 		10% + 60%x80% = 58%
 	
-	So the total chance of pursuing a tenure track from now is 
+	So the total chance of pursuing a tenure track including getting
+    into the top 20 universities is 19%.
 	
 		33% x 58% = 19%
 	
 2. Non-academia jobs with rare chance of saving >400 lives
 
 	Success here is defined as getting into a government agency and
-	getting the [rare chance](http://allegedwisdom.blogspot.com/2017/03/the-story-of-lucky-economist.html) of making crazy impact (to be read as
-	400 lives over a lifetime by a particular act) in addition to
-	donations possible as a result of the job. Getting a government
-	agency should be easier than pursuing a tenure track, which puts
-	us at say roughly 60%. But being able to save an extra 400 lives
-	[comes rarely.](http://allegedwisdom.blogspot.com/2017/03/the-story-of-lucky-economist.html) I weigh this at 20%. Seems high based on what I
-	have read, but still. So the total chance of pursuing an agency
-	job with the rare chance is:
+	getting the [rare chance of making crazy impact](http://allegedwisdom.blogspot.com/2017/03/the-story-of-lucky-economist.html) (to be read as
+	saving 400 lives once by the rare action). In addition, donations
+	are possible as a result of the job, and also advocacy. Getting to
+	work at a government agency should be easier than pursuing a
+	tenure track, which puts us at say roughly 60%. But being able to
+	save an extra 400 lives [comes rarely.](http://allegedwisdom.blogspot.com/2017/03/the-story-of-lucky-economist.html) I weigh this at
+	20%. Seems high based on what I have read, but still. So the total
+	chance of pursuing an agency job with the rare chance, including
+	getting into the top 20 universities is:
 	
 		33% x 60% x 20% = 4%
 
 **Impact**
+
 1. Impact of being in academia
 	
     Looking at the career reviews by [80k-hours-guide](https://80000hours.org/career-reviews/), we see that
@@ -1829,47 +1824,55 @@ So the chance of completing decently an Econ Phd within top 20 is:
     working at an EAO it is rated as 5/5. It has been estimated that
     the impact of working in an EAO is 970 lives. Extrapolating based
     on the rating this would put the impact of being in academia as
-    ~582 lives.
+    ~582 lives. 
 
 2. Impact including the [rare chance](http://allegedwisdom.blogspot.com/2017/03/the-story-of-lucky-economist.html) would be
 
-	- impact of the rare chance 400 lives
+	- impact of the rare chance which is 400 lives
 	- impact due to advocacy 50 lives (pure guess) 
-	- impact due to a jobs paying greater than median acdemic salary of
-		108k Compounded at 4% with inflation of 2%, 20% donations and
-		10% hike every 5 years (243 people)
-	- Earning for a period of 30 years	
+	- impact due to a jobs paying greater than median acdemic salary
+		of 108k, compounded at 4%, with inflation of 2% on the cost of
+		a life (4k$), 20% donations and 10% hike every 5 years, for a
+		period of 30 years, results in 243 people.
 	- In total 750 lives
 
 
 **Personal fit x Impact**
 
-I think 80k hours vision is for people to take Econ PhD and either go
-into academia with a tenure track or go into agencies or EAOs. 
-
 - Econ PhD to tenure track
 
-The decision tree is as follows:
+Just as was done in the section on 'Management Consulting', the decision tree is as follows:
 
 {:.tablestyletwo}
 | Crossroad                        | Success | Other | #lives if success | #lives if other | EA: If success | EA: if failure |
 |                                  |         |       |                   |                 |                |                |
 |----------------------------------|---------|-------|-------------------|-----------------|----------------|----------------|
-| 165+ in GRE                      | 90.0%   | 10.0% | NA                | 730             | 492            | 73             |
-| Learning Eco. to get into top 20 | 70.0%   | 30.0% | NA                | 730             | 328            | 219            |
-| other factors for getting in phd | 70.0%   | 30.0% | NA                | 730             | 250            | 219            |
-| long hour working                | 95.0%   | 5.0%  | NA                | 0               | 357            | 0              |
-| research role interest           | 80.0%   | 20.0% | NA                | 0               | 375            | 0              |
-| Tenure track academia            | 58%     | 42.0% | 452               | 493             | 262            | 207            |
+| 165+ in GRE                      | 90.0%   | 10.0% | NA                | 790             | 545            | 79             |
+| Learning Eco. to get into top 20 | 70.0%   | 30.0% | NA                | 790             | 369            | 237            |
+| other factors for getting in phd | 70.0%   | 30.0% | NA                | 790             | 250            | 237            |
+| long hour working                | 95.0%   | 5.0%  | NA                | 0               | 414            | 0              |
+| research role interest           | 80.0%   | 20.0% | NA                | 0               | 436            | 0              |
+| Tenure track academia            | 58%     | 42.0% | 582               | 493             | 338            | 207            |
 
-Effective Value: 565 lives. 
+Effective Value: 624 lives. 
 
+The explanation of the '#lives if failure' column is as follows: Any
+crossroad until I don't embark on a PhD seems reversible, allowing me
+to take up a 'DS in NL' job if things fail. Thus the effective-impact
+of 790 is used for the first 3 crossroads. The next two do not have
+any failure options. The last crossroad shows a value of 493 lives
+which assumes that I go into Management Consulting as a result of not
+getting a tenure track job. The effective-impact results is
+493 after accounting for the number of years lost while doing a PhD
+and trying for Tenure.
 
 With this career path we are interested in going to the tenure
-track. But the Effective value is much more than the maximum impact
-with the tenure track. This is because the '#lives if other is
-significantly higher than what a tenure track can provide. If this is
-the case, then there is no point of pursuing this career.
+track. But the Effective value (624) is more than the maximum impact
+with the tenure track (582). This is because the '#lives if other' is
+higher than what a tenure track can provide. If this is the case, then
+there is not much point of pursuing this career, we'd rather pursue the
+other failure options directly? This is discussed further in the
+analysis section.
 
 - Econ PhD with rare chance working at government agency
 
@@ -1885,27 +1888,27 @@ the case, then there is no point of pursuing this career.
 
 Effective value is 541. 
 
-The rare chance can happen anytime after getting the agency job. So
-anytime within the next 40 years. In case we do not get the rare
-chance, then we have only the ETG to show, which would come to about
-350 for 33 years of working in economics waiting for that rare chance.
+The '#lives if other' column is derived similar to the previous table.
+The rare chance can happen anytime after getting the agency job. In
+case we do not get the rare chance, then we have only ETG and
+advocacy to show, which would come to about 350 lives for 33 years of
+working in economics waiting for that rare chance. We hence use 350
+lives in the last step for the '#lives if other' column.
 
-Although the rare chance path can lead to an impact of 750, it most of
+Although the rare chance path can lead to an impact of 750, in most of
 the cases we would get an impact of 350. Once we complete the PhD and
-get an agency job, we are left with an impact of:
+get an agency job, we see that the effective-impact is a meager 398 lives.
 
 	12% x 750 + 88% x 350 = 398
 	
-If this is the combined impact, then I am not sure I am expected to
-take this path, as there seems to already be better paths than an Econ PhD.
-
+More on the conclusion is talked about in the analysis section.
 
 ### Working at an effective Altruism organization 
 
 DS or research as an Analyst/content writer, is what I see myself
-starting with Effective Altruism Organizations. With time I hope to
+starting with in Effective Altruism Organizations. With time I hope to
 take up more senior roles or start other important organizations with
-a better understanding of what is needed.
+a better understanding of what is needed for this world. 
 
 **Skills**
 
@@ -1943,17 +1946,20 @@ within a year and --> <!-- if necessary we can go back to what we were
 doing all our life. -->
 
 For me it is scary when I think about taking it up right away, to
-abandon all the FCC I can get and immediately join an EAO. I give it a
-6.5/10, although there are the advantages of having a lot of autonomy
-in work, and the possibility to test fit for a wide range of roles.
+abandon all the FCC I can get and immediately join an EAO. Although
+there are the advantages of having a lot of autonomy in work, and the
+possibility to test fit for a wide range of roles, it doesn't seem
+like the first thing for me to do. I am afraid of the uncertainity, I
+would like to gain some FCC first. I give it a 6.5/10 considering my
+current scenario.
 
 **Connections**
 
-There is little doubt regarding the connections I could make when I
-want to be in the EA community [as exclaimed in this article by 80k
-](https://80000hours.org/career-reviews/working-at-effective-altruist-organisations/#how-good-is-the-career-capital) and [by the person who worked in GiveWell](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/). But my connections
-seem to only belong here and around here. They will help me find work
-within the EA community. 
+There is little doubt regarding the connections I could make when I am
+in the EA community [as exclaimed in this article by 80k ](https://80000hours.org/career-reviews/working-at-effective-altruist-organisations/#how-good-is-the-career-capital) and [by
+the person who worked in GiveWell](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/). But my connections seem to only
+belong here and around here. They will help me find work within the EA
+community for sure.
 
 >If you think the EA community will keep growing, then the value of
 >these connections just gets stronger over time.
@@ -1961,19 +1967,18 @@ within the EA community.
 80k-hours-guide already seems to mention this in a number of places,
 that there is a problem if the EA movement stagnates for some
 reason. I can't see why it would happen, but 80k-hours-guide mentions
-it a couple of times and this should be taken into account.
-
-But as I am looking for connections to improve my chances of success
-in EA, I give it a solid 7/10.
+it a couple of times and this should be taken into account. But as I
+am looking for connections to improve my chances of success in EA, I
+give it a solid 7/10.
 
 **Credentials**
 
-They are less prestigious than Google, Mckinsey or World bank, but
-nevertheless some of the organizations have terrific credentials like
-having gone through Y-combinator etc...
+Credentials here are less prestigious than Google, Mckinsey or World
+bank, but nevertheless some of the organizations have terrific
+credentials like having gone through Y-combinator etc...
 
-> Can get impressive achievements due to high levels of responsibility
-> Some impressive affiliations (Y Combinator, Oxford, Good Ventures)
+> Can get impressive achievements due to high levels of responsibility,
+> Some impressive affiliations (Y Combinator, Oxford, Good Ventures),
 > Less brand recognition
 
 The community is very much evidence based and as a result I wouldn't
@@ -1984,85 +1989,89 @@ more credentials to be earned. Sounds like an 7/10.
 
 **Runway**
 
-I think I can transition to this job say by doing an internship at one
-of the foundations. So this is could be sooner than I think. The
-current runway for DE will hold still as it will take me a couple of
-years to move to and EAO. 
-
-Once in an EAO, runway is even lower. Ability to save money for
-retirement is slow and low.
+ The current runway for DE will hold still as it will take me a couple
+of years to move to and EAO. Once in an EAO, runway accumalation takes
+even more time. Ability to save money for retirement becomes slow.
 
 >As with other startups, there is a risk of your organisation running
 >out of funding (though this hasn’t happened to any of the major
 >organisations), or substantially changing its strategy, meaning you
 >could lose your job.
 
-Without 18k maybe we should not go into this. 5/10
+As a result, without 18k$ in the bank for emergencies, we should not
+go into this. 5/10.
 
 **Personal Fit**
 
-I think I am not yet a personal fit for EAO, but I can quickly get up
-to speed with what they want and start working for them asap.
+I think I am not yet a fit for EAO, but I can quickly get up to speed
+with what they want and start working for them asap.
 
 - Ability to gain Experience (80%)
 
-> A track record of engaging with research in the community and making
-> productive contributions to it.
+	> A track record of engaging with research in the community and making
+	> productive contributions to it. -80k-hours-career-guide 
   
   I currently don't have any experience other than "blogging", and
   being a 10-percenter for over 1.5 years. But I can try doing other
-  things, like starting an EA org in my city or working for 80k-hours
-  or someone from home, producing some work for them and showing how
-  much I am worth. I could also apply for an internship of 2 months,
-  provided I get that time off. I mean what else is there to do in
-  life.
+  things, like starting an EA organization in my city or working for
+  80k-hours or someone from home, producing some work for them and
+  showing them in actions what I really am. I could also apply for an
+  internship of 2 months, provided I get that time off from work.
   
 - Relevant disciplines can be easily studied and skills built (85%)
 
-	I can work on what topics such as statistics, philosophy and
-    blogging from home to build myself to be work-ready for an EAO.
+	I have the time and so I can easily work on topics such as
+    statistics, philosophy and writing from home to make myself EAO-ready.
 
 - Care about EA (90%)
 
 	> They really care about effective altruism, and are happy to talk
-	> about it all day.
+	> about it all day. -80k-hours-career-guide 
 
-	What else is there to do in life?
+	What else is there to do in life? I think it would be ideal to be
+    in an EA environment and talk about it all the time. This would
+    result in some healthy [persuation](http://pradeep90.github.io/how-to-get-persuaded.html) for once.
 
 - Can you manage your time and be efficient and self-directed? (85%)
 
-	With more responsibility I will thrive. I thrive in new situations
-	and learn quickly and literally anything. I have demonstrated this
-	ability at my current company and my internship (according to the
-	feedback I have received. I am always looking for hard problems to
-	solve.
-
 	>They’re self-directed, able to manage their time well, they can
 	>create efficient and productive plans, and keep track of complex
-	>projects.
-
-	I am not sure how good I am, but I think I can manage a decent job
-	and will get better based on how important the job is to me I
-	guess. I am also very hardworking.
+	>projects. -80k-hours-career-guide 
+	
+	With more responsibility I will thrive. I thrive in new
+	situations, learn quickly and literally anything. I have
+	demonstrated this ability at my current company and my internship
+	(according to the feedback I have received). I am always looking
+	for hard and challenging problems to work on. So I think I can
+	manage a decent job and will get better based on how important the
+	job is to me I guess. I am also very hardworking.
 
 - Managing in case you loose your current job or the startup crashes
   (80%)
-
-	It is possible the EA movement as a whole loses it's momentum? If
-	I loose my job, atleast I am part of the community and would have
-	built some contacts.
-
-	If I loose my job right in the beginning, and can't find anything
-	tangible, then I can always go back to where I used to belong. If
-	I loose my job for whatever reason say after 5-10 years then it
-	appears I should have enough contacts in EA to pull me through
-	this. In any case it is better to invest in some FCC before I join
-	EAOs to handle all situations.
-
+  
+  >People sometimes worry that working at effective altruist
+  >organisations doesn’t lead to concrete foreseeable future career
+  >options. As we’ve argued above, you are likely to build skills and
+  >connections which mean you’ll have good opportunities in the
+  >future. -80k-hours-career-guide
+  
+    It is possible the EA movement as a whole loses it's
+	momentum. 10years into an EAO, if I lose my job I suppose the
+	connections I have will support me. In the worst case I might have
+	to go back to Netherlands, I can manage basic needs and will see
+	what I can do best from then on. I doubt it comes to the worst
+	case, but whatever happens I can manage my life. Yes the impact I
+	produce will be bad, but I will try my best to bounce off of it.
+	
+	If I loose my job right in the beginning or even after a few
+	years, and can't find anything tangible, then I can always go back
+	to what I used to do just before coming into the EAO. No contest!
+	
 	But it is scary, say you have to move to the US, and then you find
 	that you loose your job, yes it is scary. But that is with any
 	startup and sometime you got to take your chances, with a good
-	plan C.
+	plan C. I don't think there is a great chance of it happening, but
+	it can. 
 
 In total I would have 41.6% of personal fit right now.
 
@@ -2070,41 +2079,28 @@ In total I would have 41.6% of personal fit right now.
 
 - Looking at number of lives due to this direct work
 
-I assume working at an Effective EAO will allow me to save 970 lives
-as detailed in the appendix. or more.
+	Working at an Effective EAO will allow me to save 970 lives as
+explained in the section on 'DE for DW' and also in the appendix.
 
-Also...
+**Personal Fit x Impact**
 
-- Talent constrained vs funding constrained
-
-Many organizations are talents
-
+	rough-impact = 41.6% x 970 = 404 lives.
+	 
 **Exit options**
 
 >- Well positioned for senior positions in EA organizations
 
 >- Connections in EA community allow exits into wide range of sectors
 
-Perfect.
-
-Main point with any career is build your connections and create value.
-
-What about don't do direct work yet?
-
-**Satisfying conditions**
-
-I really hope. It's going to be EA 24*7? Let's see.
-
-8.0 is the guess.       
-
-
+Perfect. With any career we need to focus on building connections.
 
 ### Founding a startup
 
-There seems to be a lot of pointing towards learning to program and
-learning the business. I guess that any skill you learn is useful and
-anything you are very good at will put you in a better place to
-startup.
+People from all forms of life startup. Very few succeed. Here I
+consider startups in the level of Y-combinator. Generally it appears
+skills in programming, business, finance could get you with the skills
+that might help you in starting up. Succeeding is a whole another
+chapter.
 
 **Skills**
 
@@ -2120,36 +2116,35 @@ startup.
 **Connections**
 
 You will probably meet a ton of people in the community, possibly some
-influential people,depending on how good you are. If they will help me
-to find opportunities and spread ideas later, I guess there is a
+influential people, depending on how good you are. If they will help
+me to find opportunities and spread ideas later, I guess there is a
 decent chance. But beware of [some horror stories and the connections
 as a result](https://www.quora.com/What-are-some-startup-accelerator-and-incubator-horror-stories). I will just assign it to be less than MC. This is
 primarily due to uncertainty 7/10.
 
 **Credentials**
 
-Having gone quite far with a startup might already serve as reasonable
-credentials. So 8/10. But the chances of doing this are really low and
-that is captured by the personal fit and need not be accounted for
-here.
+In failure tolerant cultures, starting-up might already serve as
+reasonable credentials. So 8/10. But the chances of doing this are
+really low and that is captured by the personal fit and need not be
+accounted for here.
 
 **Runway**
 
 This career needs 18 months runway atleast. A lot of work needs to be
-done in your own time before you say become part of an incubator. My
-current job in DE will get me there in 2-3 years. Thus 6/10.
+done in your own time before you say become part of an
+incubator. Runway is quite crucial. My current job in DE will get me
+there in 2-3 years. Thus 6/10.
 
 
 **Supportive conditions/Job Satisfaction**
 
-I suspect there might be stress due to lack of funding, long hours are
-there here, but I barely see myself complaining. There is a high
-degree of autonomy and I have a personal stake in the situation. I
-should definitely try it out with some decent skill or always be on
-the lookout for some opportunities. I am not worried about it. I am
-sure it would be a great journey. 7/10.
-
-I am not worried about it though!
+I suspect there will be quite some stress, funding issues, long hours
+of work, but I barely see myself complaining. There is a high degree
+of autonomy and I have a personal stake in the situation. I should
+definitely try it out once I have some decent skill, a good idea or a
+good opening into one.  I should always be on the lookout for some
+opportunities. I am sure it would be a great journey. 7/10.
 
 **Personal**
 
@@ -2159,19 +2154,20 @@ I am not worried about it though!
 
  In order to estimate personal fit I will look at the chances. I
 assume success to be able to get into Y-combinator and come out as a
-successful business as:
+successful business:
 
 - Chance of having the vision to be a Y-combinator level startup and
 applying (5%)	
 
-This seems like a lot especially considering my current level of
+	This seems like a lot especially considering my current level of
 skills. But I do pick up things relatively fast, and can work long
 hours. For now, lets just role with that number.
 
-- chance of getting accepted in Y-combinator (2.5%)
+- Chance of getting accepted in Y-combinator (2.5% applications
+  accepted)
 - Chance of that startup succeeding (25% based on current
   [Ycombinator list](https://yclist.com/) of 11 years)
-- total of 0.03% (by multiplying everything)
+- Total of 0.03% (by multiplying everything)
 
 **Impact**
 
@@ -2191,25 +2187,26 @@ hours. For now, lets just role with that number.
 As it is quite hard to estimate or compute other impacts, we are just
 going to look at ETG.
 
-I estimate the impact of starting up in tech to be
+I estimate the impact of starting up in tech to be ~6k lives based on:
 	
 - Total donations per annum (50% of [2.5m$](https://80000hours.org/2014/05/how-much-do-y-combinator-founders-earn/#fn:5))
+- Increase in salary = 0% max per annum
 - cost of one life (4k$)
 - Inflation = 2% in cost of life 
 - Number of years of donation = 25
-- Increase in salary = 0% max per annum
-- Job change every 5 years with 0% increase
-- Total: ~6k lives
 
 **Personal fit x Impact**
 
-- Starting up as a means of ETG
+A decision tree of the above looks like:
 
+{:.tablestyletwo}
 | Crossroad             | Success | Failure | #lives if success | #lives if failure | EA: if success | EA: if other |
 |-----------------------|---------|---------|-------------------|-------------------|----------------|--------------|
 | y-combinator level    | 5.0%    | 95.0%   | NA                | 80%x35/40x700=613   | 23             | 466          |
 | Getting accepted by Y | 2.5%    | 97.5%   | NA                | 80%x30/40x700=525   | 44             | 410          |
 | Succeeding within Y   | 25.0%   | 75.0%   | 6,000             | 80%x25/8x700=438   | 1500           | 263          |
+
+<br>
 
 In this decision tree, we take into account the factors discussed in
 personal fit and the impact. The rest of the columns are self
@@ -2217,23 +2214,23 @@ explanatory except the '#lives if failure' column. In case of failure
 I assume that I can work similar to an MC job having taken the exit
 opportunities. MC with exit opportunities is expected to make an
 impact of 700 lives. I guess that with the CC of starting up, I can
-manage 80% of this impact. With every step it is expected that 5 years
-of our time is gone and so it is discounted off with a factor 'x/40',
+manage 80% of this impact.
+
+With every step in the decision tree it is expected that 5 years of
+our time is gone and so the impact is reduced with a factor 'x/40',
 where x stands for the number of years left to work. An effective
-impact of 488 is obtained. 
+impact of 488 is obtained.
 
 It looks like the startup scene is not for me for many reasons. I
 don't have any ideas now, I don't have very solid skills to
-leverage. Yes, I can learn in the job, but without idea or something
-to speak of, I feel I am nothing. It is very risky with personal fit
-absolutely not there. The effective impact is very low as well, and
-direct multiplying of the personal fit with the final impact is 2
-lives. I am not sure what type of CC I can get and use. In any case
-for now I will leave it at this and I will evaluate my options in a
-few years or every 6 months and see if there is any scope for starting
-up.
+leverage. It is very risky with personal fit absolutely not there. The
+effective impact is very low as well, and direct multiplying of the
+personal fit with the final impact is 2 lives. I am not sure what type
+of CC I can get and use. In any case for now I will leave it at this
+and I will evaluate my options in a few years or every 6 months and
+see if there is any scope for starting up.
 
-### software engineering
+### Software engineering for ETG 
 
 Main source:[ 80k-hours-career-guide](https://80000hours.org/career-reviews/software-engineering/)
 
@@ -2248,7 +2245,7 @@ developer.
 > bootcamps. A comprehensive guide to getting your first job is here.
 
 This profile focuses on software engineers employed by large
-technology companies,
+technology companies.
 
 **Skills**
 
@@ -2264,7 +2261,7 @@ entrepreneurship, research and freelance work.
    entrepreneurship or work with different organizations like in
    consulting. So skills are transferable and is usually a decent fit
    for earning to give, not so much direct work unless you find
-   something to do in your freetime that somehow improves this.
+   something to do in your freetime that creates a lot of impact.
 
 <!-- There is some scope for management level roles as you progress. Roles -->
 <!-- such as 'product manager'. Role where you guide the choices from a top -->
@@ -2284,11 +2281,11 @@ entrepreneurship, research and freelance work.
 **Credentials**
 
 Working at top-tier companies already gets you lot of prestige
-apparently comparable to working in finance or consulting. Assuming
-getting into top companies is only a matter of effort, I give it a
-close 7.5 as compared to MC.
+apparently comparable to working in finance or consulting. I also
+suspect programming assignments might typically have short product
+cycles, allowing for more credentials. I give it 7.5/10.
 
-**runway**
+**Runway**
 
 >Software engineering is a moderately well-paid career. Average US
 >earnings (including bonuses) for entry-level software engineers are
@@ -2298,8 +2295,9 @@ close 7.5 as compared to MC.
 >after a few years.
 
 US seems to be the place to be and further more silicon valley. Runway
-for now is still with DE. Once I get a job in real programming say in
-the US, runway shall never be a problem. 6/10.
+for now is still with DE as I can't move much before I collect some
+decent runway. Once I get a job in real programming say in the US,
+runway shall never be a problem. Therefore, 6/10.
 
 **Supporting conditions**
 
@@ -2326,52 +2324,52 @@ the US, runway shall never be a problem. 6/10.
 >than the growth rate for all occupations (11%).
 
 It should be easy as even humanities and science people have done it
-by their own. Demonstrating strong interest in programming will
-help.
+by their own. Demonstrating strong interest in programming seems to help.
 
+- Working in NL/Europe:
 
-Working in NL/Europe:
+	- Chance of getting into software company (within 1-2 years) (90%)
+	- Chance of learning the skills of being google worthy in Europe (85%)
+	- Chance of getting into top tech companies in Europe in 5 years
+(other factors) (80%)
+	- Total: 61.2%
 
-- Chance of getting into software company (within 1-2 years) (90%)
-- Chance of learning the skills of being google worthy in Europe (85%)
-- Chance of getting into top tech companies in Europe in 5 years
-  (other factors) (80%)
-- Total: 61.2%
+- Working in US:
 
-Working in US:
+	- All of the above chances: 61.2%
 
-- All of the above chances: 61.2%
+	- Chance of getting an L1 (65%)
 
-- Chance of getting an L1 (65%)
-
-We use the same chance as used earlier for getting an L1 visa transfer
-to the US.
+	We use the same chance as used earlier for getting an L1
+visa transfer to the US.
 
 **Impact**
 
 SE for DW: At the end of the day I don't expect to become a computer
 scientist in MIRI. I think this is very hard and for the brightest of
-minds who have been working on programming for ever, for people who
+minds who have been working on programming forever, for people who
 have been doing computer science for as long as they lived. I am only
-now starting and I suspect I am very far from getting close. And that
-is why I consider this profession as ETG and that's it. Also it
-doesn't seem to be building skills for direct working I
-think. Especially that of an analyst, or a management person. I could
-be a web developer and develop apps for EAO's, but I don't at this
-moment see this taking off in that direction.
+now starting and I suspect I am very far from getting close to any
+form of research. And that is why I consider this profession as ETG
+and that's it. Also it doesn't seem to be building skills for direct
+working I think. Especially that of an analyst, or a management
+person. I could be a web developer and develop apps for EAO's, but I
+don't at this moment see this taking off in that direction.
 
-Assuming I start with a salary of 120 k at google in the next 5 years.
+Assuming I start with a salary of 120 k at google in the next 5 years
+and
+
 - with an increase in salary of 4%
 - with an increase in salary of 2% after age, 50
-- inflation of 2%
-- cost of life at 4k$
 - every 5 year increase of 10%
+- cost of life at 4k$
+- inflation of 2%
 
-Can save about ~360 people. In addition I could work on some advocacy,
+One can save about ~360 people. In addition I could work on some advocacy,
 and direct work due to the available time. There is possibility to do
 more, by working remotely say from Thailand. Working lesser hours on
 work and on other side projects. This can ensure saving even more
-money.
+money and donating it.
 
 **Further readings**
 
@@ -2389,107 +2387,148 @@ One of the comments:
 >can solve some of these[ programming challenges](https://www.testdome.com/programming-tests), don't even bother
 >applying
 
-There is web development, app development and OS development
+There is web development, app development and OS development as well.
 
-<!-- also meet <\!-- suruta mudi! -\-> -->
+### Dubai
 
+Seems like a lucrative option especially for ETG. I have a few cousins
+who are in their early 40s. These people were ordinary people in my
+home town, with a bachelors and having a normal job. All three of them
+went to Dubai one by one and got jobs. All three of them own BMWs
+now. They have multiple houses worth 200k$ in India (This is quite a
+lot for a house in India). They lead luxurious lives, none of their
+wives work and they have exotic holidays. My dad was exclaiming
+recently that one of them went to US for 1 week with his family for
+18k$. That is sheer luxury spending or in other words someone who can
+clearly ETG and more. Dubai seems to be a money milking country. I
+should definitely give it a try at some point if things don't work
+out. I would most certainly like to estimate how much my earning
+potential would be.
 
-### Startup employee (to be archived)
+One of the cousins was a mechanical engineer. The other two are in
+insurance and banking. The one thing that is not nice with Dubai, is
+that we could loose our job in an instant, there is not much security
+about that. All work and contacts developed as a result might go
+waste. Might!
 
-I guess I need to split it as an additional contribution.
+**Entry opportunities**
 
-We expect lower impact, risk and personal demands than a co-founder, 
+ Dubai market is mainly based on projects. Dubai is trying to be a
+ trading hub. They want to have a large influx of people into and out
+ of Dubai continuously! There is no R&D, there is no
+ manufacturing. Things like sales, marketing, management, banking,
+ finance, seem to be relevant here. Sectors like Automotive,
+ construction, marine, aviation, banking, insurance, can be targeted
+ here.
+ 
+ Some examples of entry opportunities I have heard of:
+ 
+ - 'site-engineer' for construction, infrastructure, marine projects.
+	 
+	 Start with the lowest salary of 48k AED and slowly jump to
+ different and more meaningful roles over time with good salary
+ jumps. Within 6 years my classmate jumped to a salary of 300k AED
+ (81k$). An average jump of 35% each year.
 
->If you get the opportunity to join a startup that’s taking off, you
->may have greater earnings and impact by joining it than founding your
->own e.g. the 100th employee of Dropbox still made about $10m,
->equivalent to a 10% stake in a $100m company. -
->[Startup-employee-80000-hrs](https://80000hours.org/career-reviews/startup-early-employee/)
+- Heat load mechanical engineer or similar, to sales
 
-The situation we envision and work out odds for is that, we join at
-the beginning of a taking off startup and we are say 50-100 employees
-into a big ass startup.
+	My cousin who went to Dubai as a mechanical engineer, moved into the
+ sales space and is now general manager of a group. This guy probably
+ earns ~650k AED, 13 years of being in dubai, having started at a
+ salary of 48k AED. This implies an average jump of 22% over 13 years.
+ 
+- Insurance
+ 
+	 Another cousin of mine made it into insurance after a mere Master in
+ Commerce and a lot of hardwork. He is in Dubai for ~18 years. He also
+ started out with 48k AED and moved on to 750k in the span of 18
+ years. This is about 16% increase on average for 18 years.
+  
+- Banking
+ 
+	 Another cousin who had been in Dubai for 10 years was earning
+ 450k. He managed himself into this field with an electronics
+ background. Roughly 25% jump every year for 10 years.
+ 
+- MBA to consulting or management type of roles
+ 
+	 It seems to look like a better idea to gain some experience and
+ then come to Dubai to find suitable roles. In the worst case you
+ can go back to the country where you came from in case Dubai
+ decides to fuck you up. Based on discussions with people in Dubai, I have come to an estimate
+ of 400-450k AED if I move to Dubai after an MBA, assuming I killed it
+ in my MBA as well as the job I take up after that.
 
-I keep the values for this quite rough. To me this appears as an
-option in addition to something I choose. When I am at the position of
-applying for jobs, that is when I should evaluate how important it
-is.
+- Design Engineering
 
-**Skills**
+	Highly unlikely to be in any sort of technical level work. Haven't
+    seen any evidence that suggests that engineers at all are
+    important and that they can earn as reasonably as people in
+    management.
+	
+For me it appears that I should pursue the MBA track, gain some
+experience and then come here. I don't want to put my precious years
+gambling and surviving in Dubai, rather I want to be earning FCC.
 
-Depends on startup and the things you do, for example, DE, or DS or
-management etc... Lets give it an 8, assuming that if you are one of
-the first 50-100 employees you are probably given a lot of
-responsibility and somehow the skills and knowledge become
-transferable.
+**Exit opportunities**
 
-8/10.
+I have not much idea about exit opportunities. I have seen cases of
+people who are fired and don't have jobs as a result. And so my plan
+would be to finish MBA here, work in consulting and then after a few
+years try Dubai. This way if shit hits the roof, I might atleast have
+my citizenship, which will allow me a fall back option into
+Netherlands. I suppose in the worst case I could make atleast half
+the impact of a successful career in Dubai.
 
-**Connections**
+**Impact**
 
-Depending on the job and whom we have to interact with we might have
-much larger set of connections.
+As exclaimed earlier I think the best way right now is with an MBA and
+some consulting experience. This means by the age of 35 I could be in
+Dubai in some management position. A retirement age of 60-65 is
+considered here unlike the age of 70 in other countries, as I do not
+expect the current retirement age to grow in Dubai, as their economy
+does not need people to work long. This leaves us with the number of
+lives saved between 530 and 730 lives. This is based on:
 
-Whether these connections will get you somewhere? depends and for the
-uncertainty, it gets 6.
-
-**Credentials**
-
-It is very uncertain and depends on the field of choice. I say this
-because the Credentials I have evaluated are different based on the
-fields chosen.
-
-Usually though if it is a high impact startup then you probably have
-better credentials. I think this is tough to evaluate. I give it a
-value of 7, sort of like an average of the fields I have seen until now.
-
-**Runway**
-
-Will be lower than a normal job in the beginning. 6.0 in the beginning
-I guess.
+- working for another 25 years from from the age of 35
+- starting at 400k AED (108k$)
+- with growth of 10% per year until I am 55
+- followed by a growth of 2% per year until I am 60
+- using max. age for working as 60
+- 25% donation (based on 15% for retirement and 50% expenditure)
+- and 2% inflation on the price of a life that currently costs 4k$
 
 
 **Personal fit**
 
-As said earlier I will evaluate this further in the coming days when I
-am in the lookout say for a job.
+All the chances of doing an MBA, apply here and in addition we have
+the chance of losing job in dubai which I estimate at 20%, i.e., 80%
+of keeping the job in Dubai. Therefore we have:
 
-I am already working in a startup. When talking about how successful I
-will be? 
+- Clearing GMAT (70%)
+- getting scholarship (60%)
+- join Mckinsey (50%)
+- getting job in Dubai with 3+ years of consulting exp (75%)
+- Not loosing said job until 60 (75%)
 
-Unfortunately the odds are that of how successful any startup would be
-or how a startup would grow to be the next Airbnb etc... We will use
-the same numbers as in `Founding a startup section`.
+**Personal fit x Impact**
 
-0.03%. The personal fit is ofcourse only for the extra contribution.
+We make a decision tree and compute the effective value of pursuing
+such a career in Dubai.
 
-**Impact**
+{:.tablestyletwo}
 
-Impact in a startup is estimated at 8k lives. 
+| Crossroad                | Success | Other | # lives:Succes | # lives: failure | EI: Success | EI: failure |
+|                          |         |       |                |                  |             |             |
+|--------------------------|---------|-------|----------------|------------------|-------------|-------------|
+| GMAT                     | 70.0%   | 30.0% | NA             | 730              | 437         | 219         |
+| Scholarship              | 60.0%   | 40.0% | NA             | 730              | 332         | 292         |
+| McKinsey                 | 50.0%   | 50.0% | NA             | 65%x700          | 326         | 228         |
+| getting job in dubai     | 75.0%   | 25.0% | NA             | 700              | 476         | 175         |
+| not loosing job in dubai | 75.0%   | 25.0% | 730            | 350              | 548         | 88          |
 
->Instead of receiving about 20% of the company’s equity, as a founder
->would, you’ll receive 0.1% – 1% depending on your role and how early
->you join, and you’ll receive more of your compensation as salary
->rather than equity. - [80k-hours startup employee](https://80000hours.org/career-reviews/startup-early-employee/)
 
-So the resulting impact is expected to be, lets say 0.5% of 8k = 40
-in addition to the impact a normal engineer would have over his
-lifetime, which is about 200-300 lives.
-
-Of course there are other ways of increasing the number of lives
-saved, but these could just well be our conservative estimates.
-
-**Supporting conditions**
-
-It cannot be as intense as it is for the co-founder. This is pretty
-much the impression I get. Trainings and learnings from experienced
-people might not really be present here. 
-
-It would be a lot of responsibility. Might have good autonomy and
-decent working hours. It will certainly fit with the rest of my life
-relationships etc..
-
-8/10.
+This produces an effective value of 655.
 
 ### Other interesting options
 
@@ -2509,15 +2548,16 @@ further. With most paths like MC, DS, I don't want to begin at a
 startup as I don't have much to offer, i.e., experience. 
 
 In startups we typically don't get senior mentorship, training and the
-like. If it is really small say 10-15 people then you are expected to
-perform by yourself with very little help from others as they might
-not know much. When things get technical, I would rely on experience,
-regarding softskills I think I can pick it up on the job. 
-
-We get a lot of autonomy and responsibility in startups. Its nice for
-soft skills but not really for hard skills especially when you are
-developing it from scratch, I think. I will evaluate possibilities of
-going into startup with each career.
+like. If it is really small say with 10-15 people, then you are
+expected to perform by yourself with very little help from others, as
+they might not know much. When things get technical, knowledge seems
+to only come to a point, experience seems to take you
+further. Regarding softskills I think I can pick it up on any job.  No
+problem! But core skills, I think I can better pick it up at a place
+with senior mentorship. Although we get a lot of autonomy and
+responsibility in startups, its nice for soft skills but not really
+for core skills especially when you are developing it from scratch. I
+will evaluate possibilities of going into startup with each career.
 
 **Finance + DS**
 
@@ -2530,54 +2570,17 @@ I choose the path and start looking for jobs.
 
 **Finance + SE**
 
-Same as DS. I will look into this when the time is right.
-
-**Dubai**
-
-Seems like a lucrative option especially for ETG. I have a few cousins
-who are in their early 40s. These people were ordinary people in my
-home town, with a bachelors and having a normal job. All three of them
-went to Dubai one by one and got jobs. All three of them own BMWs
-now. They have houses worth 200k $ in India (This is quite a lot for a
-house in India). They lead luxurious lives, none of their wives work
-and they have exotic holidays. My dad was exclaiming recently that one
-of them went to US for 1 week with his family for 18k$. That is sheer
-luxury spending or in other words someone who can clearly ETG and
-more.
-
-Long time back they reached this state of luxury. Dubai seems to be a
-money milking country. I should definitely give it a try at some point
-if things don't work out. I would most certainly like to estimate how
-much my earning potential would be. 
-
-One of the cousins was a mechanical engineer. The other two are in
-insurance etc...
-
-The one thing that is not nice with Dubai, is that we could loose our
-job in an instant, there is not much security about that. All contacts
-developed as a result might go waste. 
-
-<!-- talk to kailash and what he is doin in dubai, how much he earns -->
-
-<!-- talk to guy who said money printing -->
-
-One way I see myself go there, is to finish an MBA, work for a few
-years and then try Dubai. But first I want my citizenship in
-Netherlands.
-
-<!--  need to estimate potential earnings -->
-
-possible routes, mech --> sales --> dubai or mech to mba to dubai
-
-
+Same as 'Finance + DS'. I will look into this when the time is right.
 
 **Party politics, Policy**
 
 All this as far as I have seen require a US citizenship or UK
-citizenship. Not sure how to see myself there. This seems quite far
-fetched. Of course doing something related to policy could be possible
-through an MBA or an Econ Phd. By the looks of it Econ PhD is quite
-far fetched. 
+citizenship. Not sure how to see myself there. As a result seems quite
+far-fetched. There is not really a review of impact that could be done
+in 3rd world countries based on Policy and I didn't dive into it
+either. Of course doing something related to policy could be possible
+through an MBA or an Econ Phd. But for now it doesn't seem to be
+something in my path.
 
 **Think Tanks**
 
@@ -2585,263 +2588,108 @@ far fetched.
 > potentially your entire career, without successfully influencing
 > government policy. - [80k-career-guide](https://80000hours.org/career-reviews/think-tank-research/#get-free-one-on-one-career-advice)
 
-So demotivating to hear this regarding think tanks. Am not sure as a
+So demotivating to hear the above regarding think tanks. Am not sure as a
 result, if this would be the right career. I will first gain some FCC
 and then see how I can go about it. So for now this is not for me. As
 a pointer I want to say that what they require is very similar to an
 anayst or researcher in one of the EAOs. *Should be much easier to
 apply for coaching in this case.*
 
+Some requirements are:
+
 >Either good quantitative research or writing skills depending on the
 >role; ability to synthesize and clearly communicate your and other
 >people’s research; personal interest in some area of government
 >policy. - [80k-career-guide](https://80000hours.org/career-reviews/think-tank-research/#get-free-one-on-one-career-advice)
 
-
-<!-- Maybe it helps to see 'what type of important problems are
-there', --> <!-- 'look at what type of qualifications those problems
-need' -->
-
-
-<!-- Look at jobs that you could take up in EAOs and what they need -->
-<!-- -->
-
-
-### Dubai
-
-
-**Dubai**
-
-Seems like a lucrative option especially for ETG. I have a few cousins
-who are in their early 40s. These people were ordinary people in my
-home town, with a bachelors and having a normal job. All three of them
-went to Dubai one by one and got jobs. All three of them own BMWs
-now. They have houses worth 200k $ in India (This is quite a lot for a
-house in India). They lead luxurious lives, none of their wives work
-and they have exotic holidays. My dad was exclaiming recently that one
-of them went to US for 1 week with his family for 18k$. That is sheer
-luxury spending or in other words someone who can clearly ETG and
-more.
-
-Long time back they reached this state of luxury. Dubai seems to be a
-money milking country. I should definitely give it a try at some point
-if things don't work out. I would most certainly like to estimate how
-much my earning potential would be. 
-
-One of the cousins was a mechanical engineer. The other two are in
-insurance etc...
-
-The one thing that is not nice with Dubai, is that we could loose our
-job in an instant, there is not much security about that. All contacts
-developed as a result might go waste. 
-
-<!-- talk to kailash and what he is doin in dubai, how much he earns -->
-
-<!-- talk to guy who said money printing -->
-
-One way I see myself go there, is to finish an MBA, work for a few
-years and then try Dubai. But first I want my citizenship in
-Netherlands.
-
-<!--  need to estimate potential earnings -->
-
-possible routes, mech --> sales --> dubai or mech to mba to dubai
-
-**Discussion with friend in mechanical from same university**
-
-**Entry opportunities**
-
- Dubai market is mainly based on projects. Dubai is trying to be a
- trading hub. They want to have a large influx of people into and out
- of Dubai continuously! There is no R&D, there is no
- manufacturing. Things like sales, marketing, management, banking,
- finance, seem to be relevant here. Sectors like Automotive,
- construction, marine, aviation, banking, insurance, can be targeted
- here.
- 
- Some examples of entry opportunities I have heard of:
- 
- - 'site-engineer' for construction, infrastructure, marine projects.
-	 
- Start with the lowest salary of 48k AED and slowly jump to
- different and more meaningful roles over time with good salary
- jumps. Within 6 years my classmate jumped to a salary of 300k AED. An
- average jump of 35% each year.
-
-- Heat load mechanical engineer or similar to sales
-
- My cousin who went to Dubai as a mechanical engineer, moved into the
- sales space and is now general manager of a group. This guy probably
- earns ~650k AED over 13 years of being in dubai, having started at a
- salary of 48k AED. This implies an average jump of 22% over 13 years.
- 
-- Insurance
- 
- Another cousin of mine made it into insurance after a mere Master in
- commerce and a lot of hardwork. He is in Dubai for ~18 years. He also
- started out with 48k AED and moved on to 750k in the span of 18
- years. This is about 16% increase on average for 18 years.
-  
-- Banking
- 
- Another cousin who had been in Dubai for 10 years was earning
- 450k. He managed himself into this field with an electronics
- background. Roughly 25% jump every year for 10 years.
- 
-- MBA --> consulting or management type of roles
- 
- It seems to look like a better idea to gain some experience and
- then come to Dubai to find suitable roles. In the worst case you
- can go back to the country where you came from in case Dubai
- decides to fuck you up. 
- 
- Based on discussions with people in Dubai, I have come to an estimate
- of 400-450k AED if I move to Dubai after an MBA, assuming I killed it
- in my MBA and the job I take up after that.
-
-- Design Engineering
-
-	Highly unlikely to be in any sort of technical level work. Haven't
-    seen any evidence that suggests that engineers at all are
-    important and that they can earn as reasonably as people in
-    management.
-	
-For me it appears that I should pursue the MBA track, gain some
-experience and then come here. I don't want to put my precious years
-gambling and surviving in Dubai, rather I want to be earning FCC.
-	
-**Exit opportunities**
-
-I have not much idea about this. I have seen cases of people who are
-fired and don't have jobs as a result. With an MBA and doing a lot of
-hardwork, I suppose in the worst case I could make atleast half the
-impact of a successful career in Dubai. It looks like I will be
-obtaining my citizenship in holland in a few years, so my fall back
-option would be to come back here and see how I can fare. 
-
-**Impact**
-
-I think the best way right now is with an MBA and some consulting
-experience. This means by the age of 35 I could be in Dubai in some
-management position. A retirement age of 60-65 is considered here
-unlike in other countries as I do not expect the current retirement
-age to grow in Dubai, as their economy does not need people to work
-long. This leaves us with the number of lives saved between 530 and
-730 lives.
-
-
-- working for another 25 years from 35
-- starting at 400k AED (108k$)
-- with growth of 10% per year until I am 55
-- followed by a growth of 2% per year until I am 60
-- using max. age for working as 60
-- 25% donation (having already budgeted 15% for retirement)
-- and 2% inflation on the price of a life
-
-
-**Personal fit**
-
-All the chances of doing an MBA, apply here and in addition we have
-the chance of losing job in dubai which I estimate at 20%, i.e., 80%
-of keeping the job in Dubai.
-
-- Clearing GMAT (70%)
-- getting scholarship (60%)
-- join Mckensey (50%)
-- getting job in Dubai with 3+ years of consulting exp (75%)
-- Not loosing said job until 60 (75%)
-
-**Personal fit x Impact**
-
-We make a decision tree and compute the effective value of pursuing
-such a career in Dubai.
-
-| Crossroad                | Success | Other | # lives:Succes | # lives: failure | EI: Success | EI: failure |
-|                          |         |       |                |                  |             |             |
-|--------------------------|---------|-------|----------------|------------------|-------------|-------------|
-| GMAT                     | 70.0%   | 30.0% | NA             | 730              | 437         | 219         |
-| Scholarship              | 60.0%   | 40.0% | NA             | 730              | 332         | 292         |
-| McKinsey                 | 50.0%   | 50.0% | NA             | 65%x700          | 326         | 228         |
-| getting job in dubai     | 75.0%   | 25.0% | NA             | 700              | 476         | 175         |
-| not loosing job in dubai | 75.0%   | 25.0% | 730            | 350              | 548         | 88          |
-
-
-This produces an effective value of 655.
+For now not on my radar, I will get back with another review in a few
+months, especially due to the seeming lack of large impact.
 
 ## Analysis
 
-I have created an excel sheet pooling in all the data computed
+An excel sheet has been created pooling in all the data computed
 above. Two main parameters (CC and impact) and more than a dozen
 career options to choose from. Such data is also available within the
-80k-hours-career-guide, but that does not allow as much comparison as
-needed. For example, I don't care if I ETG or do DW. I care about IT,
-i.e., number of lives saved. So I want to be able to get data on total
-impact and not individual impact of direct work or ETG or advocacy, as
-is available on 80k-hours-guide. In addition to the above, I have made
-subdivisions in many career options for which 80k hours does not have
-the data I need. For example, MC is split into `MC for ETG` and `MC
-for DW`. This allows me to see which career direction has what type of
-impact.
-
-
+80k-hours-career-guide, but that does not allow as much detail in
+comparison. For example, I don't care if I ETG or do DW. I care about
+Impact (IT), i.e., number of lives saved. So I want to be able to get
+data on total impact and not individual impact of direct work or ETG
+or advocacy, as is available on 80k-hours-guide. In addition to the
+above, I have made subdivisions in many career options for which 80k
+hours does not have the data I need. For example, MC is split into `MC
+for ETG` and `MC for DW`. This allows me to see which career direction
+has what type of impact.
 
 <!--  Lets do the CC and IT comparison later, first lets eliminate te -->
 <!--  obvious based on these 2 parameters. -->
 
-
-
-Next we need to be in a position to compare CC and IT. How much CC is
-equivalent to how much IT. For this we assume CC of MC (5 star rating
-for CC in the 80k-hours-guide) is equal to IT of working in an EAO
-(which also has a 5 star rating for impact). This output as a result
-shall just be a guideline for us to remove the most obvious.
-
-We group CC and IT by suggesting that CC of MC and IT of
-EAO is the same. 
+In an attempt to get a total value we need to be in a position to
+compare CC and IT. How much CC is equivalent to how much IT. For this
+we assume CC of MC (5 star rating for CC in the 80k-hours-guide) is
+equal to IT of working in an EAO (which also has a 5 star rating for
+impact). This output as a result shall just be a guideline for us to
+remove the most obvious paths that don't work for me.
 
 <!-- sanity check still not written -->
 
 ### Elimination of the obvious
 
+<!-- Write order of which sucks where? CC Impact support conditions -->
 Support conditions wise IB seems like a reject. I am quite afraid of
 the extremely long hours, the need to facetime, the lack of attention
 to health etc... I might be able to do it for a few years, but not for
-long. IB doesn't make sense if it is not going to be done for the next
+long. IB doesn't make sense unless it is going to be done for the next
 10-15 years as it is all about ETG. I'd rather try to get into
-MC.
+MC. Management Consulting > IB.
 
 CC wise, DE appears to give little or no support to the career
 ambitions I have, which is to go into EAO's in management positions or
-analyst roles. DS seems like a clear winner when compared to DE.
+analyst roles. DS seems like a clear winner when compared to DE where
+in it does more than DE and aides in going towards DW. Data Science >
+DE.
 
 Although Starting-up has unbelievable potential for impact, and pretty
 good career capital, it still sucks as an option because of the very
-poor personal fit. In any case starting-up - in case there you forsee
-great potential- must be evaluated with other options
-then. Starting-up is not for me NOW, that's it.
+poor personal fit. In case great potential is forseen in some startup
+idea or there is an option to join a startup, an evaluation of current
+options must be done then. Starting-up is not for me now. 
 
-Getting a top econ PhD is hard and costs a lot of time. The `Econ PhD
-with the rare chance` is definitely not an option due to how rarely we
-get an option to actually make a difference. The `Econ PhD not
-including the rare chance` currently assumes an impact based on `MC`,
-as I am not sure how to maximize Impact if not with MC. I am not sure
-it is worth the effort of Econ PhD to in the end do MC. In cases of
-Econ. PhD or MC I need to prep for a few years to get into good
-programs. Econ PhD seems much more far-fetched than making it to an
-MBA program even with scholarship given that I have time to prep for
-it. CC wise and IT wise MC trumps Econ. Phd as well going with our
-intuition. But then I do not really understand why 80k hours suggests
-people to do an Econ PhD. But they do rate the direct work potential
-with a 3/5.
+An Economics PhD shall be done for either getting into academia or
+getting into places like government institutions where[ you might
+rarely get a chance to change many many lives](http://allegedwisdom.blogspot.com/2017/03/the-story-of-lucky-economist.html). In case we don't
+make it to these we could always go into Management Consulting. The
+chances of getting into academia or government institutions are slim
+considering overall personal fit. In addition to this estimated impact
+is lesser than that which is expected by doing an Management
+Consulting. Essentially it appears as though there are two options to
+go into Management Consulting, one with an Econ. PhD and the other
+with an MBA. Both ways require time for prep, and much more in the
+case of Econ. PhD. As a result, I consider it far-fetched and almost
+pointless to go in that direction, when there are other directions
+allowing better impact and possibly almost similar CC.
 
 `Working in an EAO` right now does not seem like a good
 option. The 80k-hours-career-guide suggests to work elsewhere where we
 can gain senior mentorship and training, before coming into an
-EAO. Gain quite some CC to be able to do a wide variety of things.
+EAO. 
 
 <!-- All I need is info above to support this one sub-section, i.e., I
 --> <!-- just need a briefing of all careers and make separate posts
 for --> <!-- each career.-->
+
+I am not going to be working in Dubai now as I am not sure I want to
+start at a low level and gain CC in a way by serving Dubais existing
+market. The failure scenarios or the exit opportunities do not seem to
+be very lucrative. I want to first focus on gaining solid FCC and then
+slowly look at my options for branching out. I think I can better go
+there with some special skill and experience, like after an MBA and
+some consulting experience.
+
+Based on if I take Data Science or Software Engineering, accompanying
+them with Finance looks like a nice way to pursue FCC. Think Tanks or
+getting into Policy look quite far-fetched. I don't know where to
+begin and even then the likelihood of spending your whole career in it
+and not influencing any policy, seems high.
 
 ### Data Science vs Software Engineering
 
@@ -2908,7 +2756,41 @@ Final table trading off:
 
 Most of the featured profiles in the 80k-hours-career-guide have no
 MBAs
-	
+
+
+**Copied from management consulting**
+
+I feel at many times that I might not be suited for Management
+Consulting in top firms, as it is for people who have been achieving
+all their life. I thought in the past, that I could never get a 9 in
+my grades. I got many in the second year of my masters. I thought in
+the past that my first job would be a disaster because I knew nothing,
+I have been getting very good performance evaluations until now. These
+might not look like big achievements, but all I want to say that I
+don't know my potential yet or atleast I am pretty bad at estimating
+my potential.
+
+>Early on you know relatively little about your strengths and
+>options. Once you’ve spent a few years learning more, you’ll be able
+>to make better decisions over the coming decades. It’s better to do
+>this exploration early, if possible, so you can use the lessons
+>later.
+
+> "You have been asking what you could do in the great events that are
+> now stirring, and have found that you could do nothing. But
+> that is because your suffering has caused you to phrase the
+> question in the wrong way... Instead of asking what you
+> could do, you ought to have been asking what needs to be
+> done."  —Steven Brust, The Paths of the Dead
+
+
+80k-hours-guide suggests to try to explore careers before going to
+graduate school.
+
+>If it doesn’t go well, you can use the “graduate school reset”: do a
+>Masters, MBA, law degree, or PhD, then return to the traditional
+>path.
+
 #### Can Management Consulting help in DW
 
 I am not sure... as ram says if you want to go into acad positions,
