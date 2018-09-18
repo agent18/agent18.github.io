@@ -782,6 +782,10 @@ Came back with 56% charge and no sleep. Also used to mildly charge my
 phone and tablet!
 
 ### Test is thus complete!
+### Sep 18 computer restarted upon opening :(  **NOK**
+
+Fuck ACER!
+
 ## Appendix example
   
   

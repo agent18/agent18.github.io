@@ -1376,7 +1376,7 @@ below:
 | Scholarship           | 60.0%   | 40.0% | NA                | 790               | 357         | 316         |
 | McKinsey              | 50.0%   | 50.0% | NA                | 65%x700           | 368         | 228         |
 | 5+ yrs & 60+ hrs/week | 51.0%   | 49.0% | NA                | 700               | 392         | 343         |
-| Make partner          | 12.5%   | 87.5% | 1,250             | 700               | 156         | 613         |
+| Make partner          | 12.5%   | 87.5% | 1,050             | 700               | 156         | 613         |
 
 <br>
 
@@ -1471,8 +1471,6 @@ pretty bad at estimating my potential.
 
 
 <!-- Maybe this shit should go to the analysis -->
-
-
 
 ### MBA into IB/ Finance/ Trading/private equity 
 
@@ -1809,9 +1807,10 @@ So the chance of completing decently an Econ Phd within top 20 is:
 	work at a government agency should be easier than pursuing a
 	tenure track, which puts us at say roughly 60%. But being able to
 	save an extra 400 lives [comes rarely.](http://allegedwisdom.blogspot.com/2017/03/the-story-of-lucky-economist.html) I weigh this at
-	20%. Seems high based on what I have read, but still. So the total
-	chance of pursuing an agency job with the rare chance, including
-	getting into the top 20 universities is:
+	20%. This amounts to `60% x 20% = 12%`. Seems high based on what I
+	have read, but still. So the total chance of pursuing an agency
+	job with the rare chance, including getting into the top 20
+	universities is:
 	
 		33% x 60% x 20% = 4%
 
@@ -2605,48 +2604,53 @@ Some requirements are:
 For now not on my radar, I will get back with another review in a few
 months, especially due to the seeming lack of large impact.
 
+---
+
 ## Analysis
 
-An excel sheet has been created pooling in all the data computed
+An [excel sheet](https://docs.google.com/spreadsheets/d/1uclRbujg4o9DTXxjVmwKU7-_lhe8AwQ7rQdIl3LhLzQ/edit#gid=406894130) has been created pooling in all the data computed
 above. Two main parameters (CC and impact) and more than a dozen
 career options to choose from. Such data is also available within the
 80k-hours-career-guide, but that does not allow as much detail in
 comparison. For example, I don't care if I ETG or do DW. I care about
-Impact (IT), i.e., number of lives saved. So I want to be able to get
+total impact (IT), i.e., number of lives saved. So I want to be able to get
 data on total impact and not individual impact of direct work or ETG
 or advocacy, as is available on 80k-hours-guide. In addition to the
 above, I have made subdivisions in many career options for which 80k
 hours does not have the data I need. For example, MC is split into `MC
 for ETG` and `MC for DW`. This allows me to see which career direction
-has what type of impact.
+has what type of total impact.
 
 <!--  Lets do the CC and IT comparison later, first lets eliminate te -->
 <!--  obvious based on these 2 parameters. -->
 
-In an attempt to get a total value we need to be in a position to
-compare CC and IT. How much CC is equivalent to how much IT. For this
-we assume CC of MC (5 star rating for CC in the 80k-hours-guide) is
-equal to IT of working in an EAO (which also has a 5 star rating for
-impact). This output as a result shall just be a guideline for us to
-remove the most obvious paths that don't work for me.
-
-<!-- sanity check still not written -->
+<!-- In order to evaluate a career path as a whole we would like to add the -->
+<!-- CC and IT. We can't just add them as it is, we need to scale them such -->
+<!-- that they make sense. How much CC is equivalent to how much IT. For -->
+<!-- this we assume CC of MC (5 star rating for CC in the 80k-hours-guide) -->
+<!-- is equal to IT of working in an EAO (which also has a 5 star rating -->
+<!-- for direct impact). This output as a result shall be a guideline to -->
+<!-- remove the most obvious paths that don't work for me. -->
 
 ### Elimination of the obvious
 
-<!-- Write order of which sucks where? CC Impact support conditions -->
-Support conditions wise IB seems like a reject. I am quite afraid of
-the extremely long hours, the need to facetime, the lack of attention
-to health etc... I might be able to do it for a few years, but not for
-long. IB doesn't make sense unless it is going to be done for the next
-10-15 years as it is all about ETG. I'd rather try to get into
-MC. Management Consulting > IB.
+<!-- Write order of which sucks where? CC Impact support conditions
+--> 
+
+Support conditions wise IB and the like, seems like a reject. I am
+quite afraid of the extremely long hours, the need to facetime, the
+lack of attention to health etc... I might be able to do it for a few
+years, but not for long. IB doesn't make sense unless it is going to
+be done for the next 10-15 years, as it takes so much time to reach
+millions. I'd rather try to get into Management Consulting, which
+doesn't seem like an option where I would necessarily burn out. I
+conclude that Management Consulting > IB.
 
 CC wise, DE appears to give little or no support to the career
 ambitions I have, which is to go into EAO's in management positions or
-analyst roles. DS seems like a clear winner when compared to DE where
-in it does more than DE and aides in going towards DW. Data Science >
-DE.
+analyst roles. It's also not good for ETG. DS seems like a clear
+winner when compared to DE as it does more than DE and aides in
+going towards DW. So, Data Science > DE.
 
 Although Starting-up has unbelievable potential for impact, and pretty
 good career capital, it still sucks as an option because of the very
@@ -2656,125 +2660,177 @@ options must be done then. Starting-up is not for me now.
 
 An Economics PhD shall be done for either getting into academia or
 getting into places like government institutions where[ you might
-rarely get a chance to change many many lives](http://allegedwisdom.blogspot.com/2017/03/the-story-of-lucky-economist.html). In case we don't
-make it to these we could always go into Management Consulting. The
-chances of getting into academia or government institutions are slim
-considering overall personal fit. In addition to this estimated impact
-is lesser than that which is expected by doing an Management
-Consulting. Essentially it appears as though there are two options to
-go into Management Consulting, one with an Econ. PhD and the other
-with an MBA. Both ways require time for prep, and much more in the
-case of Econ. PhD. As a result, I consider it far-fetched and almost
-pointless to go in that direction, when there are other directions
-allowing better impact and possibly almost similar CC.
+rarely get a chance to change many lives](http://allegedwisdom.blogspot.com/2017/03/the-story-of-lucky-economist.html). The effective impact of
+a career in academia is estimated as 624 lives, where as the maximum
+impact of a tenure track position is 582 (which is <624) lives. This
+implies that the failure paths chosen in the decision tree have
+probably much higher impact (which is also the case). Compared to 'DS
+for DW' this career path is not good, looking at personal fit as well
+as impact. If I take up this career, I see myself loosing upto 10
+years from now before finishing my PhD with a very good chance that I
+don't make the tenure track but still get into academia. This could
+easily set me back another decade before I start my real contribution
+in academia.
 
-`Working in an EAO` right now does not seem like a good
-option. The 80k-hours-career-guide suggests to work elsewhere where we
-can gain senior mentorship and training, before coming into an
-EAO. 
+Say after graduating with an Economics PhD I work in a government
+agency, then there is a 20% chance of getting the rare opportunity to
+create a total impact of 750 lives. There is an 80% chance that I will
+end up with a total impact of 350. The rare opportunity might happen
+once in your career. This worries me as the probability of saving 400
+more lives is quite low, even though we are at the final step in the
+decision tree.
+
+In conclusion, considering paths with an Economics PhD, there seems to
+be a high chance that we may just end up doing Management
+Consulting. Why are we making all this effort, losing upto a decade
+only to go into consulting?
+
+`Working in an EAO` and `working as a startup employee` right now does
+not seem like a good option. The 80k-hours-career-guide suggests to
+work where we can gain senior mentorship and training, before coming
+into an EAO. The same seems to apply for working in a startup as an
+employee.
 
 <!-- All I need is info above to support this one sub-section, i.e., I
 --> <!-- just need a briefing of all careers and make separate posts
 for --> <!-- each career.-->
 
-I am not going to be working in Dubai now as I am not sure I want to
-start at a low level and gain CC in a way by serving Dubais existing
+Working in Dubai sounds quite nice but I am not going to be working
+there anytime soon as I am not sure I want to start at a low level and
+gain CC in a way so that I can only survive Dubai's existing
 market. The failure scenarios or the exit opportunities do not seem to
 be very lucrative. I want to first focus on gaining solid FCC and then
 slowly look at my options for branching out. I think I can better go
-there with some special skill and experience, like after an MBA and
+there with some special skill or experience, like after an MBA and
 some consulting experience.
 
 Based on if I take Data Science or Software Engineering, accompanying
-them with Finance looks like a nice way to pursue FCC. Think Tanks or
+them with Finance looks like a nice way to pursue FCC. I will check
+the feasibility while applying for jobs. Think Tanks or
 getting into Policy look quite far-fetched. I don't know where to
-begin and even then the likelihood of spending your whole career in it
-and not influencing any policy, seems high.
+begin and even if I do the likelihood of spending your whole career in
+it and not influencing any policy, seems high according to 80k
+hours.
 
-### Data Science vs Software Engineering
+### Eliminating Software Engineering
 
-Not sure of the Direct Work potential with Software
-Engineering. Unless I am starting up or something Software Engineering
-doesn't really make sense. If I am going to Startup then every thing
-right now has equal probability in my eyes, be it Management
-Consulting or Data Science or Software Engineering. Software
-Engineering seems nice for post retirement plans, but considering my
+I am not sure of the Direct Work potential with Software
+Engineering. I think it is very poor. Unless I am starting up or
+somehow I am moving into finance, then Software Engineering for ETG
+could work for me. Also, considering startups, I assume all careers
+have equal potential to succeed by starting up, be it Management
+Consulting or Data Science or Software Engineering. I haven't
+evaluated them and hence take that stance. It looks like Software
+Engineering seems nice for post retirement work, but considering my
 Effective-Altruism-Organization plans or ETG, I don't see Software
-Engineering serving me better than Data Science or Management Consulting.
+Engineering serving me better than Data Science or Management
+Consulting.
+
+### Can Management Consulting help in DW
+
+
+An MBA by itself CC wise seems amazing due to the number of things you
+can branch into. A consulting role in the top firms after, is valued
+even more. You can go into entrepreneurship, or to other corporate
+companies in chief-of-staff roles or strategy teams, based on the
+industry you served and gained experience in as a consultant.
+
+It is very clear that becoming a partner in Management Consulting has
+a very low probability but massive impact (>1250 lives). Let's say I
+go as far as finishing my MBA. If I am unable to perform or unable
+to get a job in the top firms or if I see that I am never going to
+become partner, I want to be able to do DW, as DW can have crazy
+impact, according to the previous section on different careers (or the
+appendix).
+
+<!-- What did I do -->
+
+From the resources cited in this essay (mainly 80k-hours-career-guide)
+The direct working potential is not clear for an MBA followed by
+Consulting in the top firms. So I asked Ram, a middle office analyst
+in IB and Vinod a deloitte consultant currently pursuing his MBA in
+Cornell, a few questions on how an MBA followed by the top consulting
+job will help me into DW.
+
+In the context of being able to found and lead NGO's, tackling
+business problems efficiently, working in strategy teams for NGO's and
+even getting into Policy, an MBA with Consulting is expected to help
+according to Vinod. Ram seems to say something similar about the power
+of MBA followed by MC, but explains that academic roles don't really
+need Consulting experience unless making money and building a safe
+fund in my prerogative.
+
+>I'd say MC has nothing to do with where you wish to be at the end of
+> it i.e. academic role that you desire. If academic project
+> management is what you desire, might as well start off there right
+> away.  Is making money and building a safe fund your prerogative in
+> MC? Then, it is fine. Otherwise, not necessary for where you want to
+> be. - Ram
+
+To circle back to the beginning of essay though, most of the people
+doing amazing DW featured in the 80k-hours-career-guide, are people
+without an MBA or consulting experience at the worlds top firms. At
+this point I feel this is in sync with what Ram said (above) when I
+asked about exiting from Management Consulting into a non-profit for a
+[job in project management in FHI](https://www.fhi.ox.ac.uk/project-managers/).
+
+**Conclusion**: I am more inclined to think based on the above that,
+Consulting is a roundabout way of getting into
+Effective-Altruism-Organization. It is also just a bit too much work
+for getting into Effective-Altruism-Organization, especially if there
+are other seemingly simpler options which might reasonably build you
+for working in an Effective-Altruism-Organization.
 
 ### Data Science vs Management Consulting
 
-Careers in Data Science and Management Consulting appear to be causing
-large impacts and creating the necessary CC to help us create maximum
-impact. I am going to compare the CC, impact values and personal
-fit. I can look at the Effective value and see what makes sense. I
-shall factor in whether it is a recommended or a non-recommended
-career. I also want to factor in how retirement is going to look, and
-this is something I never thought about.
+As seen in the previous sub-section, it appears that pursuing `DS for
+DW` might be better than pursuing `MC for DW`. Hence, the last two
+career paths under my radar are `DS For DW` and `MC For ETG`. These
+careers in Data Science and Management Consulting appear to have
+potential to make large impacts and provide reasonable FCC to help us
+create maximum impact. Based on the table below, it is tempting to say
+that `DS For DW` is what we should pursue.
 
-The numbers seem to be close, and I would like to make a choice
-between them, or a trade-off if you will. 
-
-<!-- effective value, CC personal fit and Impact (number of lives -->
-<!-- saved) -->
-
+{:.tablestyletwo}
 |                                    | `DS for DW` | `MC for ETG` |
 |------------------------------------|-------------|--------------|
 | CC                                 | 88/125      | 106/125      |
 | Impact                             | >970        | >1050        |
 | Personal fit                       | 74%         | 1.3%         |
-| Effective Value (# of lives saved) | 770         | 670          |
+| Effective Value (# of lives saved) | 790         | 708          |
 
-It is very hard to get Management Consulting at the top institute, it
-is hard to get Management Consulting with scholarship and in the end
-to get into Mckinsey as dictated by the personal fit. However getting
-into Data Science seems to be quite easy, as many people from other
-fields have moved into here and it gives you skills in statistics
-etc.. which are quite useful while going into an
-Effective-Altruism-Organization. Pursuing Management Consulting with a
-focus of being partner looks quite far fetched.
+All the above values in the table and in this essay have some
+uncertainty in them and some of the values are outright guesses. In
+all cases I have not considered the probablity of loosing jobs or the
+EA movement going down or the result of there being an economic
+crisis. I assumed that these would count the same for both the careers
+under consideration. Since the Effective Value for both careers seem
+to be quite similar, considering the uncertainties/ assumptions, I
+would like to see if there is some overpowering reason to choose one
+over the other.
 
-There seems to be a chance of much higher impact considering bonuses etc...
+For me the ideal scenario looks like this: I get a scholarship at
+Rotterdam School of Management after a few prep years and then get a
+job in Mckinsey and become partner after a 1-2 decades. A career in
+ETG would have been pursued with an impact greater than 1050 lives
+(not including bonuses which could go as far as 3 million$). But if
+things didn't work out after the MBA or even after consulting, I am
+able to jump into DW to end up with atleast 970 lives.
 
-Final table trading off:
-
-|                                         | DS                                          | MC                                              |
-|-----------------------------------------|---------------------------------------------|-------------------------------------------------|
-| lack of flow activities post retirement | Most likely                                 | Yes                                             |
-| Effective value estimated               | 770                                         | 670                                             |
-| Potential threats                       | If EA movement fails then we have a problem | Every step is hard                              |
-| Potential threats                       | Counting heavily on EAO                     | personal fit is not really there, should try it |
-| EA movement                             |                                             |                                                 |
-| CC                                      | 88/125 (4/5 on 80k-hours-career-guide)      | 106/125 (5/5 on 80k-hours-career-guide          |
-| Personal fit                            | Xtremely high due to motivation and EAO     | depends on many fators, such as getting         |
-| EAO                                     | getting here seems more natural             |                                                 |
-| EAO                                     | Most examples are without MBA               | Not really necessary for role in EAO            |
-| credentials                             | worth probably lesser                       | worth much higher                               |
-| recommended 80k-hours-career-guide      | YES                                         | Sometimes                                       |
-|                                         |                                             |                                                 |
-|                                         |                                             |                                                 |
-
-Most of the featured profiles in the 80k-hours-career-guide have no
-MBAs
-
-
-**Copied from management consulting**
-
-I feel at many times that I might not be suited for Management
-Consulting in top firms, as it is for people who have been achieving
-all their life. I thought in the past, that I could never get a 9 in
-my grades. I got many in the second year of my masters. I thought in
-the past that my first job would be a disaster because I knew nothing,
-I have been getting very good performance evaluations until now. These
-might not look like big achievements, but all I want to say that I
-don't know my potential yet or atleast I am pretty bad at estimating
-my potential.
-
->Early on you know relatively little about your strengths and
->options. Once you’ve spent a few years learning more, you’ll be able
->to make better decisions over the coming decades. It’s better to do
->this exploration early, if possible, so you can use the lessons
->later.
+But I feel at many times that I might not be suited for Management
+Consulting in top firms, as it seems to be for people who have been
+achieving all their life. I don't really think I am one of those
+people. 80k-hours-career-guide seems to point out that[ early on we
+know little about our strengths and options and that it is better to
+do the exploration early and learn from the experience](https://80000hours.org/career-guide/personal-fit/#in-your-early-career-exploration-is-even-more-important). I did
+think in the past, that I could never get a 9 in my grades during my
+masters, but I got many in the second year. I thought in the past that
+my first job would be a disaster because I knew nothing, I have been
+getting very good performance evaluations until now. These might not
+look like big achievements, but all I want to say that I don't know my
+potential yet or atleast I am pretty bad at estimating my potential. I
+am young and I can really improve with time. And also, EA shall define
+my actions:
 
 > "You have been asking what you could do in the great events that are
 > now stirring, and have found that you could do nothing. But
@@ -2783,103 +2839,62 @@ my potential.
 > could do, you ought to have been asking what needs to be
 > done."  —Steven Brust, The Paths of the Dead
 
+If being in Consulting has crazy impact then I should atleast try my
+level best until a time when I don't have sufficient back up
+scenarios. I could try prepping for and applying to firms and checking
+my fit over the next few years. I could figure out a plan to become
+better by taking up some tasks that might aid in getting a scholarship
+for an MBA. As seen much earlier, failing at the beginning stage does
+not set me back too much in my career. I could always start DS at age
+30 even. I have considered in the personal fit a 12.5% (1/8) chance
+for becoming partner once I join a top firm. [Even though only 1 out of
+8 people make it to the level of partner many might not be in
+competition to make it to all the way till partner.](https://80000hours.org/career-guide/reports/management-consulting/) So essentially
+this number could be higher. 
 
-80k-hours-guide suggests to try to explore careers before going to
-graduate school.
+Even if I am ready to try my best and explore opportunities from my
+side, it still appears to be a nightmare to succeed. I am in Holland
+right now and the top companies like BCG seem to prefer fluency in
+Dutch, which I think will realistically take me 2-3 years to
+learn. [The reviews on Glassdoor](https://www.glassdoor.nl/Reviews/McKinsey-and-Company-Amsterdam-Reviews-EI_IE2893.0,20_IL.21,30_IM1112_IP2.htm) seem to suggest quite bad
+work-life balance and work pressure which is not really
+motivating. Once I try out Management Consulting spend a few years in
+it and see that becoming a partner is no longer feasible, my options
+to get into DW are not completely clear.
 
->If it doesn’t go well, you can use the “graduate school reset”: do a
->Masters, MBA, law degree, or PhD, then return to the traditional
->path.
+Whereas with DS things seem achievable right from the start, for
+almost anybody in any field. I have personally seen random people from
+my University who worked in Engineering moving into DS. Working on
+solving problems with software seems to be my exact personal fit. Most
+of the featured profiles in the 80k-hours-career-guide have no
+MBAs/consulting experience. They might not even be in Data Science but
+Statistics and critical thinking are very valuable skills that are
+required in Effective-Altruism-Organizations. And it is well known
+that working in Effective-Altruism-Organizations provides some of the
+best impact.
 
-#### Can Management Consulting help in DW
+## Final remarks
 
-I am not sure... as ram says if you want to go into acad positions,
-you might as well start young. and a quick look at who FHI employs is
-primarily research scholars of some kind, who have certain expereince
-and seem to be the top of the top. 
+In conclusion, I see myself still leaning towards DS until a day comes
+when an external evaluator tells me otherwise. It could be from
+80k-hours-career-guide or someone whom I respect. DS still seems like
+the choice with less uncertainty and decent impact. I should probably
+work on the Data science course by Coursera as suggested by
+80k-hours-career-guide. Doing the course might be a good start, to
+obtain quants skills, to do data interpretation and work on business
+logic which might be useful for MC/MBA later (in case things change in
+the next 6 months). Consulting firms also seem to employ Data
+Scientists. So I would like to start with Data Science and take it
+from there.
 
-So I asked ram, a middle office analyst in IB and Vinod a deloitte
-consultant currently pursuing his MBA in Cornell, a few questions on
-how an MBA followed by the top consulting job will help me contribute
-the best impact. Both of them gave me their inputs.
+Over the next few months I want to apply to 80k-hours-career-guide and
+ask the input of some special people, to get their advice on career
+paths for me, now that I have done some ground work.
 
-An MBA by itself CC wise seems amazing due to the number of things you
-can branch into. A consulting role in the top firms after, is valued
-even more. You can go into entrepreneurship, or to other corporate
-companies in chief-of-staff roles or strategy teams, based on the
-industry you served and gained experience in.
+As per the advice of 80k-hours-career-guide a career evaluation shall
+take place every 6 months.
 
-
-
->Yes an MBA will help because a huge component of my MBA is people
->management. How to work in a team, how to manage people, how to lead
->successfully. 
-
-To circle back to the beginning though, most of the examples in the
-80k-hours-career-guide are people without an MBA or consulting
-experience and in leading roles at the worlds top organizations. At
-this point I feel this is in sync with what Ram said when I asked
-about exiting from being in Management Consulting into a non-profit
-for a [job of project management in FHI](https://www.fhi.ox.ac.uk/project-managers/),
-
->I'd say MC has nothing to do with where you wish to be at the end of
-> it i.e. academic role that you desire. If academic project
-> management is what you desire, might as well start off there right
-> away.  Is making money and building a safe fund your prerogative in
-> MC? Then, it is fine. Otherwise, not necessary for where you want to
-> be.
-
-**Conclusion**: I am more inclined to think based on the factors above
-that, maybe Management Consulting going into is about touching my nose around
-my head as it is just a bit too much work for getting in an
-Effective-Altruism-Organization, when an option for doing Data Science
-is much less harder and less risky. 
-
-Going into Management Consulting and the like for the money makes
-sense, with the exit opportunities and impact of becoming a partner. 
-
-The exposure, CC and etc... you get seems unparalleled. I don't need
-to start right away at McKinsey but I could even start at deloitte for
-example and work my way up to an MBA in 2 years. and the personal fit
-should definitely be considered. What is the chance of succeeding,
-especially considering that I want to be in NL for the next few years
-and would potentially apply. BCG wants to fluency in Dutch. 
-
-Doing the course might still be a start, to obtain quants skills, to
-do data interpretation and work on business logic. Consulting firms
-also seem to employ Data Science people. So lets start with Data
-Science and take it from there, mean while scout where all to apply
-to in a decreasing order of interest, 
-
-All the time focus on communication (presentating your concepts) and
-write to 80k for cc advice and show them what you are! Focus on
-gaining cc and try to evaluate again within the next 6 months. One
-last thing, maybe I should re-evaluate how hard it is to be a partner.
-
-
-<!-- retirement -->
-
-In most of the cases, I see myself giving up tech in the sense of
-coding and doing things within the next 10-20 years as I would be in
-management getting more impact done. 
-
-<!-- Savings with an Effective-Altruism-Organization? I find myself -->
-<!-- worrying about reitrement and the adambara vaalkay the one that I -->
-<!-- cannot afford. 2k euros a year-->
-
-
-I will have no kids and will probably be alone at that time.
-
-
-<!-- problems -->
-
-Problems I imagine are that the EA goes down and then I am left with
-Data Science to create success. Where as with Management Consulting
-and having moved into EA, I should still possibly able to pickup on
-the exit opportunities for upto 5 years after quitting.
-
-
-#### Uncertainities
+### Uncertainities
 
 - Failure of EA movement
 - ability to get into top EA places in the next 5 years
@@ -2887,10 +2902,19 @@ the exit opportunities for upto 5 years after quitting.
 - becoming partner at non-top 3 is useless?
 - Management Consulting for Effective-Altruism-Organization is not
   really ideal, Data Science could be more fitting.
-- 
 
 
 ## What is needed?
+
+We saw what careers we can work in for flexible career capital. This
+is mainly Data Science and Management Consulting. In this section we
+see what type of sources are in shortage or where Management
+Consulting and Data Science can actually be used in these places of
+shortage. Just because there is a shortage doesn't mean I will work on
+it. So I looked until now the personla fit for myself, what type of
+careers make sense for me. Now I want to see what is actually needed
+and if my conclusion above still holds.
+
 
 Up until now, we have seen about the different careers that I can take
 up. With this section I want to investigate what problems are there
@@ -2925,7 +2949,8 @@ https://80000hours.org/2017/11/talent-gaps-survey-2017/
 
 - Positively shaping AI
 - Promoting Effective Altruism
-- 
+- Global priorities research
+- Institutional decision making
 
 **Positively shaping AI**
 
@@ -3064,467 +3089,23 @@ from here), and then apply for an MBA and go from there on.
 <!--  critical thinking-->
 
 	
-## Plan A B C
-## Further works
-
-- write to 80k hours
-- ask for feedback from rajesh, STM, try to establish connection with
-  an STM once again!
-- focussing on Data Science course!
-
-## Reflection/summary/futureworks
-
-Work at a growing organization
-
-Pursue certain graduate studies
-
-Develop valuable transferable skill
-
-Do what contributes to build career capital
-
-
-Blockchain
-
-- Summary of the whole thing.
-- compare main careers
-- Look at things like startup to aid or increase CC in tech only
-- There seems to be a possibility of being more than one.
-
 
 ## plan for this esay
 
 - finish editing the blog post
 
-	- divide into particular sections
-	- work on section by section
-	- understand the flow first
-	
+~~- divide into particular sections~~
+~~- work on section by section~~
+~~- understand the flow first~~
+
+- REad whole blog post once and see if it makes sense altogether.
+
 - DS or Datascience consistant everywhere!
 - spell check
 - tables of content on the left side is easy ([look here](https://github.com/jekyll/jekyll-help/issues/273))
 
 
-## What would a reader like to see
-
-What can a reader keep track of?
-
-So I start this essay with an Entry question and write about impact in
-general how one can get impact and in what ways on a high
-level. During doing this I explore how others have done it and what
-are their ways. With this I understand what all I can do to create
-large impact.
-
-So I look at different high impact careers and some of the careers not
-mentioned to see how they work, I briefly mention the parameters I
-would like to use to compare. In the end I present a table with all
-the comparisons and refer people to my drive location, This is the
-part that I not fully sure if I should have it as it is or just make
-separate files of. 
-
-What am I afraid of?
-
-If I have a table to scroll on the left what is my problem? people can
-move on in a hyperlinked way. If they cant then I am afraid the
-article moves 
-
-For now I assume that is possible. LEt me focus on important things
-and then create placeholders for things like tables that need to be
-there so I can batch them.
-
-
-
 ## Appendix
-## Things I am wrongly focussing on
-
-Aiyoo word count poidumay if I delete it all!!!! 
-
-Lack of clarity or path of flow.
-
-	So many things are hindering my flow and I refuse to do anything
-	about it, like start afresh or properly reqiret... 
-	
-It is ok to throw away everything. ~~wordcount~~ ~~STM should know how
-much effort I put in this thing~~ **Clarity** **ability to choose the
-best career that makes maximum impact is**, **allowing others to have a
-readable document so that they can learn from me** is king
-
-I need to refactor, look at what I have written until now and reqrite
-it. This is much more pleasurable than attempting to edit every
-sentence. But this will be time consuming. For now I don't see
-any other way.
-
-## Analysis
-		
-I have now two sets of data one that I made including my personal fit,
-all based on articles mostly from 80k and around. The other being the
-set of data from[ 80k's career reviews'](https://80000hours.org/career-reviews/) summary of numbers. I
-didn't directly use 80k-hours-career-review-numbers, as I wanted some
-more information that was not available. For instance MC for ETG and
-MC for DW have different impacts, not fully investigated or talked
-about by 80k-hours. Another problem is that I do not know how to
-compare ETG and direct impact parameters. So it was necessary that I
-generated my own values. Of course a small sanity check is done
-comparing the 2 sets of data before moving on.
-
-**Sanity check for Career Capital:**
-
-| my rank | My result     | rank 80k |
-|---------|---------------|----------|
-| 1       | MC            | 1        |
-| 2       | Econ PhD      | 2        |
-| 3       | IB            | 3        |
-| 4       | DS            | 2        |
-| 5       | Working @ NGO | 2        |
-| 6       | Starting up   | 2        |
-| 7       | DE            | -        |
-
-80k-hours evaluates DS better than IB in CC. But if you can go from IB
-to MC, PE, hedge funds and other exit opportunities, I don't see why
-it is bad in CC. Maybe the limited learning while in IB is reflected
-in the CC in 80k-hours-reviews. This is fine. If required I will
-later fine tune the results if I find them to be critical. 
-
-**Sanity check impact**
-
-With 80k-hours-reviews the impact is split up into three factors
-(Direct impact, ETG and advocacy) and rated separately, this is not of
-much use to me as I want to compare things based on total impact. So
-it is attempted to make one number out of the three factors.
-
-For 80k-career-reviews ranking, we simply sum up those 3 ratings and
-produce the final ranking. In my way of calculation, I compute total
-impact to the extent possible by translating everything into
-equivalent money and then translate it to lives by (roughly) dividing
-it with 4000$ (,the cost of a life according to AMF).
-
-| my rank | Work                            | rank (80k) |
-|---------|---------------------------------|------------|
-| 1       | Starting up                     | 1          |
-| 2       | IB(ETG)                         | 3          |
-| 3       | MC(as a partner)                | 3          |
-| 4       | Direct working @ EAO (DS etc..) | 1          |
-| 5       | Econ PhD. with rare chance      | 6          |
-| 6       | MC (exit after 5 year)          | -          |
-| 7       | DS/SE in the US                 | 5          |
-| 8       | DE in the US                    | -          |
-| 9       | DS in Europe                    | -          |
-| 10      | DE in Europe                    | -          |
-
-80k-summed-up-ranking suggests that DW has better impact than IB,
-which I am not so sure about based on the numbers I have estimated
-regarding total impact. In any case, it does not appear that I might
-take IB due to the lack of supporting conditions. In addition, the
-whole point of the exercise of determining numbers for impact and
-career capital is to mainly remove the options that are obviously
-bad. The numbers are not accurate, they are conservative to various
-degrees, and also there is uncertainty.The personal fit are so disparate that I
-hope that they will actually make the real difference, rather than me
-doing anything.
-
-With this I conclude the sanity check and say that the data is
-accepted for further analysis.
-
-### How to equate CC and IT
-
-So now in my analysis, as per the guidance of 80k-hours-guide, I find
-that there is CC and then there is impact. 
-
-> If you are still early in your career, then it’s best to place greater
-> importance on career capital than on role impact, as you’re likely to
-> be able to find plenty of good opportunities to invest in yourself. If
-> you’re late in your career, place less importance on career capital
-> and more on making an impact now. That said, the amount of weight to
-> put on career capital can also depend on which problems you want to
-> work on.
->
-> The more uncertain you are about the long-run, the more you should
-> prioritise flexible career capital over narrow career
-> capital. Flexible career capital is career capital that’s useful in
-> many different roles.
->
-> The more altruistically-minded you are, the less weight you’ll need to
-> place on job satisfaction relative to the other factors.  Bear in mind
-> that personal fit is potentially the most important factor because it
-> can improve everything else.
-
-I am early in my career (27) and would like to place more weight on
-flexible CC. I do not want to completely choose based on
-FCC. Ultimately we would like one number from all careers to
-compare. So we need to translate CC units to that of Impact (number of
-lives saved). The following suggestions are considered and weighed
-against.
-
-1. Impact of EAO = CC of MC ; Everything from there could just be a
-linear extrapolation.
-
-Seems to be a reasonable estimate I think as MC is the best in CC
-according to 80k-hours-guide (5 stars) and Direct Impact of EAO has 5
-stars as well.
-
-I think what I am doing here is compare achievable CC to Achievable
-impact. This sounds reasonable?
-
-2. Rate max best CC as 10 and best IT as 10.
-
-But the problem is that impact is like very non linear. There is
-impact of 400 and there is like 10 times its impact.
-
-Say I know something that can save 8k lives and then something that
-can save 400 lives. 8 lives can be 10 and 400 lives can be 0.5. But
-then in CC, IB could have a max 10 and DE could have a 5 already. If
-we add it up directly then the contribution of impact is so low for
-DE. What does this mean? I 
-
-I am afraid it is not weighed properly
-
-Define properly. If there is an accepted number of CC which can
-correlate with Impact. Maybe even then we have lot of problems. 
-
-
-### Looking at the ranking
-
-The second best option seems to be DS in NL as ETG. Shocked! I guess
-it is because of the ridiculous personal fit that this has happened.
-IB is out of the question. I am really afraid of burning out, the way
-of work is quite unhealthy and I need to take care of myself for
-serving mankind in the long run.
-
-**CC**
-MC seems promising CC wise. But say I find out I am not partner
-material or I didn't get a scholarship or the hours are sick, then ETG
-is not really an option, so I have to move out. When I move out yes I
-can do other things, join a company bla bla and rise the ranks. What I
-am uncertain about this is being able to work in an EAO. 
-
-MC is my decentest chance of maximizing ETG. And it is not really out
-of my scope I think, although my personal fit might say otherwise. The
-personal fit factors in a ton of uncertainity and path that I have
-chosen i.e., an MBA without scholarship sounds unimaginable. In case
-it is not the cut for me, then with the GREATEST CC (5 stars on 80k) I
-should be able to pick up my shit and do other things. But, the other
-best way to create impact is by working at an EAO. *My uncertainity is
-whether I am allowed to work at an EAO*.
-
-<!-- MC in EAO OK/NOK: mail rob now -->
-
-Given 6 months more, my personal fit estimate would have improved
-because, that is how long I plan to take to prepare for GMAT and give
-a score. By then I can make a better decision to move out to DS byt
-year 28- whats in another few months. It seems like I should be able
-to pick up DS with a delay of 6 months. I don't see it as a problem.
-
-I assume the impact due to an MBA not in any of the top 3 or without
-a scholarship as shit. I don't consider the career.
-
-maybe... <!-- try to evaluate a MC without scholarship and  -->
-
-**Impact based**
-
-I don't think I can already start working in an EAO as I might need
-some special skills, or do other things to get attention of people in
-the community before I apply for a job, but never the less, based on
-
->Earlier we saw the example of Kate, who went to work at a
->non-profit. Not only do non-profit jobs often build your skills more
->slowly, they’re also less flexible. It’s widely accepted in the
->non-profit sector that it’s easier to switch from a business job to a
->non-profit job than vice versa. So if you’re unsure between the two,
->a business position offers more flexibility.
-
-**Best choice overall**
-
-DS in the beginning and moving to opportunities in DW seems to be the
-best option with decent CC ([4/5](https://80000hours.org/career-reviews/) according to 80k) and decent
-possibilities to DW ([3/5](https://80000hours.org/career-reviews/) according to 80k). However, because of
-the skills, I see decent chances of moving to an EAO in some
-years. There by gaining sufficient flexible CC and capabilities and
-credentials to move to be worthy of a top EAO. 
-
-By this I mean for the next 5 years, I will work my ass off and
-understand and build my skills in programming and statistics and
-writing. This will allow me to improve my scene in the 80k community
-and join as an analyst, or writer, researcher based on DATA. Critical
-thinking is the main think, solving problems is the other part of it. 
-
-At this point I say, why won't I be offered a job in EAO, taking into
-account why I am doing what I doing.
-
-#### Elimination of the obvious
-
-I have the numbers that I need and can already make a decision. Just
-choose the highest number and I should be good right? Well there is
-uncertainity in the numbers and I want to take it slow and start by
-first removing the obvious ones based on reasoning and looking at the
-numbers.
-
-**CC wise**
-
-DE for DW is a no go, has the lowest cc rating. One can argue that
-once you get into and EAO, you will do great things and with the time
-that DE in NL offers I can pretty much build whatever skill I want.
-
-The point is the EAO's primarily require organizational capabilities,
-research capabilities, writing capabilities, DS, programming, as far
-as I know. But DE seems to offer none of this. Staying in DE and
-becoming great at it and moving to a start up can be an option, but we
-know how low probability that is.
-
-<!-- What do EAO's actually require skills wise -->
-
-So over all, for the above reasons it seems like a weak choice, but an
-obvious other option is to do DS instead and it seems to beat the DE
-for DW instantly as it gives you several opportunities to become
-capable for EAO, wiht programming and statistics info. Everything
-thing that you do at work, is counting towards the 10k-hours-rule
-unlike in DE where the work at an EAO is almost orthogonal.
-
-**Support conditions wise**
-
-SC wise it appears that IB is a sure reject. I am really afraid of the
-long hours and the tales of horror, lack of excitement in job. Which
-is why I think it is a poor fit SC wise even for me. SC, I
-gather/understand/guess that it is better even with MC. With hours
-being reasonable.
-
-**Impact**
-
-I think it is fair to eliminate Econ Phd with rare chance. Based on my
-calculation the number of lives saved isn't as much as working in MC
-for 5 years and then leaving
-
-**Total wise**
-
-An Econ Phd can contribute moderately towards impact using ETG and
-Advocacy. But, the one that has most impact is when an Econ Phd can
-just save too many lives by being at the right place and at the right
-moment. The thing is people look at Econ people with respect regarding
-things they say, and this makes them very valuable in the field of
-policy. 
-
-An Econ PhD however with such a chance of getting this opportunity of
-potentially adding benefits to a few millions of lives seems mighty
-low as factored in the profile on Econ PhD. To add further, the
-estimated impact was calculated to be lesser than EAO impact. Based on
-my source who is an Econ PhD from the top 5 universities and got a job
-in the government, I think it is wise to let this rare chance in
-combination with an Econ PhD slide. 
-
-Despite with the scope of causing maximum impact ever, the chances of
-succeeding are really really low for now. 
-
-However, in the later stages of my life working for a startup or
-co-founding a startup should definitely be considered, considering the
-impact. With a year or 2 of effort, we can better estimate the success
-of the startup (say you get accepted into Ycombinator). Even to
-attempt startups I need some proper CC, having worked a few years,
-which I can use to add value.
-
-<!-- I am afraid that I give more probability to something that is far
---> <!-- away, I seem to be more optimistic about scenario that is -->
-<!-- more far away-->
-
-As a sanity check, all the ones eliminated until now, seem to be on
-the bottom of the list, when organized based on the total awarded to
-each independent career path.
-
-#### Comparing EAO vs DS
-
-Comparing working now at an EAO and taking up DS now, I interpret the
-advice from 80k as 'take up DS now'.
-
-> If you are still early in your career, then it’s best to place greater
-> importance on career capital than on role impact, as you’re likely to
-> be able to find plenty of good opportunities to invest in yourself. If
-> you’re late in your career, place less importance on career capital
-> and more on making an impact now. That said, the amount of weight to
-> put on career capital can also depend on which problems you want to
-> work on. See more. 
-
-I anyways need skills, which I need to spend time on. By the looks of
-it, statistics, organizational etc... Maybe it may workout that after
-one year I should move to EAO. But for now, I don't think EAO is the
-right place for me yet.
-
-The CC at an EAO is not really great with respect to getting training
-or assistance from experienced people. The DS track followed by
-working at an EAO at some point in life seems better than the EAO
-track right away based on the advice of 80k-hours.
-
-#### Comparing Econ Phd without the rare chance vs DS
-
-An Econ Phd although hyped greatly by 80k-hours due to its advocacy
-potential and possible impact and CC, it still seems to be a not so
-great fit. Impact wise I claim an Econ Phd without the rare chance can
-save 550 lives @ 29% personal fit. Where as a job at an EAO can save
->970 lives @ 41% personal fit.
-
-It appears that EAO is the place to be and not an Econ PhD. As seen
-above though, we want to start with something else (say DS) before we
-move to an EAO. By extension then 'DS for DW' beats Econ PhD. 
-
-#### DS vs MC (becoming partner)
-
-MC along with becoming a partner is an incredible opportunity for
-ETG. However the personal fit of 1.3% is really low for something with
-a potential to save >1200 lives over ones life time. It appears that
-it would be better to bet on EAO instead. As the >1200 lives is
-dependent on several stages of the career over the next 25 years. It's
-not like you can work it out a little and figure out much better
-estimates of the personal fit. A personal fit of of 57% is required
-for it to match the 'total' of a job at an EAO. With 1 years effort I
-can know if I got scholarship in top 20. I would still be at a
-personal fit of 25% and far from competing with 'working at an EAO'.
-
-Although an MC is great in CC, I am not sure how it translates when I
-would like to work for an EAO. In any case based on the personal fit
-(i.e., probability of success) a DS would still beat an MC as the
-number of lives saved has been assumed to be the same when working at
-an EAO. 
-
-At this moment it appears that MC of any form is not favourable even
-with a few years of going further with the career due to the large
-uncertainity and seemingly better option of 'DS for DW'. And as said
-earlier, even if I spent time to see how far I get with 
-
-So becoming partner is far fetched. Even if I went as far as finishing
-my MBA successfully, my other options now are to work for some
-organization (with an impact of 700 lives) or join an EAO (with an
-impact of >970 lives). I am not sure why I would go with any of these
-two options as DS with an EAO track seems more possible with similar
-impact levels. 
-
-There by it appears that MC is not worth pursuing just for the CC
-alone, as impact estimated along with the personal fit, can be
-obtained by other means with much more confidence.
-
-#### Eliminating 
-
-Having eliminated Starting up, Econ Phd with rare chance and IB, I see
-that MC all variations of an MC career at low in the table.
-
-This I think is mainly due to the personal fit. For example, becoming
-a partner at a top agency is going to be really hard, even for the top
-brains, and I estimated that probability to be 1%. Even if you save
-1000 lives, it is still not the right move for you, as the net result
-is looked at `0.01x1000=10 lives`
-
-Getting an MC is so hard already that the even if there are back up
-options, the personal fit is still low. This does not make any more
-sense and hence until the personal fit is revised this does not seem
-to make sense. 
-
-Also, 
-
-
-
-
-## Philosophy
-
->Instead of asking what you could do, you ought to have been asking
->what needs to be done." —Steven Brust, The Paths of the Dead
-
-
-
 ## Abbreviations
 | Abbreviation | Expansion                       |
 |--------------|:--------------------------------|
@@ -3706,4 +3287,4 @@ I estimate the impact of starting up in tech to be
  - ~38k lives
  
 
-## Analysis
+
