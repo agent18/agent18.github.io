@@ -1287,3 +1287,168 @@ Blockchain
 - compare main careers
 - Look at things like startup to aid or increase CC in tech only
 - There seems to be a possibility of being more than one.
+## What is needed?
+
+Up until now, we have seen about the different careers that I can take
+up. With this section I want to investigate what problems are there
+and what is actually needed for the EA community and how we can be of
+assistance.
+
+So are there problems that "I" could take on if I got some special
+skill?
+
+What do the other important problems need?
+
+Can I get them by working in DS or MC?
+
+https://80000hours.org/2017/11/talent-gaps-survey-2017/
+
+  * [ ] What is needed...  to be done
+  
+### What do the other important problems need?
+
+[Here](https://80000hours.org/articles/cause-selection/) we have a ranking of the different problems by
+80k-hours-guide. I first looked at the recommended ones:
+
+- Positively shaping AI
+- Promoting Effective Altruism
+- Global priorities research
+- Institutional decision making
+
+**Positively shaping AI**
+
+Google Deepmind, OpenAI are some projects that I could get into with
+knowledge of writing software. I would imagine a 5 year period to get
+up to speed if this is the direction I should be going into. I suspect
+DS would be a decent start or maybe even just simply software, if
+there is some statistics involved. DS seems to allow me to work on
+Machine Learning, so I am inclined to be in this realm of DS.
+
+There are organizational roles available like project manager
+etc... Some involving managing and writing grants to ensure funding.
+
+There are lot of organizations, which work on it as given [in the
+80k-hours-guide](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/#what-can-you-do-to-help).
+
+Funding is alright with this, but it is primarily talent
+constrained. So not really for ETG.
+
+
+> Does consulting allow me scope to get into these roles?
+>
+> HR;
+> personnel management;
+> project management;
+> event management;
+> media and communications;
+> visual and website design;
+> accounting.
+
+As per the estimation of lives saved in EAOs, most jobs in EAOS
+should give you a lot of impact, in the order of 1000 lives. Joining
+DS or SE can allow to work in the technical side. Joining MC can
+possibly give me scope to work in other managerial roles. 
+
+**Note to self**: From time to time I should also try to apply for
+jobs directly, based on things like this I hear:
+
+>You should apply if you are a software engineer who is fairly
+>comfortable with linear algebra, basic statistics, and the basics of
+>stochastic gradient descent. Experience in machine learning is a
+>bonus. You are not expected to have mastery of deep learning — the
+>problems we pursue are always at the edge of the state of the art,
+>which means that nobody's an expert.
+
+
+**Promoting effective Altruism**
+
+<!-- What I can do -->
+What I can do is work for EAOs, ETG, founding new organizations as
+needed, and make connections to my field of expertise and the EA
+community.
+
+<!-- Where I can work -->
+Organizations such as CEA, 80k-hours and Founders pledge do exactly
+that. These type of organizations route funding to the best regions
+and are in control of growing and strengthening the movement.
+
+<!-- Can DS and MC get me there? -->
+
+DS can help me in research or getting analyst positions. I am not
+fully sure if MC can get me these type of jobs. <!-- ask ram -->
+
+**Global priorities research**
+
+
+<!-- What is needed and what I can do -->
+
+> Researchers trained in economics, mathematics, or philosophy to
+> develop the methodology for setting global priorities.  Researchers
+> trained in social and natural sciences with the ability to collect
+> data and analyse specific global problems.
+
+
+<!-- Where can I work -->
+
+Join the Global Priorities institute in a research position or support
+with managerial positions. 
+
+<!-- Can DS and MC get me there -->
+
+For GPI, a firm no. They need Economists of any level.
+
+For FHI, they need project managers who can lead certain
+movements. This could be possible with an MC? <!-- Ask ram -->
+
+So MC probably, and DS not!
+
+<!-- Could be also possible with DS to get into it in AI related tasks -->
+<!-- within FHI. But this has nothing to do with Global Priorities -->
+<!-- research I think, this is just advancing AI research. -->
+
+**Improving institutional decision making**
+
+<!-- What is needed -->
+
+getting a position in behavorial science/research lab, doing
+fundamental research, fostering adoption of proven techniques,
+directing more funding towards this research.
+
+This seems to be one research area that is funding restricted and 80k
+hours suggests the need to become program managers in various places
+who can divert funding to these places or this research.
+
+
+<!-- Where can I work -->
+
+There are some places
+
+<!-- Can DS or MC get me there -->
+
+It looks like DS or MC might not be able to get me there. Somehow
+behavioural/ decision science PhD would help.
+
+Seems very much not for me, except for trying to be a program
+manager. And I think it is also hard to become a program
+manager. 
+
+To be noted is that this is possibly quite neglected in terms of
+funding and research and fostering the best practices where it matters.
+
+
+
+
+Let me join DS for now, over the next 6 months I will again evaluate
+what I need to do, There are so many options, I need to spend a lot of
+time on this. It looks like MC or DS will give me CC and I can fine
+tune my path to create large impact.
+
+MC is hard to get, DS is relatively my personal fit. If nothing works
+out in the next few years (I will also do an internship for any EAO
+from here), and then apply for an MBA and go from there on.
+
+<!--  speak to vishnu about earnings and about what all you can do and -->
+<!--  what I want to do such as policy, research, be an analyst, -->
+<!--  critical thinking-->
+
+	

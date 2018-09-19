@@ -312,6 +312,29 @@ have no idea on what exact problem I would like to work on or I would
 best fit in. So, the focus is on the choice of direction for **the
 next few years**.
 
+### What is needed
+
+>The most in-demand roles are researchers and managers, but we’d also
+>like to highlight increasing demand for subject specialists,
+>especially experts in policy, biology/life sciences, economics and
+>mathemathics. Many people in the community think that these skill sets
+>are needed to solve the highest-priority problems, but they’re also
+>in short supply in the community. -[80k-hours-career-guide on talent gaps](https://80000hours.org/2017/11/talent-gaps-survey-2017/)
+
+In [this article on talent gaps](https://80000hours.org/2017/11/talent-gaps-survey-2017/), the some of the top skills
+required to fill the talent gap are listed as:
+1. Government and policy experts
+2. Good calibration, wide knowledge and ability to work out what's
+  important
+3. Management
+4. Machine Learning/AI
+5. Movement building, public speakers, public figures,
+6. Generalist researchers
+
+From the above we have an idea of what is needed in the EA
+community. We shall factor this into the career paths we consider for
+evaluation.
+
 ### Career Quiz: recommended list of careers
 
 The [80k-hours career guide has a career-quiz](https://80000hours.org/career-quiz/#/) of 6 questions based
@@ -2726,8 +2749,7 @@ Effective-Altruism-Organization plans or ETG, I don't see Software
 Engineering serving me better than Data Science or Management
 Consulting.
 
-### Can Management Consulting help in DW
-
+### Management Consulting to DW
 
 An MBA by itself CC wise seems amazing due to the number of things you
 can branch into. A consulting role in the top firms after, is valued
@@ -2736,7 +2758,7 @@ companies in chief-of-staff roles or strategy teams, based on the
 industry you served and gained experience in as a consultant.
 
 It is very clear that becoming a partner in Management Consulting has
-a very low probability but massive impact (>1250 lives). Let's say I
+a very low probability but massive impact (>1050 lives). Let's say I
 go as far as finishing my MBA. If I am unable to perform or unable
 to get a job in the top firms or if I see that I am never going to
 become partner, I want to be able to do DW, as DW can have crazy
@@ -2745,12 +2767,12 @@ appendix).
 
 <!-- What did I do -->
 
-From the resources cited in this essay (mainly 80k-hours-career-guide)
-The direct working potential is not clear for an MBA followed by
-Consulting in the top firms. So I asked Ram, a middle office analyst
-in IB and Vinod a deloitte consultant currently pursuing his MBA in
-Cornell, a few questions on how an MBA followed by the top consulting
-job will help me into DW.
+From the resources cited in this blog post (mainly
+80k-hours-career-guide), the direct working potential is not clear for
+an MBA, followed by Consulting in the top firms. So I asked Ram, a
+middle office analyst in IB and Vinod a deloitte consultant currently
+pursuing his MBA in Cornell, a few questions on how an MBA followed by
+the top consulting job will help me into DW.
 
 In the context of being able to found and lead NGO's, tackling
 business problems efficiently, working in strategy teams for NGO's and
@@ -2758,7 +2780,7 @@ even getting into Policy, an MBA with Consulting is expected to help
 according to Vinod. Ram seems to say something similar about the power
 of MBA followed by MC, but explains that academic roles don't really
 need Consulting experience unless making money and building a safe
-fund in my prerogative.
+fund is my prerogative.
 
 >I'd say MC has nothing to do with where you wish to be at the end of
 > it i.e. academic role that you desire. If academic project
@@ -2771,8 +2793,8 @@ To circle back to the beginning of essay though, most of the people
 doing amazing DW featured in the 80k-hours-career-guide, are people
 without an MBA or consulting experience at the worlds top firms. At
 this point I feel this is in sync with what Ram said (above) when I
-asked about exiting from Management Consulting into a non-profit for a
-[job in project management in FHI](https://www.fhi.ox.ac.uk/project-managers/).
+asked him about exiting from Management Consulting into a non-profit
+for a [job in project management in FHI](https://www.fhi.ox.ac.uk/project-managers/).
 
 **Conclusion**: I am more inclined to think based on the above that,
 Consulting is a roundabout way of getting into
@@ -2827,7 +2849,7 @@ think in the past, that I could never get a 9 in my grades during my
 masters, but I got many in the second year. I thought in the past that
 my first job would be a disaster because I knew nothing, I have been
 getting very good performance evaluations until now. These might not
-look like big achievements, but all I want to say that I don't know my
+be big achievements, but all I want to say that I don't know my
 potential yet or atleast I am pretty bad at estimating my potential. I
 am young and I can really improve with time. And also, EA shall define
 my actions:
@@ -2875,238 +2897,55 @@ best impact.
 
 ## Final remarks
 
-In conclusion, I see myself still leaning towards DS until a day comes
-when an external evaluator tells me otherwise. It could be from
-80k-hours-career-guide or someone whom I respect. DS still seems like
-the choice with less uncertainty and decent impact. I should probably
-work on the Data science course by Coursera as suggested by
-80k-hours-career-guide. Doing the course might be a good start, to
+>The most in-demand roles are researchers and managers ...
+>-80k-hours-career-guide
+
+Rightly so, we have been looking at DS and Management Consulting to
+light the way forward. I see myself still leaning towards DS until a
+day comes when an external evaluator tells me otherwise. The Evaluator
+could be from 80k-hours-career-guide or someone whom I respect. DS
+still seems like the choice with less uncertainty and decent impact as
+seen in the previous sections. 
+
+I am going to work on the Data science course by Coursera as suggested
+by 80k-hours-career-guide. Doing the course might be a good start, to
 obtain quants skills, to do data interpretation and work on business
 logic which might be useful for MC/MBA later (in case things change in
 the next 6 months). Consulting firms also seem to employ Data
 Scientists. So I would like to start with Data Science and take it
 from there.
 
-Over the next few months I want to apply to 80k-hours-career-guide and
-ask the input of some special people, to get their advice on career
-paths for me, now that I have done some ground work.
-
-As per the advice of 80k-hours-career-guide a career evaluation shall
+Over the next few months I want to apply to 80k-hours-career-guide for
+their one-on-one career advice and also ask the input of some special
+successful people I know, now that I have done some ground work. As
+per the advice of 80k-hours-career-guide a career evaluation shall
 take place every 6 months.
 
-### Uncertainities
 
-- Failure of EA movement
-- ability to get into top EA places in the next 5 years
-- becoming partner is very hard
-- becoming partner at non-top 3 is useless?
-- Management Consulting for Effective-Altruism-Organization is not
-  really ideal, Data Science could be more fitting.
-
-
-## What is needed?
-
-We saw what careers we can work in for flexible career capital. This
-is mainly Data Science and Management Consulting. In this section we
-see what type of sources are in shortage or where Management
-Consulting and Data Science can actually be used in these places of
-shortage. Just because there is a shortage doesn't mean I will work on
-it. So I looked until now the personla fit for myself, what type of
-careers make sense for me. Now I want to see what is actually needed
-and if my conclusion above still holds.
-
-
-Up until now, we have seen about the different careers that I can take
-up. With this section I want to investigate what problems are there
-and how DS or MC can help me in them.
-
-To me this sounds more like what do EAOs need rather than anything
-else. Careers like MC, DE for ETG, it is very clear what needs to be
-done and the chances of doing them can be estimated, but what we want
-to know or what is the unknown is if the DS, MC, can get us into think
-tanks, finance jobs as researchers and what ever else there is. This
-is the question that needs answering.
-
-I still find the question of what is needed directed at choosing the
-problem right now, as far fetched. But what if there is a problem that
-needs a special kind of skill? 
-
-So are there problems that "I" could take on if I got some special
-skill?
-
-What do the other important problems need?
-
-Can I get them by working in DS or MC?
-
-https://80000hours.org/2017/11/talent-gaps-survey-2017/
-
-  * [ ] What is needed...  to be done
-  
-### What do the other important problems need?
-
-[Here](https://80000hours.org/articles/cause-selection/) we have a ranking of the different problems by
-80k-hours-guide. I first looked at the recommended ones:
-
-- Positively shaping AI
-- Promoting Effective Altruism
-- Global priorities research
-- Institutional decision making
-
-**Positively shaping AI**
-
-Google Deepmind, OpenAI are some projects that I could get into with
-knowledge of writing software. I would imagine a 5 year period to get
-up to speed if this is the direction I should be going into. I suspect
-DS would be a decent start or maybe even just simply software, if
-there is some statistics involved. DS seems to allow me to work on
-Machine Learning, so I am inclined to be in this realm of DS.
-
-There are organizational roles available like project manager
-etc... Some involving managing and writing grants to ensure funding.
-
-There are lot of organizations, which work on it as given [in the
-80k-hours-guide](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/#what-can-you-do-to-help).
-
-Funding is alright with this, but it is primarily talent
-constrained. So not really for ETG.
-
-
-> Does consulting allow me scope to get into these roles?
->
-> HR;
-> personnel management;
-> project management;
-> event management;
-> media and communications;
-> visual and website design;
-> accounting.
-
-As per the estimation of lives saved in EAOs, most jobs in EAOS
-should give you a lot of impact, in the order of 1000 lives. Joining
-DS or SE can allow to work in the technical side. Joining MC can
-possibly give me scope to work in other managerial roles. 
-
-**Note to self**: From time to time I should also try to apply for
-jobs directly, based on things like this I hear:
-
->You should apply if you are a software engineer who is fairly
->comfortable with linear algebra, basic statistics, and the basics of
->stochastic gradient descent. Experience in machine learning is a
->bonus. You are not expected to have mastery of deep learning — the
->problems we pursue are always at the edge of the state of the art,
->which means that nobody's an expert.
-
-
-**Promoting effective Altruism**
-
-<!-- What I can do -->
-What I can do is work for EAOs, ETG, founding new organizations as
-needed, and make connections to my field of expertise and the EA
-community.
-
-<!-- Where I can work -->
-Organizations such as CEA, 80k-hours and Founders pledge do exactly
-that. These type of organizations route funding to the best regions
-and are in control of growing and strengthening the movement.
-
-<!-- Can DS and MC get me there? -->
-
-DS can help me in research or getting analyst positions. I am not
-fully sure if MC can get me these type of jobs. <!-- ask ram -->
-
-**Global priorities research**
-
-
-<!-- What is needed and what I can do -->
-
-> Researchers trained in economics, mathematics, or philosophy to
-> develop the methodology for setting global priorities.  Researchers
-> trained in social and natural sciences with the ability to collect
-> data and analyse specific global problems.
-
-
-<!-- Where can I work -->
-
-Join the Global Priorities institute in a research position or support
-with managerial positions. 
-
-<!-- Can DS and MC get me there -->
-
-For GPI, a firm no. They need Economists of any level.
-
-For FHI, they need project managers who can lead certain
-movements. This could be possible with an MC? <!-- Ask ram -->
-
-So MC probably, and DS not!
-
-<!-- Could be also possible with DS to get into it in AI related tasks -->
-<!-- within FHI. But this has nothing to do with Global Priorities -->
-<!-- research I think, this is just advancing AI research. -->
-
-**Improving institutional decision making**
-
-<!-- What is needed -->
-
-getting a position in behavorial science/research lab, doing
-fundamental research, fostering adoption of proven techniques,
-directing more funding towards this research.
-
-This seems to be one research area that is funding restricted and 80k
-hours suggests the need to become program managers in various places
-who can divert funding to these places or this research.
-
-
-<!-- Where can I work -->
-
-There are some places
-
-<!-- Can DS or MC get me there -->
-
-It looks like DS or MC might not be able to get me there. Somehow
-behavioural/ decision science PhD would help.
-
-Seems very much not for me, except for trying to be a program
-manager. And I think it is also hard to become a program
-manager. 
-
-To be noted is that this is possibly quite neglected in terms of
-funding and research and fostering the best practices where it matters.
-
-
-
-
-Let me join DS for now, over the next 6 months I will again evaluate
-what I need to do, There are so many options, I need to spend a lot of
-time on this. It looks like MC or DS will give me CC and I can fine
-tune my path to create large impact.
-
-MC is hard to get, DS is relatively my personal fit. If nothing works
-out in the next few years (I will also do an internship for any EAO
-from here), and then apply for an MBA and go from there on.
-
-<!--  speak to vishnu about earnings and about what all you can do and -->
-<!--  what I want to do such as policy, research, be an analyst, -->
-<!--  critical thinking-->
-
-	
 
 ## plan for this esay
 
 - finish editing the blog post
 
-~~- divide into particular sections~~
-~~- work on section by section~~
-~~- understand the flow first~~
+	~~- divide into particular sections~~
+	~~- work on section by section~~
+	~~- understand the flow first~~
 
-- REad whole blog post once and see if it makes sense altogether.
+	- Read whole blog post once and see if it makes sense altogether.
+    - appendix check what is needed.
+	~~- "What is needed" plan to reject or accept?~~
+	~~- uncertainities clean up~~
 
 - DS or Datascience consistant everywhere!
 - spell check
 - tables of content on the left side is easy ([look here](https://github.com/jekyll/jekyll-help/issues/273))
-
+- Clean up posts on website
 
 ## Appendix
-## Abbreviations
+### Abbreviations
+
+{:.tablestyletwo}
+
 | Abbreviation | Expansion                       |
 |--------------|:--------------------------------|
 | EA           | Effective Altruism              |
@@ -3117,7 +2956,7 @@ from here), and then apply for an MBA and go from there on.
 | EAO          | Effective Altruism Organization |
 | fCC          | flexible career capital         |
 |              |                                 |
-#### Calculating impact of direct working in 80k-hours
+### Calculating impact of direct working in 80k-hours
 
 In this appendix the goal is to calculate number of lives saved by
 working in an EAO. It is first attempted to estimate the impact of a
@@ -3263,7 +3102,7 @@ P.S
 
 The whole [Indirect effects](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/) is not taken into account at all.
 
-#### Calculating the impact of working in design engineering
+### Calculating the impact of working in design engineering
 
 I estimate the impact of being an engineer as
  - Total donations per annum (20% of 46k$)
@@ -3288,3 +3127,16 @@ I estimate the impact of starting up in tech to be
  
 
 
+### Uncertainities
+
+Over the whole essay in many places I have made assumptions or skipped
+some details to reduce the delay of the work I am producing, with the
+idea of having rough estimates and refining it further, if it is
+really needed. Some of the uncertainties I would like to delve into in
+the coming months are:
+
+- the chances of the EA movement failing
+- Chances of getting into top EAOs in the next 5 years with DS
+- the chances of becoming a partner
+- Impact for DW with an MBA and Management Consulting in less than top
+  firms
