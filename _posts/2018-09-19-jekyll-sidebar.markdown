@@ -34,3 +34,8 @@ be implemented..
 
 ### implementing it
 
+MEga fail
+
+tried allejo but had problebs with css itself. css wont get rendered
+or css being overridden somewhere somehow. Need to make a stack
+question out of it!
