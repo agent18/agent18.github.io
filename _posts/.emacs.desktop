@@ -1,0 +1,43 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sat Sep 22 13:13:28 2018
+;; Desktop file format version 208
+;; Emacs version 25.3.2
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (23462 9176 674671 24000) (desktop . "208") "eghx@eghx-nitro" nil nil ((((font-backend xft x) (font . "-DAMA-Ubuntu Mono-normal-normal-normal-*-19-*-*-*-m-0-iso10646-1") (font-parameter . "Ubuntu Mono 13") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (horizontal-scroll-bars) (foreground-color . "black") (background-color . "white") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 1) (tool-bar-lines . 1) (title) (wait-for-wm . t) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 10) (scroll-bar-height . 0) (alpha) (fullscreen . fullheight) (display-type . color) (background-mode . light) (cursor-color . "black") (sticky) (environment) (frameset--id . "0C80-C063-4820-AF89") (frameset--mini t . t) (height . 40) (width . 77) (modeline . t) (minibuffer . t) (unsplittable) (left + -11) (top . 16) (icon-name) (visibility . t) (display . ":0") (explicit-name)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 5) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 76) (min-pixel-width . 100) (min-pixel-height-ignore . 38) (min-pixel-width-ignore . 50) (min-pixel-height-safe . 19) (min-pixel-width-safe . 20)) leaf (pixel-width . 796) (pixel-height . 730) (total-width . 80) (total-height . 38) (normal-height . 1.0) (normal-width . 1.0) (buffer "2018-05-19-Summary-before-applying-to-80k.markdown" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 1 t nil 0 t) (vscroll . 0) (dedicated) (point . 8608) (start . 7939))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '(" nl" "nl" "investment banking" " ib" "ib" "investment banking" "data-science" "career capital" " cc" "cc" "flexible career capital" "Direct Working" "dwing" "effective altruism" "data science" "direct work"))
+(setq regexp-search-ring '("Data Science" "data science "))
+(setq register-alist nil)
+(setq file-name-history '("/home/eghx/agent18/myblock/_posts" "~/agent18/myblock/_posts/2018-05-19-Summary-before-applying-to-80k.markdown" "~/agent18/myblock/_posts/" "~/agent18/myblock/_posts/2018-05-19-Summary-before-applying-to-80k.markdown" "~/agent18/myblock/_posts/2018-09-19-jekyll-sidebar.markdown" "~/agent18/myblock/_posts/2017-07-15-template.markdown" "~/agent18/myblock/_posts/2018-05-19-Summary-before-applying-to-80k.markdown" "~/agent18/myblock/_posts/" "~/agent18/myblock/_posts/Summary-archive.markdown" "~/agent18/myblock/_posts/2018-07-06-ubuntu-power-off.markdown" "~/agent18/myblock/_posts/2018-05-19-Summary-before-applying-to-80k.markdown"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/eghx/agent18/myblock/_posts/2018-05-19-Summary-before-applying-to-80k.markdown"
+  "2018-05-19-Summary-before-applying-to-80k.markdown"
+  'markdown-mode
+  '(auto-fill-mode abbrev-mode flyspell-mode)
+  8608
+  '(8484 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (8484 8719 6705 6256 3861 6047 5369 3886 3919 3911 6175 3302 8403 2425 2472 8630))))
+
+(desktop-create-buffer 208
+  nil
+  "_posts"
+  'dired-mode
+  '(auto-fill-mode)
+  232
+  '(nil nil)
+  t
+  '("/home/eghx/agent18/myblock/_posts/")
+  nil
+  '((mark-ring nil)))
+

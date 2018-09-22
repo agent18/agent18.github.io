@@ -23,27 +23,23 @@ mean](/Answers-finale.html) total number of lives saved over a lifetime.
 
 According to [80k-hours-career-guide](www.80000hours.org), there seem to be a few
 [approaches](https://80000hours.org/career-guide/high-impact-jobs/#top) to having maximum impact. One can be involved in
-earning-to-give (ETG), do direct work (DW), perform advocacy or work
-on research. When we are too unsure about what we want/can do, then we
-can look into building flexible-career-capital (FCC), which is
-building of skills and knowledge that will be useful in a wide variety
-of industries over time, allowing us the freedom to work on pressing
-problems in the future.
+earning-to-give (ETG), direct work (DW), advocacy or research. When we
+are too unsure about what we want/can do, then we can look into
+building flexible-career-capital (FCC). FCC is the building of skills
+and knowledge that will be useful in a wide variety of industries over
+time, allowing us the freedom to work on pressing problems in the
+future.
 
-ETG needs no explanation. An example of DW would be to work for an NGO
+ETG is self-explanatory. An example of DW would be to work for an NGO
 that stages interventions to help the poor get back upon their feet,
 i.e., working directly where needed. Working in Management consulting
 (MC) or Data Science (DS) would be a way to keep building FCC, as
 these jobs allow you to become valid in a multitude of industries. The
 promotion of solutions to pressing problems is called advocacy;
 Inspiring/persuading friends to contribute to pressing problems is an
-example of advocacy. I don't plan to discuss advocacy right now in
-detail. I hope to take it up on another post at another time as I
-don't see it having much consequence for me at this time. Of course,
-we should do everything we can to get others to also pursue Effective
-Altruism (EA).
+example of advocacy.
 
-In the following we attempt to look briefly at the different
+In the following section we attempt to look briefly at the different
 approaches to creating impact and some top examples of people who work
 in the industry, as featured in the 80k-hours-career-guide.
 
@@ -52,55 +48,56 @@ during the first usage of the expanded form. An appendix in the end
 maintains the list of abbreviations and their full forms for your
 reference.
 
-**Note 2:** This essay heavily relies on the 80k-hours-career-guide.
+**Note 2:** This essay heavily relies on the research done by
+80k-hours-career-guide.
 
 <!-- todo why 80k hours is the shizz -->
 
 ### Approach 1: Earning-to-give 
 
-A career in ETG might include one of the following:
+A career in ETG might look like one of the following:
 
 - **An investment banker** who will earn in millions and give away >50% of
 his salary.
 
 - A **Management Consultant** who will earn > 250k$ and
-  give away >30%
+  give away >30% of his salary.
   
-- A **Data scientist/Project Manager** who will earn 200k$ (in 5-10
-  years) and give as much as possible
-  
-- A **Programmer** who will earn 200k$ and give as much as
-  possible
+- A **Data scientist/Project Manager/Programmer** who will earn 200k$
+  (within a few years) and give as much as possible
 
-- Taking up **Entrepreneurship** although with very small chance of
-  success, has the potential to cause major influence with earning,
-  advocacy and DW.
+- An **Entrepreneur** who will earn in millions of $ and donate >50% of his
+  salary
   
-  [Ben West](https://80000hours.org/career-guide/member-stories/ben-west/) ([LinkedIn](https://www.linkedin.com/in/bentwest/)) an entrepreneur (who was guided by
-  80k-hours) is expected to donate millions to charity. He is going to
-  keep a minimum wage for himself and donate the rest of his salary. Ben
-  West is a fantastic and inspiring example of someone who is going to
-  be ETG. There is a lot of luck involved with entrepreneurship, but
-  nevertheless, it is the attitude that is at praise here - A person who
-  can earn millions saying he will keep minimum wage.
+  Taking up **Entrepreneurship** although with very small chance of
+  success, has the potential to cause major influence with earning,
+  advocacy and DW. [Ben West](https://80000hours.org/career-guide/member-stories/ben-west/) ([LinkedIn](https://www.linkedin.com/in/bentwest/)) an entrepreneur (who
+  was guided by 80k-hours-career-guide) is expected to donate millions to
+  charity. He is going to keep a minimum wage for himself and donate
+  the rest of his salary. Ben West is a fantastic and inspiring
+  example of someone who is going to be ETG. There is a lot of luck
+  involved with entrepreneurship, but nevertheless, it is the attitude
+  that is at praise here - A person who can earn millions saying he
+  will keep minimum wage.
 
 <!-- Amazing, he can even say things like this! -->
 
 ### Approach 2: Direct Working  
 
->80,000 Hours thinks that oly a small proportion of people should
+>80,000 Hours thinks that only a small proportion of people should
 >earn to give long term. We think that most people should be doing
 >things like politics, policy, high-value research, for-profit and
 >non-profit entrepreneurship, and DW for highly socially
 >valuable organizations - [80k-hours-career-guide](https://80000hours.org/)
 
-Most types of DW featured in the 80k-hours-career-guide fall under
+Most types of DW featured in the 80k-hours-career-guide fall under the
+following 3 categories:
 
-- Found &/or Lead or manage Effective-Altruism-Organizations (EAOs) to be
-  most impactful. Some inspiring profiles covered by 80k-hours in this
-  area of DW, are below:
+1. Found &/or Lead or manage Effective-Altruism-Organizations (EAOs)
+  to be most impactful. Some inspiring profiles (featured by
+  80k-hours) in this category are below:
   
-  [Tara Macaulay](https://80000hours.org/career-guide/member-stories/tara/)([Linkedin](https://www.linkedin.com/in/tarajmacaulay/)), was (then) head of operations (now
+	  [Tara Macaulay](https://80000hours.org/career-guide/member-stories/tara/) ([Linkedin](https://www.linkedin.com/in/tarajmacaulay/)), was (then) head of operations (now
   CEO) in the Center for Effective Altruism (CEA). Tara has always been
   outstanding at her work, be it with saving money for her company or
   rising the ranks very fast. She has apparently left a lasting impact
@@ -111,103 +108,119 @@ Most types of DW featured in the 80k-hours-career-guide fall under
   lot of funding (in millions) which it directs to worthy applicants
   that can create large impact.
 
-	[Rob Mather](https://80000hours.org/career-guide/career-capital/)([LinkedIn](https://www.linkedin.com/in/rob-mather-b0331235/)), is the CEO of Against Malaria
+	[Rob Mather](https://80000hours.org/career-guide/career-capital/) ([LinkedIn](https://www.linkedin.com/in/rob-mather-b0331235/)), is the CEO of Against Malaria
 	foundation (AMF) - critically acclaimed as one of the most
 	effective organizations by GiveWell. He has had top education, and
 	possibly an all-the-time high achiever who went to Harvard
 	Business School and University of Cambridge. The AMF saves
 	millions of lives a year, I repeat millions.
 
-	[David Goldberg](https://80000hours.org/career-guide/member-stories/david-goldberg/)([LinkedIn](https://www.linkedin.com/in/davidjonathangoldberg/)), co-founder of Founders Pledge,
-	that makes Tech entrepreneurs legally bound to donate in case their
-	startups succeed. He is definitely another all-the-time high achiever,
-	who went to Cambridge, but has a degree in philosophy. He has done
-	everything other than continuing with philosophy.
+	[David Goldberg](https://80000hours.org/career-guide/member-stories/david-goldberg/) ([LinkedIn](https://www.linkedin.com/in/davidjonathangoldberg/)) is the co-founder of Founders
+	 Pledge - which makes Tech entrepreneurs legally bound to donate
+	 in case their startups succeed. He is definitely another
+	 all-the-time high achiever, who went to Cambridge, but has a
+	 degree in philosophy. He has done everything other than
+	 continuing with philosophy.
 
 	>Before all that, I spent a couple years in finance in the US, started
 	>and sold a business in Europe, and ran a chain of Segway dealerships
 	>in California. All in, a pretty bizarre career trajectory if I’m
 	>honest, which was largely the result of having no clear idea of what
-	>I wanted to do with my life until recently.
+	>I wanted to do with my life until recently. - David Goldberg
 
 	But now he has focused all of his might into the Founders Pledge to
-	create high impact.
+	create huge impact.
 
-  <!-- Seems to be a scope to intern at these places (seems to be -->
-  <!--       working based on availability) -->
+	<!-- Seems to be a scope to intern at these places (seems to be -->
+	<!--       working based on availability) -->
 
 
-- Be an Analyst/researcher at EAOs (EAOs)
-   such as GiveWell or 80000hours
+2. Be an Analyst/researcher at EAOs (EAOs) such as GiveWell or
+   80000hours. Some inspiring profiles (featured by 80k-hours) in this
+   category are below:
 
 	In organizations like GiveWell, 80k-hours, CEA etc... they need
 	people to write useful content in an understandable way and they
 	need people to research what programs are effective and most
-	impactful. In other words, solving problems with limited data,
-	knowing what type of data is interesting, and presenting it in
-	clear manner, is done by analysts or researchers. Here the main
-	criteria are strong critical thinking skills, statistics and
-	Mathematics. Most of the EAO's have very few people (10-30), the
-	top members creating impact in the order of millions of
-	dollars. As an beginner analyst you could already [make an impact
-	of 97k$ a year](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/).
+	impactful. In other words, they need people to solve problems with
+	limited data, knowing what type of data is interesting, and being
+	able to present it in clear manner. This is done by analysts or
+	researchers. Here the main criteria are strong
+	critical-thinking-skills, statistics and Mathematics. Most of the
+	EAO's have very few people (10-30), the top members possibly
+	creating impact in the order of millions of dollars. As an
+	beginner analyst you could already [make an impact of 97k$ a
+	year](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/) working for top EAOs.
 
-- Working in Policy
+3.  Working in Policy
 
 	This involves shaping the policy of governments to impact a
-	population of a city, state, country or world. For example, an
-	Economics PhD working with the government, will [sometimes have
-	the chance to impact a large population](http://allegedwisdom.blogspot.com/2017/03/the-story-of-lucky-economist.html) by influencing policy
-	based on logic and numbers. Although these chances are rare an
-	Economics PhD is still considered [one of the best PhD's to
-	pursue](https://80000hours.org/career-reviews/economics-phd/) (I guess owing to the impact).
+	population of a city, state, country or even the world. For
+	example, an Economics PhD working with the government, will
+	[sometimes have the chance to impact a large population](http://allegedwisdom.blogspot.com/2017/03/the-story-of-lucky-economist.html) by
+	influencing policy based on logic and numbers. Although these
+	chances are rare an Economics PhD is still considered [one of the
+	best PhD's to pursue](https://80000hours.org/career-reviews/economics-phd/) (I guess owing to the impact).
 
-	[Niel Bowerman ](https://80000hours.org/career-guide/member-stories/niel-bowerman/) ([Linkedin](https://www.linkedin.com/in/nielbowerman/)), previously the Assistant Director
-	of Future of Humanity Institute, studied at Oxford University,
-	is another outstanding talent featured in the 80k-hours website. He
-	does not have an MBA, he is a physics major, previously handling
-	fundraising, operations management etc... And now he is the head of AI
-	policy for 80k-hours. With this he is able to guide potential
-	candidates in the right direction to assist in mitigating the [risks
-	of AI](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/) through policy.
+	[Niel Bowerman ](https://80000hours.org/career-guide/member-stories/niel-bowerman/) ([Linkedin](https://www.linkedin.com/in/nielbowerman/)), previously the Assistant
+	Director of Future of Humanity Institute, studied at Oxford
+	University, is another outstanding talent featured in the
+	80k-hours website. He does not have an MBA. He is a physics major
+	who previously handled fundraising, operations management
+	etc... And now he is the head of AI policy for 80k-hours. With
+	this he is able to guide potential candidates in the right
+	direction to assist in mitigating the [risks of AI](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/) through
+	policy.
 
 ### Approach 3: Advocacy
 
-Advocacy is the promotion of solutions to pressing problems leading to
-impact. A simple form of advocacy, is when you convince your friend
-about ETG. By doing this you increase your impact even more.
+Advocacy is a powerful method to multiply your impact. A simple form
+of advocacy as mentioned earlier, is when you to convince your friend
+about ETG.
 
->The second path does more good – in fact probably about twice as much
->– and this illustrates the power of advocacy.
+>The second path (convincing your friend) does more good – in fact
+>probably about twice as much – and this illustrates the power of
+>advocacy. -80k-hours-career-guide.
+
+Rosa parks is another example of why advocacy is high-impact. She
+refused to give up her seat to a white man on a bus, sparking a
+protest which led to a Supreme Court ruling that segregated buses were
+unconstitutional. Her actions led to major progress for civil rights.
+
+Although this sounds amazing, at this point it is unclear for me what
+all I can do to promote advocacy other than talk to people or blog
+about it. Rosa Parks is a fine example but there seems to be a lot of
+random factors involved with the success. For the rest of this essay,
+I will not be taking advocacy into account. I hope to address this
+later.
 
 ### Approach 4: Building career capital
 
 Career Capital (CC) broadly talks about the skills, connections,
-credentials and runway to allow for us to take on high impact tasks
-later. The greater the CC the better, roughly speaking. Better skills
-roughly translates to better output, more chance of learning and even
-more chance of making a lot of impact. In Sales, the more you sell the
-more the money you take home. The better your sales skills are, the
-better you are able to make more money, which can be in turn donated
-to make maximum impact.
+credentials and runway that will allow for us to take on high impact
+tasks later. The greater the CC the better, roughly speaking. Better
+skills roughly translates to better output, more chance of learning
+and even more chance of making a lot of impact. In Sales, the more you
+sell the more the money you take home. The better your sales skills
+are, the better you are able to make more money, which can be in turn
+be donated to make maximum impact.
 
 When we are young and we don't know what problem we should be working
-on or where we can create a lot of impact, FCC
-(FCC) comes in handy then.
+on or where we can create a lot of impact, FCC comes in handy then.
 
 >flexible – useful in many different types of jobs, and likely to
 >remain useful in the future. For instance, learning marketing or
 >management is flexible because almost all organizations need these
 >skills; -[80k hours on CC](https://80000hours.org/career-guide/career-capital/)
 
-In an attempt to keep options open for us
-to move to the problem we can best address later, we should consider
-FCC. For example, if one does an MBA and goes into MC for the next few years, the exit opportunities are
-aplenty. A management consultant after a few years of work has wide
-scope for working in different industries and in different positions
-of choice, in some cases there is scope for DW, and in others
-one can even become partner and donate a lot of money for the rest of
-his life to make the best impact. FCC is something that does not take
+In an attempt to keep options open for us to move to the problem we
+can best address later, we should consider FCC. For example, if one
+does an MBA and goes into MC for the next few years, the exit
+opportunities are aplenty. A management consultant after a few years
+of work has wide scope for working in different industries and in
+different positions of choice, in some cases there is scope for DW,
+and in others one can even become partner and donate a lot of money to
+the cause that needs it the most. FCC is something that does not take
 you to a dead end. For example,
 
 >It’s widely accepted in the non-profit sector that it’s easier to
@@ -215,27 +228,25 @@ you to a dead end. For example,
 >you’re unsure between the two, a business position offers more
 >flexibility.
 
-So jobs, that will continue to be useful in different industries and
-likely to remain useful in the future. Jobs that allow you to gain
-skill that can later be transferred to other jobs are the types of
-work we should be interested in early career I guess.
+So the jobs we should be interested in are the jobs that will continue
+to be useful in different industries and will likely remain useful
+in the future.
 
-[Dillon Bowen](https://80000hours.org/career-guide/member-stories/dillon-bowen/)([Linkedin](https://www.linkedin.com/in/dillon-bowen-409791a1/)) is working towards his Economics PhD
+[Dillon Bowen](https://80000hours.org/career-guide/member-stories/dillon-bowen/) ([Linkedin](https://www.linkedin.com/in/dillon-bowen-409791a1/)) is working towards his Economics PhD
 based on the counseling he got from 80k-hours-career-guide. Economics
-PhD is highly recommended graduate program by 80k-hours-career-guide,
-due to the high impact in direct working. Such a PhD allows for jobs
-in academia (which have a unique way of doing DW), you can go into
-MC, or you can join the government and work in
-policy. So it allows you the CC to decide later to either ETG, DW in
-policy or do research in academia.
+PhD is a highly recommended graduate program by
+80k-hours-career-guide, due to the expected high impact. Such a PhD
+allows for jobs in academia, MC, or even in the government to work in
+policy. So, it allows you the CC to choose later, how and where you
+want to work.
 
  <!-- TBW, He has no MBA, as a result. -->
 
-[Peter Huford](https://80000hours.org/career-guide/member-stories/peter-hurford/)([LinkedIn](https://www.linkedin.com/in/peterhurford8/)), taught himself how to program from a
-political science background that now, he is improving his skills in
-business, programming and finance and is also having extra time to work
-on other charity projects. Peter seems to be a great example of one
-who is building great FCC.
+[Peter Huford](https://80000hours.org/career-guide/member-stories/peter-hurford/) ([LinkedIn](https://www.linkedin.com/in/peterhurford8/)), taught himself how to program
+having started in a political science. Now, he is improving his skills
+in business, programming and finance and is also having extra time to
+work on other charity projects. Peter seems to be a great example of
+one who is building great FCC.
 
 
   <!-- * [ ] Appears that I should follow something like this, and talk to -->
@@ -266,6 +277,14 @@ that I take, considering the success and failure probabilities. The
 next section attempts to identify potential careers and review them
 considering my personal fit.  
 
+ETG, DW and building FCC are the main things discussed further in this
+essay. Advocacy is not discussed further within this essay. I hope to
+take it up on another post at another time as I don't see it having
+much consequence for me at this time. Of course, we should do
+everything we can to get others to also pursue Effective Altruism
+(EA). 
+
+
 <!-- <\!-- #### Trying to try -\-> -->
 
 <!-- Beware of the [trying to try](https://www.lesswrong.com/posts/WLJwTJ7uGPA5Qphbp/trying-to-try) trap? -->
@@ -283,26 +302,21 @@ considering my personal fit.
 	
 ## Finding the right career for you
 
-Based on [the 80k-hours guide](https://80000hours.org/career-guide/personal-fit/) we first make a list of options,
-then compare it with different parameters and at last write out our
-key uncertainties and look at how to deal with them.
+According to [the 80k-hours career guide](https://80000hours.org/career-guide/personal-fit/), the process to find
+the right career path for oneself is as follows:
 
 <!-- Making a list of options -->
 
-- **We make a list of options** by using these questions: What do you
-want to do in life? Provide exact examples of profiles that you would
-like to be like? What are the different career paths you think are
-available to you? Give one way how you would achieve it? These have in
-part been done in the last section and will be factored in.
+- **Make a list of options**
 
 <!-- Rankingish your options --> 
 
-- **We compare different options** based on CC (Skills, Connections,
+- **Compare different options** based on CC (Skills, Connections,
 Credentials, Runway), Personal fit, job satisfaction and impact.
 
 <!-- Write out key uncertainities -->
 
-- **We write out your key uncertainities:** What are the things that you
+- **Write out your key uncertainities:** What are the things that you
 are uncertain about? Can you quickly test them? Are they going to
 change your ranking largely?
 
@@ -343,34 +357,29 @@ The [80k-hours career guide has a career-quiz](https://80000hours.org/career-qui
 on which you get a few career recommendations. The questions and my
 answers written are:
 
-1. Could you become good at math, science or logic?
+1. Could you become good at math, science or logic? Yes.
+
+2. Could you become good at writing and speaking? Yes.
+
+3. Are you happy betting on a small chance for a big impact? No.
+
+4. Are you happy trying to work in the most demanding fields? Yes.
    
-   Yes (outperform 80% of graduates).
+   Challenging work for long hours should not be a problem I
+suppose. I have seen evidence of this in my past, with my master
+thesis (10-14 hrs a day, programming, reading), with my work in the
+Indian Institute of Technology, Madras (easily clocked 10 hrs or more
+a day for 1 year straight), with the courses in my masters and for
+a few months recently where I clocked 10-11 hrs a day, doing 8 hrs of
+paid work and 2-3 hrs of blog work.
 
-2. Could you become good at writing and speaking? 
+5. How far through your career are you? Early.
    
-   Yes (Outperforming 80% of graduates in a humanities subject).
+   I (age:27) finished masters and have been working for ~2 years.
 
-3. Are you happy betting on a small chance of a big impact?
+6. How do you want to contribute? All possible ways.
 
-	No.
-
-4. Are you happy trying to work in the most demanding fields?
-   
-   Yes, challenging work for long hours should not be a problem I
-suppose. I have seen evidences of this in my past, with my master
-thesis (10-14 hrs a day, programming, reading), with my work in the Indian Institute of Technology,
-Madras (easily clocked 10 hrs or more a day for 1 year atleast), while
-doing courses in my masters and for a few months recently where I
-worked 10-11 hrs a day working for a company and doing blog work.
-
-5. How far through your career are you?  
-   
-   Early (27) finished masters and working for ~2 years.
-
-6. How do you want to contribute? 
-
-	All possible ways: Direct, indirect, ETG, research etc...
+   Direct, advocacy, ETG, research etc...
 
 **And the output is:**
 
@@ -382,7 +391,7 @@ worked 10-11 hrs a day working for a company and doing blog work.
 - Software engineering (skill building and ETG)
 - Trading in quantitative hedge funds
 
-When ready to bet on small chances then the output changes to:
+When I am ready to bet on small chances then the output changes to:
 
 - Congressional staffer
 - Policy oriented Civil services
@@ -393,12 +402,12 @@ When ready to bet on small chances then the output changes to:
 - Party politics
 
 In addition to the above career paths, I would also like to evaluate
-some other paths like, the current job I am working at now, difference
-between working at the US, Netherlands and Dubai, etc...
+some other paths like, my current job in Design Engineering, and the
+difference between working in the US, the Netherlands and Dubai.
 
 ### Comparing different careers
 
-The following parameters is used to compare each career path based on
+The following parameters are used to compare each career path based on
 the [80k-hours-career-guide](https://80000hours.org/) - what each of the them mean is
 elaborated in the coming sub-section. :
 	
@@ -425,10 +434,10 @@ elaborated in the coming sub-section. :
 >ability to learn quickly, decision-making, social skills, and
 >management. - [80k hours CC](https://80000hours.org/career-guide/career-capital/)
 
-Is the career path going to lead to transferable skills like in
+'Is the career path going to lead to transferable skills like in
 programming or DS, which is useful in a number of
-industries?, is it going to allow you to gain soft skills like
-critical thinking?, are questions to reflect on.
+industries?', 'Is it going to allow you to gain soft skills like
+critical thinking?', are questions to consider.
 
 >**Connections** – who will you work with and meet in this job? Your
 >connections are how you’ll find opportunities, spread ideas and start
@@ -436,9 +445,9 @@ critical thinking?, are questions to reflect on.
 >character. For both reasons, it’s important to make connections who
 >are influential and who care about social impact. - [80k hours CC](https://80000hours.org/career-guide/career-capital/)
 
-Are my connections going to get me jobs in different industries or
-other industries? Are my connections going to inspire me to do good?
-Are my connections influential?, are some of the questions to reflect
+'Are my connections going to get me jobs in different industries or
+other industries?', 'Are my connections going to inspire me to do good?',
+'Are my connections influential?', are some of the questions to reflect
 on while considering each career path.
 
 > Will this job act as a good signal to future collaborators or
@@ -447,8 +456,8 @@ on while considering each career path.
 > you’re a writer, it’s the quality of your blog. If you’re a coder,
 > it’s your GitHub. -[80k hours CC](https://80000hours.org/career-guide/career-capital/)
 
-How good is this career path to help you grow or express your achievements
-? This is very important to sell yourself to the next interviewer.
+'How good is this career path to help you grow or express your achievements
+?'. Credentials are very important to sell yourself to the next interviewer.
 
 >how much money will you save in this job? Your runway is how long you
 >could comfortably live with no income. It depends on both your
@@ -460,18 +469,25 @@ How good is this career path to help you grow or express your achievements
 >or taking a big pay cut for greater impact. -[80k hours CC](https://80000hours.org/career-guide/career-capital/)
 
 Ability to quickly save enough money for the next 18 months is what
-seems to be defining **runway**. How much I can donate is a question
-answered by the impact section.
+seems to be defining **runway**. 'How much can I donate' is a question
+answered by the 'impact' parameter though.
 
+CC can be looked at as a weighted sum of skill, connections,
+credentials and runway. This can already help us weed out the very
+mediocre performing career paths. 
 
 ### Supportive conditions
 
-> Impact and personal life Engaging work - Will you get freedom to
+> Impact on personal life 
+> - Is the work engaging?
+> - Will you get freedom to
 > decide how to work, clear tasks, clear feedback and variety in what
-> you do?  Colleagues- Will you like them and will they support you?
-> basic needs- Will you earn enough money, will the hours be
+> you do?
+> - Colleagues- Will you like them and will they support you?
+> - basic needs- Will you earn enough money, will the hours be
 > manageable, and will the commute be reasonable?  Fit with rest of
-> your life -– Will you be able to improve your personal
+> your life 
+> - Will you be able to improve your personal
 > relationships, and uphold any other important personal priorities?
 > -[80k hours CC](https://80000hours.org/career-guide/career-capital/)
 
@@ -480,25 +496,27 @@ i.e.,
 - Engaging work
 - Good Colleagues
 - Career that satisfies basic needs
-- Career that fits with rest of life
+- Career that fits with rest of life 
+
+Supportive conditions is not very important for me unless a career is
+known for screwing up health.
 
 ### Personal Fit
 
-What are your chances of excelling in that area? is defined by the
+'What are your chances of excelling in that area?' is defined by the
 personal fit.
 
 ### Impact
 
 Number of lives saved is the ultimate variable we are interested
-in. 
+in. This impact is the sum of lives saved in ETG, DW, Advocacy, and
+research when we choose a particular career path.
 
+### Total
 
-### In total
+The total can be computed per career path, as follows:
 
-The total can be computed per career path,x as follows:
-
-	$ (f1 x Career Capital +f2 x Impact +f3 x supportive conditions) *
-	Personal fit
+	$ (f1 x Career Capital +f2 x Impact +f3 x supportive conditions) x Personal fit
  
 f1, f2, f3 are weights for their respective variables. These values
 are decided by us based on how important that particular variable
@@ -506,27 +524,25 @@ is. If we are early in the career we add more weight to CC. The more
 altruistically-minded we are, the less weight we need to place on the
 supporting conditions.
 
-I don't think it is enough to just look at the result from the above
-formula. All the numbers/values generated are quite subjective and
-have uncertainty in them. It is thus suggested to look at the
-individual variables as well and look at these numbers as more like a
-guide than the reality. CC can be looked at as a weighted
-sum of skill, connections, credentials and runway. This can already
-help us weed out the very mediocre performing ones. Supportive
-conditions is not very important for me unless a career is known for
-screwing up health. To determine the effective impact of pursuing a
-career, we should do more than just multiply the impact with the
-personal fit. We should look at it like a decision tree. If we succeed
-our impact is say X. If we fail our impact will be Y. Therefore,
-
-	Effective impact = Personal fit x X + (1-Personal fit) x Y
-
-When the personal fit comprises of succeeding in multiple events we
-use the above formula in the form of a decision tree.
-
 [Source: how to compare different careers ](https://80000hours.org/articles/framework/#questions-for-assessing-each-factor) 
 
-In the next section we take each career path and obtain values to each
+
+### Personal fit x Impact
+
+Multiplying the personal fit with impact seems to show only half of
+the story (we shall call it `rough-impact`). To determine the
+effective impact of pursuing a career, we should do more than just
+multiply the impact with the personal fit. We should look at it like a
+decision tree with just one branch. If we succeed our impact is say
+X. If we fail our impact will be Y. Therefore,
+
+	Effective-impact = Personal fit x X + (1-Personal fit) x Y
+
+When the personal fit comprises of succeeding in multiple events we
+use the above formula in the form of a decision tree with multiple
+branches.
+
+In the next section we take each career path and obtain values for each
 of the above variables.
 
 ---
@@ -2928,7 +2944,7 @@ take place every 6 months.
 	~~- uncertainities clean up~~
 
 ~~- DS or Datascience consistant everywhere!
-~~~~- spell check~~
+~~ ~~- spell check~~
 - tables of content on the left side is easy ([look here](https://github.com/jekyll/jekyll-help/issues/273))
 - Clean up posts on website
 
