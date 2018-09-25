@@ -3,9 +3,9 @@ layout: post
 comments: true
 title:  "  The story so far(2) "
 date:    29-07-2017 17:18
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
-published: False
+
 ---
 
 #### **Everything is a feeling?**

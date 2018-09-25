@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "The 600 word experiment"
 date:   2017-04-03 22:12
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 ---
 

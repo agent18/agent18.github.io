@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "How to determine your value system?(deprecated)"
 date:    1-07-2017
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 ---
 Post discussion with an STM.

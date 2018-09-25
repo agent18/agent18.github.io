@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "  Profile on Management Consulting "
 date:    10-03-2018 16:52
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 published: True
 ---

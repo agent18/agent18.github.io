@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  " Marriage - an online article"
 date: 28-05-2017 16:22
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 ---
 

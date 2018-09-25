@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Empirical Evidence (cont...)"
 date:   2017-04-04 22:12
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 ---
 

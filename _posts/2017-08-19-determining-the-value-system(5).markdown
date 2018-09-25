@@ -3,9 +3,9 @@ layout: post
 comments: true
 title:  "  This is it (1) "
 date:    19-08-2017 21:24
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
-published: False
+
 ---
 #### **Conclusion on feelings:**
 

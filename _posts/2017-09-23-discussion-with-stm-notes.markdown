@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "  Story on 23-09-2017 "
 date:    23-09-2017 17:18
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 published: False
 ---

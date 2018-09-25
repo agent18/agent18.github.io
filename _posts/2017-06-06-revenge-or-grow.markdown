@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Revenge or grow - Revisit (1)"
 date: 06-06-2017 20:20
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 ---
 

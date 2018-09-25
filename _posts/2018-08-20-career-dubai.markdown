@@ -3,7 +3,8 @@ layout: post
 comments: true
 title:  "A career in Dubai"
 date:    20-08-2018 18:30
-categories: drafts
+categories: notes
+tags: career
 permalink: /:title.html
 published: True
 ---

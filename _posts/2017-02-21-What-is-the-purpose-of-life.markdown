@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "What is the purpose of life?"
 date:   2017-02-21 21:30
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 ---
 

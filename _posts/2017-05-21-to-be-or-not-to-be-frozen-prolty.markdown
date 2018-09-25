@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "To be or not to be - FROZEN (3) - Probabilty "
 date:   2017-05-21 12:30
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 ---
 

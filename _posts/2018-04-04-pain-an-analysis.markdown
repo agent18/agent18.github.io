@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  " Pain - an analysis"
 date:    04-04-2018 20:40
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 published: True
 ---

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Marriage - old age (6)"
 date: 01-06-2017 22:05
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 ---
 

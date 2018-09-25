@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "US (2) "
 date:    24-03-2018 16:31
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 published: True
 ---

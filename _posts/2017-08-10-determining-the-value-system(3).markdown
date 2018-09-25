@@ -3,9 +3,9 @@ layout: post
 comments: true
 title:  "  The story so far(3) "
 date:    10-08-2017 19:15
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
-published: False
+
 ---
 #### Story so far
 

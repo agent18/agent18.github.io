@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "How I cured my RSI"
 date:   2017-01-14 20:48
-categories:
+categories: posts
 permalink: /:title.html
 ---
 

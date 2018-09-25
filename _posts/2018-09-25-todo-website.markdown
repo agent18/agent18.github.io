@@ -1,9 +1,9 @@
 ---
 layout: post
 comments: true
-title:  "template"
+title:  "TODO for the website"
 date:    8-09-2018 15:16
-categories: drafts
+categories: notes
 tags: work-in-progress, website
 permalink: /:title.html
 published: false
@@ -14,7 +14,8 @@ published: false
 - Fix CSS
 - Add scroll bar to the left
 
-- add tags to the right
+- add all tags to the right
 
 - add status of essay, last created time stamp
 
+- adding google analytics

@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  "Making capsicum chutney"
+title:  "Making Kadai vegetable"
 date:    8-09-2018 15:16
 categories: drafts
 tags: cooking

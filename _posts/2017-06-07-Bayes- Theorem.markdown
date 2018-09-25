@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  " Bayes Theorem  "
 date:    07-06-2017 21:46 
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 ---
 

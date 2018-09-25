@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  " Motivation- writing? "
 date:    19-11-2017 10:07
-categories: The Beginning
+categories:  drafts
 permalink: /:title.html
 published: True
 ---

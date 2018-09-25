@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Measuring Success with Deep thinking"
 date:    24-06-2017	13:20
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 ---
 

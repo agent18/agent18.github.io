@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Solution inside your head (reboot)"
 date:   2017-02-05 15:56
-categories:
+categories: drafts
 permalink: /:title.html
 ---
 

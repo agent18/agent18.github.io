@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Finance "
 date:    02-04-2018 10:38
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 published: True
 ---

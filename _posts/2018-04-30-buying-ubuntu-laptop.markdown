@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  " Buying an ubuntu-compatible laptop"
 date:    02-05-2018 21:09
-categories: The Beginning
+categories: notes
 permalink: /:title.html
 published: True
 ---

@@ -3,9 +3,8 @@ layout: post
 comments: true
 title:  " Motivation (3)"
 date:    08-10-2017 09:39
-categories: The Beginning
+categories:  drafts
 permalink: /:title.html
-published: False
 ---
 #### **Flow**
 

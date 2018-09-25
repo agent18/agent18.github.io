@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "To be or not to be - FROZEN"
 date:   2017-05-03 22:12
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 ---
 

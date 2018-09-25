@@ -3,9 +3,9 @@ layout: post
 comments: true
 title:  "  Answers (3) "
 date:    25-09-2017 19:46
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
-published: False
+
 ---
 Don't we think the life of ants is pointless? Anything that we do is just carrying on some legacy left over by some random process. Why not just do random things?
 

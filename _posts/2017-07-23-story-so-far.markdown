@@ -3,9 +3,9 @@ layout: post
 comments: true
 title:  "  The story so far "
 date:    23-07-2017 19:39
-categories: The Beginning
+categories:  drafts
 permalink: /:title.html
-published: False
+
 ---
 
 #### **Conflicting views**

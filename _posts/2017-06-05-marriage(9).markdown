@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Marriage - an epic conclusion for now(9)"
 date: 05-06-2017 13:23
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 ---
 #### Synopsis of the series

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Purpose of life (4)"
 date:   2017-04-12 22:12
-categories: The Beginning
+categories:  drafts
 permalink: /:title.html
 ---
 

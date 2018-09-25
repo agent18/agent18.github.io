@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "  Discussion 7 oct"
 date:    07-10-2017 17:18
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 published: False
 ---

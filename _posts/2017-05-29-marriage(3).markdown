@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  " Marriage - detailing (3)"
 date: 29-05-2017 20:29
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 ---
 

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "How to make jekyll work with github for your blog site"
 date:   2017-01-10 23:54
-categories: Notes
+categories: posts
 permalink: /:title.html
 ---
 <!-- <img src="/images/git.png" width="200" height="200" /> --> 
@@ -127,8 +127,6 @@ At the top of your GitHub repository's Quick Setup page, click "pad-with-left-ar
 
 We have now created the repository online and synced with my-awesome-site locally. Check your repository page ("github.com/username") to see if you see the contents of my-awesome-site. We can display the site on our browser locally ($ jekyll serve) and upload ($ git push) to see the changes online @ username.github.io .
 
----
-
 #### **From now on!**
 Go to \_posts folder in my-awesome-site. Look at the basic post and emulate future posts. Look around and the one thing that helps is to go through the [jekyll docs][jekyll_usage] as and when required, but patiently. Spend some time and make the changes you want to the site. From now on the work flow will be as follows: 
 
@@ -139,10 +137,9 @@ Go to \_posts folder in my-awesome-site. Look at the basic post and emulate futu
 Type Username and password and then go to username.github.io and it works like a charm. Wait a few minutes before you see the changes on your site.
 
 
-#### **on a fresh boot & existing repository in Github, with jekyll site**
+#### **Existing repository setup on new PC**
 
-If: New PC, fresh jekyll install (as above), already available github site
-run with jekyll. Then: do the following:
+Install Jekyll (as above), and then do the following:
 
 	sudo apt-get install git
 

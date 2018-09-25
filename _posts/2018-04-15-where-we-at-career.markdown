@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Where we at - career "
 date:    15-04-2018 08:39
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 published: False
 ---

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "  Questions series for Career "
 date:    29-07-2017 17:18
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 published: False
 ---

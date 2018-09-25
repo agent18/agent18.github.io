@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Feeling Rational"
 date:    10-06-2017 10:46
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 ---
 > Tho kaise hey aap log    

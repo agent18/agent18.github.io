@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Heuristics and Biases"
 date:   2017-04-06 22:12
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 --- 
 

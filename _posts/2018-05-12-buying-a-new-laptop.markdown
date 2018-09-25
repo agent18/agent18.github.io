@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  " Buying a new laptop or NOT?"
 date:    12-05-2018 08:39
-categories: draft
+categories: drafts
 permalink: /:title.html
 published: True
 ---

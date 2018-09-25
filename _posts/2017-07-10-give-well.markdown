@@ -3,9 +3,9 @@ layout: post
 comments: true
 title:  "   Give Well Netherlands   "
 date:    10-07-2017	22:47
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
-published: False
+
 ---
 
 [Give Well][give_well] seems to not be able to help in Netherlands with Tax-deductible transactions, but work with the help of Effective Altruism Foundation which is a non-profit that claims tax-deductible transactions for many countries, including Netherlands, Germany and switzerland.

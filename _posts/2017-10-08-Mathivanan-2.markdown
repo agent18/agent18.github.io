@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  " Motivation (2)"
 date:    08-10-2017 09:39
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 published: True
 ---

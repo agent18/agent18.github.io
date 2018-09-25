@@ -1,9 +1,9 @@
 ---
 layout: post
 comments: true
-title:  "  Answers Finale "
+title:  "  What is the purpose of Life "
 date:    25-09-2017 21:13
-categories: The Beginning
+categories: notes
 permalink: /:title.html
 published: True
 ---

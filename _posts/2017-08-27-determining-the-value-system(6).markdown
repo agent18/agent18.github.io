@@ -3,9 +3,9 @@ layout: post
 comments: true
 title:  "  This is it (2) - Do not read! "
 date:    27-08-2017 10:26
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
-published: False
+
 ---
 
 #### **Recap**

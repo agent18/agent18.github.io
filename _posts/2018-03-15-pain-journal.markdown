@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Pain journal- Logging "
 date:    15-03-2018 21:39
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 published: True
 ---

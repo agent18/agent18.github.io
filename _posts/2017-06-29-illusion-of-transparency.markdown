@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  " Illusion of Transparency "
 date:    29-06-2017 19:17
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 ---
 This post is but my version of Eliezer's [article on the Illusion of Transparency][ele_illusion]. 

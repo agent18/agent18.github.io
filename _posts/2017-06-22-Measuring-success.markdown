@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Measuring Success (deprecated)"
 date:    22-06-2017	23:05
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 ---
 

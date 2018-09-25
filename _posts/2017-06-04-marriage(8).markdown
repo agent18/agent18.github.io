@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Marriage - Alternatives to marriage (8)"
 date: 04-06-2017 14:35
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 ---
 

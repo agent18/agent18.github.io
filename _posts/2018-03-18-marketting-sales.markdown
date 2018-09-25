@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Profile on Marketing and Sales (1) "
 date:    18-03-2018 08:39
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 published: True
 ---

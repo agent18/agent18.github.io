@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Availability Bias"
 date:   2017-04-17 22:12
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 ---
 

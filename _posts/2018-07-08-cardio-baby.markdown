@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  " Cardio baby"
 date:    08-07-2018 19:52
-categories: draft
+categories: notes
 permalink: /:title.html
 published: True
 ---

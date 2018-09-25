@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Empirical Evidence (reboot)"
 date:   2017-02-08 22:26
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 ---
 
@@ -106,14 +106,7 @@ God Bless! ;)
 > It's not about the end goal, it's about who you become by consistently pushing to the edge of your limits. 
 -Robin Sharma
 
-
----
-#### **Later**
-What! Where is your EE nigga?
-
-Where can we find EE? What are some solid sources of EE?
-Site IND example, you can ask th egovernement people or just fb and so on
-
+Kill me!
 
 ---
 [falsifiable]:https://en.wikipedia.org/wiki/Falsifiability

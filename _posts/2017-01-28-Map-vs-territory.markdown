@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Map vs territory (reboot)"
 date:   2017-01-28 21:22
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 
 ---

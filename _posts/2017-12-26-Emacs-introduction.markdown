@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "A new beginning- Emacs"
 date:    26-12-2017 15:00
-categories: The Beginning
+categories: notes
 permalink: /:title.html
 published: True
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 comments: true
-title:  " Summary before appying to 80k"
+title:  " Summary- Career research"
 date:    19-05-2018 08:39
-categories: drafts
+categories: posts
 permalink: /:title.html
 published: True
 ---
@@ -1861,7 +1861,6 @@ Just as was done in the section on 'MC', the decision tree is as follows:
 
 {:.tablestyletwo}
 | Crossroad                        | Success | Other | #lives if success | #lives if other | EA: If success | EA: if failure |
-|                                  |         |       |                   |                 |                |                |
 |----------------------------------|---------|-------|-------------------|-----------------|----------------|----------------|
 | 165+ in GRE                      | 90.0%   | 10.0% | NA                | 790             | 545            | 79             |
 | Learning Eco. to get into top 20 | 70.0%   | 30.0% | NA                | 790             | 369            | 237            |
@@ -2890,27 +2889,7 @@ successful people I know, now that I have done some ground work. As
 per the advice of 80k-hours-career-guide a career evaluation shall
 take place every 6 months.
 
-## plan for this esay
-
-- finish editing the blog post
-
-	~~- divide into particular sections~~
-	~~- work on section by section~~
-	~~- understand the flow first~~
-
-	- Read whole blog post once and see if it makes sense altogether.
-    ~~- appendix check what is needed.~~
-	~~- "What is needed" plan to reject or accept?~~
-	~~- uncertainities clean up~~
-
-~~- DS or Datascience consistant everywhere!
-~~ ~~- spell check~~
-~~-tables of content on the left side is easy ([look here](https://github.com/jekyll/jekyll-help/issues/273))~~ 
-- Clean up posts on website
-
-~~- loss in github bold italics etc...~~
-
-- table css not right mozilla bold not right 
+---
 
 ## Appendix
 ### Abbreviations
@@ -2930,6 +2909,7 @@ take place every 6 months.
 | DE           | Design Engineering              |
 | IB           | Investment banking              |
 | PE           | Private equity                  |
+
 
 ### Calculating impact of direct working in 80k-hours
 

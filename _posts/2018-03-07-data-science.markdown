@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  " Profile on Data Science "
 date:    07-03-2018 20:21
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 published: True
 ---

@@ -4,7 +4,7 @@ layout: post
 comments: true
 title: " Career- Management consulting profile" 
 date: 13-02-2018 
-categories: The Beginning 
+categories: drafts
 permalink: /:title.html
 published: False
 

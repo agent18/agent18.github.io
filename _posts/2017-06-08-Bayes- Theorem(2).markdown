@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  " Bayes Theorem - counter intuition (2) "
 date:    08-06-2017 19:50 
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 ---
 

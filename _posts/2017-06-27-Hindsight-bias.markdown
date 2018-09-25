@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Hind-sight bias     "
 date:   27-06-2017	20:48
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 ---
 From the post by Eleizer on Hindsight bias

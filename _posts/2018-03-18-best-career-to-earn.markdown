@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Best career to earn"
 date:    18-03-2018 09:43
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 published: False
 ---

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Learning Data science- Notes"
 date:    13-08-2018 08:39
-categories: drafts
+categories: notes
 permalink: /:title.html
 published: True
 ---

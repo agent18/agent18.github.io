@@ -3,9 +3,9 @@ layout: post
 comments: true
 title:  " Installing Ubuntu 16 and setting it up on Dell E5430"
 date:    06-05-2018 08:39
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
-published: False
+
 ---
 
 

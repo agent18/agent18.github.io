@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Profile on marketing (2) "
 date:    20-03-2018 20:34
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 published: True
 ---

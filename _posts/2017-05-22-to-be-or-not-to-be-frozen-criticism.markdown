@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "To be or not to be - FROZEN (4) - Criticism "
 date:   2017-05-23 20:35	
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 ---
 #### Story so far

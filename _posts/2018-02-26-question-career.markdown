@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "The plan ahead- in the form of questions "
 date:    06-03-2018 19:30
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 published: True
 ---

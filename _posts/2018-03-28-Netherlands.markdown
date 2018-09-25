@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Netherlands "
 date:    28-03-2018 20:26
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 published: True
 ---

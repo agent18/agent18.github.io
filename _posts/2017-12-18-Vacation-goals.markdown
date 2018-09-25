@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Vacation Goals"
 date:    18-12-2017 19:39
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 published: False
 

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Feeling Rational - Pushing further (3)"
 date:    12-06-2017 20:10
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 ---
 > Tho kaise hey aap log    

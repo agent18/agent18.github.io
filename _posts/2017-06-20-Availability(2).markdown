@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  " Availability  (2)    "
 date: 20-06-2017  21:00
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 ---
 #### Correlation and causality 

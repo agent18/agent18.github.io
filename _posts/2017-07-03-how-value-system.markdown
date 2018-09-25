@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "How to determine your value system?"
 date:    3-07-2017 19:07
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 ---
 

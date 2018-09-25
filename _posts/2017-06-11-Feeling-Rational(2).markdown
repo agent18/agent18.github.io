@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Feeling Rational - Definitions (2)"
 date:    11-06-2017 21:23
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 ---
 > Tho kaise hey aap log    

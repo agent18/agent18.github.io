@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Empirical-Evidence- the 600 word experiment"
 date:   2017-04-05 21:49
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 ---
 

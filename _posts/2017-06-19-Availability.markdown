@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  " Availability      "
 date: 19-06-2017  19:57
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 ---
 

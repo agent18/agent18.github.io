@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Marriage - Looking back at assumptions(7)"
 date: 03-06-2017 19:56
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 ---
 

@@ -3,9 +3,9 @@ layout: post
 comments: true
 title:  "Why Value system ?"
 date:    19-07-2017 19:17
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
-published: False
+
 ---
 
 ## Why Value system ?

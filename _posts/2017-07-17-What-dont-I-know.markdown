@@ -3,9 +3,8 @@ layout: post
 comments: true
 title:  "What don't I know ?"
 date:    17-07-2017 18:50
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
-published: False
 ---
 
 #### Things I am not clear about?

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  " Profile on Economics-phd"
 date:    20-03-2018 23:26
-categories: The Beginning
+categories: drafts
 permalink: /:title.html
 published: True
 ---

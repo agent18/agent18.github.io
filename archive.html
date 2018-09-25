@@ -5,10 +5,11 @@ title: Archive
 
 <div class="home">
 
-  <h1 style="font-size:30px" class="page-heading">Posts</h1>
+  <h1 style="font-size:30px" class="page-heading">Archives
+  </h1>
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.categories.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
