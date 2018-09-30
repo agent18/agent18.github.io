@@ -1,0 +1,99 @@
+---
+layout: post
+comments: true
+title:  " Buying a heart rate meter"
+date:    26-09-2018 20:37
+categories: drafts
+tags: buy, consumerism
+permalink: /:title.html
+
+---
+
+I want to measure my heart rate and hence judge activity based on it
+say measure calories or whatever with bluetooth or what ever
+
+**Preferably a watch that can do it or not**
+
+## Minimum to do
+
+I want to be able to read out avg heartrate and currnet heart rate
+during workout. Thats it and other stats if they apply.
+
+
+## What you might need
+
+- a hearrate monitor and an app
+
+	- runkeeper is at 9.99$ /month :(
+
+- a fitbit
+
+	- there seems to be no evidence that I can happily display avg
+      heart rate and heart rate at the same time while workout
+	  
+	    * [ ] Also look at this app, it might give some hints
+	  
+- a wahoo tickr or tickr X
+
+	[what is different between the two](https://support.wahoofitness.com/hc/en-us/articles/115001954110-How-do-Different-TICKR-Models-Compare-)
+	
+	Maybe go for X if it can really give more info about indoor biking
+    and indoor running 
+	
+		  * [ ] To be checked
+
+	[Good video](https://www.youtube.com/watch?v=uZBgkTm8RGQ) that explains the different versions. Apparently X
+    has treadmill mode and indoor cycling cadence, which is like the
+    RPM info!
+	
+	
+		  
+## Apps
+
+- runkeeper is at 10$/month :(
+
+- fitbit comes with own app but product costs a bomb
+
+-wahoo app seems to be really good with the exact features I want
+i.e., avg heart rate and maybe it also show current heart rate
+
+  * [x] Download wahoo and see what all it can show
+  
+  It seems tha tit can show avg heartrate during a workout even on the
+  app. **I say buy it!** this is as good as it gets with getting such information.
+  
+- worst case I can return the product if it is not good
+
+order it?
+
+## Fitbit vs Wahoo
+
+At this point Wahoo which needs an external bluetooth device to show
+its working and stats, where with a fitbit doesn't and it is not clear
+if it can display the relavant stats. If it can, it is going to be
+quite pricy (200 Euros). Instead I could just get a new phone for that
+price. Even if I pay so much I don't know if it can show what I want!
+
+So the thing is pretty clear that wahoo tickr/tickrX should be
+enough. But which one of those should I buy?
+
+
+Cadence seems like it is going to be pointless as my training involves
+varying grades of levels while biking. As long as I am in a varying
+training program like in the treadmill or on the 
+
+double tap feature? 
+
+Bought it! Its just 30 bucks, let me get it, period?
+	
+## Replace battery Polar t31 heartrate monitor
+
+replace battery of Polar heart rate meter available in the gym 
+https://www.youtube.com/watch?v=lBsv9XoV6aA
+
+
+	
+	
+
+
+
