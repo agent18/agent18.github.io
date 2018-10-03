@@ -126,15 +126,15 @@ DO greats possess incredible abilities in memory and Intelligence?
 > Consider, for example, a study of salespeople. This was a so-called
 > meta-analysis, the largest of its type ever conducted, gathering
 > data from several dozen previous studies looking at almost forty-six
-> thou- sand individuals. Studying businesspeople in the real world is
+> thousand individuals. Studying businesspeople in the real world is
 > tough because you generally can't control the conditions, and the
 > results are often unclear; whether a decision was good or bad may
 > not be known for years. Salespeople make attractive subjects for
 > researchers because at least they produce something clear to
 > measure: sales. There may still be endless sources of noise in the
 > results, as salespeople explain elo- quently to their bosses, but
-> over time and over large numbers of sub- jects, most of that should
-> wash out.  In this analysis of analyses, the researchers found that
+> over time and over large numbers of subjects, most of that should
+> wash out. In this analysis of analyses, the researchers found that
 > if you ask salespeople's bosses to rate them, the ratings track
 > intelligence moder- ately well; bosses tend to think that smarter
 > salespeople are better. But when the researchers compared
@@ -169,7 +169,7 @@ And what about memory,
 Countless studies seem to show that it is also acquired and only for
 specific tasks. i.e, when he trained to develop memory, but having
 trained that he is not able to do any better in say using random
-consonents!
+consonants!
 
 
 Example of SF
@@ -205,7 +205,6 @@ GO and Gomuku. SF's incredible memory didn't extend to consonants.
 
 
 
-
 Major companies look for the extrodinary based on the SATs and other
 things related to IQ, but as we have seen above, these are not 
 
@@ -228,8 +227,7 @@ other things for example.
 > have? Research going back decades suggests that personality dimen-
 > sions don't vary much over the course of a person's life. But of
 > course that doesn't necessarily limit a person's achievement; it may
-> limit only 48 How Smart Do You Have to Be?  the fields in which a
-> person is most likely to excel. I
+> limit only the fields in which a person is most likely to excel. I
 
 **So there are physical constraints**
 
@@ -302,7 +300,7 @@ matter. He became famous for the precision of his patterns.
 
 3 groups of violinsts, the best who were going to be solo performers,
 the next best as decided by the professors of the school and the third
-devision who would most likely become teachers.
+division who would most likely become teachers.
 
 After a through study it showed that why each group was so different
 from each other despite being very similar, in age, current time
@@ -369,7 +367,7 @@ choosing the best practice activity will be impossible;
 >They're meant to stretch the individual beyond his or her current
 abilities.
 
->By contrast, deliberate practice requires that one identify certain
+> By contrast, deliberate practice requires that one identify certain
 > sharply defined elements of performance that need to be improved,
 > and then work intently on them
 
@@ -396,7 +394,6 @@ times in a season,
 > when it opened in the morning and shoot baskets until it closed at
 > night.
 
-
 >You can work on technique all you like, but if you can't see
 the effects, two things will happen: You won't get any better, and you'll
 stop caring.
@@ -416,7 +413,7 @@ better places enormous strains on anyone's mental abilities.
 
 **It is painful**
 
->Then we iden- tify the painful, difficult activities that will make
+>Then we identify the painful, difficult activities that will make
 > us better and do those things over and over.
 
 >It must be so. If the activities that lead to greatness were easy and
@@ -541,9 +538,8 @@ choices generally produced what kinds of consequences.
 But some people play 49 games blindfolded, how is that possible?
 
 >In the real world, the great power of long-term working memory—the
-reason it distin- guishes the best performers—is that it's built on a
+reason it distinguishes the best performers—is that it's built on a
 retrieval structure connected to the very essence of the activity.
-
 
 >To illustrate, consider first a simple research study involving two
 > groups: devoted baseball fans and casual observers of the game. Both
@@ -574,8 +570,6 @@ you can hang the wide amount of knowledge.
 >There is in fact a path leading from the state of our own abilities
 > to that of the greats. The path is extremely long and demanding, and
 > only a few will follow it all the way to its end
-
-
 
 ### Chap 7: appling to our lives
 
@@ -1235,6 +1229,8 @@ with auditors, clinical psychologists and even surgeons.
 > corporate fraud—a fairly important skill for an auditor—than were
 > freshly trained rookies.
 
+### Talent is overrated
+
 Talent certainly seems to be overrated. Talent refuses to show itself
 even after many many years into the lives of exceptional musicians.
 
@@ -1275,4 +1271,410 @@ GE. And apparently until that point there seems to be no point
 indicating the business tycoon that he was going to become. 
 
 If talent existed and refused to show itself even after so many years
-of life, it beckons the statement if that inate ability (talent) even exists.
+of life, it beckons the statement if that inate ability (talent) even
+exists.
+
+**Could the explanation possibly be genetic?**
+
+Oboe genes are almost certain they don't exist. 
+
+>But practice proponents do not dispute the possibility that genes
+> could play a role in a person's willingness to put himself or
+> herself through the extremely rigorous demands of becoming an
+> exceptional performer.
+
+
+### Smartness: Intelligence and Memory
+
+Maybe talent seems like it doesn't exist, but intelligence and memory
+should probably have a high influence. For example, the top players
+where they are because of their supreme intelligence or vast memory
+
+**Intelligence**
+
+A study was conducted in the business realm. Salesmen were an
+attractive subject for this study as it is rather clear to measure
+output/success. More number of sales more output. The study was the
+largest of its kind containing data of several dozen studies amounting
+to 45k individuals. Because of such a large number the endless sources
+of noise are expected to be drowned. The bosses gave good indication
+of the IQ of the person with their ratings and with the help of sales
+they actually made, the results were compiled. 
+
+>Intelligence was virtually useless in predicting how well a
+>salesperson would perform. Whatever it is that makes a sales ace, it
+>seems to be something other than brainpower.
+
+Another investigation on real world performance is with betting of
+horses. The goal was to forecast post-time odds. Based on this the
+classification of experts and non-experts was done. Both groups seem
+to have not much differences in terms of experience at the track,
+years of formal education, and even the IQ averages and
+variation. 
+
+Further investigation suggested that IQ's didn't help predict if
+someone was going to be good or bad at this. A person with IQ of 85
+("dull normal") was able to pick out the top horse in 10/10 races. And
+a nonexpert with IQ 118 picked up the top horse for 3/10 cases. 
+
+There are a dozen factors that go into deciding the outcome of the
+game, like how the horse fared in the last game, track condition
+etc... Apparently the low-IQ-experts used far complex models that took
+a wide consideration of multiple variables unlike the high-IQ-experts.
+
+
+And this doesn't stop here. The same traits are observed with Chess,
+GO and even scrabble. "Scrabble users below average results on tests
+of verbal ability. And some Chess grand masters have IQ that are below Normal.
+
+> IQ seems to be a decent predictor of performance on an unfamiliar
+> task, but once a person has been at it for a few years, IQ predicts
+> little or nothing about performance.
+
+
+**And What about memory?**
+
+> The Czech master Richard Reti once played twenty-nine blindfolded
+>games simultaneously.
+
+>Miguel Najdorf, a Polish-Argentinean grand
+>master, played forty-five blindfolded games simultaneously in Sao
+>Paulo in 1947;
+
+Surely this is a sign of the Divine? Surprise, surprise! A study with
+highly skilled chess players and non-experts in chess was done where
+all were shown real chess game positions of 25 pieces for 5-10
+seconds. The chess masters were able to recall the position of every
+single piece, whereas the non-experts were able to recall 4 or 5
+pieces. This was followed up with random placement of chess pieces and
+the same 5-10 seconds to remember each piece. The chess masters and
+the non-experts pretty much ended up with the same results. So,
+
+>The chess masters did not have incredible memories. What they had was
+>an incredible ability to remember real chess positions.
+
+or 5-9 chunks of information on the chess board that allowed them to
+recall the positions. Similarly even with GO and GOMUKU similar
+results were achieved.
+
+>Many decades of research have shown that average short-term memory
+>holds only about seven items. The capacity of short-term memory
+>doesn't seem to vary much from person to person; virtually everyone's
+>short-term memory falls in the range of five to nine items.
+
+As reflected later in the book (TOI, Chap 6), remembering 49 games at
+once is still a ginormous feat not possible with this short term
+memory. More on this later.
+
+There are physical limitations to achievement. Death and
+diseases, physical limitations (related to age, personal dimensions
+etc...), are some of the things of physical limitations we might have
+stopping us from becoming the greats. 
+
+>Many decades of research have shown that average short-term memory
+>holds only about seven items.  The capacity of short-term memory
+>doesn't seem to vary much from person to person; virtually everyone's
+>short-term memory falls in the range of five to nine items.
+
+<!-- needs repair -->
+Other than physical limitations, there is not really clearly
+understood or proven non-physical constraints.
+
+
+### Chap 4 a better IDEA
+
+**Who is Jerry rice?**
+
+> As every football fan knows, Jerry Rice was the greatest receiver in
+> NFL history, and some football authorities believe he may have been
+> the greatest player at any position.
+
+He was great athlete while already in his senior year but was not NFL
+material that all teams fought to sign him. 
+
+>In the 1985 draft, fifteen teams passed him over before the San
+>Francisco 49ers finally signed him.
+
+Despite all this the legacy he has left behind him is truly
+remarkable.
+
+>For some future player to perform at such an extremely high standard
+>for so many years in a physically brutal game is obviously not
+>impossible, but history sug- gests that it is unlikely
+
+**What makes him different?**
+
+He always did more. During workouts after catching a pass rice would
+sprint to the end zone unlike his other team mates. He would typically
+continue practicing by long after the rest of the team left. 
+
+His off-season trainings were so hard that the workouts were not
+shared with other teams not because it was confidential, but because
+it would possibly cause harm to them. He spent way more time than his
+colleagues with his workouts which he completely conducted on his
+own. He always seemed to do strenuous cardio and weight
+training. People who joined him for these workouts would stop midway
+because they got sick. These workouts were considered the most
+demanding in the league.
+
+He trained for specific things that was most important for his
+success. He knew he could not sprint fast, but then he trained on
+other aspects which resulted in speed not making much of a different. 
+
+He defied age limits.
+
+>Wide receivers, who run like hell on most plays and frequently get
+>crushed by tacklers, aren't supposed to last twenty sea- sons or
+>play until age forty-two. None but Rice has ever done so.
+
+**The crucial finding on what seems to matter**
+
+A study of 3 violin groups from a school, rated by their teachers into
+three categories based on their skill level, shows some interesting
+insights. Group A and B were the exceptional and the good
+performers. Group C were people from a department in the same school
+which admitted far less talented students who would become researchers
+or teachers. 
+
+All groups were alike, performing a spending similar amount of time in
+total for activities such as lessons, practice, exams etc... All
+subjects were of the same age as well. 
+
+After a through study it was discovered that groups A and B spent
+equal number of hours in practice/week by themselves whereas group C
+spent much lesser time in doing this. But this quite did not answer
+why Group A and B were so different. Upon a deeper look it was found
+that the total accumulated hours of lifetime practice for Group A was
+\>7k hours, for group B was 5k hours and for group C it was 3k hours. 
+
+>No matter who they were, or what explanation of their performance was
+>being advanced, it always took them many years to become excellent,
+>and if a person achieves elite status only after many years of toil,
+>assigning the principal role in that success to innate gifts becomes
+>problematic, to say the least.
+
+There seems to be a similar trend in other fields as well. For
+example, many scientists and authors produce their greatest work only
+after twenty or more years of devoted effort. We see that practice
+seems key. But researchers think it is much more than that.
+
+>The vast majority of people we work with, or play golf with, or play
+>Doom with, got better for a while and then leveled off, having
+>apparently reached the limit of their abilities; years of further
+>work have not made them any better. On the other hand, we see
+>repeatedly that the people who have achieved the most are the ones
+>who have worked the hardest. How can both sets of observations be
+>true?
+
+Simple practice makes perfect is not enough. These top performers seem
+to be doing something more.
+
+
+### What is deliberate practice and what isn't
+
+Sometimes I go to basketball practice and try a few shots from one
+spot. Then I try some drills in ball handling to improve play during
+the game. I try multiple variations 2-3 times and get bored and then
+play some one-on-ones with someone and feel happy that I have clocked
+2 more hours of practice that gets me to amazing levels someday. You
+know Practice makes perfect. The author hoists a similar example from
+his life with golf balls and says with conviction that this will do
+jack shit to your performance. 
+
+The idea of deliberate practice (DP) is quite different from the above form
+of practice. Jerry Rice according to the author a near perfect example
+of someone who did massive amounts of DP and in the end became legend.
+
+>Deliberate practice is characterized by several elements, each worth
+>examining. It is activity designed specifically to improve
+>performance, often with a teacher's help; it can be repeated a lot;
+>feedback on results is continuously available; it's highly demanding
+>mentally, whether the activity is purely intellectual, such as chess
+>or business-related activities, or heavily physical, such as
+>sports; and it isn't much fun.
+
+**It's designed specifically to improve performance.**
+
+One must identify certain sharply defined elements that need
+improvement and work on them intently. These practices should be
+designed in such a way that they stretch your current abilities.
+
+Apparently the great performers, see a couple of issues and isolate
+each one of them and work on them until they have seen sufficient
+improvement before moving on to the next aspect. 
+
+It is recommended by the author that they are done with the guidance
+of a teacher. In case we think that we have outgrown the benefits of a
+teachers help, the author suggests to atleast give it another thought.
+
+While learning we want to be in the zone where we are just beyond our
+comfort zone which makes it slightly more motivating than other tasks
+that might be daunting to even approach.
+
+**It can be repeated a lot**
+
+In golf the ball rarely gets buried into the sand. Such shots are
+rare, that they happen but when they happen you cannot expect to
+perform well as you have rarely performed that shot. Top performers
+repeat a lot. Isolation of the specific space where you need to
+improve is key followed by a lot of repetitions. 
+
+>Ted Williams, baseball's greatest hitter, would practice hit-
+>ting until his hands bled. Pete Maravich, whose college basketball
+>records still stand after more than thirty years, would go to the gym
+>when it opened in the morning and shoot baskets until it closed at
+>night.
+
+Following all this, one can work on his technique but it very
+important to see progress and get feedback. Otherwise one will stop
+getting any better and stop caring. Feedback is crucial to motivation.
+
+Sometimes results might need interpretation, trusting your own
+judgment might not really be the best way to go about it. For
+example, Paul Graham, before he publishes a post, gets tons of
+feedback of from his friends, corrects his article by himself several
+times before publishing it. 
+
+These tasks whether physical or not, seem to drain out much of our
+mental energy as they are all about improving an unsatisfactory
+performance and trying your hardest to improve these. It is estimated
+that 4-5 hours of DP seems to be the upper limit, across disciplines,
+with sessions frequently lasting no more than 90 minutes. The study of
+violinists (TOI chap 4) for example shows that the kids that do DP
+slept more not only during the night but also during the afternoons.
+
+<!-- I remember exactly a year back when an STM said to me that he
+doesn't --> <!-- need anyone to push him anymore and that he is
+counting his hours of --> <!-- practice and finally that he was aiming
+for 5 hours -->
+
+**It is painful**
+
+I can imagine working on say things like my sentence construction. I
+know I make shit sentences. First I would need to identify good
+sentences and try to work on my previous works trying to improve say
+sentence by sentence. This could be qualified as DP. But the shear
+repulsion to that activity plus the fact that I have to do it makes it
+painful. Say with 10k sentences I could be better (of course
+I could design some nice feedback around it), it is going to take
+quite some time. 
+
+Everyone would achieve greatness if it were easy and fun. But everyone
+doesn't and it is not easy and fun. Your willingness to do it will
+distinguish you all the more. Think about Jerry Rice again! 
+
+**A dramatic example**
+
+"Laszlo Polgar, a Hungarian educational psychologist, formed the view
+in the 1960s that great performers are made, not born.", says the
+author. Laszlo married with the intention of using his own kids as the
+experiment and raised 3 women to become top level chess players. All
+kids were home schooled and made to do DP. There was sufficient
+material for study on chess by that time and that is one of the
+reasons why chess was chosen.  
+
+All three were great players, but only one is the current world number
+1 woman player. It is known within the family that Judith is the one
+that worked the hardest and it seems to show. The other two started
+having other interests or drifted off from the game.
+
+### What are some characteristics of Extraordinary people aka how DP works
+
+**DP'ers perceive more**
+
+DPer's know where to look and where to get more information. If you
+consider typewriters, in order to improve speed they look further into
+the text and move their fingers in a way to make more speed
+happen. Doctors look at X-rays and see far from it than simpler
+folk. They understand the significance of the indicators that average
+performers don't even notice. Top Tennis players look at the hips and
+shoulders of servers to know where the ball is going to go.
+
+
+**Knowing more**
+
+>You didn't really have to know much about a field if you knew the
+>best ways to analyze a problem and think it through, and you needed
+>to know even less if your analysis and reasoning power could be
+>juiced by a computer
+
+But still the time of computers beating humans hadn't arrived until
+recently. Be it in chess or GO. What was missing was the vast
+knowledge of the particular positions in different cases and what sort
+of choices had what sort of consequences. 
+
+In chess apparently, master-level players posses chess knowledge by a
+factor of 10-100 comparted to good club-level players. 
+
+**Remembering more**
+
+Earlier we saw that people in general are capable of holding 5-9
+chunks in their head. This is the short-term memory that is being
+talking about. In the study of remembering the max number of pieces
+and their positions, the chess-masters were able to recollect every
+single piece. But, when it came to random arrangements they were as
+good as the control group.
+
+This can be imagined like letters and words. Given a word it is easier
+to remember if it is familiar and with little effort we can spell it
+backwards even, but if the letters are in a random order it is going
+to be pretty hard. What chess players could be seeing is words.
+
+And with a rich vocabulary of such words (positions of groups of
+pieces), they seem to be doing much more. Apparently researchers have
+estimated that good club players have a vocabulary of 100-1000
+"words", but a master-level player has a vocabulary of 1k-10k
+"words". 
+
+Holding 49 chess games in memory seems to be much more than the short
+term memeory. 
+
+>All these people have developed what we might call a memory skill, a
+>special ability to get at long-term memory, with its vast capacity,
+>in a fast, reliable way. They aren't using short-term memory or
+>traditionally defined long-term memory.
+
+A type of memory that becomes better and better over more DP and one
+that allows you to retrieve more information or provides hooks for you
+to add your information to, more like connections.
+
+A study involving a description of a football game and 2 sets of
+people demonstrates this. The description was shown to fans of the
+game and random people. After some time recalling the details of the
+game was the task. The fans were able to recall the important parts of
+the game about who passed to who and the sequence of events, where as
+the control group remembered trivial things like when the crowd roared
+etc... 
+
+>The fans' high-level knowledge of the game provided a frame- work on
+>which to hang the information they had read.
+
+>In the letters-versus-words analogy, it isn't just that novices see
+>letters while experts see words; the experts also know the meanings
+>of the words.  It's clear that the superior memory of great
+>performers doesn't just happen. Since it is built on deep
+>understanding of the field, it can be achieved only through years of
+>intensive study. It further requires con- sistently relating new
+>information to higher-level concepts, which is hard work.
+
+**Changes to physical structure**
+
+The influence of DP on DPer's is even more impressive that the body
+actually gets modified in the process. Changes to the body, the brain,
+the heart even, can happen to aid you in your field, for you to create
+the right type of hooks on which you can hang the wide amount of knowledge.
+
+>En- durance runners, for instance, have larger than average hearts,
+>an attribute that most of us see as one of the natural advantages
+>with which they were blessed
+
+> Athletes can change not just the size of their
+muscles but even the composition of them (the proportion of fast-twitch
+fibers to slow-twitch) through years of practice
+
+>The brain's ability to change is greatest in youth, but it doesn't
+>end there
+
+The bottomline being that there is path that exists, that runs between
+your current abilities to that of of the greats. It is hard, extremely
+long and demanding. Not many will follow it all the way till the end.
