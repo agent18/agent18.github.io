@@ -2283,3 +2283,73 @@ further, and it can be ugly.
 
 
 
+## Time tracking
+
+### PS
+
+total time: 33.6 hrs
+
+reading and making initial notes: 11.5 hrs
+
+rough summary: 5 hrs
+
+real summary: ~8 hrs
+
+final edition: 4-5 hrs
+
+final final edition: 1.0 hr
+
+Application: 1 hr spent till now.
+
+Day 1 <2 hrs read book and make notes
+
+Day 2 ~9.5 hrs read book and make notes
+
+Day 3 2.75 hrs rough summary
+
+Day 4 3.5 hrs rough summary and started real summary
+
+Day 5 3.25 hrs real summary
+
+Day 6 4.6 hrs real summary finished(took half day off from office
+slept in a bit)
+
+Day 7 x.x hrs started application and edited real summary full
+
+### summary of chapters
+
+Chapters 1,2,3 are all about what defines you and how it is not
+relevant to the picture of success. Chapter 4 talks about DP the
+number of hours the violinists used and why this is so important. It
+also talks about Jerry Rice and why he might be the greatest. 
+
+Chapter 5 thoroughly talks about what is and isn't DP., Chap 6 is not
+relevant to application. Chap 7 is about applying it with the three
+models and thats it.
+
+Chapter 8 just focusses on debunking myths.
+
+Chapter 9 is about age and tells you why you need to DP like a bitch.
+
+Chap 10 attempts to talk about passion but does not provide anything
+fruitful. But I think I shall go with the idea of mihally. thats it.
+
+
+So basically Chap 4, 5, and 7 that are about the principles.
+
+## Criticism
+
+[Some psycologists from Michigan State University (MSU)](https://www.nytimes.com/2011/11/20/opinion/sunday/sorry-strivers-talent-matters.html) seem to think
+that Geoff's book is not presenting all the facts and give a few
+examples of studies that might suggest that Geoff in his conclusion
+might be wrong.
+
+Geoff, constantly seems to be focusing on one thing and one thing
+alone. What separates the greatest of the greats from normal folk. And
+I suspect he has done a tremendous job of presenting the goddamn
+evidence. 
+
+The MSU professors of psychology, seem to be conveniently forgetting
+that Geoff is primarily and only focusing on the greats, and their
+rebuttal is anything but a rebuttal as they seem to be focused on
+regular folk.
