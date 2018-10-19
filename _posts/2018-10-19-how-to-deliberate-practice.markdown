@@ -97,6 +97,10 @@ years now. In another instance my friend said, "slightly burnt food is
 carcinogenic". I ran away from "carcinogenic food" ever since. I didn't
 even check it. I didn't need to?
 
+I stopped wearing earplugs because I was afraid they would cause ear
+infection and suffered a plethora of distraction. The difference is
+quite a lot with and without this device.
+
 There are a lot of students and people in my city who smoke. Usually
 while biking, or driving cars or outside buildings (almost in front of
 the door). During all these times I have come to experience
@@ -561,6 +565,164 @@ If I do not want to commit the allias paradox what should I do?
 ### Understanding things
 
 Cardio failing to understand it.
+
+## skills 2
+
+### Appling theory to life
+
+### Becoming better at rationality
+
+### Inability to organize information in my head
+
+You can only hold 7 pieces of info... but...
+
+### inability to communicate what is in the head in a systematic way
+
+Due to the lack of clarity in my head I often am unable to communicate
+with people around me. I don't have a filter or a systematic way of
+delivering information for people to process. I often start at a point
+and then realize I forgot to tell something else and start over
+again. This happens often in my work place, when in general I am
+trying explain something that I have not much understanding of. The
+later beckons for more understanding Period! The former is about
+delivering information. 
+
+I also notice the "same" thing in writing I think. I write all over
+the place and then work on re-arranging things over multiple
+iterations and re-reading which gives me feedback. First of all it is
+painful to do something like that where I don't have clarity of what
+happened until now.
+
+I was asked to deal with a trouble ticket which I had barely any
+experience with. I had a look at it and had come back to my DL to
+explain to him what the deal was and as expected I stammered, I
+stuttered. I was slightly all over the place. I was not clear in my
+head, atleast I couldn't see the flow of thoughts. In the end I
+managed, owing to making notes in notebook (observation, hypothesis,
+questions about domain knowledge)
+
+This is almost everytime, whenever I have to discuss with my DL
+anything, I struggle to get shit out of my mouth in an organized
+manner. 
+
+**How to DP**
+
+During interviews I have found the STAR method (situation, Task,
+Action, Result) to allow me to deliver my thoughts in an organized
+manner. This I used to practice on everything that I was going to
+deliver and managed. Deliberately practicing this can have a
+pronounced effect on my speech and maybe writing even. I suspect STAR
+might not be appropriate for delivering the above scenario
+suggested. For the above case, I would first like to deliver the
+Problem, the observation, followed by a hypothesis and then followed
+by test and results if applicable i.e., POHTR (Potter).
+
+So the goal is to use this framework while communicating to allow for
+clarity. Improving this skill is very similar to the music
+method. Focused simulation of an isolated skill. So practicing
+explaining using the POHTR method for a 1000 problems is something
+that I should aim for. Where will I get so many topics to talk about?
+Well, I could take sources from the NEWS, news comedies, TED talks,
+discussions on LessWrong and even the HPMOR work by Eliezer
+Yudkowsky. Hopefully summarizing these topics will in addition to the
+skill give me more understanding of the topics dealt with. The same
+exercise can be used for both writing and speech.  
+
+As for feedback, obvious feedback is you apply the above techniques in
+situations in real life and see if you stammer or stutter over
+time. For immediate feedback, I think I can re-read my essays, or play
+my explanation-voice-recordings and determine how good or bad the
+organization of thoughts is. Maybe other aspects to improve turn
+up. An STM can give me feedback when he has time. For more feedback
+you can ask your friends to listen to your discourse on youtube or
+your blog to give feedback of how much they understood or what you
+need improve on.
+
+### inability to think like an STM
+
+propose actions to solve problems
+
+### inability to solve unknown problem
+
+At work I often get problems that I have no clue about. And it is my
+task to work on solving them by asking the right people for help or
+knowledge, going over the observations, proposing a hypothesis and a
+test.
+
+Had a meeting with my boss and another colleague (same age,background
+everything), to discuss an issue and how to solve it. I sucked, the
+colleague who was into these kinds of trouble shooting didn't suck at
+all and my boss was on top of everything. I was surprised my colleague
+was this good, in the sense that he was able to propose hypothesis and
+quickly look at pros and cons with a neat focus on the goal. Whereas I
+had a bowl of thoughts being tossed inside my head, struggling to make
+any reasonable contribution.
+
+So looking at a lot of information all over the place, sometimes an
+overwhelming amount even, already throws me off. I would like a way to
+focus on what is important and why and improve my skills in solving
+unknown problems, i.e., be much greater than my colleagues and DL. 
+
+**How to DP**
+
+>Coming to the applications: Much of "critical thinking", I would
+>argue, falls under the chess model. The music model applies when you
+>know what you want to say and it's about how well you say it. Whereas
+>here, it's often a question of coming up with the right response to a
+>situation. So, one practice technique would be to take case studies,
+>ask yourself what move you'd make, and compare it to that of the
+>experts.
+
+Luckily for me there is a plethora of trouble tickets (TTs) at my work. I
+could say spend some time after work everyday, with the focus of
+training my problem solving capability. Here domain knowledge might be
+quite important, but as I said, I always worked on unknown problems
+(atleast thats how my DL trains me to handle new modules), its also a
+way to learn about the system. So to keep it less overwhelming I am
+going to look at TTs that are slightly in my domain. I should take a
+look at few entries in the TT and propose the next step, compare with
+the actual entry and see just like in the chess model.
+
+>Real world as it is makes it hard to evaluate which of the proposed
+>solutions is better. In any case the process of focusing on the
+>problem and evaluating solutions is in itself instructive. 
+
+My DL constantly works on solving some kickass problems for the
+company. He gives his team the lame work and sometimes the nice
+challenging work as well. I could look at the problems he has
+solved. Not surprisingly I see that he uses the scientific
+method. There is a clear statement of observations, followed by some
+hypothesis that made it and some hypothesis that already failed, with
+some clear tests. I could look at the problems he has solved and do
+the same exercise of predicting what I would do.
+
+Taking things to the logical conclusion. Well an STM seems to be
+solving problems and some of it is online. Same excercise.
+
+**What about feedback?**
+
+The obvious feedback is that you would feel quite confident and ready
+to attack problems coming to your desk. The feedback while working on
+DP looks like it is built-in within the problem solving framework. I
+could collect some statistics such as responses which are correct over
+a week against the total responses made, time spent on solving
+problems to allow me to know how I am doing.
+
+
+### Suck at using the scientific method
+
+where info is all over the place, lot of information (more like an
+investigation)
+
+### Lack of domain knowledge
+
+### Inability to make and test narrow falsifiable hypothesis
+
+Understanding motivation
+
+
+### Inability to understand complex concepts
+
 ## My failures
 	
 - Every night when I go back home, I want to put my youtube down so I
