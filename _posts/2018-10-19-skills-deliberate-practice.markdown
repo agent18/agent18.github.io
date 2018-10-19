@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title:  "Skills- Deliberate Practice"
-date:    19-09-2018 
+date:    19-10-2018 
 categories: posts
 tags: 
 permalink: /:title.html
