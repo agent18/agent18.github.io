@@ -517,4 +517,4 @@ Sorry!
 
 P.S
 
-Spent on average 3.6 useful hours per day for the last 7 days. ~25 hrs.
+Spent on average 3.7 useful hours per day for the last 7 days. ~26 hrs.
