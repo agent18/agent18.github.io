@@ -140,7 +140,7 @@ acceptable EE.
 
 **Training to Identify claims of EE and non-EE**
 
-Improving the first part, 'identifying claims that have no emperical
+Improving the first part, 'identifying claims that have no empirical
 evidence', seems like it is similar to the music model, i.e., training
 based on high focused repetition of task. So how would the DP of this
 look like?
@@ -149,9 +149,9 @@ I could start by saying I will be conscious and collect 100 'claims
 without EE', in day to day conversations by the end of the week. The
 idea I think is to train the brain to notice the claims being made and
 to separate them as ones with evidence and ones without. I reckon it
-will be mind numbingly hard to stay focussed on every conversation and
+will be mind numbingly hard to stay focused on every conversation and
 every thought in an attempt to meet the goal of 100 claims. Hmmm, so
-it is going to be painfull, in large numbers and your focus is
+it is going to be painful, in large numbers and your focus is
 probably going to be only about this. That seems about right. This way
 we can initiate the training process.
 
