@@ -1,6 +1,6 @@
 # Site settings
 title: An Agents rationality essays collection!
-email: thetj09@gmail.com
+email: 
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site

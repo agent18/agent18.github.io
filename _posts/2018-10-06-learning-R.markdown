@@ -33,6 +33,95 @@ Some more helpful configuration things are given in
 `_` key is bound to `<-` by default in the `ESS`
 mode. `ESS-smart-underscore` tries to overcome this issue (I have not
 yet tested how).
+## R packages
+
+When R is downloaded from CRAN we get the "base" R system. Primary
+location to obtain 
+
+### Installing R packages required
+
+Packages are usually found on CRAN or Bioconductor Project. More info
+on `c1-w2-installing-R-packages` file. To install a package:
+
+	install.packages("package-name1")
+	
+It also installs the dependencies automatically.
+
+In case you want to use Bio conductor:
+
+	source("http://bioconductor.org/biocLite.R")
+	biocLite()
+	
+	biocLite(c("package-name1","package-name2"))
+
+You can also install packages directly on RStudio. `Tools --> install
+R package`.
+
+To load a library use:
+
+	library(package-name)
+	
+To look at what functions are there in the library:
+
+	search()
+### Installing xlsx 
+
+This is particularly painful to get, considering something about my R
+version being 3.5. 
+
+`install.packages(xlsx)` will give an error saying you have error with
+rJava. In order to install rJava follow the procedure below:
+
+	sudo apt-get install default-jdk
+	sudo R CMD javareconf
+	
+	sudo apt-get install r-cran-rjava
+
+This is where you will have more errors something like this:
+
+	the following packages have unmet dependencies:
+	r-cran-rjava : Depends: r-api-3.4
+	E: Unable to correct problems, you have held broken packages.
+
+So I followed this answer from [stack](https://stackoverflow.com/a/51267282/5986651). Which would the following
+on the terminal:
+
+	sudo add-apt-repository ppa:marutter/c2d4u3.5
+	sudo apt-get update
+
+Then coming back to the rjava installation:
+
+	sudo apt-get install libgdal-dev libproj-dev
+	
+And finally in your R console (Rstudio or terminal)
+
+	install.packages("rJava")
+	
+This followed by `install.packages("xlsx")` should do the trick. For
+the main installation of `rJava` I looked [here](https://github.com/hannarud/r-best-practices/wiki/Installing-RJava-(Ubuntu)).
+
+### installing XML 
+
+From [Stack-answer here](https://stackoverflow.com/a/7765470/5986651), Go to terminalR* and do:
+
+	sudo apt-get update
+	sudo apt-get install libxml2-dev
+	
+followed by `install.packages("XML")`. It works!
+
+Sometimes `RCurl` might also be needed. 
+
+Looks like I broke my R installaiton or 3.5 is unstable?
+
+### installing RCurl
+
+from [this answer ](https://github.com/sagemath/cloud/issues/114#issuecomment-230481254), go to terminal and do:
+
+
+	sudo apt-get install libcurl4-openssl-dev
+	
+It works! after this.
+
 
 ## Learning R
 
@@ -475,5 +564,353 @@ Distributions' are Normal, Poisson, binomial etc...
 		nrow(outcome)
 		ncol(coucome)
 		names(outcome)
+- important need to actively remove NA if doing something like this:
+
+		dim(data[data$val==24,1])
 		
+otherwise NA is also counted for some stupid reason!
+
+### DataTable
+
+- Much, **much faster** at creating sub-setting, group, and updating
+  than DataFrame it appears.
+
+- All functions that accept data.frame work on data.table
+  
+
+- creation (simple installation)
+
+		library(data.table)
+		DT =
+		data.table(x=rnorm(9),y=rep(c("a","b","c"),each=3),z=rnorm(9))
+		
+- read and write table
+
+	    write.table(big_df, file=file, row.names=FALSE, col.names=TRUE, sep="\t", quote=FALSE)
+		system.time(fread(file))
+
+- Sub-setting columns
+
+		DT[,c(2,3)]
+
+- subsetting rows
+		
+		DT[c(2,3),]
+		DT[c(2,3),]
+
+- and difference between DF and DT
+
+		DF[c(2,3)]!=DT[c(2,3)]
+		
+	- If only the first argument is present `DF[c(2,3)]` gives
+      columns. **and `DT[c(2,3)]` gives ROWS**
+
+- Functions on columns
+
+		DT[,list(mean(x), sum(z))]
+
+	Result is still a DT.
+
+		DT[,table(y)]
+
+- Adding new columns
+
+		DT[,w:=z^2]
+		DT[,m:= {tmp <- (x+z); log2(tmp+5)}]
+		DT[,a:=x>0]
+	
+	- function `by`/based the column 'a'. A can be boolean, character
+    (these make most sense, but probably even number can be used)
+	
+			DT[,b:= mean(x+w),by=a]
+			
+	- counting elements based on a factor
+
+			DT[,.N, by=x]
+
+- setting key helps in merging
+
+	    DT1 <- data.table(x=c('a', 'a', 'b', 'dt1'), y=1:4)
+		DT2 <- data.table(x=c('a', 'b', 'dt2'), z=5:7)
+		setkey(DT1, x); setkey(DT2, x)
+		merge(DT1, DT2)
+		
+	Merge happens based on X
+	
+		   x y z
+		1: a 1 5
+		2: a 2 5
+		3: b 3 6
+		
+- help
+
+		The latest development version contains new functions like
+melt and dcast for data.tables
+https://r-forge.r-project.org/scm/viewvc.php/pkg/NEWS?view=markup&root=datatable
+Here is a list of differences between data.table and data.frame
+http://stackoverflow.com/questions/13618488/what-you-can-do-with-data-frame-that-you-cant-in-data-table
+Notes based on Raphael Gottardo's notes
+https://github.com/raphg/Biostat-578/blob/master/Advanced_data_manipulation.Rpres,
+who got them from Kevin Ushey.
+
+^^copied from
+[https://github.com/DataScienceSpecialization/courses/blob/master/03_GettingData/01_09_dataTable/index.md](https://github.com/DataScienceSpecialization/courses/blob/master/03_GettingData/01_09_dataTable/index.md)
+
+
+## expressions
+
+	{
+	x = 1
+	y = 2
+	}
+	k = {print(10); 5}
+	print(k)
+	
+	[1] 10
+	[2] 5
+	
+
+## Data
+
+- popular databases where data is stored SQL, MongoDB.
+
+- geting and setting working directory
+
+		getwd() 
+		setwd()
+
+- does file exist or not 
+
+		file.exists("directoryName")
+		dir.create("directoryName")
+
+		if (!file.exists("data")){
+			dir.create("data")
+			}
+			
+- downloading a file from the internet
+
+
+		download.file(fileUrl, destfile="./data/camera.csv", method="curl")
+		list.files("./data")
+		
+- keep track of dateDownloaded
+
+		dateDownloaded <- date()
+
+- tab separated files
+
+		read.table("")
+		
+- comma separated with `header=true`
+
+		read.csv("")
+		read.table("", sep="", header=TRUE)
+		
+
+	- other parameters that might be useful:
+	
+		- quote: tell r whetehre there are quoted values `quote=""`
+          means no quotes
+		  
+		- na.strings: set character that represents a missing value
+		- nrows: how many rows to read from the top
+		- skip: how many rows to skip from the top
+
+
+
+### Excel
+
+- installation was fucking intense. Look in the above sections for it.
+- reading excel files uses package `xlsx`
+		
+		library(xlsx)
+		read.xlsx("./data.xlsx", sheetIndex=1, header=TRUE,colIndex,
+		rowIndex)
+		
+- writing 
+
+
+		write.xlsx
+		
+- tips
+
+	- `read.xlsx2` faster but unstable for subsets than `read.xlsx`
+	
+	- XLConnect package has more options for manipulating Excel data.
+
+### XML
+
+- example of XML [from w3schools](www.w3schools.com/xml/simple.xml)
+
+
+``` XML
+<breakfast_menu>
+<food>
+<name>Belgian Waffles</name>
+<price>$5.95</price>
+<description>
+Two of our famous Belgian Waffles with plenty of real maple syrup
+</description>
+<calories>650</calories>
+</food>
+<food>
+<name>Strawberry Belgian Waffles</name>
+<price>$7.95</price>
+<description>
+Light Belgian waffles covered with strawberries and whipped cream
+</description>
+<calories>900</calories>
+</food>
+```
+- for installation look in above sections on installing
+  packages. Some work needs to be done for this package and it takes
+  10-15 mins to install!
+  
+- Reding the file library is `XML`. The following **does not work**:
+
+		library(XML)
+		fileUrl <- "http://www.w3schools.com/xml/simple.xml"
+		doc <- xmlTreeParse(fileUrl,useInternal=TRUE)
+		rootNode <- xmlRoot(doc)
+		xmlName(rootNode)
+		
+		[1] "breakfast_menu"
+
+		names(rootNode)
+
+
+- Reading the file; file library is 'XML', from 
+[this stack answer ](https://stackoverflow.com/a/23584617/5986651) and not the DSS course from coursera!
+
+``` R
+library(XML)
+library(RCurl)
+fileURL <- "https://www.w3schools.com/xml/simple.xml"
+xData <- getURL(fileURL)
+doc <- xmlParse(xData)
+rootNode <-xmlRoot(doc)
+```
+
+- Also this works from the discussion formus of Coursera
+
+``` R
+library (XML)
+library(httr)
+fileUrl <- "http://www.w3schools.com/xml/simple.xml"
+doc <- xmlTreeParse(GET(fileUrl),useInternal=TRUE)
+rootNode <- xmlRoot(doc)
+```
+
+`doc` variable has all the text in the xml file. `rootNode` has only the relevant XML info. 
+	
+- extracting info from `rootNode` or `xmlRoot(doc)`
+
+		xmlName(rootNode)
+
+		names(rootNode)
+
+		
+		rootNode[[1]]
+
+		
+		<food>
+		<name>Belgian Waffles</name>
+		<price>$5.95</price>
+		<description>Two of our famous Belgian Waffles with plenty of real maple syrup</description>
+		<calories>650</calories>
+		</food> 
+
+		rootNode[[1]][[1]]
+
+
+		<name>Belgian Waffles</name> 
+		
+		xmlSApply(rootNode,xmlValue)
+		
+		
+		"Belgian Waffles$5.95Two of our famous Belgian Waffle ...
+
+
+- XPath is the language of XML or something like that. The following
+  can be used to extract info from `rootNode`:
+
+
+	- /node Top level node
+	- //node Node at any level
+	- node[@attr-name] Node with an attribute name
+	- node[@attr-name='bob'] Node with attribute name attr-name='bob'
+
+			xpathSApply(rootNode,"//price",xmlValue)
+		
+		
+- Another example for XPath extraction based on
+  [http://espn.go.com/nfl/team/_/name/bal/baltimore-ravens](http://espn.go.com/nfl/team/_/name/bal/baltimore-ravens)
+  
+
+		fileUrl <-
+		"http://espn.go.com/nfl/team/_/name/bal/baltimore-ravens"
+		doc <- htmlTreeParse(getURL(fileUrl),useInternal=TRUE)
+		scores <- xpathSApply(doc,"//li[@class='score']",xmlValue)
+		teams <- xpathSApply(doc,"//li[@class='team-name']",xmlValue)
+
+You are able to extract the elements in **tags** `li` of **class**
+i.e., the teams and scores from the website.
+
+	
+- help
+
+	- [outstanding link to XML](https://www.stat.berkeley.edu/~statcur/Workshop2/Presentations/XML.pdf)
+	
+	- [short link (wayback machine)](https://web.archive.org/web/20140906181450/http://www.omegahat.org/RSXML/shortIntro.pdf)
+	
+	- [long link (wayback machine)](https://web.archive.org/web/20141113153333/http://www.omegahat.org/RSXML/Tour.pdf)
+
+### JSON
+
+- Similar to XML but different in syntax and format. 
+
+- Simple installation in R using `install.packages()`. Has `curl'
+  dependency though.
+  
+- It is a text file consisting of dataframes, each cell in the DF can
+  also be a DF! 
+  
+- getting data
+
+		library(jsonlite)
+		jsonData <-
+		fromJSON("https://api.github.com/users/jtleek/repos")
+		
+- getting the "column" names
+
+		names(jsonData)
+		
+- getting certain "columns" from the data
+
+		jsonData$id
+		jsonData$column_name
+		
+- accessing jsondata nested data across all rows
+
+		jsonData$owner$login
+
+- Writing DF to json
+
+		myjson <- toJSON(iris, pretty=TRUE)
+		cat(myjson)
+
+- help or further resources
+
+
+	- http://www.json.org/
+	- a good tutorial on jsonlite -
+      [http://www.r-bloggers.com/new-package-jsonlite-a-smarter-json-encoderdecoder/](http://www.r-bloggers.com/new-package-jsonlite-a-smarter-json-encoderdecoder/)
+	  
+	- [json cran page](https://cran.r-project.org/web/packages/jsonlite/vignettes/json-mapping.pdf)
+   
+
+
+
+
 
