@@ -486,8 +486,8 @@ ME:
 > Nope! What happens when someone wrongs you? Introducing, drama.
 
 Rule #1: The main points seem to be, `what happens if revenge goes
-wrong`, `what happens if revenge goes right` and ` the need to
-practice social attacks` I do not think each point is delivered one at
+wrong` , `what happens if revenge goes right` and `the need to
+practice social attacks`. I do not think each point is delivered one at
 a time by an STM. An STM has delivered the line "What could possibly
 go wrong if you press the revenge button?" as part of the first point,
 but then he immediately moves on to the next main idea `what happens
@@ -606,10 +606,10 @@ ME:
 Rule #1: So the main points of this section seems to be `consumption
 in drama`, `brain being evolved for the social world` and `actual
 impact of engaging in drama`. It looks like an STM seems to talk about
-one point at a time. For me, I seem to be talking about ` actual
+one point at a time. For me, I seem to be talking about `actual
 impact of engaging in drama` and `brain being evolved for the social
 world`. But I think I violated this rule. I initially talk about `the
-actual impact of engaging in drama`, but suddenly for like a sentence
+actual impact of engaging in drama` , but suddenly for like a sentence
 I go to the next main point and then come back to the first point. How
 much the drama means to the brain, seems to be related to `brain being
 evolved for social world`. The changed version below (change shown in
@@ -775,7 +775,7 @@ ME:
 Rule #1: The difficulty in picking out the main points seems to be
 flag enough. An STM seems to start with `rhetoric questions on taking
 revenge being the way to go despite everything` followed by `reason
-for taking the high road` and then `people are not going to change` I
+for taking the high road` and then `people are not going to change`. I
 cannot believe that I can actually split some thing into a few clear
 ideas in series. I have the same similar main points as well and in
 series. 1-1
