@@ -7,8 +7,11 @@ categories: notes
 permalink: /:title.html
 published: True
 ---
+## Remove git init
 
-## Folder to repository in Github?
+	rm -rf .git
+	
+## Folder to new repository in Github?
 
 - Go to said folder & :
 

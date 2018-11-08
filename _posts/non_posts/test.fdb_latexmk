@@ -1,0 +1,10 @@
+# Fdb version 3
+["pdflatex"] 1541337990 "test.tex" "test.pdf" "test" 1541337990
+  "/usr/share/texlive/texmf-dist/tex/latex/base/article.cls" 1454284088 20708 39fdf9e2fb65617012fa7382a351f485 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo" 1454284088 9190 cb916da25b8d5468e215e1d622855ceb ""
+  "test.aux" 1541257151 446 2134fa373d39f06c03c13c3a3982e1fe ""
+  "test.tex" 1541259740 1479 58d12ca04cc92cdc3d9c08fe3e5a649e ""
+  (generated)
+  "test.pdf"
+  "test.aux"
+  "test.log"

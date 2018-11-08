@@ -53,7 +53,7 @@ mentioned in 'Talent is Overrated':
 > or business-related activities, or heavily physical, such as sports;
 > and it isn’t much fun.
 
-All this theory is great but we know:
+All this theory is great but...
 
 > All theory and no actual practice makes STM's and Agent's dull boys
 
@@ -69,19 +69,19 @@ and videos to practice from as well. For things like "critical
 thinking", "logical reasoning" it seems to be really hard to come up
 with DP routines. I made an attempt [here](/skills-deliberate-practice.html). 
 
-It was hard as f*ck just to design DP workouts! But more concerning
-is that I failed to meet the characteristics of DP. For example, look
-at the characteristic, "Feedback on results is continuously
+It was hard as f*ck just to design DP workouts! But more concerning is
+that I failed to meet the characteristics of DP. For example, look at
+the characteristic, "Feedback on results is continuously
 available". In the design for "training to determine EE", I never
 really got to something where I would get continuous feedback. I was
 suggesting in the design, to make a blog post out of a practice
 session to get feedback. This would mean getting feedback a week later
-and this doesn't seem to be continuous feedback. Other designs were
-vague and I had no idea if it would work even. For example, the one
-with "training to identify claims of EE". I had suggested reading news
-paper articles to determine if something had EE or not. I have no idea
-if and how this is going to work, and what it would mean to have EE
-and what it would mean to not. The other examples were like this as
+and this doesn't seem to be continuous feedback. Some other DP designs
+were vague and I had no idea if it would work even. For example, the
+one with "training to identify claims of EE". I had suggested reading
+news paper articles to determine if something had EE or not. I have no
+idea if and how this is going to work, and what it would mean to have
+EE and what it would mean to not. The other examples were like this as
 well. In the end, it was hard, I didn't really come up with much
 useful things.
 
@@ -112,18 +112,18 @@ What he did to become who he was, was roughly like this:
 An STM designed and executed a DP routine based on the BF method
 [here](http://pradeep90.github.io/ben-franklin-practice.html#fnref2). In my case (according to the mission), I would need to get
 into designing DP for "expressing an idea clearly and
-systematically". To emulate Benji's method, some superior work (in my
-opinion) is to be used that "expresses an idea clearly and
-systematically". You then need to make minimal notes on meaning
-conveyed a few sentences at a time, rewrite them in own words, and
-when done compare with the original. Observe how you and the author of
-the superior work fare against a set of output dimensions. Hitting 10k
-balls and not clearly understanding how to compare each hit is
-useless. How do you compare? On what output dimensions do you compare?
-That is the precise question that will provide feedback, like when you
-are under the hogainagal waterfall, instant and harsh. The blog
-written by an STM, captures this very well and we will use that as our
-blueprint to design our DP.
+systematically". To emulate Benji's method, some superior work (imho)
+is to be used that "expresses an idea clearly and systematically". So
+you find the superior work. You then need to make minimal notes on
+meaning conveyed a few sentences at a time, rewrite them in your own
+words, and when done compare with the original. Observe how you and
+the author of the superior work fare against a set of output
+dimensions. Hitting 10k balls and not clearly understanding how to
+compare each hit is useless. How do you compare? On what output
+dimensions do you compare?  That is the precise question that will
+provide feedback, like when you are under the Hogainagal waterfall,
+instant and harsh. The blog written by an STM, captures this very well
+and we will use that as our blueprint to design our DP.
 
 ---
 
@@ -135,14 +135,14 @@ communicated the idea about 'what to do when you are hurt
 emotionally?', really well. To this day I come back to read this
 essay, to read the solution in times of need. The reasons and examples
 used to pursue the reader to give up drama are very persuasive. They
-are superior to anything I have done so far. I suspect I couldn't have
-come up with the solution by myself and hence my mighty respect. I
-think as a direct consequence of this and experiencing what the author
-expresses about drama, I try to remove drama from my life, even if it
-means to swallow my pride and say sorry, because peace is important,
-you want to focus on the bigger and more important battles in life,
-and not f*cking how to get back at your colleague for the lame attacks
-he did to you.
+are superior to anything I have come up with so far. I suspect I
+couldn't have come up with the solution by myself and hence my mighty
+respect. I think as a direct consequence of this and experiencing what
+the author expresses about drama, I try to remove drama from my life,
+even if it means to swallow my pride and say sorry, because peace is
+important, you want to focus on the bigger and more important battles
+in life, and not f*cking how to get back at your colleague for some
+lame attacks he made on you.
 
 So the superior example is this article ["Revenge or grow"](http://pradeep90.github.io/Revenge-or-Grow.html).
 
@@ -155,7 +155,7 @@ So the superior example is this article ["Revenge or grow"](http://pradeep90.git
 - it would feel good to deliver an insult or the punishment
 - what if your revenge attempt fails
 - way ahead practice attacking
-- being eaten from inside
+- while in revenge-mode you are being eaten from inside
 - mind lives for situations like this
 - good luck thinking about other things
 - alternative is to forgive, and move on?
@@ -231,7 +231,7 @@ as we are talking about something so vague and subjective as
 my own dimensions, I shall start with some output dimensions that an
 STM has provided (in the mission) and get some more from
 criticalthinking.org. I scanned the whole of [criticalthinking.org](criticalthinking.org)
-and along with STM's suggestion (in the section 'Mission') and we have the
+and along with STM's suggestion (in the section 'Mission') we have the
 following:
 
 1. state one point at a time
@@ -250,22 +250,21 @@ following:
 	This is straight forward. Examples regarding the central idea
     connecting to life experiences.
 	
-4. give analogies and metaphors to help people connect your ideas to
+4. Give analogies and metaphors to help people connect your ideas to
 the things that they already understand (for example, critical
 thinking is like an onion, the way you cut it will determine whether
 your eyes bleed tears or not).
 
-	Analogies, figures of speech shall be available atleast to
+	Analogies and figures of speech shall be available atleast to
     communicate all the main ideas identified.
 	
-5. state the observations and hypothesis
+5. State the observations and hypothesis
 	
 6. Have the output of one sentence flow into the other
    
    Each sentence should connect with the following sentence. What does
-   it mean? words from one sentence are found in the second sentence?
-   A question is followed by an answer (unless rhetoric). It has to
-   be about the previous sentence 
+   it mean? Words from one sentence are found in the second sentence?
+   A question is followed by an answer (unless rhetoric)?
    
    Not like this:
    
@@ -295,15 +294,13 @@ your eyes bleed tears or not).
    
 7. Irrelevant point should not be focused on
    
-   Focus on what truly aids in solving the problem, how is what you
-   are saying relevant to the issue? What is the central question? Is
-   this relevant? How? Are there any deviations from the main focus
-   central idea of the essay? are some questions that could be
+   Are there any deviations from the main focus
+   central idea of the essay? Are some questions that could be
    answered.
    
 8. Do not miss any relevant points
 
-	Did the author miss to investigate something or missed to consider
+	Did the author miss to investigate something or miss to consider
     other relevant points?
 	
 9.  Are assumptions justified?
@@ -342,7 +339,7 @@ ME:
 > angry at you etc... If you are like me then these things would hurt
 > you. And then you have two options, to make revenge or to grow.
 
-Rule #1: `people get hurt by people who make fun of them` and `the two
+Rule #1: `People get hurt by people who make fun of them` and `the two
 buttons` are the two main ideas. But I think an STM does not deliver
 them serially, i.e., one point at a time. The first point is delivered
 and then the next, followed by some discussion of the first point
@@ -350,8 +347,8 @@ again. It looks a bit repetitive coming to think of it. I think I
 stuck to delivering the two ideas serially in this case. 0-1 for
 Agent.
 
-Rule #2: I think both of us elaborate on the first main idea `people
-get hurt...`. For the second point most of the info is expected to be
+Rule #2: I think both of us elaborate on the first main idea `People
+get hurt ...`. For the second point most of the info is expected to be
 delivered in the coming sections. Something that I didn't do is, I
 didn't really expand on this word `grow`, whereas an STM does, with
 "ignoring the injury and grow". This word needs some explanation as
@@ -366,9 +363,9 @@ you". I don't think I do have any analogies or metaphors even, to
 convey the points better. 1-0.
 
 Rule #5: The whole essay by an STM does not seem to have an
-observation hypothesis paradigm, and mine doesn't either. 0-0
+observation-hypothesis paradigm, and mine doesn't either. 0-0
 
-I am not able to imagine what an observation hypothesis paradigm of
+I am not able to imagine what an observation-hypothesis paradigm of
 explanation would look like for the above case or for that matter this
 whole essay.
 
@@ -394,10 +391,10 @@ Rule #8: I don't think any relevant points are missed. 1-1
 
 Rule #9: Are there any assumptions that are crucial? Is "there are two
 buttons" an assumption? Is this crucial? I am not sure of what is
-expected with this assumption as criticalthinking.org routinely
+expected with this "assumption" rule, as criticalthinking.org routinely
 doesn't seem to give examples for what they deliver. Skip. 
 
-Score: 5-5 on 9 for both Agent and STM.
+Score: 5-5 on 9, for both Agent and STM.
 
 An STM:
 
@@ -446,7 +443,7 @@ in this case, we stay focused on the idea of `revenge`. 1-1
 
 Rule #8: I don't think there are other relevant points to consider. 1-1
 
-Rule #9: There are no assumptions and hence no justification for the
+Rule #9: There are no assumptions and hence no justifications for the
 assumptions.
 
 Score: 6-4 on 10 for STM
@@ -494,8 +491,7 @@ but then he immediately moves on to the next main idea `what happens
 if revenge goes right`, and comes back to `what happens if revenge
 goes wrong`. This does not seem to be delivering one point at a
 time. Strike for STM. In my case I skip the point on `what happens if
-revenge goes right` altogether. Which is more like violating Rule #8
-"considering all possible relevant things". 0-1 for Agent
+revenge goes right` altogether. Which is more like violating Rule #8. 0-1 for Agent
 
 Rule #2: I think both elaborate enough on the main points. 1-1
 
@@ -507,7 +503,7 @@ Rule #4: STM gets this rule right once again, right from his heading
 "Queen Bee Mr. Popular". Good analogies and figures of speeches. Big
 strike for me. 1-0
 
-Rule #5: I don't think any observations and hypothesis are considered
+Rule #5: I don't think any observations and hypotheses are considered
 here by both. 0-0
 
 Rule #6: There seems to be good flow from one sentence/paragraph to
@@ -524,13 +520,13 @@ In my case, the flow seems to be really off. I go from "Your life then
 starts to suck even more." to "Winning against someone who has forever
 practiced only this, ...". There is nothing inbetween that connects
 these two sentences. Instead I think it would be better if I said
-something like the following, to ensure flow.
+something like the following, to ensure flow:
 
 "But what if your revenge attempt fails? Your life then starts to suck
 even more. Unless you are like the Queen Bee or Mr. popular, the
 chances of your revenge failing (i.e., life sucking even more) is
 quite high. So the way ahead seems to be to deliberately practice
-attacking and getting better at it. Is that it? is this the whole
+attacking and getting better at it. Is that it? Is this the whole
 picture? ..."
 
 0.5-0
@@ -551,7 +547,7 @@ says. This rule has not really been clear to me from the beginning,
 should I flag every assumption? I think this assumption doesn't need
 any justification. More on this on the section on reflection.
 
-Score: 5.5-3 on 9
+Score: 5.5-3 on 9 for STM
 
 STM:
 
@@ -609,7 +605,7 @@ impact of engaging in drama`. It looks like an STM seems to talk about
 one point at a time. For me, I seem to be talking about `actual
 impact of engaging in drama` and `brain being evolved for the social
 world`. But I think I violated this rule. I initially talk about `the
-actual impact of engaging in drama` , but suddenly for like a sentence
+actual impact of engaging in drama`, but suddenly for like a sentence
 I go to the next main point and then come back to the first point. How
 much the drama means to the brain, seems to be related to `brain being
 evolved for social world`. The changed version below (change shown in
@@ -637,7 +633,7 @@ recently. Hopefully in the coming articles. 1-0
 Rule  #5: It is more like a question answer session rather than a
 observation, hypothesis paradigm. Same with me. More like conclusions
 as a result of observations. I am continuing to not be sure if this
-framework might work for this. 0-0
+framework might work for this type of essay. 0-0
 
 Rule #6:
 
@@ -716,7 +712,7 @@ Quick P.S
 
 This is quite exhausting. Finishing a few paragraphs of 9 dimensions
 OMG, it is painful! How am I going to pull off 3 more hrs of this? 1
-hr and 40 mins and already knackered!
+hr and 40 mins and am already knackered!
 
 STM:
 
@@ -773,7 +769,7 @@ ME:
 > your life.
 
 Rule #1: The difficulty in picking out the main points seems to be
-flag enough. An STM seems to start with `rhetoric questions on taking
+note-worthy. An STM seems to start with `rhetoric questions on taking
 revenge being the way to go despite everything` followed by `reason
 for taking the high road` and then `people are not going to change`. I
 cannot believe that I can actually split some thing into a few clear
@@ -801,8 +797,8 @@ road and just ignore it". Whereas I do. For the `people will not
 change` point , an STM seems to have given good examples, whereas I
 barely even said anything about it. 0.5-0.5
 
-Rule #4: An STM seems to be engaging in quite some Rhetorical
-questioning 
+Rule #4: An STM seems to be engaging in quite some rhetorical
+questioning: 
 
 >which is a device used to persuade or subtly influence the
 >audience.
@@ -961,7 +957,7 @@ Clearly an STM's article was much better by feeling as well as
 according to the Scores at the end of each piece. My highest was 5 and
 that of an STM was a record 7. This way of working looks like a start
 unlike my previous attempts. This was hard and exhausting no
-doubt. The pain parts seem to be to figure out what the dimensions
+doubt. The painful parts seem to be to figure out what the dimensions
 mean and checking if those dimensions were met. Most of the times
 checking this would mean that a piece had to be read atleast a few
 times in full concentration. For example, for the first rule "one idea
@@ -1016,8 +1012,8 @@ best, but it is a start.
 
 I think this was easy from the get go. I don't know if I did justice
 in evaluation. I think from the next time that I should focus and be
-clear that only the main ideas need examples and I should to segregate
-them per main idea.
+clear that only the main ideas need examples and I should try to
+segregate them per main idea.
 
 **Rule #4: analogies and figures of speech**
 
@@ -1031,8 +1027,8 @@ This one is a tough one. Say you are explaining a how a computer works
 or how a bicycle works. How is it possible to deliver this in a
 hypothesis-observation framework. I want to conclude for now that the
 observation-hypothesis framework might not work in this case while
-explaining a concept Revenge or Grow. I need to look at few other
-essays and work this out.
+explaining a concept such as 'Revenge or Grow'. I need to look at few
+other essays and work this out.
 
 **Rule #6: flow**
 
@@ -1082,7 +1078,7 @@ are.
 Eliezer, PG and an STM, which I could use to perform the same BF
 method on one dimension at a time. 
 
-- feedback on results is continuously available. The feedback was
+- Feedback on results is continuously available. The feedback was
   available right from the beginning. The output dimension
   measurements are probably not too accurate, but this is a start and
   there are ways to make the dimensions better. For all dimensions,
@@ -1091,7 +1087,7 @@ method on one dimension at a time.
   determine what exactly it could be. This way I could fine tune and
   discover dimensions of value.
   
-- it is highly demanding. Well, I remember the day when I started
+- It is highly demanding. Well, I remember the day when I started
   writing it all out. After around 2 hrs I just couldn't. I tapped
   out!
   
@@ -1101,7 +1097,7 @@ usually looking at one aspect of the skill and training it. 9 output
 dimensions seemed like an overkill to do all together. Maybe that was
 one of the reasons for how mentally drained I felt.
   
-- it isn't much fun. Yep.
+- It isn't much fun. Yep.
 
 >Contrast that to just writing one 3,000-word essay and calling that
 >practice --- STM
@@ -1119,5 +1115,5 @@ made notes 2 days back.
 Went over the parts sections of DP 3 times in total. I would think
 roughly 2.5 hrs in total for each section
 
-Average time: ~4 hrs per day. 
+Average time: ~4 hrs per day 9 (for 7 days). 
 Number of words without quotes: > 7k words
