@@ -1115,5 +1115,5 @@ made notes 2 days back.
 Went over the parts sections of DP 3 times in total. I would think
 roughly 2.5 hrs in total for each section
 
-Average time: ~4 hrs per day 9 (for 7 days). 
+Average time: ~4 hrs per day (for 7 days). 
 Number of words without quotes: > 7k words
