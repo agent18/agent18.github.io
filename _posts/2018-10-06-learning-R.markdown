@@ -33,7 +33,7 @@ Some more helpful configuration things are given in
 `_` key is bound to `<-` by default in the `ESS`
 mode. `ESS-smart-underscore` tries to overcome this issue (I have not
 yet tested how).
-## R packages
+## R packages and needed installation
 
 When R is downloaded from CRAN we get the "base" R system. Primary
 location to obtain 
@@ -123,6 +123,127 @@ from [this answer ](https://github.com/sagemath/cloud/issues/114#issuecomment-23
 It works! after this.
 
 
+### installing MySQL
+
+According to [here, we can use APT to install](http://dev.mysql.com/doc/refman/5.7/en/installing.html), nothing more is
+given. So I try based on [digitalocean](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-16-04):
+
+	sudo apt-get install mysql-server
+	
+	
+Running security script,
+
+	mysql_secure_installation
+	
+>This will prompt you for the root password you created in Step 1. You
+>can press Y and then ENTER to accept the defaults for all the
+>subsequent questions, with the exception of the one that asks if
+>you'd like to change the root password. You just set it in Step 1, so
+>you don't have to change it now.
+	
+	mysql_install_db    # before 5.7.6
+	mysqld --initialize #for 5.7.6
+	
+You are supposed to get this error:
+
+	2016-03-07T20:11:15.998193Z 0 [ERROR] --initialize specified but
+	the data directory has files in it. Aborting.
+	
+But I got this:
+
+	[Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+
+According to [fromdual](https://www.fromdual.com/node/1279), the suggestion is to just follow the
+advice of the error. Some functionality is being deprecated.
+
+>Our advice is to enable the variable explicit_defaults_for_timestamp
+>now on your testing systems so you can see if your application behave
+>well and then you are prepared for the next release when this feature
+>will become the default.
+
+>In short term this warning is NOT dangerous. In the long term you
+>have to be prepared for the deprecated functionality. You get rid of
+>the warning my setting explicit_defaults_for_timestamp = 1 in your
+>my.cnf [mysqld] section.
+
+You can [find the `my.cnf`](https://stackoverflow.com/a/2485758/5986651) file in the following locations, and in
+this order the values override each other:
+
+- /etc/my.cnf
+- /etc/mysql/my.cnf
+- $MYSQL_HOME/my.cnf
+- [datadir]/my.cnf
+- ~/.my.cnf
+
+You can also [find your file](https://stackoverflow.com/a/2482474/5986651) by 
+	
+	find / -name my.cnf
+
+I added the following in /etc/mysql/my.cnf
+	
+	[mysqld]
+	explicit_defaults_for_timestamp = 1
+
+Now try 
+
+	mysqld --initialize
+
+And I got a reduced error without Timestamp stuff
+
+	mysqld: Can't create directory '/var/lib/mysql/' (Errcode: 17 - File exists)
+	2018-11-12T20:13:45.024116Z 0 [ERROR] Aborting
+
+Is this good? Not sure so I look deeper. According to this [accepted stack
+answer for the error](https://askubuntu.com/a/797696/443958) you need to
+
+	sudo -i #log into root
+	cd /var/lib/mysql
+	rm -r *
+	
+	su username  # get back to the original user
+
+	mysqld --initialize 
+	
+This, still gave me the exact same error.
+
+	mysqld: Can't create directory '/var/lib/mysql/' (Errcode: 17 - File exists)
+	2018-11-12T20:13:45.024116Z 0 [ERROR] Aborting
+	
+I am not sure the accepted answer helped at all with the removing the
+`/var/lib/mysql`, but `sudo` helped:
+
+	sudo mysqld --initialize
+	
+worked... No error at all!
+
+
+Testing:
+
+	systemctl status mysql.service
+	
+additional check:
+	
+	mysqladmin -p -u root version
+	
+
+In R,
+
+	install.packages("RMySQL")
+	
+### installing for hdf5
+
+This will install packages from Bioconductor http://bioconductor.org/,
+primarily used for genomics but also has good "big data" packages Can
+be used to interface with hdf5 data sets.  
+
+	source("http://bioconductor.org/biocLite.R")
+	biocLite("rhdf5")
+
+[Source:jtleek github](https://github.com/DataScienceSpecialization/courses/blob/master/03_GettingData/02_02_readingHDF5/index.md)
+
+### other packages installed
+
+`plyr`, `Hmisc`, `reshape`
 ## Learning R
 
 I am currently doing the Data Science Specialization at 40€/month on
@@ -206,6 +327,11 @@ attr(,"levels")
 	    summary(x)
 		Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
 		-8.560  -1.445   1.225   1.583   4.454  13.904 
+		
+- loading and unloading libraries ([source)](https://stackoverflow.com/a/38416975/5986651)
+
+		library(library_name_not_in_courts)
+		detach("package:RMySQL", unload=TRUE)
 
 
 ### Loop functions
@@ -657,7 +783,7 @@ who got them from Kevin Ushey.
 [https://github.com/DataScienceSpecialization/courses/blob/master/03_GettingData/01_09_dataTable/index.md](https://github.com/DataScienceSpecialization/courses/blob/master/03_GettingData/01_09_dataTable/index.md)
 
 
-## expressions
+### expressions
 
 	{
 	x = 1
@@ -670,10 +796,11 @@ who got them from Kevin Ushey.
 	[2] 5
 	
 
-## Data
+## Handling different Data
 
 - popular databases where data is stored SQL, MongoDB.
 
+### file, downloading, directory
 - geting and setting working directory
 
 		getwd() 
@@ -719,14 +846,68 @@ who got them from Kevin Ushey.
 
 
 
+### fixed width files fwf
+According to this [stack which is a question directly from
+coursera](https://stackoverflow.com/questions/14383710/read-fixed-width-text-file), `read.fwf` is a function used to clean a fixed width
+file.
+
+The same thing can be done in several ways:
+	
+``` R	
+library(readr)
+
+x <- read_fwf(
+  file="http://www.cpc.ncep.noaa.gov/data/indices/wksst8110.for",   
+  skip=4,
+  fwf_widths(c(12, 7, 4, 9, 4, 9, 4, 9, 4)))
+```
+
+``` R
+x <- read.fwf(
+  file=url("http://www.cpc.ncep.noaa.gov/data/indices/wksst8110.for"),
+  skip=4,
+  widths=c(12, 7, 4, 9, 4, 9, 4, 9, 4))
+```
+
+'-' in -1 removes the columns quickly.
+
+``` R
+df <- read.fwf(
+  file=url("http://www.cpc.ncep.noaa.gov/data/indices/wksst8110.for"),
+  widths=c(-1, 9, -5, 4, 4, -5, 4, 4, -5, 4, 4, -5, 4, 4),
+  skip=4
+)
+```
+
+``` R
+x <- readLines(con=url("http://www.cpc.ncep.noaa.gov/data/indices/wksst8110.for"))
+
+# Skip 4 lines
+x <- x[-(1:4)]
+
+mydata <- data.frame(var1 = substr(x, 1, 10),
+                     var2 = substr(x, 16, 19),
+                     var3 = substr(x, 20, 23),
+                     var4 = substr(x, 29, 32)  # and so on and so on
+                     )
+```
+
+However, having the header is a problem. Accorrding to `?read.fwf`
+when using the `header` argument, you also need the `sep` argument.
+
+The problem is discussed [here](https://stackoverflow.com/questions/21592616/error-in-read-fwf-when-header-true). If necessary the header and the content
+can be separately attached. or go to the extent of modifying the data
+to have useless delimiters.
+
+
 ### Excel
 
 - installation was fucking intense. Look in the above sections for it.
 - reading excel files uses package `xlsx`
 		
 		library(xlsx)
-		read.xlsx("./data.xlsx", sheetIndex=1, header=TRUE,colIndex,
-		rowIndex)
+		read.xlsx("./data.xlsx", sheetIndex=1,
+		header=TRUE,colIndex=7:15, rowIndex=18:23)
 		
 - writing 
 
@@ -850,14 +1031,40 @@ rootNode <- xmlRoot(doc)
 
 		fileUrl <-
 		"http://espn.go.com/nfl/team/_/name/bal/baltimore-ravens"
-		doc <- htmlTreeParse(getURL(fileUrl),useInternal=TRUE)
-		scores <- xpathSApply(doc,"//li[@class='score']",xmlValue)
-		teams <- xpathSApply(doc,"//li[@class='team-name']",xmlValue)
+		doc <- htmlTreeParse(rawToChar(GET(url)$content),
+		useInternalNodes = TRUE)
+		xpathSApply(doc, "//title", xmlValue)
+		xpathSApply(doc,"//div[@class='score']",xmlValue)
+		teams <- xpathSApply(doc,"//div[@class='team-name']",xmlValue)
 
-You are able to extract the elements in **tags** `li` of **class**
-i.e., the teams and scores from the website.
+Even if http moved to https it can handle. Another example is as
+follows:
 
-	
+	library(XML)
+	library(httr)
+	url <- "http://scholar.google.com/citations?user=HI-I6C0AAAAJ&hl=en"
+	html <- htmlTreeParse(rawToChar(GET(url)$content), useInternalNodes = TRUE)
+	xpathSApply(html, "//title", xmlValue)
+	xpathSApply(html, "//td[@class='gsc_a_c']", xmlValue)
+
+Another way to do it is:
+
+```R
+library(httr)
+url <- "http://scholar.google.com/citations?user=HI-I6C0AAAAJ&hl=en"
+library(httr); html2 = GET(url)
+content2 = content(html2,as="text")
+parsedHtml = htmlParse(content2,asText=TRUE)
+xpathSApply(parsedHtml, "//title", xmlValue)
+```
+
+This shit doesn't work `doc <-
+htmlTreeParse(getURL(fileUrl),useInternal=TRUE)`.  
+You are able to extract the elements in **tags** `div` of **class**
+i.e., the teams and scores from the website. *The team-name doens't
+work anymore as it is not a class anymore*
+
+
 - help
 
 	- [outstanding link to XML](https://www.stat.berkeley.edu/~statcur/Workshop2/Presentations/XML.pdf)
@@ -865,6 +1072,16 @@ i.e., the teams and scores from the website.
 	- [short link (wayback machine)](https://web.archive.org/web/20140906181450/http://www.omegahat.org/RSXML/shortIntro.pdf)
 	
 	- [long link (wayback machine)](https://web.archive.org/web/20141113153333/http://www.omegahat.org/RSXML/Tour.pdf)
+
+#### Things that don't work with XML and html parsing
+
+``` R
+ url<- getURL("http://scholar.google.com/citations?user=HI-I6C0AAAAJ&hl=en", ssl.verifyPeer=FALSE)
+html<- htmlTreeParse(url, useInternalNodes = TRUE)
+doc<-xpathSApply(html, "//title", xmlValue)
+doc
+[1] "302 Moved"
+```
 
 ### JSON
 
@@ -914,3 +1131,1481 @@ i.e., the teams and scores from the website.
 
 
 
+
+### MySQL
+
+MySQL is a type of database software. Frequently used in internet
+based applications. You need to install MySQL and install RMySQL for this.
+
+>The MySQL™ software delivers a very fast, multithreaded, multi-user,
+>and robust SQL (Structured Query Language) database server.
+> --- [Source](https://dev.mysql.com/doc/refman/5.7/en/introduction.html)
+
+Anyways, it looks like you need a server and client way of work. So
+databases are stored in the server and accessed by the client. Still
+very vague. but moving on. 
+
+So I think what we are doing is we are running the server from within
+out pc and that is what the installation of the server was all about.
+
+- mysqld is the server executable (one of them)
+- mysql is the command line client
+- mysqladmin is a maintainance or administrative utility
+
+#### Basics
+
+Starting and stopping and checking status
+
+Status:
+
+	systemctl status mysql.service
+
+Start: 
+	
+	sudo service mysql start
+	
+or
+
+	sudo /etc/init.d/mysql start
+
+Stop: 
+
+	sudo service mysql stop
+	
+Accessing as the client once the terminal once the server is running is done by:
+
+	mysql -u root -p
+
+
+#### Connecting to servers online and using their stuff
+
+
+
+[UCSC server](http://genome.ucsc.edu/) and instructions are [here](http://genome.ucsc.edu/goldenPath/help/mysql.html). 
+
+**Library**
+
+	library("RMySQL")
+
+**Connecting:**
+
+	ucscDb <- dbConnect(MySQL(),user="genome", 
+                    host="genome-mysql.cse.ucsc.edu")
+	result <- dbGetQuery(ucscDb,"show databases;");
+	dbDisconnect(ucscDb);
+	
+	[1] TRUE
+
+Result contains list of all databases.  **You can connect to a
+particular database and extract its info.**
+
+	hg19 <- dbConnect(MySQL(),user="genome", db="hg19",
+                    host="genome-mysql.cse.ucsc.edu")
+	allTables <- dbListTables(hg19)
+	length(allTables)
+	
+Gives a list of tables in this database.  
+
+Identifying info about the table in a particular database.
+
+	dbListFields(hg19,"affyU133Plus2")
+	dbGetQuery(hg19, "select count(*) from affyU133Plus2")
+
+
+**Reading the table:**
+
+	affyData <- dbReadTable(hg19, "affyU133Plus2")
+
+
+**Getting a subset**
+
+	query <- dbSendQuery(hg19, "select * from affyU133Plus2 where misMatches between 1 and 3")
+	affyMis <- fetch(query); quantile(affyMis$misMatches)
+
+**Not accidentally getting a ton of data**
+
+	affyMisSmall <- fetch(query,n=10); dbClearResult(query);
+
+	dbDisconnect(hg19)
+
+
+**SQL commands**
+
+[List of mysql commands](http://www.pantz.org/software/mysql/mysqlcommands.html), [blog of other commands](http://www.r-bloggers.com/mysql-and-r/). 
+
+#### SQL withing R without MySQL
+
+`sqldf` library is used for the purpose of using sql on R data frames
+directly.
+
+According to this stack question, `sqldf` has to use a driver given by
+the argument `drv`. If nothing is specified it looks for some other
+libraries loaded and tries to use their driver, which is when for a
+command like `sqldf("select * from df limit 6", drv="SQLite")` you get
+errors reagarding driver.
+
+
+So do one of the following:
+
+	detach("package:RMySQL", unload=TRUE)
+	options(sqldf.driver = "SQLite")
+	sqldf("select * from df limit 6", drv="SQLite")
+
+[Source](https://stackoverflow.com/a/49431382/5986651)
+
+#### SQL queries
+
+	sqldf("select distinct AGEP from acs")
+	sqldf("select pwgtp1 from acs where AGEP < 50")
+
+### HDF5
+
+Hierarchical data format.
+
+This lecture is modeled very closely on the rhdf5 tutorial that can be
+found here:
+[http://www.bioconductor.org/packages/release/bioc/vignettes/rhdf5/inst/doc/rhdf5.pdf](http://www.bioconductor.org/packages/release/bioc/vignettes/rhdf5/inst/doc/rhdf5.pdf)
+
+**Start**
+
+	library(rhdf5)
+	created = h5createFile("example.h5")
+	
+**Create groups**
+
+```R
+created = h5createGroup("example.h5","foo")
+created = h5createGroup("example.h5","baa")
+created = h5createGroup("example.h5","foo/foobaa")
+h5ls("example.h5") # list groups in the table
+```
+
+**Write groups**
+
+Write matrix directly
+
+```r
+A = matrix(1:10,nr=5,nc=2)
+h5write(A, "example.h5","foo/A")
+B = array(seq(0.1,2.0,by=0.1),dim=c(5,2,2))
+attr(B, "scale") <- "liter"
+h5write(B, "example.h5","foo/foobaa/B")
+h5ls("example.h5")
+```
+
+```
+        group   name       otype  dclass       dim
+0           /    baa   H5I_GROUP                  
+1           /    foo   H5I_GROUP                  
+2        /foo      A H5I_DATASET INTEGER     5 x 2
+3        /foo foobaa   H5I_GROUP                  
+4 /foo/foobaa      B H5I_DATASET   FLOAT 5 x 2 x 2
+```
+
+
+**Write data sets**
+
+
+```r
+df = data.frame(1L:5L,seq(0,1,length.out=5),
+  c("ab","cde","fghi","a","s"), stringsAsFactors=FALSE)
+h5write(df, "example.h5","df")
+h5ls("example.h5")
+```
+
+```
+        group   name       otype   dclass       dim
+0           /    baa   H5I_GROUP                   
+1           /     df H5I_DATASET COMPOUND         5
+2           /    foo   H5I_GROUP                   
+3        /foo      A H5I_DATASET  INTEGER     5 x 2
+4        /foo foobaa   H5I_GROUP                   
+5 /foo/foobaa      B H5I_DATASET    FLOAT 5 x 2 x 2
+```
+
+**Reading data**
+
+```r
+readA = h5read("example.h5","foo/A")
+readB = h5read("example.h5","foo/foobaa/B")
+readdf= h5read("example.h5","df")
+readA
+```
+
+**Writing and reading chunks**
+
+```r
+h5write(c(12,13,14),"example.h5","foo/A",index=list(1:3,1))
+h5read("example.h5","foo/A")
+```
+
+**Notes and further resources**
+
+* hdf5 can be used to optimize reading/writing from disc in R
+* The rhdf5 tutorial: 
+  * [http://www.bioconductor.org/packages/release/bioc/vignettes/rhdf5/inst/doc/rhdf5.pdf](http://www.bioconductor.org/packages/release/bioc/vignettes/rhdf5/inst/doc/rhdf5.pdf)
+* The HDF group has informaton on HDF5 in general [http://www.hdfgroup.org/HDF5/](http://www.hdfgroup.org/HDF5/)
+### Webscraping html reading
+
+[Source-jtleek](https://github.com/DataScienceSpecialization/courses/blob/master/03_GettingData/02_03_readingFromTheWeb/index.md)
+
+__Webscraping__: Programatically extracting data from the HTML code of websites. 
+
+* It can be a great way to get data [How Netflix reverse engineered Hollywood](http://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/)
+* Many websites have information you may want to programaticaly read
+* In some cases this is against the terms of service for the website
+* Attempting to read too many pages too quickly can get your IP address blocked
+
+[http://en.wikipedia.org/wiki/Web_scraping](http://en.wikipedia.org/wiki/Web_scraping)
+
+
+**Getting data off webpages - readLines()**
+
+```r
+con = url("http://scholar.google.com/citations?user=HI-I6C0AAAAJ&hl=en")
+htmlCode = readLines(con)
+close(con)
+```
+
+```
+[1] "<!DOCTYPE html><html><head><title>Jeff Leek - Google Scholar
+Citations</title><meta name=\"robots\" content=\"noarchive\"><meta
+http-equiv=\"Content-Type\"
+content=\"text/html;charset=ISO-8859-1\"><meta
+http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta
+name=\"format-detection\" content=\"telephone=no\"><link
+rel=\"canonical\"
+href=\"http://scholar.google.com/citations?user=HI-I6C0AAAAJ&amp;hl=en\"><style
+type=\"text/css\" media=\"screen, 
+```
+
+**Parsing with XML**
+
+The actual lecture notes is sooooooooooo wrong.
+
+```r
+	library(XML)
+	library(httr)
+	url <- "http://scholar.google.com/citations?user=HI-I6C0AAAAJ&hl=en"
+	html <- htmlTreeParse(rawToChar(GET(url)$content), useInternalNodes = TRUE)
+	xpathSApply(html, "//title", xmlValue)
+```
+
+```
+[1] "Jeff Leek - Google Scholar Citations"
+```
+
+```r
+xpathSApply(html, "//td[@class='gsc_a_c']", xmlValue)
+```
+
+```
+ [1] "Cited by" "397"      "259"      "237"      "172"      "138"      "125"      "122"     
+ [9] "109"      "101"      "34"       "26"       "26"       "24"       "19"       "13"      
+[17] "12"       "10"       "10"       "7"        "6"       
+```
+
+**GET from the httr package**
+
+Somehow this works in the first try.
+
+```r
+library(httr)
+url <- "http://scholar.google.com/citations?user=HI-I6C0AAAAJ&hl=en"
+library(httr); html2 = GET(url)
+content2 = content(html2,as="text")
+parsedHtml = htmlParse(content2,asText=TRUE)
+xpathSApply(parsedHtml, "//title", xmlValue)
+xpathSApply(parsedHtml, "//td[@class='gsc_a_c']", xmlValue)
+```
+
+```
+[1] "Jeff Leek - Google Scholar Citations"
+```
+
+**Accessing websites with passwords**
+
+
+```r
+pg1 = GET("http://httpbin.org/basic-auth/user/passwd")
+pg1
+```
+
+```
+Response [http://httpbin.org/basic-auth/user/passwd]
+  Status: 401
+  Content-type: application/json
+{
+  "authenticated": true,
+  "user": "user"
+} 
+```
+
+```r
+names(pg2)
+```
+
+```
+[1] "url"         "handle"      "status_code" "headers"     "cookies"     "content"    
+[7] "times"       "config"     
+```
+
+
+[http://cran.r-project.org/web/packages/httr/httr.pdf](http://cran.r-project.org/web/packages/httr/httr.pdf)
+
+---
+
+**Using handles**
+
+handles are used when you want to authenticate once and leave every
+other time to use the same authentication.
+```r
+google = handle("http://google.com")
+pg1 = GET(handle=google,path="/")
+pg2 = GET(handle=google,path="search")
+```
+
+[http://cran.r-project.org/web/packages/httr/httr.pdf](http://cran.r-project.org/web/packages/httr/httr.pdf)
+
+**Notes and further resources**
+
+* R Bloggers has a number of examples of web scraping [http://www.r-bloggers.com/?s=Web+Scraping](http://www.r-bloggers.com/?s=Web+Scraping)
+* The httr help file has useful examples [http://cran.r-project.org/web/packages/httr/httr.pdf](http://cran.r-project.org/web/packages/httr/httr.pdf)
+* See later lectures on APIs
+ 
+### API's
+
+[Source for API usage when the time is right, not now!](https://github.com/DataScienceSpecialization/courses/blob/master/03_GettingData/02_04_readingFromAPIs/index.md)
+
+Example of making and getting info from github API.
+
+``` R
+library(httr)
+library(httpuv)
+# 1. Find OAuth settings for github:
+#    http://developer.github.com/v3/oauth/
+oauth_endpoints("github")
+
+# 2. To make your own application, register at 
+#    https://github.com/settings/developers. Use any URL for the homepage URL
+#    (http://github.com is fine) and  http://localhost:1410 as the callback url
+#
+#    Replace your key and secret below.
+myapp <- oauth_app("github",
+  key = "56b637a5baffac62cad9",
+  secret = "8e107541ae1791259e9987d544ca568633da2ebf")
+
+# 3. Get OAuth credentials
+github_token <- oauth2.0_token(oauth_endpoints("github"), myapp)
+
+# 4. Use API
+gtoken <- config(token = github_token)
+req <- GET("https://api.github.com/users/jtleek/repos", gtoken)
+stop_for_status(req)
+lst <- content(req)
+
+library(jsonlite)
+
+# Convert to a data.frame
+gitDF = fromJSON(toJSON(lst))
+
+# Subset data.frame
+gitDF[gitDF$full_name == "jtleek/datasharing", "created_at"]
+
+```
+
+**Source**
+
+1. [Exact question answered for the Coursera question](https://towardsdatascience.com/accessing-data-from-github-api-using-r-3633fb62cb08)
+2. [Source given by course era course
+question](https://github.com/r-lib/httr/blob/master/demo/oauth2-github.r)
+3. [Source given by jtleek](https://github.com/DataScienceSpecialization/courses/blob/master/03_GettingData/02_04_readingFromAPIs/index.md)
+
+
+
+### other sources
+
+
+
+
+
+**There is a package for that**
+
+* Roger has a nice video on how there are R packages for
+most things that you will want to access.
+* Here I'm going to briefly review a few useful packages
+* In general the best way to find out if the R package
+exists is to Google "data storage mechanism R package"
+  * For example: "MySQL R package"
+
+---
+
+**Interacting more directly with files**
+
+* file - open a connection to a text file
+* url - open a connection to a url
+* gzfile - open a connection to a .gz file
+* bzfile - open a connection to a .bz2 file
+* _?connections_ for more information
+* <redtext>Remember to close connections </redtext>
+
+---
+
+**foreign package**
+
+* Loads data from Minitab, S, SAS, SPSS, Stata,Systat
+* Basic functions _read.foo_
+  * read.arff (Weka)
+  * read.dta (Stata)
+  * read.mtp (Minitab)
+  * read.octave (Octave)
+  * read.spss (SPSS)
+  * read.xport (SAS)
+* See the help page for more details [http://cran.r-project.org/web/packages/foreign/foreign.pdf](http://cran.r-project.org/web/packages/foreign/foreign.pdf)
+
+
+---
+
+**Examples of other database packages**
+
+* RPostresSQL provides a DBI-compliant database connection from R. Tutorial-[https://code.google.com/p/rpostgresql/](https://code.google.com/p/rpostgresql/), help file-[http://cran.r-project.org/web/packages/RPostgreSQL/RPostgreSQL.pdf](http://cran.r-project.org/web/packages/RPostgreSQL/RPostgreSQL.pdf)
+* RODBC provides interfaces to multiple databases including PostgreQL, MySQL, Microsoft Access and SQLite. Tutorial - [http://cran.r-project.org/web/packages/RODBC/vignettes/RODBC.pdf](http://cran.r-project.org/web/packages/RODBC/vignettes/RODBC.pdf), help file - [http://cran.r-project.org/web/packages/RODBC/RODBC.pdf](http://cran.r-project.org/web/packages/RODBC/RODBC.pdf)
+* RMongo [http://cran.r-project.org/web/packages/RMongo/RMongo.pdf](http://cran.r-project.org/web/packages/RMongo/RMongo.pdf) (example of Rmongo [http://www.r-bloggers.com/r-and-mongodb/](http://www.r-bloggers.com/r-and-mongodb/)) and [rmongodb](http://cran.r-project.org/web/packages/rmongodb/rmongodb.pdf) provide interfaces to MongoDb. 
+
+
+---
+
+**Reading images**
+
+* jpeg - [http://cran.r-project.org/web/packages/jpeg/index.html](http://cran.r-project.org/web/packages/jpeg/index.html)
+* readbitmap - [http://cran.r-project.org/web/packages/readbitmap/index.html](http://cran.r-project.org/web/packages/readbitmap/index.html)
+* png - [http://cran.r-project.org/web/packages/png/index.html](http://cran.r-project.org/web/packages/png/index.html)
+* EBImage (Bioconductor) - [http://www.bioconductor.org/packages/2.13/bioc/html/EBImage.html](http://www.bioconductor.org/packages/2.13/bioc/html/EBImage.html)
+
+---
+
+**Reading GIS data**
+
+* rgdal - [http://cran.r-project.org/web/packages/rgdal/index.html](http://cran.r-project.org/web/packages/rgdal/index.html)
+* rgeos - [http://cran.r-project.org/web/packages/rgeos/index.html](http://cran.r-project.org/web/packages/rgeos/index.html)
+* raster - [http://cran.r-project.org/web/packages/raster/index.html](http://cran.r-project.org/web/packages/raster/index.html)
+
+---
+
+**Reading music data**
+
+* tuneR - [http://cran.r-project.org/web/packages/tuneR/](http://cran.r-project.org/web/packages/tuneR/)
+* seewave - [http://rug.mnhn.fr/seewave/](http://rug.mnhn.fr/seewave/)
+
+## Manipulating DATA (c3-w3)
+
+### Selecting random rows and setting value
+
+```r
+set.seed(13435)
+X <- data.frame("var1"=sample(1:5),"var2"=sample(6:10),"var3"=sample(11:15))
+X <- X[sample(1:5),]; X$var2[c(1,3)] = NA
+X
+```
+
+```
+  var1 var2 var3
+1    2   NA   15
+4    1   10   11
+2    3   NA   12
+3    5    6   14
+5    4    9   13
+```
+### Subsetting - quick review (2)
+
+```r
+X[,1]
+```
+
+```r
+X[,"var1"]
+```
+
+```r
+X[1:2,"var2"]
+```
+
+**Subsetting with %in%**
+```r
+restData[restData$zipCode %in% c("21212","21213"),]
+```
+
+### Logicals ands and ors
+
+
+```r
+X[(X$var1 <= 3 & X$var3 > 11),]
+```
+
+```
+  var1 var2 var3
+1    2   NA   15
+2    3   NA   12
+```
+
+```r
+X[(X$var1 <= 3 | X$var3 > 15),]
+```
+
+```
+  var1 var2 var3
+1    2   NA   15
+4    1   10   11
+2    3   NA   12
+```
+
+### NA's are ignored using `which`
+
+```r
+X[which(X$var2 > 8),]
+```
+
+```
+  var1 var2 var3
+4    1   10   11
+5    4    9   13
+```
+
+### Sorting
+
+**Excludes NA's unless an argument is used** If needed then use
+`na.last`=True
+
+```r
+sort(X$var1)
+```
+
+```
+[1] 1 2 3 4 5
+```
+
+```r
+sort(X$var1,decreasing=TRUE)
+```
+
+```
+[1] 5 4 3 2 1
+```
+
+```r
+sort(X$var2,na.last=TRUE)
+```
+
+```
+[1]  6  9 10 NA NA
+```
+### Ordering
+
+Different than Sorting in that **in orders the whole DF**
+
+```r
+X[order(X$var1),]
+```
+
+```
+  var1 var2 var3
+4    1   10   11
+1    2   NA   15
+2    3   NA   12
+5    4    9   13
+3    5    6   14
+```
+
+```r
+X[order(X$var1,X$var3),]
+```
+
+```
+  var1 var2 var3
+4    1   10   11
+1    2   NA   15
+2    3   NA   12
+5    4    9   13
+3    5    6   14
+```
+
+### Order(arrange) with some more capabilities (plyr)
+
+```r
+library(plyr)
+arrange(X,var1)
+```
+
+```
+  var1 var2 var3
+1    1   10   11
+2    2   NA   15
+3    3   NA   12
+4    4    9   13
+5    5    6   14
+```
+
+```r
+arrange(X,desc(var1))
+```
+
+```
+  var1 var2 var3
+1    5    6   14
+2    4    9   13
+3    3   NA   12
+4    2   NA   15
+5    1   10   11
+```
+
+
+
+---
+
+### Adding rows and columns
+
+Directly add columns
+```r
+X$var4 <- rnorm(5)
+X
+```
+
+```
+  var1 var2 var3     var4
+1    2   NA   15  0.18760
+4    1   10   11  1.78698
+2    3   NA   12  0.49669
+3    5    6   14  0.06318
+5    4    9   13 -0.53613
+```
+**or Use cind or rbind**
+```r
+Y <- cbind(X,rnorm(5))
+Y
+```
+
+```
+  var1 var2 var3     var4 rnorm(5)
+1    2   NA   15  0.18760  0.62578
+4    1   10   11  1.78698 -2.45084
+2    3   NA   12  0.49669  0.08909
+3    5    6   14  0.06318  0.47839
+5    4    9   13 -0.53613  1.00053
+```
+
+### Notes and further resources
+
+* R programming in the Data Science Track
+* Andrew Jaffe's lecture notes [http://www.biostat.jhsph.edu/~ajaffe/lec_winterR/Lecture%202.pdf](http://www.biostat.jhsph.edu/~ajaffe/lec_winterR/Lecture%202.pdf)
+
+
+[Source](https://github.com/DataScienceSpecialization/courses/blob/master/03_GettingData/03_01_subsettingAndSorting/index.md)
+## Summarizing data (c3-w3)
+
+### Using STR, Summary, HEAD
+
+```r
+if(!file.exists("./data")){dir.create("./data")}
+fileUrl <- "https://data.baltimorecity.gov/api/views/k5ry-ef3g/rows.csv?accessType=DOWNLOAD"
+download.file(fileUrl,destfile="./data/restaurants.csv",method="curl")
+restData <- read.csv("./data/restaurants.csv")
+```
+
+**Read first few lines of the DF**
+
+```r
+head(restData,n=3)
+tail(restData,n=3)
+```
+**Summary of data**
+
+Info about every column based on its class.
+
+
+``` R
+summary(restData$name,5)
+```
+```
+MCDONALD'S POPEYES FAMOUS FRIED CHICKEN 
+                           8                            7 
+                      SUBWAY       KENTUCKY FRIED CHICKEN 
+                           6                            5 
+                     (Other) 
+                        1301 
+```
+**In-depth info (STR)**
+
+`str` is more about *meta info* about the data, like what class is each
+column, starting numbers, how many levels if factor etc..
+
+
+```r
+str(restData)
+```
+
+```
+'data.frame':	1327 obs. of  6 variables:
+ $ name           : Factor w/ 1277 levels "#1 CHINESE KITCHEN",..: 9 3 992 1 2 4 5 6 7 8 ...
+ $ zipCode        : int  21206 21231 21224 21211 21223 21218 21205 21211 21205 21231 ...
+ $ neighborhood   : Factor w/ 173 levels "Abell","Arlington",..: 53 52 18 66 104 33 98 133 98 157 ...
+ $ councilDistrict: int  2 1 1 14 9 14 13 7 13 1 ...
+ $ policeDistrict : Factor w/ 9 levels "CENTRAL","EASTERN",..: 3 6 6 4 8 3 6 4 6 6 ...
+ $ Location.1     : Factor w/ 1210 levels "1 BIDDLE ST\nBaltimore, MD\n",..: 835 334 554 755 492 537 505 530 507 569 ...
+```
+
+
+### Quantile info
+
+
+```r
+quantile(restData$councilDistrict,na.rm=TRUE)
+```
+
+```
+  0%  25%  50%  75% 100% 
+   1    2    9   11   14 
+```
+
+```r
+quantile(restData$councilDistrict,probs=c(0.5,0.75,0.9))
+```
+
+
+### table
+
+Counts the number of times of occurance of one column or even a
+combination of columns in X and Y axis.
+
+NA is removed by default.
+
+```r
+table(restData$councilDistrict,useNA="ifany")
+table(restData$councilDistrict,restData$zipCode)
+```
+
+### Check for missing values
+
+```r
+sum(is.na(restData$councilDistrict))
+```
+
+```
+[1] 0
+```
+
+```r
+any(is.na(restData$councilDistrict))
+```
+
+```
+[1] FALSE
+```
+
+```r
+all(restData$zipCode > 0)
+```
+
+```
+[1] FALSE
+```
+**Getting info about all columns**
+```r
+colSums(is.na(restData))
+```
+
+```
+           name         zipCode    neighborhood councilDistrict  policeDistrict      Location.1 
+              0               0               0               0               0               0 
+```
+
+
+```r
+all(colSums(is.na(restData))==0)
+```
+
+```
+[1] TRUE
+```
+
+### Values with specific characteristics
+
+```r
+table(restData$zipCode %in% c("21212"))
+table(restData$zipCode %in% c("21212"))
+```
+
+```
+FALSE  TRUE 
+ 1299    28 
+```
+**Subsetting with %in%**
+```r
+restData[restData$zipCode %in% c("21212","21213"),]
+```
+
+```
+                                     name zipCode                neighborhood councilDistrict
+29                      BAY ATLANTIC CLUB   21212                    Downtown              11
+39                            BERMUDA BAR   21213               Broadway East              12
+92                              ATWATER'S   21212   Chinquapin Park-Belvedere               4
+111            BALTIMORE ESTONIAN SOCIET
+
+```
+
+### Cross tabs
+
+**Shows values of Freq in a table of Gender and Admit**
+
+```r
+xt <- xtabs(Freq ~ Gender + Admit,data=DF)
+xt
+```
+
+```
+        Admit
+Gender   Admitted Rejected
+  Male       1198     1493
+  Female      557     1278
+```
+
+**Even for third dimension**
+
+```r
+warpbreaks$replicate <- rep(1:9, len = 54)
+xt = xtabs(breaks ~.,data=warpbreaks)
+xt
+```
+
+```
+, , replicate = 1
+
+    tension
+wool  L  M  H
+   A 26 18 36
+   B 27 42 20
+
+, , replicate = 2
+
+    tension
+wool  L  M  H
+   A 30 21 21
+   B 14 26 21
+```
+
+**With possibility to flatten it out!**
+
+```r
+ftable(xt)
+```
+### Size of data set
+
+```r
+fakeData = rnorm(1e5)
+object.size(fakeData)
+```
+
+```
+800040 bytes
+```
+
+```r
+print(object.size(fakeData),units="Mb")
+```
+
+```
+0.8 Mb
+```
+
+## Create new variables (c3-w3)
+
+[Source](https://github.com/DataScienceSpecialization/courses/blob/master/03_GettingData/03_03_creatingNewVariables/index.md)
+
+
+
+
+### Why create new variables?
+
+* Often the raw data won't have a value you are looking for
+* You will need to transform the data to get the values you would like
+* Usually you will add those values to the data frames you are working with
+* Common variables to create
+  * Missingness indicators
+  * "Cutting up" quantitative variables
+  * Applying transforms
+
+
+---
+
+
+### Creating sequences
+
+**Sample Data**
+```r
+if(!file.exists("./data")){dir.create("./data")}
+fileUrl <- "https://data.baltimorecity.gov/api/views/k5ry-ef3g/rows.csv?accessType=DOWNLOAD"
+download.file(fileUrl,destfile="./data/restaurants.csv",method="curl")
+restData <- read.csv("./data/restaurants.csv")
+```
+
+_Sometimes you need an index for your data set_
+
+
+```r
+s1 <- seq(1,10,by=2) ; s1
+```
+
+```
+[1] 1 3 5 7 9
+```
+
+```r
+s2 <- seq(1,10,length=3); s2
+```
+
+```
+[1]  1.0  5.5 10.0
+```
+
+```r
+x <- c(1,3,8,25,100); seq(along = x)
+```
+
+```
+[1] 1 2 3 4 5
+```
+
+
+
+---
+
+### Creating new variable by subsetting
+
+
+```r
+restData$nearMe = restData$neighborhood %in% c("Roland Park", "Homeland")
+table(restData$nearMe)
+```
+
+```
+
+FALSE  TRUE 
+ 1314    13 
+```
+
+### Creating binary variables
+
+
+```r
+restData$zipWrong = ifelse(restData$zipCode < 0, TRUE, FALSE)
+table(restData$zipWrong,restData$zipCode < 0)
+```
+
+```
+       
+        FALSE TRUE
+  FALSE  1326    0
+  TRUE      0    1
+```
+
+
+### Creating categorical variables (CUT)
+
+
+```r
+restData$zipGroups = cut(restData$zipCode,breaks=quantile(restData$zipCode))
+table(restData$zipGroups)
+```
+
+```
+
+(-2.123e+04,2.12e+04]  (2.12e+04,2.122e+04] (2.122e+04,2.123e+04] (2.123e+04,2.129e+04] 
+                  337                   375                   282                   332 
+```
+
+```r
+table(restData$zipGroups,restData$zipCode)
+```
+
+```
+                       
+                        -21226 21201 21202 21205 21206 21207 21208 21209 21210 21211 21212 21213
+  (-2.123e+04,2.12e+04]      0   136   201     0     0     0     0     0     0     0     0     0
+  (2.12e+04,2.122e+04]       0     0     0    27    30     4     1     8    23    41    28    31
+  (2.122e+04,2.123e+04]      0     0     0     0     0     0     0     0     0     0     0     0
+  (2.123e+04,2.129e+04]      0     0     0     0     0     0     0     0     0     0     0     0
+     
+```
+
+### Easier cutting library(hmisc) cut2
+
+
+```r
+library(Hmisc)
+restData$zipGroups = cut2(restData$zipCode,g=4)
+table(restData$zipGroups)
+```
+
+```
+
+[-21226,21205) [ 21205,21220) [ 21220,21227) [ 21227,21287] 
+           338            375            300            314 
+```
+
+
+---
+
+### Creating factor variables
+
+
+```r
+restData$zcf <- factor(restData$zipCode)
+restData$zcf <- as.factor(restData$zipCode)
+restData$zcf[1:10]
+```
+
+```
+ [1] 21206 21231 21224 21211 21223 21218 21205 21211 21205 21231
+32 Levels: -21226 21201 21202 21205 21206 21207 21208 21209 21210 21211 21212 21213 21214 ... 21287
+```
+
+```r
+class(restData$zcf)
+```
+
+```
+[1] "factor"
+```
+
+### Levels of factor variables
+
+
+```r
+yesno <- sample(c("yes","no"),size=10,replace=TRUE)
+yesnofac = factor(yesno,levels=c("yes","no"))
+levels(as.factor(yesno))
+relevel(yesnofac,ref="no")
+```
+
+```
+ [1] "no"  "yes"
+ [2] yes yes yes yes no  yes yes yes no  no 
+Levels: no yes
+```
+
+```r
+as.numeric(yesnofac)
+```
+
+```
+ [1] 1 1 1 1 2 1 1 1 2 2
+```
+
+
+
+### Using the mutate function or do it directly 
+
+Need both HMISC and plyr.
+
+```r
+library(Hmisc); library(plyr)
+restData2 = mutate(restData,zipGroups=cut2(zipCode,g=4))
+restData$zipGroups  <-  cut2(restData$zipCode,g=4) # same result
+table(restData2$zipGroups)
+```
+
+```
+
+[-21226,21205) [ 21205,21220) [ 21220,21227) [ 21227,21287] 
+           338            375            300            314 
+```
+### Common transforms
+
+* `abs(x)` absolute value
+* `sqrt(x)` square root
+* `ceiling(x)` ceiling(3.475) is 4
+* `floor(x)` floor(3.475) is 3
+* `round(x,digits=n)` round(3.475,digits=2) is 3.48
+* `signif(x,digits=n)` signif(3.475,digits=2) is 3.5
+* `cos(x), sin(x)` etc.
+* `log(x)` natural logarithm
+* `log2(x)`, `log10(x)` other common logs
+* `exp(x)` exponentiating x
+
+[http://www.biostat.jhsph.edu/~ajaffe/lec_winterR/Lecture%202.pdf](http://www.biostat.jhsph.edu/~ajaffe/lec_winterR/Lecture%202.pdf)
+[http://statmethods.net/management/functions.html](http://statmethods.net/management/functions.html)
+
+
+---
+
+### Notes and further reading
+
+* A tutorial from the developer of plyr - [http://plyr.had.co.nz/09-user/](http://plyr.had.co.nz/09-user/)
+* Andrew Jaffe's R notes [http://www.biostat.jhsph.edu/~ajaffe/lec_winterR/Lecture%202.pdf](http://www.biostat.jhsph.edu/~ajaffe/lec_winterR/Lecture%202.pdf)
+* A nice lecture on categorical and factor variables [http://www.stat.berkeley.edu/classes/s133/factors.html](http://www.stat.berkeley.edu/classes/s133/factors.html)
+
+
+
+
+
+## Reshaping data (c3-w3)
+### The goal is tidy data
+
+1. Each variable forms a column
+2. Each observation forms a row
+3. Each table/file stores data about one kind of observation (e.g. people/hospitals).
+
+
+[http://vita.had.co.nz/papers/tidy-data.pdf](http://vita.had.co.nz/papers/tidy-data.pdf)
+
+[Leek, Taub, and Pineda 2011 PLoS One](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0026895)
+
+---
+
+### Melting dataframes
+
+
+```r
+library(reshape2)
+head(mtcars)
+```
+
+```
+                   mpg cyl disp  hp drat    wt  qsec vs am gear carb
+Mazda RX4         21.0   6  160 110 3.90 2.620 16.46  0  1    4    4
+Mazda RX4 Wag     21.0   6  160 110 3.90 2.875 17.02  0  1    4    4
+Datsun 710        22.8   4  108  93 3.85 2.320 18.61  1  1    4    1
+Hornet 4 Drive    21.4   6  258 110 3.08 3.215 19.44  1  0    3    1
+Hornet Sportabout 18.7   8  360 175 3.15 3.440 17.02  0  0    3    2
+Valiant           18.1   6  225 105 2.76 3.460 20.22  1  0    3    1
+```
+
+```r
+mtcars$carname <- rownames(mtcars)
+carMelt <- melt(mtcars,id=c("carname","gear","cyl"),measure.vars=c("mpg","hp"))
+head(carMelt,n=3)
+```
+
+```
+        carname gear cyl variable value
+1     Mazda RX4    4   6      mpg  21.0
+2 Mazda RX4 Wag    4   6      mpg  21.0
+3    Datsun 710    4   4      mpg  22.8
+```
+
+```r
+tail(carMelt,n=3)
+```
+
+```
+         carname gear cyl variable value
+62  Ferrari Dino    5   6       hp   175
+63 Maserati Bora    5   8       hp   335
+64    Volvo 142E    4   4       hp   109
+```
+[http://www.statmethods.net/management/reshape.html](http://www.statmethods.net/management/reshape.html)
+
+### dCasting data frames
+
+
+```r
+cylData <- dcast(carMelt, cyl ~ variable)
+cylData
+```
+
+```
+  cyl mpg hp
+1   4  11 11
+2   6   7  7
+3   8  14 14
+```
+
+```r
+cylData <- dcast(carMelt, cyl ~ variable,mean)
+cylData
+```
+
+```
+  cyl   mpg     hp
+1   4 26.66  82.64
+2   6 19.74 122.29
+3   8 15.10 209.21
+```
+
+
+[http://www.statmethods.net/management/reshape.html](http://www.statmethods.net/management/reshape.html)
+
+### Averaging values
+
+
+```r
+head(InsectSprays)
+```
+
+```
+  count spray
+1    10     A
+2     7     A
+3    20     A
+4    14     A
+5    14     A
+6    12     A
+```
+
+```r
+tapply(InsectSprays$count,InsectSprays$spray,sum)
+
+#or
+spIns =  split(InsectSprays$count,InsectSprays$spray)
+sprCount = lapply(spIns,sum)
+unlist(sprCount) # to make it a table
+
+#or
+sapply(spIns,sum) # directly a table
+
+```
+
+```
+  A   B   C   D   E   F 
+174 184  25  59  42 200 
+```
+
+
+[http://www.r-bloggers.com/a-quick-primer-on-split-apply-combine-problems/](http://www.r-bloggers.com/a-quick-primer-on-split-apply-combine-problems/)
+
+### Another way - plyr package
+
+
+```r
+ddply(InsectSprays,.(spray),summarize,sum=sum(count))
+```
+
+```
+  spray sum
+1     A 174
+2     B 184
+3     C  25
+4     D  59
+5     E  42
+6     F 200
+```
+
+### Creating a new column variable
+
+`ave` is not fully understood. but we see the difference. Go deeper if necessary.
+
+```r
+spraySums <- ddply(InsectSprays,.(spray),summarize,sum=ave(count,FUN=sum))
+dim(spraySums)
+```
+
+```
+[1] 72  2
+```
+
+```r
+head(spraySums)
+```
+
+```
+  spray sum
+1     A 174
+2     A 174
+3     A 174
+4     A 174
+5     A 174
+6     A 174
+```
+
+
+---
+
+### More information
+
+* A tutorial from the developer of plyr - [http://plyr.had.co.nz/09-user/](http://plyr.had.co.nz/09-user/)
+* A nice reshape tutorial [http://www.slideshare.net/jeffreybreen/reshaping-data-in-r](http://www.slideshare.net/jeffreybreen/reshaping-data-in-r)
+* A good plyr primer - [http://www.r-bloggers.com/a-quick-primer-on-split-apply-combine-problems/](http://www.r-bloggers.com/a-quick-primer-on-split-apply-combine-problems/)
+* See also the functions
+  * acast - for casting as multi-dimensional arrays
+  * arrange - for faster reordering without using order() commands
+  * mutate - adding new variables
+  
+## Merging data (c3-w3)
+
+### Peer review experiment data
+
+[http://www.plosone.org/article/info:doi/10.1371/journal.pone.0026895](http://www.plosone.org/article/info:doi/10.1371/journal.pone.0026895)
+
+### Peer review data
+
+
+
+```r
+if(!file.exists("./data")){dir.create("./data")}
+fileUrl1 = "https://dl.dropboxusercontent.com/u/7710864/data/reviews-apr29.csv"
+fileUrl2 = "https://dl.dropboxusercontent.com/u/7710864/data/solutions-apr29.csv"
+download.file(fileUrl1,destfile="./data/reviews.csv",method="curl")
+download.file(fileUrl2,destfile="./data/solutions.csv",method="curl")
+reviews = read.csv("./data/reviews.csv"); solutions <- read.csv("./data/solutions.csv")
+head(reviews,2)
+```
+
+```
+  id solution_id reviewer_id      start       stop time_left accept
+1  1           3          27 1304095698 1304095758      1754      1
+2  2           4          22 1304095188 1304095206      2306      1
+```
+
+```r
+head(solutions,2)
+```
+
+```
+  id problem_id subject_id      start       stop time_left answer
+1  1        156         29 1304095119 1304095169      2343      B
+2  2        269         25 1304095119 1304095183      2329      C
+```
+
+
+### Merging data - merge()
+
+* Merges data frames
+* Important parameters: _x_,_y_,_by_,_by.x_,_by.y_,_all_
+
+```r
+names(reviews)
+```
+
+```
+[1] "id"          "solution_id" "reviewer_id" "start"       "stop"        "time_left"  
+[7] "accept"     
+```
+
+```r
+names(solutions)
+```
+
+```
+[1] "id"         "problem_id" "subject_id" "start"      "stop"       "time_left"  "answer"    
+```
+
+
+---
+
+### Merging data - merge()
+
+
+```r
+mergedData = merge(reviews,solutions,by.x="solution_id",by.y="id",all=TRUE)
+head(mergedData)
+```
+
+```
+  solution_id id reviewer_id    start.x     stop.x time_left.x accept problem_id subject_id
+1           1  4          26 1304095267 1304095423        2089      1        156         29
+2           2  6          29 1304095471 1304095513        1999      1        269         25
+3           3  1          27 1304095698 1304095758        1754      1         34         22
+4           4  2          22 1304095188 1304095206        2306      1         19         23
+5           5  3          28 1304095276 1304095320        2192      1        605         26
+6           6 16          22 1304095303 1304095471        2041      1        384         27
+     start.y     stop.y time_left.y answer
+1 1304095119 1304095169        2343      B
+2 1304095119 1304095183        2329      C
+3 1304095127 1304095146        2366      C
+4 1304095127 1304095150        2362      D
+5 1304095127 1304095167        2345      A
+6 1304095131 1304095270        2242      C
+```
+
+
+---
+
+### Default - merge all common column names
+
+
+```r
+intersect(names(solutions),names(reviews))
+```
+
+```
+[1] "id"        "start"     "stop"      "time_left"
+```
+
+```r
+mergedData2 = merge(reviews,solutions,all=TRUE)
+head(mergedData2)
+```
+
+```
+  id      start       stop time_left solution_id reviewer_id accept problem_id subject_id answer
+1  1 1304095119 1304095169      2343          NA          NA     NA        156         29      B
+2  1 1304095698 1304095758      1754           3          27      1         NA         NA   <NA>
+3  2 1304095119 1304095183      2329          NA          NA     NA        269         25      C
+4  2 1304095188 1304095206      2306           4          22      1         NA         NA   <NA>
+5  3 1304095127 1304095146      2366          NA          NA     NA         34         22      C
+6  3 1304095276 1304095320      2192           5          28      1         NA         NA   <NA>
+```
+
+
+---
+
+### Using join in the plyr package 
+
+_Faster, but less full featured - defaults to left join, see help file for more_
+
+```r
+df1 = data.frame(id=sample(1:10),x=rnorm(10))
+df2 = data.frame(id=sample(1:10),y=rnorm(10))
+arrange(join(df1,df2),id)
+```
+
+```
+   id       x       y
+1   1  0.2514  0.2286
+2   2  0.1048  0.8395
+3   3 -0.1230 -1.1165
+4   4  1.5057 -0.1121
+5   5 -0.2505  1.2124
+6   6  0.4699 -1.6038
+7   7  0.4627 -0.8060
+8   8 -1.2629 -1.2848
+9   9 -0.9258 -0.8276
+10 10  2.8065  0.5794
+```
+
+
+
+---
+
+### If you have multiple data frames
+
+
+```r
+df1 = data.frame(id=sample(1:10),x=rnorm(10))
+df2 = data.frame(id=sample(1:10),y=rnorm(10))
+df3 = data.frame(id=sample(1:10),z=rnorm(10))
+dfList = list(df1,df2,df3)
+join_all(dfList)
+```
+
+```
+   id        x        y        z
+1   6  0.39093 -0.16670  0.56523
+2   1 -1.90467  0.43811 -0.37449
+3   7 -1.48798 -0.85497 -0.69209
+4  10 -2.59440  0.39591 -0.36134
+5   3 -0.08539  0.08053  1.01247
+6   4 -1.63165 -0.13158  0.21927
+7   5 -0.50594  0.24256 -0.44003
+8   9 -0.85062 -2.08066 -0.96950
+9   2 -0.63767 -0.10069  0.09002
+10  8  1.20439  1.29138 -0.88586
+```
+
+
+---
+
+### More on merging data
+
+* The quick R data merging page - [http://www.statmethods.net/management/merging.html](http://www.statmethods.net/management/merging.html)
+* plyr information - [http://plyr.had.co.nz/](http://plyr.had.co.nz/)
+* Types of joins - [http://en.wikipedia.org/wiki/Join_(SQL)](http://en.wikipedia.org/wiki/Join_(SQL))
