@@ -243,7 +243,8 @@ be used to interface with hdf5 data sets.
 
 ### other packages installed
 
-`plyr`, `Hmisc`, `reshape`
+	`plyr`, `Hmisc`, `reshape`,`jpeg`, `stringr`, `lubridate`, `quantmod`
+	
 ## Learning R
 
 I am currently doing the Data Science Specialization at 40€/month on
@@ -675,6 +676,67 @@ Distributions' are Normal, Poisson, binomial etc...
   and standard deviation.
 
 
+### Lists
+**Quick aside - lists**
+
+
+```r
+mylist <- list(letters = c("A", "b", "c"), numbers = 1:3, matrix(1:25, ncol = 5))
+head(mylist)
+```
+
+```
+$letters
+[1] "A" "b" "c"
+
+$numbers
+[1] 1 2 3
+
+[[3]]
+     [,1] [,2] [,3] [,4] [,5]
+[1,]    1    6   11   16   21
+[2,]    2    7   12   17   22
+[3,]    3    8   13   18   23
+[4,]    4    9   14   19   24
+[5,]    5   10   15   20   25
+```
+
+
+[http://www.biostat.jhsph.edu/~ajaffe/lec_winterR/Lecture%203.pdf](http://www.biostat.jhsph.edu/~ajaffe/lec_winterR/Lecture%203.pdf)
+
+**Quick aside - lists**
+
+
+```r
+mylist[1]
+```
+
+```
+$letters
+[1] "A" "b" "c"
+```
+
+```r
+mylist$letters
+```
+
+```
+[1] "A" "b" "c"
+```
+
+```r
+mylist[[1]]
+```
+
+```
+[1] "A" "b" "c"
+```
+
+
+[http://www.biostat.jhsph.edu/~ajaffe/lec_winterR/Lecture%203.pdf](http://www.biostat.jhsph.edu/~ajaffe/lec_winterR/Lecture%203.pdf)
+
+[Source](https://github.com/DataScienceSpecialization/courses/blob/master/03_GettingData/04_01_editingTextVariables/index.md)
+
 ### Dataframe
 
 - reading data with header column (default)
@@ -825,9 +887,10 @@ who got them from Kevin Ushey.
 
 		dateDownloaded <- date()
 
-- tab separated files
+- tab separated files or just normal text files with data are very
+  well automatically loaded with this command.
 
-		read.table("")
+		read.table("") 
 		
 - comma separated with `header=true`
 
@@ -1597,9 +1660,22 @@ exists is to Google "data storage mechanism R package"
 * tuneR - [http://cran.r-project.org/web/packages/tuneR/](http://cran.r-project.org/web/packages/tuneR/)
 * seewave - [http://rug.mnhn.fr/seewave/](http://rug.mnhn.fr/seewave/)
 
-## Manipulating DATA (c3-w3)
+### jpeg
 
-### Selecting random rows and setting value
+> readJPEG                Read a bitmap image stored in the JPEG format
+> writeJPEG               Write a bitmap image in JPEG format
+> --- library(help=jpeg)
+
+## Manipulating DATA (c3-w3)
+### dealing with blanks
+https://stackoverflow.com/questions/12763890/exclude-blank-and-na-in-r
+Question
+
+https://stackoverflow.com/a/12764040/5986651 Answer
+
+	foo[foo==""] <- NA
+	foo <- na.omit(foo$column.name)
+### Selecting random rows and setting value (Sampling)
 
 ```r
 set.seed(13435)
@@ -1635,7 +1711,7 @@ X[1:2,"var2"]
 restData[restData$zipCode %in% c("21212","21213"),]
 ```
 
-### Logicals ands and ors
+### Logicals and's and or's
 
 
 ```r
@@ -1793,6 +1869,25 @@ Y
 5    4    9   13 -0.53613  1.00053
 ```
 
+### Col and row names
+
+	names(test) <- c("A","B","C","D","E","F","G","H","I","J","K")
+
+- faster 
+
+		colnames(test) <- c("A","B","C","D","E","F","G","H","I","J","K")
+
+### Using dictionary types in python similar(plyr)
+- You have a table (activty.names) of 2 columns `$V1` and `$V2`. V1 with number, V2
+  with char to be replaced.
+
+```R
+library(plyr)
+traintest$Activity <-
+    mapvalues(traintest$Activity,activity.names$V1,activity.names$V2)# requires `plyr`
+```
+  
+  
 ### Notes and further resources
 
 * R programming in the Data Science Track
@@ -2136,6 +2231,16 @@ table(restData$zipGroups,restData$zipCode)
      
 ```
 
+#### Quiz question
+
+> Cut the GDP ranking into 5 separate quantile groups. Make a table versus Income.Group. How many countries
+>
+> are Lower middle income but among the 38 nations with highest GDP?
+
+> Answer:5
+
+pandian2$RankingGroups <- cut(pandian2$Ranking,breaks=quantile(pandian2$Ranking,probs=seq(0,1,0.2)))
+table(pandian2$RankingGroups,pandian2$Income.Group)
 ### Easier cutting library(hmisc) cut2
 
 
@@ -2341,7 +2446,7 @@ cylData
 head(InsectSprays)
 ```
 
-```
+	```
   count spray
 1    10     A
 2     7     A
@@ -2372,7 +2477,7 @@ sapply(spIns,sum) # directly a table
 
 [http://www.r-bloggers.com/a-quick-primer-on-split-apply-combine-problems/](http://www.r-bloggers.com/a-quick-primer-on-split-apply-combine-problems/)
 
-### Another way - plyr package
+### Another way - plyr package 
 
 
 ```r
@@ -2389,8 +2494,54 @@ ddply(InsectSprays,.(spray),summarize,sum=sum(count))
 6     F 200
 ```
 
-### Creating a new column variable
+#### Summary: Average of col1 for factor(col2) (quiz) 
 
+- Pre-info
+
+``` R
+url <-
+    "https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2FGDP.csv"
+download.file(url,"./c3-w3.csv",method="curl")
+gdp.data <- read.csv("./c3-w3.csv", header=TRUE,skip=3)
+gdp.data[gdp.data==""] <- NA # Make "" --> NA and then...
+gdp.data <- gdp.data[!is.na(gdp.data$X),] # Remove na from one row
+                                        # alone
+gdp.data <- gdp.data[!is.na(gdp.data$Ranking),] # Remove na from one row
+                                        # alone
+gdp.data$X <- factor(gdp.data$X)# remove unused levels
+gdp.data$Ranking<-factor(gdp.data$Ranking) # remove unused levels
+is.na(gdp.data$Ranking)
+gdp.data$Ranking <- as.numeric(as.character(gdp.data$Ranking))
+
+url <-
+    "https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2FEDSTATS_Country.csv"
+download.file(url,"./c3-w3-other.csv",method="curl")
+edu.data <- read.csv("./c3-w3-other.csv", header=TRUE)
+
+
+pandian <- merge(gdp.data,edu.data,by.x="X",by.y="CountryCode")
+```
+- Finding average of Ranking for different Income groups
+
+``` R
+ave.rank1 <- tapply(pandian$Ranking,pandian$Income.Group,mean)
+ave.rank2 <- sapply(split(pandian$Ranking,pandian$Income.Group),mean)#simplify=T
+ave.rank3 <- lapply(split(pandian$Ranking,pandian$Income.Group),mean)
+ave.rank3 <- unlist(ave.rank3)
+ave.rank4 <- ddply(pandian,.(Income.Group),summarize,average=mean(Ranking))
+
+```
+
+
+### Creating a new column variable 
+
+- adding the column to the existing dataframe using `transform`
+[Transform](https://stackoverflow.com/a/7578905/5986651)
+
+```R
+pandian2 <- ddply(pandian,.(Income.Group),transform,average=mean(Ranking))
+head(data.frame(pandian2$average,pandian2$Income.Group),n=50)
+```
 `ave` is not fully understood. but we see the difference. Go deeper if necessary.
 
 ```r
@@ -2419,7 +2570,7 @@ head(spraySums)
 
 ---
 
-### More information
+### More information 
 
 * A tutorial from the developer of plyr - [http://plyr.had.co.nz/09-user/](http://plyr.had.co.nz/09-user/)
 * A nice reshape tutorial [http://www.slideshare.net/jeffreybreen/reshaping-data-in-r](http://www.slideshare.net/jeffreybreen/reshaping-data-in-r)
@@ -2488,17 +2639,16 @@ names(solutions)
 [1] "id"         "problem_id" "subject_id" "start"      "stop"       "time_left"  "answer"    
 ```
 
-
----
-
-### Merging data - merge()
+**Example**
 
 
 ```r
 mergedData = merge(reviews,solutions,by.x="solution_id",by.y="id",all=TRUE)
 head(mergedData)
 ```
-
+If `all=TRUE` then for every row that has no match, you will see a row
+with corresponding `NA`s.
+  
 ```
   solution_id id reviewer_id    start.x     stop.x time_left.x accept problem_id subject_id
 1           1  4          26 1304095267 1304095423        2089      1        156         29
@@ -2515,10 +2665,6 @@ head(mergedData)
 5 1304095127 1304095167        2345      A
 6 1304095131 1304095270        2242      C
 ```
-
-
----
-
 ### Default - merge all common column names
 
 
@@ -2609,3 +2755,769 @@ join_all(dfList)
 * The quick R data merging page - [http://www.statmethods.net/management/merging.html](http://www.statmethods.net/management/merging.html)
 * plyr information - [http://plyr.had.co.nz/](http://plyr.had.co.nz/)
 * Types of joins - [http://en.wikipedia.org/wiki/Join_(SQL)](http://en.wikipedia.org/wiki/Join_(SQL))
+## Cleaning data NA and "" & (c3-w4)
+
+
+### Cleaning data
+So usually we have `NA` or empty spaces `""` which really fuck with
+us. Based on which column we are using we skip them either by using
+functions or literally just cleaning up things.
+
+This example shows a case of how to deal with `NA` or empty spaces
+`""`, including comments.
+
+- data 
+
+``` R
+url <-
+    "https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2FGDP.csv"
+download.file(url,"./c3-w3.csv",method="curl")
+gdp.data <- read.csv("./c3-w3.csv", header=TRUE,skip=3)
+```
+- making "" --> NA
+```R
+gdp.data[gdp.data==""] <- NA # Make "" --> NA and then...
+```
+
+- removing NA rows from necessary cols ```(numeric and char)```
+
+```R
+gdp.data <- gdp.data[!is.na(gdp.data$X),] # Remove na from one row
+                                        # alone
+gdp.data <- gdp.data[!is.na(gdp.data$Ranking),] # Remove na from one row
+                                        # alone
+```
+### Manipulating factors (**Important**)
+- Manipulating factors is slightly different and [can lead to
+  errors.](https://stackoverflow.com/a/6980780/5986651)
+  
+
+- removing unused levels is forcefully done
+
+```R
+gdp.data$X <- factor(gdp.data$X)# remove unused levels
+gdp.data$Ranking<-factor(gdp.data$Ranking) # remove unused levels
+is.na(gdp.data$Ranking)
+```
+
+- converting factor to numeric for doing some arithmetic or
+arranging. **BE CAREFUL**
+
+```R
+gdp.data$Ranking <- as.numeric(as.character(gdp.data$Ranking))
+```
+
+- factors and headers (append data)
+
+		header.data <- factor(append(c(subject.header,y.header),as.character(X.header)))
+
+#### q3 question on which reflection is done 
+
+
+Based on q3 coursera question:
+
+>  Load the Gross Domestic Product data for the 190 ranked countries in this data set:
+>
+> https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2FGDP.csv
+>
+> Load the educational data from this data set:
+>
+> https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2FEDSTATS_Country.csv
+>
+> Match the data based on the country shortcode. How many of the IDs match? Sort the data frame in descending order by GDP rank (so United States is last). What is the 13th country in the resulting data frame?
+>
+> Original data sources:
+>
+> http://data.worldbank.org/data-catalog/GDP-ranking-table
+>
+> http://data.worldbank.org/data-catalog/ed-stats
+
+- Answer
+
+    > 189 matches, 13th country is St. Kitts and Nevis
+
+
+### Cleaning up colnames
+
+**Example - Baltimore camera data**
+
+[https://data.baltimorecity.gov/Transportation/Baltimore-Fixed-Speed-Cameras/dz54-2aru](https://data.baltimorecity.gov/Transportation/Baltimore-Fixed-Speed-Cameras/dz54-2aru)
+
+**Data**
+
+```r
+if(!file.exists("./data")){dir.create("./data")}
+fileUrl <- "https://data.baltimorecity.gov/api/views/dz54-2aru/rows.csv?accessType=DOWNLOAD"
+download.file(fileUrl,destfile="./data/cameras.csv",method="curl")
+cameraData <- read.csv("./data/cameras.csv")
+
+```
+
+**Removing Capitals tolower(), toupper()**
+
+```R
+names(cameraData)
+```
+
+```
+[1] "address"      "direction"    "street"       "crossStreet"  "intersection" "Location.1"  
+```
+
+```r
+names(cameraData) <- tolower(names(cameraData))
+```
+
+```
+[1] "address"      "direction"    "street"       "crossstreet"  "intersection" "location.1"  
+```
+
+**Removing `.` and `_` strsplit()**
+
+* Good for automatically splitting variable names
+* Important parameters: _x_, _split_
+
+For `.` you need to use `\\.` as it is the escape character.
+
+```r
+splitNames = strsplit(names(cameraData),"\\.")
+splitNames[[5]]
+```
+
+```
+[1] "intersection"
+```
+
+```r
+splitNames[[6]]
+```
+
+```
+[1] "Location" "1"       
+```
+
+```r
+firstElement <- function(x){x[1]}
+names(cameraData) <- sapply(splitNames,firstElement)
+```
+
+```
+[1] "address"      "direction"    "street"       "crossStreet"  "intersection" "Location"    
+```
+**Peer review experiment data**
+
+[http://www.plosone.org/article/info:doi/10.1371/journal.pone.0026895](http://www.plosone.org/article/info:doi/10.1371/journal.pone.0026895)
+
+```r
+fileUrl1 <- "https://dl.dropboxusercontent.com/u/7710864/data/reviews-apr29.csv"
+fileUrl2 <- "https://dl.dropboxusercontent.com/u/7710864/data/solutions-apr29.csv"
+download.file(fileUrl1,destfile="./data/reviews.csv",method="curl")
+download.file(fileUrl2,destfile="./data/solutions.csv",method="curl")
+reviews <- read.csv("./data/reviews.csv"); solutions <- read.csv("./data/solutions.csv")
+head(reviews,2)
+```
+
+```
+  id solution_id reviewer_id      start       stop time_left accept
+1  1           3          27 1304095698 1304095758      1754      1
+2  2           4          22 1304095188 1304095206      2306      1
+```
+
+```r
+head(solutions,2)
+```
+
+```
+  id problem_id subject_id      start       stop time_left answer
+1  1        156         29 1304095119 1304095169      2343      B
+2  2        269         25 1304095119 1304095183      2329      C
+```
+**replacing char with other chars sub()**
+
+* Important parameters: _pattern_, _replacement_, _x_
+
+
+```r
+names(reviews)
+```
+
+```
+[1] "id"          "solution_id" "reviewer_id" "start"       "stop"        "time_left"  
+[7] "accept"     
+```
+
+```r
+sub("_","",names(reviews),)
+```
+
+```
+[1] "id"         "solutionid" "reviewerid" "start"      "stop"       "timeleft"   "accept"    
+```
+**Fixing character vectors - gsub()**
+
+Removes only one
+```r
+testName <- "this_is_a_test"
+sub("_","",testName)
+gsub("_","",testName)
+```
+
+```
+[1] "thisis_a_test"
+[2] "thisisatest"
+```
+`gsub` removes recursively.
+
+
+**Finding values - grep(),grepl()**
+
+`grep` for location of value. `grepl` for true or false which can be
+passed as argument.
+```r
+grep("Alameda",cameraData$intersection)
+grep("Alameda",cameraData$intersection,value=TRUE)
+
+table(grepl("Alameda",cameraData$intersection))
+cameraData2 <- cameraData[!grepl("Alameda",cameraData$intersection),]
+
+```
+
+```
+[1]  4  5 36
+[1] "The Alameda  & 33rd St"   "E 33rd  & The Alameda"    "Harford \n & The Alameda"
+[2]FALSE  TRUE 
+   77     3 
+```
+
+**`length` to determine if `grep()` found something**
+
+```r
+grep("JeffStreet",cameraData$intersection)
+```
+
+```
+integer(0)
+```
+
+```r
+length(grep("JeffStreet",cameraData$intersection))
+```
+
+```
+[1] 0
+```
+
+
+[http://www.biostat.jhsph.edu/~ajaffe/lec_winterR/Lecture%203.pdf](http://www.biostat.jhsph.edu/~ajaffe/lec_winterR/Lecture%203.pdf)
+
+**More useful string functions**
+
+
+```r
+library(stringr)
+nchar("Jeffrey Leek")
+```
+
+```
+[1] 12
+```
+
+```r
+substr("Jeffrey Leek",1,7)
+```
+
+```
+[1] "Jeffrey"
+```
+
+```r
+paste("Jeffrey","Leek")
+paste0("Jeffrey","Leek")
+```
+
+```
+[1] "Jeffrey Leek"
+[2] "JeffreyLeek"
+```
+**To trim the empty spaces**
+```r
+str_trim("Jeff      ")
+```
+
+```
+[1] "Jeff"
+```
+**Important points about text in data sets**
+
+* Names of variables should be 
+  * All lower case when possible
+  * Descriptive (Diagnosis versus Dx)
+  * Not duplicated
+  * Not have underscores or dots or white spaces
+* Variables with character values
+  * Should usually be made into factor variables (depends on application)
+  * Should be descriptive (use TRUE/FALSE instead of 0/1 and
+    Male/Female versus 0/1 or M/F)
+	
+### Identifying expressions with meta and literals
+
+**Regular expressions**
+
+- Regular expressions can be thought of as a combination of literals and _metacharacters_
+- To draw an analogy with natural language, think of literal text forming the words of this language, and the metacharacters defining its grammar
+- Regular expressions have a rich set of metacharacters
+
+**Literals**
+
+Simplest pattern consists only of literals. The literal “nuclear” would match to the following lines:
+
+```markdown
+Ooh. I just learned that to keep myself alive after a
+nuclear blast! All I have to do is milk some rats
+then drink the milk. Aweosme. :}
+```
+- `^I think` Beginning of line
+
+``` markdown
+i think we all rule for participating
+i think i have been outed
+```
+- `morning$` end of line
+
+```markdown
+well they had something this morning
+then had to catch a tram home in the morning
+```
+- `[Bb][Uu][Ss][Hh]` will find any case combi of `BuSH` 
+
+```markdown
+Bush 
+BUSH
+busHwalking
+```
+- `^[Ii]` am
+
+```markdown
+i am great!
+I am mass
+```
+-`^[0-9][a-zA-Z]` starting with number follwed by any character
+
+``` markdown
+7th inning
+2nd half s
+```
+- [^?.]$ Matching characters not `?` or `.` at the end of the line.
+
+``` markdown
+i like basketballs
+6 and 9
+```
+- `9.11` any 1 character
+
+``` markdown
+its stupid the post 9-11 rules
+9/11
+```
+
+- `flood|fire|earth|wind|water`; flood or fire or ...
+
+``` markdown
+is firewire like usb on none macs?
+the global flood makes sense within the context of the bible
+```
+
+-`^[Gg]ood|[Bb]ad` Beginning of line with G or g or Bad/bad anywhere
+in the sentence
+
+``` markdown
+good to hear some good knews from someone here
+Good afternoon fellow american infidels!
+```
+
+- `^([Gg]ood|[Bb]ad)`; for both it is the beginning of the line!
+
+- `[Gg]eorge( [Ww]\.)? [Bb]ush`; ? indicated optional characters
+
+	Also here we need to escape `.` so we use `\.`
+
+``` markdown
+George W. Bush
+George Bushless
+```
+
+- `(.*)`; brackets with any number of chars
+
+``` markdown
+anyone wanna chat? (24, m, germany)
+hello, 20.m here... ( east area + drives + webcam )
+(he means older men)
+```
+
+- `[0-9]+ (.*)[0-9]+` ;`*` mean none or many of the item and `+` means
+  atleast 1 of the item.
+
+``` markdown
+working as MP here 720 MP battallion, 42nd birgade
+so say 2 or 3 years at colleage and 4 at uni makes us 23 when and if we fin
+```
+- `[Bb]ush( +[^ ]+ +){1,5} debate`; { and } are referred to as interval quantifiers; the let us specify the minimum and maximum number of matches of an expression
+
+``` markdown
+Bush has historically won all major debates he’s done.
+in my view, Bush doesn’t need these debates..
+```
+
+- parentheses not only limit the scope of alternatives divided by a
+  “|”, but also can be used to “remember” text matched by the
+  subexpression enclosed
+  
+  
+  `+([a-zA-Z]+) +\1 +` ; some starting + one character atleast +
+  somethingelse+ a repitition of the ones in `()` + something else
+  
+``` markdown
+time for bed, night night twitter!
+```
+
+
+- `^s(.*)s` matches the longest string starting with s and ending with
+  s
+  
+``` markdown
+sitting at starbucks
+setting up mysql and rails
+```
+
+- The greediness of * can be turned off with the ?, as in
+
+	`^s(.*?)s$`
+#### Quiz q4 grep question
+
+    > Load the Gross Domestic Product data for the 190 ranked countries in this data set:
+    >
+    > https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2FGDP.csv
+    >
+    > Load the educational data from this data set:
+    >
+    > https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2FEDSTATS_Country.csv
+    >
+    > Match the data based on the country shortcode. Of the countries for which the end of the fiscal year is available, how many end in June?
+    >
+    > Original data sources:
+    >
+    > http://data.worldbank.org/data-catalog/GDP-ranking-table
+    >
+    > http://data.worldbank.org/data-catalog/ed-stats
+	
+	> Answer: 13
+	
+```R
+url <-
+    "https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2FGDP.csv"
+download.file(url,"./c3-w3.csv",method="curl")
+gdp.data <- read.csv("./c3-w3.csv", header=TRUE,skip=3)
+gdp.data[gdp.data==""] <- NA # Make "" --> NA and then...
+gdp.data <- gdp.data[!is.na(gdp.data$X),] # Remove na from one row
+                                        # alone
+gdp.data <- gdp.data[!is.na(gdp.data$Ranking),] # Remove na from one row
+                                        # alone
+gdp.data$X <- factor(gdp.data$X)# remove unused levels
+gdp.data$Ranking<-factor(gdp.data$Ranking) # remove unused levels
+is.na(gdp.data$Ranking)
+gdp.data$Ranking <- as.numeric(as.character(gdp.data$Ranking))
+
+url <-
+    "https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2FEDSTATS_Country.csv"
+download.file(url,"./c3-w3-other.csv",method="curl")
+edu.data <- read.csv("./c3-w3-other.csv", header=TRUE)
+
+
+pandian <- merge(gdp.data,edu.data,by.x="X",by.y="CountryCode")
+
+length(grep("[Ff]iscal(.*)[Jj]une [0-9]",pandian$Special.Notes))
+```
+	
+
+### Summary 
+
+- Regular expressions are used in many different languages; not unique to R.
+- Regular expressions are composed of literals and metacharacters that represent sets or classes of characters/words
+- Text processing via regular expressions is a very powerful way to extract data from “unfriendly” sources (not all data comes as a CSV file)
+- Used with the functions `grep`,`grepl`,`sub`,`gsub` and others that involve searching for text strings
+(Thanks to Mark Hansen for some material in this lecture.)
+
+
+## Dates
+
+```R
+d1 = date() # class is "char"
+d2 = Sys.Date() # class is "Date"
+```
+
+```
+[1] "Sun Jan 12 17:48:33 2014"
+[2] "2014-01-12"
+```
+**Formatting dates**
+
+`%d` = day as number (0-31), `%a` = abbreviated weekday,`%A` = unabbreviated weekday, `%m` = month (00-12), `%b` = abbreviated month,
+`%B` = unabbrevidated month, `%y` = 2 digit year, `%Y` = four digit year
+
+
+```r
+format(d2,"%a %b %d")
+```
+
+```
+[1] "Sun Jan 12"
+```
+
+
+**Creating dates**
+
+
+```r
+x = c("1jan1960", "2jan1960", "31mar1960", "30jul1960"); z = as.Date(x, "%d%b%Y")
+z
+```
+
+```
+[1] "1960-01-01" "1960-01-02" "1960-03-31" "1960-07-30"
+```
+
+```r
+z[1] - z[2]
+```
+
+```
+Time difference of -1 days
+```
+
+```r
+as.numeric(z[1]-z[2])
+```
+
+```
+[1] -1
+```
+
+
+**Converting to Julian**
+
+
+```r
+weekdays(d2)
+```
+
+```
+[1] "Sunday"
+```
+
+```r
+months(d2)
+```
+
+```
+[1] "January"
+```
+
+```r
+julian(d2)
+```
+
+```
+[1] 16082
+attr(,"origin")
+[1] "1970-01-01"
+```
+
+
+**Lubridate**
+
+
+```r
+library(lubridate); ymd("20140108")
+```
+
+```
+[1] "2014-01-08 UTC"
+```
+
+```r
+mdy("08/04/2013")
+```
+
+```
+[1] "2013-08-04 UTC"
+```
+
+```r
+dmy("03-04-2013")
+```
+
+```
+[1] "2013-04-03 UTC"
+```
+
+
+[http://www.r-statistics.com/2012/03/do-more-with-dates-and-times-in-r-with-lubridate-1-1-0/](http://www.r-statistics.com/2012/03/do-more-with-dates-and-times-in-r-with-lubridate-1-1-0/)
+
+**Dealing with times**
+
+
+```r
+ymd_hms("2011-08-03 10:15:03")
+```
+
+```
+[1] "2011-08-03 10:15:03 UTC"
+```
+
+```r
+ymd_hms("2011-08-03 10:15:03",tz="Pacific/Auckland")
+```
+
+```
+[1] "2011-08-03 10:15:03 NZST"
+```
+
+```r
+?Sys.timezone
+```
+
+
+[http://www.r-statistics.com/2012/03/do-more-with-dates-and-times-in-r-with-lubridate-1-1-0/](http://www.r-statistics.com/2012/03/do-more-with-dates-and-times-in-r-with-lubridate-1-1-0/)
+
+**Some functions have slightly different syntax**
+
+
+```r
+x = dmy(c("1jan2013", "2jan2013", "31mar2013", "30jul2013"))
+wday(x[1])
+```
+
+```
+[1] 3
+```
+
+```r
+wday(x[1],label=TRUE)
+```
+
+```
+[1] Tues
+Levels: Sun < Mon < Tues < Wed < Thurs < Fri < Sat
+```
+
+
+**Notes and further resources**
+
+* More information in this nice lubridate tutorial [http://www.r-statistics.com/2012/03/do-more-with-dates-and-times-in-r-with-lubridate-1-1-0/](http://www.r-statistics.com/2012/03/do-more-with-dates-and-times-in-r-with-lubridate-1-1-0/)
+* The lubridate vignette is the same content [http://cran.r-project.org/web/packages/lubridate/vignettes/lubridate.html](http://cran.r-project.org/web/packages/lubridate/vignettes/lubridate.html)
+* Ultimately you want your dates and times as class "Date" or the classes "POSIXct", "POSIXlt". For more information type `?POSIXlt`
+
+#### Quiz q c3-w4
+
+You can use the quantmod (http://www.quantmod.com/) package to get historical stock prices for publicly traded companies on the NASDAQ and NYSE. Use the following code to download data on Amazon's stock price and get the times the data was sampled.
+
+
+
+How many values were collected in 2012? How many values were collected on Mondays in 2012?
+
+``` R
+library(quantmod)
+amzn = getSymbols("AMZN",auto.assign=FALSE)
+sampleTimes = index(amzn)
+
+library(lubridate)
+sampleYears <- year(sampleTimes)
+length(sampleYears[sampleYears==2012])
+
+length(sampleTimes[year(sampleTimes)==2012 & weekdays(sampleTimes)=="maandag"])
+```
+
+## Data resources
+
+[Source](https://github.com/DataScienceSpecialization/courses/blob/master/03_GettingData/04_05_dataResources/index.md)
+
+### Open Government Sites
+
+* United Nations [http://data.un.org/](http://data.un.org/)
+* U.S. [http://www.data.gov/](http://www.data.gov/)
+  * [List of cities/states with open data](http://simplystatistics.org/2012/01/02/list-of-cities-states-with-open-data-help-me-find/)
+* United Kingdom [http://data.gov.uk/](http://data.gov.uk/)
+* France [http://www.data.gouv.fr/](http://www.data.gouv.fr/)
+* Ghana [http://data.gov.gh/](http://data.gov.gh/)
+* Australia [http://data.gov.au/](http://data.gov.au/)
+* Germany [https://www.govdata.de/](https://www.govdata.de/) 
+* Hong Kong [http://www.gov.hk/en/theme/psi/datasets/](http://www.gov.hk/en/theme/psi/datasets/)
+* Japan [http://www.data.go.jp/](http://www.data.go.jp/)
+* Many more [http://www.data.gov/opendatasites](http://www.data.gov/opendatasites)
+
+---
+
+### Gapminder
+
+<img class=center src=../../assets/img/03_ObtainingData/gapminder.png height=400/>
+
+[http://www.gapminder.org/](http://www.gapminder.org/)
+
+
+---
+
+### Survey data from the United States
+
+<img class=center src=../../assets/img/03_ObtainingData/asdfree.png height=400/>
+
+[http://www.asdfree.com/](http://www.asdfree.com/)
+
+---
+
+### Infochimps Marketplace
+
+<img class=center src=../../assets/img/03_ObtainingData/infochimps.png height=400/>
+
+[http://www.infochimps.com/marketplace](http://www.infochimps.com/marketplace)
+
+---
+
+### Kaggle
+
+<img class=center src=../../assets/img/03_ObtainingData/kaggle.png  height=400 />
+
+[http://www.kaggle.com/](http://www.kaggle.com/)
+
+
+---
+
+### Collections by data scientists
+
+* Hilary Mason http://bitly.com/bundles/hmason/1
+* Peter Skomoroch https://delicious.com/pskomoroch/dataset
+* Jeff Hammerbacher http://www.quora.com/Jeff-Hammerbacher/Introduction-to-Data-Science-Data-Sets
+* Gregory Piatetsky-Shapiro http://www.kdnuggets.com/gps.html
+* [http://blog.mortardata.com/post/67652898761/6-dataset-lists-curated-by-data-scientists](http://blog.mortardata.com/post/67652898761/6-dataset-lists-curated-by-data-scientists)
+
+
+---
+
+### More specialized collections
+
+* [Stanford Large Network Data](http://snap.stanford.edu/data/)
+* [UCI Machine Learning](http://archive.ics.uci.edu/ml/)
+* [KDD Nugets Datasets](http://www.kdnuggets.com/datasets/index.html)
+* [CMU Statlib](http://lib.stat.cmu.edu/datasets/)
+* [Gene expression omnibus](http://www.ncbi.nlm.nih.gov/geo/)
+* [ArXiv Data](http://arxiv.org/help/bulk_data)
+* [Public Data Sets on Amazon Web Services](http://aws.amazon.com/publicdatasets/)
+
+---
+
+### Some API's with R interfaces
+
+* [twitter](https://dev.twitter.com/) and [twitteR](http://cran.r-project.org/web/packages/twitteR/index.html) package
+* [figshare](http://api.figshare.com/docs/intro.html) and [rfigshare](http://cran.r-project.org/web/packages/rfigshare/index.html)
+* [PLoS](http://api.plos.org/) and [rplos](http://cran.r-project.org/web/packages/rplos/rplos.pdf)
+* [rOpenSci](http://ropensci.org/packages/index.html)
+* [Facebook](https://developers.facebook.com/) and [RFacebook](http://cran.r-project.org/web/packages/Rfacebook/)
+* [Google maps](https://developers.google.com/maps/) and [RGoogleMaps](http://cran.r-project.org/web/packages/RgoogleMaps/index.html)

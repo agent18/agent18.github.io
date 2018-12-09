@@ -263,6 +263,19 @@ some file.
 
 [Source](https://askubuntu.com/questions/822996/error-message-when-compiling-latex-in-ubuntu)
 
+Instead of using the website it is also possible to do it in the
+terminal
+
+	apt-file find kpfonts.sty
+	
+Check if the suggested package is already installed
+
+	apt list --installed texlive-fonts-extra
+
+If not install it.
+
+	sudo apt-get install texlive-fonts-extra
+
 ### Package missing
 
 - `marvosym` missing, 
@@ -296,6 +309,42 @@ TeX-engine` and then I got these and followed the same way as above.
 	
 
 
+
+### No PDF display
+
+So usually when you hit `C-c C-c` the second time you will see the
+`View: TeX-evince-sync-view` or something very similar. But I saw some
+`.dvi` stuff written. `PDF` did not get updated except that it got
+created the first time. but that is that. What helped--and I don't
+know why-- is [this stack answer](https://tex.stackexchange.com/a/418420/97901). Jesus man I don't know WTF if
+happening but it helped.
+
+
+> With the latest version of AUCTeX, if should be sufficient to
+> customize the variable TeX-PDF-from-DVI as described in the
+> manual. Try M-x customize-variable RET TeX-PDF-from-DVI RET , click
+> on Value Menu and choose dvips - ps2pdf sequence, hit Apply and Save
+> and you should be done.
+
+
+``` LaTeX
+\documentclass[10pt,a4paper]{article}
+\begin{document}
+foobar
+\end{document}
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% TeX-PDF-mode: t
+%%% TeX-PDF-from-DVI: "Dvipdfmx"
+%%% End:
+```
+There is some explanation but the thing is if you do `C-c C-c`
+repeatedly all is good, PDF works and everything displays as
+expected. Or just to `C-c C-a`.
+
+Peace
 
 ## bib
 
