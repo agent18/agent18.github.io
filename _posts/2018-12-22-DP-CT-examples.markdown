@@ -9,6 +9,7 @@ permalink: /:title.html
 published: true
 ---
 
+
 ## Mission #4
 
 > Mission #4: Concrete examples. This is the only output dimension to
@@ -32,39 +33,59 @@ published: true
 > Most importantly, the aim is not to just notice where you fall
 > short, but to actually change your response till it satisfies the
 > dimension. Only then is the practice rep complete.
+>
+> --- STM
 
 ## Introduction
+ 
+The book `Talent is Overrated` explains that Talent is not something
+that you are born with but something that is harnessed over years and
+years of Deliberate Practice (DP). [This link](https://www.youtube.com/watch?v=nMcdhCR9Ubw) shows a person
+learning guitar and counting the number of hours he worked on it as he
+progresses. This is how it is expected to look. The more hours of DP
+the more skilled you get. 
 
-In the last [essay on Deliberate Practice](/Deliberate-Practice-case-study.html), it was attempted to
-Deliberate Practice based on the Benjamin Franklin method across 10
-output dimensions. Different output dimensions such as `number of
-ideas serially delivered`, `concrete examples for each idea`,
-`continuity of sentences` were used. 
+DP in general is expected to look like,
 
-The characteristics of DP are as follows:
+> Deliberate practice is characterized by several elements, each worth
+> examining. It is activity designed specifically to improve
+> performance, often with a teacher’s help; it can be repeated a lot;
+> feedback on results is continuously available; it’s highly demanding
+> mentally, whether the activity is purely intellectual, such as chess
+> or business-related activities, or heavily physical, such as sports;
+> and it isn’t much fun.
+>
+> --- Chapter 7, Talent Is Overrated
 
-> The kind of practice I described in this essay is designed to improve
-> performance because it specifically aims to improve along one or two
-> well-defined output dimensions
+Based on the above, in the last [essay on DP](/Deliberate-Practice-case-study.html), it was attempted to
+DP based on the Benjamin Franklin (BF) method across 10 output
+dimensions (very similar to the [attempt by an STM](http://pradeep90.github.io/ben-franklin-practice.html)). The skill
+that was aimed to be improved was 'critical thinking'. In that context
+different output dimensions such as 'number of ideas serially
+delivered', 'concrete examples for each idea', 'continuity of
+sentences and 5 others, were used. Usually, in DP a particular aspect
+is practiced, with large repetition, where feedback on the results is
+available immediately. For example, in one of the practices of Tiger
+Woods, he stuffed balls in sand and practiced only hitting them one
+after the other several times, measuring key dimensions like
+distance of the ball traveled. What Tiger Woods doesn't seem to have
+done is practice one ball in the sand, focus on his grip on the next,
+one ball on the grass, focus on his posture in the next, and randomly
+switch between each of them. Similarly, in an attempt to keep the focus on
+the one skill or one isolated part of the skill that we want to
+improve currently, we aim to look at one output dimension alone (as
+suggested in the Mission). We look at the dimension which looks at the
+concrete examples given. More on the actual dimension later.
 
-## What is DP and how does it look
+In this essay we apply the same BF method across this one
+dimension. For the BF method a base article is used, notes are made, a
+few days later a new version written based on the notes. Finally the
+original is compared with the new version across certain output
+dimensions. The article chosen is [The Solution In Your Head](http://pradeep90.github.io/The-Solution-in-your-Head.html)
+(SIYH).
 
 
-## This episode
-
-For this episode, we are going to look into an STMs article "The
-Solution inside your head". As usual we will start with nothing but
-the actual article, make notes, and then re-write my own version and
-compare with the original over the output dimension of "giving the
-right examples"
-
-
-
-## Actual article
-[An STM's Article "The Solution in your Head"](http://pradeep90.github.io/The-Solution-in-your-Head.html)
-
-
-## Pandian's Notes
+## My Notes on SIYH
 
 - what is the purpose of life?
 - What do we want? What are we searching for?
@@ -80,13 +101,13 @@ right examples"
 - what are the constraints imposed?
 
 - will the real slim shady please stand up
-- Somone else is the making the final call about the solution, Who? or
+- Someone else is the making the final call about the solution, Who? or
   what?
   - NINRTS
 - solution is inside your head?
 - will use and should use solution
 
-- solution needs to aggree with SIYH
+- solution needs to agree with SIYH
 - some basic parts are somehow already in your head and you can't
   change that
 - judging with the SIYH
@@ -100,9 +121,9 @@ right examples"
 - YOU and the SIYH are the same!
 - more open questions is it happening inside our head? is it real?
 
-should look at re-ordering it
+---
 
-## Pandian's Version
+## My Version
 
 What is the purpose of life? What do we want in life? What should we
 be doing? Should we go behind girls and making lot of money, or should
@@ -146,7 +167,7 @@ anything.
 
 In addition to the solution being credible and usable, there seems to
 be additional constraints. The solution shall not contain any killing,
-beating, slavery, suicides, lonliness etc... I seem to be able come up
+beating, slavery, suicides, loneliness etc... I seem to be able come up
 with these constraints by myself. If Richard Feynman delivered a box
 containing solutions violating the above constraints then I will not
 be able to perform it. On the other hand if Richard Feynman delivered
@@ -213,50 +234,47 @@ box). Naturally you updated your Map, so that you can find the water
 correctly next time, so that it is closer to the actual territory (the
 TRUE SIYH).
 
+---
 
-## Output dimension
+## Output dimensions
 
-Rule #1 will be to identify the ideas.
+So now that we have the main essay and our version of it, we need
+output dimensions to compare. The following are the dimensions chosen.
 
-Rule #2 is about examples corresponding to the main idea
+**Rule #1** : Main ideas that are part of the essay, must be
+identified. No grade is given for this rule. It just facilitates other
+rules.
 
-Rule #3 looking at where all I could have given an example
+**Rule #2** : The main ideas shall each have one example atleast.
 
-Rule #4 Looking at where all an STM could have given example
+**Rule #3** : In my version of the essay, all places worthy of examples
+shall have examples.
 
-Rule #5 missing something important?
+This is a quite vague, I accept, but if you have a look at the mission
+and its examples, it is much less vague.
 
-Examples are expected to be provided for all words that are vague as
-shown in the Mission section.
+> For example, instead of "You run scenarios in your mind where you
+> are verbally battling with them", you would give an example of a
+> "verbal battle". Or, when we see "The book ‘Talent is Overrated’
+> seems to suggest that greatness is not only for a select few.", we
+> should also know what "greatness" looks like and who those "select
+> few" were who we wrongly assumed to be sole possessors of
+> talent. And when you say "In fact there exists a path that runs
+> between your current abilities to that of the greats.", I would like
+> a concrete example for this bold claim (maybe a video like
+> this). And, finally, "The journey will be hard, long and
+> demanding." - like how hard, how long, and how demanding?
+>
+> --- from the Mission
 
-Rewriting with examples is an expected output of the this comparison!
+**Rule #4** : Rule #3 but for STM's essay instead.
 
-
-Examples, now what the fucking hell does that mean. How to identify
-such a dimension.
-
-I also want to try and squeeze in one idea and one example, so also
-Identifying.
-
-But what an STM talked about is more like Rational tabooing with
-example. How exactly this is done needs to be worked out.
-
-Yeah so identify main ideas and make sure you have examples for the
-main ideas atleast. In addition you get bonus points for explaining
-about all the rationalist tabooed words. As that is what an STM was
-talking about, right?
-
-How about counting number of high-level descriptions? W
-
-What classifies as high-level descriptions?
-
-Identify ideas, count number of high-level descriptions or bold
-claims, that do not have examples. We are talking about things like
-"verbal battles", "greatness", "select few". Stretch it boye!
+**Rule #5** : Should not have missed any critical points as compared to an
+STM's essay.
 
 ## Comparing
 
-**I**
+**Part I**
 
 STM:
 
@@ -297,15 +315,13 @@ It doesn't look like an STM has done that.
 
 0-1 for Agent!
 
-Rule #3: 
-
-It appears that I should have given some examples to support the
+Rule #3: It appears that I should have given some examples to support the
 following sentence:
 
 > The answer to these questions is an important one and has the
 > potential to completely change the way we live our lives.
 
-I think it should be expanded to the following containing examples.
+I think it should be expanded to the following, containing examples.
 
 "The answer to these questions is important owing to the limited time
 we have on this planet. If the answer to this question is about
@@ -319,7 +335,7 @@ large number of people."
 2-0 for STM
 
 Rule #4: I don't think an STM needed to give any more examples except
-for the one mentioned in Rule #2.
+for the ones mentioned in Rule #2.
 
 0-0
 
@@ -330,7 +346,9 @@ Rule #5: Looks like we both covered the same thing.
 
 In total : 2-1 for STM
 
-**II**
+---
+
+**Part II**
 
 STM:
 
@@ -365,9 +383,11 @@ Rule #2: I think a few examples of how the gift-wrapped box or the
 Solution inside should look seems to be missing. Although they are
 delivered in the next parts of the essay.
 
-0-0
+0-0 for both
 
-In total: 0-0
+In total: 1-1
+
+---
 
 **Part III**
 
@@ -461,21 +481,20 @@ Rule #2: I have given examples of what it means to be credible i.e.,
 that the solution is coming from science or coming from one of the
 greatest researchers of all time. I also give examples for what it
 means that a solution is usable. I give examples for usable and
-non-usable solution.
+non-usable cases.
 
 An STM, gives examples for what a usable solution should not look
-like, but fails to provide an example of usable solution. Strike! An
-STM doesn't really talk about the credibility of the solution the way
-I did, so I don't think he is obliged to add any more examples.
+like, but fails to provide an example of how a usable solution should
+look like. Strike I think! An STM doesn't really talk about the
+credibility of the solution the way I did, so I don't think he is
+obliged to add any more examples.
 
 1-2 for Agent.
 
-Rule #3:  There seem to be not other places that I need to give
-examples for. 
+Rule #3: There seem not to be other places that I need to give
+examples for.
 
-Rule #4: 
-
-An STM talks about what the solution should inform, such as 
+Rule #4: An STM talks about what the solution should inform, such as 
 
 > We want something that will tell us what we should do at each point
 > in life
@@ -488,6 +507,8 @@ I think he is missing atleast 2 examples.
 0-2 for Agent!
 
 Total: 1-4 for Agent!
+
+---
 
 **Part IV**
 
@@ -588,7 +609,7 @@ ME:
 
 > In addition to the solution being credible and usable, there seems
 > to be additional constraints. The solution shall not contain any
-> killing, beating, slavery, suicides, lonliness etc... I seem to be
+> killing, beating, slavery, suicides, loneliness etc... I seem to be
 > able come up with these constraints by myself. If Richard Feynman
 > delivered a box containing solutions violating the above constraints
 > then I will not be able to perform it. On the other hand if Richard
@@ -601,7 +622,7 @@ Rule #1: The main idea of this part is to `show that the Solution
 can't just be anything`. An STM and I seem to be talking about the
 same thing.
 
-Rule #2: Both STM and I give decent number of examples about the type
+Rule #2: Both STM and I have given decent number of examples about the type
 of unacceptable solutions which reflects the main idea.
 
 1-1 
@@ -610,9 +631,7 @@ Rule #3: There don't seem to be any places missing examples.
 
 Rule #4: There don't seem to be any places missing examples.
 
-Rule #5:
-
-STM also brings in a nice point that I missed.
+Rule #5: STM also brings in a nice point that I missed.
 
 > And yet, every one of them is laughably wrong. There is just no way
 > any of them is the real answer!
@@ -625,11 +644,13 @@ STM also brings in a nice point that I missed.
 
 STM talks about how we could be wrong and yet we don't accept THE
 SOLUTION. We have been wrong in the past haven't we (The Earth is
-Flat!!!).  
+Flat!!!). 
 
 1-0 for an STM.
 
-In total: 2-0 for STM.
+In total: 2-1 for STM.
+
+---
 
 **Part V**
 
@@ -697,29 +718,31 @@ ME:
 > story seems to be far from over.
 
 
-Rule #1:  `SIYH` and `What does it mean for the initial
-questions asked`.  An STM talks mainly about `SIYH`.
+Rule #1: `SIYH` and `What does it mean for the initial questions
+asked` are the main points discussed here. An STM talks mainly about
+`SIYH`.
 
 Rule #2: I have not delivered even one example, for `the SIYH` whereas
-an STM has delivered examples. It does appear for me that I just
-delivered examples in the previous paragraph. But when I am reading
-it, it still feels like I need a solid example here. Either I re-write
-to accommodate the examples here or I re-write the paragraphs to feel
-like it is not repetitive.
+an STM has delivered examples. It seems like I just delivered examples
+in the previous paragraph about this. But when I am reading it, it
+still feels like I need a solid example here. Either I should re-write
+to accommodate the examples here or I should re-write the paragraphs
+to feel like it is not repetitive. But I didn't so, Strike!
 
 1-0 for an STM
 
-Rule #5: I like how an STM contrasts the Should do solution with the
-Will do solution. You should perform the Solution in the Box and you
-Will perform only if it is in accordance with the SIYH. I missed this
-part here.
+Rule #5: I like how an STM contrasts the *'Should do'* solution with
+the *'Will do'* solution. You *SHOULD* perform the Solution in the Box
+and you *WILL* perform it only if it is in accordance with the SIYH. I
+missed this part here.
 
 1-0 for an STM
 
 Total: 2-0 for an STM!
 
+---
 
-**Part 6**
+**Part VI**
 
 STM:
 
@@ -873,7 +896,7 @@ people are"
 1-0 for STM
 
 Rule #5: A closing statement on what it means for us is missing in my
-text. Also I think what is missing in my text is, we are yet to
+version. Also I think what is missing in my text is, we are yet to
 discover a ton more of the map and over throw many of our beliefs. An
 STM very well featured it as shown below:
 
@@ -886,154 +909,282 @@ STM very well featured it as shown below:
 
 Total: 3-1 for STM
 
+---
+
 ## Reflection
 
-<!-- it didn't feel that hard --> 
-
-Q: Overall it didn't feel like I was on the edge, like the last time when I
- did this assignment. Why?
- 
-Either it was not challenging enough, or there was too much delay in
-feedback, or value of the assignment is shit! I suspect it was the
-challenging part as I didn't change much in my way of work regarding
-feedback or value of the assignment. 
-
-O: lot of distraction this time, thinking about random things
-when I was supposed to be clocking DP hours.
-
-O: Lower Words/hr in SIYH rather than RorG!
-
-O: I even spent more than twice the time on my version of STM's essay
-
-| Essay                         | Number of words | Time taken to write |
-|:-----------------------------:|:---------------:|---------------------|
-| SIYH my version (stm version) | 1114 (2600)     | 6.6 hrs             |
-| RorG my version (stm version) | 595 (1400)      | 2.5 hrs             |
-| SIYH (DP Essay)               | ~4000           | ~22 hrs             |
-| RorG (DP essay)               | ~7000           | ~28 hrs             |
-| SIYH (comparing)              |                 | ~6 hrs              |
-| RorG (comparing)              |                 | >10 hrs                    |
-
-
-H: We measured lesser dimensions at a time so lesser words, lesser work
-
-H: Easy to identify dimension having a lot of time.
-
-**Conclusion and action:** It is clear that the number of words per hr
-is much less in the case of this essay. To make it challenging lesser
-time would be needed to complete the task with lesser dimensions.  If
-I look at the Words/hr of the entire essay, it appears that I would
-need ~16 hrs to finish the assignment. Maybe that is somewhere to
-start.
-
-We'll evaluate how the task is the next time and factor in other
-variables of motivation if need be.
-
-<!--
-	What do the scores mean? -->
+### Scores
 	
 The scores seem to indicate that an STM on average has done better
-than me. Lot of space to improve. I think am only now training my
-ability to spot where 
+than me. Lot of space to improve.
 
-I admit I don't know if in some places examples are required even. It
-just *feels* right, so I penalize myself. (example) I do see with the
-recent exercises and having seen what an STM has written, the need for
-. I nowadays don't like to deliver just the text, I try to follow it
-up with example, just like was done in this paragraph. I think I am
-atleast able to see these things now.
-
-The point of unconscious consistency is yet to come.
+Rule #1 was not scored as it was expected to only assist Rule #2.
 
 Rule #2 was expected to be the rule that allowed to see if I have
 examples for the main points determined in Rule #1. It appears that in
-a few places (2 out of 6 parts) I have defaulted on this rule and an
-STM defaulted (3 out of 6 times). I am not sure of what the impact
-is. I don't understand the point of this exercise in the first
-place. According to me, it appears that the places where I missed is
-not really a big deal, as I had delivered the examples in the passages
-before and after. I was just trying to be critical.
+a few places (2 out of 6 parts) I have defaulted on this rule; and an
+STM has defaulted as well (3 out of 6 times). According to me, it
+appears that the places where I missed is not really a big deal, as I
+had delivered the examples in the passages just before and after. In
+one case ('Part II') I had not given examples of the gift-wrapped box,
+but they show up in the subsequent paragraphs. In the other case where
+I missed ('Part V'), I just gave an example in the last paragraph, and
+didn't want the paragraph to sound repetitive. I don't want to come
+across as being cocky, I just want to clarify how I feel. The reader
+shall correct me appropriately.
 
-As I said, I admit, sometimes it is hard to know if the rules I come
-up with based off of STM's missions, is what is expected. Once I hear
-the feedback I shall be back on my horse.
-
-Rule #3 was about the places other than the main point where I feel
-like I missed giving an explanation. Just like in the mission:
+Rule #3 was about the places other than the main points where I *feel*
+like I missed giving an explanation, based on the examples in the
+mission:
 
 > "The book ‘Talent is Overrated’ seems to suggest that greatness is
 > not only for a select few.", we should also know what "greatness"
 > looks like and who those "select few" were who we wrongly assumed to
 > be sole possessors of talent.
 
-I found some places where I missed in 2 out of 6 parts. Where as an
-STM missed in 1 out of 6. 
+I missed 2 out of 6 parts. Whereas an STM missed 1 out of 6 parts
+(Rule #4). I admit I don't know if in some places examples are
+required even. It just *feels* right, so I try to penalize myself so
+that I can get feedback from a reader later. As an illustration, in
+Part 1 Rule #3, it felt like I had to clarify what the hell I was
+saying, with an example here,
 
-Judegement, I am not sure if I am applying the rules right! so I will
-wait for feedback from an STM, and also apply it to other articles
-that are superior and see how I fare.
+> The answer to these questions is an important one and has the
+> potential to completely change the way we live our lives.
 
-The point is this should happen unconsciously.
+"Important" why? "potential to completely change the way we live" why?
+
+Rule #5 was just there to help me realize when I miss some *valid*
+points from making. When I realize it I make a note. I didn't try to
+go out of my way to find faults. I seem to have defaulted 2 out of 6
+Parts even then.
+
+Overall, there is a lot of scope for improvement. If I want to improve
+this, I need to do more such exercises and compare over time how I
+fare. Nowadays, I find my inner voice aiding me to write examples, by
+sometimes spotting the need for examples automatically, and even if I
+am lazy, pushing me to write them. I guess this is how DP provides
+results. For example today when I was writing the introduction, there
+was a point when I was discussing 'working with one dimension at a
+time'. I managed to deliver an example involving 'Tiger Woods playing
+only the sand-balls as DP'. Also looking at old articles would help to
+see the growth before DP and afer DP.
+
+### Impact
+<!-- impact -->
+
+The bigger point that an STM is trying to push me towards is I think
+that words mean shit. Without examples you are nothing. When someone
+says "You need to be great". WTF does it even mean? What do I need to
+do? Where do I go? How to I train? In what do I train? etc...
+
+We deliver examples to allow us to see where we are failing. If you
+remember Mission #2, it gets clear. We cannot work with words.
+
+> Mission #2: Collect actual, everyday instances where you fell short
+> because of lack of "critical thinking" (why am I putting "critical
+> thinking" in scare quotes?) and divide them into skills. No abstract
+> skills like "logical structure" or "critical thinking". Concrete
+> instances where you failed. That will give you harsh feedback
+
+I am failing at work Viz., I suck at organizing information and
+providing actions based out of it in a convincing way to my Boss at
+work. Close enough, but an actual link to the PowerPoint I am
+referring to would help I guess. As said before, my antennas are
+moderately on alert now, to deliver examples and not just deliver
+words. I guess with more exercises I can hopefully see more change and
+naturally have the tendency to drop examples like dropping bombs in
+the middle east (without thought or hesitation) as and where needed,
+and reach a state of unconscious consistency over time.
+
+**Note:** A word about Unconscious consistency (UC). UC is not where
+we want to be in most skills, as it seems to stop growth in that skill
+(Chapter 5, Talent is Overrated). Think about driving, where in the
+beginning you struggle to put all the knowledge and actions together,
+then you slowly start getting a grip of the whole thing and within
+some time, you are talking on the phone and driving almost
+automatically. And our improvement slows down dramatically from there
+onward. But that is okay, we just want to be able to drive safely and
+move around conveniently. For most things that is not a problem. In
+the case of determining where to drop examples that is all I want I
+guess.
+
+In other cases though, say when you are organizing information and
+providing solutions---based on that---to your boss, you might want to be
+like Tiger Woods, conscious, controlled and not automatic.
+
+> Frequently when we see great performers doing what they do, it
+> strikes us that they've practiced for so long, and done it so many
+> times, they can just do it automatically. But in fact, what they
+> have achieved is the ability to avoid doing it automatically.
+>
+> By contrast, great performers never allow themselves to reach the
+> automatic, arrested-development stage in their chosen field. 
+>
+> --- Chapter 5, Talent is Overrated
+
+Here is a[ video of Tiger Woods stopping mid-shot](https://www.youtube.com/watch?v=wKANS5rnrqI) unable to focus
+because of the shadow of a bird flying behind him. Here is [him
+stopping mid-shot so many times over his career](https://www.youtube.com/watch?v=IxSnJIEa_WE), informing us that,
+
+> ... ultimately the performance is always conscious, controlled, and
+> not automatic.
+
+### Not that hard
+
+Overall it didn't feel like I was on the edge, like the last time when
+I did this assignment. I was literally racing to finish, there was so
+much to do and I couldn't afford any sorts of distractions. This time,
+I am quite relaxed as I am finishing this assignment over the final
+4-8 hrs of the assignment. Why is this not hard, why is it
+boringish---whether it is comparing the original and my version or
+writing my own version of the essay?
+
+Hypothesis: It is because we measured lesser dimensions at a time so lesser
+words, lesser work, lesser time required for work. But then I
+allocated more time in total.
+
+Observation: Not hard enough, not on the edge of the seat, lot of distraction
+this time, thinking about random things when I was supposed to be
+clocking DP hours.
+
+Observation: Didn't have to do much of planning as I was confident of
+finishing the assignment anyway. Whereas the last time I remember
+giving half an hour for one part and forcing myself to meet the time
+constraints.
+
+Observation: Lower Words/hr written in SIYH compared to RorG! Lower
+total words written in SIYH compared to RorG! Implying that the time
+allocated for DP'ing this time seems to be larger than required.
+
+| Essay                         | Number of words | Time taken to write |
+|:-----------------------------:|:---------------:|---------------------|
+| SIYH my version (stm version) | 1114 (2600)     | 6.6 hrs             |
+| RorG my version (stm version) | 595 (1400)      | 2.5 hrs             |
+| SIYH (DP Essay)               | ~4800           | ~23 hrs             |
+| RorG (DP essay)               | ~7100           | ~28 hrs             |
+| SIYH (comparing)              |                 | ~6 hrs              |
+| RorG (comparing)              |                 | >10 hrs                    |
 
 
-<!-- What all would you do different? -->
+**Conclusion and action:** It is clear that the number of words per
+hour is much less in the case of this essay. To make it challenging
+lesser time should have been allocated to complete the task with
+lesser dimensions. If I use the Words/hr of the RorG DP essay, it
+appears that I would need ~16 hrs to finish this SIYH DP essay, which
+I spent 23 hrs on. Maybe that is somewhere to start. Next time I
+either increase the content delivered or reduce the time to match with
+RorG. We'll evaluate how the task is the next time and factor in other
+variables of motivation if need be.
+
+### Other issues
+
 <!-- Stupid issues -->
 
-Where to put a paragrph in part 5 or part 6!
+From earlier it is already clear that the hardness of the task needs
+to be factored in, and consciously accounted for. But I had some other
+issues while writing this essay as well.
+
+I have written my version and was in the process of comparing mine
+with the original. For this I needed segments of the original and my
+version, to match. The issue was 'Where do I put this paragraph, in
+part X or part X+1?'
 
 I would like to spend majority of the time on doing real comparisons
+and not bothering about things like which paragraphs belong in which
+part. I spent quite some time, stuck at places not sure if a paragraph
+is supposed to be in this part or the next. I think this came about
+because I was worried about getting too much help from the notes while
+writing my version, I was even considering shuffling the order of the
+notes just like BF did. Luckily I didn't, it would have been much
+harder to match the paragraphs. BF shuffled his notes to allow himself
+the opportunity to learn how to organize his texts well. I don't think
+that is the skill I am working on right now. I should be completely
+focused on finding where I am missing examples and dropping them. That
+is it!
 
-Maybe this can be avoided if I make notes per section of the essay and
-reproduce it just like that, so that the content matches one to one
-and can be checked. The reason I didn't do it is because I cared about
-writing the own article with as little help as possible. I forgot the
-goal is to generate examples, where ever needed. I was also afraid
-adding too many clues is going to the notes and writing the essay
-immediately, will result in ease of writing the examples as it is
-fresh in my memory. BF did otherwise, he waited a few days before re-writing.
+I want to suggest that I make *notes per section of the original
+essay* or per set of paragraphs and clearly demarcate them while
+making notes. This way while making my version, I will make it based
+on the demarcations in the notes. This way I suppose I don't have any
+paragraph overlapping between 2 parts. And regarding making it too
+easy for me or being able to recollect from the original essay, I
+think I should wait a few days before re-writing from the notes.
 
-<!-- Being distracted -->
+<!-- ### Being distracted -->
 
-thinking about this asian, thinking about buying a phone,
+<!-- I think I am involved in drama and those are having the potential to -->
+<!-- suck me in them, right from eating in a group and sorting out the -->
+<!-- money issues and , to the girl whose texts I long for to the drama in -->
+<!-- my occupational life, to the goddamning persuation caused by y indian -->
+<!-- friend and his dutch gf. Do you hear it already? In addition to -->
+<!-- boredom mentioned a few lines back this is something else that I need -->
+<!-- to deal with. The last few days atleast, when I am not expecting -->
+<!-- anything from her, I am much more peaceful. I am not anxious for -->
+<!-- anything. Yes that is it, anxiety! Jesus fucking christ! -->
 
-Possibly because it was boring and the other thing is that it could
-have been beacause I was involved in some stupid social games where I
-took the bait! 
+<!-- <\!-- why are examples quite important -\-> -->
 
-<!-- why are examples quite important -->
+### Road ahead
 
-<!-- Road ahead -->
+An STM always asks me in the Mission to provide clear plans and not be
+vague. That has been the foundation.
 
-I want to reflect on this whole critical thinking thing. What are
-examples where I fail, and see if what I am doing makes sense and
-reform it by practicing it with many more essays of high quality.
+> Mission #2: Collect actual, everyday instances where you fell short
+> because of lack of "critical thinking" (why am I putting "critical
+> thinking" in scare quotes?) and divide them into skills. No abstract
+> skills like "logical structure" or "critical thinking". Concrete
+> instances where you failed. That will give you harsh feedback
 
-## TODO
+So I try. I don't want to be like, "I have to do many more essays" and
+leave it at that. I think it is a way for me to escape from thinking
+what I actually need to be doing next.
 
-spell check, read the whole thing again! add reflection and if time
-permits have a look at the content by 
-P.S
+I am unsure how I should take this forward. Yes, I would like to do a
+few more essays just like this one with the above format and output
+dimensions. But, I am not sure where this is going. I am not sure what
+I am solving or where this is going to help.
 
-Arranging the different parts together was the problem! What do you
-think I should do?
+When I practice basketball every Saturday, I am not looking for
+anything more than killing it on the game with friends on next day. I
+know where I suck in the game and simply focus on getting better in
+those particular situations with high repetition. Over time I want to
+be really good, that people turn their heads, and hope to keep playing
+this sport well into old age. It is one place where I can stand long
+duration's of cardio without batting an eye. So I like how it is going
+on. But in the case of "critical thinking", I don't know how my
+current work is going to help me?
 
+What is the high-level skill I am working on? Is it "critical
+thinking"? What will this do for me? Where can I expect to see these
+results? If I don't know about this, then I think I am as clueless as
+the x-girlfriend of Andrew (from Whiplash) (Writing-Rule#8
+trying-too-hard;)).
 
-Look at what Eliezer or PG does
+Will the real slim shady please stand up? I think I need to either
+revisit or redo, Mission #2, and make the connection.
 
-Headings,, going back and forth! hard to see what was the last part
-about without reading the whole god-damn thing
+> Mission #2: Collect actual, everyday instances where you fell short
+> because of lack of "critical thinking" (why am I putting "critical
+> thinking" in scare quotes?) and divide them into skills. No abstract
+> skills like "logical structure" or "critical thinking". Concrete
+> instances where you failed. That will give you harsh feedback
 
-Allowed distractions, thinking about other things... Not
-stressed... Goals, motivation
+To be continued...
 
 ## Stats
 
-Total time: 16 hrs
-Total number of days: 5 hrs
-writing summary : 6.6 hrs
-DP by comparing : 6.2 hrs
-others : 3 hrs
-reflection and stats : 
+written from: 22 dec 2018 to 26 dec 2018 (Saturday to Wednesday)
 
-total words : 4k max
+Total time:  ~24 hrs
+Total number of days: 5
+
+Total words (without quotes) : 5k
+Time per day: ~5 hrs
+
+Writing summary : 6.6 hrs
+DP by comparing : 6.2 hrs
+Reflection and stats : 6 hrs
+
 Situation : No office to go to.
+
