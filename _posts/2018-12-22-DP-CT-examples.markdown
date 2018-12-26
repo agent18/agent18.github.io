@@ -1,8 +1,8 @@
 ---
 layout: post
 comments: true
-title:  "DP, Critical Thinking, Output dimensions Examples"
-date:    13-12-2018 
+title:  "Dliberate Practice - The Benjamin Franklin Method 2"
+date:    26-12-2018 
 categories: posts
 tags: 
 permalink: /:title.html
