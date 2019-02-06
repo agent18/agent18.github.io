@@ -14,7 +14,7 @@ published: TRUE
 
 Look [here for the installation and setup of R on Emacs](/R-installation.html).
 
-## Using R basics
+### Using R basics
 
 To get a console simply do:
 
@@ -33,6 +33,12 @@ Some more helpful configuration things are given in
 `_` key is bound to `<-` by default in the `ESS`
 mode. `ESS-smart-underscore` tries to overcome this issue (I have not
 yet tested how).
+### Useful Keybindings, shortcuts
+
+	C-c C-v Help for object
+	
+[Source](http://ess.r-project.org/refcard.pdf) has lots of other R ESS Emacs Key bindings
+
 ## R packages and needed installation
 
 When R is downloaded from CRAN we get the "base" R system. Primary
@@ -243,7 +249,8 @@ be used to interface with hdf5 data sets.
 
 ### other packages installed
 
-	`plyr`, `Hmisc`, `reshape`,`jpeg`, `stringr`, `lubridate`, `quantmod`
+	`plyr`, `Hmisc`, `reshape`,`jpeg`, `stringr`, `lubridate`,
+	`quantmod`, `reader`
 	
 ## Learning R
 
@@ -333,6 +340,16 @@ attr(,"levels")
 
 		library(library_name_not_in_courts)
 		detach("package:RMySQL", unload=TRUE)
+
+
+### Calculating memory
+
+According to [stack and the coursera course](https://stackoverflow.com/a/25675555/5986651), 
+
+> memory required = no. of column * no. of rows * 8 bytes/numeric
+>
+> so for example if you have 1,500,00 rows and 120 column you will
+> need more than 1.34 GB of spare memory required
 
 
 ### Loop functions
@@ -908,6 +925,8 @@ who got them from Kevin Ushey.
 		- skip: how many rows to skip from the top
 
 
+
+### Read and write text files
 
 ### fixed width files fwf
 According to this [stack which is a question directly from
@@ -3247,7 +3266,7 @@ length(grep("[Ff]iscal(.*)[Jj]une [0-9]",pandian$Special.Notes))
 (Thanks to Mark Hansen for some material in this lecture.)
 
 
-## Dates
+## Dates & Times
 
 ```R
 d1 = date() # class is "char"
@@ -3409,13 +3428,26 @@ wday(x[1],label=TRUE)
 Levels: Sun < Mon < Tues < Wed < Thurs < Fri < Sat
 ```
 
+### DATES and TIMEs from Exploratory graphs assignment learnings C4
+
+Mixing Date and Time for graphs. [Source: Stack](https://stackoverflow.com/questions/11609252/r-tick-data-merging-date-and-time-into-a-single-object).
+
+``` R
+df$Date <- as.character(df$Date)
+df$Time <- as.character(df$Time)
+
+df$DateTime <- as.POSIXct(paste(df$Date, df$Time),
+                          format="%d/%m/%Y %H:%M:%S")
+library(lubridate)
+df$Date.Time <- dmy_hms(paste(df$Date, df$Time))
+```
 
 **Notes and further resources**
 
 * More information in this nice lubridate tutorial [http://www.r-statistics.com/2012/03/do-more-with-dates-and-times-in-r-with-lubridate-1-1-0/](http://www.r-statistics.com/2012/03/do-more-with-dates-and-times-in-r-with-lubridate-1-1-0/)
 * The lubridate vignette is the same content [http://cran.r-project.org/web/packages/lubridate/vignettes/lubridate.html](http://cran.r-project.org/web/packages/lubridate/vignettes/lubridate.html)
 * Ultimately you want your dates and times as class "Date" or the classes "POSIXct", "POSIXlt". For more information type `?POSIXlt`
-
+  
 #### Quiz q c3-w4
 
 You can use the quantmod (http://www.quantmod.com/) package to get historical stock prices for publicly traded companies on the NASDAQ and NYSE. Use the following code to download data on Amazon's stock price and get the times the data was sampled.
@@ -3521,3 +3553,844 @@ length(sampleTimes[year(sampleTimes)==2012 & weekdays(sampleTimes)=="maandag"])
 * [rOpenSci](http://ropensci.org/packages/index.html)
 * [Facebook](https://developers.facebook.com/) and [RFacebook](http://cran.r-project.org/web/packages/Rfacebook/)
 * [Google maps](https://developers.google.com/maps/) and [RGoogleMaps](http://cran.r-project.org/web/packages/RgoogleMaps/index.html)
+# Course4: Exploratory data Analysis
+
+
+## Principles
+
+* Principle 1: Show comparisons
+* Principle 2: Show causality, mechanism, explanation
+* Principle 3: Show multivariate data
+* Principle 4: Integrate multiple modes of evidence
+* Principle 5: Describe and document the evidence
+* Principle 6: Content is king
+
+* Principle 1: Show comparisons
+
+  - Evidence for a hypothesis is always *relative* to another competing
+    hypothesis.
+
+  - Always ask "Compared to What?"
+
+* Principle 2: Show causality, mechanism, explanation, systematic structure 
+  - What is your causal framework for thinking about a question?
+
+* Principle 3: Show multivariate data
+  - Multivariate = more than 2 variables 
+  - The real world is multivariate
+  - Need to "escape flatland"
+  
+* Principle 4: Integration of evidence
+  - Completely integrate words, numbers, images, diagrams
+
+  - Data graphics should make use of many modes of data presentation 
+
+  - Don't let the tool drive the analysis
+  
+* Principle 5: Describe and document the evidence with appropriate
+  labels, scales, sources, etc.
+
+  - A data graphic should tell a complete story that is credible 
+  
+* Principle 6: Content is king
+
+  - Analytical presentations ultimately stand or fall depending on the
+    quality, relevance, and integrity of their content
+	
+
+
+## Exploratory graphics
+
+### Air Pollution in the United States
+
+* The U.S. Environmental Protection Agency (EPA) sets national ambient
+  air quality standards for outdoor air pollution
+
+  * [U.S. National Ambient Air Quality Standards](http://www.epa.gov/air/criteria.html)
+
+* For fine particle pollution (PM2.5), the "annual mean, averaged over
+  3 years" cannot exceed $12~\mu g/m^3$.
+
+* Data on daily PM2.5 are available from the U.S. EPA web site
+
+  - [EPA Air Quality System](http://www.epa.gov/ttn/airs/airsaqs/detaildata/downloadaqsdata.htm)
+
+* **Question**: Are there any counties in the U.S. that exceed that
+  national standard for fine particle pollution?
+
+---
+
+### Data
+
+Annual average PM2.5 averaged over the period 2008 through 2010 is
+available on jtleeks repository [here](https://github.com/jtleek/modules/blob/master/04_ExploratoryAnalysis/exploratoryGraphs/data/avgpm25.csv). The actual csv file can be
+accessed from [here](https://raw.githubusercontent.com/jtleek/modules/master/04_ExploratoryAnalysis/exploratoryGraphs/data/avgpm25.csv).
+
+
+```r
+fileUrl <-
+"https://raw.githubusercontent.com/jtleek/modules/master/04_ExploratoryAnalysis/exploratoryGraphs/data/avgpm25.csv" 
+
+download.file(fileUrl, destfile="./data/avgpm25.csv", method="curl")
+
+pollution <- read.csv("./data/avgpm25.csv", colClasses = c("numeric", "character", 
+    "factor", "numeric", "numeric"))
+head(pollution)
+```
+
+```
+##     pm25  fips region longitude latitude
+## 1  9.771 01003   east    -87.75    30.59
+## 2  9.994 01027   east    -85.84    33.27
+## 3 10.689 01033   east    -87.73    34.73
+## 4 11.337 01049   east    -85.80    34.46
+## 5 12.120 01055   east    -86.03    34.02
+## 6 10.828 01069   east    -85.35    31.19
+```
+
+
+Do any counties exceed the standard of $12~\mu g/m^3$?
+
+---
+
+### Summary of data, View data
+
+
+One dimension
+
+* Five-number summary
+* Boxplots
+* Histograms
+* Density plot
+* Barplot
+
+---
+
+### Five Number Summary
+
+
+```r
+summary(pollution$pm25)
+```
+
+```
+##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+##    3.38    8.55   10.00    9.84   11.40   18.40
+```
+
+
+---
+	
+### Boxplot
+
+
+```r
+boxplot(pollution$pm25, col = "blue")
+```
+
+[Nice explanation of box plots](https://towardsdatascience.com/understanding-boxplots-5e2df7bcbd51)
+
+* median (Q2/50th Percentile): the middle value of the dataset.
+
+* first quartile (Q1/25th Percentile): the middle number between the smallest number (not the “minimum”) and the median of the dataset.
+
+* third quartile (Q3/75th Percentile): the middle value between the median and the highest value (not the “maximum”) of the dataset.
+
+* interquartile range (IQR): 25th to the 75th percentile.
+
+* whiskers (shown in blue)
+
+* outliers (shown as green circles)
+
+* “maximum”: Q3 + 1.5*IQR
+
+* “minimum”: Q1 -1.5*IQR
+
+---
+
+### Histogram
+Bar plot basically!
+
+```r
+hist(pollution$pm25, col = "green")
+```
+
+Rug representation roughly informs about density by plotting below
+histogram.
+
+```r
+hist(pollution$pm25, col = "green")
+rug(pollution$pm25)
+```
+`breaks` parameter is used for determining the number of segments on
+the Histogram.
+
+```r
+hist(pollution$pm25, col = "green", breaks = 100)
+rug(pollution$pm25)
+```
+
+---
+
+### Overlaying Features
+
+
+```r
+boxplot(pollution$pm25, col = "blue")
+abline(h = 12)
+```
+
+```r
+hist(pollution$pm25, col = "green")
+abline(v = 12, lwd = 2)
+abline(v = median(pollution$pm25), col = "magenta", lwd = 4)
+```
+
+
+---
+
+### Barplot
+
+Barplot is the histogram of text based info but without quantile and
+all that shit!
+
+```r
+barplot(table(pollution$region), col = "wheat", main = "Number of Counties in Each Region")
+```
+
+
+---
+
+### What plots to see >2 dimensions
+
+**Two dimensions**
+
+* Multiple/overlayed 1-D plots (Lattice/ggplot2)
+* Scatterplots
+* Smooth scatterplots
+
+**greater than 2 dimensions**
+
+* Overlayed/multiple 2-D plots; coplots
+* Use color, size, shape to add dimensions
+* Spinning plots
+* Actual 3-D plots (not that useful)
+
+
+---
+
+### Multiple Boxplots
+
+```r
+boxplot(pm25 ~ region, data = pollution, col = "red")
+```
+
+---
+	
+### Multiple Histograms
+
+
+```r
+par(mfrow = c(2, 1), mar = c(4, 4, 2, 1))
+hist(subset(pollution, region == "east")$pm25, col = "green")
+hist(subset(pollution, region == "west")$pm25, col = "green")
+```
+
+
+---
+
+### Scatterplot
+
+```r
+with(pollution, plot(latitude, pm25))
+abline(h = 12, lwd = 2, lty = 2)
+```
+
+
+---
+
+### Scatterplot - Using Color
+
+
+```r
+with(pollution, plot(latitude, pm25, col = region))
+abline(h = 12, lwd = 2, lty = 2)
+```
+
+
+---
+
+### Multiple Scatterplots
+
+
+```r
+par(mfrow = c(1, 2), mar = c(5, 4, 2, 1))
+with(subset(pollution, region == "west"), plot(latitude, pm25, main = "West"))
+with(subset(pollution, region == "east"), plot(latitude, pm25, main = "East"))
+```
+
+
+
+---
+
+### Summary
+
+* Exploratory plots are "quick and dirty"
+
+* Let you summarize the data (usually graphically) and highlight any broad features
+
+* Explore basic questions and hypotheses (and perhaps rule them out)
+
+* Suggest modeling strategies for the "next step"
+
+---
+
+
+### Further resources
+
+* [R Graph Gallery](http://gallery.r-enthusiasts.com/)
+* [R Bloggers](http://www.r-bloggers.com/)
+
+
+## Plotting systems
+Functions like `plot` in base, `xyplot` in lattice, or `qplot` in
+ggplot2 will default to sending a plot to the screen device
+	
+### The Base Plotting System
+
+* "Artist's palette" model
+* Start with blank canvas and build up from there
+* Start with plot function (or similar)
+
+* Use annotation functions to add/modify (`text`, `lines`, `points`,
+  `axis`)
+  
+* Convenient, mirrors how we think of building plots and analyzing data
+
+* ** Can’t go back once** plot has started (i.e. to adjust margins); need
+  to plan in advance
+
+* Difficult to "translate" to others once a new plot has been created
+  (no graphical "language")
+
+* Plot is just a series of R commands
+
+---
+
+### Base Plot
+
+
+```r
+library(datasets)
+data(cars)
+with(cars, plot(speed, dist))
+```
+
+---
+
+### The Lattice System
+
+* Plots are created with a single function call (`xyplot`, `bwplot`,
+etc.)
+
+* Most useful for conditioning types of plots: Looking at how y changes with x across levels of z
+
+* Things like margins/spacing set automatically because entire plot is
+  specified at once
+
+* Good for puttng many many plots on a screen
+
+* Sometimes awkward to specify an entire plot in a single function call
+
+* Annotation in plot is not especially intuitive
+
+* Use of panel functions and subscripts difficult to wield and
+  requires intense preparation
+
+* Cannot "add" to the plot once it is created
+
+---
+
+### Lattice Plot
+
+
+```r
+library(lattice)
+state <- data.frame(state.x77, region = state.region)
+xyplot(Life.Exp ~ Income | region, data = state, layout = c(4, 1))
+```
+
+![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
+
+
+---
+
+### The ggplot2 System
+
+* Splits the difference between base and lattice in a number of ways
+
+* Automatically deals with spacings, text, titles but also allows you
+  to annotate by "adding" to a plot
+
+* Superficial similarity to lattice but generally easier/more
+  intuitive to use
+
+* Default mode makes many choices for you (but you can still customize
+  to your heart's desire)
+
+
+---
+
+### ggplot2 Plot
+
+
+```r
+library(ggplot2)
+data(mpg)
+qplot(displ, hwy, data = mpg)
+```
+
+
+---
+
+### Summary
+
+* Base: "artist's palette" model
+
+* Lattice: Entire plot specified by one function; conditioning
+
+* ggplot2: Mixes elements of Base and Lattice
+
+---
+
+### References
+
+Paul Murrell (2011). *R Graphics*, CRC Press.
+
+Hadley Wickham (2009). *ggplot2*, Springer.
+## What is a Graphics Device?
+
+* A graphics device is something where you can make a plot appear
+
+  * A window on your computer (screen device); Linux `x11()`
+  
+  * A PDF file (file device)
+
+  * A PNG or JPEG file (file device)
+
+  * A scalable vector graphics (SVG) file (file device)
+
+* The most common place for a plot to be "sent" is the *screen device*
+
+  * On Unix/Linux the screen device is launched with `x11()`
+
+* When making a plot, you need to consider how the plot will be used
+  to determine what device the plot should be sent to.
+
+  - The list of devices is found in `?Devices`; there are also devices
+    created by users on CRAN
+
+
+* For quick visualizations and exploratory analysis, usually you want
+  to use the screen device
+
+  - Functions like `plot` in base, `xyplot` in lattice, or `qplot` in
+    ggplot2 will default to sending a plot to the screen device
+
+* otherwise use the file device
+
+
+
+
+---
+
+### Screen Device
+
+1. Call a plotting function like `plot`, `xyplot`, or `qplot`
+
+
+
+```r
+library(datasets)
+with(faithful, plot(eruptions, waiting))  ## Make plot appear on screen device
+title(main = "Old Faithful Geyser data")  ## Annotate with a title
+```
+
+### File Device
+
+The second approach to plotting is most commonly used for file devices:
+
+1. Explicitly launch a graphics device
+
+2. Call a plotting function to make a plot (Note: if you are using a file
+device, no plot will appear on the screen)
+
+3. Annotate plot if necessary
+
+3. Explicitly close graphics device with `dev.off()` (**this is very important!)**
+
+
+```r
+pdf(file = "myplot.pdf")  ## Open PDF device; create 'myplot.pdf' in my working directory
+## Create plot and send to a file (no plot appears on screen)
+with(faithful, plot(eruptions, waiting))
+title(main = "Old Faithful Geyser data")  ## Annotate plot; still nothing on screen
+dev.off()  ## Close the PDF file device
+## Now you can view the file 'myplot.pdf' on your computer
+```
+Another example
+
+``` R
+png(filename="plot1.png", width=480, height=480)
+hist(df$Global_active_power,col="red",main="Global Active Power",
+     xlab="Global Active Power (kilowatts)")
+dev.off()
+```
+
+
+---
+
+### Vector: File Devices types
+
+
+There are two basic types of file devices: *vector* and *bitmap*
+devices
+
+Vector formats:
+
+- `pdf`: useful for line-type graphics, resizes well, usually
+  portable, not efficient if a plot has many objects/points
+
+- `svg`: XML-based scalable vector graphics; supports animation and
+  interactivity, potentially useful for web-based plots
+
+- `win.metafile`: Windows metafile format (only on Windows)
+
+- `postscript`: older format, also resizes well, usually portable, can
+  be used to create encapsulated postscript files; Windows systems
+  often don’t have a postscript viewer
+
+
+---
+
+### Bitmap: File Devices
+
+Bitmap formats
+
+- `png`: bitmapped format, good for line drawings or images with solid
+  colors, uses lossless compression (like the old GIF format), most
+  web browsers can read this format natively, good for plotting many
+  many many points, does not resize well
+
+- `jpeg`: good for photographs or natural scenes, uses lossy
+  compression, good for plotting many many many points, does not
+  resize well, can be read by almost any computer and any web browser,
+  not great for line drawings
+
+- `tiff`: Creates bitmap files in the TIFF format; supports lossless
+  compression
+
+- `bmp`: a native Windows bitmapped format
+
+---
+
+### Multiple Open Graphics Devices
+
+```R
+x11() # 1st screen
+x11() # 2nd screen
+
+dev.cur()
+[1] X11cairo
+     3
+	
+dev.set(2)
+[1] X11cairo
+     2
+```
+---
+
+### Copying Plots; display and save plots
+
+Copying a plot to another device can be useful because some plots
+require a lot of code and it can be a pain to type all that in again
+for a different device.
+
+- `dev.copy`: copy a plot from one device to another
+
+- `dev.copy2pdf`: specifically copy a plot to a PDF file 
+
+NOTE: Copying a plot is not an exact operation, so the result may not
+be identical to the original.
+
+
+```r
+library(datasets)
+with(faithful, plot(eruptions, waiting))  ## Create plot on screen device
+title(main = "Old Faithful Geyser data")  ## Add a main title
+dev.copy(png, file = "geyserplot.png")  ## Copy my plot to a PNG file
+dev.off()  ## Don't forget to close the PNG device!
+```
+
+```r
+with(faithful, plot(eruptions,waiting))
+dev.copy2pdf(file="pandian")
+dev.off()
+```
+
+---
+
+### Example Multiplot base plotting system using legend
+As part of assignment,
+
+``` R
+plot(df$DateTime, df$Sub_metering_1, type="l", col="black", ylab="Energy sub metering",xlab="")
+lines(df$DateTime, df$Sub_metering_2, type="l", col="red")
+lines(df$DateTime, df$Sub_metering_3, type="l", col="blue")
+legend("topright",c("Sub_metering_1","Sub_metering_2","Sub_metering_3"),col=c("black","red","blue"),lty=1:3, cex=0.8)
+
+```
+
+The below **Doesn't work**. Spent way too much time on it.
+
+``` R
+## legend(1, 95,
+legend=c("Sub_metering_1","Sub_metering_2","Sub_metering_3"),
+col=c("black","red","blue"),lty=1:3, cex=0.8) 
+```
+
+
+
+### Language settings on plots
+
+[Stack Source](https://stackoverflow.com/questions/17031002/get-weekdays-in-english-in-r)
+
+Do this and all languages will be in english on the plots
+
+	Sys.setlocale("LC_TIME", "en_US")
+	
+### Summary
+
+* Plots must be created on a graphics device
+
+* The default graphics device is almost always the screen device,
+  which is most useful for exploratory analysis
+
+* File devices are useful for creating plots that can be included in
+  other documents or sent to other people
+
+* For file devices, there are vector and bitmap formats
+
+  - Vector formats are good for line drawings and plots with solid
+    colors using a modest number of points
+
+  - Bitmap formats are good for plots with a large number of points,
+    natural scenes or web-based plots
+## The Lattice Plotting System
+
+The lattice plotting system is implemented using the following packages:
+
+- *lattice*: contains code for producing Trellis graphics, which are
+   independent of the “base” graphics system; includes functions like
+   `xyplot`, `bwplot`, `levelplot`
+
+- *grid*: implements a different graphing system independent of the
+   “base” system; the *lattice* package builds on top of *grid*
+   - We seldom call functions from the *grid* package directly
+
+- The lattice plotting system does not have a "two-phase" aspect with
+  separate plotting and annotation like in base plotting
+
+- All plotting/annotation is done at once with a single function call
+
+
+---
+
+### Lattice Functions
+
+- `xyplot`: this is the main function for creating scatterplots 
+- `bwplot`: box-and-whiskers plots (“boxplots”)
+- `histogram`: histograms
+- `stripplot`: like a boxplot but with actual points 
+- `dotplot`: plot dots on "violin strings"
+- `splom`: scatterplot matrix; like `pairs` in base plotting system 
+- `levelplot`, `contourplot`: for plotting "image" data
+
+Lattice functions generally take a formula for their first argument, usually of the form
+
+```r
+xyplot(y ~ x | f * g, data)
+```
+
+- We use the *formula notation* here, hence the `~`.
+
+- On the left of the ~ is the y-axis variable, on the right is the
+  x-axis variable
+
+- f and g are _conditioning variables_ — they are optional
+  - the * indicates an interaction between two variables
+
+- The second argument is the data frame or list from which the
+  variables in the formula should be looked up
+
+  - If no data frame or list is passed, then the parent frame is used.
+
+- If no other arguments are passed, there are defaults that can be used.
+
+---
+### Simple Lattice Plot
+
+
+```r
+library(lattice)
+library(datasets)
+## Simple scatterplot.
+xyplot(Ozone ~ Wind, data = airquality)
+```
+
+**Looking at 3 variables at a time**
+
+```r
+library(datasets)
+library(lattice)
+## Convert 'Month' to a factor variable
+airquality <- transform(airquality, Month = factor(Month))
+xyplot(Ozone ~ Wind | Month, data = airquality, layout = c(5, 1))
+```
+
+**transform** can be used or:
+
+```R
+
+```
+
+---
+
+### Lattice Behavior
+
+Lattice functions behave differently from base graphics functions in
+one critical way.
+
+- Base graphics functions plot data directly to the graphics device
+  (screen, PDF file, etc.)
+
+- Lattice graphics functions return an object of class **trellis**
+
+- Lattice functions return "plot objects" that can, in principle, be
+  stored (but it’s usually better to just save the code + data).
+
+**You can save the plot to an object and it wont display just like
+regular functions.**
+
+```r
+p <- xyplot(Ozone ~ Wind, data = airquality)  ## Nothing happens!
+print(p)  ## Plot appears
+```
+
+```r
+xyplot(Ozone ~ Wind, data = airquality)  ## Auto-printing
+```
+
+---
+
+### Lattice Panel Functions
+
+* Lattice functions have a **panel function** which controls what
+  happens inside each panel of the plot.
+
+* The *lattice* package comes with default panel functions, but you
+  can supply your own if you want to customize what happens in each
+  panel
+
+* Panel functions receive the x/y coordinates of the data points
+  in their panel (along with any optional arguments)
+
+
+---
+
+### Lattice Panel Functions
+
+
+```r
+set.seed(10)
+x <- rnorm(100)
+f <- rep(0:1, each = 50)
+y <- x + f - f * x + rnorm(100, sd = 0.5)
+f <- factor(f, labels = c("Group 1", "Group 2"))
+xyplot(y ~ x | f, layout = c(2, 1))  ## Plot with 2 panels
+```
+
+![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+
+
+---
+
+### Lattice Panel Functions
+
+
+```r
+## Custom panel function
+xyplot(y ~ x | f, panel = function(x, y, ...) {
+    panel.xyplot(x, y, ...)  ## First call the default panel function for 'xyplot'
+    panel.abline(h = median(y), lty = 2)  ## Add a horizontal line at the median
+})
+```
+
+![plot of chunk unnamed-chunk-6](figure/unnamed-chunk-6.png) 
+
+
+---
+
+### Lattice Panel Functions: Regression line
+
+
+```r
+## Custom panel function
+xyplot(y ~ x | f, panel = function(x, y, ...) {
+    panel.xyplot(x, y, ...)  ## First call default panel function
+    panel.lmline(x, y, col = 2)  ## Overlay a simple linear regression line
+})
+```
+
+![plot of chunk unnamed-chunk-7](figure/unnamed-chunk-7.png) 
+
+
+---
+
+### Many Panel Lattice Plot: Example from MAACS
+
+* Study: Mouse Allergen and Asthma Cohort Study (MAACS)
+
+* Study subjects: Children with asthma living in Baltimore City, many
+  allergic to mouse allergen
+
+* Design: Observational study, baseline home visit + every 3 months for a year.
+
+* Question: How does indoor airborne mouse allergen vary over time and
+  across subjects?
+
+
+[Ahluwalia et al., *Journal of Allergy and Clinical Immunology*, 2013](http://www.ncbi.nlm.nih.gov/pubmed/23810154)
+
+---
+
+### Many Panel Lattice Plot
+
+![plot of chunk unnamed-chunk-8](figure/unnamed-chunk-8.png) 
+
+
+---
+
+### Summary
+
+* Lattice plots are constructed with a single function call to a core
+  lattice function (e.g. `xyplot`)
+
+* Aspects like margins and spacing are automatically handled and
+  defaults are usually sufficient
+
+* The lattice system is ideal for creating conditioning plots where
+  you examine the same kind of plot under many different conditions
+
+* Panel functions can be specified/customized to modify what is
+  plotted in each of the plot panels
