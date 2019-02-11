@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  "Dliberate Practice - The Benjamin Franklin Method 2"
+title:  "Deliberate Practice - The Benjamin Franklin Method 2"
 date:    26-12-2018 
 categories: posts
 tags: 

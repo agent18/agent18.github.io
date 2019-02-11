@@ -4108,7 +4108,6 @@ dev.set(2)
 [1] X11cairo
      2
 ```
----
 
 ### Copying Plots; display and save plots
 
@@ -4145,7 +4144,7 @@ As part of assignment,
 
 ``` R
 plot(df$DateTime, df$Sub_metering_1, type="l", col="black", ylab="Energy sub metering",xlab="")
-lines(df$DateTime, df$Sub_metering_2, type="l", col="red")
+	lines(df$DateTime, df$Sub_metering_2, type="l", col="red")
 lines(df$DateTime, df$Sub_metering_3, type="l", col="blue")
 legend("topright",c("Sub_metering_1","Sub_metering_2","Sub_metering_3"),col=c("black","red","blue"),lty=1:3, cex=0.8)
 
@@ -4261,7 +4260,7 @@ xyplot(Ozone ~ Wind | Month, data = airquality, layout = c(5, 1))
 **transform** can be used or:
 
 ```R
-
+airquality$Month <- as.factor(airquality$Month)
 ```
 
 ---
@@ -4306,10 +4305,7 @@ xyplot(Ozone ~ Wind, data = airquality)  ## Auto-printing
   in their panel (along with any optional arguments)
 
 
----
-
-### Lattice Panel Functions
-
+**Simple XY plots for case with xy related and not related**
 
 ```r
 set.seed(10)
@@ -4320,13 +4316,7 @@ f <- factor(f, labels = c("Group 1", "Group 2"))
 xyplot(y ~ x | f, layout = c(2, 1))  ## Plot with 2 panels
 ```
 
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
-
-
----
-
-### Lattice Panel Functions
-
+**Custom panel function: Each window can have similar features**
 
 ```r
 ## Custom panel function
@@ -4336,8 +4326,7 @@ xyplot(y ~ x | f, panel = function(x, y, ...) {
 })
 ```
 
-![plot of chunk unnamed-chunk-6](figure/unnamed-chunk-6.png) 
-
+Can view large amount of data as shown [here](https://github.com/jtleek/modules/blob/master/04_ExploratoryAnalysis/PlottingLattice/figure/unnamed-chunk-8.png)
 
 ---
 
@@ -4351,11 +4340,6 @@ xyplot(y ~ x | f, panel = function(x, y, ...) {
     panel.lmline(x, y, col = 2)  ## Overlay a simple linear regression line
 })
 ```
-
-![plot of chunk unnamed-chunk-7](figure/unnamed-chunk-7.png) 
-
-
----
 
 ### Many Panel Lattice Plot: Example from MAACS
 
@@ -4372,15 +4356,6 @@ xyplot(y ~ x | f, panel = function(x, y, ...) {
 
 [Ahluwalia et al., *Journal of Allergy and Clinical Immunology*, 2013](http://www.ncbi.nlm.nih.gov/pubmed/23810154)
 
----
-
-### Many Panel Lattice Plot
-
-![plot of chunk unnamed-chunk-8](figure/unnamed-chunk-8.png) 
-
-
----
-
 ### Summary
 
 * Lattice plots are constructed with a single function call to a core
@@ -4394,3 +4369,580 @@ xyplot(y ~ x | f, panel = function(x, y, ...) {
 
 * Panel functions can be specified/customized to modify what is
   plotted in each of the plot panels
+## GGPlot2 - mainly qplot()
+
+### What is ggplot2?
+
+- An implementation of _The Grammar of Graphics_ by Leland Wilkinson
+- Written by Hadley Wickham (while he was a graduate student at Iowa State)
+- A “third” graphics system for R (along with __base__ and __lattice__)
+- Available from CRAN via `install.packages()`
+- Web site: http://ggplot2.org (better documentation)
+
+---
+
+### What is ggplot2?
+
+- Grammar of graphics represents an abstraction of graphics ideas/objects
+- Think “verb”, “noun”, “adjective” for graphics
+- Allows for a “theory” of graphics on which to build new graphics and graphics objects
+- “Shorten the distance from mind to page”
+
+---
+
+### Grammer of Graphics
+
+“In brief, the grammar tells us that a statistical graphic is a
+__mapping__ from data to __aesthetic__ attributes (colour, shape,
+size) of __geometric__ objects (points, lines, bars). The plot may
+also contain statistical transformations of the data and is drawn on a
+specific coordinate system”
+
+
+### Plotting Systems in R: Base
+
+- “Artist’s palette” model
+- Start with blank canvas and build up from there
+- Start with `plot` function (or similar)
+- Use annotation functions to add/modify (`text`, `lines`, `points`, `axis`)
+
+---
+
+### Plotting Systems in R: Base
+
+- Convenient, mirrors how we think of building plots and analyzing data
+- Can’t go back once plot has started (i.e. to adjust margins); need to plan in advance
+- Difficult to “translate” to others once a new plot has been created (no graphical “language”)
+  - Plot is just a series of R commands
+
+---
+
+### Plotting Systems in R: Lattice
+
+- Plots are created with a single function call (`xyplot`, `bwplot`, etc.)
+- Most useful for conditioning types of plots: Looking at how $y$ changes with $x$ across levels of $z$
+- Things like margins/spacing set automatically because entire plot is specified at once
+- Good for putting many many plots on a screen
+
+---
+
+### Plotting Systems in R: Lattice
+
+- Sometimes awkward to specify an entire plot in a single function call
+- Annotation in plot is not intuitive
+- Use of panel functions and subscripts difficult to wield and requires intense preparation
+- Cannot “add” to the plot once it’s created
+
+---
+
+### Plotting Systems in R: ggplot2
+
+- Split the difference between base and lattice
+- Automatically deals with spacings, text, titles but also allows you to annotate by “adding”
+- Superficial similarity to lattice but generally easier/more intuitive to use
+- Default mode makes many choices for you (but you _can_ customize!)
+
+---
+
+### The Basics: `qplot()`
+
+- Works much like the `plot` function in base graphics system
+- Looks for data in a data frame, similar to lattice, or in the parent environment
+- Plots are made up of _aesthetics_ (size, shape, color) and _geoms_ (points, lines)
+
+---
+
+### The Basics: `qplot()`
+
+- Factors are important for indicating subsets of the data (if they are to have different properties); they should be __labeled__
+- The `qplot()` hides what goes on underneath, which is okay for most operations
+- `ggplot()` is the core function and very flexible for doing things `qplot()` cannot do
+
+---
+
+### Example Dataset
+
+
+```r
+library(ggplot2)
+str(mpg)
+```
+
+```
+'data.frame':	234 obs. of  11 variables:
+ $ manufacturer: Factor w/ 15 levels "audi","chevrolet",..: 1 1 1 1 1 1 1 1 1 1 ...
+ $ model       : Factor w/ 38 levels "4runner 4wd",..: 2 2 2 2 2 2 2 3 3 3 ...
+ $ displ       : num  1.8 1.8 2 2 2.8 2.8 3.1 1.8 1.8 2 ...
+ $ year        : int  1999 1999 2008 2008 1999 1999 2008 1999 1999 2008 ...
+ $ cyl         : int  4 4 4 4 6 6 6 4 4 4 ...
+ $ trans       : Factor w/ 10 levels "auto(av)","auto(l3)",..: 4 9 10 1 4 9 1 9 4 10 ...
+ $ drv         : Factor w/ 3 levels "4","f","r": 2 2 2 2 2 2 2 1 1 1 ...
+ $ cty         : int  18 21 20 21 16 18 18 18 16 20 ...
+ $ hwy         : int  29 29 31 30 26 26 27 26 25 28 ...
+ $ fl          : Factor w/ 5 levels "c","d","e","p",..: 4 4 4 4 4 4 4 4 4 4 ...
+ $ class       : Factor w/ 7 levels "2seater","compact",..: 2 2 2 2 2 2 2 2 2 2 ...
+```
+
+
+
+---
+
+### ggplot2 “Hello, world!”
+
+
+```r
+qplot(displ, hwy, data = mpg)
+```
+
+<div class="rimage center"><img src="fig/unnamed-chunk-2.png" title="plot of chunk unnamed-chunk-2" alt="plot of chunk unnamed-chunk-2" class="plot" /></div>
+
+
+---
+
+### Modifying aesthetics
+
+
+```r
+qplot(displ, hwy, data = mpg, color = drv)
+```
+
+<div class="rimage center"><img src="fig/unnamed-chunk-3.png" title="plot of chunk unnamed-chunk-3" alt="plot of chunk unnamed-chunk-3" class="plot" /></div>
+
+
+
+---
+
+### Adding a geom
+
+
+```r
+qplot(displ, hwy, data = mpg, geom = c("point", "smooth"))
+```
+
+<div class="rimage center"><img src="fig/unnamed-chunk-4.png" title="plot of chunk unnamed-chunk-4" alt="plot of chunk unnamed-chunk-4" class="plot" /></div>
+
+
+---
+
+### Histograms
+
+
+```r
+qplot(hwy, data = mpg, fill = drv)
+```
+
+<div class="rimage center"><img src="fig/unnamed-chunk-5.png" title="plot of chunk unnamed-chunk-5" alt="plot of chunk unnamed-chunk-5" class="plot" /></div>
+
+
+
+
+---
+
+### Facets
+
+Splits figure into as many based on the variable, for example months!
+
+```r
+qplot(displ, hwy, data = mpg, facets = . ~ drv)
+qplot(hwy, data = mpg, facets = drv ~ ., binwidth = 2)
+```
+
+<div class="rimage center"><img src="fig/unnamed-chunk-61.png" title="plot of chunk unnamed-chunk-6" alt="plot of chunk unnamed-chunk-6" class="plot" />
+<img src="fig/unnamed-chunk-62.png" title="plot of chunk unnamed-chunk-6" alt="plot of chunk unnamed-chunk-6" class="plot" /></div>
+
+
+---
+
+### MAACS Cohort
+
+- Mouse Allergen and Asthma Cohort Study
+- Baltimore children (aged 5—17)
+- Persistent asthma, exacerbation in past year
+- Study indoor environment and its relationship with asthma morbidity
+- Recent publication: http://goo.gl/WqE9j8
+
+
+
+
+---
+
+### Example: MAACS
+
+
+```r
+str(maacs)
+```
+
+```
+'data.frame':	750 obs. of  5 variables:
+ $ id       : int  1 2 3 4 5 6 7 8 9 10 ...
+ $ eno      : num  141 124 126 164 99 68 41 50 12 30 ...
+ $ duBedMusM: num  2423 2793 3055 775 1634 ...
+ $ pm25     : num  15.6 34.4 39 33.2 27.1 ...
+ $ mopos    : Factor w/ 2 levels "no","yes": 2 2 2 2 2 2 2 2 2 2 ...
+```
+
+
+
+---
+
+### Histogram of eNO
+
+
+```r
+qplot(log(eno), data = maacs)
+```
+
+<div class="rimage center"><img src="fig/unnamed-chunk-9.png" title="plot of chunk unnamed-chunk-9" alt="plot of chunk unnamed-chunk-9" class="plot" /></div>
+
+
+---
+
+### Histogram by Group
+
+
+```r
+qplot(log(eno), data = maacs, fill = mopos)
+```
+
+<div class="rimage center"><img src="fig/unnamed-chunk-10.png" title="plot of chunk unnamed-chunk-10" alt="plot of chunk unnamed-chunk-10" class="plot" /></div>
+
+
+---
+
+### Density Smooth
+
+
+```r
+qplot(log(eno), data = maacs, geom = "density")
+qplot(log(eno), data = maacs, geom = "density", color = mopos)
+```
+
+<div class="rimage center"><img src="fig/unnamed-chunk-111.png" title="plot of chunk unnamed-chunk-11" alt="plot of chunk unnamed-chunk-11" class="plot" />
+<img src="fig/unnamed-chunk-112.png" title="plot of chunk unnamed-chunk-11" alt="plot of chunk unnamed-chunk-11" class="plot" /></div>
+
+
+---
+
+### Scatterplots: eNO vs. PM$_{2.5}$
+
+
+```r
+qplot(log(pm25), log(eno), data = maacs)
+qplot(log(pm25), log(eno), data = maacs, shape = mopos)
+qplot(log(pm25), log(eno), data = maacs, color = mopos)
+```
+
+<div class="rimage center"><img src="fig/unnamed-chunk-121.png" title="plot of chunk unnamed-chunk-12" alt="plot of chunk unnamed-chunk-12" class="plot" />
+<img src="fig/unnamed-chunk-122.png" title="plot of chunk unnamed-chunk-12" alt="plot of chunk unnamed-chunk-12" class="plot" />
+<img src="fig/unnamed-chunk-123.png" title="plot of chunk unnamed-chunk-12" alt="plot of chunk unnamed-chunk-12" class="plot" /></div>
+
+
+
+---
+
+### Scatterplots: eNO vs. PM$_{2.5}$
+
+
+```r
+qplot(log(pm25), log(eno), data = maacs, color = mopos, 
+      geom = c("point", "smooth"), method = "lm")
+```
+
+<div class="rimage center"><img src="fig/unnamed-chunk-13.png" title="plot of chunk unnamed-chunk-13" alt="plot of chunk unnamed-chunk-13" class="plot" /></div>
+
+
+
+---
+
+### Scatterplots: eNO vs. PM$_{2.5}$
+
+
+```r
+qplot(log(pm25), log(eno), data = maacs, geom = c("point", "smooth"), 
+      method = "lm", facets = . ~ mopos)
+```
+
+<div class="rimage center"><img src="fig/unnamed-chunk-14.png" title="plot of chunk unnamed-chunk-14" alt="plot of chunk unnamed-chunk-14" class="plot" /></div>
+
+
+
+---
+
+### Summary of qplot()
+
+- The `qplot()` function is the analog to `plot()` but with many built-in features
+- Syntax somewhere in between base/lattice
+- Produces very nice graphics, essentially publication ready (if you like the design)
+- Difficult to go against the grain/customize (don’t bother; use full ggplot2 power in that case)
+
+---
+
+### Resources
+
+- The _ggplot2_ book by Hadley Wickham
+- The _R Graphics Cookbook_ by Winston Chang (examples in base plots and in ggplot2)
+- ggplot2 web site (http://ggplot2.org)
+- ggplot2 mailing list (http://goo.gl/OdW3uB), primarily for
+  developers
+## ggplot2 part 2
+
+
+
+
+
+### Basic Components of a ggplot2 Plot
+- A _data frame_
+- _aesthetic mappings_: how data are mapped to color, size 
+- _geoms_: geometric objects like points, lines, shapes. 
+- _facets_: for conditional plots. 
+- _stats_: statistical transformations like binning, quantiles, smoothing. 
+- _scales_: what scale an aesthetic map uses (example: male = red, female = blue). 
+- _coordinate system_ 
+
+---
+
+### Building Plots with ggplot2
+- When building plots in ggplot2 (rather than using qplot) the “artist’s palette” model may be the closest analogy
+- Plots are built up in layers
+  - Plot the data
+  - Overlay a summary
+  - Metadata and annotation
+
+---
+
+### Example: BMI, PM$_{2.5}$, Asthma
+- Mouse Allergen and Asthma Cohort Study
+- Baltimore children (age 5-17)
+- Persistent asthma, exacerbation in past year
+- Does BMI (normal vs. overweight) modify the relationship between PM$_{2.5}$ and asthma symptoms?
+
+
+
+
+---
+
+### Basic Plot
+
+
+```r
+library(ggplot2)
+qplot(logpm25, NocturnalSympt, data = maacs, facets = . ~ bmicat, 
+      geom = c("point", "smooth"), method = "lm")
+```
+
+---
+
+### Building Up in Layers
+
+
+```r
+head(maacs)
+```
+
+```
+  logpm25        bmicat NocturnalSympt logno2_new
+1  1.5362 normal weight              1      1.299
+2  1.5905 normal weight              0      1.295
+3  1.5218 normal weight              0      1.304
+4  1.4323 normal weight              0         NA
+5  1.2762    overweight              8      1.108
+6  0.7139    overweight              0      0.837
+```
+
+```r
+g <- ggplot(maacs, aes(logpm25, NocturnalSympt))
+summary(g)
+```
+
+```
+data: logpm25, bmicat, NocturnalSympt, logno2_new [554x4]
+mapping:  x = logpm25, y = NocturnalSympt
+faceting: facet_null() 
+```
+
+### No Plot Yet!
+
+
+```r
+g <- ggplot(maacs, aes(logpm25, NocturnalSympt))
+print(g)
+```
+
+```
+Error: No layers in plot
+```
+
+
+---
+
+### First Plot with Point Layer
+
+
+```r
+g <- ggplot(maacs, aes(logpm25, NocturnalSympt))
+g + geom_point()
+```
+
+---
+
+### Adding More Layers: Smooth geom
+
+
+```r
+g + geom_point() + geom_smooth()
+g + geom_point() + geom_smooth(method = "lm")
+```
+
+
+### Adding More Layers: Facets
+
+
+```r
+g + geom_point() + facet_grid(. ~ bmicat) + geom_smooth(method = "lm")
+```
+
+---
+
+### Annotation
+- Labels: `xlab()`, `ylab()`, `labs()`, `ggtitle()`
+- Each of the “geom” functions has options to modify 
+- For things that only make sense globally, use `theme()` 
+  - Example: `theme(legend.position = "none")` 
+- Two standard appearance themes are included
+  - `theme_gray()`: The default theme (gray background)
+  - `theme_bw()`: More stark/plain 
+
+---
+
+### Modifying Aesthetics
+
+
+```r
+g + geom_point(color = "steelblue", size = 4, alpha = 1/2)
+g + geom_point(aes(color = bmicat), size = 4, alpha = 1/2)
+```
+
+
+---
+
+### Modifying Labels
+
+
+```r
+g + geom_point(aes(color = bmicat)) + labs(title = "MAACS Cohort") + 
+  labs(x = expression("log " * PM[2.5]), y = "Nocturnal Symptoms")
+```
+
+---
+
+### Customizing the Smooth
+
+
+```r
+g + geom_point(aes(color = bmicat), size = 2, alpha = 1/2) + 
+  geom_smooth(size = 4, linetype = 3, method = "lm", se = FALSE)
+```
+
+<div class="rimage center"><img src="fig/unnamed-chunk-10.png" title="plot of chunk unnamed-chunk-10" alt="plot of chunk unnamed-chunk-10" class="plot" /></div>
+
+
+---
+
+### Changing the Theme
+
+
+```r
+g + geom_point(aes(color = bmicat)) + theme_bw(base_family = "Times")
+```
+
+<div class="rimage center"><img src="fig/unnamed-chunk-11.png" title="plot of chunk unnamed-chunk-11" alt="plot of chunk unnamed-chunk-11" class="plot" /></div>
+
+
+---
+
+### A Note about Axis Limits
+
+
+```r
+testdat <- data.frame(x = 1:100, y = rnorm(100))
+testdat[50,2] <- 100  ## Outlier!
+plot(testdat$x, testdat$y, type = "l", ylim = c(-3,3))
+
+g <- ggplot(testdat, aes(x = x, y = y))
+g + geom_line()
+```
+
+<div class="rimage center"><img src="fig/unnamed-chunk-121.png" title="plot of chunk unnamed-chunk-12" alt="plot of chunk unnamed-chunk-12" class="plot" />
+<img src="fig/unnamed-chunk-122.png" title="plot of chunk unnamed-chunk-12" alt="plot of chunk unnamed-chunk-12" class="plot" /></div>
+
+
+---
+
+### Axis Limits
+
+
+```r
+g + geom_line() + ylim(-3, 3)
+g + geom_line() + coord_cartesian(ylim = c(-3, 3))
+```
+
+<div class="rimage center"><img src="fig/unnamed-chunk-131.png" title="plot of chunk unnamed-chunk-13" alt="plot of chunk unnamed-chunk-13" class="plot" />
+<img src="fig/unnamed-chunk-132.png" title="plot of chunk unnamed-chunk-13" alt="plot of chunk unnamed-chunk-13" class="plot" /></div>
+
+
+
+---
+
+### More Complex Example
+- How does the relationship between PM$_{2.5}$ and nocturnal symptoms vary by BMI and NO$_2$?
+- Unlike our previous BMI variable, NO$_2$ is continuous
+- We need to make NO$_2$ categorical so we can condition on it in the plotting
+- Use the `cut()` function for this
+
+---
+
+### Making NO$_2$ Tertiles
+
+
+```r
+## Calculate the tertiles of the data
+cutpoints <- quantile(maacs$logno2_new, seq(0, 1, length = 4), na.rm = TRUE)
+
+## Cut the data at the tertiles and create a new factor variable
+maacs$no2tert <- cut(maacs$logno2_new, cutpoints)
+
+## See the levels of the newly created factor variable
+levels(maacs$no2tert)
+```
+
+```
+[1] "(0.378,1.2]" "(1.2,1.42]"  "(1.42,2.55]"
+```
+
+
+---
+
+### Code for Final Plot
+
+
+```r
+## Setup ggplot with data frame
+g <- ggplot(maacs, aes(logpm25, NocturnalSympt))
+
+## Add layers
+g + geom_point(alpha = 1/3) + 
+  facet_wrap(bmicat ~ no2tert, nrow = 2, ncol = 4) + 
+  geom_smooth(method="lm", se=FALSE, col="steelblue") + 
+  theme_bw(base_family = "Avenir", base_size = 10) + 
+  labs(x = expression("log " * PM[2.5])) + 
+  labs(y = "Nocturnal Symptoms") + 
+  labs(title = "MAACS Cohort")
+```
+
+
+---
+
+### Summary
+- ggplot2 is very powerful and flexible if you learn the “grammar” and the various elements that can be tuned/modified
+- Many more types of plots can be made; explore and mess around with the package (references mentioned in Part 1 are useful)
