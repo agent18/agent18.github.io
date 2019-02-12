@@ -189,28 +189,6 @@ P: this will do jack sit to your performance
 
 E: You will NEVER be better than your peers.
 
-So every Sunday I play basketball with my friends. Mostly I suck and
-people make fun of it, especially when you make air balls or miss a
-silly ass layup when you are so close to the basket. Whilst this is
-me, my friends, almost all of them, have very good shooting percentage
-and good range from where they can shoot. I would like to be atleast
-as good as them [2]. In order to become better (become atleast as good
-as them), I go to the court on Saturdays and "practice". (I start with
-shooting from different places randomly (roughly 20 shots) and then
-try 5 spin moves, and then move on to left handed layups)[3] and
-continue something like this for about 2 hrs and (feel happy that I am
-going to be as good as my friends in a year or two)[4]. At no point
-did I consider feedback, in terms of shot percentage or if my form was
-different every time, if I need to shoot higher or farther, what angle
-should I release the ball in etc... The author of the book hosts a
-similar example of how he "practiced" with golf balls. (So, he was
-hitting a few 100 balls)[5]. That's it. He didn't make any note or
-consciously give him feedback about how much power he needs to give
-and what angle he needs to hit the ball, and where he needs to hit the
-ball. The author says with conviction that this practice will not
-improve the performance noticeably, i.e. (you will NEVER be better
-than your peers)[6], ever.
-
 ---
 
 > The idea of deliberate practice (DP) is quite different from the
@@ -226,74 +204,65 @@ than your peers)[6], ever.
 > intellectual, such as chess or business-related activities)[5], or
 > (heavily physical, such as sports;)[6] and (it isn’t much fun)[7].
 
+P: specifically to improve performance
 
-**Rule #1:** Except [6] none of them seem to have an example
-associated with it. Although they are explained in the coming
-sections, it would still be useful to see them in one or two examples
-just like in [6].
-
-**Rule #2:** The rewrite is as follows:
-
-Deliberate practice is characterized by several elements, each worth
-examining. It is activity designed (specifically to improve
-performance)[1], often with a teacher’s help; (it can be repeated a
-lot)[2]; (feedback on results is continuously available)[3]; (it’s
-highly demanding mentally)[4], (whether the activity is purely
-intellectual, such as chess or business-related activities)[5], or
-(heavily physical, such as sports;)[6] and (it isn’t much fun)[7].
-
-You want to be a better basket ball player. How do you do that? You
+E: You want to be a better basket ball player. How do you do that? You
 first need to identify spaces where you suck, example, shooting, lay
 ups, ballhandling, passing, court vision, team playing etc... Lets for
 now say we want to improve shooting, we need to design an activity
 that will specifically improve that. We saw earlier how I had designed
 an activity to improve shooting. I shot from random places, and did
 less than 20 shots and moved on to something else. That is surely
-designed by me but not to improve performance. The design should be
-such that it actually improves your performance. There is a huge body
-of knowledge about the mechanics, the form and the way to do the
+designed by me but not to improve performance.There is a huge body of
+knowledge about the mechanics, the form and the way to do the
 practice, which is available and usually works better in the presence
 of a teacher as sometimes you are not able to see your own
 problems. Initially I never realised that I was shooting with all
 sorts of forms. Everytime I shot it was different. This was pointed to
 me by my teacher and I have been working on maintaining form.
 
-So when you practice, you need to have feedback continuously. So for
-example, when I am practicing shooting, I look at the parameter of
-shooting percentage and log it every week when I practice. So I know
-if I am getting better or if I suck, so I can take some additional
-step to keep improving. In addition I train with a friend who gives me
-critical feedback, laughs at me when I suck. So, Feedback.
+P: it can be repeated a lot
 
-It can be repeated a lot. The pathetic practice I had designed earlier
-seriously missed out on this. I shot 20 times from different
-places. Instead I should shot 20-100 times from the same place over
-and over again.
+E: The pathetic practice I had designed earlier seriously missed out
+on this. I shot 20 times from different places. Instead I should shot
+20-100 times from the same place over and over again.
 
-It's highly demanding mentally. It is quite a mental load to
-practice. You are physically tired and you still need to keep
-grinding. Yesterday I was practicing this spin move and wanted to do
-it 20 times. By the 10th time, I felt like I wanted to stop, but I
-needed to keep grinding. So I had to push myself to do more. I was
-practicing some shooting and I was sucking so hard, but I still needed
-to keep grinding over all the negativity. I have put in so much hard
-work over the last many weeks and the extent to which I sucked was
-incredible. I was tired, my arms cound't do it and I forced myself to
-do those 100 shots from close to the 3-point-line. This is what I
-think of when something is mentally demanding.
+P: feedback on results is continuously available
 
-It isn't much fun. It is nice to see that you are improving, but the
-improvement is so slow. If I could I would never want to practice, I
-just like playing the games. But then you suck at the game, when you
-don't practice. And you need to push your self more than you are
-capable of, i.e, make 20 spin moves even though you are getting
-breathless at the end of 10.
+E: When I am practicing shooting, I look at the parameter of shooting
+percentage and log it every week when I practice. So I know if I am
+getting better or if I suck, so I can take some additional step to
+keep improving. In addition I train with a friend who gives me
+critical feedback, laughs at me when I suck. In addition on game night
+you clearly see if practice is helping you or not.
 
+P: it's highly demanding mentally
 
-You need to push yourself, you need to keep at it for many many many
-weeks before you see little progress. Somedays you try so much but you
-still are not good enough, you still need to keep at it with the focus
-on the larger goal.
+E: It is quite a mental load to practice. You are physically tired and
+you still need to keep grinding. Yesterday I was practicing this spin
+move and wanted to do it 20 times. By the 10th time, I felt like I
+wanted to stop, but I needed to keep grinding. So I had to push myself
+to do more. I was practicing some shooting and I was sucking so hard,
+but I still needed to keep grinding over all the negativity. I have
+put in so much hard work over the last many weeks and the extent to
+which I sucked was incredible. I was tired, my arms cound't do it and
+I forced myself to do those 100 shots from close to the
+3-point-line. This is what I think of when something is mentally
+demanding.
+
+P: whether the activity is purely intellectual
+
+E: "such as chess or business-related activities"
+
+P: heavily physical
+
+E: "Sports"
+
+P: It isn't much fun
+
+E: Shizuka Arakawa, gold medal in figure skating, had fallen on ice
+with her ass atleast 20000 times. It did get her the gold medal after
+years and years of practice though.
 
 ---
 
@@ -306,69 +275,68 @@ on the larger goal.
 > isolate each one of them)[5] and (work on them)[6] until they have
 > (seen sufficient improvement before moving on to the next
 > aspect)[7].
->
+
+P: sharply defined elements that need improvement
+
+E: shooting 3 pointers, or delivering spin moves
+
+P: work on them intently
+
+E: [Kobe Bryant the legend](https://uproxx.com/dimemag/kobe-bryant-story-jay-williams-playoff-workout/2/) who quits practicing only [after he
+makes 400 shots](https://www.businessinsider.nl/kobe-bryant-insane-work-ethic-2013-8/?international=true&r=US) (around 3 hrs of only shooting)
+
+P: they stretch your current abilities [4]
+
+E: Jerry Rice's off-season workout was known for being extremely
+strenuous and no-one else completed his workouts, it was that tough.
+
+P: see a couple of issues and isolate each one of them
+
+E:  Benjamin Franklin understood from his father that
+his work stinks. His father pointed out a few of his flaws. One of the
+issues was that he had poor vocabulary, so he designed his practice
+only and just for that. Another for organization of the prose etc...
+
+P: work on them
+
+E: BF found the best work, made notes on it, a few days later he would
+make his own version and compare it to original.
+
+P: seen sufficient improvement before moving on to the next aspect [7]
+
+E: In basketball, currently I would be happy if I reached 60%
+shooting percentage every week in practice before adding other aspects
+to my practice, such as shooting when there is a defender etc..
+
 > It is recommended by the author that they(practices) are done with
 > the guidance of a teacher. In case we think that we have outgrown
 > the benefits of a teachers help, (the author suggests to atleast
 > give it another thought)[8].
->
+
+P: the author suggests to atleast give it another thought
+
+E: Ben Franklin's teacher was the writings of Spectator, some work
+that is clearly of a higher class than what he was capable of doing.
+
 > While learning, it is ideal (to be in the zone where we are just
 > beyond our comfort zone)[9] (which makes us stretch our
 > abilities)[10]. And it probably (is quite motivating instead of
 > being a daunting task to approach)[11].
 
+P: to be in the zone where we are just beyond our comfort zone; which
+makes us stretch our abilities; is quite motivating instead of being a
+daunting task to approach...
 
-**Rule #1:** It looks like [2-10] highlighted statements need
-'example' explanations.
-
-
-**Rule #2:** The re-write is as follows.
-
-During DP, one must identify certain sharlpy defined elements like
-shooting or spin moves in basketball, that need improvement [2] and
-work on them intently like [Kobe Bryant the legend](https://uproxx.com/dimemag/kobe-bryant-story-jay-williams-playoff-workout/2/) who quits
-practicing only [after he makes 400 shots](https://www.businessinsider.nl/kobe-bryant-insane-work-ethic-2013-8/?international=true&r=US) (around 3 hrs of only
-shooting)[3]. These practices should be designed in such a way that
-they stretch your current abilities, like Jerry Rice's practice
-regimen in the off season, where he would literally be training the
-whole day so that his conditioning is improving during the
-games[4]. The great performers, see a couple of issues and isolate
-each one of them. Benjamin Franklin understood from his father that
-his work stinks. His father pointed out a few of his flaws. One of the
-issues was that he had poor vocabulary, so he designed his practice
-only and just for that [5]. He found the best work, made notes on it,
-a few days later he would make his own version and compare it to
-original. You would work on it until you see sufficient improvement
-before moving on to the next aspect. So in basketball, currently I
-would be happy if I reached 60% shooting percentage every week in
-practice before adding other aspects to my practice, such as shooting
-when there is a defender etc...[6,7]
-
-It is recommended by the author that the practices are done with the
-guidance of a teacher. In case we think that we have outgrown the
-benefits of a teacher, the author suggest to atleast give it another
-thought. The benefits of having a teacher cannot be stressed
-enough. But for the things we are working on it might either not be
-possible or too pricy to have our own teacher. Nevertheless Ben
-Franklin's teacher was the writings of Spectator, some work that is
-clearly of a higher class than what you are capable of doing [8].
-
-While learning, it is ideal to be in the zone where we are just beyond
-our comfort zone which makes us stretch our abilities. I get easily
-gased out when I make a run or follow a defender. And it is important
-to be better than the other player to outrun him. To prep for this, it
-might be a good idea to do interval training at the gym on the
-treadmill or biking. The stat that I use to check the performance of
-the day is average-heart-rate. I know what I AHR I can reach easily
-161bpm over 20 mins. If I stick to that every day there will be no
-improvement. I need to push myself to a much higher AHR. So I give
-myself a goal that will be much harder to achieve 175bpm, so much so
-that the last 2 mins will be hell. For sure setting a goal for AHR to
-be 175 BPM is pushing it way too much. But 165 bpm already is
-challenging enough and just outside my comfort zone. If I really
+E: I can reach easily bike with an average-heart-rate (AHR) 161bpm
+over 20 mins. If I stick to that every day there will be no
+improvement. I need to push myself to a much higher AHR. 175 bpm is
+too hard, so much so that the I am crying every minute and it becomes
+so replusive to pick up such a task later. On the other hand 165bpm is
+just outside my comfort zone and is challenging enough. If I really
 wanted to train to be the best of the best of the best, I should be
 going for 175bpm, but it drastically tones down the motivation and it
-becemes such a daunting task. [9..11]
+becomes such a daunting task especially after surviving a grueling
+weight training workout.
 
 ---
 
@@ -387,12 +355,17 @@ becemes such a daunting task. [9..11]
 > at night.
 >
 
-**Rule #1:** Examples of [1] are already given in the earlier
-cases. Examples of [2] are provided in the next paragraph.
+P: Isolation of the specific space where you need to improve is key
 
-**Rule #2:** No re-write required.
+E: One of the important aspects of "critical thinking" is to see all
+words as clear cut examples and not as vague sentences. Identifying
+where examples are needed and providing them is the skill
 
-25 phrases done up until now.
+P: followed by a lot of repetition
+
+E: identifying where examples are needed and providing them for 200 phrases.
+
+ <!-- 25 phrases done up until now. -->
 
 ---
 
@@ -411,89 +384,100 @@ cases. Examples of [2] are provided in the next paragraph.
 > followed by correction before publishing it.
 
 
+P: to see progress and get feedback
 
-**Rule #1:** It looks like [5] is only one has examples.
+E: if you are able to life more weight the next time you go to the gym
+
+P: stop getting any better and stop caring about the end
+
+E: If you don't get better at the gym, then you start to question what
+you are doing here, if this is really for you etc... Will you ever be
+able to lift 100kg?
+
+P: Feedback is extremely crucial to feel motivated
+
+E: I mainly care about the games I play on sunday. Based on how I suck
+and where all I suck I feel the motivation to come back every saturday
+and Grind. This week I sucked so hard I want to up my fucking practice
+like that of the [Kobe Bryant the legend](https://uproxx.com/dimemag/kobe-bryant-story-jay-williams-playoff-workout/2/). There was a time when
+for three weeks I didn't really get to play the sunday games, I am
+sure I contemplated not going to train on saturdays. I was like, "I
+mean whats the point of going and grinding"). Not this saturday, not
+last saturday.
+
+P: Sometime results might need interpretation; 
+
+E: Its easy to fool yourself that you played "well" today. If you
+scored the last basket, you usually feel good. For a better
+understanding of how well you actually performed, you need to look at
+some sort of statistics like how many points you scored per game or
+what was your field goal percentage or even compliments from your
+peers (I love these, gaining peoples respect!)
+
+P: trusting your own judgment might not really be the best way to go
+about it
+
+E: Is the blog post clear to a new reader? Will people get the main
+idea? Is it organized well? Paul Graham for example, appears to take
+this very seriously. Before he publishes a post, he runs atleast a few
+loops of getting feedback from his friends followed by correction
+before publishing it. #PG
 
 
-**Rule #2:** re-writing...
-
-Following all this, one can work on his technique but it is very
-important to see progress and get feedback, such as if you are able to
-lift more weight than the last time you went to the gym [1]. Otherwise
-one will stop getting any better and stop caring about the end goal
-[2]. Feedback is extremely crucial to feel motivated[3]. For instance,
-I mainly care about how well I do on the sunday games. Based on how I
-suck or where all I suck, I work on them the next week saturday. But
-without the Sunday Games I am nothing. The Sunday games give me the
-ultimate true feedback about if I suck or not and gives me the real
-motivation to get back on saturday to practice. There was a time when
-for 3 weeks I didn't really play on Sunday, and I felt it was quite
-hard to come to practice, I was even contemplating not going to the
-gym [2,3]. Feedback is king.
-
-Sometimes results might need interpretation [4] and trusting your own
-judgment might not really be the best way to go about it [5]. Its easy
-to fool yourself that you played "well" today. If you scored the last
-basket, you usually feel good. For a better understanding of how well
-you actually performed, you need to look at some sort of statistics
-like how many points you scored per game or what was your field goal
-percentage [4,5]. Is the blog post clear to a new reader? Will people
-get the main idea? Is it organized well? Paul Graham for example,
-appears to take this very seriously. Before he publishes a post, he
-runs atleast a few loops of getting feedback from his friends followed
-by correction before publishing it.
-
-
-30.
+<!-- 30. -->
 
 
 ---
 
 > It is painful
 >
-> I can imagine working on things like (my sentence
-> construction)[1]. I know (I don’t make the best
-> sentences)[2]. (First I would need to identify good sentences and
-> maybe try to emulate them in other works consciously)[3]. This could
-> be qualified as DP. But the shear repulsion to that activity is
-> huge, and pushing through all of it for maybe atleast 10k sentences,
-> makes it painful I think. The violinists from the Ericsson
-> experiment stated practice as the least fun activity in their daily
-> life.
->
+> I can imagine working on things like (improving writing)[1]. I know
+> (I suck as I read my essays)[2]. (First I would need to identify
+> good sentences and maybe try to emulate them in other works
+> consciously)[3]. This could be qualified as DP. But the shear
+> (repulsion to that activity is huge)[4], and pushing through all of it
+> for maybe atleast 10k sentences, makes it painful I think. The
+> violinists from the Ericsson experiment stated practice as the least
+> fun activity in their daily life.
 
-**Rule #1:**
+P: improving writing
 
+E: Looking at better-text in comparison to your work and trying to
+imitate it.
 
+P: I suck at writing
 
-**Rule #2:**
+E: lot of grammatical errors and missing words; not a delight to read
+like [this](http://pradeep90.github.io/Revenge-or-Grow.html).
 
-It is painful, it is a mental strain. It is not fun. Today as I am
-making this exercise, it is hard. Generating examples of all kinds,
-knowing that I might not really make the goal of 200, and pushing
-myself to still make it is all the strain mentally. It cannot be fun,
-when you are pushing yourself to be something much much more than you
-are capable of. Grinding for about 6 solid hrs is quite hard. The
-violinist's from Ericsson's experiment stated that practice was the
-least fun activity in their daily life.
+P: First I would need to identify good sentences and maybe try to
+emulate them in other works consciously.
 
+E: Benjamin Franklin identified the Spectator as superior work and
+used it to improve his writing.
 
---- > Everyone would achieve greatness if it were easy and fun. But
-everyone > doesn’t and it is not easy and fun. Your willingness to do
-(it will > distinguish you all the more(from the rest))[4]. Think
-about Jerry Rice again!
+P: repulsion to that activity is huge
 
+E: Today as I am making this exercise, it is hard. Generating examples
+of all kinds, knowing that I might not really make the goal of 200,
+and pushing myself to still make it, is all the strain mentally. 
 
-Everyone would achieve greatness if it were easy and fun. But everyone
-doesn't and it is not easy and fun. Your willingness to do it will
-distinguish you all the more from the rest. Aamir Khan for a movie
-makes a [ridiculous transformation in short time](https://www.youtube.com/watch?v=1aVw1gZ9Ncg). It was not easy
-or fun as you can see from the video. He is constantly made to push
-beyond what he is capable of. He struggles with doing it everyday, but
-pushes himself anyway. His willingness, the mental struggle he had to
-go through to do what he did distinguishes him all the more from the
-rest just like Jerry Rice. How many Jerry Rice's and Aamir Khan's do
-we know of? [4].
+--- 
+
+> Everyone would achieve greatness if it were easy and fun. But
+> everyone doesn’t and it is not easy and fun. Your willingness to do
+> (it will distinguish you all the more(from the rest))[4]. Think about
+> Jerry Rice again!
+
+P: it will distinguish you all the more from the rest
+
+E: Aamir Khan for a movie makes a [ridiculous transformation in short
+time](https://www.youtube.com/watch?v=1aVw1gZ9Ncg). It was not easy or fun as you can see from the video. He is
+constantly made to push beyond what he is capable of. He struggles
+with doing it everyday, but pushes himself anyway. His willingness,
+the mental struggle he had to go through to do what he did
+distinguishes him all the more from the rest; just like Jerry Rice. How
+many Jerry Rice's and Aamir Khan's do we know of?.
 
 > These tasks (whether physical or not)[1], seem to drain out much of
 > our mental energy)[2] as they are all about (improving an
@@ -504,25 +488,27 @@ we know of? [4].
 > 4) for example shows that the kids that do DP slept more not only
 > during the night but also during the afternoons.
 
-**Rule #1:** [1,2,3] seem to not have examples.
+P: whether physical or not
 
-**Rule #2:** re-writing...
+E: Bodybuilding or playing the piano or [improving writing](http://pradeep90.github.io/)
 
+P: drain out our mental energy
 
-These tasks whether physical or not -such as improving physical
-conditioning or playing the piano [1] -seem to drain out much of our
-mental energy -as seen with Jerry Rice's conditioning or the
-Ericsson's experiment of the pianists playing pieces[2,3] - as they
-are all about improving an unsatisfactory performance and trying your
-hardest to improve them.
+E: While writing my [first DP article](/Deliberate-Practice-case-study.html)
 
-It is estimated that 4-5 hrs of DP per day seems to be the upper
-limit, across disciplines (be in body building or playing the
-piano)[4], with sessions lasting no more than 90 minutes. The study of
-violinists are for example shows that the kids that do DP slept more
-not only during the night but also during the afternoons.
+"Well, I remember the day when I started writing it all out. After
+around 2 hrs I just couldn’t. I tapped out!"
 
-38 done until now...
+P: improving an unsatisfactory performance and trying your hardest to
+improve these
+
+E: Jerry Rice's grueling conditioning workouts
+
+P: across disciplines
+
+E: be it body building or be it learning to write
+
+<!-- 38 done until now... -->
 
 
 ### becoming a critic of your thinking (5)
@@ -535,47 +521,43 @@ not only during the night but also during the afternoons.
 > pays off)[3]. (Poor thinking)[4] in turn, (inevitably causes
 > problems, wastes time and energy, engenders frustration and
 > pain)[5].
->
 
 There is way too much vagueness in this paragraph and the coming
 paragraphs.
 
+P: Nothing more practical that sound thinking
 
-**Rule #1**: [1,2,3,4,5] are in my opinion important phrases. They are
-extremely vague and also, none of them have examples. All the 5 points
-seem to be talking about some sort of (thinking that is good)[] and
-some sort of (thinking that is bad)[]. Giving examples about these
-seem to be objective #1.
+E: If engaging in drama consumes your mind, and does not allow you to
+focus on things, you should stay away from drama, even if it means
+apologizing to a superior when it not your fault, as your priority is
+to squash the beef and move on with other important things.
 
-**Rule #2**: re-writing
+P: better off if your thinking is skilled; good thinking pays off
 
-There is nothing more practical than sound thinking. An example of
-sound thinking in a practical scenario is as follows: If engaging in
-drama consumes your mind, and does not allow you to focus on things,
-you should stay away from drama, even if it means apologizing to a
-superior when it not your fault, as your priority is to squash the
-beef and move on with important things.
+E: if you can come up with "right answers" for questions like, "should
+we marry?", or "Should we freeze ourselves"
 
-You are always better off if your thinking is skilled, i.e., you can
-solve problems or come up with the "right answers" for questions like,
-Should we marry? or Should we Freeze ourselves?
+P: Poor thinking
 
-Poor thinking in turn inevitably causes problems, wastes time and
-energy, engenders frustration and pain. I was moving from one house to
-another, and in an attempt to save 400 euros I brought self some major
-stress over the entire month. I didn't know how to equate money to
-time, I still struggle with the idea, and some time end up wasting
-hours and hours just so I can save a few 10s of euros. I was buying a
-phone recently and spent the entire day trading off different phones,
-when I could be doing a week of courses from my Data Science course,
-and keep moving ahead. A phone is 250 €. In the worst case if I bought
-a bad phone I could return it or buy a new one in a year. I was trying
-to make the best decision and guess what the phone still sucks. Now I
-want to return this phone and buy another one which is even more
-pricy. #GreatThinkingNot. Lack of ability to realize what is important
-and how to trade of money is one my poor thinking.
+E: I was moving from one house to another, and in an attempt to save
+400 euros I brought self some major stress over the entire month. I
+didn't know how to equate money to time, I still struggle with the
+idea, and some time end up wasting hours and hours just so I can save
+a few 10s of euros. I was buying a phone recently and spent the entire
+day trading off different phones, when I could be doing a week of
+courses from my Data Science course, and keep moving ahead. A phone is
+250 €. In the worst case if I bought a bad phone I could return it or
+buy a new one in a year. I was trying to make the best decision and
+guess what the phone still sucks. Now I want to return this phone and
+buy another one which is even more pricy. #GreatThinkingNot. Lack of
+ability to realize what is important and how to trade of money is one
+my poor thinking. This is in hindsight of course, but I am about to do
+it again?
 
-Once I was expected to inform if the Vacuum chamber was able to go to
+P: inevitably causes problems, wastes time and energy, engenders
+frustration and pain
+
+E: Once I was expected to inform if the Vacuum chamber was able to go to
 low pressures. I did some experiments and saw that the in some cases
 it went to the expected low pressures and in other cases the leak was
 too high. I was expected to present this, along with why I think it
@@ -583,8 +565,8 @@ was happening, how to verify my claim and also deliver solutions for
 the problem. So I looked at the observations and failed to tell a
 convincing story (logical) about why we were observing certain
 phenomenon. I felt quite confused while making the presentation, and
-naturally it showed in the review. I want to be better at the
-Scientific method solving problems such as the above.
+naturally it showed in the review.
+
 
 > Critical thinking is the disciplined art of ensuring that you use
 > the best thinking you are capable of in any set of
@@ -595,92 +577,9 @@ Scientific method solving problems such as the above.
 >
 
 I think I will be dead before I finish this. I stop here. This is too
-hard or impossible.
+hard or impossible. So many words meaning the same fucking thing.
 
-> What is really going on in this or that situation? Are they trying
-> to take advantage of me? Does so-and-so really care about me? Am I
-> deceiving myself when I believe that . . .? What are the likely
-> consequences of failing to . . .? If I want to do . . . , what is
-> the best way to prepare for it? How can I be more successful in
-> doing . . .? Is this my biggest problem, or do I need to focus my
-> attention on something else?
->
-> Successfully responding to such questions is the daily work of
-> thinking. However, to maximize the quality of your thinking, you
-> must learn how to become an effective "critic" of your thinking. And
-> to become an effective critic of your thinking, you have to make
-> learning about thinking a priority.
->
-> Ask yourself these — rather unusual — questions: What have you
-> learned about how you think? Did you ever study your thinking? What
-> do you know about how the mind processes information? What do you
-> really know about how to analyze, evaluate, or reconstruct your
-> thinking? Where does your thinking come from? How much of it is of
-> “good” quality? How much of it is of “poor” quality? How much of
-> your thinking is vague, muddled, inconsistent, inaccurate,
-> illogical, or superficial? Are you, in any real sense, in control of
-> your thinking? Do you know how to test it? Do you have any conscious
-> standards for determining when you are thinking well and when you
-> are thinking poorly? Have you ever discovered a significant problem
-> in your thinking and then changed it by a conscious act of will? If
-> anyone asked you to teach them what you have learned, thus far in
-> your life, about thinking, would you really have any idea what that
-> was or how you learned it?
->
-> If you are like most, the only honest answers to these questions run
-> along the lines of, “Well, I suppose I really don’t know much about
-> my thinking or about thinking in general. I suppose in my life I
-> have more or less taken my thinking for granted. I don’t really know
-> how it works. I have never really studied it. I don’t know how I
-> test it, or even if I do test it. It just happens in my mind
-> automatically.“
->
-> It is important to realize that serious study of thinking, serious
-> thinking about thinking, is rare. It is not a subject in most
-> colleges. It is seldom found in the thinking of our culture. But if
-> you focus your attention for a moment on the role that thinking is
-> playing in your life, you may come to recognize that, in fact,
-> everything you do, or want, or feel is influenced by your
-> thinking. And if you become persuaded of that, you will be surprised
-> that humans show so little interest in thinking.
->
-> To make significant gains in the quality of your thinking you will
-> have to engage in a kind of work that most humans find unpleasant,
-> if not painful — intellectual work. Yet once this thinking is done
-> and we move our thinking to a higher level of quality, it is not
-> hard to keep it at that level. Still, there is the price you have to
-> pay to step up to the next level. One doesn’t become a skillful
-> critic of thinking over night, any more than one becomes a skillful
-> basketball player or musician over night. To become better at
-> thinking, you must be willing to put the work into thinking that
-> skilled improvement always requires.
->
-> This means you must be willing to practice special “acts” of
-> thinking that are initially at least uncomfortable, and sometimes
-> challenging and difficult. You have to learn to do with your mind
-> “moves” analogous to what accomplished athletes learn to do (through
-> practice and feedback) with their bodies. Improvement in thinking,
-> in other words, is similar to improvement in other domains of
-> performance where progress is a product of sound theory, commitment,
-> hard work, and practice.
->
-> Consider the following key ideas, which, when applied, result in a
-> mind practicing skilled thinking. These ideas represent just a few
-> of the many ways in which disciplined thinkers actively apply theory
-> of mind to the mind by the mind in order to think better. In these
-> examples, we focus on the significance of thinking clearly, sticking
-> to the point (thinking with relevance), questioning deeply, and
-> striving to be more reasonable. For each example, we provide a brief
-> overview of the idea and its importance in thinking, along with
-> strategies for applying it in life. Realize that the following ideas
-> are immersed in a cluster of ideas within critical thinking. Though
-> we chose these particular ideas, many others could have instead been
-> chosen. There is no magic in these specific ideas. In short, it is
-> important that you understand these as a sampling of all the
-> possible ways in which the mind can work to discipline itself, to
-> think at a higher level of quality, to function better in the world.
-
-5 more...
+<!-- 5 more... -->
 
 ### Technical writing (8+12+10=30)
 
@@ -2018,3 +1917,12 @@ Critical thinking .org is rife with 0 examples about how to go about
 things.
 
 
+
+
+## time needed
+
+60 more will take 3 hrs
+
+3 hrs for reading and editing
+
+4 hrs for making 50 more phrases?
