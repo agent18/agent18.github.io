@@ -9,7 +9,7 @@ permalink: /:title.html
 published: true
 ---
 
-## Mission #5
+## Mission #5 by an STM
 
 
 > In other cases though, say (when you are organizing information and
@@ -17,11 +17,11 @@ published: true
 > want to (be like Tiger Woods, conscious, controlled and not
 > automatic)[2]"
 
-You've described [2] using a lovely concrete example. However, [1] is
-sorely lacking in examples. What is this "organizing information"? Or
-"providing solutions"? That could be anything from "it's hot today"
-all the way up to "e = mc^2". Contrast that to PG's [business plan](http://www.paulgraham.com/vwplan.html)
-for his startup in 1995:
+You've described [2] using a lovely concrete example in the [last
+post](/DP-CT-examples.html). However, [1] is sorely lacking in examples. What is this
+"organizing information"? Or "providing solutions"? That could be
+anything from "it's hot today" all the way up to "e = mc^2". Contrast
+that to PG's [business plan](http://www.paulgraham.com/vwplan.html) for his startup in 1995:
 
 > OVERVIEW Webgen allows clients to generate web catalogs remotely.
 >
@@ -33,16 +33,12 @@ for his startup in 1995:
 > a modem and a copy of Netscape. ...
 
 You might want to describe what you're doing in such terms, like
-"generate web catalogs remotely" or "used interactively", so that it
-clear even to an outsider what you're doing.
+"*generate web catalogs remotely*" or "*used interactively*", so that
+it is clear even to an outsider what you're doing.
+	
+---
 
-I appreciate the fact that you followed the deliberate practice method
-rigorously by making notes, setting them aside, and coming back
-later. Great work!
-
-* * * * *
-
-Mission #5: Time to chunk it up. Right now, you are working on
+**Mission #5:** Time to chunk it up. Right now, you are working on
 sentences and paragraphs at a time. That is, you get feedback about
 your output dimensions after writing the entire paragraph (or God
 forbid, the entire essay). The feedback isn't immediate enough
@@ -92,144 +88,68 @@ Mr. Anonymous, what is this "critical thinking" you speak of? Let's
 see at least one example (after you've practiced on a bunch of other
 sentences).
 
-## Translating Mission to my understanding
-
-- Somehow it is important that we write as many examples as we can.
-
-- why because words are pointless they don't drive home the meaning to
-  you! The difference is very clear. For example as in the mission
-  statement, you see how I talked about one particular aspect of DP,
-  which was that the delivery always will be controlled conscious and
-  non-automatic, aka, no direct consistancy. The example of that seems
-  to be tiger woods stopping mid shot because a fucking bird shadow
-  appeared behind him, or that someone heckled.
-  
-  Apparently you don't get better (like in car driving, or typing). if
-  you leave the progress to automation or unconcious consistency, you
-  will never grow or become better. But we are in the world of getting
-  crazy ass skill (like what mother fucker?), like becoming better at
-  critical thinking (still fluff), like solving problems that are
-  important to the world like eradicating poverty, all this requires
-  problem solving capabilities and that is precisely what we want.
-  
-  So the goal as an stm pointed out a few missions back is that words
-  are fluff, they mean nothing unless they are associated with an
-  example. What is the impact of this and in what content will be
-  talked about later. For now we stick with the mission and maximize
-  the points for this mission.
-  
-  
-- What is expected ?
-
-There was a complaint in the last essay from me, that things were
-boring while doing the essay. Or that it was a bit easy. I didn't feel
-burned down. My conclusion was the time allocated.
-
-But an STM seems to think it was the lack of immediate feedback. While
-doing DP, first I need to make some notes then write a my version and
-then check against certain dimensions what needs to be done. This
-overall is quite a long process, where the actual dp is 1/3rd of the
-time I spend on the rest of the post.
-
-- Side note
-
-In the last essay I had come to the conclusion that I needed to get
-also get back to what the hell was the whole point of this aka, what
-do we want to improve? critical thinking, what do you mean by that!
-
-## The rules of DP (how it looks)
-
-1. It’s designed specifically to improve performance.
-
-2. It can be repeated a lot
-
-3. mentally painful
-
-4. feedback
-
 ---
 
-There are three types of DP... which..
+## Goal and how to do it.
 
-## Where to find the 200 repetitions..
+> **Mission**: You need to take passages you feel you don't understand
+> clearly (perhaps some things you've written yourself about important
+> yet unclear issues in "rationality" and some outside material about
+> tough technical problems), mark within parentheses each important
+> phrase like I did with [1] and [2], check if you've given an example
+> for it, and if not, rewrite it with a concrete example. If you're not
+> sure if a phrase is important or not, err in favour of an example. 200
+> repetitions should be a good start. - an STM via e-mail
 
-Other articels, my own articles,
+**Goal**: All fluff words (like problem solving, critical thinking)
+have to be associated with examples. And we need to do this on 200
+phrases.
 
-for reasons that might be clear to everybody, I think it makes sense
-to examplyfy or work on parts of articels that are really important to
-your life, like 'characteristics of DP`, `alias paradox`, `what STM
-talks about when he says I was not clear with
+The first example is given below...
 
-> You've described [2] using a lovely concrete example. However, [1]
-> is sorely lacking in examples. What is this "organizing
-> information"? Or "providing solutions"? That could be anything from
-> "it's hot today" all the way up to "e = mc^2". Contrast that to PG's
-> [business plan](http://www.paulgraham.com/vwplan.html) for his
-> startup in 1995:
+> "(I want to get better at *critical thinking)*"[1]- Anonymous 1795 AD
 
-also Life goals, what I should be focussed on and why and things like
-that
+P: I want to get better at "critical thinking". 
 
-also maybe some of my presentations?
+E: In the article on [scope insensitivity](https://www.lesswrong.com/posts/2ftJ38y9SRBCBsCzy/scope-insensitivity) there is a
+lot of discussion about how to design experiments that distinguish the
+"prototype-dominated" affect and the warm glow of moral
+satisfaction. I don't understand this. There is a whole discussion and
+I am finding it hard to wrap my head around it. I'd like to get better
+here.
 
-Your CV?
+At work, I am having to do quite some "problem solving". By that I
+mean I am given a couple of observations (about leak in the Vacuum
+Chamber). I need to isolate what is the problem is (is it leaking from
+outside? or are these virtual leaks? etc...), I need to design
+experiments (pump down the chamber and measure leak) and I need to
+convey the results (make a presentation and explain how my diagnosis
+is right). This is hard for me, I want to become better here, i.e., I
+often find myself banging my head to make sense of what is happening
+and presenting it. :)
 
-Cover letter?
+<!-- **Goal 2:** Not feel bored -->
 
-Your profile?
+<!-- Last essay I wrote out loud that there were parts that were boring, -->
+<!-- and an STM feels that maybe this was due to the lack of immediate -->
+<!-- feedback. We need to get immediate feedback, like am I at a good pace -->
+<!-- with this mission? Am I able to find fluff phrases that lack examples? -->
+<!-- Am I able to give examples for the fluff phrases? Then and there. -->
 
-Goal: Every sentence cannot have fluff, the sentence should mean
-something to you, it just can't be, "critical thinker with an ability
-to move people working towards a common greater goal for life". I will
-beat you rascal!
+<!-- As opposed to the last time, where we looked at the main idea over a -->
+<!-- few sentences -->
 
-Maybe something from the dynamics course, would be a fun addition to
-add here, especially the part of the virtual work. but maybe it is a
-problem for getting written.
-
-Or someother technical work
-
-Critical thinking .org is rife with 0 examples about how to go about
-things.
-
-
-## Starting somewhere
-
-
-**Mission**: You need to take passages you feel you don't understand
-clearly (perhaps some things you've written yourself about important
-yet unclear issues in "rationality" and some outside material about
-tough technical problems), mark within parentheses each important
-phrase like I did with [1] and [2], check if you've given an example
-for it, and if not, rewrite it with a concrete example. If you're not
-sure if a phrase is important or not, err in favour of an example. 200
-repetitions should be a good start.
+<!-- But an STM seems to think it was the lack of immediate feedback -->
+<!-- as mentions -->
 
 
-
-**Goal**: For me the goal , as an STM pointed out, to not have fuzzy
-words, everything shall be associated with an clear real example. This
-is it.
-
-So we need to identify the important phrases using paranthesis and
-then suggest if they have examples or not and then provide examples
-where they aren't there.
-
-This is not really the BF method, but one where I am improving the
-skill of identifying and giving examples and improving my thinking in
-terms of examples.
-
-Mark important phrases withing parenthesis and check if there is an
-example otherwise rewrite it.
-
----
 
 ### What is and isn't DP (38)
 
 From [my summary on TIO about 'What is and isn't DP'](/DP-CT-examples.html):
 
 > Sometimes I go to basketball practice and try a few shots from one
-> spot. Then I try (some drills in ball handling)[1] to (improve play
+> spot. Then I try (some drills in ball handling)[3] to (improve play
 > during the game)[2]. I try (multiple variations)[3] 2-3 times each
 > and get bored and then play some one-on-ones with someone and feel
 > happy that I have clocked 2 more hours of practice (that hopefully
@@ -239,15 +159,35 @@ From [my summary on TIO about 'What is and isn't DP'](/DP-CT-examples.html):
 > says with conviction that (this will do jack shit to your
 > performance)[6].
 
+P: improve play during the game
 
-**Rule #1:** [1...6] have been identified as the parts that do not
-have any examples. Some things that stand out for me is the lack of
-examples for "gets me to amazing levels someday"[4]. I have no idea
-what it means, I am thinking of a few people but I guess it helps to
-put it in words.
+E: So every Sunday I play basketball with my friends. Mostly I suck
+and people make fun of it, especially when you make air balls or miss
+a silly ass layup when you are so close to the basket. Whilst this is
+me, my friends, almost all of them, have very good shooting percentage
+and good range from where they can shoot. I would like to be atleast
+as good as them.
 
+P: some drills in ball handling; multiple variations
 
-**Rule #2:** The rewrite is as follows:
+E: I start with shooting from different places randomly (roughly 20
+shots) and then try 5 spin moves, and then move on to left handed
+layups
+
+P: Hopefully gets me to amazing levels
+
+E: the levels of my friends in a year or two
+
+P: "practiced" with golf balls
+
+E: The author hit a few balls and picked one of 1000 reasons why he
+didn't hit the ball "right", then believed he was practicing for it
+and then got distracted to another reason he didn't hit the ball
+right. In the end he hit about a few hundred balls.
+
+P: this will do jack sit to your performance
+
+E: You will NEVER be better than your peers.
 
 So every Sunday I play basketball with my friends. Mostly I suck and
 people make fun of it, especially when you make air balls or miss a
@@ -1117,15 +1057,15 @@ Blank!
 > An obvious hypothesis to account for these skewed beliefs is that
 > murders are more likely to be talked about than suicides - thus,
 > someone is more likely to recall hearing about a murder than hearing
-> about a suicide. Accidents are more dramatic than diseases -
-> perhaps this makes people more likely to remember, or more likely to
-> recall, an accident. In 1979, a followup study by Combs and Slovic
-> showed that the skewed probability judgments correlated strongly
-> (.85 and .89) with skewed reporting frequencies in two newspapers.
-> This doesn't disentangle whether murders are more available to
-> memory because they are more reported-on, or whether newspapers
-> report more on murders because murders are more vivid (hence also
-> more remembered). But either way, an availability bias is at work.
+> about a suicide. Accidents are more dramatic than diseases - perhaps
+> this makes people more likely to remember, or more likely to recall,
+> an accident. In 1979, a followup study by Combs and Slovic showed
+> that the skewed probability judgments correlated strongly (.85 and
+> .89) with skewed reporting frequencies in two newspapers.  This
+> doesn't disentangle whether murders are more available to memory
+> because they are more reported-on, or whether newspapers report more
+> on murders because murders are more vivid (hence also more
+> remembered). But either way, an availability bias is at work.
 
 **Rule #1**: [1,2] Eleizer seems to have killed it. I want to say
 'Word'. [1] is not really met with an example right away, but is
@@ -1161,18 +1101,18 @@ Gates than 19% of the planet living on less than 1$ a day.
 
 ---
 
-> (Using availability seems to give rise to an absurdity bias)[1]; events
-> that have never happened, are not recalled, and hence deemed to have
-> probability zero. When no flooding has recently occurred (and yet
-> the probabilities are still fairly calculable), people refuse to buy
-> flood insurance even when it is heavily subsidized and priced far
-> below an actuarially fair value. Kunreuther et. al. (1993) suggests
-> underreaction to threats of flooding may arise from "the inability
-> of individuals to conceptualize floods that have never
-> occurred... Men on flood plains appear to be very much prisoners of
-> their experience... Recently experienced floods appear to set an
-> upward bound to the size of loss with which managers believe they
-> ought to be concerned."
+> (Using availability seems to give rise to an absurdity bias)[1];
+> events that have never happened, are not recalled, and hence deemed
+> to have probability zero. When no flooding has recently occurred
+> (and yet the probabilities are still fairly calculable), people
+> refuse to buy flood insurance even when it is heavily subsidized and
+> priced far below an actuarially fair value. Kunreuther
+> et. al. (1993) suggests underreaction to threats of flooding may
+> arise from "the inability of individuals to conceptualize floods
+> that have never occurred... Men on flood plains appear to be very
+> much prisoners of their experience... Recently experienced floods
+> appear to set an upward bound to the size of loss with which
+> managers believe they ought to be concerned."
 
 > Burton et. al. (1978) report that when dams and levees are built,
 > they reduce the frequency of floods, and thus apparently create a
@@ -1190,10 +1130,11 @@ more examples based on floods.
 > possibility of large hazards)[1]. (Instead, past experience of small
 > hazards seems to set a perceived upper bound on risk)[2]. (A society
 > well-protected against minor hazards takes no action against major
-> risks)[3], building on flood plains once the regular minor floods are
-> eliminated. (A society subject to regular minor hazards treats those
-> minor hazards as an upper bound on the size of the risks)[4], guarding
-> against regular minor floods but not occasional major floods.
+> risks)[3], building on flood plains once the regular minor floods
+> are eliminated. (A society subject to regular minor hazards treats
+> those minor hazards as an upper bound on the size of the risks)[4],
+> guarding against regular minor floods but not occasional major
+> floods.
 >
 > (Memory is not always a good guide to probabilities in the past, let
 > alone the future)[5].
@@ -1206,76 +1147,146 @@ more examples based on floods.
 **Rule #2** rewriting...
 
 (The wise would extrapolate from a memory of small hazards to the
-possibility of large hazards.) *Looking at the impact of a small flood,
-they would assess the chances of a large flood*[1]. (Instead, past
-experience of small hazards seems to set a perceived upper bound on
-risk). *Building of dams and levees lead to reduced precautions*[2]. (A
-society well-protected against minor hazards takes no action against
-major risks), *building on flood plains once the regular minor floods
-are eliminated*[3]. (A society subject to regular minor hazards treats those
-minor hazards as an upper bound on the size of the risks), *guarding
-against regular minor floods but not occasional major floods* [4].
+possibility of large hazards.) *Looking at the impact of a small
+flood, they would assess the chances of a large flood*[1]. (Instead,
+past experience of small hazards seems to set a perceived upper bound
+on risk). *Building of dams and levees lead to reduced
+precautions*[2]. (A society well-protected against minor hazards takes
+no action against major risks), *building on flood plains once the
+regular minor floods are eliminated*[3]. (A society subject to regular
+minor hazards treats those minor hazards as an upper bound on the size
+of the risks), *guarding against regular minor floods but not
+occasional major floods* [4].
 
 Memory is not always a good guide to probabilities in the past, let
-alone in the future[5]. The whole essay is the example.
+alone in the future[5]. *People think suicide is more common than
+homicide, based on selective reporting but that is wrong. When
+predictions in the past are already wrong, and if extrapolation is a
+way to see in the future, then the future is also going to be wrong*.
 
 
-### Article by Eliezer on scope insensitivity
+### Article by Eliezer on scope insensitivity (12)
 
 > Once upon a time, three groups of subjects were asked how much they
 > would pay to save 2000 / 20000 / 200000 migrating birds from
 > drowning in uncovered oil ponds. The groups respectively answered
-> $80, $78, and $88 [1]. This is scope insensitivity or scope neglect:
-> the number of birds saved - the scope of the altruistic action - had
-> little effect on willingness to pay.
+> $80, $78, and $88. This is (scope insensitivity or scope
+> neglect)[1]: the number of birds saved - the scope of the altruistic
+> action - had little effect on willingness to pay.
 >
 > Similar experiments showed that Toronto residents would pay little
 > more to clean up all polluted lakes in Ontario than polluted lakes
-> in a particular region of Ontario [2], or that residents of four
-> western US states would pay only 28% more to protect all 57
-> wilderness areas in those states than to protect a single area [3].
+> in a particular region of Ontario, or that residents of four western
+> US states would pay only 28% more to protect all 57 wilderness areas
+> in those states than to protect a single area.
 >
+
+**Rule #1**: [1] has 3 examples in total.
+
 > People visualize "a single exhausted bird, its feathers soaked in
-> black oil, unable to escape" [4]. This image, or prototype, calls
-> forth some level of emotional arousal that is primarily responsible
-> for willingness-to-pay - and the image is the same in all cases. As
-> for scope, it gets tossed out the window - no human can visualize
-> 2000 birds at once, let alone 200000. The usual finding is that
-> exponential increases in scope create linear increases in
+> black oil, unable to escape". (This image, or prototype, calls forth
+> some level of emotional arousal)[1] that is primarily responsible
+> for willingness-to-pay - and the image is the same in all cases. (As
+> for scope, it gets tossed out the window)[2] - no human can
+> visualize 2000 birds at once, let alone 200000. The usual finding is
+> that exponential increases in scope create linear increases in
 > willingness-to-pay - perhaps corresponding to the linear time for
-> our eyes to glaze over the zeroes; this small amount of affect is
-> added, not multiplied, with the prototype affect. This hypothesis is
-> known as "valuation by prototype".
->
-> An alternative hypothesis is "purchase of moral
-> satisfaction". People spend enough money to create a warm glow in
-> themselves, a sense of having done their duty. The level of spending
-> needed to purchase a warm glow depends on personality and financial
-> situation, but it certainly has nothing to do with the number of
-> birds.
->
-> We are insensitive to scope even when human lives are at stake:
+> our eyes to glaze over the zeroes; (this small amount of affect is
+> added, not multiplied, with the prototype affect)[3]. This
+> hypothesis is known as ("valuation by prototype")[4].
+
+P: This image, or prototype, calls forth some level of emotional
+arousal [1]
+
+E: Emotional arousal like feeling sad or crying or disturbed mentally.
+
+P: As for the scope, it gets tossed out of the window [2]
+
+E: "No human can visualize 2000 birds at once, let alone 200000".
+
+P: this small amount of affect is added, not multiplied, with the
+prototype affect [3]
+
+E: Studies show that people pay 80$, 78$ and 88$ when asked about
+saving 2k, 20k and 200k birds respectively.
+
+P: Valuation of prototype [4]
+
+E: Value of 2k, 20k, and 200k birds, being in the same order.
+
+> An alternative hypothesis is "(purchase of moral
+> satisfaction)[1]". People spend enough money to create a warm glow
+> in themselves, a sense of having done their duty. The (level of
+> spending needed to purchase a warm glow depends on personality and
+> financial situation)[2], (but it certainly has nothing to do with
+> the number of birds)[3].
+
+P: Purchase of moral satisfaction [1]
+
+E: "People spend enough money to create a warm glow in themselves, a
+sense of having done their duty"
+
+P: Level of spending needed to purchase a warm glow depends on
+personality and financial situation [2]
+
+E: I would easily donate 10$ without really getting into the cause. If
+it was Bill Gates he would probably give 100$ or more without thought.
+
+P: but it certainly has noting to do with the number of birds [3]
+
+E: Value of 2k, 20k, and 200k birds, being in the same order.
+
+> (We are insensitive to scope even when human lives are at stake)[1]:
 > Increasing the alleged risk of chlorinated drinking water from 0.004
 > to 2.43 annual deaths per 1000 - a factor of 600 - increased
-> willingness-to-pay from $3.78 to $15.23 [5]. Baron and Greene found
-> no effect from varying lives saved by a factor of 10 [6].
->
+> willingness-to-pay from $3.78 to $15.23. Baron and Greene found no
+> effect from varying lives saved by a factor of 10 .
+
+P: We are insensitive to scope even when human lives are at stake[1].
+
+E: "WTP increased from 3.78$ to 15.23$ even though there was a factor
+600 increase.
+
 > A paper entitled Insensitivity to the value of human life: A study
-> of psychophysical numbing collected evidence that our perception of
+> of psychological numbing collected evidence that our (perception of
 > human deaths follows Weber's Law - obeys a logarithmic scale where
 > the "just noticeable difference" is a constant fraction of the
-> whole. A proposed health program to save the lives of Rwandan
+> whole)[1]. A proposed health program to save the lives of Rwandan
 > refugees garnered far higher support when it promised to save 4,500
 > lives in a camp of 11,000 refugees, rather than 4,500 in a camp of
 > 250,000. A potential disease cure had to promise to save far more
 > lives in order to be judged worthy of funding, if the disease was
 > originally stated to have killed 290,000 rather than 160,000 or
-> 15,000 people per year. [7]
->
-> The moral: If you want to be an effective altruist, you have to
+> 15,000 people per year.
+
+P: perception of human deaths obeys logarithmic scale where the "just
+noticeable difference" is a constant fraction of the whole
+
+E: "if 4500 people were saved out of 11000 people, then the perception
+of human deaths is higher, than if 4500 people were saved out of 250k
+people."
+
+[Webers law](http://apps.usd.edu/coglab/WebersLaw.html)
+
+
+> The moral: (If you want to be an effective altruist, you have to
 > think it through with the part of your brain that processes those
-> unexciting inky zeroes on paper, not just the part that gets real
-> worked up about that poor struggling oil-soaked bird.
+> unexciting inky zeroes on paper)[1], not just (the part that gets
+> real worked up about that poor struggling oil-soaked bird)[2].
+
+P: if you want to be an effective altruist, you have to think it
+through with the part of your brain that processes those unexciting
+inky zeroes on paper[1]
+
+E: if value of 2k birds = 80$ then 20k birds = 80$*1000
+
+P: if you want to be an effective altruist it is not enough to get
+worked up about poor struggling oil-soaked bird[2]
+
+E: 2k, 20k, 200k birds will all mean the same to you.
+
+
+
 
 ### Article by Paul graham on schelps
 
@@ -1284,7 +1295,8 @@ alone in the future[5]. The whole essay is the example.
 > schlep blindness. Schlep was originally a Yiddish word but has
 > passed into general use in the US. It means a tedious, unpleasant
 > task.
->
+
+
 > No one likes schleps, but hackers especially dislike them. Most
 > hackers who start startups wish they could do it by just writing
 > some clever software, putting it on a server somewhere, and watching
@@ -1369,6 +1381,545 @@ alone in the future[5]. The whole essay is the example.
 > the world, if you know how to see it.
 
 
+### Article by PG on business plan(37...)
+
+> I recently found what I think is Viaweb's original (business plan)[1]. I
+> didn't know what a business plan was supposed to have in it, so I
+> just wrote down what I thought was important (in plain text, to make
+> it easy to send by email).
+>
+> The company was called "Webgen" at first. We thought we only needed
+> $15,000 in startup capital; this proved to be an underestimate.
+
+P: business plan[1] 
+
+E: The entire business plan is shown here.
+
+> Reading this, you can see that even we were still trying to grasp
+> what a web-based application was. In the system description we
+> listed the (site generator)[1] and the (web interface)[2] as separate
+> components; now one would just think of them as a (web-based site
+> generator)[3]. And we still thought that some users would prefer to
+> update their sites via email than via a browser, because using a web
+> browser was such (an esoteric skill)[4].
+>
+> MarketplaceMCI was the big power in e-commerce at the time. They had
+> a (service bureau model)[5], but they created (nice looking sites)[6]. Our
+> original page design imitated theirs.
+
+P: site generator [1]
+
+E: Github, Wordpress, Blogger
+
+P: Web interface [2]
+
+E: Browser?
+
+P: Web-based site generator [3]
+
+E: Wordpress, Blogger
+
+P: an esoteric skill [4]
+
+E: like playing the dijiredoo for example, not many people have the
+knowledge about it.
+
+P: Service bureau model [5]
+
+E: MarketplaceMCI offering business services
+
+P: Nice looking sites [6]
+
+E: "MarketplaceMCI sites which Webgen ended up copying as they looked
+nice."
+
+> Sketch of a business plan for Webgen. 24 Aug 95.
+>
+> OVERVIEW
+>
+> Webgen allows clients to generate (web catalogs)[1] remotely.
+>
+> There are (several other companies that can generate and serve web
+> catalogs)[2]. The best known site of this type is Marketplace MCI
+> (www.internetmci.com). But while these other sites use their
+> generators in-house to build catalogs from materials provided by
+> clients, Webgen's generator can be used interactively by anyone with
+> a modem and a copy of Netscape.
+>
+> This will (lower the cost)[3] of putting a catalog online by, say,
+> 90%. It also means that our (volume is not limited by the number of
+> clients we can serve personally)[4]. We would be a (software
+> company)[5], (not a service company)[6].
+>
+
+P: web catalogs [1]
+
+E: a catalog of products like [this?](https://www.festo.com/cat/en-us_us/products)
+
+P: several other companies that can generate and serve web catalogs [2]
+
+E: "Marketplace MCI (www.internetmci.com)
+
+P: lower the cost [3]
+
+E: "by 90%"
+
+P: Volume is not limited by the number of client we can serve
+personally.[4]
+
+E: Alphabet serves billions of people, where as Mckinsey serves a
+limited number of clients. Alphabet is not limited by the number of
+clients they can serve personally.
+
+P: Software company [5]
+
+E: Alphabet, Facebook, Microsoft, Accenture, IBM
+
+P: Service company [6]
+
+E: MarketplaceMCI, Mckinsey 
+
+
+> Anyone will be able to sign up to keep a catalog at our site for a
+> flat monthly fee. And we have made Webgen (so easy to use)[1] that
+> any graphic designer or "web consultant" can generate catalogs with
+> it. So instead of approaching catalog companies with an offer to put
+> their catalog on the web, we will let them do it themselves.
+>
+> Suppose you are running (a catalog company)[2]. Today, if you want to
+> have (an online catalog that people can order from)[3], you have two
+> options. You can have a company like MCI create and serve it for
+> you, or you can set up your own server. Both options are
+> expensive. When our service goes online for real, (you will be able
+> to do it in-house)[4]: anyone who can use Netscape can generate catalogs
+> at Webgen.
+
+P: So easy to use [1]
+
+E: "any graphic designer or "web consultant" can generate catalogs"
+
+P: a catalog company [2]
+
+E: similar to Amazon, flipkart 
+
+P: an online catalog that people can order from [3]
+
+E: Amazon and flipkart, where you can see and buy from.
+
+P: do it in-house [4]
+
+E: "anyone who can use netscape can generate catalogs at Webgen"
+
+> (There are a large number of companies who would like to be able to
+> market products on the web)[1], (if it were cheaper and easier)[2]. To our
+> knowledge, Webgen is the *only* system that can tap this market.
+>
+> As the market matures, we would consider spinning off a standalone
+> catalog generator/server as a commercial product.
+
+P: Large number of companies who would like to able to market products
+online [1]
+
+E: No examples given by PG surprisingly, it's not within the scope of
+this essay
+
+P: if it were cheaper and easier [2]
+
+E: "90% cheaper than others, and a graphic designer being able to do
+it"
+
+
+> HOW BIG A DEAL IS WEBGEN?
+>
+> Even (assuming it succeeds)[1], what are the prospects for Webgen? How
+> big a role in the future of the Internet will a company like Webgen
+> play?
+>
+> The answer, perhaps surprisingly, seems to be: (a very big
+> role)[2]. (Technical people and business people)[3] agree, the web is going
+> to be important. A large part of the web's importance will come from
+> online commerce. And Webgen could, in turn, be involved in a large
+> part of the online commerce.
+
+P: assuming if it succeeds [1]
+
+E: if the company makes profits or if the company has more than 100
+clients?
+
+P: a very big role[2]
+
+E: "A large part of web's importance will come from online
+commerce. And Webgen could, in turn, be involved in a large part of
+the online commerce." ( as it is currently the only easy-to-use
+generator)
+
+P: Technical people and business people [3]
+
+E: No examples are given, out of scope of this essay.
+
+
+> Why? Forget about Webgen for a moment, and just ask: what will the
+> (future of online commerce look like)[1]? (When someone wants to sell
+> things on the Web, how will they do it)[2]? At the moment, they can
+> either go to a company like MCI, or set up their own server. But
+> what will they do a year or two from now? Ten years from now?
+>
+> (If selling things online were like other software applications, the
+> future of the market would be general-purpose software packages)[3]. You
+> would eventually be able to buy a copy of Microsoft Catalog, and use
+> that to put your catalog online.
+
+> There are a couple reasons why this is not likely to happen anytime
+> soon. The main problem is, (an online catalog is not just something
+> that happens on your own computer)[4], like word-processing. It has to
+> be on a web server, with encrypted transactions, a high-bandwidth
+> network connection, 100% uptime, security, backups, order tracking,
+> and so on. (Setting up a server is expensive and difficult)[5]. On the
+> East coast, the network connection alone costs about $2000/mo.
+
+P: future of online commerce look like
+
+E: (paragraph 2) "the future of the market would be general-purpose
+software packages"
+
+P: When someone wants to sell things on the Web, how will they do it
+
+E: "Either go an MCI or set up your own server
+
+P: if selling things online were like other software applications, the
+future of the market would be general-purpose software packages
+
+E: "You would eventually be able to buy a copy of Microsoft Catalog,
+and use that to put your catalog online."
+
+P: an online catalog is not just something that happens on your
+computer
+
+E: "like word processing"
+
+P: it needs other things
+
+E: web server, encrypted transactions
+
+P: Setting up a server is expensive
+
+E: "On the east coast, the network connection alone costs about
+$2000/mo"
+
+P: difficult
+
+E: ...
+
+> So the next best solution is to have a (general-purpose catalog
+> generator)[1], but have someone else handle the server
+> part. *And that's exactly what Webgen is.* Webgen is Microsoft
+> Catalog, or as close as anything's going to get. Don't be led astray
+> by the fact that the software is going to run on our machines. (With
+> networks, it no longer matters whether the program you're using is
+> running on your own computer or not)[2]. Using Webgen will be just
+> like using any off-the- shelf software package, except that users
+> won't have to install anything.
+
+
+P: general purpose generator [1]
+
+E: like Microsoft catalog
+
+P: With networks, it no longer matters whether the program you're
+using is running on your own computer or not [2]
+
+E: "like using any off-the-shelf software package, except that users
+won't have to install anything"
+
+
+> What's more, our software will "run" on everyone's machine, updates
+> will be free and instant, and (the interface will be one the users
+> already know)[1], Netscape.
+
+P: interface will be one the users already know [1]
+
+E: Netscape
+
+> (The idea behind Webgen)[1] is a lot like the one that made
+> Kodak. Before Kodak came along, (if you took a photo, you had to
+> develop it)[2]. If an ordinary person wanted to have his photo
+> taken, he went to a photographer's studio, (just as you might go to
+> MCI to put your catalog online today)[3].
+
+P: idea behind Webgen
+
+E: a lot like Kodak
+
+P: if you made you catalog, you had to serve it
+
+E: if you took a photo, you had to develop it
+
+P: just as you might go to MCI to put your catalog online
+
+E: "if an ordinary person wanted to have his photo taken, he went to a
+studio"
+
+> Eastman sold a camera everyone could use, plus the promise to handle
+> the messy, (capital-intensive part)[1]---developing the film.
+>
+> We sell a catalog generator everyone can use, plus the promise to
+> handle the messy, capital-intensive part---serving the pages.
+
+P: capital intensive part
+
+E: "developing the film, serving the pages"
+
+> Of course, (really high-end customers will want to set up their own
+> servers)[1], just as high-end photography customers develop their
+> own photos. We would not rule out setting up clones of Webgen for
+> them. But we believe that we will be more successful if we think of
+> ourselves as (selling a product)[2] rather than (a
+> service)[3]. Webgen could be the Kodak of online commerce. Someone
+> will be.
+
+P: really high-end customers will want to setup their own servers
+
+E: "just as high end photography customers will develop their own
+photos"
+
+P: selling a product
+
+E: like Kodak cameras
+
+P: selling a service
+
+E: like MCI
+
+37
+
+---
+
+> THE SYSTEM
+>
+> Webgen's formula has three ingredients:
+>
+> 1. A server (www.webgen.com) that can serve catalogs and support
+>    ordering.
+>
+> 2. A generator that can generate catalogs to be served at the site.
+>
+> 3. An interface that allows users anywhere on the web to modify and
+>    regenerate their catalogs interactively.
+>
+> The site is already up and running, though at present the only
+> catalog on the server is one that we made for demos. All three
+> ingredients already work. (The demo catalog can be seen by following
+> the "Clients" link on our home page, which is at
+> http://www.webgen.com)
+>
+> We are now polishing the software to make it faster and easier to
+> use, but we believe it is already the most sophisticated web catalog
+> generator available. Webgen can do several things that we do not
+> believe any other generator can do:
+>
+> 1. The big win, of course, is the interactive interface. It is this
+>    that makes it possible for Webgen to be a software company that
+>    sells its generator to everyone, instead of service company that
+>    uses it in-house.
+>
+> But even compared to the generators that companies like MCI use
+> in-house, we believe Webgen is more sophisticated:
+>
+> 2. Webgen generates all the buttons in a site
+>    automatically. Sophisticated web sites have buttons that are
+>    images instead of text links. Usually these button images are
+>    made by hand in a program like Photoshop. We believe our
+>    generator is the first to create all the buttons in a site
+>    automatically.
+>
+> This is a great advantage to users, because it means they will be
+> able to control even the way the buttons in their site look via our
+> remote interface. For example, if they want the text in buttons to
+> be in Times instead of Helvetica (the default), they will be able to
+> do this with a single menu choice on our remote interface. The next
+> time they look at their site, all the button texts will be in Times.
+>
+> 3. Webgen creates all the thumbnail images itself. The user only has
+>    to supply the original (big) images of the items in the
+>    catalog. Because the thumbnails are generated by the software,
+>    they can all be the same height, leading to a more consistent set
+>    of pages. (Compare our demo to existing online catalogs in this
+>    respect.)
+>
+> 4. Webgen has a wide variety of page styles. Our default section
+>    style, for example, puts three thumbnails horizontally across
+>    each page. But there are already six other possible section
+>    styles. By making menu choices, clients will be able to have the
+>    section laid out instead with a single picture and lettered
+>    items, or with with thumbnails laid out vertically, or even
+>    diagonally. There will be a comparable number of options for the
+>    layout of the individual item pages and the home page.
+>
+> 5. For each catalog, Webgen builds an index and creates a database
+>    that is used by a search script running on our server. Users will
+>    be able to find items in any catalog at our site either by
+>    looking in the index or doing a search by keyword.
+>
+> 6. As well as an interactive interface, Webgen has a command
+>    language for batch updates to catalogs. Commands can be sent to
+>    the server by email and the catalogs regenerated
+>    automatically. This will be useful for clients who want to
+>    "attach" their catalog to an inventory control system. Because it
+>    takes only a minute or two at most to regenerate a large catalog,
+>    clients could make their online catalogs reflect minute-by-minute
+>    changes in inventory--- as simply as sending us email, and at no
+>    extra cost.
+>
+> HOW PEOPLE WILL USE IT
+>
+> We expect that we will have two kinds of users:
+>
+> (A) Sometimes the user will be the catalog company itself. Webgen is
+> so easy to use that a catalog company could very well designate
+> someone in-house to manage their online catalog.
+>
+> (B) Otherwise the user will be one of the growing army of "web
+> consultants", acting on behalf of a catalog company. The consultant
+> will pass on, and mark up, the flat fee that we charge. We expect
+> that such VARs will work aggressively to sell the service to catalog
+> companies. With Webgen, any web consultant will be able to approach
+> a catalog company and propose to put its catalog online for much
+> less than the current going rate, and still pocket a large markup.
+>
+> In either case, using Webgen will be the same:
+>
+> 1. The client will contact us and set up a new account. We will
+>    assign them a username and a password, and also register a new
+>    domain name, if they want one. Every catalog on our site will be
+>    able to have its own direct URL of the form
+>
+> http://www.yourcompany.com
+>
+> if the client desires.
+>
+> 2. To build a catalog, Webgen needs two things: images of the items
+>    contained in it, and text including the price, item number,
+>    description, and so on.
+>
+> There will be several ways for the user to send us these raw
+> materials. They can type the text directly into our remote
+> interface, or they can send it to our server by email in a
+> prespecified format.
+>
+> They will be able to send us the images by logging into their
+> account on our server and FTPing them to a designated directory,
+> from which the generator will grab them automatically. (Any
+> connection good enough for netscape can also support FTP.) When
+> browsers support email with attached images (which they promise to
+> do soon) sending images to Webgen will be trivial.
+>
+> 3. After Webgen's server receives input through its remote
+>    interface, or via email, it will automatically regenerate the
+>    changed portions of the catalog. Changes will be visible to the
+>    user via Netscape, usually within seconds.
+>
+> 4. When the user has made and inspected changes to a catalog, he or
+>    she will send the server a "commit" message, causing the changed
+>    catalog to be copied to its real URL. At this point the catalog
+>    will become visible to consumers visiting the site.
+>
+> For security, the commit command will use one-time passwords. This
+> way, even if someone gets the ordinary password of a user, they
+> can't modify the catalog that actually appears at the site.
+>
+> 5. Clients that have a high-volume of orders will be given an
+>    account on our server that they can use to retrieve them. If they
+>    want, they can keep this connection open 24 hours per day,
+>    generating a live feed of orders.
+>
+> Smaller clients will have orders forwarded to them by fax---an
+> attractive alternative, because it is secure and uses familiar
+> technology.
+>
+> DETAILS
+>
+> The flat fee would include a certain amount of network bandwidth
+> (that is, visitors) per month. After this is exceeded, there may be
+> a usage charge.
+>
+> Netscape has recently announced that it will support Java. This may
+> eventually allow us to shift some of the running of the generator
+> onto the clients' CPUs.
+>
+> PEOPLE
+>
+> At the moment, Webgen consists of the following four people:
+>
+> Paul Graham (pg@webgen.com) is an expert on dynamic languages. He is
+> the author of _On Lisp_ (Prentice Hall, 1993) and _ANSI Common Lisp_
+> (Prentice Hall, 1995). He has worked as a consultant to the US
+> Department of Energy, DuPont (for whom he wrote one of the first
+> parametric CAD programs), and Interleaf. He has an AB summa cum
+> laude from Cornell, and a PhD in Computer Science from Harvard.
+>
+> Gino Lee (gino@webgen.com) is Tutor in Printing and Typography at
+> Harvard University and is Director of the Bow & Arrow Press,
+> Harvard's experimental typographic workshop; he teaches subjects
+> including letterpress printing, design history, digital type design,
+> and artist's books. He has been an independent digital type and
+> graphic designer since 1989. In 1990 he won the Society of Printers'
+> Award for Excellence.
+>
+> Robert Morris (rtm@webgen.com) is an expert on computer networks. He
+> has published papers on high-speed networks, wireless
+> communications, and computer security. While in high school he
+> worked at Bell Labs, where he ported TCP/IP (the software on which
+> the Internet is built) to Bell Labs' version of Unix. He later
+> worked for Convex Computers, Thinking Machines, and DEC Systems
+> Research Center. He has an AB in Computer Science from Harvard, and
+> is currently a PhD candidate in Computer Science there.
+>
+> Julian Weber (jlw@webgen.com) has been practicing law in New York
+> for over 30 years. From 1964 to 1979 he was a partner in the firm of
+> Botein, Hays, and Sklar. From 1979 to 1984 he was the president of
+> _The National Lampoon_. He holds a JD from Harvard Law School.
+>
+> Robert and Paul handle the software; Gino is in charge of graphic
+> design; and Julian deals with corporate and legal questions. We are
+> looking for one more person to manage business matters, especially
+> dealing with the press, clients, and potential corporate partners.
+>
+> FINANCES
+>
+> Webgen has no capital. On the other hand, it costs very little to
+> run it, at present. All our equipment is the personal property of
+> the people involved, and the business has no other major
+> expenses. No one has a salary.
+>
+> The company could be self-capitalizing, if necessary. That is, we
+> could use income from initial clients to buy things that we could
+> use to attract more clients.
+>
+> The business would grow a lot faster if we had about $15,000 to
+> spend. This would get us:
+>
+> 1. A computer on which to develop software ($3000).
+>
+> 2. Secure server software ($5000). This does not seem to be an
+>    absolute necessity; there are a lot of sites on the web where you
+>    can send your credit card number unencrypted, and to date there
+>    have been no reports of the numbers being stolen. But catalog
+>    companies may *believe* that a secure link is necessary, and
+>    spending this $5000 would give Webgen a much more professional
+>    look.
+>
+> 3. A high-bandwidth Internet connection ($3000 + $350/month). At
+>    present Webgen has only a 28.8kb connection. This will serve in
+>    the initial stages, when we have few clients. For $350 a month we
+>    can put a server at the site of an ISP and get a slice of their
+>    T1 line. This also means buying another server, which costs
+>    another $3000.
+>
+> Spending some money on advertising might also be a good idea.
+
+
+### Reflection
+
 ## feedback
 
 First day - lot of yawning. While identifying paragraphs to be worked
@@ -1410,3 +1961,60 @@ for half hour after lunch!
 Did about 16+9+5 in about 2.7 hrs, that is still 10 per hour.
 
 And feeling frustrated that sometimes I cannot come up with examples!
+
+Day 4: 
+
+Slept for half hour after lunch, 1 hr lunch and video watching. 
+
+Working on PG article allowed to bump score decently today. Was hard
+sometimes, but most was nice to work on (comfort zone)
+
+Started working on cleaning up the essay.
+
+Tomorrow another 50 and wrap up?
+## The rules of DP (how it looks)
+
+1. It’s designed specifically to improve performance.
+
+2. It can be repeated a lot
+
+3. mentally painful
+
+4. feedback
+## Archive: Where to find the 200 repetitions..
+
+Other articels, my own articles,
+
+for reasons that might be clear to everybody, I think it makes sense
+to examplyfy or work on parts of articels that are really important to
+your life, like 'characteristics of DP`, `alias paradox`, `what STM
+talks about when he says I was not clear with
+
+> You've described [2] using a lovely concrete example. However, [1]
+> is sorely lacking in examples. What is this "organizing
+> information"? Or "providing solutions"? That could be anything from
+> "it's hot today" all the way up to "e = mc^2". Contrast that to PG's
+> [business plan](http://www.paulgraham.com/vwplan.html) for his
+> startup in 1995:
+
+also Life goals, what I should be focussed on and why and things like
+that
+
+also maybe some of my presentations?
+
+Your CV?
+
+Cover letter?
+
+Your profile?
+
+Maybe something from the dynamics course, would be a fun addition to
+add here, especially the part of the virtual work. but maybe it is a
+problem for getting written.
+
+Or someother technical work
+
+Critical thinking .org is rife with 0 examples about how to go about
+things.
+
+
