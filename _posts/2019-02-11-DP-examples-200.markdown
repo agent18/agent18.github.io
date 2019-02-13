@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  "DP focussing on examples and immediate feedback"
+title:  "DP, Identifying Examples"
 date:    09-02-2019 
 categories: posts
 tags: DP, feedback, examples
@@ -51,7 +51,7 @@ unclear issues in "rationality" and some outside material about tough
 technical problems), mark within parentheses each important phrase
 like I did with [1] and [2], check if you've given an example for it,
 and if not, rewrite it with a concrete example. If you're not sure if
-a phrase is important or not, err in favour of an example. 200
+a phrase is important or not, err in favor of an example. 200
 repetitions should be a good start. Soon, you will come to notice
 immediately if you are throwing out words without any concrete
 example, the way a misspelled word in an editor shows up with red
@@ -75,7 +75,7 @@ compared to those wise, brotherly ancients.
 How would you and I tackle that? We would stop at the first phrase in
 the first sentence: "In the age when life on Earth was full". Ok. Give
 me a historical example or empirical evidence for what you mean by
-"life on Earth was full". People had ACs? Cars? Long lives? Lots of
+"life on Earth was full". People had AC's? Cars? Long lives? Lots of
 sex? (Could be true. Could also be not true. Need empirical
 evidence. And if you say you can't get that evidence from millenia
 ago... well, that's the whole point! Why are you using as an example
@@ -98,7 +98,7 @@ sentences).
 > tough technical problems), mark within parentheses each important
 > phrase like I did with [1] and [2], check if you've given an example
 > for it, and if not, rewrite it with a concrete example. If you're not
-> sure if a phrase is important or not, err in favour of an example. 200
+> sure if a phrase is important or not, err in favor of an example. 200
 > repetitions should be a good start. - an STM via e-mail
 
 **Goal**: All fluff words (like problem solving, critical thinking)
@@ -143,10 +143,11 @@ and presenting it. :)
 <!-- as mentions -->
 
 
+---
 
-### What is and isn't DP (38 done)
+### What is and isn't DP (38)
 
-From [my summary on TIO about 'What is and isn't DP'](/DP-CT-examples.html):
+From [my summary on TIO about 'What is and isn't DP'](/DP-CT-examples.html),
 
 > Sometimes I go to basketball practice and try a few shots from one
 > spot. Then I try (some drills in ball handling)[3] to (improve play
@@ -190,7 +191,7 @@ P: this will do jack shit to your performance
 
 E: You will NEVER be better than your peers.
 
----
+  
 
 > The idea of deliberate practice (DP) is quite different from the
 > above form of practice. Jerry Rice according to the author is a near
@@ -264,7 +265,7 @@ E: Shizuka Arakawa, gold medal in figure skating, had fallen on ice
 with her derriere atleast 20000 times. It did get her the gold medal
 after years and years of practice though.
 
----
+  
 
 > **It’s designed specifically to improve performance.**
 
@@ -346,7 +347,7 @@ it drastically tones down the motivation and it becomes such a
 daunting task especially after surviving a grueling weight training
 workout.
 
----
+  
 
 > It can be repeated a lot
 >
@@ -376,7 +377,7 @@ phrases, like I am doing now.
 
  <!-- 25 phrases done up until now. -->
 
----
+  
 
 > Feedback
 >
@@ -441,7 +442,7 @@ before publishing it." #PG
 <!-- 30. -->
 
 
----
+  
 
 > It is painful
 >
@@ -477,7 +478,7 @@ of all kinds, knowing that I might not really make the goal of 200,
 and pushing myself to still make it, is all the strain mentally, and I
 want to let go of it.
 
---- 
+   
 
 > Everyone would achieve greatness if it were easy and fun. But
 > everyone doesn’t and it is not easy and fun. Your willingness to do
@@ -531,8 +532,11 @@ E: be it body building or be it learning to write or play the piano
 
 <!-- 38 done until now... -->
 
+---
 
-### becoming a critic of your thinking (5 done)
+### Becoming a critic of your thinking (5)
+
+From [criticalthinking.org](http://www.criticalthinking.org/pages/becoming-a-critic-of-your-thinking/478),
 
 > There is (nothing more practical than sound thinking)[1]. No matter
 > what your circumstance or goals, no matter where you are, or what
@@ -601,9 +605,11 @@ presentation even, and naturally it showed in the review.
 I think I will be dead before I finish this. I stop here. This is too
 hard or impossible. So many words meaning the same freaking thing.
 
-### Technical writing (8+12+10=30)
+---
 
-Dynamics paper wrote
+### Technical writing (30)
+
+Excerpts from the dynamics paper I wrote long back.
 
 > Abstract—This paper presents a new paradigm for design of
 > (mechanical components that are subjected to dynamic loading in
@@ -641,27 +647,28 @@ P: dynamic component of the total loads are low
 
 E: they are low when for instance people jump on a table, or say a
 table fan rotating at very low speed. A factor of safety or 2-3 can
-easily handle this.
+easily account for the dynamic component
 
 P: not necessarily otherwise
 
 E: The connecting rod of an IC engine is such a component where the
-factor-of-safety (FOS) sign will not work due the link between inertia and
-mass. If you have more FOS, you will have more mass leading to
-larger inertial loads than what you wanted to compensate for in the
-first place.
+factor-of-safety (FOS) method will not work due the coupling between
+inertia and mass. If you have more FOS, you will have more mass
+leading to larger inertial loads, than what you wanted to compensate
+for in the first place.
 
 P: upon a kinetostatic model
 
-E: Where in the angular velocity of the crank in an IC engine is constant
+E: The angular velocity of the crank in an IC engine is constant
 
 P: incorporates the effects of the mass distribution of the resulting
  designed component on the inertial loads themselves
 
-E: effects of mass distribution is taken into account by splitting the
-connecting rod into 2 point masses and a varying I section. This mass
-distribution has a different effect on the inertial loads as opposed
-to the traditions 2 point masses alone.
+E: Mass distribution changes the inertial loads.  Effects of mass
+distribution is taken into account by splitting the connecting rod
+into 2 point masses and a varying I section. This mass distribution
+has a different effect on the inertial loads as opposed to the
+traditional 2 point-masses.
 
 P: significant variations
 
@@ -669,7 +676,7 @@ E: the mass reducing by 30%, the loads reducing by 50%
 
 <!-- 9 phrases -->
 
----
+  
 
 > The process of design of mechanical component usually starts with
 > (the identification of the loads on the component)[1], and (their
@@ -712,17 +719,18 @@ lesser accuracy and simplify the model.
 P: modeling the loads accurately when they vary with time
 
 E: If the loads vary with time you have to make atleast another 360 to 720
-calculations for the case of the IC engine
+calculations for the case of the IC engine. 
 
 P: it is customary to come up with a design based on the available
 knowledge of load
 
-E: So we set the inertial terms to 0 and this makes computation faster
+E: We set the inertial terms to 0 and this makes computation faster
 and straight-forward to get closed form solutions and design the parts.
 
-P: This method (fos method) is not guaranteed to produce the best results
+P: This method (FOS method) is not guaranteed to produce the best results
 
-E: If you apply this to an IC engine, the parts are expected to break.
+E: If you apply this to an IC engine, the parts designed are expected
+to break.
 
 P: dynamic loads are comparable/greater than the static loads on a
 component
@@ -732,9 +740,10 @@ engines rotating at greater than 4000 rpm
 
 P: over-compensation of the loads
 
-E: to account for unknown variations, we take the static loads on a
-table, say due to a man sitting on the table, and then assume the max
-load is going to be 3 times the static load and design the table for that.
+E: To account for unknown variations, we take the static loads on a
+table, say due to a man sitting on it, and then assume the
+maximum load is going to be 3 times the static load and design the
+table for that.
 
 P: detailed analysis of the mass distribution, strength and loading of
 components
@@ -748,7 +757,7 @@ inertia increases loads increase, if the loads increase the dimensions
 increase/change, which have an effect on the mass
 
 
----
+  
 
 > Usually, in the analysis of a connecting rod, its mass is
 > substituted for by an (equivalent system of concentrated
@@ -768,15 +777,15 @@ increase/change, which have an effect on the mass
 
 P: equivalent system of concentrated masses
 
-E: for example the connecting rod is simplified as follows: "One
+E: For example the connecting rod is simplified as follows: "One
 thirds and two thirds of the mass are lumped at the piston and the
 crank end of the connecting rod, respectively."
 
 P: true variation of the dynamic forces on the connecting rod, and
 their effect on the piston pin
 
-E: Another lumping model needs to be used where the connecting rod is
-divided into three parts
+E: The FOS method thinks that there is no fatigue loading on the
+system within every cycle, where as in reality there is fatigue loading.
 
 P: connecting rod is divided into three parts
 
@@ -800,14 +809,15 @@ you can compute the forces as though the system was static
 
 P: solving a simple static case repeatedly
 
-E: Solving the same equations for every degree of rotation of the crank.
+E: Solving the same set of equations for every degree of rotation of
+the crank.
 
 P: huge computer models
 
-E: "Models using Finite Element Methods": for the IC engine simulation
+E: "Models using Finite Element Methods": For the IC engine simulation
 it could take upto 1 hr on a 8gb ram system per simulation.
 
----
+  
 
 > This paper proposes a new design paradigm that incorporates the
 > (effects of dynamic loading on a mechanical component)[1]. The loads
@@ -841,17 +851,21 @@ cyclic loading and overestimates the forces
 
 P: existing design scenario reported in literature
 
-E: This is nothing but the formulas to be used to dimension the
-piston, connecting rod and crank, based on loads
+E: The formulas for stress, used to dimension the piston, connecting
+rod and crank, based on loads
 
 P: it is expected to produce more realistic results as the analysis
-and design modules in each iteration, are refined further
+and design modules in each iteration, (are refined further)
 
 E: For instance, if the mass distribution of the parts resulting in
 better estimates of the inertial load improve, then we should have
 more realistic results.
 
-### Article by Paul graham on writing (16)
+---
+
+### Article by Paul Graham on writing (16)
+
+From [PG's writing on "Writing, Briefly"](http://www.paulgraham.com/writing44.html),
 
 > I think it's far more important to (write well)[1] than most people
 > realize. Writing doesn't just (communicate ideas)[2]; it (generates
@@ -861,27 +875,26 @@ more realistic results.
 
 P: write well; generates ideas
 
-E: writing that generates ideas, clarifies thought implies that you
+E: Writing that generates ideas and clarifies thought implies that you
 are writing well. For example, I was writing an article on my career
 choices and found that it didn't make much of a difference to me to
 save 600 lives as opposed to 500 lives. I was looking at them like
-€. It was during this writing that discovered for myself about how
-wrong I was.
+they were €'s. It was during this writing that discovered for myself
+about how wrong I was.
 
-I was constantly worrying myself about how I cound't save 10k lives and I
-was treating the difference between 500 and 600 lives as meh! It was
-with this article, when I was writing it, that I understood why a 100
-lives is nothing short of incredible
+I was constantly worrying myself about how I couldn't save 10k lives
+while I was treating the difference between 500 and 600 lives as meh!
+It was with this article, when I was writing it, that I understood why
+even a 100 lives is nothing short of incredible.
 
 P: communicate ideas
 
 E: PG writes blogs after blogs to share his ideas with people, ideas
 on how to write, how a business plan should look, etc...
 
-
 P: bad at writing
 
-E: writing that does not communicate ideas or generate them would be
+E: Writing that does not communicate ideas or generate them would be
 considered bad writing. If you look at [this article](/Answers-finale.html) on the
 purpose of life you will get an idea of what I am talking about. I
 wrote it a while back based on the discussion I had with an STM, but
@@ -931,19 +944,18 @@ hrs and then 45 mins respectively[2]. The rough version has spelling
 mistakes, formatting errors, lots of text dump. I reduced the word
 count drastically (30 to 50%) by the final edition [3].
 
-E2: for example...
+For example...
 
-**Bad version**
-The purpose of life is to save people because that is what you want
-to do. Imagine you are walking on the street and see a baby floating
-in the water (i.e., a massive chance of dying), wouldn't you save it?
-Now think of a child in Africa who is starving, boy that motherfucker
-is hungry as hell for so 5 days and no one is able to help him, he is
-a fucking kid, and here you are deciding which phone to buy and
-worrying about it. I was recently starving my ass off and very much
-needed food but would have to go through some tasks before getting to
-it, imagine being like that every single time. What should you do with
-your money again? 
+**Bad version 1** The purpose of life is to save people because that is
+what you want to do. Imagine you are walking on the street and see a
+baby floating in the water (i.e., a massive chance of dying), wouldn't
+you save it?  Now think of a child in Africa who is starving, boy that
+mothafreaker is hungry as hell for so 5 days and no one is able to
+help him, he is a fucking kid, and here you are deciding which phone
+to buy and worrying about it. I was recently starving my ass off and
+very much needed food but would have to go through some tasks before
+getting to it, imagine being like that every single time. What should
+you do with your money again?
 
 **First rewrite**
 The purpose of life is to save as many people as possible, in the
@@ -951,14 +963,13 @@ present and in the future. The value of life is X, saving nX lives
 gets you n times the value.
 
 Imagine the pain of starving. I very badly wanted to eat at 4 pm one
-day. but I had to weight train and then do some strenuous cardio and
+day. but I had to weight-train and then do some strenuous cardio and
 then go back somewhere and find my food and heat it up. It was 7pm. I
 was pushing every ounce of motivation towards keeping me upright and
 finishing my work. A starving child in Africa has to starve more than
 often. All you have to do is not eat that chocolate, or not eat
-outside and he could eat a glorious meal and send that money out to
-some NGO. How could I be justified in eating a chocolate while an
-innocent kid for no fault of his starve.
+outside and he could eat a glorious meal. How could I be justified in
+eating a chocolate while an innocent kid for no fault of his starves.
 
 **Second re-write**
 
@@ -967,7 +978,7 @@ to starve (a kid who has probably been starving for atleast a meal
 before) or go to a nice Indian restaurant. The choice is simple in'it?
 What should I be doing again?
 
----
+  
 
 P: 
 >write in a conversational tone;[4]
@@ -980,15 +991,18 @@ E: I think this means, write like you talk. The following is an example.
 >is meant to compensate for the unknown variations of the actual
 >loads.
 
+Uff!
+
 **Writing like your talking!**
 Traditionally such design tasks are handled by artificially raising
 the level of the static load, i.e., factor of safety design. This is
 expected to compensate for the variations in the actual load.
 
-Ok, So do not write ridiculously wrong sentences. Speak what you want
-to write inside your head and then write it
+Much better I think! Ok, So do not write ridiculously long
+sentences. Speak what you want to write inside your head and then
+write it.
 
----
+  
 
 P:
 > develop a nose for bad writing[5], so you can see and fix it in
@@ -999,32 +1013,33 @@ how to develop a nose for good and bad writing and how to fix it. In
 the process you end up imitating the writers you like as you use their
 work as reference.
 
-Benjamin Franklin took the Spectator and made notes of it and after a
-few days, re-wrote them in his own words. In the end he compared his
-work to the original and understood what all he could do better. He
-focussed on one skill at a time such as writing organization
-vocabulary etc... This he did many many times to become "America's
-first great man of letters". [5,6,7]
+Benjamin Franklin took the Spectator and made notes of it. After a few
+days, re-wrote them in his own words, compared his work to the
+original, and understood what all he could do better. He focused on
+one skill at a time, such as writing-organization, vocabulary
+etc... This he did many many times to become "America's first great
+man of letters". [5,6,7]
 
---- 
+   
 
 P: 
 > use anaphora to knit sentences together[8]
 
-E: DP is hard DP is repetition DP is a lot about feedback DP is painful
-DP is needed DP is going to make you a legend
+E: DP is hard, DP is repetition, DP is a lot about feedback, DP is painful,
+DP is needed, DP is going to make you a legend.
 
 
----
+  
 
 P: 
 > work in fairly big quanta of time[9]
 
-E: I don't work on essays or even data science if I have less than 2 hrs
-to give it. Usually I finish all my work and have like 3-4 hrs left at
-the end of the day, when I pick up essay writing.
+E: I don't work on essays or even data science if I have less than 2
+hrs to give it. Usually I finish all my work and have like 3-4 hrs
+left at the end of the day, which is when I pick up essay writing.
 
----
+  
+
 P: 
 > use simple, germanic words[10]; learn to distinguish surprises from
 > digressions[11]; learn to recognize the approach of an ending, and
@@ -1036,7 +1051,7 @@ for [12] either.
 In the last essay on [DP](/DP-CT-examples.html), I was following the Benjamin Franklin
 method and trying to find out how I compared to an essay written by an
 STM. I was writing some final words, when I jumped out of my way to
-write about Unconscious consistency. It was nice for me to understand
+write about `Unconscious consistency`. It was nice for me to understand
 that separately, but it didn't fit in the context and I put it in as a
 note. This seems like a digression[11].
 
@@ -1057,9 +1072,9 @@ my thinking happens only during writing. So I write, write and write.
 <!-- 16 at the end of this -->
 
 
-### My cover letter
+### Article by Eliezer Y on Availability (9)
 
-### article by eliezer on Availabilty(9 done)
+From [EY's blog on Availability Bias](https://www.lesswrong.com/posts/R8cpqD3NA4rZxRdQ4/availability),
 
 > The availability heuristic is (judging the frequency or probability
 > of an event, by the ease with which examples of the event come to
@@ -1101,7 +1116,7 @@ two dangers occurred more frequently
 E: "subjects thought accidents caused about as many deaths as disease,
 but diseases cause about 16 times as many deaths as accident."
 
----
+  
 
 > (Selective reporting is one major source of availability biases)[1].
 > In the ancestral environment, much of what you knew, you experienced
@@ -1131,7 +1146,7 @@ maybe tempter to compare your life success to his. Conversely, 19% of
 the planet lives on less than $1/day, and I doubt that one fifth of
 the blog posts you read are written by them."
 
----
+  
 
 > (Using availability seems to give rise to an absurdity bias)[1];
 > events that have never happened, are not recalled, and hence deemed
@@ -1160,7 +1175,7 @@ false sense of security, leading to reduced precautions. While
 building dams decreases the frequency of floods, damage per flood is
 afterward so much greater that average yearly damage increases."
 
----
+  
 
 > (The wise would extrapolate from a memory of small hazards to the
 > possibility of large hazards)[1]. (Instead, past experience of small
@@ -1204,7 +1219,9 @@ selective reporting. But that is wrong. When predictions in the past
 are already wrong, and if extrapolation of the past is a way to see in
 the future, then the future is also going to be wrong.
 
-### Article by Eliezer on scope insensitivity (12)
+### Article by Eliezer Y on Scope Insensitivity (12)
+
+[From EY's blog on Scope Insensitivity](https://www.lesswrong.com/posts/2ftJ38y9SRBCBsCzy/scope-insensitivity),
 
 > Once upon a time, three groups of subjects were asked how much they
 > would pay to save 2000 / 20000 / 200000 migrating birds from
@@ -1227,7 +1244,7 @@ would pay to save 2000 / 20000 / 200000 migrating birds from
 drowning in uncovered oil ponds. The groups respectively answered
 $80, $78, and $88.
 
-Toronto residents would pay little more to clean up all polluted lakes
+E2&3: Toronto residents would pay little more to clean up all polluted lakes
 in Ontario than polluted lakes in a particular region of Ontario, or
 that residents of four western US states would pay only 28% more to
 protect all 57 wilderness areas in those states than to protect a
@@ -1258,7 +1275,8 @@ P: this small amount of affect is added, not multiplied, with the
 prototype affect [3]
 
 E: Studies show that people pay 80$, 78$ and 88$ when asked about
-saving 2k, 20k and 200k birds respectively.
+saving 2k, 20k and 200k birds respectively. Increase in birds
+exponentially, causes barely an increase in donations.
 
 P: Valuation of prototype [4]
 
@@ -1284,7 +1302,7 @@ it was Bill Gates he would probably give 100$ or more without thought.
 
 P: but it certainly has noting to do with the number of birds [3]
 
-E: Value of 2k, 20k, and 200k birds, being in the same order.
+E: Donations for 2k, 20k, and 200k birds, being in the same order.
 
 > (We are insensitive to scope even when human lives are at stake)[1]:
 > Increasing the alleged risk of chlorinated drinking water from 0.004
@@ -1295,7 +1313,7 @@ E: Value of 2k, 20k, and 200k birds, being in the same order.
 P: We are insensitive to scope even when human lives are at stake[1].
 
 E: "WTP increased from 3.78$ to 15.23$ even though there was a factor
-600 increase.
+600 increase in the number of human lives at risk."
 
 > A paper entitled Insensitivity to the value of human life: A study
 > of psychological numbing collected evidence that our (perception of
@@ -1328,294 +1346,16 @@ P: if you want to be an effective altruist, you have to think it
 through with the part of your brain that processes those unexciting
 inky zeroes on paper[1]
 
-E: if value of 2k birds = 80$ then 20k birds = 80$*1000
+E: if value of 2k birds as 80$ then 20k birds are valued at 80$*1000
 
 P: if you want to be an effective altruist it is not enough to get
 worked up about poor struggling oil-soaked bird[2]
 
-E: 2k, 20k, 200k birds will all mean the same to you.
+E: As 2k, 20k, 200k birds will all mean the same to you.
 
+### Article by PG on business plan(37)
 
-
-
-### Article by Paul graham on schelps
-
-> There are ((great startup ideas)[1] lying around unexploited right
-> under our noses)[2]. One reason we don't see them is a phenomenon I call
-> (schlep blindness)[3]. Schlep was originally a Yiddish word but has
-> passed into general use in the US. It means a (tedious, unpleasant
-> task)[4].
-
-> No one likes schleps, but hackers especially (dislike them)[5]. Most
-> hackers who start startups wish they could do it by just writing
-> some clever software, putting it on a server somewhere, and watching
-> the money roll in—without ever having to talk to users, or negotiate
-> with other companies, or deal with other people's broken code. Maybe
-> that's possible, but I haven't seen it.
-
-P: great startup ideas
-
-E: Dropbox, ASML, Paypal, Tesla (greatness measured by success)
-
-P: great startup ideas lying around unexploited right under our noses
-
-E: perhaps an NGO that works with the government to provide free or
-dirt cheap extensive health care for all in need
-
-P: tedious, unpleasant task
-
-E: I am discouraged to pursue it as there is so many things involved,
-it will probably not happen within my lifetime!, you have to penetrate
-into the government SOMEHOW, you need to make deals, you need to
-followup, there will be power changes etc... and you need to deal with
-all of this before such a thing happens I guess
-
-E2: I worked in a company where there were 40 designers sharing one
-license of part of software. Not many people used it often but when I
-needed it I always had to beg around and ask for it and waste quite
-some time. To fix it I would need to talk to a few people who have the
-problem, escalate it to the VP of the company and keep following it up
-for months before I see any follow up. I didn't. I just left it as I
-was somehow able to finish my work.  Then it happened again. I
-escalated it.
-
-P: people dislike schleps
-
-E: I guess the one thing that is stopping me from pursuing starting or
-joining an NGO to support healthcare for the poor, is all the work
-that I need to do, right from my education, to handling uncertainty of
-such an initiative (mainly coming from schleps?)
-
-
-> One of the many things we do at Y Combinator is teach hackers about
-> (the inevitability of schleps)[6]. No, you can't start a startup by just
-> writing code. I remember going through this realization
-> myself. There was a point in 1995 when I was still trying to
-> convince myself I could start a company by just writing code. But I
-> soon learned from experience that schleps are not merely inevitable,
-> but pretty much what business consists of. A company is defined by
-> the schleps it will undertake. And schleps should be dealt with the
-> same way you'd deal with a cold swimming pool: just jump in. Which
-> is not to say you should seek out unpleasant work per se, but that
-> you should (never shrink from it if it's on the path to something
-> great.)[7]
-
-P: the inevitability of schleps
-
-E: Buying groceries has schleps (you need to go there, stand in que),
-buying groceries online has schleps (you freaking need to be home for
-2 hrs to collect it), 
-
-I wan't to be able to clock hours after hours in the silent room in
-the library, but guess what, I need to cook, I need to pack my work in
-bags, unfreeze the food for the next day, clean plates, buy the
-missing ingredients from stores that close before 10pm.
-
-You want to find another house where the roof doesn't creek and is in
-the same city of your work? #Schleps. You need to find someone for
-your current place, you need to find a new place within the Budget.
-
-Schleps got to be done.
-
-P: never shrink from it if it's on the path to something great
-
-E: You still need to eat, live in a place of mental peace so you need
-to put in the work of cooking and storing the food and finding a roof
-above your head that allows you to sleep on time.
-
-> The most dangerous thing about our dislike of schleps is that much
-> of it is unconscious. (Your unconscious won't even let you see ideas
-> that involve painful schleps)[8]. That's schlep blindness.
->
-> The phenomenon isn't limited to startups. Most people don't
-> consciously decide not to be in as good physical shape as Olympic
-> athletes, for example. Their unconscious mind decides for them,
-> shrinking from the work involved.
-
-P: Your unconscious won't even let you see ideas that involve painful
-schleps
-
-E: "Most people don't consciously decide not to be in as good physical
-shape as Olympic athletes, for example. Their unconscious mind decides
-for them, shrinking from the work involved."
-
-E2: I freaking don't go to a phisio but complain to myself for the
-last 3-5 months everytime I go to the gym because of
-#schleps. Wow. The Schleps though is that I keep a schedule and I hate
-it if it gets disturbed, I have to call the phisio during the schedule
-("I don't have time you see")
-
-Before and after every basket ball session, I need to warm up and cool
-down my leg muscles, but I don't cause it is a schlep.
-
-I hesitate like hell to spend 20$ additional to my monthly budget on
-foam roller (but spend much more money on all sorts of shit), because
-of schleps? The task of loosing even a few $ is inherently a schlep.
-
-> The (most striking example)[9] I know of schlep blindness is Stripe, or
-> rather Stripe's idea. For over a decade, every hacker who'd ever had
-> to process payments online knew how painful the experience
-> was. Thousands of people must have known about this problem. And yet
-> when they started startups, they decided to build recipe sites, or
-> aggregators for local events. Why? Why work on problems few care
-> much about and no one will pay for, when you could fix one of the
-> most important components of the world's infrastructure? Because
-> schlep blindness prevented people from even considering the idea of
-> fixing payments.
-
-P: most striking example
-
-E: stripe took the hardest problem (considering schleps), and
-solved it despite so many people having the same problem
-
-> Probably no one who applied to Y Combinator to work on a recipe site
-> began by asking "should we fix payments, or build a recipe site?"
-> and chose the recipe site. (Though the idea of fixing payments was
-> right there in plain sight, they never saw it, because their
-> unconscious mind shrank from the complications involved)[10]. You'd have
-> to make deals with banks. How do you do that? Plus you're moving
-> money, so you're going to have to deal with fraud, and people trying
-> to break into your servers. Plus there are probably all sorts of
-> regulations to comply with. It's a lot more intimidating to start a
-> startup like this than a recipe site.
-
-P: Though the idea of fixing payments was right there in plain sight,
-they never saw it, because their unconscious mind shrank from the
-complications involved.
-
-E: You'd have to make deals with banks. How do you do that? Plus
-you're moving money, so you're going to have to deal with fraud, and
-people trying to break into your servers. Plus there are probably all
-sorts of regulations to comply with. It's a lot more intimidating to
-start a startup like this than a recipe site.
-
-> (That scariness makes ambitious ideas doubly valuable)[11]. In
-> addition to (their intrinsic value)[12], (they're like undervalued
-> stocks)[13] in the sense that there's less demand for them among
-> founders. If you (pick an ambitious idea, you'll have less
-> competition)[14], because everyone else will have been frightened off
-> by the challenges involved. (This is also true of starting a startup
-> generally)[15].
-
-P: that scariness makes ambitious ideas doubly valuable
-
-E: No one made Stripe before and once Stripe came in they had the
-whole market to themselves, unlike other startups making recipe sites
-at Y combinator
-
-P: their intrinsic value
-
-E: ??
-
-P: their undervalued stocks
-
-E: "there is less demand for them from founders", but they are
-cash cows
-
-P: if you pick up an ambitious idea, you'll have less competition;
-this is also true of starting a startup generally
-
-E: Stripe had 0 competitors when they started.
-
-SpaceX's by far extremely ambitious with its plans to go to Mars, and
-guess what 0 competition.
-
-Tesla is pioneering the way of the future and has only one other
-serious competitor P: This is also true of starting a startup
-generally.
-
-if you want to become an olympic medalist in figure skating, you a few
-10s in competition at that level
-
-
-> How do you (overcome schlep blindness)[]? Frankly, (the most valuable
-> antidote to schlep blindness is probably ignorance)[]. Most successful
-> founders would probably say that if they'd known when they were
-> starting their company about the obstacles they'd have to overcome,
-> they might never have started it. Maybe that's one reason the most
-> successful startups of all so often have young founders.
-
-P: overcome schlep blindness
-
-E: Starting Tesla, Starting Space X, Starting Stripe 
-
-P: the most valuable antidote to schlep blindness is probably
-ignorance
-
-E: If Elon Musk knew the type of problems he would face such as
-constant backlash with investors, constantly being scrutinized by the
-public, having to stay at work 24x7 while accelerating the progress of
-humanity, he probably woudn't have started.(bold claim, please read
-with caution)
-
-Someone from Indian Institute of Technology started Ather Energy,
-which is similar in concept to Tesla but for India and they are for
-bikes, not cars. When the two founders started they didn't have a
-strong idea of what all they needed to tackle, how to handle the
-problem of charging the vehicles, how to sell the product, are people
-going to even buy it, is there a market for it, who is going to fund
-such an idea? What about competing with other vehicles. Atleast they
-were not too concerned with it. All they wanted to do was build
-electric vehicles. The city needed a better class of electric vehicles
-and they were going to give it.
-
-Initially they wanted to come up with battery swap. The logistical
-nightmare it would be, was ridiculous. He had some ideas of tackling
-it but was not really worried about it. (ignorance?)
-
-
-
-> In practice the (founders grow with the problems)[]. But no one seems
-> able to foresee that, not even older, more experienced founders. So
-> the reason younger founders have an advantage is that (they make two
-> mistakes that cancel each other out)[]. They don't know how much they
-> can grow, but they also don't know how much they'll need to. Older
-> founders only make the first mistake.
-
-P: founders grow with problems
-
-E: Today Ather Energy are killing it, having been backed by some of
-the giants in the industry, attempting to revolutionize e-bikes in a
-country like India. Every single problem I talked about, they seem to
-have grown to handle it. For example, if people need to charge their
-bikes, they decided to give them charging stations with quick charging
-in several locations. They introduced a bunch of features using
-smart phones to locate them and check if the stations are free. They
-have started this already in Banglore and trying to expand to other
-cities.
-
-P: They (young founders) make two mistakes that cancel each other out
-
-E: They don't know how much they can grow, but they also don't know
-how much they'll need to.
-
-
-> (Ignorance can't solve everything though)[]. (Some ideas so obviously
-> entail alarming schleps that anyone can see them)[]. How do you see
-> ideas like that? The trick I recommend is to (take yourself out of
-> the picture)[]. Instead of asking ("what problem should I solve?" ask
-> "what problem do I wish someone else would solve for me?")[] If someone
-> who had to process payments before Stripe had tried asking that,
-> Stripe would have been one of the first things they wished for.
->
-> It's too late now to be Stripe, but there's plenty still broken in
-> the world, if you know how to see it.
-
-P: ignorance can't solve everything though
-
-E: if you don't see the problem its is one thing but what if you do?
-
-P: 
-
-E: Ather Energy knew that no one would come forward to providing
-charging stations. Without Charging stations infrastructure their
-product was going to fail. [It was a chicken and egg problem. The
-infrastructure companies would have to see enough demand to provide
-charging stations, and only if there are enough charging stations, the
-company making e-bikes could survive.](https://youtu.be/iecq6vSr-EQ?t=1399) So they decided to take that
-on as well. Ather Grid.
-
-### Article by PG on business plan(37...)
+From [PG's blog on Webgen's business plan](http://www.paulgraham.com/vwplan.html),
 
 > I recently found what I think is Viaweb's original (business plan)[1]. I
 > didn't know what a business plan was supposed to have in it, so I
@@ -1647,7 +1387,7 @@ E: Github, Wordpress, Blogger
 
 P: Web interface [2]
 
-E: Browser?
+E: Browser, websites
 
 P: Web-based site generator [3]
 
@@ -1698,7 +1438,7 @@ P: lower the cost [3]
 
 E: "by 90%"
 
-P: Volume is not limited by the number of client we can serve
+P: Volume is not limited by the number of clients we can serve
 personally.[4]
 
 E: Alphabet serves billions of people, where as Mckinsey serves a
@@ -1754,8 +1494,7 @@ E: "anyone who can use netscape can generate catalogs at Webgen"
 P: Large number of companies who would like to able to market products
 online [1]
 
-E: No examples given by PG surprisingly, it's not within the scope of
-this essay
+E: Have a look at amazon; books, furniture, clothes, food etc...
 
 P: if it were cheaper and easier [2]
 
@@ -1777,8 +1516,8 @@ it"
 
 P: assuming if it succeeds [1]
 
-E: if the company makes profits or if the company has more than 100
-clients?
+E: if the company makes profits or if the company is capable of
+sustaining itself
 
 P: a very big role[2]
 
@@ -1818,7 +1557,7 @@ software packages"
 
 P: When someone wants to sell things on the Web, how will they do it
 
-E: "Either go an MCI or set up your own server
+E: "Either go an MCI or set up your own server"
 
 P: if selling things online were like other software applications, the
 future of the market would be general-purpose software packages
@@ -1842,7 +1581,7 @@ $2000/mo"
 
 P: difficult
 
-E: ...
+E: No idea
 
 > So the next best solution is to have a (general-purpose catalog
 > generator)[1], but have someone else handle the server
@@ -1924,349 +1663,551 @@ P: selling a service
 
 E: like MCI
 
-37
+<!-- 37 -->
+
+  
+---
+
+### Article by Paul graham on Schleps Blindness (24)
+
+> There are ((great startup ideas)[1] lying around unexploited right
+> under our noses)[2]. One reason we don't see them is a phenomenon I call
+> (schlep blindness)[3]. Schlep was originally a Yiddish word but has
+> passed into general use in the US. It means a (tedious, unpleasant
+> task)[4].
+
+> No one likes schleps, but hackers especially (dislike them)[5]. Most
+> hackers who start startups wish they could do it by just writing
+> some clever software, putting it on a server somewhere, and watching
+> the money roll in—without ever having to talk to users, or negotiate
+> with other companies, or deal with other people's broken code. Maybe
+> that's possible, but I haven't seen it.
+
+P: great startup ideas
+
+E: Dropbox, ASML, Paypal, Tesla (greatness measured by success)
+
+P: great startup ideas lying around unexploited right under our noses
+
+E: perhaps an NGO that works with the government to provide free or
+dirt cheap extensive health care for all in need
+
+P: tedious, unpleasant task
+
+E: I am discouraged to pursue starting up as there is so much
+unpleasant uncertainty, it will probably not happen within my
+lifetime; you have to penetrate your vision into the government
+SOMEHOW; you need to make deals; you need to followup; there will be
+power changes; I need to have the right skill before I take it up
+etc...
+
+E2: I worked in a company where there were 40 designers sharing one
+license for part of software. Not many people used it often but when I
+needed it I always had to beg around and ask for it and waste quite
+some time. To fix it I would need to talk to a few people who have the
+problem, escalate it to the VP of the company and keep following it up
+for months before I see any follow up. So, I didn't. I just left it as
+I was somehow able to finish my work. Then it happened again. I
+escalated it. This time I didn't follow it up though. #schleps
+
+P: people dislike schleps
+
+E: I guess the one thing that is stopping me from pursuing starting or
+joining an NGO to support healthcare for the poor, is all the work
+that I need to do, right from my education, to handling uncertainty of
+such an initiative (mainly coming from schleps?)
+
+> One of the many things we do at Y Combinator is teach hackers about
+> (the inevitability of schleps)[6]. No, you can't start a startup by just
+> writing code. I remember going through this realization
+> myself. There was a point in 1995 when I was still trying to
+> convince myself I could start a company by just writing code. But I
+> soon learned from experience that schleps are not merely inevitable,
+> but pretty much what business consists of. A company is defined by
+> the schleps it will undertake. And schleps should be dealt with the
+> same way you'd deal with a cold swimming pool: just jump in. Which
+> is not to say you should seek out unpleasant work per se, but that
+> you should (never shrink from it if it's on the path to something
+> great.)[7]
+
+P: the inevitability of schleps
+
+E: Buying groceries has schleps (you need to go there, stand in que),
+buying groceries online has schleps (you freaking need to be home for
+2 hrs to collect it), 
+
+I want to be able to clock hours after hours in the silent room in
+the library. But guess what, I need to cook, I need to pack my work in
+bags, unfreeze the food for the next day, clean plates, buy the
+missing ingredients from stores that close before 10pm. Schleps is
+everywhere.
+
+You want to find another house where the roof doesn't creek and is in
+the same city of your work? #Schleps. You need to find someone for
+your current place, you need to find a new place within the Budget,
+you need to spend hours on the website.
+
+Schleps got to be done.
+
+P: never shrink from it if it's on the path to something great
+
+E: You still need to eat, live in a space of mental peace. So you need
+to put in the work of cooking, storing the food and finding a roof
+above your head that allows you to sleep on time etc...
+
+> The most dangerous thing about our dislike of schleps is that much
+> of it is unconscious. (Your unconscious won't even let you see ideas
+> that involve painful schleps)[8]. That's schlep blindness.
+>
+> The phenomenon isn't limited to startups. Most people don't
+> consciously decide not to be in as good physical shape as Olympic
+> athletes, for example. Their unconscious mind decides for them,
+> shrinking from the work involved.
+
+P: Your unconscious won't even let you see ideas that involve painful
+schleps
+
+E: "Most people don't consciously decide not to be in as good physical
+shape as Olympic athletes, for example. Their unconscious mind decides
+for them, shrinking from the work involved."
+
+E2: I freaking don't go to a phisio but complain to myself for the
+last 3-5 months everytime I go to the gym because of
+#schleps. Wow. The Schleps though is that I keep a schedule and I hate
+it if it gets disturbed, I have to call the phisio during the schedule
+("I don't have time you see")
+
+E3: Fat caliper allows to calculate the muscle mass and fat%, my
+unconscious has decided *not to give* me this feedback as it is a schlep
+that I have to do every Monday night for about 10-15 mins
+
+E4: It helps to stretch leg muscles before and after strenuous
+cardio. It is a schlep, and I have schlep blindness.
+
+E5: I suspect not many people donate and it's schlep blindness. Once a
+year we have the opportunity to donate 10$ from the company or get
+gifts for it instead. A large number of people chose gifts. It appears
+that their unconscious has decided for them shrinking from the schlep
+(aka, having to forgo a bag of gifts).
+
+> The (most striking example)[9] I know of schlep blindness is Stripe, or
+> rather Stripe's idea. For over a decade, every hacker who'd ever had
+> to process payments online knew how painful the experience
+> was. Thousands of people must have known about this problem. And yet
+> when they started startups, they decided to build recipe sites, or
+> aggregators for local events. Why? Why work on problems few care
+> much about and no one will pay for, when you could fix one of the
+> most important components of the world's infrastructure? Because
+> schlep blindness prevented people from even considering the idea of
+> fixing payments.
+
+P: most striking example
+
+E: Stripe took the hardest problem (considering schleps), and
+solved it despite so many people having the same problem
+
+> Probably no one who applied to Y Combinator to work on a recipe site
+> began by asking "should we fix payments, or build a recipe site?"
+> and chose the recipe site. (Though the idea of fixing payments was
+> right there in plain sight, they never saw it, because their
+> unconscious mind shrank from the complications involved)[10]. You'd have
+> to make deals with banks. How do you do that? Plus you're moving
+> money, so you're going to have to deal with fraud, and people trying
+> to break into your servers. Plus there are probably all sorts of
+> regulations to comply with. It's a lot more intimidating to start a
+> startup like this than a recipe site.
+
+P: Though the idea of fixing payments was right there in plain sight,
+they never saw it, because their unconscious mind shrank from the
+complications involved.
+
+E: "You'd have to make deals with banks. How do you do that? Plus
+you're moving money, so you're going to have to deal with fraud, and
+people trying to break into your servers. Plus there are probably all
+sorts of regulations to comply with. It's a lot more intimidating to
+start a startup like this than a recipe site."
+
+> (That scariness makes ambitious ideas doubly valuable)[11]. In
+> addition to (their intrinsic value)[12], (they're like undervalued
+> stocks)[13] in the sense that there's less demand for them among
+> founders. If you (pick an ambitious idea, you'll have less
+> competition)[14], because everyone else will have been frightened off
+> by the challenges involved. (This is also true of starting a startup
+> generally)[15].
+
+P: That scariness makes ambitious ideas doubly valuable
+
+E: No one made Stripe before and once Stripe came in they had the
+whole market to themselves, unlike other startups making recipe sites
+at Y combinator, which everyone has already made.
+
+P: their intrinsic value
+
+E: ??
+
+P: their undervalued stocks
+
+E: "there is less demand for them from founders", but they are
+cash cows
+
+P: if you pick up an ambitious idea, you'll have less competition;
+this is also true of starting a startup generally
+
+E: Stripe had 0 competitors when they started.
+
+SpaceX's by far extremely ambitious with its plans to go to Mars, and
+guess what 0 competition.
+
+Tesla is pioneering the way of the future and has only one other
+serious competitor 
+
+> How do you (overcome schlep blindness)[1]? Frankly, (the most valuable
+> antidote to schlep blindness is probably ignorance)[2]. Most successful
+> founders would probably say that if they'd known when they were
+> starting their company about the obstacles they'd have to overcome,
+> they might never have started it. Maybe that's one reason the most
+> successful startups of all so often have young founders.
+
+P: overcome schlep blindness
+
+E: Starting Tesla, Starting Space X, Starting Stripe irrespective of
+the schleps
+
+P: the most valuable antidote to schlep blindness is probably
+ignorance
+
+E: If Elon Musk knew the type of problems he would face such as
+constant backlash with investors, the uncertainty of the company
+existing every single day, constantly being scrutinized by the public
+and having to stay at work 24x7 while accelerating the progress of
+humanity, he probably wouldn't have started it.(bold claim, please
+read with caution)
+
+2 people from Indian Institute of Technology started Ather Energy,
+which is similar in concept to Tesla but for India and they are for
+bikes, not cars. When the two founders started they didn't have a
+strong idea of what all they needed to tackle; how to handle the
+problem of charging the vehicles; how to sell the product; are people
+going to even buy it; is there a market for it; who is going to fund
+such an idea; What about competing with other vehicles etc... Atleast
+they were not too concerned with it. All they wanted to do was build
+electric vehicles. The city needed a better class of electric vehicles
+and they were going to give it. Period.
+
+Initially they wanted to come up with battery swap. The logistical
+nightmare it would be, was ridiculous. He had some ideas of tackling
+it, like running pilot tests, but was not really worried about
+it. Ignorance? I think so. They had no vision of the hurdles they had
+to cross to put an e-bike on the market. 
+
+> In practice the (founders grow with the problems)[1]. But no one seems
+> able to foresee that, not even older, more experienced founders. So
+> the reason younger founders have an advantage is that (they make two
+> mistakes that cancel each other out)[2]. They don't know how much they
+> can grow, but they also don't know how much they'll need to. Older
+> founders only make the first mistake.
+
+P: founders grow with problems
+
+E: The founders have no previous history of managing anything. Both
+were extremely technical people. Today Ather Energy is killing it,
+having been backed by some of the biggest giants in the industry,
+attempting to revolutionize e-bikes in a country like India. Every
+single problem I talked about, they seem to have grown to handle
+it. For example, if people need to charge their bikes, they decided to
+give them charging stations with quick charging in several
+locations. They introduced a bunch of features using smart phones to
+locate them and check if the stations are free. They have started this
+already in Banglore and are trying to expand to other cities.
+
+P: They (young founders) make two mistakes that cancel each other out
+
+E: They don't know how much they can grow, but they also don't know
+how much they'll need to.
+
+
+> (Ignorance can't solve everything though)[1]. (Some ideas so
+> obviously entail alarming schleps that anyone can see them)[2]. How
+> do you see ideas like that? The trick I recommend is to (take
+> yourself out of the picture)[3]. Instead of asking ("what problem
+> should I solve?" ask "what problem do I wish someone else would
+> solve for me?")[4] If someone who had to process payments before
+> Stripe had tried asking that, Stripe would have been one of the
+> first things they wished for.
+>
+> It's too late now to be Stripe, (but there's plenty still broken in
+> the world, if you know how to see it)[5].
+
+P: ignorance can't solve everything though; Some ideas so obviously
+entail alarming schleps that anyone can see them; take yourself out of
+the picture; what problem do I wish someone else would solve for me
+
+E: After the company matured a bit, Ather Energy knew that no one
+would come forward to providing charging stations. Without Charging
+stations infrastructure, their product was going to fail. [It was a
+chicken and egg problem. The infrastructure companies would have to
+see enough demand to provide charging stations, and only if there are
+enough charging stations, the company making e-bikes could
+survive.](https://youtu.be/iecq6vSr-EQ?t=1399) So they decided to take that on as well. Ather Grid.
+
+Ask not what I should solve, ask what problem do I wish someone else
+would solve for me! This way you see without the schleps.
+
+P: but there's plenty still broken in the world
+
+E: For some of the hottest problems look [no further than here](https://80000hours.org/problem-profiles/)
+
 
 ---
 
-> THE SYSTEM
+## Reflection
+
+I am happy about most of the work, except the technical writing. I
+constantly felt it was really bad. For example...
+
+> P: modeling the loads accurately when they vary with time
 >
-> Webgen's formula has three ingredients:
+> E: If the loads vary with time you have to make atleast another 360 to 720
+> calculations for the case of the IC engine. 
 >
-> 1. A server (www.webgen.com) that can serve catalogs and support
->    ordering.
+> P: it is customary to come up with a design based on the available
+> knowledge of load
 >
-> 2. A generator that can generate catalogs to be served at the site.
+> E: We set the inertial terms to 0 and this makes computation faster
+> and straight-forward to get closed form solutions and design the
+> parts.
 >
-> 3. An interface that allows users anywhere on the web to modify and
->    regenerate their catalogs interactively.
+> P: over-compensation of the loads
 >
-> The site is already up and running, though at present the only
-> catalog on the server is one that we made for demos. All three
-> ingredients already work. (The demo catalog can be seen by following
-> the "Clients" link on our home page, which is at
-> http://www.webgen.com)
+> E: To account for unknown variations, we take the static loads on a
+> table, say due to a man sitting on it, and then assume the
+> maximum load is going to be 3 times the static load and design the
+> table for that.
 >
-> We are now polishing the software to make it faster and easier to
-> use, but we believe it is already the most sophisticated web catalog
-> generator available. Webgen can do several things that we do not
-> believe any other generator can do:
+> P: detailed analysis of the mass distribution, strength and loading of
+> components
 >
-> 1. The big win, of course, is the interactive interface. It is this
->    that makes it possible for Webgen to be a software company that
->    sells its generator to everyone, instead of service company that
->    uses it in-house.
+> E: for example using Finite Element Methods
+
+I know in all these cases atleast there needs some more work from my
+side, as I do not explain the connection between the phrase and the
+example at all.
+
+> P: modeling the loads accurately when they vary with time
 >
-> But even compared to the generators that companies like MCI use
-> in-house, we believe Webgen is more sophisticated:
+> E: If the loads vary with time you have to make atleast another 360 to 720
+> calculations for the case of the IC engine. 
 >
-> 2. Webgen generates all the buttons in a site
->    automatically. Sophisticated web sites have buttons that are
->    images instead of text links. Usually these button images are
->    made by hand in a program like Photoshop. We believe our
->    generator is the first to create all the buttons in a site
->    automatically.
+> P: it is customary to come up with a design based on the available
+> knowledge of load
 >
-> This is a great advantage to users, because it means they will be
-> able to control even the way the buttons in their site look via our
-> remote interface. For example, if they want the text in buttons to
-> be in Times instead of Helvetica (the default), they will be able to
-> do this with a single menu choice on our remote interface. The next
-> time they look at their site, all the button texts will be in Times.
+> E: We set the inertial terms to 0 and this makes computation faster
+> and straight-forward to get closed form solutions and design the
+> parts.
+
+I like what I did for schlep blindness, particularly here where I
+attempt imho some decent examples:
+
+> P: ignorance can't solve everything though; Some ideas so obviously
+> entail alarming schleps that anyone can see them; take yourself out of
+> the picture; what problem do I wish someone else would solve for me
 >
-> 3. Webgen creates all the thumbnail images itself. The user only has
->    to supply the original (big) images of the items in the
->    catalog. Because the thumbnails are generated by the software,
->    they can all be the same height, leading to a more consistent set
->    of pages. (Compare our demo to existing online catalogs in this
->    respect.)
+> E: After the company matured a bit, Ather Energy knew that no one
+> would come forward to providing charging stations. Without Charging
+> stations infrastructure, their product was going to fail. [It was a
+> chicken and egg problem. The infrastructure companies would have to
+> see enough demand to provide charging stations, and only if there are
+> enough charging stations, the company making e-bikes could
+> survive.](https://youtu.be/iecq6vSr-EQ?t=1399) So they decided to take that on as well. Ather Grid.
+
+> P: Your unconscious won't even let you see ideas that involve painful
+> schleps
 >
-> 4. Webgen has a wide variety of page styles. Our default section
->    style, for example, puts three thumbnails horizontally across
->    each page. But there are already six other possible section
->    styles. By making menu choices, clients will be able to have the
->    section laid out instead with a single picture and lettered
->    items, or with with thumbnails laid out vertically, or even
->    diagonally. There will be a comparable number of options for the
->    layout of the individual item pages and the home page.
+> E: "Most people don't consciously decide not to be in as good physical
+> shape as Olympic athletes, for example. Their unconscious mind decides
+> for them, shrinking from the work involved."
 >
-> 5. For each catalog, Webgen builds an index and creates a database
->    that is used by a search script running on our server. Users will
->    be able to find items in any catalog at our site either by
->    looking in the index or doing a search by keyword.
+> E2: I freaking don't go to a phisio but complain to myself for the
+> last 3-5 months everytime I go to the gym because of
+> #schleps. Wow. The Schleps though is that I keep a schedule and I hate
+> it if it gets disturbed, I have to call the phisio during the schedule
+> ("I don't have time you see")
 >
-> 6. As well as an interactive interface, Webgen has a command
->    language for batch updates to catalogs. Commands can be sent to
->    the server by email and the catalogs regenerated
->    automatically. This will be useful for clients who want to
->    "attach" their catalog to an inventory control system. Because it
->    takes only a minute or two at most to regenerate a large catalog,
->    clients could make their online catalogs reflect minute-by-minute
->    changes in inventory--- as simply as sending us email, and at no
->    extra cost.
+> E3: Fat caliper allows to calculate the muscle mass and fat%, my
+> unconscious has decided *not to give* me this feedback as it is a schlep
+> that I have to do every Monday night for about 10-15 mins
 >
-> HOW PEOPLE WILL USE IT
+> E4: It helps to stretch leg muscles before and after strenuous
+> cardio. It is a schlep, and I have schlep blindness.
 >
-> We expect that we will have two kinds of users:
->
-> (A) Sometimes the user will be the catalog company itself. Webgen is
-> so easy to use that a catalog company could very well designate
-> someone in-house to manage their online catalog.
->
-> (B) Otherwise the user will be one of the growing army of "web
-> consultants", acting on behalf of a catalog company. The consultant
-> will pass on, and mark up, the flat fee that we charge. We expect
-> that such VARs will work aggressively to sell the service to catalog
-> companies. With Webgen, any web consultant will be able to approach
-> a catalog company and propose to put its catalog online for much
-> less than the current going rate, and still pocket a large markup.
->
-> In either case, using Webgen will be the same:
->
-> 1. The client will contact us and set up a new account. We will
->    assign them a username and a password, and also register a new
->    domain name, if they want one. Every catalog on our site will be
->    able to have its own direct URL of the form
->
-> http://www.yourcompany.com
->
-> if the client desires.
->
-> 2. To build a catalog, Webgen needs two things: images of the items
->    contained in it, and text including the price, item number,
->    description, and so on.
->
-> There will be several ways for the user to send us these raw
-> materials. They can type the text directly into our remote
-> interface, or they can send it to our server by email in a
-> prespecified format.
->
-> They will be able to send us the images by logging into their
-> account on our server and FTPing them to a designated directory,
-> from which the generator will grab them automatically. (Any
-> connection good enough for netscape can also support FTP.) When
-> browsers support email with attached images (which they promise to
-> do soon) sending images to Webgen will be trivial.
->
-> 3. After Webgen's server receives input through its remote
->    interface, or via email, it will automatically regenerate the
->    changed portions of the catalog. Changes will be visible to the
->    user via Netscape, usually within seconds.
->
-> 4. When the user has made and inspected changes to a catalog, he or
->    she will send the server a "commit" message, causing the changed
->    catalog to be copied to its real URL. At this point the catalog
->    will become visible to consumers visiting the site.
->
-> For security, the commit command will use one-time passwords. This
-> way, even if someone gets the ordinary password of a user, they
-> can't modify the catalog that actually appears at the site.
->
-> 5. Clients that have a high-volume of orders will be given an
->    account on our server that they can use to retrieve them. If they
->    want, they can keep this connection open 24 hours per day,
->    generating a live feed of orders.
->
-> Smaller clients will have orders forwarded to them by fax---an
-> attractive alternative, because it is secure and uses familiar
-> technology.
->
-> DETAILS
->
-> The flat fee would include a certain amount of network bandwidth
-> (that is, visitors) per month. After this is exceeded, there may be
-> a usage charge.
->
-> Netscape has recently announced that it will support Java. This may
-> eventually allow us to shift some of the running of the generator
-> onto the clients' CPUs.
->
-> PEOPLE
->
-> At the moment, Webgen consists of the following four people:
->
-> Paul Graham (pg@webgen.com) is an expert on dynamic languages. He is
-> the author of _On Lisp_ (Prentice Hall, 1993) and _ANSI Common Lisp_
-> (Prentice Hall, 1995). He has worked as a consultant to the US
-> Department of Energy, DuPont (for whom he wrote one of the first
-> parametric CAD programs), and Interleaf. He has an AB summa cum
-> laude from Cornell, and a PhD in Computer Science from Harvard.
->
-> Gino Lee (gino@webgen.com) is Tutor in Printing and Typography at
-> Harvard University and is Director of the Bow & Arrow Press,
-> Harvard's experimental typographic workshop; he teaches subjects
-> including letterpress printing, design history, digital type design,
-> and artist's books. He has been an independent digital type and
-> graphic designer since 1989. In 1990 he won the Society of Printers'
-> Award for Excellence.
->
-> Robert Morris (rtm@webgen.com) is an expert on computer networks. He
-> has published papers on high-speed networks, wireless
-> communications, and computer security. While in high school he
-> worked at Bell Labs, where he ported TCP/IP (the software on which
-> the Internet is built) to Bell Labs' version of Unix. He later
-> worked for Convex Computers, Thinking Machines, and DEC Systems
-> Research Center. He has an AB in Computer Science from Harvard, and
-> is currently a PhD candidate in Computer Science there.
->
-> Julian Weber (jlw@webgen.com) has been practicing law in New York
-> for over 30 years. From 1964 to 1979 he was a partner in the firm of
-> Botein, Hays, and Sklar. From 1979 to 1984 he was the president of
-> _The National Lampoon_. He holds a JD from Harvard Law School.
->
-> Robert and Paul handle the software; Gino is in charge of graphic
-> design; and Julian deals with corporate and legal questions. We are
-> looking for one more person to manage business matters, especially
-> dealing with the press, clients, and potential corporate partners.
->
-> FINANCES
->
-> Webgen has no capital. On the other hand, it costs very little to
-> run it, at present. All our equipment is the personal property of
-> the people involved, and the business has no other major
-> expenses. No one has a salary.
->
-> The company could be self-capitalizing, if necessary. That is, we
-> could use income from initial clients to buy things that we could
-> use to attract more clients.
->
-> The business would grow a lot faster if we had about $15,000 to
-> spend. This would get us:
->
-> 1. A computer on which to develop software ($3000).
->
-> 2. Secure server software ($5000). This does not seem to be an
->    absolute necessity; there are a lot of sites on the web where you
->    can send your credit card number unencrypted, and to date there
->    have been no reports of the numbers being stolen. But catalog
->    companies may *believe* that a secure link is necessary, and
->    spending this $5000 would give Webgen a much more professional
->    look.
->
-> 3. A high-bandwidth Internet connection ($3000 + $350/month). At
->    present Webgen has only a 28.8kb connection. This will serve in
->    the initial stages, when we have few clients. For $350 a month we
->    can put a server at the site of an ISP and get a slice of their
->    T1 line. This also means buying another server, which costs
->    another $3000.
->
-> Spending some money on advertising might also be a good idea.
+> E5: I suspect not many people donate and it's schlep blindness. Once a
+> year we have the opportunity to donate 10$ from the company or get
+> gifts for it instead. A large number of people chose gifts. It appears
+> that their unconscious has decided for them shrinking from the schlep
+> (aka, having to forgo a bag of gifts).
 
 
-### Reflection
+---
 
-## feedback
+## Statistics 
 
-First day - lot of yawning. While identifying paragraphs to be worked
-on and identifying sentences that need example.
+**Words:** ~5-6k words not including quotations or other files inserted
 
-Just identifying was boring max, a bit painful, lot of yawning and
-mighty tendencies to get in shape
+**Total:** 29 hrs
 
-I think you need to keep typing, or do work related to that. When I
-found out the sentences and tried making examples (# the real hard
-work, I am feeling it)
+**DP:** ~20 hrs
+**Re-writing & editing****:** 9 hours
 
-feb 9the 18 hrs: The last one hr was alright! hard, not too intense, I
-didn't sweat but making exampels is a biaaaatch
+**Day 1:** 3 hrs work and 1.2 hrs break in between 
 
-Day 2:
+Lot of yawning, trying to figure out which articles to pick. If I keep
+typing then I tend to get bored less. The last one hr was hard. I roughly did about 10 examples an hour. 
 
-Managed 2*1.5 hr sessions roughly. But quite daunting. thinking of
-examples and explaining them is hard. Plus my goal of 200 phrases
-could be very hard! I am currently averaging about 10 examples in 1.5
-hrs.
+**Day 2:** 5 hrs work and 2 hrs break in between
+
+I understood the real task at hand and how overwhelming it was going
+to be to do 200 phrases. I realize I am trying to eat more than I can
+chew. I come back after basketball (very rare event) to clock another
+hour. I feel more serious. I am saying to myself, this is how it
+should be, grinding at top speed and not anything slower. IT IS
+SUPPOSED TO BE PAINFUL! ONLY THEN YOU ARE MAXING OUT. IT IS NOT
+SUPPOSED TO FEEL GOOD. Inshallah! #Indha-vali-puduchurku!
+
+38 phrases done by day 2.
+
+**Day 3:** 6 hrs work and 1.2 hrs break in between
+
+Feeling frustrated that I am unable to come up with examples in some
+cases. This is hard bro! 
+
+Wanted to go all the way till 150 somehow but couldn't, got stuck at
+100 phrases.
+
+**Day 4:** 7 hrs work and 2 hrs break in between
+
+Went all the way till 150 phrases.
+
+**Day 5:** 8.5 hrs work and 2.5 hrs of break 
+
+As for my last day, I am tired as fuck, I don't have much energy in
+me. I know I didn't do all the 200, but I did 170-175. I tried my
+best. I am sorry! Cheers!
+
+**Situation:** I had most of the time in the day to work on this as I
+don't have to work now. I went to the gym or did cardio in the
+evenings on most days. Usually started work by 10:30 am and went on
+till the night with other activities such as rest, gym and eating
+food.
+
+**On all days I slept for half hour after lunch!** Like hand on the
+table and closing my eyes and waking up naturally.
 
 
-In the night: I realize I am trying to eat more than I can chew. I
-come back after bbal to clock another hour. I feel more serious. I am
-saying to myself, this is how it should be, grinding at top speed and
-not anything slower. IT IS SUPPOSED TO BE PAINFUL! ONLY THEN YOU ARE
-MAXING OUT. IT IS NOT SUPPOSED TO BE GOOD. Inshallah! indha vali
-puduchuruu!
 
-38 done by day 2
+<!-- ## feedback -->
+
+<!-- First day - lot of yawning. While identifying paragraphs to be worked -->
+<!-- on and identifying sentences that need example. -->
+
+<!-- Just identifying was boring max, a bit painful, lot of yawning and -->
+<!-- mighty tendencies to get in shape -->
+
+<!-- I think you need to keep typing, or do work related to that. When I -->
+<!-- found out the sentences and tried making examples (# the real hard -->
+<!-- work, I am feeling it) -->
+
+<!-- feb 9the 18 hrs: The last one hr was alright! hard, not too intense, I -->
+<!-- didn't sweat but making exampels is a biaaaatch -->
+
+<!-- Day 2: -->
+
+<!-- Managed 2*1.5 hr sessions roughly. But quite daunting. thinking of -->
+<!-- examples and explaining them is hard. Plus my goal of 200 phrases -->
+<!-- could be very hard! I am currently averaging about 10 examples in 1.5 -->
+<!-- hrs. -->
 
 
-Day 3:
+<!-- In the night: I realize I am trying to eat more than I can chew. I -->
+<!-- come back after bbal to clock another hour. I feel more serious. I am -->
+<!-- saying to myself, this is how it should be, grinding at top speed and -->
+<!-- not anything slower. IT IS SUPPOSED TO BE PAINFUL! ONLY THEN YOU ARE -->
+<!-- MAXING OUT. IT IS NOT SUPPOSED TO BE GOOD. Inshallah! indha vali -->
+<!-- puduchuruu! -->
 
-Boring hard, plan was to do 150 today. Started at 10:30 only. Slept
-for half hour after lunch!
+<!-- 38 done by day 2 -->
 
-Did about 16+9+5 in about 2.7 hrs, that is still 10 per hour.
 
-And feeling frustrated that sometimes I cannot come up with examples!
+<!-- Day 3: -->
 
-Day 4: 
+<!-- Boring hard, plan was to do 150 today. Started at 10:30 only. Slept -->
+<!-- for half hour after lunch! -->
 
-Slept for half hour after lunch, 1 hr lunch and video watching. 
+<!-- Did about 16+9+5 in about 2.7 hrs, that is still 10 per hour. -->
 
-Working on PG article allowed to bump score decently today. Was hard
-sometimes, but most was nice to work on (comfort zone)
+<!-- And feeling frustrated that sometimes I cannot come up with examples! -->
 
-Started working on cleaning up the essay.
+<!-- Day 4:  -->
 
-Tomorrow another 50 and wrap up?
-## The rules of DP (how it looks)
+<!-- Slept for half hour after lunch, 1 hr lunch and video watching.  -->
 
-1. It’s designed specifically to improve performance.
+<!-- Working on PG article allowed to bump score decently today. Was hard -->
+<!-- sometimes, but most was nice to work on (comfort zone) -->
 
-2. It can be repeated a lot
+<!-- Started working on cleaning up the essay. -->
 
-3. mentally painful
+<!-- Tomorrow another 50 and wrap up? -->
 
-4. feedback
-## Archive: Where to find the 200 repetitions..
+<!-- ## Archive: Where to find the 200 repetitions.. -->
 
-Other articels, my own articles,
+<!-- Other articels, my own articles, -->
 
-for reasons that might be clear to everybody, I think it makes sense
-to examplyfy or work on parts of articels that are really important to
-your life, like 'characteristics of DP`, `alias paradox`, `what STM
-talks about when he says I was not clear with
+<!-- for reasons that might be clear to everybody, I think it makes sense -->
+<!-- to examplyfy or work on parts of articels that are really important to -->
+<!-- your life, like 'characteristics of DP`, `alias paradox`, `what STM -->
+<!-- talks about when he says I was not clear with -->
 
-> You've described [2] using a lovely concrete example. However, [1]
-> is sorely lacking in examples. What is this "organizing
-> information"? Or "providing solutions"? That could be anything from
-> "it's hot today" all the way up to "e = mc^2". Contrast that to PG's
-> [business plan](http://www.paulgraham.com/vwplan.html) for his
-> startup in 1995:
+<!-- > You've described [2] using a lovely concrete example. However, [1] -->
+<!-- > is sorely lacking in examples. What is this "organizing -->
+<!-- > information"? Or "providing solutions"? That could be anything from -->
+<!-- > "it's hot today" all the way up to "e = mc^2". Contrast that to PG's -->
+<!-- > [business plan](http://www.paulgraham.com/vwplan.html) for his -->
+<!-- > startup in 1995: -->
 
-also Life goals, what I should be focussed on and why and things like
-that
+<!-- also Life goals, what I should be focussed on and why and things like -->
+<!-- that -->
 
-also maybe some of my presentations?
+<!-- also maybe some of my presentations? -->
 
-Your CV?
+<!-- Your CV? -->
 
-Cover letter?
+<!-- Cover letter? -->
 
-Your profile?
+<!-- Your profile? -->
 
-Maybe something from the dynamics course, would be a fun addition to
-add here, especially the part of the virtual work. but maybe it is a
-problem for getting written.
+<!-- Maybe something from the dynamics course, would be a fun addition to -->
+<!-- add here, especially the part of the virtual work. but maybe it is a -->
+<!-- problem for getting written. -->
 
-Or someother technical work
+<!-- Or someother technical work -->
 
-Critical thinking .org is rife with 0 examples about how to go about
-things.
+<!-- Critical thinking .org is rife with 0 examples about how to go about -->
+<!-- things. -->
 
 
 
 
-## time needed
+<!-- ## time needed -->
 
-~~60 more will take 3 hrs~~
+<!-- ~~60 more will take 3 hrs~~ -->
 
-3 hrs for reading and editing
+<!-- 3 hrs for reading and editing -->
 
-**4 hrs for making 50 more phrases?**
+<!-- **4 hrs for making 50 more phrases?** -->
 
 
-4-5 hrs of actual work time left... 
+<!-- 4-5 hrs of actual work time left...  -->
 
-1 hr 50
+<!-- 1 hr 50 -->
 
-to focus on , presentation, ">" P's and E's, spelling, ---?
 
 
