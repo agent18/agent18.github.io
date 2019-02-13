@@ -109,9 +109,9 @@ The first example is given below...
 
 > "(I want to get better at *critical thinking)*"[1]- Anonymous 1795 AD
 
-P: I want to get better at "critical thinking". 
+**P:** I want to get better at "critical thinking". 
 
-E: In the article on [scope insensitivity](https://www.lesswrong.com/posts/2ftJ38y9SRBCBsCzy/scope-insensitivity) there is a
+**E:** In the article on [scope insensitivity](https://www.lesswrong.com/posts/2ftJ38y9SRBCBsCzy/scope-insensitivity) there is a
 lot of discussion about how to design experiments that distinguish the
 "prototype-dominated" affect and the warm glow of moral
 satisfaction. I don't understand this. There is a whole discussion and
@@ -160,36 +160,36 @@ From [my summary on TIO about 'What is and isn't DP'](/DP-CT-examples.html),
 > says with conviction that (this will do jack shit to your
 > performance)[6].
 
-P: improve play during the game
+**P:** improve play during the game
 
-E: So every Sunday I play basketball with my friends. Mostly I suck
+**E:** So every Sunday I play basketball with my friends. Mostly I suck
 and people make fun of it, especially when you make air balls or miss
 a silly ass layup when you are so close to the basket. Whilst this is
 me, my friends, almost all of them, have very good shooting percentage
 and good range from where they can shoot. *I would like to be atleast
 as good as them.*
 
-P: some drills in ball handling; multiple variations
+**P:** some drills in ball handling; multiple variations
 
-E: I start with shooting from different places randomly (roughly 20
+**E:** I start with shooting from different places randomly (roughly 20
 shots), and then try 5 spin moves, and then move on to left handed
 layups
 
-P: Hopefully gets me to amazing levels
+**P:** Hopefully gets me to amazing levels
 
-E: amazing levels like that of my peers (in a year or two)
+**E:** amazing levels like that of my peers (in a year or two)
 
-P: "practiced" with golf balls
+**P:** "practiced" with golf balls
 
-E: The author hit a few balls and picked one of 1000 reasons why he
+**E:** The author hit a few balls and picked one of 1000 reasons why he
 didn't hit the ball "right", then believed he was practicing for
 it. He then got distracted to another reason he didn't hit the ball
 "right". In the end he hit about a few hundred balls and felt happy
 that he was getting better.
 
-P: this will do jack shit to your performance
+**P:** this will do jack shit to your performance
 
-E: You will NEVER be better than your peers.
+**E:** You will NEVER be better than your peers.
 
   
 
@@ -206,9 +206,9 @@ E: You will NEVER be better than your peers.
 > intellectual, such as chess or business-related activities)[5], or
 > (heavily physical, such as sports;)[6] and (it isn’t much fun)[7].
 
-P: designed specifically to improve performance
+**P:** designed specifically to improve performance
 
-E: You want to be a better basket ball player. How do you do that? You
+**E:** You want to be a better basket ball player. How do you do that? You
 first need to identify spaces where you suck, example, shooting, lay
 ups, spin moves, passing, court vision, team playing etc... Lets for
 now say we want to improve shooting, we need to design an activity
@@ -221,47 +221,47 @@ designed by me but not to improve performance. Instead I should shoot
 form and the way to do the practice, which is available to us to
 improve our skills.
 
-P: it can be repeated a lot
+**P:** it can be repeated a lot
 
-E: The pathetic practice I had designed earlier seriously missed out
+**E:** The pathetic practice I had designed earlier seriously missed out
 on this. I shot 20 times from different places. Instead I should have shot
 20-100 times from the same place over and over again.
 
-P: feedback on results is continuously available
+**P:** feedback on results is continuously available
 
-E: When I am practicing shooting, I look at the parameter of shooting
+**E:** When I am practicing shooting, I look at the parameter of shooting
 percentage and log it every week as I practice. So I know if I am
 getting better or if I still suck, so I can take some additional steps
 to keep improving. In addition I train with a friend who gives me
 critical feedback, laughs at me when I suck. Furthermore, on game
 nights you see if practice is helping you or not.
 
-P: it's highly demanding mentally
+**P:** it's highly demanding mentally
 
-E: It is quite a mental load to practice. You are physically tired and
+**E:** It is quite a mental load to practice. You are physically tired and
 you still need to keep grinding. Yesterday I was practicing this spin
 move and wanted to do it 20 times. By the 10th time, I felt like I
 wanted to stop, but I needed to keep grinding. So I had to push myself
 to do more.
 
-E2: I was practicing some shooting and I was sucking so hard, but I
+**E2:** I was practicing some shooting and I was sucking so hard, but I
 still needed to keep grinding over all the negativity. I have put in
 so much hard work over the last many weeks and the extent to which I
 sucked was incredible, but I still need to grind. I was tired, my arms
 couldn't do it and I forced myself to do those 100 shots from close to
 the 3-point-line anyways. 
 
-P: activity is purely intellectual
+**P:** activity is purely intellectual
 
-E: "such as chess or business-related activities"
+**E:** "such as chess or business-related activities"
 
-P: activity is heavily physical
+**P:** activity is heavily physical
 
-E: "Sports"
+**E:** "Sports"
 
-P: It isn't much fun
+**P:** It isn't much fun
 
-E: Shizuka Arakawa, gold medal in figure skating, had fallen on ice
+**E:** Shizuka Arakawa, gold medal in figure skating, had fallen on ice
 with her derriere atleast 20000 times. It did get her the gold medal
 after years and years of practice though.
 
@@ -277,31 +277,31 @@ after years and years of practice though.
 > (seen sufficient improvement before moving on to the next
 > aspect)[7].
 
-P: sharply defined elements that need improvement
+**P:** sharply defined elements that need improvement
 
-E: shooting 3 pointers, or delivering spin moves,
+**E:** shooting 3 pointers, or delivering spin moves,
 
-P: work on them intently
+**P:** work on them intently
 
-E: [Kobe Bryant the legend](https://uproxx.com/dimemag/kobe-bryant-story-jay-williams-playoff-workout/2/) who quits practicing only [after he
+**E:** [Kobe Bryant the legend](https://uproxx.com/dimemag/kobe-bryant-story-jay-williams-playoff-workout/2/) who quits practicing only [after he
 makes 400 shots](https://www.businessinsider.nl/kobe-bryant-insane-work-ethic-2013-8/?international=true&r=US) (around 3 hrs of only shooting). Legend! 
 
-E2: Jerry Rice working out all day during the off season to improve
+**E2:** Jerry Rice working out all day during the off season to improve
 his explosiveness and precision in running patterns
 
-P: they stretch your current abilities [4]
+**P:** they stretch your current abilities [4]
 
-E: Jerry Rice's off-season workout was known for being extremely
+**E:** Jerry Rice's off-season workout was known for being extremely
 strenuous and he was the only one who could perform it. 
 
-P: see a couple of issues and isolate each one of them
+**P:** see a couple of issues and isolate each one of them
 
-E: Benjamin Franklin understood from his father that his work
+**E:** Benjamin Franklin understood from his father that his work
 stinks. His father pointed out a few of his flaws. One of the issues
 was that he had poor vocabulary, so he designed his practice just for
 that. Another practice for organization of the prose etc...
 
-E2: 
+**E2:** 
 
 > Not being the fastest receiver in the league turned out not to
 > matter. He (Jerry Rice) became famous for the precision of his
@@ -309,34 +309,34 @@ E2:
 > trail running gave him control so he could change directions
 > suddenly without signaling his move. - TIO chapter 4
 
-P: work on them
+**P:** work on them
 
-E: BF found the best work, made notes on it, a few days later he would
+**E:** BF found the best work, made notes on it, a few days later he would
 make his own version and compare it to original. 
 
-P: seen sufficient improvement before moving on to the next aspect [7]
+**P:** seen sufficient improvement before moving on to the next aspect [7]
 
-E: In basketball, currently I would be happy if I reached 60%
+**E:** In basketball, currently I would be happy if I reached 60%
 shooting percentage every week in practice before adding other aspects
 to my practice, such as shooting when there is a defender
 etc... 
 
-E2: You master the scales while learning piano before moving on to
+**E2:** You master the scales while learning piano before moving on to
 things like trill, jumping octaves.
 
-P: the author suggests to atleast give it (getting feedback from the
+**P:** the author suggests to atleast give it (getting feedback from the
 teacher) another thought
 
-E: Ben Franklin's teacher was the writings of Spectator, some work
+**E:** Ben Franklin's teacher was the writings of Spectator, some work
 that is clearly of a higher class than what he was capable of doing.
 
-E2: All sportsmen have coaches
+**E2:** All sportsmen have coaches
 
-P: While learning it is good to be in the zone where we are just beyond our
+**P:** While learning it is good to be in the zone where we are just beyond our
 comfort zone; which makes us stretch our abilities; it is quite
 motivating instead of being a daunting task to approach...
 
-E: I can easily bike with an average-heart-rate (AHR) of 161bpm over
+**E:** I can easily bike with an average-heart-rate (AHR) of 161bpm over
 20 mins. If I stick to that every day there will be no improvement. I
 need to push myself to a much higher AHR. 175 bpm is too hard, so much
 so that the I am crying every minute and it becomes so repulsive to
@@ -364,15 +364,15 @@ workout.
 > at night.
 >
 
-P: Isolation of the specific space where you need to improve is key
+**P:** Isolation of the specific space where you need to improve is key
 
-E: One of the important aspects of "critical thinking" is to see all
+**E:** One of the important aspects of "critical thinking" is to see all
 words as clear cut examples and not as vague sentences. Identifying
 where examples are needed and providing them is the skill
 
-P: followed by a lot of repetition
+**P:** followed by a lot of repetition
 
-E: identifying where examples are needed and providing them for ~200
+**E:** identifying where examples are needed and providing them for ~200
 phrases, like I am doing now.
 
  <!-- 25 phrases done up until now. -->
@@ -394,22 +394,22 @@ phrases, like I am doing now.
 > followed by correction before publishing it.
 
 
-P: to see progress and get feedback
+**P:** to see progress and get feedback
 
-E: If you are able to lift more weight the next time you go to the gym
+**E:** If you are able to lift more weight the next time you go to the gym
 you see progress, the feedback is that you are getting better.
 
-P: You will stop getting any better and stop caring about the end
+**P:** You will stop getting any better and stop caring about the end
 
-E: If you don't get better at the gym, then you start to question what
+**E:** If you don't get better at the gym, then you start to question what
 you are doing here, if this is really for you etc... Will you ever be
 able to lift 100kg? I had such a slump a few weeks back and I am
 trying to do things that will get me over that slump, like eating
 properly and training harder.
 
-P: Feedback is extremely crucial to feel motivated
+**P:** Feedback is extremely crucial to feel motivated
 
-E: I mainly care about the Basketball I play on Sunday. Based on how I
+**E:** I mainly care about the Basketball I play on Sunday. Based on how I
 suck and where all I suck I feel the motivation to come back every
 Saturday and grind. This week I sucked so hard I want to up my
 practice like that of the [Kobe Bryant the legend](https://uproxx.com/dimemag/kobe-bryant-story-jay-williams-playoff-workout/2/).
@@ -420,19 +420,19 @@ Saturdays during those weeks. I was like, "I mean whats the point of
 going and grinding". But I didn't have problems going to practice
 this Saturday, nor with last Saturday. :)
 
-P: Sometimes results might need interpretation
+**P:** Sometimes results might need interpretation
 
-E: Its easy to fool yourself that you played "well" today. If you
+**E:** Its easy to fool yourself that you played "well" today. If you
 scored the last basket, you usually feel good. For a better
 understanding of how well you actually performed, you need to look at
 some sort of statistics like how many points you scored per game or
 what was your field goal percentage or even compliments from your
 peers ( #gaining-peoples-respect!)
 
-P: trusting your own judgment might not really be the best way to go
+**P:** trusting your own judgment might not really be the best way to go
 about it
 
-E: "Is the blog post clear to a new reader? Will people get the main
+**E:** "Is the blog post clear to a new reader? Will people get the main
 idea? Is it organized well? Paul Graham for example, appears to take
 this very seriously. Before he publishes a post, he runs atleast a few
 iterations of getting feedback from his friends followed by correction
@@ -455,25 +455,25 @@ before publishing it." #PG
 > violinists from the Ericsson experiment stated practice as the least
 > fun activity in their daily life.
 
-P: improving writing
+**P:** improving writing
 
-E: Looking at better-text in comparison to your work and trying to
+**E:** Looking at better-text in comparison to your work and trying to
 imitate it; using the [Benjamin Franklin method](http://pradeep90.github.io/ben-franklin-practice.html).
 
-P: I suck at writing
+**P:** I suck at writing
 
-E: I make lot of grammatical errors and missing words, e.g., [my post on the
+**E:** I make lot of grammatical errors and missing words, e.g., [my post on the
 "purpose of life"](/Answers-finale.html).
 
-P: First I would need to identify good sentences and maybe try to
+**P:** First I would need to identify good sentences and maybe try to
 emulate them in other works consciously.
 
-E: Benjamin Franklin identified the Spectator as superior work and
+**E:** Benjamin Franklin identified the Spectator as superior work and
 used it to improve his writing.
 
-P: repulsion to that activity is huge
+**P:** repulsion to that activity is huge
 
-E: Today as I am making this exercise, it is hard. Generating examples
+**E:** Today as I am making this exercise, it is hard. Generating examples
 of all kinds, knowing that I might not really make the goal of 200,
 and pushing myself to still make it, is all the strain mentally, and I
 want to let go of it.
@@ -485,9 +485,9 @@ want to let go of it.
 > (it will distinguish you all the more(from the rest))[4]. Think about
 > Jerry Rice again!
 
-P: it will distinguish you all the more from the rest
+**P:** it will distinguish you all the more from the rest
 
-E: Aamir Khan for a movie makes a [ridiculous transformation in short
+**E:** Aamir Khan for a movie makes a [ridiculous transformation in short
 time](https://www.youtube.com/watch?v=1aVw1gZ9Ncg). It was not easy or fun for him as you can see from the
 video. He is constantly made to push beyond what he is capable of. He
 struggles with doing it everyday, but pushes himself anyway. His
@@ -504,21 +504,21 @@ Rice. How many Jerry Rice's and Aamir Khan's do we know of?
 > 4) for example shows that the kids that do DP slept more not only
 > during the night but also during the afternoons.
 
-P: whether physical or not
+**P:** whether physical or not
 
-E: Bodybuilding or playing the piano or [improving writing](http://pradeep90.github.io/)
+**E:** Bodybuilding or playing the piano or [improving writing](http://pradeep90.github.io/)
 
-P: drain out our mental energy
+**P:** drain out our mental energy
 
-E: While writing my [first DP post](/Deliberate-Practice-case-study.html) I say this:
+**E:** While writing my [first DP post](/Deliberate-Practice-case-study.html) I say this:
 
 > Well, I remember the day when I started writing it all out. After
 > around 2 hrs I just couldn’t. I tapped out!
 
-P: Improving an unsatisfactory performance and trying your hardest to
+**P:** Improving an unsatisfactory performance and trying your hardest to
 improve these
 
-E: Jerry Rice's grueling conditioning workouts
+**E:** Jerry Rice's grueling conditioning workouts
 
 > Not being the fastest receiver in the league turned out not to
 > matter. He became famous for the precision of his patterns. His weight
@@ -526,9 +526,9 @@ E: Jerry Rice's grueling conditioning workouts
 > control so he could change directions suddenly without signaling his
 > move. The uphill wind sprints game him explosive acceleration
 
-P: across disciplines
+**P:** across disciplines
 
-E: be it body building or be it learning to write or play the piano
+**E:** be it body building or be it learning to write or play the piano
 
 <!-- 38 done until now... -->
 
@@ -550,21 +550,21 @@ From [criticalthinking.org](http://www.criticalthinking.org/pages/becoming-a-cri
 There is way too much vagueness in this paragraph and the coming
 paragraphs. Oh my! especially for a website titled "critical thinking".
 
-P: Nothing more practical than sound thinking
+**P:** Nothing more practical than sound thinking
 
-E: If engaging in drama consumes your mind, and does not allow you to
+**E:** If engaging in drama consumes your mind, and does not allow you to
 focus on things, you should stay away from drama, even if it means
 apologizing to a superior when it not your fault; as your priority is
 to squash the beef and move on with other important things.
 
-P: better off if your thinking is skilled; good thinking pays off
+**P:** better off if your thinking is skilled; good thinking pays off
 
-E: Skilled thinking can come up with "right answers" for questions
+**E:** Skilled thinking can come up with "right answers" for questions
 like, "should we marry?", or "Should we freeze ourselves"
 
-P: Poor thinking
+**P:** Poor thinking
 
-E: I was moving from one house to another, and in an attempt to save
+**E:** I was moving from one house to another, and in an attempt to save
 400 euros I brought self some major stress over the entire month. I
 didn't know how to equate money to time, I still struggle with the
 idea.
@@ -581,10 +581,10 @@ pricy. #GreatThinkingNot. Lack of ability to realize what is important
 and how to trade off money is one example of my poor thinking. Some of
 the realization is in hindsight, but I am about to do it again :(
 
-P: inevitably causes problems, wastes time and energy, engenders
+**P:** inevitably causes problems, wastes time and energy, engenders
 frustration and pain
 
-E: Once I was expected to inform if the Vacuum chamber was able to go
+**E:** Once I was expected to inform if the Vacuum chamber was able to go
 to low pressures. I did some experiments and saw that the in some
 cases it went to the expected low pressures and in other cases the
 leak was too high. I was expected to present this, along with why I
@@ -629,50 +629,50 @@ Excerpts from the dynamics paper I wrote long back.
 > variations)[9] in the dimensions, mass of the designed components,
 > as well as the loads experienced by them.
 
-P: mechanical components that are subjected to dynamic loading in
+**P:** mechanical components that are subjected to dynamic loading in
 their regular operation
 
-E: typically parts moving at very high speeds such as parts of the IC
+**E:** typically parts moving at very high speeds such as parts of the IC
 engine (connecting rod, piston), or Gas Turbine components (turbine).
 
-P: artificially raising the level of the static load ; unknown
+**P:** artificially raising the level of the static load ; unknown
 variations of the actual loads
 
-E: For instance, lifts and buildings are designed typically with a
+**E:** For instance, lifts and buildings are designed typically with a
 factor of safety of 100 over the expected static load of the people
 and furniture, accounting for unknown dynamic loads due to earthquakes
 or winds etc...
 
-P: dynamic component of the total loads are low
+**P:** dynamic component of the total loads are low
 
-E: they are low when for instance people jump on a table, or say a
+**E:** they are low when for instance people jump on a table, or say a
 table fan rotating at very low speed. A factor of safety or 2-3 can
 easily account for the dynamic component
 
-P: not necessarily otherwise
+**P:** not necessarily otherwise
 
-E: The connecting rod of an IC engine is such a component where the
+**E:** The connecting rod of an IC engine is such a component where the
 factor-of-safety (FOS) method will not work due the coupling between
 inertia and mass. If you have more FOS, you will have more mass
 leading to larger inertial loads, than what you wanted to compensate
 for in the first place.
 
-P: upon a kinetostatic model
+**P:** upon a kinetostatic model
 
-E: The angular velocity of the crank in an IC engine is constant
+**E:** The angular velocity of the crank in an IC engine is constant
 
-P: incorporates the effects of the mass distribution of the resulting
+**P:** incorporates the effects of the mass distribution of the resulting
  designed component on the inertial loads themselves
 
-E: Mass distribution changes the inertial loads.  Effects of mass
+**E:** Mass distribution changes the inertial loads.  Effects of mass
 distribution is taken into account by splitting the connecting rod
 into 2 point masses and a varying I section. This mass distribution
 has a different effect on the inertial loads as opposed to the
 traditional 2 point-masses.
 
-P: significant variations
+**P:** significant variations
 
-E: the mass reducing by 30%, the loads reducing by 50%
+**E:** the mass reducing by 30%, the loads reducing by 50%
 
 <!-- 9 phrases -->
 
@@ -701,58 +701,58 @@ E: the mass reducing by 30%, the loads reducing by 50%
 
 
 
-P: the identification of the loads on the component; their variations,
+**P:** the identification of the loads on the component; their variations,
 if any, in the stipulated operating scenarios
 
-E: For an IC engine, we look at the torque the engine has to generate
+**E:** For an IC engine, we look at the torque the engine has to generate
 and the forces at the joints (varying with time) of the piston, crank
 and connecting rod.
 
-P: In many cases, it is not possible to model the loads very
+**P:** In many cases, it is not possible to model the loads very
 accurately
 
-E: With the IC engine, there are 3 main parts, resulting in roughly 10
+**E:** With the IC engine, there are 3 main parts, resulting in roughly 10
 forces. Solving for these forces is quite hard and computationally
 intensive when we have the second order inertia terms. We settle for
 lesser accuracy and simplify the model.
 
-P: modeling the loads accurately when they vary with time
+**P:** modeling the loads accurately when they vary with time
 
-E: If the loads vary with time you have to make atleast another 360 to 720
+**E:** If the loads vary with time you have to make atleast another 360 to 720
 calculations for the case of the IC engine. 
 
-P: it is customary to come up with a design based on the available
+**P:** it is customary to come up with a design based on the available
 knowledge of load
 
-E: We set the inertial terms to 0 and this makes computation faster
+**E:** We set the inertial terms to 0 and this makes computation faster
 and straight-forward to get closed form solutions and design the parts.
 
-P: This method (FOS method) is not guaranteed to produce the best results
+**P:** This method (FOS method) is not guaranteed to produce the best results
 
-E: If you apply this to an IC engine, the parts designed are expected
+**E:** If you apply this to an IC engine, the parts designed are expected
 to break.
 
-P: dynamic loads are comparable/greater than the static loads on a
+**P:** dynamic loads are comparable/greater than the static loads on a
 component
 
-E: Dynamic loads are greater than static loads in Gas Turbines and IC
+**E:** Dynamic loads are greater than static loads in Gas Turbines and IC
 engines rotating at greater than 4000 rpm
 
-P: over-compensation of the loads
+**P:** over-compensation of the loads
 
-E: To account for unknown variations, we take the static loads on a
+**E:** To account for unknown variations, we take the static loads on a
 table, say due to a man sitting on it, and then assume the
 maximum load is going to be 3 times the static load and design the
 table for that.
 
-P: detailed analysis of the mass distribution, strength and loading of
+**P:** detailed analysis of the mass distribution, strength and loading of
 components
 
-E: for example using Finite Element Methods
+**E:** for example using Finite Element Methods
 
-P: coupled nature of these
+**P:** coupled nature of these
 
-E: if you increase mass of the part the inertia increases, if the
+**E:** if you increase mass of the part the inertia increases, if the
 inertia increases loads increase, if the loads increase the dimensions
 increase/change, which have an effect on the mass
 
@@ -775,21 +775,21 @@ increase/change, which have an effect on the mass
 > is equivalent to the original.
 
 
-P: equivalent system of concentrated masses
+**P:** equivalent system of concentrated masses
 
-E: For example the connecting rod is simplified as follows: "One
+**E:** For example the connecting rod is simplified as follows: "One
 thirds and two thirds of the mass are lumped at the piston and the
 crank end of the connecting rod, respectively."
 
-P: true variation of the dynamic forces on the connecting rod, and
+**P:** true variation of the dynamic forces on the connecting rod, and
 their effect on the piston pin
 
-E: The FOS method thinks that there is no fatigue loading on the
+**E:** The FOS method thinks that there is no fatigue loading on the
 system within every cycle, where as in reality there is fatigue loading.
 
-P: connecting rod is divided into three parts
+**P:** connecting rod is divided into three parts
 
-E: "two concentrated end-masses, and distributed central part. The
+**E:** "two concentrated end-masses, and distributed central part. The
 central part remains rod with linearly varying I-section along its
 longitudinal axis"
 
@@ -801,20 +801,20 @@ longitudinal axis"
 > computer models)[3] (Finite Element) are used.  
 
 
-P: a dynamic loading case is decomposed into a series of static
+**P:** a dynamic loading case is decomposed into a series of static
 loading cases
 
-E: The crank in an IC engine rotates 360 degrees. So for every degree
+**E:** The crank in an IC engine rotates 360 degrees. So for every degree
 you can compute the forces as though the system was static
 
-P: solving a simple static case repeatedly
+**P:** solving a simple static case repeatedly
 
-E: Solving the same set of equations for every degree of rotation of
+**E:** Solving the same set of equations for every degree of rotation of
 the crank.
 
-P: huge computer models
+**P:** huge computer models
 
-E: "Models using Finite Element Methods": For the IC engine simulation
+**E:** "Models using Finite Element Methods": For the IC engine simulation
 it could take upto 1 hr on a 8gb ram system per simulation.
 
   
@@ -831,33 +831,33 @@ it could take upto 1 hr on a 8gb ram system per simulation.
 > produce more realistic results as the (analysis and design modules
 > in each iteration, are refined further)[6].
 
-P: effects of dynamic loading on a mechanical component
+**P:** effects of dynamic loading on a mechanical component
 
-E: such as the loads experienced by parts of an IC engine.
+**E:** such as the loads experienced by parts of an IC engine.
 
-P: kinetostatic analysis model
+**P:** kinetostatic analysis model
 
-E: crank is assumed to have a constant speed.
+**E:** crank is assumed to have a constant speed.
 
-P: simple and analytical in nature
+**P:** simple and analytical in nature
 
-E: We don't need to solve differential equations but solve simple
+**E:** We don't need to solve differential equations but solve simple
 simultaneous equations
 
-P: significantly more accurate
+**P:** significantly more accurate
 
-E: for example, the static load calculation does not capture the
+**E:** for example, the static load calculation does not capture the
 cyclic loading and overestimates the forces
 
-P: existing design scenario reported in literature
+**P:** existing design scenario reported in literature
 
-E: The formulas for stress, used to dimension the piston, connecting
+**E:** The formulas for stress, used to dimension the piston, connecting
 rod and crank, based on loads
 
-P: it is expected to produce more realistic results as the analysis
+**P:** it is expected to produce more realistic results as the analysis
 and design modules in each iteration, (are refined further)
 
-E: For instance, if the mass distribution of the parts resulting in
+**E:** For instance, if the mass distribution of the parts resulting in
 better estimates of the inertial load improve, then we should have
 more realistic results.
 
@@ -873,9 +873,9 @@ From [PG's writing on "Writing, Briefly"](http://www.paulgraham.com/writing44.ht
 > you'll miss out on most of the ideas writing would have generated.
 >
 
-P: write well; generates ideas
+**P:** write well; generates ideas
 
-E: Writing that generates ideas and clarifies thought implies that you
+**E:** Writing that generates ideas and clarifies thought implies that you
 are writing well. For example, I was writing an article on my career
 choices and found that it didn't make much of a difference to me to
 save 600 lives as opposed to 500 lives. I was looking at them like
@@ -887,14 +887,14 @@ while I was treating the difference between 500 and 600 lives as meh!
 It was with this article, when I was writing it, that I understood why
 even a 100 lives is nothing short of incredible.
 
-P: communicate ideas
+**P:** communicate ideas
 
-E: PG writes blogs after blogs to share his ideas with people, ideas
+**E:** PG writes blogs after blogs to share his ideas with people, ideas
 on how to write, how a business plan should look, etc...
 
-P: bad at writing
+**P:** bad at writing
 
-E: Writing that does not communicate ideas or generate them would be
+**E:** Writing that does not communicate ideas or generate them would be
 considered bad writing. If you look at [this article](/Answers-finale.html) on the
 purpose of life you will get an idea of what I am talking about. I
 wrote it a while back based on the discussion I had with an STM, but
@@ -934,7 +934,7 @@ recently. It's all over the place, needs some major re-writing.
 > learn to distinguish surprises from digressions; learn to recognize
 > the approach of an ending, and when one appears, grab it.
 
-P: 
+**P:** 
 >(Write a bad version 1 as fast as you can)[1], (rewrite it over and
 >over)[2], (cut ~~out~~ everything unnecessary)[3]
 
@@ -980,10 +980,10 @@ What should I be doing again?
 
   
 
-P: 
+**P:** 
 >write in a conversational tone;[4]
 
-E: I think this means, write like you talk. The following is an example.
+**E:** I think this means, write like you talk. The following is an example.
 
 **Just writing**
 >Traditionally, such design tasks are handled by artificially raising
@@ -1004,11 +1004,11 @@ write it.
 
   
 
-P:
+**P:**
 > develop a nose for bad writing[5], so you can see and fix it in
 > yours[6]; imitate writers you like[7];
 
-E: An exercise like [this](http://pradeep90.github.io/deliberate-practice.html), "deliberate practice for writing", shows
+**E:** An exercise like [this](http://pradeep90.github.io/deliberate-practice.html), "deliberate practice for writing", shows
 how to develop a nose for good and bad writing and how to fix it. In
 the process you end up imitating the writers you like as you use their
 work as reference.
@@ -1022,30 +1022,30 @@ man of letters". [5,6,7]
 
    
 
-P: 
+**P:** 
 > use anaphora to knit sentences together[8]
 
-E: DP is hard, DP is repetition, DP is a lot about feedback, DP is painful,
+**E:** DP is hard, DP is repetition, DP is a lot about feedback, DP is painful,
 DP is needed, DP is going to make you a legend.
 
 
   
 
-P: 
+**P:** 
 > work in fairly big quanta of time[9]
 
-E: I don't work on essays or even data science if I have less than 2
+**E:** I don't work on essays or even data science if I have less than 2
 hrs to give it. Usually I finish all my work and have like 3-4 hrs
 left at the end of the day, which is when I pick up essay writing.
 
   
 
-P: 
+**P:** 
 > use simple, germanic words[10]; learn to distinguish surprises from
 > digressions[11]; learn to recognize the approach of an ending, and
 > when one appears, grab it[12].
 
-E: I have no idea what germanic words mean [10]. I don't have an example
+**E:** I have no idea what germanic words mean [10]. I don't have an example
 for [12] either.
 
 In the last essay on [DP](/DP-CT-examples.html), I was following the Benjamin Franklin
@@ -1062,11 +1062,11 @@ realized while writing further that I was valuing the life of 100
 people much much less than what they were worth. This was a surprising
 insight[11].
 
-P: 
+**P:** 
 > expect 80% of the ideas in an essay to happen after you start
 > writing it, and 50% of those you start with to be wrong;
 
-E: I don't have an example. But I usually don't plan my writing. All
+**E:** I don't have an example. But I usually don't plan my writing. All
 my thinking happens only during writing. So I write, write and write.
 
 <!-- 16 at the end of this -->
@@ -1103,17 +1103,17 @@ From [EY's blog on Availability Bias](https://www.lesswrong.com/posts/R8cpqD3NA4
 > remembered). But either way, an availability bias is at work.
 
 
-P: judging the frequency or probability of an event, by the ease with
+**P:** judging the frequency or probability of an event, by the ease with
 which examples of the event come to mind
 
-E: (paraphrasing) " According to a study there was a high correlation
+**E:** (paraphrasing) " According to a study there was a high correlation
 between reporting frequencies in two newspapers and the guess that
 murders were more frequent than suicides"
 
-P: errors in quantifying the severity of risks, or judging which of
+**P:** errors in quantifying the severity of risks, or judging which of
 two dangers occurred more frequently
 
-E: "subjects thought accidents caused about as many deaths as disease,
+**E:** "subjects thought accidents caused about as many deaths as disease,
 but diseases cause about 16 times as many deaths as accident."
 
   
@@ -1139,9 +1139,9 @@ but diseases cause about 16 times as many deaths as accident."
 > read are written by them.
 
 
-P: Selective reporting is one major source of availability biases
+**P:** Selective reporting is one major source of availability biases
 
-E: "The objective frequency of Bill Gates is 0.00000000015, but you
+**E:** "The objective frequency of Bill Gates is 0.00000000015, but you
 maybe tempter to compare your life success to his. Conversely, 19% of
 the planet lives on less than $1/day, and I doubt that one fifth of
 the blog posts you read are written by them."
@@ -1167,9 +1167,9 @@ the blog posts you read are written by them."
 > building dams decreases the frequency of floods, damage per flood is
 > afterward so much greater that average yearly damage increases.
 
-P: Using availability seems to give rise to an absurdity bias
+**P:** Using availability seems to give rise to an absurdity bias
 
-E: "Burton et. al. (1978) report that when dams and levees are built,
+**E:** "Burton et. al. (1978) report that when dams and levees are built,
 they reduce the frequency of floods, and thus apparently create a
 false sense of security, leading to reduced precautions. While
 building dams decreases the frequency of floods, damage per flood is
@@ -1190,31 +1190,31 @@ afterward so much greater that average yearly damage increases."
 > (Memory is not always a good guide to probabilities in the past, let
 > alone the future)[5].
 
-P: The wise would extrapolate from memory of small hazards to the
+**P:** The wise would extrapolate from memory of small hazards to the
 possibility of large hazards
 
-E: We recently had a mild earthquake in India. I think what Eliezer is
+**E:** We recently had a mild earthquake in India. I think what Eliezer is
 trying to say is that we should look at understanding the probability
 of a bigger earthquake and possibly get an insurance on it as the
 damage could bring you to a 0$ bank balance.
 
-P: Instead, past experience of small hazards seems to set a perceived
+**P:** Instead, past experience of small hazards seems to set a perceived
 upper bound on risk
 
-E: "Building of dams and levees lead to reduced precautions"
+**E:** "Building of dams and levees lead to reduced precautions"
 
-P: A society well-protected against minor hazards takes no action
+**P:** A society well-protected against minor hazards takes no action
 against major risks; A society subject to regular minor hazards treats
 those minor hazards as an upper bound on the size of the risks
 
-E: Burton et. al. (1978) report that when dams and levees are built, 
+**E:** Burton et. al. (1978) report that when dams and levees are built, 
 they reduce the frequency of floods, and thus apparently create a 
 false sense of security, leading to reduced precautions.
 
-P: Memory is not always a good guide to probabilities in the past, let
+**P:** Memory is not always a good guide to probabilities in the past, let
 alone the future.
 
-E: People think suicide is more common than homicide, based on
+**E:** People think suicide is more common than homicide, based on
 selective reporting. But that is wrong. When predictions in the past
 are already wrong, and if extrapolation of the past is a way to see in
 the future, then the future is also going to be wrong.
@@ -1237,9 +1237,9 @@ the future, then the future is also going to be wrong.
 > in those states than to protect a single area.
 >
 
-P: scope insensitivity or scope neglect
+**P:** scope insensitivity or scope neglect
 
-E: Once upon a time, three groups of subjects were asked how much they
+**E:** Once upon a time, three groups of subjects were asked how much they
 would pay to save 2000 / 20000 / 200000 migrating birds from
 drowning in uncovered oil ponds. The groups respectively answered
 $80, $78, and $88.
@@ -1262,25 +1262,25 @@ single area.
 > added, not multiplied, with the prototype affect)[3]. This
 > hypothesis is known as ("valuation by prototype")[4].
 
-P: This image, or prototype, calls forth some level of emotional
+**P:** This image, or prototype, calls forth some level of emotional
 arousal [1]
 
-E: Emotional arousal like feeling sad or crying or disturbed mentally.
+**E:** Emotional arousal like feeling sad or crying or disturbed mentally.
 
-P: As for the scope, it gets tossed out of the window [2]
+**P:** As for the scope, it gets tossed out of the window [2]
 
-E: "No human can visualize 2000 birds at once, let alone 200000".
+**E:** "No human can visualize 2000 birds at once, let alone 200000".
 
-P: this small amount of affect is added, not multiplied, with the
+**P:** this small amount of affect is added, not multiplied, with the
 prototype affect [3]
 
-E: Studies show that people pay 80$, 78$ and 88$ when asked about
+**E:** Studies show that people pay 80$, 78$ and 88$ when asked about
 saving 2k, 20k and 200k birds respectively. Increase in birds
 exponentially, causes barely an increase in donations.
 
-P: Valuation of prototype [4]
+**P:** Valuation of prototype [4]
 
-E: Value of 2k, 20k, and 200k birds, being in the same order.
+**E:** Value of 2k, 20k, and 200k birds, being in the same order.
 
 > An alternative hypothesis is "(purchase of moral
 > satisfaction)[1]". People spend enough money to create a warm glow
@@ -1289,20 +1289,20 @@ E: Value of 2k, 20k, and 200k birds, being in the same order.
 > financial situation)[2], (but it certainly has nothing to do with
 > the number of birds)[3].
 
-P: Purchase of moral satisfaction [1]
+**P:** Purchase of moral satisfaction [1]
 
-E: "People spend enough money to create a warm glow in themselves, a
+**E:** "People spend enough money to create a warm glow in themselves, a
 sense of having done their duty"
 
-P: Level of spending needed to purchase a warm glow depends on
+**P:** Level of spending needed to purchase a warm glow depends on
 personality and financial situation [2]
 
-E: I would easily donate 10$ without really getting into the cause. If
+**E:** I would easily donate 10$ without really getting into the cause. If
 it was Bill Gates he would probably give 100$ or more without thought.
 
-P: but it certainly has noting to do with the number of birds [3]
+**P:** but it certainly has noting to do with the number of birds [3]
 
-E: Donations for 2k, 20k, and 200k birds, being in the same order.
+**E:** Donations for 2k, 20k, and 200k birds, being in the same order.
 
 > (We are insensitive to scope even when human lives are at stake)[1]:
 > Increasing the alleged risk of chlorinated drinking water from 0.004
@@ -1310,9 +1310,9 @@ E: Donations for 2k, 20k, and 200k birds, being in the same order.
 > willingness-to-pay from $3.78 to $15.23. Baron and Greene found no
 > effect from varying lives saved by a factor of 10 .
 
-P: We are insensitive to scope even when human lives are at stake[1].
+**P:** We are insensitive to scope even when human lives are at stake[1].
 
-E: "WTP increased from 3.78$ to 15.23$ even though there was a factor
+**E:** "WTP increased from 3.78$ to 15.23$ even though there was a factor
 600 increase in the number of human lives at risk."
 
 > A paper entitled Insensitivity to the value of human life: A study
@@ -1327,10 +1327,10 @@ E: "WTP increased from 3.78$ to 15.23$ even though there was a factor
 > originally stated to have killed 290,000 rather than 160,000 or
 > 15,000 people per year.
 
-P: perception of human deaths obeys logarithmic scale where the "just
+**P:** perception of human deaths obeys logarithmic scale where the "just
 noticeable difference" is a constant fraction of the whole
 
-E: "if 4500 people were saved out of 11000 people, then the perception
+**E:** "if 4500 people were saved out of 11000 people, then the perception
 of human deaths is higher, than if 4500 people were saved out of 250k
 people."
 
@@ -1342,16 +1342,16 @@ people."
 > unexciting inky zeroes on paper)[1], not just (the part that gets
 > real worked up about that poor struggling oil-soaked bird)[2].
 
-P: if you want to be an effective altruist, you have to think it
+**P:** if you want to be an effective altruist, you have to think it
 through with the part of your brain that processes those unexciting
 inky zeroes on paper[1]
 
-E: if value of 2k birds as 80$ then 20k birds are valued at 80$*1000
+**E:** if value of 2k birds as 80$ then 20k birds are valued at 80$*1000
 
-P: if you want to be an effective altruist it is not enough to get
+**P:** if you want to be an effective altruist it is not enough to get
 worked up about poor struggling oil-soaked bird[2]
 
-E: As 2k, 20k, 200k birds will all mean the same to you.
+**E:** As 2k, 20k, 200k birds will all mean the same to you.
 
 ### Article by PG on business plan(37)
 
@@ -1365,9 +1365,9 @@ From [PG's blog on Webgen's business plan](http://www.paulgraham.com/vwplan.html
 > The company was called "Webgen" at first. We thought we only needed
 > $15,000 in startup capital; this proved to be an underestimate.
 
-P: business plan[1] 
+**P:** business plan[1] 
 
-E: The entire business plan is shown here.
+**E:** The entire business plan is shown here.
 
 > Reading this, you can see that even we were still trying to grasp
 > what a web-based application was. In the system description we
@@ -1381,30 +1381,30 @@ E: The entire business plan is shown here.
 > a (service bureau model)[5], but they created (nice looking sites)[6]. Our
 > original page design imitated theirs.
 
-P: site generator [1]
+**P:** site generator [1]
 
-E: Github, Wordpress, Blogger
+**E:** Github, Wordpress, Blogger
 
-P: Web interface [2]
+**P:** Web interface [2]
 
-E: Browser, websites
+**E:** Browser, websites
 
-P: Web-based site generator [3]
+**P:** Web-based site generator [3]
 
-E: Wordpress, Blogger
+**E:** Wordpress, Blogger
 
-P: an esoteric skill [4]
+**P:** an esoteric skill [4]
 
-E: like playing the dijiredoo for example, not many people have the
+**E:** like playing the dijiredoo for example, not many people have the
 knowledge about it.
 
-P: Service bureau model [5]
+**P:** Service bureau model [5]
 
-E: MarketplaceMCI offering business services
+**E:** MarketplaceMCI offering business services
 
-P: Nice looking sites [6]
+**P:** Nice looking sites [6]
 
-E: "MarketplaceMCI sites which Webgen ended up copying as they looked
+**E:** "MarketplaceMCI sites which Webgen ended up copying as they looked
 nice."
 
 > Sketch of a business plan for Webgen. 24 Aug 95.
@@ -1426,32 +1426,32 @@ nice."
 > company)[5], (not a service company)[6].
 >
 
-P: web catalogs [1]
+**P:** web catalogs [1]
 
-E: a catalog of products like [this?](https://www.festo.com/cat/en-us_us/products)
+**E:** a catalog of products like [this?](https://www.festo.com/cat/en-us_us/products)
 
-P: several other companies that can generate and serve web catalogs [2]
+**P:** several other companies that can generate and serve web catalogs [2]
 
-E: "Marketplace MCI (www.internetmci.com)
+**E:** "Marketplace MCI (www.internetmci.com)
 
-P: lower the cost [3]
+**P:** lower the cost [3]
 
-E: "by 90%"
+**E:** "by 90%"
 
-P: Volume is not limited by the number of clients we can serve
+**P:** Volume is not limited by the number of clients we can serve
 personally.[4]
 
-E: Alphabet serves billions of people, where as Mckinsey serves a
+**E:** Alphabet serves billions of people, where as Mckinsey serves a
 limited number of clients. Alphabet is not limited by the number of
 clients they can serve personally.
 
-P: Software company [5]
+**P:** Software company [5]
 
-E: Alphabet, Facebook, Microsoft, Accenture, IBM
+**E:** Alphabet, Facebook, Microsoft, Accenture, IBM
 
-P: Service company [6]
+**P:** Service company [6]
 
-E: MarketplaceMCI, Mckinsey 
+**E:** MarketplaceMCI, Mckinsey 
 
 
 > Anyone will be able to sign up to keep a catalog at our site for a
@@ -1468,21 +1468,21 @@ E: MarketplaceMCI, Mckinsey
 > to do it in-house)[4]: anyone who can use Netscape can generate catalogs
 > at Webgen.
 
-P: So easy to use [1]
+**P:** So easy to use [1]
 
-E: "any graphic designer or "web consultant" can generate catalogs"
+**E:** "any graphic designer or "web consultant" can generate catalogs"
 
-P: a catalog company [2]
+**P:** a catalog company [2]
 
-E: similar to Amazon, flipkart 
+**E:** similar to Amazon, flipkart 
 
-P: an online catalog that people can order from [3]
+**P:** an online catalog that people can order from [3]
 
-E: Amazon and flipkart, where you can see and buy from.
+**E:** Amazon and flipkart, where you can see and buy from.
 
-P: do it in-house [4]
+**P:** do it in-house [4]
 
-E: "anyone who can use netscape can generate catalogs at Webgen"
+**E:** "anyone who can use netscape can generate catalogs at Webgen"
 
 > (There are a large number of companies who would like to be able to
 > market products on the web)[1], (if it were cheaper and easier)[2]. To our
@@ -1491,14 +1491,14 @@ E: "anyone who can use netscape can generate catalogs at Webgen"
 > As the market matures, we would consider spinning off a standalone
 > catalog generator/server as a commercial product.
 
-P: Large number of companies who would like to able to market products
+**P:** Large number of companies who would like to able to market products
 online [1]
 
-E: Have a look at amazon; books, furniture, clothes, food etc...
+**E:** Have a look at amazon; books, furniture, clothes, food etc...
 
-P: if it were cheaper and easier [2]
+**P:** if it were cheaper and easier [2]
 
-E: "90% cheaper than others, and a graphic designer being able to do
+**E:** "90% cheaper than others, and a graphic designer being able to do
 it"
 
 
@@ -1514,21 +1514,21 @@ it"
 > online commerce. And Webgen could, in turn, be involved in a large
 > part of the online commerce.
 
-P: assuming if it succeeds [1]
+**P:** assuming if it succeeds [1]
 
-E: if the company makes profits or if the company is capable of
+**E:** if the company makes profits or if the company is capable of
 sustaining itself
 
-P: a very big role[2]
+**P:** a very big role[2]
 
-E: "A large part of web's importance will come from online
+**E:** "A large part of web's importance will come from online
 commerce. And Webgen could, in turn, be involved in a large part of
 the online commerce." ( as it is currently the only easy-to-use
 generator)
 
-P: Technical people and business people [3]
+**P:** Technical people and business people [3]
 
-E: No examples are given, out of scope of this essay.
+**E:** No examples are given, out of scope of this essay.
 
 
 > Why? Forget about Webgen for a moment, and just ask: what will the
@@ -1550,38 +1550,38 @@ E: No examples are given, out of scope of this essay.
 > and so on. (Setting up a server is expensive and difficult)[5]. On the
 > East coast, the network connection alone costs about $2000/mo.
 
-P: future of online commerce look like
+**P:** future of online commerce look like
 
-E: (paragraph 2) "the future of the market would be general-purpose
+**E:** (paragraph 2) "the future of the market would be general-purpose
 software packages"
 
-P: When someone wants to sell things on the Web, how will they do it
+**P:** When someone wants to sell things on the Web, how will they do it
 
-E: "Either go an MCI or set up your own server"
+**E:** "Either go an MCI or set up your own server"
 
-P: if selling things online were like other software applications, the
+**P:** if selling things online were like other software applications, the
 future of the market would be general-purpose software packages
 
-E: "You would eventually be able to buy a copy of Microsoft Catalog,
+**E:** "You would eventually be able to buy a copy of Microsoft Catalog,
 and use that to put your catalog online."
 
-P: an online catalog is not just something that happens on your
+**P:** an online catalog is not just something that happens on your
 computer
 
-E: "like word processing"
+**E:** "like word processing"
 
-P: it needs other things
+**P:** it needs other things
 
-E: web server, encrypted transactions
+**E:** web server, encrypted transactions
 
-P: Setting up a server is expensive
+**P:** Setting up a server is expensive
 
-E: "On the east coast, the network connection alone costs about
+**E:** "On the east coast, the network connection alone costs about
 $2000/mo"
 
-P: difficult
+**P:** difficult
 
-E: No idea
+**E:** No idea
 
 > So the next best solution is to have a (general-purpose catalog
 > generator)[1], but have someone else handle the server
@@ -1594,14 +1594,14 @@ E: No idea
 > won't have to install anything.
 
 
-P: general purpose generator [1]
+**P:** general purpose generator [1]
 
-E: like Microsoft catalog
+**E:** like Microsoft catalog
 
-P: With networks, it no longer matters whether the program you're
+**P:** With networks, it no longer matters whether the program you're
 using is running on your own computer or not [2]
 
-E: "like using any off-the-shelf software package, except that users
+**E:** "like using any off-the-shelf software package, except that users
 won't have to install anything"
 
 
@@ -1609,9 +1609,9 @@ won't have to install anything"
 > will be free and instant, and (the interface will be one the users
 > already know)[1], Netscape.
 
-P: interface will be one the users already know [1]
+**P:** interface will be one the users already know [1]
 
-E: Netscape
+**E:** Netscape
 
 > (The idea behind Webgen)[1] is a lot like the one that made
 > Kodak. Before Kodak came along, (if you took a photo, you had to
@@ -1619,17 +1619,17 @@ E: Netscape
 > taken, he went to a photographer's studio, (just as you might go to
 > MCI to put your catalog online today)[3].
 
-P: idea behind Webgen
+**P:** idea behind Webgen
 
-E: a lot like Kodak
+**E:** a lot like Kodak
 
-P: if you made you catalog, you had to serve it
+**P:** if you made you catalog, you had to serve it
 
-E: if you took a photo, you had to develop it
+**E:** if you took a photo, you had to develop it
 
-P: just as you might go to MCI to put your catalog online
+**P:** just as you might go to MCI to put your catalog online
 
-E: "if an ordinary person wanted to have his photo taken, he went to a
+**E:** "if an ordinary person wanted to have his photo taken, he went to a
 studio"
 
 > Eastman sold a camera everyone could use, plus the promise to handle
@@ -1638,9 +1638,9 @@ studio"
 > We sell a catalog generator everyone can use, plus the promise to
 > handle the messy, capital-intensive part---serving the pages.
 
-P: capital intensive part
+**P:** capital intensive part
 
-E: "developing the film, serving the pages"
+**E:** "developing the film, serving the pages"
 
 > Of course, (really high-end customers will want to set up their own
 > servers)[1], just as high-end photography customers develop their
@@ -1650,18 +1650,18 @@ E: "developing the film, serving the pages"
 > service)[3]. Webgen could be the Kodak of online commerce. Someone
 > will be.
 
-P: really high-end customers will want to setup their own servers
+**P:** really high-end customers will want to setup their own servers
 
-E: "just as high end photography customers will develop their own
+**E:** "just as high end photography customers will develop their own
 photos"
 
-P: selling a product
+**P:** selling a product
 
-E: like Kodak cameras
+**E:** like Kodak cameras
 
-P: selling a service
+**P:** selling a service
 
-E: like MCI
+**E:** like MCI
 
 <!-- 37 -->
 
@@ -1683,25 +1683,25 @@ E: like MCI
 > with other companies, or deal with other people's broken code. Maybe
 > that's possible, but I haven't seen it.
 
-P: great startup ideas
+**P:** great startup ideas
 
-E: Dropbox, ASML, Paypal, Tesla (greatness measured by success)
+**E:** Dropbox, ASML, Paypal, Tesla (greatness measured by success)
 
-P: great startup ideas lying around unexploited right under our noses
+**P:** great startup ideas lying around unexploited right under our noses
 
-E: perhaps an NGO that works with the government to provide free or
+**E:** perhaps an NGO that works with the government to provide free or
 dirt cheap extensive health care for all in need
 
-P: tedious, unpleasant task
+**P:** tedious, unpleasant task
 
-E: I am discouraged to pursue starting up as there is so much
+**E:** I am discouraged to pursue starting up as there is so much
 unpleasant uncertainty, it will probably not happen within my
 lifetime; you have to penetrate your vision into the government
 SOMEHOW; you need to make deals; you need to followup; there will be
 power changes; I need to have the right skill before I take it up
 etc...
 
-E2: I worked in a company where there were 40 designers sharing one
+**E2:** I worked in a company where there were 40 designers sharing one
 license for part of software. Not many people used it often but when I
 needed it I always had to beg around and ask for it and waste quite
 some time. To fix it I would need to talk to a few people who have the
@@ -1710,9 +1710,9 @@ for months before I see any follow up. So, I didn't. I just left it as
 I was somehow able to finish my work. Then it happened again. I
 escalated it. This time I didn't follow it up though. #schleps
 
-P: people dislike schleps
+**P:** people dislike schleps
 
-E: I guess the one thing that is stopping me from pursuing starting or
+**E:** I guess the one thing that is stopping me from pursuing starting or
 joining an NGO to support healthcare for the poor, is all the work
 that I need to do, right from my education, to handling uncertainty of
 such an initiative (mainly coming from schleps?)
@@ -1730,9 +1730,9 @@ such an initiative (mainly coming from schleps?)
 > you should (never shrink from it if it's on the path to something
 > great.)[7]
 
-P: the inevitability of schleps
+**P:** the inevitability of schleps
 
-E: Buying groceries has schleps (you need to go there, stand in que),
+**E:** Buying groceries has schleps (you need to go there, stand in que),
 buying groceries online has schleps (you freaking need to be home for
 2 hrs to collect it), 
 
@@ -1749,9 +1749,9 @@ you need to spend hours on the website.
 
 Schleps got to be done.
 
-P: never shrink from it if it's on the path to something great
+**P:** never shrink from it if it's on the path to something great
 
-E: You still need to eat, live in a space of mental peace. So you need
+**E:** You still need to eat, live in a space of mental peace. So you need
 to put in the work of cooking, storing the food and finding a roof
 above your head that allows you to sleep on time etc...
 
@@ -1764,14 +1764,14 @@ above your head that allows you to sleep on time etc...
 > athletes, for example. Their unconscious mind decides for them,
 > shrinking from the work involved.
 
-P: Your unconscious won't even let you see ideas that involve painful
+**P:** Your unconscious won't even let you see ideas that involve painful
 schleps
 
-E: "Most people don't consciously decide not to be in as good physical
+**E:** "Most people don't consciously decide not to be in as good physical
 shape as Olympic athletes, for example. Their unconscious mind decides
 for them, shrinking from the work involved."
 
-E2: I freaking don't go to a phisio but complain to myself for the
+**E2:** I freaking don't go to a phisio but complain to myself for the
 last 3-5 months everytime I go to the gym because of
 #schleps. Wow. The Schleps though is that I keep a schedule and I hate
 it if it gets disturbed, I have to call the phisio during the schedule
@@ -1801,9 +1801,9 @@ that their unconscious has decided for them shrinking from the schlep
 > schlep blindness prevented people from even considering the idea of
 > fixing payments.
 
-P: most striking example
+**P:** most striking example
 
-E: Stripe took the hardest problem (considering schleps), and
+**E:** Stripe took the hardest problem (considering schleps), and
 solved it despite so many people having the same problem
 
 > Probably no one who applied to Y Combinator to work on a recipe site
@@ -1817,11 +1817,11 @@ solved it despite so many people having the same problem
 > regulations to comply with. It's a lot more intimidating to start a
 > startup like this than a recipe site.
 
-P: Though the idea of fixing payments was right there in plain sight,
+**P:** Though the idea of fixing payments was right there in plain sight,
 they never saw it, because their unconscious mind shrank from the
 complications involved.
 
-E: "You'd have to make deals with banks. How do you do that? Plus
+**E:** "You'd have to make deals with banks. How do you do that? Plus
 you're moving money, so you're going to have to deal with fraud, and
 people trying to break into your servers. Plus there are probably all
 sorts of regulations to comply with. It's a lot more intimidating to
@@ -1835,25 +1835,25 @@ start a startup like this than a recipe site."
 > by the challenges involved. (This is also true of starting a startup
 > generally)[15].
 
-P: That scariness makes ambitious ideas doubly valuable
+**P:** That scariness makes ambitious ideas doubly valuable
 
-E: No one made Stripe before and once Stripe came in they had the
+**E:** No one made Stripe before and once Stripe came in they had the
 whole market to themselves, unlike other startups making recipe sites
 at Y combinator, which everyone has already made.
 
-P: their intrinsic value
+**P:** their intrinsic value
 
-E: ??
+**E:** ??
 
-P: their undervalued stocks
+**P:** their undervalued stocks
 
-E: "there is less demand for them from founders", but they are
+**E:** "there is less demand for them from founders", but they are
 cash cows
 
-P: if you pick up an ambitious idea, you'll have less competition;
+**P:** if you pick up an ambitious idea, you'll have less competition;
 this is also true of starting a startup generally
 
-E: Stripe had 0 competitors when they started.
+**E:** Stripe had 0 competitors when they started.
 
 SpaceX's by far extremely ambitious with its plans to go to Mars, and
 guess what 0 competition.
@@ -1868,15 +1868,15 @@ serious competitor
 > they might never have started it. Maybe that's one reason the most
 > successful startups of all so often have young founders.
 
-P: overcome schlep blindness
+**P:** overcome schlep blindness
 
-E: Starting Tesla, Starting Space X, Starting Stripe irrespective of
+**E:** Starting Tesla, Starting Space X, Starting Stripe irrespective of
 the schleps
 
-P: the most valuable antidote to schlep blindness is probably
+**P:** the most valuable antidote to schlep blindness is probably
 ignorance
 
-E: If Elon Musk knew the type of problems he would face such as
+**E:** If Elon Musk knew the type of problems he would face such as
 constant backlash with investors, the uncertainty of the company
 existing every single day, constantly being scrutinized by the public
 and having to stay at work 24x7 while accelerating the progress of
@@ -1907,9 +1907,9 @@ to cross to put an e-bike on the market.
 > can grow, but they also don't know how much they'll need to. Older
 > founders only make the first mistake.
 
-P: founders grow with problems
+**P:** founders grow with problems
 
-E: The founders have no previous history of managing anything. Both
+**E:** The founders have no previous history of managing anything. Both
 were extremely technical people. Today Ather Energy is killing it,
 having been backed by some of the biggest giants in the industry,
 attempting to revolutionize e-bikes in a country like India. Every
@@ -1920,9 +1920,9 @@ locations. They introduced a bunch of features using smart phones to
 locate them and check if the stations are free. They have started this
 already in Banglore and are trying to expand to other cities.
 
-P: They (young founders) make two mistakes that cancel each other out
+**P:** They (young founders) make two mistakes that cancel each other out
 
-E: They don't know how much they can grow, but they also don't know
+**E:** They don't know how much they can grow, but they also don't know
 how much they'll need to.
 
 
@@ -1938,11 +1938,11 @@ how much they'll need to.
 > It's too late now to be Stripe, (but there's plenty still broken in
 > the world, if you know how to see it)[5].
 
-P: ignorance can't solve everything though; Some ideas so obviously
+**P:** ignorance can't solve everything though; Some ideas so obviously
 entail alarming schleps that anyone can see them; take yourself out of
 the picture; what problem do I wish someone else would solve for me
 
-E: After the company matured a bit, Ather Energy knew that no one
+**E:** After the company matured a bit, Ather Energy knew that no one
 would come forward to providing charging stations. Without Charging
 stations infrastructure, their product was going to fail. [It was a
 chicken and egg problem. The infrastructure companies would have to
@@ -1953,9 +1953,9 @@ survive.](https://youtu.be/iecq6vSr-EQ?t=1399) So they decided to take that on a
 Ask not what I should solve, ask what problem do I wish someone else
 would solve for me! This way you see without the schleps.
 
-P: but there's plenty still broken in the world
+**P:** but there's plenty still broken in the world
 
-E: For some of the hottest problems look [no further than here](https://80000hours.org/problem-profiles/)
+**E:** For some of the hottest problems look [no further than here](https://80000hours.org/problem-profiles/)
 
 
 ---
@@ -1965,54 +1965,54 @@ E: For some of the hottest problems look [no further than here](https://80000hou
 I am happy about most of the work, except the technical writing. I
 constantly felt it was really bad. For example...
 
-> P: modeling the loads accurately when they vary with time
+> **P:** modeling the loads accurately when they vary with time
 >
-> E: If the loads vary with time you have to make atleast another 360 to 720
+> **E:** If the loads vary with time you have to make atleast another 360 to 720
 > calculations for the case of the IC engine. 
 >
-> P: it is customary to come up with a design based on the available
+> **P:** it is customary to come up with a design based on the available
 > knowledge of load
 >
-> E: We set the inertial terms to 0 and this makes computation faster
+> **E:** We set the inertial terms to 0 and this makes computation faster
 > and straight-forward to get closed form solutions and design the
 > parts.
 >
-> P: over-compensation of the loads
+> **P:** over-compensation of the loads
 >
-> E: To account for unknown variations, we take the static loads on a
+> **E:** To account for unknown variations, we take the static loads on a
 > table, say due to a man sitting on it, and then assume the
 > maximum load is going to be 3 times the static load and design the
 > table for that.
 >
-> P: detailed analysis of the mass distribution, strength and loading of
+> **P:** detailed analysis of the mass distribution, strength and loading of
 > components
 >
-> E: for example using Finite Element Methods
+> **E:** for example using Finite Element Methods
 
 I know in all these cases atleast there needs some more work from my
 side, as I do not explain the connection between the phrase and the
 example at all.
 
-> P: modeling the loads accurately when they vary with time
+> **P:** modeling the loads accurately when they vary with time
 >
-> E: If the loads vary with time you have to make atleast another 360 to 720
+> **E:** If the loads vary with time you have to make atleast another 360 to 720
 > calculations for the case of the IC engine. 
 >
-> P: it is customary to come up with a design based on the available
+> **P:** it is customary to come up with a design based on the available
 > knowledge of load
 >
-> E: We set the inertial terms to 0 and this makes computation faster
+> **E:** We set the inertial terms to 0 and this makes computation faster
 > and straight-forward to get closed form solutions and design the
 > parts.
 
 I like what I did for schlep blindness, particularly here where I
 attempt imho some decent examples:
 
-> P: ignorance can't solve everything though; Some ideas so obviously
+> **P:** ignorance can't solve everything though; Some ideas so obviously
 > entail alarming schleps that anyone can see them; take yourself out of
 > the picture; what problem do I wish someone else would solve for me
 >
-> E: After the company matured a bit, Ather Energy knew that no one
+> **E:** After the company matured a bit, Ather Energy knew that no one
 > would come forward to providing charging stations. Without Charging
 > stations infrastructure, their product was going to fail. [It was a
 > chicken and egg problem. The infrastructure companies would have to
@@ -2020,20 +2020,20 @@ attempt imho some decent examples:
 > enough charging stations, the company making e-bikes could
 > survive.](https://youtu.be/iecq6vSr-EQ?t=1399) So they decided to take that on as well. Ather Grid.
 
-> P: Your unconscious won't even let you see ideas that involve painful
+> **P:** Your unconscious won't even let you see ideas that involve painful
 > schleps
 >
-> E: "Most people don't consciously decide not to be in as good physical
+> **E:** "Most people don't consciously decide not to be in as good physical
 > shape as Olympic athletes, for example. Their unconscious mind decides
 > for them, shrinking from the work involved."
 >
-> E2: I freaking don't go to a phisio but complain to myself for the
+> **E2:** I freaking don't go to a phisio but complain to myself for the
 > last 3-5 months everytime I go to the gym because of
 > #schleps. Wow. The Schleps though is that I keep a schedule and I hate
 > it if it gets disturbed, I have to call the phisio during the schedule
 > ("I don't have time you see")
 >
-> E3: Fat caliper allows to calculate the muscle mass and fat%, my
+> **E3:** Fat caliper allows to calculate the muscle mass and fat%, my
 > unconscious has decided *not to give* me this feedback as it is a schlep
 > that I have to do every Monday night for about 10-15 mins
 >
