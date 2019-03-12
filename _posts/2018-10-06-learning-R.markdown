@@ -33,6 +33,9 @@ Some more helpful configuration things are given in
 `_` key is bound to `<-` by default in the `ESS`
 mode. `ESS-smart-underscore` tries to overcome this issue (I have not
 yet tested how).
+
+https://stackoverflow.com/questions/15289995/how-to-get-help-in-r
+
 ### Useful Keybindings, shortcuts
 
 	C-c C-v Help for object
@@ -249,8 +252,8 @@ be used to interface with hdf5 data sets.
 
 ### other packages installed
 
-	`plyr`, `Hmisc`, `reshape`,`jpeg`, `stringr`, `lubridate`,
-	`quantmod`, `reader`
+	"plyr", "Hmisc", "reshape","jpeg", "stringr", "lubridate",
+	"quantmod", "reader", "rafalib","kernlab", "rmarkdown"
 	
 ## Learning R
 
@@ -1686,6 +1689,26 @@ exists is to Google "data storage mechanism R package"
 > --- library(help=jpeg)
 
 ## Manipulating DATA (c3-w3)
+### dealing with NA
+	
+	final[complete.cases(final), ]
+	na.omit(your.data.frame)
+	final <- final[!(is.na(final$rnor)) | !(is.na(rawdata$cfam)),]
+	
+Also look at imputing where NA is replaced with other things
+	
+### NA's are ignored using `which`
+
+```r
+X[which(X$var2 > 8),]
+```
+
+```
+  var1 var2 var3
+4    1   10   11
+5    4    9   13
+```
+
 ### dealing with blanks
 https://stackoverflow.com/questions/12763890/exclude-blank-and-na-in-r
 Question
@@ -1752,18 +1775,6 @@ X[(X$var1 <= 3 | X$var3 > 15),]
 1    2   NA   15
 4    1   10   11
 2    3   NA   12
-```
-
-### NA's are ignored using `which`
-
-```r
-X[which(X$var2 > 8),]
-```
-
-```
-  var1 var2 var3
-4    1   10   11
-5    4    9   13
 ```
 
 ### Sorting
@@ -2342,6 +2353,22 @@ table(restData2$zipGroups)
 [-21226,21205) [ 21205,21220) [ 21220,21227) [ 21227,21287] 
            338            375            300            314 
 ```
+
+This [stack source on different ways of adding columns](https://stackoverflow.com/questions/7976001/adding-a-column-of-means-by-group-to-original-data) to the main
+data frame but factored:
+
+``` R
+df1$Y.New <- ave(df1$Y, df1$X)
+
+## or
+
+library(dplyr)
+df1 <- df1 %>% 
+  group_by(X) %>% 
+  mutate(Y.new = mean(Y))
+  
+```
+
 ### Common transforms
 
 * `abs(x)` absolute value
@@ -2495,6 +2522,28 @@ sapply(spIns,sum) # directly a table
 
 
 [http://www.r-bloggers.com/a-quick-primer-on-split-apply-combine-problems/](http://www.r-bloggers.com/a-quick-primer-on-split-apply-combine-problems/)
+
+### Averaging across multiple variables
+
+``` R
+balt.NEI <- subset(NEI,fips==24510)
+
+mn2 <- with(balt.NEI, tapply(Emissions, list(year,type), mean, na.rm=T))
+
+library(dplyr)
+mn20 <- balt.NEI %>% group_by(year,type) %>%
+    summarise(Pandian=mean(Emissions)) # result in clean format
+	
+library(plyr)
+
+mn21 -> ddply(balt.NEI, .(type,year), summarize,Pandian=mean(Emissions))
+```
+**Note:** Summarize and Summarise perform the same function.
+
+**Warning:** loading plyr masks the Summarise of dplyr! You need to
+detach plyr before using functions like Summarize again.
+
+https://stackoverflow.com/a/27407856/5986651
 
 ### Another way - plyr package 
 
@@ -3466,6 +3515,22 @@ sampleYears <- year(sampleTimes)
 length(sampleYears[sampleYears==2012])
 
 length(sampleTimes[year(sampleTimes)==2012 & weekdays(sampleTimes)=="maandag"])
+```
+
+### Working with TIME, difference, str_pad,strptime
+
+``` R
+mn1 <- df %>% group_by(interval) %>% summarize(num.of.steps.per.day=mean(steps))
+
+                                        # convert mn1 interval to DT
+                                        # subtract!
+
+mn1$interval <- as.character(mn1.interval)
+mn1$interval <- str_pad(mn1$interval, width=4, side="left", pad="0")
+mn1$interval <- strptime(mn1$interval,"%H%M")
+mn1
+mn1$actualInterval <- mn1$interval-mn1$interval[1]
+mna$actualInterval <- as.numeric(mn1$actualInterval)
 ```
 
 ## Data resources
@@ -4506,10 +4571,6 @@ qplot(displ, hwy, data = mpg)
 qplot(displ, hwy, data = mpg, color = drv)
 ```
 
-<div class="rimage center"><img src="fig/unnamed-chunk-3.png" title="plot of chunk unnamed-chunk-3" alt="plot of chunk unnamed-chunk-3" class="plot" /></div>
-
-
-
 ---
 
 ### Adding a geom
@@ -4518,8 +4579,6 @@ qplot(displ, hwy, data = mpg, color = drv)
 ```r
 qplot(displ, hwy, data = mpg, geom = c("point", "smooth"))
 ```
-
-<div class="rimage center"><img src="fig/unnamed-chunk-4.png" title="plot of chunk unnamed-chunk-4" alt="plot of chunk unnamed-chunk-4" class="plot" /></div>
 
 
 ---
@@ -4546,10 +4605,6 @@ Splits figure into as many based on the variable, for example months!
 qplot(displ, hwy, data = mpg, facets = . ~ drv)
 qplot(hwy, data = mpg, facets = drv ~ ., binwidth = 2)
 ```
-
-<div class="rimage center"><img src="fig/unnamed-chunk-61.png" title="plot of chunk unnamed-chunk-6" alt="plot of chunk unnamed-chunk-6" class="plot" />
-<img src="fig/unnamed-chunk-62.png" title="plot of chunk unnamed-chunk-6" alt="plot of chunk unnamed-chunk-6" class="plot" /></div>
-
 
 ---
 
@@ -4873,8 +4928,7 @@ g <- ggplot(testdat, aes(x = x, y = y))
 g + geom_line()
 ```
 
-<div class="rimage center"><img src="fig/unnamed-chunk-121.png" title="plot of chunk unnamed-chunk-12" alt="plot of chunk unnamed-chunk-12" class="plot" />
-<img src="fig/unnamed-chunk-122.png" title="plot of chunk unnamed-chunk-12" alt="plot of chunk unnamed-chunk-12" class="plot" /></div>
+
 
 
 ---
@@ -4886,9 +4940,6 @@ g + geom_line()
 g + geom_line() + ylim(-3, 3)
 g + geom_line() + coord_cartesian(ylim = c(-3, 3))
 ```
-
-<div class="rimage center"><img src="fig/unnamed-chunk-131.png" title="plot of chunk unnamed-chunk-13" alt="plot of chunk unnamed-chunk-13" class="plot" />
-<img src="fig/unnamed-chunk-132.png" title="plot of chunk unnamed-chunk-13" alt="plot of chunk unnamed-chunk-13" class="plot" /></div>
 
 
 
@@ -4945,4 +4996,2354 @@ g + geom_point(alpha = 1/3) +
 
 ### Summary
 - ggplot2 is very powerful and flexible if you learn the “grammar” and the various elements that can be tuned/modified
-- Many more types of plots can be made; explore and mess around with the package (references mentioned in Part 1 are useful)
+- Many more types of plots can be made; explore and mess around with
+		the package (references mentioned in Part 1 are useful)
+		
+### Important resource on legend, legend order and coloring
+Was trying to change labels of legend. nothing works just like in this
+stack question;
+
+https://stackoverflow.com/questions/23635662/editing-legend-text-labels-in-ggplot
+
+
+http://www.cookbook-r.com/Graphs/
+
+[We need to change the order of the factor](https://stackoverflow.com/a/54079708/5986651) so that `breaks`
+corresponds with `values` (see below)
+
+``` R
+
+mn5$fips <- factor(mn5$fips, levels=c("24510","06037")) # to change
+                                        # legend order later!
+										
+g <- ggplot(data=mn5, aes(x=year,y=Mean.Emissions,color=fips))+
+    geom_line()
+
+g + scale_colour_manual(breaks=c("24510","06037"),values=c("red","green"))
+
+```
+
+
+## Hierarchical Clustering
+### Can we find things that are close together? 
+
+Clustering organizes things that are __close__ into groups
+
+
+* How do we define close?
+* How do we group things?
+* How do we visualize the grouping? 
+* How do we interpret the grouping? 
+
+* An agglomerative approach
+  * Find closest two things
+  * Put them together
+  * Find next closest
+* Requires
+  * A defined distance
+  * A merging approach
+* Produces
+  * A tree showing how close things are to each other
+
+
+---
+
+
+### How do we define close?
+
+* Most important step
+  * Garbage in -> garbage out
+* Distance or similarity
+  * Continuous - euclidean distance
+  * Continuous - correlation similarity
+  * Binary - manhattan distance
+* Pick a distance/similarity that makes sense for your problem
+  
+  
+
+---
+
+### Example distances - Euclidean
+
+Point to point
+
+In general:
+
+$$\sqrt{(A_1-A_2)^2 + (B_1-B_2)^2 + \ldots + (Z_1-Z_2)^2}$$
+[http://rafalab.jhsph.edu/688/lec/lecture5-clustering.pdf](http://rafalab.jhsph.edu/688/lec/lecture5-clustering.pdf)
+
+---
+
+### Example distances - Manhattan
+
+Like moving in a grid
+
+In general:
+
+$$|A_1-A_2| + |B_1-B_2| + \ldots + |Z_1-Z_2|$$
+
+[http://en.wikipedia.org/wiki/Taxicab_geometry](http://en.wikipedia.org/wiki/Taxicab_geometry)
+
+---
+
+### Hierarchical clustering - example
+
+```r
+set.seed(1234)
+par(mar = c(0, 0, 0, 0))
+x <- rnorm(12, mean = rep(1:3, each = 4), sd = 0.2)
+y <- rnorm(12, mean = rep(c(1, 2, 1), each = 4), sd = 0.2)
+plot(x, y, col = "blue", pch = 19, cex = 2)
+text(x + 0.05, y + 0.05, labels = as.character(1:12))
+```
+
+### Hierarchical clustering - `dist`
+
+* Important parameters: _x_,_method_
+
+```r
+dataFrame <- data.frame(x = x, y = y)
+dist(dataFrame)
+```
+
+```
+##          1       2       3       4       5       6       7       8       9
+## 2  0.34121                                                                
+## 3  0.57494 0.24103                                                        
+## 4  0.26382 0.52579 0.71862                                                
+## 5  1.69425 1.35818 1.11953 1.80667                                        
+## 6  1.65813 1.31960 1.08339 1.78081 0.08150                                
+## 7  1.49823 1.16621 0.92569 1.60132 0.21110 0.21667                        
+## 8  1.99149 1.69093 1.45649 2.02849 0.61704 0.69792 0.65063                
+## 9  2.13630 1.83168 1.67836 2.35676 1.18350 1.11500 1.28583 1.76461        
+## 10 2.06420 1.76999 1.63110 2.29239 1.23848 1.16550 1.32063 1.83518 0.14090
+## 11 2.14702 1.85183 1.71074 2.37462 1.28154 1.21077 1.37370 1.86999 0.11624
+## 12 2.05664 1.74663 1.58659 2.27232 1.07701 1.00777 1.17740 1.66224 0.10849
+##         10      11
+## 2                 
+## 3                 
+## 4                 
+## 5                 
+## 6                 
+## 7                 
+## 8                 
+## 9                 
+## 10                
+## 11 0.08318        
+## 12 0.19129 0.20803
+```
+
+---
+
+### Hierarchical clustering - hclust
+
+
+```r
+dataFrame <- data.frame(x = x, y = y)
+distxy <- dist(dataFrame)
+hClustering <- hclust(distxy)
+plot(hClustering)
+```
+
+Plots a dendogram
+
+
+
+---
+
+### Prettier dendrograms
+
+Use this function for prettier dendograms
+
+```r
+myplclust <- function(hclust, lab = hclust$labels, lab.col = rep(1, length(hclust$labels)), 
+    hang = 0.1, ...) {
+    ## modifiction of plclust for plotting hclust objects *in colour*!  Copyright
+    ## Eva KF Chan 2009 Arguments: hclust: hclust object lab: a character vector
+    ## of labels of the leaves of the tree lab.col: colour for the labels;
+    ## NA=default device foreground colour hang: as in hclust & plclust Side
+    ## effect: A display of hierarchical cluster with coloured leaf labels.
+    y <- rep(hclust$height, 2)
+    x <- as.numeric(hclust$merge)
+    y <- y[which(x < 0)]
+    x <- x[which(x < 0)]
+    x <- abs(x)
+    y <- y[order(x)]
+    x <- x[order(x)]
+    plot(hclust, labels = FALSE, hang = hang, ...)
+    text(x = x, y = y[hclust$order] - (max(hclust$height) * hang), labels = lab[hclust$order], 
+        col = lab.col[hclust$order], srt = 90, adj = c(1, 0.5), xpd = NA, ...)
+}
+```
+
+---
+
+	
+### Pretty dendrograms
+
+
+```r
+dataFrame <- data.frame(x = x, y = y)
+distxy <- dist(dataFrame)
+hClustering <- hclust(distxy)
+myplclust(hClustering, lab = rep(1:3, each = 4), lab.col = rep(1:3, each = 4))
+```
+
+
+
+---
+
+### Even Prettier dendrograms
+
+
+Site doesn't work! Site broken!
+
+[http://gallery.r-enthusiasts.com/RGraphGallery.php?graph=79](http://gallery.r-enthusiasts.com/RGraphGallery.php?graph=79)
+
+
+---
+
+### Merging points - complete or average
+
+> method: the agglomeration method to be used.  This should be (an
+>           unambiguous abbreviation of) one of ‘"ward.D"’, ‘"ward.D2"’,
+>           ‘"single"’, ‘"complete"’, ‘"average"’ (= UPGMA), ‘"mcquitty"’
+>           (= WPGMA), ‘"median"’ (= WPGMC) or ‘"centroid"’ (= UPGMC).
+
+method for hclust so that the clustering is done based on the farthest
+points within the existing cluster if "complete".
+
+### `heatmap()`
+Clusters rows based on XY distance just like hclust. 
+
+For columns it looks at individual columns and color codes them to
+points that are close to each other.
+
+```r
+dataFrame <- data.frame(x = x, y = y)
+set.seed(143)
+dataMatrix <- as.matrix(dataFrame)[sample(1:12), ]
+heatmap(dataMatrix)
+```
+
+In this example Y (9,12,6,7,1,5,11) are all "close" by where (3,2,4)
+ain't!
+
+---
+
+### Notes and further resources
+
+* Gives an idea of the relationships between variables/observations
+* The picture may be unstable
+  * Change a few points
+  * Have different missing values
+  * Pick a different distance
+  * Change the merging strategy
+  * Change the scale of points for one variable
+* But it is deterministic
+* Choosing where to cut isn't always obvious
+* Should be primarily used for exploration 
+* [Rafa's Distances and Clustering Video](http://www.youtube.com/watch?v=wQhVWUcXM0A)
+* [Elements of statistical learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
+
+  
+### My notes on hierarchical clustering and heatmaps
+
+Hierarchical clustering is when you compare rows or columns of a DF by
+first scaling them and the point is to see how everything is related
+to each other. For example:
+
+```R
+s<-matrix(1:25,5)
+s[lower.tri(s)] = t(s)[lower.tri(s)]
+heatmap(s)
+```
+
+`Heatmap()` takes a DF and then does hierarchical clustering on the
+rows and columns. It uses the `dist()` to make distance based on
+different `method` arguments. For example, for the `eucledian method`,
+it basically takes 2 entire row vectors on n dimension and measures
+the eucledian distance and uses that for clustering. Same with the Column.
+
+
+## Kmeans! Can we find things that are close together? 
+
+* How do we define close?
+* How do we group things?
+* How do we visualize the grouping? 
+* How do we interpret the grouping? 
+
+
+---
+
+### How do we define close?
+
+* Most important step
+  * Garbage in $\longrightarrow$ garbage out
+* Distance or similarity
+  * Continuous - euclidean distance
+  * Continous - correlation similarity
+  * Binary - manhattan distance
+* Pick a distance/similarity that makes sense for your problem
+  
+
+---
+
+### K-means clustering
+
+* A partioning approach
+  * Fix a number of clusters
+  * Get "centroids" of each cluster
+  * Assign things to closest centroid
+  * Reclaculate centroids
+* Requires
+  * A defined distance metric
+  * A number of clusters
+  * An initial guess as to cluster centroids
+* Produces
+  * Final estimate of cluster centroids
+  * An assignment of each point to clusters
+  
+
+---
+
+### K-means clustering -  example
+
+```r
+set.seed(1234)
+par(mar = c(0, 0, 0, 0))
+x <- rnorm(12, mean = rep(1:3, each = 4), sd = 0.2)
+y <- rnorm(12, mean = rep(c(1, 2, 1), each = 4), sd = 0.2)
+plot(x, y, col = "blue", pch = 19, cex = 2)
+text(x + 0.05, y + 0.05, labels = as.character(1:12))
+```
+### What Kmeans does?
+
+-  starting centroids are guessed
+
+-  assign points to closest centroid
+
+- recalculates centroids
+
+- reassigns points to closest centroid
+
+- update centroids
+
+---
+
+### `kmeans()`
+
+* Important parameters: _x_, _centers_, _iter.max_, _nstart_
+
+
+```r
+dataFrame <- data.frame(x, y)
+kmeansObj <- kmeans(dataFrame, centers = 3)
+names(kmeansObj)
+```
+
+```
+## [1] "cluster"      "centers"      "totss"        "withinss"    
+## [5] "tot.withinss" "betweenss"    "size"         "iter"        
+## [9] "ifault"
+```
+
+```r
+kmeansObj$cluster
+```
+
+```
+##  [1] 3 3 3 3 1 1 1 1 2 2 2 2
+```
+
+
+---
+
+
+### `kmeans()`
+
+
+```r
+par(mar = rep(0.2, 4))
+plot(x, y, col = kmeansObj$cluster, pch = 19, cex = 2)
+points(kmeansObj$centers, col = 1:3, pch = 3, cex = 3, lwd = 3)
+```
+
+---
+
+### Heatmaps
+
+
+```r
+set.seed(1234)
+dataMatrix <- as.matrix(dataFrame)[sample(1:12), ]
+kmeansObj2 <- kmeans(dataMatrix, centers = 3)
+par(mfrow = c(1, 2), mar = c(2, 4, 0.1, 0.1))
+image(t(dataMatrix)[, nrow(dataMatrix):1], yaxt = "n")
+image(t(dataMatrix)[, order(kmeansObj2$cluster)], yaxt = "n")
+```
+
+slides have an error: `kmeansObj$cluster` is used and gives shitty
+results!
+
+---
+
+### Notes and further resources
+
+* K-means requires a number of clusters
+  * Pick by eye/intuition
+  * Pick by cross validation/information theory, etc.
+  * [Determining the number of clusters](http://en.wikipedia.org/wiki/Determining_the_number_of_clusters_in_a_data_set)
+* K-means is not deterministic
+  * Different # of clusters 
+  * Different number of iterations
+* [Rafael Irizarry's Distances and Clustering Video](http://www.youtube.com/watch?v=wQhVWUcXM0A)
+* [Elements of statistical learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
+
+## Dimension reduction
+
+### Matrix data 
+
+
+```r
+set.seed(12345)
+par(mar = rep(0.2, 4))
+dataMatrix <- matrix(rnorm(400), nrow = 40)
+image(1:10, 1:40, t(dataMatrix)[, nrow(dataMatrix):1])
+```
+
+---
+
+### Cluster the data 
+
+
+```r
+par(mar = rep(0.2, 4))
+heatmap(dataMatrix)
+```
+
+---
+
+### What if we add a pattern?
+
+
+```r
+set.seed(678910)
+for (i in 1:40) {
+    # flip a coin
+    coinFlip <- rbinom(1, size = 1, prob = 0.5)
+    # if coin is heads add a common pattern to that row
+    if (coinFlip) {
+        dataMatrix[i, ] <- dataMatrix[i, ] + rep(c(0, 3), each = 5)
+    }
+}
+```
+
+	rep(c(0,3),each=5) 
+	
+produces 0,0,0,0,0,3,3,3,3,3;
+
+Adds mean to last 5 columns only
+
+---
+
+### What if we add a pattern? - the data
+
+You see split between first and last 5 columns!
+
+```r
+par(mar = rep(0.2, 4))
+image(1:10, 1:40, t(dataMatrix)[, nrow(dataMatrix):1])
+```
+
+---
+
+### What if we add a pattern? - the clustered data; heatmap
+
+Appears random in the rows...
+
+```r
+par(mar = rep(0.2, 4))
+heatmap(dataMatrix)
+```
+
+---
+
+### Patterns in rows and columns; heatmap
+
+
+order it and plot the heatmap
+
+```r
+hh <- hclust(dist(dataMatrix))
+dataMatrixOrdered <- dataMatrix[hh$order, ]
+par(mfrow = c(1, 3))
+image(t(dataMatrixOrdered)[, nrow(dataMatrixOrdered):1])
+plot(rowMeans(dataMatrixOrdered), 40:1, , xlab = "Row Mean", ylab = "Row", pch = 19)
+plot(colMeans(dataMatrixOrdered), xlab = "Column", ylab = "Column Mean", pch = 19)
+```
+
+### Related problems
+
+You have multivariate variables $X_1,\ldots,X_n$ so $X_1 = (X_{11},\ldots,X_{1m})$
+
+* Find a new set of multivariate variables that are uncorrelated and explain as much variance as possible.
+* If you put all the variables together in one matrix, find the best matrix created with fewer variables (lower rank) that explains the original data.
+
+
+The first goal is <font color="#330066">statistical</font> and the second goal is <font color="#993300">data compression</font>.
+
+---
+
+### Related solutions - PCA/SVD
+
+__SVD__
+
+If $X$ is a matrix with each variable in a column and each observation in a row then the SVD is a "matrix decomposition"
+
+$$ X = UDV^T$$
+
+where the columns of $U$ are orthogonal (left singular vectors), the columns of $V$ are orthogonal (right singular vectors) and $D$ is a diagonal matrix (singular values). 
+
+__PCA__
+
+The principal components are equal to the right singular values if you
+first scale (subtract the mean, divide by the standard deviation) the
+variables.
+
+This is pretty much it, it is a different way of doing the SVD I guess!
+
+---
+
+### What is SVD? 
+
+X = U D V', U spans the column space and V spans the row space and are
+orthonormal vectors (UU^T=I). 
+
+X --> mxn; U --> mxm; D --> mxn; V --> nxn
+
+Rank of X, r <= min(m,n)
+
+If r < min(m,n), then
+
+U and V have r vectors in the column (n) and row space (m). and n-r
+vectors in the column space and m-r vectors in the row space.
+
+[Gilbert Strang lecture is the source of this content.](https://www.youtube.com/watch?v=Nx0lRBaXoz4)
+
+### Components of the SVD - $u$ and $v$
+     
+```r
+svd1 <- svd(scale(dataMatrixOrdered))
+par(mfrow = c(1, 3))
+image(t(dataMatrixOrdered)[, nrow(dataMatrixOrdered):1])
+plot(svd1$u[, 1], 40:1, , xlab = "Row", ylab = "First left singular vector", 
+    pch = 19)
+plot(svd1$v[, 1], xlab = "Column", ylab = "First right singular vector", pch = 19)
+```
+
+### When to scale and center
+
+`scale()` does both centering and scaling if true, i.e., (x\_i -
+mean(x\_i)/sd(x\_i) 
+
+
+> it depends on the type of data you have. For some types of well
+> defined data, there may be no need to scale and center. A good
+> example is geolocation data (longitudes and latitudes). If you were
+> seeking to cluster towns, you wouldn't need to scale and center
+> their locations.
+>
+> For data that is of different physical measurements or units, its
+> probably a good idea to scale and center. For example, when
+> clustering vehicles, the data may contain attributes such as number
+> of wheels, number of doors, miles per gallon, horsepower etc. In
+> this case it may be a better idea to scale and center since you are
+> unsure of the relationship between each attribute.
+>
+> The intuition behind that is that since many clustering algorithms
+> require some definition of distance, if you do not scale and center
+> your data, you may give attributes which have larger magnitudes more
+> importance.
+>
+> In the context of your problem, I would scale and center the data if
+> it contains attributes like patient height, weight, age etc.
+
+[Source Stack](https://datascience.stackexchange.com/a/22369/67821)
+
+
+
+---
+
+### Components of the SVD - Variance calculation
+
+`svd1$d^2/sum(svd1$d^2)`
+
+```r
+par(mfrow = c(1, 2))
+plot(svd1$d, xlab = "Column", ylab = "Singular value", pch = 19)
+plot(svd1$d^2/sum(svd1$d^2), xlab = "Column", ylab = "Prop. of variance explained", 
+    pch = 19)
+```
+
+
+
+---
+
+### SVD vs PCA; principle component analysis
+
+Same as Right singular vectors. Nothing more. Look [here](https://www.youtube.com/) for more info.
+```r
+svd1 <- svd(scale(dataMatrixOrdered))
+pca1 <- prcomp(dataMatrixOrdered, scale = TRUE)
+plot(pca1$rotation[, 1], svd1$v[, 1], pch = 19, xlab = "Principal Component 1", 
+    ylab = "Right Singular Vector 1")
+abline(c(0, 1))
+```
+
+
+---
+
+### Components of the SVD - variance explained
+
+
+```r
+constantMatrix <- dataMatrixOrdered*0
+for(i in 1:dim(dataMatrixOrdered)[1]){constantMatrix[i,] <- rep(c(0,1),each=5)}
+svd1 <- svd(constantMatrix)
+par(mfrow=c(1,3))
+image(t(constantMatrix)[,nrow(constantMatrix):1])
+plot(svd1$d,xlab="Column",ylab="Singular value",pch=19)
+plot(svd1$d^2/sum(svd1$d^2),xlab="Column",ylab="Prop. of variance explained",pch=19)
+```
+
+---
+
+## Dimension reduction: identifying patterns
+### What if we add a second pattern?
+
+
+```r
+set.seed(678910)
+for (i in 1:40) {
+    # flip a coin
+    coinFlip1 <- rbinom(1, size = 1, prob = 0.5)
+    coinFlip2 <- rbinom(1, size = 1, prob = 0.5)
+    # if coin is heads add a common pattern to that row
+    if (coinFlip1) {
+        dataMatrix[i, ] <- dataMatrix[i, ] + rep(c(0, 5), each = 5)
+    }
+    if (coinFlip2) {
+        dataMatrix[i, ] <- dataMatrix[i, ] + rep(c(0, 5), 5)
+    }
+}
+hh <- hclust(dist(dataMatrix))
+dataMatrixOrdered <- dataMatrix[hh$order, ]
+```
+
+
+---
+
+### Singular value decomposition - true patterns 
+
+
+```r
+svd2 <- svd(scale(dataMatrixOrdered))
+par(mfrow = c(1, 3))
+image(t(dataMatrixOrdered)[, nrow(dataMatrixOrdered):1])
+plot(rep(c(0, 1), each = 5), pch = 19, xlab = "Column", ylab = "Pattern 1")
+plot(rep(c(0, 1), 5), pch = 19, xlab = "Column", ylab = "Pattern 2")
+```
+
+
+
+---
+
+###  $v$ and patterns of variance in rows
+
+
+```r
+svd2 <- svd(scale(dataMatrixOrdered))
+par(mfrow = c(1, 3))
+image(t(dataMatrixOrdered)[, nrow(dataMatrixOrdered):1])
+plot(svd2$v[, 1], pch = 19, xlab = "Column", ylab = "First right singular vector")
+plot(svd2$v[, 2], pch = 19, xlab = "Column", ylab = "Second right singular vector")
+```
+
+
+
+
+---
+
+###  $d$ and variance explained
+
+
+```r
+svd1 <- svd(scale(dataMatrixOrdered))
+par(mfrow = c(1, 2))
+plot(svd1$d, xlab = "Column", ylab = "Singular value", pch = 19)
+plot(svd1$d^2/sum(svd1$d^2), xlab = "Column", ylab = "Percent of variance explained", 
+    pch = 19)
+```
+
+
+
+---
+
+### Missing values NA 
+
+
+```r
+dataMatrix2 <- dataMatrixOrdered
+## Randomly insert some missing data
+dataMatrix2[sample(1:100, size = 40, replace = FALSE)] <- NA
+svd1 <- svd(scale(dataMatrix2))  ## Doesn't work!
+```
+
+```
+## Error: infinite or missing values in 'x'
+```
+
+
+
+---
+
+### Own imputing the missing values NA
+
+``` R
+mn2 <- df %>% group_by(interval) %>% mutate(mean.across.days=mean(steps,na.rm=TRUE))
+## Are there differences in activity patterns between weekdays and
+## weekends?
+
+na.row <- which(is.na(mn2$steps),arr.ind=TRUE)
+mn2$steps.imputed.without.NA <- mn2$steps
+mn2$steps.imputed.without.NA[na.row] <- mn2$mean.across.days[na.row]
+```
+
+### Imputing {impute}
+
+
+```r
+library(impute)  ## Available from http://bioconductor.org
+dataMatrix2 <- dataMatrixOrdered
+dataMatrix2[sample(1:100,size=40,replace=FALSE)] <- NA
+dataMatrix2 <- impute.knn(dataMatrix2)$data
+svd1 <- svd(scale(dataMatrixOrdered)); svd2 <- svd(scale(dataMatrix2))
+par(mfrow=c(1,2)); plot(svd1$v[,1],pch=19); plot(svd2$v[,1],pch=19)
+```
+
+
+
+
+
+---
+
+### Face example
+
+<!-- ## source("http://dl.dropbox.com/u/7710864/courseraPublic/myplclust.R") -->
+
+
+```r
+load("data/face.rda")
+image(t(faceData)[, nrow(faceData):1])
+```
+
+
+
+
+---
+
+### Face example - variance explained
+
+
+```r
+svd1 <- svd(scale(faceData))
+plot(svd1$d^2/sum(svd1$d^2), pch = 19, xlab = "Singular vector", ylab = "Variance explained")
+```
+
+
+---
+
+### Face example - create approximations
+
+
+```r
+
+svd1 <- svd(scale(faceData))
+## Note that %*% is matrix multiplication
+
+# Here svd1$d[1] is a constant
+approx1 <- svd1$u[, 1] %*% t(svd1$v[, 1]) * svd1$d[1]
+
+# In these examples we need to make the diagonal matrix out of d
+approx5 <- svd1$u[, 1:5] %*% diag(svd1$d[1:5]) %*% t(svd1$v[, 1:5])
+approx10 <- svd1$u[, 1:10] %*% diag(svd1$d[1:10]) %*% t(svd1$v[, 1:10])
+```
+
+
+---
+
+### Face example - plot approximations
+
+```r
+par(mfrow = c(1, 4))
+image(t(approx1)[, nrow(approx1):1], main = "(a)")
+image(t(approx5)[, nrow(approx5):1], main = "(b)")
+image(t(approx10)[, nrow(approx10):1], main = "(c)")
+image(t(faceData)[, nrow(faceData):1], main = "(d)")  ## Original data
+```
+
+
+
+
+---
+
+### Notes and further resources
+
+* Scale matters
+* PC's/SV's may mix real patterns
+* Can be computationally intensive
+* [Advanced data analysis from an elementary point of view](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
+* [Elements of statistical learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
+* Alternatives
+  * [Factor analysis](http://en.wikipedia.org/wiki/Factor_analysis)
+  * [Independent components analysis](http://en.wikipedia.org/wiki/Independent_component_analysis)
+  * [Latent semantic analysis](http://en.wikipedia.org/wiki/Latent_semantic_analysis)
+## Colors
+### Plotting and Color
+- The default color schemes for most plots in R are horrendous
+  - I don’t have good taste and even I know that
+- Recently there have been developments to improve the handling/specifica1on of colors in plots/graphs/etc.
+- There are functions in R and in external packages that are very handy
+
+---
+
+
+### Color U1li1es in R
+
+- The `grDevices` package has two functions 
+  - `colorRamp`
+  - `colorRampPalette`
+- These functions take palettes of colors and help to interpolate between the colors
+- The function colors() lists the names of colors you can use in any plotting function
+
+---
+
+### Color Palette Utilities in R
+
+- `colorRamp`: Take a palette of colors and return a function that takes valeus between 0 and 1, indicating the extremes of the color palette (e.g. see the 'gray' function)
+- `colorRampPalette`: Take a palette of colors and return a function that takes integer arguments and returns a vector of colors interpolating the palette (like `heat.colors` or `topo.colors`)
+
+---
+
+### colorRamp
+
+`[,1] [,2] [,3]` corresponds to `[Red] [Blue] [Green]`
+
+```r
+> pal <- colorRamp(c("red", "blue"))
+
+> pal(0)
+     [,1] [,2] [,3]
+[1,]  255    0    0
+
+> pal(1)
+     [,1] [,2] [,3]
+[1,]    0    0  255
+
+> pal(0.5)
+      [,1] [,2]  [,3]
+[1,] 127.5    0 127.5
+```
+
+---
+
+### colorRamp
+
+```r
+> pal(seq(0, 1, len = 10))
+                  [,1] [,2]       [,3]
+        [1,] 255.00000    0          0
+        [2,] 226.66667    0   28.33333
+        [3,] 198.33333    0   56.66667
+        [4,] 170.00000    0   85.00000
+        [5,] 141.66667    0  113.33333
+        [6,] 113.33333    0  141.66667
+        [7,]  85.00000    0  170.00000
+        [8,]  56.66667    0  198.33333
+        [9,]  28.33333    0  226.66667
+        [10,]  0.00000    0  255.00000
+```
+
+---
+
+### colorRampPalette
+
+```r
+> pal <- colorRampPalette(c("red", "yellow"))
+
+> pal(2)
+[1] "#FF0000" "#FFFF00"
+
+> pal(10)
+ [1] "#FF0000" "#FF1C00" "#FF3800" "#FF5500" "#FF7100"
+ [6] "#FF8D00" "#FFAA00" "#FFC600" "#FFE200" "#FFFF00”
+```
+
+---
+
+### RColorBrewer Package
+
+-  One package on CRAN that contains **interesing/useful color palettes**
+
+- There are 3 types of palettes
+  - **Sequential**
+  - **Diverging**
+  - **Qualitative**
+- Palette informa1on can be used in conjunction with the `colorRamp()` and `colorRampPalette()`
+
+
+https://www.google.com/search?q=rcolorbrewer+package&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjUgtT7wsLgAhXIaFAKHVk6CdsQ_AUIDigB&biw=792&bih=756#imgrc=FVFdJalwdTOVNM:
+
+---
+
+### RColorBrewer and colorRampPalette
+
+```r
+library(RColorBrewer)
+
+cols <- brewer.pal(3, "BuGn")
+
+cols
+[1] "#E5F5F9" "#99D8C9" "#2CA25F"
+
+pal <- colorRampPalette(cols)
+
+image(volcano, col = pal(20))
+```
+
+---
+
+### The smoothScatter function
+
+``` R
+x-> rnorm(1000)
+y-> rnorm(1000)
+smoothScatter(x,y)
+
+
+```
+
+---
+
+### Some other plotting notes
+
+- The `rgb` function can be used to produce any color via red, green, blue proportions
+- Color transparency can be added via the `alpha` parameter to `rgb`
+- The `colorspace` package can be used for a different control over colors
+
+---
+
+### Scatterplot with no transparency
+
+plot(x,y,pch=19)
+
+---
+
+### Scatterplot with transparency
+
+plot(x,y,col=rgb(0,0,0,0.2),pch=19)
+
+---
+
+### Summary
+
+- Careful use of colors in plots/maps/etc. can make it easier for the reader to get what you're trying to say (why make it harder?)
+- The `RColorBrewer` package is an R package that provides color palettes for sequential, categorical, and diverging data
+- The `colorRamp` and `colorRampPalette` functions can be used in conjunction with color palettes to connect data to colors
+- Transparency can sometimes be used to clarify plots with many points
+## c4-w4
+### Slightly processed data
+
+[Samsung data file](https://github.com/jtleek/modules/blob/master/04_ExploratoryAnalysis/clusteringExample/data/samsungData.rda)
+
+
+```r
+load("data/samsungData.rda")
+names(samsungData)[1:12]
+```
+
+```
+##  [1] "tBodyAcc-mean()-X" "tBodyAcc-mean()-Y" "tBodyAcc-mean()-Z"
+##  [4] "tBodyAcc-std()-X"  "tBodyAcc-std()-Y"  "tBodyAcc-std()-Z" 
+##  [7] "tBodyAcc-mad()-X"  "tBodyAcc-mad()-Y"  "tBodyAcc-mad()-Z" 
+## [10] "tBodyAcc-max()-X"  "tBodyAcc-max()-Y"  "tBodyAcc-max()-Z"
+```
+
+```r
+table(samsungData$activity)
+```
+
+```
+## 
+##   laying  sitting standing     walk walkdown   walkup 
+##     1407     1286     1374     1226      986     1073
+```
+
+
+---
+
+### Plotting average acceleration for first subject
+
+
+```r
+par(mfrow = c(1, 2), mar = c(5, 4, 1, 1))
+samsungData <- transform(samsungData, activity = factor(activity))
+sub1 <- subset(samsungData, subject == 1)
+plot(sub1[, 1], col = sub1$activity, ylab = names(sub1)[1])
+plot(sub1[, 2], col = sub1$activity, ylab = names(sub1)[2])
+legend("bottomright", legend = unique(sub1$activity), col = unique(sub1$activity), 
+    pch = 1)
+```
+
+Need to use `unique` for legend, don't need to use us unique in plot.
+
+
+---
+
+### Clustering based just on average acceleration
+
+<!-- ## -->
+<!-- source("http://dl.dropbox.com/u/7710864/courseraPublic/myplclust.R")  -->
+<!-- above line of course doens't work! -->
+
+This is a bad idea in this case as the avg acc is not able to
+distinguish between the different activities.
+
+```r
+library(rafalib)
+source("myplclust.R")
+distanceMatrix <- dist(sub1[, 1:3])
+hclustering <- hclust(distanceMatrix)
+myplclust(hclustering, lab.col = unclass(sub1$activity))
+```
+https://rdrr.io/cran/rafalib/src/R/myplclust.R 
+
+
+---
+
+### Plotting max acceleration for the first subject
+
+
+```r
+par(mfrow = c(1, 2))
+plot(sub1[, 10], pch = 19, col = sub1$activity, ylab = names(sub1)[10])
+plot(sub1[, 11], pch = 19, col = sub1$activity, ylab =
+names(sub1)[11])
+legend("bottomright", legend = unique(sub1$activity), col = unique(sub1$activity), pch = 1)
+``` 
+Much better way to identify parameters for clustering and setting
+cutoffs for identifying or distinguishing things.
+
+---
+
+### Clustering based on maximum acceleration
+Now we see some useful clustering based on distance, taking in XYZ acc!
+
+```r
+distanceMatrix <- dist(sub1[, 10:12])
+hclustering <- hclust(distanceMatrix)
+myplclust(hclustering, lab.col = unclass(sub1$activity))
+legend("topright", legend = unique(sub1$activity), col = unique(sub1$activity), 
+    pch = 1)
+```
+
+
+
+
+---
+
+### Singular Value Decomposition
+
+
+```r
+svd1 = svd(scale(sub1[, -c(562, 563)]))
+par(mfrow = c(1, 2))
+plot(svd1$u[, 1], col = sub1$activity, pch = 19)
+plot(svd1$u[, 2], col = sub1$activity, pch = 19)
+```
+
+
+---
+
+### Find maximum contributor
+
+
+```r
+plot(svd1$v[, 2], pch = 19)
+```
+
+![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
+
+
+
+---
+
+###  New clustering with maximum contributer
+
+
+```r
+maxContrib <- which.max(svd1$v[, 2])
+distanceMatrix <- dist(sub1[, c(10:12, maxContrib)])
+hclustering <- hclust(distanceMatrix)
+myplclust(hclustering, lab.col = unclass(sub1$activity))
+```
+
+![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+
+
+
+---
+
+###  New clustering with maximum contributer
+
+
+```r
+names(samsungData)[maxContrib]
+```
+
+```
+## [1] "fBodyAcc.meanFreq...Z"
+```
+
+
+---
+
+###  K-means clustering (nstart=1, first try)
+
+
+```r
+kClust <- kmeans(sub1[, -c(562, 563)], centers = 6)
+table(kClust$cluster, sub1$activity)
+```
+
+```
+##    
+##     laying sitting standing walk walkdown walkup
+##   1      0       0        0   50        1      0
+##   2      0       0        0    0       48      0
+##   3     27      37       51    0        0      0
+##   4      3       0        0    0        0     53
+##   5      0       0        0   45        0      0
+##   6     20      10        2    0        0      0
+```
+
+
+
+
+---
+
+###  K-means clustering (nstart=1, second try)
+
+
+```r
+kClust <- kmeans(sub1[, -c(562, 563)], centers = 6, nstart = 1)
+table(kClust$cluster, sub1$activity)
+```
+
+```
+##    
+##     laying sitting standing walk walkdown walkup
+##   1      0       0        0    0       49      0
+##   2     18      10        2    0        0      0
+##   3      0       0        0   95        0      0
+##   4     29       0        0    0        0      0
+##   5      0      37       51    0        0      0
+##   6      3       0        0    0        0     53
+```
+
+
+
+---
+
+###  K-means clustering (nstart=100, first try)
+
+
+```r
+kClust <- kmeans(sub1[, -c(562, 563)], centers = 6, nstart = 100)
+table(kClust$cluster, sub1$activity)
+```
+
+```
+##    
+##     laying sitting standing walk walkdown walkup
+##   1     18      10        2    0        0      0
+##   2     29       0        0    0        0      0
+##   3      0       0        0   95        0      0
+##   4      0       0        0    0       49      0
+##   5      3       0        0    0        0     53
+##   6      0      37       51    0        0      0
+```
+
+
+
+
+---
+
+###  K-means clustering (nstart=100, second try)
+
+
+```r
+kClust <- kmeans(sub1[, -c(562, 563)], centers = 6, nstart = 100)
+table(kClust$cluster, sub1$activity)
+```
+
+```
+##    
+##     laying sitting standing walk walkdown walkup
+##   1     29       0        0    0        0      0
+##   2      3       0        0    0        0     53
+##   3      0       0        0    0       49      0
+##   4      0       0        0   95        0      0
+##   5      0      37       51    0        0      0
+##   6     18      10        2    0        0      0
+```
+
+
+---
+
+###  Cluster 1 Variable Centers (Laying)
+
+
+```r
+plot(kClust$center[1, 1:10], pch = 19, ylab = "Cluster Center", xlab = "")
+```
+
+![plot of chunk unnamed-chunk-9](figure/unnamed-chunk-9.png) 
+
+
+
+---
+
+###  Cluster 2 Variable Centers (Walking)
+
+
+```r
+plot(kClust$center[4, 1:10], pch = 19, ylab = "Cluster Center", xlab = "")
+```
+
+![plot of chunk unnamed-chunk-10](figure/unnamed-chunk-10.png) 
+
+
+
+## Airpollution example
+
+### setwd
+
+``` R
+setwd("./blablabla/")
+```
+
+### Entry questions Has fine particle pollution in the U.S. decreased from 1999 to 2012?
+
+### Read in data from 1999
+
+``` R
+pm0 <- read.table("RD_501_88101_1999-0.txt", comment.char = "#", header = FALSE, sep = "|", na.strings = "")
+dim(pm0)
+head(pm0)
+cnames <- readLines("RD_501_88101_1999-0.txt", 1)
+print(cnames)
+cnames <- strsplit(cnames, "|", fixed = TRUE)
+print(cnames)
+names(pm0) <- make.names(cnames[[1]])
+head(pm0)
+x0 <- pm0$Sample.Value
+class(x0)
+str(x0)
+summary(x0)
+mean(is.na(x0))  ## Are missing values important here?
+```
+
+### Read in data from 2012
+
+``` R
+pm1 <- read.table("RD_501_88101_2012-0.txt", comment.char = "#", header = FALSE, sep = "|", na.strings = "", nrow = 1304290)
+names(pm1) <- make.names(cnames[[1]]) # remove spaces in names
+head(pm1)
+dim(pm1)
+x1 <- pm1$Sample.Value
+class(x1)
+```
+
+### Five number summaries for both periods
+summary(x1)
+summary(x0)
+mean(is.na(x1))  ## Are missing values important here?
+
+### Make a boxplot of both 1999 and 2012
+boxplot(x0, x1)
+boxplot(log10(x0), log10(x1))
+
+### Check negative values in 'x1'
+summary(x1)
+negative <- x1 < 0
+sum(negative, na.rm = T)
+mean(negative, na.rm = T)
+dates <- pm1$Date
+str(dates)
+dates <- as.Date(as.character(dates), "%Y%m%d")
+str(dates)
+hist(dates, "month")  ## Check what's going on in months 1--6
+
+
+### Plot a subset for one monitor at both times
+
+### Find a monitor for New York State that exists in both datasets
+site0 <- unique(subset(pm0, State.Code == 36, c(County.Code, Site.ID)))
+site1 <- unique(subset(pm1, State.Code == 36, c(County.Code, Site.ID)))
+site0 <- paste(site0[,1], site0[,2], sep = ".")
+site1 <- paste(site1[,1], site1[,2], sep = ".")
+str(site0)
+str(site1)
+both <- intersect(site0, site1)
+print(both)
+
+### Find how many observations available at each monitor
+pm0$county.site <- with(pm0, paste(County.Code, Site.ID, sep = "."))
+pm1$county.site <- with(pm1, paste(County.Code, Site.ID, sep = "."))
+cnt0 <- subset(pm0, State.Code == 36 & county.site %in% both)
+cnt1 <- subset(pm1, State.Code == 36 & county.site %in% both)
+sapply(split(cnt0, cnt0$county.site), nrow)
+sapply(split(cnt1, cnt1$county.site), nrow)
+
+### Choose county 63 and side ID 2008
+pm1sub <- subset(pm1, State.Code == 36 & County.Code == 63 & Site.ID == 2008)
+pm0sub <- subset(pm0, State.Code == 36 & County.Code == 63 & Site.ID == 2008)
+dim(pm1sub)
+dim(pm0sub)
+
+### Plot data for 2012
+dates1 <- pm1sub$Date
+x1sub <- pm1sub$Sample.Value
+plot(dates1, x1sub)
+dates1 <- as.Date(as.character(dates1), "%Y%m%d")
+str(dates1)
+plot(dates1, x1sub)
+
+### Plot data for 1999
+dates0 <- pm0sub$Date
+dates0 <- as.Date(as.character(dates0), "%Y%m%d")
+x0sub <- pm0sub$Sample.Value
+plot(dates0, x0sub)
+
+### Plot data for both years in same panel
+par(mfrow = c(1, 2), mar = c(4, 4, 2, 1))
+plot(dates0, x0sub, pch = 20)
+abline(h = median(x0sub, na.rm = T))
+plot(dates1, x1sub, pch = 20)  ## Whoa! Different ranges
+abline(h = median(x1sub, na.rm = T))
+
+### Find global range
+rng <- range(x0sub, x1sub, na.rm = T)
+rng
+par(mfrow = c(1, 2), mar = c(4, 4, 2, 1))
+plot(dates0, x0sub, pch = 20, ylim = rng)
+abline(h = median(x0sub, na.rm = T))
+plot(dates1, x1sub, pch = 20, ylim = rng)
+abline(h = median(x1sub, na.rm = T))
+
+### Show state-wide means and make a plot showing trend
+head(pm0)
+mn0 <- with(pm0, tapply(Sample.Value, State.Code, mean, na.rm = T))
+str(mn0)
+summary(mn0)
+mn1 <- with(pm1, tapply(Sample.Value, State.Code, mean, na.rm = T))
+str(mn1)
+
+### Make separate data frames for states / years
+d0 <- data.frame(state = names(mn0), mean = mn0)
+d1 <- data.frame(state = names(mn1), mean = mn1)
+mrg <- merge(d0, d1, by = "state")
+dim(mrg)
+head(mrg)
+
+### Connect lines
+par(mfrow = c(1, 1))
+with(mrg, plot(rep(1, 52), mrg[, 2], xlim = c(.5, 2.5)))
+with(mrg, points(rep(2, 52), mrg[, 3]))
+segments(rep(1, 52), mrg[, 2], rep(2, 52), mrg[, 3])
+## Reproducible research (c5)- Structure of Data analysis
+### Steps in a data analysis
+
+* <redtext>Define the question</redtext>
+* <redtext>Define the ideal data set</redtext>
+* <redtext>Determine what data you can access</redtext>
+* <redtext>Obtain the data</redtext>
+* <redtext>Clean the data </redtext> 
+* Exploratory data analysis
+* Statistical prediction/modeling
+* Interpret results
+* Challenge results
+* Synthesize/write up results
+* Create reproducible code
+
+
+--- 
+
+### The key challenge in data analysis
+
+"Ask yourselves, what problem have you solved, ever, that was worth solving, where you knew all of the given information in advance? Where you didn’t have a surplus of information and have to filter it out, or you had insufficient information and have to go find some?"
+
+---
+
+### An example
+
+__Start with a general question__
+
+Can I automatically detect emails that are SPAM that are not?
+
+__Make it concrete__
+
+Can I use quantitative characteristics of the emails to classify them as SPAM/HAM?
+
+---
+
+### Define the ideal data set
+
+* The data set may depend on your goal
+  * Descriptive - a whole population
+  * Exploratory - a random sample with many variables measured
+  * Inferential - the right population, randomly sampled
+  * Predictive - a training and test data set from the same population
+  * Causal - data from a randomized study
+  * Mechanistic - data about all components of the system
+  
+Say for example, [http://www.google.com/about/datacenters/inside/](http://www.google.com/about/datacenters/inside/)
+
+
+---
+
+### Determine what data you can access
+
+* Sometimes you can find data free on the web
+* Other times you may need to buy the data
+* Be sure to respect the terms of use
+* If the data don't exist, you may need to generate it yourself
+
+### A possible solution
+
+Open source data available on UCI! 
+
+[http://archive.ics.uci.edu/ml/datasets/Spambase](http://archive.ics.uci.edu/ml/datasets/Spambase)
+
+---
+
+### Obtain the data
+
+* Try to obtain the raw data
+* Be sure to reference the source
+* Polite emails go a long way
+* If you will load the data from an internet source, record the url and time accessed
+
+---
+
+### Our data set for spam emails!
+
+`kernlab` seems to have data on spam email!
+
+[http://search.r-project.org/library/kernlab/html/spam.html](http://search.r-project.org/library/kernlab/html/spam.html)
+
+
+
+---
+
+### Clean the data
+
+* Raw data often needs to be processed
+* If it is pre-processed, make sure you understand how
+* Understand the source of the data (census, sample, convenience sample, etc.)
+* May need reformating, subsampling - record these steps
+* __Determine if the data are good enough__ - if not, quit or change data
+
+---
+
+### Our cleaned data set
+
+
+```r
+# If it isn't installed, install the kernlab package with install.packages()
+library(kernlab)
+data(spam)
+str(spam[, 1:5])
+```
+
+```
+'data.frame':	4601 obs. of  5 variables:
+ $ make   : num  0 0.21 0.06 0 0 0 0 0 0.15 0.06 ...
+ $ address: num  0.64 0.28 0 0 0 0 0 0 0 0.12 ...
+ $ all    : num  0.64 0.5 0.71 0 0 0 0 0 0.46 0.77 ...
+ $ num3d  : num  0 0 0 0 0 0 0 0 0 0 ...
+ $ our    : num  0.32 0.14 1.23 0.63 0.63 1.85 1.92 1.88 0.61 0.19 ...
+```
+
+
+[http://search.r-project.org/library/kernlab/html/spam.html](http://search.r-project.org/library/kernlab/html/spam.html)
+
+
+## Structure of Data analysis 2 (c5)
+### Steps in a data analysis
+
+* Define the question
+* Define the ideal data set
+* Determine what data you can access
+* Obtain the data
+* Clean the data
+* <redtext>Exploratory data analysis</redtext>
+* <redtext>Statistical prediction/modeling</redtext>
+* <redtext>Interpret results</redtext>
+* <redtext>Challenge results</redtext>
+* <redtext>Synthesize/write up results</redtext>
+* <redtext>Create reproducible code</redtext>
+
+
+
+---
+
+### An example
+
+__Start with a general question__
+
+Can I automatically detect emails that are SPAM or not?
+
+__Make it concrete__
+
+Can I use quantitative characteristics of the emails to classify them as SPAM/HAM?
+
+
+--- 
+
+### Our data set
+
+[http://search.r-project.org/library/kernlab/html/spam.html](http://search.r-project.org/library/kernlab/html/spam.html)
+
+--- 
+
+### Subsampling our data set
+We need to generate a test and training set (prediction)
+
+```r
+# If it isn't installed, install the kernlab package
+library(kernlab)
+data(spam)
+# Perform the subsampling
+set.seed(3435)
+trainIndicator = rbinom(4601, size = 1, prob = 0.5)
+table(trainIndicator)
+```
+
+```
+## trainIndicator
+##    0    1 
+## 2314 2287
+```
+
+```r
+trainSpam = spam[trainIndicator == 1, ]
+testSpam = spam[trainIndicator == 0, ]
+```
+
+---
+	
+### Exploratory data analysis
+
+* Look at summaries of the data
+* Check for missing data
+* Create exploratory plots
+* Perform exploratory analyses (e.g. clustering)
+
+---
+
+### Names
+
+```r
+names(trainSpam)
+```
+
+```
+##  [1] "make"              "address"           "all"              
+##  [4] "num3d"             "our"               "over"             
+##  [7] "remove"            "internet"          "order"            
+## [10] "mail"              "receive"           "will"             
+## [13] "people"            "report"            "addresses"        
+## [16] "free"              "business"          "email"            
+
+```
+
+
+
+---
+
+### Head
+
+```r
+head(trainSpam)
+```
+
+```
+##    make address  all num3d  our over remove internet order mail receive
+## 1  0.00    0.64 0.64     0 0.32 0.00   0.00        0  0.00 0.00    0.00
+## 7  0.00    0.00 0.00     0 1.92 0.00   0.00        0  0.00 0.64    0.96
+## 9  0.15    0.00 0.46     0 0.61 0.00   0.30        0  0.92 0.76    0.76
+## 12 0.00    0.00 0.25     0 0.38 0.25   0.25        0  0.00 0.00    0.12
+## 14 0.00    0.00 0.00     0 0.90 0.00   0.90        0  0.00 0.90    0.90
+## 16 0.00    0.42 0.42     0 1.27 0.00   0.42        0  0.00 1.27    0.00
+##    will people report addresses free business email  you credit your font
+## 1  0.64   0.00      0         0 0.32        0  1.29 1.93   0.00 0.96    0
+## 7  1.28   0.00      0         0 0.96        0  0.32 3.85   0.00 0.64    0
+## 9  0.92   0.00      0         0 0.00        0  0.15 1.23   3.53 2.00    0
+## 12 0.12   0.12      0         0 0.00        0  0.00 1.16   0.00 0.77    0
+## 14 0.00   0.90      0         0 0.00        0  0.00 2.72   0.00 0.90    0
+## 16 0.00   0.00      0         0 1.27        0  0.00 1.70   0.42 1.27    0
+##    num000 money hp hpl george num650 lab labs telnet num857 data num415
+## 1       0  0.00  0   0      0      0   0    0      0      0 0.00      0
+## 7       0  0.00  0   0      0      0   0    0      0      0 0.00      0
+## 9       0  0.15  0   0      0      0   0    0      0      0 0.15      0
+## 12      0  0.00  0   0      0      0   0    0      0      0 0.00      0
+## 14      0  0.00  0   0      0      0   0    0      0      0 0.00      0
+## 16      0  0.42  0   0      0      0   0    0      0      0 0.00      0
+##    num85 technology num1999 parts pm direct cs meeting original project re
+## 1      0          0    0.00     0  0   0.00  0       0      0.0       0  0
+## 7      0          0    0.00     0  0   0.00  0       0      0.0       0  0
+## 9      0          0    0.00     0  0   0.00  0       0      0.3       0  0
+## 12     0          0    0.00     0  0   0.00  0       0      0.0       0  0
+## 14     0          0    0.00     0  0   0.00  0       0      0.0       0  0
+## 16     0          0    1.27     0  0   0.42  0       0      0.0       0  0
+##    edu table conference charSemicolon charRoundbracket charSquarebracket
+## 1    0     0          0         0.000            0.000                 0
+## 7    0     0          0         0.000            0.054                 0
+## 9    0     0          0         0.000            0.271                 0
+## 12   0     0          0         0.022            0.044                 0
+## 14   0     0          0         0.000            0.000                 0
+## 16   0     0          0         0.000            0.063                 0
+##    charExclamation charDollar charHash capitalAve capitalLong capitalTotal
+## 1            0.778      0.000    0.000      3.756          61          278
+## 7            0.164      0.054    0.000      1.671           4          112
+## 9            0.181      0.203    0.022      9.744         445         1257
+## 12           0.663      0.000    0.000      1.243          11          184
+## 14           0.000      0.000    0.000      2.083           7           25
+## 16           0.572      0.063    0.000      5.659          55          249
+##    type
+## 1  spam
+## 7  spam
+## 9  spam
+## 12 spam
+## 14 spam
+## 16 spam
+```
+
+
+---
+
+### Summaries
+
+```r
+table(trainSpam$type)
+```
+
+```
+## 
+## nonspam    spam 
+##    1381     906
+```
+
+
+---
+
+### Plots
+
+```r
+plot(trainSpam$capitalAve ~ trainSpam$type)
+```
+
+![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+
+
+---
+
+### Plots 
+
+```r
+plot(log10(trainSpam$capitalAve + 1) ~ trainSpam$type)
+```
+
+![plot of chunk unnamed-chunk-6](figure/unnamed-chunk-6.png) 
+
+
+---
+
+### Relationships between predictors
+
+```r
+plot(log10(trainSpam[, 1:4] + 1))
+```
+
+![plot of chunk unnamed-chunk-7](figure/unnamed-chunk-7.png) 
+
+
+---
+
+### Clustering
+
+
+
+
+```r
+hCluster = hclust(dist(t(trainSpam[, 1:57])))
+plot(hCluster)
+```
+
+![plot of chunk unnamed-chunk-9](figure/unnamed-chunk-9.png) 
+
+
+---
+### New clustering
+
+```r
+hClusterUpdated = hclust(dist(t(log10(trainSpam[, 1:55] + 1))))
+plot(hClusterUpdated)
+```
+
+![plot of chunk unnamed-chunk-10](figure/unnamed-chunk-10.png) 
+
+
+---
+### Statistical prediction/modeling
+
+* Should be informed by the results of your exploratory analysis
+* Exact methods depend on the question of interest
+* Transformations/processing should be accounted for when necessary
+* Measures of uncertainty should be reported
+
+---
+### Statistical prediction/modeling
+Logistic regression; prediction modelling, binomial etc...
+
+```r
+trainSpam$numType = as.numeric(trainSpam$type) - 1
+costFunction = function(x, y) sum(x != (y > 0.5))
+cvError = rep(NA, 55)
+library(boot)
+for (i in 1:55) {
+    lmFormula = reformulate(names(trainSpam)[i], response = "numType")
+    glmFit = glm(lmFormula, family = "binomial", data = trainSpam)
+    cvError[i] = cv.glm(trainSpam, glmFit, costFunction, 2)$delta[2]
+}
+
+## Which predictor has minimum cross-validated error?
+names(trainSpam)[which.min(cvError)]
+```
+
+```
+## [1] "charDollar"
+```
+
+The explanation goes as follows. It took me about 2-3 hrs to wrap the
+whole thing around my head but here goes my explanation.
+
+**Goal**: Find a "simple model" ~~(binomial regression)~~ that has least
+"error" ~~(cross validated error)~~, when we use the "simple model" to predict.
+
+
+**Dataset** We only use the `trainSpam` data set to make the
+predictive model. Each cell has the numerical value representing the
+occurrence of a word (given by column) for a given e-mail (row). For
+example, row 2 of the `charDollar` column has a of 0.054. This means
+that 2nd mail has 0.054 `$` symbols in the mail.
+
+The data is binomial in nature, i.e., 0 for non-Spam and 1 for
+Spam. This is made numerical with:
+
+	trainSpam$numType = as.numeric(trainSpam$type)-1
+	
+**Binomial regression** As the data is binomial, we fit a curve,
+~~Binomial Regression~~ that predicts probability for a mail being
+spam depending on the Value .  For example, look at column `charDollar`,
+
+	png(filename="glm.png")
+	lmFormula=numType~charDollar
+	plot(lmFormula,data=trainSpam, ylab="probability")
+	g=glm(lmFormula,family=binomial, data=trainSpam)
+	curve(predict(g,data.frame(charDollar=x),type="resp"),add=TRUE)
+	dev.off()
+
+[![GLM][1]][1]
+
+[1]: https://i.stack.imgur.com/Y8qyz.png
+  
+Here you see that for charDollar values > 0.5 there is almost a 100%
+probability that it is SPAM. This is how binomial regression is used.
+
+The author looks at every column, makes a binomial regression
+fit. This is done with the `for loop`. So the author now has 55 models.
+
+**Error Estimation**
+The author wants to see which of these 55 models is predicting the
+"BEST". For this we use Cross validation...
+
+**cv.glm or CrossValidation**
+
+The crossvalidation works as follows: It divides the trainData further
+into TRAIN and TEST. The TRAIN data is used to compute the glm, and
+this glm is used to predict the outcome of the TEST data. This is done
+"[in a particular way](https://www.youtube.com/watch?v=fSytzGwwBVw)" many times and the results are averaged. 
+
+The CV uses a cost-function to calculate the error.
+
+The `cost function` (in this case) counts number of failed
+predictions. The TEST data is used for this.  It takes two parameters
+which is X (observed TEST data) and Y (Predicted data based on glm)
+and checks how many times it failed in this case:
+
+	costFunction = function(x,y) sum(x!=(y > 0.5))
+	
+`Y>0.5` provides a cutoff to decide if a value is spam or not. So if
+the predicted value is `0.6` then the prediction is SPAM (or 1). If
+the predicted value is `<=0.5` then it is NOT SPAM (or 0).
+
+With the for loop we cycle over every single column and in the end pic
+the column which has the least error of predictions:
+
+	which.min(cvError)
+
+**P.S** It is very beneficial to look at how the [glm binomial fitting
+(including timestamp)](https://www.youtube.com/watch?v=yIYKR4sgzI8&t=458s) is done, and the explanation of the
+[coefficients that come from `glm`](https://www.youtube.com/watch?v=vN5cNN2-HWE&t=304s) and what it means to obtain
+[cross-validated error](https://www.youtube.com/watch?v=fSytzGwwBVw). The course, I agree however made a steep
+jump in this aspect, without bothering to explain anything related to
+this, what so ever. Hope this is helpful.
+
+[Question and my answer on stack as well](https://stackoverflow.com/questions/48602066/log-regression-code-explanation-from-courseras-reproducible-research-class/54884544#54884544)
+
+---
+
+### Get a measure of uncertainty
+
+```r
+## Use the best model from the group
+predictionModel = glm(numType ~ charDollar, family = "binomial", data = trainSpam)
+
+## Get predictions on the test set
+predictionTest = predict(predictionModel, testSpam)
+predictedSpam = rep("nonspam", dim(testSpam)[1])
+
+## Classify as `spam' for those with prob > 0.5
+predictedSpam[predictionModel$fitted > 0.5] = "spam"
+```
+
+
+---
+
+### Get a measure of uncertainty
+
+
+```r
+## Classification table
+table(predictedSpam, testSpam$type)
+```
+
+```
+##              
+## predictedSpam nonspam spam
+##       nonspam    1346  458
+##       spam         61  449
+```
+
+```r
+
+## Error rate
+(61 + 458)/(1346 + 458 + 61 + 449)
+```
+
+```
+## [1] 0.2243
+```
+
+
+---
+
+### Interpret results
+
+* Use the appropriate language
+  * describes 
+  * correlates with/associated with
+  * leads to/causes
+  * predicts
+* Give an explanation
+* Interpret coefficients
+* Interpret measures of uncertainty
+
+---
+
+### Our example
+
+* The fraction of charcters that are dollar signs can be used to predict if an email is Spam
+* Anything with more than 6.6% dollar signs is classified as Spam
+* More dollar signs always means more Spam under our prediction
+* Our test set error rate was 22.4% 
+
+---
+
+### Challenge results
+
+* Challenge all steps:
+  * Question
+  * Data source
+  * Processing 
+  * Analysis 
+  * Conclusions
+* Challenge measures of uncertainty
+* Challenge choices of terms to include in models
+* Think of potential alternative analyses 
+
+---
+
+### Synthesize/write-up results
+
+* Lead with the question
+* Summarize the analyses into the story 
+* Don't include every analysis, include it
+  * If it is needed for the story
+  * If it is needed to address a challenge
+* Order analyses according to the story, rather than chronologically
+* Include "pretty" figures that contribute to the story 
+
+---
+
+### In our example
+
+* Lead with the question
+  * Can I use quantitative characteristics of the emails to classify them as SPAM/HAM?
+* Describe the approach
+  * Collected data from UCI -> created training/test sets
+  * Explored relationships
+  * Choose logistic model on training set by cross validation
+  * Applied to test, 78% test set accuracy
+* Interpret results
+  * Number of dollar signs seems reasonable, e.g. "Make money with Viagra \\$ \\$ \\$ \\$!"
+* Challenge results
+  * 78% isn't that great
+  * I could use more variables
+  * Why logistic regression?
+
+
+---
+
+
+## Organizing Data Analysis (c5)
+### Data analysis files
+
+* Data
+  * Raw data
+  * Processed data
+* Figures
+  * Exploratory figures
+  * Final figures
+* R code
+  * Raw / unused scripts
+  * Final scripts
+  * R Markdown files
+* Text
+  * README files
+  * Text of analysis / report
+
+
+---
+
+### Raw Data
+
+<img class=center src=../../assets/img/medicalrecord.png height='400'/>
+
+* Should be stored in your analysis folder
+* If accessed from the web, include url, description, and date accessed in README
+
+---
+
+### Processed data
+
+<img class=center src=../../assets/img/excel.png height='400'/>
+* Processed data should be named so it is easy to see which script generated the data. 
+* The processing script - processed data mapping should occur in the README
+* Processed data should be [tidy](http://vita.had.co.nz/papers/tidy-data.pdf)
+
+---
+
+### Exploratory figures
+
+<img class=center src=../../assets/img/example10.png height='400'/>
+
+* Figures made during the course of your analysis, not necessarily part of your final report.
+* They do not need to be "pretty"
+
+---
+
+### Final Figures
+
+<img class=center src=../../assets/img/figure1final.png height='400'/>
+
+* Usually a small subset of the original figures
+* Axes/colors set to make the figure clear
+* Possibly multiple panels
+
+---
+
+### Raw scripts
+
+<img class=center src=../../assets/img/rawcode.png height='350'/>
+
+* May be less commented (but comments help you!)
+* May be multiple versions
+* May include analyses that are later discarded
+
+---
+
+### Final scripts
+
+<img class=center src=../../assets/img/finalscript2.png height='300'/>
+
+* Clearly commented
+  * Small comments liberally - what, when, why, how
+  * Bigger commented blocks for whole sections
+* Include processing details
+* Only analyses that appear in the final write-up
+
+---
+
+### R markdown files
+
+<img class=center src=../../assets/img/rmd.png height='400'/>
+
+* [R markdown](http://www.rstudio.com/ide/docs/authoring/using_markdown) files can be used to generate reproducible reports
+* Text and R code are integrated
+* Very easy to create in [Rstudio](http://www.rstudio.com/)
+
+---
+
+### Readme files
+
+<img class=center src=../../assets/img/readme.png height='400'/>
+
+* Not necessary if you use R markdown
+* Should contain step-by-step instructions for analysis
+* Here is an example [https://github.com/jtleek/swfdr/blob/master/README](https://github.com/jtleek/swfdr/blob/master/README)
+
+---
+
+### Text of the document
+
+<img class=center src=../../assets/img/swfdr.png height='350'/>
+
+* It should include a title, introduction (motivation), methods (statistics you used), results (including measures of uncertainty), and conclusions (including potential problems)
+* It should tell a story
+* _It should not include every analysis you performed_
+* References should be included for statistical methods
+
+---
+
+### Further resources
+
+* Information about a non-reproducible study that led to cancer patients being mistreated: [The Duke Saga Starter Set](http://simplystatistics.org/2012/02/27/the-duke-saga-starter-set/)
+* [Reproducible research and Biostatistics](http://biostatistics.oxfordjournals.org/content/10/3/405.full)
+* [Managing a statistical analysis project guidelines and best practices](http://www.r-statistics.com/2010/09/managing-a-statistical-analysis-project-guidelines-and-best-practices/)
+* [Project template](http://projecttemplate.net/) - a pre-organized set of files for data analysis
+
+
+## Markdown R knitr (c5)
+
+### What is Markdown?
+
+* Created by [John Gruber](http://daringfireball.net) and Aaron Swartz
+
+* A simplified version of "markup" languages
+
+* Allows one to focus on writing as opposed to formatting
+
+* Simple/minimal intuitive formatting elements
+
+* Easily converted to valid HTML (and other formats) using existing tools
+
+* Complete information is available at [http://daringfireball.net/projects/markdown/](http://daringfireball.net/projects/markdown/)
+
+* Some background information at [http://daringfireball.net/2004/03/dive_into_markdown](http://daringfireball.net/2004/03/dive_into_markdown)
+
+---
+
+### What is R Markdown?
+
+* R markdown is the integration of R code with markdown 
+
+* Allows one to create documents containing "live" R code
+
+* R code is evaluated as part of the processing of the markdown
+
+* Results from R code are inserted into markdown document 
+
+* A core tool in <b>literate statistical programming</b>
+
+---
+
+### What is R Markdown?
+
+* R markdown can be converted to standard markdown using the
+  [knitr](http://yihui.name/knitr/) package in R
+
+* Markdown can be converted to HTML using the [markdown](https://github.com/rstudio/markdown) package in R
+
+* Any basic text editor can be used to create a markdown document; no
+  special editing tools needed
+
+* The R markdown --> markdown --> HTML work flow can be easily managed
+  using [R Studio](http://rstudio.org) (but not required)
+
+* These slides were written in R markdown and converted to slides
+  using the [slidify](http://slidify.org) package
+### Literate programming pros and cons
+
+- Text and code all in one place, logical order
+-  Data, results automatically updated to reflect external changes
+- Code is live--automatic “regression test” when building a document
+
+- Text and code all in one place; can make documents difficult to read,
+especially if there is a lot of code 
+- Can substantially slow down
+processing of documents (although there are tools to help)
+
+### Knitr USAGE and syntax
+
+An R package written by Yihui Xie (while he was a grad student at Iowa State)
+Available on CRAN
+Supports RMarkdown, LaTeX, and HTML as documentation languages
+Can export to PDF, HTML
+Built right into RStudio for your convenience
+
+**Usage**
+
+```R
+library(knitr)
+setwd(<working directory>)
+knit2html(“document.Rmd”)
+browseURL(“document.html”)
+
+```
+
+Knitr adds both code and the output, is useful for documentation.
+
+```Rmd
+\```{r firstchunk}
+## R code goes here
+\```
+```
+
+.Rmd --> .md --> .html
+
+Hiding results!
+
+```Rmd
+\```{r firstchunk, echo=FALSE,results="hide"}
+## R code goes here
+time-> bla bla
+rand-> rnorm(1)
+\```
+The current time is `r time`. My favourite random number is `r rand`.
+```
+
+Plotting and controlling figure height
+
+```Rmd
+\```{r ploting, fig.height=4}
+plot(x,y) bla bla bla
+\```
+
+```
+
+Making tables with xtable
+
+```Rmd
+\```{r tablespandian, results="asis"}
+library(xtable)
+xt<- xtable(summary(fit))
+print(xt,type="html")
+
+\```
+```
+
+Setting options to on a global level
+
+```RMD
+\```{r settingblablaoptions, echo=FALSE}
+knitr::opts_chunk$set(echo=FALSE, results="hide")
+\```
+```
+https://yihui.name/knitr/options/
+
+
+**Options common**
+
+**Output**
+
+results: “asis”, “hide”
+echo: TRUE, FALSE
+message: FALSE
+warning=FALSE
+
+https://yihui.name/knitr/demo/output/ More info by author.
+
+"Error" reported here: https://github.com/yihui/knitr/issues/220
+**Figures**
+
+fig.height: numeric
+fig.width: numeric
+
+**Caching**
+
+What if one chunk takes a long time to run?  All chunks have to be
+re-computed every time you re-knit the file The `cache=TRUE` option can
+be set on a chunk-by-chunk basis to store results of computation After
+the first run, results are loaded from cache
+
+Useful help document from stack:
+https://stackoverflow.com/a/51409622/5986651
+
+**YAML Front Matter example**
+
+
+---
+title: "Reproducible Research: Peer Assessment 1"
+output: 
+  html_document:
+    keep_md: yes
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo=TRUE, message=F, warning=F, cache=T)
+```
+
+More info in [Yihui's book](https://bookdown.org/yihui/rmarkdown/pdf-document.html) and his blog.
+
+### Knitr for pdf; plots not working!
+
+https://stackoverflow.com/questions/55032228/package-pdftex-def-error-file-not-found
+
+Made a stack question that says it doesn't work.
+
+however I stumbled upon something by accident: 
+
+`rmarkdown::render("./code.rmd")` in the console seems to work on
+plots. I just used this for now and finished the assignement. A lot of
+issues here, appears to be not within EMACS!
+
+### Making an Rmd document work with ESS init.el
+
+https://stackoverflow.com/a/23326318/5986651 shows how to add the
+basics and setup rmd mode
+
+polymode keybindings are given here https://polymode.github.io/usage/
+
+Also the library `rmarkdown` seems to be needed along with pandoc!
+
+So install pandoc with 
+
+	sudo apt-get install pandoc 
+	
+Got lot of sql errors but ignored it for now! and the system generates
+an html nicely with `M-n e`.
+
+Done! Peace!
+
+Also for adding the code chunk you need to follow instructions given
+here: https://emacs.stackexchange.com/a/27419/17941
+
+	(defun tws-insert-r-chunk (header) 
+	"Insert an r-chunk in markdown mode. Necessary due to interactions between polymode and yas snippet" 
+	(interactive "sHeader: ") 
+	(insert (concat "```{r " header "}\n\n```")) 
+	(forward-line -1))
+
+	M-x tws-insert-r-chunk
+
+Emacs init file attempts and failures for keybinding!
+
+	;; (eval-after-load 'rmd-mode
+	;;   '(define-key rmd-mode-map (kbd "C-c r")
+	;;      'tws-insert-r-chunk)) 
+
+	(global-set-key (kbd "C-c r") 'tws-insert-r-chunk) 
+## Levels of detail (c5-w3)
+### tl;dr
+
+* People are busy, especially managers and leaders
+
+* Results of data analyses are sometimes presented in oral form, but
+  often the first cut is presented via email
+
+* It is often useful to breakdown the results of an analysis into
+  different levels of granularity / detail
+
+* Getting responses from busy people: [http://goo.gl/sJDb9V](http://goo.gl/sJDb9V)
+
+---
+
+### Hierarchy of Information: Research Paper
+
+* Title / Author list
+
+* Abstract
+
+* Body / Results
+
+* Supplementary Materials / the gory details
+
+* Code / Data / really gory details
+
+---
+
+### Hierarchy of Information: Email Presentation
+
+* Subject line / Sender info
+
+  - At a minimum; include one
+  - Can you summarize findings in one sentence?
+
+* Email body 
+
+  - A brief description of the problem / context; recall what was
+    proposed and executed; summarize findings / results; 1&ndash;2
+    paragraphs
+
+  - If action needs to be taken as a result of this presentation,
+    suggest some options and make them as concrete as possible.
+
+  - If questions need to be addressed, try ot make them yes / no
+
+---
+
+### Hierarchy of Information: Email Presentation
+
+* Attachment(s)
+
+  - R Markdown file 
+  - knitr report 
+
+  - Stay concise; don't spit out pages of code (because you
+    used knitr we know it's available)
+
+* Links to Supplementary Materials
+
+  - Code / Software / Data
+  - GitHub repository / Project web site
+  
+## Caching computations
+
+Not sure where to use it. the library is called `cacher`
+
