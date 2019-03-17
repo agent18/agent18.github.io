@@ -4,7 +4,7 @@ comments: true
 title:  "Learning R"
 date:    06-10-2018 
 categories: notes
-tags: R, learn
+ntags: R, learn
 permalink: /:title.html
 published: TRUE
 ---
@@ -7347,3 +7347,596 @@ Emacs init file attempts and failures for keybinding!
 
 Not sure where to use it. the library is called `cacher`
 
+## SI: probability (c6-w1)
+
+Statistical inference
+
+**Course Content** The course is taught via 13 lectures
+
+Introduction
+Probability
+Conditional Probability
+Expectations
+Variance
+Common Distributions
+Asymptotics
+T confidence intervals
+Hypothesis testing
+P-values
+Power
+Multiple Testing
+Resampling
+
+https://www.youtube.com/playlist?list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ
+
+- In these slides we will cover the basics of probability at low enough level
+to have a basic understanding for the rest of the series
+- For a more complete treatment see the class Mathematical Biostatistics Boot Camp 1
+    - Youtube: www.youtube.com/playlist?list=PLpl-gQkQivXhk6qSyiNj51qamjAtZISJ-
+    - Coursera: www.coursera.org/course/biostats
+    - Git: http://github.com/bcaffo/Caffo-Coursera
+
+## Probability c6-w1
+### Rules probability must follow
+
+An event A occurs; A die is rolled and we get the outcome from the set
+{1,2,3,4,5,6}.
+- P(nothing occurs) = 0; When a die rolls the probability that we
+  don't see 1,2,3,4,5,6 is 0.
+- P(something occurs) = 1; 
+- P(A) + P(1-A) = 1
+- P(AUB)= P(A) + P(B) ; if they are mutually exclusive
+
+You roll a die. A={1,2}, B= {3,4}. P(A)=2/6; P(B)=2/6; P(1 or 2 or 3
+or 4)=P(A∪B)=P4/6.
+
+- P(AUB) = P(A) + P(B) - P(A∩B)
+
+Example: A={1,2,3}; B={1,5,6} 
+
+- if {A} => {B}; P(A) < P(B)
+
+A={1,2}; B={1,2,3,4}
+
+---
+
+### Example
+
+The National Sleep Foundation ([www.sleepfoundation.org](http://www.sleepfoundation.org/)) reports
+that around 3% of the American population has sleep apnea. They also
+report that around 10% of the North American and European population
+has restless leg syndrome. Does this imply that 13% of people will
+have at least one sleep problems of these sorts?
+
+Assuming all of this are probabilities from the same population, i.e.,
+P(sleep apnea in America) represents the population, as much as
+P(RLS in North America).
+
+A person can have SA and/or RLS. Both are not mutually exclusive. So 
+
+P(SA)= 0.03; P(RLS)= 0.1; P(atleast SA or RLS)=P(SA)+P(RLS)-P(SA∩RLS)
+Answer: No, the events can simultaneously occur and so 
+are not mutually exclusive. To elaborate let:
+
+### Random variables
+
+- A **random variable** is a numerical outcome of an experiment.
+
+Roll a die and the outcome is say X (random variable), and this is either 1 or,2,3,4,5,6.
+
+- The random variables that we study will come in two varieties,
+  **discrete** or **continuous**.
+- Discrete random variable are random variables that take on only a
+countable number of possibilities and we talk about the probability that they
+take specific values
+- Continuous random variable can conceptually take any value on the real line or some subset of the real line and we talk about the probability that they line within
+some range
+
+---
+
+### Examples of variables that can be thought of as random variables
+
+Experiments that we use for intuition and building context
+- The $(0-1)$ outcome of the flip of a coin
+- The outcome from the roll of a die
+
+Specific instances of treating variables as if random
+- The web site traffic on a given day
+- The BMI of a subject four years after a baseline measurement
+- The hypertension status of a subject randomly drawn from a population
+- The number of people who click on an ad 
+- Intelligence quotients for a sample of children
+
+---
+
+### PMF and PDF
+
+
+PMF is for discrete random variables and PDF is for continuous random
+variables.
+
+Probability Mass Function example:
+
+$$
+
+PMF(x)=(1/2)ˣ (1/2)⁽1-x); for x = {0,1}
+PMF2(x)=(θ)ˣ (1-θ)⁽1-x);
+$$
+
+PMF(x) is a probability of a coin flip. This function gives value of
+0.5 when x the random variable takes 0 or
+1 . With PMF2 we see a die which is biased.
+
+∑PMF(xᵢ)=1;
+
+
+PDF is for continuous variable. Example: Suppose that the proportion
+of help calls that get addressed in a random day by a help line is
+given by $$ f(x) = \left{\begin{array}{ll} 2 x & \mbox{ for }& 0< x <
+1 \ 0 & \mbox{ otherwise} \end{array} \right. $$
+
+Is this a mathematically valid density?
+
+$$
+PDF(x)=2x for 0<x<1
+$$
+
+```r
+x <- c(-0.5, 0, 1, 1, 1.5)
+y <- c(0, 0, 2, 0, 0)
+plot(x, y, lwd = 3, frame = FALSE, type = "l")
+```
+
+
+
+### Example continued
+
+What is the probability that 75% or fewer of calls get addressed?
+
+<img src="assets/fig/unnamed-chunk-2.png" title="plot of chunk unnamed-chunk-2" alt="plot of chunk unnamed-chunk-2" style="display: block; margin: auto;" />
+
+
+---
+
+```r
+1.5 * 0.75/2
+```
+
+```
+## [1] 0.5625
+```
+
+```r
+pbeta(0.75, 2, 1)
+```
+
+```
+## [1] 0.5625
+```
+
+### CDF and survival function
+#### Certain areas are so useful, we give them names
+
+- The **cumulative distribution function** (CDF) of a random variable, $X$, returns the probability that the random variable is less than or equal to the value $x$
+$$
+F(x) = P(X \leq x)
+$$
+(This definition applies regardless of whether $X$ is discrete or continuous.)
+- The **survival function** of a random variable $X$ is defined as the probability
+that the random variable is greater than the value $x$
+$$
+S(x) = P(X > x)
+$$
+- Notice that $S(x) = 1 - F(x)$
+
+---
+
+### Example
+
+What are the survival function and CDF from the density considered before?
+
+For $1 \geq x \geq 0$
+$$
+F(x) = P(X \leq x) = \frac{1}{2} Base \times Height = \frac{1}{2} (x) \times (2 x) = x^2
+$$
+
+$$
+S(x) = 1 - x^2
+$$
+
+
+```r
+pbeta(c(0.4, 0.5, 0.6), 2, 1)
+```
+
+```
+## [1] 0.16 0.25 0.36
+```
+
+---
+
+### Quantiles
+
+You've heard of sample quantiles. If you were the 95th percentile on an exam, you know
+that 95% of people scored worse than you and 5% scored better. 
+These are sample quantities. Here we define their population analogs.
+
+Arrange grades in increasing order. If there were 100 people you are 95th.
+
+---
+### Definition
+
+The  $\alpha^{th}$ **quantile** of a distribution with distribution function $F$ is the point $x_\alpha$ so that
+$$
+F(x_\alpha) = \alpha
+$$
+- A **percentile** is simply a quantile with $\alpha$ expressed as a percent
+- The **median** is the $50^{th}$ percentile
+
+---
+### For example
+
+The $95^{th}$ percentile of a distribution is the point so that:
+- the probability that a random variable drawn from the population is less is 95%
+- the probability that a random variable drawn from the population is more is 5%
+
+---
+### Example
+
+Consider a PDF for scores for 10000 people. The 0.5th quantile is
+P(score<=some_score)=0.5. P(score<=some_score) is the area under the
+curve or the CDF(distribution function.x
+What is the median of the distribution that we were working with before?
+- We want to solve $0.5 = F(x) = x^2$
+- Resulting in the solution 
+
+```r
+sqrt(0.5)
+```
+
+```
+## [1] 0.7071
+```
+
+- Therefore, about 0.7071 of calls being answered on a random day is the median.
+
+---
+### Example continued
+R can approximate quantiles for you for common distributions
+
+
+```r
+qbeta(0.5, 2, 1)
+```
+
+```
+## [1] 0.7071
+```
+
+
+---
+
+### Summary
+
+- You might be wondering at this point "I've heard of a median before, it didn't require integration. Where's the data?"
+- We're referring to are **population quantities**. Therefore, the median being
+  discussed is the **population median**.
+- A probability model connects the data to the population using assumptions.
+- Therefore the median we're discussing is the **estimand**, the sample median will be the **estimator**
+
+
+	
+## SI: Conditional probability c6-w1
+
+### Conditional probability, motivation
+
+- The probability of getting a one when rolling a (standard) die
+  is usually assumed to be one sixth
+- Suppose you were given the extra information that the die roll
+  was an odd number (hence 1, 3 or 5)
+- *conditional on this new information*, the probability of a
+  one is now one third
+
+---
+
+### Conditional probability, definition
+
+| implies given condition! Roll a die. 
+
+- Consider our die roll example
+- $B = \{1, 3, 5\}$
+- $A = \{1\}$
+
+- P(A|B)=P(A∩B)/P(B). Draw venn diagram you will understand.
+
+= 1/3= 1/6 ÷ 3/6 = 1/3.
+
+---
+
+### Bayes' rule
+Baye's rule allows us to reverse the conditioning set provided
+that we know some marginal probabilities
+$$
+P(B ~|~ A) = \frac{P(A ~|~ B) P(B)}{P(A ~|~ B) P(B) + P(A ~|~ B^c)P(B^c)}.
+$$
+  
+
+---
+
+### Diagnostic tests
+
+- Let $+$ and $-$ be the events that the result of a diagnostic test is positive or negative respectively
+- Let $D$ and $D^c$ be the event that the subject of the test has or does not have the disease respectively 
+- The **sensitivity** is the probability that the test is positive given that the subject actually has the disease, $P(+ ~|~ D)$
+- The **specificity** is the probability that the test is negative given that the subject does not have the disease, $P(- ~|~ D^c)$
+
+- The **positive predictive value** is the probability that the subject has the  disease given that the test is positive, $P(D ~|~ +)$
+- The **negative predictive value** is the probability that the subject does not have the disease given that the test is negative, $P(D^c ~|~ -)$
+- The **prevalence of the disease** is the marginal probability of disease, $P(D)$
+
+- The **diagnostic likelihood ratio of a positive test**, labeled $DLR_+$, is $P(+ ~|~ D) / P(+ ~|~ D^c)$, which is the $$sensitivity / (1 - specificity)$$
+- The **diagnostic likelihood ratio of a negative test**, labeled $DLR_-$, is $P(- ~|~ D) / P(- ~|~ D^c)$, which is the $$(1 - sensitivity) / specificity$$
+
+---
+
+### Example
+
+- A study comparing the efficacy of HIV tests, reports on an
+  experiment which concluded that HIV antibody tests have a
+  sensitivity of 99.7% and a specificity of 98.5%
+- Suppose that a subject, from a population with a .1% prevalence of
+  HIV, receives a positive test result. What is the positive
+  predictive value?
+- Mathematically, we want $P(D ~|~ +)$ given the sensitivity, $P(+ ~|~
+  D) = .997$, the specificity, $P(- ~|~ D^c) =.985$, and the
+  prevalence $P(D) = .001$
+
+---
+
+### Using Bayes' formula
+
+- In this population a positive test result only suggests a 6%
+  probability that the subject has the disease
+- (The positive predictive value is 6% for this test) This is super
+  low owing to the prevalence!
+
+- The low positive predictive value is due to low prevalence of
+  disease and the somewhat modest specificity
+- Suppose it was known that the subject was an intravenous drug user
+  and routinely had intercourse with an HIV infected partner
+- Notice that the evidence implied by a positive test result does not
+  change because of the prevalence of disease in the subject's
+  population, only our interpretation of that evidence changes
+
+
+### Likelihood ratios
+
+- Therefore
+$$\
+frac{P(D ~|~ +)}{P(D^c ~|~ +)} = \frac{P(+~|~D)}{P(+~|~D^c)}\times \frac{P(D)}{P(D^c)}
+$$
+
+i.e.,
+
+$$
+\mbox{post-test odds of }D = DLR_+\times\mbox{pre-test odds of }D
+$$
+
+- odds is when you do P(X)÷P(1-X)
+
+- Post odds = likelihood * prior odds.
+
+- Similarly, $DLR_-$ relates the decrease in the odds of the
+  disease after a negative test result to the odds of disease prior to
+  the test.
+
+---
+
+### HIV example revisited
+
+- Suppose a subject has a positive HIV test
+- $DLR_+ = .997 / (1 - .985) \approx 66$
+- The result of the positive test is that the odds of disease is now 66 times the pretest odds
+- Or, equivalently, the hypothesis of disease is 66 times more supported by the data than the hypothesis of no disease
+
+---
+
+### HIV example revisited
+
+- Suppose that a subject has a negative test result 
+- $DLR_- = (1 - .997) / .985  \approx .003$
+- Therefore, the post-test odds of disease is now $.3\%$ of the pretest odds given the negative test.
+- Or, the hypothesis of disease is supported $.003$ times that of the hypothesis of absence of disease given the negative test result
+
+---
+
+### Independence
+
+- Two events $A$ and $B$ are **independent** if $$P(A \cap B) =
+  P(A)P(B)$$;
+  
+  Two successive coin flips. 
+  
+- Equivalently if $P(A ~|~ B) = P(A)$ 
+- Two random variables, $X$ and $Y$ are independent if for any two
+  sets $A$ and $B$ P(A∩B)=P(A)*P(B)
+- Two coin flips both having heads is 0.5*0.5
+- If $A$ is independent of $B$ then 
+  - $A^c$ is independent of $B$ 
+  - $A$ is independent of $B^c$
+  - $A^c$ is independent of $B^c$
+
+### Example (star mark example)
+
+- Volume 309 of Science reports on a physician who was on trial for expert testimony in a criminal trial
+- Based on an estimated prevalence of sudden infant death syndrome of
+  1÷8543, the physician testified that that the probability of a
+  mother having two children with SIDS was
+  $\left(\frac{1}{8,543}\right)^2
+- The mother was convicted for murder.
+
+WOW! Apparently A and B are not independent. The chance of A&B
+happening given (|) the same mother is different. There are dependent
+as fuck!
+
+- That is, $P(A_1 \cap A_2)$ is not necessarily equal to $P(A_1)P(A_2)$
+- Biological processes that have a believed genetic or familiar
+  environmental component, of course, tend to be dependent within
+  families
+  
+  
+- **Relevant to this discussion, the principal mistake was to *assume*
+  that the events of having SIDs within a family are independent**
+
+- (There are many other statistical points of discussion for this case.)
+
+---
+### IID random variables (independent identically distributed)
+
+- Random variables are said to be iid if they are independent and identically distributed
+  - Independent: statistically unrelated from one and another
+  - Identically distributed: all having been drawn from the same
+    population distribution
+	
+	
+Unlike the mother murder example and like a coin toss, every coin toss
+is independent of the other and the probabilities are obtained from
+the same distribution data (0.5).
+- iid random variables are the default model for random samples
+- Many of the important theories of statistics are founded on assuming that variables are iid
+- Assuming a random sample and iid will be the default starting point
+  of inference for this class
+
+
+
+## SI: Expected values c6-w1
+
+### Expected values or Mean
+- Expected values are useful for characterizing a distribution
+- The mean is a characterization of its center
+- The variance and standard deviation are characterizations of
+how spread out it is
+- Our sample expected values (the sample mean and variance) will
+estimate the population versions
+
+### The population mean
+- The **expected value** or **mean** of a random variable is the center of its distribution
+- For discrete random variable $X$ with PMF $p(x)$, it is defined as
+  follows:
+  
+		X*100% = ∑xᵢ*p(xᵢ); It is the center of Mass of the system 
+		
+- X represents the center of mass of a collection of locations and
+  weights, x and p(x).
+
+
+### The sample mean
+
+- The sample mean estimates this population mean
+- The center of mass of the data is the empirical mean
+
+Why? we assume it? why? no idea! 
+
+---
+
+### Example
+
+### Using manipulate
+```
+library(manipulate)
+myHist <- function(mu){
+    g <- ggplot(galton, aes(x = child))
+    g <- g + geom_histogram(fill = "salmon", 
+      binwidth=1, aes(y = ..density..), colour = "black")
+    g <- g + geom_density(size = 2)
+    g <- g + geom_vline(xintercept = mu, size = 2)
+    mse <- round(mean((galton$child - mu)^2), 3)  
+    g <- g + labs(title = paste('mu = ', mu, ' MSE = ', mse))
+    g
+}
+manipulate(myHist(mu), mu = slider(62, 74, step = 0.5))
+```
+
+Getting an error that it needs to be run from R-studio.
+
+
+---
+### Example of a population mean
+
+- Suppose a coin is flipped and $X$ is declared $0$ or $1$
+  corresponding to a head or a tail, respectively, the expected value
+  is at 0.5 (i.e., mean);
+  
+- Note, if thought about geometrically, this answer is obvious; if two
+  equal weights are spaced at 0 and 1, the center of mass will be $.5$
+  
+### Example
+
+- Suppose that a die is rolled and $X$ is the number face up
+- What is the expected value of $X$?
+    $$
+    E[X] = 1 \times \frac{1}{6} + 2 \times \frac{1}{6} +
+    3 \times \frac{1}{6} + 4 \times \frac{1}{6} +
+    5 \times \frac{1}{6} + 6 \times \frac{1}{6} = 3.5
+    $$
+- Again, the geometric argument makes this answer obvious without calculation.
+
+### What about a biased coin?
+
+- Suppose that a random variable, $X$, is so that
+$P(X=1) = p$ and $P(X=0) = (1 - p)$
+- (This is a biased coin when $p\neq 0.5$)
+- What is its expected value?
+$$
+E[X] = 0 * (1 - p) + 1 * p = p
+$$
+
+---
+
+### Continuous random variables
+
+- For a continuous random variable, $X$, with density, $f$, the
+  expected value is again exactly the center of mass of the density
+
+---
+
+### Example
+
+- Consider a density where $f(x) = 1$ for $x$ between zero and one
+- (Is this a valid density?)
+- Suppose that $X$ follows this density; what is its expected value?  
+
+---
+
+### Facts about expected values
+
+- Recall that expected values are properties of distributions
+- Note the average of random variables is itself a random variable
+and its associated distribution has an expected value
+- The center of this distribution is the same as that of the original distribution
+
+- Take several values from a std. normal distribution. Plot it and you
+  can draw the original PDF.
+  
+- Now take 10 observations and average it (likely to be closer to the
+  center than one observation); Do this several times and you have
+  another PDF which has the same Expected value aka mean as that of
+  the PDF we began with.
+  
+- Average of 10 die flips taken N times and ploted gives a shape like
+  a normal distribution with mean in the centre as you would have for
+  N*10 die flips
+  
+- Average of 20 die flips will be more concentrated towards the centre
+  and so on with 30 die flips. The variance will be low and the mean
+  is at the same place as that of individual die flips.
+---
+### Summarizing what we know
+- Expected values are properties of distributions
+- The population mean is the center of mass of population
+- The sample mean is the center of mass of the observed data
+- The sample mean is an estimate of the population mean
+- The sample mean is unbiased if the population mean of its
+  distribution is the mean that it's trying to estimate
+- The more data that goes into the sample mean, the more 
+concentrated its density / mass function is around the population mean
