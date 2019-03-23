@@ -1133,7 +1133,9 @@ $r=L$[15]. From this we calculate `$\ddot{u_1} = a_t \sin{\theta} =
 ---
 <br>
 
-### DP part 6 (64 +25)
+## DP 80000 hours CC (89)
+
+[Source](https://80000hours.org/career-guide/career-capital/): 80000 hours Career Guide
 
 **P&E**
 > If you want to (increase)[1] your (social impact)[2], you face a
