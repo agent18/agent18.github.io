@@ -170,6 +170,35 @@ That's it. Git will start working, in combination with jekyll.
 ####  **Disqus comments**
 Disqus offers a simple system so that people can comment in your posts. All you need to do is copy paste a universal code into /layouts/\_post and register your site with Disqus. Refer [here][jekyll_disqus] and [here][jekyll_disqus_2] and be blessed. Good luck and big balls!
 
+#### Writing Math equations!
+
+https://stackoverflow.com/a/10197062/5986651
+
+> M-x set-input-method RET TeX will allow you to write e.g. \beta to
+> get β, \sum or \Sigma to get Σ etc.
+
+> It can be toggled on and off with toggle-input-method, bound to C-\
+> and C-<.
+
+https://stackoverflow.com/a/46765337/5986651
+
+
+  ``` html  
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']]
+      }
+    });
+  </script>
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> 
+  ```
+
+> add the above in the file _includes/head.html, and then your GitHub Pages site
+> will support MathJax
+
+
 #### **Thank You**
 
 Thanks to an [STM][STM] for the overall layout, details and continuous help with which I made this post and got working an actual simple-plain-text-based-Markdown-using-static-blogging-site working. Congratulations once again! 

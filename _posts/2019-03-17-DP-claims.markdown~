@@ -288,4 +288,240 @@ failed.
 Attachments area Preview YouTube video Venezuelans Sort Through Trash
 as Hunger Mounts
 
-$\\[ \frac{1}{n^{2}} \\]$
+## 
+
+## writing math formulas!
+
+$h_\theta(x) = \Large\frac{1}{1 + \mathcal{e}^{(-\theta^\top x)}}$ ; example (2): $a^2 + b^2 = c^2$ ; example (3): $\sum_{i=1}^m y^{(i)}$
+
+∑xᵢ
+
+## DP Mechanical Vibrations
+
+**Examples**
+
+> (The variational approach)[1] to (mechanics)[2] is based on the
+> (concepts of energy)[3] and (work)[4] and therefore (provides a better
+> understanding)[5] of (mechanical phenomena)[6]. In some sense one can
+> say that (variational principles)[7] (consider the system in a global
+> sense)[8], (disregarding the specifities)[9] of the (forces)[10] associated to
+> (kinematic constraints imposed on the system)[11].
+
+> {(The variational approach)[1] to (mechanics)[2] is based on the
+> (concepts of energy)[3] and (work)[4]}(A) {and therefore (provides a better
+> understanding)[5] of (mechanical phenomena)[6]}(B). In some sense one can
+> say that {(variational principles)[7] (consider the system in a global
+> sense)[8], (disregarding the specifities)[9] of the (forces)[10] associated to
+> (kinematic constraints imposed on the system)[11]}(C).
+
+> (The variational approach)[1] to (mechanics)[2] is based on the
+> (concepts of energy)[3] and (work)[4] and therefore (provides a better
+> understanding)[5] of (mechanical phenomena)[6].
+
+For [1], we can think of the equation of the POVW used to identify the
+relationship between force (F) and stiffness (k) for the truss problem
+below.
+
+$$\frac{1}{2} k \times dx^2 = F\times\delta y $$
+
+![truss example](./images/images-DP-3/truss.jpg) 
+
+
+For [2]: determining the force F at equilibrium (the truss is still)
+for a given stiffness
+
+For [3]: Energy of a spring, `$\frac{1}{2} k \times dx^2$`
+
+For [4]: Work done by the Force F, `$F\times\delta y$`
+
+For [5]: If F increases then k increases. Contrast
+this to vector mechanics, where we have to write atleast 6 equations
+(`$\Sigma Fx=0$, $\Sigma Fy=0$ & $\Sigma M=0$` (2x)). In these
+equations we also have the reaction forces at A and C involved, and
+the forces in the truss members. We can solve all this (I can't do it
+by hand, will take too long), and get a function `f(geometry, reaction
+force, internal force, stiffness)=0` from which it will not be as
+handy to see the effect of stiffness on the force F; unlike in the
+POVW equation, owing to the several useless new terms inside (reaction
+forces) 
+
+For [6]: When you look at the POVW equation above, we are able to see
+the relation between `F & k`
+
+
+>In some sense one can say that (variational principles)[7] (consider
+> the system in a global sense)[8], (disregarding the specifities)[9]
+> of the (forces)[10] associated to (kinematic constraints)[11] imposed on
+> the (system)[12].
+
+For [7]: the POVW equation seen above for the truss
+
+For [8]: We look at only the **input** F and the **output** travel of spring
+to balance the force. We skip the internal forces, reaction forces at
+A&C for example.
+
+For [9]: we look at the lack of internal forces or reaction forces in
+the POVW equation.
+
+For [10]: Internal forces in the truss member and the reaction forces
+at A & C.
+
+For [11]: The yellow plane does not allow Point C to move in the
+horizontal direction
+
+For [12]: the system refers to the truss members and the spring
+
+**Claim and testing**
+
+**Claim A**
+
+>{(The variational approach)[1] to (mechanics)[2] is based on the
+> (concepts of energy)[3] and (work)[4]}(A)
+
+In the example below we clearly see the usage of energy and work to
+identify the relationship between F and k. 
+
+$$\frac{1}{2} k \times dx^2 = F\times\delta y $$
+
+**Claim B**
+
+> The variational approach to mechanics is based on the concepts of
+> energy and therefore (provides a better understanding)[5] of
+> (mechanical phenomena)[6]}(B)
+
+We have seen above that the usage of vector mechanics makes it hard to
+understand the mechanical relationship between F and k [6] owing to
+the presence of reaction and internal forces. When we use the
+variational approach we see the relationship between F and k. When F
+increases k increases as the geometry part (dx, dy) is a constant.
+
+*is the writing (in quotes) considered as poor writing? due to the
+lack of comparison of the variational approach to something?*
+
+**Claim C**
+
+> In some sense one can say that {(variational principles)[7]
+> (consider the system in a global sense)[8], (disregarding the
+> specifities)[9] of the (forces)[10] associated to (kinematic
+> constraints imposed on the system)[11,12]}(C)
+
+The variational principles allow for the following equation:
+
+$$\frac{1}{2} k \times dx^2 = F\times\delta y $$
+
+which considers the system based on input and output[8], not bothering
+about the reaction forces that are generated at C and A imposed by the
+yellow plane.
+
+--- 
+<br>
+> It provides at the same time a very powerful tool for two main
+> reasons: 
+>
+> - (It)[1] (considerably simplifies)[2] the (analytical formulation)[3] of
+> the (motion equations)[4] for a (complex)[5a] (mechanical system)[5].
+> 
+> - (It)[6a] (gives rise to)[6] (approximate numerical methods)[7] for the (solution)[8] of
+> both (discrete)[9] and (continuous systems)[10] in the (most natural manner)[11],
+> as will be later explained in Chapters 5 and 6.
+
+
+> - (It)[1] (considerably simplifies)[2] the (analytical formulation)[3] of
+> the (motion equations)[4] for a (complex)[5a] (mechanical system)[5].
+
+For 4, think of the motion equation of a single pendulum
+
+$ml^2 \ddot{\theta} +mgl \sin{\theta}=0$ 
+
+For 1 and 3, think of the derivation of the motion equations for a
+simple pendulum using the POVW approach. - pg 22 Mechanical Vibrations
+by Daniel Rixen
+
+For 5, imagine a double pendulum.
+
+For 5a, with a simple pendulum we deal with a 1x1 matrix (basically
+not a matrix) in the derivation, which is very easy to work out by
+hand, but with a double pendulum , we deal with 2x2 matrices which is
+hard to keep track of with a double pendulum, in the derivation of
+motion equations.
+
+![double pendulum](./images/images-DP-3/dp.png)
+
+For 2: when we use the POVW to derive the motion equations of a double
+pendulum we have 2 equations in the end which need to be solved. When
+we use the newton-euler equations we quickly see that we need to
+construct 6 equations and solve them simultaneously.
+
+> - (It)[6a] (gives rise to)[6] (approximate)[7a] (numerical
+> methods)[7] for the (solution)[8] of both (discrete)[9] and
+> (continuous systems)[10] in the (most natural manner)[11], as will
+> be later explained in Chapters 5 and 6.
+
+For 6a, we think of the derivation of motion equations for a double
+pendulum using the POVW.
+
+for 6, we imagine giving the output of the variational approach (the
+differntial equation) to a computer to solve
+
+For 7a,
+
+"Numerical solution:
+
+let's guess 𝑥=1: 𝑓(1)=1−5=−4. A negative number. Let's guess 𝑥=6: 𝑓(6)=6−5=1. A positive number.
+
+The answer must be between them. Let's try 𝑥=6+12: 𝑓(72)<0
+So it must be between 72 and 6...etc.
+
+This is called bisection method." - [Stack](https://math.stackexchange.com/a/935458/332456)'
+
+*Here I would actually try to show solving the equation of motion
+using exact and numerical methods and show what is meant by
+approximation, but I need more time to re-understand how to use them,
+so I have not done them*
+
+For 7, [Runge Kutta method](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods)
+
+For 8, solution for $ml^2 \ddot{\theta} +mgl \sin{\theta}=0$ will look
+something like $\theta(t)=\theta_0 \cos{(\omega t + \phi)}$, where
+$\omega$ and $\phi$ need to be determined.
+
+For 9, we think of a double pendulum
+
+For 10, we think of a beam with a time-varying force $F=F_0
+\sin{\omega t}$
+
+For 11, it is not clear what the intention of the author is, so we
+skip it
+
+*I don't know what example to give for "gives rise to"! Does it need
+an example? I am here thinking what does "giving rise to look like"*
+
+
+**Claim A**
+
+> - (It)[6a] (gives rise to)[6] (approximate)[7a] (numerical methods)[7] for the (solution)[8] of
+> both (discrete)[9] and (continuous systems)[10] in the (most natural manner)[11],
+> as will be later explained in Chapters 5 and 6.
+
+Claim AA: Variational approach gives rise to approximate numerical
+methods for the solution of discrete systems.
+
+Claim AB: Variational approach gives rise to approximate numerical methods for the solution
+of continuous systems.
+
+If you take a double pendulum[9], and produce the motion equations with
+POVW[6a], you get 
+
+![double pendulum](./images/images-DP-3/dp.png)
+
+When you give this to a MATLAB[6] it will use Runge-Kutta  (or similar
+techniques)[7,7a] to find the $\theta\_1$ & $\theta\_2$ at say t=1s [8].
+
+A continuous system like a beam with a varying load is split into finite discrete elements
+(100 elements), following which it is treated like a discrete system
+which is "approximate"as above.
+
+
+
+
+

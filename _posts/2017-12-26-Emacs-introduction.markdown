@@ -550,6 +550,46 @@ Markdown mode not working with tables, giving error.
 	M-x package-delete RET `package name`
 	M-x package-install RET `package name`
 
+## macro!
+
+https://www.emacswiki.org/emacs/KeyboardMacros
+
+> You want to add the text “– foobar was here” at the end of each of
+> the lines in a file.
+
+> Place the TextCursor at the beginning of the first line.  `C-x (’ to
+> start recording a keyboard macro.  ‘C-e’ (or ‘M-x end-of-line’) to
+> move the cursor to the end of the line.  Type “-- foobar was here”
+> ‘C-a’ (or ‘M-x beginning-of-line’) to move the cursor to the
+> beginning of the line.  ‘C-n’ (or ‘M-x next-line’) to move the
+> cursor to the beginning of the next line.  `C-x )’ to stop recording
+> the keyboard macro.  ‘C-u 0 C-x e’ to execute the macro an infinite
+> number of times until the end of the file is reached (See
+> InfiniteArgument).
+
+https://emacs.stackexchange.com/a/71/17941
+
+Here are the steps that you can follow:
+
+* Select the region you want to do the search-replace.
+* Start recording macro.
+ 
+ `M-x start-kbd-macro`
+* Do the required `M-x query-replace-regexp` (replace "abc" with "def") and use `!` to force search-replace in the whole region. 
+* Stop recording macro.
+
+ `M-x kmacro-end-or-call-macro`.
+* Do `M-x kmacro-name-last-macro` and give the macro a descriptive name like `replace-abc-with-def`. You will then be able to call that macro again by doing `M-x replace-abc-with-def`.
+* Now save this macro as a function to a file that you load during your emacs initialization; for example, `init.el`. 
+ * `M-x insert-kbd-macro`
+ * Select your named macro to be inserted there.
+
+The auto-created `replace-abc-with-def` function definition looks like this:
+
+    (fset 'replace-abc-with-def
+       (lambda (&optional arg) "Keyboard macro." (interactive "p") (kmacro-exec-ring-item (quote ([59 39 return 97 98 99 return 100 101 102 return 33] 0 "%d")) arg)))
+
+Now you can `M-x replace-abc-with-def` in all your emacs sessions.
 
 ---
 
