@@ -3617,8 +3617,9 @@ mna$actualInterval <- as.numeric(mn1$actualInterval)
 * [PLoS](http://api.plos.org/) and [rplos](http://cran.r-project.org/web/packages/rplos/rplos.pdf)
 * [rOpenSci](http://ropensci.org/packages/index.html)
 * [Facebook](https://developers.facebook.com/) and [RFacebook](http://cran.r-project.org/web/packages/Rfacebook/)
-* [Google maps](https://developers.google.com/maps/) and [RGoogleMaps](http://cran.r-project.org/web/packages/RgoogleMaps/index.html)
-# Course4: Exploratory data Analysis
+			* [Google maps](https://developers.google.com/maps/) and [RGoogleMaps](http://cran.r-project.org/web/packages/RgoogleMaps/index.html)
+
+## Course4: Exploratory data Analysis
 
 
 ## Principles
@@ -5022,8 +5023,43 @@ g <- ggplot(data=mn5, aes(x=year,y=Mean.Emissions,color=fips))+
 g + scale_colour_manual(breaks=c("24510","06037"),values=c("red","green"))
 
 ```
+**When you have a histogram and 2 vlines, how to add legend**
+
+https://stackoverflow.com/questions/37660694/add-legend-to-geom-vline
+
+``` R
+quantile_1 <- quantile(sf$Unit.Sales, prob = 0.25)
+quantile_2 <- quantile(sf$Unit.Sales, prob = 0.75)
+
+ggplot(aes(x = Unit.Sales), data = sf) + 
+  geom_histogram(color = 'black', fill = NA) + 
+  geom_vline(aes(xintercept=median(Unit.Sales)),
+            color="blue", linetype="dashed", size=1) + 
+  geom_vline(aes(xintercept=mean(Unit.Sales)),
+            color="red", linetype="dashed", size=1) +
+  geom_vline(aes(xintercept=quantile_1), color="yellow", linetype="dashed", size=1)
+```
 
 
+### ggplot histogram
+
+http://www.cookbook-r.com/Graphs/Plotting_distributions_(ggplot2)
+
+	g <- ggplot(data.frame(mn.mat),aes(x=mn.mat))
+	
+```r
+g <- ggplot(data.frame(mn.mat),aes(x=mn.mat))
+
+## hist and plots
+
+g+geom_histogram(aes(y=..density..,fill="Distribution"),binwidth=0.5,color="black") +
+    scale_fill_manual("Histogram Legend", values=c("white")) +
+    geom_vline(aes(xintercept=mn.sample,color="Sample.mean"),linetype="dashed",size=0.5)+
+    geom_vline(aes(xintercept=mean(mn.mat),color="Mean.of.distribution"),linetype="dashed",size=1)+
+    scale_color_manual(name = "vLine legend", values = c( Sample.mean= "blue", Mean.of.distribution = "red"))+
+    ggtitle("Sampling distribution of Sample Mean") +xlab("Sample Mean, n=40") + ylab("density")
+```
+	
 ## Hierarchical Clustering
 ### Can we find things that are close together? 
 
@@ -7199,6 +7235,7 @@ warning=FALSE
 https://yihui.name/knitr/demo/output/ More info by author.
 
 "Error" reported here: https://github.com/yihui/knitr/issues/220
+
 **Figures**
 
 fig.height: numeric
@@ -7279,6 +7316,41 @@ Emacs init file attempts and failures for keybinding!
 	;;      'tws-insert-r-chunk)) 
 
 	(global-set-key (kbd "C-c r") 'tws-insert-r-chunk) 
+
+### Sample Knitr doc 
+
+-----------
+ 
+	---
+	title: "Effects of Storm Events on People and Economy"
+    output: html
+    ---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo=TRUE, message=F, warning=F, cache=T)
+```
+Using the following it is possible to read the data into a
+`data.frame` class.
+```{r, cache=TRUE }
+a <- 2
+```
+
+```{r libraries}
+library(dplyr) #library that aids in grouping (mainly %>%)
+```
+```{r plot}
+a <- rexp(100,0.2)
+hist(a)
+```
+
+--------------
+
+Use `M-n e` for executing. PDF images don't work with this command but
+html works well! Use `rmarkdown::render("./code.rmd")` in the console
+and it works well
+
+
 ## Levels of detail (c5-w3)
 ### tl;dr
 
@@ -7452,15 +7524,15 @@ Specific instances of treating variables as if random
 ### PMF and PDF
 
 
-PMF is for discrete random variables and PDF is for continuous random
+PMF is for discrete random variables and PDF (probability density function) is for continuous random
 variables.
 
 Probability Mass Function example:
 
 $$
 
-PMF(x)=(1/2)ˣ (1/2)⁽1-x); for x = {0,1}
-PMF2(x)=(θ)ˣ (1-θ)⁽1-x);
+PMF(x)=(1/2)ˣ (1/2)^(1-x); for x = {0,1}
+PMF2(x)=(θ)ˣ (1-θ)^(1-x);
 $$
 
 PMF(x) is a probability of a coin flip. This function gives value of
@@ -7468,7 +7540,6 @@ PMF(x) is a probability of a coin flip. This function gives value of
 1 . With PMF2 we see a die which is biased.
 
 ∑PMF(xᵢ)=1;
-
 
 PDF is for continuous variable. Example: Suppose that the proportion
 of help calls that get addressed in a random day by a help line is
@@ -7486,8 +7557,6 @@ x <- c(-0.5, 0, 1, 1, 1.5)
 y <- c(0, 0, 2, 0, 0)
 plot(x, y, lwd = 3, frame = FALSE, type = "l")
 ```
-
-
 
 ### Example continued
 
@@ -7555,7 +7624,7 @@ pbeta(c(0.4, 0.5, 0.6), 2, 1)
 
 ---
 
-### Quantiles
+### Percentiles
 
 You've heard of sample quantiles. If you were the 95th percentile on an exam, you know
 that 95% of people scored worse than you and 5% scored better. 
@@ -7584,7 +7653,8 @@ The $95^{th}$ percentile of a distribution is the point so that:
 ### Example
 
 Consider a PDF for scores for 10000 people. The 0.5th quantile is
-P(score<=some_score)=0.5. P(score<=some_score) is the area under the
+F(score<=some_score)=0.5. F
+(score<=some_score) is the area under the
 curve or the CDF(distribution function.x
 What is the median of the distribution that we were working with before?
 - We want to solve $0.5 = F(x) = x^2$
@@ -7940,3 +8010,5868 @@ and its associated distribution has an expected value
   distribution is the mean that it's trying to estimate
 - The more data that goes into the sample mean, the more 
 concentrated its density / mass function is around the population mean
+
+## SI c6-w2 Variance
+
+### The variance
+
+- The variance of a random variable is a measure of *spread*
+- If $X$ is a random variable with mean $\mu$, the variance of $X$ is defined as
+
+$$
+Var(X) = E[(X - \mu)^2] = E[X^2] - E[X]^2
+$$ 
+
+derivation for above is [here](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-population/v/statistics-alternate-variance-formulas)
+
+- The expected (squared) distance from the mean
+- Densities with a higher variance are more spread out than densities with a lower variance
+- The square root of the variance is called the **standard deviation**
+- The standard deviation has the same units as $X$
+
+---
+
+### Example
+
+- What's the variance from the result of a toss of a die? 
+
+  - $E[X] = 3.5$ 
+  - $E[X^2] = 1 ^ 2 \times \frac{1}{6} + 2 ^ 2 \times \frac{1}{6} + 3 ^ 2 \times \frac{1}{6} + 4 ^ 2 \times \frac{1}{6} + 5 ^ 2 \times \frac{1}{6} + 6 ^ 2 \times \frac{1}{6} = 15.17$ 
+
+- $Var(X) = E[X^2] - E[X]^2 \approx 2.92$
+
+---
+
+### Example: coin toss
+
+- What's the variance from the result of the toss of a coin with probability of heads (1) of $p$? 
+
+  - $E[X] = 0 \times (1 - p) + 1 \times p = p$
+  - $E[X^2] = E[X] = p$ 
+
+$$Var(X) = E[X^2] - E[X]^2 = p - p^2 = p(1 - p)$$
+
+---
+### The sample variance 
+- The sample variance is 
+$$
+S^2 = \frac{\sum_{i=1} (X_i - \bar X)^2}{n-1}
+$$
+(almost, but not quite, the average squared deviation from
+the sample mean)
+- It is also a random variable
+  - It has an associate population distribution
+  - Its expected value is the population variance
+  - Its distribution gets more concentrated around the population variance with mroe data
+- Its square root is the sample standard deviation
+
+---
+### Variances of x die rolls
+
+Variance of sample is $S^2$
+
+Variance of sample mean (n average) is $S^2/n$
+
+---
+
+### Recall the mean
+- Recall that the average of random sample from a population 
+is itself a random variable
+- We know that this distribution is centered around the population
+mean, $E[\bar X] = \mu$
+- We also know what its variance is $Var(\bar X) = \sigma^2 / n$
+- This is very useful, since we don't have repeat sample means 
+to get its variance; now we know how it relates to
+the population variance
+- We call the standard deviation of a statistic a standard error
+
+---
+### To summarize
+- The sample variance, $S^2$, estimates the population variance, $\sigma^2$
+- The distribution of the sample variance is centered around $\sigma^2$
+- The variance of the sample mean is $\sigma^2 / n$
+  - Its logical estimate is $s^2 / n$
+  - The logical estimate of the standard error is $S / \sqrt{n}$
+- $S$, the standard deviation, talks about how variable the population is
+- $S/\sqrt{n}$, the standard error, talks about how variable averages of random samples of size $n$ from the population are
+
+---
+
+### Simulation example: standard normal
+
+Standard normals have variance 1; means of $n$ standard normals
+have standard deviation $1/\sqrt{n}$
+
+>A normal distribution with a mean of 0 and a standard deviation of 1
+>is called a standard normal distribution. -wiki
+
+
+```r
+nosim <- 1000
+n <- 10
+sd(apply(matrix(rnorm(nosim * n), nosim), 1, mean))
+```
+
+```
+## [1] 0.3156
+```
+
+```r
+1 / sqrt(n)
+```
+
+```
+## [1] 0.3162
+```
+
+
+---
+
+### Simulation example: uniform distribution
+
+https://en.wikipedia.org/wiki/Uniform_distribution_%28continuous%29
+
+$$
+f(x) = 1/(b-a) for a<=x<=b
+
+f(x) =         for other cases
+$$
+
+https://math.stackexchange.com/a/728072/332456 for explanation of
+variance = (b-a)/12.
+
+Standard uniforms have variance $1/12$; means of 
+random samples of $n$ uniforms have sd = $1/\sqrt{12 \times n}$
+
+
+
+```r
+nosim <- 1000
+n <- 10
+sd(apply(matrix(runif(nosim * n), nosim), 1, mean))
+```
+
+```
+## [1] 0.09017
+```
+
+```r
+1 / sqrt(12 * n)
+```
+
+```
+## [1] 0.09129
+```
+
+
+---
+### Binomial distribution
+
+- Based on [khan lecture](https://www.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-binomial-random-variables/v/visualizing-a-binomial-distribution).
+
+Let's say we have 5 coin tosses and we are interested in the #heads
+that come about! 
+
+X is the random variable which has the outcome of #heads
+
+P(X=0) = 5C1 x (1/2)^0 x (1/2)^5
+
+P(X=2) = 5C2 x (1/2)^1 x (1/2)^4
+
+
+And so on. It will look like a normal distribution but it is discrete.
+
+- Based on "[Binomial probability example"](https://www.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-binomial-random-variables/v/probability-of-making-2-shots-in-6-attempts)
+
+
+P(making basket) = 70%
+
+P(failing) = 30% 
+
+P(X=2 in 6 attempts) = 6C2 x (0.7)^2 x (0.3)^4 = 15 x 0.49 x 0.0081 = 6%
+
+- Mean of binomial probability.
+
+E(X)= n x p(success)
+
+For example, if we shoot with 60% success (per shot), then for 10 shots
+we would have made on an average = 10 x 60% = 6 baskets.
+
+- Generalization of p of binomial distributions!
+
+P(exactly k scores in n attempts) = nCk f^k (1-f)^(n-k)
+
+
+### Simulation example: Poissons
+
+Based on this [khan video](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/poisson-distribution/v/poisson-process-1), we understand that Poisson is nothing
+but binomial but when n -> infinity.
+
+Also according to [stack](https://math.stackexchange.com/questions/1050184/difference-between-poisson-and-binomial-distributions),
+
+> The difference between the two is that while both measure the number
+> of certain random events (or "successes") within a certain frame,
+> the Binomial is based on discrete events, while the Poisson is based
+> on continuous events. That is, with a binomial distribution you have
+> a certain number, $n$, of "attempts," each of which has probability
+> of success $p$. With a Poisson distribution, you essentially have
+> infinite attempts, with infinitesimal chance of success. That is,
+> given a Binomial distribution with some $n,p$, if you let
+> $n\rightarrow\infty$ and $p\rightarrow0$ in such a way that
+> $np\rightarrow\lambda$, then that distribution approaches a Poisson
+> distribution with parameter $\lambda$.
+
+**Mean=Variance**= $\lambda$
+
+**Probability is given by**
+
+$$\Pr[X = k] = e^{-\lambda} \frac{\lambda^k}{k!}, \quad k = 0, 1, 2, \ldots.$$ 
+
+If Var=Mean=4, & number we average upon is n = 10; then SD = sqrt(variance/n) 
+
+```r
+nosim <- 1000
+n <- 10
+sd(apply(matrix(rpois(nosim * n, 4), nosim), 1, mean))
+```
+
+```
+## [1] 0.6219
+```
+
+```r
+sqrt(4/n)
+```
+
+```
+## [1] 0.6325
+```
+
+---
+### Simulation example: binomial distribution
+
+Fair coin flips have variance $0.25$; means of 
+random samples of $n$ coin flips have SD = sqrt(variance/n); same as poissons!
+
+```r
+nosim <- 1000
+n <- 10
+sd(apply(matrix(sample(0 : 1, nosim * n, replace = TRUE),
+                nosim), 1, mean))
+```
+
+```
+## [1] 0.1587
+```
+
+```r
+1 / (2 * sqrt(n))
+```
+
+```
+## [1] 0.1581
+```
+
+---
+### Data example
+
+```r
+library(UsingR); data(father.son); 
+x <- father.son$sheight
+n<-length(x)
+```
+
+---
+### Plot of the son's heights
+<img src="assets/fig/unnamed-chunk-9.png" title="plot of chunk unnamed-chunk-9" alt="plot of chunk unnamed-chunk-9" style="display: block; margin: auto;" />
+
+---
+### Let's interpret these numbers
+
+```r
+round(c(var(x), var(x) / n, sd(x), sd(x) / sqrt(n)),2)
+```
+
+```
+## [1] 7.92 0.01 2.81 0.09
+```
+
+<img src="assets/fig/unnamed-chunk-11.png" title="plot of chunk unnamed-chunk-11" alt="plot of chunk unnamed-chunk-11" style="display: block; margin: auto;" />
+
+
+---
+
+### Summarizing what we know about variances
+- The sample variance estimates the population variance
+- The distribution of the sample variance is centered at
+what its estimating
+- It gets more concentrated around the population variance with larger sample sizes
+- The variance of the sample mean is the population variance
+divided by $n$
+  - The square root is the standard error
+- It turns out that we can say a lot about the distribution of
+averages from random samples, 
+even though we only get one to look at in a given data set
+
+## Common distributions c6-w2
+### The Bernoulli distribution
+
+- The **Bernoulli distribution** arises as the result of a binary outcome
+- Bernoulli random variables take (only) the values 1 and 0 with probabilities of (say) $p$ and $1-p$ respectively
+- The PMF for a Bernoulli random variable $X$ is $$P(X = x) =  p^x (1 - p)^{1 - x}$$
+- The mean of a Bernoulli random variable is $p$ and the variance is $p(1 - p)$
+- If we let $X$ be a Bernoulli random variable, it is typical to call $X=1$ as a "success" and $X=0$ as a "failure"
+
+
+---
+
+### Binomial trials
+
+- The *binomial random variables* are obtained as the sum of iid Bernoulli trials
+- In specific, let $X_1,\ldots,X_n$ be iid Bernoulli$(p)$; then $X = \sum_{i=1}^n X_i$ is a binomial random variable
+- The binomial mass function is
+$$
+P(X = x) = 
+\left(
+\begin{array}{c}
+  n \\ x
+\end{array}
+\right)
+p^x(1 - p)^{n-x}
+$$
+for $x=0,\ldots,n$
+
+---
+
+### Choose
+
+- Recall that the notation 
+  $$\left(
+    \begin{array}{c}
+      n \\ x
+    \end{array}
+  \right) = \frac{n!}{x!(n-x)!}
+  $$ (read "$n$ choose $x$") counts the number of ways of selecting $x$ items out of $n$
+  without replacement disregarding the order of the items
+
+$$\left(
+    \begin{array}{c}
+      n \\ 0
+    \end{array}
+  \right) =
+\left(
+    \begin{array}{c}
+      n \\ n
+    \end{array}
+  \right) =  1
+  $$ 
+
+---
+
+### Example
+
+- Suppose a friend has $8$ children (oh my!), $7$ of which are girls and none are twins
+- If each gender has an independent $50$% probability for each birth, what's the probability of getting $7$ or more girls out of $8$ births?
+$$\left(
+\begin{array}{c}
+  8 \\ 7
+\end{array}
+\right) .5^{7}(1-.5)^{1}
++
+\left(
+\begin{array}{c}
+  8 \\ 8
+\end{array}
+\right) .5^{8}(1-.5)^{0} \approx 0.04
+$$
+
+```r
+choose(8, 7) * 0.5^8 + choose(8, 8) * 0.5^8
+```
+
+```
+## [1] 0.03516
+```
+
+```r
+pbinom(6, size = 8, prob = 0.5, lower.tail = FALSE)
+```
+
+```
+## [1] 0.03516
+```
+
+
+
+---
+
+### The normal distribution
+
+- A random variable is said to follow a **normal** or **Gaussian** distribution with mean $\mu$ and variance $\sigma^2$ if the associated density is
+  $$
+  (2\pi \sigma^2)^{-1/2}e^{-(x - \mu)^2/2\sigma^2}
+  $$
+  If $X$ a RV with this density then $E[X] = \mu$ and $Var(X) = \sigma^2$
+- We write $X\sim \mbox{N}(\mu, \sigma^2)$
+- When $\mu = 0$ and $\sigma = 1$ the resulting distribution is called **the standard normal distribution**
+- Standard normal RVs are often labeled $Z$
+
+---
+### The standard normal distribution with reference lines 
+<img src="assets/fig/unnamed-chunk-2.png" title="plot of chunk unnamed-chunk-2" alt="plot of chunk unnamed-chunk-2" style="display: block; margin: auto;" />
+
+
+---
+
+### Facts about the normal density
+
+If $X \sim \mbox{N}(\mu,\sigma^2)$ then 
+$$Z = \frac{X -\mu}{\sigma} \sim N(0, 1)$$ 
+
+
+If $Z$ is standard normal $$X = \mu + \sigma Z \sim \mbox{N}(\mu, \sigma^2)$$
+
+---
+
+### More facts about the normal density by ThRa
+
+
+
+Take a normal distribution with mean 0 and standard deviation 1.
+
+0th quantile is the middle. 1st quantile is 1 sd to the right. 2nd
+quantile is 2 sd to the right.
+
+
+0th quantile is 50 percentile. 2nd quantil is 97.7%. 3rd quantile is
+99.8%. 
+
+	pnorm(q) # gives distribution function value for given quantile
+	qnorm(p) # gives the other way around
+
+
+CDF: F(X_alpha)= area under the curve until X_alpha
+
+
+1. Approximately $68\%$, $95\%$ and $99\%$  of the normal density lies
+   within $1$, $2$ and $3$ standard deviations from the mean,
+   respectively
+	   
+		>pnorm(1)-pnorm(-1)
+		[1] 0.6826895
+	    > pnorm(2)-pnorm(-2)
+		[1] 0.9544997
+		> (pnorm(3)-pnorm(-3))
+		[1] 0.9973002
+   
+2. $-1.28$, $-1.645$, $-1.96$ and $-2.33$ are the $10^{th}$, $5^{th}$,
+   $2.5^{th}$ and $1^{st}$ percentiles of the standard normal
+   distribution respectively
+   
+		> qnorm(0.1)
+		[1] -1.281552
+		
+3. By symmetry, $1.28$, $1.645$, $1.96$ and $2.33$ are the $90^{th}$, $95^{th}$, $97.5^{th}$ and $99^{th}$ percentiles of the standard normal distribution respectively
+
+
+---
+
+### Question
+
+- What is the $95^{th}$ percentile of a $N(\mu, \sigma^2)$ distribution? 
+  - Quick answer in R `qnorm(.95, mean = mu, sd = sd)`
+- Or, because you have the standard normal quantiles memorized
+and you know that 1.645 is the 95th percentile you know that the answer has to be
+$$\mu + \sigma 1.645$$
+- (In general $\mu + \sigma z_0$ where $z_0$ is the appropriate standard normal quantile)
+
+---
+
+### Question
+
+- What is the probability that a $\mbox{N}(\mu,\sigma^2)$ RV is larger than $x$?
+
+---
+### Example
+
+Assume that the number of daily ad clicks for a company 
+is (approximately) normally distributed with a mean of 1020 and a standard
+deviation of 50. What's the probability of getting
+more than  1,160 clicks in a day?
+
+---
+
+### Example
+
+Assume that the number of daily ad clicks for a company 
+is (approximately) normally distributed with a mean of 1020 and a standard
+deviation of 50. What's the probability of getting
+more than  1,160 clicks in a day?
+
+It's not very likely, 1,160 is 2.8 standard
+deviations from the mean 
+
+```r
+pnorm(1160, mean = 1020, sd = 50, lower.tail = FALSE)
+```
+
+```
+## [1] 0.002555
+```
+
+```r
+pnorm(2.8, lower.tail = FALSE)
+```
+
+```
+## [1] 0.002555
+```
+
+
+---
+
+### Example
+
+Assume that the number of daily ad clicks for a company 
+is (approximately) normally distributed with a mean of 1020 and a standard
+deviation of 50. What number of daily ad clicks would represent
+the one where 75% of days have fewer clicks (assuming
+days are independent and identically distributed)?
+
+---
+
+### Example
+
+Assume that the number of daily ad clicks for a company 
+is (approximately) normally distributed with a mean of 1020 and a standard
+deviation of 50. What number of daily ad clicks would represent
+the one where 75% of days have fewer clicks (assuming
+days are independent and identically distributed)?
+
+
+```r
+qnorm(0.75, mean = 1020, sd = 50)
+```
+
+```
+## [1] 1054
+```
+
+
+---
+### The Poisson distribution
+
+* Used to model counts
+* The Poisson mass function is
+$$
+P(X = x; \lambda) = \frac{\lambda^x e^{-\lambda}}{x!}
+$$
+for $x=0,1,\ldots$
+
+* **The mean of this distribution is $\lambda$**
+* **The variance of this distribution is $\lambda$**
+* **Notice that $x$ ranges from $0$ to $\infty$**
+
+---
+### Some uses for the Poisson distribution
+* Modeling count data  
+* Modeling event-time or survival data
+* Modeling contingency tables
+* Approximating binomials when $n$ is large and $p$ is small
+
+---
+### Rates and Poisson random variables
+* Poisson random variables are used to model rates
+* $X \sim Poisson(\lambda t)$ where 
+  * $\lambda = E[X / t]$ is the expected count per unit of time
+  * $t$ is the total monitoring time
+
+---
+### Example
+The number of people that show up at a bus stop is Poisson with
+a mean of $2.5$ per hour.
+
+If watching the bus stop for 4 hours, what is the probability that $3$
+or fewer people show up for the whole time?
+
+
+```r
+ppois(3, lambda = 2.5 * 4)
+```
+
+```
+## [1] 0.01034
+```
+
+
+---
+### Poisson approximation to the binomial
+* When $n$ is large and $p$ is small the Poisson distribution
+  is an accurate approximation to the binomial distribution
+* Notation
+  * $X \sim \mbox{Binomial}(n, p)$
+  * $\lambda = n p$
+  * $n$ gets large 
+  * $p$ gets small
+
+
+---
+### Example, Poisson approximation to the binomial
+
+We flip a coin with success probablity $0.01$ five hundred times. 
+
+What's the probability of 2 or fewer successes?
+
+
+```r
+pbinom(2, size = 500, prob = 0.01)
+```
+
+```
+## [1] 0.1234
+```
+
+```r
+ppois(2, lambda = 500 * 0.01)
+```
+
+```
+## [1] 0.1247
+```
+
+## Asymtotics
+	
+### Asymptotics
+* Asymptotics is the term for the behavior of statistics as the sample size (or some other relevant quantity) limits to infinity (or some other relevant number)
+* (Asymptopia is my name for the land of asymptotics, where everything works out well and there's no messes. The land of infinite data is nice that way.)
+* Asymptotics are incredibly useful for simple statistical inference and approximations 
+* (Not covered in this class) Asymptotics often lead to nice understanding of procedures
+* Asymptotics generally give no assurances about finite sample performance
+* Asymptotics form the basis for frequency interpretation of probabilities 
+  (the long run proportion of times an event occurs)
+
+
+---
+
+
+### Law of large numbers in action
+
+```r
+n <- 10000
+means <- cumsum(rnorm(n))/(1:n)
+library(ggplot2)
+g <- ggplot(data.frame(x = 1:n, y = means), aes(x = x, y = y))
+g <- g + geom_hline(yintercept = 0) + geom_line(size = 2)
+g <- g + labs(x = "Number of obs", y = "Cumulative mean")
+g
+```
+
+---
+### Law of large numbers in action, coin flip
+
+```r
+means <- cumsum(sample(0:1, n, replace = TRUE))/(1:n)
+g <- ggplot(data.frame(x = 1:n, y = means), aes(x = x, y = y))
+g <- g + geom_hline(yintercept = 0.5) + geom_line(size = 2)
+g <- g + labs(x = "Number of obs", y = "Cumulative mean")
+g
+```
+
+![plot of chunk unnamed-chunk-2](assets/fig/unnamed-chunk-2.png) 
+
+
+If we make infinite coin tosses then we get the right answer, law of
+large numbers!
+
+---
+
+### The Central Limit Theorem
+
+- The **Central Limit Theorem** (CLT) is one of the most important theorems in statistics
+- For our purposes, the CLT states that the distribution of averages of iid variables (properly normalized) becomes that of a standard normal as the sample size increases
+- The CLT applies in an endless variety of settings
+- The result is that 
+$$\frac{\bar X_n - \mu}{\sigma / \sqrt{n}}=
+\frac{\sqrt n (\bar X_n - \mu)}{\sigma}
+= \frac{\mbox{Estimate} - \mbox{Mean of estimate}}{\mbox{Std. Err. of estimate}}$$ has a distribution like that of a standard normal for large $n$.
+- (Replacing the standard error by its estimated value doesn't change the CLT)
+- **The useful way to think about the CLT is that $\bar X_n$ is
+approximately $N(\mu, \sigma^2 / n)$**
+
+
+**Basically, that when you take an iid like a coin flip, and you start
+making distribution of averages out of them, it tends to normal
+distribution.**
+
+
+
+---
+
+### Example
+
+- Simulate a standard normal random variable by rolling $n$ (six sided)
+- Let $X_i$ be the outcome for die $i$
+- Then note that $\mu = E[X_i] = 3.5$
+- $Var(X_i) = 2.92$ 
+- SE $\sqrt{2.92 / n} = 1.71 / \sqrt{n}$
+- Lets roll $n$ dice, take their mean, subtract off 3.5,
+and divide by $1.71 / \sqrt{n}$ and repeat this over and over
+
+
+---
+### Result of our die rolling experiment
+
+You see that for 10 rolls of a die it is still discrete, but for 30
+rolls it almost makes the bell curve given by $\mu$ and the Variance!
+
+
+---
+### Coin CLT
+
+ - Let $X_i$ be the $0$ or $1$ result of the $i^{th}$ flip of a possibly unfair coin
+
+
+- The sample proportion, say $\hat p$, is the average of the coin flips
+- $E[X_i] = p$ and $Var(X_i) = p(1-p)$
+- Standard error of the mean is $\sqrt{p(1-p)/n}$
+- Then
+$$
+    \frac{\hat p - p}{\sqrt{p(1-p)/n}}
+$$
+will be approximately normally distributed
+
+
+- Let's flip a coin $n$ times, take the sample proportion
+of heads, subtract off .5 and multiply the result by
+$2 \sqrt{n}$ (divide by $1/(2 \sqrt{n})$)
+
+---
+### Simulation results
+<img src="assets/fig/unnamed-chunk-4.png" title="plot of chunk unnamed-chunk-4" alt="plot of chunk unnamed-chunk-4" style="display: block; margin: auto;" />
+
+
+---
+### Simulation results, $p = 0.9$
+<img src="assets/fig/unnamed-chunk-5.png" title="plot of chunk unnamed-chunk-5" alt="plot of chunk unnamed-chunk-5" style="display: block; margin: auto;" />
+
+
+---
+### Galton's quincunx 
+
+http://en.wikipedia.org/wiki/Bean_machine#mediaviewer/File:Quincunx_(Galton_Box)_-_Galton_1889_diagram.png
+
+<img src="fig/quincunx.png" height="450"></img>
+
+---
+
+### Confidence intervals thej
+
+This is a hard topic almost impossible to follow from the coursera
+course.
+
+**Population**  
+Let's say there are 100k people and you want to find out who voted for
+k. Let's assume the **True mean** (aka sample proportion) to be **p**.
+
+**Sampling**  
+But unfortunately we cannot estimate the true mean, so we take
+**n=100** sample. We determine the what is the sample proportion i.e.,
+54 people vote for A (success). $\cap{p}=0.54$. 
+
+**Normal distribution**
+
+Imagine a bell curve over different population sets of 100. So we make
+**$\cap{p}_1$** and then another 100 leads to **$\cap{p}_2$** etc... We make a
+plot out of it. 
+
+Obviously **E[$\cap{p}$]** is the same as the population mean **p**
+and a bell curve is formed eventually where std deviation as we have
+seen earlier is $\sigma_\cap{p} = \sqrt{p(1-p)/n}$. Note it is **p**
+that determines the SD of the bell!
+
+**2 things we are interested in**
+
+- What is the probability that any **$\cap{p}$** lies within 2sigma of the
+  **True Mean p**
+
+or conversely,
+
+- What is the probability that the **True Mean p** lies within 2sigma
+  of the **$\cap{p}$**
+
+**Note**: Sigma can only be calculated from the true mean.
+
+**The problem and solution**
+
+But there is no way of knowing the true mean in advance and possibly
+ever, (for example think of determining who people are going to vote
+for in the country.)
+
+So we do what is the **next "best" possible stuff!**
+
+We try to take the **SE (standard Error)** which is obtained by using
+$\cap{p}$ instead of P in the SD calculations. I.e., We draw **a** **sample**
+of **n=100**, find the $\cap{p}=0.54$. Then we use this to determine
+the **SE and not the SD**. 
+
+**What does this mean? and why?**
+
+There is a **95% probability** that **p is within 2sigma $\cap{p}$ of
+$\cap{p}$**.
+
+In the above example SE=0.05, so there is 95% probability that the
+drawn sample mean is within 0.44 and 0.64.
+
+It turns out that [SE is a decent estimation of SD](https://www.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample/introduction-to-confidence-intervals/v/confidence-interval-simulation).
+
+**There are 3 types of interval findings in this notes**
+
+- Finding SE with **$\cap{p}$ instead of p (true mean)**, and
+  computing Confidence interval
+
+- SE for biased coin type problems with ** 2xSE=1/sqrt(n)**
+
+	- Using Agresti interval by taking X+2 and n+4 (i.e., adding 2 more
+  successes and failures!
+
+#### Give a confidence interval for the average height of sons
+
+in Galton's data
+
+Here we take the same of data we have for the son's height and find
+the 95% confidence intervals.
+
+```r
+library(UsingR)
+data(father.son)
+x <- father.son$sheight
+(mean(x) + c(-1, 1) * qnorm(0.975) * sd(x)/sqrt(length(x)))/12
+```
+
+```
+## [1] 5.710 5.738
+```
+
+---
+
+### Confidence interval Walds interval
+
+We imagine a biased coin, i.e., SD= sqrt(p(1-p));
+
+- The interval takes the form:
+
+$$
+    \hat p \pm z_{1 - \alpha/2}  \sqrt{\frac{p(1 - p)}{n}}
+$$
+
+The maximum value p(1-p) can take is 1/2 at p=0.5.
+
+-**For 95% intervals $$\hat p \pm \frac{1}{\sqrt{n}}$$**
+
+This is used for quick "conservative"(maybe) estimates.
+
+---
+### Example of voters for Wald's interval
+
+* Your campaign advisor told you that in a random sample of 100 likely voters,
+  56 intent to vote for you. 
+  * Can you relax? Do you have this race in the bag?
+  * Without access to a computer or calculator, how precise is this estimate?
+* `1/sqrt(100)=0.1` so a back of the envelope calculation gives an
+  **approximate 95% interval** of `(0.46, 0.66)`
+  * Not enough for you to relax, better go do more campaigning as it
+    is not >50%
+* Rough guidelines is that when n=100 you have one decimal place of in
+  the SE and n=10000 you have 2 deimal places in the SE.
+
+```r
+round(1/sqrt(10^(1:6)), 3)
+```
+```
+## [1] 0.316 0.100 0.032 0.010 0.003 0.001
+```
+
+---
+
+### 2 ways of determining the confidence interval!
+
+
+```r
+0.56 + c(-1, 1) * qnorm(0.975) * sqrt(0.56 * 0.44/100)
+```
+
+```
+## [1] 0.4627 0.6573
+```
+
+```r
+binom.test(56, 100)$conf.int
+```
+
+```
+## [1] 0.4572 0.6592
+## attr(,"conf.level")
+## [1] 0.95
+```
+
+
+---
+
+### Simulation fOR n=20
+
+
+```r
+n <- 20
+pvals <- seq(0.1, 0.9, by = 0.05)
+nosim <- 1000
+coverage <- sapply(pvals, function(p) {
+    phats <- rbinom(nosim, prob = p, size = n)/n
+    ll <- phats - qnorm(0.975) * sqrt(phats * (1 - phats)/n)
+    ul <- phats + qnorm(0.975) * sqrt(phats * (1 - phats)/n)
+    mean(ll < p & ul > p)
+})
+```
+
+**When true mean is 0.5, then confidence interval covers the true
+mean**, i.e., follows central limit theorem!! but otherwise for
+**n=20** it doesn't seem to work correctly. For some cases of
+**p=0.1**, the confidence interval obtained from the SE does not seem
+to contain the **p**.
+
+### Simulation for n=100
+
+For n=100 the graph is rather spot on: For all **p**'s there is a
+90-95% chance that it covers the true mean when using SE.
+
+
+```r
+n <- 100
+pvals <- seq(0.1, 0.9, by = 0.05)
+nosim <- 1000
+coverage2 <- sapply(pvals, function(p) {
+    phats <- rbinom(nosim, prob = p, size = n)/n
+    ll <- phats - qnorm(0.975) * sqrt(phats * (1 - phats)/n)
+    ul <- phats + qnorm(0.975) * sqrt(phats * (1 - phats)/n)
+    mean(ll < p & ul > p)
+})
+```
+
+
+---
+### What's happening? Fix: Agresti/Coull interval
+
+- **$n$ isn't "large enough" for the CLT to be applicable
+for many of the values of $p$**
+
+- Quick fix, form the interval with 
+$$
+\frac{X + 2}{n + 4}
+$$
+- (Add two successes and failures, **Agresti/Coull interval)**
+
+**Use Agresti/Coull interval generally- Bcaffo**
+
+### Simulation with Agresti interval for n=20
+Now let's look at $n=20$ but adding 2 successes and failures
+
+```r
+n <- 20
+pvals <- seq(0.1, 0.9, by = 0.05)
+nosim <- 1000
+coverage <- sapply(pvals, function(p) {
+    phats <- (rbinom(nosim, prob = p, size = n) + 2)/(n + 4)
+    ll <- phats - qnorm(0.975) * sqrt(phats * (1 - phats)/n)
+    ul <- phats + qnorm(0.975) * sqrt(phats * (1 - phats)/n)
+    mean(ll < p & ul > p)
+})
+```
+It's a little conservative, i.e. the mean lies within >2 sigma for
+sure. i.e., >95% confidence
+
+---
+
+### Poisson interval
+* A nuclear pump failed 5 times out of 94.32 days, give a 95% confidence interval for the failure rate per day?
+* $X \sim Poisson(\lambda t)$.
+* Estimate $\hat \lambda = X/t$
+* $Var(\hat \lambda) = \lambda / t$ 
+* $\hat \lambda / t$ is our variance estimate
+
+---
+### R code
+
+```r
+x <- 5
+t <- 94.32
+lambda <- x/t
+round(lambda + c(-1, 1) * qnorm(0.975) * sqrt(lambda/t), 3)
+```
+
+```
+## [1] 0.007 0.099
+```
+
+```r
+poisson.test(x, T = 94.32)$conf
+```
+
+```
+## [1] 0.01721 0.12371
+## attr(,"conf.level")
+## [1] 0.95
+```
+
+
+
+---
+### Simulating the Poisson coverage rate
+Let's see how this interval performs for lambda
+values near what we're estimating
+
+```r
+lambdavals <- seq(0.005, 0.1, by = 0.01)
+nosim <- 1000
+t <- 100
+coverage <- sapply(lambdavals, function(lambda) {
+    lhats <- rpois(nosim, lambda = lambda * t)/t
+    ll <- lhats - qnorm(0.975) * sqrt(lhats/t)
+    ul <- lhats + qnorm(0.975) * sqrt(lhats/t)
+    mean(ll < lambda & ul > lambda)
+})
+```
+
+
+
+
+---
+### Covarage
+(Gets really bad for small values of lambda)
+<img src="assets/fig/unnamed-chunk-17.png" title="plot of chunk unnamed-chunk-17" alt="plot of chunk unnamed-chunk-17" style="display: block; margin: auto;" />
+
+
+
+
+---
+### What if we increase t to 1000?
+<img src="assets/fig/unnamed-chunk-18.png" title="plot of chunk unnamed-chunk-18" alt="plot of chunk unnamed-chunk-18" style="display: block; margin: auto;" />
+
+
+
+---
+### Summary
+- The LLN states that averages of iid samples 
+converge to the population means that they are estimating
+- The CLT states that averages are approximately normal, with
+distributions
+  - centered at the population mean 
+  - with standard deviation equal to the standard error of the mean
+  - CLT gives no guarantee that $n$ is large enough
+- Taking the mean and adding and subtracting the relevant
+normal quantile times the SE yields a confidence interval for the mean
+  - Adding and subtracting 2 SEs works for 95% intervals
+- Confidence intervals get wider as the coverage increases
+(why?)
+- Confidence intervals get narrower with less variability or
+larger sample sizes
+- The Poisson and binomial case have exact intervals that
+don't require the CLT
+  - But a quick fix for small sample size binomial calculations is to add 2 successes and failures
+## Questions c6-w2
+
+1. What is the variance of the distribution of the average an IID draw
+   of nn observations from a population with mean μ and variance σ^2
+   
+   $sigma^2/n$
+   
+2. Suppose that diastolic blood pressures (DBPs) for men aged 35-44
+   are normally distributed with a mean of 80 (mm Hg) and a standard
+   deviation of 10. About what is the probability that a random 35-44
+   year old has a DBP less than 70?
+   
+		pnorm(70, mean = 80, sd = 10)
+
+3. Brain volume for adult women is normally distributed with a mean of
+   about 1,100 cc for women with a standard deviation of 75 cc. What
+   brain volume represents the 95th percentile?
+   
+		qnorm(0.95, mean = 1100, sd = 75)
+		
+4. Refer to the previous question. Brain volume for adult women is
+   about 1,100 cc for women with a standard deviation of 75
+   cc. Consider the sample mean of 100 random adult women from this
+   population. What is the 95th percentile of the distribution of that
+   sample mean?
+   
+		qnorm(0.95, mean = 1100, sd = 75/sqrt(100))
+		
+5. You flip a fair coin 5 times, about what's the probability of
+   getting 4 or 5 heads?
+   
+		pbinom(3, size = 5, prob = 0.5, lower.tail = FALSE)
+		
+6. The respiratory disturbance index (RDI), a measure of sleep
+   disturbance, for a specific population has a mean of 15 (sleep
+   events per hour) and a standard deviation of 10. They are not
+   normally distributed. Give your best estimate of the probability
+   that a sample mean RDI of 100 people is between 14 and 16 events
+   per hour?
+   
+		pnorm(16, mean = 15, sd = 1) - pnorm(14, mean = 15, sd = 1)
+		
+	The population needn't be normal but **distribution of sample mean** seems to be
+    normally distributed.
+
+
+7. Consider a standard uniform density. The mean for this density is
+   .5 and the variance is 1 / 12. You sample 1,000 observations from
+   this distribution and take the sample mean, what value would you
+   expect it to be near?
+   
+   Via the LLN it should be near .5 *it seems!!!!*
+   
+8. The number of people showing up at a bus stop is assumed to be
+   Poisson with a mean of 5 5 people per hour. You watch the bus stop
+   for 3 hours. About what's the probability of viewing 10 or fewer
+   people?
+
+		ppois(10, lambda = 15)
+		
+	Need to give this a bit more thought! But I nailed the answer! of
+    course!
+	
+	
+	
+## T confidence interval (c6-w3)
+### T Confidence intervals
+
+- In the previous, we discussed creating a confidence interval using the CLT
+  - They took the form $Est \pm ZQ \times SE_{Est}$ 
+  
+  But according to [jbstatistics](https://youtu.be/Uv6nGIgZMVw?t=68), he says that only Z quantile
+  implies using population sd. But what ever! we move on.
+  
+- In this lecture, we discuss some methods for **small samples**,
+  notably **Gosset's $t$ distribution and $t$ confidence intervals**
+  
+  - They are of the form **$Est \pm TQ \times SE_{Est}$**
+  
+- **If you want a rule between whether to use a $t$ interval or normal
+interval, just always use the $t$ interval**
+
+---
+
+### Gosset's $t$ distribution
+
+If you look in this [jbstatistics video](https://youtu.be/Uv6nGIgZMVw?t=190), you see how the curve
+looks for a given "degrees of Freedom". No one dares to explain what
+it is though.
+
+- Has thicker tails than the normal
+- **Is indexed by a degrees of freedom; gets more like a standard
+  normal as df gets larger**
+
+- It assumes that the underlying data are iid Gaussian with the result
+that $$ \frac{\bar X - \mu}{SE/\sqrt{n}} $$ follows Gosset's $t$
+distribution with $n-1$ degrees of freedom
+
+- (If we replaced $s$ by $\sigma$ the statistic would be exactly standard normal)
+- Interval is $\bar X \pm t_{n-1} S/\sqrt{n}$ where $t_{n-1}$
+is the relevant quantile
+
+So what changes in essence is the lack of $\sigma$ resulting in a t
+distribution whose quantile terms are not Z anymore, they are t. And
+the approximation of this distribution closes to the normal when dof = infinity!
+
+---
+### Code for manipulate
+
+Shows the normal and T plots with varying dofs!
+
+```r
+library(ggplot2)
+library(manipulate)
+k <- 1000
+xvals <- seq(-5, 5, length = k)
+myplot <- function(df) {
+    d <- data.frame(y = c(dnorm(xvals), dt(xvals, df)), x = xvals, dist = factor(rep(c("Normal", 
+        "T"), c(k, k))))
+    g <- ggplot(d, aes(x = x, y = y))
+    g <- g + geom_line(size = 2, aes(colour = dist))
+    g
+}
+manipulate(myplot(mu), mu = slider(1, 20, step = 1))
+```
+
+---
+### Easier to see
+
+Compares the z and t quantiles
+```r
+pvals <- seq(0.5, 0.99, by = 0.01)
+myplot2 <- function(df) {
+    d <- data.frame(n = qnorm(pvals), t = qt(pvals, df), p = pvals)
+    g <- ggplot(d, aes(x = n, y = t))
+    g <- g + geom_abline(size = 2, col = "lightblue")
+    g <- g + geom_line(size = 2, col = "black")
+    g <- g + geom_vline(xintercept = qnorm(0.975))
+    g <- g + geom_hline(yintercept = qt(0.975, df))
+    g
+}
+manipulate(myplot2(df), df = slider(1, 20, step = 1))
+```
+
+
+---
+
+### Note's about the $t$ interval
+
+- The $t$ interval technically assumes that the data are iid normal,
+  though it is robust to this assumption
+- It works well whenever the distribution of the data is roughly
+  symmetric and mound shaped
+- Paired observations are often analyzed using the $t$ interval by
+  taking differences
+- For large degrees of freedom, $t$ quantiles become the same as
+  standard normal quantiles; therefore this interval converges to the
+  same interval as the CLT yielded
+- For skewed distributions, the spirit of the $t$ interval assumptions
+  are violated
+  
+  -**Also, for skewed distributions, it doesn't make a lot of sense to
+  center the interval at the mean**????
+  
+  - In this case, consider taking logs or using a different summary
+    like the median
+- For highly discrete data, like binary, other intervals are available
+
+---
+
+### Paired data --- Sleep data
+
+In R typing `data(sleep)` brings up the sleep data originally
+analyzed in Gosset's Biometrika paper, which shows the increase in
+hours for 10 patients on two soporific drugs. R treats the data as two
+groups rather than paired despite the same patients using both the
+drugs in succession.
+
+---
+### The data
+
+```r
+data(sleep)
+head(sleep)
+```
+
+```
+##   extra group ID
+## 1   0.7     1  1
+## 2  -1.6     1  2
+## 3  -0.2     1  3
+## 4  -1.2     1  4
+## 5  -0.1     1  5
+## 6   3.4     1  6
+```
+
+---
+
+### Different ways of running the T.test t distribution
+
+**97.5 is used and not 95%**
+
+```r
+g1 <- sleep$extra[1:10]
+g2 <- sleep$extra[11:20]
+difference <- g2 - g1
+mn <- mean(difference)
+s <- sd(difference)
+n <- 10
+```
+
+
+```r
+mn + c(-1, 1) * qt(0.975, n - 1) * s/sqrt(n)
+t.test(difference)
+t.test(g2, g1, paired = TRUE)
+t.test(extra ~ I(relevel(group, 2)), paired = TRUE, data = sleep)
+```
+
+---
+
+
+### The results
+(After a little formatting)
+
+```
+##        [,1] [,2]
+## [1,] 0.7001 2.46
+## [2,] 0.7001 2.46
+## [3,] 0.7001 2.46
+## [4,] 0.7001 2.46
+```
+
+---
+
+### Unpaired data --- Independent group $t$ confidence intervals
+
+- Suppose that we want to compare the mean blood pressure between two
+  groups in a randomized trial; **those who received the treatment to those who received a placebo**
+- **We cannot use the paired t test because the groups are independent and may have different sample sizes**
+- We now present methods for comparing independent groups
+
+---
+### Confidence interval
+
+- Therefore a $(1 - \alpha)\times 100\%$ confidence interval for $\mu_y - \mu_x$ is 
+$$
+    \bar Y - \bar X \pm t_{n_x + n_y - 2, 1 - \alpha/2}S_p\left(\frac{1}{n_x} + \frac{1}{n_y}\right)^{1/2}
+$$
+- The pooled variance estimator is $$S_p^2 = \{(n_x - 1) S_x^2 + (n_y - 1) S_y^2\}/(n_x + n_y - 2)$$ 
+- **Remember this interval is assuming a constant variance across the
+  two groups**
+  
+- According to the lecture, it is a reasonable assumption if we
+  perform randomization, that variance is the same.
+- **If there is some doubt, assume a different variance per group**,
+  which we will discuss later
+
+---
+
+### Example : unpaired data; var is equal
+#### Based on Rosner, Fundamentals of Biostatistics
+(Really a very good reference book)
+
+- Comparing SBP for 8 oral contraceptive users versus 21 controls
+- $\bar X_{OC} = 132.86$ mmHg with $s_{OC} = 15.34$ mmHg
+- $\bar X_{C} = 127.44$ mmHg with $s_{C} = 18.23$ mmHg
+- Pooled variance estimate
+
+```r
+sp <- sqrt((7 * 15.34^2 + 20 * 18.23^2)/(8 + 21 - 2))
+132.86 - 127.44 + c(-1, 1) * qt(0.975, 27) * sp * (1/8 + 1/21)^0.5
+```
+
+```
+## [1] -9.521 20.361
+```
+
+
+
+---
+### Mistakenly treating the sleep data as paired
+
+```r
+n1 <- length(g1)
+n2 <- length(g2)
+sp <- sqrt(((n1 - 1) * sd(x1)^2 + (n2 - 1) * sd(x2)^2)/(n1 + n2 - 2))
+```
+
+```
+## Error: object 'x1' not found
+```
+
+```r
+md <- mean(g2) - mean(g1)
+semd <- sp * sqrt(1/n1 + 1/n2)
+rbind(md + c(-1, 1) * qt(0.975, n1 + n2 - 2) * semd, t.test(g2, g1, paired = FALSE, 
+    var.equal = TRUE)$conf, t.test(g2, g1, paired = TRUE)$conf)
+```
+
+```
+##          [,1]   [,2]
+## [1,] -14.8873 18.047
+## [2,]  -0.2039  3.364
+## [3,]   0.7001  2.460
+```
+
+---
+
+
+### Var equal and Var non equal!
+#### `ChickWeight` data in R
+
+
+```r
+library(datasets)
+data(ChickWeight)
+library(reshape2)
+## define weight gain or loss
+wideCW <- dcast(ChickWeight, Diet + Chick ~ Time, value.var = "weight")
+names(wideCW)[-(1:2)] <- paste("time", names(wideCW)[-(1:2)], sep = "")
+library(dplyr)
+```
+
+
+```r
+wideCW <- mutate(wideCW, gain = time21 - time0)
+```
+
+
+---
+### Plotting the raw data
+
+<img src="assets/fig/unnamed-chunk-12.png" title="plot of chunk unnamed-chunk-12" alt="plot of chunk unnamed-chunk-12" style="display: block; margin: auto;" />
+
+noodle plot of the data per diet
+
+---
+### Weight gain by diet
+<img src="assets/fig/unnamed-chunk-13.png" title="plot of chunk unnamed-chunk-13" alt="plot of chunk unnamed-chunk-13" style="display: block; margin: auto;" />
+
+violin plot of the data per diet!
+
+---
+### Let's do a t interval
+
+```r
+wideCW14 <- subset(wideCW, Diet %in% c(1, 4))
+rbind(t.test(gain ~ Diet, paired = FALSE, var.equal = TRUE, data = wideCW14)$conf, 
+    t.test(gain ~ Diet, paired = FALSE, var.equal = FALSE, data = wideCW14)$conf)
+```
+
+```
+##        [,1]   [,2]
+## [1,] -108.1 -14.81
+## [2,] -104.7 -18.30
+```
+
+
+
+---
+
+### Finding the Unequal variances
+
+- Under unequal variances
+$$
+\bar Y - \bar X \pm t_{df} \times \left(\frac{s_x^2}{n_x} + \frac{s_y^2}{n_y}\right)^{1/2}
+$$
+where $t_{df}$ is calculated with degrees of freedom
+$$
+df=    \frac{\left(S_x^2 / n_x + S_y^2/n_y\right)^2}
+    {\left(\frac{S_x^2}{n_x}\right)^2 / (n_x - 1) +
+      \left(\frac{S_y^2}{n_y}\right)^2 / (n_y - 1)}
+$$
+will be approximately a 95% interval
+- This works really well
+  - So when in doubt, just assume unequal variances
+
+---
+
+### Example
+
+- Comparing SBP for 8 oral contraceptive users versus 21 controls
+- $\bar X_{OC} = 132.86$ mmHg with $s_{OC} = 15.34$ mmHg
+- $\bar X_{C} = 127.44$ mmHg with $s_{C} = 18.23$ mmHg
+- $df=15.04$, $t_{15.04, .975} = 2.13$
+- Interval
+$$
+132.86 - 127.44 \pm 2.13 \left(\frac{15.34^2}{8} + \frac{18.23^2}{21} \right)^{1/2}
+= [-8.91, 19.75]
+$$
+- In R, `t.test(..., var.equal = FALSE)`
+
+---
+### Comparing other kinds of data
+* For binomial data, there's lots of ways to compare two groups
+  * Relative risk, risk difference, odds ratio.
+  * Chi-squared tests, normal approximations, exact tests.
+* For count data, there's also Chi-squared tests and exact tests.
+* We'll leave the discussions for comparing groups of data for binary
+  and count data until covering glms in the regression class.
+* In addition, Mathematical Biostatistics Boot Camp 2 covers many special
+  cases relevant to biostatistics.
+
+### Summary Agents
+
+- t intervals arise due to lack of population $\sigma$
+
+- T intervals can be obtained from `t.test()`, no need to memorize any
+  insane formulas!
+  
+- T intervals can be grouped (takes difference) or ungrouped
+  
+- T intervals also are split based on the assumption that the
+  variances of the two ungrouped groups are equal or not!
+  
+  - Variance is assumed to be equal when the sample is randomized!!!
+	What ever that is supposed to mean!
+  
+## Hypothesis testing c6-w3
+
+* Hypothesis testing is concerned with making decisions using data
+* A null hypothesis is specified that represents the status quo,
+  usually labeled $H_0$
+* The null hypothesis is assumed true and statistical evidence is required
+  to reject it in favor of a research or alternative hypothesis 
+
+---
+### Example
+* A respiratory disturbance index of more than $30$ events / hour, say, is 
+  considered evidence of severe sleep disordered breathing (SDB).
+* Suppose that in a sample of $100$ overweight subjects with other
+  risk factors for sleep disordered breathing at a sleep clinic, the
+  mean RDI was $32$ events / hour with a standard deviation of $10$ events / hour.
+* We might want to test the hypothesis that 
+  * $H_0 : \mu = 30$
+  * $H_a : \mu > 30$
+  * **where $\mu$ is the population mean RDI.**
+
+- Disease : > 30 events/hr
+
+- Overweight sample n=100
+
+- Mu_sample = 32 events/hr
+
+- Sigma_sample = 10 events/hr
+
+---
+### Hypothesis testing
+* The alternative hypotheses are typically of the form $<$, $>$ or $\neq$
+* Note that there are four possible outcomes of our statistical decision process
+
+Truth | Decide | Result |
+---|---|---|
+$H_0$ | $H_0$ | Correctly accept null |
+$H_0$ | $H_a$ | Type I error |
+$H_a$ | $H_a$ | Correctly reject null |
+$H_a$ | $H_0$ | Type II error |
+
+---
+### Discussion
+* Consider a court of law; the null hypothesis is that the
+  defendant is innocent
+* We require a standard on the available evidence to reject the null hypothesis (convict)
+* If we set a low standard, then we would increase the
+  percentage of innocent people convicted (type I errors); however we
+  would also increase the percentage of guilty people convicted
+  (correctly rejecting the null)
+* If we set a high standard, then we increase the the
+  percentage of innocent people let free (correctly accepting the
+  null) while we would also increase the percentage of guilty people
+  let free (type II errors)
+
+- **H0:** Defendant is innocent; Person does not have Disease
+
+- **Ha:** Defendant is guilty; Person has Disease
+
+- if we make **type 1 error** by having a convicting everyone 90%
+  close to the murder scene, then we reject H0, i.e.,we would increase
+  the percentage of innocent people convicted and we would also
+  increase the percentage of guilty people convicted
+  
+- if we make **type 2 error**, vice versa!
+
+**In the case of diseases**
+
+- If we make a type 1 error, then we wrongly accuse people of having
+  disease and we rightly accuse people of having disease
+  
+- and Vice Versa!
+
+So we need to set some limit to minimize the type 1 error i.e.,
+wrong accusation of people as having disease when they actually don't.
+
+---
+
+### The Rejection constant C
+* Consider our sleep example again
+* A reasonable strategy would reject the null hypothesis if
+  $\bar X$ was larger than some constant, say $C$
+* Typically, $C$ is chosen so that the probability of a Type I
+  error, $\alpha$, is $.05$ (or some other relevant constant)
+* $\alpha$ = Type I error rate = Probability of rejecting the null
+  hypothesis when, in fact, the null hypothesis is correct
+  
+- So if in a random sample we have $\bar X$ to be >95th percentile
+
+---
+### Rejection based on C Example!
+
+- Standard error of the mean $10 / \sqrt{100} = 1$
+
+- **Under $H_0$** $\bar X \sim N(30, 1)$ 
+
+*How we are justified in using the std deviation of 1, I am not clear!
+Take this into class and identify exactly what you do not understand!*
+
+- We want to chose $C$ so that the $P(\bar X > C; H_0)$ is 
+5%
+- The 95th percentile of a normal distribution is 1.645
+standard deviations from the mean
+
+- If $C = 30 + 1 \times 1.645 = 31.645$
+  - Then the probability that a $N(30, 1)$ is larger
+    than it is 5%
+  - So the rule "Reject $H_0$ when $\bar X \geq 31.645$"
+    has the property that the probability of rejection
+    is 5% when $H_0$ is true (for the $\mu_0$, $\sigma$
+    and $n$ given)
+
+**- So we want to identify if H0 shall be rejected.**
+
+**- We take a normal distribution of sample means, based on H0 and see
+where the sample mean lies (within C or outside C!**
+
+---
+### Discussion
+* In general we don't convert $C$ back to the original scale
+* We would just reject because the Z-score; which is how many
+  standard errors the sample mean is above the hypothesized mean
+  $$
+  \frac{32 - 30}{10 / \sqrt{100}} = 2
+  $$
+  is greater than $1.645$
+* Or, whenever $ (\bar X - \mu_0) / (s/\sqrt{n}) > Z_{1-\alpha}$
+
+---
+### Summary 1: General rules
+
+* The $Z$ test for $H_0:\mu = \mu_0$ versus 
+  * $H_1: \mu < \mu_0$
+  * $H_2: \mu \neq \mu_0$
+  * $H_3: \mu > \mu_0$ 
+* Test statistic $ TS = \frac{\bar{X} - \mu_0}{S / \sqrt{n}} $
+* Reject the null hypothesis when 
+  * $TS \leq Z_{\alpha} = -Z_{1 - \alpha}$
+  * $|TS| \geq Z_{1 - \alpha / 2}$
+  * $TS \geq Z_{1 - \alpha}$
+
+---
+### Failing to reject H0 and not, accepting H0!
+
+* **We have fixed $\alpha$ to be low, so if we reject $H_0$ (either
+  our model is wrong) or there is a low probability that we have made
+  an error**
+* **We have not fixed the probability of a type II error, $\beta$;
+  therefore we tend to say ``Fail to reject $H_0$'' rather than
+  accepting $H_0$**
+* Statistical significance is not the same as scientific
+  significance
+* The region of TS values for which you reject $H_0$ is called the
+  rejection region
+
+---
+### When to apply Z and when to apply T test! Agents!
+
+From [jbStatisctics's explanation](https://youtu.be/Uv6nGIgZMVw?t=108):
+
+- Z statistic is used when $\sigma$ is known. As a result we have a
+normal distribution,
+
+$$ Z = (\bar{X} - \mu) / (**\sigma** / sqrt(n))$$
+
+- t statistic is used when $\sigma$ is not known. We use SE and so
+  have t statistic with n-1 dofs!
+  
+$$ t = (\bar{X} - \mu) / (**SE**     / sqrt(n))$$  has a t
+distribution with n-1 dofs!
+
+- 95% confidence intervals are obtained by:
+
+Z --> $$ \bar{X} +-       1.96  \sigma / sqrt(n)$$
+
+T --> $$ \bar{X} +- qt(0.95,n-1) SE    / sqrt(n)$$
+
+
+
+* **The $Z$ test requires the assumptions of the CLT and for $n$ to be large enough
+  for it to apply**
+* **If $n$ is small, then a Gossett's $T$ test is performed exactly in the same way,
+  with the normal quantiles replaced by the appropriate Student's $T$ quantiles and
+  $n-1$ df**
+* The probability of rejecting the null hypothesis when it is false is called *power*
+* Power is a used a lot to calculate sample sizes for experiments
+
+---
+### Example with n=16 and using T-statistic
+
+- Consider our example again. Suppose that $n= 16$ (rather than
+$100$)
+
+- The statistic
+$$
+\frac{\bar X - 30}{s / \sqrt{16}}
+$$
+follows a $T$ distribution with 15 df under $H_0$
+
+-**Under $H_0$, the probability that it is larger
+that the 95th percentile of the $T$ distribution is 5%**
+
+- **The 95th percentile of the T distribution with 15
+df is 1.7531 (obtained via `qt(.95, 15)`)**
+
+- So that our test statistic is now **$\sqrt{16}(32 - 30) / 10 = 0.8
+  $** << 1.7531 (95% with 15 dofs)
+  
+- We now **fail to reject.**
+
+
+---
+### Two sided tests
+
+**Not 95% anymore. It will become 97.5%; Just pay attention when you
+encounter such a problem.**
+
+* Suppose that we would reject the null hypothesis if in fact the  mean was too large or too small
+* That is, we want to test the alternative $H_a : \mu \neq 30$
+* We will reject if the test statistic, $0.8$, is either too large or too small
+* Then we want the probability of rejecting under the
+null to be 5%, split equally as 2.5% in the upper
+tail and 2.5% in the lower tail
+* Thus we reject if our test statistic is larger
+than `qt(.975, 15)` or smaller than `qt(.025, 15)`
+  * This is the same as saying: reject if the
+  absolute value of our statistic is larger than
+  `qt(0.975, 15)` = 2.1314
+  * So we fail to reject the two sided test as well
+  * (If you fail to reject the one sided test, you
+  know that you will fail to reject the two sided)
+
+
+---
+### T test in R
+
+```r
+library(UsingR); data(father.son)
+t.test(father.son$sheight - father.son$fheight)
+```
+
+```
+> 
+> 	One Sample t-test
+> 
+> data:  father.son$sheight - father.son$fheight
+> t = 11.79, df = 1077, p-value < 2.2e-16
+> alternative hypothesis: true mean is not equal to 0
+> 95 percent confidence interval:
+>  0.831 1.163
+> sample estimates:
+> mean of x 
+>     0.997
+```
+
+---
+### Connections with confidence intervals (Important)
+
+* Consider testing $H_0: \mu = \mu_0$ versus $H_a: \mu \neq \mu_0$
+* Take the set of all possible values for which you fail to reject $H_0$, this set is a $(1-\alpha)100\%$ confidence interval for $\mu$
+* The same works in reverse; if a $(1-\alpha)100\%$ interval
+  contains $\mu_0$, then we *fail  to* reject $H_0$
+
+
+
+```r
+library(UsingR); data(father.son)
+t.test(father.son$sheight - father.son$fheight)
+qt(0.975,length(father.son$sheight - father.son$fheight)-1)
+```
+
+```
+> 
+> 	One Sample t-test
+> 
+> data:  father.son$sheight - father.son$fheight
+> t = 11.79, df = 1077, p-value < 2.2e-16
+> alternative hypothesis: true mean is not equal to 0
+> 95 percent confidence interval:
+>  0.831 1.163
+> sample estimates:
+> mean of x 
+>     0.997
+
+> 1.962
+```
+**H0**: Mu = 0 (no difference in heights)
+
+**H_$\alpha$** : Mu != 0 (two sided alternate hypothesis)
+
+t statistic for 95% confidence = 1.962 for 97.5 percentile;
+
+t statistic for mu.sample=0.99 is, 11.78 => ~100 percentile; This
+implies there is a 0% chance that 11.78 will occur, which leads us to
+think that the null hypothesis is BS! 
+
+So we reject the null hypothesis that it is a normal distribution
+about 0. BS!
+
+**If the t statistic lied below the 95th t percentile, then H0 is failed
+to be rejected,** [as shown here in jbstatistics video](https://youtu.be/pGv13jvnjKc?t=548).
+
+The beauti is that we can also see if we reject the null hypothesis
+with the confidence interval (0.83 and 1.16). 0 is not in the 95%
+confidence interval, so, REJECT H0.
+
+
+---
+### Two group intervals
+- First, now you know how to do two group T tests
+since we already covered indepedent group T intervals
+- Rejection rules are the same 
+- Test $H_0 : \mu_1 = \mu_2$
+- Let's just go through an example
+
+---
+### `chickWeight` data
+Recall that we reformatted this data
+
+```r
+library(datasets); data(ChickWeight); library(reshape2)
+##define weight gain or loss
+wideCW <- dcast(ChickWeight, Diet + Chick ~ Time, value.var = "weight")
+names(wideCW)[-(1 : 2)] <- paste("time", names(wideCW)[-(1 : 2)], sep = "")
+library(dplyr)
+wideCW <- mutate(wideCW,
+  gain = time21 - time0
+)
+```
+
+---
+#### Unequal variance T test comparing diets 1 and 4
+
+```r
+wideCW14 <- subset(wideCW, Diet %in% c(1, 4))
+t.test(gain ~ Diet, paired = FALSE, 
+       var.equal = TRUE, data = wideCW14)
+```
+
+```
+>  
+>  	Two Sample t-test
+>  
+>  data:  gain by Diet
+>  t = -2.725, df = 23, p-value = 0.01207
+>  alternative hypothesis: true difference in means is not equal to 0
+>  95 percent confidence interval:
+>   -108.15  -14.81
+>  sample estimates:
+>  mean in group 1 mean in group 4 
+>            136.2           197.7
+```
+
+We reject the null hypothesis as it falls the t statistic falls
+outside the 95% confidence interval!
+
+---
+### Exact binomial test
+- Recall this problem, *Suppose a friend has $8$ children, $7$ of which are girls and none are twins*
+- Perform the relevant hypothesis test. $H_0 : p = 0.5$ $H_a : p > 0.5$
+  - What is the relevant rejection region so that the probability of rejecting is (less than) 5%?
+  
+Rejection region | Type I error rate |
+---|---|
+[0 : 8] | 1
+[1 : 8] | 0.9961
+[2 : 8] | 0.9648
+[3 : 8] | 0.8555
+[4 : 8] | 0.6367
+[5 : 8] | 0.3633
+[6 : 8] | 0.1445
+[7 : 8] | 0.0352
+[8 : 8] | 0.0039
+
+---
+### Notes
+* It's impossible to get an exact 5% level test for this case due to the discreteness of the binomial. 
+  * The closest is the rejection region [7 : 8]
+   * Any alpha level lower than 0.0039 is not attainable.
+* For larger sample sizes, we could do a normal approximation, but you already knew this.
+* Two sided test isn't obvious. 
+  * Given a way to do two sided tests, we could take the set of values of $p_0$ for which we fail to reject to get an exact binomial confidence interval (called the Clopper/Pearson interval, BTW)
+* For these problems, people always create a P-value (next lecture) rather than computing the rejection region.
+
+## P-values (c6-w3) 
+
+* Most common measure of statistical significance
+* Their ubiquity, along with concern over their interpretation and use
+  makes them controversial among statisticians
+  * [http://warnercnr.colostate.edu/~anderson/thompson1.html](http://warnercnr.colostate.edu/~anderson/thompson1.html)
+  * Also see *Statistical Evidence: A Likelihood Paradigm* by Richard Royall 
+  * *Toward Evidence-Based Medical Statistics. 1: The P Value Fallacy* by Steve Goodman
+  * The hilariously titled: *The Earth is Round (p < .05)* by Cohen.
+* Some positive comments
+  * [simply statistics](http://simplystatistics.org/2012/01/06/p-values-and-hypothesis-testing-get-a-bad-rap-but-we/)
+  * [normal deviate](http://normaldeviate.wordpress.com/2013/03/14/double-misunderstandings-about-p-values/)
+  * [Error statistics](http://errorstatistics.com/2013/06/14/p-values-cant-be-trusted-except-when-used-to-argue-that-p-values-cant-be-trusted/)
+
+---
+
+
+### What is a P-value? 
+
+Not using alpha, but allowing others to choose their own alpha. 
+
+It is the 1-CDF(test statistic value). That's all!
+
+---
+### P-values
+* The P-value is the probability under the null hypothesis of
+  obtaining evidence as extreme or more extreme than that obtained
+* If the P-value is small, then either $H_0$ is true and we have
+  observed a rare event or $H_0$ is false
+*  Suppos that you get a $T$ statistic of $2.5$ for 15 df testing
+$H_0:\mu = \mu_0$ versus $H_a : \mu > \mu_0$.
+  * What's the probability of getting a $T$ statistic as large as
+    $2.5$?
+
+```r
+pt(2.5, 15, lower.tail = FALSE)
+```
+
+```
+## [1] 0.01225
+```
+
+* Therefore, the probability of seeing evidence as extreme or more extreme than that actually obtained under $H_0$ is 0.0123
+
+---
+### The attained significance level
+* Our test statistic was $2$ for $H_0 : \mu_0  = 30$ versus $H_a:\mu > 30$.
+* Notice that we rejected the one sided test when $\alpha = 0.05$, would we reject if $\alpha = 0.01$, how about $0.001$?
+* The smallest value for alpha that you still reject the null hypothesis is called the *attained significance level*
+* This is equivalent, but philosophically a little different from, the *P-value*
+
+---
+### Notes
+* By reporting a P-value the reader can perform the hypothesis
+  test at whatever $\alpha$ level he or she choses
+* If the P-value is less than $\alpha$ you reject the null hypothesis 
+* For two sided hypothesis test, double the smaller of the two one
+  sided hypothesis test Pvalues
+
+---
+### Revisiting an earlier example (star mark) ;)
+
+- Suppose a friend has $8$ children, $7$ of which are girls and none are twins
+- If each gender has an independent $50$% probability for each birth, what's the probability of getting $7$ or more girls out of $8$ births?
+
+```r
+choose(8, 7) * 0.5^8 + choose(8, 8) * 0.5^8
+```
+
+```
+## [1] 0.03516
+```
+
+```r
+pbinom(6, size = 8, prob = 0.5, lower.tail = FALSE)
+```
+
+```
+## [1] 0.03516
+```
+
+
+---
+### Poisson example
+
+- Suppose that a hospital has an infection rate of 10 infections per
+  100 person/days at risk (rate of 0.1) during the last monitoring
+  period.
+- Assume that an infection rate of 0.05 is an important benchmark. 
+- Given the model, could the observed rate being larger than 0.05 be attributed to chance?
+- Under $H_0: \lambda = 0.05$ so that $\lambda_0 100 = 5$
+- Consider $H_a: \lambda > 0.05$.
+
+
+JFC the writing is crazy! 
+
+
+**Sample:** 10 infections for 100 sick people/day => rate of 0.1
+
+**Expected, prefered rate**: 5 infections for .... => rate of 0.05
+
+**H0** rate = 0.05
+
+**H_a** rate > 0.05
+
+
+
+```r
+ppois(9, 5, lower.tail = FALSE)
+```
+
+```
+## [1] 0.03183
+```
+
+
+
+## quiz c6-w3
+
+1. In a population of interest, a sample of 9 men yielded a sample
+   average brain volume of 1,100cc and a standard deviation of
+   30cc. What is a 95% Student's T confidence interval for the mean
+   brain volume in this new population?
+		
+		mn=1100
+		sp=30/3
+		mn + c(1,-1) * qt(0.975,8) * sp
+   
+2. In a population of interest, a sample of 9 men yielded a sample
+   average brain volume of 1,100cc and a standard deviation of
+   30cc. What is a 95% Student's T confidence interval for the mean
+   brain volume in this new population?
+		
+		2*3/qt(0.975,8)
+		2.60
+   
+3. In an effort to improve running performance, 5 runners were either
+   given a protein supplement or placebo. Then, after a suitable
+   washout period, they were given the opposite treatment. Their mile
+   times were recorded under both the treatment and placebo, yielding
+   10 measurements with 2 per subject. The researchers intend to use a
+   T test and interval to investigate the treatment. Should they use a
+   paired or independent group T test and interval?
+   
+4. In a study of emergency room waiting times, investigators consider
+   a new and the standard triage systems. To test the systems,
+   administrators selected 20 nights and randomly assigned the new
+   triage system to be used on 10 nights and the standard system on
+   the remaining 10 nights. They calculated the nightly median waiting
+   time (MWT) to see a physician. The average MWT for the new system
+   was 3 hours with a variance of 0.60 while the average MWT for the
+   old system was 5 hours with a variance of 0.68. Consider the 95%
+   confidence interval estimate for the differences of the mean MWT
+   associated with the new system. Assume a constant variance. What is
+   the interval? Subtract in this order (New System - Old System).
+   
+
+	-2.75 to -1.25
+	
+5. Suppose that you create a 95% T confidence interval. You then
+   create a 90% interval using the same data. What can be said about
+   the 90% interval with respect to the 95% interval?
+   
+   Smaller obviously
+   
+6. To further test the hospital triage system, administrators selected
+   200 nights and randomly assigned a new triage system to be used on
+   100 nights and a standard system on the remaining 100 nights. They
+   calculated the nightly median waiting time (MWT) to see a
+   physician. The average MWT for the new system was 4 hours with a
+   standard deviation of 0.5 hours while the average MWT for the old
+   system was 6 hours with a standard deviation of 2 hours. Consider
+   the hypothesis of a decrease in the mean MWT associated with the
+   new treatment.
+
+	What does the 95% independent group confidence interval with
+	unequal variances suggest vis a vis this hypothesis? (Because there's
+	so many observations per group, just use the Z quantile instead of the
+	T.)
+	
+		n1 <- n2 <- 100
+		xbar1 <- 4
+		xbar2 <- 6
+		s1 <- 0.5
+		s2 <- 2
+		xbar2 - xbar1 + c(-1, 1) * qnorm(0.975) * sqrt(s1^2/n1 +
+		s2^2/n2)
+		
+7. Suppose that 18 obese subjects were randomized, 9 each, to a new
+   diet pill and a placebo. Subjects’ body mass indices (BMIs) were
+   measured at a baseline and again after having received the
+   treatment or placebo for four weeks. The average difference from
+   follow-up to the baseline (followup - baseline) was −3 kg/m2 for
+   the treated group and 1 kg/m2 for the placebo group. The
+   corresponding standard deviations of the differences was 1.5 kg/m2
+   for the treatment group and 1.8 kg/m2 for the placebo group. Does
+   the change in BMI over the four week period appear to differ
+   between the treated and placebo groups? Assuming normality of the
+   underlying data and a common population variance, calculate the
+   relevant *90%* t confidence interval. Subtract in the order of
+   (Treated - Placebo) with the smaller (more negative) number first.
+   
+		n1 <- n2 <- 9
+		x1 <- -3 ##treated
+		x2 <- 1 ##placebo
+		s1 <- 1.5 ##treated
+		s2 <- 1.8 ##placebo
+		s <- sqrt(((n1 - 1) * s1^2 + (n2 - 1) * s2^2)/(n1 + n2 - 2))
+		(x1 - x2) + c(-1, 1) * qt(0.95, n1 + n2 - 2) * s * sqrt(1/n1 + 1/n2)
+## Power (c6-w4)
+
+-**Power is the probability of rejecting the null hypothesis when it is false**
+- Ergo, power (as its name would suggest) is a good thing; you want more power
+- A type II error (a bad thing, as its name would suggest) is failing to reject the null hypothesis when it's false; the probability of a type II error is usually called $\beta$
+- Note Power  $= 1 - \beta$
+
+**H_a** is true but you decide **H0**; for example, mu>30 but you
+decide mu=30.
+
+---
+
+
+### Khan academy notes
+
+https://www.khanacademy.org/math/ap-statistics/tests-significance-ap/error-probabilities-power/v/introduction-to-power-in-significance-tests
+
+
+|                      | H0 true      | H0 False        |
+|----------------------|--------------|-----------------|
+| Reject H0            | Type I error | Correct (POWER) |
+| Failing to reject H0 | Correct      | Type II error   |
+
+H0: mu=30
+
+Ha: mu>30
+
+
+**Type I error:** when mu=30 but you reject H0. 
+
+**Type II error:** When mu!=30 but you fail to reject the H0.
+
+Imagine you take a random sample of n=100 from the population with
+sigma = 4
+
+**Under H0**, N(30,4) you check where mu=mu.sample is?
+
+If mu=mu.sample lies outside of 95% values, then you reject H0; This
+**5% is alpha**.
+
+If mu=mu.sample lies within 95% values, then you fail to reject H0.
+
+i.e., there is a 95% chance that you will be right (fail to reject
+H0|under H0)
+
+or there is a 5% chance that you are wrong (reject H0 | under H0)
+**Type I error**
+
+**Under !H0**,   N(say 35,4),  you check for where mu=mu.sample is?
+
+if mu.sample lies to the left of Z_alpha quantile, then you fail to
+reject H0 **(Type II error)**
+
+if mu.sample lies to the right of Z_alpha quantile, then you reject H0
+happily **(POWER)**
+
+
+### Power increase when?
+
+**alpha** ^ Power ^ And also Type I error ^
+
+**n** ^ Power ^
+
+**Less variability** ^ Power ^
+
+**Mu** far from null hypotheses the Power ^
+
+
+---
+### Example continued
+- $\mu_a = 32$, $\mu_0 = 30$, $n =16$, $\sigma = 4$
+
+```r
+mu0 = 30; mua = 32; sigma = 4; n = 16
+z = qnorm(1 - alpha)
+```
+
+You get alpha from the below:
+
+```r
+pnorm(mu0 + z * sigma / sqrt(n), mean = mu0, sd = sigma / sqrt(n), 
+      lower.tail = FALSE)
+```
+
+You get Power from the below:
+
+```r
+pnorm(mu0 + z * sigma / sqrt(n), mean = mua, sd = sigma / sqrt(n), 
+      lower.tail = FALSE)
+```
+
+---
+
+### Graphical Depiction of Power
+
+```r
+library(manipulate)
+mu0 = 30
+myplot <- function(sigma, mua, n, alpha){
+    g = ggplot(data.frame(mu = c(27, 36)), aes(x = mu))
+    g = g + stat_function(fun=dnorm, geom = "line", 
+                          args = list(mean = mu0, sd = sigma / sqrt(n)), 
+                          size = 2, col = "red")
+    g = g + stat_function(fun=dnorm, geom = "line", 
+                          args = list(mean = mua, sd = sigma / sqrt(n)), 
+                          size = 2, col = "blue")
+    xitc = mu0 + qnorm(1 - alpha) * sigma / sqrt(n)
+    g = g + geom_vline(xintercept=xitc, size = 3)
+    g
+}
+manipulate(
+    myplot(sigma, mua, n, alpha),
+    sigma = slider(1, 10, step = 1, initial = 4),
+    mua = slider(30, 35, step = 1, initial = 32),
+    n = slider(1, 50, step = 1, initial = 16),
+    alpha = slider(0.01, 0.1, step = 0.01, initial = 0.05)
+    )
+```
+
+
+---
+### Question
+- When testing $H_a : \mu > \mu_0$, notice if power is $1 - \beta$, then 
+$$1 - \beta = P\left(\bar X > \mu_0 + z_{1-\alpha} \frac{\sigma}{\sqrt{n}} ; \mu = \mu_a \right)$$
+- where $\bar X \sim N(\mu_a, \sigma^2 / n)$
+- **Unknowns: $\mu_a$, $\sigma$, $n$, $\beta$**
+- **Knowns: $\mu_0$, $\alpha$**
+- **Specify any 3 of the unknowns and you can solve for the remainder**
+
+---
+### Notes
+
+- Power doesn't need **$\mu_a$, $\sigma$ and $n$**, instead only
+ **$\frac{\sqrt{n}(\mu_a - \mu_0)}{\sigma}$**
+ 
+  - The quantity **$\frac{\mu_a - \mu_0}{\sigma}$** is called the **effect
+    size**
+
+- **Unknowns: $\mu_a$, $\sigma$, $n$, $\beta$**
+- **Knowns: $\mu_0$, $\alpha$**
+- **Specify any 3 of the unknowns and you can solve for the
+  remainder**
+  
+  
+---
+### T-test power
+-  Consider calculating power for a Gossett's $T$ test for our example
+-  The power is
+  $$
+  P\left(\frac{\bar X - \mu_0}{S /\sqrt{n}} > t_{1-\alpha, n-1} ~;~ \mu = \mu_a \right)
+  $$
+- **Calcuting this requires the non-central t distribution.**
+- **`power.t.test` does this very well**
+  - Omit one of the arguments and it solves for it
+
+---
+### Example
+
+```r
+power.t.test(n = 16, delta = 2 / 4, sd=1, type = "one.sample",  alt = "one.sided")$power
+```
+
+```
+## [1] 0.604
+```
+
+```r
+power.t.test(n = 16, delta = 2, sd=4, type = "one.sample",  alt = "one.sided")$power
+```
+
+```
+## [1] 0.604
+```
+
+```r
+power.t.test(n = 16, delta = 100, sd=200, type = "one.sample", alt = "one.sided")$power
+```
+
+```
+## [1] 0.604
+```
+
+---
+### Example
+
+```r
+power.t.test(power = .8, delta = 2 / 4, sd=1, type = "one.sample",  alt = "one.sided")$n
+```
+
+```
+## [1] 26.14
+```
+
+```r
+power.t.test(power = .8, delta = 2, sd=4, type = "one.sample",  alt = "one.sided")$n
+```
+
+```
+## [1] 26.14
+```
+
+```r
+power.t.test(power = .8, delta = 100, sd=200, type = "one.sample", alt = "one.sided")$n
+```
+
+```
+## [1] 26.14
+```
+## Key ideas Multiple testing C6-w4
+
+* Hypothesis testing/significance analysis is commonly overused
+* Correcting for multiple testing avoids false positives or discoveries
+* Two key components
+  * Error measure
+  * Correction
+
+---
+
+### Three eras of statistics
+
+__The age of Quetelet and his successors, in which huge census-level
+data sets were brought to bear on simple but important questions__:
+Are there more male than female births? Is the rate of insanity
+rising?
+
+The classical period of Pearson, Fisher, Neyman, Hotelling, and their
+successors, intellectual giants who __developed a theory of optimal
+inference capable of wringing every drop of information out of a
+scientific experiment__. The questions dealt with still tended to be
+simple Is treatment A better than treatment B?
+
+__The era of scientific mass production__, in which new technologies
+typified by the microarray allow a single team of scientists to
+produce data sets of a size Quetelet would envy. But now the flood of
+data is accompanied by a deluge of questions, perhaps thousands of
+estimates or hypothesis tests that the statistician is charged with
+answering together; not at all what the classical masters had in
+mind. Which variables matter among the thousands measured? How do you
+relate unrelated information?
+
+[http://www-stat.stanford.edu/~ckirby/brad/papers/2010LSIexcerpt.pdf](http://www-stat.stanford.edu/~ckirby/brad/papers/2010LSIexcerpt.pdf)
+
+
+[http://xkcd.com/882/](http://xkcd.com/882/) I don't get this!
+
+---
+
+### Types of errors
+
+Suppose you are testing a hypothesis that a parameter $\beta$ equals zero versus the alternative that it does not equal zero. These are the possible outcomes. 
+</br></br>
+
+                    | $\beta=0$   | $\beta\neq0$   |  Hypotheses
+--------------------|-------------|----------------|---------
+Claim $\beta=0$     |      $U$    |      $T$       |  $m-R$
+Claim $\beta\neq 0$ |      $V$    |      $S$       |  $R$
+    Claims          |     $m_0$   |      $m-m_0$   |  $m$
+
+</br></br>
+
+__Type I error or false positive ($V$)__ Say that the parameter does not equal zero when it does
+
+__Type II error or false negative ($T$)__ Say that the parameter equals zero when it doesn't 
+
+
+---
+
+### Error rates
+
+__False positive rate__ - The rate at which false results ($\beta = 0$) are called significant: $E\left[\frac{V}{m_0}\right]$*
+
+__Family wise error rate (FWER)__ - The probability of at least one false positive ${\rm Pr}(V \geq 1)$
+
+__False discovery rate (FDR)__ - The rate at which claims of significance are false $E\left[\frac{V}{R}\right]$
+
+* The false positive rate is closely related to the type I error rate [http://en.wikipedia.org/wiki/False_positive_rate](http://en.wikipedia.org/wiki/False_positive_rate)
+
+---
+
+### Controlling the false positive rate **FPR**
+
+If P-values are correctly calculated calling all $P < \alpha$ significant will control the false positive rate at level $\alpha$ on average. 
+
+<redtext>Problem</redtext>: Suppose that you perform 10,000 tests and $\beta = 0$ for all of them. 
+
+Suppose that you call all $P < 0.05$ significant. 
+
+The expected number of false positives is: $10,000 \times 0.05 = 500$  false positives. 
+
+__How do we avoid so many false positives?__ reduce alpha!
+
+
+---
+
+### Controlling family-wise error rate (FWER)
+
+
+The [Bonferroni correction](http://en.wikipedia.org/wiki/Bonferroni_correction) is the oldest multiple testing correction. 
+
+__Basic idea__: 
+* Suppose you do $m$ tests
+* You want to control FWER at level $\alpha$ so $Pr(V \geq 1) < \alpha$
+* Calculate P-values normally
+* Set $\alpha_{fwer} = \alpha/m$
+* Call all $P$-values less than $\alpha_{fwer}$ significant
+
+__Pros__: Easy to calculate, conservative
+__Cons__: May be very conservative
+
+
+---
+
+### Controlling false discovery rate (FDR)
+
+This is the most popular correction when performing _lots_ of tests say in genomics, imaging, astronomy, or other signal-processing disciplines. 
+
+__Basic idea__: 
+* Suppose you do $m$ tests
+* You want to control FDR at level $\alpha$ so $E\left[\frac{V}{R}\right]$
+* Calculate P-values normally
+* Order the P-values from smallest to largest $P_{(1)},...,P_{(m)}$
+* Call any $P_{(i)} \leq \alpha \times \frac{i}{m}$ significant
+
+__Pros__: Still pretty easy to calculate, less conservative (maybe much less)
+
+__Cons__: Allows for more false positives, may behave strangely under dependence
+
+---
+
+### Example with 10 P-values
+
+<img class=center src=fig/example10pvals.png height=450>
+
+Controlling all error rates at $\alpha = 0.20$
+
+Controlling FDR results in a line.
+
+Controlling FWER resutls in a very conservative cutoff
+
+![p-values cut off](./images/p-values.png)
+
+---
+
+### Adjusted P-values
+
+* One approach is to adjust the threshold $\alpha$
+* A different approach is to calculate "adjusted p-values"
+* They _are not p-values_ anymore
+* But they can be used directly without adjusting $\alpha$
+
+__Example__: 
+* Suppose P-values are $P_1,\ldots,P_m$
+* You could adjust them by taking $P_i^{fwer} = \max{m \times P_i,1}$ for each P-value.
+* Then if you call all $P_i^{fwer} < \alpha$ significant you will control the FWER. 
+
+---
+
+### Case study I: no true positives
+
+
+```r
+set.seed(1010093)
+pValues <- rep(NA, 1000)
+for (i in 1:1000) {
+    y <- rnorm(20)
+    x <- rnorm(20)
+    pValues[i] <- summary(lm(y ~ x))$coeff[2, 4]
+}
+
+# Controls false positive rate
+sum(pValues < 0.05)
+```
+
+```
+## [1] 51
+```
+
+
+---
+
+### Case study I: no true positives
+
+
+```r
+# Controls FWER
+sum(p.adjust(pValues, method = "bonferroni") < 0.05)
+```
+
+```
+## [1] 0
+```
+
+```r
+# Controls FDR
+sum(p.adjust(pValues, method = "BH") < 0.05)
+```
+
+```
+## [1] 0
+```
+
+
+
+---
+
+### Case study II: 50% true positives
+
+
+```r
+set.seed(1010093)
+pValues <- rep(NA, 1000)
+for (i in 1:1000) {
+    x <- rnorm(20)
+    # First 500 beta=0, last 500 beta=2
+    if (i <= 500) {
+        y <- rnorm(20)
+    } else {
+        y <- rnorm(20, mean = 2 * x)
+    }
+    pValues[i] <- summary(lm(y ~ x))$coeff[2, 4]
+}
+trueStatus <- rep(c("zero", "not zero"), each = 500)
+table(pValues < 0.05, trueStatus)
+```
+
+```
+##        trueStatus
+##         not zero zero
+##   FALSE        0  476
+##   TRUE       500   24
+```
+
+
+---
+
+
+### Case study II: 50% true positives
+
+
+```r
+# Controls FWER
+table(p.adjust(pValues, method = "bonferroni") < 0.05, trueStatus)
+```
+
+```
+##        trueStatus
+##         not zero zero
+##   FALSE       23  500
+##   TRUE       477    0
+```
+
+```r
+# Controls FDR
+table(p.adjust(pValues, method = "BH") < 0.05, trueStatus)
+```
+
+```
+##        trueStatus
+##         not zero zero
+##   FALSE        0  487
+##   TRUE       500   13
+```
+
+
+
+---
+
+
+### Case study II: 50% true positives
+
+__P-values versus adjusted P-values__
+
+```r
+par(mfrow = c(1, 2))
+plot(pValues, p.adjust(pValues, method = "bonferroni"), pch = 19)
+plot(pValues, p.adjust(pValues, method = "BH"), pch = 19)
+```
+
+For Bonferroni it is mostly 1 and for BH it increases with p-values!
+
+
+---
+
+### Notes and resources
+
+__Notes__:
+* Multiple testing is an entire subfield
+* A basic Bonferroni/BH correction is usually enough
+* If there is strong dependence between tests there may be problems
+  * Consider method="BY"
+
+__Further resources__:
+* [Multiple testing procedures with applications to genomics](http://www.amazon.com/Multiple-Procedures-Applications-Genomics-Statistics/dp/0387493166/ref=sr_1_2/102-3292576-129059?ie=UTF8&s=books&qid=1187394873&sr=1-2)
+* [Statistical significance for genome-wide studies](http://www.pnas.org/content/100/16/9440.full)
+* [Introduction to multiple testing](http://ies.ed.gov/ncee/pubs/20084018/app_b.asp)
+## resampling: bootstrap and permutations c6-w4
+
+
+> Both are popular and useful, but primarily for different uses. The
+> permutation test is best for testing hypotheses and bootstrapping is
+> best for estimating confidence intervals.
+
+
+Also look at this
+
+> If you are using R, then they are all easy to implement. See, for
+> instance,
+> http://www.burns-stat.com/pages/Tutor/bootstrap_resampling.html
+
+
+
+- The bootstrap is a tremendously useful tool for constructing
+  confidence intervals and calculating standard errors for difficult
+  statistics
+- For example, how would one derive a confidence interval for the median?
+- The bootstrap procedure follows from the so called bootstrap
+  principle
+  
+---
+### Obtain 10k datasets from the same dataset!
+
+```r
+library(UsingR)
+```
+
+```r
+data(father.son)
+x <- father.son$sheight
+n <- length(x)
+B <- 10000
+resamples <- matrix(sample(x,
+                           n * B,
+                           replace = TRUE),
+                    B, n)
+resampledMedians <- apply(resamples, 1, median)
+```
+
+Plot of sample distribution of the medians
+
+---
+
+
+### The bootstrap principle
+
+- Suppose that I have a statistic that estimates some population
+  parameter, but I don't know its sampling distribution
+- **The bootstrap principle suggests using the distribution defined by
+  the data to approximate its sampling distribution**
+
+---
+
+### Nonparametric bootstrap algorithm example
+
+- **Bootstrap procedure for calculating confidence interval for the
+  median from a data set of $n$ observations**
+
+  i. Sample $n$ observations **with replacement** from the observed
+  data resulting in one simulated complete data set
+  
+  ii. Take the median of the simulated data set
+  
+  iii. Repeat these two steps $B$ times, resulting in $B$ simulated
+  medians
+  
+  iv. These medians are approximately drawn from the sampling
+  distribution of the median of $n$ observations; therefore we can
+  
+    - Draw a histogram of them
+    - Calculate their standard deviation to estimate the standard
+      error of the median
+    - Take the $2.5^{th}$ and $97.5^{th}$ percentiles as a confidence
+      interval for the median
+
+---
+
+### Example code
+
+
+```r
+B <- 10000
+resamples <- matrix(sample(x,
+                           n * B,
+                           replace = TRUE),
+                    B, n)
+medians <- apply(resamples, 1, median)
+sd(medians)
+```
+
+```
+## [1] 0.08424
+```
+
+```r
+quantile(medians, c(.025, .975))
+```
+
+```
+##  2.5% 97.5% 
+## 68.43 68.81
+```
+
+---
+### Histogram of bootstrap resamples
+
+
+```r
+g = ggplot(data.frame(medians = medians), aes(x = medians))
+g = g + geom_histogram(color = "black", fill = "lightblue", binwidth = 0.05)
+g
+```
+
+---
+
+	
+### Notes on the bootstrap
+
+- The bootstrap is non-parametric
+- **Better percentile bootstrap confidence intervals correct for bias**
+- There are lots of variations on bootstrap procedures; the book "An
+  Introduction to the Bootstrap"" by Efron and Tibshirani is a great
+  place to start for both bootstrap and jackknife information
+
+
+---
+### Group comparisons
+- Consider comparing two independent groups.
+- Example, comparing sprays B and C
+
+---
+### Permutation tests
+-  Consider the null hypothesis that the distribution of the observations from each group is the same
+-  Then, the group labels are irrelevant
+- Consider a data frome with count and spray
+- Permute the spray (group) labels 
+- Recalculate the statistic
+  - Mean difference in counts
+  - Geometric means
+  - T statistic
+- Calculate the percentage of simulations where
+the simulated statistic was more extreme (toward
+the alternative) than the observed
+
+---
+### Variations on permutation testing (apparently too much info)
+
+
+| Data type | Statistic           | Test name                 |
+|-----------|---------------------|---------------------------|
+| Ranks     | rank sum            | rank sum test             |
+| Binary    | hypergeometric prob | Fisher's exact test       |
+| Raw data  |                     | ordinary permutation test |
+
+- Also, so-called *randomization tests* are exactly permutation tests, with a different motivation.
+- For matched data, one can randomize the signs
+  - For ranks, this results in the signed rank test
+- Permutation strategies work for regression as well
+  - Permuting a regressor of interest
+- Permutation tests work very well in multivariate settings
+
+---
+### Permutation test B v C
+
+```r
+subdata <- InsectSprays[InsectSprays$spray %in% c("B", "C"),]
+y <- subdata$count
+group <- as.character(subdata$spray)
+testStat <- function(w, g) mean(w[g == "B"]) - mean(w[g == "C"])
+observedStat <- testStat(y, group)
+permutations <- sapply(1 : 10000, function(i) testStat(y, sample(group)))
+observedStat
+```
+
+```
+## [1] 13.25
+```
+
+```r
+mean(permutations > observedStat)
+```
+
+```
+## [1] 0
+```
+
+---
+### Histogram of permutations B v C
+<img src="assets/fig/unnamed-chunk-9.png" title="plot of chunk unnamed-chunk-9" alt="plot of chunk unnamed-chunk-9" style="display: block; margin: auto;" />
+
+## Quiz 4 (c6-w4) (lot of deaths)
+
+
+1. A pharmaceutical company is interested in testing a potential blood
+   pressure lowering medication. Their first examination considers
+   only subjects that received the medication at baseline then two
+   weeks later. The data are as follows (SBP in mmHg)
+   
+   Consider testing the hypothesis that there was a mean reduction in
+   blood pressure? Give the P-value for the associated two sided T
+   test.
+   
+   (Hint, consider that the observations are paired.)
+
+
+
+	0.087
+	
+	```R
+	bl <- c(140, 138, 150, 148, 135)
+	fu <- c(132, 135, 151, 146, 130)
+	t.test(fu, bl, alternative = "two.sided", paired = TRUE)
+	t.test(fu - bl, alternative = "two.sided")
+	```
+	
+2. A sample of 9 men yielded a sample average brain volume of 1,100cc
+   and a standard deviation of 30cc. What is the complete set of values
+   of \mu_0 μ 0 ​ that a test of H_0: \mu = \mu_0 H 0 ​ :μ=μ 0 ​ would fail
+   to reject the null hypothesis in a two sided 5% Students t-test?
+
+		1100 + c(-1, 1) * qt(0.975, 8) * 30/sqrt(9)
+		
+	1077 to 1123
+	
+3. Researchers conducted a blind taste test of Coke versus Pepsi. Each
+   of four people was asked which of two blinded drinks given in
+   random order that they preferred. The data was such that 3 of the 4
+   people chose Coke. Assuming that this sample is representative,
+   report a P-value for a test of the hypothesis that Coke is
+   preferred to Pepsi using a one sided exact test.
+   
+		pbinom(2, size = 4, prob = 0.5, lower.tail = FALSE)
+		
+	What the hell was the point of the 3/4???? Nothing! PNN!
+	
+4. Infection rates at a hospital above 1 infection per 100 person days
+   at risk are believed to be too high and are used as a benchmark. A
+   hospital that had previously been above the benchmark recently had
+   10 infections over the last 1,787 person days at risk. About what
+   is the one sided P-value for the relevant test of whether the
+   hospital is *below* the standard?
+   
+		ppois(10, lambda = 0.01 * 1787)
+		
+    10 is on the left!
+	
+	
+5. Suppose that 18 obese subjects were randomized, 9 each, to a new
+   diet pill and a placebo. Subjects’ body mass indices (BMIs) were
+   measured at a baseline and again after having received the
+   treatment or placebo for four weeks. The average difference from
+   follow-up to the baseline (followup - baseline) was −3 kg/m2 for
+   the treated group and 1 kg/m2 for the placebo group. The
+   corresponding standard deviations of the differences was 1.5 kg/m2
+   for the treatment group and 1.8 kg/m2 for the placebo group. Does
+   the change in BMI appear to differ between the treated and placebo
+   groups? Assuming normality of the underlying data and a common
+   population variance, give a pvalue for a two sided t test.
+   
+   
+		n1 <- n2 <- 9
+		x1 <- -3 ##treated
+		x2 <- 1 ##placebo
+		s1 <- 1.5 ##treated
+		s2 <- 1.8 ##placebo
+		s <- sqrt(((n1 - 1) * s1^2 + (n2 - 1) * s2^2)/(n1 + n2 - 2))
+		ts <- (x1 - x2)/(s * sqrt(1/n1 + 1/n2))
+		2 * pt(ts, n1 + n2 - 2)
+	
+	**Double p so that you get it on both sides!**
+
+
+6. Brain volumes for 9 men yielded a 90% confidence interval of 1,077
+   cc to 1,123 cc. Would you reject in a two sided 5% hypothesis test
+   of
+
+	H_0 : \mu = 1,078 H 0 ​ :μ=1,078?
+	
+	Ans: No, you would fail to reject. The 95% interval would be wider
+	than the 90% interval. Since 1,078 is in the narrower 90% interval, it
+	would also be in the wider 95% interval. Thus, in either case it's in
+	the interval and so you would fail to reject.
+	
+7. Researchers would like to conduct a study of 100 100 healthy adults
+   to detect a four year mean brain volume loss of .01~mm^3 .01 mm 3
+   . Assume that the standard deviation of four year volume loss in
+   this population is .04~mm^3 . About what would be the
+   power of the study for a 5\% 5% one sided test versus a null
+   hypothesis of no volume loss?
+   
+		pnorm(1.645 * 0.004, mean = 0.01, sd = 0.004, lower.tail = FALSE)
+
+8. Researchers would like to conduct a study of n n healthy adults to
+   detect a four year mean brain volume loss of .01~mm^3 .01 mm 3
+   . Assume that the standard deviation of four year volume loss in this
+   population is .04~mm^3 .04 mm 3 . About what would be the value of n n
+   needed for 90\% 90% power of type one error rate of 5\% 5% one sided
+   test versus a null hypothesis of no volume loss?
+
+		power.t.test(delta=0.01,sd=0.04,sig.level=0.05,power=0.9,type="one.sample",alt="one.sided")
+		
+		ceiling((4 * (qnorm(0.95) - qnorm(0.1)))^2)
+		
+9. As you increase the type one error rate, \alpha α, what happens to
+   power?
+   
+   As you require less evidence to reject, i.e. your \alpha α rate
+   goes up, you will have larger power.
+## Regression Models c7-w1
+
+### (Perhaps surprisingly, this example is still relevant)
+
+
+[http://www.nature.com/ejhg/journal/v17/n8/full/ejhg20095a.html](http://www.nature.com/ejhg/journal/v17/n8/full/ejhg20095a.html)
+
+[Predicting height: the Victorian approach beats modern genomics](http://www.wired.com/wiredscience/2009/03/predicting-height-the-victorian-approach-beats-modern-genomics/)
+	
+---
+### Recent simply statistics post
+(Simply Statistics is a blog by Jeff Leek, Roger Peng and 
+Rafael Irizarry, who wrote this post, link on the image)
+
+
+
+- **"Data supports claim that if Kobe stops ball hogging the Lakers
+  will win more"**
+- "Linear regression suggests that an increase of 1% in % of shots taken by Kobe results in a drop of 1.16 points (+/- 0.22)  in score differential."
+- How was it done? Do you agree with the analysis? 
+
+
+
+---
+### Questions for this class (too many labels!!!)
+* Consider trying to answer the following kinds of questions:
+  * To use the parents' heights to predict childrens' heights.
+  * To try to find a parsimonious, easily described mean 
+    relationship between parent and children's heights.
+  * To investigate the variation in childrens' heights that appears 
+  unrelated to parents' heights (residual variation).
+  * To quantify what impact genotype information has beyond parental height in explaining child height.
+  * To figure out how/whether and what assumptions are needed to
+    generalize findings beyond the data in question.  
+  * Why do children of very tall parents tend to be 
+    tall, but a little shorter than their parents and why children of very short parents tend to be short, but a little taller than their parents? (This is a famous question called 'Regression to the mean'.)
+
+---
+### Galton's Data
+
+* Let's look at the data first, used by Francis Galton in 1885. 
+* Galton was a statistician who invented the term and concepts
+  of regression and correlation, founded the journal Biometrika,
+  and was the cousin of Charles Darwin.
+* You may need to run `install.packages("UsingR")` if the `UsingR` library is not installed.
+* Let's look at the marginal (parents disregarding children and children disregarding parents) distributions first. 
+  * Parent distribution is all heterosexual couples.
+  * **Correction for gender via multiplying female heights by 1.08.**
+  * Overplotting is an issue from discretization. (do not [overplot](https://www.displayr.com/what-is-overplotting/))
+
+---
+
+```r
+library(UsingR); data(galton); library(reshape); long <- melt(galton)
+g <- ggplot(long, aes(x = value, fill = variable)) 
+g <- g + geom_histogram(colour = "black", binwidth=1) 
+g <- g + facet_grid(. ~ variable)
+g
+```
+**plot of histograms of children heights and parents heights!**
+
+---
+### Finding the middle via least squares
+* Consider only the children's heights. 
+  * How could one describe the "middle"?
+  * One definition, let $Y_i$ be the height of child $i$ for $i = 1,
+  \ldots, n = 928$, then define the middle as the value of $\mu$ that
+  minimizes $$\sum_{i=1}^n (Y_i - \mu)^2$$
+* This is physical center of mass of the histrogram.
+* You might have guessed that the answer $\mu = \bar Y$.
+
+**Least squares finds a line with minimum "error"**
+
+---
+### Experiment
+#### Use R studio's manipulate to see what value of $\mu$ minimizes the sum of the squared deviations.
+
+```
+library(manipulate)
+myHist <- function(mu){
+    mse <- mean((galton$child - mu)^2)
+    g <- ggplot(galton, aes(x = child)) + geom_histogram(fill = "salmon", colour = "black", binwidth=1)
+    g <- g + geom_vline(xintercept = mu, size = 3)
+    g <- g + ggtitle(paste("mu = ", mu, ", MSE = ", round(mse, 2), sep = ""))
+    g
+}
+manipulate(myHist(mu), mu = slider(62, 74, step = 0.5))
+```
+
+---
+### **The least squares est. is the empirical mean for least error**
+
+```r
+g <- ggplot(galton, aes(x = child)) + geom_histogram(fill = "salmon", colour = "black", binwidth=1)
+g <- g + geom_vline(xintercept = mean(galton$child), size = 3)
+g
+```
+
+
+---
+#### Proof: that least squares est. for low error is the emperical mean!
+
+$$ 
+\begin{align} 
+\sum_{i=1}^n (Y_i - \mu)^2 & = \
+\sum_{i=1}^n (Y_i - \bar Y + \bar Y - \mu)^2 \\ 
+& = \sum_{i=1}^n (Y_i - \bar Y)^2 + \
+2 \sum_{i=1}^n (Y_i - \bar Y)  (\bar Y - \mu) +\
+\sum_{i=1}^n (\bar Y - \mu)^2 \\
+& = \sum_{i=1}^n (Y_i - \bar Y)^2 + \
+2 (\bar Y - \mu) \sum_{i=1}^n (Y_i - \bar Y)  +\
+\sum_{i=1}^n (\bar Y - \mu)^2 \\
+& = \sum_{i=1}^n (Y_i - \bar Y)^2 + \
+2 (\bar Y - \mu)  (\sum_{i=1}^n Y_i - n \bar Y) +\
+\sum_{i=1}^n (\bar Y - \mu)^2 \\
+& = \sum_{i=1}^n (Y_i - \bar Y)^2 + \sum_{i=1}^n (\bar Y - \mu)^2\\ 
+& \geq \sum_{i=1}^n (Y_i - \bar Y)^2 \
+\end{align} 
+$$
+
+---
+### Comparing childrens' heights and their parents' heights
+
+[OVERPLOTTING!](https://www.displayr.com/what-is-overplotting/)
+
+```r
+ggplot(galton, aes(x = parent, y = child)) + geom_point()
+```
+
+
+---
+Size of point represents number of points at that (X, Y) combination (See the Rmd file for the code).
+
+**Plot code not given here about how not to Overplot!**
+
+
+---
+### Regression through the origin
+* Suppose that $X_i$ are the parents' heights.
+* Consider picking the slope $\beta$ that minimizes $$\sum_{i=1}^n (Y_i - X_i \beta)^2$$
+* This is exactly using the origin as a pivot point picking the
+line that minimizes the sum of the squared vertical distances
+of the points to the line
+* Use R studio's  manipulate function to experiment
+* Subtract the means so that the origin is the mean of the parent
+and children's heights
+
+---
+
+```r
+y <- galton$child - mean(galton$child)
+x <- galton$parent - mean(galton$parent)
+freqData <- as.data.frame(table(x, y))
+names(freqData) <- c("child", "parent", "freq")
+freqData$child <- as.numeric(as.character(freqData$child))
+freqData$parent <- as.numeric(as.character(freqData$parent))
+myPlot <- function(beta){
+    g <- ggplot(filter(freqData, freq > 0), aes(x = parent, y = child))
+    g <- g  + scale_size(range = c(2, 20), guide = "none" )
+    g <- g + geom_point(colour="grey50", aes(size = freq+20, show_guide = FALSE))
+    g <- g + geom_point(aes(colour=freq, size = freq))
+    g <- g + scale_colour_gradient(low = "lightblue", high="white")                     
+    g <- g + geom_abline(intercept = 0, slope = beta, size = 3)
+    mse <- mean( (y - beta * x) ^2 )
+    g <- g + ggtitle(paste("beta = ", beta, "mse = ", round(mse, 3)))
+    g
+}
+manipulate(myPlot(beta), beta = slider(0.6, 1.2, step = 0.02))
+```
+
+
+---
+### The solution 
+#### In the next few lectures we'll talk about why this is the solution
+
+```r
+lm(I(child - mean(child))~ I(parent - mean(parent)) - 1, data = galton)
+```
+
+```
+
+Call:
+lm(formula = I(child - mean(child)) ~ I(parent - mean(parent)) - 
+    1, data = galton)
+
+Coefficients:
+I(parent - mean(parent))  
+                   0.646  
+```
+
+**The -1 somehow gets rid of the intercepts!!!!???**
+
+### Summary AGENT
+
+- Linear regression is line which minimizes error in "Y".
+
+- $$\sum_{i=1}^n (Y_i - \mu)^2$$
+
+	- mu is nothing but the mean (proof is available above!) so that
+      error is minimized
+- For some reason we centre the line around the mean so to get better
+  estimates!
+  
+- This is done by using:
+
+		lm(I(child - mean(child))~ I(parent - mean(parent)) - 1, data = galton)
+	
+	- the **-1** somehow gets rid of the intercepts!
+	
+## Notation c7-w1
+### Some basic definitions
+
+* In this module, we'll cover some basic definitions and notation used throughout the class.
+* We will try to minimize the amount of mathematics required for this class.
+* No calculus is required. 
+
+---
+
+### Notation for data
+
+* We write $X_1, X_2, \ldots, X_n$ to describe $n$ data points.
+* As an example, consider the data set $\{1, 2, 5\}$ then 
+  * $X_1 = 1$, $X_2 = 2$, $X_3 = 5$ and $n = 3$.
+* We often use a different letter than $X$, such as $Y_1, \ldots , Y_n$.
+* We will typically use Greek letters for things we don't know. 
+  Such as, $\mu$ is a mean that we'd like to estimate.
+
+---
+### The empirical mean 
+
+* Define the empirical mean as
+$$
+\bar X = \frac{1}{n}\sum_{i=1}^n X_i. 
+$$
+* Notice if we subtract the mean from data points, we get data that has mean 0. That is, if we define
+$$
+**\tilde X_i = X_i - \bar X.**
+$$
+The mean of the $\tilde X_i$ is 0.
+* This process is called **"centering" the random variables**.
+* Recall from the previous lecture that the mean is 
+  the least squares solution for minimizing
+  $$
+  \sum_{i=1}^n (X_i - \mu)^2
+  $$
+
+---
+
+### The empirical standard deviation and variance
+
+* Define the empirical variance as 
+$$
+S^2 = \frac{1}{n-1} \sum_{i=1}^n (X_i - \bar X)^2 
+= \frac{1}{n-1} \left( \sum_{i=1}^n X_i^2 - n \bar X ^ 2 \right)
+$$
+* The empirical standard deviation is defined as
+$S = \sqrt{S^2}$. Notice that the standard deviation has the same units as the data.
+* The data defined by $X_i / s$ have empirical standard
+  deviation 1. This is called "scaling" the data. i.e., **SCALING**
+
+**Empirical seems to be associated with the sample!**
+
+---
+### Normalization
+
+* The data defined by
+$$
+**Z_i = \frac{X_i - \bar X}{s}**
+$$
+**have empirical mean zero and empirical standard deviation 1**. 
+* The process of centering then scaling the data is called **"normalizing"** the data. 
+* Normalized data are centered at 0 and have units equal to standard deviations of the original data. 
+* Example, a value of 2 from normalized data means that data point
+was two standard deviations larger than the mean.
+
+**SCALING AND CENTERING**
+
+---
+### The empirical covariance
+* Consider now when we have pairs of data, $(X_i, Y_i)$.
+* Their empirical covariance is 
+$$
+Cov(X, Y) = 
+\frac{1}{n-1}\sum_{i=1}^n (X_i - \bar X) (Y_i - \bar Y)
+= \frac{1}{n-1}\left( \sum_{i=1}^n X_i Y_i - n \bar X \bar Y\right)
+$$
+* The correlation is defined is
+$$
+Cor(X, Y) = \frac{Cov(X, Y)}{S_x S_y}
+$$
+where $S_x$ and $S_y$ are the estimates of standard deviations 
+for the $X$ observations and $Y$ observations, respectively.
+
+**Covariance**
+
+It is the measure of deviation of X and Y from linear relationship
+relationship. i.e., if X and Y are plotted on to a line with slope
+"doesn't matter" degrees!
+
+**Correlation**
+
+$$
+Cor(X, Y) = \frac{Cov(X, Y)}{S_x S_y}
+$$
+
+Just divide Covariance by emperical SD's.
+
+---
+### Some facts about correlation
+* $**Cor(X, Y) = Cor(Y, X)**$
+* **$-1 \leq Cor(X, Y) \leq 1$**
+* $Cor(X,Y) = 1$ and $Cor(X, Y) = -1$ only when the $X$ or $Y$ observations fall perfectly on a positive or negative sloped line, respectively.
+* $Cor(X, Y)$ **measures the strength of the linear relationship between the $X$ and $Y$** data, with stronger relationships as $Cor(X,Y)$ heads towards -1 or 1.
+* $Cor(X, Y) = 0$ implies no linear relationship. 
+
+		cor(x,2*x)=1
+		cor(x,-x)=-1
+
+**Cor measures ability to fall on straight line. Cov is not that
+useful other than in getting Cov I think**
+
+
+## OLS c7-w1
+
+### Fitting the best line 
+* Let $Y_i$ be the $i^{th}$ child's height and $X_i$ be the 
+$i^{th}$ (average over the pair of) parents' heights. 
+* Consider finding the best line 
+  * Child's Height = $\beta_0$ + Parent's Height $\beta_1$
+* Use least squares
+  $$
+  \sum_{i=1}^n \{Y_i - (\beta_0 + \beta_1 X_i)\}^2
+  $$
+
+---
+### Results (beta0, beta1)
+* The least squares model fit to the line $Y = \beta_0 + \beta_1 X$
+  through the data pairs $(X_i, Y_i)$ with $Y_i$ as the outcome
+  obtains the line $Y = \hat \beta_0 + \hat \beta_1 X$ where $$\hat
+  **\beta_1 = Cor(Y, X) \frac{Sd(Y)}{Sd(X)} ~~~ \hat \beta_0 = \bar Y -
+  \hat \beta_1 \bar X**$$
+* **The line passes through the point $(\bar X, \bar Y$)**
+* The slope of the regression line with $X$ as the outcome and $Y$ as
+  the predictor is $Cor(Y, X) Sd(X)/ Sd(Y)$.
+* The slope is the same one you would get if you centered the data,
+$(X_i - \bar X, Y_i - \bar Y)$, and did regression through the origin.
+* If you normalized the data, $\{ \frac{X_i - \bar X}{Sd(X)},
+  \frac{Y_i - \bar Y}{Sd(Y)}\}$, the slope is $Cor(Y, X)$.
+
+* **Regression line passes through the centre**
+* **centered data also has the same slope as the actual data**
+		coef(lm(yc~xc))[2]==coef(lm(y~x))[2]
+
+**Normalizing the values results in slope beta1=cor(y,x)**
+
+		yn <- (y - mean(y))/sd(y)
+		xn <- (x - mean(x))/sd(x)
+		c(cor(y, x), cor(yn, xn), coef(lm(yn ~ xn))[2])
+
+[This lecture](https://www.youtube.com/watch?v=COVQX8WZVA8&list=PLpl-gQkQivXjqHAJd2t-J_One_fYE55tC&index=8) gives more info on the derivations.
+
+---
+### Revisiting Galton's data
+#### Double check our calculations using R
+
+```r
+y <- galton$child
+x <- galton$parent
+beta1 <- cor(y, x) *  sd(y) / sd(x)
+beta0 <- mean(y) - beta1 * mean(x)
+rbind(c(beta0, beta1), coef(lm(y ~ x)))
+```
+
+```
+     (Intercept)      x
+[1,]       23.94 0.6463
+[2,]       23.94 0.6463
+```
+
+
+---
+### Revisiting Galton's data
+#### Reversing the outcome/predictor relationship
+
+```r
+beta1 <- cor(y, x) *  sd(x) / sd(y)
+beta0 <- mean(x) - beta1 * mean(y)
+rbind(c(beta0, beta1), coef(lm(x ~ y)))
+```
+
+```
+     (Intercept)      y
+[1,]       46.14 0.3256
+[2,]       46.14 0.3256
+```
+
+
+---
+### Revisiting Galton's data
+#### Regression through the origin yields an equivalent slope if you center the data first
+
+```r
+yc <- y - mean(y)
+xc <- x - mean(x)
+beta1 <- sum(yc * xc) / sum(xc ^ 2)
+c(beta1, coef(lm(y ~ x))[2])
+```
+
+```
+            x 
+0.6463 0.6463 
+```
+
+### Forcing the regression through origin
+
+	x <- c(0.8, 0.47, 0.51, 0.73, 0.36, 0.58, 0.57, 0.85, 0.44, 0.42)
+	y <- c(1.39, 0.72, 1.55, 0.48, 1.19, -1.59, 1.23, -0.65, 1.49, 0.05)
+
+	sum(y*x)/sum(x^2)
+	
+	or 
+	
+	lm(y~0 + .,cbind(y,x))
+	
+	lm(y~0 _ .,cbind(x,y)) also gives the same result PNN!
+	
+---
+### Revisiting Galton's data
+#### Normalizing variables results in the slope being the correlation
+
+```r
+yn <- (y - mean(y))/sd(y)
+xn <- (x - mean(x))/sd(x)
+c(cor(y, x), cor(yn, xn), coef(lm(yn ~ xn))[2])
+```
+
+```
+                  xn 
+0.4588 0.4588 0.4588 
+```
+
+
+---
+<div class="rimage center"><img src="fig/unnamed-chunk-6.png" title="plot of chunk unnamed-chunk-6" alt="plot of chunk unnamed-chunk-6" class="plot" /></div>
+
+
+## Quiz c7-w1
+
+1. x <- c(0.18, -1.54, 0.42, 0.95)
+   w <- c(2, 1, 3, 1)
+   
+   w is weights, what is the value that minimizes?
+   
+		sum(x * w)/sum(w)
+   
+   
+2. x <- c(0.8, 0.47, 0.51, 0.73, 0.36, 0.58, 0.57, 0.85, 0.44, 0.42)
+   y <- c(1.39, 0.72, 1.55, 0.48, 1.19, -1.59, 1.23, -0.65, 1.49, 0.05)
+   
+   it the regression through the origin and get the slope treating y
+   as the outcome and x as the regressor. (Hint, do not center the data
+   since we want regression through the origin, not through the means of
+   the data.)
+   
+   
+		coef(lm(y ~ x - 1))
+		
+		sum(y * x)/sum(x^2)
+		
+		coef(lm(y~0 + . , cbind(x,y)))
+		
+3. Do \verb|data(mtcars)|data(mtcars) from the datasets package and
+   fit the regression model with mpg as the outcome and weight as the
+   predictor. Give the slope coefficient.
+
+		cor(mpg, wt) * sd(mpg)/sd(wt)
+		
+4. Consider data with an outcome (Y) and a predictor (X). The standard
+   deviation of the predictor is one half that of the outcome. The
+   correlation between the two variables is .5. What value would the
+   slope coefficient for the regression model with YY as the outcome
+   and XX as the predictor?
+   
+   1
+   
+5. Students were given two hard tests and scores were normalized to
+   have empirical mean 0 and variance 1. The correlation between the
+   scores on the two tests was 0.4. What would be the expected score
+   on Quiz 2 for a student who had a normalized score of 1.5 on Quiz
+   1?
+   
+   
+		1.5 * 0.4
+		
+6. x <- c(8.58, 10.46, 9.01, 9.64, 8.86)
+
+		((x - mean(x))/sd(x))[1]
+		
+7. x <- c(0.8, 0.47, 0.51, 0.73, 0.36, 0.58, 0.57, 0.85, 0.44, 0.42)
+   y <- c(1.39, 0.72, 1.55, 0.48, 1.19, -1.59, 1.23, -0.65, 1.49,
+   0.05)
+   
+		coef(lm(y ~ x))[1]
+		
+8. You know that both the predictor and response have mean 0. What can
+   be said about the intercept when you fit a linear regression?
+   
+   The intercept estimate is $\bar Y - \beta_1 \bar X$ and so will be
+   zero.
+   
+9. x <- c(0.8, 0.47, 0.51, 0.73, 0.36, 0.58, 0.57, 0.85, 0.44, 0.42)
+
+		mean(x)
+10. beta1/ gamma1 ?
+
+	when beta1 is y~x slope and gamma1 is x~y slope!
+	
+	Ans: var(y)/var(x)
+	
+	
+   
+## rttm c7-w2
+###  Regression to the Mean **examples Agent**
+* Why is it that the children of tall parents tend to be tall, but not as tall as their parents? 
+* Why do children of short parents tend to be short, but not as short as their parents?
+* Why do parents of very short children, tend to be short, but not a short as their child? And the same with parents of very tall children?
+* Why do the best performing athletes this year tend to do a little worse the following?
+
+**RTTM is about ramdomness**
+
+Consider the above examples... where even though the athlete might
+have worked the same, some randomness makes him better or worse is the
+claim.
+
+**100% rttm**
+
+Think of a normal distribution, if in the first 100 numbers you get
+maximum of 2. In the second 100 numbers (paired) the chance of getting
+such a high number(in its pair)) is super low (mean=0, sd=1), (i.e., 2
+sd's apart aka <5% chance in a bell curve).
+
+	x <- rnorm(100)
+	y <- rnorm(100)
+	
+	odr <- order(x)
+	
+	x[odr[100]] is 2
+	
+	y[odr[100]] is 0.5 or sumpin
+	
+**Exam tests rttm**
+
+Test 1 has some mistakes but is still hard, Test 2 is also hard.
+
+Good students score well in Test 1 compared to the second
+test. Quizzes are imperfect to judge the potential of the kid. 
+
+Many people get by, by just doing the previous-exam questions for
+example. Think of the poor students, they would have done better in
+the tests with errors than their test 2 grades.
+
+vaguely rttm!
+
+Basically rttm is some randomness in your life that peaks and lowers
+your true performance, it is the noise, that doesn't allow to measure
+your true potential.	
+
+---
+### Regression to the mean
+* These phenomena are all examples of so-called regression to the mean
+* Invented by Francis Galton in the paper "Regression towards
+  mediocrity in hereditary stature" The Journal of the Anthropological
+  Institute of Great Britain and Ireland , Vol. 15, (1886).
+* Think of it this way, imagine if you simulated pairs of random normals
+  * The largest first ones would be the largest by chance, and the
+    probability that there are smaller for the second simulation is
+    high.
+  * In other words $P(Y < x | X = x)$ gets bigger as $x$ heads into
+    the very large values.
+  * Similarly $P(Y > x | X = x)$ gets bigger as $x$ heads to very
+    small values.
+* Think of the regression line as the intrisic part.
+  * Unless $Cor(Y, X) = 1$ the intrinsic part isn't perfect
+
+---
+### Regression to the mean
+* Suppose that we normalize $X$ (child's height) and $Y$ (parent's
+  height) so that they both have mean 0 and variance 1.
+* Then, recall, our regression line passes through $(0, 0)$ (the mean of the X and Y).
+* If the slope of the regression line is $Cor(Y,X)$, regardless of
+  which variable is the outcome (recall, both standard deviations are
+  1).
+* Notice if $X$ is the outcome and you create a plot where $X$ is the
+  horizontal axis, the slope of the least squares line that you plot
+  is $1/Cor(Y, X)$.
+
+
+```r
+library(UsingR)
+data(father.son)
+y <- (father.son$sheight - mean(father.son$sheight)) / sd(father.son$sheight)
+x <- (father.son$fheight - mean(father.son$fheight)) / sd(father.son$fheight)
+rho <- cor(x, y)
+
+g = ggplot(data.frame(x = x, y = y), aes(x = x, y = y))
+g = g + geom_point(size = 6, colour = "black", alpha = 0.2)
+g = g + geom_point(size = 4, colour = "salmon", alpha = 0.2)
+g = g + xlim(-4, 4) + ylim(-4, 4)
+g = g + geom_abline(intercept = 0, slope = 1)
+g = g + geom_vline(xintercept = 0)
+g = g + geom_hline(yintercept = 0)
+g = g + geom_abline(intercept = 0, slope = rho, size = 2)
+g = g + geom_abline(intercept = 0, slope = 1 / rho, size = 2)
+g
+```
+
+---
+
+### Discussion
+* If you had to predict a son's normalized height, it would be
+  $Cor(Y, X) * X_i$ 
+* If you had to predict a father's normalized height, it would be
+  $Cor(Y, X) * Y_i$
+* Multiplication by this correlation shrinks toward 0 (regression toward the mean)
+* If the correlation is 1 there is no regression to the mean (if father's height perfectly determine's child's height and vice versa)
+* Note, regression to the mean has been thought about quite a bit and
+  generalized 
+  
+## Linear regression c7-w2
+### Basic regression model with additive Gaussian errors.
+* Least squares is an estimation tool, how do we do inference?
+* Consider developing a probabilistic model for linear regression
+$$
+Y_i = \beta_0 + \beta_1 X_i + **\epsilon_{i}**
+$$
+* Here the $\epsilon_{i}$ are assumed iid $N(0, \sigma^2)$. 
+* Note, $E[Y_i ~|~ X_i = x_i] = \mu_i = \beta_0 + \beta_1 x_i$
+* Note, $Var(Y_i ~|~ X_i = x_i) = \sigma^2$. **variance for a given X**
+
+
+---
+### Recap
+* Model $Y_i =  \mu_i + \epsilon_i = \beta_0 + \beta_1 X_i + \epsilon_i$ where $\epsilon_i$ are iid $N(0, \sigma^2)$
+* ML estimates of $\beta_0$ and $\beta_1$ are the least squares estimates
+  $$\hat \beta_1 = Cor(Y, X) \frac{Sd(Y)}{Sd(X)} ~~~ \hat \beta_0 = \bar Y - \hat \beta_1 \bar X$$
+* $E[Y ~|~ X = x] = \beta_0 + \beta_1 x$
+* $Var(Y ~|~ X = x) = \sigma^2$
+
+---
+### Changing regression coefficients beta1 beta0
+
+**if you multiply the X axis by 10, then you divide the units
+by 10. It changes the slope by 10**
+
+$$
+Y_i = \beta_0 + \beta_1 X_i + \epsilon_i
+= \beta_0 + \frac{\beta_1}{a} (X_i a) + \epsilon_i
+= \beta_0 + \tilde \beta_1 (X_i a) + \epsilon_i
+$$
+
+* Example: $X$ is height in $m$ and $Y$ is weight in $kg$. Then $\beta_1$ is $kg/m$. Converting $X$ to $cm$ implies multiplying $X$ by $100 cm/m$. To get $\beta_1$ in the right units, we have to divide by $100 cm /m$ to get it to have the right units. 
+
+**Subtracting the X axis by 'a' changes the intercept but not the
+slope.**
+
+---
+### Example
+#### `diamond` data set from `UsingR` 
+Data is diamond prices (Singapore dollars) and diamond weight in
+carats (standard measure of diamond mass, 0.2 $g$). To get the data
+use 
+
+```r
+library(UsingR); 
+data(diamond)
+plot(diamond$carat, diamond$price,
+xlab = "Mass (carats)",
+ylab = "Price (SIN $)",
+bg = "lightblue",
+col = "black", cex = 1.1, pch = 21,frame = FALSE)
+abline(lm(price ~ carat, data = diamond), lwd = 2)
+
+```
+
+---
+### Fitting the linear regression model
+
+```r
+fit <- lm(price ~ carat, data = diamond)
+coef(fit)
+```
+
+```
+(Intercept)       carat 
+     -259.6      3721.0 
+```
+
+
+* We estimate an expected 3721.02 (SIN) dollar increase in price for every carat increase in mass of diamond.
+* The intercept -259.63 is the expected price
+  of a 0 carat diamond.
+
+---
+### 0 carats value is worthless to you so you **Center** the Carats!
+
+**Subtracting the X axis by 'a' changes the intercept but not the
+slope.**
+
+```r
+fit2 <- lm(price ~ I(carat - mean(carat)), data = diamond)
+coef(fit2)
+```
+
+```
+           (Intercept) I(carat - mean(carat)) 
+                 500.1                 3721.0 
+```
+
+Thus $500.1 is the expected price for 
+the average sized diamond of the data (0.2042 carats).
+
+---
+### Changing scale
+* A one carat increase in a diamond is pretty big, what about
+  changing units to 1/10th of a carat? 
+* We can just do this by just dividing the coeficient by 10.
+  * We expect  a 372.102 (SIN) dollar   change in price for every 1/10th of a carat increase in mass of diamond.
+* Showing that it's the same if we rescale the Xs and refit
+
+```r
+fit3 <- lm(price ~ I(carat * 10), data = diamond)
+coef(fit3)
+```
+
+```
+  (Intercept) I(carat * 10) 
+       -259.6         372.1 
+```
+
+
+---
+### Predicting the price of a diamond
+
+```r
+newx <- c(0.16, 0.27, 0.34)
+coef(fit)[1] + coef(fit)[2] * newx
+```
+
+```
+[1]  335.7  745.1 1005.5
+```
+**Use Predict next time!**
+
+
+```r
+predict(fit, newdata = data.frame(carat = newx))
+```
+
+```
+     1      2      3 
+ 335.7  745.1 1005.5 
+```
+
+### Plot with lm
+
+```r
+library(UsingR)
+data(diamond)
+library(ggplot2)
+g = ggplot(diamond, aes(x = carat, y = price))
+g = g + xlab("Mass (carats)")
+g = g + ylab("Price (SIN $)")
+g = g + geom_point(size = 7, colour = "black", alpha=0.5)
+g = g + geom_point(size = 5, colour = "blue", alpha=0.2)
+g = g + geom_smooth(method = "lm", colour = "black")
+g
+```
+
+## residual variation c7-w2
+
+### Motivating example
+#### `diamond` data set from `UsingR` 
+Data is diamond prices (Singapore dollars) and diamond weight
+in carats (standard measure of diamond mass, 0.2 $g$). To get the data use `library(UsingR); data(diamond)`
+
+``` r
+library(UsingR)
+data(diamond)
+library(ggplot2)
+g = ggplot(diamond, aes(x = carat, y = price))
+g = g + xlab("Mass (carats)")
+g = g + ylab("Price (SIN $)")
+g = g + geom_smooth(method = "lm", colour = "black")
+g = g + geom_point(size = 7, colour = "black", alpha=0.5)
+g = g + geom_point(size = 5, colour = "blue", alpha=0.2)
+g
+```
+
+
+### Residuals
+* Model **$Y_i = \beta_0 + \beta_1 X_i + \epsilon_i$** where
+  $\epsilon_i \sim N(0, \sigma^2)$.
+  
+* Observed outcome $i$ is $Y_i$ at predictor value $X_i$
+* Predicted outcome $i$ is $\hat Y_i$ at predictor valuve $X_i$ is
+  $$
+  \hat Y_i = \hat \beta_0 + \hat \beta_1 X_i
+  $$
+* Residual, the between the observed and predicted outcome
+  $$
+  e_i = Y_i - \hat Y_i
+  $$
+  
+  **Residual is nothing but the difference between data and linear
+  regressor line**
+  
+  * The vertical distance between the observed data point and the
+    regression line
+	
+* Least squares minimizes $\sum_{i=1}^n e_i^2$
+* The $e_i$ can be thought of as estimates of the $\epsilon_i$.
+
+---
+### Properties of the residuals
+* $E[e_i] = 0$. **Intuitively if everything stands on either sides of
+  the mean, then the sum shall be equal to 0**
+
+* If an intercept is included, $\sum_{i=1}^n e_i = 0$ !!! Convinced by
+  intuitive explanation [here](https://stats.stackexchange.com/a/189613/217983). **Regression line is in some sense a
+  mean around which to the left are certain values which are exactly
+  equal to the right. PNN!**
+  
+  I think when they say *including the intercept* I think we should
+  not force the center through other points like the origin, in which
+  case residual might be different?
+  
+		sum(resid(lm(price~diamond$carat-1))) != 0 (tested)
+		sum(resid(lm(price~diamond$carat))) = 0 
+		sum(resid(lm(xc~yc))) == 0 True!
+		
+* If a regressor variable, $X_i$, is included in the model
+  $\sum_{i=1}^n e_i X_i = 0$. ???
+  
+* Residuals are useful for investigating poor model fit by zooming in
+  on the locations.
+  
+* Positive residuals are above the line, negative residuals are below.
+
+* Residuals can be thought of as the outcome ($Y$) with the
+  linear association of the predictor ($X$) removed.
+  
+* One differentiates residual variation (variation after removing
+the predictor) from systematic variation (variation explained by the regression model).
+* Residual plots highlight poor model fit.
+
+Residual variation is a random error like the one that occurs when you
+take the same measurement over and over again but your reading varies "randomly"
+
+---
+### Calculate Residuals in 3 ways!
+
+
+```r
+data(diamond)
+y <- diamond$price; x <- diamond$carat; n <- length(y)
+fit <- lm(y ~ x)
+e <- resid(fit)
+yhat <- predict(fit)
+max(abs(e -(y - yhat)))
+```
+
+```
+## [1] 9.486e-13
+```
+
+```r
+max(abs(e - (y - coef(fit)[1] - coef(fit)[2] * x)))
+```
+
+```
+## [1] 9.486e-13
+```
+
+**Important properties**
+
+```r
+sum(e)=0
+sum(e*X)=0
+```
+
+### Residuals are the assigned length of the red lines
+```{r, echo = FALSE, fig.height=5, fig.width=5}
+plot(diamond$carat, diamond$price,  
+     xlab = "Mass (carats)", 
+     ylab = "Price (SIN $)", 
+     bg = "lightblue", 
+     col = "black", cex = 2, pch = 21,frame = FALSE)
+abline(fit, lwd = 2)
+for (i in 1 : n) 
+  lines(c(x[i], x[i]), c(y[i], yhat[i]), col = "red" , lwd = 2)
+```
+
+---
+### Residuals versus X
+```{r, echo = FALSE, fig.height=5, fig.width=5}
+plot(x, e,  
+     xlab = "Mass (carats)", 
+     ylab = "Residuals (SIN $)", 
+     bg = "lightblue", 
+     col = "black", cex = 2, pch = 21,frame = FALSE)
+abline(h = 0, lwd = 2)
+for (i in 1 : n) 
+  lines(c(x[i], x[i]), c(e[i], 0), col = "red" , lwd = 2)
+```
+
+---
+### Non-linear data
+```{r, echo = FALSE, fig.height=5, fig.width=5}
+x = runif(100, -3, 3); y = x + sin(x) + rnorm(100, sd = .2); 
+library(ggplot2)
+g = ggplot(data.frame(x = x, y = y), aes(x = x, y = y))
+g = g + geom_smooth(method = "lm", colour = "black")
+g = g + geom_point(size = 7, colour = "black", alpha = 0.4)
+g = g + geom_point(size = 5, colour = "red", alpha = 0.4)
+g
+```
+
+---
+### Residual plot
+```{r, echo = FALSE, fig.height=5, fig.width=5}
+g = ggplot(data.frame(x = x, y = resid(lm(y ~ x))), 
+           aes(x = x, y = y))
+g = g + geom_hline(yintercept = 0, size = 2); 
+g = g + geom_point(size = 7, colour = "black", alpha = 0.4)
+g = g + geom_point(size = 5, colour = "red", alpha = 0.4)
+g = g + xlab("X") + ylab("Residual")
+g
+```
+
+---
+### Heteroskedasticity
+```{r, echo = FALSE, fig.height=4.5, fig.width=4.5}
+x <- runif(100, 0, 6); y <- x + rnorm(100,  mean = 0, sd = .001 * x); 
+g = ggplot(data.frame(x = x, y = y), aes(x = x, y = y))
+g = g + geom_smooth(method = "lm", colour = "black")
+g = g + geom_point(size = 7, colour = "black", alpha = 0.4)
+g = g + geom_point(size = 5, colour = "red", alpha = 0.4)
+g
+```
+**When residual increases with X**
+
+---
+### Getting rid of the blank space can be helpful
+```{r, echo = FALSE, fig.height=4.5, fig.width=4.5}
+g = ggplot(data.frame(x = x, y = resid(lm(y ~ x))), 
+           aes(x = x, y = y))
+g = g + geom_hline(yintercept = 0, size = 2); 
+g = g + geom_point(size = 7, colour = "black", alpha = 0.4)
+g = g + geom_point(size = 5, colour = "red", alpha = 0.4)
+g = g + xlab("X") + ylab("Residual")
+g
+```
+
+---
+### Diamond data residual plot
+
+```{r, echo = FALSE, fig.height=4.5, fig.width=4.5}
+diamond$e <- resid(lm(price ~ carat, data = diamond))
+g = ggplot(diamond, aes(x = carat, y = e))
+g = g + xlab("Mass (carats)")
+g = g + ylab("Residual price (SIN $)")
+g = g + geom_hline(yintercept = 0, size = 2)
+g = g + geom_point(size = 7, colour = "black", alpha=0.5)
+g = g + geom_point(size = 5, colour = "blue", alpha=0.2)
+g
+```
+
+---
+### Diamond data residual plot
+
+```{r, echo = FALSE, fig.height=4.5, fig.width=4.5}
+## price~1 gives variation about average
+e = c(resid(lm(price ~ 1, data = diamond)), 
+      resid(lm(price ~ carat, data = diamond)))
+fit = factor(c(rep("Itc", nrow(diamond)),
+               rep("Itc, slope", nrow(diamond))))
+g = ggplot(data.frame(e = e, fit = fit), aes(y = e, x = fit, fill = fit))
+g = g + geom_dotplot(binaxis = "y", size = 2, stackdir = "center", binwidth = 20)
+g = g + xlab("Fitting approach")
+g = g + ylab("Residual price")
+g
+```
+
+---
+
+
+---
+### Estimating residual variation (n-2 dof)
+* Model $Y_i = \beta_0 + \beta_1 X_i + \epsilon_i$ where $\epsilon_i \sim N(0, \sigma^2)$.
+* The ML estimate of $\sigma^2$ is **$\frac{1}{n}\sum_{i=1}^n
+e_i^2$**, the average squared residual.
+* Most people use
+  $$
+  \hat \sigma^2 = \frac{1}{n-2}\sum_{i=1}^n e_i^2.
+  $$
+* The **$n-2$** instead of $n$ is so that $E[\hat \sigma^2] =
+  \sigma^2$
+
+---
+### Diamond example
+
+```r
+y <- diamond$price; x <- diamond$carat; n <- length(y)
+fit <- lm(y ~ x)
+summary(fit)$sigma
+```
+
+```
+## [1] 31.84
+```
+
+```r
+sqrt(sum(resid(fit)^2) / (n - 2))
+```
+
+```
+## [1] 31.84
+```
+
+---
+### Total variation = regression variation + residual variation
+
+- The **total variability** in our response is the variability around an intercept
+(think mean only regression) $\sum_{i=1}^n (Y_i - \bar Y)^2$
+- The **regression variability** is the variability that is explained
+by adding the predictor $\sum_{i=1}^n (\hat Y_i - \bar Y)^2$
+- The **error variability(residual))** is what's leftover around the
+regression line $\sum_{i=1}^n (Y_i - \hat Y_i)^2$
+- Neat fact
+$$
+\sum_{i=1}^n (Y_i - \bar Y)^2 
+= \sum_{i=1}^n (Y_i - \hat Y_i)^2 + \sum_{i=1}^n  (\hat Y_i - \bar Y)^2 
+$$
+
+---
+### R squared
+- R squared is the percentage of the **total variability that is
+explained by the linear relationship with the predictor**
+
+$$ R^2 =
+\frac{\sum_{i=1}^n (\hat Y_i - \bar Y)^2}{\sum_{i=1}^n (Y_i - \bar
+Y)^2} $$
+
+
+**1-R^2 = residual variation(intercept and slope) / total variation
+(only intercept (lm(y~1))))** 
+
+---
+
+### Some facts about $R^2$
+* $R^2$ is the percentage of variation explained by the regression model.
+* $0 \leq R^2 \leq 1$
+* **$R^2$ is the sample correlation squared. ???**
+* $R^2$ can be a **misleading summary of model fit.** Look in the
+  **anscombe** library for data and the below subsection!
+  * Deleting data can inflate $R^2$.
+  * (For later.) Adding terms to a regression model always increases $R^2$.
+* Do `example(anscombe)` to see the following data.
+  * Basically same mean and variance of X and Y.
+  * Identical correlations (hence same $R^2$ ).
+  * Same linear regression relationship.
+
+---
+### `data(anscombe);example(anscombe)`
+
+```{r, echo = FALSE, fig.height=5, fig.width=5, results='hide'}
+require(stats); require(graphics); data(anscombe)
+ff <- y ~ x
+mods <- setNames(as.list(1:4), paste0("lm", 1:4))
+for(i in 1:4) {
+  ff[2:3] <- lapply(paste0(c("y","x"), i), as.name)
+  ## or   ff[[2]] <- as.name(paste0("y", i))
+  ##      ff[[3]] <- as.name(paste0("x", i))
+  mods[[i]] <- lmi <- lm(ff, data = anscombe)
+  #print(anova(lmi))
+}
+```
+
+---
+
+### How to derive R squared (Not required!)
+#### For those that are interested
+$$
+\begin{align}
+\sum_{i=1}^n (Y_i - \bar Y)^2 
+& = \sum_{i=1}^n (Y_i - \hat Y_i + \hat Y_i - \bar Y)^2 \\
+& = \sum_{i=1}^n (Y_i - \hat Y_i)^2 + 
+2 \sum_{i=1}^n  (Y_i - \hat Y_i)(\hat Y_i - \bar Y) + 
+\sum_{i=1}^n  (\hat Y_i - \bar Y)^2 \\
+\end{align}
+$$
+
+****
+#### Scratch work
+$(Y_i - \hat Y_i) = \{Y_i - (\bar Y - \hat \beta_1 \bar X) - \hat \beta_1 X_i\} = (Y_i - \bar Y) - \hat \beta_1 (X_i - \bar X)$
+
+$(\hat Y_i - \bar Y) = (\bar Y - \hat \beta_1 \bar X - \hat \beta_1 X_i - \bar Y )
+= \hat \beta_1  (X_i - \bar X)$
+
+$\sum_{i=1}^n  (Y_i - \hat Y_i)(\hat Y_i - \bar Y) 
+= \sum_{i=1}^n  \{(Y_i - \bar Y) - \hat \beta_1 (X_i - \bar X))\}\{\hat \beta_1  (X_i - \bar X)\}$
+
+$=\hat \beta_1 \sum_{i=1}^n (Y_i - \bar Y)(X_i - \bar X) -\hat\beta_1^2\sum_{i=1}^n (X_i - \bar X)^2$
+
+$= \hat \beta_1^2 \sum_{i=1}^n (X_i - \bar X)^2-\hat\beta_1^2\sum_{i=1}^n (X_i - \bar X)^2 = 0$
+
+
+---
+### The relation between R squared and r(not required?)
+#### (Again not required)
+Recall that $(\hat Y_i - \bar Y) = \hat \beta_1  (X_i - \bar X)$
+so that
+$$
+R^2 = \frac{\sum_{i=1}^n  (\hat Y_i - \bar Y)^2}{\sum_{i=1}^n (Y_i - \bar Y)^2}
+= \hat \beta_1^2  \frac{\sum_{i=1}^n(X_i - \bar X)^2}{\sum_{i=1}^n (Y_i - \bar Y)^2}
+= Cor(Y, X)^2
+$$
+Since, recall, 
+$$
+\hat \beta_1 = Cor(Y, X)\frac{Sd(Y)}{Sd(X)}
+$$
+So, $R^2$ is literally $r$ squared.
+
+## Inference c7-w1
+### Recall our model and fitted values
+* Consider the model
+$$
+Y_i = \beta_0 + \beta_1 X_i + \epsilon_i
+$$
+* $\epsilon \sim N(0, \sigma^2)$. 
+
+* We assume that the true model is known.
+* We assume that you've seen confidence intervals and hypothesis tests before.
+* $\hat \beta_0 = \bar Y - \hat \beta_1 \bar X$
+* $\hat \beta_1 = Cor(Y, X) \frac{Sd(Y)}{Sd(X)}$.
+
+---
+### Review (not required! hypothesis testing and condifence intervals)
+* Statistics like $\frac{\hat \theta - \theta}{\hat \sigma_{\hat \theta}}$ often have the following properties.
+    1. Is normally distributed and has a finite sample Student's T distribution if the  variance is replaced with a sample estimate (under normality assumptions).
+    3. Can be used to test $H_0 : \theta = \theta_0$ versus $H_a : \theta >, <, \neq \theta_0$.
+    4. Can be used to create a confidence interval for $\theta$ via $\hat \theta \pm Q_{1-\alpha/2} \hat \sigma_{\hat \theta}$
+    where $Q_{1-\alpha/2}$ is the relevant quantile from either a normal or T distribution.
+* In the case of regression with iid sampling assumptions and normal errors, our inferences will follow
+very similarily to what you saw in your inference class.
+* We won't cover asymptotics for regression analysis, but suffice it to say that under assumptions 
+on the ways in which the $X$ values are collected, the iid sampling model, and mean model, 
+the normal results hold to create intervals and confidence intervals
+
+---
+### Results
+**Variation of the slope is dependent of \sigma and inversely on
+variation of the X**
+
+* $\sigma_{\hat \beta_1}^2 = Var(\hat \beta_1) = \sigma^2 /
+  \sum_{i=1}^n (X_i - \bar X)^2$
+  
+**variation of intercepts**
+  
+* $\sigma_{\hat \beta_0}^2 = Var(\hat \beta_0)  = \left(\frac{1}{n} +
+  \frac{\bar X^2}{\sum_{i=1}^n (X_i - \bar X)^2 }\right)\sigma^2$
+  
+  
+* **In practice, $\sigma$ is replaced by its estimate.**
+
+	
+* It's probably not surprising that under iid Gaussian errors
+$$
+\frac{\hat \beta_j - \beta_j}{\hat \sigma_{\hat \beta_j}}
+$$
+follows a $t$ distribution with $n-2$ degrees of freedom and a normal distribution for large $n$.
+* This can be used to create confidence intervals and perform
+hypothesis tests.
+
+---
+### Understand output of lm(y~x) table
+
+```r
+library(UsingR); data(diamond)
+y <- diamond$price; x <- diamond$carat; n <- length(y)
+beta1 <- cor(y, x) * sd(y) / sd(x)
+beta0 <- mean(y) - beta1 * mean(x)
+e <- y - beta0 - beta1 * x
+sigma <- sqrt(sum(e^2) / (n-2)) 
+ssx <- sum((x - mean(x))^2)
+seBeta0 <- (1 / n + mean(x) ^ 2 / ssx) ^ .5 * sigma 
+seBeta1 <- sigma / sqrt(ssx)
+tBeta0 <- beta0 / seBeta0; tBeta1 <- beta1 / seBeta1
+pBeta0 <- 2 * pt(abs(tBeta0), df = n - 2, lower.tail = FALSE)
+pBeta1 <- 2 * pt(abs(tBeta1), df = n - 2, lower.tail = FALSE)
+coefTable <- rbind(c(beta0, seBeta0, tBeta0, pBeta0), c(beta1, seBeta1, tBeta1, pBeta1))
+colnames(coefTable) <- c("Estimate", "Std. Error", "t value", "P(>|t|)")
+rownames(coefTable) <- c("(Intercept)", "x")
+```
+**t-statistic is computed based on 0 intercept and 0 slope being the
+null hypothesis value**
+
+**Residual variation**
+
+	a <- resid(lm(y~x))
+	sqrt(sum(a^2)/46)
+
+---
+### Manually calculated coefTable compared with lm(y~x)
+
+
+```r
+coefTable
+```
+
+```
+            Estimate Std. Error t value   P(>|t|)
+(Intercept)   -259.6      17.32  -14.99 2.523e-19
+x             3721.0      81.79   45.50 6.751e-40
+```
+
+```r
+fit <- lm(y ~ x); 
+summary(fit)$coefficients
+```
+
+```
+            Estimate Std. Error t value  Pr(>|t|)
+(Intercept)   -259.6      17.32  -14.99 2.523e-19
+x             3721.0      81.79   45.50 6.751e-40
+```
+
+---
+### Getting a confidence interval
+	
+```r
+sumCoef <- summary(fit)$coefficients
+sumCoef[1,1] + c(-1, 1) * qt(.975, df = fit$df) * sumCoef[1, 2]
+```
+
+```
+[1] -294.5 -224.8
+```
+
+```r
+(sumCoef[2,1] + c(-1, 1) * qt(.975, df = fit$df) * sumCoef[2, 2]) / 10
+```
+
+```
+[1] 355.6 388.6
+```
+With 95% confidence, we estimate that a 0.1 carat increase in
+diamond size results in a 355.6 to 388.6 increase in price in (Singapore) dollars.
+
+---
+### Prediction of outcomes
+* Consider predicting $Y$ at a value of $X$
+  * Predicting the price of a diamond given the carat
+  * Predicting the height of a child given the height of the parents
+* The obvious estimate for prediction at point $x_0$ is 
+$$
+\hat \beta_0 + \hat \beta_1 x_0
+$$
+* A standard error is needed to create a prediction interval.
+* There's a distinction between intervals for the regression
+  line at point $x_0$ and the prediction of what a $y$ would be
+  at point $x_0$. 
+* Line at $x_0$ se, $\hat \sigma\sqrt{\frac{1}{n} +  \frac{(x_0 - \bar X)^2}{\sum_{i=1}^n (X_i - \bar X)^2}}$
+* Prediction interval se at $x_0$, $\hat \sigma\sqrt{1 + \frac{1}{n} + \frac{(x_0 - \bar X)^2}{\sum_{i=1}^n (X_i - \bar X)^2}}$
+
+- There are two things we are interested as part of the prediction
+  interval we see in the lm plots with ggplot,
+
+	- The confidence interval for the line itself at x0 keeping in
+      mind a population
+	  
+	- the prediction interval at x0 keeping in mind the population. 
+
+**Prediction variance varies with the following:**
+
+- $\hat \sigma\$; Increases with less R^2 error.
+
+- $\frac{1}{n}$ goes down with more samples! sqrt(1/n) is always part
+  of it.
+
+- $\frac{(x_0 - \bar X)^2$; Best prediction when x0 is closest to average
+
+- $\sum_{i=1}^n (X_i - \bar X)^2}$ More variability in the X term
+  leads to less variability in the in the interval.
+
+---
+### Plotting the prediction intervals and confidence intervals
+
+```{r, fig.height=5, fig.width==5, echo = FALSE, results='hide'}
+library(ggplot2)
+newx = data.frame(x = seq(min(x), max(x), length = 100))
+p1 = data.frame(predict(fit, newdata= newx,interval = ("confidence")))
+p2 = data.frame(predict(fit, newdata = newx,interval = ("prediction")))
+p1$interval = "confidence"
+p2$interval = "prediction"
+p1$x = newx$x
+p2$x = newx$x
+dat = rbind(p1, p2)
+names(dat)[1] = "y"
+g = ggplot(dat, aes(x = x, y = y))
+g = g + geom_ribbon(aes(ymin = lwr, ymax = upr, fill = interval), alpha = 0.2) 
+g = g + geom_line()
+g = g + geom_point(data = data.frame(x = x, y=y), aes(x = x, y = y), size = 4)
+g
+```
+
+http://www2.stat.duke.edu/~tjl13/s101/slides/unit6lec3H.pdf
+
+Is very important especially this following line:
+
+> Two type of intervals available:
+> - Confidence interval for the average foster twin’s IQ
+> - Prediction interval for a single foster twin’s IQ
+
+Average or slope is associated with confidence interval, and
+prediction is associated with single or expected value
+
+
+> A confidence interval gives a range for $\text{E}[y \mid x]$, as you
+> say. A prediction interval gives a range for $y$ itself. Naturally,
+> our best guess for $y$ is $\text{E}[y \mid x]$, so the intervals
+> will both be centered around the same value, $x\hat{\beta}$.
+
+
+### Predicting with new data
+
+Absolute nonsense with respect to R's way of work!
+https://stackoverflow.com/questions/15115909/feeding-newdata-to-r-predict-function
+
+	
+	 Note:
+
+     Variables are first looked for in ‘newdata’ and then searched for
+     in the usual way (which will include the environment of the
+     formula used in the fit).  A warning will be given if the
+     variables found are not of the same length as those in ‘newdata’
+     if it was supplied.
+  
+So if you do 
+	
+	newx <- 3
+	predict(fit, newdata=newx, interval=("prediction")) 
+
+This wont work. R is looking for the x variable name in newX
+
+	newx<-data.frame(x=x0)
+	predict(fit, newdata=newx, interval=("prediction")) 
+	
+works! my god!
+
+---
+### Discussion an agent and Bcaffo's understanding!
+
+* Both intervals have varying widths.
+  * Least width at the mean of the Xs.
+* We are quite confident in the regression line, so that 
+  interval is very narrow.
+  * If we knew $\beta_0$ and $\beta_1$ this interval would have zero width.
+* The prediction interval must incorporate the variabilibity
+  in the data around the line.
+  * Even if we knew $\beta_0$ and $\beta_1$ this interval would still have width.
+
+
+**Plotting this shows a couple of things:**
+
+- salmon bands are thin and represent the prediction of the line
+  itself (confidence)
+  
+  - the confidence bands are thinner than the prediction bands.
+  
+- confidence bands (salmon)
+
+	- The confidence bands  show the uncertainty in predicting the
+      line itself. If there are more and more points this uncertainty
+      would reduce. It is about beta1 the slope. 
+
+	
+	- the prediction bands show the uncertainty in predicting Y0. They
+      will always exist even when there are a million points as the
+      linear regression cannot account for everything.
+	  
+- they grow smaller at the mean and then become big away from the
+  center.
+  
+---
+
+### In R
+```{r, fig.height=5, fig.width=5, echo=FALSE,results='hide'}
+newdata <- data.frame(x = xVals)
+p1 <- predict(fit, newdata, interval = ("confidence"))
+p2 <- predict(fit, newdata, interval = ("prediction"))
+plot(x, y, frame=FALSE,xlab="Carat",ylab="Dollars",pch=21,col="black", bg="lightblue", cex=2)
+abline(fit, lwd = 2)
+lines(xVals, p1[,2]); lines(xVals, p1[,3])
+lines(xVals, p2[,2]); lines(xVals, p2[,3])
+```
+  
+### Based on khan academy
+
+
+
+## Quiz c7-w2
+
+1. Consider the following data with x as the predictor and y as as the
+   outcome. Give a P-value for the two sided hypothesis test of
+   whether β1 ​from a linear regression model is 0 or not.
+   
+		x <- c(0.61, 0.93, 0.83, 0.35, 0.54, 0.16, 0.91, 0.62, 0.62)
+		y <- c(0.67, 0.84, 0.6, 0.18, 0.85, 0.47, 1.1, 0.65, 0.36)
+		
+	
+		summary(lm(y ~ x))$coef
+		
+2. Consider the previous problem, give the estimate of the residual
+   standard deviation.
+   
+		summary(lm(y ~ x))$sigma
+		
+3. In the \verb|mtcars|mtcars data set, fit a linear regression model
+   of weight (predictor) on mpg (outcome). Get a 95% confidence
+   interval for the **expected mpg** at the average weight. What is the
+   lower endpoint?
+   
+		data(mtcars)
+		fit <- lm(mpg ~ I(wt - mean(wt)), data = mtcars)
+		confint(fit)
+		
+		or
+		fit <- lm(mpg~wt,data=mtcars)
+		predict(fit,newdata=data.frame(wt=mean(df$wt)),
+		interval="confidence")
+		
+4. Refer to the previous question. Read the help file for
+   \verb|mtcars|mtcars. What is the weight coefficient interpreted as?
+   
+   The estimated expected change in mpg per 1,000 lb increase in
+   weight.
+
+5. Consider again the \verb|mtcars|mtcars data set and a linear
+   regression model with mpg as predicted by weight (1,000 lbs). A new
+   car is coming weighing 3000 pounds. Construct a 95% prediction
+   interval for its mpg. What is the upper endpoint?
+   
+		fit <- lm(mpg ~ wt, data = mtcars)
+		predict(fit, newdata = data.frame(wt = 3), interval = "prediction")
+
+6. Consider again the \verb|mtcars|mtcars data set and a linear
+   regression model with mpg as predicted by weight (in 1,000 lbs). A
+   “short” ton is defined as 2,000 lbs. Construct a 95% confidence
+   interval for the expected change in mpg per 1 short ton increase in
+   weight. Give the lower endpoint.
+   
+		fit <- lm(mpg ~ wt, data = mtcars)
+		confint(fit)[2, ] * 2
+		
+		fit <- lm(mpg ~ I(wt * 0.5), data = mtcars)
+		confint(fit)[2, ]
+		
+	confint gives info about confidence of the slope and intercept as
+    is asked in the question...
+	
+		            Estimate Std. Error t value Pr(>|t|)    
+		(Intercept)   37.285      1.878  19.858  < 2e-16 ***
+		x            -10.689      1.118  -9.559 1.29e-10 ***
+		
+		
+		-10.689+ c(1,-1)*1.118* qt(0.975,30) gives the same values!
+		
+		
+7. If my X from a linear regression is measured in centimeters and I
+   convert it to meters what would happen to the slope coefficient?
+   
+		It would get multiplied by 100
+
+8. I have an outcome, YY, and a predictor, XX and fit a linear
+   regression model with Y=β0+β1X+ϵ to obtain β^0 and β^1. What would
+   be the consequence to the subsequent slope and intercept if I were
+   to refit the model with a new regressor, X + cX+c for some
+   constant, cc?
+   
+   The new intercept would be β^0−cβ^1
+   
+9. Refer back to the mtcars data set with mpg as an outcome and weight
+   (wt) as the predictor. About what is the ratio of the the sum of
+   the squared errors, ∑ni=1(Yi−Y^i)2 when comparing a model with just
+   an intercept (denominator) to the model with the intercept and
+   slope (numerator)?
+   
+   
+		fit1 <- lm(mpg ~ wt, data = mtcars)
+		fit2 <- lm(mpg ~ 1, data = mtcars)
+		1 - summary(fit1)$r.squared
+		
+		
+		sse1 <- sum((predict(fit1) - mtcars$mpg)^2)
+		sse2 <- sum((predict(fit2) - mtcars$mpg)^2)
+		sse1/sse2
+
+10. Do the residuals always have to sum to 0 in linear regression?
+
+	If an intercept is included, then they will sum to 0
+
+
+3, ~~6~~ except for Xa and beta/a, 7, and 5 with the confidence intervals are quite a mistery!
+
+### Summary of inference
+
+There seem to be 3 confidence intervals:
+
+1. Confint of slope
+
+	Can be found from `confint(fit)` or from summary of fit
+
+		fit <- lm(mpg ~ I(wt * 0.5), data = mtcars)
+		confint(fit)[2, ]
+			
+		OR
+		
+		            Estimate Std. Error t value Pr(>|t|)    
+		(Intercept)   37.285      1.878  19.858  < 2e-16 ***
+		x            -10.689      1.118  -9.559 1.29e-10 ***
+		
+		
+		-10.689+ c(1,-1)*1.118* qt(0.975,30) gives the same values!
+
+2. Conf interval of expected value (aka, average)
+
+	This is when you want to find the variation of the avg of Y at an
+    x\_i
+	
+	This can be found with predict variable, but sometimes also with
+    confint which is confusing to me. The relation between expected
+    value and slope is not clear!
+	
+	
+		data(mtcars)
+		fit <- lm(mpg ~ I(wt - mean(wt)), data = mtcars)
+		confint(fit)
+		
+		or
+		fit <- lm(mpg~wt,data=mtcars)
+		predict(fit,newdata=data.frame(wt=mean(df$wt)),
+		interval="confidence")
+		
+	*I don't get the difference but whatever*
+
+3. Prediction interval for the actual value of Y and not the expected
+   value
+   
+		fit <- lm(mpg ~ wt, data = mtcars)
+		predict(fit, newdata = data.frame(wt = 3), interval = "prediction")
+
+
+This is it! for now. As needed we can go into depths!
+
+**Note**
+
+Ths summary of fit gives a lot of info. The t.value is the value under
+the null hypothesis and not the 95% confidence interval thingy!
+
+		            Estimate Std. Error t value Pr(>|t|)    
+		(Intercept)   37.285      1.878  19.858  < 2e-16 ***
+		x            -10.689      1.118  -9.559 1.29e-10 ***
+
+
+That about sums it up! Cheers!
+
+
+## c7-w3 multivariate regression
+
+### Multivariable regression analyses Why?
+* If I were to present evidence of a relationship between breath mint
+useage (mints per day, X) and pulmonary function (measured in FEV),
+you would be skeptical.
+  * Likely, you would say, 'smokers tend to use more breath mints than
+    non smokers, smoking is related to a loss in pulmonary
+    function. That's probably the culprit.'
+  * If asked what would convince you, you would likely say, 'If
+    non-smoking breath mint users had lower lung function than
+    non-smoking non-breath mint users and, similarly, if smoking
+    breath mint users had lower lung function than smoking non-breath
+    mint users, I'd be more inclined to believe you'.
+* In other words, to even consider my results, I would have to
+  demonstrate that they hold while holding smoking status fixed.
+
+---
+### Multivariable regression analyses Why people are interested?
+* An insurance company is interested in how last year's claims can
+  predict a person's time in the hospital this year.
+  * They want to use an enormous amount of data contained in claims to
+    predict a single number. Simple linear regression is not equipped
+    to handle more than one predictor.
+* How can one generalize SLR to incoporate lots of regressors for the
+purpose of prediction?
+* What are the consequences of adding lots of regressors? 
+
+  * Surely there must be consequences to throwing variables in that
+    aren't related to Y?
+  * Surely there must be consequences to omitting variables that are?
+
+
+**With sufficient random vectors you can come up with 0 residuals**
+
+---
+### The linear model Equations
+
+* The general linear model extends simple linear regression (SLR) by
+adding terms linearly into the model.  $$ Y_i = \beta_1 X_{1i} +
+\beta_2 X_{2i} + \ldots + \beta_{p} X_{pi} + \epsilon_{i} =
+\sum_{k=1}^p X_{ik} \beta_j + \epsilon_{i} $$
+
+	**Outcome = Predictor * coefficients**
+
+* Here $X_{1i}=1$ typically, so that an intercept is included.
+
+
+
+* **Least squares** (and hence ML estimates under iid Gaussianity of
+the errors) minimizes
+
+	**$$ \sum_{i=1}^n \left(Y_i - \sum_{k=1}^p X_{ki} \beta_j\right)^2
+$$**
+
+	**Minimizing overall error by looking at error at each point 'i',
+    and over** 
+
+
+* Note, the important linearity is linearity in the coefficients.
+Thus $$ Y_i = \beta_1 X_{1i}^2 + \beta_2 X_{2i}^2 + \ldots + \beta_{p}
+X_{pi}^2 + \epsilon_{i} $$ is still a linear model. (We've just
+squared the elements of the predictor variables.)
+
+	**Whether the same beta holds when you square the variable, am not
+sure! but moving on!** 
+
+---
+
+### How to get estimates Expected values Least squares!
+
+* Recall that the LS estimate for regression through the origin,
+  $E[Y_i]=X_{1i}\beta_1$, was $\sum X_i Y_i / \sum X_i^2$.
+* Let's consider two regressors, $E[Y_i] = X_{1i}\beta_1 +
+  X_{2i}\beta_2 = \mu_i$.
+
+
+*** Least squares tries to minimize**
+
+	$$ \sum_{i=1}^n (Y_i - X_{1i} \beta_1 - X_{2i} \beta_2)^2 $$
+
+---
+### Result
+
+$$\hat \beta_1 = \frac{\sum_{i=1}^n e_{i, Y | X_2} e_{i, X_1 |
+X_2}}{\sum_{i=1}^n e_{i, X_1 | X_2}^2}$$
+
+
+* **That is, the regression estimate for $\beta_1$ is the regression
+through the origin estimate having regressed $X_2$ out of both the
+response and the predictor.**
+
+	**What does this even mean?**
+	
+* (Similarly, the regression estimate for $\beta_2$ is the regression
+  through the origin estimate having regressed $X_1$ out of both the
+  response and the predictor.)
+* More generally, multivariate regression estimates are exactly those
+having removed the linear relationship of the other variables from
+both the regressor and response.
+
+---
+### Example with two variables, simple linear regression (**important**)
+
+
+* $Y_{i} = \beta_1 X_{1i} + \beta_2 X_{2i}$ where **$X_{2i} = 1$ is an
+  intercept term.**
+  
+  Think of X2 as the number of people who smoke, you fix it at 1
+  person smoking (aka the intercept term!)
+  
+* Notice the fitted coefficient of $X_{2i}$ on $Y_{i}$ is $\bar Y$
+    * The residuals $e_{i, Y | X_2} = Y_i - \bar Y$
+	
+* Notice the fitted coefficient of $X_{2i}$ on $X_{1i}$ is $\bar X_1$
+    * The residuals $e_{i, X_1 | X_2}= X_{1i} - \bar X_1$
+	
+* Thus $$ \hat \beta_1 = \frac{\sum_{i=1}^n e_{i, Y | X_2} e_{i, X_1 |
+X_2}}{\sum_{i=1}^n e_{i, X_1 | X_2}^2} = \frac{\sum_{i=1}^n (X_i -
+\bar X)(Y_i - \bar Y)}{\sum_{i=1}^n (X_i - \bar X)^2} = Cor(X, Y)
+\frac{Sd(Y)}{Sd(X)} $$
+
+- choose an intercept value for X2?
+
+- get rid of X2 by centering Y and X
+
+- compute the "origin intercept lm" for yc~xc, 
+
+I don't get it though!
+
+- and same beta formula with correlation
+
+---
+### The general case
+* Least squares solutions have to minimize $$ \sum_{i=1}^n (Y_i -
+X_{1i}\beta_1 - \ldots - X_{pi}\beta_p)^2 $$
+* The least squares estimate for the coefficient of a multivariate
+  regression model is exactly regression through the origin with the
+  linear relationships with the other regressors removed from both the
+  regressor and outcome by taking residuals.?????????????
+* In this sense, multivariate regression "adjusts" a coefficient for
+  the linear impact of the other variables.
+
+beta 1 -> All the variable from X2 to Xp have been "linearly" removed
+from Y and X1
+
+---
+
+### Demonstration that it works using an example
+#### Linear model with two variables
+```{r}
+n = 100; x = rnorm(n); x2 = rnorm(n); x3 = rnorm(n)
+y = 1 + x + x2 + x3 + rnorm(n, sd = .1)
+ey = resid(lm(y ~ x2 + x3))
+ex = resid(lm(x ~ x2 + x3))
+sum(ey * ex) / sum(ex ^ 2)
+coef(lm(ey ~ ex - 1))
+coef(lm(y ~ x + x2 + x3)) 
+```
+
+So what you do is remove x2 and x3 aka, take residuals from a fit on
+them. This way the residuals ey and ex are without x2 and x3
+contribution. and why we then do **-1** is beyond me!
+
+
+---
+### Interpretation of the coeficients
+$$E[Y | X_1 = **x_1**, \ldots, X_p = x_p] = \sum_{k=1}^p x_{k}
+\beta_k$$
+
+$$ E[Y | X_1 = **x_1 + 1**, \ldots, X_p = x_p] = (x_1 + 1) \beta_1 +
+\sum_{k=2}^p x_{k} \beta_k $$
+
+$$ **E[Y**| X_1 = **x_1 + 1**, \ldots, X_p = x_p] **-** **E[Y |** X_1
+= **x_1**, \ldots, X_p = x_p]$$ $$= (x_1 + 1) \beta_1 + \sum_{k=2}^p
+x_{k} \beta_k + \sum_{k=1}^p x_{k} \beta_k **= \beta_1** $$
+
+**So that the interpretation of a multivariate regression coefficient is
+the expected change in the response per unit change in the regressor,
+holding all of the other regressors fixed.**
+
+In the next lecture, we'll do examples and go over context-specific
+interpretations.
+
+---
+### Fitted values, residuals and residual variation
+All of our SLR quantities can be extended to linear models
+* Model $Y_i = \sum_{k=1}^p X_{ik} \beta_{k} + \epsilon_{i}$ where
+  $\epsilon_i \sim N(0, \sigma^2)$
+* Fitted responses $\hat Y_i = \sum_{k=1}^p X_{ik} \hat \beta_{k}$
+* Residuals $e_i = Y_i - \hat Y_i$
+* Variance estimate $\hat \sigma^2 = \frac{1}{n-p} \sum_{i=1}^n e_i
+  ^2$
+* To get predicted responses at new values, $x_1, \ldots, x_p$, simply
+  plug them into the linear model $\sum_{k=1}^p x_{k} \hat \beta_{k}$
+* Coefficients have standard errors, $\hat \sigma_{\hat \beta_k}$, and
+$\frac{\hat \beta_k - \beta_k}{\hat \sigma_{\hat \beta_k}}$ follows a
+$T$ distribution with $n-p$ degrees of freedom.
+* Predicted responses have standard errors and we can calculate
+  predicted and expected response intervals.
+
+---
+### Linear models
+* Linear models are the single most important applied statistical and
+  machine learning techniqe, *by far*.
+* Some amazing things that you can accomplish with linear models
+  * Decompose a signal into its harmonics.
+  * Flexibly fit complicated functions.
+  * Fit factor variables as predictors.
+  * Uncover complex multivariate relationships with the response.
+  * Build accurate prediction models.
+## Multivariate examples (c7-w3)
+### Data set for discussion 
+#### `require(datasets); data(swiss); ?swiss`
+Standardized fertility measure and socio-economic indicators for each of 47 French-speaking provinces of Switzerland at about 1888.
+
+A data frame with 47 observations on 6 variables, each of which is in percent, i.e., in [0, 100].
+
+* [,1]   Fertility          a common standardized fertility measure
+* [,2]   Agriculture        % of males involved in agriculture as occupation
+* [,3]	 Examination        % draftees receiving highest mark on army examination
+* [,4]	 Education          % education beyond primary school for draftees
+* [,5]	 Catholic           % catholic (as opposed to protestant)
+* [,6]	 Infant.Mortality   live births who live less than 1 year
+
+All variables but Fertility give proportions of the population.
+
+---
+
+**Nice plot that shows all variations**
+
+```{r, fig.height=6, fig.width=10, echo = FALSE}
+require(datasets); data(swiss); require(GGally); require(ggplot2)
+g = ggpairs(swiss, lower = list(continuous = "smooth"),params = c(method = "loess"))
+g
+```
+
+---
+
+### Calling `lm` for all variables "lm(y~.)"
+
+`summary(lm(Fertility ~ . , data = swiss))`
+
+```{r, echo = FALSE}
+summary(lm(Fertility ~ . , data = swiss))$coefficients
+```
+Agriculture -0.17 slope without the contributions of other variables!
+
+---
+### Example interpretation (importance of removing variables)
+
+* Agriculture is expressed in percentages (0 - 100)
+* **Estimate is -0.1721.**
+* Our models estimates an expected 0.17 decrease in standardized
+  fertility for every 1% increase in percentage of males involved in
+  agriculture in holding the remaining variables constant.
+* The t-test for $H_0: \beta_{Agri} = 0$ versus $H_a: \beta_{Agri} \neq 0$ is  significant.
+* Interestingly, the unadjusted estimate is 
+
+```{r}
+summary(lm(Fertility ~ Agriculture, data = swiss))$coefficients
+```
+
+**0.19**
+
+"If there hasn't been randomization to protect you from the founding
+you are going to have to come up with a dynamic process of choosing
+which variables etc..."
+
+---
+**How can adjustment reverse the sign of an effect? Let's try a
+simulation.**
+
+```{r, echo = TRUE}
+n <- 100; x2 <- 1 : n; x1 <- .01 * x2 + runif(n, -.1, .1); y = -x1 + x2 + rnorm(n, sd = .01)
+summary(lm(y ~ x1))$coef
+summary(lm(y ~ x1 + x2))$coef
+```
+
+**First output coeff is 95 instead of "-1". Quite a blunder! The linear
+model is picking up on the large contribution of x2 on Y and making
+its own fit which is absolutely not correct. x2 is uniform noise which
+spikes up the value of x1**
+
+---
+
+**Plot of y vs x1 and x2 to see all trends in one image!**
+
+Does show the "fake relationship" between y and x1, we also see how y
+is dependent on x2 and x1 is dependent on x2.
+
+```{r, echo = FALSE, fig.height=5, fig.width=10, results = 'show'}
+dat = data.frame(y = y, x1 = x1, x2 = x2, ey = resid(lm(y ~ x2)), ex1
+= resid(lm(x1 ~ x2)))
+
+library(ggplot2)
+g = ggplot(dat, aes(y = y, x = x1, colour = x2))
+g = g + geom_point(colour="grey50", size = 5) + geom_smooth(method = lm, se = FALSE, colour = "black") 
+g = g + geom_point(size = 4) 
+g
+```
+
+So we need to remove the effect of x2 from both y and x1 i.e., by
+taking the residual, which is the left over data.
+```{r, echo = FALSE, fig.height=5, fig.width=10, results = 'show'}
+g2 = ggplot(dat, aes(y = ey, x = ex1, colour = x2))  
+g2 = g2 + geom_point(colour="grey50", size = 5) + geom_smooth(method = lm, se = FALSE, colour = "black") + geom_point(size = 4) 
+g2
+```
+
+It is very clear with this plot that, x2 is now properly randomized
+and the true relationship pops out.
+
+---
+	
+### Back to this data set
+* The sign reverses itself with the inclusion of Examination and
+  Education.
+* The percent of males in the province working in agriculture is
+  negatively related to educational attainment (correlation of `r
+  cor(swiss$Agriculture, swiss$Education)`) and Education and
+  Examination (correlation of `r cor(swiss$Education,
+  swiss$Examination)`) are obviously measuring similar things.
+  * Is the positive marginal an artifact for not having accounted for,
+    say, Education level? (Education does have a stronger effect, by
+    the way.)
+* At the minimum, anyone claiming that provinces that are more
+  agricultural have higher fertility rates would immediately be open
+  to criticism.
+
+---
+### What if we include an unnecessary variable?
+z adds no new linear information, since it's a linear
+combination of variables already included. R just drops 
+terms that are linear combinations of other terms.
+```{r, echo = TRUE}
+z <- swiss$Agriculture + swiss$Education
+lm(Fertility ~ . + z, data = swiss)
+```
+
+When Z is a linear combination of other variables then you get NA when
+you remove the components of z to do lm(y~z).
+
+---
+### Dummy variables are smart
+
+
+* Consider the linear model $$ Y_i = \beta_0 + X_{i1} \beta_1 +
+\epsilon_{i} $$ where each **$X_{i1}$ is binary** so that it is a 1 if
+measurement $i$ is in a group and 0 otherwise. (Treated versus not in
+a clinical trial, for example.)
+* Then for people in the group $E[Y_i] = \beta_0 + \beta_1$
+* And for people not in the group $E[Y_i] = \beta_0$
+* The LS fits work out to be $\hat \beta_0 + \hat \beta_1$ is the mean
+  for those in the group and $\hat \beta_0$ is the mean for those not
+  in the group.
+* $\beta_1$ is interpretted as the increase or decrease in the mean
+  comparing those in the group to those not.
+* Note including a binary variable that is 1 for those not in the
+  group would be redundant. It would create three parameters to
+  describe two means. ???
+  
+- basically we can lm binary factor variables too!  They give means
+and change compared to the lower group!
+
+---
+### More than 2 levels
+
+* Consider a multilevel factor level. For didactic reasons, let's say
+  a three level factor (example, US political party affiliation:
+  Republican, Democrat, Independent)
+* $Y_i = \beta_0 + X_{i1} \beta_1 + X_{i2} \beta_2 + \epsilon_i$.
+* $X_{i1}$ is 1 for Republicans and 0 otherwise.
+* $X_{i2}$ is 1 for Democrats and 0 otherwise.
+* If $i$ is Republican $E[Y_i] = \beta_0 +\beta_1$
+* If $i$ is Democrat $E[Y_i] = \beta_0 + \beta_2$.
+* If $i$ is Independent $E[Y_i] = \beta_0$.
+* $\beta_1$ compares Republicans to Independents.
+* $\beta_2$ compares Democrats to Independents.
+* $\beta_1 - \beta_2$ compares Republicans to Democrats.
+* (Choice of reference category changes the interpretation.)
+
+**Warning:**What you choose as your reference somehow has big effect on how you
+interpret! What does it mean? maybe the examples show more info!
+
+
+---
+### Insect Sprays (Understanding factors and dummy variables!)
+```{r, echo = FALSE, fig.height=5, fig.width=5}
+require(datasets);data(InsectSprays); require(stats); require(ggplot2)
+g = ggplot(data = InsectSprays, aes(y = count, x = spray, fill  = spray))
+g = g + geom_violin(colour = "black", size = 2)
+g = g + xlab("Type of spray") + ylab("Insect count")
+g
+```
+
+```
+            Estimate Std. Error t value  Pr(>|t|)
+(Intercept)  14.5000      1.132 12.8074 1.471e-19
+sprayB        0.8333      1.601  0.5205 6.045e-01
+sprayC      -12.4167      1.601 -7.7550 7.267e-11
+sprayD       -9.5833      1.601 -5.9854 9.817e-08
+sprayE      -11.0000      1.601 -6.8702 2.754e-09
+sprayF        2.1667      1.601  1.3532 1.806e-01
+```
+
+Spray is missing as it is the reference B0 with mean of 14.5 and
+everything else is compared to it, i.e., mean of spray b is 14.5+0.833
+etc...
+
+Spray A is the dummy variable!
+
+---
+#### Linear model fit, group A is the reference
+```{r, echo= TRUE}
+summary(lm(count ~ spray, data = InsectSprays))$coef
+```
+
+---
+#### Hard coding the dummy variables
+```{r, echo= TRUE}
+summary(lm(count ~ 
+             I(1 * (spray == 'B')) + I(1 * (spray == 'C')) + 
+             I(1 * (spray == 'D')) + I(1 * (spray == 'E')) +
+             I(1 * (spray == 'F'))
+           , data = InsectSprays))$coef
+```
+
+---
+#### What if we include all 6?
+```{r, echo= TRUE}
+summary(lm(count ~ 
+   I(1 * (spray == 'B')) + I(1 * (spray == 'C')) +  
+   I(1 * (spray == 'D')) + I(1 * (spray == 'E')) +
+   I(1 * (spray == 'F')) + I(1 * (spray == 'A')), data = InsectSprays))$coef
+```
+
+---
+#### What if we omit the intercept?
+```{r, echo= TRUE}
+summary(lm(count ~ spray - 1, data = InsectSprays))$coef
+library(dplyr)
+summarise(group_by(InsectSprays, spray), mn = mean(count))
+```
+When you omit the intercept its all about 0. All the P values and t
+statistics are about a null hypothesis 0 instead of spray A.
+
+---
+### Reordering the levels
+```{r}
+spray2 <- relevel(InsectSprays$spray, "C")
+summary(lm(count ~ spray2, data = InsectSprays))$coef
+```
+
+---
+
+#### Summary
+* If we treat Spray as a factor, R includes an intercept and omits the alphabetically first level of the factor.
+  * All t-tests are for comparisons of Sprays versus Spray A.
+  * Emprirical mean for A is the intercept.
+  * Other group means are the itc plus their coefficient. 
+* If we omit an intercept, then it includes terms for all levels of the factor. 
+  * Group means are the coefficients. 
+  * Tests are tests of whether the groups are different than zero. (Are the expected counts zero for that spray.)
+* If we want comparisons between, Spray B and C, say we could refit the model with C (or B) as the reference level. 
+
+
+---
+### Other thoughts on this data
+* Counts are bounded from below by 0, violates the assumption of normality of the errors. 
+  * Also there are counts near zero, so both the actual assumption and the intent of the assumption are violated.
+* Variance does not appear to be constant.
+* Perhaps taking logs of the counts would help. 
+  * There are 0 counts, so maybe log(Count + 1)
+* Also, we'll cover Poisson GLMs for fitting count data.
+
+---
+
+### Modelling the data as b0+b1X1+b2X2 and b0+...+b3X1X2
+
+Two types of modelling is possible leading to either 
+
+one intercept and one slope
+
+or
+
+2 intercepts and 2 different slopes
+
+#### Recall the `swiss` data set
+
+```{r}
+library(datasets); data(swiss)
+head(swiss)
+```
+
+---
+#### Create a binary variable
+```{r}
+library(dplyr); 
+swiss = mutate(swiss, CatholicBin = 1 * (Catholic > 50))
+```
+
+---
+#### Plot the data 
+
+```{r, fig.height=5, fig.width=8, echo = FALSE}
+g = ggplot(swiss, aes(x = Agriculture, y = Fertility, colour = factor(CatholicBin)))
+g = g + geom_point(size = 6, colour = "black") + geom_point(size = 4)
+g = g + xlab("% in Agriculture") + ylab("Fertility")
+g
+```
+
+---
+#### No effect of religion
+```{r, echo = TRUE}
+summary(lm(Fertility ~ Agriculture, data = swiss))$coef
+```
+
+---
+#### The associated fitted line
+```{r, echo = FALSE, fig.width=8, fig.height=5}
+fit = lm(Fertility ~ Agriculture, data = swiss)
+g1 = g
+g1 = g1 + geom_abline(intercept = coef(fit)[1], slope = coef(fit)[2], size = 2)
+g1
+```
+
+
+---
+#### Parallel lines, i.e., same slope different intercepts (using +)
+```{r, echo = TRUE}
+summary(lm(Fertility ~ Agriculture + factor(CatholicBin), data = swiss))$coef
+```
+
+```{r, echo = FALSE, fig.width=5, fig.height=4}
+fit = lm(Fertility ~ Agriculture + factor(CatholicBin), data = swiss)
+g1 = g
+g1 = g1 + geom_abline(intercept = coef(fit)[1], slope = coef(fit)[2], size = 2)
+g1 = g1 + geom_abline(intercept = coef(fit)[1] + coef(fit)[3], slope = coef(fit)[2], size = 2)
+g1
+```
+
+1. b0 + b1 X + b2 *0
+2. b0 + b1 X + b2 *1
+
+---
+#### Lines with different slopes and intercepts (using * instead of +)
+
+```{r, echo = TRUE}
+summary(lm(Fertility ~ Agriculture * factor(CatholicBin), data = swiss))$coef
+```
+
+```{r, echo = FALSE, fig.width=5, fig.height=4}
+fit = lm(Fertility ~ Agriculture * factor(CatholicBin), data = swiss)
+g1 = g
+g1 = g1 + geom_abline(intercept = coef(fit)[1], slope = coef(fit)[2], size = 2)
+g1 = g1 + geom_abline(intercept = coef(fit)[1] + coef(fit)[3], 
+                          slope = coef(fit)[2] + coef(fit)[4], size = 2)
+g1
+```
+
+---
+#### Just to show you it can be done
+```{r, echo = TRUE}
+summary(lm(Fertility ~ Agriculture + Agriculture : factor(CatholicBin), data = swiss))$coef
+```
+## adjustment (playing with different variables in lm) c7-w3
+
+### Consider the following simulated data
+Code for the first plot, rest omitted
+(See the git repo for the rest of the code.)
+```
+n <- 100; t <- rep(c(0, 1), c(n/2, n/2)); x <- c(runif(n/2), runif(n/2));
+beta0 <- 0; beta1 <- 2; tau <- 1; sigma <- .2
+y <- beta0 + x * beta1 + t * tau + rnorm(n, sd = sigma)
+plot(x, y, type = "n", frame = FALSE)
+abline(lm(y ~ x), lwd = 2)
+abline(h = mean(y[1 : (n/2)]), lwd = 3)
+abline(h = mean(y[(n/2 + 1) : n]), lwd = 3)
+fit <- lm(y ~ x + t)
+abline(coef(fit)[1], coef(fit)[2], lwd = 3)
+abline(coef(fit)[1] + coef(fit)[3], coef(fit)[2], lwd = 3)
+points(x[1 : (n/2)], y[1 : (n/2)], pch = 21, col = "black", bg = "lightblue", cex = 2)
+points(x[(n/2 + 1) : n], y[(n/2 + 1) : n], pch = 21, col = "black", bg = "salmon", cex = 2)
+```
+
+
+---
+### Simulation 1
+```{r, fig.height=5, fig.width=5, echo = FALSE, results='hide'}
+n <- 100; t <- rep(c(0, 1), c(n/2, n/2)); x <- c(runif(n/2), runif(n/2));
+beta0 <- 0; beta1 <- 2; tau <- 1; sigma <- .2
+y <- beta0 + x * beta1 + t * tau + rnorm(n, sd = sigma)
+plot(x, y, type = "n", frame = FALSE)
+abline(lm(y ~ x), lwd = 2)
+abline(h = mean(y[1 : (n/2)]), lwd = 3)
+abline(h = mean(y[(n/2 + 1) : n]), lwd = 3)
+fit <- lm(y ~ x + t)
+abline(coef(fit)[1], coef(fit)[2], lwd = 3)
+abline(coef(fit)[1] + coef(fit)[3], coef(fit)[2], lwd = 3)
+points(x[1 : (n/2)], y[1 : (n/2)], pch = 21, col = "black", bg = "lightblue", cex = 2)
+points(x[(n/2 + 1) : n], y[(n/2 + 1) : n], pch = 21, col = "black", bg = "salmon", cex = 2)
+```
+
+---
+### Discussion
+#### Some things to note in this simulation
+* The X variable is unrelated to group status
+* The X variable is related to Y, but the intercept depends
+  on group status.
+* The group variable is related to Y.
+  * The relationship between group status and Y is constant depending on X.
+  * The relationship between group and Y disregarding X is about the same as holding X constant
+
+---
+### Simulation 2
+```{r, fig.height=5, fig.width=5, echo = FALSE, results='hide'}
+n <- 100; t <- rep(c(0, 1), c(n/2, n/2)); x <- c(runif(n/2), 1.5 + runif(n/2));
+beta0 <- 0; beta1 <- 2; tau <- 0; sigma <- .2
+y <- beta0 + x * beta1 + t * tau + rnorm(n, sd = sigma)
+plot(x, y, type = "n", frame = FALSE)
+abline(lm(y ~ x), lwd = 2)
+abline(h = mean(y[1 : (n/2)]), lwd = 3)
+abline(h = mean(y[(n/2 + 1) : n]), lwd = 3)
+fit <- lm(y ~ x + t)
+abline(coef(fit)[1], coef(fit)[2], lwd = 3)
+abline(coef(fit)[1] + coef(fit)[3], coef(fit)[2], lwd = 3)
+points(x[1 : (n/2)], y[1 : (n/2)], pch = 21, col = "black", bg = "lightblue", cex = 2)
+points(x[(n/2 + 1) : n], y[(n/2 + 1) : n], pch = 21, col = "black", bg = "salmon", cex = 2)
+```
+
+
+---
+### Discussion
+#### Some things to note in this simulation
+* The X variable is highly related to group status
+* The X variable is related to Y, the intercept
+  doesn't depend on the group variable.
+  * The X variable remains related to Y holding group status constant
+* The group variable is marginally related to Y disregarding X.
+* The model would estimate no adjusted effect due to group.
+  * There isn't any data to inform the relationship between
+    group and Y.
+  * This conclusion is entirely based on the model.
+
+---
+### Simulation 3
+```{r, fig.height=5, fig.width=5, echo = FALSE, results='hide'}
+n <- 100; t <- rep(c(0, 1), c(n/2, n/2)); x <- c(runif(n/2), .9 + runif(n/2));
+beta0 <- 0; beta1 <- 2; tau <- -1; sigma <- .2
+y <- beta0 + x * beta1 + t * tau + rnorm(n, sd = sigma)
+plot(x, y, type = "n", frame = FALSE)
+abline(lm(y ~ x), lwd = 2)
+abline(h = mean(y[1 : (n/2)]), lwd = 3)
+abline(h = mean(y[(n/2 + 1) : n]), lwd = 3)
+fit <- lm(y ~ x + t)
+abline(coef(fit)[1], coef(fit)[2], lwd = 3)
+abline(coef(fit)[1] + coef(fit)[3], coef(fit)[2], lwd = 3)
+points(x[1 : (n/2)], y[1 : (n/2)], pch = 21, col = "black", bg = "lightblue", cex = 2)
+points(x[(n/2 + 1) : n], y[(n/2 + 1) : n], pch = 21, col = "black", bg = "salmon", cex = 2)
+```
+
+---
+### Discussion
+#### Some things to note in this simulation
+* Marginal association has red group higher than blue.
+* Adjusted relationship has blue group higher than red.
+* Group status related to X.
+* There is some direct evidence for comparing red and blue
+holding X fixed.
+
+
+
+---
+### Simulation 4
+```{r, fig.height=5, fig.width=5, echo = FALSE, results='hide'}
+n <- 100; t <- rep(c(0, 1), c(n/2, n/2)); x <- c(.5 + runif(n/2), runif(n/2));
+beta0 <- 0; beta1 <- 2; tau <- 1; sigma <- .2
+y <- beta0 + x * beta1 + t * tau + rnorm(n, sd = sigma)
+plot(x, y, type = "n", frame = FALSE)
+abline(lm(y ~ x), lwd = 2)
+abline(h = mean(y[1 : (n/2)]), lwd = 3)
+abline(h = mean(y[(n/2 + 1) : n]), lwd = 3)
+fit <- lm(y ~ x + t)
+abline(coef(fit)[1], coef(fit)[2], lwd = 3)
+abline(coef(fit)[1] + coef(fit)[3], coef(fit)[2], lwd = 3)
+points(x[1 : (n/2)], y[1 : (n/2)], pch = 21, col = "black", bg = "lightblue", cex = 2)
+points(x[(n/2 + 1) : n], y[(n/2 + 1) : n], pch = 21, col = "black", bg = "salmon", cex = 2)
+```
+
+---
+### Discussion
+#### Some things to note in this simulation
+* No marginal association between group status and Y.
+* Strong adjusted relationship.
+* Group status not related to X.
+* There is lots of direct evidence for comparing red and blue
+holding X fixed.
+
+---
+### Simulation 5
+```{r, fig.height=5, fig.width=5, echo = FALSE, results='hide'}
+n <- 100; t <- rep(c(0, 1), c(n/2, n/2)); x <- c(runif(n/2, -1, 1), runif(n/2, -1, 1));
+beta0 <- 0; beta1 <- 2; tau <- 0; tau1 <- -4; sigma <- .2
+y <- beta0 + x * beta1 + t * tau + t * x * tau1 + rnorm(n, sd = sigma)
+plot(x, y, type = "n", frame = FALSE)
+abline(lm(y ~ x), lwd = 2)
+abline(h = mean(y[1 : (n/2)]), lwd = 3)
+abline(h = mean(y[(n/2 + 1) : n]), lwd = 3)
+fit <- lm(y ~ x + t + I(x * t))
+abline(coef(fit)[1], coef(fit)[2], lwd = 3)
+abline(coef(fit)[1] + coef(fit)[3], coef(fit)[2] + coef(fit)[4], lwd = 3)
+points(x[1 : (n/2)], y[1 : (n/2)], pch = 21, col = "black", bg = "lightblue", cex = 2)
+points(x[(n/2 + 1) : n], y[(n/2 + 1) : n], pch = 21, col = "black", bg = "salmon", cex = 2)
+```
+
+---
+### Discussion
+#### Some things to note from this simulation
+* There is no such thing as a group effect here.
+  * The impact of group reverses itself depending on X.
+  * Both intercept and slope depends on group.
+* Group status and X unrelated.
+  * There's lots of information about group effects holding X fixed.
+
+---
+#### Simulation 6
+```{r, fig.height=5, fig.width=5, echo = FALSE, results='hide'}
+p <- 1
+n <- 100; x2 <- runif(n); x1 <- p * runif(n) - (1 - p) * x2
+beta0 <- 0; beta1 <- 1; tau <- 4 ; sigma <- .01
+y <- beta0 + x1 * beta1 + tau * x2 + rnorm(n, sd = sigma)
+plot(x1, y, type = "n", frame = FALSE)
+abline(lm(y ~ x1), lwd = 2)
+co.pal <- heat.colors(n)
+points(x1, y, pch = 21, col = "black", bg = co.pal[round((n - 1) * x2 + 1)], cex = 2)
+```
+
+---
+#### Do this to investigate the bivariate relationship
+```
+library(rgl)
+plot3d(x1, x2, y)
+```
+
+---
+#### Residual relationship
+```{r, fig.height=5, fig.width=5, echo = FALSE, results='hide'}
+plot(resid(lm(x1 ~ x2)), resid(lm(y ~ x2)), frame = FALSE, col = "black", bg = "lightblue", pch = 21, cex = 2)
+abline(lm(I(resid(lm(x1 ~ x2))) ~ I(resid(lm(y ~ x2)))), lwd = 2)
+```
+
+
+---
+### Discussion
+#### Some things to note from this simulation
+
+* X1 unrelated to X2
+* X2 strongly related to Y
+* Adjusted relationship between X1 and Y largely unchanged
+  by considering X2.
+  * Almost no residual variability after accounting for X2.
+
+---
+### Some final thoughts
+* Modeling multivariate relationships is difficult.
+* Play around with simulations to see how the
+  inclusion or exclusion of another variable can
+  change analyses.
+* The results of these analyses deal with the
+impact of variables on associations.
+  * Ascertaining mechanisms or cause are difficult subjects
+    to be added on top of difficulty in understanding multivariate associations.
+© 
+## Diagnostics c7-w3
+
+### The linear model
+* Specified as $Y_i =  \sum_{k=1}^p X_{ik} \beta_j + \epsilon_{i}$
+* We'll also assume here that $\epsilon_i \stackrel{iid}{\sim} N(0, \sigma^2)$
+* Define the residuals as
+$e_i = Y_i -  \hat Y_i =  Y_i - \sum_{k=1}^p X_{ik} \hat \beta_j$
+* Our estimate of residual variation is $\hat \sigma^2 = \frac{\sum_{i=1}^n e_i^2}{n-p}$, the $n-p$ so that $E[\hat \sigma^2] = \sigma^2$
+
+---
+```{r, fig.height = 5, fig.width = 5}
+data(swiss); par(mfrow = c(2, 2))
+fit <- lm(Fertility ~ . , data = swiss); plot(fit)
+```
+
+---
+### Influential, high leverage and outlying points
+```{r, fig.height = 5, fig.width=5, echo = FALSE, results='hide'}
+n <- 100; x <- rnorm(n); y <- x + rnorm(n, sd = .3)
+plot(c(-3, 6), c(-3, 6), type = "n", frame = FALSE, xlab = "X", ylab = "Y")
+abline(lm(y ~ x), lwd = 2)
+points(x, y, cex = 2, bg = "lightblue", col = "black", pch = 21)
+points(0, 0, cex = 2, bg = "darkorange", col = "black", pch = 21)
+points(0, 5, cex = 2, bg = "darkorange", col = "black", pch = 21)
+points(5, 5, cex = 2, bg = "darkorange", col = "black", pch = 21)
+points(5, 0, cex = 2, bg = "darkorange", col = "black", pch = 21)
+```
+
+---
+### Summary of the plot
+Calling a point an outlier is vague. 
+  * Outliers can be the result of spurious or real processes.
+  * Outliers can have varying degrees of influence.
+  * Outliers can conform to the regression relationship (i.e being marginally outlying in X or Y, but not outlying given the regression relationship).
+* Upper left hand point has low leverage, low influence, outlies in a way not conforming to the regression relationship.
+* Lower left hand point has low leverage, low influence and is not to be an outlier in any sense.
+* Upper right hand point has high leverage, but chooses not to extert it and thus would have low actual influence by conforming to the regresison relationship of the other points.
+* Lower right hand point has high leverage and would exert it if it were included in the fit.
+
+---
+### Influence measures of points! of data not variables
+* Do `?influence.measures` to see the full suite of influence measures
+  in stats. The measures include
+  * `rstandard` - standardized residuals, residuals divided by their
+    standard deviations)
+  * `rstudent` - standardized residuals, residuals divided by their
+    standard deviations, where the ith data point was deleted in the
+    calculation of the standard deviation for the residual to follow a
+    t distribution
+  * `hatvalues` - measures of leverage
+  * `dffits` - change in the predicted response when the $i^{th}$
+    point is deleted in fitting the model. **one data for one point**.
+  * `dfbetas` - change in **individual coefficients** when the $i^{th}$
+    point is deleted in fitting the model.
+  * `cooks.distance` - overall change in teh coefficients when the
+    $i^{th}$ point is deleted.
+  * `resid` - returns the ordinary residuals
+  * `resid(fit) / (1 - hatvalues(fit))` where `fit` is the linear
+    model fit returns the PRESS residuals, i.e. the leave one out
+    cross validation residuals - the difference in the response and
+    the predicted response at data point $i$, where it was not
+    included in the model fitting.
+
+---
+### How do I use all of these things?
+* Be wary of simplistic rules for diagnostic plots and measures. The
+  use of these tools is context specific. It's better to understand
+  what they are trying to accomplish and use them judiciously.
+* Not all of the measures have meaningful absolute scales. You can
+  look at them relative to the values across the data.
+* They probe your data in different ways to diagnose different
+  problems.
+* Patterns in your residual plots generally indicate some poor aspect
+  of model fit. These can include:
+  * Heteroskedasticity (non constant variance).
+  * Missing model terms.
+  * Temporal patterns (plot residuals versus collection order).
+* Residual QQ plots investigate normality of the errors.
+* Leverage measures (hat values) can be useful for diagnosing data
+  entry errors.
+* Influence measures get to the bottom line, 'how does deleting or
+  including this point impact a particular aspect of the model'.
+
+
+**Plot residual vs fitted values** to check for systematic patterns
+that you are missing
+
+---
+
+
+### Case 1
+```{r, fig.height=5, fig.width=5, echo=FALSE}
+x <- c(10, rnorm(n)); y <- c(10, c(rnorm(n)))
+plot(x, y, frame = FALSE, cex = 2, pch = 21, bg = "lightblue", col = "black")
+abline(lm(y ~ x))            
+```
+
+---
+### The code
+```
+n <- 100; x <- c(10, rnorm(n)); y <- c(10, c(rnorm(n)))
+plot(x, y, frame = FALSE, cex = 2, pch = 21, bg = "lightblue", col = "black")
+abline(lm(y ~ x))            
+```
+* The point `c(10, 10)` has created a strong regression relationship where there shouldn't be one.
+
+---
+### Showing a couple of the diagnostic values
+```{r}
+fit <- lm(y ~ x)
+round(dfbetas(fit)[1 : 10, 2], 3)
+round(hatvalues(fit)[1 : 10], 3)
+```
+
+---
+### Case 2
+```{r, fig.height=5, fig.width=5, echo=FALSE}
+x <- rnorm(n); y <- x + rnorm(n, sd = .3)
+x <- c(5, x); y <- c(5, y)
+plot(x, y, frame = FALSE, cex = 2, pch = 21, bg = "lightblue", col = "black")
+fit2 <- lm(y ~ x)
+abline(fit2)            
+```
+
+---
+### Looking at some of the diagnostics
+```{r, echo = TRUE}
+round(dfbetas(fit2)[1 : 10, 2], 3)
+round(hatvalues(fit2)[1 : 10], 3)
+```
+
+---
+### Example described by Stefanski TAS 2007 Vol 61.
+```{r, fig.height=4, fig.width=4}
+## Don't everyone hit this server at once.  Read the paper first.
+dat <- read.table('http://www4.stat.ncsu.edu/~stefanski/NSF_Supported/Hidden_Images/orly_owl_files/orly_owl_Lin_4p_5_flat.txt', header = FALSE)
+pairs(dat)
+```
+
+---
+### Got our P-values, should we bother to do a residual plot?
+```{r}
+summary(lm(V1 ~ . -1, data = dat))$coef
+```
+Residual plots zoom in on poor model fits, they show ys how much we
+have covered the systematic part. Run the above to see more!
+
+---
+### Residual plot
+#### P-values significant, O RLY?
+```{r, fig.height=4, fig.width=4, echo = TRUE}
+fit <- lm(V1 ~ . - 1, data = dat); plot(predict(fit), resid(fit), pch = '.')
+```
+
+Shows how bad the fit is as we completely missed the systematic
+patterns!
+
+---
+### Back to the Swiss data
+```{r, fig.height = 5, fig.width = 5, echo=FALSE}
+data(swiss); par(mfrow = c(2, 2))
+fit <- lm(Fertility ~ . , data = swiss); plot(fit)
+```
+## Multiple variables regression (c7-w3)
+
+### Multivariable regression
+* We have an entire class on prediction and machine learning, so we'll
+  focus on modeling.
+  * Prediction has a different set of criteria, needs for
+    interpretability and standards for generalizability.
+  * In modeling, our interest lies in parsimonious, interpretable
+    representations of the data that enhance our understanding of the
+    phenomena under study.
+  * A model is a lense through which to look at your data. (I
+    attribute this quote to Scott Zeger)
+  * Under this philosophy, what's the right model? Whatever model
+    connects the data to a true, parsimonious statement about what
+    you're studying.
+* There are nearly uncountable ways that a model can be wrong, in this
+  lecture, we'll **focus on variable inclusion and exclusion**.
+* Like nearly all aspects of statistics, good modeling decisions are
+  context dependent.
+  * **A good model for prediction versus one for studying mechanisms
+    versus one for trying to establish causal effects may not be the
+    same.** if only I could gve an example!
+
+---
+### The Rumsfeldian triplet
+
+*There are known knowns. These are things we know that we know. There
+are known unknowns. That is to say, there are things that we know we
+don't know. But there are also unknown unknowns. There are things we
+don't know we don't know.* Donald Rumsfeld
+
+In our context
+* (Known knowns) Regressors that we know we should check to include in
+  the model and have.
+* (Known Unknowns) Regressors that we would like to include in the
+  model, but don't have.
+* (Unknown Unknowns) Regressors that we don't even know about that we
+  should have included in the model.
+
+---
+### General rules (very important!)
+* **Omitting variables results in bias** in the coeficients of
+  interest - unless their regressors are uncorrelated with the omitted
+  ones.
+  * **This is why we randomize treatments, it attempts to uncorrelate
+    our treatment indicator with variables that we don't have to put
+    in the model.** **WE need to make out own example for this one!
+    during writing** Thats why AB testing and clinical trials are so
+    powerful. but if there are too many confounding things then even
+    randomization is not going to help you!
+	
+  * (If there's too many unobserved confounding variables, even
+    randomization won't help you.)
+* **Including variables that we shouldn't have increases standard errors
+  of the regression variables.** No BIAS!!!!!!
+  * Actually, including any **new variables increasese** (actual, not
+    estimated) **standard errors** of other regressors. So we don't
+    want to idly throw variables into the model.
+* The model must tend toward perfect fit as the number of
+  non-redundant regressors approaches $n$.
+* **$R^2$ increases monotonically as more regressors are included.**
+* The SSE decreases monotonically as more regressors are included.
+
+Need to check these out!
+
+---
+### Plot of $R^2$ versus $n$
+For simulations as the number of variables included equals increases to $n=100$. 
+No actual regression relationship exist in any simulation
+```{r, fig.height=5, fig.width=5, echo=FALSE}
+ n <- 100
+plot(c(1, n), 0 : 1, type = "n", frame = FALSE, xlab = "p", ylab = "R^2")
+r <- sapply(1 : n, function(p)
+      {
+        y <- rnorm(n); x <- matrix(rnorm(n * p), n, p)
+        summary(lm(y ~ x))$r.squared 
+      }
+    )
+lines(1 : n, r, lwd = 2)
+abline(h = 1)
+```
+Awesome! shows exactly what the problem is during my DP sessions!
+
+---
+### Variance inflation; all three are rnormed; including variables!
+```{r, echo = TRUE}
+n <- 100; nosim <- 1000
+x1 <- rnorm(n); x2 <- rnorm(n); x3 <- rnorm(n); 
+betas <- sapply(1 : nosim, function(i){
+  y <- x1 + rnorm(n, sd = .3)
+  c(coef(lm(y ~ x1))[2], 
+    coef(lm(y ~ x1 + x2))[2], 
+    coef(lm(y ~ x1 + x2 + x3))[2])
+})
+round(apply(betas, 1, sd), 5)
+```
+**Apparently, the actual variance is inflated and maybe not the estimated variance. I am not sure what this means and what is the consequence for us!**
+
+Monte carlo error?
+
+As long as variables are independent, we seem to be cool!
+
+```
+x1      x1      x1 
+0.02839 0.02872 0.02884 
+```
+
+---
+### Variance inflation (when there is a relation between x1 and x3)
+```{r, echo = TRUE}
+n <- 100; nosim <- 1000
+x1 <- rnorm(n); x2 <- x1/sqrt(2) + rnorm(n) /sqrt(2)
+x3 <- x1 * 0.95 + rnorm(n) * sqrt(1 - 0.95^2); 
+betas <- sapply(1 : nosim, function(i){
+  y <- x1 + rnorm(n, sd = .3)
+  c(coef(lm(y ~ x1))[2], 
+    coef(lm(y ~ x1 + x2))[2], 
+    coef(lm(y ~ x1 + x2 + x3))[2])
+})
+round(apply(betas, 1, sd), 5)
+```
+
+```
+     x1      x1      x1 
+0.03131 0.04270 0.09653 
+```
+
+If the variable you include (x3) is highly correlated with variable
+you are interested in (x1), then you are going to inflat the fuck out
+of it (aka 3 times as shown above!)
+
+Think about what you wanna include and why!
+
+If you included height and weight in the same model! both of them are
+highly corelated. Maybe we check the correlation before adding
+variables!
+
+As long as they are randomized it is still ok? or it somehow reduces
+the correlation (investigate!)
+
+---
+### Variance inflation factors (dp!)
+* Notice variance inflation was much worse when we included a variable
+that was highly related to `x1`.
+* We don't know $\sigma$, so we can only estimate the increase in the
+  actual standard error of the coefficients for including a regressor.
+* However, $\sigma$ drops out of the relative standard errors. If one
+  sequentially adds variables, one can check the variance (or sd)
+  inflation for including each one.
+* When the other regressors are actually orthogonal to the regressor
+  of interest, then there is no variance inflation.
+* The **variance inflation factor (VIF)** is the increase in the
+  variance for the ith regressor compared to the ideal setting where
+  it is orthogonal to the other regressors.
+  
+	  Ratio of current case with all regressors and the case with
+      non-correlated regressors! Look into how this works out!
+	  
+	  Shown below!
+  * (The square root of the VIF is the increase in the sd ...)
+* Remember, variance inflation is only part of the picture. We want to
+  include certain variables, even if they dramatically inflate our
+  variance.
+
+---
+### Revisting our previous simulation
+```{r, echo = TRUE}
+##doesn't depend on which y you use,
+y <- x1 + rnorm(n, sd = .3)
+a <- summary(lm(y ~ x1))$cov.unscaled[2,2]
+c(summary(lm(y ~ x1 + x2))$cov.unscaled[2,2],
+  summary(lm(y~ x1 + x2 + x3))$cov.unscaled[2,2]) / a
+temp <- apply(betas, 1, var); temp[2 : 3] / temp[1]
+```
+
+---
+
+### Swiss data
+```{r}
+data(swiss); 
+fit1 <- lm(Fertility ~ Agriculture, data = swiss)
+a <- summary(fit1)$cov.unscaled[2,2]
+fit2 <- update(fit, Fertility ~ Agriculture + Examination)
+fit3 <- update(fit, Fertility ~ Agriculture + Examination + Education)
+  c(summary(fit2)$cov.unscaled[2,2],
+    summary(fit3)$cov.unscaled[2,2]) / a 
+```
+
+---
+### Swiss data VIFs, 
+```{r}
+library(car)
+fit <- lm(Fertility ~ . , data = swiss)
+vif(fit)
+sqrt(vif(fit)) #I prefer sd 
+```
+```
+     Agriculture      Examination        Education         Catholic Infant.Mortality 
+           1.511            1.917            1.666            1.392            1.052 
+```
+
+WE see infant mortality and expect it to be not too bothered by other
+variables! but examination and edumacation, PNN.
+
+---
+### What about residual variance estimation?
+* Assuming that the model is linear with additive iid errors (with
+  finite variance), we can mathematically describe the impact of
+  omitting necessary variables or including unnecessary ones.
+  * If we underfit the model, the variance estimate is biased.
+  * If we correctly or overfit the model, including all necessary
+    covariates and/or unnecessary covariates, the variance estimate is
+    unbiased.
+    * However, the variance of the variance is larger if we include
+      unnecessary variables.
+
+---
+### Covariate model selection
+* Automated covariate selection is a difficult topic. It depends
+  heavily on how rich of a covariate space one wants to explore.
+  * The space of models explodes quickly as you add interactions and
+    polynomial terms.
+* In the prediction class, we'll cover many modern methods for
+  traversing large model spaces for the purposes of prediction.
+* Principal components or factor analytic models on covariates are
+  often useful for reducing complex covariate spaces.
+* Good design can often eliminate the need for complex model searches
+  at analyses; though often control over the design is limited;
+  Randomization for example...
+  
+  For example in bio statistics, when you want to measure
+  effectiveness of the aspirin, they try to give the drug to one
+  person and use a washout period to test the drug the next time!
+  
+* If the models of interest are nested and without lots of parameters
+  differentiating them, it's fairly uncontroversial to use nested
+  likelihood ratio tests. (Example to follow.)
+* My favoriate approach is as follows. Given a coefficient that I'm
+  interested in, I like to use covariate adjustment and multiple
+  models to probe that effect to evaluate it for robustness and to see
+  what other covariates knock it out.  This isn't a terribly
+  systematic approach, but it tends to teach you a lot about the the
+  data as you get your hands dirty.
+
+---
+### How to do nested model testing in R
+```{r}
+fit1 <- lm(Fertility ~ Agriculture, data = swiss)
+fit3 <- update(fit, Fertility ~ Agriculture + Examination + Education)
+fit5 <- update(fit, Fertility ~ Agriculture + Examination + Education + Catholic + Infant.Mortality)
+anova(fit1, fit3, fit5)
+```
+
+```
+Analysis of Variance Table
+
+Model 1: Fertility ~ Agriculture
+Model 2: Fertility ~ Agriculture + Examination + Education
+Model 3: Fertility ~ Agriculture + Examination + Education + Catholic + 
+    Infant.Mortality
+  Res.Df  RSS Df Sum of Sq    F  Pr(>F)    
+1     45 6283                              
+2     43 3181  2      3102 30.2 8.6e-09 ***
+3     41 2105  2      1076 10.5 0.00021 ***
+
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+```
+
+This looks like a good way to understand again, what is a good
+parameter to include! Use above only when there is possibility of
+nesting. 
+### Summary
+
+- use anova of 2 fits to determine in a nested fashion if a varable
+  adds value or not!
+  
+- otherwise just look at the slopes to determine if they have impact
+  of not
+  
+- use influence measures to determine if certain points influence the
+  data!
+  
+- vis is to measure variance extra!
+
+
+- more variables => more variance if not truly randomized
+  - example, examination and education!
+
+- less variables => more error in result due to spurious additions
+
+	- always try to removed contributions of other variables by
+      looking at residuals!
+
+### Quiz 
+1. Consider the \verb| mtcars|mtcars data set. Fit a model with mpg as
+   the outcome that includes number of cylinders as a factor variable
+   and weight as confounder. Give the adjusted estimate for the
+   expected change in mpg comparing 8 cylinders to 4.
+   
+		fit <- lm(mpg ~ factor(cyl) + wt, data = mtcars)
+		summary(fit)$coef
+		
+2. Consider the \verb| mtcars|mtcars data set. Fit a model with mpg as
+   the outcome that includes number of cylinders as a factor variable
+   and weight as a possible confounding variable. Compare the effect
+   of 8 versus 4 cylinders on mpg for the adjusted and unadjusted by
+   weight models. Here, adjusted means including the weight variable
+   as a term in the regression model and unadjusted means the model
+   without weight included. What can be said about the effect
+   comparing 8 and 4 cylinders after looking at models with and
+   without weight included?.
+
+	Holding weight constant, cylinder appears to have less of an
+    impact on mpg than if weight is disregarded.
+	
+	It is both true and sensible that including weight would attenuate
+    the effect of number of cylinders on mpg.
+	
+	Not sure what they mean by more impact (p-value or anova tests or
+    slopes etc...)
+	
+3. Consider the \verb|mtcars|mtcars data set. Fit a model with mpg as
+   the outcome that considers number of cylinders as a factor variable
+   and weight as confounder. Now fit a second model with mpg as the
+   outcome model that considers the interaction between number of
+   cylinders (as a factor variable) and weight. Give the P-value for
+   the likelihood ratio test comparing the two models and suggest a
+   model using 0.05 as a type I error rate significance benchmark.
+   
+   The P-value is larger than 0.05. So, according to our criterion, we
+   would fail to reject, which suggests that the interaction terms may
+   not be necessary.
+   
+   fit1 <- lm(mpg ~ factor(cyl) + wt, data = mtcars)
+   fit2 <- lm(mpg ~ factor(cyl) * wt, data = mtcars)
+   summary(fit1)$coef
+   
+   summary(fit2)$coef
+   
+   anova(fit1, fit2)
+   
+4. Consider the \verb|mtcars|mtcars data set. Fit a model with mpg as
+   the outcome that includes number of cylinders as a factor variable
+   and weight inlcuded in the model as
+   
+		lm(mpg ~ I(wt * 0.5) + factor(cyl), data = mtcars)
+		
+	The estimated expected change in MPG per one ton increase in
+    weight for a specific number of cylinders (4, 6, 8).
+	
+5. Consider the following data set
+
+		x <- c(0.586, 0.166, -0.042, -0.614, 11.72)
+		y <- c(0.549, -0.026, -0.127, -0.751, 1.344)
+		
+	Give the hat diagonal for the most influential point
+	
+		influence(lm(y ~ x))$hat
+		## showing how it's actually calculated
+		xm <- cbind(1, x)
+		diag(xm %*% solve(t(xm) %*% xm) %*% t(xm))
+		
+		
+6. Consider the following data set
+
+		x <- c(0.586, 0.166, -0.042, -0.614, 11.72)
+		y <- c(0.549, -0.026, -0.127, -0.751, 1.344)
+
+	Give the slope dfbeta for the point with the highest hat value.
+
+		influence.measures(lm(y ~ x))
+		
+7. Consider a regression relationship between Y and X with and without
+   adjustment for a third variable Z. Which of the following is true
+   about comparing the regression coefficient between Y and X with and
+   without adjustment for Z.
+   
+   It is possible for the coefficient to reverse sign after
+   adjustment. For example, it can be strongly significant and
+   positive before adjustment and strongly significant and negative
+   after adjustment.
+   
+   See lecture 02_03 for various examples.
+
+
+
+### optional quiz 
+
+Your assignment is to study how income varies across college major
+categories. Specifically answer: “Is there an association between
+college major category and income?”
+
+To get started, start a new R/RStudio session with a clean
+workspace. To do this in R, you can use the q() function to quit, then
+reopen R. The easiest way to do this in RStudio is to quit RStudio
+entirely and reopen it. After you have started a new session, run the
+following commands. This will load a data.frame called college for you
+to work with.
+
+	install.packages("devtools")
+	devtools::install_github("jhudsl/collegeIncome")
+	library(collegeIncome)
+	data(college)
+	
+	devtools::install_github("jhudsl/matahari")
+	library(matahari)
+	
+    ##	To start and end
+	dance_start(value = FALSE, contents = FALSE)
+	dance_save("~/Desktop/college_major_analysis.rds")
+	
+Based on your analysis, would you conclude that there is a significant
+association between college major category and income?
+
+Ans: NO as for one, p-values are way higher indicating similarity!
+
+Mean and boxplots don't seem to show variability
+
+#### My answer
+
+df$ranks doesn't seem to be coming from df$medianl in that case I
+don't understand the rank variable! So I almost don't look at it!
+
+with this, I look at only the variables in isolation , i.e., removing
+all residuals needed: fit <- lm(median ~ . -major - major_code,
+data=df) ; summary(fit)
+
+Result:
+```
+major_categoryAgriculture & Natural Resources       0.8917    
+major_categoryBiology & Life Science                0.4126    
+major_categoryBusiness                              0.2229    
+major_categoryCommunications & Journalism           0.1541    
+major_categoryComputers & Mathematics               0.0680  
+
+```
+Most of the categories are above a 20 % significance level and all
+above 5%. This goes to show that when I look at median income, and the
+categories, there is not a "significant" level of association!
+
+Also the same output shows the corelation between p25th and p75th. I
+guess this is enough! Using a lot of variables (as I have done above)
+might increase the variance, but I am not sure what is the
+significance of it for this case!
+
+
+my work: published: in rds matahari stuff:
+https://github.com/agent18/linear-regression/blob/master/college_major_analysis.rds
+
+#### better solution by prof for later consumption!
+
+https://d3c33hcgiwev3.cloudfront.net/_fd9c88bac4ae1ea84e1994f141541ef2_solution.pdf?Expires=1556064000&Signature=X-bGR26cRgoTYnJe209LjxxU4U1T~edPw7Ri0akbYlaX70aQodTO10w6YTlSRv~38qwJXFgL6AIcQpBLdKwg-r~r8KkJhi6iXBME4iLJGcvNmnfcpaED6RFYH4Y1jy36CcKWJx9l6uHDSt5yzyRfH6qCUgStRsrHexcTw7Nh~BM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+I have also saved this here: https://github.com/agent18/linear-regression/commit/a91f8a84668e3201146281ebbd65e8b35792509b
+	
+### p hacking
+
+Your assignment is to study how income varies across different
+categories of college majors. You will be using data from a study of
+recent college graduates. Make sure to use good practices that you
+have learned so far in this course and previous courses in the
+specialization.In particular, it is good practice to specify an
+analysis plan early in the process to avoid the “p-hacking” behavior
+of trying many analyses to find one that has desired results. If you
+want to learn more about “p-hacking”, you can visit
+https://projects.fivethirtyeight.com/p-hacking/
+

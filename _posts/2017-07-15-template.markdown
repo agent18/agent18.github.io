@@ -1,13 +1,358 @@
 ---
 layout: post
 comments: true
-title:  "DP Examples 2"
-date:    09-02-2019 
-categories: drafts
+title:  "DP Examples Questions"
+date:    22-04-2019 
+categories: posts
 tags: DP, feedback, examples
 permalink: /:title.html
 published: true
 ---
+
+## Planning
+
+It took 35 hrs of total work with 25.5 hrs of DP for 200 phrases in
+the last essay "DP-claims"
+
+Monday 6 hrs, Tues, 3.5 hrs, Wed: 3 hrs, Thu: 3.5 hrs, Fri: 3.5 Sat 8
+hrs, Sun 8hrs.
+
+
+If I want to do 1 hr of DS everyday at the end of the day, then I need
+7 more hrs. 
+
+Let's try it. If I do 7 hrs of DS then I am allowed a tuesday
+deadline! Otherwise Sunday deadline! Get it!
+
+
+Fine! Let's roll with it!
+
+## Feedback from last essay
+
+Mr. Agent,
+
+> I have defaulted yesterday! Can you please send me your PayPal? I owe you some money
+
+That's great news, because it means you didn't default on the previous 11 days. Nice job!
+
+Good news for me too: paypal.me/PradeepKumarS
+
+> For the next 30 days (just the beginning), I will do 1 hr atleast of DP similar to the work done in the last "mission", i.e., look at something that I need to really understand, and split it into phrases and provide examples for each (also identify where exactly I am failing). I have recently found a gold mine to dig into (#statistics, poissons distributions and the like... It's going to be amazing)
+
+Sure. Find stuff that you need to understand but are confused or intimidated by and break down the claims as mentioned later below.
+
+> P&E
+>
+> > On one hand, the (presence)[9a] (of reaction forces)[9] (acting)[10] in the (direction of the constraint)[10a] (generally)[10c] (renders)[10b] the (equilibrium)[11] description (more complex)[12]
+>
+> For 9, we imagine the Tension force in a pendulum.
+>
+> For 9a, we imagine pulling on the pendulum so that there is no slack in the string, which is when the Tension in the string appears.
+>
+> For 10a, for a pendulum in the mean position, we can imagine that the pendulum will not go down even if 100kN of force is applied. It will stay at L (assuming the string can handle the stress and does not deform beyond L). This downward direction is the direction of the constraint. However, if you pull in the horizontal plane, it will move, i.e., the resistance to motion is along the string.
+>
+> For 10, we think about the direction of Tension force (vertical) being the same as the direction of constraint (vertical)
+>
+> For 10b, I don't know what example to give! Need help! Do I need to give an example?
+>
+> For 10c, I don't know what example to give! Need help!
+
+The mission is to identify and test the claim, not necessarily to give an isolated example for each phrase. The statement is:
+
+> On one hand, the presence of reaction forces acting in the direction of the constraint generally renders the equilibrium description more complex, since those unknown forces must be determined along the entire trajectory such that kinematical constraints are satisfied.
+
+I would break it up into three parts:
+
+> On one hand, (the presence of reaction forces acting in the direction of the constraint)[1] generally renders the (equilibrium description)[2] (more complex)[3], since (those unknown forces must be determined along the entire trajectory such that kinematical constraints are satisfied)[4].
+
+It's saying that [1] makes [2] to be [3] because of [4].
+
+To test the claim, we need to take an example for [1] and look at its "equilibrium description" [2]. If the equilibrium description that we see is "more complex" [3] and if it is so precisely because of [4], then the claim is supported by the example. If not, the claim is false.
+
+Note that you can work with longer phrases like [1] and [4] once you have given individual examples for the inner phrases like "reaction forces" or "direction of the constraint". For someone new to cricket, you have to give an example for "cover drive" to back up the claim that a "cover drive" will hit the ball in the cover region. But for an experienced person, you can work with the longer phrase "a cover drive is a bad idea against a swinging good-length ball when the team is already three wickets down on the first day of the test match". Why? Because he can immediately come up with an example of Kohli getting out against England at Lords or whatever. He can easily test that scenario against the claim that such a cover drive is a bad idea. The newbie cricketer won't have an example of a cover drive, let alone a good-length ball or three wickets down or test match.
+
+So, this will allow you to cover more sentences since you will have to come up with fewer examples per sentence.
+
+> P&E
+>
+>     If you want to (increase)[1] your (social impact)[2], you face a choice: try to (make a difference right away)[4], or (invest in yourself)[5] to make a (greater impact)[6] in the (long-term)[7]. Which is (best)[8]?
+>
+> For 2, we think of $$'s donated to AMF
+>
+> For 1, we imagine what I am doing right now (saving 1 life per year with 4k$). Instead if I was somehow worthy of working at GiveWell I could save 24 lives per year (97k/4k
+>
+> /life) as a conservative estimate.
+>
+> For 4, I imagine living in a house 300 euros cheaper than my current one, I don't eat outside, I don't go to India, I save as much money as I can (in my current case, that would amount to 8-10k donations).
+>
+> For 5, I imagine clocking 4 hrs a day on DP for Data Science and becoming worthy of Google placement in US which possibly would earn 200k$;
+>
+> For 6, we imagine donating >35% of 200k per year after 5 years which is much greater than 8k
+>
+> For 7, we imagine donating this 35% until I retire from there.
+>
+> For 8, we imagine donating 35% of 200k>8k
+>
+> Claims
+>
+>     If you want [1] and [2], you face a choice, such as [4] or [5]
+>
+> When we want to increase the $$ donated, we need to choose if we want to donate all we can now (8k$) or be very good in Data Science that will place you in Google for a salary of 200k.
+>
+> Is the above way of writing an example of the claim, do you expect to see [1], [2], [3], [4] in the example as well?
+
+This was better done than the technical sentences above. If this is the first time you're looking at "greater impact" or "long-term", you can give an individual example for them. Otherwise, you can work with the phrase "invest in yourself to make a greater impact in the long-term" and test his claims using your example for that phrase. Note that he hasn't made a claim yet. He's just asked a question: which is best? So, you have to keep both examples with you and work through whatever he says next.
+
+> I spent way too much time pondering about what example to give here, my confusion being how do you give an example to test "Something is interesting BECAUSE they are the exception"! I am aware that we can test, "Something is interesting AND it is also the exception"
+
+That's a great observation. Something for later! The current skill is concrete thinking.
+
+> P&E
+>
+> (Most people)[1] reach the (peak of their impact)[2] in their (middle age)[3]. (Income)[4b] usually (peaks)[4c] in the 40s)[4], suggesting that it takes around 20 years for (most people)[5a] to reach their (peak productivity)[5]. Similarly, (experts)[6] only (reach their peak abilities)[7] between (age 30 to 60)[8], and if anything, (this age)[9a] is (increasing over time)[9].
+>
+> For 1 & 5a, we think of Management Consultants(MC's) who stay till they become partner at top firms, we think of Theoretical Physicists, Novel writers, Politicians (US President)
+>
+> For 2 & 4b: It takes upto 20 years of working before reaching the scale of Senior Partner which makes bonuses in the order of millions (source). Donating 50% of that would be the peak of impact.
+>
+> For 3 & 4: Graduation age of a Master is ~25, 20 years from there seems to be 40-45 (middle age)
+>
+> For 5, we imagine becoming a senior partner at the top 3 firms
+>
+> For 6, Scientists and economists
+>
+> For 7, we think of people who win the Nobel Prize
+>
+> For 8, Nobel prize winners have an average age of 47 (Source)
+>
+> For 9, The average age of Nobel prize winners has increased by 6 years between the 20th and 21st century (source: TIO chapter 10).
+>
+> For 9a: The average age of Nobel prize winners (47)
+>
+> Claims
+>
+>     Most people reach [2] in middle age [3] ; 4b usually peaks in the 40s
+
+> For 1 & 5a, we think of Management Consultants(MC's) who stay till they become partner at top firms, we think of Theoretical Physicists, Novel writers, Politicians (US President)
+
+But is that really a test of the claim? If you look at most politicians and measure when they reached the "peak of their impact", it might be in their old age. All the top politicians here and there seem to be around retirement age. How is the claim supported? In fact, can you think of people who reach their peak in middle age and either stay constant (without rising further) or go down?
+
+In other words, the aim is not to get examples and nod along with the author saying that, yes, it makes sense. The aim is to do an independent test. He claims, as you pointed out, that most people reach [2] in [3]. The implicit question in the claim is "when do most people reach [2]?" And his claim is that the answer is [3]. To test that, you need to independently look at these "most people" and check when they reach [2]. After you've got your answer, compare it to [3]. That way you can actually find out when he is wrong (as he might be above).
+
+Skip the 9 examples if they are pretty obvious. In reality, you will go this deep only on the key phrases in some article or book. Focus on testing the claim independently.
+
+> P&E
+>
+>     When (researchers)[1] looked in (more detail)[2] at (these findings)[3], they found that (expert-level performance)[4] in (established)[5a] (fields)[5] requires (10-30 years)[6] of (focused practice)[7].
+>
+> For 1, I imagine, K. Anders Ericsson and Martin Seligman
+>
+> For 2, I imagine the "exploratory data analysis" I did for a course on the "energy usage over a 2-day period in February 2007".
+
+Stay with the running example whenever possible. You can imagine Ericsson studying the diaries of the violin players.
+
+> For 3, data that average Nobel Laureates age was 47.
+
+The top violin players had been playing for around 7.5k hours over nearly a decade or so.
+
+> For 4, ability to win the Olympic gold medal
+
+They went on to the top orchestras.
+
+> For 5a, we look at the millions of videos on youtube on each aspect of figure skating like, two foot spin, crossovers etc...
+
+Violin-playing is enough of an example to show "established field". No need to go into new examples. Conserve your concreteness! Lots of claims to test.
+
+> For 5, Figure skating
+
+Ditto.
+
+> For 6, we look at Shizuka Arakawa who started at the age of 5 and won the Olympic medal for Figure Skating at 24. Roughly 20 years later.
+
+Does violin-playing **require** 10-30 years of focused practice? Well, we saw in TiO that it seemed to require on the order of 10k hours across many fields, including violin-playing - so that's fine.
+
+**However** ... you should have second thoughts about that 30 years figure. 30 years of focused practice?! Name one example where that was even found, let alone absolutely necessary. From where did he pull out this number?
+
+> For 7, we imagine her persistence despite the ~20000 times she had derriere impacts on unforgiving ice while practicing her Ina Bauer.
+
+Staying with the running example, we can think of the violin-players playing by themselves, not with others, fixing their mistakes.
+
+> Claims
+>
+> [4] in [5a,5], requires 10-30 years of [7]
+>
+> To get Olympic gold medal, in figure skating, Shizuka Arakawa spent 20 years from a young age of 5. She fell on her ass atleast 20000 times while practicing her specialty jump and managed to keep going.
+
+First of all, is that 20 years of focused practice throughout? Was she practicing as long and as intensely at 5 as at 25?
+
+Second of all, was it **necessary**? To test that, we would have to check if there was anybody who got in with less than 10 years. For example, Bobby Fischer became a grand master with 9 years (TiO). On the face of it, that's falsifies the claim that it requires 10 years. (We will usually give them the benefit of the doubt, of course.)
+
+> P&E
+>
+>     K. Anders Ericsson, the (leader)[8a] of (this field of research)[8] who has been (working on it for over 30 years)[9], said: "I have (never found a convincing case)[10] for anyone (developing extraordinary abilities)[11] without (intense, extended practice)[12]."
+>
+> For 8a: if we Google search "10000 hours skill practice", on 3/4 hits of popular news outlets like BBC, you will find Anders Ericsson on it.
+
+It's great that you came up with some empirical evidence, but it is not necessary for our purposes of concrete thinking. Have we heard of him described as the father of deliberate practice and being quoted heavily in a book about deliberate practice? Cool. Moving on.
+
+> For 8: field answering how Shizuka Arakawa won the Olympic Medal
+
+No. The field of research is "expert performance".
+
+> Is this not an example? What should it be then?
+
+The claim is that Ericsson is the leader of the field of research. He is, so we move on.
+
+> For 9, Anders has been publishing papers from 1990 until now (2019) on the topic related to "expertise in skills" (40 years).
+>
+> For 11, Jerry Rice is one of the "greatest receivers" in NFL history. He has played 22 seasons and every game in every season except in 1997. No one has done this ever at the "receiver position".
+
+This seems like an irrelevant example. How does it test the claim?
+
+The claim is that Ericsson has never found a convincing case. So, an independent test of that claim would be to look at all the cases of extraordinary abilities and see if there is even a single one without extended practice. Yes, it's a lot of work, but that's what it would take to test a claim like "never found a convincing case". Still, we can point to some study of music or chess that looks at all the cases.
+
+> For 12, "His off season training's were done 6 days a week. His workouts were known as the most demanding in the league, which other players would get sick before the end of the day. His trainer wouldn't reveal the workouts because the trainer was afraid that people could injure themselves trying to duplicate it." Source: TIO.
+
+Again, this one case doesn't test the claim about all the cases. For example, Jerry Rice may have done all this, but if there was even one guy who made it big without extended practice, that would falsify the claim.
+
+> For 10, In the 1985 draft, fifteen teams passed him over before the San Francisco 49ers finally signed him, indicating that he was never going to be a legend. But he did become a legend, seemingly because of [12]
+
+Ditto. Given that you are familiar with "extraordinary abilities" and "extended practice", you don't need isolated examples for them. Just focus on testing the claim.
+
+> Claims
+>
+>     Never found a convincing case for [11] without [12]
+>
+> In the 1985 draft, fifteen teams passed him over before the San Francisco 49ers finally signed him, indicating that he was never going to be a legend. But he did become a legend[11], seemingly because of [12].
+
+Not a test of the claim.
+
+> (All this)[1a] (may sound like a bit of a downer)[2]: being (successful)[3] (takes time)[4]. But consider the (flip side)[5]: you can (improve)[6].
+>
+> For 5,
+>
+> Does it need an example, if so what is it? how do you give an example here?
+
+The claim is that "you can improve" is the flip side of the downer that "being successful takes time". If you put in the time, you can improve, which is an encouraging message compared to the previous discouraging message. So, yes, it is a flip side.
+
+> I am finding it hard to find one running example and split it among 1 to 6, am I expected to do that? Is it a requirement? In the claims I understand that it would all need to be from the same example.
+
+Yes.
+
+> Claims
+>
+>     [6] is probably not going to need [5]
+>
+> Dynamics, compliant mechanisms are not going to be useful for work at GiveWell.
+>
+> I am not sure if I need to give examples for "likely", "probably".
+
+You do need an example. If you don't have an example where it doesn't need [5], then the true claim (A) might be that [6] needs [5]. You can't tell, since you don't have an example. But once you have an example, you can tell that (A) is false.
+
+> However, (Ericsson's research)[9] suggests that (anyone)[10] (can improve)[11] at many (skills)[12] with (focused practice)[13].
+>
+> For 9, we think of the study with the violinists[TOI chapter 4].
+>
+> For 10, I think of this guy and look at how much he sucked in the beginning
+>
+> For 11, I think of Guy improving from 36% to 42% in 4 weeks
+>
+> For 12, I think playing the guitar, chess, basketball, programming, and "critical thinking" as evident from TIO
+>
+> I have an SST that my examples for skills are crap, can you weigh in?
+>
+> For 13, I think of Jerry Rice, who did workouts for his conditioning 6 times a week which no one else could finish even once.
+>
+> Not an example? Should be more like made 400 shots a day?
+
+Focus on testing the claim rather than on whether it is a good example.
+
+> Claims
+>
+>     Anyone can improve skills [13]
+>
+> This guy totally sucks when he started and after 7k hours he's phenomenal.
+
+Good job on testing a claim with an example, but that's not the claim! The claim is that you can improve with focused practice. Do you have an example of him doing focused practice? If so, focus on that.
+
+Basically, it should be an independent test. The claim is that anybody can improve at a skill with focused practice. So, the independent test would be to see someone do focused practice for a while and measure their skill before and after. Then, see if that actually matches the claim that they will improve (maybe focused practice would decrease their skill - who knows?).
+
+It may seem kind of silly to test such an obviously correct claim. But what if it isn't "focused practice" that does the trick but rather time spent doing something? (I hope you just thought of TiO talking about X-ray experts who weren't better than novices to support the claim that mere experience is not enough. Or ordinary golfers who just hit balls.) Without a concrete test, we wouldn't really know.
+
+To drive home the point, what do I mean by an independent test of a claim? It's like removing their proposed answer from the claim and filling the blank yourself. "Most people reach their peak in their middle age" becomes "most people reach their peak in ____". Now, you go look at most people and check when they reach their peak and you fill in the blank yourself. Then, you compare the two answers. If they don't match, either the claim is wrong or your example or reasoning is faulty. Either way you get the valuable information that something is amiss. Otherwise, if you just read it as "most people reach their peak in middle age", you won't notice if something is wrong.
+
+> P&E
+>
+>     This means even if you don't feel you (have much to contribute)[20] now, you can become (much more skilled)[21] in the (future)[22], and probably (keep improving)[23] for (decades)[24].
+>
+> For 20, we think of not being able to play Joe Satriani's song "tears in the rain"
+>
+> For 21, We think of this guitarist how he went from nothing to strictly phenomenal in 7000 hrs [22]
+
+No need to give these diverse examples. Take one relevant running example and stick to it. Here, for this 80k hours post, the relevant skill we care about is not guitar-playing but something like AI research or quant trading.
+
+>
+> For 23 & 24,
+>
+> "Jamie Dimon was an amazingly accomplished financial services executive at age twenty-nine, but he was much better at fifty, as CEO of JPMorgan Chase[21,22]"- (TIO pg179)
+>
+> What is this "much better" you ask? I couldn't think of other examples, than from the TIO
+
+The problem here is that you're not doing an independent test of the claim. You're letting TiO come up with the example (Jamie Dimon), the claim question (how was Jamie at 50 compared to 29) and you're letting him fill in the blank (oh, he was much better). How are you independently testing it?
+
+He's allowed to come up with the claim question and maybe the example, but you have to fill in the blank. At 29, maybe Jamie took the company to 12% growth rate (if that's what you care about) and, at 50, 18% growth rate. Based on that, you decide that, yes, he was better. That matches the claimed answer, so you accept the claim for now. If, instead, Jamie took it to 9% growth rate, you would fill the answer as "worse than before" and reject the claim. Similarly, if it went from 12% to 12.5%, you would fill in the blank as "slightly better" and reject the claim because it said it was "much better".
+
+Can you see the different scenarios in which you will reject a claim? If you just went ahead without an example and without an independent test, you would just accept claims as they come (or get confused).
+
+What examples could you have come up with for improving over decades? Sachin. Rahman. Dhoni. Mani Ratnam? Superstar? Harris Jayaraj?! Note that a counter-example doesn't falsify the claim because it says you can improve, not you will improve over decades. So, you just need one valid example.
+
+> Claims
+>
+>     You can [21] in the future
+>
+> We think of this guitarist how he went from nothing to strictly phenomenal in 7000 hrs (future)
+
+Again, not a very useful example because, in this article, we care about skills that relate to EA.
+
+Overall, focus on testing the claims. Avoid giving individual examples for known phrases.
+
+Great job on pointing out where you got confused.
+
+The mission specifically said "If the author provides a running example, hold on to it for dear life and use it throughout that section or chapter." That did not happen. You switched from one example to another.
+
+* * * * *
+
+Time taken: 2h. 200 phrases reviewed @ 1.66 phrases per minute.
+
+Statistics: Consider measuring phrases per minute (or, initially, minutes per phrase). That will tell you your growth rate over time and across different days.
+
+Mission #8: Your mission, should you choose to accept it, is to identify the question and answer in each claim, come up with an example for the question, fill-in-the-blank for the answer yourself, and compare to the claimed answer.
+
+For example,
+
+> On one hand, the presence of reaction forces acting in the direction of the constraint generally renders the equilibrium description more complex, since those unknown forces must be determined along the entire trajectory such that kinematical constraints are satisfied.
+
+becomes
+
+> On one hand, the presence of reaction forces acting in the direction of the constraint generally renders the equilibrium description ____, since those unknown forces must be determined along the entire trajectory such that kinematical constraints are satisfied.
+
+Until you can fill in the blank yourself, you don't really "understand" the statement.
+
+(You can ignore "because" statements for now.)
+
+Take on passages that you are confused about. That way, you will know that the technique worked because things will be clear afterwards. What do you want to "think critically" about?
+
+> Please do let me know when you are back. Good luck to you. As always please don't give up on me.
+
+I can't give up on people who put in the hard work. "Sometimes people deserve to have their faith rewarded."
+
+Best,
+
+
+## consolidation of feedback
+
+How do you know if you have given the right example? how do you know
+if you are vague?
 
 
 

@@ -1,0 +1,1362 @@
+---
+layout: post
+comments: true
+title:  "DP Examples 3 - 1 hr per day April, practice"
+date:    1-04-2019 
+categories: drafts
+tags: DP, feedback, examples
+permalink: /:title.html
+published: true
+---
+
+## Poisson's distribution from coursera notes
+
+This is from the lecture on poisson obtained from [here](https://www.coursera.org/learn/statistical-inference/lecture/mAKj5/06-03-poisson).
+
+
+> At any rate, the (Poisson)[] (distribution)[] is used to (model)[]
+> (counts)[].  ~~The Poisson (mask function)[] is lambda to the x, e
+> to the negative lambda, all over x factorial where x is defined on
+> the non-negative integers. Zero, one, two and so on.~~ The mean of a
+> Poisson random variable is lambda, this parameter here. And the
+> variance of this distribution is also lambda.
+
+
+>~~So that's an interesting thing to take into account when you model
+> things is if they're a poisson.~~
+
+
+> The (mean)[] and the (variance)[] (have to be equal)[], which if you
+> have repeated poisson data, this is a checkable assumption. I'd like
+> to get some instances where we use the poisson distribution.
+
+> Modeling count data, Modelling event-time or survival data modeling
+> contingency tables, Approximating binomials when n is large and p is
+> small
+
+---
+
+> The (Poisson)[1] (distribution)[2]:
+> * Used to (model counts)[3]
+> * The Poisson (mass function)[4] is
+> $ P(X = x; \lambda) = \frac{\lambda^x e^{-\lambda}}{x!}$
+> for $x=0,1,\ldots$
+> * The (mean)[5] of (this)[6] (distribution)[7] is $\lambda$
+> * The (variance)[8] of (this)[9] (distribution)[10] is $\lambda$
+> * Notice that $x$ ranges from $0$ to $\infty$
+
+For 1 and 2, we think of the plot of "number of plane crashes in a
+given year" form 1995 to 2018.
+
+
+For 3, we think of problems like below:
+
+> The number of people that show up at a bus stop is Poisson with a
+> mean of $2.5$ per hour.
+
+> If watching the bus stop for 4 hours, what is the probability that
+> $3$ or fewer people show up for the whole time?
+
+
+For 4, we think of 
+
+
+
+https://www.youtube.com/watch?v=8x3pnyYCBto start here on day 2
+
+
+## Poisson distribution introduction JB statistics
+
+> A (poisson's distribution)[1] is another (important)[2] and
+> (discrete)[3] (distribution)[4].
+
+For 1 we think of a the following graph below:
+
+![poisson image](./images/images-DP-3/poisson.png), where \lambda is the mean (explained below).
+
+For 2: When we want to estimate the probability that 3 or fewer plane
+crashes will occur this year we can use the [poisson's distribution to
+determine it](https://youtu.be/sv_KXSiorFk?t=775). 
+
+For 3, number of plane crashes per year being equal to 3
+
+For 4, we think of the following graph of probability vs outcome for a
+die roll
+
+![die roll dist](./images/images-DP-3/die-roll-dist.png)
+
+
+**Claim**: [1] is [2]
+
+[1] is [2] because it allows to predict probability of plane crashes
+in a given year.
+
+**Claim**: [1] is [3]
+
+Poisson's distribution can be used for identifying the probability of number of plane
+crashes in a year (which is discrete, 2 plane crashes, 3 plane
+crashes, 10 plane crashes).
+
+> Example: Asteroids with a diameter of at least 1 km collide with the
+> earth at a rate of approximately 2 per million years. 
+>
+> What is the (probability)[5] that in a (randomly selected)[6] million year
+> period, there is exactly one collision?
+
+For 5, we think of a die roll and the (chance of getting an outcome)[5a] 5
+is 1/6. 
+
+For 5a, we roll a die a 10k times, and plot the number of times each
+outcome (1,2,3,4,5,6) has occurred divided by 1000. This should be 0.16
+
+For 6, we think of a 
+
+![lottery](./images/images-DP-3/lottery.png)
+
+
+**Claims**: No claims here!
+
+> Suppose,
+
+> - (events)[7] (are occurring)[7a] (independently)[8] (in time)[8b].
+
+
+For 7&7a, we think of a plane crash.
+
+
+For 8, we look at the [plane crashes in 2009](https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_commercial_aircraft). 
+
+Event 1: A US airways flight ditches into the Hudson River just after
+taking off due to total engine failure, due to multiple bird strike
+
+Event 2: Another plane crash occurs due to engine failure, but due to
+[an overweight take off, which the engine was unable to handle](https://en.wikipedia.org/wiki/2009_Manaus_Aerot%C3%A1xi_crash).
+
+Event 1 is would have happened irrespective of Event 2 happening or
+not. Conversely, Event 2 would have happened irrespective of Event 1
+happening or not.
+
+for 8b, we think of the year 2009.
+
+For 7 we think of a coin tosses ending up in heads or tails.
+
+For 7a we think of tossing a coin and getting Heads.
+
+For 7&7a, we think of the outcome being 1 as a result of a die roll. 
+
+For 8, we think of 2 coin tosses. Probability of coin toss 1 getting
+Heads is 0.5. Probability of coin toss 2 for Heads is 0.5. i.e., coin
+toss 2 is not affected by coin toss 2.
+
+For 8b, we think of coin toss 1 and coin toss 2 happening one after
+the other after 1 second.
+
+For 7, we think of 3 cars in 1 hr crossing Street X.
+
+For 8&8b, 
+
+When you take an unbiased coin, the (probability)[8c] of H is 0.5 in
+the first hour. The probability of H is 0.5 in the second hour and 3rd
+hour as well.
+
+Similarly, we think of the (probability)[8d] of 3 cars passing in the
+first hour and the second hour and third hour and the fourth hr is
+exactly the same. Just because 3 cars passed in the first hour,
+doesn't mean the probability changes in the 4th hour.
+
+For 8 we think of 3 chocolate chips in a randomly selected volume of
+1cm^3 in a dough mixed with chocolate chips. We see here that the
+probability of finding 3 chocolate chips in a randomly selected volume
+is X, When we repeat this experiment the probability is still the
+same.
+
+Let's consider another example where we add fresh set of chocolate
+chips, on the dough and do not mix. The probability of finding 3
+chocolate chips in 1cm^3 is Y. It appears that when we take another
+volume to find if there are 3 chocolate chips, the probability of
+finding 3 chocolate chips is still the same.
+
+For 8c, we think of 500/1000; 1000 coin tosses and expect 500 of them to be heads.
+
+For 8d, we think of 500/1000; out of 1000 hours we expect 500 of them
+to have exactly 3 cars passing Street X.
+
+*Is this "good enough"? Can you give some feedback here. I use more
+examples for myself to "understand" the "difference". It is very hard
+to give examples of independence in the context of poisson's
+distribution. All examples also are made up.*
+
+> - the (probability)[9] that (an event occurs)[10] in a (given length
+>   of time)[11] (does not change through time)[12].
+
+For 10, we think of a plane crash.
+
+For 9, we think of the probability being 
+
+For 11, we think of one year time period
+
+For 12 we think of the period between 2009 to 2019.
+
+If P of a plane crash is 1 in 11 million in one year. Let's say 3 plan
+crashes occured this year already, it doesn't mean that the
+probability of a plane crash i
+
+*I am not sure what this means, I have guess the meaning. Somehow, the
+sources that I look at, i.e., youtube, books, do not like giving
+examples for each of the above case. So in the end I am just left with
+an interpretation. With repect to a Die I have it figured out, with
+respect to Basketball I understand it, but with plane crashes I just
+cannot give an example, because I don't really know what probability means.*
+
+
+For 10, we think of rolling a die and getting a 5 as outcome.
+
+For 9, we think of 1/6 being the chance of getting a 5 when a die is
+rolled.
+
+For 11, we think of 1 toss 
+
+For 12, we think of 10 tosses, 100 tosses.
+
+**Claim**: probability of 10 in 11 does not change with time
+
+
+
+
+The "probability" of getting a 1/6 irrespective of the many die tosses
+is always 1/6. Doesn't matter if you get 1/6 in the last try.
+
+Here the only known definition of prolty is that when I roll it 1000
+times I see that it is 1/6.
+
+In other words Lebron James has a free throw percentage of say 75%
+throughout his career. Let's say he's at a game and he attempts 19
+free throws and he makes 14 of them. Now does this mean on his 20th
+free throw that there is a 100% chance of him making it? No it still
+means that there is a 75% chance of making it. The only thing this 75%
+says is that if you make 10k FTs you are expected to make 7500 of
+them. That is all it says. It's all about long numbers.
+
+A case when this is violated is: Say you have 2 prize tickets in a
+raffle of 10 tickets. P(getting a prize) = 2/10. Once the 1st prize is
+given, the P(2nd prize) = 1/9 = 0.11. The probability changes through time. 
+
+
+For 10, we think of the Cars passing Street X.
+
+For 9, we think of 3 cars passing street X within 1 hr.
+
+For 11, we think of 1 hr
+
+For 12, we think that in no way if 3 cars pass this hour, that somehow
+only 0 cars will pass the next hour. With every hr the probability is
+assumed to be the same. 
+
+*At this point it appears that both the statements seem to meaning the
+exact same thing, as the examples provided are exactly the same!*
+
+> Then X, the (number of occurrences)[13] in a (fixed unit of time)[14], has
+> a (Poisson distribution)[15]:
+>
+> $P(X = x; \lambda) = \frac{\lambda^x e^{-\lambda}}{x!}$
+
+For 13, we think of 3 cars crossing street X
+
+For 14 we think of 1 hr 
+
+For 15 we think of 
+
+![poisson image](./images/images-DP-3/poisson.png)
+
+**Claim**: If events are occurring independently in time and the
+probability that an event occurs in a given length of time does not
+change through time, then Number of occurrences is a Poisson's
+distribution.
+
+Number of occurrences of  [plan crashes in a year follows a Poisson's
+distribution apparently](https://youtu.be/sv_KXSiorFk?t=837). We see that number of plane crashes in
+1984
+
+
+> $\lambda$ is nothing but the (mean)[16] of (number of occurrences)[17] in
+> the (time frame we are talking about)[18]. Not only the (mean)[19] but
+> also the (variance)[20] is equal to $\lambda$.
+
+For 16&19: If 3 cars pass in the first hour, 2 cars in the next and 5
+cars in the next and 2 cars in the next, then the mean is 3 cars per hour.
+
+For 17 we think of 3 cars passing in the first hour.
+
+For 18, we think of 1 hr
+
+For 20, we think of this:
+
+	((3-3)^2 + (2-3)^2 +(5-3)^2 + (2-3)^2)/4 = 1.5 
+
+
+**Claim:** Not only the mean but also the variance is $\lambda$ (in a
+Poisson's distribution)
+
+	> a  <-  rpois(10000,3) # 10k random picks from  poissons distribution with mean 3
+	> mean(a) # MEAN
+	[1] 3.005
+	> var(a) # VARIANCE is almost the same as mean!
+	[1] 2.947466
+
+
+<!-- - Volume 309 of Science reports on a physician who was on trial for expert testimony in a criminal trial -->
+<!-- - Based on an estimated prevalence of sudden infant death syndrome of -->
+<!--   1÷8543, the physician testified that that the probability of a -->
+<!--   mother having two children with SIDS was -->
+<!--   $\left(\frac{1}{8,543}\right)^2 -->
+<!-- - The mother was convicted for murder. -->
+
+
+<!-- One thing we should note here is for what (values)[] does this -->
+<!-- (actually work)[]. (This)[] is only (true)[] for (values of -->
+<!-- x=0,1,2,...)[] There is (no upperbound here)[], with a minimum of 0. -->
+
+<!-- --- -->
+<!-- ## Some uses for the Poisson distribution -->
+<!-- * Modeling count data   -->
+<!-- * Modeling event-time or survival data -->
+<!-- * Modeling contingency tables -->
+<!-- * Approximating binomials when $n$ is large and $p$ is small -->
+
+<!-- --- -->
+<!-- ## Rates and Poisson random variables -->
+<!-- * Poisson random variables are used to model rates -->
+<!-- * $X \sim Poisson(\lambda t)$ where  -->
+<!--   * $\lambda = E[X / t]$ is the expected count per unit of time -->
+<!--   * $t$ is the total monitoring time -->
+
+<!-- --- -->
+<!-- ## Example -->
+<!-- The number of people that show up at a bus stop is Poisson with -->
+<!-- a mean of $2.5$ per hour. -->
+
+<!-- If watching the bus stop for 4 hours, what is the probability that $3$ -->
+<!-- or fewer people show up for the whole time? -->
+
+
+<!-- ```r -->
+<!-- ppois(3, lambda = 2.5 * 4) -->
+<!-- ``` -->
+
+<!-- ``` -->
+<!-- ## [1] 0.01034 -->
+<!-- ``` -->
+
+
+<!-- --- -->
+<!-- ## Poisson approximation to the binomial -->
+<!-- * When $n$ is large and $p$ is small the Poisson distribution -->
+<!--   is an accurate approximation to the binomial distribution -->
+<!-- * Notation -->
+<!--   * $X \sim \mbox{Binomial}(n, p)$ -->
+<!--   * $\lambda = n p$ -->
+<!--   * $n$ gets large  -->
+<!--   * $p$ gets small -->
+
+
+<!-- --- -->
+<!-- ## Example, Poisson approximation to the binomial -->
+
+<!-- We flip a coin with success probablity $0.01$ five hundred times.  -->
+
+<!-- What's the probability of 2 or fewer successes? -->
+
+
+<!-- ```r -->
+<!-- pbinom(2, size = 500, prob = 0.01) -->
+<!-- ``` -->
+
+<!-- ``` -->
+<!-- ## [1] 0.1234 -->
+<!-- ``` -->
+
+<!-- ```r -->
+<!-- ppois(2, lambda = 500 * 0.01) -->
+<!-- ``` -->
+
+<!-- ``` -->
+<!-- ## [1] 0.1247 -->
+<!-- ``` -->
+
+
+## Lorentz actuator
+
+> (Lorentz actuators)[1] are (predominantly)[2] applied in (high
+> precision)[3a] (positioning systems)[3] because of their (inherent low
+> mechanical stiffness)[4] between the (stationary)[5] and the (moving
+> part)[6].
+
+For 1, we think of the following picture where a current carrying coil will move right
+or left when it is placed in a magnetic field.
+
+![lorentz](./images/images-DP-3/lorentz.png)
+
+For 2, we think of every stage used in every type of ASML Machine, there are
+atleast 6 Lorentz actuators
+
+For 3, we think of a WAFER moving stage in ASML machines, needs to
+move 0.5um with 50 m/s^2 acceleration.
+
+For 4, we think of a long loose rope connecting a ship and you. When
+the ship moves, you will feel nothing until the rope becomes
+tight. Similarly, let's say the coil is moving at 1mm/s to the
+right. If I move the yoke by 1mm to the left, the coil will continue
+to move to the right at 1mm/s simply unaffected (provided the magnets
+always cover the coil as shown in the above picture).
+
+In ASML, typically vibrations in the order of nanometers from the
+yoke, will not be passed on to the coil due to the low mechanical
+stiffness.
+
+For 5, we imagine the yoke being fixed with bolts to the ground
+
+For 6, we imagine a current carrying coil moving.
+
+**Claims:**  
+
+
+> [1] is applied in 3,3a because of [4]
+
+Lorentz Actuators are used in ASML XY position stages, primarily so
+that disturbance (running motor causing vibrations) from the outside
+world does not get transferred through the yoke to the moving coil,
+aka low stiffness like a loose rope.
+
+
+> Also the (linear relation)[1] between (current)[2] and (force)[3]
+> combined with the (favorable)[5] (dynamic properties)[6] are
+> (important factors)[7].
+
+For 1, think of the relation below where if current increases by 1N,
+then Current will increase by say 1 A (assuming BL=1N/A)
+
+	F = L I B; 
+	L- windings
+	I- current
+	B- magnetic field
+
+
+For 2, think of 1A in the coils
+
+For 3, we think of 1N push on the coil of the actuator
+
+For 5 & 6, we think of the low stiffness of say 0.001N/mm , like that of a
+"loose" rope connecting a ship and I. 
+
+*not sure about this number or even if this is how it works as none of
+the data sheets seem to show what this stiffness is for lorentz
+motors*
+
+For 7: we  imagine the ASML stage, which needs to move 1nm and stay
+there within +- 1nm. If a machine is running next to it, it will
+change the position of the stage from 1nm to 3500 nm. Having a lorentz
+motor allows the stage to stay at 1nm+-1nm even though machines next
+to it are moving by 3500 nm.
+
+**Claims:**  
+
+> 5,6 are "important factors"
+
+Having low stiffness we  imagine the ASML stage, which needs to move 1nm and stay
+there within +- 1nm. If a machine is running next to it, it will
+change the position of the stage from 1nm to 3500 nm. Having a lorentz
+motor allows the stage to stay at 1nm+-1nm even though machines next
+to it are moving by 3500 nm.
+
+> 1 is an important factor.
+
+*Why exactly a linear relation helps is not known to me. It probably
+has to do with linear control and non-linear control, but I need to
+talk to folks to get this info. Here I know that people in the
+industry generally fear non-linear systems.*
+
+> The (low stiffness)[1] (reduces)[2] the (amount of external motion)[3]
+> that is (transferred)[4] from the (support structure)[5] through the (actuator)[6]
+> to the (moving part)[7] ((transmissibility)[8]!).
+
+For 1, we think of the made up 0.001N/m
+
+For 3, we think of 3500nm
+
+For 2, we think of 3500nm to 0nm
+
+For 4, we think of stage being moved to 3500nm from 1nm in case motion
+is transferred.
+
+For 5, frame of the machine in which the stage is
+
+For 6 we think of the loretz actuator discussed above
+
+For 7 we think of the moving coil connected to the stage
+
+For 8, we think of 3500nm from the external machine to the stage
+reduces to 0nm, which means there was no transmissibility (aka 0).
+
+
+**Claims**  
+
+> [1] reduces [3] transferred to [7]
+
+ASML regularly uses lorentz actuators to avoid disturbance in the order
+of nanometers, i.e., 3500nm of movement to 0nm at the stage.
+
+*Maybe I need to write about how the transmissibility is 1, well it is
+also actively controlled!*
+
+*I agree that these numbers are made up out of my intuition. I need to
+talk to some people on monday to understand what is their expectation
+or understanding. I can speak to Niels, maybe lakerfeld or verboom See
+who is approachable and ask them some questions.*
+
+> (These movements)[1] can be caused by (vibrations of surrounding machines)[2]
+> but also by the (reaction forces of the actuator)[3] itself, (exciting
+> resonances in the support structure)[4]. As will be shown later, (Lorentz
+> actuators)[5] have also some (drawbacks)[6] like the (relatively modest force
+> to current ratio)[7] which (limits the maximum acceleration levels)[8] and
+> the (achievable range of motion)[9] or “stroke”. As the name implies, the
+> (Lorentz actuator)[10] is based on the (Lorentz force only)[11].
+
+For 1, we think of turbopump running at 80000 rpm present in the same
+machine as the stage shaking the parts next to to 10 microns.
+
+For 2, we think of the 10 microns of movement from the turbopump
+running in the adjecent machine which is 1m away.
+
+For 3, when the stage accelerates with 50m/s^2 and weighs 1kg, it
+creates a force of 50N on the Yoke as well.
+
+For 4, we think of a turbopump in the same machine as the stage.
+
+For 5, we think of 
+
+![lorentz](./images/images-DP-3/lorentz.png)
+
+For 6, i dont' have an example for its drawbacks, other than in
+theory, as mentioned in [7] and [8].
+
+![force-lorentz](./images/images-DP-3/force-lorentz.png)
+
+*I don't need to understand these documents to the letter,
+unfortunately. Although it is clear how much I suck at it now that I
+try to give an example. The very foundation that it has low stiffness
+and what in the actual fuck it means is absolutely not clear. What is
+limiting the acceleration is not clear, maybe the price of magnets? or
+the amount of magnetic field and windings!*
+
+> The Dutch (physicist)[1] and (Nobel prize winner)[2] Hendrik Antoon
+> Lorentz (1853 – 1928) formulated the (Lorentz force)[3] as a
+> (completion)[4] to the (Maxwell equations)[5]. 
+
+For 1, we think of Albert Einstein, and his "theory of relativity"
+
+For 2, we think of Albert Einstein once again
+
+For 3, we think of the force in the coil in the below picture when the
+yoke is held in place
+
+![lorentz](./images/images-DP-3/lorentz.png)
+
+For 5, we think of [these equations](https://brilliant.org/wiki/maxwells-equations/)
+
+*Not sure if I am expected to come up with other things than the
+equations, an example perhaps of the usage of one of the equations?*
+
+For 6, I don't know what he meant by completeing and ho 
+
+**Claim**
+
+[3] is a "completion" to 5? come back to it!???
+
+
+> The (law of Faraday)[6] describes the (effect)[7] of a (changing
+> magnetic field)[8] on (electrical charges)[9] hence (generating
+> electricity)[10] from (kinetic energy)[11].
+
+For 6, 
+
+*how can you give an example for the law?*
+
+For 8, we imagine a fixed point and a magnet that moves away from and
+towards it, like below. Say it changes from 5T to 40 T in 4s
+
+![faraday masturbation](./images/images-DP-3/faraday.png)
+
+
+For 9, we think of a copper wire loop with a resistance of 2 ohms.
+
+For 10, we think of the electrons moving in the loop and as a result
+showing  2.5 A on the amp meter.
+
+For 11, we think of electrons moving in the loop with a velocity.
+
+*I am not giving an example for 11, as it will take more than an hour
+to come up with the right example, as I have to redo my fundamentals
+in current. I leave this for now and move on with knowing that I have
+failed to provide an example here.*
+
+**Claim**
+
+[8] on [9] generates electricity from [11].
+
+Based on [this](https://www.khanacademy.org/science/physics/magnetic-forces-and-magnetic-fields/magnetic-flux-faradays-law/v/faradays-law-example), When the magnetic field changes from 5T to 40T in
+4s, then we have a current generated of 2.5A as a result of the
+charges moving.
+
+>Based on (energy conservation laws)[12] (creating electrical
+> energy)[13] from (motion)[14] is (fully complementary)[15] to
+> (creating motion energy)[16] from (electrical energy)[17] so the
+> laws of Lorentz and Faraday are (strongly related)[18].
+
+For 12, we think of "(the total energy)[12a] of an (isolated system)[12b]
+(remains constant)[12c]"
+
+For 12b, we think of a pendulum on a friction-less joint (roller
+bearing), we lift the ball of mass 1kg to a height 1m. 
+
+For 12a, sum of kinetic energy and potential energy = `mgh`
+
+For 12c, you let go of the pendulum, 
+
+At that point, KE =0 and PE = mgh ; total = mgh
+
+At the mid point the KE = mgh, and PE =0; total = mgh
+
+At the other extreme the KE = 0 and PE = mgh; total = mgh
+
+For 13, Current of 2.5 A as a result of varying magnetic field from 5T
+to 40T in 4s.
+
+For 14, we think of motion of the magnet to produce a change from 5T
+to 40T.
+
+For 15, I don't know what it means, I suspect it is fluff!
+
+For 16, we think of the moving coil in the lorentz actuator 
+
+For 17, we think of the current in the coil
+
+For 18, I do not know what is the point and what they mean by that.
+
+**Claims**
+
+
+> 13 from 14 is 15 to 16 from 17
+
+No idea what complimentary might mean in this case!
+
+> the Lorentz and Farady are "strongly related
+
+No idea!
+
+
+## Motion control Mechatronic system design
+
+> As was presented in the previous chapters, (most)[1] (mechatronic
+> systems)[2a] are (actively controlled)[2] (motion systems)[3], which
+> (implies)[4] that (these systems)[5] are of a (dynamic nature)[6]. If the
+> (mechatronic system)[7] to be (controlled)[8] (does not show any
+> dynamics)[9] within the (required)[10a] (positioning bandwidth)[10], the
+> (entire control problem)[10c] becomes (quasi static)[11] and is therefore
+> (trivial)[12].
+
+
+For 1a, we think of pick and place robots, wafer scanners
+
+For 1, we think of every wafer stage (made by ASML).
+
+For 3: At ASML, in one of the products, there is a stage which needs
+to move at 40g's and expected accuracies of positioning are 1/10
+nanometers. This stage is also connected to a cable slab. 
+
+For 2: The stage defined above moves from 0 to 100mm within 0.02s. The
+cable slab also follows it. When the stage stops the cable slap
+continues to oscillate and is capable of moving the stage in the order
+of mm and will not settle in 10ms. A controller, actively reads the
+position every 10000th of a second and provide movement to the
+stage so as to counter act the motion introduced by the cable Slab.
+
+For 3&5, we think of the wafer stages at ASML once again.
+
+For 6, we think of stages with accelerations moving at 0.5m/s
+
+For 7, we think of the wafer stage connected to lorentz actuators.
+
+For 8, we think of the same example as in [2].
+
+For 9, we think of a wafer stage moving at 0.01mm per second
+
+For 10,10a, The stage is expected to move from 0mm to 300mm.
+
+For 10c, positioning the stage at nm accuracy within 10ms
+
+For 11, correction to the stage needs to be applied every 1ms.
+
+For 12, applying correction every 1ms instead 0.1ms
+
+*I use the word dynamics 40 times a day, and yet when it comes to
+examples, I whimper like courage the cowardly dog when he sees a
+ghost*
+
+**Claims**
+
+> Most Mechatronic systems are actively controlled motion systems
+
+ASML stages, pick and place robots we see in automotive factories
+
+
+> [2a] is actively controlled implies it is of [6].
+
+ASML Stages are actively controlled and they move at ridiculous speeds
+of 0.5m/s [6].
+
+> if [7] does not show any dynamics[9], then [10c] becomes [11]
+
+When a stage moves at 0.01mm/s [9] and stops at say 10mm then,
+positioning the stage within a resting time of 10ms [10c] can be done by
+reading the position every 1ms and providing correction instead of
+every 0.1ms[11].
+
+> [10c] is trivial[12] when [7] shows no dynamics[6]
+
+When a stage moves at 0.01mm/s and stops then, positioning the stage
+within a resting time of 10ms can be done by applying a correction
+every 1ms instead of 0.1ms[12].
+
+> In (most)[0] (motion control systems)[1] (this)[2] is not the case and
+> (compensation)[3] of the (system dynamics)[4] (via control)[5] is
+> (required)[6] to (achieve the specified performance)[7] in terms of
+> (precision)[8], (accuracy)[9] and (frequency response)[10].
+
+
+For 0, with think of kuka making robots and ASML making stages
+
+For 1, we think of ASML stages which need position within 10nanometers
+within 10ms
+
+For 2, we think of stage moving at 0.01mm/s and stopping at a value
+say 10mm. The correction applied to the position is done at 1ms
+instead of 0.1ms
+
+For 3: if a stage is at 0.03mm instead of 0.02mm, then a "proportional
+force" of 0.24mN is provided by the actuator to bring it to 0.03mm.
+
+For 4, we think of a cable slab attached to the stage. When the stage
+stops suddenly (from 10m/s^2 to 0m/s^2 acceleration) the cable slab
+continues to oscillate 5 to 10mm's. This creates a force on the stage
+that moves it from current position(0.03mm) to +- 10nm.
+
+For 5, we think of a controller black box which brings the stage to
+0.03mm +- 1nm within 10ms by varying the forces in the actuator.
+
+For 6, we think of what happens when there is no control, i.e., the
+stage would oscillate with +-10nm for atleast 1s (exceeding the budget
+by 100 times).
+
+For 7, we think of settling of the stage,
+within 10ms after accelerating at 10m/s^2.
+
+For 8, we think of the settling of the stage at 0.03 mm within 1nm, @
+0.02mm within 1nm etc...
+
+For 9 we think of the movement of the stage by 0.01mm within 0.5nm,
+between any two points!
+
+For 10, we think of an excitation at 10hz and magnitude of 1N which
+the cable slab gets due to the neighboring machine. Because of this
+the stage will move +-10nm (let's say). The controller needs to counter
+this deviation by moving the stage opposite to the excitation or damp
+this out!
+
+
+**Claim**
+
+
+> In most motion control systems, [2] is not the case
+
+With Kuka robots and ASML stages, we do not have parts moving at
+0.01mm/s with a settling time of >10ms.
+
+> In most motion control systems, [3] of [4] via control is required
+
+ASML stages are connected to cable slabs. The stages accelerate at
+50m/s^2 and stop within 10mm. When they stop at 10mm, the cable slab
+continues to vibrate at say 150Hz with an amplitude of >1mm leading to
+moving the stage beyond +-10nm budget. In this case, a "controller" is
+used to counter the motion of added to the stage by the cable
+slabs. If the stage moves at 1hz with an amplitude of 10nm, then the
+controller uses the actuator to move the stage in the opposite
+amplitude.
+
+> This chapter discusses the (various approaches)[1] to guide and
+> (actively control)[2] (motion systems)[3]. As the name already
+> indicates, (motion control)[4] is all about the (control of a
+> machine)[5] to (follow a pre-defined trajectory in space)[6] and
+> (time)[7], with (various applications)[8].
+
+For 1, we think of (proportional control)[1a], "integral control" and
+"differential control"
+
+For 1a, we think of stage at 10mm that needs to go to 20mm. The Force
+applied on the actuator varies with how close the stage is to
+20mm.
+
+	F=k_p x (20mm-current position)
+	
+Here K_p is a constant.
+
+For 2, 3 and 4,5 we think of earlier examples. 
+
+For6, we think of the stage moving to different spots on the wafer
+starting from the centre and moving outwards at 50m/s^2 for every 10mm
+
+For 7, we think of the above trajectory but that needs to happen so
+that the stage can handle 200 wafers per hour!
+
+For 8, I have no idea what the author is trying to say.
+
+**Claim**
+
+its a trivial claim covered above in example 6 and 7, not going to
+deal with it!
+
+> Examples are (precision position control)[9] with (rejection)[10] of
+> (disturbances due to vibrations from the environment)[11] or
+> (imperfections of the mechanical system)[12] as well as (path
+> planning)[13] and (velocity control)[14] for (scanning
+> applications)[15].
+
+For 9, think of ASML stages where positions need to be within 10nm
+
+For 10&11, we think of stages where
+
+For 12 we think of 
+
+## Statistics
+
+> The P-value is the (probability)[1] (under)[2a] the (null
+> hypothesis)[2] of (obtaining evidence)[3a] as (extreme)[3] or (more
+> extreme)[4] (than that obtained)[5]. If the P-value is (small)[6],
+> then either ($H_0$ is true)[7] and (we have observed a rare
+> event)[8] or ($H_0$ is false)[9].
+
+For 1, we think of getting a sample with mean of difference in heights
+of fathers and sons = 0.99, 1 time out of 100000000 samples picked; as the
+probability is 0 in this case. 
+
+For 2, we think of the difference in height between father's and their
+son's to be 0
+
+For 2a&2 together, we think of, assuming that the mean of the father's
+height be equal to the mean of the Son's height
+
+For 3a, we think of the dataset available in R called "father.son",
+which contains heights of fathers and sons in pairs.
+
+For 3, mean of difference between the pairs is 1 inch ( in the sample
+we have while we expect it to be 0 inches +- 0.08 inches
+(std. deviation/ sqrt(n))
+
+For 4, we think of mean of difference >1inch
+
+For 5, we think of mean of difference is 1 inch (which is what we got
+from the sample)
+
+*For me writing the t-statistic exclaims the extremeness, but I am not
+sure how to write it as I have to explain a normal distribution adn
+then a t-statistic. What is expected here? I still used a lot of
+jargon here!*
+
+For 6, we think of <5% in our case it is ~0%. 
+
+For 7, we think of mean of difference in father and son's height as 0
+for the entire India (population)
+
+For 8, we think of a sample where the father's drink a potion that
+decreases their height by an inch approximately, after their son's are
+born. i.e., chance of this sample being picked <5%.
+
+For 9, we think that the mean of difference in father's and son's
+height is != 0.
+
+**Claims**
+
+> p-value is the probability of obtaining a mean that is >= obtained
+> sample mean.
+
+*It is a definition. I don't see this as a claim!*
+
+> if P-value is small then either H0 is true and we have observed a
+> rare event
+
+Let's say we have knowledge that the fathers in the sample drank
+a potion before coming to the study that made them 1inch shorter. And
+that in all other cases are of the same height.
+
+In this case, p-value is 0 for sample with mean 'difference in heights
+of father and son'. In this case, the father's height is same as son's
+height but we have observed 1inch height difference in this sample.
+
+
+> if P-value is small then H0 is false
+
+The p-value is ~0 (to the 12th digit), in this case, we say that there
+is no way the father's and Son's height could be the same for the
+whole world.
+
+
+## Three confidence intervals of linear regression
+
+There are three different concepts:
+
+1. The confidence intervals for the coefficients β0 & β1 in the the
+linear model.
+
+2. The confidence interval for the regression line at a
+particular value x_k. 
+
+3.​The prediction interval for a predicted value $$ when x=x_k
+
+Confidence intervals for the coefficients in the model (page 47-49):
+can be used for hypothesis testing, to see whether a relationship
+between x and y is likely or not.
+
+Predict a y-value in x_k by y^=β^0+β^1∗xk
+
+Confidence interval for the regression line (page 49-51):the predicted
+value lies on the regression line and is the mean of possible
+y-values. Because of the random nature of your observations the
+regression line has a confidence interval for each x_kx k ​ . The
+intervals lie as a band around the regression line and the width
+varies with x. You can see the confidence interval for the regression
+line as the confidence interval for the mean of y (\mu_yμ y ​ ).
+
+Prediction interval (page 49-51): the prediction interval is like the confidence interval, but now for the value of y (and not for it's mean). It also varies with x, and the band around the regression line is wider. The "real value" for y, given x= x_kx=x 
+k
+​	 , lies within the prediction interval with ..% confidence.
+
+I guess in most situations people will be interested in the prediction interval
+
+
+> (Confidence intervals)[1] for the (coefficients in the model)[2] (page
+> 47-49): (can be used)[3] for (hypothesis testing)[4], to see whether a
+> (relationship between x and y)[5] is (likely)[6] or (not)[7].
+
+*this is going to be mighty ass painful! but let's go!*
+
+*I don't know what confi Intervals stand for*
+ 
+In the other case I see a bell cureve, I see a mean get it!
+
+
+## time
+
+Day 1: 1.6hrs
+
+Got no where! Tried and tried and seems like I have no idea of
+Poissons
+
+but I felt like I need some formal document which starts from
+scratch. But let's see!
+
+Day 2: 2.25 hrs
+
+Still struggling with the same statements. Trying to identify
+examples, but it took a >2 hrs to find examples that explain
+"independence over time" and the other condition for Poisson's
+distribution.
+
+Day 3: 
+
+## Sources
+
+Statistics -p value, confidence intervals, linear regression,
+residuals, distributions, bayes stuff!
+
+
+Continue the dynamics one?
+
+MSD- not sure... actuators, PID control?? there will be a lot that I
+don't know.
+
+less wrong stuff?
+
+PG stuff?
+
+Summary from my career guide?
+
+What am I confused about?
+
+What to do in life, 
+
+What about work document PIR?
+What about the intertia document!
+
+How to get persuaded articel STM
+
+80000 hours! AI, datascience
+
+## office doc (don't publish)
+
+> The (X beam)[1] (only consist of)[2] the (Magnet Yokes)[3] for (the
+> X and Y actuators)[4]. (No separate structure)[5]/beam (is
+> necessary)[6]. (The magnet yokes)[7] are (bolted
+> together)[8]. (It)[8a] should be (analyzed)[9] whether (the
+> connection)[10] has (influence)[11] on the (magnet fields)[12]
+> (intended in the yokes)[13]. (If so)[14], A (small nonmagnetic
+> spacer)[15] (between the magnet)[16] (needs to be applied)[17].
+
+For 1, we think of a weight that is 5 times the wafer stage (12kg), so
+that if the wafer stage moves 1mm the weight moves 0.2mm in the
+opposite direction. In this case this weight comes from the Lorentz
+actuators.
+
+For 2, we think of the "X beam" having only the Lorentz actuators and
+no extra material 
+
+For 3, we think of the Lorentz actuator which consists of
+magnet, placed on iron as shown below (without the coil).
+
+![lorentz](./images/images-DP-3/lorentz.png)
+
+For 4, we think of the Lorentz actuators that move the wafer stage in
+X and Y directions.
+
+For 5, we think of the Y stage where in addition to the actuators, we
+also need 300kg's of mass, where as in the X stage just the actuators
+and their resultant weight of 60kg is "good enough".
+
+For 6: If the stage moves at 50m/s^2 for 10mm, it creates a force of
+600N in the opposite direction(newton's law). The X-beam (60kg
+actuator) will move only 2mm, as a result of this force. This movement
+of the X-beam will not exceed the volume limits given (5mm). Hence no
+separate structure is necessary.
+
+For 7, we think of 
+
+
+![lorentz](./images/images-DP-3/lorentz.png) 
+
+
+For 8 & 8a, we think of of a bolt running through the magnet into the yoke,
+forcing them to stay together.
+
+For 9, we think of the setup with bolts and without bolts and check
+the ""force band"" for a ""given current""! this has an "effect" on
+the "contro"
+
+*This is not an example, I get it! An example would be an actual
+analysis!*
+
+For 10, we think of the bolted magnets to the yoke!
+
+For 11, I don't know what is to be checked, how to know if it has
+influence or not!
+
+For 12, when there are two opposite magnets facing each other, there
+is a magnetic field. In the case of the actuators we are using it is
+about some "X" Tesla!
+
+For 13, I don't have an example...
+
+
+For 14, no example, to suggest what magnetic field changes are
+expected...
+
+For 15, plastic small? how will this solve the problem?
+
+Any more of this is a waste of time. It is not my forte!
+
+11 12 The function is of the Magnet Yokes are primary
+for the stator part of the wafer carrier actuators, 13 secondly as a
+balance mass in X direction.  14 For a good balance mass function, the
+driving forces into X beam need to be in the CoM in both Z as Y 15
+direction. This was one of the reasons for connecting one X motor to
+the front pillars and one X motor to 16 the rear pillar.  17 18 The
+connection of the X-beam to the Y connecting bodies is done via linear
+bearings.  19 This linear bearings give the X-beam the freedom to move
+in X direction while giving stiffness towards 20 the X-beam in the
+other 5 DoF’s.  21 22 The total moving mass of the X-beam is budgeted
+as 4x the Wafer Carrier mass = 4 x 12 kg = 48 kg.
+
+
+
+## statistics
+
+Understanding the question quiz2 course 7.
+
+> In the mtcars (data set)[1], (fit)[2] a (linear regression model)[3] of
+> weight ((predictor)[4]) on mpg ((outcome)[5]). Get a (95% confidence
+> interval)[6] for the (**expected mpg**)[7] at the (average
+> weight)[8]. What is the (lower endpoint)[9].
+
+
+For 1, we think of the fuel consumption data along with 10 aspects of
+automobile design aka, mtcars. 
+
+For 2, linear regression fit
+
+For 3, we think of a straight line passing through the plot of miles
+per gallon vs weight of the car so as to produce least error between
+the line and the actual values.
+
+	mpg = beta0 + beta1 *weight
+	
+
+This way for a given weight you can guess what will be the miles per
+gallon.
+
+For 4, we think of weight. For a given weight we guess the mpg.
+
+
+For 5, we think of mpg, for a given weight we guess the mpg.
+
+
+For 8, we think of x0=mean(weight)=1.6
+
+For 7, we think of the point on the regression line at the mean
+
+For 6, we think of band about which the point in 7 varies
+
+       fit      lwr      upr
+	1 20.09062 18.99098 21.19027
+
+For 9, we think of the lwr value.
+
+
+**Claims**
+
+None. It was all questions as far as I could see!
+
+
+> If I were to (present evidence)[1] of a (relationship)[2] between
+> (breath mint useage)[3] (mints per day, X) and (pulmonary
+> function)[4] (measured in FEV), you would be (skeptical)[5].
+
+> (Likely)[6], (you would say)[7], ('smokers)[8] (tend to use)[9] (more
+> breath mints)[10] (than non smokers)[11], smoking (is related)[12] to a
+> (loss in pulmonary function)[13]. (That's)[14] (probably the culprit)[15].'
+
+For 1, we think of a linear regressor between breath mint usage and
+pulmonary function, such that 90% of the points lie within 2% in the Y
+of the estimated linear regressor. More like error = something also
+the following cases!
+
+For 2, we think of a 60 degree line plot of breath mint usage in X and
+pulmonary function in Y, i.e., if breath mint is x0, then y0 = beta0 +
+beta1*x0. (linear relationship)
+
+For 3, we think of mints per day
+
+For 4, we think FEV measurement
+
+For 5, It could be that mints per day is a direct result of smoking
+which could be the actual reason for the measured FEV, for example!
+
+For 6&7, you would guess, think or "naturally believe" as "probable
+cause"
+
+For 8, People who smoke more than 10 cigarettes a day
+
+For 9, I am not even sure this should be highlighted!
+
+*I want to leave out all the bullshit and read just the main words,
+like leave out tend to use, you would say and all that!*
+
+For 10, we think of breathmints_smokers-breathmints_nonsmokers>3
+
+For 11, we think of people who smoke less than 1 cigarette per day. 
+
+For 12, there is a regressor line with y varying by 2%
+
+For 13, FEV
+
+For 14, Smokers taking in "more" breath mints that average joes!
+
+For 15, we think of the regression line between breathmint usage and
+FEV and conclude wrongly that breathmints cause FEV.
+
+
+**Claims**
+Moving on?
+
+
+> (If asked)[1] (what would convince you)[2], (you would likely
+> say)[3], 'If (non-smoking breath mint users)[4] had (lower lung
+> function)[5] (than)[6] (non-smoking non-breath mint users)[7] and,
+> (similarly)[], if (smoking breath mint users)[8] (had lower lung
+> function)[9] (than smoking non-breath mint users)[10], I'd be (more
+> inclined)[11] to (believe you)[12]'.
+
+For 1, no examples are needed.
+
+For 2, we think of a regression where the effects of smoking is
+removed from the data. For example, if we use the data for non-smokers
+only who use and don't use then it gives more confidence that the
+hypothesis initially mentioned is right!
+
+For 3, yeah! what is likely? most probably! Having been trained a bit
+in statistics, we know that correlation is not everything. the effect
+of other possible regressors needs to be removed!
+
+But what does likely mean? No idea!
+
+For 4, doesn't need an example as well
+
+For 5, we think of FEV levels that are "low"
+
+For 6, we think of non smoking breath mint users,  having an few of
+"low" and the non smoking non-breath mint users > than "low".
+
+For 7, doesn't need an example
+
+For 8, we think of the two arguments
+
+- smoking breath mint users....
+- non-smoking breath mint users!
+
+For 9, we think of "low"
+
+For 10, we think of > "low"
+
+For 11, we think of "pursuing this line of thinking" that breath
+mints actually cause lung issues.
+
+For pursuing, I would think of checking if there are other variables
+such as people flossing or not, contributing to the use of breath
+mints.
+
+You are never a 100% sure. Atleast smoking seems not to cause the
+issue, but flossing could, so we pursue that line of thinking i.e.,
+look at the data on flossing peop
+
+
+Check if people who floss and take breath mints and bla bla bla... I
+understand flossing has nothing to do with lung function or whatever!
+
+
+For 12, we think of the same think, pursue other variables and right
+now I don't fully understand the effect of keeping one variable and
+removing the other. Removing all variables sounds like  a plan as lm
+does! but of course bcaffo said you need to play with the variables 
+
+
+
+
+* In other words, to even consider my results, I would have to
+  demonstrate that they hold while holding smoking status fixed.
+## Summary of by understanding of 80k
+
+So at this point having learnt new techniques to check my
+understanding, I put it to test on text that I have written
+earlier. One such text is the 22k article I wrote based on the english
+and some impact calculations I did! God help the lack of study level
+data!
+
+> (I think)[1] the (DW)[2a] (potential)[2] with (SE)[3a] is very (poor)[3]. (It)[4]
+> does not give me (skills)[5] in statistics or (research)[6]. Based on
+> my (current skill level)[7] I do not think I could (ever)[9]
+> (work)[10] in (places)[11] like MIRI either. 
+
+For 1, I think of the time I did "research" or "read through articles"
+"based on which" I form my "opinion".  
+
+I mean why do you think bla bla bla. Is it really important I talk
+abut "i think"? if I just talked about 2 and 3, I don't skip anything
+important like "if DW is "better" SE"
+
+Yea no more I think words shall be respected. We move on I guess.
+
+For 2, I think of number of lives saved, which is the only goddamn
+thing we care about!
+
+For 3, we think of how SE, can make a lot of money (working at
+Snapchat paying 300k$), but does not get you skills like in
+statistics or management, as compared to say working in DS. Statistics
+is almost life here. Critical thinkging aka hypothesis and rejecting
+is the norm here. Scientific way is the shizz here!
+
+For 2a, we think of working at Givewell at a starters position like an
+	analyst and create an impact of 500 to 1.4k lives
+
+For 3a, we think of working in google for as an SE writing python/C
+code for their softwares like their search engine, for a salary of
+200k$ within the next 5 years.
+
+For 4, I think of SE as described the previous example.
+
+For 5, we think of ("skills in statistics")[] and ("researching")[]
+
+For 5a, like listed in the GiveWell website, cause that's what they
+are looking for!
+
+For 5b, like listed in GiveWell website
+
+For 6, we think of "stuff" listed in GiveWell website!
+
+For 7, we think of barely writing 5 lines of code without referring to
+stackoverflow, barely knowing python and just starting with R, lack of
+ability to write software?
+
+For 9,  I think of within my lifetime
+
+For 10, I think of being a researcher
+
+For 11, we think of MIRI
+
+**Claims**
+
+> (DW)[2] (potential)[3] with (SE)[4] is (very poor)[5].
+
+
+For 2, we think of working at GiveWell
+
+For 3, we think if # of lives saved by getting a job at GiveWell is
+~1000
+
+For 4, we think of working at google making softwares like google maps
+
+For 5, we think of working at google on google maps, without learning
+any statistics that is very important for GiveWell.
+
+An example of the claim is: Number of lives saved by getting a job at
+GiveWell, as a result of working at google on building google maps,
+does not give us the knowledge in statistics (causal inference,
+limitations of experimental methods), which could in turn get us a job
+at GiveWell which could save about "1000 lives"" over my lifetime.
+
+> (It)[1] does not give me (skills)[2] in (statistics)[3] 
+
+For 1, we think of working in C and python building the platform for
+google maps
+
+For 2, we think of knowing when to use what variables to model miles
+per gallon vs number of cylinders, for example, In the mtcars dataset,
+we want to look at outcome miles per gallon and the influence of the
+predictor: number of cylinders. If you don't use any of the other
+variables in your model, you get a slope of
+
+
+
+> it does not give me skills in research
+
+
+Why not start with claims and then identify the roots, so that it
+gives you a heads up on what you need to give examples for, otherwise
+it feels like pandian is flying in the dark!
+
+> SE (could work)[] for (ETG)[] (if it allows me to startup)[] or
+> (somehow it allows me to move into finance)[]. But (we all know)[]
+> that despite the (impact of a startup)[], the (chance of success)[]
+> is way (too low)[]. Regarding getting into (Finance with SE)[], the
+> (whole path)[] and (effective impact)[] is unclear. (It is still
+> expected)[] to (fare poorer)[] than DS for DW. It looks like
+> Software Engineering (seems nice)[] for (post-retirement work)[],
+> but considering my (EAO plans)[] or (ETG plans)[], I don’t see
+> Software Engineering (serving me better)[] than DS or MC.
+
+
