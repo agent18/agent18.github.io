@@ -535,7 +535,7 @@ opposite force. Hence equilibrium.
 
 For 5, the dynamic equilibrium in the Y is written as `$T
 \cos{\theta} - mg - m\ddot{u_1} = 0$` and in the X direction written
-as `$ T \sin{\theta} - m \ddot{u_2} = 0 $`
+mas `$ T \sin{\theta} - m \ddot{u_2} = 0 $`
 
 For 6, we imagine the pendulum moving from the mean position to a
 position $\theta=90^\circ$. The displacement, $u_i=L$ as it is

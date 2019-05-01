@@ -2181,8 +2181,8 @@ hours. For now, lets just role with that number.
 >The high risk of entrepreneurship also means that it’s likely not
 >enough people pursue it in order to gain personal status or wealth,
 >so society is likely to be undersupplied with entrepreneurs. One
->study estimates that for every $1 of profit earned by an innovator,
->$50 of benefits are generated for society at large.
+>study estimates that for every `$1` of profit earned by an
+>innovator, \$50  of benefits are generated for society at large.
 
 >One concern is that some companies within technology have been
 >accused of exploiting addictive tendencies to gain users, so the fact
