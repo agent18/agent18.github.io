@@ -221,3 +221,93 @@ yet tested how).
 ### Time taken to understand and install and procrastinate
 
 	1hr 35 mins.
+	
+## Upgrading R 3.4.4 to next version for MASS library
+
+From [this stack answer made on may 18](https://stackoverflow.com/a/10476798/5986651),
+
+	sudo nano /etc/apt/sources.list    
+
+	deb https://cloud.r-project.org/bin/linux/ubuntu/ version/
+	
+	gpg --keyserver keyserver.ubuntu.com --recv-key E084DAB9
+
+	gpg -a --export E084DAB9 | sudo apt-key add -
+
+	sudo apt-get update && sudo apt-get upgrade
+
+It appears that R has already upgraded!
+
+	sudo apt-get install r-base-dev
+
+``` terminal
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+r-base-dev is already the newest version (3.6.0-1xenial).
+r-base-dev set to manually installed.
+The following packages were automatically installed and are no longer required:
+  cdbs libaio1 libevent-core-2.0-5 snapd-login-service
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+```
+
+**Seemless integration into ESS emacs**
+
+### But packages are missin!
+
+But all packages are missin! BUT!!!!!
+
+	library(ggplot2)
+	
+	NOT FOUND!
+
+For this we follow [the same guy on this answer](https://stackoverflow.com/a/10476798/5986651)!
+
+> Recover your old packages following the solution that best suits to
+> you (see this). For instance, to recover all the packages (not only
+> those from CRAN) the idea is:
+>
+> -- copy the packages from R-oldversion/library to
+> R-newversion/library, (do not overwrite a package if it already
+> exists in the new version!).
+>
+> -- Run the R command update.packages(checkBuilt=TRUE, ask=FALSE).
+
+So we first look at `.libPaths()` in R to see where 3.6 packages are!
+
+and we get 
+
+	[2] "/usr/local/lib/R/site-library"               
+	[3] "/usr/lib/R/site-library"                     
+	[4] "/usr/lib/R/library"  
+	
+And found that `/usr/lib/R/library` has the packages of the current
+folders of packages. I test many of them using `library(MASS)` for
+example! It works!
+
+When you ask to update packages (also install packages I think), it
+puts in a different folder which is writable. I found 3.4 packages in
+`/home/eghx/R/x86_64-pc-linux-gnu-library/3.4` and 3.6 packages go
+into `/home/eghx/R/x86_64-pc-linux-gnu-library/3.6` when you 
+
+	update.packages(checkBuilt=TRUE, ask=FALSE)
+
+#### Conclusion
+
+In conclusion, what needs to be done is, 
+
+	sudo cp -rn R/x86_64-pc-linux-gnu-library/3.4/ggplot2 /usr/lib/R/library/ggplot2
+
+for all folders 
+
+**or**
+
+just copy paste from `R/x86_64-pc-linux-gnu-library/3.4` to
+`R/x86_64-pc-linux-gnu-library/3.6`. Do not replace any folders in 3.6
+and then type in R
+
+	update.packages(checkBuilt=TRUE, ask=FALSE)
+
+You will have a lot of warnings, maybe errors even. But thats how it's
+going to be! But I guess it's ok!

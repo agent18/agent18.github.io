@@ -18987,3 +18987,7 @@ We have elastic-net regression
 CLAIM: This is good to deal with correlated terms as Lasso tends to pick just
 one of the correlated terms and eliminates the others and Whereas
 Ridge shrinks all parameters of the correlated variables together!
+
+### links
+
+R code on ridge lasso and other : https://www4.stat.ncsu.edu/~post/josh/LASSO_Ridge_Elastic_Net_-_Examples.html
