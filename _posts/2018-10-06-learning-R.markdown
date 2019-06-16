@@ -7342,7 +7342,7 @@ Emacs init file attempts and failures for keybinding!
 
 Source: https://stackoverflow.com/a/10628731/5986651
 
-### Sample Knitr doc and my workflow
+### template Knitr doc and my workflow
 
 -----------
  
@@ -15842,7 +15842,34 @@ k-fold but when k=N
 * Random sampling with replacement is the _bootstrap_
   * Underestimates of the error
   * Can be corrected, but it is complicated ([0.632 Bootstrap](http://www.jstor.org/discover/10.2307/2965703?uid=2&uid=4&sid=21103054448997))
-* If you cross-validate to pick predictors estimate you must estimate errors on independent data. 
+* If you cross-validate to pick predictors estimate you must estimate
+  errors on independent data. 
+### Why should we Cross Validate: Agent's
+
+**Why do we need CV? CV is only for model checking, not building! PNN!**
+https://stats.stackexchange.com/questions/52274/how-to-choose-a-predictive-model-after-k-fold-cross-validation
+
+
+**Hold-out-validation vs cross-validation**
+https://stats.stackexchange.com/questions/104713/hold-out-validation-vs-cross-validation
+
+**Need to look into this**
+http://stats.stackexchange.com/questions/18856/is-cross-validation-a-proper-substitute-for-validation-set
+
+**For now:**
+
+> There are pros and cons to estimating error with both CV and
+> hold-out validation (the test set you mention). Both are different
+> ways of estimating error on unseen data. In some cases, such as
+> limited training data, CV might be the only realistic option. Though
+> out-of-sample error estimates for CV will be biased toward the
+> training set (these are averaged over each fold) and can lead to
+> lower estimated error. If you are using random forest there is
+> something called 'out of bag error' which is intended to compensate
+> for this and can be more accurate.
+
+https://www.coursera.org/learn/practical-machine-learning/discussions/weeks/4/threads/sJN_F-wlEeaYmQ7DfRQSPg
+
 ## What data should you use? (c8-w1)
 ### A succcessful predictor
 
@@ -16496,9 +16523,9 @@ quantile(capAve - capAveTruth)
 quantile((capAve - capAveTruth)[selectNA])
 quantile((capAve - capAveTruth)[!selectNA])
 ```
-
+	
 **Why is !selectNA not completely equal to 0** because of KNNIMPUTE?
----
+
 
 ### Notes and further reading
 
@@ -16507,6 +16534,23 @@ quantile((capAve - capAveTruth)[!selectNA])
   * Especially if the test/training sets collected at different times
 * Careful when transforming factor variables!
 * [preprocessing with caret](http://caret.r-forge.r-project.org/preprocess.html)
+
+### Agent's notes on cleaning data
+
+Based on [here](https://machinelearningmastery.com/pre-process-your-dataset-in-r/). All in caret!
+
+“BoxCox“: apply a Box–Cox transform, values must be non-zero and positive.
+“YeoJohnson“: apply a Yeo-Johnson transform, like a BoxCox, but values can be negative.
+“expoTrans“: apply a power transform like BoxCox and YeoJohnson.
+“zv“: remove attributes with a zero variance (all the same value).
+“nzv“: remove attributes with a near zero variance (close to the same value).
+“center“: subtract mean from values.
+“scale“: divide values by standard deviation.
+“range“: normalize values.
+“pca“: transform data to the principal components.
+“ica“: transform data to the independent components.
+“spatialSign“: project data onto a unit circle.
+
 
 ## Covariate creation (c8-w2)
 ### Two levels of covariate creation
@@ -18301,8 +18345,9 @@ The result is:
 what if there is more variance? What is the impact action! And lesser
 variables more BIAS!
 **
----
 
+---
+	
 ### Prostate cancer 
 
 ```{r prostate}
@@ -18895,6 +18940,216 @@ accuracy(fcast,ts1Test)
 
 
 
+## Quiz c8-w4
+
+### Question 1
+
+``` r
+rm(.Random.seed, envir=globalenv())
+library(ElemStatLearn)
+data(vowel.train)
+data(vowel.test)
+
+vowel.train$y <- as.factor(vowel.train$y)
+vowel.test$y <- as.factor(vowel.test$y)
+set.seed(33833)
+library(randomForest)
+library(caret)
+
+rfFit <- train(y~.,method="rf", data=vowel.train)
+
+rfPred <- predict(rfFit,vowel.test)
+confusionMatrix(rfPred,vowel.test[,1])
+
+gbmFit <- train(y~., method="gbm", data=vowel.train);
+
+gbmPred <- predict(gbmFit,vowel.test)
+confusionMatrix(predict(gbmFit,vowel.test),vowel.test[,1])
+
+## combined model
+
+predDF <- data.frame(as.factor(rfPred),as.factor(gbmPred),y=vowel.test$y)
+combModFit <- train(y~.,method="gam",data=predDF)
+
+combPred <- predict(combModFit,predDF)
+confusionMatrix(combPred,vowel.test$y)
+
+## Agreement accuracy
+confusionMatrix(gbmPred, rfPred)$overall['Accuracy']
+
+a <- rfPred==gbmPrewd
+sum(a==T)/length(a)
+```
+
+### Question 2
+
+Completely wrong answer but the way I have written the code is exactly
+the same as rpubs versions here and also in the code below!
+
+``` r
+library(caret)
+library(gbm)
+set.seed(3433)
+library(AppliedPredictiveModeling)
+data(AlzheimerDisease)
+adData = data.frame(diagnosis,predictors)
+inTrain = createDataPartition(adData$diagnosis, p = 3/4)[[1]]
+training = adData[ inTrain,]
+testing = adData[-inTrain,]
+
+##caleculation
+
+set.seed(62433)
+
+rfFit <- train(diagnosis~.,method="rf",data=training)
+gbmFit <- train(diagnosis~.,method="gbm",data=training)
+ldaFit <- train(diagnosis~.,method="lda",data=training)
+
+
+rfPred <- predict(rfFit,testing)
+confusionMatrix(rfPred,testing$diagnosis)
+
+
+gbmPred <- predict(gbmFit,testing)
+confusionMatrix(gbmPred,testing$diagnosis)$overall["Accuracy"]
+
+
+ldaPred <- predict(ldaFit,testing)
+confusionMatrix(ldaPred,testing$diagnosis)$overall["Accuracy"]
+
+predDF <-
+    data.frame(rfPred,gbmPred,ldaPred,diagnosis=testing$diagnosis)
+combModFit <- train(diagnosis~.,method="rf",data=predDF)
+
+combPred <- predict(combModFit,predDF)
+confusionMatrix(combPred,testing$diagnosis)$overall["Accuracy"]
+
+### Comparing to others in rpubs!
+
+library(caret)
+library(gbm)
+set.seed(3433)
+library(AppliedPredictiveModeling)
+data(AlzheimerDisease)
+adData = data.frame(diagnosis,predictors)
+inTrain = createDataPartition(adData$diagnosis, p = 3/4)[[1]]
+training = adData[ inTrain,]
+testing = adData[-inTrain,]
+
+set.seed(62433)
+modelFit_rf<-train(diagnosis~., method="rf", data=training)
+modelFit_gbm<-train(diagnosis~., method="gbm", data=training,verbose=FALSE)
+modelFit_lda<-train(diagnosis~., method="lda", data=training)
+
+predict_rf<-predict(modelFit_rf,newdata=testing)
+predict_gbm<-predict(modelFit_gbm,newdata=testing)
+predict_lda<-predict(modelFit_lda,newdata=testing)
+confusionMatrix(predict_rf, testing$diagnosis)$overall['Accuracy']
+
+confusionMatrix(predict_gbm, testing$diagnosis)$overall['Accuracy']
+confusionMatrix(predict_lda, testing$diagnosis)$overall['Accuracy']
+
+
+#create a new dataframe with the predictions
+predDF <- data.frame(predict_rf, predict_gbm, predict_lda, diagnosis = testing$diagnosis)
+#create a new model using the new data frame and rf method
+combModFit <- train(diagnosis ~.,method="rf",data=predDF)
+
+#predict values and calculate the confusion matrix to check the accuracy
+combPred <- predict(combModFit, predDF)
+confusionMatrix(combPred, testing$diagnosis)$overall['Accuracy']
+```
+
+### Question 3
+
+``` r
+set.seed(3523)
+
+library(AppliedPredictiveModeling)
+
+data(concrete)
+
+inTrain = createDataPartition(concrete$CompressiveStrength, p = 3/4)[[1]]
+
+training = concrete[ inTrain,]
+
+testing = concrete[-inTrain,]
+
+## Caleculation
+
+library(glmnet)
+library(glmnetUtils)
+set.seed(233)
+
+cv.lasso <-
+    cv.glmnet(CompressiveStrength~.,data=training,alpha=1)
+
+plot(cv.lasso$glmnet.fit, "lambda", label=TRUE)
+
+## Above seems to give the right answer as well!
+
+## modFit <- glmnet(CompressiveStrength~.,data=training, alpha = 1,
+##                 lambda = cv.lasso$lambda.min) ## Not needed
+##                 apparently for the question!
+
+
+## Answer from Rpubs!
+
+set.seed(233)
+trcontrol <- train
+modLasso <- train(CompressiveStrength ~ ., data=training, method="lasso")
+plot.enet(modLasso$finalModel,  xvar="penalty", use.color=TRUE)
+
+
+## The below from
+## https://stackoverflow.com/questions/43852738/how-to-apply-lasso-logistic-regression-with-caret-and-glmnet
+## also gives similar result!
+
+trainControl <- trainControl(method = "cv",
+                             number = 10)
+
+modelFit <- train(CompressiveStrength ~ ., data = training, 
+            method = "lasso", 
+            trControl = trainControl)
+```
+
+### Question 4
+
+``` r
+library(lubridate) # For year() function below
+dat = read.csv("~/Desktop/gaData.csv")
+training = dat[year(dat$date) < 2012,]
+testing = dat[(year(dat$date)) > 2011,]
+tstrain = ts(training$visitsTumblr)
+
+fit <- bats(tstrain)
+prediction <- forecast(fit,level=95,h=nrow(testing))
+
+pos <- sum(testing$visitsTumblr>prediction$lower
+           &testing$visitsTumblr<prediction$upper)
+pos/nrow(testing)
+
+set.seed(3523)
+```
+### Question 5
+
+``` r
+
+library(AppliedPredictiveModeling)
+data(concrete)
+inTrain = createDataPartition(concrete$CompressiveStrength, p = 3/4)[[1]]
+training = concrete[ inTrain,]
+testing = concrete[-inTrain,]
+
+set.seed(325)
+library(e1071)
+
+fit <- svm(CompressiveStrength~.,data=training)
+prediction <- predict(fit,newdata=testing)
+accuracy(prediction,testing$CompressiveStrength)
+
+```
+
 ## Statquest Bias and Variance!
 
 Based on [this statquest](https://www.youtube.com/watch?v=EuBBz3bI-aA).
@@ -18987,3 +19242,3137 @@ We have elastic-net regression
 CLAIM: This is good to deal with correlated terms as Lasso tends to pick just
 one of the correlated terms and eliminates the others and Whereas
 Ridge shrinks all parameters of the correlated variables together!
+
+### links
+
+R code on ridge lasso and other :
+https://www4.stat.ncsu.edu/~post/josh/LASSO_Ridge_Elastic_Net_-_Examples.html
+## Final Assignment: C8-w4
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo=TRUE, message=F, warning=F, cache=T)
+```  
+
+### Model explanation
+
+With this assignment the goal is to predict classification of barbell
+lifts into A,B,C,D,E. We start with exploring the data. We realize
+that there are many NA's so we start cleaning the data by removing
+high NA columns. We perform both Hold-out test as well as cross
+validation based on this [stack answer](https://stats.stackexchange.com/questions/104713/hold-out-validation-vs-cross-validation) as we have 19 thousand Data
+points! CV is used typically if the dataset is small. Both are used to
+understand the Model Accuracy.
+
+The initial plan is to start with decision trees and go from there on
+if the accuracy is not good enough. As explained below we need a model
+accuracy of 99% as I would like atleast a 90% accuracy on the
+QUIZ/TEST!
+
+
+#### Expected out of sample error calculation!
+
+Based on [this](https://github.com/lgreski/datasciencectacontent/blob/master/markdown/pml-requiredModelAccuracy.md), we are able to calculate the following:
+
+The following table illustrates the probability of predicting all 20
+test cases right, given a particular model accuracy.
+
+
+<table>
+<tr><th><br><br>Model<br>Accuracy</th><th>Probability<br>of Predicting <br>20 out of 20<br>Correctly</th>
+</tr>
+<tr><td align=right>0.800</td><td align=right>0.0115</td></tr>
+<tr><td align=right>0.850</td><td align=right>0.0388</td></tr>
+<tr><td align=right>0.900</td><td align=right>0.1216</td></tr>
+<tr><td align=right>0.950</td><td align=right>0.3585</td></tr>
+<tr><td align=right>0.990</td><td align=right>0.8179</td></tr>
+<tr><td align=right>0.995</td><td align=right>0.9046</td></tr>
+</table>
+
+We thus aim for a model accuracy of 99.5% atleast so that the expected
+out of sample accuracy will be in the order of 90%.
+
+---
+### Start of R programming!
+
+```{r }
+library(caret,corrplot)
+```
+
+The training data for this project are available here:
+
+https://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv
+
+The test data are available here:
+
+https://d396qusza40orc.cloudfront.net/predmachlearn/pml-testing.csv
+
+```{r }
+f.training <- read.csv("./pml-training.csv")
+f.testing <- read.csv("./pml-testing.csv")
+```
+
+### Explore Data
+
+```{r }
+dim(f.training)
+sum(is.na(f.training))
+```
+Other explorations were done with `head`, `names` etc... but is not
+showed here due to the large output. With the `sum` function we see
+that there are a lot of NA's, so we get into cleaning the data.
+
+### Cleaning DATA
+
+```{r }
+
+## Cleaning Removing high NA cols
+
+ncol(f.training)
+nas <- lapply(f.training,function(X) sum(is.na(X)))> 0.90*nrow(f.training)
+f.training <- f.training[,!nas]
+f.testing <- f.testing[,!nas]
+ncol(f.training)
+
+## Cleaning Removing Zero Var Cols
+
+NZV <- nearZeroVar(f.training)
+f.training <- f.training[,-NZV]
+f.testing <- f.testing[,-NZV]
+ncol(f.training)
+
+## cleaning removing meaningless variables such as name
+
+MLV <- 1:5
+f.training <- f.training[,-MLV]
+f.testing <- f.testing[,-MLV]
+ncol(f.training)
+
+```
+
+### Partition the data
+
+```{r partition }
+inTrain <- createDataPartition(y=f.training$classe,p=0.7,list=F)
+training <- f.training[inTrain,]
+testing <- f.training[-inTrain,]
+```
+
+
+### Model fit Decision tree!
+
+We start with the Decision Tree as here we are primary interested in a
+classification type of problem. Based on [this](https://stats.stackexchange.com/questions/61783/bias-and-variance-in-leave-one-out-vs-k-fold-cross-validation) we choose a CV
+K-fold of 10.
+
+```{r LGOCV}
+trControl <- trainControl(method="cv",number=10)
+modFitDT <- train(classe~.,method="rpart",data=training,trControl=trControl)
+
+predictionDT <- predict(modFitDT,testing)
+confusionMatrix(predictionDT,testing$classe)$overall['Accuracy']
+```
+The accuracy of the decision tree seems to be really bad. Increasing
+the CV number doesn't seem to help! The decision tree is shown below:
+
+```{r DTplot}
+library(rattle)
+fancyRpartPlot(modFitDT$finalModel)
+plot(confusionMatrix(predictionDT,testing$classe)$table)
+```
+
+
+### Model Fit Random Forests
+
+Next we try Random Forests. This following code uses 3 cores, and
+allows running in parallel for a time of 5 mins instead of 20 mins, on
+an 8gb ram system. The code is based off of : [Github link of Len](https://github.com/lgreski/datasciencectacontent/blob/master/markdown/pml-randomForestPerformance.md).
+
+```{r RF}
+library(parallel)
+library(doParallel)
+cluster <- makeCluster(detectCores() - 1) # convention to leave 1 core for OS
+registerDoParallel(cluster)
+
+trControl <- trainControl(method = "cv",
+                           number = 5,
+                          allowParallel = TRUE)
+
+modFitRF <- train(classe~.,data=training,method="rf", trControl=trControl)
+
+stopCluster(cluster)
+registerDoSEQ()
+
+predictionRF <- predict(modFitRF,testing)
+confusionMatrix(predictionRF,testing$classe)$overall['Accuracy']
+```
+
+```{r }
+plot(confusionMatrix(predictionRF,testing$classe)$table)
+```
+
+### Final Prediction
+```{r }
+prediction.finale <- predict(modFitRF,f.testing)
+prediction.finale
+```
+This led to a 100% prediction on the Quiz! :)
+
+### Appendix: Question copied from Coursera!
+
+Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now
+possible to collect a large amount of data about personal activity
+relatively inexpensively. These type of devices are part of the
+quantified self movement – a group of enthusiasts who take
+measurements about themselves regularly to improve their health, to
+find patterns in their behavior, or because they are tech geeks. One
+thing that people regularly do is quantify how much of a particular
+activity they do, but they rarely quantify how well they do it. In
+this project, your goal will be to use data from accelerometers on the
+belt, forearm, arm, and dumbell of 6 participants. They were asked to
+perform barbell lifts correctly and incorrectly in 5 different
+ways. More information is available from the website here:
+http://web.archive.org/w
+eb/20161224072740/http:/groupware.les.inf.puc-rio.br/har
+(see the section on the Weight Lifting Exercise Dataset).
+
+The training data for this project are available here:
+
+https://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv
+
+The test data are available here:
+
+https://d396qusza40orc.cloudfront.net/predmachlearn/pml-testing.csv
+
+The data for this project come from this source:
+http://web.archive.org/web/20161224072740/http:/groupware.les.inf.puc-rio.br/har. If
+you use the document you create for this class for any purpose please
+cite them as they have been very generous in allowing their data to be
+used for this kind of assignment.
+
+
+The training data for this project are available here:
+
+https://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv
+
+The test data are available here:
+
+https://d396qusza40orc.cloudfront.net/predmachlearn/pml-testing.csv
+
+> The data for this project come from this source:
+> http://web.archive.org/web/20161224072740/http:/groupware.les.inf.puc-rio.br/har. If
+> you use the document you create for this class for any purpose
+> please cite them as they have been very generous in allowing their
+> data to be used for this kind of assignment. - from [website](http://web.archive.org/web/20161224072740/http:/groupware.les.inf.puc-rio.br/har#weight_lifting_exercises)
+
+> Six young health participants were asked to perform one set of 10
+> repetitions of the Unilateral Dumbbell Biceps Curl in five different
+> fashions: exactly according to the specification (Class A), throwing
+> the elbows to the front (Class B), lifting the dumbbell only halfway
+> (Class C), lowering the dumbbell only halfway (Class D) and throwing
+> the hips to the front (Class E). - from [website](http://web.archive.org/web/20161224072740/http:/groupware.les.inf.puc-rio.br/har#weight_lifting_exercises)
+
+
+## C9 Developing DATA products!
+https://github.com/DataScienceSpecialization/Developing_Data_Products
+### Warning about shiny
+
+> Shinyapps.io Project - Read on GitHub Some people in this session
+> let us know that they are concerned about running up against the
+> 25-hour per month limit on the free tier of shinyapps.io.
+>
+> Should you hit the limit on the free plan, RStudio will send you a
+> message. If you receive the message and are more than a few days
+> from getting a fresh 25 hours on your monthly renewal, please send
+> an email to shinyapps-support@rstudio.com with the email address you
+> use on the service and the account name you are using (the first
+> part of the URL). RStudio will then increase your limit so you can
+> continue working on your project.
+>
+> Since there are a lot of folks in the class we’d appreciate if you
+> only emailed RStudio after you get the message and only if you feel
+> you’ll need more time.
+
+
+## Shiny Part 1 (c9-w1)
+### What is Shiny?
+
+- Shiny is a web application framework for R.
+- Shiny allows you to create a graphical interface so that
+users can interact with your visualizations, models, and 
+algorithms without needed to know R themselves.
+- Using Shiny, the time to create simple, yet powerful, 
+web-based interactive data products in R is minimized.
+- Shiny is made by the fine folks at R Studio.
+
+### Some Mild Prerequisites 
+
+Shiny doesn't really require it, but as with all web 
+programming, a little knowledge of HTML, CSS and Javascript
+is very helpful.
+
+- HTML gives a web page structure and sectioning as well as markup instructions
+- CSS gives the style
+- Javscript for interactivity
+  
+Shiny uses [Bootstrap](http://getbootstrap.com/) (no 
+relation to the statistics bootstrap) style, which (to me) 
+seems to look nice and renders well on mobile platforms.
+
+### Available Tutorials
+
+If you're interested in learning more about HTML, CSS, and
+Javascript we recommend any one of the following resources:
+
+- [Mozilla Developer Network Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
+- [HTML & CSS from Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css)
+- [Tutorials from Free Code Camp](https://www.freecodecamp.com/)
+
+### Getting Started
+
+- Make sure you have the latest release of R installed
+- If on Windows, make sure that you have Rtools installed
+- `install.packages("shiny")`
+- `library(shiny)`
+- Great tutorial at http://shiny.rstudio.com/tutorial/
+- Basically, this lecture is walking through that tutorial 
+offering some of our insights
+
+### A Shiny project
+
+A shiny project is a directory containing at least two files:
+
+- `ui.R` (for user interface) controls how your app looks.
+- `server.R` that controls what your app does.
+
+### ui.R
+
+```r
+library(shiny)
+shinyUI(fluidPage(
+  titlePanel("Data science FTW!"),
+  sidebarLayout(
+    sidebarPanel(
+      h3("Sidebar Text")
+    ),
+    mainPanel(
+      h3("Main Panel Text")
+    )
+  )
+))
+```
+
+### server.R
+
+```r
+library(shiny)
+shinyServer(function(input, output) {
+})
+```
+
+### To run it
+- In R, change to the directories with these files and type `runApp()`
+- or put the path to the directory as an argument
+- It should open a browser window with the app running
+
+### Your First Shiny App
+
+![](app1.png)
+
+### HTML Tags in Shiny
+
+Shiny provides several wrapper functions for using
+standard HTML tags in your `ui.R`, including `h1()` through
+`h6()`, `p()`, `a()`, `div()`, and `span()`.
+
+- See `?builder` for more details.
+
+### R Wrappers for HTML Tags
+
+```r
+library(shiny)
+shinyUI(fluidPage(
+  titlePanel("HTML Tags"),
+  sidebarLayout(
+    sidebarPanel(
+      h1("H1 Text"),
+      h3("H3 Text"),
+      em("Emphasized Text")
+    ),
+    mainPanel(
+      h3("Main Panel Text"),
+      code("Some Code!")
+    )
+  )
+))
+```
+
+### App with Many Tags
+
+![](app2.png)
+
+### App with Inputs and Outputs
+
+Now that you've played around with customizing the look of
+your app, let's give it some functionality! Shiny provides
+several types of inputs including buttons, checkboxes, text
+boxes, and calendars. First let's experiment with the slider
+input. This simple app will display the number that is
+selected with a slider.
+
+### Slider App: ui.R
+
+```r
+library(shiny)
+shinyUI(fluidPage(
+  titlePanel("Slider App"),
+  sidebarLayout(
+    sidebarPanel(
+      h1("Move the Slider!"),
+      sliderInput("slider1", "Slide Me!", 0, 100, 0)
+    ),
+    mainPanel(
+      h3("Slider Value:"),
+      textOutput("text")
+    )
+  )
+))
+```
+
+### Slider App: server.R
+
+```r
+library(shiny)
+shinyServer(function(input, output) {
+  output$text <- renderText(input$slider1)
+})
+```
+
+### Slider App
+
+![](app3.png)
+
+### New Components in the Slider App
+
+#### ui.R
+
+- `sliderInput()` specifies a slider that a user can manipulate
+- `testOutput()` displays text that is rendered in `server.R`
+
+#### server.R
+
+- `renderText()` transforms UI input into text that can be displayed.
+
+### Inputs and Outputs
+
+Notice that in `ui.R` input and output names are assigned
+with strings (`sliderInput("slider1",...`, `textOutput("text")`)
+and in `server.R` those components can be accessed with the
+`$` operator: `output$text <- renderText(input$slider1)`.
+
+### Apps with Plots
+
+Allowing users to manipulate data and to see the results of
+their manipulations as a plot can be very useful. Shiny
+provides the `plotOutput()` function for `ui.R` and the 
+`renderPlot()` function for `sever.R` for taking user input 
+and creating plots.
+
+### Plot App: ui.R Part 1
+
+```r
+library(shiny)
+shinyUI(fluidPage(
+  titlePanel("Plot Random Numbers"),
+  sidebarLayout(
+    sidebarPanel(
+      numericInput("numeric", "How Many Random Numbers Should be Plotted?", 
+                   value = 1000, min = 1, max = 1000, step = 1),
+      sliderInput("sliderX", "Pick Minimum and Maximum X Values",
+                  -100, 100, value = c(-50, 50)),
+
+      sliderInput("sliderY", "Pick Minimum and Maximum Y Values",
+                  -100, 100, value = c(-50, 50)),
+      checkboxInput("show_xlab", "Show/Hide X Axis Label", value = TRUE),
+      checkboxInput("show_ylab", "Show/Hide Y Axis Label", value = TRUE),
+      checkboxInput("show_title", "Show/Hide Title")
+    ),
+    mainPanel(
+      h3("Graph of Random Points"),
+      plotOutput("plot1")
+    )
+  )
+))
+```
+
+### Plot App: server.R Part 1
+
+```r
+library(shiny)
+shinyServer(function(input, output) {
+  output$plot1 <- renderPlot({
+    set.seed(2016-05-25)
+    number_of_points <- input$numeric
+    minX <- input$sliderX[1]
+    maxX <- input$sliderX[2]
+    minY <- input$sliderY[1]
+    maxY <- input$sliderY[2]
+
+    dataX <- runif(number_of_points, minX, maxX)
+    dataY <- runif(number_of_points, minY, maxY)
+    xlab <- ifelse(input$show_xlab, "X Axis", "")
+    ylab <- ifelse(input$show_ylab, "Y Axis", "")
+    main <- ifelse(input$show_title, "Title", "")
+    plot(dataX, dataY, xlab = xlab, ylab = ylab, main = main,
+         xlim = c(-100, 100), ylim = c(-100, 100))
+  })
+})
+```
+
+
+### Apps with Plots
+
+#### ui.R
+
+- `numericInput()` allows the user to enter any number
+- `checkboxInput()` creates boxes that can be checked
+- `plotOutput()` displays a plot
+
+#### server.R
+
+- `renderPlot()` wraps the creation of a plot so it can be displayed
+
+### Next Lecture
+
+- Reactivity
+- Advanced UI
+- Interactive Graphics
+
+### More about R and the Web
+- [OpenCPU](https://public.opencpu.org/) by Jerome Ooms, is a really neat project providing an API for calling R from web documents
+
+## Shiny revisited (shinier!)
+* In the last lecture, we covered basic creation of 
+Shiny applications
+* If you tried it and are like most, you had an easy time with `ui.R`
+but a harder time with `server.R`
+* In this lecture, we cover some more of the details of shiny
+* Since writing the last lecture, a more detailed tutorial has
+been created that is worth checking out
+(http://shiny.rstudio.com/tutorial/)
+
+
+---
+
+### Details
+* Code that you put before `shinyServer` in the `server.R` function gets
+called once when you do `runApp()`
+* Code inside the unnamed function of `shinyServer(function(input, output){` but
+not in a reactive statement will run once for every new user (or page refresh) 
+* Code in reactive functions of `shinyServer` get run repeatedly as needed
+when new values are entered (reactive functions are those like `render*`)
+
+---
+#### Experiment (code in the slidify document)
+`ui.R`
+
+```
+shinyUI(pageWithSidebar(
+  headerPanel("Hello Shiny!"),
+  sidebarPanel(
+      textInput(inputId="text1", label = "Input Text1"),
+      textInput(inputId="text2", label = "Input Text2")
+  ),
+  mainPanel(
+      p('Output text1'),
+      textOutput('text1'),
+      p('Output text2'),
+      textOutput('text2'),
+      p('Output text3'),
+      textOutput('text3'),
+      p('Outside text'),
+      textOutput('text4'),
+      p('Inside text, but non-reactive'),
+      textOutput('text5')
+  )
+))
+
+```
+
+---
+`server.R`
+Set `x <- 0` before running
+```
+library(shiny)
+x <<- x + 1
+y <<- 0
+
+shinyServer(
+  function(input, output) {
+    y <<- y + 1
+    output$text1 <- renderText({input$text1})
+    output$text2 <- renderText({input$text2})
+    output$text3 <- renderText({as.numeric(input$text1)+1})
+    output$text4 <- renderText(y)
+    output$text5 <- renderText(x)
+  }
+)
+```
+
+---
+### Try it
+* type `runApp()` 
+* Notice hitting refresh incriments `y` but enterting values in the textbox does not
+* Notice `x` is always 1
+* Watch how it updated `text1` and `text2` as needed.
+* Doesn't add 1 to text1 every time a new `text2` is input.
+* *Important* try `runApp(display.mode='showcase')` 
+
+---
+### Reactive expressions
+* Sometimes to speed up your app, you want reactive operations (those operations that depend on widget input values) to be performed outside of a `render*`1 statement
+* For example, you want to do some code that gets reused in several 
+`render*` statements and don't want to recalculate it for each
+* The `reactive` function is made for this purpose
+
+
+---
+### Example
+`server.R`
+```
+shinyServer(
+  function(input, output) {
+    x <- reactive({as.numeric(input$text1)+100})      
+    output$text1 <- renderText({x()                          })
+    output$text2 <- renderText({x() + as.numeric(input$text2)})
+  }
+)
+```
+
+---
+### As opposed to
+```
+shinyServer(
+  function(input, output) {
+    output$text1 <- renderText({as.numeric(input$text1)+100  })
+    output$text2 <- renderText({as.numeric(input$text1)+100 + 
+        as.numeric(input$text2)})
+  }
+)
+```
+
+---
+### Discussion
+* Do `runApp(display.mode='showcase')` 
+* (While inconsequential) the second example has to add 100 twice every time
+text1 is updated for the second set of code
+* Also note the somewhat odd syntax for reactive variables
+
+
+---
+### Non-reactive reactivity (what?)
+* Sometimes you don't want shiny to immediately perform reactive
+calculations from widget inputs
+* In other words, you want something like a submit button
+
+---
+### ui.R
+```
+shinyUI(pageWithSidebar(
+  headerPanel("Hello Shiny!"),
+  sidebarPanel(
+      textInput(inputId="text1", label = "Input Text1"),
+      textInput(inputId="text2", label = "Input Text2"),
+      actionButton("goButton", "Go!")
+  ),
+  mainPanel(
+      p('Output text1'),
+      textOutput('text1'),
+      p('Output text2'),
+      textOutput('text2'),
+      p('Output text3'),
+      textOutput('text3')
+  )
+))
+```
+
+---
+### Server.R
+```
+shinyServer(
+  function(input, output) {
+    output$text1 <- renderText({input$text1})
+    output$text2 <- renderText({input$text2})
+    output$text3 <- renderText({
+        input$goButton
+        isolate(paste(input$text1, input$text2))
+    })
+  }
+)
+```
+
+---
+### Try it out
+* Notice it doesn't display output `text3` until the go button is pressed
+* `input$goButton` (or whatever you named it) gets increased by one for every
+time pushed
+* So, when in reactive code (such as `render` or `reactive`) you can use conditional statements like below to only execute code on the first button press or to not execute code until the first or subsequent button press
+
+```if (input$goButton == 1){  Conditional statements }``` 
+
+
+---
+## Example
+Here's some replaced code from our previous `server.R` 
+
+```r
+output$text3 <- renderText({
+    if (input$goButton == 0) "You have not pressed the button"
+    else if (input$goButton == 1) "you pressed it once"
+    else "OK quit pressing it"
+})
+```
+
+---
+
+### More on layouts
+* The sidebar layout with a main panel is the easiest.
+* Using `shinyUI(fluidpage(` is much more flexible and allows 
+tighter access to the bootstrap styles
+* Examples here (http://shiny.rstudio.com/articles/layout-guide.html)
+* `fluidRow` statements create rows and then the `column` function
+from within it can create columns
+* Tabsets, navlists and navbars can be created for more complex apps
+
+---
+#### Directly using html
+* For more complex layouts, direct use of html is preferred
+    (http://shiny.rstudio.com/articles/html-ui.html)
+* Also, if you know web development well, you might find using
+R to create web layouts kind of annoying
+* Create a directory called `www` in the same directory with `server.R`
+* Have an `index.html` page in that directory
+* Your named input variables will be passed to `server.R`
+`<input type="number" name="n" value="500" min="1" max="1000" />`
+* Your `server.R` output will have class definitions of the form `shiny-`
+`<pre id="summary" class="shiny-text-output"></pre>`
+
+---
+### Debugging techniques for Shiny
+* Debugging shiny apps can be tricky
+* We saw that `runApp(displayMode = 'showcase')` highlights execution while a 
+shiny app runs
+* Using `cat` in your code displays output to stdout (so R console)
+* The `browser()` function can interupt execution and can be called conditionally
+(http://shiny.rstudio.com/articles/debugging.html)
+
+
+## Shiny Part [2] (c9-w1)
+### Reactivity
+
+A reactive expression is like a recipe that manipulates
+inputs from Shiny and then returns a value. Reactivity
+provides a way for your app to respond since inputs will 
+change depending on how users interact with your user 
+interface. Expressions wrapped by `reactive()` should be
+expressions that are subject to change.
+
+### Reactivity
+
+Creating a reactive expression is just like creating a
+function:
+
+```r
+calc_sum <- reactive({
+  input$box1 + input$box2
+})
+# ...
+calc_sum()
+```
+
+### Your First Reactive App
+
+```{r, echo=FALSE}
+library(webshot)
+appshot("app1", "app1.png")
+```
+
+This application predicts the horsepower of a car given
+the fuel efficiency in miles per gallon for the car.
+
+### Horsepower Prediction: ui.R Part 1
+
+```r
+library(shiny)
+shinyUI(fluidPage(
+  titlePanel("Predict Horsepower from MPG"),
+  sidebarLayout(
+    sidebarPanel(
+      sliderInput("sliderMPG", "What is the MPG of the car?", 10, 35, value = 20),
+      checkboxInput("showModel1", "Show/Hide Model 1", value = TRUE),
+      checkboxInput("showModel2", "Show/Hide Model 2", value = TRUE)
+    ),
+# ...
+```
+
+### Horsepower Prediction: ui.R Part 2
+
+```r
+# ...
+    mainPanel(
+      plotOutput("plot1"),
+      h3("Predicted Horsepower from Model 1:"),
+      textOutput("pred1"),
+      h3("Predicted Horsepower from Model 2:"),
+      textOutput("pred2")
+    )
+  )
+))
+```
+
+### Horsepower Prediction: server.R Part 1
+
+```r
+library(shiny)
+shinyServer(function(input, output) {
+  mtcars$mpgsp <- ifelse(mtcars$mpg - 20 > 0, mtcars$mpg - 20, 0)
+  model1 <- lm(hp ~ mpg, data = mtcars)
+  model2 <- lm(hp ~ mpgsp + mpg, data = mtcars)
+  
+  model1pred <- reactive({
+    mpgInput <- input$sliderMPG
+    predict(model1, newdata = data.frame(mpg = mpgInput))
+  })
+  
+  model2pred <- reactive({
+    mpgInput <- input$sliderMPG
+    predict(model2, newdata = 
+              data.frame(mpg = mpgInput,
+                         mpgsp = ifelse(mpgInput - 20 > 0,
+                                        mpgInput - 20, 0)))
+  })
+```
+### Horsepower Prediction: server.R Part 2
+```r
+  output$plot1 <- renderPlot({
+    mpgInput <- input$sliderMPG
+    
+    plot(mtcars$mpg, mtcars$hp, xlab = "Miles Per Gallon", 
+         ylab = "Horsepower", bty = "n", pch = 16,
+         xlim = c(10, 35), ylim = c(50, 350))
+    if(input$showModel1){
+      abline(model1, col = "red", lwd = 2)
+    }
+    if(input$showModel2){
+      model2lines <- predict(model2, newdata = data.frame(
+        mpg = 10:35, mpgsp = ifelse(10:35 - 20 > 0, 10:35 - 20, 0)
+      ))
+      lines(10:35, model2lines, col = "blue", lwd = 2)
+    }
+```
+### Horsepower Prediction: server.R Part 3
+```r
+  legend(25, 250, c("Model 1 Prediction", "Model 2 Prediction"), pch = 16, 
+           col = c("red", "blue"), bty = "n", cex = 1.2)
+    points(mpgInput, model1pred(), col = "red", pch = 16, cex = 2)
+    points(mpgInput, model2pred(), col = "blue", pch = 16, cex = 2)
+  })
+  
+  output$pred1 <- renderText({
+    model1pred()
+  })
+  
+  output$pred2 <- renderText({
+    model2pred()
+  })
+})
+```
+
+### Horsepower Prediction
+
+![](app1.png)
+
+### Delayed Reactivity
+
+You might not want your app to immediately react to changes
+in user input because of something like a long-running
+calculation. In order to prevent reactive expressions from
+reacting you can use a submit button in your app. Let's take
+a look at last app we created, but with a submit button
+added to the app.
+
+```{r, echo=FALSE}
+library(webshot)
+appshot("app2", "app2.png")
+```
+
+### Reactive Horsepower: ui.R
+
+There's one new line added to the code from the last app:
+
+```r
+shinyUI(fluidPage(
+  titlePanel("Predict Horsepower from MPG"),
+  sidebarLayout(
+    sidebarPanel(
+      sliderInput("sliderMPG", "What is the MPG of the car?", 10, 35, value = 20),
+      checkboxInput("showModel1", "Show/Hide Model 1", value = TRUE),
+      checkboxInput("showModel2", "Show/Hide Model 2", value = TRUE),
+      submitButton("Submit") # New!
+    ),
+```
+
+### Reactive Horsepower
+
+![](app2.png)
+
+### Advanced UI
+
+There are several other kinds of UI components that you can
+mix into your app including tabs, navbars, and sidebars.
+We'll show you an example of how to use tabs to give your app
+multiple views. The `tabsetPanel()` function specifies a
+group of tabs, and then the `tabPanel()` function specifies
+the contents of an individual tab.
+
+```{r, echo=FALSE}
+library(webshot)
+appshot("app3", "app3.png")
+```
+
+### Tabs: ui.R
+
+```r
+library(shiny)
+shinyUI(fluidPage(
+  titlePanel("Tabs!"),
+  sidebarLayout(
+    sidebarPanel(
+      textInput("box1", "Enter Tab 1 Text:", value = "Tab 1!"),
+      textInput("box2", "Enter Tab 2 Text:", value = "Tab 2!"),
+      textInput("box3", "Enter Tab 3 Text:", value = "Tab 3!")
+    ),
+    mainPanel(
+      tabsetPanel(type = "tabs", 
+                  tabPanel("Tab 1", br(), textOutput("out1")), 
+                  tabPanel("Tab 2", br(), textOutput("out2")), 
+                  tabPanel("Tab 2", br(), textOutput("out3"))
+      )
+    )
+  )
+))
+```
+
+### Tabs: server.R
+
+```r
+library(shiny)
+shinyServer(function(input, output) {
+  output$out1 <- renderText(input$box1)
+  output$out2 <- renderText(input$box2)
+  output$out3 <- renderText(input$box3)
+})
+```
+
+### Tabs
+
+![](app3.png)
+
+### Interactive Graphics
+
+One of my favorite features of Shiny is the ability to create
+graphics that a user can interact with. One method you can
+use to select multiple data points on a graph is
+by specifying the `brush` argument in `plotOutput()` on the
+`ui.R` side, and then using the `brushedPoints()` function on
+the `server.R` side. The following example app fits a
+linear model for the selected points and then draws a line 
+of best fit for the resulting model.
+
+```{r, echo=FALSE}
+library(webshot)
+appshot("app4", "app4.png")
+```
+
+### Interactive Graphics: ui.R
+
+```r
+library(shiny)
+shinyUI(fluidPage(
+  titlePanel("Visualize Many Models"),
+  sidebarLayout(
+    sidebarPanel(
+      h3("Slope"),
+      textOutput("slopeOut"),
+      h3("Intercept"),
+      textOutput("intOut")
+    ),
+    mainPanel(
+      plotOutput("plot1", brush = brushOpts(
+        id = "brush1"
+      ))
+    )
+  )
+))
+```
+
+### Interactive Graphics: server.R Part 1
+
+```r
+library(shiny)
+shinyServer(function(input, output) {
+  model <- reactive({
+    brushed_data <- brushedPoints(trees, input$brush1,
+                            xvar = "Girth", yvar = "Volume")
+    if(nrow(brushed_data) < 2){
+      return(NULL)
+    }
+    lm(Volume ~ Girth, data = brushed_data)
+  })
+  output$slopeOut <- renderText({
+    if(is.null(model())){
+      "No Model Found"
+    } else {
+      model()[[1]][2]
+    }
+  })
+# ...
+```
+### Interactive Graphics: server.R Part 2
+```r
+# ...
+output$intOut <- renderText({
+    if(is.null(model())){
+      "No Model Found"
+    } else {
+      model()[[1]][1]
+    }
+  })
+  output$plot1 <- renderPlot({
+    plot(trees$Girth, trees$Volume, xlab = "Girth",
+         ylab = "Volume", main = "Tree Measurements",
+         cex = 1.5, pch = 16, bty = "n")
+    if(!is.null(model())){
+      abline(model(), col = "blue", lwd = 2)
+    }
+  })
+})
+```
+
+### Interactive Graphics
+
+![](app4.png)
+
+### Sharing Shiny Apps
+
+Once you've created a Shiny app, there are several ways to
+share your app. Using [shinyapps.io](http://www.shinyapps.io/)
+allows users to interact with your app through a web browser
+without needing to have R or Shiny installed. Shinyapps.io
+has a free tier, but if you want to use a Shiny app in your
+business you may be interested in paying for the service. If
+you're sharing your app with an R user you can post your app
+to GitHub and instruct the user to use the `runGist()` or 
+`runGitHub()` function to launch your app.
+
+### More Shiny Resources
+
+- [The Official Shiny Tutorial](http://shiny.rstudio.com/tutorial/)
+- [Gallery of Shiny Apps](http://shiny.rstudio.com/gallery/)
+- [Show Me Shiny: Gallery of R Web Apps](http://www.showmeshiny.com/)
+- [Integrating Shiny and Plotly](https://plot.ly/r/shiny-tutorial/)
+- [Shiny on Stack Overflow](http://stackoverflow.com/questions/tagged/shiny)
+## Shiny_Gadgets (c9-w1)
+### Introduction
+
+Shiny Gadgets provide a way to use Shiny's interactivity and
+user interface tools as a part of a data analysis. With
+Shiny Gadgets you can create a function that opens a small 
+Shiny app. Since these apps are smaller we'll be using the
+miniUI package for creating user interfaces.
+
+### A Simple Gadget
+
+At its core a Shiny Gadget is a function that launches a
+small (single-page) Shiny application. Since Shiny Gadgets
+are meant to be displayed in the RStudio viewer pane, the
+miniUI package comes in handy for its smaller graphical
+elements. Let's construct a very simple Shiny Gadget.
+
+### A Simple Gadget: Code
+
+```r
+library(shiny)
+library(miniUI)
+myFirstGadget <- function() {
+  ui <- miniPage(
+    gadgetTitleBar("My First Gadget")
+  )
+  server <- function(input, output, session) {
+    # The Done button closes the app
+    observeEvent(input$done, {
+      stopApp()
+    })
+  }
+  runGadget(ui, server)
+}
+```
+
+### A Simple Gadget: Image
+
+![myFirstGadget](myFirstGadget.png)
+
+### A Simple Gadget: Code Review
+
+Source the preceding code and run `myFirstGadget()` to see
+a very basic Shiny Gadget. Just to review some of the new
+functions in this Gadget:
+
+- `miniPage()` creates a small layout.
+- `gadgetTitleBar()` provides a title bar with Done and 
+Cancel buttons.
+- `runGadget()` runs the Shiny Gadget, taking `ui` and
+`server` as arguments.
+
+### Gadgets with Arguments
+
+One of the advantages of Shiny Gadgets is that since Shiny
+Gadgets are functions they can take values as arguments and
+they can return values. Let's take a look at a simple
+example of a Shiny Gadget that takes arguments and returns
+a value. The following Shiny Gadget takes two different
+vectors of numbers as arguments and uses those vectors to
+populate two `selectInput`s. The user can then choose two
+numbers within the Gadget, and the product of those two
+numbers will be returned.
+
+### Gadgets with Arguments: Code Part 1
+
+```r
+library(shiny)
+library(miniUI)
+multiplyNumbers <- function(numbers1, numbers2) {
+  ui <- miniPage(
+    gadgetTitleBar("Multiply Two Numbers"),
+    miniContentPanel(
+      selectInput("num1", "First Number", choices=numbers1),
+      selectInput("num2", "Second Number", choices=numbers2)
+    )
+  )
+  server <- function(input, output, session) {
+    observeEvent(input$done, {
+      num1 <- as.numeric(input$num1)
+      num2 <- as.numeric(input$num2)
+      stopApp(num1 * num2)
+    })
+  }
+  runGadget(ui, server)
+}
+```
+
+### Gadgets with Arguments: Image
+
+![multiplyNumbers](multiplyNumbers.png)
+
+### Gadgets with Arguments: Code Review
+
+Source the preceding code and run 
+`multiplyNumbers(1:5, 6:10)` so you
+can get a sense of how this Gadget works. As you can see
+this Gadget uses `selectInput()` so that the user can
+select two different numbers. Clicking the Done button
+multiplies the tow numbers together, which is returned as
+the result of the `multiplyNumbers()` function.
+
+### Gadgets with Interactive Graphics
+
+Shiny Gadgets are particularly useful when a data analysis
+needs a touch of human intervention. You can imagine
+presenting an interactive data visualization through a
+Gadget, where an analyst could manipulate data in the
+Gadget, and then the Gadget would return the manipulated
+data. Let's walk though an example of how this could be done.
+
+### Gadgets with Interactive Graphics: Code Part 1
+
+```r
+library(shiny)
+library(miniUI)
+pickTrees <- function() {
+  ui <- miniPage(
+    gadgetTitleBar("Select Points by Dragging your Mouse"),
+    miniContentPanel(
+      plotOutput("plot", height = "100%", brush = "brush")
+    )
+  )
+```
+### Gadgets with Interactive Graphics: Code Part 2
+```r
+  server <- function(input, output, session) {
+    output$plot <- renderPlot({
+      plot(trees$Girth, trees$Volume, main = "Trees!",
+        xlab = "Girth", ylab = "Volume")
+    })
+    observeEvent(input$done, {
+      stopApp(brushedPoints(trees, input$brush,
+        xvar = "Girth", yvar = "Volume"))
+    })
+  }
+  runGadget(ui, server)
+}
+```
+
+### Gadgets with Interactive Graphics: Image
+
+![pickTrees](pickTrees.png)
+
+### Gadgets with Interactive Graphics: Code Review
+
+Source the preceding code and run `pickTrees()`. Click and
+drag a box over the graph. Once you've drawn a box that
+you're satisfied with click the Done button and the points
+that you selected will be returned to you as a data frame.
+This functionality is made possible by the `brushedPoints()`
+function, which is part of the `shiny` package. (See 
+`?shiny::brushedPoints` for more information.)
+
+### Conclusion
+
+For more details about Shiny Gadgets visit the Shiny Gadgets
+website:
+
+- http://shiny.rstudio.com/articles/gadgets.html
+- http://shiny.rstudio.com/articles/gadget-ui.html
+## GoogleVis (c9-w1)
+### Google Vis API
+
+<img class="center" src="googlecharts.png" height=250>
+
+https://developers.google.com/chart/interactive/docs/gallery
+
+### Basic idea
+
+* The R function creates an HTML page
+* The HTML page calls Google Charts
+* The result is an interactive HTML graphic
+
+### Example 
+
+```{r gv, results="asis", cache=TRUE}
+suppressPackageStartupMessages(library(googleVis))
+M <- gvisMotionChart(Fruits, "Fruit", "Year",
+                     options=list(width=600, height=400))
+print(M,"chart")
+```
+
+### Charts in googleVis
+
+<center> "gvis + ChartType" </center>
+
+* Motion charts:  `gvisMotionChart`
+* Interactive maps: `gvisGeoChart`
+* Interactive tables: `gvisTable`
+* Line charts: `gvisLineChart`
+* Bar charts: `gvisColumnChart`
+* Tree maps: `gvisTreeMap`
+
+http://cran.r-project.org/web/packages/googleVis/googleVis.pdf
+
+### Plots on maps
+
+```{r,dependson="gv",results="asis", cache=TRUE}
+G <- gvisGeoChart(Exports, locationvar="Country",
+                  colorvar="Profit",options=list(width=600, height=400))
+print(G,"chart")
+```
+
+### Specifying a region
+
+```{r,dependson="gv",results="asis", cache=TRUE}
+G2 <- gvisGeoChart(Exports, locationvar="Country",
+                  colorvar="Profit",options=list(width=600, height=400,region="150"))
+print(G2,"chart")
+```
+
+### Finding parameters to set under `options`
+
+
+<img class="center" src="configoptions.png" height=250>
+
+https://developers.google.com/chart/interactive/docs/gallery/geochart
+
+### Setting more options
+
+```{r linechart,dependson="gv",results="asis", cache=TRUE}
+df <- data.frame(label=c("US", "GB", "BR"), val1=c(1,3,4), val2=c(23,12,32))
+Line <- gvisLineChart(df, xvar="label", yvar=c("val1","val2"),
+        options=list(title="Hello World", legend="bottom",
+                titleTextStyle="{color:'red', fontSize:18}",                         
+                vAxis="{gridlines:{color:'red', count:3}}",
+                hAxis="{title:'My Label', titleTextStyle:{color:'blue'}}",
+                series="[{color:'green', targetAxisIndex: 0}, 
+                         {color: 'blue',targetAxisIndex:1}]",
+                vAxes="[{title:'Value 1 (%)', format:'##,######%'}, 
+                                  {title:'Value 2 (\U00A3)'}]",                          
+                curveType="function", width=500, height=300                         
+                ))
+```
+
+https://github.com/mages/Introduction_to_googleVis/blob/gh-pages/index.Rmd
+
+### Setting more options
+
+```{r ,dependson="linechart",results="asis", cache=TRUE}
+print(Line,"chart")
+```
+
+### Combining multiple plots together
+
+```{r multiplot,dependson="gv",results="asis", cache=TRUE}
+G <- gvisGeoChart(Exports, "Country", "Profit",options=list(width=200, height=100))
+T1 <- gvisTable(Exports,options=list(width=200, height=270))
+M <- gvisMotionChart(Fruits, "Fruit", "Year", options=list(width=400, height=370))
+GT <- gvisMerge(G,T1, horizontal=FALSE)
+GTM <- gvisMerge(GT, M, horizontal=TRUE,tableOptions="bgcolor=\"#CCCCCC\" cellspacing=10")
+```
+
+### Combining multiple plots together
+
+```{r,dependson="multiplot",results="asis", cache=TRUE}
+print(GTM,"chart")
+```
+
+### Seeing the HTML code
+
+```{r ,dependson="gv", cache=TRUE}
+M <- gvisMotionChart(Fruits, "Fruit", "Year", options=list(width=600, height=400))
+print(M)
+print(M, 'chart', file='myfilename.html')
+```
+
+### Things you can do with Google Vis
+
+* The visualizations can be embedded in websites with HTML code
+* Dynamic visualizations can be built with Shiny, Rook, and R.rsp
+* Embed them in [R markdown](http://www.rstudio.com/ide/docs/authoring/using_markdown) based documents
+  * Set `results="asis"` in the chunk options
+  * Can be used with [knitr](http://cran.r-project.org/web/packages/knitr/index.html) and [slidify](http://slidify.org/)
+
+### For more info
+
+```{r,eval=FALSE}
+demo(googleVis)
+```
+
+* http://cran.r-project.org/web/packages/googleVis/vignettes/googleVis.pdf
+* http://cran.r-project.org/web/packages/googleVis/googleVis.pdf
+* https://developers.google.com/chart/interactive/docs/gallery
+* https://developers.google.com/chart/interactive/faq
+## plotly (c9-w1)
+### What is Plotly?
+
+Plotly is a web application for creating and sharing data visualizations. Plotly
+can work with several programming languages and applications including R,
+Python, and Microsoft Excel. We're going to concentrate on creating different
+graphs with Plotly and sharing those graphs.
+
+### Installing Plotly
+
+Installing Plotly is easy:
+
+```r
+install.packages("plotly")
+library(plotly)
+```
+
+If you want to share your visualizations on https://plot.ly/ you should make an
+account on their site.
+
+### Basic Scatterplot
+
+A basic scatterplot is easy to make, with the added benefit of tooltips that
+appear when your mouse hovers over each point. Specify a scatterplot by
+indicating `type = "scatter"`. Notice that the arguments for the `x` and `y` 
+variables as specified as formulas, with the tilde operator (`~`) preceding the
+variable that you're plotting.
+
+
+```{r, eval=FALSE}
+library(plotly)
+plot_ly(mtcars, x = ~wt, y = ~mpg, type = "scatter")
+```
+
+### Basic Scatterplot
+
+```{r, echo=FALSE, message=FALSE}
+library(plotly)
+plot_ly(mtcars, x = ~wt, y = ~mpg, type = "scatter")
+```
+
+### Scatterplot Color
+
+You can add color to your scatterplot points according to a categorical variable
+in the data frame you use with `plot_ly()`.
+
+```{r, eval=FALSE}
+plot_ly(mtcars, x = ~wt, y = ~mpg, type = "scatter", color = ~factor(cyl))
+```
+
+### Scatterplot Color
+
+```{r, echo=FALSE, message=FALSE}
+plot_ly(mtcars, x = ~wt, y = ~mpg, type = "scatter", color = ~factor(cyl))
+```
+
+### Continuous Color
+
+You can also show continuous variables with color in scatterplots.
+
+```{r, eval=FALSE}
+plot_ly(mtcars, x = ~wt, y = ~mpg, type = "scatter", color = ~disp)
+```
+
+### Continuous Color
+
+```{r, echo=FALSE, message=FALSE}
+plot_ly(mtcars, x = ~wt, y = ~mpg, type = "scatter", color = ~disp)
+```
+
+### Scatterplot Sizing
+
+By specifying the `size` argument you can make each point in your scatterplot a
+different size.
+
+```{r, eval=FALSE}
+plot_ly(mtcars, x = ~wt, y = ~mpg, type = "scatter", 
+        color = ~factor(cyl), size = ~hp)
+```
+
+### Scatterplot Sizing
+
+```{r, echo=FALSE, message=FALSE}
+plot_ly(mtcars, x = ~wt, y = ~mpg, type = "scatter", 
+        color = ~factor(cyl), size = ~hp)
+```
+
+### 3D Scatterplot
+
+You can create a three-dimensional scatterplot with the `type = "scatter3d"`
+argument. If you click and drag these scatterplots you can view them from
+different angles.
+
+```{r, eval=FALSE}
+set.seed(2016-07-21)
+temp <- rnorm(100, mean = 30, sd = 5)
+pressue <- rnorm(100)
+dtime <- 1:100
+plot_ly(x = ~temp, y = ~pressue, z = ~dtime,
+        type = "scatter3d", color = ~temp)
+```
+
+### 3D Scatterplot
+
+```{r, echo=FALSE, message=FALSE}
+set.seed(2016-07-21)
+temp <- rnorm(100, mean = 30, sd = 5)
+pressue <- rnorm(100)
+dtime <- 1:100
+plot_ly(x = ~temp, y = ~pressue, z = ~dtime,
+        type = "scatter3d", color = ~temp)
+```
+
+### Line Graph
+
+Line graphs are the default graph for `plot_ly()`. They're of course useful for
+showing change over time:
+
+```{r, eval=FALSE}
+data("airmiles")
+plot_ly(x = ~time(airmiles), y = ~airmiles, type = "scatter", mode = "lines")
+```
+
+### Line Graph
+
+```{r, echo=FALSE, message=FALSE}
+data("airmiles")
+plot_ly(x = ~time(airmiles), y = ~airmiles, type = "scatter", mode = "lines")
+```
+
+### Multi Line Graph
+
+You can show multiple lines by specifying the column in the data frame that
+separates the lines:
+
+```{r, eval=FALSE}
+library(plotly)
+library(tidyr)
+library(dplyr)
+data("EuStockMarkets")
+stocks <- as.data.frame(EuStockMarkets) %>%
+  gather(index, price) %>%
+  mutate(time = rep(time(EuStockMarkets), 4))
+plot_ly(stocks, x = ~time, y = ~price, color = ~index, type = "scatter", mode = "lines")
+```
+
+### Multi Line Graph
+
+```{r, echo=FALSE, message=FALSE}
+library(plotly)
+library(tidyr)
+library(dplyr)
+data("EuStockMarkets")
+stocks <- as.data.frame(EuStockMarkets) %>%
+  gather(index, price) %>%
+  mutate(time = rep(time(EuStockMarkets), 4))
+plot_ly(stocks, x = ~time, y = ~price, color = ~index, type = "scatter", mode = "lines")
+```
+
+### Histogram
+
+A histogram is great for showing how counts of data are distributed. Use the
+`type = "histogram"` argument.
+
+```{r, eval=FALSE}
+plot_ly(x = ~precip, type = "histogram")
+```
+
+### Histogram
+
+```{r, echo=FALSE, message=FALSE}
+plot_ly(x = ~precip, type = "histogram")
+```
+
+### Boxplot
+
+Boxplots are wonderful for comparing how different datasets are distributed.
+Specify `type = "box"` to create a boxplot.
+
+```{r, eval=FALSE}
+plot_ly(iris, y = ~Petal.Length, color = ~Species, type = "box")
+```
+
+### Boxplot
+
+```{r, echo=FALSE, message=FALSE}
+plot_ly(iris, y = ~Petal.Length, color = ~Species, type = "box")
+```
+
+### Heatmap
+
+Heatmaps are useful for displaying three dimensional data in two dimensions,
+using color for the third dimension. Create a heatmap by using the
+`type = "heatmap"` argument.
+
+```{r, eval=FALSE}
+terrain1 <- matrix(rnorm(100*100), nrow = 100, ncol = 100)
+plot_ly(z = ~terrain1, type = "heatmap")
+```
+
+### Heatmap
+
+```{r, echo=FALSE, message=FALSE}
+terrain1 <- matrix(rnorm(100*100), nrow = 100, ncol = 100)
+plot_ly(z = ~terrain1, type = "heatmap")
+```
+
+### 3D Surface
+
+Why limit yourself to two dimensions when you can render three dimensions on a
+computer!? Create moveable 3D surfaces with `type = "surface"`.
+
+```{r, eval=FALSE}
+terrain2 <- matrix(sort(rnorm(100*100)), nrow = 100, ncol = 100)
+plot_ly(z = ~terrain2, type = "surface")
+```
+
+### 3D Surface
+
+```{r, echo=FALSE, message=FALSE}
+terrain2 <- matrix(sort(rnorm(100*100)), nrow = 100, ncol = 100)
+plot_ly(z = ~terrain2, type = "surface")
+```
+
+### Choropleth Maps: Setup
+
+Choropleth maps illustrate data across geographic areas by shading regions with
+different colors. Choropleth maps are easy to make with Plotly though they
+require more setup compared to other Plotly graphics.
+
+```{r, eval=FALSE}
+# Create data frame
+state_pop <- data.frame(State = state.abb, Pop = as.vector(state.x77[,1]))
+# Create hover text
+state_pop$hover <- with(state_pop, paste(State, '<br>', "Population:", Pop))
+# Make state borders white
+borders <- list(color = toRGB("red"))
+# Set up some mapping options
+map_options <- list(
+  scope = 'usa',
+  projection = list(type = 'albers usa'),
+  showlakes = TRUE,
+  lakecolor = toRGB('white')
+)
+```
+
+### Choropleth Maps: Mapping
+
+```{r, eval=FALSE}
+plot_ly(z = ~state_pop$Pop, text = ~state_pop$hover, locations = ~state_pop$State, 
+        type = 'choropleth', locationmode = 'USA-states', 
+        color = state_pop$Pop, colors = 'Blues', marker = list(line = borders)) %>%
+  layout(title = 'US Population in 1975', geo = map_options)
+```
+
+### Choropleth Maps
+
+```{r, echo=FALSE, message=FALSE}
+# Create data frame
+state_pop <- data.frame(State = state.abb, Pop = as.vector(state.x77[,1]))
+# Create hover text
+state_pop$hover <- with(state_pop, paste(State, '<br>', "Population:", Pop))
+# Make state borders white
+borders <- list(color = toRGB("red"))
+# Set up some mapping options
+map_options <- list(
+  scope = 'usa',
+  projection = list(type = 'albers usa'),
+  showlakes = TRUE,
+  lakecolor = toRGB('white')
+)
+plot_ly(z = ~state_pop$Pop, text = ~state_pop$hover, locations = ~state_pop$State, 
+        type = 'choropleth', locationmode = 'USA-states', 
+        color = state_pop$Pop, colors = 'Blues', marker = list(line = borders)) %>%
+  layout(title = 'US Population in 1975', geo = map_options)
+```
+
+### More Resources
+
+- [The Plolty Website](https://plot.ly/)
+- [The Plotly R API](https://plot.ly/r/)
+- [The Plotly R Package on GitHub](https://github.com/ropensci/plotly)
+- [The Plotly R Cheatsheet](https://images.plot.ly/plotly-documentation/images/r_cheat_sheet.pdf)
+- ["Plotly for R" book by Carson Sievert](https://cpsievert.github.io/plotly_book/)
+
+
+## R_markdown (c9-w2)
+### Introduction
+
+R Markdown is built into RStudio and allows you to create documents like HTML, PDF, and Word documents from R. With R Markdown, you can embed R code into your documents. 
+
+#### Why use R Markdown?
+- Turn work in R into more accessible formats
+- Incorporate R code and R plots into documents
+- R Markdown documents are reproducible -- the source code gets rerun every time a document is generated, so if data change or source code changes, the output in the document will change with it. 
+
+### Getting Started
+
+- Create a new R Markdown file in RStudio by going to  
+File > New File > R Markdown...
+- Click the "presentation" tab
+- Enter a title, author, and select what kind of slideshow you ultimately want (this can all be changed later)
+
+### Getting Started
+The beginning of an R Markdown file looks like this:<br><br>
+`---`  
+`title: "Air Quality"`  
+`author: "JHU"`  
+`date: "May 17, 2016"`  
+`output: html_document`  
+`---`<br><br>
+The new document you've created will contain example text and code below this -- delete it for a fresh start.
+
+### Making Your First Slide
+- Title your first slide using two # signs: <br> `## Insert Title Here`
+- To make a slide without a title, use three asterisks:<br> `***`
+- You can add subheadings with more # signs: <br>
+`### Subheading` or `#### Smaller Subheading`
+- To add a new slide, just add another Title: <br> `## New Slide Title`
+
+### Adding Text
+- Add bullet points to a slide using a hyphen followed by a space: <br>
+`- bullet point`
+- Add sub-points using four spaces and a plus sign:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;`+ sub-point`
+- Add an ordered list by typing the number/letter: <br>
+`1. first point`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;`a) sub-sub-point`
+- Add bullet points that appear one by one (on click) with:<br>
+`>- iterated bullet point`
+
+### Formatting Text
+              Text                               Code in R Markdown
+----------------------------------    ----------------------------------------
+           plain text                              `plain text`  
+           *italics*                               `*italics*`  
+           **bold**                                `**bold**` 
+  [link](http://www.jhsph.edu)          `[link](http://www.jhsph.edu)`  
+          `verbatim code`                          ` `code here` `
+ 
+### Embedding R Code
+This is a chunk of R code in R Markdown:<br><br>
+\`\`\`{r} <br>
+`head(airquality)`<br>
+\`\`\`  
+The code gets run, and both the input and output are displayed.
+```{r}
+head(airquality)
+```
+
+### Embedding R Code
+To hide the input code, use `echo=FALSE`.<br><br>
+\`\`\`{r, echo=FALSE} <br>
+`head(airquality)`<br>
+\`\`\` 
+```{r, echo=FALSE}
+head(airquality)
+```
+This can be useful for showing plots.
+
+### Embedding R Code
+To show the input code only, use `eval=FALSE`.<br><br>
+\`\`\`{r, eval=FALSE} <br>
+`head(airquality)`<br>
+\`\`\` 
+```{r, eval=FALSE}
+head(airquality)
+```
+
+### Embedding R Code
+To run the code without showing input or output, use `include=FALSE`. <br><br>
+\`\`\`{r, include=FALSE} <br>
+`library(ggplot2)`<br>
+\`\`\` 
+
+### Generating Slideshows
+- Click the **Knit** button at the top of the R Markdown document to generate your new document.
+    + You may be asked to install required packages if you don't already have them installed -- hit "Yes" and RStudio will install them for you
+- You can change the type of document generated by changing the `output` line in the header, or by selecting an output from the **Knit** button's pull-down menu.
+
+### Generating Slideshows
+- HTML: two options with different looks
+    + `output: ioslides_presentation` This is available in my emacs
+      knitr framework
+    + `output: slidy_presentation`
+- PDF: `output: beamer_presentation`  
+- Note: You can specify multiple outputs at the beginning of the R Markdown file if you will need to generate multiple filetypes. 
+
+### PDFs and LaTeX
+- To **knit** a PDF slideshow, you will need to install **LaTeX** on your computer
+- LaTeX is a typesetting system that is needed to convert R Markdown into formatted text for PDFs
+
+#### Downloading and Installing LaTeX
+- *LaTeX* is free
+- LaTeX takes up a lot of space (almost ~2.6 GB download and takes up ~5 GB when installed)
+- Visit [https://www.tug.org/begin.html](https://www.tug.org/begin.html) to download LaTeX for your operating system
+- Depending on your internet connection, it may take a while to download due to its size 
+
+### Conclusion
+
+For more information about R Markdown visit http://rmarkdown.rstudio.com/
+## leaflet (c9-w2)
+### Introduction
+
+Leaflet is one of the most popular Javascript libraries for
+creating interactive maps. The leaflet R package allows you
+to create your own leaflet maps without needing to know any
+Javascript!
+
+#### Installation
+
+```r
+install.packages("leaflet")
+```
+
+### Your First Map
+
+Getting started with leaflet is easy. The `leaflet()`
+function creates a map widget that you can store in a
+variable so that you can modify the map later on. You can
+add features to the map using the pipe operator (`%>%`) just
+like in dplyr. The `addTiles()` function adds mapping data
+from [Open Street Map](http://www.openstreetmap.org/).
+
+```{r, eval=FALSE}
+library(leaflet)
+my_map <- leaflet() %>% 
+  addTiles()
+my_map
+```
+
+### Your First Map
+
+```{r, echo=FALSE}
+library(leaflet)
+my_map <- leaflet() %>% 
+  addTiles()
+my_map
+```
+
+### Adding Markers
+
+You can add markers to your map one at a time using the
+`addMarkers()` function by specifying the longitude and
+latitude. ([Here's](https://twitter.com/drob/status/719927537330040832)
+a tip if you tend to mix them up.) You can specify popup
+text for when you click on the marker with the `popup` 
+argument.
+
+```{r, eval=FALSE}
+library(leaflet)
+my_map <- my_map %>%
+  addMarkers(lat=39.2980803, lng=-76.5898801, 
+             popup="Jeff Leek's Office")
+my_map
+```
+
+### Adding Markers
+
+```{r, echo=FALSE}
+library(leaflet)
+my_map <- my_map %>%
+  addMarkers(lat=39.2980803, lng=-76.5898801, 
+             popup="Jeff Leek's Office")
+my_map
+```
+
+### Adding Many Markers
+
+Adding one marker at a time is often not practical if you
+want to display many markers. If you have a data frame with
+columns `lat` and `lng` you can pipe that data frame into
+`leaflet()` to add all the points at once.
+
+```{r, eval=FALSE}
+set.seed(2016-04-25)
+df <- data.frame(lat = runif(20, min = 39.2, max = 39.3),
+                 lng = runif(20, min = -76.6, max = -76.5))
+df %>% 
+  leaflet() %>%
+  addTiles() %>%
+  addMarkers()
+```
+
+### Adding Many Markers
+
+```{r, echo=FALSE}
+set.seed(2016-04-25)
+df <- data.frame(lat = runif(20, min = 39.2, max = 39.3),
+                 lng = runif(20, min = -76.6, max = -76.5))
+df %>% 
+  leaflet() %>%
+  addTiles() %>%
+  addMarkers()
+```
+
+### Making Custom Markers
+
+The blue markers that leaflet comes packaged with may not be
+enough depending on what you're mapping. Thankfully you can
+make your own markers from `.png` files.
+
+```{r, eval=FALSE}
+hopkinsIcon <- makeIcon(
+  iconUrl = "http://brand.jhu.edu/content/uploads/2014/06/university.shield.small_.blue_.png",
+  iconWidth = 31*215/230, iconHeight = 31,
+  iconAnchorX = 31*215/230/2, iconAnchorY = 16
+)
+hopkinsLatLong <- data.frame(
+  lat = c(39.2973166, 39.3288851, 39.2906617),
+  lng = c(-76.5929798, -76.6206598, -76.5469683))
+hopkinsLatLong %>% 
+  leaflet() %>%
+  addTiles() %>%
+  addMarkers(icon = hopkinsIcon)
+```
+
+### Making Custom Markers
+
+```{r, echo=FALSE}
+hopkinsIcon <- makeIcon(
+  iconUrl = "http://brand.jhu.edu/content/uploads/2014/06/university.shield.small_.blue_.png",
+  iconWidth = 31*215/230, iconHeight = 31,
+  iconAnchorX = 31*215/230/2, iconAnchorY = 16
+)
+hopkinsLatLong <- data.frame(
+  lat = c(39.2973166, 39.3288851, 39.2906617, 39.2970681, 39.2824806),
+  lng = c(-76.5929798, -76.6206598, -76.5469683, -76.6150537, -76.6016766))
+hopkinsLatLong %>% 
+  leaflet() %>%
+  addTiles() %>%
+  addMarkers(icon = hopkinsIcon)
+```
+
+### Adding Multiple Popups
+
+When adding multiple markers to a map, you may want to add
+popups for each marker. You can specify a string of plain
+text for each popup, or you can provide HTML which will be
+rendered inside of each popup.
+
+```{r, eval=FALSE}
+hopkinsSites <- c(
+  "<a href='http://www.jhsph.edu/'>East Baltimore Campus</a>",
+  "<a href='https://apply.jhu.edu/visit/homewood/'>Homewood Campus</a>",
+  "<a href='http://www.hopkinsmedicine.org/johns_hopkins_bayview/'>Bayview Medical Center</a>",
+  "<a href='http://www.peabody.jhu.edu/'>Peabody Institute</a>",
+  "<a href='http://carey.jhu.edu/'>Carey Business School</a>"
+)
+hopkinsLatLong %>% 
+  leaflet() %>%
+  addTiles() %>%
+  addMarkers(icon = hopkinsIcon, popup = hopkinsSites)
+```
+
+### Adding Multiple Popups
+
+```{r, echo=FALSE}
+hopkinsSites <- c(
+  "<a href='http://www.jhsph.edu/'>East Baltimore Campus</a>",
+  "<a href='https://apply.jhu.edu/visit/homewood/'>Homewood Campus</a>",
+  "<a href='http://www.hopkinsmedicine.org/johns_hopkins_bayview/'>Bayview Medical Center</a>",
+  "<a href='http://www.peabody.jhu.edu/'>Peabody Institute</a>",
+  "<a href='http://carey.jhu.edu/'>Carey Business School</a>"
+)
+hopkinsLatLong %>% 
+  leaflet() %>%
+  addTiles() %>%
+  addMarkers(icon = hopkinsIcon, popup = hopkinsSites)
+```
+
+### Mapping Clusters
+
+Sometimes you might have so many points on a map that it
+doesn't make sense to plot every marker. In these situations
+leaflet allows you to plot clusters of markers using
+`addMarkers(clusterOptions = markerClusterOptions())`. When
+you zoom in to each cluster, the clusters will separate until
+you can see the individual markers.
+
+```{r, eval=FALSE}
+df <- data.frame(lat = runif(500, min = 39.25, max = 39.35),
+                 lng = runif(500, min = -76.65, max = -76.55))
+df %>% 
+  leaflet() %>%
+  addTiles() %>%
+  addMarkers(clusterOptions = markerClusterOptions())
+```
+
+### Mapping Clusters
+
+```{r, echo=FALSE}
+df <- data.frame(lat = runif(500, min = 39.25, max = 39.35),
+                 lng = runif(500, min = -76.65, max = -76.55))
+df %>% 
+  leaflet() %>%
+  addTiles() %>%
+  addMarkers(clusterOptions = markerClusterOptions())
+```
+
+### Mapping Circle Markers
+
+Instead of adding markers or clusters you can easily add
+circle markers using `addCircleMarkers()`.
+
+```{r, eval=FALSE}
+df <- data.frame(lat = runif(20, min = 39.25, max = 39.35),
+                 lng = runif(20, min = -76.65, max = -76.55))
+df %>% 
+  leaflet() %>%
+  addTiles() %>%
+  addCircleMarkers()
+```
+
+### Mapping Circle Markers
+
+```{r, echo=FALSE}
+df <- data.frame(lat = runif(20, min = 39.25, max = 39.35),
+                 lng = runif(20, min = -76.65, max = -76.55))
+df %>% 
+  leaflet() %>%
+  addTiles() %>%
+  addCircleMarkers()
+```
+
+### Drawing Circles
+
+You can draw arbitrary shapes on the maps you create,
+including circles and squares. The code below draws a map
+where the circle on each city is proportional to the
+population of that city.
+
+```{r, eval=FALSE}
+md_cities <- data.frame(name = c("Baltimore", "Frederick", "Rockville", "Gaithersburg", 
+                                 "Bowie", "Hagerstown", "Annapolis", "College Park", "Salisbury", "Laurel"),
+                        pop = c(619493, 66169, 62334, 61045, 55232,
+                                39890, 38880, 30587, 30484, 25346),
+                        lat = c(39.2920592, 39.4143921, 39.0840, 39.1434, 39.0068, 39.6418, 38.9784, 38.9897, 38.3607, 39.0993),
+                        lng = c(-76.6077852, -77.4204875, -77.1528, -77.2014, -76.7791, -77.7200, -76.4922, -76.9378, -75.5994, -76.8483))
+md_cities %>%
+  leaflet() %>%
+  addTiles() %>%
+  addCircles(weight = 1, radius = sqrt(md_cities$pop) * 30)
+```
+
+### Drawing Circles
+
+```{r, echo=FALSE}
+md_cities <- data.frame(name = c("Baltimore", "Frederick", "Rockville", "Gaithersburg", 
+                                 "Bowie", "Hagerstown", "Annapolis", "College Park", "Salisbury", "Laurel"),
+                        pop = c(619493, 66169, 62334, 61045, 55232,
+                                39890, 38880, 30587, 30484, 25346),
+                        lat = c(39.2920592, 39.4143921, 39.0840, 39.1434, 39.0068, 39.6418, 38.9784, 38.9897, 38.3607, 39.0993),
+                        lng = c(-76.6077852, -77.4204875, -77.1528, -77.2014, -76.7791, -77.7200, -76.4922, -76.9378, -75.5994, -76.8483))
+md_cities %>%
+  leaflet() %>%
+  addTiles() %>%
+  addCircles(weight = 1, radius = sqrt(md_cities$pop) * 30)
+```
+
+### Drawing Rectangles
+
+You can add rectangles on leaflet maps as well:
+
+```{r, eval=FALSE}
+leaflet() %>%
+  addTiles() %>%
+  addRectangles(lat1 = 37.3858, lng1 = -122.0595, 
+                lat2 = 37.3890, lng2 = -122.0625)
+```
+
+### Drawing Rectangles
+
+```{r, echo=FALSE}
+leaflet() %>%
+  addTiles() %>%
+  addRectangles(lat1 = 37.3858, lng1 = -122.0595, 
+                lat2 = 37.3890, lng2 = -122.0625)
+```
+
+### Adding Legends
+
+Adding a legend can be useful if you have markers on your
+map with different colors:
+
+```{r, eval=FALSE}
+df <- data.frame(lat = runif(20, min = 39.25, max = 39.35),
+                 lng = runif(20, min = -76.65, max = -76.55),
+                 col = sample(c("red", "blue", "green"), 20, replace = TRUE),
+                 stringsAsFactors = FALSE)
+df %>%
+  leaflet() %>%
+  addTiles() %>%
+  addCircleMarkers(color = df$col) %>%
+  addLegend(labels = LETTERS[1:3], colors = c("blue", "red", "green"))
+```
+
+### Adding Legends
+
+```{r, echo=FALSE, message=FALSE}
+df <- data.frame(lat = runif(20, min = 39.25, max = 39.35),
+                 lng = runif(20, min = -76.65, max = -76.55),
+                 col = sample(c("red", "blue", "green"), 20, replace = TRUE),
+                 stringsAsFactors = FALSE)
+df %>%
+  leaflet() %>%
+  addTiles() %>%
+  addCircleMarkers(color = df$col) %>%
+  addLegend(labels = LETTERS[1:3], colors = c("blue", "red", "green"))
+```
+
+### Conclusion
+
+For more details about the leaflet package for R 
+visit http://rstudio.github.io/leaflet/.
+## Assignment 2, c9-w2
+
+```r 
+knitr yaml!
+
+---
+
+title: "Rmarkdown with Maps"
+date: "June 6, 2019"
+output: html
+
+---
+
+
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo=TRUE, message=F, warning=F, cache=T)
+```
+
+
+### Maps: Library and Station and TU Delft building of my City
+
+```{r, echo=F }
+library(leaflet)
+
+df <- data.frame(lat = c(52.002901,52.007517,51.990961), lng = 
+c( 4.375342, 4.357094,4.375575),
+popup=c("library","station","aerospace building"),col=c("red","green","black"),stringsAsFactors = FALSE)
+df %>% leaflet() %>% addTiles() %>% addCircleMarkers(color=df$col) %>%
+    addLegend(labels=c("library","station","Aerospace building"),colors=c("red","green","black"))
+
+```
+
+## Rpackages (c9-)
+### What is an R Package?
+
+- A mechanism for extending the basic functionality of R
+- A collection of R functions, or other (data) objects
+- Organized in a systematic fashion to provide a minimal amount of consistency
+- Written by users/developers everywhere
+
+
+
+### Where are These R Packages?
+
+- Primarily available from CRAN and Bioconductor
+
+- Also available from GitHub, Bitbucket, Gitorious, etc. (and elsewhere)
+
+- Packages from CRAN/Bioconductor can be installed with `install.packages()`
+
+- Packages from GitHub can be installed using `install_github()` from
+  the <b>devtools</b> package
+
+You do not have to put a package on a central repository, but doing so
+makes it easier for others to install your package.
+
+
+
+### What's the Point?
+
+- "Why not just make some code available?"
+- Documentation / vignettes
+- Centralized resources like CRAN
+- Minimal standards for reliability and robustness
+- Maintainability / extension
+- Interface definition / clear API
+- Users know that it will at least load properly
+
+
+
+### Package Development Process
+
+- Write some code in an R script file (.R)
+- Want to make code available to others
+- Incorporate R script file into R package structure
+- Write documentation for user functions
+- Include some other material (examples, demos, datasets, tutorials)
+- Package it up!
+
+
+
+### Package Development Process
+
+- Submit package to CRAN or Bioconductor
+- Push source code repository to GitHub or other source code sharing web site
+- People find all kinds of problems with your code
+  - Scenario #1: They tell you about those problems and expect you to fix it
+  - Scenario #2: They fix the problem for you and show you the changes
+- You incorporate the changes and release a new version
+
+
+
+### R Package Essentials
+
+- An R package is started by creating a directory with the name of the R package
+- A DESCRIPTION file which has info about the package
+- R code! (in the R/ sub-directory)
+- Documentation (in the man/ sub-directory)
+- NAMESPACE
+- Full requirements in Writing R Extensions
+
+
+
+### The DESCRIPTION File
+
+- <b>Package</b>: Name of package (e.g. library(name))
+- <b>Title</b>: Full name of package
+- <b>Description</b>: Longer description of package in one sentence (usually)
+- <b>Version</b>: Version number (usually M.m-p format)
+- <b>Author</b>, <b>Authors@R</b>: Name of the original author(s)
+- <b>Maintainer</b>: Name + email of person who fixes problems
+- <b>License</b>: License for the source code
+
+
+
+### The DESCRIPTION File
+
+These fields are optional but commonly used
+
+- <b>Depends</b>: R packages that your package depends on
+- <b>Suggests</b>: Optional R packages that users may want to have installed
+- <b>Date</b>: Release date in YYYY-MM-DD format
+- <b>URL</b>: Package home page
+- <b>Other</b> fields can be added
+
+
+
+### DESCRIPTION File: `gpclib`
+
+<b>Package</b>:  gpclib<br />
+<b>Title</b>:  General Polygon Clipping Library for R<br />
+<b>Description</b>:  General polygon clipping routines for R based on Alan Murta's C library.<br />
+<b>Version</b>:  1.5-5<br />
+<b>Author</b>:  Roger D. Peng <rpeng@jhsph.edu> with contributions from Duncan Murdoch and Barry Rowlingson; GPC library by Alan Murta<br />
+<b>Maintainer</b>:  Roger D. Peng <rpeng@jhsph.edu><br />
+<b>License</b>:  file LICENSE<br />
+<b>Depends</b>:  R (>= 2.14.0), methods<br />
+<b>Imports</b>:  graphics<br />
+<b>Date</b>:  2013-04-01<br />
+<b>URL</b>:  http://www.cs.man.ac.uk/~toby/gpc/, http://github.com/rdpeng/gpclib
+
+
+
+### R Code
+
+- Copy R code into the R/ sub-directory
+- There can be any number of files in this directory
+- Usually separate out files into logical groups
+- Code for all functions should be included here and not anywhere else in the package
+
+
+
+### The NAMESPACE File
+
+- Used to indicate which functions are <b>exported</b>
+- Exported functions can be called by the user and are considered the public API
+- Non-exported functions cannot be called directly by the user (but the code can be viewed)
+- Hides implementation details from users and makes a cleaner package interface
+
+
+
+### The NAMESPACE File
+
+- You can also indicate what functions you <b>import</b> from other packages
+- This allows for your package to use other packages without making other packages visible to the user
+- Importing a function loads the package but does not attach it to the search list
+
+
+
+### The NAMESPACE File
+
+Key directives
+
+- export("\<function>") 
+- import("\<package>")
+- importFrom("\<package>", "\<function>")
+
+Also important
+
+- exportClasses("\<class>")
+- exportMethods("\<generic>")
+
+
+
+### NAMESPACE File: `mvtsplot` package
+
+```r
+export("mvtsplot")
+import(splines)
+import(RColorBrewer)
+importFrom("grDevices", "colorRampPalette", "gray")
+importFrom("graphics", "abline", "axis", "box", "image", 
+           "layout", "lines", "par", "plot", "points", 
+           "segments", "strwidth", "text", "Axis")
+importFrom("stats", "complete.cases", "lm", "na.exclude", 
+           "predict", "quantile")
+```
+
+
+
+### NAMESPACE File: `gpclib` package
+
+```r
+export("read.polyfile", "write.polyfile")
+importFrom(graphics, plot)
+exportClasses("gpc.poly", "gpc.poly.nohole")
+exportMethods("show", "get.bbox", "plot", "intersect", "union", 
+              "setdiff", "[", "append.poly", "scale.poly", 
+              "area.poly", "get.pts", "coerce", "tristrip", 
+              "triangulate")
+```
+
+
+
+### Documentation
+
+- Documentation files (.Rd) placed in man/ sub-directory
+- Written in a specific markup language
+- Required for every exported function
+  - Another reason to limit exported functions
+- You can document other things like concepts, package overview
+
+
+
+### Help File Example: `line` Function
+
+```
+\name{line}
+\alias{line}
+\alias{residuals.tukeyline}
+\title{Robust Line Fitting}
+\description{
+  Fit a line robustly as recommended in \emph{Exploratory Data Analysis}.
+}
+```
+
+
+
+### Help File Example: `line` Function
+
+```
+\usage{
+line(x, y)
+}
+\arguments{
+  \item{x, y}{the arguments can be any way of specifying x-y pairs.  See
+    \code{\link{xy.coords}}.}
+}
+```
+
+
+
+### Help File Example: `line` Function
+
+```
+\details{
+  Cases with missing values are omitted.
+  Long vectors are not supported.
+}
+\value{
+  An object of class \code{"tukeyline"}.
+  Methods are available for the generic functions \code{coef},
+  \code{residuals}, \code{fitted}, and \code{print}.
+}
+```
+
+
+
+### Help File Example: `line` Function
+
+```
+\references{
+  Tukey, J. W. (1977).
+  \emph{Exploratory Data Analysis},
+  Reading Massachusetts: Addison-Wesley.
+}
+```
+
+
+
+### Building and Checking
+
+- R CMD build is a command-line program that creates a package archive
+  file (`.tar.gz`)
+
+- R CMD check runs a battery of tests on the package
+
+- You can run R CMD build or R CMD check from the command-line using a
+  terminal or command-shell application
+
+- You can also run them from R using the system() function
+
+```r
+system("R CMD build newpackage")
+system("R CMD check newpackage")
+```
+
+
+
+### Checking
+
+- R CMD check runs a battery tests
+- Documentation exists
+- Code can be loaded, no major coding problems or errors
+- Run examples in documentation
+- Check docs match code
+- All tests must pass to put package on CRAN
+
+
+
+
+### Getting Started
+
+- The `package.skeleton()` function in the utils package creates a "skeleton" R package
+- Directory structure (R/, man/), DESCRIPTION file, NAMESPACE file, documentation files
+- If there are functions visible in your workspace, it writes R code files to the R/ directory
+- Documentation stubs are created in man/
+- You need to fill in the rest!
+
+
+
+### Summary
+
+- R packages provide a systematic way to make R code available to others
+- Standards ensure that packages have a minimal amount of documentation and robustness
+- Obtained from CRAN, Bioconductor, Github, etc.
+
+
+
+### Summary
+
+- Create a new directory with R/ and man/ sub-directories (or just use package.skeleton())
+- Write a DESCRIPTION file
+- Copy R code into the R/ sub-directory
+- Write documentation files in man/ sub-directory
+- Write a NAMESPACE file with exports/imports
+- Build and check
+
+### Agent
+
+There is a lecture demo on making R package! in week 3 of course 9
+:https://www.coursera.org/learn/data-products/lecture/t8FX1/building-r-packages-demo
+
+2 things that they do with rstudio and needs an alternative in emacs
+is : building documentation and checking code worthiness for cran and
+loading a package! We can figure it out later as needed!
+
+
+## Classes and Methods (c9-w1)
+### Classes and Methods
+
+- A system for doing object oriented programming
+- R was originally quite interesting because it is both interactive _and_ has a system for object orientation.
+    - Other languages which support OOP (C++, Java, Lisp, Python, Perl) generally speaking are not interactive languages
+    
+### Classes and Methods
+
+- In R much of the code for supporting classes/methods is written by John Chambers himself (the creator of the original S language) and documented in the book _Programming with Data: A Guide to the S Language_
+- A natural extension of Chambers' idea of allowing someone to cross the user -> programmer spectrum
+- Object oriented programming is a bit different in R than it is in most languages - even if you are familiar with the idea, you may want to pay attention to the details
+
+### Two styles of classes and methods
+
+S3 classes/methods
+- Included with version 3 of the S language. 
+- Informal, a little kludgey
+- Sometimes called _old-style_ classes/methods
+
+S4 classes/methods
+- more formal and rigorous
+- Included with S-PLUS 6 and R 1.4.0 (December 2001) 
+- Also called _new-style_ classes/methods
+
+### Two worlds living side by side
+
+- For now (and the forseeable future), S3 classes/methods and S4 classes/methods are separate systems (but they can be mixed to some degree).
+- Each system can be used fairly independently of the other.
+- Developers of new projects (you!) are encouraged to use the S4 style classes/methods.
+    - Used extensively in the Bioconductor project
+- But many developers still use S3 classes/methods because they are "quick and dirty" (and easier).
+- In this lecture we will focus primarily on S4 classes/methods
+- The code for implementing S4 classes/methods in R is in the *methods* package, which is usually loaded by default (but you can load it with `library(methods)` if for some reason it is not loaded)
+
+### Object Oriented Programming in R
+
+- A class is a description of a thing. A class can be defined using `setClass()` in the *methods* package.
+- An _object_ is an instance of a class. Objects can be created using `new()`. 
+- A _method_ is a function that only operates on a certain class of objects.
+- A generic function is an R function which dispatches methods. A generic function typically encapsulates a "generic" concept (e.g. `plot`, `mean`, `predict`, ...)
+    - The generic function does not actually do any computation.
+- A _method_ is the implementation of a generic function for an object of a particular class.
+
+### Things to look up
+
+- The help files for the 'methods' package are extensive - do read them as they are the primary documentation
+- You may want to start with `?Classes` and `?Methods` 
+- Check out `?setClass`, `?setMethod`, and `?setGeneric`
+- Some of it gets technical, but try your best for now-it will make sense in the future as you keep using it.
+- Most of the documentation in the *methods* package is oriented towards developers/programmers as these are the primary people using classes/methods
+
+### Classes
+
+All objects in R have a class which can be determined by the class function
+
+```{r}
+class(1)
+class(TRUE)
+```
+
+### Classes
+
+```{r}
+class(rnorm(100))
+class(NA)
+class("foo")
+```
+
+### Classes (cont'd)
+
+Data classes go beyond the atomic classes
+
+```{r}
+x <- rnorm(100)
+y <- x + rnorm(100)
+fit <- lm(y ~ x)  ## linear regression model
+class(fit)
+```
+
+### Generics/Methods in R
+
+- S4 and S3 style generic functions look different but conceptually, they are the same (they play the same role).
+- When you program you can write new methods for an existing generic OR create your own generics and associated methods.
+- Of course, if a data type does not exist in R that matches your needs, you can always define a new class along with generics/methods that go with it.
+
+### An S3 generic function (in the 'base' package)
+
+The `mean` and `print` functions are generic 
+```{r}
+mean
+```
+
+### An S3 generic function (in the 'base' package)
+
+```{r}
+print
+```
+
+### S3 methods
+
+The `mean` generic function has a number of methods associated with it.
+
+```{r}
+methods("mean")
+```
+
+### An S4 generic function
+
+The `show` function is from the <b>methods</b> package and is the S4
+equivalent of `print`
+```{r}
+library(methods)
+show
+```
+The `show` function is usually not called directly (much like `print`)
+because objects are auto-printed.
+
+### S4 methods
+
+```{r}
+showMethods("show")
+```
+
+### Generic/method mechanism
+
+The first argument of a generic function is an object of a particular class (there may be other arguments)
+
+1. The generic function checks the class of the object.
+2. A search is done to see if there is an appropriate method for that class.
+3. If there exists a method for that class, then that method is called on the object and we're done.
+4. If a method for that class does not exist, a search is done to see if there is a default method for the generic. If a default exists, then the default method is called.
+5. If a default method doesn't exist, then an error is thrown.
+
+### Examining Code for Methods
+
+- You cannot just print the code for a method like other functions because the code for the method is usually hidden.
+- If you want to see the code for an S3 method, you can use the function `getS3method`.
+- The call is `getS3method(<generic>, <class>)`
+- For S4 methods you can use the function `getMethod`
+- The call is `getMethod(<generic>, <signature>)` (more details later)
+
+### S3 Class/Method: Example 1
+
+What's happening here?
+
+```{r}
+set.seed(2)
+x <- rnorm(100)
+mean(x)
+```
+
+1. The class of x is "numeric"
+2. But there is no mean method for "numeric" objects!
+3. So we call the default function for `mean`.
+
+### S3 Class/Method: Example 1
+
+```{r}
+head(getS3method("mean", "default"), 10)
+```
+
+### S3 Class/Method: Example 1
+
+```{r}
+tail(getS3method("mean", "default"), 10)
+```
+
+### S3 Class/Method: Example 2
+
+What happens here?
+
+```{r}
+set.seed(3)
+df <- data.frame(x = rnorm(100), y = 1:100)
+sapply(df, mean)
+```
+
+### S3 Class/Method: Example 2
+
+1. The class of `df` is "data.frame"; each column can be an object of
+a different class
+
+2. We `sapply` over the columns and call the `mean` function
+
+3. In each column, `mean` checks the class of the object and dispatches the
+appropriate method.
+
+4. We have a `numeric` column and an `integer` column; `mean` calls the default method for both
+
+### Calling Methods Directly
+
+* Some S3 methods are visible to the user (i.e. `mean.default`),
+
+* <b>Never</b> call methods directly
+
+* Use the generic function and let the method be dispatched
+automatically.
+
+* With S4 methods you cannot call them directly at all
+
+### S3 Class/Method: Example 3
+
+The `plot` function is generic and its behavior depends on the object being plotted. 
+
+```{r ex3_1,eval=FALSE}
+set.seed(10)
+x <- rnorm(100)
+plot(x)
+```
+
+### S3 Class/Method: Example 3
+
+```{r tenPlot, echo=FALSE}
+set.seed(10)
+x <- rnorm(100)
+plot(x)
+```
+
+### S3 Class/Method: Example 3
+
+For time series objects, `plot` connects the dots
+
+```{r ex3_3,eval=FALSE}
+set.seed(10)
+x <- rnorm(100)
+x <- as.ts(x) ## Convert to a time series object 
+plot(x)
+```
+
+### S3 Class/Method: Example 3
+
+```{r ex3_4,echo=FALSE}
+set.seed(10)
+x <- rnorm(100)
+x <- as.ts(x) ## Convert to a time series object 
+plot(x)
+```
+
+### Write your own methods!
+
+If you write new methods for new classes, you'll probably end up writing methods for the following generics:
+- print/show 
+- summary 
+- plot
+
+There are two ways that you can extend the R system via classes/methods
+- Write a method for a new class but for an existing generic function (i.e. like
+`print`)
+- Write new generic functions and new methods for those generics
+
+### S4 Classes
+
+Why would you want to create a new class?
+- To represent new types of data (e.g. gene expression, space-time, hierarchical, sparse matrices)
+- New concepts/ideas that haven't been thought of yet (e.g. a fitted point process model, mixed-effects model, a sparse matrix)
+- To abstract/hide implementation details from the user
+I say things are "new" meaning that R does not know about them (not that they are new to the statistical community).
+
+### S4 Class/Method: Creating a New Class
+
+A new class can be defined using the `setClass` function
+- At a minimum you need to specify the name of the class
+- You can also specify data elements that are called _slots_
+- You can then define methods for the class with the `setMethod` function 
+- Information about a class definition can be obtained with the `showClass` function
+
+### S4 Class/Method: Polygon Class
+
+Creating new classes/methods is usually not something done at the console; you likely want to save the code in a separate file
+
+```{r polygon_1, tidy = FALSE}
+library(methods)
+setClass("polygon",
+         representation(x = "numeric",
+                        y = "numeric"))
+```
+
+- The slots for this class are `x` and `y`
+
+- The slots for an S4 object can be accessed with the `@` operator.
+
+### S4 Class/Method: Polygon Class
+
+A plot method can be created with the `setMethod` function.
+
+- For `setMethod` you need to specify a generic function (`plot`), and
+  a _signature_.
+
+- A signature is a character vector indicating the classes of objects
+  that are accepted by the method.
+
+- In this case, the `plot` method will take one type of object, a
+  `polygon` object.
+
+### S4 Class/Method: Polygon Class
+
+Creating a `plot` method with `setMethod`.
+
+```{r polygon_2, tidy = FALSE}
+setMethod("plot", "polygon",
+          function(x, y, ...) {
+                  plot(x@x, x@y, type = "n", ...)
+                  xp <- c(x@x, x@x[1])
+                  yp <- c(x@y, x@y[1])
+                  lines(xp, yp)
+	  })
+```
+
+- Notice that the slots of the polygon (the x- and y-coordinates) are
+  accessed with the `@` operator.
+
+### S4 Class/Method: Polygon Class
+
+After calling `setMethod` the new `plot` method will be added to the list of methods for `plot`.
+
+```{r polygon_3}
+library(methods)
+showMethods("plot")
+```
+
+Notice that the signature for class `polygon` is listed. The method for `ANY` is the default method and it is what is called when now other signature matches
+
+### S4 Class/Method: Polygon class
+
+```{r polygon_4}
+p <- new("polygon", x = c(1, 2, 3, 4), y = c(1, 2, 3, 1))
+plot(p)
+```
+
+### Summary
+
+- Developing classes and associated methods is a powerful way to
+  extend the functionality of R
+
+- <b>Classes</b> define new data types
+
+- <b>Methods</b> extend <b>generic functions</b> to specify the behavior
+    of generic functions on new classes
+
+- As new data types and concepts are created, classes/methods provide
+  a way for you to develop an intuitive interface to those
+  data/concepts for users
+
+### Where to Look, Places to Start
+
+- The best way to learn this stuff is to look at examples
+
+- There are quite a few examples on CRAN which use S4
+  classes/methods. You can usually tell if they use S4 classes/methods
+  if the <b>methods</b> package is listed in the `Depends:` field
+
+- Bioconductor (http://www.bioconductor.org) - a rich resource, even
+  if you know nothing about bioinformatics
+
+- Some packages on CRAN (as far as I know) - SparseM, gpclib, flexmix,
+  its, lme4, orientlib, filehash
+
+- The `stats4` package (comes with R) has a bunch of classes/methods
+for doing maximum likelihood analysis.
+
+
+## swirl (c9-)
+### What is swirl? Part 1
+
+- Swirl is an R package that turns the R console into an interactive learning
+evironment.
+- Students are guided through R programming exercises where they
+can answer questions in the R console.
+- There is no separation between where a student learns to use R, and where 
+they go on to use R for thier own creative purposes. 
+
+If you've never used swirl before you shoud try swirl out for yourself:
+
+```r
+install.packages("swirl")
+library(swirl)
+swirl()
+```
+
+### What is swirl? Part 2
+
+- Anyone can create and distribute their own swirl course!
+- Creating a swirl course can allow you scale R and data science education
+within your company or school.
+- If you're interested in getting involved in the open source education
+community you can release your swirl course online and Team swirl will promote
+it for you!
+- There's a package called swirlify which is designed to help you write a swirl
+course. We'll look into swirlify later.
+
+### What is a swirl course?
+
+- A swirl course is a directory that contains all of the files, folders, and 
+lessons associated with the course you are developing. 
+- Lessons contain most of the content that students interact with, and the 
+course sequentially organizes these lessons.
+- A course should conceptually encapsulate a broad concept that you want to 
+teach. For example: “Plotting in R” or “Statistics for Engineers” are broad 
+enough topics that they could be broken down further (into lessons which we’ll 
+talk about next). 
+- When a student start swirl, they will prompted to choose from a list of 
+courses, and then they can choose a lesson within the course they selected. 
+- Once the student selects a lesson, swirl will start asking the student 
+questions in the R console.
+
+### What is a lesson?
+
+- A lesson is a directory that contains all of the files required to execute one
+unit of instruction inside of swirl. 
+- For example a "Plotting in R" course might contain the lessons: "Plotting 
+with Base Graphics", "Plotting with Lattice", and "Plotting with ggplot2." 
+- Every lesson must contain one `lesson.yaml`
+file which structures the text that the student will see inside the R console
+while they are using swirl. 
+- The `lesson.yaml` file contains a sequence of questions that students will 
+be prompted with.
+
+### Writing swirl Courses: Setting up the App
+
+First install swirlify:
+
+```r
+install.packages("swirlify")
+library(swirlify)
+```
+
+Then set your working directory to wherever you want to create your course and
+start the Shiny lesson authoring app:
+
+```r
+setwd(file.path("~", "Desktop"))
+swirlify("Lesson 1", "My First Course")
+```
+
+### Writing swirl Courses: Using the App
+
+For a demo about how to use the Shiny authoring app see the following video:
+https://youtu.be/UPL_W-Umgjs
+
+### Writing swirl Courses: Using the R Console
+
+- Alternatively you can use the R console and a text editor to write swirl
+lessons. 
+- We highly recommend using
+[RStudio](https://www.rstudio.com/products/rstudio/download/) 
+for writing swirl lessons since RStudio provides this editor and console setup 
+by default.
+
+To start a new lesson from the R console set your working directory to where
+you want to create the course, and then use the `new_lesson()` function to
+create the course:
+
+```r
+setwd("/Users/sean/")
+new_lesson("My First Lesson", "My First Course")
+```
+
+### Writing Lessons: Part 1
+
+The `new_lesson()` function will create a file and folder structure like this
+in your working directory:
+
+```r
+My_New_Course
+- My_First_Lesson
+    - lesson.yaml
+    - initLesson.R
+    - dependson.txt
+    - customTests.R
+```
+
+### Writing Lessons: Part 2
+
+To review, the `new_lesson()` function did the following:
+
+1. A new directory was created in `/Users/sean/` called `My_New_Course`.
+2. A new directory was created in `/Users/sean/My_New_Course` called `My_First_Lesson`.
+
+### Writing Lessons: Part 2.5
+
+- Several files were created inside of `/Users/sean/My_New_Course/My_First_Lesson`:
+    - `lesson.yaml` is where you will write all of the questions for this lesson. ([Example](https://github.com/seankross/Test_Course/blob/master/Test_Lesson/lesson.yaml))
+    - `initLesson.R` is an R script that is run before the lesson starts which is
+    usually used to load data or set up environmental variables. ([Example](https://github.com/seankross/Test_Course/blob/master/Test_Lesson/initLesson.R))
+    - `dependson.txt` is the list of R packages your lesson will require. swirl
+    will install these packages if the user doesn't already have them installed. ([Example](https://github.com/seankross/Test_Course/blob/master/Test_Lesson/dependson.txt))
+    - `customTests.R` is where you can write your own tests for student's answers.
+([Example](https://github.com/seankross/Test_Course/blob/master/Test_Lesson/customTests.R))
+
+### Writing Lessons: Part 3
+
+If everything is set up correctly then `new_lesson()` should have opened up the
+new `lesson.yaml` file in a text editor. You can now start adding questions to
+the `lesson.yaml` by using functions that start with `wq_` (write question).
+
+### Writing Lessons: Types of Questions
+
+Lessons are sequences of questions that have the following general structure:
+
+```
+- Class: [type of question]
+  Key1: [value1]
+  Key2: [value2]
+- Class: [type of question]
+  Key1: [value1]
+  Key2: [value2]
+...
+```
+
+The example above shows the high-level structure for two questions.
+
+### Writing Lessons: Types of Questions
+
+- Each question is demarcated with a hyphen. 
+- Every question starts with a `Class` that specifies that question's behavior
+inside of swirl.
+- What follows the class is a set of key-value pairs that will be used to render
+the question when a student is using swirl.
+
+### Writing Lessons: The Meta Question
+
+The first question in every `lesson.yaml` is always the meta question which
+contains general information about the course. Below is an example of the meta
+question:
+
+```
+- Class: meta
+  Course: My Course
+  Lesson: My Lesson
+  Author: Dr. Jennifer Bryan
+  Type: Standard
+  Organization: The University of British Columbia
+  Version: 2.5
+```
+The meta question will not be displayed to a student. The only fields you should
+modify are `Author` and `Organization` fields.
+
+### Writing Lessons: Message Questions
+
+Message questions display a string of text in the R console for the student to 
+read. Once the student presses enter, swirl will move on to the next question.
+
+Add a message question using `wq_message()`. 
+
+Here's an example message question:
+
+```
+- Class: text
+  Output: Welcome to my first swirl course!
+```
+
+The student will see the following in the R console:
+
+```
+| Welcome to my first swirl course!
+...
+```
+
+### Writing Lessons: Command Questions
+
+Command questions prompt the student to type an expression into the R console.
+
+- The `CorrectAnswer` is entered into the console if the student uses the `skip()`
+function. 
+- The `Hint` is displayed to the student if they don't get the question right.
+- The `AnswerTests` determine whether or not the student answered the question
+correctly. See the answer testing section for more information.
+
+Add a message question using `wq_command()`. 
+
+### Writing Lessons: Command Questions
+
+Here's an example command question:
+
+```
+- Class: cmd_question
+  Output: Add 2 and 2 together using the addition operator.
+  CorrectAnswer: 2 + 2
+  AnswerTests: omnitest(correctExpr='2 + 2')
+  Hint: Just type 2 + 2.
+```
+
+The student will see the following in the R console:
+
+```
+| Add 2 and 2 together using the addition operator.
+>
+```
+
+### Multiple Choice Questions
+
+Multiple choice questions present a selection of options to the student. These
+options are presented in a different order every time the question is seen.
+
+- The `AnswerChoices` should be a semicolon separated string of choices that
+the student will have to choose from.
+
+Add a message question using `wq_multiple()`. 
+
+Here's an example multiple choice question:
+
+```
+- Class: mult_question
+  Output: What is the capital of Canada?
+  AnswerChoices: Toronto;Montreal;Ottawa;Vancouver
+  CorrectAnswer: Ottawa
+  AnswerTests: omnitest(correctVal='Ottawa')
+  Hint: This city contains the Rideau Canal.
+```
+
+### Multiple Choice Questions
+
+The student will see the following in the R console:
+
+```
+| What is the capital of Canada?
+1: Toronto
+2: Montreal
+3: Ottawa
+4: Vancouver
+```
+
+### Other Question Types
+
+For complete documentation about writing swirl courses and lessons see the
+swirlify website: http://swirlstats.com/swirlify/
+
+### Organizing Lessons: Part 1
+
+Let's revisit the general structure of a swirl course. This is the structure of
+a course with two lessons:
+
+```
+My_New_Course
+- My_First_Lesson
+  - lesson.yaml
+  - initLesson.R
+  - dependson.txt
+  - customTests.R
+- My_Second_Lesson
+  - lesson.yaml
+  - initLesson.R
+  - dependson.txt
+  - customTests.R
+```
+
+### Organizing Lessons: Part 2
+
+- By default each folder in `My_New_Course` will be displayed to the student 
+as a lesson they can select. 
+- If you want to explicitly specify the order in which lessons are displayed 
+you will need to add a `MANIFEST` file to your course.
+- You can do this with the `add_to_manifest()` function, which will add 
+the lesson you are currently working on to the `MANIFEST`. You can also edit
+the `MANIFEST` yourself in a text editor.
+
+### Organizing Lessons: Part 3
+
+The (abridged) `MANIFEST` file below belongs to Team swirl's
+R Programming course:
+
+```
+Basic_Building_Blocks
+Workspace_and_Files
+Sequences_of_Numbers
+Vectors
+Missing_Values
+Subsetting_Vectors
+Matrices_and_Data_Frames
+```
+
+### Sharing Your Course
+
+Swirlify makes sharing a swirl course easy. We recommend three different methods
+for sharing a swirl course.
+
+### Sharing Your Course as a File
+
+We've developed the `.swc` file type so that you can share your course as a
+single file. Creating an `.swc` file for your course is easy:
+
+1. Set any lesson in the course you want to share as the current lesson using
+`set_lesson()`.
+2. Create an `.swc` file using the `pack_course()` function. Your `.swc` file
+will appear in the same directory as the directory that contains the course
+folder. You also have the option to export the `.swc` file to another directory
+by specifying the `export_path` argument.
+
+### Sharing Your Course as a File
+
+- You can now share your `.swc` file like you would any other file (through email, file sharing services, etc). 
+- Students can install your course from the `.swc` file by downloading the 
+file and then using the `install_course()` function in swirl, which will 
+prompt them to interactively select the file they downloaded.
+
+### Sharing Your Course on GitHub
+
+- We highly encourage you to develop your course on 
+[GitHub](https://github.com/) so that we can better support you if you 
+have questions or need assistance while developing your course.
+- Developing your course on GitHub provides the added
+benefit that your course will be instantly ready to distribute.
+- Students can install your course from swirl using the `install_course_github()` function.
+- Make sure that your course directory is the root folder of your 
+git repository. For examples of courses that have been shared on GitHub 
+you can browse some of the courses on 
+the [Swirl Course Network](http://swirlstats.com/scn/).
+
+### Sharing Your Course on The Swirl Course Network
+
+The goal of the Swirl Course Network is to list and organize all publicly
+available swirl courses. Visit the [homepage](http://swirlstats.com/scn/) of the
+SCN for more information.
+
+After adding your course to the SCN students will be able to install your course
+using `install_course("[Name of Your Course]")` in swirl.
+
+### Sharing Your Course on The Swirl Course Network
+
+In order to add your course to the SCN:
+
+1. Create an `.swc` file for your course.
+2. Fork https://github.com/swirldev/scn on GitHub.
+3. Add the `.swc` file to your fork.
+4. Add an Rmd file to your fork like 
+[this one](https://raw.githubusercontent.com/swirldev/scn/gh-pages/rprog.Rmd).
+You can include a description of your course, authors, a course website, and
+how to install your course.
+5. Run `rmarkdown::render_site()` when your current directory is set to your
+fork.
+6. Add, commit, and push your changes to GitHub, then send us a Pull Request.
+
+### More Help & Resources
+
+- [The swirl Website](http://swirlstats.com/)
+- [The swirlify Documentation](http://swirlstats.com/swirlify/)
+- [The swirl Course Network](http://swirlstats.com/scn/)
+
+Feel free to get in touch with Team swirl:
+
+- Via email: info@swirlstats.com
+- On Twitter: @[swirlstats](https://twitter.com/swirlstats)
+
