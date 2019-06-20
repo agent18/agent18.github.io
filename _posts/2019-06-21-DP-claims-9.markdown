@@ -224,6 +224,7 @@ For [2], we think of the control problem in AI
 For [3], we think of AI safety
 
 **Derivation for 57k**
+
 |                                          | AI safety | Climate Change |
 |------------------------------------------|-----------|----------------|
 | Possible Deaths at the end of 2100       | 21b       | 20% x 21b      |
@@ -469,6 +470,7 @@ just for his work in a few years.
 **Example**: AI is neglected whereas Climate Change is not. A person
 working in AI seems to have 1000 times more impact than a person
 working for Climate Change.
+
 
 |                                                   | AI safety | Climate Change |
 |---------------------------------------------------|-----------|----------------|
@@ -1415,7 +1417,7 @@ verbal ability."
 
 <!-- 7 -->
 
-### But what about memory!
+### But what about memory
 
 > The Czech master Richard Reti once played twenty-nine blindfolded
 > games simultaneously. Miguel Najdorf, a Polish-Argentinean grand
@@ -1785,4 +1787,4 @@ shoudl be used only as a treat.
 
 <!-- http://pradeep90.github.io/Deep-Thinking.html -->
 
-	<!-- Peter Singers morality essay -->
+<!-- Peter Singers morality essay -->
