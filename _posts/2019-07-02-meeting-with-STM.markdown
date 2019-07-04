@@ -6,7 +6,7 @@ date:    2-07-2019
 categories: drafts
 tags: DP, feedback, examples
 permalink: /:title.html
-published: TRUE
+published: True
 ---
 
 ## mail 
@@ -19,6 +19,8 @@ published: TRUE
 6. Quitting job is a plan? What direction to go in career if 'AI safety is life'? any thoughts?
 
 ## new
+
+Concrete thinking, career, Goal, 
 
 **Health**
 
