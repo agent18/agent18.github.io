@@ -2435,21 +2435,7 @@ pioneering in the are of Non-violence, which others were yet to
 properly appreciate. (unable to estimate the impact aka, number of
 lives saved)
 
-### Summary
 
-> (Many experts)[9] believe that there is a (significant chance that
-> humanity will develop machines more intelligent than ourselves
-> during the 21st century)[10]. (This)[] could lead to (large, rapid
-> improvements in human welfare)[11], but there are (good reasons)[1]
-> to think that (it could also lead to disastrous outcomes)[2]. The
-> problem of (how one might design a highly intelligent machine to
-> pursue realistic human goals safely)[3] is (very poorly
-> understood)[4]. If (AI research continues to advance without enough
-> work going into the research problem of controlling such
-> machines)[5], (catastrophic accidents are much more likely to
-> occur)[6]. Despite (growing recognition of this challenge)[7],
-> (fewer than 100 people worldwide)[8] are directly working on the
-> problem.
 
 ## TIO Summary
 
@@ -3006,6 +2992,448 @@ smaller or bigger than what?
 ## lets do pg article on saving money instead of earning more and what
 he means
 
+## From 21 june
+
+> By (donating to the most effective organizations in an area)[1], just about
+> (anyone in a well paid job)[2] can have a (substantial impact)[3].
+
+**Claim**: [2] can have [3] by [1].
+
+For [1], we think of donating to AMF (which is certified by GiveWell
+as the most effective charity)
+
+For [2], We think of being the top 1% in the world in terms of
+earnings(a salary allowing a 10% donation with ease of 4k$).
+
+For [3], we think of saving one life with 4k$ of donation. This will
+come to about 200 lives with increase in salaries over 30 years.
+
+ By donating to AMF (certified by GiveWell as most effective
+charity),
+
+> You may be able to (take this a step further)[4] and ‘earn to give’ by
+> (aiming to earn more than you would have done otherwise and to donate
+> some of this surplus effectively)[5].
+
+> Not (everyone)[6] wants (to make a dramatic career change)[7], or is
+> (well-suited to the narrow range of jobs that have the most impact
+> on the most pressing global problems)[8]. However, by donating,
+> (anyone)[9] can (support these top priorities, ‘convert’ their
+> labour into labour working on the most pressing issues, and have a
+> much bigger impact)[10].
+
+### Summary
+
+> (Many experts)[9] believe that there is a (significant chance that
+> humanity will develop machines more intelligent than ourselves
+> during the 21st century)[10]. (This)[] could lead to (large, rapid
+> improvements in human welfare)[11], but there are (good reasons)[1]
+> to think that (it could also lead to disastrous outcomes)[2]. The
+> problem of (how one might design a highly intelligent machine to
+> pursue realistic human goals safely)[3] is (very poorly
+> understood)[4]. If (AI research continues to advance without enough
+> work going into the research problem of controlling such
+> machines)[5], (catastrophic accidents)[6] are much more likely to
+> occur. Despite (growing recognition of this challenge)[7],
+> (fewer than 100 people worldwide)[8] are directly working on the
+> problem.
+
+**Claim**: The problem of [3] is poorly understood.
+
+**Example**: 
+
+For [3], we think of using Machine Learning algorithms that do not
+show the probability values i.e., "airplane", instead of "99%
+airplane and 1% cat". This aims to not allow hackers to train for
+adversary examples as shown [here](http://web.archive.org/web/20170305071334/https://openai.com/blog/adversarial-example-research/). 
+
+For [4], we think of the [black-box adversary](https://arxiv.org/pdf/1602.02697.pdf), which is able to
+trick Google and Amazon ML models, such that they get it's adversarial
+examples wrong by 96% and 88%.
+
+
+
+**Claim**: If [5], then [6] are more likely.
+
+**Example**: The blackbox adversary is able to trick Google and Amazon
+ML models such that they get 96% and 88% of supplied adversarial
+examples wrong.
+
+
+**Claim**: Despite [7], [8] are directly working on this problem.
+
+**Example**: 
+
+For [7], MIRI was founded in 2000 and OpenAI was started in 2015
+
+For [8], we think of the 15 organizations that work on AI safety with
+say 12 people each resulting in roughly 180 people worldwide.
+
+
+*[8] is directly working on a problem. Is easy to give example. How
+does "despite [7]..." be given an example.*
+
+> The (arguments for working on this problem area)[1] are complex, and what
+> follows is only (a brief summary)[2].
+
+
+??? come back
+
+> Superintelligence: Paths, Strategies, Dangers, by
+> Oxford Professor Nick Bostrom. The Artificial Intelligence
+> Revolution, a post by Tim Urban at Wait But Why, is shorter and also
+> good (and also see this response).
+
+
+> When Tim Urban started investigating his article on this topic, he
+> expected to finish it in a few days. Instead he spent weeks reading
+> everything he could, because, he says, “it hit me pretty quickly
+> that what’s happening in the world of AI is not just an important
+> topic, but by far the most important topic for our future.”
+
+*skipping this as this is some personal account. There are claims
+like, "he started doing this...", "he realized it takes more time...",
+I am not sure it is useful to break my head over trying to give
+examples for these.*'
+
+> In October 2015 an AI system named AlphaGo shocked the world by
+> defeating a professional at the ancient Chinese board game of Go for
+> the first time. A mere five months later, a second shock followed:
+> AlphaGo had bested one of the world’s top Go professionals, winning
+> 4 matches out of 5. Seven months later, the same program had further
+> improved, crushing the world’s top players in a 60-win streak. In
+> the span of a year, AI had advanced from being too weak to win a
+> single match against the worst human professionals, to being
+> impossible for even the best players in the world to defeat.
+
+*no claims here other than claims of fact. So I skip this!*
+
+> (This)[1] was shocking because (Go)[2] is considered (far harder for a
+> machine to play than Chess)[3]. (The number of possible moves in
+> Go)[4] is (vast)[5], so it’s not possible to (work out the best move
+> through “brute force”.)[6] Rather, the game requires (strategic
+> intuition)[7]. (Some experts)[8] thought it would take at least (a decade
+> for Go to be conquered)[9].
+
+**Claim**: [1] was shocking
+
+**Example**: "Some experts thought it would take at least a decade",
+but it took less than a year.
+
+*Is this an accepted example*
+
+**Claim**: [1] was shocking because [2] is [3].
+
+**Claim**: [2] is [3]. 
+
+**Example**: Chess starts with 16 different positions playable at
+start, where as Go starts with 361 positions at the start.
+
+**Claim**: [4] is [5],
+
+**Example**: 361 positions at the start as compared to 16 positions
+for chess.
+
+**Claim**: [4] is [5], so it is not possible to [6].
+
+**Example**: "The search space in Go is vast -- more than a googol
+times larger than chess (a number greater than there are atoms in the
+universe!). As a result, traditional “brute force” AI methods -- which
+construct a search tree over all possible sequences of moves -- don’t
+have a chance in Go. "---[Source](https://ai.googleblog.com/2016/01/alphago-mastering-ancient-game-of-go.html).
+
+**Claim**: The game requires [7].
+
+**Example**: 
+
+- due to search space being more than googol, it is not possible to
+  use brute force. 
+  
+- It uses neural networks, and machine learning from over 30 million
+  moves from the past, and it eventually became the best Go player in
+  the world.
+
+**Claim**: [8] thought it would take at least a decade, but it took
+less than a year to be the best.
+
+**Example**: *I only quotes, no one says who said it. so SKIP!*
+
+> Since then, (AlphaGo)[10] has discovered that (certain ways of playing Go
+> that humans had dismissed as foolish for thousands of years were
+> actually superior.)[11] Ke Jie, the top ranked go player in the world,
+> has been astonished: “after (humanity)[14] spent (thousands of years
+> improving our tactics)[15],” he said, “computers tell us that humans are
+> completely wrong. I would go as far as to say not a single (human)[13] has
+> touched (the edge of the truth of Go)[12].”9
+
+*Here I need to dive deep into Go, Although not useful, it could still
+help taking down an unknown topic aka via research.*
+
+**Claim**: [10] has discovered [11].
+
+**Example**: "Master made moves that seemed foolish but inevitably led
+to victory this week over the world’s reigning Go champion, Ke Jie of
+China"--- [source](https://www.wsj.com/articles/ai-program-vanquishes-human-players-of-go-in-china-1483601561).
+
+**Claim**: [14] has spent [15].
+
+**Example**: 
+
+
+**Claim**: [13] has touched [12].
+
+**Example**: A game being played for 2000 years
+
+don't know what it means, 
+
+> (The advances above)[1] became possible due to (progress in an AI
+> technique called “deep learning”)[2]. In the (past)[3], we had to
+> give computers (detailed instructions for every task)[4]. Today, we
+> have (programs that teach themselves how to achieve a goal)[5] – for
+> example, a program was able to learn how to play Atari games based
+> only on reward feedback from the score. This has been made possible
+> by (improved algorithms)[6], (faster processors)[7], (bigger data
+> sets)[8], and (huge investments by companies like Google)[9]. It has
+> led to (amazing advances far faster than expected)[10].
+
+**Claim**: [1] became possible due to [2]. 
+
+**Example**: Winning reliably took AlphaGo training with 30 million moves from
+games played by experts until predictability went to 57%. And
+thousands of games between it's neural networks, to improve itself
+gradually over time.
+
+I dont' think it answers it!
+
+**Claim**: In [3], we gave computers [4].
+
+**Example**: In video games, bots are written based on rules, if the
+opponent has reached position X, bot A will charge at him and shoot at
+X frequency with it's aim at 50%. 
+
+Whereas today, AlphaZero can learn and play chess like a "master" in
+4 hours.
+
+**Claim**: We have [5], today.
+
+**Example**: AlphaGoZero is able to learn the entire game of GO
+without any human intervention to the level of AlphaGo which is the
+world's best Go player currently.
+
+**Claim**: We have [5], today because of [6].
+
+**Example**: *I don't know how to give an example for this? I don't
+know where to find such an example. I expect the example to look like:
+We used alg A and B and B had superior performance... Alg A allowed
+had so much performance and this drawback, Alg b in 2019 doesn't have
+those.*
+
+**Claim**: We have [5], today because of [7].
+
+**Example**: *same as above*
+
+**Claim**: We have [5], today because of [8].
+
+**Example**: *because* and *same as above*
+
+**Claim**: We have [5], today because of [9].
+
+**Claim**: We have [5], today because of [10].
+
+**Claim**: [6],[7],[8],[9] has led to [8].
+
+*skip* 
+
+
+
+## Plan change
+
+- Will only deal with top claims that are useful for me. Wtf does that
+  mean?
+  
+  I am not going to look into lines like:
+  
+  "this has been made possible by imrpoved algorithms, faster
+  processors". I'd rather take this at face value, I don't see how
+  they are helping me. Contrast this to "It has led to Amazing
+  advances far faster than expected", I care about this, because it
+  gives me concreteness in understanding how "fast the problem is
+  progressing" ok Great! I think it's still a feeling, atleast we have
+  two examples that "differentiate them"...
+  
+  Let's make all the claims and skip them or go further. Sounds good!
+  
+  
+- When to skip: 
+
+	- *because* *due*
+	- *too much work for a useless non-useful stuff*
+	- *too easy stuff*
+	- *claims of fact*
+  
+And that my friend is your feedback, the feedback of truly
+understanding, not doing random stuff and reexplaining the same joke
+over and over again. 
+
+Don't seem to like browsing on the internet hoping for some results to
+match.
+
+If you can't open the source move on! Don't waste time, thinking you
+are DPing!
+  
+### Summary
+
+Write all claims, skip useless stuff, focus on useful stuff that you
+are confused about that you feel you need to learn more about.
+  
+## plan in action  
+  
+
+> But (those)[1] are just (games)[2]. Is general (machine
+> intelligence)[3] still far away? Maybe, but maybe not. It is really
+> hard to (predict the future of technology)[4], and (lots of past
+> attempts)[5] have been (completely off the mark)[6]. However, (the best
+> available surveys of experts)[7] assign (a significant probability to the
+> development of powerful AI within our lifetimes)[8].
+
+**Claim**: [1] are just [2].
+
+*skip* 
+
+**Claim**: [3] is still far away
+
+**Claim**: Maybe but maybe not
+
+*skip* *I feel like puking at these statements that just seem to
+simply waste your time. Is this bad writing? what are the dimensions
+bro? exactly.*
+
+**Claim**: It is really hard to [4].
+
+**Example**: "Some experts thought it would take at least a decade for
+Go to be conquered", but it has already arrived and it is the best
+player in the world. --- [source](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/)
+
+**Claim**: [5] about [4], has been [6].
+
+**Example**: *Can't open the financial times source*, so don't know by
+how far they missed the mark.
+
+**Claim**: [7], assigns [8].
+
+**Example**: Of the 29 people who answered the [survey](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/), more than
+half thought that there was a greater than 50% chance of high-level
+machine intelligence by 2050. and 10% chance of it happening by 2024.
+
+
+> (One survey of the 100 most-cited living computer science
+> researchers, of whom 29 responded)[], found that (more than half
+> thought there was a greater than 50% chance of “high-level machine
+> intelligence” – one that can carry out most human professions at
+> least as well as a typical human – being created by 2050, and a
+> greater than 10% chance of it happening by 2024)[] (see figure
+> below).2 [10]
+
+*skip. as they are questions of fact*
+
+### Impacts
+
+> If the (experts are right)[1], (an AI system that reaches and then
+> exceeds human capabilities)[2] could have (very large impacts)[3],
+> both (positive)[4] and (negative)[5]. If (AI matures in fields such as
+> mathematical or scientific research)[6], (these systems could make rapid
+> progress in curing diseases or engineering robots to serve human
+> needs.)[7]
+
+**Claim**: ~~if [1]~~, [2] could have [3].
+
+*skip* *as it is covered in the next claims*
+
+**Claim**: [2] could have [3] which is +ve
+
+**Example**: Humans can miss the signs of [cancer 20-30% of the
+cases](https://www.forbes.com/sites/charlestowersclark/2019/04/30/the-cutting-edge-of-ai-cancer-detection/#5cae67037336) (fuck me!) of cancer. We seem to be talking about 3.6m
+people who are probably going to die. (I assume that if you leave
+cancer undetected you are going to be fucked). If AI is able to detect
+with high accuracy, it could lead to attempting to save these 3.6m
+lives.
+
+*But I don't think this is what they are talking about in 6 and 7. I
+currently have only a hypothetical example but I think I am still
+missing a bit of detail.*
+
+**Claim**: [2] could have [3] which is -ve
+
+**Example**: 
+
+*"The owners of a pharmaceutical company use machine learning algorithms to rapidly generate and evaluate new organic compounds.
+
+As the algorithms improve in capability, it becomes increasingly impractical to keep humans involved in the algorithms’ work – and the humans’ ideas are usually worse anyway. As a result, the system is granted more and more autonomy in designing and running experiments on new compounds.
+
+Eventually the algorithms are assigned the goal of “reducing the incidence of cancer,” and offer up a compound that initial tests show is highly effective at preventing cancer. Several years pass, and the drug comes into universal usage as a cancer preventative…
+
+…until one day, years down the line, a molecular clock embedded in the compound causes it to produce a potent toxin that suddenly kills anyone with trace amounts of the substance in their bodies.
+
+It turns out the algorithm had found that the compound that was most effective at driving cancer rates to 0 was one that killed humans before they could grow old enough to develop cancer. The system also predicted that its drug would only achieve this goal if it were widely used, so it combined the toxin with a helpful drug that would incentivize the drug’s widespread adoption."*
+
+18m people die of Cancer every year.
+
+**Claim**: If [6], then [7].
+
+**Example**: 
+
+> On the other hand, (many people)[1] worry about the (disruptive
+> social effects of this kind of machine intelligence)[2], and in
+> particular its (capacity to take over jobs previously done by less
+> skilled workers)[3]. If the (economy is unable to create new jobs for
+> these people quickly enough)[4], there will be (widespread
+> unemployment and falling wages)[5].11 (These outcomes)[6] could be
+> avoided through (government policy)[7], but doing so would likely
+> require (significant planning)[8].
+
+**Claim**: [1] worry about [2]. 
+
+**Example**: 80khours is trying to place many people in [AI
+policy](https://80000hours.org/articles/ai-policy-guide/) to ... ???
+
+**Claim**: [2] is [3].
+
+**Example**: Google assistant is already able to make appointments for
+you by speaking like a human.
+
+**Claim**: [1] worry about [3].
+
+**Example**: 80khours hours???
+
+**Claim**: If [4], there will be [5].
+
+**Example**: ???
+
+**Claim**: [6] could be avoided through [7], but would require [8].
+
+**Example**: ???
+
+
+## Rant
+
+**Lot of OB, moving walking, not deepworking**. Feeling bored! and
+dragging myself to get success. There used to be times in the past
+when I would look at the time and it ouwld be [2] hrs. Nowadays [1] hr
+is already hard. and the idea of being done with this shit is very
+soothing. 
+
+Reading deepwork? or write an article about mathivanan? also I don't
+know wha I am doing anymore as I just seem to be spending time 
+
+
+What is rewarding, when I find a great example which I feel like I
+understand something that an STM would respect, but that takes a lot
+of time or reading and googling articles. 
+
+
+- need to read articles
+
+- getting lost to find what exaxtly I would like to find
 ## Statistics
 
 
@@ -3049,6 +3477,12 @@ he means
 | 18-08-2019 | 15 +20     | [7]+[14]  |                  | [3].5hrs+ [2].5         |
 |            |            |           |                  | 80khours art + mijn     |
 | 19-09-2019 | 20+25      |           |                  | 80khours AI   [5].5     |
+| 20-09-2019 | 1          |           |                  | [1] hr  AI              |
+| 21-09-2019 | 4          | 2         |                  | [2] hrs                 |
+| 22-09-2019 |            |           |                  | Did [2] hrs             |
+| 23-09-2019 |            |           |                  | Did [3]-[4] hrs         |
+| New plan   |            |           |                  |                         |
+| 24-09-2019 | 8-5        | 6-3       |                  |                         |
 |            |            |           |                  |                         |
 
 
@@ -3088,20 +3522,80 @@ I know you always say send me 200 phrases! Name your price for this, just this o
 
 Thank You for everything. Cheers!
 
-## to do
 
-- clean up 300 phrases and claims!
 
-- arrange in order
 
-- add hyperlinks
+### Feedback checklist
 
-- summary of issues and examples of confusion!
+Feedback checklist:
 
-	- write the stats!
+1. Could it be that this claim has no any example at all? For example, "civilization is at stake".
 
-- clean up the help me STM section
+2. Could this claim be false? Remember the "there is no doubting" example.
 
-- go to ???
+3. Does this claim say anything about "best" (need to compare against the entire set) or "most" (need to show it's the majority in the set) or "no" (need to show that nothing in the set matches)?
 
-- spell check
+4. Did you stick to examples that are in the chapter itself? That way you don't have to search online for too long.
+
+5. Did you use a running example for a technical phrase? There will be lots of new phrases in the book, like "convergent instrumental value" and "orthogonality thesis". Whenever you see them, you should recall whatever running example you've used.
+
+6. If this is an "if-then" claim, did you either get a concrete example or mark it as having no example?
+
+Short names: none; false; best; chapter; running; if-then.
+
+Please refer to the checklist after every claim analysis to ensure
+you're not making old mistakes. If you want to add to the checklist
+based on mistakes found in past feedback, that's great.
+
+### Mission
+
+Mission #9: Your mission, should you choose to accept it, is to
+concretely analyze the key claims in the book Superintelligence by
+Nick Bostrom (the book mentioned in the Elon Musk tweet above). He's a
+PhD at Oxford who's been writing about AI safety along with guys like
+Eliezer for nearly two decades. The book has detailed arguments and
+examples about all the topics like possible paths to
+"superintelligence" (whatever that means), types of
+"superintelligence", the control problem, etc.
+
+No need to write "Question: " - doesn't seem to have changed your answers.
+
+Don't have to go sentence by sentence; look at one key claim for each
+section, usually the one in the first few paragraphs, or one for each
+paragraph if you feel it's an important section. For example:
+
+> CHAPTER 2 Paths to superintelligence
+>
+> Machines are currently far inferior to humans in general
+> intelligence. Yet one day (we have suggested) they will be
+> superintelligent. How do we get from here to there? This chapter
+> explores several conceivable technological paths. We look at
+> artificial intelligence, whole brain emulation, biological
+> cognition, and human-machine interfaces, as well as networks and
+> organizations. We evaluate their different degrees of plausibility
+> as pathways to superintelligence. The existence of multiple paths
+> increases the probability that the destination can be reached via at
+> least one of them.
+
+The key claim is "How do we get from here to there? Answer: Artificial
+intelligence, whole brain emulation, ..."
+
+### Claim
+
+I am possibly going to enjo the experience much much more than the
+last few days of fighting to complete the [2] hours. It seems like
+this is a signal for an panindian pandian to do something else or do
+it differently. 
+
+Without Examples I am nothing!
+
+## Questions to an STM
+
+How to identify claims of importance?
+
+What is the goal here? 
+
+People are making so many claims (as listed in black in the book)?
+
+How do you go about it?
+2

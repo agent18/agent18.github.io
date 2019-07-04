@@ -1730,7 +1730,7 @@ I am currently in India on vacation. Trying to clock 6 hrs per day.
 
 **Day 1 to 5:** 6 hrs each (only DP)
 
-**Day 6     :** 6-7 hrs (DP correction and editing)
+**Day 6:** 6-7 hrs (DP correction and editing)
 
 **Total time:** 36 hrs 200 phrases and \~ 110 claims
 
