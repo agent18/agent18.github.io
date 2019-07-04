@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "DP Superintelligence #9.2"
 date:    25-06-2019 
-categories: posts
+categories: drafts
 tags: DP, feedback, examples
 permalink: /:title.html
 published: True
