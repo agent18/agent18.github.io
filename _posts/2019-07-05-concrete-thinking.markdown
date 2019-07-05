@@ -12,7 +12,7 @@ published: True
 
 ## Common failure modes
 
-- **Labels are given but not the definitions**
+- **Labels are given but not the definitions nor the examples**
 
 - **Labels and are given definitions but not the examples**
 
