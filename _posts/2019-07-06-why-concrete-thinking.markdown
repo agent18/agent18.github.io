@@ -159,7 +159,7 @@ How do you know anything about the claim, when you don't even have an
 example? When someone makes a claim it seems that giving one example
 instead of zero examples, aka CT, is better. Below are some examples:
 
-**CT gives the ability to falsify hypothesis**  
+- **CT gives the ability to falsify hypothesis**  
 
 **Claims**: Venezuela is fine---Someone
 
@@ -173,7 +173,7 @@ full time job.
 Does it match the definition given by the predicate? It doesn't seem
 so. All it took was one example to falsify the claim.
 
-**Labels are misleading**
+- **Labels are misleading**
 
 **Claims**:  Trevor: "(Kamala)[1] is going to (wipe the floor with JB)[2]"---[Source](https://youtu.be/6-PNPz_4DO0?t=78)
 
