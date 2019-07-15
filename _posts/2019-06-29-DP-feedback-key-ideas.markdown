@@ -213,7 +213,7 @@ doubting and I am done. Correct me if I am wrong!
 
 ****************************End************************************ 
 
-> Claim: [3] is at stake.
+> Claim: [3] is at stake (because of AI).
 >
 > Example:
 >

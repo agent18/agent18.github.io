@@ -1,0 +1,733 @@
+---
+layout: post
+comments: true
+title:  "Why concrete thinking?"
+date:    06-07-2019 
+categories: posts
+tags: DP, feedback, examples
+permalink: /:title.html
+published: true
+---
+
+
+## What is concrete thinking?
+
+Concrete thinking is the testing of the labels (forming a claim),
+using an example to check against the given definition.
+
+For example,
+
+**Claims**: Kamala Harris: "Joe Biden praised the reputation of two United States
+senators"---[Source](https://youtu.be/6-PNPz_4DO0?t=78)
+
+**Subject**: Joe Biden
+
+**Predicate**: praised the reputation of two United States Senators
+
+**Example of Subject**: “At least there was some civility. We didn’t
+agree on much of anything. We got things done. We got it
+finished.”---[Rolling Stone](https://www.rollingstone.com/politics/politics-news/why-did-biden-praise-racist-senator-booker-deblasio-850220/)
+
+Does it match the definition given by the predicate?
+
+It doesn't seem so. When I read the claim the first time I imagined
+something more serious. I would think of praise as saying the "US
+Senators were great souls". But according to a lot of the world "He
+*praised* these Senators".
+
+Here we see that we assumed a definition of the label "praised" and
+found out that the *claim was false*.
+
+If it is not testable then what the hell is it? It's unfalsifiable
+like "God created the Earth".
+
+## What is not concrete thinking?
+
+**Giving "reasons" instead of CT to verify claims**
+
+> Human Civilization is (will be) at stake (due to AI)---Clive Cookson
+
+**Reasons**: The fate of Gorillas currently depends on the actions of
+humans. Similarly, the fate of humanity may come to depend more on the
+actions of machines than our own.
+
+Does this reasoning sufficiently improve confidence in the claim?
+It seems to. "It feels like it". Let's accept the claim for now.
+
+Consider, 
+
+> God wants you to not eat onions
+
+**Reasoning**: (Onions make you passionate about food)[1] And (God
+doesn't want you to be passionate about food)[2].
+
+Great. Sounds great! Right? 
+
+A(onions) leads to B(passion for food). B will not lead your to
+C(God). Hence proving that 'A will not lead to C'---which is the
+actual claim. I don't have a problem with the above logic. But...
+
+Is [1] true? Is [2] true? [1] and [2] are but claims, which are
+untested. How can I jump the gun on the main claim? when the reasons
+are also claims that can not be tested!
+
+Hmm. So I guess what I am saying is that *Reasoning does not seem to
+work when the claims cannot be or isn't tested, i.e., when the claims
+cannot be judged/verified (say with atleast one example)*.
+
+Coming back to the reasoning given for, 
+
+> Human Civilization is at stake
+
+> **Reasons**: (The fate of Gorillas)[1] currently depends on the (actions of
+> humans)[2]. (Similarly, the fate of humanity)[3] may come to depend more on the
+> (actions of machines than our own)[4].
+
+Statement A: [1] depends on [2] and [2] is "much better" than [1].
+Statement B: [3] may depend on [4] if [4] is "much better" than [3].
+
+Statement A can be tested. But Statement B is an untested claim. There
+seems to be no connection between Statement A and B, such that just
+because Statement A is true B will follow to be true. Statement A does
+not establish any causal relationship between the first and second
+part of itself. [1] depends on [2]. Whether it is because [2] is "much
+better" than [1], is questionable, aka lacking proof. *So, extending
+this to Statement B seems to be out of the question*.
+  
+But it "felt right", right? Just like in the "God wants you to not eat
+onions", statement.
+
+So giving reasons can be MISLEADING, as long as there are untested claims 
+
+
+
+**Giving hypothetical examples**
+
+- you could literally give examples for everything
+
+- what about testability.
+
+> Human Civilization could be at stake due to AI (in the future)
+
+80khours showed an example of how a pharma company that uses machine
+learning algorithms to synthesize drugs to cure cancer. It could turn
+out that the algorithm found that the most effective way of reducing
+cancer rates was to kill the humans before they could grow old enough
+to develop cancer.
+
+Contrast this to,
+
+> Human Civilization could be at stake due to Diseases (in the
+> future)
+
+You can't test could be... But the closest it seems that we can come
+to testing it seems to be with an example from the past. Isn't this
+what we do in prediction, look at the past and TRY to predict the future?
+
+> There could be other scenarios that 80khours hasn't investigated.
+
+If 80khours saw in the past that they had 100 topics and 50 topics
+seemed critical, then in the next set, we would predict that there
+seems to be a high chance that we would expect a few topics to be
+critical.
+
+In my company the whole FMEA is written based on things we see in the
+past, and not the things that we expect, because we have no idea the
+effect of something.
+
+## One vs Zero
+
+How do you know anything of the claim, when you don't even have an
+example?
+
+When someone makes a claim it seems that making one example instead of
+zero examples is better. For example,
+
+- **ability to falsify hypothesis**
+
+**Claims**: Venezuela is fine---Someone
+
+**Subject**: Things happening in Venezuela
+
+**Predicate**: Is fine.
+
+**Example of subject**: People eating from the trash despite working a
+full time job.
+
+Does it match the definition given by the predicate?
+
+It doesn't seem so. 
+
+All it took was one example to falsify the claim. 
+
+- **labels are misleading**
+
+**Claims**:  Trevor: "(Kamala)[1] is going to (wipe the floor with JB)[2]"---[Source](https://youtu.be/6-PNPz_4DO0?t=78)
+
+**Subject**: What Kamala did! 
+
+**Predicate**: wipe the floor with JB
+
+**Example of Subject**: 
+
+[According to the New York Times](https://www.nytimes.com/2019/07/02/us/politics/kamala-harris-polls.html), Kamala "surged"(overtook) in
+three polls after the debate and Joe Biden "Fell". Wow man I really
+made the mistake of assuming that Kamala overtook JB. Until I saw...
+
+> Harris’ average support jumped to 14.7% on Wednesday, up from 7% on
+> June 25, the day before the two-day debate started. An average of
+> 27.2% of respondents supported Biden as of Wednesday, a drop from
+> 32.1% on June 25.---[Source](https://www.cnbc.com/2019/07/03/kamala-harris-rises-joe-biden-falls-in-polls-after-democratic-debate.html)
+
+Does the example match the definition given by the predicate? Wiping
+the floor with JB could mean that she atleast beat JB in
+Polls. According to the above data by CNBC, JB seems to still be
+leading KH.
+
+Until an STM pointed out, I think I was just assuming Trevor wouldn't
+mislead me. I kinda believed his claims because I thought he did his
+research. But when I start to dig in deeper I realize that I didn't
+really know what he meant by saying that Kamala wiped the floor with
+JB. I really thought Kamala totalled him, either in polls or in
+exposing who he truly was. But neither turned out to be right.
+
+When Kamala said that JB supported segregationists, I didn't even know
+that I could question it. I almost immediately assumed that JB's past
+was being brought to the light, just like it happened to trump with
+his scandals ("grabbing women by their pussy"). I didn't want to wait
+I had already passed my judgment.
+
+- **Making vague things concrete?**
+
+Let's look at another example based on 80khours:
+
+> (Gaining career capital)[3] is (important throughout your
+> career)[4], but especially when (you’re young and you have a lot to
+> learn)[5].
+
+**Claims**: [3] is [4].
+
+**Subject**: [3]
+
+**Predicate**: [4]
+
+**Example of [3]**: We think of gaining python skills which seems to
+fit the definition of gaining CC. 
+
+For the definition of important, (which is also a label), we think of
+making more CASH with GCC, than without GCC. This could be what
+80khours mean, as it is one of their intentions to help by donating.
+
+Is gaining python skills important every instant of my working life? I
+think it is hard to test this as I need an example of someone who has
+constantly improved their python. If I look at a particular instant
+then it is easier and we shall take that route as it is practical.
+
+We check if learning python every moment of my life will result in more
+cash than I have now. I guess that's not practical. Something that we
+can check is if learning python gets us more cash. 
+
+With gaining python skills, it improves the chance of getting Data
+Science jobs which pays higher than my current job according to
+payscale.
+
+Without gaining python skills, it is not possible to get Data Science
+jobs which pays higher than my current job.
+
+The Claim is not False.
+
+This is as far as we go 
+
+> Career Capital is (anything)[5] that (puts you in a better position)[6] to (make a
+> difference in the future)[7], including (skills, connections,
+> credentials and runway)[8]
+
+Another example: 
+
+> high tech companies have high profits this year!
+
+We think of Apple and we think of Apple generating more revenue than
+amazon this year.
+
+With Apple it seems to be true.
+
+
+the other is that you have some concrete way of thinking it. I.e., you
+think of the subject matter not in labels but in examples. 
+
+If someone says .... you are thinking....
+
+claim: I feel This is valuable
+
+But why?
+
+I am thinking about the time when I demistified an article sent around
+by my team lead.
+
+I need more examples, ones where if I am questioned, I am able to
+answer more. Until then we do not know why it is useful to see thinkgs
+
+So an STM was talking about labels, definition and examples. Without
+thinking of something concrete, I was trying to hold on to the
+words. But it was very hard, until I saw this example...
+
+**Isolate problem area**
+
+dj rixen book!
+
+**People don't know what they're talking about**
+
+"I can't pay the loan amount for a new house by myself as it is a lot
+of money", said my brother. He didn't know what was lots, what it
+would cost, or what he was expecting me to pay. He didn't even have a
+clue. I could have accepted the claim without questions but when I was
+trying to probe for 1 example it turned out that he needed to do some
+work before making such claims.
+
+**Concrete thinking in real life**
+
+An STM gave me this example:
+
+They had a new AC installed. Just before the installers were leaving
+he wanted to do one test. You could also do like a test with special
+equipment that will test the voltage, the swing speed and amount of
+aerosol (journal paper level). And as soon as he did the first test,
+it worked. Great. He was quite satisfied but decided to go just a
+little bit further. He tried to switch on the timer and then the
+installer informed that he had to first press the on timer and then
+only he could press the off timer. Something he would have never
+figured out by himself. and so on... was the story where there were
+more issues in the operation, all because of this one test.
+
+Now what am I trying to say We can always give one example... Getting
+more examples is hard (example needed here). Journal level information
+for a claim takes time to get (example needed here!)
+
+I will give two more examples! 
+
+Labels ARE MISTLEADING! thats fucking why! So we see that we need to
+do atleast this. You could falsify claims as well.
+
+## One vs Many
+
+Journals are typically solid proof of a claim. For example, the claim
+"intelligence is not connected to skill" was confirmed after looking
+at approximately 45000 samples and inferring from correlation of
+intelligence and skill. 
+
+For claims related to medicine ("Drug A cures Cancer"), it seems like
+we do need journal level studies. Luckily for us there are people
+around the world working on these type of things. 
+
+But to get this level of proof it takes a lot of time and effort and is
+not practical. For example, within 2 minutes of [this video](https://youtu.be/6-PNPz_4DO0?t=78), we
+have atleast five claims. So it is not practical. We can't go on with
+such rigor for every single claim we find. As seen above, there are
+use cases for giving just one example (remember how "JB praised US
+Senators" was falsified).
+
+What about two or three examples? (This is for later...)
+
+## Where all do we need concrete thinking
+
+It seems like CT is required everywhere where there are labels. To
+even know what someone is talking about, we need CT. People can say
+"JB praised some bad US senators". And until we see an example, we
+can't say anything about the claim.
+
+There seem to be two cases where we don't require CT.
+
+- **Statements of Observation (rawdata)**
+
+	I got up in the train and hanged the bag onto the hanger. A santro
+    car crashes into the pillar right in front of me.
+	
+	There seem to be no labels/claims.
+	
+- **Statements that are already concrete**
+
+	"(Mozart)[8] scored a (130 percent on the precocity index)[9]
+	whereas (his current contemporaries)[10] scored (thirty to
+	five-hundred percent)[10a]."
+	
+	This is already a concrete example for the claim: "Mozart isn't a
+	lot more precocious than modern child pianists". There seem to be
+	no labels/claims.
+
+Labels are misleading. If there are no labels, then there seems to be
+no point in going further.
+
+### old text
+
+We think about watching youtube or reading newspapers like the
+Washington Post where they say they say, "JB is a racist".
+
+But what if we see that a car had an accident? Do we still need CT?
+But we don't make any inference from
+
+**Claims**: We don't need CT on raw data.
+
+**Explanation**: Say you see a car accident. This is just
+"rawdata". There seems to be no claim/label. It is not a true of false
+statement. You were there and you saw that a santro hit the pillar in
+XXX street. This is just a fact, like "sun sets in the east"
+
+But it looks like I am giving reasons, but we currently are not in
+that phase. 
+
+Where there is an inference there there is CT. Where there is labels,
+there there is CT! It appears that we still need to give an example
+where we look at raw data and then try to apply CT and show that we
+get none the wiser.
+
+**this**: Say you are going on a train and you hang your bag with food on a
+hanger.
+
+How will I even do CT on this! What does it even mean to do CT on
+this?
+
+**Claims**: There is no point doing CT on statements that have no labels.
+
+subject: Statements that have no labels
+
+Predicate: has no reason for CT to be done on it.
+
+Example of statements with no labels: Say you are going a train and
+you hang a bag with food on a hanger.
+
+Checking the example against the definition: But we don't know what
+does has no reason for CT even mean?
+
+Could mean that it gives no useful information or could it mean that
+there is subject or predicate or there are no labels or not definition
+to check an example against?
+
+If there is no point in doing CT, then we think that we get no useful
+information out of it. What does this mean? How does not useful
+information look like? Give an example...
+
+Well how does useful look like? "JB is a racist", we are able to check
+if JB is or is not a racist. This is good! As we are able to test
+claims. This is where CT finds its use.
+
+In the case of useless, it appears that "
+
+We are not going to test the following as it is already a concrete
+example. We are currently worried about claims, labels, things that
+can be misconstrued and not about testing examples such as
+
+> > (Mozart)[8] scored a (130 percent on the precocity index)[9]
+> whereas (his current contemporaries)[10] scored (thirty to
+> five-hundred percent)[10a].
+
+> Claim: [8] scored [9].
+>
+> Example: All this probably requires is a citation? agree?
+
+> **This is already a concrete example, not a claim**. A claim would
+> be something like "Mozart isn't a lot more precocious than modern
+> child pianists", for which you would give the above example.
+
+So we think of the statements of observation and statements of
+concrete examples. 
+
+Statement of observation such as: "My mom hung the bag on the hook in
+the train".
+
+Statement of concrete examples such as: "Mozart scored 130% on the
+precocty index"
+
+*How do you apply CT to don't need*
+
+## Giving examples
+
+
+
+**What about hypothetical examples!**
+
+> There could be other scenarios that 80khours hasn't investigated
+
+> Human civilization is at risk due to AI (in the future)
+
+> Human civilization is at risk due to Diseases (in the future)
+
+I can give one example for "could be statements" but how am I wiser?
+What is the benefit I get?
+
+What is the importance of being able to give examples for future
+claims.
+
+If you don't even have one example. why are you confident or what
+gives you confidence about making such claims?
+
+Contrast claims of AI from superintelligence (stock market crash) with
+hypothetical example. We have seen it before (stock market AI crash)
+and then we have atleast one example where shit is going down and how
+it might look.
+
+I do not know now how to quantify "how much better this is", but that
+lets not bother about it now. Let's clos the hypothetical examples
+chapter with this!
+
+So my conclusion at the airport was that, we have two questions to be
+answered. 
+
+- What is the use of answering future claims like "There could be
+  other scenarios that 80khours hasn't investigated" or "Human
+  civilization is at risk due to diseases".
+
+- Why not give hypothetical examples for future claims, Does it
+  satisfy what "it's supposed to!"
+  
+  
+What about hypothetical examples? 
+
+**Father Claim**: With hypothetical examples, people can literally say
+anything as an example for a claim.
+
+What a useless and vague claim written above... 
+
+The goal with CT seems to be to "verify claims with atleast one
+example!" The above exampl
+
+**Main Claims**: With hypothetical examples, we can verify claims.
+
+**Subject**: Hypothetical examples
+
+**Predicate**: can verify claims
+
+People can literally say anything. It looks like...
+
+Let's look at a claim and give hypothetical example... and see why it
+might or might not fail.
+
+Let's look at religion the single most awesome thing that is known to
+be false max....
+
+Claims from religion include "God is taking care of you"
+
+Wait a minute are all claims of the future unfalsifiable? ( I wouldn't
+have got this if I didn't write I guess) Wow.. Suthi Suthi the same
+thing pandian pan indian!
+
+"God wants you to not eat onions"... you can give reasons also but
+that is of no use.
+
+God will salvage yo
+
+
+
+In one case, an STM gave an example for could. This was when we were
+talking about "there could be other scenarios 80k haven't
+investigated" or "Human civilization could be at risk due to
+diseases", we atleast have one example where it has happened.
+
+We could be at risk due to AI or due to airports due to anything and
+we can give an example for that! But I am not sure how we are better
+by giving an example of "we could be at risk due to diseases". How or
+why does that change the odds of anything? why would this be better
+according to what? 
+
+It looks like I am not worried about: 
+
+> JB praised reputation of US senators who were segregationists
+
+There is no question of hypothetical here.
+
+Or for that matter:
+
+> Venezuela is fine
+
+or 
+
+> high tech companies have high profits this year.
+
+So what we are concerned with is could be statements alone. And we are
+only now concerning ourselves with the advantages of giving examples
+for claims such as "There could be other important scenarios which is
+not investigated by 80k", or "Human civilization is at stake due to
+AI", "human civilization is at stake as a result of Diseases."
+
+Once this is clear the rest can be tackled only then?
+
+### copied text
+
+> There are (many issues)[1] we haven’t been able to look into yet, so
+> we expect there are other (high-impact areas we haven’t
+> listed)[3]. We have a (list of candidates)[4] on our (problem
+> profile page)[5], and we’d be excited for (people to explore some of
+> these as well as other areas that could have a large effect on the
+> long-term future.)[6] (These areas)[6a] can be (particularly worth
+> pursuing)[7] if you’re (especially motivated by one of them)[8]. We
+> cover this more in the section on ‘personal fit’ below.
+
+**Claim**: There are [1], that 80khours has not looked into yet.
+
+**Question**: Are there [1], that 80khours has not looked into yet?
+
+**Example**: [Criminal Justice Reform, medical research into how to
+slow aging etc...](https://80000hours.org/problem-profiles/)
+
+**Claim**: There could be other [3].
+
+**Question**: Could there be other [3]?
+
+*In this case, I could give a hypothetical example or an example from
+the past? can you help with what's good here? and why?*
+
+**Example from Past**: Until a few years back 80khours thought that the best
+places to work on were "reducing near-term life risks aka reducing
+global health risks" but when they explored that there were global
+catastrophic risks that could kill the entire planet and future
+generations, they have now changed their stance on where people should
+be working considering the impact.
+
+**Example Hypothetical**: If medical research into 'how to slow aging' seems
+largely promising (95% chance of making it with 10b <span>$</span>
+with a 100 people extra), in delivering a mechanism that doubles the
+human life expectancy, it could be beneficial to work on it as it
+could save `95% * 7b expected people lives/100 = 66m expected people
+lives per person working on it`
+
+
+The owners of a pharmaceutical company use machine learning algorithms
+to rapidly generate and evaluate new organic compounds.
+
+As the algorithms improve in capability, it becomes increasingly
+impractical to keep humans involved in the algorithms’ work – and the
+humans’ ideas are usually worse anyway. As a result, the system is
+granted more and more autonomy in designing and running experiments on
+new compounds.
+
+Eventually the algorithms are assigned the goal of “reducing the
+incidence of cancer,” and offer up a compound that initial tests show
+is highly effective at preventing cancer. Several years pass, and the
+drug comes into universal usage as a cancer preventative…
+
+…until one day, years down the line, a molecular clock embedded in the
+compound causes it to produce a potent toxin that suddenly kills
+anyone with trace amounts of the substance in their bodies.
+
+It turns out the algorithm had found that the compound that was most
+effective at driving cancer rates to 0 was one that killed humans
+before they could grow old enough to develop cancer. The system also
+predicted that its drug would only achieve this goal if it were widely
+used, so it combined the toxin with a helpful drug that would
+incentivize the drug’s widespread adoption.
+
+
+
+## What about reasoning
+
+What about reasoning? ok What about it? What are you asking or what is
+the claim that you want to test?
+
+Look, everything shall be put through the great CT test. It seems like
+a formal way to think. And I don't have journal level proof, but I
+will come up with atleast one example, which is seemingly better than
+0 examples (think of JB is a racist, or AC example.)
+
+**Claims**: Reasoning also allows to verify claims
+
+> > Claim: [3] is at stake (because of AI).
+> >
+> > Example:
+> >
+> > The fate of Gorillas currently depends on the actions of
+> > humans. They are currently endangered. Similarly the fate of
+> > humanity may come to depend on the actions of machines than our own.
+>
+> In other words, we have no concrete example. If they said that
+> diseases put human civilization at stake, we can point to the Black
+> Plague, which killed nearly half the people of Western Europe. Or
+> nukes (Japan). Or asteroids (dinosaurs).
+
+So here I am not sure of what is happening! I have two labels and I am
+finding it hard to "quantify" them.
+
+Above we have a reasoning, but how do I know if "it allows to verify
+claims"? So take an actual "verifiable claim" and put it to the test
+and see if it passes or fails?
+
+What does verify claims mean? what does it look like? what decides if
+something is 
+
+
+How about:
+
+**Claims**: reasoning can falsify claims
+
+I don't have one example as of now!
+
+So there is no concrete example available for now and we close it at
+that! AKA be wary of reasoning. 
+
+If in the next time we are talking we find reasoning able to add valy
+to us?!
+
+
+
+
+## The failure cases
+
+As per [DP routine discussed here](/what-is-DP.html), we would like to tabulate and
+identify where we are making mistakes and where we are not, and look
+at how to improve our score. We see that this tabulation can be done
+under the following categories:
+
+A) Guessing something is right or wrong or don't know.
+
+B) you can test the claim or forget to test the claim
+
+C) The claim could actually be right or actually be wrong
+
+This gives us twelve categories where we could sort our answers to
+claims which allows us to see our score. We recollect how while
+watching the Trevor Noah video, I had failed to test "Kamala swept the
+floor with JB" (I didn't even realize it). The goal is to [improve the
+score by working on where I fail most](/concrete-thinking.html).
+
+<!-- I was trying to do [CT a few days back](/concrete-thinking.html). My friend defined to me -->
+<!-- what CT was. I made an attempt to do CT, i.e., I had several examples -->
+<!-- on which I attempted CT. In the end, I was not sure if I had "done it -->
+<!-- right". What I was supposed to do was check the example against it's -->
+<!-- definition, but I failed -->
+
+<!-- what happened -->
+<!-- was that I got a Crash course on CT. And I axed an STM to tell me if -->
+<!-- it is right or wrogn what I did. In this case, it turned out that I -->
+<!-- didn't apply the definition of CT and check it against the -->
+<!-- example... So essentially it can be said that I didn't test and -->
+<!-- further more I didn't know how to test. -->
+
+<!-- In the above case we tried to test it but didn't know how, In the next -->
+<!-- case, we failed to test it, but didn't even try! -->
+
+<!-- In the above case I had the definition but failed to test it, I didn't -->
+<!-- know how to test it. The claim was wrong and I was not sure if it is -->
+<!-- right or wrong. -->
+
+## How valuable is CC?
+
+## Need to identify what are the scenarios where I fail!
+
+## Twelve cases and twelve examples!
+## To what extent do we give examples
+
+## What now!
+
+## Checking if we are correct?
+
+Check with reality? What does this mean?
+
+
+## todo
+- to what extent to go with giving examples,
+
+	- to the point of being able to ask questions
+## delivery todo
+
+- spell check
+- look each section again
+- hypothetical and reasoning
+- summary
