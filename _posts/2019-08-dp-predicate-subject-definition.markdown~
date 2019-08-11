@@ -1,0 +1,2223 @@
+---
+layout: post
+comments: true
+title:  "DP10: Subject Predicate Hyperbole"
+date:    22-04-2019 
+categories: posts
+tags: DP, feedback, examples
+permalink: /:title.html
+published: True
+---
+
+## TODO 
+
+### On what to do DP?
+
+- statistics book; ask jblevins and body for books
+- Also scoobies cardio
+
+- I stopped half way in key ideas. Maybe I can work again through the
+  whole article or start half way.
+
+- super intelligence maybe?
+
+- DP book
+
+- DP summary
+
+- Take something from the drafts (marriage, cryonics, availability bias)
+
+- scooby
+
+### Keep in mind
+
+- Keep in mind the [7] points that need to be told
+ at the end  and also the subject predicate matter.
+
+- keep subject predicate checking definition in mind as well!
+ 
+### Things needed
+
+org mode calculation
+timeing
+and word count
+
+
+### Feedback checklist
+
+Mission #9: Your mission, should you choose to accept it, is to
+concretely analyze the key claims in the book Superintelligence by
+Nick Bostrom (the book mentioned in the Elon Musk tweet above). He's a
+PhD at Oxford who's been writing about AI safety along with guys like
+Eliezer for nearly two decades. The book has detailed arguments and
+examples about all the topics like possible paths to
+"superintelligence" (whatever that means), types of
+"superintelligence", the control problem, etc.
+
+No need to write "Question: " - doesn't seem to have changed your
+answers.
+
+Don't have to go sentence by sentence; look at one key claim for each
+section, usually the one in the first few paragraphs, or one for each
+paragraph if you feel it's an important section. For example:
+
+> CHAPTER 2 Paths to superintelligence
+>
+> Machines are currently far inferior to humans in general
+> intelligence. Yet one day (we have suggested) they will be
+> superintelligent. How do we get from here to there? This chapter
+> explores several conceivable technological paths. We look at
+> artificial intelligence, whole brain emulation, biological
+> cognition, and human-machine interfaces, as well as networks and
+> organizations. We evaluate their different degrees of plausibility
+> as pathways to superintelligence. The existence of multiple paths
+> increases the probability that the destination can be reached via at
+> least one of them.
+
+The key claim is "How do we get from here to there? Answer: Artificial
+intelligence, whole brain emulation, ..."
+
+Feedback checklist:
+
+1. Could it be that this claim has no/any example at all? For example,
+   "civilization is at stake" or "5, could lead to extremely positive
+   developments"
+
+2. Could this claim be false? Remember the "there is no doubting"
+   example.
+
+3. Does this claim say anything about "best" (need to compare against
+   the entire set) or "most" (need to show it's the majority in the
+   set) or "no" (need to show that nothing in the set matches)?
+
+4. Did you stick to examples that are in the chapter itself? That way
+   you don't have to search online for too long.
+
+5. Did you use a running example for a technical phrase? There will be
+   lots of new phrases in the book, like "convergent instrumental
+   value" and "orthogonality thesis". Whenever you see them, you
+   should recall whatever running example you've used.
+
+6. If this is an "if-then" claim, did you either get a concrete
+   example or mark it as having no example?
+   
+   **************************addition***********************************
+   or is there an If ("if you are especially motivated by one of them"
+   example) or Given (Given Short black hair, Jacques kallis will not
+   fit there in that claim) in the statement? Have you used them
+   appropriately in the example?
+   ****************************End************************************ 
+
+
+Short names: none; false; best; chapter; running; if-then.
+
+Please refer to the checklist after every claim analysis to ensure
+you're not making old mistakes. If you want to add to the checklist
+based on mistakes found in past feedback, that's great.
+
+
+## AI
+
+
+> “There is (no doubting)[0] (the force of the arguments)[1] … (the problem)[2] is
+> (a research challenge worthy of the next generation’s best
+> mathematical talent)[3]. (Human civilisation)[4] is (at stake)[5].”  – Clive
+> Cookson, Science Editor at the Financial Times 
+
+**Claims**: There is [0] [1].
+
+**Subject**: In [1].
+
+**Predicate**: there is [0].
+
+**Example**: "One survey of the 100 most-cited living computer science
+researchers, of whom 29 responded, found that more than half thought
+there was a greater than 50% chance of “high-level machine
+intelligence” – one that can carry out most human professions at least
+as well as a typical human – being created by 2050, and a greater than
+10% chance of it happening by 2024 (see figure below)".
+
+**Definition checking**: So is there no doubting? emm err... There
+seems to be doubts survey is not 100% infact it is not even 60%.
+
+**Checklist** : 
+
+1. Could it have 0 examples? Not necessarily.
+2. Could it be false? Yes
+3. Does it have no, best? and did you factor them? Yes and Yes.
+4. examples from chapter? Yes
+5. Is this a running example? Not really. Its the first example of the
+   article.
+6. If-then type (did you factor the if)? Not if-then
+
+---
+
+**Claims**: [2] is [3].
+
+**Subject**: [2].
+
+**Predicate**: [3].
+
+**Example**: Solving the AI control problem
+
+**Definition**: The definition label is hard to understand. I am
+unable to understand the label "worthy"
+
+**Checklist** : 
+
+1. Could it have no examples? Yes
+2. Could it be false? Yes
+3. Does it have no, best? and did you factor them?  No and No
+4. Examples from chapter? Yes
+5. Is this a running example? N/A 
+6. If-then type (did you factor the if)? No
+
+**Claims**: [4] is [5].
+
+**Subject**: [4] due to AI
+
+**Predicate**: [5].
+
+**Example**: No examples.
+
+**Definition**: N/A 
+
+**Checklist** : 
+
+1. Could it have no examples? YES
+2. could it be false? YES
+3. Does it have no, best? and did you factor them? No and No.
+4. examples from chapter? N/A
+5. Is this a running example? N/A
+6. If-then type (did you factor the if)? No ad no
+
+--- <!-- 5 -->
+
+> Around 1800, civilization underwent (one of the most profound shifts
+> in human history)[2]: (the industrial revolution)[3].
+
+**Claims**: [3] is [2].
+
+**Subject**: [3].
+
+**Predicate**: [2].
+
+**Example**: Less than 1000<span>$</span> was the world average income
+until 1800 A.D. This includes the time of agricultural revolution. In
+2000 A.D it is 8000<span>$</span>. The increase started at around 1800 A.D.
+
+**Definition Checking**: Seems to be on the MOST profound shifts in
+human history.
+
+**Checklist** : 
+
+1. Could it have 0 examples? No
+2. could it be false? Yes
+3. Does it have "no", "best"? and did you factor them? Yes and Yes.
+4. examples from chapter? Yes
+5. Is this a running example? Not really
+6. If-then type (did you factor the if)? No 
+
+--- <!-- 2 -->
+
+~~> This wasn’t the first such event – the (agricultural revolution)[]
+> had (upended human lives 12,000 years earlier)[].~~
+
+> (A growing number of experts)[1] believe (that a third revolution will
+> occur during the 21st century, through the invention of machines
+> with intelligence which far surpasses our own)[2]. These range from
+> (Stephen Hawking to Stuart Russell)[3], the author of the best-selling AI
+> textbook, AI: A Modern Approach.2
+
+**Claims**: [1] believe [2].
+
+**Subject**: [1].
+
+**Predicate**: believe [2].
+
+**Example**: Looking at the number of signatories for the Future of
+Humanities AI open letter in [2017](https://web.archive.org/web/20170113141445/http://futureoflife.org/ai-open-letter-signatories/) and [2018](https://web.archive.org/web/20180410161122/https://futureoflife.org/ai-open-letter-signatories/) we see that this
+list is growing atleast by 100-200 people with designations ranging
+from student, dishwasher to CEO of AI ethics lab. The article goes on
+to inform that: "Because of the great potential of AI, it is important
+to research how to reap its benefits while avoiding potential
+pitfalls."
+
+**Definition checking**: It looks like all the experts signed up for
+is: "Because of the great potential of AI, it is important to research
+how to reap its benefits while avoiding potential pitfalls". Whether a
+third revolution can occur within the 21st century is not
+discussed. Further more the article cited doesn't seem to all be
+experts, but people ranging from student, dishwasher to CEO of Ethics
+lab etc...
+
+**Checklist** : 
+
+1. Could it have no examples? No.
+2. Could it be false? It looks to be false based on the [article cited
+   by 80k](https://web.archive.org/web/20170311011724/https://futureoflife.org/ai-open-letter)
+3. Does it have no, best? and did you factor them? No
+4. Examples from chapter? Yes
+5. Is this a running example? NA
+6. If-then type (did you factor the if)? No
+
+**Claims**: [3] believe [2].x
+
+I think I will stop here and read Super Intelligence instead while
+continuing about AI.
+
+
+--- <!-- 3 -->
+
+## Kamal Harris Debate
+
+https://www.cbsnews.com/news/democratic-debates-tonight-kamala-harris-joe-biden-confrontation-on-busing-segregationist-comments-and-race/
+
+> (Sen. Kamala Harris)[1] directly challenged (former Vice President Joe Biden)[2]
+> on (his recent comments on civil rights and segregationist lawmakers)[2a],
+> delivering (an impassioned critique)[3] that became (the signature exchange
+> of the second night of the first Democratic debate)[4].
+
+**Claims**: [1] challenged [2] over [2a].
+
+**Subject**: What [1] said.
+
+**Predicate**: challenged [2] over 2a.
+
+**Example of [1]**: "I agree with you when you commit yourself to the
+importance of finding common ground... But it was hurtful to hear
+you talk about the reputations of two United States senators who built
+their reputation and careers on the segregation of race in this
+country."
+
+**Definition**: Doesn't look like [1] challenged [2] about what he
+said in [2a]. [1] was merely stating what she thought Joe Biden did.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. could it be false? Yes
+3. Does it have no, best? and did you factor them? No.
+4. examples from same article? Yes.
+5. Is this a running example? N/A 
+6. If-then type (did you factor the if)? N/A
+
+**Claims**: [1] delivered [3].
+
+**Subject**: What [1], said.
+
+**Predicate**: delivered [3].
+
+**Example**: "I agree with you when you commit yourself to the
+importance of finding common ground ... [But] it was hurtful to hear
+you talk about the reputations of two United States senators who built
+their reputation and careers on the segregation of race in this
+country."
+
+**Definition**: This seems to be impassioned critique.
+
+<!-- Impassioned filled with great emotion -->
+
+<!-- An Analysis or assesment of something -->
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Did you consider if it could be False? Yes
+3. Does it have no, best? and did you factor them? 
+4. Examples from chapter? Yes
+5. Is this a running example? Yes.
+6. If-then type (did you factor the if)? No
+
+**Claims**: [1] delivered [3] that became [4].
+
+**Subject**: What [1] said.
+
+**Predicate**: delivering [3] that became [4].
+
+**Example**: "I agree with you when you commit yourself to the
+importance of finding common ground ... [But] it was hurtful to hear
+you talk about the reputations of two United States senators who built
+their reputation and careers on the segregation of race in this
+country."
+
+**Definition:** It seems that the example doesn't seem to match the
+definition as that particular exchange between Joe Biden and Kamala
+Harris was not the only one [highlighted by Trevor Noah in his
+Channel](https://www.youtube.com/channel/UCwWhs_6x42TyRM4Wstoq8HA/videos) about that particular democratic debate. There were others
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. could it be false? Yes
+3. Does it have no, best? and did you factor them? Yes ("signature exchange")
+4. Examples from article?  Yes
+5. Is this a running example? Yes
+6. If-then type (did you factor the if)? No.
+
+--- <!-- 5 -->
+
+> As the other candidates were being asked about race relations and
+> racial inequality on Thursday, (Harris)[1], the only woman of color on
+> stage, didn't let (the moderators move on without allowing her to share
+> her perspective)[3].
+
+**Claims**: [1] didn't let [3].
+
+**Subject**: What [1] did,
+
+**Predicate**: didn't let [3].
+
+**Example**: While Mariamme Williamson was Farting about Race and the
+conversation was moving to Joe Biden, Harris said,"As the only black
+person on this stage, I would like to speak on the issue of race..."
+to the applause of the people, at which the moderators just stopped.
+
+**Definition**: Example matches the definition. 
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? Yes
+5. Is this a running example? Not sure.
+6. If-then type (did you factor the if)? No
+
+--- <!-- 2 -->
+
+~~> After sharing personal experiences with discrimination and racial
+> profiling, Harris, the daughter of an Indian mother and Jamaican
+> father, turned her attention to (Biden)[], the early front-runner in the
+> race.~~
+
+> (The California senator)[1] began to press (Biden on his comments)[2]
+> about (working with conservative lawmakers)[3] who supported
+> (segregation based on race)[4], as well as (his past stance)[5] against
+> (busing to desegregate public schools)[6].
+
+**Claims**: Conservative lawmakers who worked with Biden supported
+[4].
+
+**Subject**: What conservative law makers who worked with Biden, did.
+
+**Predicate**: Supported [4].
+
+**Example**: James Oliver Eastland testifies, "The Southern
+institution of racial segregation or racial separation was the
+correct, self-evident truth which arose from the chaos and confusion
+of the Reconstruction period. Separation promotes racial harmony. It
+permits each race to follow its own pursuits, and its own
+civilization..."--- [Wiki](https://en.wikipedia.org/wiki/James_Eastland)
+
+**Definition**: It appears that Eastland was supporting [4].
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No.
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No
+
+**Claims**: [1] began to press [2] about [3] who [4].
+
+**Subject**: What [1] said.
+
+**Predicate**: press [2] about [3] who [4].
+
+**Example**: "I agree with you when you commit yourself to the
+importance of finding common ground ... [But] it was hurtful to hear
+you talk about the reputations of two United States senators who built
+their reputation and careers on the segregation of race in this
+country."
+
+**Definition**: Looks like the example matches the definition.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? Yes
+5. Is this a running example? Yes
+6. If-then type (did you factor the if)? No
+
+**Claims**: Biden's past stance was against [6].
+
+**Subject**: Biden's past stance.
+
+**Predicate**: Was against [6].
+
+**Example**: Biden said, "I have argued that the least effective way (to
+desegregate public schools) is the busing remedy"---[Source](https://edition.cnn.com/2019/06/30/politics/kfile-joe-biden-cnn-interview-busing-desegregate-schools/index.html)
+
+**Definition**: This claim is a little tricky I think. It makes it
+sound as though Biden didn't want busing which actually "desegregated
+public schools". I think Biden was against busing that CLAIMED to
+desegregate public schools. So I think the claim is false as it
+doesn't match the definition of [6].
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes.
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? Not sure.
+6. If-then type (did you factor the if)? No
+
+
+**Claims**: [1] began to press Biden on [5] "against [6]".
+
+**Subject**: What [1] said.
+
+**Predicate**: press Biden on [5]. 
+
+**Example**: "But Vice President Biden, do you agree today that you
+were wrong to oppose busing in America then?", said Kamala.
+
+**Definition**: It appears that the claim is true.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? Yes
+5. Is this a running example? Yes
+6. If-then type (did you factor the if)? No
+
+--- <!-- 6 --> <!-- Start of Aug 05 -->
+
+> "I do not believe you are a racist," Harris said, looking straight at
+> Biden. "I agree with you when you commit yourself to the importance of
+> finding common ground ... [But] it was hurtful to hear (you)[0] talk about
+> (the reputations of two United States senators)[1] who built (their
+> reputation and careers on the segregation of race in this country)[2]."
+
+**Claims**: Biden talked about [1].
+
+**Subject**: What Biden said.
+
+**Predicate**: was about [1].
+
+**Example**: He went on to describe Talmadge as “one of the meanest
+guys” he ever knew but said, “At least there was some civility. We got
+things done.”
+
+“I was in a caucus with James O Eastland,” Biden told guests of the
+event, briefly imitating the senator’s southern drawl, according to
+the press pool report. “He never called me ‘boy’, he always called me
+‘son’,” he said. ---[Source](https://www.theguardian.com/us-news/2019/jun/19/joe-biden-segregationist-senators-criticism)
+
+**Definition**: Claim is true, Biden did talk about two US senators.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No.
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No
+
+**Claims**: The two US senators, (Eastland and Talmagde) built [2].
+
+**Subject**: What Eastland and Talmagde did.
+
+**Predicate**: [2].
+
+**Example**: "I have no prejudice in my heart, but the white race is
+the superior race and the Negro race an inferior race and the races
+must be kept separate by law." ---[wiki](https://en.wikipedia.org/wiki/James_Eastland)
+
+**Definition**: I do not know how to procure a good example so I can
+check against [2].
+
+> (Harris)[1] also noted (Biden)[2] opposed (federal measures to ensure that local
+> jurisdictions used busing to desegregate public schools during the
+> 1970s)[3]. She said that was personally painful for her.
+
+**Claims**: [2] opposed [3].
+
+**Subject**: What [2] did.
+
+**Predicate**: opposing [3].
+
+**Example**: "Biden voted *Yea* to ban federal courts from ordering
+busing as a school segregation remedy and to prevent the justice
+department from taking part in pro-busing litigation". --- [Source](https://www.newspapers.com/clip/33375834/the_philadelphia_inquirer/)
+
+**Definition**: The example matches the definition.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? Not sure
+6. If-then type (did you factor the if)? No
+
+> "There was a little girl in California who was part of the second
+> class to integrate her public schools and she was bused to school
+> everyday, and that little girl was me," she said. "So, I will tell
+> you: on this subject, (it)[1] cannot be (an intellectual debate among
+> Democrats)[2]. We have to take it seriously. We have to act swiftly."
+
+**Claims**: [1] cannot be [2].
+
+**Subject**: Discussion amongst Democrats
+
+**Predicate**: cannot be intellectual
+
+**Example**: No idea
+
+**Definition**: No idea how to test against the predicate, not do I
+have an example.
+
+**Checklist** : 
+
+1. Could it have no examples?  No.
+2. Have you considered falsifying examples? Yes.
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No
+
+> Harris' passionate appeal elicited some of the loudest applause of
+> the night. Given (a chance to respond)[1], (Biden)[2] challenged (Harris'
+> portrayal of his record on race)[3].  
+
+**Claims**: Given [1], [2] challenged [3].
+
+**Subject**: Given [1], what [2] said.
+
+**Predicate**: challenged [3].
+
+**Example**: "That's a mischaracterization of my position across the board. I did
+ not praise racists", said Biden.
+ 
+**Definition**: It appears that [2] challenged [3]. But whether he
+challenged only when given [1], is not clear (I would need to watch
+the debate to see if he was being given the chance to respond or if he interjected).
+
+**Checklist** : 
+
+1. Could it have no examples? No 
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? Yes
+5. Is this a running example? Not sure
+6. If-then type (did you factor the if)? Yes ("Given")
+
+> "(That's)[1] (a mischaracterization of my position across the
+> board)[2]. (I)[3a] (did not praise racists)[3]," he said, touting his support
+> for civil rights and highlighting his work as public defender.
+
+**Claims**: [1] is [2].
+
+**Subject**: What Kamal said about Biden.
+
+**Predicate**: is [2].
+
+**Example**: Kamala said, "It was hurtful to hear you talk ("highly")
+about the reputations of two United States senators who built their
+reputation and careers on the segregation of race in this country."
+
+**Definition**: 
+
+All Biden said was “At least there was some civility. We didn’t agree
+on much of anything. We got things done. We got it finished". This
+doens't look like Biden was praising the two US senators, characterized
+as racists.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? Yes
+5. Is this a running example? Yes
+6. If-then type (did you factor the if)? No
+
+**Claims**: [3a] did not praise [3].
+
+**Subject**: What [3a] said.
+
+**Predicate**: did not praise racists
+
+**Example**: Biden said in the past, "At least there was some
+civility. We didn’t agree on much of anything. We got things done. We
+got it finished"
+
+**Definition**: Example does not seem to match the definition.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No
+
+--- <!-- [15] for aug [5] done. -->
+
+> "If we want to have this campaign litigated on who supports civil
+> rights and whether I did or not, I'm happy to do that," Biden said.
+
+> Harris continued her questioning. "But Vice President Biden, do you
+> agree today that you were wrong to oppose busing in America then?" she
+> asked.
+>
+> "(I)[1] did not oppose (busing in America)[2]. What I opposed was (busing ordered
+> by the Department of Education)[3]," Biden replied.
+
+**Claims**: Biden did not oppose [2].
+
+**Subject**: What Biden did.
+
+**Predicate**: did not oppose [2].
+
+**Example**: "The point I was trying to make is when you're trying to
+remedy the situation, what happened was the system whereby you could
+impose a busing remedy in an area where you had black, white, black,
+white living on the same block, it made a great deal of sense," Biden
+added. "But where you ended up with disparate neighborhoods long
+distances apart but were segregated and you tried to integrate the
+facilities, it created a number of mechanical problems that are
+significant." --- [Source](https://edition.cnn.com/2019/06/30/politics/kfile-joe-biden-cnn-interview-busing-desegregate-schools/index.html)
+
+**Definition**: It looks like Biden is not opposed to busing in it's
+entirety. He seems to be opposed to a particular type of busing. I
+guess that's what he meant by saying "he is not opposed to busing in
+America".
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No
+
+**Claims**: Biden opposed [3].
+
+**Subject**: What Biden did or said.
+
+**Predicate**: opposed [3].
+
+**Example**: "Biden voted *Yea* to ban federal courts from ordering
+busing as a school segregation remedy and to prevent the justice
+department from taking part in pro-busing litigation". --- [Source](https://www.newspapers.com/clip/33375834/the_philadelphia_inquirer/)
+
+**Definition**: It seems that the example matches the definition.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No
+
+
+<!-- start of aug 6th -->
+
+> Harris noted that (many local jurisdictions)[2] — including in
+> Berkeley, where she attended public schools — failed to (quickly
+> desegregate schools)[1] after the (Supreme Court issued the Brown
+> vs. Board of Education ruling in 1954)[3], which outlawed
+> (segregation in public schools based on race)[4].
+
+**Claims**: [2] failed to [1], after [3].
+
+**Subject**: [2].
+
+**Predicate**: failed to [1].
+
+**Example**: Schools in Berkley fully desegregated after two decades
+after the brown ruling.
+
+**Definition**: The example matches the definition.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? Yes (MANY)
+4. Examples from Article? Yes
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No 
+
+**Claims**: [3] outlawed [4].
+
+**Subject**: Brown vs. Board of Education 
+
+**Predicate**: outlawed [4].
+
+**Example**: "Brown v. Board of Education of Topeka, 347 U.S. 483
+(1954),[1] was a landmark decision of the U.S. Supreme Court in which
+the Court ruled that American state laws establishing racial
+segregation in public schools are unconstitutional, even if the
+segregated schools are otherwise equal in quality." -[WIKI](https://en.wikipedia.org/wiki/Brown_v._Board_of_Education)
+
+**Definition**: checks out.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No 
+
+> When she mentioned that (her schools in Berkeley)[1] fully (desegregated
+> nearly two decades after the Brown ruling)[2], Biden said (it)[3] was because
+> of (the decisions of local governments)[4].
+
+**Claims**: [1] fully desegregated after [2].
+
+**Subject**: [1].
+
+**Predicate**: fully desegregated after [2].
+
+**Example**: "Finally, on Jan. 15, 1968, the School Board voted unanimously
+to desegregate all 14 of the District’s elementary schools the
+following September."- [Source](https://www.berkeleyschools.net/2018/12/50th-anniversary-of-berkeleys-pioneering-busing-plan-for-school-integration/)
+
+**Definition**: Does not check out. 1954 to Jan 1968 is fourteen
+years. 
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No 
+
+**Claims**: [3] was because of [4].
+
+*because*
+
+> "So, that's when the (federal government steps in)[1]," she countered,
+> adding later, "(There are moments in history)[2] where (states)[3] fail to
+> (preserve the civil rights of all people)[4]."
+
+**Claims**: [3] fail to [4].
+
+**Subject**: [3] fail.
+
+**Predicate**:  to [4].
+
+**Example**: Prior to 1965, [Mississipi seems to have deterred black
+voters](https://en.wikipedia.org/wiki/Freedom_Summer) from voting by making them take questionnaires which were
+evaluated by white registrars and not just directly allowing them to
+cast their vote as the Whites did.
+
+**Definition**: Checks out.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No 
+
+**Claims**: The federal government steps in when state fails to
+preserve the civil rights of all people.
+
+**Subject**: The federal government steps in
+
+**Predicate**: when state fails to preserve the civil rights of all
+people.
+
+**Example**: Voting rights act of 1965 by the federal government which
+led to an increase in voting of black people in [Mississippi from
+6.7% to 59.8%. Mississippi is historically 40% black.](https://www.vox.com/2015/3/6/8163229/voting-rights-act-1965)
+
+**Definition**: Checks out!
+
+**Checklist** :
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No 
+
+**Claims**: Federal Government should have stepped in to reduce the
+delay in desegregation
+
+*This is either going to take time or maybe there is no
+example for this type. There are so many labels such as "preserve
+civil rights" and "stepped in" whose definition I have no idea
+about. But talking about Voting rights was relatively easy*
+
+
+--- <!-- 12 done for aug 6th -->
+
+> Biden then stressed that he's been an ardent supporter of measures to
+> crack down of the disfranchisement of racial minorities, before
+> cutting himself off.
+>
+> "Anyways, my time is up," he said.
+>
+> Along with his comments about collaborating with segregationists and
+> opposition to federal policies to compel local jurisdictions to change
+> busing routes to end segregation in schools, Biden has also faced
+> scrutiny from progressives for other positions he held during his long
+> tenure in Congress.
+>
+> As chairman of the Senate Judiciary Committee, he oversaw the
+> contentious Anita Hill hearings during the confirmation process for
+> then-Supreme Court nominee Clarence Thomas in 1991. He also helped
+> spearhead efforts to pass the Violent Crime Control and Law
+> Enforcement Act of 1994, which many believe fueled a period of mass
+> incarceration that disproportionately affected African Americans and
+> other minority groups.
+
+## Marriage
+
+> (Marriage)[1] is (a social construct where a man marries a
+> woman(/man))[2]. (In countries like India)[3] it is (the norm)[4],
+> whereas in (European countries)[5] we do have (couples who do not
+> marry for a long time)[6] and (have kids even.)[7]
+
+**Claims**: [1] is [2].
+
+**Subject**: [1].
+
+**Predicate**: is [2].
+
+**Example**: !!
+
+**Definition**: I don't understand this "social construct" and am
+unable to give example and compare as a result.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? N/A 
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? N/A 
+5. Is this a running example? N/A
+6. If-then type (did you factor the if)? No
+
+**Claims**: In [3], marriage is [4].
+
+**Subject**: Marriages in [3].
+
+**Predicate**: is the norm
+
+**Example**: By 25 all my women cousins have been married. By 28 all
+men in my family are pushed to get married (including me).
+
+**Definition**: It looks like example checks out against the
+definition.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No
+
+**Claims**: In [5], we have [6].
+
+**Subject**: Marriages in [4].
+
+**Predicate**: take quite long.
+
+**Example**: My colleague at work in Netherlands got married when he
+was 40. His Kids now are nine or ten.
+
+**Definition**: Checks out!
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No 
+
+**Claims**: In [5] we have people who willfully don't [7].
+
+**Subject**: People who don't have kids 
+
+**Predicate**: are in [5].
+
+**Example**: My gay GL is living with his boy friend and vows to never
+have kids. He is greater than 40 years of age.
+
+**Definition**: Checks out.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No 
+
+> I see that (my mind)[8] has already been (made up)[9], primarily for
+> the reasons, that (I)[10] have (other important things to focus on)[11]
+> and I am not ready to invest in something that is (going to bring my
+> goal down)[12]. For me it is very important (to make lots of money)[13],
+> and (focus on my career)[14]. What ever I need (to do for that)[15], I
+> am (ready to do)[16]. 
+
+**Claims**: [8],regarding marriage, is already [9]   
+aka "I am not going to marry ever".
+
+**Subject**: [8], regarding marriage
+
+**Predicate**: is already [9].
+
+**Example**: *Not possible to come up with example for the future!*
+
+**Definition**: -
+
+**Checklist** : 
+
+1. Could it have no examples? Yes
+2. Have you considered falsifying examples? N/A 
+3. Does it have 'no', 'best'? and did you factor them? Yes ("ever")
+4. Examples from Article? N/A 
+5. Is this a running example? N/A 
+6. If-then type (did you factor the if)? No
+
+**Claims**: [8], regarding marriage, is already [9] due to ...
+
+*we continue to skip because*
+
+**Claims**: I have [11].
+
+**Subject**: My important things.
+
+**Predicate**: need focus.
+
+**Example**: I have spent roughly 500 hrs over one year on Concrete
+thinking and still struggle with ten phrases an hour.
+
+**Definition**: It appears that ten phrases per hour is really slow
+and that I need to spend more time on it.
+
+*Don't know if I did CT right here*
+
+**Checklist** : 
+
+1. Could it have no examples? Don't know
+2. Have you considered falsifying examples? No
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No 
+
+**Claims**: Getting married is [12].
+
+**Subject**: Being Married
+
+**Predicate**: is [12].
+
+**Example**: The great Eleizer Yukowsky, Paul Graham, Bill Gates,
+Vishwanath Anand are all married. 
+
+**Definition**: It looks like on the contrary they are highly respected
+in their fields. Example doesn't match the definition.
+
+**Checklist** : 
+
+1. Could it have no examples? Not sure (This is a could-be type of example)
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No 
+
+**Claims**: For me it is important to [13].
+
+**Subject**: Money making
+
+**Predicate**: is important for me
+
+**Example**: I spend majority of my time working a nine to five job in Netherlands.
+
+**Definition**: Checks out.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No
+
+**Claims**: For me it is important to [14].
+
+**Subject**: Focus on Career
+
+**Predicate**: is important for me.
+
+**Example**: I spend my free time almost everyday working on either CT
+or data science, roughly three hours a day after my nine to five job
+(plus gym).
+
+**Definition**: Checks out.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No 
+
+**Claims**: What ever is needed for [15], I am [16]
+
+**Subject**: The things needed for my career
+
+**Predicate**: I am ready to do.
+
+**Example**: Plotting my path to the US
+
+**Definition**: I have not really spoken to anyone with ASML about
+opportunities to go to the US . I have heard stories about it. Looks
+like example doesn't match the definition.
+
+**Checklist** : 
+
+1. Could it have no examples? Maybe.
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No 
+
+> I am (least bit interested in spending money of any
+> magnitude)[1]. With marriage comes a (women)[2] in your life, who
+> might seem to (buy useless things)[3], who might want to (have a
+> kid/kids)[4]. (Kids)[5] are (fucking cute but only at
+> times)[7]. They can be (a real pain)[8] (for example, me to my
+> parents). They will not (listen to you)[9]. They are going to do
+> (what they want)[10]. Now is it (worth spending huge amounts of
+> money for education and food, for me to the tune of 46000
+> euros)[11], to get (what my parents got)[12]? I am not going to
+> (marry)[13], I don’t (listen to my parents)[14] on (most
+> matters)[15]. I will do (what I fucking want)[16]. Now, How has that
+> worked for them.
+
+**Claims**: I am [1].
+
+**Subject**: Spending money
+
+**Predicate**: doesn't interest me.
+
+**Example**: I spent 1700 euros everytime I go to india (including
+flight fare and other costs.)
+
+**Definition**: Doesn't check out.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No 
+
+**Claims**: Women in marriage want [3].
+
+**Subject**: Women in marriage
+
+**Predicate**: [3].
+
+**Example**: My friends fiance already told him that she wants to go
+on two trips every year to a foreign country.
+
+**Definition**: Checks out.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No 
+
+**Claims**: Women in marriage want [4].
+
+**Subject**: Women in marriage
+
+**Predicate**: want kids
+
+**Example**: I don't know any indian couple at 35 who do not have
+atleast one kid. Don't!
+
+**Definition**: checks out!
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No 
+
+**Claims**: [5] are [7].
+
+**Subject**: [5] 
+
+**Predicate**: are [7].
+
+**Example**: I have a cousin who is ten years old and I do not plan to
+hang with him anytime soon. When he was young though, wanted to
+interact with him all the time.
+
+Although there is this pair of cousins with whom I have hung out
+pretty much all their lives. huh!
+
+**Definition**: Checks out.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No
+
+<!-- for aug6 -->
+
+**Claims**: [5] are [8].
+
+**Subject**: What [5] do.
+
+**Predicate**: are [8].
+
+**Example**: Even at 28 years old my parents expect me to listen to
+them and get married. I am quite a pain to them.
+
+**Definition**: checks out!
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No 
+
+**Claims**: [5] will not listen to parents (always).
+
+*I think in such english 'always' is implied*
+
+**Subject**: What kids do
+
+**Predicate**: will not listen
+
+**Example**: I shaved my beard upon my parents request while going to
+india this time.
+
+**Definition**: I do listen to them sometimes. So claim is not true.
+	
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? Yes (it looks
+   like this claim states 'always')
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No 
+
+**Claims**: [5] are going to do [10].
+
+**Subject**: What [5] do.
+
+**Predicate**: is what they want.
+
+**Example**: I shaved my beard upon my parents request while going to
+india this time.
+
+**Definition**: Claim seems to not check out.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? N 
+
+**Claims**: It is not [11] to get [12].
+
+**Subject**: Spending huge amounts of money and time and effort on me.
+
+**Predicate**: is worth for parents despite kids not listening to
+them.
+
+**Example**: *I don't have real examples*
+
+**Definition**: 
+
+**Checklist** : 
+
+1. Could it have no examples? Yes
+2. Have you considered falsifying examples? Yes.
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+**Claims**: I am not going to [13].
+
+**Subject**: What I do.
+
+**Predicate**: not going to get [13].
+
+**Example**: *No example for this.*
+
+**Definition**: -
+
+**Checklist** : 
+
+1. Could it have no examples? YES
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+**Claims**: I don't [14] on most matters.
+
+**Subject**: What I do.
+
+**Predicate**: don't [14], on most matters.
+
+**Example**: I am refusing to get married when my parents want me
+to. I am refusing to get a haircut when my parents wanted last week. I
+am refusing to buy a new cycle which my parents want to buy.
+
+**Definition**: Checks out! (I tried to give three examples for this.)
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? YES (most)
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+**Claims**: I will [16].
+
+*skip*
+
+--- <!-- 20 over for this aug [6] -->
+
+## john Oliver 
+
+https://www.youtube.com/watch?v=AjqaNQ018zU
+
+My initial hypothesis is that prizon is fucked up for these people as
+they don't make money here and loose money here and they don't make
+money after prison.
+
+> But there (are)[0] some (major differences between the jobs people do in
+> prison and the ones they do on the outside)[1].
+
+**Claims**: [1] exists.
+
+**Subject**: [1].
+
+**Predicate**: exists.
+
+**Example**: Average wage in the US for incarcerated people is 0.63
+<span>$</span> per hour. Minimum wage in US (assuming that an ex-con
+gets a job) is 7.25 <span>$</span>.
+
+**Definition**: checks out as major difference (almost ten times)
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? Yes.
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+> (Average (pay is 0.63 <span>$</span>))[1], that means there are (states
+> where Prisoners make considerable less )[2]
+
+**Claims**: [1] means [2] exists.
+
+*Hard to establish causality of [1] meaning [2].*
+
+**Claims**: [2] exists.
+
+**Subject**: [2].
+
+**Predicate**: exists
+
+**Example**: "In Texas, Georgia, Arkansas and Alabama prisoners make
+[0] <span>$</span>, prisoners are not paid for their work at all."
+
+**Definition**: 
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+> (If they say "I am not going to work", they can write you up for
+> that, they can send to solitary confinement)[1]. This is
+> (slavery)[2].
+
+**Claims**: The way prisoners are treated in the US is [2].
+
+**Subject**: The way prisoners are treated in the US.
+
+**Predicate**: [2]
+
+**Example**: [1].
+
+**Definition**: 
+
+To be a slave is to be owned by another person. A slave is a human
+being classed as property and who is forced to work for nothing. An
+enslaved person is a human being who is made to be a slave.---
+[Somewhere](http://abolition.e2bn.org/slavery_40.html)
+
+According to the above definition it appears that prisoners are
+slaves.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? Yes.
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No 
+
+> "Why is that not slavery" is something that if you have to ask it
+> then something has already gone very wrong. Like how many swasthika
+> tatoos or which of mommy's drawers did you open. This implies things
+> are already bad, and we need to figure out how bad they are...
+
+**Claims**: If you have to ask ("why is that not slavery")[1], then
+something has already gone very wrong.
+
+**Subject**: If you have to ask [1], Something
+
+**Predicate**: has already gone very wrong.
+
+**Example**: Roger Ross Williams asks "why is this not slavery" (listening to the
+state of prisoners without money and being forced to work). The prison
+system seems to be treating its inmates as SLAVES.
+
+**Definition**: Checks out on the assumption that slavery is bad.
+
+**Checklist** : 
+
+1. Could it have no examples? Not sure.
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? Yes
+5. Is this a running example? No
+6. If-then type (did you factor the if)? Yes.
+
+> (treating prisoners as slaves)[1] is LITERALLY written into the
+> constitution)[2].
+
+**Claims**: The constitution has lines about treating prisoners as slaves.
+
+**Subject**: The constitution
+
+**Predicate**: has lines about treating prisoners as slaves.
+
+**Example**: Thirteenth amendment states that slavery is abolished
+except as a punishment for a crime.
+
+**Definition**:  Checks out!
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? Yes.
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  .
+
+> (The amendment abolishing slavery)[1] is (not  the one  that you want to
+> suddenly include the word "except")[2].
+
+**Claims**: [1] is [2].
+
+**Subject**: [1].
+
+**Predicate**: [2].
+
+**Example**: *I don't have any examples*
+
+**Definition**: -
+
+**Checklist** : 
+
+1. Could it have no examples? YES???
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+> For many, (inmates)[1] are (not a group we feel naturally sympathetic
+> for)[2]
+
+**Claims**: [1] are [2].
+
+**Subject**: How inmates behave
+
+**Predicate**: [2].
+
+**Example**: People on Fox laughing and saying, "He says he deserves minimum wage as if
+crime pays!"
+
+**Definition**: Checks out. 
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? Yes
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+> (Crime)[0] should (not pay)[1], is (very simple common sense)[2].
+
+**Claims**: Crime should not pay
+
+**Subject**: Crime
+
+**Predicate**:  Should not pay
+
+**Example**: 3000 people were killed by al-Qaeda in the US (9-11).
+
+**Definition**: checks out that 
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? Yes (Should
+   seems like NEVER). I am aware I have not given all examples because
+   of 'should'.
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+**Claims**: [1] is [2].
+
+**Subject**: [1] 
+
+**Predicate**: is [2]. 
+
+**Example**: *Don't know how to give example of a claim and this claim
+in particular.*
+
+**Definition**: -
+
+**Checklist** : 
+
+1. Could it have no examples? Not sure.
+2. Have you considered falsifying examples? NA
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+
+<!-- Aug 7 starting -->
+> (Prison labor)[1] can take (many forms)[2]
+
+**Claims**: [1] can take many forms.
+
+**Subject**: [1].
+
+**Predicate**: Can take many forms.
+
+**Example**: [Video](https://www.youtube.com/watch?v=AjqaNQ018z) of Prisoners work in cooking, janitorial and
+even fire fighting jobs.
+
+**Definition**: Checks out.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? Yes (has MANY)
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+> (Many of them)[1] find firefighting (rewarding)[2]
+
+**Claims**: [1] find [2].
+
+**Subject**: Many prisoners find firefighting
+
+**Predicate**:  rewarding
+
+**Example**: Prisoner 1, "It feels good to give back and potentially
+save lives"
+
+**Definition**: Checks out atleast for one prisoner who does firefighting.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? Yes (MANY)
+4. Examples from Article? Yes
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+> (Being able to save lives)[1] must be (very satisfying)[2]
+
+**Claims**: [1] MUST be [2].
+
+**Subject**: [1].
+
+**Predicate**: must be [2].
+
+**Example**: I donate 4k <span>$</span>, every year to save one
+life. 
+
+**Definition**: I don't think the feeling of satisfaction lasts for a
+minute even. False.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+---
+
+> (Women in firefighting)[1] seems to be (best case scenario for prison
+> labor)[2], i.e., happy to work, contributing to society and learning new skills.
+
+**Claims**: [1] seems to be [2].
+
+**Subject**: [1] 
+
+**Predicate**: seems to be [2].
+
+**Example**: ~~They get to go out during the day and do "meaningful"
+work as opposed to vacuuming the prison, taking out the trash or
+cooking meals for other inmates.~~ No idea.
+
+**Definition**: -
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? Yes (BEST)
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+---
+
+> It is often not the case that (prisoners who fire fight are learning
+> skills)[1] that will help them get (a job outside)[2].
+
+**Claims**: It is often that [1] will not get [2].
+
+**Subject**: [1].
+
+**Predicate**: will not get [2].
+
+**Example**: California law  bars those with criminal record from
+becoming licensed emergency responders.
+
+**Definition**: checks out. People who put out California fires can't
+do it once they are released.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? Yes (Often)
+4. Examples from Article? YES
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+--- 
+
+> (Fighting fires)[1] is far from (the only dangerous job)[2] that prisoners do.
+
+**Claims**: [1] is far from [2] that prisoners do.
+
+**Subject**: [2] that prisoners do
+
+**Predicate**: is far from only fighting fires
+
+**Example**: In Louisiana state penitentiary, there is this thing
+called convict poker (prison rodeo) where convicts are playing poker
+while an angry bull is let loose. Last one to be moved wins. There is
+a video of a bull throwing a convict ten feet off the ground.~~This
+pays more than field jobs (two cents an hour working in the field) but
+can earn 100s in while participating in the rodeo.~~
+
+**Definition**: Checks out.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+---
+
+> Most prisoners are doing routine labor for little to no money
+
+**Subject**: What prisoners work for
+
+**Predicate**: little to no money
+
+**Example**: Average earnings is 63 cents per hour with people in 
+
+**Definition**: checks out.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+---
+
+> Prisoners are being seen less as Humans paying their debt to society and more
+> as a pool of virtually free labor.
+
+**Subject**: How prisoners are being seen
+
+**Predicate**: less as Humans paying their debt to society and more of
+a pool of virtually free labor.
+
+**Example**: "In addition to the bad ones — and I call these bad — in
+addition to them, they’re releasing some good ones that we use every
+day to wash cars, to change oil in our cars, to cook in the kitchen,
+to do all that, where we save money,” (Louisiana) Sheriff Prator
+said. “Well, they’re going to let them out"---[source](https://www.nytimes.com/2017/10/12/us/prison-reform-steve-prator.html)
+
+**Definition**: Checks out!
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? Yes
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+---
+
+> Many prisoners prefer to do jobs, instead of having to sit in their
+> cells all day
+
+**Subject**: What prisoners prefer
+
+**Predicate**: to do jobs instead of having to sit in their
+cells all day.
+
+**Example**: The Firefighter prisoners in the [video](https://www.youtube.com/watch?v=AjqaNQ018z) found working "rewarding".
+
+**Definition**: checks out for atleast one prisoner.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+> Getting rid of prison labor is not the answer here.
+
+**Subject**: Getting rid of prison labor
+
+**Predicate**: is not the answer here (for the exploiting of prisoners
+for low wages aka slavery)
+
+**Example**: *I need to show either that getting rid of prison labor
+stops slavery, or that it doesn't, for which there might be examples,
+but will be very hard to find.*
+
+**Definition**: -
+
+**Checklist** : 
+
+1. Could it have no examples? Not sure!
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+> Paying prisoners more might help, although that will be very
+> difficult.
+
+**Claims**: Paying prisoners more might help 
+
+**Subject**: Paying prisoners more
+
+**Predicate**: might help
+
+**Example**: *Not clear what it helps or there is lack of data there
+of to conclude for example that it could help their families etc...  *
+
+**Definition**: 
+
+**Checklist** : 
+
+1. Could it have no examples? YES (Statement predicting the future)
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+**Claims**: Paying prisoners more will be difficult.
+
+**Subject**: The Act of paying prisoners more
+
+**Predicate**: will be difficult
+
+**Example**: *Couldn't find an example where attempts to raise the pay
+were shot down, All I see is that the wages haven't been raised since
+1993*
+
+Prisons who are reliant on their labor and moving to competitive
+wages would have to pay 100s of millions of dollars more each year.
+
+*The above is just a reason and not an example (aka worthless) just like Warren saying
+she can kill all the student debt and have enough money for other
+things.*
+
+**Definition**: -
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+--- <!-- 21 for today -->
+
+> While it may seem like you are living for free in prison you might
+> have a lot of expenses like legal fees or basic necessities like soap
+> or shampoo
+
+**Claims**: You have expenses in prison such as legal fees or buying
+basic necessities
+
+**Subject**: Prisoners expenses
+
+**Predicate**: exist in prison.
+
+**Example**: Arizona prison requires women having to buy their own
+feminine hygiene products.
+
+**Definition**: checks out.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+
+---
+
+> 12 pads per month and no tampons is not nearly enough as atleast
+> half of you know
+
+**Claims**: Twelve pads a month is not nearly enough as half of you
+watching might know.
+
+**Subject**: twelve pads a month 
+
+**Predicate**: is nearly not enough
+
+**Example**: [This girl wrote on quora about her usage](https://www.quora.com/How-many-sanitary-pads-does-a-woman-use-during-periods). Atleast two
+pads a day for five to eight days resulting in 17 pads every period
+cycle.
+
+**Definition**: Checks out atleast in this one case.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+> Extra hygene products were not a minor expense 
+
+**Subject**: Cost of extra hygene products
+
+**Predicate**: were not a minor expense
+
+**Example**: Inmates in Arizona had to pay 4 <span>$</span> aka whole
+months salary to see a doctor to allow for more than 12 pads.
+
+**Definition**: checks out.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? Yes
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+---
+
+
+
+???
+
+--- 
+
+> Sending money to the prisoners is more complicated than it appears.
+
+**Subject**: Sending money to the prisoners
+
+**Predicate**: is more complicated than it appears.
+
+**Example**: If 70 <span>$</span> needs to be sent via JPAY (middleman),
+who then sends 50 <span>$</span> to the inmate. 
+
+**Definition**: Not sure if this makes it complicated but nevertheless
+45% fees sounds like a fucking lot.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? Yes
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+---
+
+> Transferring money isn't the only way companies can profit
+
+**Subject**: Transferring money
+
+**Predicate**:  isn't the only way companies make profit.
+
+**Example**: Securus charges prisoners for phone calls and video
+visits and it is a billion <span>$</span> per year industry revolving
+around two million inmates in the US
+
+**Definition**: Checks out!
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+
+--- <!-- august 8th -->
+
+> Securus ads make it look like its a warm fuzzy company focused on
+> human connections
+
+**Subject**: What Securus ads show,
+
+**Predicate**: a warm fuzzy company focused on human connections
+
+**Example**: Ads showing kids talking to their dads with slogans such
+as "connected by birthdays", "connected by proud fathers". Kids doing
+homework with her daddy and the music my god. ([Just check out the
+ad](https://www.ispot.tv/ad/AxS1/securus-technologies-believing-in-each-other)).
+
+**Definition**: Its a great ad. Felt so good watching it. It was very
+nice to see the dad communicating with his daughter despite being in
+jail. (LOVE!)
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? Yes
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+> They are fully acknowledging how important it is for people to
+> connect to others on the phone
+
+**Subject**: What Securus do.
+
+**Predicate**: are fully acknowledging how important it is for people
+to connect to others on the phone.
+
+**Example**: *I don't have an example for the above*
+
+**Definition**: 
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+
+> It is frankly a lesson (It is important for people to connect to
+> others on the phone) AT&T would do well to take.
+
+*At this point I already believe AT&T is probably a shit network. I
+don't know if it is a bad connection or if it is the way they treat
+their customers or what not. *
+
+**Subject**: The lesson for AT&T
+
+**Predicate**: would do well to take
+
+**Example**: *There are no examples for predictions of the
+future. Just like Elizabeth Warrens statement about clearing all
+student debts if she became president.*
+
+**Definition**: -
+
+**Checklist** : 
+
+1. Could it have no examples? YES
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+> Phone calls are vital connections for prisoners
+
+**Subject**: Phone calls for prisoners
+
+**Predicate**: are vital connections
+
+**Example**: Former inmate, "All the lot of guys that have are those
+phone calls, letters and visits, that's what they get and that's it and
+that's what they live for. I have seen guys whose family didn't see
+them for a week or two and they end up in the hole for 90 days"
+
+**Definition**: checks out I guess.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? Yes
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+> What that ad (Securus's warm fuzzy ad) doesn't say how expensive
+> they have successfully made those vital connections
+
+**Subject**: What the ad doesn't say
+
+**Predicate**: is how expensive they have successfully made those
+vital connections.
+
+**Example**: [ad](https://www.ispot.tv/ad/AxS1/securus-technologies-believing-in-each-other)
+
+**Definition**: Yes they don't mention the rates in the ad!
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+**Claims**: Phone calls for prisoners are expensive
+
+**Subject**: Phone calls for prisoners
+
+**Predicate**: are expensive.
+
+**Example**: In Bristol, Securus charges 3.16 <span>$</span> for the
+first minute and 16 cents for every additional minute. Contrast
+that to the 10 cents charged by the state Department of
+Corrections for one minute. or Contrast this to[ 9.99 $ for 400 minutes](https://www.vonage.com/personal/phone-plans?pca_ref) for regular
+calls within the US.
+
+
+**Definition**: Checks out.
+
+**Checklist** :
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? Yes (expenisve
+   results in some comparison).
+4. Examples from Article? Yes
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+> The costs can really add up and be a massive problem for prisoners
+> results in some comparison)families who may have limited resources.
+   
+**Claims**: Families of prisoners have limited resources.
+
+**Subject**: The resources of families of prisoners
+
+**Predicate**: are limited
+
+**Example**: "Relatives of a 49-year-old inmate awaiting trial at the North Dartmouth jail didn’t bother to set up a phone account because they couldn’t afford it. The teenage daughter of another inmate, Michael T. Ray, had to rush through conversations with her father so the call didn’t get too expensive."---[Source](https://www.bostonglobe.com/metro/2018/05/03/lawsuit-challenges-high-cost-calling-from-jail/q17v1CL0bZBhxOXd9qOBRP/story.html)
+
+**Definition**: Checks out.
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+   
+**Claims**: The costs (of the calls) can add be and be a massive
+   results in some comparison)problem for prisoners.
+
+**Subject**: The costs of the calls can be a mas
+
+**Predicate**: 
+
+**Example**: 
+
+**Definition**: 
+
+**Checklist** : 
+
+1. Could it have no examples? No
+2. Have you considered falsifying examples? Yes
+3. Does it have 'no', 'best'? and did you factor them? No
+4. Examples from Article? No
+5. Is this a running example? No
+6. If-then type (did you factor the if)? No  
+
+> When you combine the low to non-existent wages that the prisoners
+> get paid with these suprisingly high costs that they and their
+> families can incur while they're inside the current sustem, it can
+> wind up costing all of us.
+
+> For many prisoners there is an enormous gap between what they make
+> at their prison job and having enough for basic necessities.
+
+
+
+## Key ideas
+
+
+
+## Personal notes
+
+I don't remember how to do it.. Oh I am supposed to make those marks
+right? yeah! 
+
+I feel lost when it comes to using subject and predicate. I forgot the
+aspect of testability when I was looking at "how onions make you
+passionate"...
+
+I was just thinking it is enough to check subject vs predicate and
+that is it. ok so, claims have to be testable but "God wants us to eat
+onions"
+
+## TODO 
+
+Classification of the problem into one of the [12] categories i.e.,?
+
+I cannot believe that I spent [2] hrs 20 mins, stright.. Its been a
+while. Pandian is back baby! Pandian is back. It felt like least
+distractions. Zoned out! Pandian panindian.
+
+
+Day [1]: 23 phrases.
+
+Day [2]: 40 phrases.
+
+Day [3]: 39 phrases.
+
+Day [4]: 30 phrases
+
+Day [5]: 45 phrases 
+
+- identify type?

@@ -1,0 +1,156 @@
+#+COLUMNS: %7TODO(To Do) %40ITEM(Task) %6CLOCKSUM(Clock)
+
+
+
+* Real work
+
+** TASK DP 200 predicate subject
+*** Prepping for task
+    CLOCK: [2019-08-03 za 08:52]--[2019-08-03 za 08:55] =>  0:08
+
+*** Looking for content
+    CLOCK: [2019-08-03 za 09:22]--[2019-08-03 za 09:40] =>  0:18
+    CLOCK: [2019-08-03 za 09:04]--[2019-08-03 za 09:18] =>  0:14
+
+*** DPing 
+    CLOCK: [2019-08-04 zo 19:30]
+    CLOCK: [2019-08-04 zo 13:52]--[2019-08-04 zo 15:05] =>  1:13
+    CLOCK: [2019-08-04 zo 11:48]--[2019-08-04 zo 12:27] =>  0:39
+    CLOCK: [2019-08-04 zo 11:23]--[2019-08-04 zo 11:45] =>  0:22
+    CLOCK: [2019-08-04 zo 11:15]--[2019-08-04 zo 11:17] =>  0:02
+    CLOCK: [2019-08-04 zo 10:33]--[2019-08-04 zo 10:40] =>  0:07
+    CLOCK: [2019-08-04 zo 10:20]--[2019-08-04 zo 10:29] =>  0:09
+    CLOCK: [2019-08-04 zo 10:15]--[2019-08-04 zo 10:16] =>  0:01
+    CLOCK: [2019-08-04 zo 09:35]--[2019-08-04 zo 10:10] =>  0:35
+    CLOCK: [2019-08-04 zo 09:28]--[2019-08-04 zo 09:33] =>  0:05
+    CLOCK: [2019-08-04 zo 08:57]--[2019-08-04 zo 09:00] =>  0:03
+    CLOCK: [2019-08-04 zo 08:50]--[2019-08-04 zo 08:57] =>  0:07
+    CLOCK: [2019-08-04 zo 08:21]--[2019-08-04 zo 08:43] =>  0:22
+    CLOCK: [2019-08-03 za 09:47]--[2019-08-03 za 09:53] =>  0:06
+*** Breaks
+    CLOCK: [2019-08-04 zo 12:27]--[2019-08-04 zo 13:50] =>  1:23
+    Lunch break
+    CLOCK: [2019-08-04 zo 10:40]--[2019-08-04 zo 11:15] =>  0:35
+    During break after 1.5 hrs.
+
+** Wasting time while DPing Subject predicate task
+**** Working on Org mode
+     CLOCK: [2019-08-04 zo 09:04]--[2019-08-04 zo 09:24] =>  0:20
+     CLOCK: [2019-08-04 zo 08:43]--[2019-08-04 zo 08:50] =>  0:07
+     CLOCK: [2019-08-03 za 08:55]--[2019-08-03 za 09:04] =>  0:09
+**** Dreaming
+     CLOCK: [2019-08-04 zo 11:45]--[2019-08-04 zo 11:48] =>  0:03
+     CLOCK: [2019-08-04 zo 11:17]--[2019-08-04 zo 11:23] =>  0:06
+     CLOCK: [2019-08-04 zo 10:29]--[2019-08-04 zo 10:31] =>  0:02
+     CLOCK: [2019-08-04 zo 10:16]--[2019-08-04 zo 10:20] =>  0:04
+     CLOCK: [2019-08-04 zo 10:10]--[2019-08-04 zo 10:15] =>  0:05
+     CLOCK: [2019-08-04 zo 09:33]--[2019-08-04 zo 09:35] =>  0:02
+     CLOCK: [2019-08-04 zo 09:00]--[2019-08-04 zo 09:03] =>  0:03
+     CLOCK: [2019-08-04 zo 08:57]--[2019-08-04 zo 08:57] =>  0:00
+     CLOCK: [2019-08-03 za 09:40]--[2019-08-03 za 09:47] =>  0:07
+     CLOCK: [2019-08-03 za 09:18]--[2019-08-03 za 09:22] =>  0:04
+
+** Sleeping 
+     CLOCK: [2019-08-03 za 09:53]--[2019-08-03 za 10:00] =>  0:07
+
+
+* Not absolute time wasters
+
+** Figuring out time tracking
+   CLOCK: [2019-08-02 vr 19:00]--[2019-08-02 vr 21:18] =>  2:18
+   CLOCK: [2019-08-01 do 22:36]--[2019-08-01 do 22:51] =>  0:15
+   CLOCK: [2019-08-01 do 22:29]--[2019-08-01 do 22:33] =>  0:04
+
+   This is nonsense and the shit I did is probably waste my time!
+
+   CLOCK: [2019-08-01 do 22:18]--[2019-08-01 do 22:29] =>  0:11
+   CLOCK: [2019-08-01 do 22:15]--[2019-08-01 do 22:16] =>  0:01
+
+   CLOCK: [2019-08-01 do 21:55]--[2019-08-01 do 22:15] =>  0:20
+
+
+* Time wasters
+
+** Watching youtube
+   CLOCK: [2019-08-01 do 22:16]--[2019-08-01 do 22:18] =>  0:02
+** Playing with phone during work
+   CLOCK: [2019-08-01 do 22:51]--[2019-08-01 do 23:14] =>  0:23
+
+* Daily statistics
+
+#+BEGIN: clocktable :maxlevel 2 :scope file :step day :tstart "<-1d>" :tend "<now>" :compact t
+
+Daily report: [2019-08-01 do]
+| Headline                             |   Time |
+|--------------------------------------+--------|
+| *Total time*                         | *1:16* |
+|--------------------------------------+--------|
+| Not absolute time wasters            |   0:51 |
+| \emsp Figuring out time tracking     |   0:51 |
+| Time wasters                         |   0:25 |
+| \emsp Watching youtube               |   0:02 |
+| \emsp Playing with phone during work |   0:23 |
+
+Daily report: [2019-08-02 vr]
+| Headline                         |   Time |
+|----------------------------------+--------|
+| *Total time*                     | *2:26* |
+|----------------------------------+--------|
+| Real work                        |   0:08 |
+| Not absolute time wasters        |   2:18 |
+| \emsp Figuring out time tracking |   2:18 |
+
+Daily report: [2019-08-03 za]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *0:00* |
+#+END:
+
+* Shortcuts
+
+1) C-c C-x C-i --> Clock in
+
+2) C-c C-x C-x --> restart a clock
+
+3) C-u C-c C-x C-x --> restart with menu
+
+4) C-c C-x C-o --> Clock out
+
+5) Dont' understand what `org-clock-in-drawer is`
+
+6) C-c C-x C-j --> Jump to clocked task
+
+7) C-c C-x C-q --> foget last clock
+
+8) C-c C-x C-d -->  Display clocking info 
+
+** Column view
+
+1) C-c C-x C-c --> Show column view
+
+
+2) as per this [[https://emacs.stackexchange.com/questions/35708/org-mode-how-to-generate-clock-report-for-hours-worked-each-day][org-clock-report]], we can change the lines of
+   `org-clock-report` and then followed by text shown on top.
+
+** Other
+
+1) C-h v ~org-clock-mode-line-total~  is a variable used to determine what
+clock is shown, agreegate for today or the total times. 
+
+2) C-c C-x C-z ~org-resolve-clocks~ allows to go back in time to correct clocks. Look
+[[https://stackoverflow.com/questions/11143645/emacs-org-mode-how-to-adjust-previous-clock-if-i-forget-to-clock-out][here]] for more info.
+
+* Goal
+
+To track how many hours you are spending on what with comments
+
+To view statistics
+
+- hours per day
+- hours per week 
+- per task, per all tasks except... 
+- subsection adding t main heading
+- Display org time on the task bar
+- add 2 clocks one for current time and one for total time today in
+  DP. :)
+

@@ -1,0 +1,44 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file /home/eghx/agent18/myblock/_posts/log/work-calucation.org
+
+
+* Daily statistics
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2019-08-02 vr 21:34
+  :ARCHIVE_FILE: ~/agent18/myblock/_posts/log/work-calucation.org
+  :ARCHIVE_CATEGORY: work-calucation
+  :END:
+
+#+BEGIN: clocktable :maxlevel 2 :scope file :step day :tstart "<-3d>" :tend "<now>" :compact t
+
+Daily report: [2019-07-30 di]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *0:00* |
+
+Daily report: [2019-07-31 wo]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *0:00* |
+
+Daily report: [2019-08-01 do]
+| Headline                             |   Time |
+|--------------------------------------+--------|
+| *Total time*                         | *1:16* |
+|--------------------------------------+--------|
+| Not absolute time wasters            |   0:51 |
+| \emsp Figuring out time tracking     |   0:51 |
+| Time wasters                         |   0:25 |
+| \emsp Watching youtube               |   0:02 |
+| \emsp Playing with phone during work |   0:23 |
+
+Daily report: [2019-08-02 vr]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *0:00* |
+#+END:
+
+
+

@@ -412,7 +412,8 @@ Feedback checklist:
    developments"
 
 2. Could this claim be false? Remember the "there is no doubting"
-   example.
+   example. (Could there be other examples that can disprove this?
+   Have you thought about it?)
 
 3. Does this claim say anything about "best" (need to compare against
    the entire set) or "most" (need to show it's the majority in the
@@ -442,3 +443,22 @@ Short names: none; false; best; chapter; running; if-then.
 Please refer to the checklist after every claim analysis to ensure
 you're not making old mistakes. If you want to add to the checklist
 based on mistakes found in past feedback, that's great.
+
+
+1. Could it have examples? "civilization is at stake due to AI"
+   (consider the possibility it has not exaples)
+
+2. True or false? Yes "There is no doubting the
+   force of the argument" (consider a falsifying example)
+
+3. best most no comparison?  (consider if you need to compare)
+
+4. From chapter?  (consider examples from chapter)
+
+5. Running? (is it a running example like talking about the same thing)
+
+6. If-then If Given? (consider the given type statements)
+
+Not sure if something is running or not? What is the definition... I
+remember the DP example of talking about tiger woods and thats it. in
+this case what is the 

@@ -7394,6 +7394,67 @@ html rendering and then in the end wrap it up with rstudio's console!
 
 
 	
+### Making a presentation
+
+``` R
+---
+title: "Data Science Capstone - Word Prediction App"
+date: "June 6, 2019"
+output: slidy_presentation
+---
+
+```
+
+This already brings up a presentation.
+
+#### Uploading it to github
+#### Uploading it to rpubs
+
+Based on https://stackoverflow.com/a/32304336/5986651
+
+``` R
+result <- rpubsUpload(title='Your
+title',htmlFile='your_html_file_and_path.html',method=getOption('rpubs.upload.method','auto')
+
+browseURL(results$continueUrl)
+
+```
+Thats all you need to do and the rest is self explanatory. You get a
+website where you trim shit down.
+
+#### Update it to rpubs
+### Adding picture to presentation
+
+based on https://stackoverflow.com/a/44665110/5986651
+
+```{r, echo=FALSE}
+   knitr::include_graphics('./Capture-Output.png')
+```
+
+Works all the way into the file
+
+remember id
+"https://api.rpubs.com/api/v1/document/516159/bf2c070b171144b0bf949bca29e62ef2"
+
+#### Resize picture
+
+two methods as per
+https://stackoverflow.com/questions/15625990/how-to-set-size-for-local-image-using-knitr-for-markdown
+
+```{r}
+knitr::include_graphics("path/to/image.png", dpi = 100)
+```
+
+```{r, out.width = "400px"}
+knitr::include_graphics("path/to/image.png")
+```
+
+https://stackoverflow.com/questions/25415365/insert-side-by-side-png-images-using-knitr/25454753
+
+```{r, echo=FALSE,out.width="49%", out.height="20%",fig.cap="caption",fig.show='hold',fig.align='center'}
+knitr::include_graphics(c("path/to/img1","path/to/img1"))
+``` 
+
 ## Levels of detail (c5-w3)
 ### tl;dr
 
@@ -19519,9 +19580,9 @@ is very helpful.
 - CSS gives the style
 - Javscript for interactivity
   
-Shiny uses [Bootstrap](http://getbootstrap.com/) (no 
-relation to the statistics bootstrap) style, which (to me) 
-seems to look nice and renders well on mobile platforms.
+Shiny uses [Bootstrap](http://getbootstrap.com/) (no relation to the statistics bootstrap)
+style, which (to me) seems to look nice and renders well on mobile
+platforms.
 
 ### Available Tutorials
 
@@ -20447,6 +20508,44 @@ website:
 
 - http://shiny.rstudio.com/articles/gadgets.html
 - http://shiny.rstudio.com/articles/gadget-ui.html
+## Deploy Shiny APP
+
+### deploy locally
+
+``` R
+library(shiny)
+runApp()
+```
+
+### deploy on shinyapps.io
+
+- Go to the website and make an account.
+
+- Follow instructions on
+http://shiny.rstudio.com/articles/shinyapps.html
+
+You get the Token and secret in https://www.shinyapps.io/admin/#/tokens
+
+``` R
+library(rsconnect)
+rsconnect::setAccountInfo(name="<ACCOUNT>", token="<TOKEN>", secret="<SECRET>")
+deployApp(appName="somethinggreaterthan4letters")
+```
+
+### Trouble shooting
+
+In case the above doesn't work...
+
+One work around seems to be to downgrade the rsconnect which currntly
+has some issues related to python as documented in: https://stackoverflow.com/questions/54977188/problem-deploying-shiny-app-in-r-using-a-virtual-env-with-reticulate-to-run-pyt
+
+``` R
+devtools::install_github("rstudio/rsconnect", ref='737cd48')
+```
+
+### Updating
+
+Just deploy again
 ## GoogleVis (c9-w1)
 ### Google Vis API
 
@@ -22381,6 +22480,135 @@ Feel free to get in touch with Team swirl:
 - Via email: info@swirlstats.com
 - On Twitter: @[swirlstats](https://twitter.com/swirlstats)
 
+## c9-w4 assignment: Making a shiny app
+
+### ui.R
+
+```R
+library(shiny)
+shinyUI(fluidPage(
+  titlePanel("Confidence intervals Simulation based on Khan Academy"),
+  sidebarLayout(
+    sidebarPanel(
+        h3("Move the Sliders to see the plot change"),
+        sliderInput("n","Sample size(n)",20,100,20),
+        sliderInput("p","Probability of Population (p)",0,1,0.5),
+        sliderInput("CI","Confindence Interval(CI%)",0,100,95),
+        sliderInput("N","Number of samples (N)",0,150,30)
+        #actionButton("reset","Click to resample")
+             
+    ),
+    mainPanel(
+        h3("Results and Plot"),
+        textOutput("hits"),
+        plotOutput("plot1"),
+        h3("Plot Explanation"),
+        textOutput("plot2"),
+        h3("Instructions and documentation"),
+        textOutput("docu"),
+        h4("Expected output"),
+        textOutput("docu2"),
+        h4("Inspiration"),
+        textOutput("insp"),
+        h3("Code and calulations of Server and UI"),
+        textOutput("code")
+
+        
+    )
+  )
+))
+
+```
+### server.R
+
+```R
+library(shiny)
+library(r4ss)
+library(ggplot2)
+shinyServer(function(input, output) {
+
+    calc <- reactive({
+        n <- as.numeric(input$n)
+        N <- as.numeric(input$N)
+        CI <- as.numeric(input$CI)
+        p <- as.numeric(input$p)
+
+        df <- data.frame(matrix(nrow=N,ncol=6))
+        colnames(df) <- c("hits","pHat","pSD","pHatMax","pHatMin","no.sample")
+        
+        for (i in 1:N){
+            x <- rbinom(n,size=1,prob=p)
+            pHat <- mean(x)
+            pSD <- sqrt(pHat*(1-pHat)/n)
+            CI.corrected <- ((100-CI)/2+CI)/100
+            q <- qnorm(CI.corrected)
+            pHatMax <- (pHat+q*pSD)
+            pHatMin <- (pHat-q*pSD)
+            hits <- pHatMax>p && pHatMin<p
+            df[i,] <- list(hits,pHat,pSD,pHatMax,pHatMin,i)
+           
+        }
+        df
+    })
+
+    hits <- reactive({
+        df <- calc()
+        sum(df[,1])/nrow(df)*100
+        
+    })
+        
+
+    output$hits <- renderText(paste("Actual Percentage of number of samples containing population probability within their confidence bands of ",as.numeric(input$CI),"% is =",round(hits(),digits=2)))
+
+    output$plot1 <- renderPlot({
+        df <- calc()
+        df$hits <- as.factor(df$hits)
+        df$hits <- relevel(df$hits,"TRUE")
+        ggplot(df, aes(x=no.sample, y=pHat, colour=hits)) +
+        geom_errorbar(aes(ymin=pHatMin, ymax=pHatMax), width=1) +
+        geom_hline(yintercept=as.numeric(input$p), linetype="dashed",
+        color = "red",
+        size=2)+scale_color_manual(breaks=c("TRUE","FALSE"),values=c("green","red"))+
+            coord_flip() 
+        
+    })
+
+
+    output$plot2  <-
+        renderText("The X axis denotes the sample probability, and the y axis denotes the number of samples (N). The red vertical line is the population probability. Green confidence bands contain the population probability. Red confidence bands are NOT containing the population probability.")
+    
+    output$docu <-
+        renderText("Change the sliders to see the change in the plots. The above plots inform if it is a reasonable approximation to take the SE (standard error) of the sample as a ssubstitute for the population standard deviation.")
+
+    output$docu2 <- renderText("We compute the number of times a 'mean of a random sample' is within 'X' Standard errors of population probability. This number is shown above the plot and is very close to the Confidence interval.")
+
+    output$insp <- renderText("https://www.khanacademy.org/math/ap-
+statistics/estimating-confidence-ap/introduction-confidence-intervals/
+v/confidence-interval-simulation")
+
+    output$code <-
+        renderText("The Code and calculations are shown in presentation of this assignment.")
+
+    
+
+})
+
+```
+
+
+### how to use it?
+
+Type `runApp()` in the R console within the folder.
+
+So,
+
+``` R
+library(shiny)
+runApp()
+```
+
+Opens stuff in browser
+
 ## C10-w1
 
 [Text mining infrastucture in R](http://www.jstatsoft.org/v25/i05/)
@@ -22970,3 +23198,76 @@ https://web.stanford.edu/class/cs124/lec/languagemodeling.pdf
 
 ken benoits masterclass on quanteda:
 https://kenbenoit.net/pdfs/text_analysis_in_R.pdf
+
+``` R
+### Remove some special characters 
+string <- gsub("’","",string)
+string <- gsub("‘","",string)
+string <- gsub("´","",string)
+string <- gsub("`","",string)
+string <- gsub("'","",string)
+string <- gsub(" -","",string)
+string <- gsub("p.m","pm",string)
+string <- gsub("a.m","am",string)
+string <- gsub("A&M","AandM",string)
+string <- gsub("[Uu][.][Ss][. ]","US", string)
+
+### Remove other special chatacters
+string <- gsub("[^[:alnum:][:blank:]+?&/\\-]-*"," ",string)
+string <- gsub("\r"," ",string)
+string <- gsub("\n"," ",string)
+string <- gsub("/"," ",string)
+
+### remove stray characters
+string <- gsub(" [A-Za-z] "," ",string)
+
+### remove numbers
+gsub('[0-9]+', '', string)
+
+### remove stop words
+string <- removeWords(string,stopwords)
+string
+```
+## Key bindings necessary to handle large data
+
+`C-c C-e C-r` to restart R kernel
+
+Chrome kill all tabs 
+
+`sudo killall chrome`
+
+Chrome get memory usage
+
+``` Terminal
+# detailed output, in kB apparently
+smem -t -P chrom
+# just the total PSS, with automatic unit:
+smem -t -k -c pss -P chrom | tail -n 1
+```
+
+Remove everything except this...
+## Bench marking tool
+
+https://github.com/hfoffani/dsci-benchmark
+
+Next word prediction benchmark
+==============================
+
+A simple R script for benchmarking a next word prediction algorithm.
+
+Usage:
+------
+
+0. Download the repository
+0. Extract data.zip into the current folder (password is provided in the Coursera forum)
+0. Open benchmark.R and run the code up to section 03
+0. (optional) create a wrapper function for your prediction function (section 03)
+0. Perform the benchmark (section 04)
+0. Report your results in the [Coursera Forum](https://class.coursera.org/dsscapstone-004/forum/thread?thread_id=218)
+
+File description:
+-----------------
+
+* **data.zip** Archive containing the benchmark datasets.
+* **benchmark.R** Script needed to perform the benchmark (see above).
+* **generate_dataset.R** Script used to generate the benchmark datasets (this should not be re-run and is provided for reference only)
