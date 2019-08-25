@@ -7396,12 +7396,14 @@ html rendering and then in the end wrap it up with rstudio's console!
 	
 ### Making a presentation
 
+
 ``` R
----
+
+##---
 title: "Data Science Capstone - Word Prediction App"
 date: "June 6, 2019"
 output: slidy_presentation
----
+##---
 
 ```
 

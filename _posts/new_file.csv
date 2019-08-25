@@ -1,128 +1,381 @@
-**Checklist at the end of every example-claim sequence**,Ex,T/F,comp,chapt,runn,if given
-**Checklist**, yes, false, best, not-chapter, not-running, if  
-**Checklist**, yes, false, no, not-chapter, not-running, none 
-**Checklist**, not-sure, neither, none, chapter, not-running, none 
-**Checklist**, No, neither, none, not-chapter, not-running, none 
-**Checklist**, yes, True, most, chapter, not-running, none 
-**Checklist**, yes, false, none, chapter, not-running, none 
-**Checklist**, yes, false, none, chapter, not-sure-running, none 
-**Checklist**, yes, true, none, chapter, running, none 
-**Checklist**, yes, false, none, not-chapter, running, none 
-**Checklist**, yes, true, none, not-chapter, not-running, none 
-**Checklist**, yes, true, none, not-chapter, not-running, none 
-**Checklist**, yes, true, none, chapter, running, none 
-**Checklist**, yes, false, none, not-chapter, not-sure, none 
-**Checklist**, yes, true, none, chapter, not-sure, none 
-**Checklist**, yes, true, none, not-chapter, not-sure, none 
-**Checklist**, yes, neither, none, not-chapter, not-sure, none 
-**Checklist**, yes, true, none, not-chapter, not-running, none 
-**Checklist**, yes, neither, none, not-chapter, not-running, none 
-**Checklist**, yes, neither, none, not-chapter, not-running, given
-**Checklist**, yes, false, none, chapter, not-sure, none 
-**Checklist**, yes, true, none, not-chapter, not-sure, none 
-**Checklist**, yes, false, none, not-chapter, not-running, none 
-**Checklist**, yes, true, none, not-chapter, not-running, none 
-**Checklist**, yes, true, many, not-chapter, not-running, none 
-**Checklist**, yes, true, none, not-chapter, not-running, none 
-**Checklist**, yes, false, none, not-chapter, not-running, none 
-**Checklist**, yes, true, none, not-chapter, not-running, none 
-**Checklist**, yes, true, none, not-chapter, not-running, none 
-**Checklist**, yes, neither, none, not-chapter, not-running, none 
-**Checklist**, yes, true, none, not-chapter, not-running, none 
-**Checklist**, not-sure, neither, none, not-chapter, not-running, none
-**Checklist**, yes, true, none, not-chapter, not-running, none 
-**Checklist**, yes, true, none, not-chapter, not-running, none 
-**Checklist**, yes, true, none, not-chapter, not-running, none 
-**Checklist**, NO, false, none, not-chapter, not-running, none 
-**Checklist**, yes, true, none, not-chapter, not-running, none 
-**Checklist**, yes, false, none, not-chapter, not-running, none 
-**Checklist**, yes, true, none, not-chapter, not-running, none 
-**Checklist**, yes, true, none, not-chapter, not-running, none 
-**Checklist**, yes, false, none, not-chapter, not-running, none 
-**Checklist**, yes, false, none, not-chapter, not-running, none 
-**Checklist**, yes, true, none, not-chapter, not-running, none 
-**Checklist**, yes, true, none, not-chapter, not-running, none  
-**Checklist**, yes, true, none, not-chapter, not-running, none 
-**Checklist**, yes, true, none, not-chapter, not-running, none 
-**Checklist**, yes, false, always, not-chapter, not-running, none 
-**Checklist**, yes, false, none, not-chapter, not-running, none 
-**Checklist**, yes, neither, none, not-chapter, not-running, none
-**Checklist**, no, neither, none, not-chapter, not-running, none 
-**Checklist**, yes, true, most, not-chapter, not-running, none 
-**Checklist**, yes, true, none, not-chapter, not-running, none 
-**Checklist**, yes, true, none, not-chapter, not-running, none   
-**Checklist**, yes, true, none, not-chapter, running, none 
-**Checklist**, yes, true, none, not-chapter, not-running, none 
-**Checklist**, yes, neither, none, not-chapter, not-running, none 
-**Checklist**, yes, false, none, not-chapter, not-running, none 
-**Checklist**, yes, true, none, not-chapter, not-running, none 
-**Checklist**, no, neither, none, not-chapter, not-running, none 
-**Checklist**, no, neither, none, not-chapter, not-running, none 
-**Checklist**, yes, true, none, not-chapter, not-running, none 
-**Checklist**, not-sure, neither, none, not-chapter, not-running, none 
-**Checklist**, yes, neither, none, not-chapter, not-running, none 
-**Checklist**, yes, neither, none, not-chapter, not-running, none 
-**Checklist**, yes, true, none, chapter, not-running, none 
-**Checklist**, yes, neither, none, not-chapter, not-running, none
-**Checklist**, No, neither, none, not-chapter, not-running, none 
-**Checklist**, yes, true, none, chapter, not-running, none
-**Checklist**, yes, true, none, chapter, not-running, none
-**Checklist**, yes, true, none, chapter, not-running, if
-**Checklist**, yes, true, none, chapter, not-running, none 
-**Checklist**, not-sure, neither, none, not-chapter, not-running, none 
-**Checklist**, yes, true, none, chapter, not-running, none 
-**Checklist**, not-sure, true, none, not-chapter, not-running, none 
-**Checklist**, not-sure, neither, none, not-chapter, not-running, noneb 
-**Checklist**, yes, true, none, chapter, not-running, none 
-**Checklist**, yes, true, none, chapter, not-running, none 
-**Checklist**, yes, false, none, not-chapter, not-running, none 
-**Checklist**, yes, neither, best, not-chapter, not-running, none 
-**Checklist**, yes, true, often, chapter, not-running, none 
-**Checklist**, yes, true, none, chapter, not-running, none 
-**Checklist**, yes, true, none, not-chapter, not-running, none 
-**Checklist**, yes, true, none, chapter, not-running, none 
-**Checklist**, yes, neither, none, not-chapter, not-running, none 
-**Checklist**, not-sure, neither, none, not-chapter, not-running, none 
-**Checklist**, not, neither, none, not-chapter, not-running, none 
-**Checklist**, no, neither, none, not-chapter, not-running, none 
-**Checklist**, yes, true, none, chapter, not-running, none 
-**Checklist**, yes, true, none, not-chapter, not-running, none
-**Checklist**, yes, true, none, chapter, not-running, none 
-**Checklist**, yes, false, none, chapter, not-running, none 
-**Checklist**, yes, true, none, chapter, not-running, none 
-**Checklist**, yes, true, none, chapter, not-running, none 
-**Checklist**, yes, neither, none, not-chapter, not-running, none 
-**Checklist**, yes, neither, none, not-chapter, not-running, none 
-**Checklist**, yes, true, none, chapter, not-running, none  
-**Checklist**, yes, true, none, chapter, not-running, none 
-**Checklist**, yes, true, none, chapter, not-running, none 
-**Checklist**, yes, true, none, not-chapter, not-running, none 
-**Checklist**, yes, true, none, not-chapter, not-running, none 
-**Checklist**, not sure, neither, none, not-chapter, not-running, none 
-**Checklist**, yes, true, none, chapter, not-running, none 
-**Checklist**, yes, true, none, not-chapter, not-running, none 
-**Checklist**, yes, true, none, chapter, not-running, none 
-**Checklist**, not-sure, neither, none, not-chapter, not-running, none 
-**Checklist**, yes, true, none, not-chapter, not-running, none 
-**Checklist**, yes, true, none, chapter, not-running, none 
-**Checklist**, yes, true, often, chapter, not-running, none 
-**Checklist**, yes, true, none, chapter, not-running, none 
-**Checklist**, yes, true, none, chapter, not-running, none 
-**Checklist**, yes, neither, none, not-chapter, not-running, none 
-**Checklist**, yes, true, none, chapter, not-running, none 
-**Checklist**, yes, true, none, not-chapter, not-running, none 
-**Checklist**, yes, neither, none, not-chapter, not-running, none 
-**Checklist**, yes, neither, none, not-chapter, not-running, none 
-**Checklist**, no, neither, none, not-chapter, not-running, none 
-**Checklist**, no, neither, none, not-chapter, not-running, none 
-**Checklist**, yes, true, none, chapter, not-running, none 
-**Checklist**, no, neither, none, not-chapter, not-running, none 
-**Checklist**, not-sure, neither, none, not-chapter, not-running, none 
-**Checklist**, yes, neither, none, not-chapter, not-running, none 
-**Checklist**, yes, false, none, chapter, running, none 
-**Checklist**, yes, false, none, not-chapter, not-sure-running, none 
-**Checklist**, not-sure, neither, none, chapter, not-running, none 
-**Checklist**, yes, neither, none, not-chapter, not-running, none 
-**Checklist**, yes, niether, none, not-chapter, not-running, none 
-**Checklist**, not sure, neither, none, not-chapter, not-running, none 
-,,39,,,,
+**Checklist at the end of every example-claim sequence**, ,,,,,,,,
+,,,,,,,,,
+**Checklist**, yes, false, best, not-chapter, not-running, if  ,,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, false, no, not-chapter, not-running, none,Empirically false,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, not-sure, neither, none, chapter, not-running, none,The cryptic predicate,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, No, neither, none, not-chapter, not-running, none,The future of nothing,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, True, most, chapter, not-running, none,Simple past,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, false, none, chapter, not-running, none,testable,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, false, none, chapter, not-sure-running, none,testable,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, chapter, running, none,confusing predicate,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, false, none, not-chapter, running, none,testable,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none,testable,7,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none,many claims in one sentence,testable,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, chapter, running, none,many claims in one,testable,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, false, none, not-chapter, not-sure, none,many claims in one,testable,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, chapter, not-sure, none,many claims in one sentence,testable,11
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, not-chapter, not-sure, none,testable,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, neither, none, not-chapter, not-sure, none,"fat
+claims",13,
+--,,,,,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none,testable,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, neither, none, not-chapter, not-running, none,,,
+confusing predicate,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, neither, none, not-chapter, not-running, given,,,
+"testable"" 16
+--
+**Checklist**: yes; false; none; chapter; not-sure; none;  ""testable",,,,,,,,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, not-chapter, not-sure, none,testable,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, false, none, not-chapter, not-running, none,testable,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none,testable ,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, many, not-chapter, not-running, none ,testable,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none,testable ,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, false, none, not-chapter, not-running, none,testable ,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none,testable ,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none,,,
+future with example ,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, neither, none, not-chapter, not-running, none,should ,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none,testable ,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, not-sure, neither, none, not-chapter, not-running,,,,
+none,vague predicate,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none,simple ,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none,simple ,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none,testable ,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, NO, false, none, not-chapter, not-running, none,"The
+future with nothing ",,
+--,,,,,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none,,,
+unsure of matching definition ,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, false, none, not-chapter, not-running, none,,,
+claim about me but answered with others ,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none,"It is
+important to do X",failed?,
+--,,,,,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none,"It is
+important to do X",failed?,
+--,,,,,,,,,
+**Checklist**, yes, false, none, not-chapter, not-running, none,,,
+future with something,failed? ,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, false, none, not-chapter, not-running, none,,,
+testable,1,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none,,,
+subject not right, testable,2,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none ,,,
+subject not right,3,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none,,,
+failed to give example even,4,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none,testable ,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, false, always, not-chapter, not-running, none,testable,,
+	,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, false, none, not-chapter, not-running, none,testable,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, neither, none, not-chapter, not-running, none,,,
+lack of meaning for predicate,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, no, neither, none, not-chapter, not-running, none,,,
+future of nothing ,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, most, not-chapter, not-running, none,testable,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none,testable ,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none,testable   ,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, not-chapter, running, none,testable ,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none,important ,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, neither, none, not-chapter, not-running, none,,,
+"when there is X, Y is unnecessary", Failed? ,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, false, none, not-chapter, not-running, none,testable ,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none ,testable,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, no, neither, none, not-chapter, not-running, none,"no
+interest in future things ",,
+--,,,,,,,,,
+**Checklist**, no, neither, none, not-chapter, not-running, none,"No
+idea I can give example ",,
+--,,,,,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none,,,
+opposed to something,  ,,,,,,,,
+--,,,,,,,,,
+**Checklist**, not-sure, neither, none, not-chapter, not-running,,,,
+none,how to give example?,opposed to A such-that/so-that B,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, neither, none, not-chapter, not-running, none,,,
+missed If,unable to get example,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, neither, none, not-chapter, not-running, none,,,
+X prefers A to B,fat claim ,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, chapter, not-running, none ,,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, neither, none, not-chapter, not-running, none,,,
+not sure,maybe this has an example,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, chapter, not-running, none,,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, chapter, not-running, none, ,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, chapter, not-running, if,"then how to
+give example",,
+--,,,,,,,,,
+**Checklist**, yes, true, none, chapter, not-running, none,  ,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, not-sure, neither, none, not-chapter, not-running,,,,
+none,failed in giving example,"didn't follow subject and predicate
+--
+**Checklist**: yes; true; none; chapter; not-running; none 
+
+--
+**Checklist**: not-sure; true; none; not-chapter; not-running; none; ""belief ",,,,,,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, not-sure, neither, none, not-chapter, not-running,,,,
+none,should,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, false, none, not-chapter, not-running, none,,,
+subject hidden, ,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, chapter, not-running, none,testable ,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, chapter, not-running,problem with definition,,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, false, none, not-chapter, not-running, none,,,
+no idea how to give examples for MUST ,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, neither, best, not-chapter, not-running, none,,,
+unable to get example ,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, often, chapter, not-running, none,often ,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, chapter, not-running, none,"bad
+subject and predicate",,
+--,,,,,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none ,,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, chapter, not-running, none,this vs that ,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, neither, none, not-chapter, not-running, none,,,
+X prefers A to B ,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, not-sure, neither, none, not-chapter, not-running,,,,
+none,the future of nothing,,,,,,,,
+--,,,,,,,,,
+**Checklist**, not, neither, none, not-chapter, not-running, none,,,
+the future of nothing ,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, no, neither, none, not-chapter, not-running, none,"the
+future of nothing ",,
+--,,,,,,,,,
+**Checklist**, yes, true, none, chapter, not-running, none ,,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none,,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, chapter, not-running, none ,,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, false, none, chapter, not-running, none ,,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, chapter, not-running, none ,,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, chapter, not-running, none ,,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, neither, none, not-chapter, not-running, none,,,
+predicate unclear ,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, neither, none, not-chapter, not-running, none,,,
+confusing predicate,mistakes in subject predicate,"missed a
+--
+**Checklist**: yes; true; none; chapter; not-running; none;  
+
+--
+**Checklist**: yes; true; none; chapter; not-running; none 
+
+--
+**Checklist**: yes; true; none; chapter; not-running; none 
+
+--
+**Checklist**: yes; true; none; not-chapter; not-running; none;  
+
+--
+**Checklist**: yes; true; none; not-chapter; not-running; none;
+""confusing predicate ",,,,,,,
+--,,,,,,,,,
+**Checklist**, not sure, neither, none, not-chapter, not-running,,,,
+none,should ,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, chapter, not-running, none,  ,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none,  ,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, chapter, not-running, none ,,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, not-sure, neither, none, not-chapter, not-running,,,,
+if,missed if ,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none ,,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, chapter, not-running, none ,,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, often, chapter, not-running, none,often ,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, chapter, not-running, if,missed if ,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, chapter, not-running, if,missed if,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, neither, none, not-chapter, not-running, none ,,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, true, none, chapter, not-running, none,"missed
+claims",  ,
+--,,,,,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none ,,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, neither, none, not-chapter, not-running, none,,,
+no examples found easily,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, neither, none, not-chapter, not-running, none,,,
+claim not accurate ,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, no, neither, none, not-chapter, not-running, none,"the
+future of nothing",hypothetical ,
+--,,,,,,,,,
+**Checklist**, no, neither, none, not-chapter, not-running, none,"the
+future of nothing",no examples,
+--,,,,,,,,,
+**Checklist**, yes, true, none, chapter, not-running, none ,,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, no, neither, none, not-chapter, not-running, none,,,
+confusing predicate,not-sure because,A by B ,,,,,,,
+--,,,,,,,,,
+**Checklist**, not-sure, neither, none, not-chapter, not-running,,,,
+none,confusing predicate,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, neither, none, not-chapter, not-running, none,,,
+belief?,common sense ,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, false, none, chapter, running, none ,,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, false, none, not-chapter, not-sure-running, none ,,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, not-sure, neither, none, chapter, not-running, none ,,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, neither, none, not-chapter, not-running, none ,,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, neither, none, not-chapter, not-running, none ,,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, not sure, neither, none, not-chapter, not-running, none ,,,
+,,,,,,,,,
+--,,,,,,,,,
+**Checklist**, yes, neither, none, not-chapter, not-running, none ,,,

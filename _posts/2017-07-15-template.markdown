@@ -1,60 +1,181 @@
 ---
 layout: post
 comments: true
-title:  "Why concrete thinking? "
-date:    22-04-2019 
+title:  "Superintelligence wat waaat!"
+date:    18-08-2019 
 categories: posts
 tags: DP, feedback, examples
 permalink: /:title.html
 published: false
 ---
 
+## Mission #9. 
 
-## What is concrete thinking?
+**Mail dated Aug 13,**
 
-It is the checking of one example against a definition.
+Great job on spending 29 hours in a week! *I recommend measuring rate
+of phrases per hour.*
+
+Overall, I didn't see you take on Superintelligence, which was the
+mission. Please work on either that or stuff you feel *confused*
+about. *Only failures matter* (apart from maintenance of existing
+performance).
+
+Note down patterns of failure, such as "X prefers A to B". Spend, say,
+half your time searching for and practicing on examples of those
+types. You can spend the rest of your practice time on new examples,
+from which you will hopefully find other patterns of failure.
+
+**Mail dated June 24,**
+
+Mission #9: Your mission, should you choose to accept it, is to
+concretely analyze the key claims in the book Superintelligence by
+Nick Bostrom (the book mentioned in the Elon Musk tweet above). He's a
+PhD at Oxford who's been writing about AI safety along with guys like
+Eliezer for nearly two decades. The book has detailed arguments and
+examples about all the topics like possible paths to
+"superintelligence" (whatever that means), types of
+"superintelligence", the control problem, etc.
+
+No need to write "Question: " - doesn't seem to have changed your
+answers.
+
+Don't have to go sentence by sentence; *look at one key claim for each
+section, usually the one in the first few paragraphs*, or one for each
+paragraph if you feel it's an important section. For example:
+
+> CHAPTER 2 Paths to superintelligence
+>
+> Machines are currently far inferior to humans in general
+> intelligence. Yet one day (we have suggested) they will be
+> superintelligent. How do we get from here to there? This chapter
+> explores several conceivable technological paths. We look at
+> artificial intelligence, whole brain emulation, biological
+> cognition, and human-machine interfaces, as well as networks and
+> organizations. We evaluate their different degrees of plausibility
+> as pathways to superintelligence. The existence of multiple paths
+> increases the probability that the destination can be reached via at
+> least one of them.
+
+The key claim is "How do we get from here to there? Answer: Artificial
+intelligence, whole brain emulation, ..."
+
+Feedback checklist:
+
+1. Could it be that this claim has no any example at all? For example,
+   "civilization is at stake".
+
+2. Could this claim be false? Remember the "there is no doubting"
+   example.
+
+3. Does this claim say anything about "best" (need to compare against
+   the entire set) or "most" (need to show it's the majority in the
+   set) or "no" (need to show that nothing in the set matches)?
+
+4. Did you stick to examples that are in the chapter itself? That way
+   you don't have to search online for too long.
+
+5. Did you use a running example for a technical phrase? There will be
+   lots of new phrases in the book, like "convergent instrumental
+   value" and "orthogonality thesis". Whenever you see them, you
+   should recall whatever running example you've used.
+
+6. If this is an "if-then" claim, did you either get a concrete
+   example or mark it as having no example?
+
+Short names: none; false; best; chapter; running; if-then.
+
+Please refer to the checklist after every claim analysis to ensure
+you're not making old mistakes. If you want to add to the checklist
+based on mistakes found in past feedback, that's great.
+
+## Feedback list used in this essay
+
+## Chapter 1
+
+one key claim per section
+For now I don't know which are my failures. 
+
+In an attempt to keep the fire going. I would like to focus on 10
+phrases an hour?
+
+Let's see how that goes and refine this shit accordingly. I am
+ready. Pandindian pandian.
+
+- black for claims
+- red for examples
+- blue for conclusions
+- yellow highlight for other "interesting stuff"
+
+### Growth modes and big history (2;3)
+
+> (History at the largest scale)[1], seems to exhibit (a sequence of
+> distinct growth modes)[2], each much more rapid than (its predecessor)[3].
+
+**Claims**: [1] seems to exhibit [2], each much more rapid than [3].
+
+**Subject**: [2] exhibited in [1].
+
+**Predicate**: much more rapid than [3]. 
+
+**Example**: "A few hundred thousand years ago, in early human (or
+hominid) prehistory, growth was so slow that it took on the order of
+one million years for human productive capacity to increase
+sufficiently to sustain an additional one million individuals living
+at subsistence level. By 5000 bc, following the Agricultural
+Revolution, the rate of growth had increased to the point where the
+same amount of growth took just two centuries. Today, following the
+Industrial Revolution, the world economy grows on average by that
+amount every ninety minutes."
+
+**Definition**: checks out.
+
+**Checklist**: yes; true; none; chapter; not-running; none  
+
+
+### Great expectations (2)
+
+> (Machines matching humans in general intelligence)[1]—that is, possessing
+> com- mon sense and an effective ability to learn, reason, and plan
+> to meet complex information-processing challenges across a wide
+> range of natural and abstract domains—have been expected since (the
+> invention of computers in the 1940s)[2].
+
+**Claims**: [1] has been expected since [2].
+
+**Subject**: When [1] has been expected
+
+**Predicate**:  since [2].
+
+**Example**: *No example of someone expecting in 1940.*
+
+**Definition**: -
+
+**Checklist**: yes; N/A; none; not-chapter; not-running; none  
+
+> From the fact that some individuals have overpredicted artificial
+> intelligence in the past, however, it does not follow that AI is
+> impossible or will never be developed.
+
+**Claims**: 
 
 
 
-**Label**:
+> The main reason why progress has been slower than expected is that
+> the technical difficulties of constructing intelligent machines have
+> proved greater than the pioneers foresaw.
 
-## Why concrete thinking 1ex vs 0ex!
+### Seasons of hope and despair (6)
 
+### State of the art (7)
 
-## The failure cases
-
-
-
-### Confusion
-
-failing to do concrete thinking right!
+### opinions about the future of machine intelligence (4)
 
 
-## Where all do we need concrete thinking
+## Notes
 
-
-## What about reasoning
-
-## What about hypothetical examples!
-
-
-## To what extent do we give examples
-
-## What now!
-
-## todo
-
-- Give examples for 3 types of failures
-
-- write and see how many claims from old essay writing, YouTube fit in
-  these three types of failures.
+- I feel that I am not taking too seriously every single sentence,
+  unless it is claims of importance.. For example they talk abotu IJ
+  GOOd an what he expects to happen in the future. 
   
-- Why should we work on concrete thinking
-
-- one example vs journal level vs 0 example
-
-- what about reasoning? **Claims**: [9] is [10]
-
-- to what extent to go with giving examples,
-
-	- to the point of being able to ask questions
+  Who cares? What are the claims? are there examples for it? moving on!

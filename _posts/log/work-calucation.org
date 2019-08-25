@@ -1,10 +1,174 @@
 #+COLUMNS: %7TODO(To Do) %40ITEM(Task) %6CLOCKSUM(Clock)
 
+* SuperIntelligence
+** Counted for DP
+*** Prepping for task
+CLOCK: [2019-08-24 za 14:30]--[2019-08-24 za 14:39] =>  0:09
+CLOCK: [2019-08-20 di 20:06]--[2019-08-20 di 20:16] =>  0:10
+CLOCK: [2019-08-18 zo 16:30]--[2019-08-18 zo 17:12] =>  0:42
+Setting up the task
+*** Looking for content
+
+*** DPing 
+**** Chapter 1,
+CLOCK: [2019-08-20 di 20:05]--[2019-08-20 di 20:06] =>  0:01
+## 47 mins, 4 pages, 7 phrases, 3 claims, 1 section, distracted 7 times.
+CLOCK: [2019-08-20 di 19:26]--[2019-08-20 di 20:02] =>  0:36
+CLOCK: [2019-08-20 di 19:15]--[2019-08-20 di 19:26] =>  0:11
+
+CLOCK: [2019-08-19 ma 18:11]--[2019-08-19 ma 18:54] =>  0:43
+## 80 mins, 6 pages, 6 phrases, 4 claims, 1 section, distracted 10 short times
+CLOCK: [2019-08-18 zo 19:59]--[2019-08-18 zo 21:24] =>  1:25
+## 45 mins, 4 pages, 10 phrases, 2 claims, 2 sections, distracted 6 short times (<1min).
+CLOCK: [2019-08-18 zo 17:40]--[2019-08-18 zo 18:01] =>  0:21
+CLOCK: [2019-08-18 zo 17:16]--[2019-08-18 zo 17:39] =>  0:23
+CLOCK: [2019-08-18 zo 17:12]--[2019-08-18 zo 17:15] =>  0:03
+CLOCK: [2019-08-18 zo 16:29]--[2019-08-18 zo 16:30] =>  0:01
+
+**** Chapter 2
+***** reading
+CLOCK: [2019-08-24 za 21:08]--[2019-08-24 za 21:24] =>  0:16
+CLOCK: [2019-08-24 za 20:24]--[2019-08-24 za 20:51] =>  0:27
+CLOCK: [2019-08-24 za 16:21]--[2019-08-24 za 16:37] =>  0:16
+CLOCK: [2019-08-24 za 15:24]--[2019-08-24 za 15:59] =>  0:35
+CLOCK: [2019-08-24 za 14:53]--[2019-08-24 za 15:02] =>  0:09
+CLOCK: [2019-08-24 za 12:35]--[2019-08-24 za 13:02] =>  0:27
+CLOCK: [2019-08-24 za 12:32]--[2019-08-24 za 12:35] =>  0:03
+CLOCK: [2019-08-20 di 21:22]--[2019-08-20 di 21:57] =>  0:35
+CLOCK: [2019-08-20 di 20:20]--[2019-08-20 di 21:12] =>  0:52
+***** DPing
+CLOCK: [2019-08-25 zo 08:40]--[2019-08-25 zo 09:10] =>  0:30
+CLOCK: [2019-08-24 za 22:24]--[2019-08-24 zo 22:25] =>  0:01
+CLOCK: [2019-08-24 za 20:00]--[2019-08-24 za 20:24] =>  0:24
+CLOCK: [2019-08-24 za 14:39]--[2019-08-24 za 14:53] =>  0:14
+CLOCK: [2019-08-24 za 11:45]--[2019-08-24 za 12:32] =>  0:47
+CLOCK: [2019-08-24 za 11:29]--[2019-08-24 za 11:43] =>  0:14
+CLOCK: [2019-08-23 vr 23:58]--[2019-08-24 za 00:20] =>  0:22
+***** writing
+CLOCK: [2019-08-25 zo 09:53]
+CLOCK: [2019-08-25 zo 09:32]--[2019-08-25 zo 09:35] =>  0:03
+CLOCK: [2019-08-25 zo 09:17]--[2019-08-25 zo 09:32] =>  0:15
+CLOCK: [2019-08-25 zo 09:10]--[2019-08-25 zo 09:13] =>  0:03
+
+** Other useful stuff
+*** Work done for STM 
+
+** Not counted for DP
+*** Breaks
+**** Working on Org mode
+**** Dreaming
+CLOCK: [2019-08-18 zo 18:01]--[2019-08-18 zo 18:01] =>  0:00
+
+CLOCK: [2019-08-18 zo 17:39]--[2019-08-18 zo 17:40] =>  0:01
+CLOCK: [2019-08-18 zo 17:15]--[2019-08-18 zo 17:16] =>  0:01
+**** Random
+CLOCK: [2019-08-20 di 21:13]--[2019-08-20 di 21:22] =>  0:09
+**** dinner and entertainment
+CLOCK: [2019-08-24 za 21:24]--[2019-08-24 za 22:24] =>  1:00
+CLOCK: [2019-08-24 za 20:52]--[2019-08-24 za 21:08] =>  0:16
+CLOCK: [2019-08-24 za 16:39]--[2019-08-24 za 20:00] =>  3:21
+CLOCK: [2019-08-24 za 16:00]--[2019-08-24 za 16:21] =>  0:21
+CLOCK: [2019-08-24 za 13:04]--[2019-08-24 za 14:30] =>  1:26
+CLOCK: [2019-08-18 zo 18:03]--[2019-08-18 zo 19:59] =>  1:56
+
+*** Sleeping 
+CLOCK: [2019-08-24 za 15:02]--[2019-08-24 za 15:24] =>  0:22
+*** Watching Youtube
+*** Playing with phone
+* Random week 33(starting mondy to sunday)
+** working on setting up this file for work sakes
+CLOCK: [2019-08-12 ma 21:25]--[2019-08-12 ma 21:33] =>  0:08
 
 
-* Real work
+** Counted for work
+*** Prepping for task
+CLOCK: [2019-08-14 wo 17:06]--[2019-08-14 wo 17:15] =>  0:09
+CLOCK: [2019-08-14 wo 16:57]--[2019-08-14 wo 17:04] =>  0:07
+CLOCK: [2019-08-14 di 16:55]--[2019-08-14 wo 16:57] =>  0:02
+CLOCK: [2019-08-12 ma 23:17]--[2019-08-12 ma 23:17] =>  0:00
+CLOCK: [2019-08-12 ma 21:58]--[2019-08-12 ma 22:02] =>  0:04
+*** Looking for content
+CLOCK: [2019-08-13 di 16:45]--[2019-08-13 di 17:20] =>  0:35
+CLOCK: [2019-08-13 di 16:26]--[2019-08-13 di 16:28] =>  0:02
+*** working on office PPT, trying to find mistakes
+CLOCK: [2019-08-12 ma 22:02]--[2019-08-12 ma 23:17] =>  1:15
+Work ppt Rx Ry alignment
+*** DPing
+CLOCK: [2019-08-13 di 20:01]--[2019-08-13 di 20:50] =>  0:49
+CLOCK: [2019-08-13 di 19:00]--[2019-08-13 di 19:02] =>  0:02
+CLOCK: [2019-08-13 di 18:18]--[2019-08-13 di 18:25] =>  0:07
+CLOCK: [2019-08-13 di 18:13]--[2019-08-13 di 18:15] =>  0:02
+CLOCK: [2019-08-13 di 18:06]--[2019-08-13 di 18:12] =>  0:06
+CLOCK: [2019-08-13 di 17:20]--[2019-08-13 di 17:20] =>  0:00
 
-** TASK DP 200 predicate subject
+*** Processing feedback
+CLOCK: [2019-08-14 wo 18:49]--[2019-08-14 wo 19:03] =>  0:14
+CLOCK: [2019-08-14 wo 18:06]--[2019-08-14 wo 18:32] =>  0:26
+CLOCK: [2019-08-14 wo 17:15]--[2019-08-14 wo 17:23] =>  0:08
+Feeling super sleepy, have been feeling this everyday in this week,
+despite sleeping well. Coke doesn't seem to help. I am afraid coke is
+spoiling my sleep?. Oh Man the solution seems to be to write and not
+just read. To Do and not just read about it! "participate". 
+
+It  appears that I have to tough out the initial resistance. Doing
+something with a framework (like identifying each claim as a pattern
+of  something)
+
+Not writing as much. Sleep is coming
+*** identifying patterns in last essay
+CLOCK: [2019-08-18 zo 11:27]--[2019-08-18 zo 11:48] =>  0:21
+CLOCK: [2019-08-18 zo 10:13]--[2019-08-18 zo 10:48] =>  0:35
+Didn't want to sleep as much: Factors: Morning, religiously looking at
+the clock and checking progress
+CLOCK: [2019-08-17 za 20:31]--[2019-08-17 za 20:52] =>  0:21
+Wanted to sleep ASAP
+CLOCK: [2019-08-15 do 20:51]--[2019-08-15 do 22:27] =>  1:36
+CLOCK: [2019-08-15 do 19:39]--[2019-08-15 do 20:27] =>  0:48
+CLOCK: [2019-08-15 do 19:35]--[2019-08-15 do 19:39] =>  0:04
+CLOCK: [2019-08-14 wo 19:03]--[2019-08-14 wo 19:49] =>  0:46
+*** Looking at data cleaning etc
+CLOCK: [2019-08-18 zo 11:48]--[2019-08-18 zo 12:44] =>  0:56
+
+*** Superintelligence prep
+*** STM post response and read
+**** Toggle the Factor you're curious about
+CLOCK: [2019-08-23 vr 00:44]--[2019-08-23 vr 00:55] =>  0:11
+CLOCK: [2019-08-23 vr 00:44]--[2019-08-23 vr 00:44] =>  0:00
+CLOCK: [2019-08-22 do 22:12]--[2019-08-23 vr 00:21] =>  2:09
+CLOCK: [2019-08-22 do 21:25]--[2019-08-22 do 21:48] =>  0:23
+CLOCK: [2019-08-22 do 19:58]--[2019-08-22 do 21:02] =>  1:04
+**** Narrow the diff
+CLOCK: [2019-08-21 wo 21:30]--[2019-08-21 wo 22:08] =>  0:38
+CLOCK: [2019-08-21 wo 19:52]--[2019-08-21 wo 21:18] =>  1:26
+**** Explain a change and not an absolute diff
+CLOCK: [2019-08-20 di 21:59]--[2019-08-20 di 23:02] =>  1:03
+CLOCK: [2019-08-19 ma 22:06]--[2019-08-19 ma 23:18] =>  1:12
+CLOCK: [2019-08-16 vr 23:32]--[2019-08-17 za 01:17] =>  1:45
+
+** breaks
+*** Dinner
+CLOCK: [2019-08-14 wo 17:23]--[2019-08-14 wo 18:06] =>  0:43
+CLOCK: [2019-08-13 di 17:21]--[2019-08-13 di 18:06] =>  0:45
+*** lunch
+CLOCK: [2019-08-18 zo 12:44]--[2019-08-18 zo 16:27] =>  3:43
+
+*** Breakfast
+CLOCK: [2019-08-18 zo 10:48]--[2019-08-18 zo 11:27] =>  0:39
+
+*** Dreaming
+CLOCK: [2019-08-14 wo 17:04]--[2019-08-14 wo 17:06] =>  0:02
+CLOCK: [2019-08-13 di 18:15]--[2019-08-13 di 18:18] =>  0:03
+CLOCK: [2019-08-13 di 18:12]--[2019-08-13 di 18:13] =>  0:01
+
+*** sleeping
+CLOCK: [2019-08-17 za 20:52]--[2019-08-17 zo 21:20] =>  0:28
+CLOCK: [2019-08-14 wo 18:32]--[2019-08-14 wo 18:49] =>  0:17
+CLOCK: [2019-08-13 di 18:25]--[2019-08-13 di 19:00] =>  0:35
+*** Unable to work
+CLOCK: [2019-08-13 di 19:02]--[2019-08-13 di 20:01] =>  0:59
+
+* TASK DP 200 predicate subject (DP10)
+** Counted for work w
 *** Prepping for task
     CLOCK: [2019-08-03 za 08:52]--[2019-08-03 za 08:55] =>  0:08
     :PROPERTIES:
@@ -96,7 +260,13 @@
     CLOCK: [2019-08-04 zo 08:21]--[2019-08-04 zo 08:43] =>  0:22
     CLOCK: [2019-08-03 za 09:47]--[2019-08-03 za 09:53] =>  0:06
 
-** Wasting time while DPing Subject predicate task
+** Other Useful stuff
+*** Work done for STM 
+   CLOCK: [2019-08-06 di 22:54]--[2019-08-06 di 23:52] =>  0:58
+   Worked on stuff for an STM.
+
+** Not counted for DP
+*** Wasting time while DPing Subject predicate task
 *** Breaks
     CLOCK: [2019-08-11 zo 00:35]--[2019-08-11 zo 00:58] =>  0:23
     CLOCK: [2019-08-10 za 23:48]--[2019-08-10 za 23:54] =>  0:06
@@ -168,17 +338,24 @@
 **** Random
      CLOCK: [2019-08-06 di 21:52]--[2019-08-06 di 21:56] =>  0:04
      CLOCK: [2019-08-05 ma 18:42]--[2019-08-05 ma 18:45] =>  0:03
-
-** Sleeping 
+     
+*** Sleeping 
    CLOCK: [2019-08-10 za 15:48]--[2019-08-10 za 17:41] =>  1:53
    CLOCK: [2019-08-07 wo 20:36]--[2019-08-07 wo 20:51] =>  0:15
    CLOCK: [2019-08-05 ma 19:17]--[2019-08-05 ma 19:37] =>  0:20
    CLOCK: [2019-08-03 za 09:53]--[2019-08-03 za 10:00] =>  0:07
+*** Watching youtube
+   CLOCK: [2019-08-01 do 22:16]--[2019-08-01 do 22:18] =>  0:02
+*** Playing with phone
+   CLOCK: [2019-08-01 do 22:51]--[2019-08-01 do 23:14] =>  0:23
 
-** For STM     
-   CLOCK: [2019-08-06 di 22:54]--[2019-08-06 di 23:52] =>  0:58
+** Summary
+
+Worked on 200 phrases. Link is [[/dp-predicate-subject-definition.html][here]]. Content ranges from John olivers
+piece on prison labor to one of my works on "marriage"
+
+
 * Not absolute time wasters
-
 ** Figuring out time tracking
    CLOCK: [2019-08-06 di 22:41]--[2019-08-06 di 22:54] =>  0:13
    CLOCK: [2019-08-02 vr 19:00]--[2019-08-02 vr 21:18] =>  2:18
@@ -191,48 +368,31 @@
    CLOCK: [2019-08-01 do 22:15]--[2019-08-01 do 22:16] =>  0:01
 
    CLOCK: [2019-08-01 do 21:55]--[2019-08-01 do 22:15] =>  0:20
-
-
-* Time wasters
-
-** Watching youtube
-   CLOCK: [2019-08-01 do 22:16]--[2019-08-01 do 22:18] =>  0:02
-** Playing with phone during work
-   CLOCK: [2019-08-01 do 22:51]--[2019-08-01 do 23:14] =>  0:23
-
 * Daily statistics
 
-#+BEGIN: clocktable :maxlevel 3 :scope file :step week :tstart "<-8d>" :tend "<tomorrow>" :compact t
+#+BEGIN: clocktable :maxlevel 3 :scope file :step day :tstart "<-1d>" :tend "<tomorrow>" :compact t
 
-Weekly report starting on: [2019-08-03 za]
-| Headline                                  |    Time |
-|-------------------------------------------+---------|
-| *Total time*                              | *10:21* |
-|-------------------------------------------+---------|
-| Real work                                 |   10:21 |
-| \emsp TASK DP 200 predicate subject       |    6:59 |
-| \emsp\emsp Prepping for task              |    0:03 |
-| \emsp\emsp Looking for content            |    0:36 |
-| \emsp\emsp DPing                          |    6:20 |
-| \emsp Wasting time while DPing Subject... |    3:15 |
-| \emsp\emsp Breaks                         |    3:15 |
-| \emsp Sleeping                            |    0:07 |
+Daily report: [2019-08-24 za]
+| Headline                     |    Time |
+|------------------------------+---------|
+| *Total time*                 | *11:08* |
+|------------------------------+---------|
+| SuperIntelligence            |   11:08 |
+| \emsp Counted for DP         |    4:22 |
+| \emsp\emsp Prepping for task |    0:09 |
+| \emsp\emsp DPing             |    4:13 |
+| \emsp Not counted for DP     |    6:46 |
+| \emsp\emsp Breaks            |    6:24 |
+| \emsp\emsp Sleeping          |    0:22 |
 
-Weekly report starting on: [2019-08-05 ma]
-| Headline                                  |      Time |
-|-------------------------------------------+-----------|
-| *Total time*                              | *1d 5:11* |
-|-------------------------------------------+-----------|
-| Real work                                 |   1d 4:58 |
-| \emsp TASK DP 200 predicate subject       |     21:10 |
-| \emsp\emsp Looking for content            |      0:16 |
-| \emsp\emsp DPing                          |     20:54 |
-| \emsp Wasting time while DPing Subject... |      4:22 |
-| \emsp\emsp Breaks                         |      4:22 |
-| \emsp Sleeping                            |      2:28 |
-| \emsp For STM                             |      0:58 |
-| Not absolute time wasters                 |      0:13 |
-| \emsp Figuring out time tracking          |      0:13 |
+Daily report: [2019-08-25 zo]
+| Headline             |   Time |
+|----------------------+--------|
+| *Total time*         | *0:51* |
+|----------------------+--------|
+| SuperIntelligence    |   0:51 |
+| \emsp Counted for DP |   0:51 |
+| \emsp\emsp DPing     |   0:51 |
 #+END:
 
 * Shortcuts
@@ -282,4 +442,23 @@ To view statistics
 - Display org time on the task bar
 - add 2 clocks one for current time and one for total time today in
   DP. :)
+
+* DP template
+** Counted for DP
+*** Prepping for task
+
+*** Looking for content
+
+*** DPing 
+** Other useful stuff
+*** Work done for STM 
+
+** Not counted for DP
+*** Breaks
+**** Working on Org mode
+**** Dreaming
+**** Random
+*** Sleeping 
+*** Watching Youtube
+*** Playing with phone
 

@@ -1,0 +1,216 @@
+
+R version 3.6.1 (2019-07-05) -- "Action of the Toes"
+Copyright (C) 2019 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> setwd('/home/eghx/agent18/myblock/R_files/')
+> file <- "../_posts/2019-08-03-identifying-patterns-subject-predicate.markdown"
+> content <- grep("**check",readLines(file))
+Error in grep("**check", readLines(file)) : 
+  invalid regular expression '**check', reason 'Invalid use of repetition operators'
+> content <- grep("^[**]check",readLines(file))
+> head(content)
+integer(0)
+> head(readLines(file))
+[1] "---"                                          
+[2] "layout: post"                                 
+[3] "comments: true"                               
+[4] "title:  \"DP10: Subject Predicate Valuation\""
+[5] "date:    03-08-2019 "                         
+[6] "categories: posts"                            
+> content <- grep("\\*\\*Check",readLines(file))
+> head(content)
+[1]  42  44  71  85  99 120
+> content <- grepl("\\*\\*Check",readLines(file))
+> content <- grepl("\\*\\*Check",readLines(file))
+> content <- grepl("\\*\\*Check",readLines(file))
+> head(content)
+[1] FALSE FALSE FALSE FALSE FALSE FALSE
+> content <- grep("\\*",readLines(file))
+> head(content)
+[1] 21 42 44 55 57 59
+> l_content <- grep("\\*",readLines(file))
+> content <- readLines(file)[l_content]
+> head(content)
+[1] "**Feedback checklist:**"                                        
+[2] "**Checklist at the end of every example-claim sequence**: "     
+[3] "**Checklist**: yes; false; best; not-chapter; not-running; if  "
+[4] "**Claims**: There is [0] the [1]."                              
+[5] "**Subject**: About [1]."                                        
+[6] "**Predicate**: there is [0]."                                   
+> txt <- readLines(file)
+> l_content <- grep("\\*", txt)
+> content <- txt[l_content]
+> content <- txt[l_content]
+> head(content)
+[1] "**Feedback checklist:**"                                        
+[2] "**Checklist at the end of every example-claim sequence**: "     
+[3] "**Checklist**: yes; false; best; not-chapter; not-running; if  "
+[4] "**Claims**: There is [0] the [1]."                              
+[5] "**Subject**: About [1]."                                        
+[6] "**Predicate**: there is [0]."                                   
+> l_content <- grep("\\*\\*Checklist", txt)
+> content <- txt[l_content]
+> head(content)
+[1] "**Checklist at the end of every example-claim sequence**: "                                   
+[2] "**Checklist**: yes; false; best; not-chapter; not-running; if  "                              
+[3] "**Checklist**: yes; false; no; not-chapter; not-running; none; \"Empirically false\""         
+[4] "**Checklist**: not-sure; neither; none; chapter; not-running; none; \"The cryptic predicate\""
+[5] "**Checklist**: No; neither; none; not-chapter; not-running; none; \"The future of nothing\""  
+[6] "**Checklist**: yes; True; most; chapter; not-running; none; \"Simple past\""                  
+> paste0("grep -A1 ", file," > ds.txt")
+[1] "grep -A1 ../_posts/2019-08-03-identifying-patterns-subject-predicate.markdown > ds_file.text"
+> term_command <- paste0("grep -A1 ", file," > ds.txt")
+> system(term_command)
+  C-c C-c>   C-c C-c
+> system("ls")
+clean.R   console.tex	#console.text#	console.text~
+clean.R~  console.tex~	console.text	ds.txt
+> term_command <- paste0("grep -A1 **Check", file," > ds.txt")
+> system(term_command)
+  C-c C-c> term_command <- paste0("grep -A1 **Check ", file," > ds.txt")
+> system(term_command)
+> system("ls")
+clean.R   console.tex	#console.text#	console.text~
+clean.R~  console.tex~	console.text	ds.txt
+> txt <- readLines("ds.txt")
+> head(txt)
+[1] "**Checklist at the end of every example-claim sequence**: "                          
+[2] ""                                                                                    
+[3] "**Checklist**: yes; false; best; not-chapter; not-running; if  "                     
+[4] ""                                                                                    
+[5] "--"                                                                                  
+[6] "**Checklist**: yes; false; no; not-chapter; not-running; none; \"Empirically false\""
+>
+> 
+> txt[sample(1:dim(txt),100)]
+Error in 1:dim(txt) : argument of length 0
+> txt[sample(1:dim(txt),10)]
+Error in 1:dim(txt) : argument of length 0
+> txt[sample(1:length(txt),10)]
+ [1] "--"                                                                
+ [2] ""                                                                  
+ [3] "**Checklist**: yes; true; none; chapter; not-running; none "       
+ [4] "**Checklist**: not; neither; none; not-chapter; not-running; none;"
+ [5] "\"predicate unclear\" "                                            
+ [6] "--"                                                                
+ [7] "--"                                                                
+ [8] "--"                                                                
+ [9] "--"                                                                
+[10] "**Checklist**: yes; true; none; chapter; not-running; none;  "     
+> txt[sample(1:length(txt),100)]
+  [1] "**Checklist**: yes; true; most; not-chapter; not-running; none; \"testable\""    
+  [2] "**Checklist**: not-sure; true; none; not-chapter; not-running; none; \"belief\" "
+  [3] "--"                                                                              
+  [4] "if; \"missed if\" "                                                              
+  [5] "--"                                                                              
+  [6] ""                                                                                
+  [7] "**Checklist**: yes; true; none; not-chapter; not-running; none; \"testable\" "   
+  [8] "\"future of nothing\" "                                                          
+  [9] "--"                                                                              
+ [10] ""                                                                                
+ [11] "future of nothing\" "                                                            
+ [12] "--"                                                                              
+ [13] "--"                                                                              
+ [14] "--"                                                                              
+ [15] "**Checklist**: yes; true; none; not-chapter; not-running; none; \"simple\" "     
+ [16] "**Checklist**: yes; neither; best; not-chapter; not-running; none;"              
+ [17] ""                                                                                
+ [18] "--"                                                                              
+ [19] "**Checklist**: no; neither; none; not-chapter; not-running; none; \"the"         
+ [20] "\"claim about me but answered with others\" "                                    
+ [21] "--"                                                                              
+ [22] "\"future with something\"; \"failed?\" "                                         
+ [23] "none;  \"the future of nothing\""                                                
+ [24] "--"                                                                              
+ [25] "**Checklist**: no; neither; none; not-chapter; not-running; none;"               
+ [26] "**Checklist**: not-sure; neither; none; not-chapter; not-running;"               
+ [27] ""                                                                                
+ [28] "**Checklist**: yes; false; none; not-chapter; not-running; none; \"testable\" "  
+ [29] "**Checklist**: yes; True; most; chapter; not-running; none; \"Simple past\""     
+ [30] "--"                                                                              
+ [31] ""                                                                                
+ [32] "--"                                                                              
+ [33] "--"                                                                              
+ [34] "\"unsure of matching definition\" "                                              
+ [35] ""                                                                                
+ [36] "--"                                                                              
+ [37] ""                                                                                
+ [38] "**Checklist**: yes; true; none; chapter; not-running; none; "                    
+ [39] "--"                                                                              
+ [40] "--"                                                                              
+ [41] "**Checklist**: no; neither; none; not-chapter; not-running; none; \"no"          
+ [42] "none; \"should\""                                                                
+ [43] "**Checklist**: yes; true; none; not-chapter; not-running; none; \"testable\" "   
+ [44] "**Checklist**: yes; neither; none; not-chapter; not-running; none;"              
+ [45] "**Checklist**: yes; true; none; chapter; not-running; none "                     
+ [46] "--"                                                                              
+ [47] "**Checklist**: yes; true; none; chapter; not-running; none "                     
+ [48] "\"opposed to something\";  "                                                     
+ [49] ""                                                                                
+ [50] "--"                                                                              
+ [51] "--"                                                                              
+ [52] ""                                                                                
+ [53] ""                                                                                
+ [54] "--"                                                                              
+ [55] "--"                                                                              
+ [56] "**Checklist**: yes; false; none; not-chapter; not-running; none;"                
+ [57] "--"                                                                              
+ [58] "--"                                                                              
+ [59] "--"                                                                              
+ [60] ""                                                                                
+ [61] "\"X prefers A to B\" "                                                           
+ [62] "--"                                                                              
+ [63] "**Checklist**: yes; true; none; not-chapter; not-running; none; \"testable\" "   
+ [64] ""                                                                                
+ [65] "--"                                                                              
+ [66] "\"claim not accurate\" "                                                         
+ [67] ""                                                                                
+ [68] "**Definition**: Checks out."                                                     
+ [69] "**Checklist**: yes; false; always; not-chapter; not-running; none; \"testable\"" 
+ [70] "**Checklist**: yes; true; none; not-chapter; not-running; none ;"                
+ [71] "future of nothing\"; \"no examples\""                                            
+ [72] ""                                                                                
+ [73] "\"the future of nothing\" "                                                      
+ [74] ""                                                                                
+ [75] "--"                                                                              
+ [76] ""                                                                                
+ [77] "**Checklist**: yes; true; none; not-chapter; not-running; none;"                 
+ [78] "--"                                                                              
+ [79] "**Checklist**: yes; true; none; chapter; not-running; none;  "                   
+ [80] "**Definition**: Checks out!"                                                     
+ [81] ""                                                                                
+ [82] "--"                                                                              
+ [83] ""                                                                                
+ [84] "**Checklist**: yes; true; none; not-chapter; not-sure; none; \"testable\""       
+ [85] "--"                                                                              
+ [86] "subject and predicate\""                                                         
+ [87] "--"                                                                              
+ [88] "**Checklist**: yes; false; best; not-chapter; not-running; if  "                 
+ [89] ""                                                                                
+ [90] "**Checklist**: yes; neither; none; not-chapter; not-running; none "              
+ [91] "--"                                                                              
+ [92] "**Checklist**: yes; true; none; not-chapter; not-running; none;"                 
+ [93] "**Definition**: Checks out."                                                     
+ [94] "--"                                                                              
+ [95] "**Definition**: Checks out as another job that is dangerous."                    
+ [96] "**Checklist**: not sure; neither; none; not-chapter; not-running; none "         
+ [97] ""                                                                                
+ [98] "**Checklist**: yes; true; none; chapter; not-running; none "                     
+ [99] "--"                                                                              
+[100] ""                                                                                
+> 
