@@ -573,6 +573,333 @@ disagree? if so why? Everyone "could do" everything in theory, but
 when testing a claim, we want examples. This is very similar to people
 claiming "human civilization is at risk due to AI".
 
+## Chapter 3
+
+> This chapter identifies (3 different forms of Superintelligence)[1],
+> and argues that they are, (in a practically relevant sense,
+> equivalent)[2], practically relevant sense, equivalent. We also
+> show that the (potential for intelligence in a machine substrate)[2] is
+> vastly greater than (in a biological substrate)[4].
+
+**Claims**: [1] are [2].
+
+**Subject**: [1].
+
+**Predicate**: are [2].
+
+**Example**: ~~Superintelligence in any of these forms could, over
+time, develop the technology necessary to create any of the others.~~
+
+I don't have any examples for this other than a claim to support
+this. And I have no way of testing this "example claim" as well, as it
+has SI as subject, for which I have zero examples.
+
+**Definition**: -
+
+**Checklist**: yes; false; none; not-chapter; not-running; none  
+
+**Claims**: [3] is greater than [4].
+
+**Subject**: [3] compared to [4].
+
+**Predicate**: is greater.
+
+**Example**: ~~"Biological neurons operate at a peak speed of about 200
+Hz, a full seven orders of magnitude slower than a modern
+microprocessor (~ 2 GHz)"~~
+
+There are several more "advantages for digital intelligence", but I
+don't think it helps. Because, "potential" seems to be talking about
+the future, I don't think I can test it. Just like I can't test "I
+have the potential to become CEO one day". However I can test "Sundar
+Pichai" has the potential to become the CEO of Google".
+
+**Definition**: -
+
+**Checklist**: no; neither; none; not-chapter; not-running; none; "future with no ex" 
+
+> (Many machines and nonhuman animals)[1] already perform (at superhuman
+> levels)[2] in (narrow domains)[3]. Bats interpret sonar signals better than
+> man, calculators outperform us in arithmetic, and chess programs
+> beat us in chess.
+
+**Claims**: [1] already perform [2] in [3].
+
+**Subject**: What [1], does.
+
+**Predicate**: perform at [2] in [3].
+
+**Example**: "Google’s AI AlphaGo has done it again: it’s defeated Ke
+Jie, the world’s number one Go player, in the first game of a
+three-part match."
+
+**Definition**: I don't understand the definition "superhuman
+levels". If we assume it means way better than the average human, then
+yes the definition checks out.
+
+**Checklist**: yes; neither; none; not-chapter; not-running; none;
+"definition unclear" 
+
+### Speed Superintelligence
+
+> Because of this apparent time dilation of the material world, a
+> (speed superintelligence)[1] would prefer to (work with digital
+> objects)[2].
+
+**Claims**: [1] would prefer to [2].
+
+**Subject**: What [1] does.
+
+**Predicate**: would prefer to [2].
+
+**Example**: No example
+
+**Definition**: Also no idea how to test would prefer to
+
+**Checklist**: no; neither; none; not-chapter; not-running; none;
+"future with no ex"; "would prefer to"  
+
+> (The speed of light)[1] becomes an (increasingly important
+> constraint)[2] as (minds get faster)[3], since (faster minds face
+> greater opportunity costs in the use of their time for traveling or
+> communicating over long distances)[4]. Light is roughly a million
+> times faster than a jet plane, so it would take a digital agent with
+> a mental speedup of 1,000,000× about the same amount of subjective
+> time to travel across the globe as it does a contemporary human
+> journeyer. Dialing somebody long distance would take as long as
+> getting there “in person,” though it would be cheaper as a call
+> wouldrequire less bandwidth.
+
+*I don't understand what they are trying to say here with this
+paragraph. Why would it take a digital agent with a mental speedup of
+one millx, about the same amount of "subjective time" to travel across
+the globe as it does a contemporary human journeyer. What is
+subjective time even mean?*
+
+**Claims**: [1] becomes [2] as [3], ~~since [4].~~
+
+**Subject**: [1] as [3].
+
+**Predicate**: becomes [2]. 
+
+**Example**: No examples here.
+
+**Definition**: -
+
+**Checklist**: yes; neither; none; not-chapter; not-running; none; "no
+examples"; '
+
+### Collective Superintelligence
+
+> (Collective intelligence)[1] excels at (solving problems that can be
+> readily broken into parts)[2] such that (solutions to sub-problems
+> can be pursued in parallel and verified independently)[3]. Tasks
+> like building a space shuttle or operating a hamburger franchise
+> offer myriad opportunities for division of labor: different
+> engineers work on different components of the spacecraft; different
+> staffs operate different restaurants.
+
+**Claims**: [1] excels at [2] such that [3].
+
+**Subject**: What [1] does.
+
+**Predicate**: excels at [2] such that [3].
+
+**Example**: People working together on building a space shuttle at
+say NASA.
+
+**Definition**: Does it excel though? compared to what? *Not sure if
+the claim is not testable or if the definition is unclear or I am
+supposed to assume something to compare it with.*
+
+**Checklist**: yes; neither; none; not-chapter; not-running; none; "A
+excels at B"; "failed"  
+
+> Collective superintelligence could be either loosely or tightly
+> integrated.  To illustrate a case of loosely integrated collective
+> superintelligence, imagine a planet, MegaEarth, which has the same
+> level of communication and coordination technologies that we
+> currently have on the real Earth but with a population one million
+> times as large. With such a huge population, the total intellectual
+> work- force on MegaEarth would be correspondingly larger than on our
+> planet. Suppose that a scientific genius of the caliber of a Newton
+> or an Einstein arises at least once for every 10 billion people:
+> then on MegaEarth there would be 700,000 such geniuses living
+> contemporaneously, alongside proportionally vast multitudes of
+> slightly lesser talents. (New ideas and technologies)[1] would be
+> developed at (a furious pace)[2], and (global civilization on
+> MegaEarth)[3] would constitute (a loosely integrated collective
+> superintelligence.)[4]
+
+**Claims**: [1] would be developed at [2] and [3] would constitute
+[4].
+
+**Subject**: What [1] would develop at
+
+**Predicate**: [2].
+
+**Example**: *Would be*
+
+**Definition**: -
+
+**Checklist**: no; neither; none; not-chapter; not-running; none; "would be"; "future with no ex"  
+
+**Claims**: [3] would constitute [4].
+
+**Subject**: What [3] would.
+
+**Predicate**: constitute [4].
+
+**Example**: "would"
+
+**Definition**: Not sure if I have an example I would be able to test
+if it constitute [4]. I don't think I know what [4] could look like. I
+have a feeling.
+
+**Checklist**: yes; false; none; not-chapter; not-running; none;
+"future with no ex"; "would"; "definition unclear";"failed" 
+
+### Quality Superintelligence
+
+> (Such examples)[0] show that (normal human adults)[1] have a range of
+> (remarkable cognitive talents)[2] that are not (simply a function of
+> possessing a sufficient amount of general neural processing power)[3] or
+> (even a sufficient amount of general intelligence: specialized
+> neural circuitry is also needed.)[4]
+
+*This one I read a few times, and had no idea wtf NB is talking
+about. NB is making me furious in many cases, just by not providing
+examples and hanging on to abstract bullshit. Such a bastard he
+is. How does he expect people to read this shit? especially if they
+don't have a background on this and worst of all, he seems to have
+extensively used the thesaurus to sound cool. So many words I had to
+look up. Why not write it like Harry Potter? huh? why not? eugenics,
+affliction, adduced, intractable, circumscribed, "dogs walking on hind
+legs, docility"*
+
+
+**Claims**: [0] shows that [1] have a range of [2] that are not [3]
+
+**Subject**: [1].
+
+**Predicate**: have range of [2] that are not [3].
+
+**Example**: *People with autism spectrum disorders who may have
+striking deficits in "social cognition" while function well in other
+"cognitive domains"*
+
+This above is hardly an example. Let's consider [this](https://youtu.be/zNGjdYY7WVE?t=142), where we
+see a guy with autism making highly detailed drawings of scenery, for
+an actual example to test the predicate on.
+
+**Definition**: *how are these "examples" even talking about normal
+human adults?*. *For sure the example doesn't seem to hint at giving
+any information on [3]. I probably have to go deep into the subject to
+test this example.*
+
+**Checklist**: yes; false; none; not-chapter; not-running; none; "no
+example in chapter"; 
+
+**Claims**: [1] have a range of [2] that are not [4].
+
+ditto!
+
+*He just loves to use labels after labels* *Sufficient?* *How do I
+determine that?*
+
+### Direct and indirect reach
+
+> (Superintelligence in any of these forms)[1] could, over time,
+> develop (the technology necessary to create any of the
+> others)[2]. The (indirect reaches of these three forms of
+> superintelligence)[3] are therefore (equal)[4]. In that sense, the
+> (indirect reach of current human intelligence)[5] is also in the same
+> equivalence class, under the supposition that we are able eventually
+> to create some form of superintelligence.
+
+**Claims**: [1] could over time develop [2].
+
+**Subject**: [1] over time.
+
+**Predicate**: could develop [2].
+
+**Example**: *Could*. Also *I have no example for [1].*
+
+**Definition**: -
+
+**Checklist**: no; neither; none; not-chapter; not-running; none;
+"future with no ex"; "could"
+
+**Claims**: [3] are all equal.
+
+**Subject**: [3].
+
+**Predicate**: are all equal.
+
+**Example**: *No example for subject*
+
+**Definition**: - 
+
+**Checklist**: no; neither; none; not-chapter; not-running; none;
+"No example"; 
+
+**Claims**: [5] also same as [3].
+
+**Subject**: [5].
+
+**Predicate**: also same as [3]. 
+
+**Example**: no example
+
+**Definition**: don't understand the predicate either.
+
+**Checklist**: no; neither; none; not-chapter; not-running; none; "no
+ex"
+
+> And one can speculate that the (tardiness and wobbliness of
+> humanity’s progress)[1] on (many of the “eternal problems” of philosophy)[2]
+> are due to the (unsuitability of the human cortex for philosophical
+> work.)[3]
+
+**Claims**: [1] on [2] are due to [3].
+
+**Subject**: [1] on [2]. 
+
+**Predicate**: are due to [3].
+
+**Example**: *because* + *no example*
+
+**Definition**: 
+
+**Checklist**: no; neither; none; not-chapter; not-running; none; "no example"
+
+### Sources of advantage for digital intelligence
+
+> Minor changes in (brain volume)[1] and (wiring)[2] can have (major
+> consequences)[3].
+
+**Claims**: Minor changes in [1] and [2] can have [3].
+
+**Subject**: Minor changes in [1] and [2]. 
+
+**Predicate**: can have [3].
+
+**Example**: ~~"intellectual and technological achievements of humans
+with those of other apes"~~ The scratched part is not an example.
+
+**Definition**: -
+
+**Checklist**: yes; false; none; not-chapter; not-running; none;
+"hard"; "causation type?"; "failed"
+
+
+## Data science stuff
+
+### Attempt 1 
+
+- what jblevins said... look at something and identify where you suck
+
+
 ## Notes
 
 - I feel that I am not taking too seriously every single sentence,
@@ -591,6 +918,22 @@ claiming "human civilization is at risk due to AI".
 | 2.3     | 21   | 2       | 0    |        | (8)   | 10       |           |
 | 2.4     | 20   |         | 1    |        | 4     |          | 6.25      |
 | 2.5     | 15   |         | 1    |        | 3     | 5        |           |
-| 2.4 2.5 | 20   |         |  2    |        |       | 4         |           |
+| 2.4 2.5 | 20   |         | 2    |        |       | 4        |           |
+| 3       | 27   |         |      |        | 5     |          | 5.4       |
+| 3       | 60   |         | 13   |        | 6     |          | 10        |
+| 3       | 159  | 34      | 9    |        |       | 4.67     |           |
 
 	
+do excercise
+## todo
+
+- stm reply ages back on less wrong!
+- work on failures
+- which content to work on? the book or jblevins stuff?
+
+- **identify failures from previous post and check if we failed?**
+
+Identify patterns and inform failure! Make simple statistic on number
+of failures over 133 claims.. type of failures and claims.
+
+

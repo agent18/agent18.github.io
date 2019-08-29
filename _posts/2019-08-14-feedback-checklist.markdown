@@ -138,3 +138,55 @@ Based on the feedback from an STM documented [here](/DP-feedback-key-ideas.html)
 - reclassify running and not-true items?
 - rewrite a summary of lessons learnt
 - along with the different scenarios.
+
+## Recognized patterns of failure only
+
+|     | 1st degree                 | 2nd degree | ex                       |   |   |
+|-----|----------------------------|------------|--------------------------|---|---|
+| 1.  | self-claim with 0 ex       | failed     | I hate kids ex           |   |   |
+| 2.  | future with no ex          | unsure     | human stake  AI          |   |   |
+| 3.  | (because should due to)    | time       | crime does not pay       |   |   |
+|     | must                       |            |                          |   |   |
+|     | often                      |            |                          |   |   |
+| 4.  |                            | sub-pre-ex |                          |   |   |
+|     | ex matching subject        |            |                          |   |   |
+| 6.  | ex matching definition     | -          |                          |   |   |
+|     | definition unclear         |            | marriage social construc | t |   |
+| 7.  | sub-pre-split              |            | it intellectual debate   |   |   |
+| 8.  | unsure-if-is-example       |            | Solving AI problem       |   |   |
+|     | unsure-if-has-example      |            | I am opposed to marriage |   |   |
+|     |                            |            |                          |   |   |
+|     |                            |            |                          |   |   |
+|     |                            | Patterns   |                          |   |   |
+| 10. | A is important             |            |                          |   |   |
+| 11. | X prefers A to B           |            |                          |   |   |
+| 11. | missed the comparison      |            |                          |   |   |
+| 12. | missed if                  |            | if better thing choose B |   |   |
+|     | belief                     |            | A is common sense        |   |   |
+|     | A is not the answer        |            |                          |   |   |
+|     | cannot identify if running |            |                          |   |   |
+
+
+All am going to do is mark the example and export and take count using
+some graphics tool like calc.
+
+## omitted patterns
+
+1. self-subjects 0 examples   
+
+2. future with no ex
+
+3. 
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+

@@ -6,7 +6,7 @@ date:    03-08-2019
 categories: posts
 tags: DP, feedback, examples
 permalink: /:title.html
-published: True
+published: false
 ---
 ## Goal
 
@@ -38,7 +38,6 @@ on the most important problems." (consider if you need to compare)
 have curly hair, here are the batsmen we found: Sachin Tendulkar"
 (consider the given type statements)
 
-
 **Checklist at the end of every example-claim sequence**: 
 
 **Checklist**: yes; false; best; not-chapter; not-running; if  
@@ -68,7 +67,7 @@ as well as a typical human – being created by 2050, and a greater than
 **Definition**: Doesn't check out as survey says there was less than
 100% of people who were in favor the claim.
 
-**Checklist**: yes; false; no; not-chapter; not-running; none; "Empirically false"
+**Checklist**: yes; false; no; not-chapter; not-running; none;
 
 ---
 
@@ -82,7 +81,8 @@ as well as a typical human – being created by 2050, and a greater than
 
 **Definition**: I don't know what the predicate label is trying to say.
 
-**Checklist**: not-sure; neither; none; chapter; not-running; none; "The cryptic predicate"
+**Checklist**: not-sure; neither; none; chapter; not-running; none;
+*unsure-if-it-has-example*; *definition-unclear* ; *time*; *failed*;
 
 ---
 
@@ -96,7 +96,8 @@ as well as a typical human – being created by 2050, and a greater than
 
 **Definition**: N/A 
 
-**Checklist**: No; neither; none; not-chapter; not-running; none; "The future of nothing"
+**Checklist**: no; neither; none; not-chapter; not-running; none;
+*future-with-no-ex*; 
 
 --- 
 
@@ -117,7 +118,7 @@ until 1800 A.D. This includes the time of agricultural revolution. In
 **Definition Checking**: Seems to be on the MOST profound shifts in
 human history.
 
-**Checklist**: yes; True; most; chapter; not-running; none; "Simple past"
+**Checklist**: yes; True; most; chapter; not-running; none; *testable* 
 
 ---
 
@@ -149,7 +150,8 @@ discussed. Further more the article cited doesn't seem to all be
 signed by experts, but people with designations ranging from student,
 dishwasher to CEO of Ethics lab etc...
 
-**Checklist**: yes; false; none; chapter; not-running; none; "testable"
+**Checklist**: yes; false; none; chapter; not-running; none;
+*testable* 
 
 ---
 	
@@ -177,7 +179,8 @@ country."
 **Definition**: Doesn't look like [1] challenged [2] about what he
 said in [2a]. [1] was merely stating what she thought Joe Biden did.
 
-**Checklist**: yes; false; none; chapter; not-sure-running; none; "testable"
+**Checklist**: yes; false; none; chapter; not-sure-running; none;
+"testable"; *cannot-identify-if-running*; *failed* 
 
 ---
  
@@ -200,7 +203,7 @@ filled with great emotion and is also an "assessment".
 
 <!-- An Analysis or assessment of something -->
 
-**Checklist**: yes; true; none; chapter; running; none; "confusing predicate"
+**Checklist**: yes; true; none; chapter; running; none;
 
 ---
 
@@ -244,7 +247,8 @@ to the applause of the people, at which the moderators just stopped.
 
 **Definition**: Example matches the definition. 
 
-**Checklist**: yes; true; none; not-chapter; not-running; none; "testable"; 7
+**Checklist**: yes; true; none; not-chapter; not-running; none;
+*testable* 
 
 --- 
 
@@ -269,7 +273,7 @@ civilization..."--- [Wiki](https://en.wikipedia.org/wiki/James_Eastland)
 
 **Definition**: It appears that Eastland was supporting [4].
 
-**Checklist**: yes; true; none; not-chapter; not-running; none; "many claims in one sentence": "testable"
+**Checklist**: yes; true; none; not-chapter; not-running; none; "testable"
 
 ---
 
@@ -287,7 +291,7 @@ country."
 
 **Definition**: Looks like the example matches the definition.
 
-**Checklist**: yes; true; none; chapter; running; none; "many claims in one": "testable"
+**Checklist**: yes; true; none; chapter; running; none; *testable* 
 
 ---
 
@@ -306,7 +310,7 @@ public schools". I think Biden was against busing that CLAIMED to
 desegregate public schools. So I think the claim is false as it
 doesn't match the definition of [6].
 
-**Checklist**: yes; false; none; not-chapter; not-sure; none; "many claims in one": "testable"
+**Checklist**: yes; false; none; not-chapter; not-sure; none; *testable*
 
 ---
 
@@ -321,7 +325,7 @@ were wrong to oppose busing in America then?", said Kamala.
 
 **Definition**: It appears that the claim is true.
 
-**Checklist**: yes; true; none; chapter; not-sure; none; "many claims in one sentence": "testable":11
+**Checklist**: yes; true; none; chapter; not-sure; none; *testable* 
 
 --- 
 
@@ -348,7 +352,8 @@ the press pool report. “He never called me ‘boy’, he always called me
 
 **Definition**: Claim is true, Biden did talk about two US senators.
 
-**Checklist**: yes; true; none; not-chapter; not-sure; none; "testable"
+**Checklist**: yes; true; none; not-chapter; not-sure; none;
+*testable* 
 
 ---
 
@@ -365,8 +370,7 @@ must be kept separate by law." ---[wiki](https://en.wikipedia.org/wiki/James_Eas
 **Definition**: I do not know how to procure a good example so I can
 check against [2].
 
-**Checklist**: yes; neither; none; not-chapter; not-sure; none; "fat
-claims"; 13
+**Checklist**: yes; neither; none; not-chapter; not-sure; none;
 
 ---
 
@@ -386,7 +390,8 @@ department from taking part in pro-busing litigation". --- [Source](https://www.
 
 **Definition**: The example matches the definition.
 
-**Checklist**: yes; true; none; not-chapter; not-running; none; "testable"
+**Checklist**: yes; true; none; not-chapter; not-running; none;
+*testable* 
 
 ---
 
@@ -408,7 +413,7 @@ department from taking part in pro-busing litigation". --- [Source](https://www.
 have an example.*
 
 **Checklist**: yes; neither; none; not-chapter; not-running; none;
-"confusing predicate"
+*subject-predicate-split*; *time*; *failed* 
 
 ---
 
@@ -431,8 +436,7 @@ the debate to see if he was being given the chance to respond or if he
 interjected).
 
 **Checklist**: yes; neither; none; not-chapter; not-running; given;
-"testable" 16
-
+*testable* 
 
 ---
 
@@ -457,7 +461,7 @@ on much of anything. We got things done. We got it finished". This
 doesn't look like Biden was praising the two US senators, characterized
 as racists.
 
-**Checklist**: yes; false; none; chapter; not-sure; none;  "testable"
+**Checklist**: yes; false; none; chapter; not-sure; none; *testable* 
 
 ---
 
@@ -473,7 +477,8 @@ got it finished"
 
 **Definition**: Example does seem to match the definition.
 
-**Checklist**: yes; true; none; not-chapter; not-sure; none; "testable"
+**Checklist**: yes; true; none; not-chapter; not-sure; none;
+*testable* 
 
 --- 
 
@@ -507,7 +512,8 @@ entirety. He seems to be opposed to a particular type of busing. I
 guess that's what he meant by saying "he is not opposed to busing in
 America".
 
-**Checklist**: yes; false; none; not-chapter; not-running; none; "testable"
+**Checklist**: yes; false; none; not-chapter; not-running; none;
+*testable* 
 
 ---
 
@@ -523,10 +529,10 @@ department from taking part in pro-busing litigation". --- [Source](https://www.
 
 **Definition**: It seems that the example matches the definition.
 
-**Checklist**: yes; true; none; not-chapter; not-running; none; "testable" 
+**Checklist**: yes; true; none; not-chapter; not-running; none;
+*testable* 
 
 ---
-
 
 > Harris noted that (many local jurisdictions)[2] — including in
 > Berkeley, where she attended public schools — failed to (quickly
@@ -545,7 +551,8 @@ after the brown ruling.
 
 **Definition**: The example matches the definition.
 
-**Checklist**: yes; true; many; not-chapter; not-running; none ; "testable"
+**Checklist**: yes; true; many; not-chapter; not-running; none;
+*testable* 
 
 ---
 
@@ -563,7 +570,8 @@ segregated schools are otherwise equal in quality." -[WIKI](https://en.wikipedia
 
 **Definition**: checks out.
 
-**Checklist**: yes; true; none; not-chapter; not-running; none; "testable" 
+**Checklist**: yes; true; none; not-chapter; not-running; none;
+*testable* 
 
 ---
 
@@ -584,7 +592,8 @@ following September."- [Source](https://www.berkeleyschools.net/2018/12/50th-ann
 **Definition**: Does not check out. 1954 to Jan 1968 is fourteen
 years, NOT NEARLY TWO DECADES.
 
-**Checklist**: yes; false; none; not-chapter; not-running; none; "testable" 
+**Checklist**: yes; false; none; not-chapter; not-running; none;
+*testable* 
 
 ---
 
@@ -609,7 +618,8 @@ cast their vote as the Whites did.
 
 **Definition**: Checks out.
 
-**Checklist**: yes; true; none; not-chapter; not-running; none; "testable" 
+**Checklist**: yes; true; none; not-chapter; not-running; none;
+*testable* 
 
 ---
 
@@ -630,7 +640,7 @@ led to an increase in voting of black people in [Mississippi from
 state.
 
 **Checklist**: yes; true; none; not-chapter; not-running; none;
-"future with example" 
+*because-should-due-to*; *unsure*; *crime-should-does-not-pay*; *time*
 
 ---
 
@@ -654,7 +664,8 @@ the disfranchisement of racial minorities.
 
 **Definition**: Checks out!
 
-**Checklist**: yes; true; none; not-chapter; not-running; none; "testable" 
+**Checklist**: yes; true; none; not-chapter; not-running; none;
+*testable* 
 
 ---
 
@@ -695,7 +706,7 @@ the disfranchisement of racial minorities.
 unable to give example and compare, as a result.*
 
 **Checklist**: not-sure; neither; none; not-chapter; not-running;
-none; "vague predicate"
+none; *definition-unclear*; *unsure-if-has-example*; *failed*  
 
 ---
 
@@ -711,7 +722,8 @@ men in my family are pushed to get married (including me).
 **Definition**: It looks like example checks out against the
 definition.
 
-**Checklist**: yes; true; none; not-chapter; not-running; none; "simple" 
+**Checklist**: yes; true; none; not-chapter; not-running; none;
+*testable* 
 
 ---
 	
@@ -726,7 +738,8 @@ was 40. His Kids now are nine or ten (he is 50 now).
 
 **Definition**: Checks out!
 
-**Checklist**: yes; true; none; not-chapter; not-running; none; "simple" 
+**Checklist**: yes; true; none; not-chapter; not-running; none;
+*testable* 
 
 ---
 
@@ -741,7 +754,7 @@ have kids. He is greater than 40 years of age and has no kids now.
 
 **Definition**: Checks out.
 
-**Checklist**: yes; true; none; not-chapter; not-running; none; "testable" 
+**Checklist**: yes; true; none; not-chapter; not-running; none; *testable* 
 
 ---
 
@@ -763,8 +776,8 @@ aka "I am not going to marry ever".
 
 **Definition**: -
 
-**Checklist**: NO; false; none; not-chapter; not-running; none; "The
-future with nothing" 
+**Checklist**: no; false; none; not-chapter; not-running; none;
+*future-with-no-ex*;  
 
 ---
 
@@ -786,8 +799,8 @@ and that I need to spend more effort on it to improve.
 
 *Don't know if I did CT right here*
 
-**Checklist**: yes; true; none; not-chapter; not-running; none;
-"unsure of matching definition" 
+**Checklist**: yes; true; none; not-chapter; not-running;
+none; *a-is-important*; *failed*  
 
 ---
 
@@ -804,7 +817,10 @@ Vishwanath Anand are all married.
 in their fields. Example doesn't match the definition.
 
 **Checklist**: yes; false; none; not-chapter; not-running; none;
-"claim about me but answered with others" 
+*missed-comparison*; *failed* 
+
+*Here I should have compared for example what Eliezer is and would have
+been if he was not married or sumpin in that context.*
 
 ---
 
@@ -818,8 +834,8 @@ in their fields. Example doesn't match the definition.
 
 **Definition**: Checks out.
 
-**Checklist**: yes; true; none; not-chapter; not-running; none; "It is
-important to do X"; "failed?"
+**Checklist**: yes; true; none; not-chapter; not-running; none;
+*a-is-important*; *unsure* 
 
 ---
 
@@ -835,8 +851,8 @@ or data science, roughly three hours a day after my nine to five job
 
 **Definition**: Checks out.
 
-**Checklist**: yes; true; none; not-chapter; not-running; none; "It is
-important to do X"; "failed?"
+**Checklist**: yes; true; none; not-chapter; not-running; none;
+*a-is-important*; *unsure* 
 
 ---
 
@@ -853,7 +869,7 @@ opportunities to go to the US. I have heard stories about it. Looks
 like example doesn't match the definition.
 
 **Checklist**: yes; false; none; not-chapter; not-running; none;
-"future with something"; "failed?" 
+*matching-definition*; *unsure*; *time*  
 
 ---
 
@@ -882,7 +898,7 @@ flight fare and other costs.)
 **Definition**: Doesn't check out.
 
 **Checklist**: yes; false; none; not-chapter; not-running; none;
-"testable": 1 
+*testable*  
 
 ---
 
@@ -898,7 +914,7 @@ on two trips every year to a foreign country. Great.
 **Definition**: Checks out.
 
 **Checklist**: yes; true; none; not-chapter; not-running; none;
-"subject not right"; testable; 2
+*testable* 
 
 ---
 
@@ -913,8 +929,8 @@ atleast one kid.
 
 **Definition**: checks out!
 
-**Checklist**: yes; true; none; not-chapter; not-running; none ;
-"subject not right"; 3
+**Checklist**: yes; true; none; not-chapter; not-running; none;
+; *failed* 
 
 ---
 
@@ -931,7 +947,7 @@ young though, wanted to interact with him all the time.
 **Definition**: Checks out.
 
 **Checklist**: yes; true; none; not-chapter; not-running; none;
-"failed to give example even"; 4 
+*subject-example*; *unsure*  
 
 ---
 
@@ -947,7 +963,8 @@ this.
 
 **Definition**: checks out!
 
-**Checklist**: yes; true; none; not-chapter; not-running; none; "testable" 
+**Checklist**: yes; true; none; not-chapter; not-running; none;
+*testable* 
 
 ---
 
@@ -962,7 +979,8 @@ India this time.
 
 **Definition**: I do listen to them sometimes. So claim is not true.
 	
-**Checklist**: yes; false; always; not-chapter; not-running; none; "testable"
+**Checklist**: yes; false; always; not-chapter; not-running; none;
+*testable* 
 	
 ---
 
@@ -977,7 +995,8 @@ India this time.
 
 **Definition**: Claim seems to not check out.
 
-**Checklist**: yes; false; none; not-chapter; not-running; none; "testable"
+**Checklist**: yes; false; none; not-chapter; not-running; none;
+*testable* 
 
 ---
 
@@ -994,7 +1013,7 @@ label "worth for parents". I don't understand what it could stand for.*
 **Definition**: -
 
 **Checklist**: yes; neither; none; not-chapter; not-running; none;
-"lack of meaning for predicate"
+*self-claim-with-0-ex*; *failed* 
 
 ---
 
@@ -1009,7 +1028,7 @@ label "worth for parents". I don't understand what it could stand for.*
 **Definition**: -
 
 **Checklist**: no; neither; none; not-chapter; not-running; none;
-"future of nothing" 
+*future-with-no-ex*; 
 
 ---
 
@@ -1046,7 +1065,8 @@ because of most)
 
 **Definition**: Checks out. I would love to raise a kid like in that movie.
 
-**Checklist**: yes; true; none; not-chapter; not-running; none; "testable" 
+**Checklist**: yes; true; none; not-chapter; not-running; none;
+*testable* 
 
 ---
 
@@ -1061,7 +1081,8 @@ around his kid aka, washing cleaning up after etc...
 
 **Definition**: checks out.
 
-**Checklist**: yes; true; none; not-chapter; not-running; none; "testable"   
+**Checklist**: yes; true; none; not-chapter; not-running; none;
+*testable*    
 
 ---
 
@@ -1080,7 +1101,7 @@ with their kid even :().
 
 **Definition**: checks out.
 
-**Checklist**: yes; true; none; not-chapter; running; none; "testable" 
+**Checklist**: yes; true; none; not-chapter; running; none; *testable* 
 
 ---
 
@@ -1094,7 +1115,8 @@ with their kid even :().
 
 **Definition**: checks out according to [this](https://80000hours.org/problem-profiles/) atleast.
 
-**Checklist**: yes; true; none; not-chapter; not-running; none; "important" 
+**Checklist**: yes; true; none; not-chapter; not-running; none;
+*a-is-important*; 
 
 ---
 
@@ -1109,7 +1131,7 @@ with their kid even :().
 **Definition**: -
 
 **Checklist**: yes; neither; none; not-chapter; not-running; none;
-"when there is X, Y is unnecessary": Failed? 
+*because-should-due-to*; *failed*; *self-claim-with-0-ex*; *failed*  
 
 ---
 
@@ -1136,7 +1158,8 @@ subsequent year.
 
 **Definition**: Empirically false. I quoted quite high.
 
-**Checklist**: yes; false; none; not-chapter; not-running; none; "testable" 
+**Checklist**: yes; false; none; not-chapter; not-running; none;
+*testable*  
 
 ---
 
@@ -1152,7 +1175,8 @@ is the case with all my cousins.
 
 **Definition**: checks out!
 
-**Checklist**: yes; true; none; not-chapter; not-running; none ; "testable"
+**Checklist**: yes; true; none; not-chapter; not-running; none ;
+*self-claim-with-0-ex*; *failed* 
 
 *I spent quite some time, wondering why I hated kids so much. Not one
 repulsive example came to my mind*
@@ -1169,8 +1193,8 @@ repulsive example came to my mind*
 
 **Definition**: -
 
-**Checklist**: no; neither; none; not-chapter; not-running; none; "no
-interest in future things" 
+**Checklist**: no; neither; none; not-chapter; not-running; none;
+*unsure-if-has-example*; *failed*; *self-claim-with-0-ex*; *failed*  
 
 ---
 
@@ -1184,8 +1208,8 @@ interest in future things"
 
 **Definition**: - 
 
-**Checklist**: no; neither; none; not-chapter; not-running; none; "No
-idea I can give example" 
+**Checklist**: no; neither; none; not-chapter; not-running; none;
+*definition-unclear*; *failed* 
 
 ---
 
@@ -1200,7 +1224,6 @@ idea I can give example"
 **Definition**: checks out!
 
 **Checklist**: yes; true; none; not-chapter; not-running; none;
-"opposed to something";  
 
 ---
 
@@ -1215,8 +1238,8 @@ an example*
 
 **Definition**: 
 
-**Checklist**: not-sure; neither; none; not-chapter; not-running;
-none; "how to give example?"; "opposed to A such-that/so-that B";
+**Checklist**: not-sure; neither; none; not-chapter; not-running; if; 
+*missed-comparison*; *failed* 
 
 ---
 
@@ -1236,7 +1259,9 @@ one.*
 **Definition**: -
 
 **Checklist**: yes; neither; none; not-chapter; not-running; none;
-"missed If"; "unable to get example"
+*missed-if*; *failed*;  *self-claim-with-0-ex*; *failed* 
+
+*missed if mis-interpreting because*
 
 ---
 
@@ -1260,7 +1285,7 @@ at 35.
 **Definition**: - 
 
 **Checklist**: yes; neither; none; not-chapter; not-running; none;
-"X prefers A to B"; "fat claim" 
+*self-claim-with-0-ex*; *failed*;  
 
 ---
 
@@ -1293,7 +1318,7 @@ gets a job) is 7.25 <span>$</span>.
 *Hard to establish causality of [1] meaning [2].*
 
 **Checklist**: yes; neither; none; not-chapter; not-running; none;
-"not sure"; "maybe this has an example"
+*because-should-due-to*; *failed*  
 
 ---
 
@@ -1308,7 +1333,7 @@ gets a job) is 7.25 <span>$</span>.
 
 **Definition**: checks out!
 
-**Checklist**: yes; true; none; chapter; not-running; none;
+**Checklist**: yes; true; none; chapter; not-running; none; *testable* 
 
 ---
  
@@ -1334,7 +1359,7 @@ enslaved person is a human being who is made to be a slave.---
 According to the above definition it appears that prisoners are
 slaves.
 
-**Checklist**: yes; true; none; chapter; not-running; none; 
+**Checklist**: yes; true; none; chapter; not-running; none; *testable* 
 
 ---
  
@@ -1356,8 +1381,8 @@ something has already gone very wrong.
 
 **Definition**: Checks out under the assumption that slavery is bad.
 
-**Checklist**: yes; true; none; chapter; not-running; if; "then how to
-give example"
+**Checklist**: yes; true; none; chapter; not-running; if;
+*because-should-due-to*; *unsure*;
 
 ---
  
@@ -1375,7 +1400,8 @@ except as a punishment for a crime.
 
 **Definition**:  Checks out!
 
-**Checklist**: yes; true; none; chapter; not-running; none;  
+**Checklist**: yes; true; none; chapter; not-running; none;
+*testable* 
 
 ---
 
@@ -1393,8 +1419,7 @@ except as a punishment for a crime.
 **Definition**: -
 
 **Checklist**: not-sure; neither; none; not-chapter; not-running;
-none; "failed in giving example"; "didn't follow subject and predicate
-style"
+none; *definition-unclear*; *failed*   
 
 ---
 
@@ -1412,7 +1437,7 @@ crime pays!"
 
 **Definition**: Checks out. 
 
-**Checklist**: yes; true; none; chapter; not-running; none 
+**Checklist**: yes; true; none; chapter; not-running; none; *testable*  
 
 ---
 
@@ -1428,7 +1453,8 @@ crime pays!"
 
 **Definition**: checks out I think!
 
-**Checklist**: not-sure; true; none; not-chapter; not-running; none; "belief" 
+**Checklist**: not-sure; true; none; not-chapter; not-running; none;
+*belief*; *failed*; 
 
 ---
 
@@ -1444,14 +1470,15 @@ common sense and if you actually give examples for this*
 **Definition**: -
 
 **Checklist**: not-sure; neither; none; not-chapter; not-running;
-none; "should"
+none; *because-should-due-to*
 
 ---
 
 **Claims**: crime does not pay
 
 **Checklist**: yes; false; none; not-chapter; not-running; none;
-"subject hidden"; 
+*unsure-if-it-has-example*; *failed*; *example-matching-definition*;
+*failed* 
 
 ---
 
@@ -1468,7 +1495,7 @@ even fire fighting jobs.
 
 **Definition**: Checks out.
 
-**Checklist**: yes; true; none; chapter; not-running; none; "testable" 
+**Checklist**: yes; true; none; chapter; not-running; none; *testable* 
 
 ---
 
@@ -1485,7 +1512,8 @@ save lives"
 
 **Definition**: Checks out atleast for one prisoner who does firefighting.
 
-**Checklist**: yes; true; none; chapter; not-running; "problem with definition"
+**Checklist**: yes; true; none; chapter; not-running;
+*definition-unclear*; 
 
 ---
 
@@ -1504,7 +1532,7 @@ life.
 minute even. False.
 
 **Checklist**: yes; false; none; not-chapter; not-running; none;
-"no idea how to give examples for MUST" 
+*must*; *failed* 
 
 ---
 
@@ -1517,12 +1545,13 @@ minute even. False.
 
 **Predicate**: seems to be [2].
 
-**Example**: *I don't have examples comparing different works.*
+**Example**: *there is a dearth of examples.*
 
 **Definition**: -
 
 **Checklist**: yes; neither; best; not-chapter; not-running; none;
-"unable to get example" 
+*testable* 
+
 
 ---
 
@@ -1541,7 +1570,8 @@ becoming licensed emergency responders.
 **Definition**: checks out. People who put out California fires can't
 do it once they are released.
 
-**Checklist**: yes; true; often; chapter; not-running; none; "often" 
+**Checklist**: yes; true; often; chapter; not-running; none; *often*;
+*failed* 
 
 --- 
 
@@ -1562,8 +1592,8 @@ can earn 100s in while participating in the rodeo.~~
 
 **Definition**: Checks out as another job that is dangerous.
 
-**Checklist**: yes; true; none; chapter; not-running; none; "bad
-subject and predicate"
+**Checklist**: yes; true; none; chapter; not-running; none;
+*subject-predicate-split*; *failed* 
 
 ---
 
@@ -1578,7 +1608,8 @@ Texas working for 0 <span>$</span>.
 
 **Definition**: checks out.
 
-**Checklist**: yes; true; none; not-chapter; not-running; none 
+**Checklist**: yes; true; none; not-chapter; not-running; none;
+*testable* 
 
 ---
 
@@ -1598,7 +1629,7 @@ said. “Well, they’re going to let them out"---[source](https://www.nytimes.c
 
 **Definition**: Checks out!
 
-**Checklist**: yes; true; none; chapter; not-running; none; "this vs that" 
+**Checklist**: yes; true; none; chapter; not-running; none; *testable* 
 
 ---
 
@@ -1611,12 +1642,12 @@ said. “Well, they’re going to let them out"---[source](https://www.nytimes.c
 cells all day.
 
 **Example**: ~~The Firefighter prisoners in the [video](https://www.youtube.com/watch?v=AjqaNQ018z) found
-working "rewarding".~~ *I don't have any examples for this*
+working "rewarding".~~ *There are not any examples for this*
 
 **Definition**: -
 
 **Checklist**: yes; neither; none; not-chapter; not-running; none;
-"X prefers A to B" 
+*X-prefers-A-to-B*; *time*;  *testable*  
 
 ---
 
@@ -1625,7 +1656,7 @@ working "rewarding".~~ *I don't have any examples for this*
 **Subject**: Getting rid of prison labor
 
 **Predicate**: is not the answer here (for the exploiting of prisoners
-for low wages aka slavery)
+	for low wages aka slavery)
 
 **Example**: *I need to show either that getting rid of prison labor
 stops slavery, or that it doesn't, for which there might be examples,
@@ -1634,7 +1665,7 @@ but will be very hard to find.*
 **Definition**: -
 
 **Checklist**: not-sure; neither; none; not-chapter; not-running;
-none;  "the future of nothing"
+none;  *A-is-not-the-answer*; 
 
 ---
 
@@ -1652,7 +1683,7 @@ none;  "the future of nothing"
 **Definition**: -
 
 **Checklist**: not; neither; none; not-chapter; not-running; none;
-"the future of nothing" 
+*future-with-no-ex* 
 
 ---
 
@@ -1677,8 +1708,8 @@ examples from the past! It's a claim for another claim.*
 
 **Definition**: -
 
-**Checklist**: no; neither; none; not-chapter; not-running; none; "the
-future of nothing" 
+**Checklist**: no; neither; none; not-chapter; not-running; none;
+*future-with-no-ex* 
 
 ---
 
@@ -1698,7 +1729,7 @@ feminine hygiene products.
 
 **Definition**: checks out.
 
-**Checklist**: yes; true; none; chapter; not-running; none 
+**Checklist**: yes; true; none; chapter; not-running; none; *testable*  
 
 ---
 
@@ -1718,7 +1749,8 @@ cycle.
 
 **Definition**: Checks out atleast in this one case.
 
-**Checklist**: yes; true; none; not-chapter; not-running; none
+**Checklist**: yes; true; none; not-chapter; not-running; none;
+*testable* 
 
 ---
 
@@ -1733,7 +1765,7 @@ months salary to see a doctor to allow for more than 12 pads.
 
 **Definition**: checks out.
 
-**Checklist**: yes; true; none; chapter; not-running; none 
+**Checklist**: yes; true; none; chapter; not-running; none; *testable*  
 
 ---
 
@@ -1749,7 +1781,8 @@ who then sends 50 <span>$</span> to the inmate.
 **Definition**: Don't think it makes this complicated but nevertheless
 45% fees sounds like a fucking lot.
 
-**Checklist**: yes; false; none; chapter; not-running; none 
+**Checklist**: yes; false; none; chapter; not-running; none;
+*testable* 
 
 ---
 
@@ -1765,7 +1798,7 @@ around two million inmates in the US
 
 **Definition**: Checks out!
 
-**Checklist**: yes; true; none; chapter; not-running; none 
+**Checklist**: yes; true; none; chapter; not-running; none; *testable*  
 
 --- <!-- august 8th -->
 
@@ -1785,7 +1818,7 @@ out the ad](https://www.ispot.tv/ad/AxS1/securus-technologies-believing-in-each-
 nice to see the dad communicating with his daughter despite being in
 jail. (LOVE!)
 
-**Checklist**: yes; true; none; chapter; not-running; none 
+**Checklist**: yes; true; none; chapter; not-running; none; *testable* 
 
 > They are fully acknowledging how important it is for people to
 > connect to others on the phone
@@ -1801,7 +1834,7 @@ of the definition being unclear*
 **Definition**: -
 
 **Checklist**: yes; neither; none; not-chapter; not-running; none;
-"predicate unclear" 
+*definition-unclear*; 
 
 ---
 
@@ -1821,8 +1854,7 @@ their customers or what not.*
 **Definition**: -
 
 **Checklist**: yes; neither; none; not-chapter; not-running; none;
-"confusing predicate"; "mistakes in subject predicate"; "missed a
-claim"; "if type missed"; "hard if condition"
+*subject-unclear*;
 
 ---
 
@@ -1839,7 +1871,7 @@ them for a week or two and they end up in the hole for 90 days"
 
 **Definition**: checks out I guess.
 
-**Checklist**: yes; true; none; chapter; not-running; none;  
+**Checklist**: yes; true; none; chapter; not-running; none; *testable* 
 
 ---
 
@@ -1856,7 +1888,7 @@ vital connections.
 **Definition**: Yes they don't mention the rates in the ad! Even their
 website doesn't.
 
-**Checklist**: yes; true; none; chapter; not-running; none 
+**Checklist**: yes; true; none; chapter; not-running; none; *testable*  
 
 ---
 
@@ -1874,7 +1906,7 @@ calls within the US.
 
 **Definition**: Checks out.
 
-**Checklist**: yes; true; none; chapter; not-running; none 
+**Checklist**: yes; true; none; chapter; not-running; none; *testable* 
 
 ---
 
@@ -1895,7 +1927,8 @@ the call didn’t get too expensive."---[Source](https://www.bostonglobe.com/met
 
 **Definition**: Checks out.
 
-**Checklist**: yes; true; none; not-chapter; not-running; none;  
+**Checklist**: yes; true; none; not-chapter; not-running; none;
+*testable* 
 
 ---
    
@@ -1914,7 +1947,7 @@ son." --- [Source](https://www.bostonglobe.com/metro/2018/05/03/lawsuit-challeng
 **Definition**: checks out!
 
 **Checklist**: yes; true; none; not-chapter; not-running; none;
-"confusing predicate" 
+*example-matching-definition*; *failed* 
 
 ---
 
@@ -1931,7 +1964,7 @@ allowing a girl to talk to her daddy.
 **Definition**: -
 
 **Checklist**: not sure; neither; none; not-chapter; not-running;
-none; "should" 
+none; *because-should-due-to* 
 
 ---
 
@@ -1949,7 +1982,8 @@ visitors, customers will eliminate all face to face visitation."
 
 **Definition**: Checks out!
 
-**Checklist**: yes; true; none; chapter; not-running; none;  
+**Checklist**: yes; true; none; chapter; not-running; none;
+*testable* 
 
 ---
 
@@ -1963,7 +1997,8 @@ visitors, customers will eliminate all face to face visitation."
 
 **Definition**: Yes it does sound inhumane.
 
-**Checklist**: yes; true; none; not-chapter; not-running; none;  
+**Checklist**: yes; true; none; not-chapter; not-running; none;
+*testable* 
 
 ---
 
@@ -1979,7 +2014,7 @@ to limit the contraband"- Some prison official
 
 **Definition**: Checks out.
 
-**Checklist**: yes; true; none; chapter; not-running; none 
+**Checklist**: yes; true; none; chapter; not-running; none; *testable*  
 
 ---
 
@@ -1996,7 +2031,7 @@ to limit the contraband"- Some prison official
 **Definition**: -
 
 **Checklist**: not-sure; neither; none; not-chapter; not-running;
-if; "missed if" 
+if; *testable* 
 
 --- <!-- 24 upunti now! -->
 
@@ -2012,7 +2047,8 @@ contraband."--- [Source](https://www.prisonpolicy.org/blog/2018/12/06/jail-contr
 
 **Definition**: checks out.
 
-**Checklist**: yes; true; none; not-chapter; not-running; none 
+**Checklist**: yes; true; none; not-chapter; not-running; none;
+*testable* 
 
 ---
 
@@ -2030,7 +2066,8 @@ $820,000 to cover 2016 to 2020"
 
 **Definition**: checks out!
 
-**Checklist**: yes; true; none; chapter; not-running; none 
+**Checklist**: yes; true; none; chapter; not-running; none; *often*;
+*failed*; *testable*  
 
 ---
 
@@ -2049,7 +2086,8 @@ another used the money for buying Tasers.
 
 **Definition**: checks out!
 
-**Checklist**: yes; true; often; chapter; not-running; none; "often" 
+**Checklist**: yes; true; often; chapter; not-running; none; *often*;
+*failed*; *testable* 
 
 ---
 
@@ -2070,7 +2108,8 @@ https://ellabakercenter.org/sites/default/files/downloads/who-pays.pdf
 
 **Definition**: checks out.
 
-**Checklist**: yes; true; none; chapter; not-running; if; "missed if" 
+**Checklist**: yes; true; none; chapter; not-running; if;
+*example-matching-definition*; *unsure*  
 
 ---
 
@@ -2087,10 +2126,7 @@ https://ellabakercenter.org/sites/default/files/downloads/who-pays.pdf
 
 **Definition**: checks out
 
-**Checklist**: yes; true; none; chapter; not-running; if; "missed if"
-
-*atleast I am not sure if I have taken it into account. So I would
-give it no example*
+**Checklist**: yes; true; none; chapter; not-running; if; *testable* 
 
 <!-- Phone prices, video prices, cost of buying shit -->
 
@@ -2107,7 +2143,8 @@ phone and video calls and money being sent, resulting in prisoner debt
 
 **Definition**: -
 
-**Checklist**: yes; neither; none; not-chapter; not-running; none 
+**Checklist**: yes; neither; none; not-chapter; not-running; none;
+*definition-unclear*  
 
 ---
 
@@ -2127,10 +2164,7 @@ https://ellabakercenter.org/sites/default/files/downloads/who-pays.pdf
 **Definition**: Seems to check out as Securus made profit of 114
 million <span>$</span> in 2014.
 
-**Checklist**: yes; true; none; chapter; not-running; none; "missed
-claims";  
-
-*Current system has low wages and high costs*
+**Checklist**: yes; true; none; chapter; not-running; none; *testable* 
 
 ---
 
@@ -2152,7 +2186,8 @@ with her father, it would end up in a savings of 2190
 two-thirds of the population in jail, this could help that family
 atleast in a small way.
 
-**Checklist**: yes; true; none; not-chapter; not-running; none 
+**Checklist**: yes; true; none; not-chapter; not-running; none;
+*testable*  
 
 ---
 
@@ -2167,7 +2202,7 @@ atleast in a small way.
 **Definition**: -
 
 **Checklist**: yes; neither; none; not-chapter; not-running; none;
-"no examples found easily"
+*subject-unclear*
 
 ---
 
@@ -2186,7 +2221,7 @@ prisoners more.
 **Definition**: -
 
 **Checklist**: yes; neither; none; not-chapter; not-running; none;
-"claim not accurate" 
+*subject-unclear*
 
 ---
 
@@ -2200,8 +2235,8 @@ prisoners more.
 
 **Definition**: Doesn't check out!
 
-**Checklist**: no; neither; none; not-chapter; not-running; none; "the
-future of nothing"; "hypothetical" 
+**Checklist**: no; neither; none; not-chapter; not-running; none;
+*future-with-no-ex* 
 
 ---
 
@@ -2215,8 +2250,8 @@ future of nothing"; "hypothetical"
 
 **Definition**: -
 
-**Checklist**: no; neither; none; not-chapter; not-running; none; "the
-future of nothing"; "no examples"
+**Checklist**: no; neither; none; not-chapter; not-running; none;
+*future-with-no-ex* 
 
 ---
 
@@ -2232,7 +2267,7 @@ of paying prisoners more on fox news](https://youtu.be/AjqaNQ018zU?t=234)
 
 **Definition**: checks out for Very unpopular.
 
-**Checklist**: yes; true; none; chapter; not-running; none 
+**Checklist**: yes; true; none; chapter; not-running; none; *testable*  
 
 ---
 
@@ -2253,7 +2288,7 @@ of paying prisoners more on fox news](https://youtu.be/AjqaNQ018zU?t=234)
 **Definition**:  -
 
 **Checklist**: no; neither; none; not-chapter; not-running; none;
-"confusing predicate"; "not-sure because"; "A by B" 
+*definition-unclear*; *failed*; *because-should-due-to*; *failed*; (*by*)
 
 ---
 
@@ -2265,11 +2300,12 @@ of paying prisoners more on fox news](https://youtu.be/AjqaNQ018zU?t=234)
 
 **Example**: *I am not sure how to give an example for this.*
 
-**Definition**: *John Oliver seems to be saying that we are keeping the true costs
-(to the families) off the books (aka turning a blind eye to it).*
+**Definition**: *John Oliver seems to be saying that we are keeping
+the true costs (to the families) off the books (aka turning a blind
+eye to it).*
 
 **Checklist**: not-sure; neither; none; not-chapter; not-running;
-none; "confusing predicate"
+none; *example-matching-subject*; *failed*; (*0ex*)
 
 > we have come a long long way from common sense
 
@@ -2285,7 +2321,9 @@ investigator.
 **Definition**: I think it checks out.
 
 **Checklist**: yes; neither; none; not-chapter; not-running; none;
-"belief?"; "common sense" 
+*definition-unclear*; *failed* ; (*common sense*)
+
+
 
 
 <!-- > When you combine the low to non-existent wages that the prisoners -->
@@ -2491,5 +2529,11 @@ no. of phrases: 204
 
 
 
+I need to check my claims...
 
+today I made a self claim that double bridge will cause itself
+stresses... and looked like a fool in the end. I missed some very
+basic stuff... I need to question my claims. But I was so blinded that
+I am not sure questioning it would have helped (for example, oh wait I
+have no examples.)
 

@@ -45,11 +45,20 @@ CLOCK: [2019-08-24 za 11:45]--[2019-08-24 za 12:32] =>  0:47
 CLOCK: [2019-08-24 za 11:29]--[2019-08-24 za 11:43] =>  0:14
 CLOCK: [2019-08-23 vr 23:58]--[2019-08-24 za 00:20] =>  0:22
 ***** writing
-CLOCK: [2019-08-25 zo 09:53]
+CLOCK: [2019-08-25 zo 09:53]--[2019-08-25 zo 10:20] =>  0:27
 CLOCK: [2019-08-25 zo 09:32]--[2019-08-25 zo 09:35] =>  0:03
 CLOCK: [2019-08-25 zo 09:17]--[2019-08-25 zo 09:32] =>  0:15
 CLOCK: [2019-08-25 zo 09:10]--[2019-08-25 zo 09:13] =>  0:03
-
+**** Chapter 3
+***** reading
+CLOCK: [2019-08-25 zo 20:03]--[2019-08-25 zo 21:05] =>  1:02
+CLOCK: [2019-08-25 zo 19:59]--[2019-08-25 zo 20:03] =>  0:04
+CLOCK: [2019-08-25 zo 11:27]--[2019-08-25 zo 11:54] =>  0:27
+***** DPing
+CLOCK: [2019-08-26 ma 22:21]--[2019-08-26 ma 22:56] =>  0:35
+CLOCK: [2019-08-26 ma 19:32]--[2019-08-26 ma 20:44] =>  1:12
+CLOCK: [2019-08-25 zo 21:39]--[2019-08-25 zo 22:31] =>  0:52
+***** writing
 ** Other useful stuff
 *** Work done for STM 
 
@@ -64,6 +73,8 @@ CLOCK: [2019-08-18 zo 17:15]--[2019-08-18 zo 17:16] =>  0:01
 **** Random
 CLOCK: [2019-08-20 di 21:13]--[2019-08-20 di 21:22] =>  0:09
 **** dinner and entertainment
+CLOCK: [2019-08-26 ma 20:44]--[2019-08-26 ma 22:09] =>  1:25
+CLOCK: [2019-08-25 zo 21:06]--[2019-08-25 zo 21:39] =>  0:33
 CLOCK: [2019-08-24 za 21:24]--[2019-08-24 za 22:24] =>  1:00
 CLOCK: [2019-08-24 za 20:52]--[2019-08-24 za 21:08] =>  0:16
 CLOCK: [2019-08-24 za 16:39]--[2019-08-24 za 20:00] =>  3:21
@@ -82,6 +93,8 @@ CLOCK: [2019-08-12 ma 21:25]--[2019-08-12 ma 21:33] =>  0:08
 
 ** Counted for work
 *** Prepping for task
+CLOCK: [2019-08-28 wo 18:50]--[2019-08-28 wo 19:07] =>  0:17
+CLOCK: [2019-08-27 di 20:56]--[2019-08-27 di 21:56] =>  1:00
 CLOCK: [2019-08-14 wo 17:06]--[2019-08-14 wo 17:15] =>  0:09
 CLOCK: [2019-08-14 wo 16:57]--[2019-08-14 wo 17:04] =>  0:07
 CLOCK: [2019-08-14 di 16:55]--[2019-08-14 wo 16:57] =>  0:02
@@ -102,6 +115,17 @@ CLOCK: [2019-08-13 di 18:06]--[2019-08-13 di 18:12] =>  0:06
 CLOCK: [2019-08-13 di 17:20]--[2019-08-13 di 17:20] =>  0:00
 
 *** Processing feedback
+CLOCK: [2019-08-29 do 22:14]
+CLOCK: [2019-08-29 do 21:25]--[2019-08-29 do 21:58] =>  0:33
+CLOCK: [2019-08-29 do 20:46]--[2019-08-29 do 21:25] =>  0:39
+CLOCK: [2019-08-29 do 20:00]--[2019-08-29 do 20:24] =>  0:24
+CLOCK: [2019-08-29 do 18:42]--[2019-08-29 do 19:55] =>  1:13
+CLOCK: [2019-08-28 wo 22:14]--[2019-08-28 wo 22:43] =>  0:29
+CLOCK: [2019-08-28 wo 20:59]--[2019-08-28 wo 21:35] =>  1:20
+CLOCK: [2019-08-28 wo 19:56]--[2019-08-28 wo 20:29] =>  0:33
+CLOCK: [2019-08-28 wo 19:48]--[2019-08-28 wo 19:55] =>  0:07
+CLOCK: [2019-08-28 wo 19:09]--[2019-08-28 wo 19:29] =>  0:20
+CLOCK: [2019-08-28 wo 18:48]--[2019-08-28 wo 18:50] =>  0:02
 CLOCK: [2019-08-14 wo 18:49]--[2019-08-14 wo 19:03] =>  0:14
 CLOCK: [2019-08-14 wo 18:06]--[2019-08-14 wo 18:32] =>  0:26
 CLOCK: [2019-08-14 wo 17:15]--[2019-08-14 wo 17:23] =>  0:08
@@ -165,7 +189,13 @@ CLOCK: [2019-08-17 za 20:52]--[2019-08-17 zo 21:20] =>  0:28
 CLOCK: [2019-08-14 wo 18:32]--[2019-08-14 wo 18:49] =>  0:17
 CLOCK: [2019-08-13 di 18:25]--[2019-08-13 di 19:00] =>  0:35
 *** Unable to work
+CLOCK: [2019-08-28 wo 20:29]--[2019-08-28 wo 20:30] =>  0:01
 CLOCK: [2019-08-13 di 19:02]--[2019-08-13 di 20:01] =>  0:59
+
+*** break
+CLOCK: [2019-08-29 do 20:24]--[2019-08-29 do 20:46] =>  0:22
+CLOCK: [2019-08-28 wo 20:30]--[2019-08-28 wo 20:58] =>  0:28
+
 
 * TASK DP 200 predicate subject (DP10)
 ** Counted for work w
@@ -372,27 +402,29 @@ piece on prison labor to one of my works on "marriage"
 
 #+BEGIN: clocktable :maxlevel 3 :scope file :step day :tstart "<-1d>" :tend "<tomorrow>" :compact t
 
-Daily report: [2019-08-24 za]
-| Headline                     |    Time |
-|------------------------------+---------|
-| *Total time*                 | *11:08* |
-|------------------------------+---------|
-| SuperIntelligence            |   11:08 |
-| \emsp Counted for DP         |    4:22 |
-| \emsp\emsp Prepping for task |    0:09 |
-| \emsp\emsp DPing             |    4:13 |
-| \emsp Not counted for DP     |    6:46 |
-| \emsp\emsp Breaks            |    6:24 |
-| \emsp\emsp Sleeping          |    0:22 |
+Daily report: [2019-08-28 wo]
+| Headline                                 |   Time |
+|------------------------------------------+--------|
+| *Total time*                             | *2:53* |
+|------------------------------------------+--------|
+| Random week 33(starting mondy to sunday) |   2:53 |
+| \emsp Counted for work                   |   2:24 |
+| \emsp\emsp Prepping for task             |   0:17 |
+| \emsp\emsp Processing feedback           |   2:07 |
+| \emsp breaks                             |   0:29 |
+| \emsp\emsp Unable to work                |   0:01 |
+| \emsp\emsp break                         |   0:28 |
 
-Daily report: [2019-08-25 zo]
-| Headline             |   Time |
-|----------------------+--------|
-| *Total time*         | *0:51* |
-|----------------------+--------|
-| SuperIntelligence    |   0:51 |
-| \emsp Counted for DP |   0:51 |
-| \emsp\emsp DPing     |   0:51 |
+Daily report: [2019-08-29 do]
+| Headline                                 |   Time |
+|------------------------------------------+--------|
+| *Total time*                             | *3:11* |
+|------------------------------------------+--------|
+| Random week 33(starting mondy to sunday) |   3:11 |
+| \emsp Counted for work                   |   2:49 |
+| \emsp\emsp Processing feedback           |   2:49 |
+| \emsp breaks                             |   0:22 |
+| \emsp\emsp break                         |   0:22 |
 #+END:
 
 * Shortcuts
