@@ -6,7 +6,7 @@ date:    14-08-2019
 categories: notes
 tags: DP, feedback, examples
 permalink: /:title.html
-published: true
+published: false
 ---
 
 ## Feedback list
@@ -87,57 +87,13 @@ claims that you can test right now, such as "you will like holding a
 baby" or "changing a diaper ain't all that bad" or "people don't get
 too upset when their kids disobey them".
 
-**testable**
 
-**many clains in one**
 
-**cryptic predicate**
-
-**simple past**
-
-**The future of nothing**
-
-**emperically false**
-
-**Comparitive** **No best most**
-
-**unable to get example** aka "fat claims"
-
-**Time taking example**
-
-## Things we skip
-
-*because*
-
-*should*
-
-https://www.youtube.com/watch?v=AjqaNQ018zU
-
-> (Crime)[0] should (not pay)[1], is (very simple common sense)[2].
-
-**Claims**: Crime should not pay
-
-**Subject**: Crime
-
-**Predicate**:  Should not pay
-
-**Example**: 3000 people were killed by AL-Qaeda in the US (9-11).
-
-**Definition**: checks out I think!
-
-**Checklist**: not-sure; true; none; not-chapter; not-running; none 
 
 ## DP09 Claims
 
 Based on the feedback from an STM documented [here](/DP-feedback-key-ideas.html):
 
-
-
-## Todo 
-
-- reclassify running and not-true items?
-- rewrite a summary of lessons learnt
-- along with the different scenarios.
 
 ## Recognized patterns of failure only
 
@@ -149,7 +105,7 @@ Based on the feedback from an STM documented [here](/DP-feedback-key-ideas.html)
 |     | must                       |            |                          |   |   |
 |     | often                      |            |                          |   |   |
 | 4.  |                            | sub-pre-ex |                          |   |   |
-|     | ex matching subject        |            |                          |   |   |
+|     | ex matching subject        |            | true cost of mass inc    |   |   |
 | 6.  | ex matching definition     | -          |                          |   |   |
 |     | definition unclear         |            | marriage social construc | t |   |
 | 7.  | sub-pre-split              |            | it intellectual debate   |   |   |

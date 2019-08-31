@@ -1,0 +1,122 @@
+**Checklist at the end of every example-claim sequence**,  ,,,,,,,,,,,
+**Checklist**, yes, false, best, not-chapter, not-running, if   ,,,,,,
+**Checklist**, yes, false, no, not-chapter, not-running, none, ,,,,,
+**Checklist**, not-sure, neither, none, chapter, not-running, none, *unsure-if-it-has-example*, *definition-unclear* , *time*, *failed*,,1
+**Checklist**, no, neither, none, not-chapter, not-running, none, *future-with-no-ex*, ,,,,2
+**Checklist**, yes, True, most, chapter, not-running, none, *testable*  ,,,,,
+**Checklist**, yes, false, none, chapter, not-running, none, *testable* ,,,,,
+**Checklist**, yes, false, none, chapter, not-sure-running, none,testable, *cannot-identify-if-running*, *failed* ,,,
+**Checklist**, yes, true, none, chapter, running, none, ,,,,,
+**Checklist**, yes, false, none, not-chapter, running, none,testable ,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none, *testable* ,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none,testable ,,,,,
+**Checklist**, yes, true, none, chapter, running, none, *testable*  ,,,,,
+**Checklist**, yes, false, none, not-chapter, not-sure, none, *testable* ,,,,,
+**Checklist**, yes, true, none, chapter, not-sure, none, *testable*  ,,,,,
+**Checklist**, yes, true, none, not-chapter, not-sure, none, *testable* ,,,,,
+**Checklist**, yes, neither, none, not-chapter, not-sure, none, ,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none, *testable* ,,,,,
+**Checklist**, yes, neither, none, not-chapter, not-running, none, *subject-predicate-split*, *time*, *failed* ,,,3
+**Checklist**, yes, neither, none, not-chapter, not-running, given, *testable* ,,,,,
+**Checklist**, yes, false, none, chapter, not-sure, none, *testable*  ,,,,,
+**Checklist**, yes, true, none, not-chapter, not-sure, none, *testable* ,,,,,
+**Checklist**, yes, false, none, not-chapter, not-running, none, *testable* ,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none, *testable* ,,,,,
+**Checklist**, yes, true, many, not-chapter, not-running, none, *testable* ,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none, *testable* ,,,,,
+**Checklist**, yes, false, none, not-chapter, not-running, none, *testable* ,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none, *testable* ,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none, *because-should-due-to*, *unsure*, *crime-should-does-not-pay*, *time*,,4
+**Checklist**, yes, neither, none, not-chapter, not-running, none,should  ,,,,,5
+**Checklist**, yes, true, none, not-chapter, not-running, none, *testable* ,,,,,
+**Checklist**, not-sure, neither, none, not-chapter, not-running, none, *definition-unclear*, *unsure-if-has-example*, *failed*  ,,,6
+**Checklist**, yes, true, none, not-chapter, not-running, none, *testable* ,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none, *testable* ,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none, *testable*  ,,,,,
+**Checklist**, no, false, none, not-chapter, not-running, none, *future-with-no-ex*,  ,,,,7
+**Checklist**, yes, true, none, not-chapter, not-running, none, *a-is-important*, *failed*  ,,,,8
+**Checklist**, yes, false, none, not-chapter, not-running, none, *missed-comparison*, *failed* ,,,,9
+**Checklist**, yes, true, none, not-chapter, not-running, none, *a-is-important*, *unsure* ,,,,10
+**Checklist**, yes, true, none, not-chapter, not-running, none, *a-is-important*, *unsure* ,,,,11
+**Checklist**, yes, false, none, not-chapter, not-running, none, *matching-definition*, *unsure*, *time*  ,,,12
+**Checklist**, yes, false, none, not-chapter, not-running, none, *testable*  ,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none, *testable* ,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none, , *failed* ,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none, *subject-example*, *unsure*  ,,,,13
+**Checklist**, yes, true, none, not-chapter, not-running, none, *testable* ,,,,,
+**Checklist**, yes, false, always, not-chapter, not-running, none, *testable* ,,,,,
+**Checklist**, yes, false, none, not-chapter, not-running, none, *testable* ,,,,,
+**Checklist**, yes, neither, none, not-chapter, not-running, none, *self-claim-with-0-ex*, *failed* ,,,,14
+**Checklist**, no, neither, none, not-chapter, not-running, none, *future-with-no-ex*, ,,,,15
+**Checklist**, yes, true, most, not-chapter, not-running, none,testable ,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none, *testable* ,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none, *testable*    ,,,,,
+**Checklist**, yes, true, none, not-chapter, running, none, *testable*  ,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none, *a-is-important*, ,,,,16
+**Checklist**, yes, neither, none, not-chapter, not-running, none, *because-should-due-to*, *failed*, *self-claim-with-0-ex*, *failed*  ,,17
+**Checklist**, yes, false, none, not-chapter, not-running, none, *testable*  ,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none , *self-claim-with-0-ex*, *failed* ,,,,18
+**Checklist**, no, neither, none, not-chapter, not-running, none, *unsure-if-has-example*, *failed*, *self-claim-with-0-ex*, *failed*  ,,19
+**Checklist**, no, neither, none, not-chapter, not-running, none, *definition-unclear*, *failed* ,,,,20
+**Checklist**, yes, true, none, not-chapter, not-running, none, ,,,,,
+**Checklist**, not-sure, neither, none, not-chapter, not-running, if,  *missed-comparison*, *failed* ,,,,21
+**Checklist**, yes, neither, none, not-chapter, not-running, none, *missed-if*, *failed*,  *self-claim-with-0-ex*, *failed* ,,22
+**Checklist**, yes, neither, none, not-chapter, not-running, none, *self-claim-with-0-ex*, *failed*,  ,,,23
+**Checklist**, yes, true, none, chapter, not-running, none  ,,,,,,
+**Checklist**, yes, neither, none, not-chapter, not-running, none, *because-should-due-to*, *failed*  ,,,,24
+**Checklist**, yes, true, none, chapter, not-running, none, *testable*  ,,,,,
+**Checklist**, yes, true, none, chapter, not-running, none, *testable*  ,,,,,
+**Checklist**, yes, true, none, chapter, not-running, if, *because-should-due-to*, *unsure*,,,,25
+**Checklist**, yes, true, none, chapter, not-running, none, *testable* ,,,,,
+**Checklist**, not-sure, neither, none, not-chapter, not-running, none, *definition-unclear*, *failed*   ,,,,26
+**Checklist**, yes, true, none, chapter, not-running, none, *testable*   ,,,,,
+**Checklist**, not-sure, true, none, not-chapter, not-running, none, *belief*, *failed*, ,,,27
+**Checklist**, not-sure, neither, none, not-chapter, not-running, none, *because-should-due-to*,,,,,28
+**Checklist**, yes, false, none, not-chapter, not-running, none, *unsure-if-it-has-example*, *failed*, *example-matching-definition*,,,29
+**Checklist**, yes, true, none, chapter, not-running, none, *testable*  ,,,,,
+**Checklist**, yes, true, none, chapter, not-running,none, *definition-unclear*,,,,,30
+**Checklist**, yes, false, none, not-chapter, not-running, none, *must*, *failed* ,,,,31
+**Checklist**, yes, neither, best, not-chapter, not-running, none, *testable* ,,,,,
+**Checklist**, yes, true, often, chapter, not-running, none, *often*, *failed* ,,,,32
+**Checklist**, yes, true, none, chapter, not-running, none, *subject-predicate-split*, *failed* ,,,,33
+**Checklist**, yes, true, none, not-chapter, not-running, none, *testable* ,,,,,
+**Checklist**, yes, true, none, chapter, not-running, none, *testable*  ,,,,,
+**Checklist**, yes, neither, none, not-chapter, not-running, none, *X-prefers-A-to-B*, *time*,  *testable*  ,,,34
+**Checklist**, not-sure, neither, none, not-chapter, not-running, none,  *A-is-not-the-answer*, ,,,,35
+**Checklist**, not, neither, none, not-chapter, not-running, none, *future-with-no-ex* ,,,,,36
+**Checklist**, no, neither, none, not-chapter, not-running, none, *future-with-no-ex* ,,,,,37
+**Checklist**, yes, true, none, chapter, not-running, none, *testable*   ,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none, *testable* ,,,,,
+**Checklist**, yes, true, none, chapter, not-running, none, *testable*   ,,,,,
+**Checklist**, yes, false, none, chapter, not-running, none, *testable* ,,,,,
+**Checklist**, yes, true, none, chapter, not-running, none, *testable*   ,,,,,
+**Checklist**, yes, true, none, chapter, not-running, none, *testable*  ,,,,,
+**Checklist**, yes, neither, none, not-chapter, not-running, none, *definition-unclear*, ,,,,38
+**Checklist**, yes, neither, none, not-chapter, not-running, none, *subject-unclear*,,,,,39
+**Checklist**, yes, true, none, chapter, not-running, none, *testable*  ,,,,,
+**Checklist**, yes, true, none, chapter, not-running, none, *testable*   ,,,,,
+**Checklist**, yes, true, none, chapter, not-running, none, *testable*  ,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none, *testable* ,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none, *example-matching-definition*, *failed* ,,,,40
+**Checklist**, not sure, neither, none, not-chapter, not-running, none, *because-should-due-to* ,,,,,41
+**Checklist**, yes, true, none, chapter, not-running, none, *testable* ,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none, *testable* ,,,,,
+**Checklist**, yes, true, none, chapter, not-running, none, *testable*   ,,,,,
+**Checklist**, not-sure, neither, none, not-chapter, not-running, if, *testable* ,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none, *testable* ,,,,,
+**Checklist**, yes, true, none, chapter, not-running, none, *often*, *failed*, *testable*  ,,,42
+**Checklist**, yes, true, often, chapter, not-running, none, *often*, *failed*, *testable* ,,,43
+**Checklist**, yes, true, none, chapter, not-running, if, *example-matching-definition*, *unsure*  ,,,,44
+**Checklist**, yes, true, none, chapter, not-running, if, *testable*  ,,,,,
+**Checklist**, yes, neither, none, not-chapter, not-running, none, *definition-unclear*  ,,,,,45
+**Checklist**, yes, true, none, chapter, not-running, none, *testable*  ,,,,,
+**Checklist**, yes, true, none, not-chapter, not-running, none, *testable*  ,,,,,
+**Checklist**, yes, neither, none, not-chapter, not-running, none, *subject-unclear*,,,,,46
+**Checklist**, yes, neither, none, not-chapter, not-running, none, *subject-unclear*,,,,,47
+**Checklist**, no, neither, none, not-chapter, not-running, none, *future-with-no-ex* ,,,,,48
+**Checklist**, no, neither, none, not-chapter, not-running, none, *future-with-no-ex* ,,,,,49
+**Checklist**, yes, true, none, chapter, not-running, none, *testable*   ,,,,,
+**Checklist**, no, neither, none, not-chapter, not-running, none, *definition-unclear*, *failed*, *because-should-due-to*, *failed*, (*by*),50
+**Checklist**, not-sure, neither, none, not-chapter, not-running, none, *example-matching-subject*, *failed*, (*0ex*),,,51
+**Checklist**, yes, neither, none, not-chapter, not-running, none, *definition-unclear*, *failed* , (*common sense*),,,52
+,,,,,,,,0,,,,

@@ -1,0 +1,6 @@
+#!/bin/bash 
+
+# https://unix.stackexchange.com/questions/31414/how-can-i-pass-a-command-line-argument-into-a-shell-script
+
+# 
+echo "$1 $2"

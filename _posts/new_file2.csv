@@ -2,381 +2,255 @@
 
 **Checklist**: yes; false; best; not-chapter; not-running; if  
 
---
 **Checklist**: yes; false; no; not-chapter; not-running; none;
 
---
 **Checklist**: not-sure; neither; none; chapter; not-running; none;
 *unsure-if-it-has-example*; *definition-unclear* ; *time*; *failed*;
---
 **Checklist**: no; neither; none; not-chapter; not-running; none;
 *future-with-no-ex*; 
---
 **Checklist**: yes; True; most; chapter; not-running; none; *testable* 
 
---
 **Checklist**: yes; false; none; chapter; not-running; none;
 *testable* 
---
 **Checklist**: yes; false; none; chapter; not-sure-running; none;
 "testable"; *cannot-identify-if-running*; *failed* 
---
 **Checklist**: yes; true; none; chapter; running; none;
 
---
 **Checklist**: yes; false; none; not-chapter; running; none; "testable"
 
---
 **Checklist**: yes; true; none; not-chapter; not-running; none;
 *testable* 
---
 **Checklist**: yes; true; none; not-chapter; not-running; none; "testable"
 
---
 **Checklist**: yes; true; none; chapter; running; none; *testable* 
 
---
 **Checklist**: yes; false; none; not-chapter; not-sure; none; *testable*
 
---
 **Checklist**: yes; true; none; chapter; not-sure; none; *testable* 
 
---
 **Checklist**: yes; true; none; not-chapter; not-sure; none;
 *testable* 
---
 **Checklist**: yes; neither; none; not-chapter; not-sure; none;
 
---
 **Checklist**: yes; true; none; not-chapter; not-running; none;
 *testable* 
---
 **Checklist**: yes; neither; none; not-chapter; not-running; none;
 *subject-predicate-split*; *time*; *failed* 
---
 **Checklist**: yes; neither; none; not-chapter; not-running; given;
 *testable* 
---
 **Checklist**: yes; false; none; chapter; not-sure; none; *testable* 
 
---
 **Checklist**: yes; true; none; not-chapter; not-sure; none;
 *testable* 
---
 **Checklist**: yes; false; none; not-chapter; not-running; none;
 *testable* 
---
 **Checklist**: yes; true; none; not-chapter; not-running; none;
 *testable* 
---
 **Checklist**: yes; true; many; not-chapter; not-running; none;
 *testable* 
---
 **Checklist**: yes; true; none; not-chapter; not-running; none;
 *testable* 
---
 **Checklist**: yes; false; none; not-chapter; not-running; none;
 *testable* 
---
 **Checklist**: yes; true; none; not-chapter; not-running; none;
 *testable* 
---
 **Checklist**: yes; true; none; not-chapter; not-running; none;
 *because-should-due-to*; *unsure*; *crime-should-does-not-pay*; *time*
---
 **Checklist**: yes; neither; none; not-chapter; not-running; none; "should" 
 
---
 **Checklist**: yes; true; none; not-chapter; not-running; none;
 *testable* 
---
 **Checklist**: not-sure; neither; none; not-chapter; not-running;
 none; *definition-unclear*; *unsure-if-has-example*; *failed*  
---
 **Checklist**: yes; true; none; not-chapter; not-running; none;
 *testable* 
---
 **Checklist**: yes; true; none; not-chapter; not-running; none;
 *testable* 
---
 **Checklist**: yes; true; none; not-chapter; not-running; none; *testable* 
 
---
 **Checklist**: no; false; none; not-chapter; not-running; none;
 *future-with-no-ex*;  
---
 **Checklist**: yes; true; none; not-chapter; not-running;
 none; *a-is-important*; *failed*  
---
 **Checklist**: yes; false; none; not-chapter; not-running; none;
 *missed-comparison*; *failed* 
---
 **Checklist**: yes; true; none; not-chapter; not-running; none;
 *a-is-important*; *unsure* 
---
 **Checklist**: yes; true; none; not-chapter; not-running; none;
 *a-is-important*; *unsure* 
---
 **Checklist**: yes; false; none; not-chapter; not-running; none;
 *matching-definition*; *unsure*; *time*  
---
 **Checklist**: yes; false; none; not-chapter; not-running; none;
 *testable*  
---
 **Checklist**: yes; true; none; not-chapter; not-running; none;
 *testable* 
---
 **Checklist**: yes; true; none; not-chapter; not-running; none;
 ; *failed* 
---
 **Checklist**: yes; true; none; not-chapter; not-running; none;
 *subject-example*; *unsure*  
---
 **Checklist**: yes; true; none; not-chapter; not-running; none;
 *testable* 
---
 **Checklist**: yes; false; always; not-chapter; not-running; none;
 *testable* 
---
 **Checklist**: yes; false; none; not-chapter; not-running; none;
 *testable* 
---
 **Checklist**: yes; neither; none; not-chapter; not-running; none;
 *self-claim-with-0-ex*; *failed* 
---
 **Checklist**: no; neither; none; not-chapter; not-running; none;
 *future-with-no-ex*; 
---
 **Checklist**: yes; true; most; not-chapter; not-running; none; "testable"
 
---
 **Checklist**: yes; true; none; not-chapter; not-running; none;
 *testable* 
---
 **Checklist**: yes; true; none; not-chapter; not-running; none;
 *testable*    
---
 **Checklist**: yes; true; none; not-chapter; running; none; *testable* 
 
---
 **Checklist**: yes; true; none; not-chapter; not-running; none;
 *a-is-important*; 
---
 **Checklist**: yes; neither; none; not-chapter; not-running; none;
 *because-should-due-to*; *failed*; *self-claim-with-0-ex*; *failed*  
---
 **Checklist**: yes; false; none; not-chapter; not-running; none;
 *testable*  
---
 **Checklist**: yes; true; none; not-chapter; not-running; none ;
 *self-claim-with-0-ex*; *failed* 
---
 **Checklist**: no; neither; none; not-chapter; not-running; none;
 *unsure-if-has-example*; *failed*; *self-claim-with-0-ex*; *failed*  
---
 **Checklist**: no; neither; none; not-chapter; not-running; none;
 *definition-unclear*; *failed* 
---
 **Checklist**: yes; true; none; not-chapter; not-running; none;
 
---
 **Checklist**: not-sure; neither; none; not-chapter; not-running; if; 
 *missed-comparison*; *failed* 
---
 **Checklist**: yes; neither; none; not-chapter; not-running; none;
 *missed-if*; *failed*;  *self-claim-with-0-ex*; *failed* 
---
 **Checklist**: yes; neither; none; not-chapter; not-running; none;
 *self-claim-with-0-ex*; *failed*;  
---
 **Checklist**: yes; true; none; chapter; not-running; none 
 
---
 **Checklist**: yes; neither; none; not-chapter; not-running; none;
 *because-should-due-to*; *failed*  
---
 **Checklist**: yes; true; none; chapter; not-running; none; *testable* 
 
---
 **Checklist**: yes; true; none; chapter; not-running; none; *testable* 
 
---
 **Checklist**: yes; true; none; chapter; not-running; if;
 *because-should-due-to*; *unsure*;
---
 **Checklist**: yes; true; none; chapter; not-running; none;
 *testable* 
---
 **Checklist**: not-sure; neither; none; not-chapter; not-running;
 none; *definition-unclear*; *failed*   
---
 **Checklist**: yes; true; none; chapter; not-running; none; *testable*  
 
---
 **Checklist**: not-sure; true; none; not-chapter; not-running; none;
 *belief*; *failed*; 
---
 **Checklist**: not-sure; neither; none; not-chapter; not-running;
 none; *because-should-due-to*
---
 **Checklist**: yes; false; none; not-chapter; not-running; none;
 *unsure-if-it-has-example*; *failed*; *example-matching-definition*;
---
 **Checklist**: yes; true; none; chapter; not-running; none; *testable* 
 
---
 **Checklist**: yes; true; none; chapter; not-running;
 *definition-unclear*; 
---
 **Checklist**: yes; false; none; not-chapter; not-running; none;
 *must*; *failed* 
---
 **Checklist**: yes; neither; best; not-chapter; not-running; none;
 *testable* 
---
 **Checklist**: yes; true; often; chapter; not-running; none; *often*;
 *failed* 
---
 **Checklist**: yes; true; none; chapter; not-running; none;
 *subject-predicate-split*; *failed* 
---
 **Checklist**: yes; true; none; not-chapter; not-running; none;
 *testable* 
---
 **Checklist**: yes; true; none; chapter; not-running; none; *testable* 
 
---
 **Checklist**: yes; neither; none; not-chapter; not-running; none;
 *X-prefers-A-to-B*; *time*;  *testable*  
---
 **Checklist**: not-sure; neither; none; not-chapter; not-running;
 none;  *A-is-not-the-answer*; 
---
 **Checklist**: not; neither; none; not-chapter; not-running; none;
 *future-with-no-ex* 
---
 **Checklist**: no; neither; none; not-chapter; not-running; none;
 *future-with-no-ex* 
---
 **Checklist**: yes; true; none; chapter; not-running; none; *testable*  
 
---
 **Checklist**: yes; true; none; not-chapter; not-running; none;
 *testable* 
---
 **Checklist**: yes; true; none; chapter; not-running; none; *testable*  
 
---
 **Checklist**: yes; false; none; chapter; not-running; none;
 *testable* 
---
 **Checklist**: yes; true; none; chapter; not-running; none; *testable*  
 
---
 **Checklist**: yes; true; none; chapter; not-running; none; *testable* 
 
---
 **Checklist**: yes; neither; none; not-chapter; not-running; none;
 *definition-unclear*; 
---
 **Checklist**: yes; neither; none; not-chapter; not-running; none;
 *subject-unclear*;
---
 **Checklist**: yes; true; none; chapter; not-running; none; *testable* 
 
---
 **Checklist**: yes; true; none; chapter; not-running; none; *testable*  
 
---
 **Checklist**: yes; true; none; chapter; not-running; none; *testable* 
 
---
 **Checklist**: yes; true; none; not-chapter; not-running; none;
 *testable* 
---
 **Checklist**: yes; true; none; not-chapter; not-running; none;
 *example-matching-definition*; *failed* 
---
 **Checklist**: not sure; neither; none; not-chapter; not-running;
 none; *because-should-due-to* 
---
 **Checklist**: yes; true; none; chapter; not-running; none;
 *testable* 
---
 **Checklist**: yes; true; none; not-chapter; not-running; none;
 *testable* 
---
 **Checklist**: yes; true; none; chapter; not-running; none; *testable*  
 
---
 **Checklist**: not-sure; neither; none; not-chapter; not-running;
 if; *testable* 
---
 **Checklist**: yes; true; none; not-chapter; not-running; none;
 *testable* 
---
 **Checklist**: yes; true; none; chapter; not-running; none; *often*;
 *failed*; *testable*  
---
 **Checklist**: yes; true; often; chapter; not-running; none; *often*;
 *failed*; *testable* 
---
 **Checklist**: yes; true; none; chapter; not-running; if;
 *example-matching-definition*; *unsure*  
---
 **Checklist**: yes; true; none; chapter; not-running; if; *testable* 
 
---
 **Checklist**: yes; neither; none; not-chapter; not-running; none;
 *definition-unclear*  
---
 **Checklist**: yes; true; none; chapter; not-running; none; *testable* 
 
---
 **Checklist**: yes; true; none; not-chapter; not-running; none;
 *testable*  
---
 **Checklist**: yes; neither; none; not-chapter; not-running; none;
 *subject-unclear*
---
 **Checklist**: yes; neither; none; not-chapter; not-running; none;
 *subject-unclear*
---
 **Checklist**: no; neither; none; not-chapter; not-running; none;
 *future-with-no-ex* 
---
 **Checklist**: no; neither; none; not-chapter; not-running; none;
 *future-with-no-ex* 
---
 **Checklist**: yes; true; none; chapter; not-running; none; *testable*  
 
---
 **Checklist**: no; neither; none; not-chapter; not-running; none;
 *definition-unclear*; *failed*; *because-should-due-to*; *failed*; (*by*)
---
 **Checklist**: not-sure; neither; none; not-chapter; not-running;
 none; *example-matching-subject*; *failed*; (*0ex*)
---
 **Checklist**: yes; neither; none; not-chapter; not-running; none;
 *definition-unclear*; *failed* ; (*common sense*)
---
 **Checklist**: yes; false; none; chapter; running; none 
 
---
 **Checklist**: yes; false; none; not-chapter; not-sure-running; none 
 
---
 **Checklist**: not-sure; neither; none; chapter; not-running; none 
 
---
 **Checklist**: yes; neither; none; not-chapter; not-running; none 
 
---
 **Checklist**: yes; neither; none; not-chapter; not-running; none 
 
---
 **Checklist**: not sure; neither; none; not-chapter; not-running; none 
 
---
 **Checklist**: yes; neither; none; not-chapter; not-running; none 
 
