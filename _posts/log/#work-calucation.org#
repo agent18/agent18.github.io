@@ -4,6 +4,7 @@
 
 ** Counted for work
 *** prepping for task
+CLOCK: [2019-10-05 za 11:02]--[2019-10-05 za 11:02] =>  0:00
 CLOCK: [2019-09-30 ma 18:36]--[2019-09-30 ma 18:46] =>  0:10
 CLOCK: [2019-09-30 ma 18:34]--[2019-09-30 ma 18:36] =>  0:02
 CLOCK: [2019-09-29 zo 22:23]--[2019-09-29 zo 22:53] =>  0:30
@@ -58,6 +59,7 @@ CLOCK: [2019-09-30 ma 18:46]--[2019-09-30 ma 19:37] =>  0:15
 CLOCK: [2019-10-05 za 08:32]--[2019-10-05 za 09:07] =>  0:35
 CLOCK: [2019-10-05 za 06:57]--[2019-10-05 za 08:17] =>  1:20
 *** Grammar and cleanup (round 3)
+CLOCK: [2019-10-05 za 11:01]--[2019-10-05 za 11:02] =>  0:01
 CLOCK: [2019-10-05 za 09:07]--[2019-10-05 za 11:01] =>  1:54
 *** DPing
 *** Checking
@@ -785,7 +787,52 @@ Weekly report starting on: [2019-09-23 ma]
 
 * daily statistics
 
-#+BEGIN: clocktable :maxlevel 2 :scope file :step day :tstart "<-1d>" :tend "<tomorrow>" :compact t
+#+BEGIN: clocktable :maxlevel 2 :scope file :step day :tstart "<-7d>" :tend "<tomorrow>" :compact t
+
+Daily report: [2019-09-28 za]
+| Headline                               |    Time |
+|----------------------------------------+---------|
+| *Total time*                           | *10:09* |
+|----------------------------------------+---------|
+| DP 200 phrases (working on failure)... |   10:09 |
+| \emsp Counted for work                 |    3:39 |
+| \emsp Not counted for work             |    6:30 |
+
+Daily report: [2019-09-29 zo]
+| Headline                               |   Time |
+|----------------------------------------+--------|
+| *Total time*                           | *2:13* |
+|----------------------------------------+--------|
+| DP 200 phrases (working on failure)... |   2:13 |
+| \emsp Counted for work                 |   1:26 |
+| \emsp Not counted for work             |   0:47 |
+
+Daily report: [2019-09-30 ma]
+| Headline                               |   Time |
+|----------------------------------------+--------|
+| *Total time*                           | *4:45* |
+|----------------------------------------+--------|
+| DP 200 phrases (working on failure)... |   4:45 |
+| \emsp Counted for work                 |   3:58 |
+| \emsp Not counted for work             |   0:47 |
+
+Daily report: [2019-10-01 di]
+| Headline                               |   Time |
+|----------------------------------------+--------|
+| *Total time*                           | *4:58* |
+|----------------------------------------+--------|
+| DP 200 phrases (working on failure)... |   4:58 |
+| \emsp Counted for work                 |   3:49 |
+| \emsp Not counted for work             |   1:09 |
+
+Daily report: [2019-10-02 wo]
+| Headline                               |   Time |
+|----------------------------------------+--------|
+| *Total time*                           | *4:21* |
+|----------------------------------------+--------|
+| DP 200 phrases (working on failure)... |   4:21 |
+| \emsp Counted for work                 |   3:39 |
+| \emsp Not counted for work             |   0:42 |
 
 Daily report: [2019-10-03 do]
 | Headline                               |   Time |
@@ -799,10 +846,20 @@ Daily report: [2019-10-03 do]
 Daily report: [2019-10-04 vr]
 | Headline                               |   Time |
 |----------------------------------------+--------|
-| *Total time*                           | *2:17* |
+| *Total time*                           | *3:25* |
 |----------------------------------------+--------|
-| DP 200 phrases (working on failure)... |   2:17 |
+| DP 200 phrases (working on failure)... |   3:25 |
 | \emsp Counted for work                 |   2:17 |
+| \emsp Not counted for work             |   1:08 |
+
+Daily report: [2019-10-05 za]
+| Headline                               |    Time |
+|----------------------------------------+---------|
+| *Total time*                           | *11:02* |
+|----------------------------------------+---------|
+| DP 200 phrases (working on failure)... |   11:02 |
+| \emsp Counted for work                 |    3:50 |
+| \emsp Not counted for work             |    7:12 |
 #+END:
 
 * Shortcuts

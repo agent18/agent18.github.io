@@ -11,11 +11,10 @@ published: True
 
 ## Working on failures
 
-The plan of this essay is to look [here](/Classifying-failures-1-DP10.html), for where all I sucked in
-this practice session, and then take some of those cases and try some
-"high repetition".
+The plan of this essay is to look [here](placeholder), for where all I sucked in
+this practice session. Take some of them and try some "high repetition".
 
-With this essay I take on identifying the following:
+With this essay I take on the identifying the following:
 
 - When a claim is a belief
 - When a claim cannot be tested
@@ -28,18 +27,6 @@ then carry on with the practice.
 
 **Note**: The link shown above, is not fully edited, but it was my
 manual attempt to classify all the errors according to patterns.
-
-With every claim there is a checklist. The checklist in this essay
-looks like this: The first line has the following format:
-"Does-it-have-examples?; Is the claim true or false?". The second line
-contains marks to identify the type of claim, marks if I failed, or
-marks if I am unsure or if it took too much time etc... This will
-become clear with the actual excercise hopefully. This is used for
-word processing in the terminal.
-
-> **Checklist**: no; neither;  
-> *no-example*; *failed*; *future-with-no-ex*; *unsure*;
-> *future-with-example*; *failed*;
 
 ## Beliefs about right or wrong 
 
@@ -96,7 +83,6 @@ testable, though.)
 **Pattern**: You do not get to do X.
 
 --- 
-
 > People can say what they want particularly when (it happens to be
 > true)[1]
 
@@ -142,11 +128,10 @@ testable, though.)
 
 ---
 
-> What I do care about is (when my 5-year old daughter is in a
-> bathroom with my wife and sees Logan paul (who identifies as a
-> woman) in the bathroom)[1]. Is my wife wrong to feel a threat, The
-> answer I think is no. Why in the world would she be wrong to feel a
-> threat
+> What I do care about is (when my 5-year old daughter is in a bathroom
+> with my wife see Logan paul (who identifies as a woman) in the
+> bathroom)[1]. Is my wife wrong to feel a threat, The answer I think is
+> no. Why in the world would she be wrong to feel a threat
 
 **Claims**: I care about [1].
 
@@ -164,14 +149,14 @@ testable, though.)
 
 ---
 
-> it argues to me that there should be (a different level (lesser) of
-> threat when my wife and child see someone with hormone treatment who
-> looks like a female)[1].
+> it argues to me that there should be (a different level (lesser) of threat
+> when my wife and child see a someone with hormone treatment who look
+> like a female)[1].
 
 **Claims**: There is [1].
 
 **Subject**: When wife perceives a man to be a female, what the level
-of threat she perceives should be.
+of threat she perceives is.
 
 **Predicate**: lesser than that of a male.
 
@@ -181,8 +166,8 @@ of threat she perceives should be.
 ---
 
 > (The same people who are arguing that women ought to be afraid of
-> toxic masculinity are arguing that a man can be a woman)[1]. How is
-> that even logically coherent?
+> toxic masculinity are arguing that a man can be a woman)[1]. How is that
+> even logically coherent?
 
 **Claims**: [1] 
 
@@ -310,9 +295,9 @@ of threat she perceives should be.
 
 ---
 
-> (Businesses)[1] should be allowed to (do bad things that I don't
-> like (e.g., not serving gay people), so long as they are not forcing
-> me to do anything.)[2]
+> (Businesses)[1] should be allowed to (do bad things that I don't like
+> (like not serving gay people), so long as they are not forcing me to
+> do anything.)[2]
 
 **Claims**: [1] are to be allowed to [2].
 
@@ -338,35 +323,25 @@ of threat she perceives should be.
 **Source**:
 https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/
 
-**STM:**
 
 
-> Claim: Human civilization is at stake (because of AI).
->
-> Example:
->
-> The fate of Gorillas currently depends on the actions of
-> humans. They are currently endangered. Similarly the fate of
-> humanity may come to depend on the actions of machines than our own.
+> There is no doubting the force of [the] arguments … the problem is a
+> research challenge worthy of the next generation’s best mathematical
+> talent. (Human civilisation is at stake.)[1]
 
-In other words, we have no concrete example. If they said that
-diseases put human civilization at stake, we can point to the Black
-Plague, which killed nearly half the people of Western Europe. Or
-nukes (Japan). Or asteroids (dinosaurs).
-
----
-
-**Claims**: Human civilization is at stake (because of AI).
+**Claims**: [1]
 
 **Checklist**: no; neither;  
 *future-without-example;
 
 **Pattern**: about the future; X is at stake; 
 
-I think the goal here shall be to see if things can be tested or
-not. For example the above example cannot be tested. There is no AI
-that puts Human civilization at stake currently. *(I realize this only
-during re-reading my work that this is about testing*).
+Examples about the future, examples that predict the future; cases
+where there are no examples from the past, i.e., it is new, all seem
+to fall under this category. I think the goal here shall be to see if
+things can be tested or not. For example the below example cannot be
+tested. There is no AI unfortunately to test your shit on and see if
+HC is at stake. (I realize this only during re-reading my work.)
 
 ---
 
@@ -465,7 +440,7 @@ during re-reading my work that this is about testing*).
 **Checklist**: no; neither;  
 *future-without-example* 
 
-**Pattern**: about the future; *probably*
+**Pattern**: about the future; *can probably*?
 
 ---
 
@@ -537,7 +512,7 @@ during re-reading my work that this is about testing*).
 **Checklist**: no; neither;  
 *future-without-example* 
 
-**Pattern**: about the future; *prediction of future*; 
+**Pattern**: about the future; *prediction of future*; *machine intelligence*
 
 ---
 
@@ -553,7 +528,7 @@ during re-reading my work that this is about testing*).
 
 ---
 
-**Source:**
+**New article on 80k:**
 https://80000hours.org/podcast/episodes/the-world-desperately-needs-ai-strategists-heres-how-to-become-one/
 
 > Those organizations have an interest in making sure that AI is as
@@ -628,8 +603,8 @@ AI.
 
 **Claims**: AI safety needs progress
 
-*This can be tested, if AI they talk about is the current existing
-technologies and not some super intelligence*
+*This can be tested assuming I think, if AI they talk about is the
+current existing technologies*
 
 **Checklist**: yes; neither;  
 *no-example*; *not-future-without-example* ; *unsure* 
@@ -764,7 +739,7 @@ foot higher than usual bouncers.
 
 ---
 
-**Source:** https://80000hours.org/key-ideas/
+https://80000hours.org/key-ideas/
 
 > if (an area already receives plenty of attention)[1], then there
 > will usually already be (people)[2] working on the (most promising
@@ -777,17 +752,15 @@ foot higher than usual bouncers.
 **Predicate**: most promising interventions. 
 
 **Example**: For [1], we think of "[health in poor countries](https://80000hours.org/problem-profiles/health-in-poor-countries/)"
-where about 300 billion<span>$</span> is spent on health each
-year. Contrast that to the spending of 10 to 100 million<span>$</span>
-on factory farming.
+where about 300 billion<span>$</span> on health each year. Contrast
+that to the spending of 10 to 100 million<span>$</span> on factory
+farming.
 
 For "what [2] are working on", we think of AMF working on delivering
-bednets to people in Africa.
+bednets to people in africa.
 
-For [3], we cite 80khours suggesting [here](https://80000hours.org/problem-profiles/health-in-poor-countries/) that delivering bednets
-to people in Africa is most needed. 
-
-> Get everyone exposed to malaria sleeping under bednets.
+For [3], we cite 80khours suggesting [here](https://80000hours.org/problem-profiles/health-in-poor-countries/) as most needed: "Get
+everyone exposed to malaria sleeping under bednets".
 
 **Definition**: Checks out. 
 
@@ -816,7 +789,7 @@ to people in Africa is most needed.
 
 ---
 
-> However, over the past eight years, we’ve come to realize that the
+> However, over the past eight years, we’ve come to realise that the
 >(present generation)[1] is capable of (putting the entire future of
 >civilisation at stake)[2] if (it doesn’t wisely navigate the development
 >of these technologies)[3].
@@ -852,7 +825,7 @@ to people in Africa is most needed.
 >promising if (you don’t think people can or should focus on the
 >long-term effects of their actions)[2].
 
-**Claims**: [1] seems promising if [2].
+**Claims**: [1] seem promising if, [2].
 
 **Subject**: if [2], what [1] seems to be.
 
@@ -890,7 +863,7 @@ poor countries only, neglecting things like climate change or AI safety.
 >broad categories of career are a good place to start generating ideas
 >if you have the flexibility to consider a new career path.
 
-**Checklist**: yes; neither;; *not-in-chapter* 
+**Checklist**: yes; neither; ; *not-inchapter* 
 *no-example* 
 
 ---
@@ -910,7 +883,7 @@ poor countries only, neglecting things like climate change or AI safety.
 research career and see that "it is a good path"*
 
 *No way am able to give examples for this. This is too broad and
-pointless for me to attempt to give an example.*
+pointless for me to attempt to give an example about.*
 
 **Checklist**: yes; neither;  
 *no-example* 
@@ -929,7 +902,7 @@ were no cases of transmission of the infection to the HIV-negative
 partner during sex without a condom."---[link](https://www.theguardian.com/society/2019/may/02/end-to-aids-in-sight-as-huge-study-finds-drugs-stop-hiv-transmission)
 
 
-**Definition**: This is the best example I could get quickly. checks out.
+**Definition**: this is the best example I could get quickly. checks out.
 
 **Checklist**: yes; true;
 
@@ -937,8 +910,8 @@ partner during sex without a condom."---[link](https://www.theguardian.com/socie
 
 [Link](/deliberate-practice.html)
 
-> If (you look at experience)[1], it certainly does not look like the
-> (deciding factor regarding this)[2].
+>If (you look at experience)[1], it certainly does not look like the
+>(deciding factor regarding this)[2].
 
 **Claims**: If [1], it does not relate to skill.
 
@@ -956,8 +929,8 @@ calculations and reviewed his design.
 
 ---
 
-> If talent existed and refused to show itself even after so many years
-> of life, it beckons if inate ability even exists.
+>If talent existed and refused to show itself even after so many years
+>of life, it beckons if inate ability even exists.
 
 **Claims**: If talent existed, and it refused to show itself even
 after so many years of life, then talent doesn't exist.
@@ -969,11 +942,11 @@ after so many years of life, then talent doesn't exist.
 
 **Claims**: Everyone would ~~achieve greatness~~ do X, if it were easy and fun.
 
-**Example**: *I think the closest I can come to giving an example, is
-to give an example of a certain X and not 'greatness' (as I wouldn't
+**Example**: *I think the closest I can come to giving an example, is to
+give an example of a certain X and not just greatness (as I wouldn't
 have an example for that claim)*
 
-Every Friday night my colleagues religiously plan outings with friends
+Every friday night my colleagues religiously plan outings with friends
 and get wasted. It costs very little and is fun.
 
 **Definition**: checks out.
@@ -992,7 +965,7 @@ and get wasted. It costs very little and is fun.
 **Claims**: Knowledge about field was not required (to be successful),
 if you knew [2].
 
-*The if statement is unclear. I can falsify the claim without the if
+*the if statement is unclear. I can falsify the claim without the if
 statement, but with it is very hard.*
 
 **Checklist**: no; neither;  
@@ -1011,7 +984,7 @@ Don't have an example for [2].
 **Claims**: You needed to know very little about the field to be
 successful, if [4].
 
-**Example**: The AlphaGo system that defeated Lee Sedol (4-1). It
+**Example**: The AlphaGo system that defeated Lee Sedol (4-1),
 required tens of millions of games of training data.
 
 **Definition**: falsifies claim.
@@ -1037,7 +1010,7 @@ familiar), with "Mitochondria" (which is familiar).
  
  ---
  
-**Claims**: If the letters are in random order, it is going to be
+**Claims**: Given a word, if the letters are in random order, it is going to be
 pretty hard to remember.
 
 **Example**: "asdfjahsdkfjhagskdfjhg"
@@ -1076,7 +1049,7 @@ I was unable to maintain the heart rate.
 **Definition**: checks out.
 
 **Checklist**: yes; true;
-*if*; *time*; *example-matching-subject*; *unsure*  
+*if*; *time* 
 
 ---
 
@@ -1152,30 +1125,6 @@ it had no effect on his experiment or the production of N-rays.
 
 ### It is B
 
-> "There was a little girl in California who was part of the second
-> class to integrate her public schools and she was bused to school
-> everyday, and that little girl was me," she said. "So, I will tell
-> you: on this subject, (it)[1] cannot be (an intellectual debate among
-> Democrats)[2]. We have to take it seriously. We have to act swiftly."
-
-**Claims**: [1] cannot be [2].
-
-**Subject**: Discussion amongst Democrats
-
-**Predicate**: cannot be intellectual
-
-**Example**: *Very vague labels and hard to give examples for this*
-
-**Definition**: *No idea how to test against the predicate, nor do I
-have an example.*
-
-**Checklist**: yes; neither; 
-*subject-predicate-split*; *time*; *failed* 
-
-**pattern**: "It cannot be BC DEF"
-
----
-
 https://en.wikipedia.org/wiki/2020_Democratic_Party_presidential_debates_and_forums
 
 >It is important to note (that previously DNC policy has been passed
@@ -1185,7 +1134,7 @@ https://en.wikipedia.org/wiki/2020_Democratic_Party_presidential_debates_and_for
 
 **Claims**: It is important to note [1].
 
-**Subject**: The importance of noting [1].
+**Subject**: the importance of noting [1].
 
 **Predicate**: is important.
 
@@ -1217,7 +1166,7 @@ https://en.wikipedia.org/wiki/2020_Democratic_Party_presidential_debates_and_for
 
 **Claims**: It is unclear how long [1].
 
-**Subject**: The clarity of how long [1] is.
+**Subject**: the clarity of how long [1] is.
 
 **Predicate**: is unclear.
 
@@ -1250,8 +1199,7 @@ ditto
 **Claims**: It is exactly because [1] that these moments (where he
 attacks Biden) may work for him.
 
-**Subject**: The reason for his (Castro's) attacks on Biden, working
-for him (Castro).
+**Subject**: The reason for the attacks on biden, working for him(castro).
 
 **Predicate**: [1].
 
@@ -1287,22 +1235,6 @@ for him (Castro).
 
 
 ## adjective
-### A is important
-
-> Claims: I have important things to do in life (and hence cannot
-> marry)
->
-
-Look at the example I gave
-
->
-> Example: I have spent roughly 500 hrs over one year on Concrete
-> thinking and still struggle with ten phrases an hour.
->
-
-Having trouble with proving something is important
-
----
 
 **Source**: https://www.givewell.org/shallow/climate-change/extreme-risks
 
@@ -1375,18 +1307,18 @@ muted sound was not at all scary.
 
 **Example**: Lazlo Polgar, married someone with the intention of
 making his kids prodigies in some sport. He later chose Chess as that
-would be easy to measure progress in. Judit polgar became grandmaster
-at 15. Susan Polgar became top ranked female player at the age
-of 15. She is also a woman grandmaster. The odds that he was able to
-make all his kids grandmasters is the evidence for the claim.
+would be easy to measure. Judit polgar became grandmaster at 15. Susan
+Polgar became top ranked female player at the age of 15. She is also a
+woman grandmaster. The odds that he was able to make all his kids
+grandmasters is the evidence for the claim.
 
 **Definition**: checks out.
 
 **Checklist**: yes; true.
  
----
+ ---
  
-**Claims**: critical thinking is obviously important in the real
+ **Claims**: critical thinking is obviously important in the real
  world.
   
 **Checklist**: yes; neither;  
@@ -1398,11 +1330,11 @@ make all his kids grandmasters is the evidence for the claim.
  
 **Example**: I go often to shoot balls in the court and practice. This
 particular day, had been after a few weeks of 0 practice. I kept
-shooting and I got something like 20% shooting over maybe 100 shots. I
-should probably give up this sport. My friend (who is extremely good)
+shooting and I got I think something like 20% shooting over maybe 100
+shots (I should probably give up). My friend (who is extremely good)
 saw me and said I was all over the place with my action, performing
 different motions for every single shot, suggested I shoot from the
-forehead in one motion and for the next 10 shots kept criticizing my
+fore head in one motion and for the next 10 shots kept criticizing my
 every move.
 
 Almost instantaneously, I started nailing every single shot. It didn't
@@ -1417,11 +1349,11 @@ recent hiatus.
 ---
 
 > running to the point of exhaustion was centrally important activity
-> (for Jerry Rice's success.)
+> (for jerry Rice's success.)
  
-*I could look at Jerry before joining NFL and Jerry after he won his
+I could look at Jerry before joining NFL and Jerry after he one his
 first season and compare what was the difference, but I don't have
-such data.*
+such data.
  
 **Checklist**: yes; neither; 
 *no-example*; (hard to give an example here due to lack of data)
@@ -1441,23 +1373,22 @@ such data.*
 
 > Choosing the aspects of performance is itself an important skill
 
-**Subject**: How important is the skill of choosing the aspects of performance.
+**Subject**: How important a skill is choosing the aspects of performance.
 
-**Example**: *X chose ABC, and Y chose XYZ. Y is grandmaster,
-X is not.* How will I even get such examples. :(
-
-*Somehow, how the example could look became clearer when I wrote out
-the subject*
+**Example**: no example. X chose ABC, and Y chose XYZ, Y is grandmaster
+X is not. How will I even get such examples.
 
 **Definition**: -
 
 **Checklist**: yes; neither
-*no-example*; *time*; 
+*no-example*; *time*; (somehow how the example could look became
+clearer when I wrote out the subject )
 
 ---
 
 > High repetition is the most important difference between deliberate
 > practice of a task and performing the task for real, when it counts.
+
 
 I do not think I can find an example for the above claim mainly
 because of "most". How do I give an example that out of all the
@@ -1480,9 +1411,9 @@ the most important rather than practice at that point.
 **Predicate**: is no fun
 
 **Example**: As a highest level figure skater, Shizuka Arakawa trained
-on the jumps she couldn't do (most important). Arakawa's road to the
-gold medal involved at least twenty thousand derriere impacts on an
-unforgiving surface.
+on the jumps she couldn't do. Arakawa's road to the gold medal
+involved at least twenty thousand derriere impacts on an unforgiving
+surface.
 
 **Definition**:  It cannot be fun to fall on ice on your ass 20000 times.
 
@@ -1517,10 +1448,10 @@ difficult effort.
 had 7410 hours of lifetime practice whereas the "ok" students at the
 institute clocked 3420 hours.
 
-*I concede that I have not dealt with the large numbers part but I
+*I concede that I have not dealt with the large numbers part but
 assume the study took sufficiently large numbers*
 
-**Definition**: Checks out. These trends seem to inform us that more
+**Definition**: checks out. These trends seem to inform us that more
 practice leads to greatness.
 
 **Checklist**: yes; true;
@@ -1602,7 +1533,7 @@ defeated the GO champion 4-1.
 
 **Predicate**: attitudes and beliefs
 
-**Example**: "Figuring out specific goals and plans for what you'll
+**Example**: "figuring out specific goals and plans for what you'll
 be doing every day sounds hard and requires high motivation"
 
 *This is the best example I see from the book.*
@@ -1641,21 +1572,21 @@ strides in order to maintain certain ratios."
 
 ## Statistics
 
-**Total claims**: 103
+**Total claims**:
 
-**Total time**: 22hrs (6 days)
+**Total time**:
 
-**Round 1**: 18 hrs
+**Round 1**:
 
-**Round 2**: 2 hrs
+**Round 2**:
 
-**Round 3**: 2 hrs
+**Round 3**:
 
 **general clean up**:
 
-**time/day**:3.6hrs per day
+**time/day**:
 
-**time/claim**: 13.2 mins per claim (avg over 22 hrs)
+**time/claim**:
 
 
 P.S Will add the "score of this session" later. 
