@@ -49,10 +49,10 @@ have curly hair, here are the batsmen we found: Sachin Tendulkar"
 
 [Source](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/).
 
-> “There is (no doubting)[0] the force of the arguments)[1] … (the problem)[2] is
-> (a research challenge worthy of the next generation’s best
-> mathematical talent)[3]. (Human civilisation)[4] is (at stake)[5].”  – Clive
-> Cookson, Science Editor at the Financial Times 
+> “There is (no doubting)[0] the force of the arguments)[1] … (the
+> problem)[2] is (a research challenge worthy of the next generation’s
+> best mathematical talent)[3]. (Human civilisation)[4] is (at
+> stake)[5].”  – Clive Cookson, Science Editor at the Financial Times
 
 **Claims**: There is [0] the [1].
 
@@ -85,7 +85,8 @@ as well as a typical human – being created by 2050, and a greater than
 **Definition**: I don't know what the predicate label is trying to say.
 
 **Checklist**: not-sure; neither; none; chapter; not-running; none;
-*unsure-if-it-is-example*; *definition-unclear* ; *time*; *failed*;
+*definition-unclear* ; *time*; (didn't give up in time, was trying
+understand it till the end)
 
 ---
 
@@ -643,14 +644,14 @@ led to an increase in voting of black people in [Mississippi from
 state.
 
 **Checklist**: yes; true; none; not-chapter; not-running; none;
-*because-should-due-to*; *unsure*; *crime-should-does-not-pay*; *time*
 
 ---
 
 **Claims**: Federal Government **should** have stepped in to reduce the
 delay in desegregation.
 
-**Checklist**: yes; neither; none; not-chapter; not-running; none; "should" 
+**Checklist**: yes; neither; none; not-chapter; not-running; none;
+"should" ; *time*;
 
 --- 
 
@@ -709,7 +710,7 @@ the disfranchisement of racial minorities.
 unable to give example and compare, as a result.*
 
 **Checklist**: not-sure; neither; none; not-chapter; not-running;
-none; *definition-unclear*; *unsure-if-has-example*; *failed*  
+none; *no-example*; *failed* (Failed to give example for my own claim).
 
 ---
 
@@ -769,7 +770,7 @@ have kids. He is greater than 40 years of age and has no kids now.
 > am (ready to do)[16]. 
 
 **Claims**: [8], regarding marriage, is already [9]   
-aka "I am not going to marry ever".
+aka "*I am not going to marry ever*".
 
 **Subject**: [8], regarding marriage
 
@@ -780,7 +781,7 @@ aka "I am not going to marry ever".
 **Definition**: -
 
 **Checklist**: no; false; none; not-chapter; not-running; none;
-*future-with-no-ex*; 
+*no-example*; *almost-failed*;
 
 ---
 
@@ -802,8 +803,10 @@ and that I need to spend more effort on it to improve.
 
 *Don't know if I did CT right here*
 
-**Checklist**: yes; true; none; not-chapter; not-running;
-none; *a-is-important*; *failed*  
+**Checklist**: yes; true; none; not-chapter; not-running; none;
+*a-is-important*; *failed*; *subject-predicate-split*; *failed*;
+("What I have" is the subject); (even if the claim was "My important
+things need focus", then the subject is still wrong)
 
 ---
 
@@ -820,7 +823,9 @@ Vishwanath Anand are all married.
 in their fields. Example doesn't match the definition.
 
 **Checklist**: yes; false; none; not-chapter; not-running; none;
-*missed-comparison*; *failed* 
+*subject-predicate-split*; *failed* (I think that this was the root
+cause for the wrong example, because when I change the subject
+automatically I realize what I need to do.)
 
 *Here I should have compared for example what Eliezer is and would have
 been if he was not married or sumpin in that context.*
@@ -838,7 +843,8 @@ been if he was not married or sumpin in that context.*
 **Definition**: Checks out.
 
 **Checklist**: yes; true; none; not-chapter; not-running; none;
-*a-is-important*; *unsure* 
+*a-is-important*; *unsure* (I am not unsure anymore, this is how far I
+can go with checking definitions like "important")
 
 ---
 
@@ -855,7 +861,8 @@ or data science, roughly three hours a day after my nine to five job
 **Definition**: Checks out.
 
 **Checklist**: yes; true; none; not-chapter; not-running; none;
-*a-is-important*; *unsure* 
+*a-is-important*; *unsure*; (I am not unsure anymore, this is how far I
+can go with checking definitions like "important")
 
 ---
 
@@ -872,7 +879,8 @@ opportunities to go to the US. I have heard stories about it. Looks
 like example doesn't match the definition.
 
 **Checklist**: yes; false; none; not-chapter; not-running; none;
-*matching-definition*; *unsure*; *time*  
+*matching-definition*; *unsure*; *time*  (You need to understand that
+these are vague predicates I guess)
 
 ---
 
@@ -933,7 +941,6 @@ atleast one kid.
 **Definition**: checks out!
 
 **Checklist**: yes; true; none; not-chapter; not-running; none;
-; *failed* 
 
 ---
 
@@ -950,7 +957,6 @@ young though, wanted to interact with him all the time.
 **Definition**: Checks out.
 
 **Checklist**: yes; true; none; not-chapter; not-running; none;
-*subject-example*; *unsure*  
 
 ---
 
@@ -1016,7 +1022,7 @@ label "worth for parents". I don't understand what it could stand for.*
 **Definition**: -
 
 **Checklist**: yes; neither; none; not-chapter; not-running; none;
-*self-claim-with-0-ex*; *failed* 
+*self-claim-with-0-ex*; *failed*; *definition-unclear*;  
 
 ---
 
@@ -1134,7 +1140,7 @@ with their kid even :().
 **Definition**: -
 
 **Checklist**: yes; neither; none; not-chapter; not-running; none;
-*because-should-due-to*; *failed*; *self-claim-with-0-ex*; *failed*  
+*self-claim-with-0-ex*; *failed*  
 
 ---
 
@@ -1166,7 +1172,7 @@ subsequent year.
 
 ---
 
-**Claims**: [10], struggling with their kids
+**Claims**: [10], struggle with their kids
 
 **Subject**: What [10] do. 
 
@@ -1197,7 +1203,7 @@ repulsive example came to my mind*
 **Definition**: -
 
 **Checklist**: no; neither; none; not-chapter; not-running; none;
-*unsure-if-has-example*; *failed*; *self-claim-with-0-ex*; *failed*  
+*self-claim-with-0-ex*; *failed*  
 
 ---
 
@@ -1242,7 +1248,7 @@ an example*
 **Definition**: 
 
 **Checklist**: not-sure; neither; none; not-chapter; not-running; if; 
-*missed-comparison*; *failed* 
+*because-should-due-to*; *failed*;
 
 ---
 
@@ -1262,9 +1268,7 @@ one.*
 **Definition**: -
 
 **Checklist**: yes; neither; none; not-chapter; not-running; none;
-*missed-if*; *failed*;  *self-claim-with-0-ex*; *failed* 
-
-*missed if mis-interpreting because*
+*self-claim-with-0-ex*; *failed* 
 
 ---
 
@@ -1283,7 +1287,7 @@ at 35.
 
 **Predicate**: is much less
 
-**Example**: *I don't 0 examples.*
+**Example**: *I have 0 examples.*
 
 **Definition**: - 
 
@@ -1312,6 +1316,8 @@ gets a job) is 7.25 <span>$</span>.
 **Definition**: checks out as major difference (almost ten times)
 
 **Checklist**: yes; true; none; chapter; not-running; none 
+
+---
 
 > (Average (pay is 0.63 <span>$</span>))[1], that means there are (states
 > where Prisoners make considerable less )[2]
@@ -1408,7 +1414,7 @@ except as a punishment for a crime.
 
 ---
 
-> (The amendment abolishing slavery)[1] is (not  the one  that you want to
+> (The amendment abolishing slavery)[1] is (not the one that you want to
 > suddenly include the word "except")[2].
 
 **Claims**: [1] is [2].
@@ -1582,9 +1588,9 @@ do it once they are released.
 
 **Claims**: [1] is far from [2] that prisoners do.
 
-**Subject**: [1] that prisoners do
+**Subject**: [2] that  prisoners do
 
-**Predicate**: is far from [2].
+**Predicate**: is far from [1].
 
 **Example**: In Louisiana state penitentiary, there is this thing
 called convict poker (prison rodeo) where convicts are playing poker
@@ -1596,7 +1602,6 @@ can earn 100s in while participating in the rodeo.~~
 **Definition**: Checks out as another job that is dangerous.
 
 **Checklist**: yes; true; none; chapter; not-running; none;
-*subject-predicate-split*; *failed* 
 
 ---
 
@@ -1650,7 +1655,7 @@ working "rewarding".~~ *There are not any examples for this*
 **Definition**: -
 
 **Checklist**: yes; neither; none; not-chapter; not-running; none;
-*X-prefers-A-to-B*; *time*;  *testable*  
+*~~X-prefers-A-to-B~~*; *time*;  *testable*  
 
 ---
 
@@ -1938,7 +1943,7 @@ the call didn’t get too expensive."---[Source](https://www.bostonglobe.com/met
 **Claims**: The costs (of the calls) can add up and be a massive
 problem for prisoners.
 
-**Subject**: The costs of the calls 
+**Subject**: What the costs of the calls are being.
 
 **Predicate**: can be massive problem for prisoners.
 
@@ -1950,7 +1955,6 @@ son." --- [Source](https://www.bostonglobe.com/metro/2018/05/03/lawsuit-challeng
 **Definition**: checks out!
 
 **Checklist**: yes; true; none; not-chapter; not-running; none;
-*example-matching-definition*; *failed* 
 
 ---
 
@@ -2112,7 +2116,8 @@ https://ellabakercenter.org/sites/default/files/downloads/who-pays.pdf
 **Definition**: checks out.
 
 **Checklist**: yes; true; none; chapter; not-running; if;
-*example-matching-definition*; *unsure*  
+*example-matching-definition*; *unsure*; *because-should-due-to*;
+*didn't-recognize*
 
 ---
 
@@ -2224,7 +2229,7 @@ prisoners more.
 **Definition**: -
 
 **Checklist**: yes; neither; none; not-chapter; not-running; none;
-*subject-unclear*
+*subject-unclear*; *no-example*;
 
 ---
 
@@ -2325,9 +2330,6 @@ investigator.
 
 **Checklist**: yes; neither; none; not-chapter; not-running; none;
 *definition-unclear*; *failed* ; (*common sense*)
-
-
-
 
 <!-- > When you combine the low to non-existent wages that the prisoners -->
 <!-- > get paid with these suprisingly high costs that they and their -->
