@@ -3664,6 +3664,49 @@ t-analysis, often suggest a remedy.
 
 ---
 
+## General statistics
+
+Over the past 2 months I have been working on this and the essay on
+"working on failures". It took a "lot of time" to read and work out
+the claims, identifying my failures, to find a way to make the
+first practice session, write some bash scripts etc... Also the books
+I took were a lot of work (10 claims per hour was very very rare). I
+can't remember spending 2 months for roughly 250 claims. In between I
+also spent time to write some bash scripts that would process my
+failures and give me stats such as below:
+
+**Total claim:** 136
+
+**Failed:** 49 claims
+
+**Failure types** as seen below:
+
+*example-matching-definition*: 11
+
+*no-example*: 23
+
+*definition-unclear*: 2
+
+*subject-predicate-split*: 1
+
+*example-matching-subject*: 8
+
+*because-should-due-to*: 2
+
+I guess the plan would be to take types where I have failed the most
+and practice them and follow it up with feedback if it has helped. How
+do we know if something has helped is to see a SCORE. So for example,
+if I see only 5 *no-example* failures instead of 23, in the next
+practice session of the same books then it would be considered an
+improvement in Score.
+
+**Over the last two months**
+
+Amount of effort (not just DPing) put on average per week (not only
+DPing): 20hrs per week or 2.8 hrs per day avg (Courtesy:Org-mode,
+PNN). Its not great, its not what I set out for in march which was 4
+hrs.
+
 ## Appendix: Round 1
 
 I try to count distractions (acronym:dist), and how much time I spend per
@@ -3760,47 +3803,4 @@ make shit happen Pnn!
 | 22/09 | 30   | 5      | 10      | 4    | 3       | 7.5       |           |
 | 23/09 | 60   | 10     | 20      | 15   | 3       | 4         |           |
 | 23/09 | 45   | 10     | 20      | 7    | 2.25    | 6.42      |           |
-
-## General statistics
-
-Over the past 2 months I have been working on this and the essay on
-"working on failures". It took a "lot of time" to read and work out
-the claims, identifying my failures, to find a way to make the
-first practice session, write some bash scripts etc... Also the books
-I took were a lot of work (10 claims per hour was very very rare). I
-can't remember spending 2 months for roughly 250 claims. In between I
-also spent time to write some bash scripts that would process my
-failures and give me stats such as below:
-
-**Total claim:** 136
-
-**Failed:** 49 claims
-
-**Failure types** as seen below:
-
-*example-matching-definition*: 11
-
-*no-example*: 23
-
-*definition-unclear*: 2
-
-*subject-predicate-split*: 1
-
-*example-matching-subject*: 8
-
-*because-should-due-to*: 2
-
-I guess the plan would be to take types where I have failed the most
-and practice them and follow it up with feedback if it has helped. How
-do we know if something has helped is to see a SCORE. So for example,
-if I see only 5 *no-example* failures instead of 23, in the next
-practice session of the same books then it would be considered an
-improvement in Score.
-
-**Over the last two months**
-
-Amount of effort (not just DPing) put on average per week (not only
-DPing): 20hrs per week or 2.8 hrs per day avg (Courtesy:Org-mode,
-PNN). Its not great, its not what I set out for in march which was 4
-hrs.
 
