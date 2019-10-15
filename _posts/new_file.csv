@@ -1,480 +1,534 @@
 
-**Checklist at the end of every example-claim sequence**: 
+**Checklist**: yes; neither;;
+*no-example*; *failed*; (*no idea how the example would look*);
+**Pattern**: "random-sampling"
 
 
-**Checklist**: yes; false; best; not-chapter; not-running; if  
+**Checklist**: yes; true; 
 
 
-**Checklist**: yes; false; no; not-chapter; not-running; none;
+**Checklist**: yes; neither; 
+*no-example*;
 
 
-**Checklist**: not-sure; neither; none; chapter; not-running; none;
-*definition-unclear* ; *time*; (didn't give up in time, was trying
-understand it till the end)
-
-
-**Checklist**: no; neither; none; not-chapter; not-running; none;
+**Checklist**: no; neither;
 *future-with-no-ex*; 
 
 
-**Checklist**: yes; True; most; chapter; not-running; none; *testable* 
+**Checklist**: no; neither;;;; if
+*no-example*; *failed*; **Pattern**: *A-leads-to-B*; *failed* (didn't know
+if it was possible to give example for this)
 
 
-**Checklist**: yes; false; none; chapter; not-running; none;
-*testable* 
+**Checklist**: yes; neither;  
+*because-should-due-to*; *time*; (I was unsure for a bit if it really
+was "because" statement);
 
 
-**Checklist**: yes; false; none; chapter; not-sure-running; none;
-"testable"; *cannot-identify-if-running*; *failed* 
+**Checklist**: yes; true; 
 
 
-**Checklist**: yes; true; none; chapter; running; none;
+**Checklist**: yes; true; 
+*often*; *failed*; (don't know how to give an example for often) ??
 
 
-**Checklist**: yes; false; none; not-chapter; running; none; "testable"
+**Checklist**: yes; true;
 
 
-**Checklist**: yes; true; none; not-chapter; not-running; none;
-*testable* 
+**Checklist**: yes; true
 
 
-**Checklist**: yes; true; none; not-chapter; not-running; none; "testable"
+**Checklist**: yes; neither; 
+*no-example* 
 
 
-**Checklist**: yes; true; none; chapter; running; none; *testable* 
+**Checklist**: yes; neither; 
+*no-example* 
 
 
-**Checklist**: yes; false; none; not-chapter; not-sure; none; *testable*
+**Checklist**: yes; true; ; not-chapter; not-running; none  
 
 
-**Checklist**: yes; true; none; chapter; not-sure; none; *testable* 
+**Checklist**: no; neither; 
+*future-with-no-ex*; *definition-unclear*;
 
 
-**Checklist**: yes; true; none; not-chapter; not-sure; none;
-*testable* 
+**Checklist**: no; neither; 
+*because-should-due-to*; *future-with-no-ex* 
 
 
-**Checklist**: yes; neither; none; not-chapter; not-sure; none;
+**Checklist**: no; neither; 
+"future with no ex"
 
 
-**Checklist**: yes; true; none; not-chapter; not-running; none;
-*testable* 
+**Checklist**: no; neither; 
+"future with no ex"  
 
 
-**Checklist**: yes; neither; none; not-chapter; not-running; none;
-*subject-predicate-split*; *time*; *failed* 
+**Checklist**: No; neither;
+*future-with-no-ex* 
 
 
-**Checklist**: yes; neither; none; not-chapter; not-running; given;
-*testable* 
+**Checklist**: no; true; 
+*future-with-no-ex* 
 
 
-**Checklist**: yes; false; none; chapter; not-sure; none; *testable* 
+**Checklist**: no; neither;
+*future-with-no-ex* 
 
 
-**Checklist**: yes; true; none; not-chapter; not-sure; none;
-*testable* 
+**Checklist**: no; neither;
+*future-with-no-ex* 
 
 
-**Checklist**: yes; false; none; not-chapter; not-running; none;
-*testable* 
+**Checklist**: no; neither; 
+*future-with-no-ex* 
 
 
-**Checklist**: yes; true; none; not-chapter; not-running; none;
-*testable* 
+**Checklist**: yes; neither;  
 
 
-**Checklist**: yes; true; many; not-chapter; not-running; none;
-*testable* 
+**Checklist**: no; neither; 
+*future-with-no-ex*; 
 
 
-**Checklist**: yes; true; none; not-chapter; not-running; none;
-*testable* 
+**Checklist**: yes; neither; 
 
 
-**Checklist**: yes; false; none; not-chapter; not-running; none;
-*testable* 
+**Checklist**: yes; neither;
+*future-with-no-ex*; *definition-unclear* 
 
 
-**Checklist**: yes; true; none; not-chapter; not-running; none;
-*testable* 
+**Checklist**: no; neither; 
+*future-with-no-ex*;
 
 
-**Checklist**: yes; true; none; not-chapter; not-running; none;
+**Checklist**: yes; false; 
+*future-with-no-ex*; 
 
 
-**Checklist**: yes; neither; none; not-chapter; not-running; none;
-"should" ; *time*;
+**Checklist**: yes; true;
+*identifying the real claim*; *time*; (2hrs); **Pattern**: No idea;
 
 
-**Checklist**: yes; true; none; not-chapter; not-running; none;
-*testable* 
+**Checklist**: no; neither;
+*future-with-no-ex*; *could*
 
 
-**Checklist**: not-sure; neither; none; not-chapter; not-running;
-none; *no-example*; *failed* (Failed to give example for my own claim).
+**Checklist**: no; neither; 
+*no-example* 
 
 
-**Checklist**: yes; true; none; not-chapter; not-running; none;
-*testable* 
+**Checklist**: no; neither;
+*no-example*; *definition-unclear* 
 
 
-**Checklist**: yes; true; none; not-chapter; not-running; none;
-*testable* 
+**Checklist**: no; neither;
+*big-gigantic-cluster-fuck-of-a-sentence* (I need an example to
+understand and NB never wants to provide an example)
 
 
-**Checklist**: yes; true; none; not-chapter; not-running; none; *testable* 
+**Checklist**: yes; neither; 
+*no-example*;
 
 
-**Checklist**: no; false; none; not-chapter; not-running; none;
-*no-example*; *almost-failed*;
+**Checklist**: yes; true;
+*example-matching-subject*; *time* (46mins); **Pattern**:
+*claims-involving-studies*?
 
 
-**Checklist**: yes; true; none; not-chapter; not-running; none;
-*a-is-important*; *failed*; *subject-predicate-split*; *failed*;
-("What I have" is the subject); (even if the claim was "My important
-things need focus", then the subject is still wrong)
+**Checklist**: yes; neither; 
 
 
-**Checklist**: yes; false; none; not-chapter; not-running; none;
-*subject-predicate-split*; *failed* (I think that this was the root
-cause for the wrong example, because when I change the subject
-automatically I realize what I need to do.)
+**Checklist**: yes; true; ; not-chapter
 
 
-**Checklist**: yes; true; none; not-chapter; not-running; none;
-*a-is-important*; *unsure* (I am not unsure anymore, this is how far I
-can go with checking definitions like "important")
+**Checklist**: yes; neither; 
+*no-example*; 
 
 
-**Checklist**: yes; true; none; not-chapter; not-running; none;
-*a-is-important*; *unsure*; (I am not unsure anymore, this is how far I
-can go with checking definitions like "important")
+**Checklist**: yes; false; 
+*example-matching-subject*; *time*; **Pattern**: no idea.; (seemed
+mighty hard and convoluted [1] especially. During the third correction
+even, it took me 15 mins to understand [1].);
 
 
-**Checklist**: yes; false; none; not-chapter; not-running; none;
-*matching-definition*; *unsure*; *time*  (You need to understand that
-these are vague predicates I guess)
+**Checklist**: yes; true; 
 
 
-**Checklist**: yes; false; none; not-chapter; not-running; none;
-*testable*  
+**Checklist**: yes; true;
 
 
-**Checklist**: yes; true; none; not-chapter; not-running; none;
-*testable* 
+**Checklist**: yes; true; 
 
 
-**Checklist**: yes; true; none; not-chapter; not-running; none;
+**Checklist**: yes; true;;not-chapter;
 
 
-**Checklist**: yes; true; none; not-chapter; not-running; none;
+**Checklist**: yes; true;; not-chapter;
 
 
-**Checklist**: yes; true; none; not-chapter; not-running; none;
-*testable* 
+**Checklist**: yes; true;; not-chapter; 
+*ensures*; *unsure*; *missed-comparison*; :);
 
 
-**Checklist**: yes; false; always; not-chapter; not-running; none;
-*testable* 
-	
+**Checklist**: yes; true;; not-chapter
+
+
+**Checklist**: yes; neither; 
+*no-example*; *time*;
+
+
+**Checklist**: yes; true; 
+*example-matching-definition*; *unsure*; *time*; **Pattern**: "Chance
+mechanisms"; "measures of uncertainty"; enable
+
+
+**Checklist**: yes; neither; 
+
+
+**Checklist**: yes; neither;
+
+
+**Checklist**: yes; neither;
+*no-example*;
+
+
+**Checklist**: yes; true;; not-chapter; 
+*often*; ??? ; *example-matching-subject*; *unsure*; **Pattern**:
+"observational-studies"; "random-samples";
+
+
+**Checklist**: yes; true; ; not-chapter;
+*example-matching-definition*; *unsure*; *time*; *A-ensures-B*;
+*unsure*; **Pattern**: "probability"; "ensures"
+
+
+**Checklist**: yes; true;
+*example-matching-subject*; *time* **Pattern**: "long-sentence"
+
+
+**Checklist**: yes; true;
+
+
+**Checklist**: yes; neither;; 
+*no-example*;
+
+
+**Checklist**: yes; false;  
+*example-matching-subject*; *unsure*; *time*; **Pattern**: No-idea
+
+
+**Checklist**: yes; true; 
+
+
+**Checklist**: yes; neither;;
+*no-example*; *failed*; (*no idea how the example could look*);
+**Pattern**: "random-sampling"
+
+
+**Checklist**: yes; neither; *no-example*; *failed*; (*no idea how the
+example could look*); **Pattern**: "random-sampling"
+
+
+**Checklist**: yes; true; *no-example*; *failed*; (*no idea how the
+example could look*); **Pattern**: "random-sampling"
+
+
+**Checklist**: yes; true;
+
+
+**Checklist**: yes; neither;;
+*no-example*;
+
+
+**Checklist**: yes; neither; 
+*no-example*;
+
+
+**Checklist**: yes; neither; 
+*no-example*;
+
+
+**Checklist**: yes; false; 
+*no-example*; *failed*; **Pattern**: false; *no-way-to-do-X*
+
+
+**Checklist**: yes; neither; 
+*no-example*; *failed* (because I don't know how the example is
+expected to look). **Pattern**: "Randomized-experiments";
+"confounding variables";
+
+
+**Checklist**: yes; neither;
+*no-example*; *failed* (I don't even know how to simulate such an
+experiment on randomization)
+
+
+**Checklist**: not-sure;neither
+*no-example*; *failed*; (am I even expected to give an example or not.)
+
+
+**Checklist**: yes; true; 
+*example-matching-definition*; *time*;
+
+
+**Checklist**: yes; true;
+
+
+**Checklist**: yes; true;; not-chapter
+
+
+**Checklist**: yes; true; 
+
+
+**Checklist**: yes; false; 
+*definition-unclear*;
+
+
+**Checklist**: yes; true;
+*if-then*
+
+
+**Checklist**: yes; true; none; not-chapter;
+*example-matching-subject*; *time*; **Pattern**: no-idea 
+
+
+**Checklist**: yes; neither.
+*because-should-due-to*; *almost-missed*
+
+
+**Checklist**: yes; true; not-chapter; 
+
+
+**Checklist**: yes; false; 
+*example-matching-definition*; *failed*; (one of us is wrong and it is
+most likely me.); **Pattern**: "t-distribution"?
+
+
+**Checklist**: yes; true; 
+*example-matching-definition*; *time* 
+
+
+**Checklist**: yes; true; ;;;; *if*
+*example-matching-definition*; *time*; 
+
+
+**Checklist**: yes; neither;
+*no-example*; *failed*; **Pattern**: *impossible*;
+
+
+**Checklist**: yes; neither; 
+*no-example*; *failed*; **Pattern**: "inferential-statements";
+"theoretical results about the sampling distribution"
+
+
+**Checklist**: yes; neither.
+*no-example*; *failed*;  *definition-unclear* (not sure atall what this [3] could
+be) **Pattern**: "complete-analysis"
+
+
+**Checklist**: yes; true;
+
+
+**Checklist**: yes; neither;
+*no-example*; *failed*; (as it is important)
+
+
+**Checklist**: yes; neither;
+*no-example*; *failed*; (as it is important) 
+
+
+**Checklist**: yes; neither;
+*no-example* ; *failed*; **Pattern**: *impossible*
+
+
+**Checklist**: yes; true; 
+*no-example*; *failed*; (am I even expected to give an example or
+not.); **Pattern**: "derived";
+
+
+**Checklist**: yes; true;
+*example-matching-definition*; *time*;
+
+
+**Checklist**: yes; true;
+*no-example*; 
+
+
+**Checklist**: yes; true;
+*example-matching-definition*; *time*; **Pattern**: "CI-testing";
+"randomization based procedure";
+
+
+**Checklist**: yes; neither; 
+*no-example*; *failed*; *time*; (>3 hrs) **Pattern**: "relationship";
+"testing"; "CI"
+
+
+**Checklist**: yes; true;
+*no-example*; 
+
+
+**Checklist**: yes; neither;
+*no-example*; *time*; *failed*; *definition-unclear*; *very very hard*;
+**Pattern**: "comprehended"; "comparing"; "p-values"
+
+
+**Checklist**: yes; true;
+
+
+**Checklist**: yes; true;
+
+
+**Checklist**: yes; neither; 
+
+
+**Checklist**: yes; neither;  
+*no-example*; 
+
+
+**Checklist**: yes; true.
+
+
+**Checklist**: yes;true
+ 
+
+
+**Checklist**: yes; FALSE;
+*example-matching-definition*; *unsure*; (book says otherwise);
+
+
+**Checklist**: yes; neither;
+*no-example*
+
+
+**Checklist**: yes; neither; 
+*no-example*
+
+
+**Checklist**: yes; false; 
+*no-example*; 
+
+
+**Checklist**: yes; false;
+*no-example*;
+
+
+**Checklist**: yes; false; 
+*example-matching-definition*; *unsure*; (book says otherwise);
+
+
+**Checklist**: yes; true; 
+
+
+**Checklist**: yes; true;
+
+
+**Checklist**: yes; false;
+
+
+**Checklist**: yes; neither;
+*no-example*; *failed*; (it is important to have examples about
+independence); **Pattern**: "independence"; "t-tools";
+
+
+**Checklist**: yes; true.
+
+
+**Checklist**: no; neither;  
+*no-example*; *failed*; **Pattern**: "irrelevant"
+
+
+**Checklist**: yes; true;
+
+
+**Checklist**: yes; true; 
+*no-example*;
+
+
+**Checklist**: yes; neither;
+*no-example*; *definition-unclear*; *failed* (*should know how to check for
+independence but not given in the text clearly*); **Pattern**: "independence";
+ 
 ---
 
 
-**Checklist**: yes; false; none; not-chapter; not-running; none;
-*testable* 
+**Checklist**: yes; true;
 
 
-**Checklist**: yes; neither; none; not-chapter; not-running; none;
-*self-claim-with-0-ex*; *failed*; *definition-unclear*;  
+**Checklist**: yes; neither;
 
 
-**Checklist**: no; neither; none; not-chapter; not-running; none;
-*future-with-no-ex*; 
+**Checklist**: yes;true; 
+*subject-predicate-split*; *unsure*; *time*; (15 mins); "Using XYZ, we
+do ABC"
 
 
-**Checklist**: yes; true; most; not-chapter; not-running; none; "testable"
+**Checklist**: yes; true.
+ 
+---
 
 
-**Checklist**: yes; true; none; not-chapter; not-running; none;
-*testable* 
+**Checklist**: yes; neither
+*no-example* 
 
 
-**Checklist**: yes; true; none; not-chapter; not-running; none;
-*testable*    
+**Checklist**: yes; neither; most; 
+*no-example* ;*failed*; **Pattern**: *most*; "lack-of-examples"
 
 
-**Checklist**: yes; true; none; not-chapter; running; none; *testable* 
+**Checklist**: yes; true;
+*example-matching-definition*; *time* (20mins).
 
 
-**Checklist**: yes; true; none; not-chapter; not-running; none;
-*a-is-important*; 
+**Checklist**: yes;true
+ 
+ ---
 
 
-**Checklist**: yes; neither; none; not-chapter; not-running; none;
-*because-should-due-to*; *failed*; *self-claim-with-0-ex*; *failed*  
+**Checklist**: yes; neither;
+*no-example* 
 
 
-**Checklist**: yes; false; none; not-chapter; not-running; none;
-*testable*  
+**Checklist**: yes; true
 
 
-**Checklist**: yes; true; none; not-chapter; not-running; none ;
-*self-claim-with-0-ex*; *failed* 
+**Checklist**: yes; true;
 
 
-**Checklist**: no; neither; none; not-chapter; not-running; none;
-*unsure-if-has-example*; *failed*; *self-claim-with-0-ex*; *failed*  
+**Checklist**: yes; true; 
+*definition-unclear*; *time* (20mins); **Pattern**: "long phrases?"
 
 
-**Checklist**: no; neither; none; not-chapter; not-running; none;
-*definition-unclear*; *failed* 
+**Checklist**: yes; true;
 
 
-**Checklist**: yes; true; none; not-chapter; not-running; none;
+**Checklist**: yes;true;
 
 
-**Checklist**: not-sure; neither; none; not-chapter; not-running; if; 
-*missed-comparison*; *failed* 
+**Checklist**: yes; true;
+*example-matching-subject*; *time*; **Pattern**: "interpretation"; "original-scale" 
 
 
-**Checklist**: yes; neither; none; not-chapter; not-running; none;
-*missed-if*; *failed*;  *self-claim-with-0-ex*; *failed* 
+**Checklist**: yes; neither;
+*no-example*;
+ 
+---
 
 
-**Checklist**: yes; neither; none; not-chapter; not-running; none;
-*self-claim-with-0-ex*; *failed*;  
+**Checklist**: yes; neither; 
+*no-example*; *failed*; *time*; *example-matching-subject*; *failed*;
+**Pattern**: "A-emerges-from-B"; "related-to-derivation" (Very hard this was)
 
 
-**Checklist**: yes; true; none; chapter; not-running; none 
+**Checklist**: yes; neither;
+*definition-unclear*;
 
 
-**Checklist**: yes; neither; none; not-chapter; not-running; none;
-*because-should-due-to*; *failed*  
+**Checklist**: yes; neither; 
+*no-example*; 
 
 
-**Checklist**: yes; true; none; chapter; not-running; none; *testable* 
-
-
-**Checklist**: yes; true; none; chapter; not-running; none; *testable* 
-
-
-**Checklist**: yes; true; none; chapter; not-running; if;
-*because-should-due-to*; *unsure*;
-
-
-**Checklist**: yes; true; none; chapter; not-running; none;
-*testable* 
-
-
-**Checklist**: not-sure; neither; none; not-chapter; not-running;
-none; *definition-unclear*; *failed*   
-
-
-**Checklist**: yes; true; none; chapter; not-running; none; *testable*  
-
-
-**Checklist**: not-sure; true; none; not-chapter; not-running; none;
-*belief*; *failed*; 
-
-
-**Checklist**: not-sure; neither; none; not-chapter; not-running;
-none; *because-should-due-to*
-
-
-**Checklist**: yes; false; none; not-chapter; not-running; none;
-*unsure-if-it-has-example*; *failed*; *example-matching-definition*;
-*failed* 
-
-
-**Checklist**: yes; true; none; chapter; not-running; none; *testable* 
-
-
-**Checklist**: yes; true; none; chapter; not-running;
-*definition-unclear*; 
-
-
-**Checklist**: yes; false; none; not-chapter; not-running; none;
-*must*; *failed* 
-
-
-**Checklist**: yes; neither; best; not-chapter; not-running; none;
-*testable* 
-
-
-**Checklist**: yes; true; often; chapter; not-running; none; *often*;
-*failed* 
-
-
-**Checklist**: yes; true; none; chapter; not-running; none;
-*subject-predicate-split*; *failed* 
-
-
-**Checklist**: yes; true; none; not-chapter; not-running; none;
-*testable* 
-
-
-**Checklist**: yes; true; none; chapter; not-running; none; *testable* 
-
-
-**Checklist**: yes; neither; none; not-chapter; not-running; none;
-*X-prefers-A-to-B*; *time*;  *testable*  
-
-
-**Checklist**: not-sure; neither; none; not-chapter; not-running;
-none; *A-is-not-the-answer*; 
-
-
-**Checklist**: not; neither; none; not-chapter; not-running; none;
-*future-with-no-ex* 
-
-
-**Checklist**: no; neither; none; not-chapter; not-running; none;
-*future-with-no-ex* 
-
-
-**Checklist**: yes; true; none; chapter; not-running; none; *testable*  
-
-
-**Checklist**: yes; true; none; not-chapter; not-running; none;
-*testable* 
-
-
-**Checklist**: yes; true; none; chapter; not-running; none; *testable*  
-
-
-**Checklist**: yes; false; none; chapter; not-running; none;
-*testable* 
-
-
-**Checklist**: yes; true; none; chapter; not-running; none; *testable*  
-
-
-**Checklist**: yes; true; none; chapter; not-running; none; *testable* 
-
-
-**Checklist**: yes; neither; none; not-chapter; not-running; none;
-*definition-unclear*; 
-
-
-**Checklist**: yes; neither; none; not-chapter; not-running; none;
-*subject-unclear*;
-
-
-**Checklist**: yes; true; none; chapter; not-running; none; *testable* 
-
-
-**Checklist**: yes; true; none; chapter; not-running; none; *testable*  
-
-
-**Checklist**: yes; true; none; chapter; not-running; none; *testable* 
-
-
-**Checklist**: yes; true; none; not-chapter; not-running; none;
-*testable* 
-
-
-**Checklist**: yes; true; none; not-chapter; not-running; none;
-*example-matching-definition*; *failed* 
-
-
-**Checklist**: not sure; neither; none; not-chapter; not-running;
-none; *because-should-due-to* 
-
-
-**Checklist**: yes; true; none; chapter; not-running; none;
-*testable* 
-
-
-**Checklist**: yes; true; none; not-chapter; not-running; none;
-*testable* 
-
-
-**Checklist**: yes; true; none; chapter; not-running; none; *testable*  
-
-
-**Checklist**: not-sure; neither; none; not-chapter; not-running;
-if; *testable* 
-
-
-**Checklist**: yes; true; none; not-chapter; not-running; none;
-*testable* 
-
-
-**Checklist**: yes; true; none; chapter; not-running; none; *often*;
-*failed*; *testable*  
-
-
-**Checklist**: yes; true; often; chapter; not-running; none; *often*;
-*failed*; *testable* 
-
-
-**Checklist**: yes; true; none; chapter; not-running; if;
-*example-matching-definition*; *unsure*  
-
-
-**Checklist**: yes; true; none; chapter; not-running; if; *testable* 
-
-
-**Checklist**: yes; neither; none; not-chapter; not-running; none;
-*definition-unclear*  
-
-
-**Checklist**: yes; true; none; chapter; not-running; none; *testable* 
-
-
-**Checklist**: yes; true; none; not-chapter; not-running; none;
-*testable*  
-
-
-**Checklist**: yes; neither; none; not-chapter; not-running; none;
-*subject-unclear*
-
-
-**Checklist**: yes; neither; none; not-chapter; not-running; none;
-*subject-unclear*
-
-
-**Checklist**: no; neither; none; not-chapter; not-running; none;
-*future-with-no-ex* 
-
-
-**Checklist**: no; neither; none; not-chapter; not-running; none;
-*future-with-no-ex* 
-
-
-**Checklist**: yes; true; none; chapter; not-running; none; *testable*  
-
-
-**Checklist**: no; neither; none; not-chapter; not-running; none;
-*definition-unclear*; *failed*; *because-should-due-to*; *failed*; (*by*)
-
-
-**Checklist**: not-sure; neither; none; not-chapter; not-running;
-none; *unsure-if-it-has-example* ; *failed*; (*0ex*)
-
-
-**Checklist**: yes; neither; none; not-chapter; not-running; none;
-*definition-unclear*; *failed* ; (*common sense*)
-
-
-**Checklist**: yes; false; none; chapter; running; none 
-
-
-**Checklist**: yes; false; none; not-chapter; not-sure-running; none 
-
-
-**Checklist**: not-sure; neither; none; chapter; not-running; none 
-
-
-**Checklist**: yes; neither; none; not-chapter; not-running; none 
-
-
-**Checklist**: yes; neither; none; not-chapter; not-running; none 
-
-
-**Checklist**: not sure; neither; none; not-chapter; not-running; none 
-
-
-**Checklist**: yes; neither; none; not-chapter; not-running; none 
+**Checklist**: yes; true.
 
