@@ -55,3 +55,41 @@ CLOCK: [2019-08-14 wo 19:50]--[2019-08-14 wo 20:11] =>  0:21
   :ARCHIVE_CATEGORY: work-calucation
   :END:
 
+
+* daily statistics
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2019-10-22 di 22:48
+  :ARCHIVE_FILE: ~/agent18/myblock/_posts/log/work-calucation.org
+  :ARCHIVE_CATEGORY: work-calucation
+  :END:
+
+#+BEGIN: clocktable :maxlevel 2 :scope file :step day :tstart "<-2d>" :tend "<tomorrow>" :compact t
+
+Daily report: [2019-10-20 zo]
+| Headline                 |   Time |
+|--------------------------+--------|
+| *Total time*             | *7:20* |
+|--------------------------+--------|
+| DP blog writing Marriage |   7:20 |
+| \emsp Counted for DP     |   3:12 |
+| \emsp Not counted for DP |   4:08 |
+
+Daily report: [2019-10-21 ma]
+| Headline                 |   Time |
+|--------------------------+--------|
+| *Total time*             | *6:04* |
+|--------------------------+--------|
+| DP blog writing Marriage |   6:04 |
+| \emsp Counted for DP     |   5:25 |
+| \emsp Not counted for DP |   0:39 |
+
+Daily report: [2019-10-22 di]
+| Headline                 |   Time |
+|--------------------------+--------|
+| *Total time*             | *3:31* |
+|--------------------------+--------|
+| DP blog writing Marriage |   3:31 |
+| \emsp Counted for DP     |   3:00 |
+| \emsp Not counted for DP |   0:31 |
+#+END:
+

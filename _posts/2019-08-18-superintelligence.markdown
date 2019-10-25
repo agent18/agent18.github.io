@@ -696,7 +696,7 @@ well, as it has SI as subject, for which I have zero examples.
 
 **Example**: ~~"Biological neurons operate at a peak speed of about 200
 Hz, a full seven orders of magnitude slower than a modern
-microprocessor (~ 2 GHz)"~~
+microprocessor (\~ 2 GHz)"~~
 
 There are many more "advantages for digital intelligence", but I don't
 think it helps. Because, "potential" seems to be talking about

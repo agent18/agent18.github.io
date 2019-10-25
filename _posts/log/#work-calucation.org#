@@ -1018,7 +1018,51 @@ Weekly report starting on: [2019-10-14 ma]
 
 * daily statistics
 
-#+BEGIN: clocktable :maxlevel 2 :scope file :step day :tstart "<-2d>" :tend "<tomorrow>" :compact t
+#+BEGIN: clocktable :maxlevel 2 :scope file :step day :tstart "<-9d>" :tend "<tomorrow>" :compact t
+
+Daily report: [2019-10-17 do]
+| Headline                 |   Time |
+|--------------------------+--------|
+| *Total time*             | *0:09* |
+|--------------------------+--------|
+| DP blog writing Marriage |   0:09 |
+| \emsp Counted for DP     |   0:09 |
+
+Daily report: [2019-10-18 vr]
+| Headline                 |   Time |
+|--------------------------+--------|
+| *Total time*             | *1:14* |
+|--------------------------+--------|
+| DP blog writing Marriage |   1:14 |
+| \emsp Counted for DP     |   1:14 |
+
+Daily report: [2019-10-19 za]
+| Headline                 |   Time |
+|--------------------------+--------|
+| *Total time*             | *9:51* |
+|--------------------------+--------|
+| DP blog writing Marriage |   9:51 |
+| \emsp Counted for DP     |   6:14 |
+| \emsp Other useful stuff |   0:24 |
+| \emsp Not counted for DP |   3:13 |
+
+Daily report: [2019-10-20 zo]
+| Headline                 |   Time |
+|--------------------------+--------|
+| *Total time*             | *7:20* |
+|--------------------------+--------|
+| DP blog writing Marriage |   7:20 |
+| \emsp Counted for DP     |   3:12 |
+| \emsp Not counted for DP |   4:08 |
+
+Daily report: [2019-10-21 ma]
+| Headline                 |   Time |
+|--------------------------+--------|
+| *Total time*             | *6:04* |
+|--------------------------+--------|
+| DP blog writing Marriage |   6:04 |
+| \emsp Counted for DP     |   5:25 |
+| \emsp Not counted for DP |   0:39 |
 
 Daily report: [2019-10-22 di]
 | Headline                 |   Time |
@@ -1046,6 +1090,20 @@ Daily report: [2019-10-24 do]
 | DP blog writing Marriage |   4:52 |
 | \emsp Counted for DP     |   3:51 |
 | \emsp Not counted for DP |   1:01 |
+
+Daily report: [2019-10-25 vr]
+| Headline                 |   Time |
+|--------------------------+--------|
+| *Total time*             | *4:58* |
+|--------------------------+--------|
+| DP blog writing Marriage |   4:58 |
+| \emsp Counted for DP     |   2:48 |
+| \emsp Not counted for DP |   2:10 |
+
+Daily report: [2019-10-26 za]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *0:00* |
 #+END:
 
 * Shortcuts

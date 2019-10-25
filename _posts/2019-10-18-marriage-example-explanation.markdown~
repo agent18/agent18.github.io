@@ -1,0 +1,1264 @@
+---
+layout: post
+comments: true
+title:  "Marriage: one example exaplanation"
+date:    17-10-2019 
+categories: posts
+tags: DP, feedback, examples
+permalink: /:title.html
+published: true
+---
+
+## Statistics
+
+| date  | time | words | words per min | dist | dist/ min | claims | Cl/min |
+|-------|------|-------|---------------|------|-----------|--------|--------|
+| 19/08 | 60   | 974   |               | 2    |           |        |        |
+|       | 40   | 382   |               | 7    |           | 13     |        |
+|       | 60   | 800   |               | 4    |           | 39     |        |
+## Plan
+
+Read old marriage stuff.
+
+Make up claims and use one example or other techniques on STMs blog to
+work on it.
+
+## Introduction
+
+I am from India. I think Marriage was an expected natural progression
+in life by me say in 2012. I remember this vague moment in 2017 when I
+decided to write about Marriage (during my 1 month of writing
+madness). 
+
+The vague moment is as follows: An STM gave me a link in 2012, Already
+he was woke. I read the link, I think every single comment of it. And
+it changed my view on marriage from a pro marriage bias to an ant
+marriage bias. Persuasion perhaps was all that was
+necessary. Currently I think I am woke enough to get out of it.
+
+I just want to write a post on it as an excercise in DP (trying to
+check claims) as well as for understanding for myself what is the deal
+and why not.
+
+## Checking your data
+???
+https://dontmarry.wordpress.com/
+
+> I showed the thread page to a friend at work, and he laughed his ass off.
+> Number of postings on a thread about Rove: 12.  
+> Number of postings on a thread about Iraq: 22  
+> Number of postings on a thread about movies: 7  
+> Number of postings on a thread asking how many married guys hate
+> their life: 500.  
+> [Note: I believe it eventually went up to about 7,000!]  
+
+There is a survey on top of this post that says 7524 people voted for
+Marriage strike, 1137 said no and 1028 are undecided.
+
+https://www.reddit.com/r/india/comments/3sihuk/married_people_of_randia_how_often_do_you_have/
+
+## Marriage and Sex
+
+**Claims**: Sex is boring after marriage compared to before marriage
+with the same person
+
+**Example**: "I’m tired of fucking by a script. We’re allowed to fuck
+in certain positions that are to come in a certain order. There are to
+be no deviations from the script. Ever. (It goes without saying there
+are no blowjobs in the script.) It bores me to tears.  I’d way rather
+jack off, which is pretty much what I do these days. If I jack off I
+can at least fantasize about some fucking variety."
+
+There are plenty more stories in [dont-marry-post](https://dontmarry.wordpress.com/) similar to the
+above.
+
+**Definition**: checks out!
+
+**Checklist**: yes; true;
+ 
+---
+
+**Claims**: You will have "plenty" of sex even after you are married.
+
+**Example**: 
+
+“During our courtship days, we could hardly keep our hands off each
+other, and we could get down to it anywhere and everywhere, from
+bedroom and bathroom and once even behind a sari that was being put up
+to dry! But one-and-a-half-years into marriage, and you realise that
+someone’s just come down with this huge club and smashed your balls
+with things like ‘roof-over-head responsibility’, ‘good husband’,
+‘responsible fatherhood’,’winning the bread’… it feels like sheer
+castration! And then when you’ve to worry about who’s going to put the
+clothes in the machine and who’s going to clear the table, believe me,
+sex can and does often wait.”--- [Craig X-SSMusic VJ](https://timesofindia.indiatimes.com/life-style/relationships/love-sex/Married-Indian-couples-having-less-sex/articleshow/9943548.cms)
+
+"That’s fine with me — I was planning to sleep in the living room
+anyway.  We haven’t had sex in two months. We have three young
+children — a divorce would be a disaster."
+
+"She doesn’t cook, and pathetic sex is about once a month."
+
+"Day 485 without sex.  No, I’m not fat or ugly. Yes, I’ve declined
+opportunities with other women in that time.  No, I would not
+recommend that any man get married." 
+
+"My wife was great. She was hot and funny and nice. When we had our
+first child she replaced me with the child. She used to be frugal, but
+then she charged up the credit cards so much that it was like using
+drugs. Now 18 years later we are fucked beyond belief. She also does
+not have sex with me for two weeks at a time and thinks it’s
+normal. So I cracked and got a mistress. I should have divorced her
+long ago for my own survival, but I did not have the heart and still
+don’t."
+
+I am almost positive my parents haven't had sex in 20 years based on
+the fact that the door to their bedroom is never locked. The frequency
+has to be less than 1 time a week. I have never noticed anything
+fishy. My dad is 60 years now.
+
+**Definition**: People are unhappy with the amount of sex they get in
+the above examples. Hence it doesn't check out that Men get plenty of
+sex.
+
+**Checklist**: yes; false; 
+
+---
+
+**Claims**: Women use sex to control you; Women have the power in a marriage
+
+**Example**: 
+
+"I tried everything I could think of, read about, and hear of. Nothing
+worked. Whenever I would bring up the fact that I wish we could have
+sex more than once every six weeks – she would write up a laundry list
+of demands that she promised would improve things. Most of these
+things on the list had to do with buying her shit and doing things for
+her. Like many – I fell for it a few times and scrambled to make
+things better. That, of course, resulted in very little changing
+except that not only did I have to support my family with a 50 hour a
+week job, but I also had to cater to her B.S. and help her with the
+housework (she has no other job)."
+
+**Definition**: Checks out.
+
+**Checklist**: yes; true;
+ 
+---
+
+**Claims**: Women are irrational, incapable of rationally discussing
+an issue
+
+**Example**: 
+
+I once tried to explain to my parents what I want to do in life with
+effective altruism etc... and failed miserably. The same happened with
+my brother and I stopped explaining to them what I wanted to do as it
+was useless and only created a fight. The same with religion and
+marriage. They simply don't get it.
+
+My dad and mom were fighting once and my dad used his standard
+mechanism of shutting up mom which was to talk about her sister's
+family. I get in, I ask him to shut up, I tell him that he needs
+to back off and he goes even more after her.
+
+Similar situation between my mom and grandma. I get inbetween, and mom
+goes bezerk just like my dad did.
+
+**Definition**: "Everyone" seems to be incapable of discussing an
+issue without going crazy. Like reasoning, science, data, morality,
+are all invalid here. Not just women.
+
+**Checklist**: yes; true;  
+*definition-unclear*; *failed*; (I am still not sure what this
+"rationally discussing an issue could mean");
+
+---
+
+**Claims**: ~~Women are not fucking saints~~ Women before and after
+marriage are different
+
+**Example**: 
+
+"First, we agree on love, respect, honesty, money and career. Then, we
+get married. All bets are off. Next, She quits job, refuses to work
+for duration, let’s her credit go to hell, leans on me to pay for her
+mortgage, credit cards, misc bills, car payment. Meanwhile, I pay for
+our house, all associated bills, medical insurance, utilities and
+incidentals. Side note, her credit was so shot (of course she never
+revealed this until after the deal was set) that I carried the loan in
+my name only for the new house we were to purchase together."
+
+We hear this Jekyll and hyde sentiment in the [dont-marry-forum](https://dontmarry.wordpress.com/)
+over and over again.
+
+**Definition**: checks out!
+
+**Checklist**: yes; true;
+
+---
+
+**Claims**: Women are different with Indian baselines as compared to
+American as echoed by the [dont-marry-forum](https://dontmarry.wordpress.com/).
+
+**Example**: 
+
+"I married an Indian girl. Except that she’s educated, earns good
+coin, and is frugal, it’s all the same shit [otherwise]."
+
+But, I don't know any other Indian person who suggests people to not
+marry based on their situation. I have 6 cousins and everyone is
+pushing me to get married. In fact they think it is absurd that I
+don't want to be married. They are all roughly in their 40's.
+
+**Definition**: Doesn't check out! 
+
+**Checklist**: yes; unsure;
+
+---
+
+## Marriage and happiness
+
+**Claims**: Married life starts sucking pretty soon
+
+**Example**: 
+
+“During our courtship days, we could hardly keep our hands off each
+other, and we could get down to it anywhere and everywhere, from
+bedroom and bathroom and once even behind a sari that was being put up
+to dry! But one-and-a-half-years into marriage, and you realise that
+someone’s just come down with this huge club and smashed your balls
+with things like ‘roof-over-head responsibility’, ‘good husband’,
+‘responsible fatherhood’,’winning the bread’… it feels like sheer
+castration! And then when you’ve to worry about who’s going to put the
+clothes in the machine and who’s going to clear the table, believe me,
+sex can and does often wait.”--- [Craig X-SSMusic VJ](https://timesofindia.indiatimes.com/life-style/relationships/love-sex/Married-Indian-couples-having-less-sex/articleshow/9943548.cms)
+
+My Indian cousin tells me after 12 years of marriage to this guy that
+the only silver lining was her kids. I don't think the husband gets
+any sex. 19 years of marriage later, she tells me that they barely
+talk.
+
+**Definition**: checks out.
+
+**Checklist**: yes; true;
+
+But, none of my cousins (6 7 of them) have expressed to me about how
+their marriage sucks. In fact they do something that tells me maybe
+marriage is not bad afterall. They FORCE me to marry and are shocked
+that I don't want to marry.
+
+---
+
+**Claims**: Married women nag husbands
+
+**Example**: "Came home last night after working 15 hours, 9 am to
+midnight. Climb into bed, about three minutes later, the first thing
+she says, “are you mad at me?”  I ask her, “Is it too much to expect
+to ask me how my day was and whether I’m doing all right after working
+for fifteen hours?”  I got yelled at for the next 45 minutes. I love
+marriage."
+
+**Definition**: checks out!
+
+**Checklist**: yes; true;
+
+---
+
+**Claims**: Married women put down their husbands in front of others
+
+**Example**: My dad tries to give me some advice on jobs or tell me
+some story related to corporate culture and my mom immediately will be
+like, "re saaku re" meaning, "enough please stop" and not allow him to
+speak and he will keep trying but she wont stop whining and eventually
+it leads to a fight. This happens in front of my sister-in-law
+also. If only my mom would say less words or no words at all and just
+let him speak I guess it wouldn't lead to a harsh shouting at mom.
+
+My dad mom, cousin, and his wife were eating at the cousins house. The
+two families meet once in a while and this meeting the cousin is
+pretty excited and is serving dish after dish. And the wife of the
+cousin snaps at this, saying something like, "if they want they will
+ask". Like she could have just led him be.
+
+**Definition**: Maybe this is what they mean with wifes putting down
+their husbands in front of others.
+
+**Checklist**: yes; neither;  
+*example-matching-subject* *unsure* 
+ 
+---
+
+**Claims**: Being old and married has bitter relationships instead of
+a nice relationship.
+
+**Example**: In my family most of the fathers who are >50, have very
+bitter relationships with their wifes. They constantly fight.
+
+Although I think it is the fault of the men, for being dicks to their
+women, the relationship still seems bitter and not compatible. 
+
+My parents for example, fight like hell. They literally fight over
+everything. My dad says there is a better way of arranging the fridge
+(none of his business). My mom doesn't like listening to my dad. This
+is the foundation of every fight. No one wants to adjust or listen and
+they keep fighting and my dad hurts mom with words to calm her down
+during an escalation (like talking about her sister's failed
+marriage). They just don't seem to be compatible. But they will
+continue to live until death does them apart. They are around 60 years
+of age.
+
+Three of my closest friends parents also have bitter marriages now. I
+only know about their marriages from discussion
+
+~~Another example would be of one of my grandparents. They are 85
+and 75. Wife has dementia and live the husband is really weak. They
+manage to stay in the same house by themselves. They don't fight, I
+mean they can't. Don't know of a history of time when they actually
+fought.~~
+
+**Definition**: checks out.
+
+**Checklist**: yes; true;
+ 
+---
+
+**Claims**: You need a companion (wife/girlfriend)
+
+**Example**: If I look at the last one year of my life, now and then I
+craved a girlfriend (perhaps because of persuasion), but I have so
+much shit to do that it doesn't matter too much. My occasional two
+weeks once outings with close friends, going to dinners, meeting with
+cousins, going to India every year seems to be cutting it.
+
+**Definition**: checks out.
+
+**Checklist**: yes; false; 
+
+Just two days back I felt like I had nothing interesting to do. But
+then I started this post and saw how I seriously sucked and that was
+enough to snap out of the temporary "misery". On saturday I had 7 hrs
+of work to do before 6 pm in the evening so that I could enjoy a nice
+Indian dinner outside and hang with friends. Had a great day and
+evening. I only have time for one outing a week and am happy to do
+that. For the rest I work, play sport and hit the gym. I go to India
+for 2 months in a year and love to keep working and making myself
+"better". To quote trisha from saami, "idhukumela ~~college pora
+ponnuku~~ vela pora payanukku vera enna venum".
+
+And worst of all Martin Seligman didn't mention that people who are
+happy is because of marriages or women, but because of the "good life"
+and the "meaningful life". An example of the good life is like when
+you spend hours and hours gaming and you don't even feel the time move. You
+have immense concentration and barely any distraction. An example of
+the meaningful life is when you live life in focus of a higher goal
+than yourself. I would imagine what people like Gandhi did as having
+lead a meaningful life. Disclaimer: I am very bad in classifying
+events if they are good or meaningful or something else.
+
+In conclusion, I have been without a companion in forever and yes
+there are days when I feel down. But if I try and reflect on the last
+two years, I can only complain about how much I time I wasted not
+practicing. I feel like the amount of entertainment and feeling
+of satisfaction I get from hanging out with friends in my free time is
+enough to not search for something more.
+ 
+---
+
+**Claims**: you need a companion now
+
+Screw that! The above claim seems to have clarified enough.
+
+**Checklist**: yes; false;  
+
+---
+
+**Claims**: You need a companion to take care of you when you are sick
+
+**Example**: During the time when I had my pilunoidal sinus removed,
+my dad mom and the nurses took care of me. Parents applied the
+ointment for the next 15 days and did the dressing. I am unsure if I
+could have done it myself. After that I moved to Netherlands and had
+to do my own dressing. I guess I needed care in the beginning.
+
+**Definition**: Inconclusive. The example is unable to talk about if I
+*need a companion* only to do it or just a general nurse would do.
+
+**Checklist**: yes; neither.
+ 
+---
+
+## Time is running out
+
+<!-- I think currently I am unable to court a woman by myself. I would need -->
+<!-- to engage in PUA or some serious stuff to actually court a woman by -->
+<!-- myself or atleast spend some time and research on tinder or -->
+<!-- whatever. I suspect this would take atleast a year. And am not really -->
+<!-- sure how to find the woman who you can marry (I mean if it is really -->
+<!-- necessary). Considering the above then arranged marriage is the way to -->
+<!-- go in case I "should" get married. I am 28 and it should be rather -->
+<!-- easy (as I am already getting quite some offers), to end up in -->
+<!-- marriage. But do I want it? -->
+
+**Claims**: If you don't marry now, it is hard to find a woman later.
+
+**Example**: "For *Keel veedu payan* they are even looking for divorced,
+disabled people to marry."--- Mom. This guy from my apartments in
+chennai is 38 or something and is not finding a chick to get married
+to.
+
+**Definition**: For arranged marriage by parents checks out.
+
+**Checklist**: yes; true;
+ 
+---
+
+**Claims**: Marrying an Indian women is better than marrying
+foreigners ~~culture wise and vacations wise.~~
+
+**Example**: Divorce rates in India (20%) are far lower than in other
+countries like Netherlands (50%).
+
+**Definition**: Yes she wont leave you probably. If that is the
+dimension you want to check against, then it checks out.
+
+**Checklist**: yes; true;
+
+Although I see the following in the don't-marry-post. 
+
+"American women deserve every bad thing that has happened to them.  
+REPLY: I married an Indian girl. Except that she’s educated, earns
+good coin, and is frugal, it’s all the same shit
+[otherwise]."---[dont-marry-post](https://dontmarry.wordpress.com/)
+
+Not sure how to proceed further
+
+---
+
+## Different women
+
+**Claims**: Women only love you to the extent that they need you.
+
+*no-example* 
+
+~~**Claims**: Independent women are the worst to get married to~~
+
+**Claims**: Independent women are worse than other women to get
+married to.
+
+**Example**: *no-example* 
+
+**Definition**: I imagine independent women to be financially
+independent. And I find that "dependent women" already reek havoc in
+the household, then where is the case for independent women.
+
+**Checklist**: yes; neither;
+
+---
+
+**Claims**: An ambition-less dependent bitch is the best to get
+married to?
+
+**Example**: According to [dont-marry-post](https://dontmarry.wordpress.com/), all the bitches
+sitting at home are creating havoc in the lives of the over working
+husbands who provide for those bitches.
+
+"I was happy but now I’m starting to wonder why I’m
+married.  Me; MBA, career job, low 6 figure income, workout at the gym
+3 days/week, cook meals on weekends, do major chores (i.e., heavy
+lifting) Her: At home mom – but our kid is in 3rd grade so she has all
+day home alone – she claims she cleans but it doesn’t take 6 hours per
+day 5 days per week to do the shitty job she does.  She says she’s
+going to go back to work but she keeps finding reasons why she can’t
+work.  Sex? None in 2 months (“urinary tract infection is cleared up
+but I’m afraid I’ll get another”) Fit? Not really So she has no
+ambition, provides nominal home value, is sexless.  I’m not seeing the
+benefit of this marriage for me.  What I have now for a wife is not
+what or who I married.  I married an active, energetic woman.  And
+now? She is pure couch potato. She talks a good game but when I get
+home, things are the same as before except she has moved on to the
+next book she wants to read.  Meanwhile, I blow through my income
+buying her the house she wants, the vacations she wants, and so
+on."---[dont-marry-post](https://dontmarry.wordpress.com/)
+
+"Two years of Marriage. I’m depressed and turning to pot and
+alcohol. I’m not allowed to DO anything without “permission”. I used
+to live life to the full, now I just exist to pay the mortgage and
+fill the shelves full of worthless crap we don’t need. Thanks to the
+joyless fat whore I’m forced to spend the rest of my life
+with."---[dont-marry-post](https://dontmarry.wordpress.com/)
+
+"So when I married, I used a very simple strategy: I married a very
+nice woman who I knew for a fact could never build her own career. She
+wasn’t quite a “smart” as I wanted, but she was sweet and a great
+artist. 10 years later, she depends on me, I’m the sole
+breadwinner. She raises the kids. Very old-fashioned. Is is still
+difficult to be married? Hell yes."---[dont-marry-post](https://dontmarry.wordpress.com/)
+
+**Definition**: I am aware I didn't compare to any other woman who was
+not ambitionless. I don't have examples.
+
+**Checklist**: yes; neither;
+
+All my cousins are married and I don't know the kind of havoc those
+ambitionless Indian bitches are creating. But all my cousins are
+forcing me to marry. All of my cousins parents are forcing me to
+marry, like it is a good thing and a needed activity.
+
+How to go about it?
+
+## Marriage vs Girl friend 
+
+**Claims**: Girl friend is better than marriage
+
+**Example**: 
+
+"I knew everyone in her family before i knew her. We dated for 4 years
+before getting married. She was smart, funny, kind, thoughtful, witty.
+THE DAY OF THE WEDDING, right after she got that fucking ring, she
+changed. I should’ve walked out but I had been telling myself for
+months that marriage is for keeps so at first you rationalize her
+fucked up cunt behavior, thinking ‘oh she’s geeked over the wedding.’
+then the sex stops, then the bitching and nagging and pestering and
+arguing start.  to hell with her. i will not divorce her now because
+there’s too much at stake.  i thought i was marrying my very best
+friend, lover, confidante, and intellectual and emotional peer. she
+changed gears and never looked back, concentrating on spending my
+money and having party after stupid mind-numbingly boring party and
+buying the next house and redecorating and getting more jewelry and…
+anything but pal-ing around with me and fucking my brains out and
+laughing with me and walking hand-in-hand with me.  in other words all
+the shit she SAID she would love to do ’til the day we died.  fuck
+her. to her “credit”, she falls into the manipulative sex as a weapon
+cunt category i have observed that about 85% of all women do (as I am
+sure 85% of all men have some equally annoying habit in the eyes of
+women – like cheating on their cunt wives) my passive-aggressive
+payback is to selectively and very discreetly fuck good looking,
+intelligent, eager strong-libido women on the side. the sex is
+intensely gratifying, especially given it’s not her pussy i’m
+drilling.  and yes i do close up emotionally around her since she will
+use any tiny thing i say for the next 3 years in future bitch
+sessions."
+
+Oh Man! This is the Jekyll and Hyde story I keep seeing over and over
+in the [dont-marry-post](https://dontmarry.wordpress.com/).
+
+**Definition**: checks out!
+
+**Checklist**: yes; true;
+ 
+---
+
+> When you are in a (relationship)[1] both work for the relationship
+> to succeed whereas when you are in a (marriage)[2] then only you
+> have to work
+ 
+**Claims**: When in [1], both work for the relationship
+
+**Example**: *no-example* 
+
+**Definition**: -
+
+**Checklist**: yes; neither;
+ 
+---
+
+**Claims**: both working for the relationship is good
+
+*no-example* 
+
+**Checklist**: yes; neither;  
+
+---
+
+**Claims**: when in [2], only the man has to work in the relationship
+
+*no-example* 
+
+**Checklist**: yes; neither;  
+
+---
+
+**Claims**: Only man working for the relationship is not good.
+
+*no-example* 
+
+**Checklist**: yes; neither;  
+
+---
+
+## disturbance to flow
+
+**Claims**: You will not be able to spend 4 hrs a day on DP related
+activities when you are married
+
+Breaking it down to smaller claims.
+
+**Claims**: Kids will fuck with the time you have
+
+**Example**: My x-colleague who decided to have one kid, says he
+stopped a lot of his excercise activities due to the kid. He used to
+go to the gym, box and climb with his wife. Now he rarely does
+that. He finishes work, picks up the kid and takes care of it and
+that's all he and his wife have time for in the day.
+
+When I met him recently he says, that is all the time he has in the
+evening.
+
+**Definition**: checks out.
+
+**Checklist**: yes; true
+
+**Counter example**: Jeff Bezos, Elon Musk, Sundar Pichai,
+Vishwanathan Anand, AR Rahman are all really great in their field and
+they have kids too.
+
+And with the Careers of all the bigshots they probably outsourced all
+the work of raising kids to nanny's as they had money and no time. But
+this doesn't apply to me. I am far from being "great" and cannot
+afford a full time nanny within the next few years. I suck unlike
+Rahman who already peaked 3 years before getting married. Comparing to
+the baseline of Rahman might be a bad idea. Instead comparing to a
+colleague who works a similar job and gets paid similar amounts might
+be.
+
+---
+
+**Claims**: Wife will consume your time once you are married
+
+**Example**: My friend's husband is in Japan and she is in
+Netherlands. Everyday they speak for about an hour on the phone to
+perform their long distance relationship (LDR). 
+
+**Definition**: I can't imagine it becomes lower when they are not in
+LDR any more. Checks out.
+
+**Checklist**: yes; neither;
+*example-matching-subject*; *unsure*;
+
+But coming back to the main claim. I expect that wife and kids would
+consume time from my life where it is already hard to clock 4hrs a
+day. Once I am married and have kids, the only way to keep this 4hrs a
+day, would be to reduce gym time or quit going to it altogether while
+I spend that time with kids and wife. Maybe I am still able to spend
+the time and get in the 4hrs. Maybe, but appears to be super
+tight. Also good luck finding someone who understands what you are
+trying to do.
+
+---
+
+We all know drama consumes us. Just yesterday I cannot believe the
+first thought I had when I closed my eyes, was about how to change the
+option from seated to buffet. Do you believe it? All of 2 days this
+was my main concern about how to get my agenda across the board for
+one stupid night with colleagues. 
+
+**Claims**: Kids and wife will cause plenty of drama in life 
+
+**Example**: My brother on a call last month vented to me. He said he
+is fucking stressed because of his job, he feels over-worked and in
+addition to that is working towards his MBA exams. With all of this
+shit in place, the wife in unable to conceive and is throwing fits and
+crying and cribbing about why everyone in the world can conceive but
+her. He is loosing it and he said this is for the last 7 months
+(Jesus!). Meanwhile he can't shout at her and has to be this consoling
+fuck of a person (I told him to not shout too). This is what I
+gathered from the phone call. Maybe he is to blame for being incapable
+to "help her" but nevertheless, there is so much drama now atleast.
+
+If these 7 months were hard, wait for the time during pregnancy. From
+what I have heard, bitches be throwing temper tantrums when they are
+pregnant, left right and centre.
+
+He swiftly immediately said that, this shall in no way be considered
+as a point against marriage. Haha!
+
+**Definition**: checks out
+
+**Checklist**:  yes; true;
+
+Although if this is the case throughout the lifetime, I am
+unsure. Kids happen, kids education needs to happen, kids need to go
+to college and get a respectable job and get married to a good girl
+(;)) etc... So it might follow you intermittently say every 5
+years. Moving on.
+
+## disturbance to donations
+
+**Claims**: Raising kids needs a lot of money
+
+**Example**: In the case of my x-colleague, he is expected to spend
+5k€ per year on raising the kid (along with say around 1-2 hrs at
+home). 5k€ per year is 100k€ in 20 years. His wife is also working
+fulltime, so that becomes, 50k€ pp. In addition lets say he needs to
+devote 1 full hour every day for 20 years = 20x365x15€ = 109k€pp
+
+My parents spent say 50k rs a year on me (11k€)+ bachelors education
+(8k€) + Masters education (50k€). With a total of 69k€. And in case I
+get married, they will pay atleast another 10k€. They have two kids so
+that is roughly 150k€ to raise two kids. So 75k€ pp.
+
+Contrast this to what I save now and expect to save in the coming
+years:
+
+If I donate 10% and stay in a similar job as I am currently with a
+growth of 5%, I could potentially donate 174k€ over a 20 year period.
+
+**Definition**: To conclude, If I raise a kid it costs 75k to 150k€ pp
+including time spent. This is a lot of money considering, a 10%
+donation repeated over 20 years is 174k€. If I take the money on kids
+and donate it as well I could potentially double my contribution or
+save another 38 people over the next 20 years.
+
+**Checklist**: yes; true;
+ 
+---
+
+**Claims**: Wife will consume lots of money
+
+**Example**: 
+
+My Indian friend has a dutch girlfriend. Their rent costs 1300€. He
+expects his girlfriend to pay 20% of it once she starts earning. She
+is hardly ambitious and will never make the money he makes
+(5k€/month). At max she will make 2.5k per month. Even while eating
+outside he covers her costs. I can't imagine the situation
+changes even after they get married. She is not paying 400€ of the
+rent because he is offsetting it for her. Which comes to about 5k€ a
+year of his after tax money.
+
+In another friends case, his girlfriend works only 3 days a week. She
+doesn't cook and has 2 kids with him now (practically married). This
+guy is the real breadwinner of the family. She probably earns 1500€
+and he earns 4000€ per month. I was shocked when he said they pool in
+all the money, check expenditure of the house and kids and then take
+50-50 of what is left for their own savings and personal
+expenditure. WTF! She works 3 days and is enjoying the benefits of a
+2k net salary. Combined they will have 4k net income. 2.0k to 3k for
+expenses and the rest for saving i.e., 500 each. If they didn't split,
+then she would not be saving anything. This means the guy incurs a
+cost of 6k€ atleast of his after tax money.
+
+**Definition**: checks out. 
+
+**Checklist**: yes; true;
+
+---
+
+~~**Claims**: When you have wife and kids your donations reduces~~
+
+**Claims**: When you have kids amount of money you save per
+month is less than when you have no kids or wife.
+
+*no-example*. I need to ask someone. I will ask a friend.???
+
+---
+
+**Claims**: If wife earns less than you then she spends money on
+useless things
+
+**Example**: 
+
+"What I got: a woman who after marriage instantly turned into a
+shrewish whining nagging sexless frigid materialistic petty
+manipulative cunt who only cares about how much money I make,
+constantly upgrading her fucking wedding diamond (it’s now 3.67
+carats), and spending my cash on clothes from N-M, goddamn fucking
+window treatments from some specialty shop, and endless fucking shit
+from Pottery Barn that has nothing to do with my life or our life.
+Biggest mistake? Should’ve spent more than 4 years getting to know
+her. Should’ve not let the great sex cloud my mind. Goddamn it all to
+hell."
+
+**Definition**: checks out!
+
+**Checklist**: yes; true;
+ 
+---
+
+## Marriage and injuries
+
+**Claims**: Your wife and kids will take care of you when you are
+injured
+
+**Example**: My drunkard of an uncle died a few years back. He first
+lost his ability to speak. He then, slowly lost his motor skills and
+in the end he needed help to pee, to shit and to eat. My goddess of an
+aunt, (I was there many times), without frowning one bit and "in a
+loving way" talked to him and took care of him (at least this is what
+I remember of her).
+
+My music master's dad's kidneys failed. His 3 sons and his wife took
+care of him. My music master gave up a good part of his work for a
+year or two to just cook at home, and take care of his father along
+with his mom and brothers. So I think they supported him by performing
+dialysis at home and taking care of the dad for a few years before he
+eventually died.
+
+**Definition**: Checks out.
+
+**Checklist**: yes; true;
+ 
+---
+
+**Claims**: You need someone to take care of you when you are injured.
+
+~~*no-example*  
+**Checklist**: yes; neither;  
+*no-example*; *failed*; **Pattern**: "need";~~
+
+*A claim that has no example, and where I don't understand how to
+give an example becomes clearer once I break it down into "testable",
+"simpler" claims.*
+
+**Claims**: It is nicer to be taken care of by a wife than a random
+nurse when you are injured.
+
+**Claims**: Getting a wife ends up to be cheaper than paying X euros
+in case you get injured for a 1 week, 1 year, 5 years in Netherlands.
+
+**Example**: I don't have an example and should talk to some people. 
+
+**Definition**: 
+
+**Checklist**: yes; neither;  
+(talk to people)
+
+~~If I retire in holland and go back to india and enjoy my pension
+there, then I should be able to pay for full time health care +
+expenses until I die, assuming I need help to shit pee and eat;
+assuming the costs and resulting pensions increase proportionally~~
+
+## Hidden claims
+
+**Claims**: If you marry someone via arranged marriage, you will not
+have a bitchy, irritating, nagging wife.
+
+**Example**: The neighbors son got into an arranged marriage. I think
+they were staying in the same house along with the neighbors. For some
+reason his wife turned out to be a bitch after their first kid was
+born. Not sure what exactly the fight was. But something happened and
+they went far away to stay alone. I can't remember what exactly the
+reason was. I vaguely remember the wife throwing tantrums being
+possessive about her daughter.
+
+**Definition**: I just have one example. I don't know one other
+example even. I want to hold off on concluding.
+
+**Checklist**: yes; neither;
+
+ 
+---
+
+**Claims**: You need to date someone for a few months at least before
+you marry them
+
+**Example**: Not according to [dont-marry-post](https://dontmarry.wordpress.com/). People seem to
+have dated for 4 years and yet the crazy never stopped to sneak in.
+
+"I knew everyone in her family before I knew her. We dated for 4 years
+before getting married. She was smart, funny, kind, thoughtful,
+witty. THE DAY OF THE WEDDING, right after she got that fucking ring,
+she changed. I should’ve walked out but I had been telling myself for
+months that marriage is for keeps so at first you rationalize her
+fucked up cunt behavior, thinking ‘oh she’s geeked over the wedding.’
+then the sex stops, then the bitching and nagging and pestering and
+arguing start to hell with her."
+
+**Definition**: Even after dating it seems to be of no use in
+predicting the character of your woman.
+
+**Checklist**: yes; false;
+ 
+## Post marriage vs pre-marriage
+
+**Claims**: Women behave differently before and after marriage
+
+**Example**: 
+
+"I knew everyone in her family before I knew her. We dated for 4 years
+before getting married. She was smart, funny, kind, thoughtful,
+witty. THE DAY OF THE WEDDING, right after she got that fucking ring,
+she changed. I should’ve walked out but I had been telling myself for
+months that marriage is for keeps so at first you rationalize her
+fucked up cunt behavior, thinking ‘oh she’s geeked over the wedding.’
+then the sex stops, then the bitching and nagging and pestering and
+arguing start.  to hell with her. i will not divorce her now because
+there’s too much at stake.  i thought i was marrying my very best
+friend, lover, confidante, and intellectual and emotional peer. she
+changed gears and never looked back, concentrating on spending my
+money and having party after stupid mind-numbingly boring party and
+buying the next house and redecorating and getting more jewelry and…
+anything but pal-ing around with me and fucking my brains out and
+laughing with me and walking hand-in-hand with
+me."---[dont-marry-forum](https://dontmarry.wordpress.com/).
+
+We hear this Jekyll and Hyde sentiment in the [dont-marry-forum](https://dontmarry.wordpress.com/)
+over and over again.
+
+**Definition**: checks out
+
+**Checklist**: yes; true;
+ 
+A similar claim has been dealt with before.
+
+Once an STM told me that people with girlfriends are not significantly
+happier. Can you pick them out of a crowd that they look actually
+happier? How do you know they are actually
+happier? 
+
+## The Brahmachari for life lifestyle
+
+**Claims**: I don't feel lonely/"feel like shit"/low self-esteem when
+I have shit to do
+
+**Example**: At work there are days when you have to do some online
+courses that are boring. Those days are the worst. I feel like shit, I
+feel bored and start wondering about how much my life sucks. On most
+days though, I don't feel like this. There are deadlines to deliver
+and I am running and 8 hrs runs pretty fast. Just last week I was
+attempting to design some flexes for the first time, and kept pushing
+to meet the deadline of that week. In the end had to present to my
+boss an update and his approval was so fitting for all the hard work I
+put in. 
+
+At home on last Saturday, I had to do 7 hrs of work followed by an
+outing with friends. So I wake up early and run run run to meet the
+target and have a great evening with beer and Indian food. So
+satisfying. I didn't have time to think about anything or feel
+lonely. Proper reward after a hard days work is awesome.
+
+**Definition**: The need to look for something more.
+
+**Checklist**: yes; true;  
+
+But just two days before I found myself not feeling like going home
+and working on essays (I didn't have any deadline). I procrastinated
+the whole evening, felt like shit. I have those days too. 
+
+But adding marriage into the whole thing, I am not sure.
+
+My parents often say this, they feel bored and a marriage would surely
+spice things up in thier life. Its a ton of work and I get it. They
+will be occupied (BUSY) for years with it, they will feel important,
+they will have some goals. And then kids, they get to take care of. My
+suspicion is that having kids in the first place is to add spice to
+your life.
+
+And I want to slog my ass off and feel "intellectually satisfied" and
+look forward to that one outing per week (I don't have time for two
+pa), my practice session of ball followed by playing the next day with
+some beer with the boys. Am good bro. That's my good week. Occastional
+visits to home and cousins. Couldn't care less about other things or
+people.
+
+---
+
+**Claims**: ???
+
+**Example**: BOOM. My parents. Marriage does not seem to be the trump
+card that can turn everything around.
+
+Marriage doesn't seem to be the only variable. My parents have super
+boring lives as said by them, "We feel so bored, there is no
+target. We want to go to the next stages of life.", while suggesting
+that I need to get married.
+
+I wonder how my cousins are feeling all of them are married 10 of them
+and I don't know one single person who openly hates on his marriage,
+for example. ???
+
+**Definition**: 
+
+**Checklist**: 
+
+## Kids
+
+**Claims**: Kids take care of you during old age
+
+**Example**: In my family, monetarily all the kids support their
+parents. Period. The parents live in a nice house in Chennai or
+Bangalore, have all their needs met (such as a car, healthcare costs,
+travel costs etc...).
+
+So Mr. Mani lost his wife. He is roughly 85 years of age and is cared
+for by his daughter in Singapore and son in US. Monetarily he is taken
+care of. His kids visit him every 6 months at a home. They call every week
+or every alternate day. And now that he keeps falling down and needs
+more attention the daughter got him to Singapore to look after him.
+
+Fuck! Kids are awesome!
+
+Another couple, the wife with dementia (a bit), and husband with
+really bad eyesight are being taken care by two of their
+children. They don't stay with them. One is in Dubai and the other is
+in Delhi. But both call I think every alternate day and when needed
+they fly down to assist them and take them to places like the dentist
+or hospitals.
+
+**Definition**: checks out.
+
+**Checklist**: yes; true;
+
+--- 
+
+
+**Claims**: Kids take care of you during old age is worth getting
+married 
+
+???
+
+---
+
+**Claims**: Kids are great joy to raise.
+
+"I’ve been married for ten years, and it sucks, a lot. I love my kids,
+but my wife is a control freak and a bitch, and her main mission in
+life seems to be to grind me down into some sort of Stepford Hub. As
+an example, I went to pick up my daughter at a birthday party over the
+weekend. For once, the people throwing the party didn’t have a lot of
+money, and it was a smallish, sort of cheap house, with a few kids in
+the back yard swimming in an above-ground pool, which was deep enough
+for them to swim, but not so deep they could get into any trouble. For
+once, the party wasn’t some frantic, ubermommy running around trying
+to outdo her friends. My daughter had spent two or three hours
+swimming in the pool, and had a blast. So when I got home, I told my
+wife that it was a great party, the best I’d ever seen, and she got
+all pissed because I apparently had implied that the party she was
+going to throw in a week for my daughter wouldn’t be as good, and
+wasn’t that insensitive of me, and so on.  I wish I had not married
+her, except for the kids. The thing I learned is that power is a
+really important thing in marriage. Once they realize you have the
+power, women are far, far nicer to you. It’s fucked, but they are. As
+for those who are considering marriage, do it if you want kids, but
+remain in control, and don’t let her even think about trying to change
+you."
+
+**Definition**: checks out. 
+
+**Checklist**: yes; true; 
+
+---
+
+**Claims**: Marriage will produce kids. The number of people in India I know
+without kids 0. It's the norm. 
+
+**Example**: I don't know anyone in their 50's without kids. None.
+
+**Definition**: checks out!
+
+**Checklist**: yes; true;
+ 
+---
+
+**Claims**: If kids don't listen to you on major subjects, it causes a
+lot of sadness to the parents.
+
+**Example**: Me not saying "ok" to marriage is tearing my parents
+apart. They are willing to forgo the 36k€ debt with them if I get
+married, such is their desperation. In fact I could also not pay a
+penny for the marriage and still get away with it (as long as I agree
+to marry). My mother cannot seem to accept the fact that I don't want
+to marry. I guess shes pretty sad.
+
+My cousin is gay and her parents know. The mother is pained a lot
+because her kid is gay. She cries everytime she has to talk about
+it. She is scared to face other people in the family with this news.
+
+**Definition**: checks out.
+
+**Checklist**: yes; true;
+*definition-unclear*; **Pattern**: "worth"
+
+--- 
+
+**Claims**: If kids don't listen to you on major subjects, it is not
+worth having them.
+
+**Checklist**: yes; neither;  
+*no-example*; *failed*; *definition-unclear*; *failed*; **Pattern**:
+"worth"
+
+**Claims**: kids cost a lot of money
+
+done earlier.
+
+**Claims**: kids will take care of you during old age
+
+done earlier.
+
+**Claims**: Kids will make you feel less ~~lonely~~ bored, sad during
+old age
+
+**Example**: My grandma used to stay at home. My dad wanted her to not
+budge into the things we are doing, she couldn't lie down and watch tv
+in the evening. She got food and health care of course. She was
+transferred between each of her sons house every 3 months. Over her
+last few months, she stopped eating much, needed assistance at the
+toilet and just passed away. 
+
+I don't think any of her daughter-in-laws were nice to her (other than
+giving food). My mom would be very rude to her and if I get in and
+support my grandma, it only became worse.
+
+She would just sit in the chair and watch serial tv with us. She
+didn't go outside the house as she was considered too fragile. She cut
+vegetables now and then for my mom. Coming to think about it, I don't
+know how she managed to live in the house.
+
+Once I found her neck boiling and she kept saying, "no no I am
+fine". I couldn't do much (is my excuse). I would have atleast taken
+her to the doctor just to get her checked. Man she is suffering and
+hiding it from the family. My dad did shit as far as I remember.
+
+For a woman who lost her husband at 30 and took care of her 7 children
+and gave each of them enough wealth, she sure as hell died with a
+pathetic life in the end.
+
+**Definition**: yes kids make you feel less bored/sad during old
+age. Fuck that!
+
+**Checklist**: yes; false;
+
+---
+
+**Claims**: You need your kids/wife to take care of you during your old age
+
+~~It feels heartwarming to see Mr. Mani being taken to Singapore
+by his daughter and being cared for. But that doesn't say anything
+about this claim.~~
+
+**Example**: My uncle and aunt are 85 and 75 years old. My uncle has
+very poor eyesight. When I gave him a photo he literally put it 2mm
+from his eyes to see it. My Aunt, she has something like dementia. She
+sometimes forgets what her next action is. She stands up and forgets
+to sit down. They have a maid who comes and cooks lunch and dinner and
+get alternate day calls from both their sons. Once a month one of the
+sons are in town. Moneywise they are taken care of (by kids or
+whoever.)
+
+My great-uncle is 85 years old. He lost his wife 15 years ago. His
+daughter is in Singapore and son in US. Until 5 years ago, he was at
+home by himself. And recently has been moved to an old age home. He
+does his own insulin shots. His kids visit once in 6 months for a few
+days and call every alternate day.
+
+In the case of special events such as surgeries the kids show up to
+sort their parents out.
+
+**Definition**: In both the cases the old people seem to be able to
+live by themselves for 1week-1month at a time, albeit at an old age
+home or in an apartment. They are capable of living by themselves
+(assuming monetary support exists due to something) at the age of 85.
+
+**Checklist**: yes; neither;  
+
+content ???
+For me I am thinking that staying in an apartment by yourself will
+probably be torture but in a home might be different. There will be
+similar people like you to meet and "hang" and do things with. In fact
+I think instead of living with your kids, once you become old we
+should be checked into homes and just chill. 
+
+upto 70 there seems to be no problem.
+
+My watchman is probably 
+
+Another case is of this guy who is probably 85 now. His wife died 10
+years back. His daughter is in 
+
+Moneysie they are fine. And of course I should mention they long for
+people to come see them talk to them. I visit them everytime I go to
+India, to mainly hear those words. It's the least I do and could do.
+
+
+
+One of the sons swing by every 
+
+Both daughter-in-laws do not want to care for the old family and the
+sons have to work in Dubai and Mumbai.
+
+**Definition**: 
+
+**Checklist**: 
+
+???
+
+## Divorce
+
+**Claims**: Divorce will lead to you loosing 50% of your earnigns
+
+not checking this, but it seems to be the case in [dont-marry-post](https://dontmarry.wordpress.com/)
+
+**Claims**: Divorce rates are higher if you marry an independent woman
+
+*no-example* 
+
+**Claims**: Divorce rates are lower if you marry indian bitches
+
+Yes Divorce rates are 20% in India as compared to 52% in Netherlands.
+
+**Claims**: Marriage will make you more happy than what?
+
+sex I can count, but for the rest I don't know.
+
+## What the whole world says about marriage
+???
+## Alternatives to marriage
+????
+
+
+
+## But Eliezer Robin PG are all fucking married idiots
+???
+
+## Leanings
+
+- break down main claim into now testable claims
+
+4hrs will not happen after marriage to.... kids will take time
+
+- Check if statement can be falsified
+
+*no-example* 
+
+- 
+
+
+
+## other (not belonging to this post)
+
+**Claims**: looking at the end result is the most important think
+while solving claims
+
+So yesterday during meeting I looked at an exmple of the ball in the
+mezcal module not contributing to the outcome.. as I was explaining it
+to people I forgot that I should look at the end, the what I am
+interested in, the final outcome that is necessary i.e., the gap
+between X and Y or the movement of X and Y. I blanked out for a moment
+and someone said it and then it all made sense.
+
+whereas otten knew it right away
+
+Second example... olav was saying something about double counting,
+until otten came into the picture and said for total gap this is the
+tol train for this and other gap "XYZ" is the toelrance train. Until
+then I didn't know how to piec it together what olav was saying about
+double counting. Look at the end goal and see how it affects it.
+
+
+## todo 
+
+Arrange claims
+solve claims
+add more claims
+solve claims
+
+clean up 
+
+present
+
+It's all an act of persuation I guess in 2017. I remember flipping to
+the other side.
+
+
