@@ -1,9 +1,159 @@
 #+COLUMNS: %7TODO(To Do) %40ITEM(Task) %6CLOCKSUM(Clock)
+* DP Switching careers
+
+Write 60 claims within 32 hrs i.e., (2+4+4+0+2+7+7+4 = 30 hrs)
+
+Above criteria need to be met... 30 bucks for failure and 10 bucks for
+hour of loss
+
+So basicall
+
+** Counted for DP
+*** Prepping for task
+CLOCK: [2019-11-16 za 08:45]--[2019-11-16 za 10:45] =>  2:00
+CLOCK: [2019-10-29 di 18:13]--[2019-10-29 di 18:23] =>  0:10
+CLOCK: [2019-10-28 ma 19:54]--[2019-10-28 ma 20:14] =>  0:20
+*** Looking for content
+**** writing out claims
+CLOCK: [2019-10-29 di 21:12]--[2019-10-29 di 22:28] =>  1:16
+CLOCK: [2019-10-29 di 20:06]--[2019-10-29 di 20:33] =>  0:27
+CLOCK: [2019-10-29 di 19:23]--[2019-10-29 di 20:05] =>  0:42
+CLOCK: [2019-10-29 di 18:57]--[2019-10-29 di 19:05] =>  0:08
+CLOCK: [2019-10-29 di 18:30]--[2019-10-29 di 18:40] =>  0:10
+CLOCK: [2019-10-29 di 18:23]--[2019-10-29 di 18:24] =>  0:01
+
+*** Work
+CLOCK: [2019-12-30 ma 19:18]--[2019-12-30 ma 21:07] =>  1:49
+CLOCK: [2019-12-29 zo 20:07]--[2019-12-29 zo 20:50] =>  0:43
+CLOCK: [2019-12-29 zo 19:19]--[2019-12-29 zo 19:43] =>  0:24
+CLOCK: [2019-12-29 zo 13:31]--[2019-12-29 zo 14:32] =>  1:01
+CLOCK: [2019-12-29 zo 09:35]--[2019-12-29 zo 11:08] =>  1:33
+CLOCK: [2019-12-29 zo 07:53]--[2019-12-29 zo 08:53] =>  1:00
+CLOCK: [2019-12-28 za 15:31]--[2019-12-28 za 17:08] =>  1:37
+CLOCK: [2019-12-28 za 07:39]--[2019-12-28 za 10:13] =>  2:34
+CLOCK: [2019-12-26 do 06:00]--[2019-12-26 do 07:20] =>  1:20
+CLOCK: [2019-12-26 do 05:59]--[2019-12-26 do 06:00] =>  0:01
+CLOCK: [2019-12-18 wo 12:41]--[2019-12-18 wo 13:12] =>  0:31
+CLOCK: [2019-12-17 di 00:57]--[2019-12-17 di 01:34] =>  0:37
+CLOCK: [2019-12-16 ma 12:25]--[2019-12-16 ma 13:05] =>  0:40
+CLOCK: [2019-12-15 zo 10:51]--[2019-12-15 ma 11:00] =>  0:09
+CLOCK: [2019-12-13 vr 13:49]--[2019-12-13 vr 14:43] =>  0:54
+CLOCK: [2019-12-13 vr 11:34]--[2019-12-13 vr 11:59] =>  0:25
+CLOCK: [2019-12-13 vr 10:14]--[2019-12-13 vr 10:43] =>  0:29
+CLOCK: [2019-12-10 di 19:06]--[2019-12-10 do 20:15] =>  1:09
+CLOCK: [2019-12-10 di 16:55]--[2019-12-10 di 18:00] =>  1:05
+:PROPERTIES:
+:ORDERED:  t
+:END:
+
+*** DPing
+CLOCK: [2019-12-09 ma 18:52]--[2019-12-09 ma 18:55] =>  0:03
+CLOCK: [2019-12-09 ma 18:04]--[2019-12-09 ma 18:40] =>  0:36
+CLOCK: [2019-12-07 za 21:05]--[2019-12-07 za 21:39] =>  0:34
+CLOCK: [2019-12-07 za 19:06]--[2019-12-07 za 19:50] =>  0:44
+CLOCK: [2019-12-07 za 18:35]--[2019-12-07 za 19:04] =>  0:29
+CLOCK: [2019-12-07 za 17:52]--[2019-12-07 za 18:07] =>  0:15
+CLOCK: [2019-12-06 vr 13:17]--[2019-12-06 vr 14:00] =>  0:43
+CLOCK: [2019-12-06 vr 10:00]--[2019-12-06 vr 10:45] =>  0:45
+CLOCK: [2019-12-05 do 22:31]--[2019-12-05 do 23:04] =>  0:33
+CLOCK: [2019-12-05 do 15:04]--[2019-12-05 do 15:51] =>  0:47
+CLOCK: [2019-12-04 wo 23:39]--[2019-12-04 wo 23:54] =>  0:15
+CLOCK: [2019-12-04 wo 23:15]--[2019-12-04 wo 23:38] =>  0:23
+CLOCK: [2019-12-04 wo 21:57]--[2019-12-04 wo 22:55] =>  0:58
+CLOCK: [2019-12-04 wo 14:27]--[2019-12-04 wo 15:21] =>  0:54
+CLOCK: [2019-12-04 wo 13:16]--[2019-12-04 wo 13:44] =>  0:28
+CLOCK: [2019-12-04 wo 07:50]--[2019-12-04 wo 08:25] =>  0:35
+CLOCK: [2019-12-04 wo 05:03]--[2019-12-04 wo 06:57] =>  1:54
+CLOCK: [2019-12-04 wo 05:01]--[2019-12-04 wo 05:03] =>  0:02
+CLOCK: [2019-11-24 zo 11:03]--[2019-11-24 zo 11:20] =>  0:17
+CLOCK: [2019-11-24 zo 10:40]--[2019-11-24 zo 10:55] =>  0:15
+CLOCK: [2019-11-24 zo 09:27]--[2019-11-24 zo 10:18] =>  0:51
+CLOCK: [2019-11-23 za 15:35]--[2019-11-23 za 16:30] =>  0:55
+CLOCK: [2019-11-23 za 11:08]--[2019-11-23 za 12:06] =>  0:58
+CLOCK: [2019-11-21 do 20:31]--[2019-11-21 do 20:35] =>  0:04
+CLOCK: [2019-11-20 wo 22:02]--[2019-11-20 wo 22:37] =>  0:35
+CLOCK: [2019-11-20 wo 19:57]--[2019-11-20 wo 21:27] =>  1:30
+CLOCK: [2019-11-19 di 21:37]--[2019-11-19 di 22:42] =>  1:05
+CLOCK: [2019-11-19 di 19:26]--[2019-11-19 di 20:57] =>  1:31
+CLOCK: [2019-11-17 zo 11:17]--[2019-11-17 zo 13:59] =>  2:42
+CLOCK: [2019-11-17 zo 10:56]--[2019-11-17 zo 10:59] =>  0:03
+CLOCK: [2019-11-17 zo 10:29]--[2019-11-17 zo 10:48] =>  0:19
+CLOCK: [2019-11-17 zo 07:48]--[2019-11-17 zo 09:43] =>  1:55
+CLOCK: [2019-11-16 za 21:52]--[2019-11-16 za 22:09] =>  0:17
+CLOCK: [2019-11-16 za 19:38]--[2019-11-16 za 21:13] =>  1:35
+CLOCK: [2019-11-16 za 14:23]--[2019-11-16 za 15:19] =>  0:56
+CLOCK: [2019-11-16 za 13:14]--[2019-11-16 za 14:13] =>  0:59
+CLOCK: [2019-11-16 za 11:38]--[2019-11-16 za 12:48] =>  1:10
+CLOCK: [2019-11-12 di 19:06]--[2019-11-12 di 19:10] =>  0:04
+CLOCK: [2019-11-10 zo 11:04]--[2019-11-10 zo 12:49] =>  1:45
+CLOCK: [2019-11-10 zo 09:37]--[2019-11-10 zo 10:37] =>  1:00
+CLOCK: [2019-11-10 zo 07:02]--[2019-11-10 zo 09:04] =>  2:02
+CLOCK: [2019-11-09 za 17:16]--[2019-11-09 za 19:27] =>  2:11
+CLOCK: [2019-11-09 za 12:57]--[2019-11-09 za 13:41] =>  0:44
+CLOCK: [2019-11-09 za 11:18]--[2019-11-09 za 12:41] =>  1:23
+CLOCK: [2019-11-09 za 10:56]--[2019-11-09 za 11:06] =>  0:10
+CLOCK: [2019-11-09 za 10:10]--[2019-11-09 za 10:56] =>  0:46
+CLOCK: [2019-11-09 za 08:15]--[2019-11-09 za 09:14] =>  0:59
+CLOCK: [2019-11-03 zo 16:21]--[2019-11-03 zo 18:09] =>  1:48
+CLOCK: [2019-11-03 zo 10:42]--[2019-11-03 zo 12:32] =>  1:50
+CLOCK: [2019-11-03 zo 07:38]--[2019-11-03 zo 09:46] =>  2:08
+CLOCK: [2019-11-02 za 15:38]--[2019-11-02 za 16:06] =>  0:28
+CLOCK: [2019-11-02 za 15:13]--[2019-11-02 za 15:25] =>  0:12
+CLOCK: [2019-11-02 za 10:58]--[2019-11-02 za 11:20] =>  0:22
+CLOCK: [2019-10-31 do 08:00]--[2019-10-31 do 08:54] =>  0:54
+CLOCK: [2019-10-30 wo 22:04]--[2019-10-30 wo 23:04] =>  1:00
+CLOCK: [2019-10-30 wo 19:22]--[2019-10-30 wo 21:15] =>  1:53
+
+** Other useful stuff
+*** Work done for STM 
+
+** Not counted for DP
+*** Breaks
+CLOCK: [2019-12-29 zo 11:08]--[2019-12-29 zo 13:31] =>  2:23
+CLOCK: [2019-12-29 zo 08:53]--[2019-12-29 zo 09:35] =>  0:42
+CLOCK: [2019-12-28 za 17:08]--[2019-12-29 zo 08:02] => 14:54
+CLOCK: [2019-12-28 za 11:52]--[2019-12-28 za 15:31] =>  3:39
+CLOCK: [2019-12-28 za 10:13]--[2019-12-28 za 11:52] =>  1:39
+CLOCK: [2019-12-13 vr 11:59]--[2019-12-13 vr 13:49] =>  1:50
+CLOCK: [2019-12-13 vr 11:18]--[2019-12-13 vr 11:34] =>  0:16
+CLOCK: [2019-12-09 ma 18:40]--[2019-12-09 ma 18:52] =>  0:12
+CLOCK: [2019-12-07 za 19:50]--[2019-12-07 za 21:05] =>  1:15
+CLOCK: [2019-12-06 vr 10:45]--[2019-12-06 vr 13:17] =>  2:32
+CLOCK: [2019-12-04 wo 13:44]--[2019-12-04 wo 14:27] =>  0:43
+CLOCK: [2019-12-04 wo 08:25]--[2019-12-04 wo 13:06] =>  4:41
+CLOCK: [2019-12-04 wo 06:57]--[2019-12-04 wo 07:50] =>  0:53
+CLOCK: [2019-11-23 za 12:06]--[2019-11-23 za 15:35] =>  3:29
+CLOCK: [2019-11-20 wo 21:27]--[2019-11-20 wo 22:02] =>  0:35
+CLOCK: [2019-11-19 di 20:57]--[2019-11-19 di 21:37] =>  0:40
+CLOCK: [2019-11-17 zo 10:59]--[2019-11-17 zo 11:17] =>  0:18
+CLOCK: [2019-11-17 zo 09:43]--[2019-11-17 zo 10:29] =>  0:46
+CLOCK: [2019-11-16 za 15:19]--[2019-11-16 za 19:38] =>  4:19
+CLOCK: [2019-11-16 za 10:46]--[2019-11-16 za 11:38] =>  0:52
+CLOCK: [2019-11-10 zo 10:37]--[2019-11-10 zo 11:06] =>  0:29
+CLOCK: [2019-11-10 zo 09:04]--[2019-11-10 zo 09:37] =>  0:33
+CLOCK: [2019-11-09 za 13:41]--[2019-11-09 za 17:16] =>  3:35
+CLOCK: [2019-11-09 za 12:41]--[2019-11-09 za 12:57] =>  0:16
+CLOCK: [2019-11-09 za 09:14]--[2019-11-09 za 10:10] =>  0:56
+CLOCK: [2019-11-03 zo 12:32]--[2019-11-03 zo 16:21] =>  3:49
+CLOCK: [2019-11-03 zo 09:46]--[2019-11-03 zo 10:42] =>  0:56
+CLOCK: [2019-10-30 wo 21:15]--[2019-10-30 wo 22:04] =>  0:49
+CLOCK: [2019-10-29 di 20:33]--[2019-10-29 di 21:12] =>  0:39
+**** Working on Org mode
+**** Dreaming
+**** Random
+*** Sleeping 
+CLOCK: [2019-11-17 zo 10:48]--[2019-11-17 zo 10:56] =>  0:08
+CLOCK: [2019-11-16 za 12:48]--[2019-11-16 za 13:14] =>  0:26
+CLOCK: [2019-11-09 za 11:06]--[2019-11-09 za 11:18] =>  0:12
+CLOCK: [2019-10-29 di 19:05]--[2019-10-29 di 19:23] =>  0:18
+CLOCK: [2019-10-29 di 18:40]--[2019-10-29 di 18:57] =>  0:17
+*** Watching Youtube
+*** Playing with phone
 * DP blog writing Marriage
 ** Deadline 
 
-Write 3500 words of essay on Marriage
-Alotted time: 5 days (2+7+7+4+4)
+Did 60 claims in the end
+Alotted time: 7 days (2+4+4+0+0+7+7)
 
 30 bucks on failure to complete by tuesday night.
 10 bucks per hour failed.
@@ -75,7 +225,7 @@ needed to do more. I predicted to do 4 sections per hour. But I go
 stuck with 6 in 3 hrs. But that is ok! it was great. Got quite far. 
 
 *** Grammar and cleaning
-CLOCK: [2019-10-25 vr 23:15]
+CLOCK: [2019-10-25 vr 23:15]--[2019-10-26 za 01:01] =>  1:46
 CLOCK: [2019-10-25 vr 21:53]--[2019-10-25 vr 22:43] =>  0:50
 *** Reading Techniques to solve them
 **** STM blog
@@ -982,16 +1132,25 @@ piece on prison labor to one of my works on "marriage"
    CLOCK: [2019-08-01 do 21:55]--[2019-08-01 do 22:15] =>  0:20
 * weekly statistics
 
-#+BEGIN: clocktable :maxlevel 2 :scope file :step week :tstart "<-14d>" :tend "<tomorrow>" :compact t
+#+BEGIN: clocktable :maxlevel 2 :scope file :step week :tstart "<-10w>" :tend "<tomorrow>" :compact t
 
-Weekly report starting on: [2019-10-05 za]
+Weekly report starting on: [2019-09-25 wo]
 | Headline                               |    Time |
 |----------------------------------------+---------|
-| *Total time*                           | *11:02* |
+| *Total time*                           | *21:06* |
 |----------------------------------------+---------|
-| DP 200 phrases (working on failure)... |   11:02 |
-| \emsp Counted for work                 |    3:50 |
-| \emsp Not counted for work             |    7:12 |
+| DP 200 phrases (working on failure)... |   21:06 |
+| \emsp Counted for work                 |   11:57 |
+| \emsp Not counted for work             |    9:09 |
+
+Weekly report starting on: [2019-09-30 ma]
+| Headline                               | Time       |
+|----------------------------------------+------------|
+| *Total time*                           | *1d 10:05* |
+|----------------------------------------+------------|
+| DP 200 phrases (working on failure)... | 1d 10:05   |
+| \emsp Counted for work                 | 21:54      |
+| \emsp Not counted for work             | 12:11      |
 
 Weekly report starting on: [2019-10-07 ma]
 | Headline                 |    Time |
@@ -1003,49 +1162,100 @@ Weekly report starting on: [2019-10-07 ma]
 | \emsp Not counted for DP |    5:02 |
 
 Weekly report starting on: [2019-10-14 ma]
+| Headline                 |      Time |
+|--------------------------+-----------|
+| *Total time*             | *1d 1:30* |
+|--------------------------+-----------|
+| DP blog writing Marriage |     18:34 |
+| \emsp Counted for DP     |     10:49 |
+| \emsp Other useful stuff |      0:24 |
+| \emsp Not counted for DP |      7:21 |
+| Statistical Sleuth       |      6:56 |
+| \emsp Counted for work   |      4:50 |
+| \emsp Not counted for DP |      2:06 |
+
+Weekly report starting on: [2019-10-21 ma]
+| Headline                 | Time      |
+|--------------------------+-----------|
+| *Total time*             | *1d 2:46* |
+|--------------------------+-----------|
+| DP blog writing Marriage | 1d 2:46   |
+| \emsp Counted for DP     | 21:33     |
+| \emsp Not counted for DP | 5:13      |
+
+Weekly report starting on: [2019-10-28 ma]
 | Headline                 |    Time |
 |--------------------------+---------|
-| *Total time*             | *15:13* |
+| *Total time*             | *20:37* |
 |--------------------------+---------|
-| DP blog writing Marriage |    8:17 |
-| \emsp Counted for DP     |    5:12 |
-| \emsp Other useful stuff |    0:24 |
-| \emsp Not counted for DP |    2:41 |
-| Statistical Sleuth       |    6:56 |
-| \emsp Counted for work   |    4:50 |
-| \emsp Not counted for DP |    2:06 |
+| DP Switching careers     |   20:37 |
+| \emsp Counted for DP     |   13:49 |
+| \emsp Not counted for DP |    6:48 |
+
+Weekly report starting on: [2019-11-04 ma]
+| Headline                 |    Time |
+|--------------------------+---------|
+| *Total time*             | *17:01* |
+|--------------------------+---------|
+| DP Switching careers     |   17:01 |
+| \emsp Counted for DP     |   11:00 |
+| \emsp Not counted for DP |    6:01 |
+
+Weekly report starting on: [2019-11-11 ma]
+| Headline                 |    Time |
+|--------------------------+---------|
+| *Total time*             | *18:49* |
+|--------------------------+---------|
+| DP Switching careers     |   18:49 |
+| \emsp Counted for DP     |   12:00 |
+| \emsp Not counted for DP |    6:49 |
+
+Weekly report starting on: [2019-11-18 ma]
+| Headline                 |    Time |
+|--------------------------+---------|
+| *Total time*             | *12:45* |
+|--------------------------+---------|
+| DP Switching careers     |   12:45 |
+| \emsp Counted for DP     |    8:01 |
+| \emsp Not counted for DP |    4:44 |
+
+Weekly report starting on: [2019-11-25 ma]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *0:00* |
+
+Weekly report starting on: [2019-12-02 ma]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *0:00* |
 #+END:
 
 * daily statistics
 
 #+BEGIN: clocktable :maxlevel 2 :scope file :step day :tstart "<-2d>" :tend "<tomorrow>" :compact t
 
-Daily report: [2019-10-22 di]
-| Headline                 |   Time |
-|--------------------------+--------|
-| *Total time*             | *4:28* |
-|--------------------------+--------|
-| DP blog writing Marriage |   4:28 |
-| \emsp Counted for DP     |   3:57 |
-| \emsp Not counted for DP |   0:31 |
+Daily report: [2019-12-27 vr]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *0:00* |
 
-Daily report: [2019-10-23 wo]
-| Headline                 |   Time |
-|--------------------------+--------|
-| *Total time*             | *4:38* |
-|--------------------------+--------|
-| DP blog writing Marriage |   4:38 |
-| \emsp Counted for DP     |   3:46 |
-| \emsp Not counted for DP |   0:52 |
+Daily report: [2019-12-28 za]
+| Headline                 |    Time |
+|--------------------------+---------|
+| *Total time*             | *16:21* |
+|--------------------------+---------|
+| DP Switching careers     |   16:21 |
+| \emsp Counted for DP     |    4:11 |
+| \emsp Not counted for DP |   12:10 |
 
-Daily report: [2019-10-24 do]
-| Headline                 |   Time |
-|--------------------------+--------|
-| *Total time*             | *4:52* |
-|--------------------------+--------|
-| DP blog writing Marriage |   4:52 |
-| \emsp Counted for DP     |   3:51 |
-| \emsp Not counted for DP |   1:01 |
+Daily report: [2019-12-29 zo]
+| Headline                 |    Time |
+|--------------------------+---------|
+| *Total time*             | *15:48* |
+|--------------------------+---------|
+| DP Switching careers     |   15:48 |
+| \emsp Counted for DP     |    4:41 |
+| \emsp Not counted for DP |   11:07 |
 #+END:
 
 * Shortcuts
@@ -1115,3 +1325,19 @@ To view statistics
 *** Watching Youtube
 *** Playing with phone
 
+*today
+
+finish settling money with achu
+
+watch porn and sleep
+plan for friday to celebrate guns bday
+picnic
+
+for work
+
+Randomization 
+send mail about carpooling 
+final mail (weather and shit)
+
+buy holidays tomorow
+buy shares figure out tomo
