@@ -1173,6 +1173,10 @@ talent constrained? "transferable"
 cannot be answered. *no-example*;
 
 
+#### example
+
+https://www.linkedin.com/in/peterhurford8/
+
 ### Summary
 ## Which EAO is important (done)
 
@@ -1757,7 +1761,18 @@ farther to the right and say, “What’s a million year storm look like?”
 
 Bayesian methods are becoming more important in econometrics.
 
-I’ve come to understand pretty late some of the key Bayesian ideas, and I’m still figuring it out. What I’ve come to understand is that a classical statistical study doesn’t actually do what you want it to do. What we want a study to do is say, “Given what we observe in the real world, like in our experiment, here is the probability distribution for the impact of deworming.” But actually research doesn’t tell you that. It does not go from the data that’s out there to the distribution for the impact. It’s actually the other way around. It says, what the research can tell us is, “If the impact is zero, here is the probability that we observe the data that we actually do. If the impact is that it increases income 10%, here is the probability that we observe the data that we actually do.”
+I’ve come to understand pretty late some of the key Bayesian ideas,
+and I’m still figuring it out. What I’ve come to understand is that a
+classical statistical study doesn’t actually do what you want it to
+do. What we want a study to do is say, “Given what we observe in the
+real world, like in our experiment, here is the probability
+distribution for the impact of deworming.” But actually research
+doesn’t tell you that. It does not go from the data that’s out there
+to the distribution for the impact. It’s actually the other way
+around. It says, what the research can tell us is, “If the impact is
+zero, here is the probability that we observe the data that we
+actually do. If the impact is that it increases income 10%, here is
+the probability that we observe the data that we actually do.”
 
 **Deworming**
 
@@ -2484,9 +2499,42 @@ Figure out about DS jobs in ASML
 
 What does it mean to become a Generalist researcher
 
+## Dutch citizenship
+
+#rojaps and that guy (pichus friend)
+
+- ASk rajappa what are the adv and disadv of loosing citizenship in
+India
+
+- Leaving country after a year of citizenship.. post citizenship
+  rules?
+  
+- Ask about sending money to india
+
+- paying taxes on land or money I may own in India
+
+## DUTCH PR 
+
+#immigration laywer of something or IND
+
+- check post conditions for renewal
+
+	Do I need to stay in NL continuously?
+	Can I go to study abroad in the mean time? and still hold my
+	status!
+	
+	Do I even need to stay in NL, if so for how long?
+	
+	
+
+- 
+
+
 ## Conclusion
 
 before that how long can you stay with PR forever?
+speak to rojaps about becoming a citizen of another country boom!
+advantages etc...
 
 Money wtf are you gonna do abut it?
 
@@ -2604,3 +2652,14 @@ He was promoting GiveWell for it does. So I am ok! He was trying to
 show people there is a better way to do research.
 
 It's ok he should not do it again. But that's ok! he wont! he's cool.
+asdfdsafdsafdsa
+gdsafdsafdsafdsa
+dsafdsafdsafdsafdsaz
+gdsafdsafdsafdsa
+hfgdafdsfdsafdsafdsafdsafdsz
+jhdsfdsafdsfd
+kj;lj;lkj
+kljhlkjh
+lkjhlkjhlkjhlkjh
+;kjhlkjhlkjh
+;kjhlkjhkjhkjh

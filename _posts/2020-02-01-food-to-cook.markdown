@@ -236,17 +236,6 @@ Add ghee (mix lightly upside down)
 PUT LID (5mins)
 
 
-
-
-
-
-
-
-
-
-
-
-
 ## channa different recipe
 
 https://minimalistbaker.com/easy-chana-masala/

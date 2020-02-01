@@ -7,24 +7,64 @@
 
 * Fat measurement details trial 1
 
-|          |       |        |           |             |          |        |     |       |      |        |
-| date     |       |   time |         1 | 2           | 3        | weight | bfp |   lbm |   bf |   ffmi |
-|----------+-------+--------+-----------+-------------+----------+--------+-----+-------+------+--------|
-| <8>      | <5>   |    <6> |      10.5 |             |          |        |     |       |      |        |
-| 10/14/17 | Saturday |     22 |      10.5 | 22.3        | 12.16    |     63 |  12 | 54.89 | 8.10 |  18.22 |
-| 10/21/17 | Sunday |     23 |      10.5 | 25          | 14.66    |     61 |  12 | 54.89 |  8.1 |  18.22 |
-| 12/12/17 | Sunday |     12 |      10.5 | 24.66       | 15       |     60 |  13 | 51.98 | 8.07 |  17.25 |
-| 9/07/18  | Ma night | 22: 30 |  8.5,8,10 | 22,24,22    | 22,18,20 |   60.6 |  15 | 51.48 | 9.11 |  17.37 |
-| 16/07/18 | Ma    |  22:30 | 8,10,10.5 | 28,29,26,26 | 18,17,17 |   60.4 |  15 |  50.9 | 9.43 |   17.2 |
-| 24/07/18 | tu    |     23 |   9,10,11 | 28,26.5,27  | 16,18,17 |   60.7 |  15 |  50.2 | 9.49 |  16.94 |
-| 25/02/19 | Ma    |     17 |   8,10,11 | 19,24,20    | 14,16,14 |   61.7 |  12 | 53.68 | 8.01 | 18.099 |
-| 1/04/19  | Ma    |  23:41 |   8,8.5,8 | 23,26,24    | 14,18,14 |   61.3 |  13 | 52.72 | 8.57 |  17.78 |
-|          |       |        |           |             |          |        |     |       |      |        |
+|          |       |        |           |             |          |        |     |       |       |        |
+| date     |       |   time | 1         | 2           | 3        | weight | bfp |   lbm |    bf |   ffmi |
+|----------+-------+--------+-----------+-------------+----------+--------+-----+-------+-------+--------|
+| <8>      | <5>   |    <6> | 10.5      |             |          |        |     |       |       |        |
+| 10/14/17 | Saturday |     22 | 10.5      | 22.3        | 12.16    |     63 |  12 | 54.89 |  8.10 |  18.22 |
+| 10/21/17 | Sunday |     23 | 10.5      | 25          | 14.66    |     61 |  12 | 54.89 |   8.1 |  18.22 |
+| 12/12/17 | Sunday |     12 | 10.5      | 24.66       | 15       |     60 |  13 | 51.98 |  8.07 |  17.25 |
+| 9/07/18  | Ma night | 22: 30 | 8.5,8,10  | 22,24,22    | 22,18,20 |   60.6 |  15 | 51.48 |  9.11 |  17.37 |
+| 16/07/18 | Ma    |  22:30 | 8,10,10.5 | 28,29,26,26 | 18,17,17 |   60.4 |  15 |  50.9 |  9.43 |   17.2 |
+| 24/07/18 | tu    |     23 | 9,10,11   | 28,26.5,27  | 16,18,17 |   60.7 |  15 |  50.2 |  9.49 |  16.94 |
+| 25/02/19 | Ma    |     17 | 8,10,11   | 19,24,20    | 14,16,14 |   61.7 |  12 | 53.68 |  8.01 | 18.099 |
+| 1/04/19  | Ma    |  23:41 | 8,8.5,8   | 23,26,24    | 14,18,14 |   61.3 |  13 | 52.72 |  8.57 |  17.78 |
+| 09/01/20 | Do    |  22:16 | 12,14,14  | 35,32,34    | 18,18,19 |     67 |  18 | 54.38 | 12.61 |   18.3 |
+|          |       |        |           |             |          |        |     |       |       |        |
 #+TBLFM: $4=vmean(11,10,10.5)
+
+Started training properly when I was in munich in 2016 april may
+types. before that going to gym on and off. Thats when I remember
+doing leg extensions of 50g in the gym and feeling the pump. Continued
+going to the gym with intermediate workout I think.
+
+Continued in the gym at Franks with intermediate I think after
+graduation. Loved the idea of going to the gym.
+
+Continued with gym in 2017 and started cardio properly in about augues I think
+(borrowed speedometer etc... and started cycling 3-5 times a week)
+
+In 2018 had an issue with arm (shoulder), back (after sleeping) and
+all sorts of injuries. For some reason back started aching so worked
+out on and off to see what causes my ache. Went to eerlijk beter and
+don't know slowly continued to push through. Somehow became ok. Kicked
+out of the house at the end of 2018. went ot india in august. Since
+march I don't think I really worked out well. But started again after
+I came back from vacation with intermediate workout in august 18.
+
+Didn't see any progress in 2018 after intermediate workout, and
+complained to scooby. He said to change to advanced extreme. Was on
+fire since Feb maybe, loved working out was too intense. although I
+didn't see improvement except I went from 6kg lifting biceps (8kg
+maybe) to 12kg (milestone). I could pull down 62.5 kg 8 reps
+even. Squat was stagnated at 70kg max. At one point I was doing 3 days
+workout, 5 days some cardio (either running or eleiptical) and 2 days
+basketball.
+
+Then came other injuries in the form of knee pain (knee giving away),
+arm not stable enough, wrist not strong enough and the disaster
+tailbone pain in august. Worked out on and off and completely shut it
+off to start swimming. 
+
+Now it is 2020 jan 9. I am swimming, (currently on ibuprofen 2 times 3
+times a day for 5 days). This week seems to be 2 times swimming 2
+times beginner workout+running(20mins) or eliptical (45mins) and 2
+times ball. Played ball last week seemed ok w.r.t pain.
 
 | Date     | weight | FC #1 | FC #2 | FC #3 | fat percentage | muscle mass |
 | 24/07/18 |   60.7 |    10 |  26.5 |    17 |             15 |        50.2 |
 | 25/02/19 |   61.7 |   9.6 |    21 |  14.6 |             12 |       53.68 |
+| 09/01/20 |        |       |       |       |                |             | thursday
 
 
 http://scoobysworkshop.com/body-fat-calculator/
@@ -37,7 +77,7 @@ http://scoobysworkshop.com/body-fat-calculator/
 | 10/14/17 | Saturday |   22 | 10.50 | 22.66 | 12.17 |     63 |  12 | 54.89 | 8.11 | 18.23 |      11 |     10 |   10.5 |      23 |     23 |     22 |      12 |   11.5 |     13 |
 | 10/21/17 | Sunday   |   23 | 10.83 | 25.00 | 14.67 |     61 |  12 | 54.89 | 8.11 | 18.23 |       9 |   11.5 |     12 |      27 |     23 |     25 |      15 |     15 |     14 |
 | 12/12/17 | Sunday   |   12 |  7.63 | 24.67 | 15.00 |     60 |  13 | 51.92 | 8.07 | 17.26 |     7.9 |      7 |      8 |      23 |     26 |     25 |      15 |     14 |     16 |
-| 09/08/17 |          |      |       |       |       |        |     |       |      |       |         |        |        |         |        |        |         |        |        |
+
 #+TBLFM: $4=vmean($12..$14);%.2f:: $5=vmean($15..$17);%.2f :: $6=vmean($18..$20);%.2f :: $11=$11;%.2f ::  $10=$10;%.2f
 
 
