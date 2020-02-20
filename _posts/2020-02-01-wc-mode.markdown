@@ -1,14 +1,43 @@
 ---
 layout: post
 comments: true
-title:  "Career, a one example explanation(draft)" 
-date:    29-10-2019 
-categories: drafts
+title:  "wc-mode"
+date:    02-01-2020 
+categories: notes
 tags: DP, feedback, examples
 permalink: /:title.html
-published: true
+published: false
 ---
-https://forum.effectivealtruism.org/posts/jmbP9rwXncfa32seH/after-one-year-of-applying-for-ea-jobs-it-is-really-really
+
+## What I want
+
+- toggleable WCmode
+- show on modeline
+- show how many typed after switched on
+- ability to reset
+- SHOULD NOT BE SLOW AT ALL
+
+## wc-mode
+
+https://github.com/bnbeckwith/wc-mode
+
+^^ is wc-mode which slows down and is straight up irritating to use
+beyond 6k words. There is an improvement of this, but it still sucks.
+
+maybe a simple wrapper around it that identifies when to compute this
+might be interesting.
+
+### Emacs wiki on wcmode
+
+https://www.emacswiki.org/emacs/wcMode
+
+
+
+### Looking online for help
+
+
+
+# word dump
 
 ## Log
 
@@ -2665,3 +2694,4 @@ lkjhlkjhlkjhlkjh
 ;kjhlkjhlkjh
 ;kjhlkjhkjhkjh
 ## Testing 
+

@@ -9,6 +9,7 @@ permalink: /:title.html
 published: true
 ---
 https://forum.effectivealtruism.org/posts/jmbP9rwXncfa32seH/after-one-year-of-applying-for-ea-jobs-it-is-really-really
+
 ## Log
 
 Day 1: 
@@ -1456,7 +1457,7 @@ Asking people is an option.
 
 Why am I unable to make a decision? 
 
-### I am not sure where people need me? 
+### I am not sure where people need men? 
 
 People need me in the following places: GR, policy or safety ML. 
 

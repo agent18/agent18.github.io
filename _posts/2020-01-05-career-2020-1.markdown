@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  "Career-2020 Summary (The ultimate Essay)" 
+title:  "Career-2020 Summary (The ultimate Essay) try 1" 
 date:    04-01-2020 
 categories: drafts
 tags: DP, feedback, examples
@@ -9,7 +9,12 @@ permalink: /:title.html
 published: true
 ---
 
-## DW is better than ETG?
+## Where should you work (done)
+
+This is clear I think. Has to be in a hub if you wanna be great and
+	have less distractions and focus on the one you need.
+
+## DW is better than ETG (should be easy to finish)
 
 So it appears that working as in DW is similar to working in an ETG
 comparing the impact in terms of donations. For example if you consider
@@ -45,88 +50,6 @@ for example GiveWell, then you know it is not really impossible when
 people with history background get into it. 
 
 
-
-## Which EAO
-
-Just start somewhere buddy. You are most likely not going to stay in
-the same place for more than 2 years. + you get networking
-opportunities and possibly understand where could be better working.
-
-i.e., atleast take a step in the "right direction"?
-
-## Where?
-
-It appears that where you live could be quite important atleast in the
-beginning and middle years says PG. He gives examples of how Florence
-is the capital for art and not a very similarly large city, Milan. 
-
-New York is the banking capital. If you want to do investment banking
-that's where you should go. The headquarters of JP morgan and chase,
-Goldman Sacks and Morgan Stanley (The top firms in IB) are from New
-york. But why! ;). 
-
-A good number of youtubers are found in LA. David Dobrik moved from X
-to LA. Logan Paul moved from Ohio to LA. Liza Koshy moved from X to
-LA. There are counter examples from UK such as KSI (as big as
-LP). 1600 vine is the hottest place where LP Amanda Cerny, King Mach
-and many such youtubers lived. I often find in their videos that they
-ask people to move to LA. Some examples of such people are Mike Majlak
-and Evan and Mark Dohner, all of whom moved to LA upon the advice of
-LP. It appears that if you want to be a big internet star you need to
-be around there. Maybe its the auditions, the people you meet
-etc... Even Lily Singh from Canada moved to LA, to "further her
-career". She's a late night host. 
-
-All late late shows seem to be recorded in LA. LA seems to be the
-Celibrity, internet capital of the world.
-
-Startup scene is hot in... you guessed it.... 
-
-Somehow similar people need to flock together, despite their
-capabilities standing for itself.
-
-Persuation is real. Then I want to surround myself with opportunities
-and people who are like minded. Not fucking Asian Lee who is Bored of
-her life and want's to go on vacation and drink all the
-time. Jesus. Some useful persuation please. As much as I don't want
-the GF thing to rub on me it does rub now and then. Especially in
-India. Damn! somany beautis (with whom I supposedly had a shot with)
-
-Coming to EA, the EA conferences (unsure who all attend), seem to
-happen in two locations: SFO and London only. Why I wonder. 
-
-Umm, but scientific discoveries don't seemt to flock regions. Hmmm. 
-
-As PG says, there is a force and you woudn't want to fight such a
-force rather, go along with it and use it to further your prospects.
-
-Recently 80khours seems to have moved all the way from Oxford to LA.
-
-My colleargues most of whom are really good at waht they do, go home
-and seem to be suggesting that they do something completely different,
-like talking to gf or other things.
-
-It appears that I should be in the silicon valley. 80khours moved to SV.
-
-Every area produces a particular kind of people. Florence for example
-for artists. Newyork for business men. Not a coincidence that all
-banks have their HQ in NewYork. NAC that my friend went to NY to make
-money in IB. It's called the New York Stock exchange.
-
-What about  universities and acheivements in the field of research,
-pretty much it seems to be scattered around.
-
-Delft vs ASML
-
-Silicon valley is the tech hub
-
-people vs region/city
-
-PG wouldn't fight such a force but use it to help himself instead.
-
-Youtubers
-
-So many vacancies in EA Community not in San Jose though.
 
 ## What should I do in EAO
 
@@ -263,7 +186,17 @@ understand what it means. Done. It's not too bad.
 how much is a research analyst worth?
 https://blog.givewell.org/2016/04/05/givewells-progress-in-2015/
 
-## Picking up new skills post 30 (quick summary)
+## Which EAO
+
+Just start somewhere buddy. You are most likely not going to stay in
+the same place for more than 2 years. + you get networking
+opportunities and possibly understand where could be better working.
+
+i.e., atleast take a step in the "right direction"?
+
+## Will I get a job at EAO?
+## How long before I make a decision?
+### Picking up new skills post 30 (quick summary)
 
 TOI says,
 
@@ -442,6 +375,7 @@ get A job after 15 years without a job.
 
 
 ## Is 65k enough?
+## In case EAO doesn't work out
 ## The plan
 
 So I prefer to work in an EAO. Cool. I know I need to be in the Bay
@@ -452,14 +386,7 @@ Area. Great!
 I tried axing 80khours and they shot me down. So maybe I can try again
 or with specific questions approach a bunch of people.
 
-## wrap up bro Let's go
 
-Plan for 2020.....
-
-## todo
-
-Write overall story of claims and follow it up with digging into each
-claim and wrappig up this shit.
 
 ## Overall story
 
@@ -540,3 +467,57 @@ or with specific questions approach a bunch of people.
 
 
 
+	
+
+## Overall story 2
+
+So it is clear where I should go. I need to pursue good
+persuasion. What else is clear is that DW  in many cases is better
+than ETG. 
+
+The hardest question I think is what to do in EAO's (there is a
+survey, there is not). There is a job board. So how do I make the
+case for where I should go into is STILL NOT CLEAR.
+
+Which EAO is also not clear. But I don't think anyone knows. The
+people I look at I see that they don't really stay in the same
+EAO. And best of all once you make network, you can find your peace in
+the system. So this is ok!
+
+Will I get a job in EAO? depending on what I choose, I am unsure,
+based on the article I came across.
+
+
+**Money** Looking at the gross number of people who are apping, it
+appears that money might not really be an issue? quickly look at it
+bro... in terms or health, loss of job and savings for old age and in
+case of injuries and cryonics. But I can maybe avoid this. 
+
+**Is it ok to change and start fresh (as in a managerial role after 5
+years)?**
+
+Because I suspect growth type (So we check for post 30 skills gaining)
+
+**The dreaded backup plans and current plans investigation**
+
+- app and see to EAO's (includes prep and stuff)
+- else DS master?
+- or DS in ASML? 
+- 
+
+**The real questions**
+
+1. What do I do in an EAO? <-- Start here.
+
+2. Will I get a job in an EAO?
+
+3. What to do in case of EAO doesn't work?
+
+	In each case what is the visa plan for netherlands?  Chalk out
+	rough plan bro.
+
+4. Coping with being fired in an EAO? (postponed indefinitely)
+   - is 65k enough? what about retirement finances related post
+
+**DEADLINE:** common bro 2 weeks. Lets Go. 4 hrs on weekdays to get to
+answers. Let's make a rough plan and see where it takes us.
