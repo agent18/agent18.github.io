@@ -161,6 +161,11 @@ If there are many B's then is it even worth me struggling to be as
 good as B? to only end up with 2k extra?
 
 With two similar guys, its pointless to fight to be at the top....
+
+The value you add to an EAO is very much dependent on the how
+replaceable you are.
+
+It deosn't seem worth it 
 	
 
 
