@@ -189,7 +189,7 @@ lack of talent constrain, in 80khours suggested top career paths.
 
 Footnote added at the end, needs to be corrected: <!-- tbc -->[^15]
 
-## EA seem to be Talent Constrained (EAorgs say)
+## EA seems to be Talent Constrained (EAorgs say)
 
 Rethink Charity, Open Phil Gen Researcher, TLYCS, EAF's hiring round
 
@@ -344,7 +344,12 @@ So these are not bottleneck options, ok! but why does 80khours want us
 to get better and work on it? again! I was thinking maybe focussing on
 bottlenecks was the think to do! This is just tooo tooo confusing for me.
 
+No: of vacancies in a year? (50?) aaron getler
 
+https://forum.effectivealtruism.org/posts/pzEJmc5gRskHjGTak/many-ea-orgs-say-they-place-a-lot-of-financial-value-on?commentId=r3vv6HWvZ8riBfLEM
+
+Here Jon Beyer and Peter Hurford seem to be hitting the nail in the
+head. Please have a look
 
 ## EA is not talent constrained (People says)
 	
@@ -483,101 +488,6 @@ Sending out personalized invitations...
 
 Max daniel Aaron Gertler, Luke prog etc... and what their creds are.
 
-
-## 80k's rebuttal to talent gaps Nov 2018 article
-
-continues to say even today that there is bottleneck. Great. I don't
-know what they are talking about. I am unable to trust their findings,
-especially the ones without examples. As the onus is on me to
-determine if what they are saying is true. I really need a reality
-check and the burden should not be on me, it should be on 80khours to
-provide examples with what they are saying and why they are saying
-shit. Otherwise we are again lost in the CC TC word game of who
-understands what 80khours is saying. God help us. 
-
-> We believe many of our top problem areas are highly constrained by
-> specific skill sets, as we outlined for AI safety earlier. What’s
-> more, there was an important shift in this direction from 2014 as
-> additional large funders entered these areas, especially the Open
-> Philanthropy Project. This increase in funding created a spike in
-> demand for certain key positions that couldn’t be quickly matched by
-> an equivalent increase in people able to fill them. This led to a
-> bottleneck of people with these types of skills, which persists today.
-
-I spent the last 2 years writing my ass off to follow their priciples
-in CC and others to end up now (just by accident), in a position where
-EAOs is not going to be for me in a long time. 
-
-> Another way to see the problem is that a typical job application
-> process only accepts 1-10% of applicants. This means that even if an
-> organization is 3-times keener to hire than average, its acceptance
-> rate would still only be 3-30%, and most applicants will still not
-> get the job.
-
-(rolling my eyes! OK!).Then that fucking thing is not TC. There is no
-skill bottleneck. My problem is not with 3-30% (there could always be
-fluff applicants). My problem is with that the way it appears as
-though there are many jobs and its hard to fill them, because the
-right people don't exist, whereas in reality it is completely
-different. If you look at OP's hiring round, you get the picture. They
-had 50 candidates of good stature that they had to choose from and
-several of whom they would consider hiring in the future. So I am not
-really sure how this is contrain in skill. Anyways fuck 80khours and
-their definitions.
-
-My worries are further exploding because they think the proxy for their
-success is VIEWS. OMG! Are you serious BT? are these the kind of
-people you trust to change the world! Views gOoh! When you don't care
-about those people who view it and all you care about is the super
-super elite. Fuck off. 
-
-My qualms are that 80khours did a poor job with it.  They think
-english is the best way to communitcate not numbers. They did this
-with CC being focus now its TC. My biggest fear is listening more to
-their english blindly, without being able to test their claims. And
-that is the danger of the situation. Most people (atleast me and EA
-applicant) seem to heavily rely on theirr "research", but am not sure
-it is that good or atleast the way they talk. Look at how they loosely
-use words like MANY (without numbers or actual examples of what it is
-they mean) in the 2018 survey. and TC and CC. Where do they get their
-info from? More explanation is needed. maybe they trying to generalze
-it so please stop that... your OK is not my OK. (everything with
-exmaples)
-
-## Conclusion
-
-- The surveys are wrong or pointless or not trustable
-
-- Other than Disentanglement I do not know of any other bottleneck for
-  the long-termism gang.
-  
-- GR, Operations, AI policy and strategy seem to be saturated and
-  full, without many new jobs includnig open phil and FHI
-  
-- Working outside the EA, in Policy 
-
-- I don't trust 80khours to communicate right
-
-- For me, its al
-
-
-## Reflection to my life.
-
-I think am at a cross roads and I very very unsure what I can excel
-at. ML seems to be lucrative as atleast I would potentially have a job
-even if I am not good enough for a Tech AI safety job.
-
-The problem is the way the bottlenecks haev been framed in 80khours, I
-don't really know what to do. I am unsure I am unsure how to proceed. 
-
-Does the world need managers? how do I become one? is it also NOT TC?
-
-Also I want evidence that something is TC or not. I dont' want to
-trust words. I want someone to talk in numbers.
-
-Wrap it up.... and prepare to post in EA blogs. and get feedback. how
-is one supposed to decide how to work. Don't just tell me based on
-personal fit, what ever that advice is...
 
 ## From previous article
 
@@ -786,6 +696,125 @@ worth more than what they are**
 
 I think it is a discussion for if I should work in EAO or do DS. Nam saying...
 
+## 80k's rebuttal to talent gaps Nov 2018 article
+
+continues to say even today that there is bottleneck. Great. I don't
+know what they are talking about. I am unable to trust their findings,
+especially the ones without examples. As the onus is on me to
+determine if what they are saying is true. I really need a reality
+check and the burden should not be on me, it should be on 80khours to
+provide examples with what they are saying and why they are saying
+shit. Otherwise we are again lost in the CC TC word game of who
+understands what 80khours is saying. God help us. 
+
+> We believe many of our top problem areas are highly constrained by
+> specific skill sets, as we outlined for AI safety earlier. What’s
+> more, there was an important shift in this direction from 2014 as
+> additional large funders entered these areas, especially the Open
+> Philanthropy Project. This increase in funding created a spike in
+> demand for certain key positions that couldn’t be quickly matched by
+> an equivalent increase in people able to fill them. This led to a
+> bottleneck of people with these types of skills, which persists today.
+
+I spent the last 2 years writing my ass off to follow their priciples
+in CC and others to end up now (just by accident), in a position where
+EAOs is not going to be for me in a long time. 
+
+> Another way to see the problem is that a typical job application
+> process only accepts 1-10% of applicants. This means that even if an
+> organization is 3-times keener to hire than average, its acceptance
+> rate would still only be 3-30%, and most applicants will still not
+> get the job.
+
+(rolling my eyes! OK!).Then that fucking thing is not TC. There is no
+skill bottleneck. My problem is not with 3-30% (there could always be
+fluff applicants). My problem is with that the way it appears as
+though there are many jobs and its hard to fill them, because the
+right people don't exist, whereas in reality it is completely
+different. If you look at OP's hiring round, you get the picture. They
+had 50 candidates of good stature that they had to choose from and
+several of whom they would consider hiring in the future. So I am not
+really sure how this is contrain in skill. Anyways fuck 80khours and
+their definitions.
+
+My worries are further exploding because they think the proxy for their
+success is VIEWS. OMG! Are you serious BT? are these the kind of
+people you trust to change the world! Views gOoh! When you don't care
+about those people who view it and all you care about is the super
+super elite. Fuck off. 
+
+My qualms are that 80khours did a poor job with it.  They think
+english is the best way to communitcate not numbers. They did this
+with CC being focus now its TC. My biggest fear is listening more to
+their english blindly, without being able to test their claims. And
+that is the danger of the situation. Most people (atleast me and EA
+applicant) seem to heavily rely on theirr "research", but am not sure
+it is that good or atleast the way they talk. Look at how they loosely
+use words like MANY (without numbers or actual examples of what it is
+they mean) in the 2018 survey. and TC and CC. Where do they get their
+info from? More explanation is needed. maybe they trying to generalze
+it so please stop that... your OK is not my OK. (everything with
+exmaples)
+
+## Conclusion
+
+- The surveys are wrong or pointless or not trustable
+
+- Other than Disentanglement I do not know of any other bottleneck for
+  the long-termism gang.
+  
+- GR, Operations, AI policy and strategy seem to be saturated and
+  full, without many new jobs includnig open phil and FHI
+  
+- Working outside the EA, in Policy 
+
+- I don't trust 80khours to communicate right
+
+- For me, its al
+
+
+## Reflection to my life.
+
+I think am at a cross roads and I very very unsure what I can excel
+at. ML seems to be lucrative as atleast I would potentially have a job
+even if I am not good enough for a Tech AI safety job.
+
+The problem is the way the bottlenecks haev been framed in 80khours, I
+don't really know what to do. I am unsure I am unsure how to proceed. 
+
+Does the world need managers? how do I become one? is it also NOT TC?
+
+Also I want evidence that something is TC or not. I dont' want to
+trust words. I want someone to talk in numbers.
+
+Wrap it up.... and prepare to post in EA blogs. and get feedback. how
+is one supposed to decide how to work. Don't just tell me based on
+personal fit, what ever that advice is...
+
+## Bemoaning ETG
+
+https://80000hours.org/articles/high-impact-careers/#global-priorities-researcher
+
+ETG last spot (if you have a personal fit dialogue)
+
+Working at EAO
+
+talent gaps 2015 article
+
+peter hurford
+
+EA applicant
+
+and several others
+
+MIRI wanting money
+
+Number of people doated from less wrong?
+
+## EA is competitive
+
+
+
 ## In conclusion
 
 I don't knwo what all those orgs in the surveys were talking
@@ -821,6 +850,8 @@ except for in Disentanglement as far as I know. or I have examples
 for.
 
 ## points about 80khours
+
+- Waste of time of people
 
 - english  english english... many... how many ? though
 
@@ -1515,3 +1546,4 @@ about ETG as in the later paragraph of the quotes.
 	couple of years. Whether the adjective desperate was warrented or not
 	is a separate debate but the message seems to be that there is LOT OF
 	TC (atleast based on the title). 
+

@@ -1,5 +1,10 @@
 #+COLUMNS: %7TODO(To Do) %40ITEM(Task) %6CLOCKSUM(Clock)
-
+* Food to cook timing
+** cutting
+** planning
+CLOCK: [2020-02-23 zo 10:18]
+** cooking
+** breaks
 * practicing typing
 ** everyday
 CLOCK: [2020-02-09 zo 12:30]--[2020-02-09 zo 13:09] =>  0:39
@@ -68,7 +73,18 @@ CLOCK: [2020-02-09 zo 16:15]--[2020-02-09 zo 19:15] =>  3:00
 CLOCK: [2020-02-09 zo 10:29]--[2020-02-09 zo 12:30] =>  2:01
 CLOCK: [2020-02-09 zo 08:58]--[2020-02-09 zo 09:39] =>  0:41
 *** How bottlenecked is EA?
-CLOCK: [2020-02-20 do 22:06]
+CLOCK: [2020-02-23 zo 08:34]--[2020-02-23 zo 10:15] =>  1:41
+CLOCK: [2020-02-22 za 18:53]--[2020-02-22 za 19:32] =>  0:39
+CLOCK: [2020-02-22 za 17:10]--[2020-02-22 za 18:05] =>  0:55
+CLOCK: [2020-02-22 za 13:45]--[2020-02-22 za 14:03] =>  0:18
+CLOCK: [2020-02-22 za 12:03]--[2020-02-22 za 13:32] =>  1:29
+CLOCK: [2020-02-22 za 09:43]--[2020-02-22 za 11:27] =>  1:44
+CLOCK: [2020-02-22 za 08:37]--[2020-02-22 za 08:50] =>  0:13
+CLOCK: [2020-02-22 za 07:47]--[2020-02-22 za 08:36] =>  0:49
+CLOCK: [2020-02-21 vr 21:26]--[2020-02-21 vr 23:23] =>  1:57
+CLOCK: [2020-02-21 vr 19:09]--[2020-02-21 vr 20:45] =>  1:36
+CLOCK: [2020-02-21 vr 18:51]--[2020-02-21 vr 18:58] =>  0:07
+CLOCK: [2020-02-20 do 22:06]--[2020-02-20 do 23:06] =>  1:00
 CLOCK: [2020-02-20 do 19:03]--[2020-02-20 do 21:25] =>  2:22
 CLOCK: [2020-02-18 di 21:27]--[2020-02-18 di 23:09] =>  1:42
 CLOCK: [2020-02-18 di 19:01]--[2020-02-18 di 20:46] =>  1:45
@@ -106,6 +122,14 @@ CLOCK: [2020-02-12 wo 20:58]--[2020-02-12 wo 22:34] =>  1:36
 
 ** Not counted for DP
 *** Breaks
+CLOCK: [2020-02-22 za 18:05]--[2020-02-22 za 18:53] =>  0:48
+CLOCK: [2020-02-22 za 14:03]--[2020-02-22 za 17:46] =>  3:43
+CLOCK: [2020-02-22 za 13:32]--[2020-02-22 za 13:40] =>  0:08
+CLOCK: [2020-02-22 za 11:27]--[2020-02-22 za 12:03] =>  0:36
+CLOCK: [2020-02-22 za 08:50]--[2020-02-22 za 09:43] =>  0:53
+CLOCK: [2020-02-22 za 08:36]--[2020-02-22 za 08:37] =>  0:01
+CLOCK: [2020-02-21 vr 20:45]--[2020-02-21 vr 21:26] =>  0:41
+CLOCK: [2020-02-21 vr 18:58]--[2020-02-21 vr 19:09] =>  0:11
 CLOCK: [2020-02-20 do 21:27]--[2020-02-20 do 22:06] =>  0:39
 CLOCK: [2020-02-18 di 20:46]--[2020-02-18 di 21:27] =>  0:41
 CLOCK: [2020-02-17 ma 22:17]--[2020-02-17 ma 22:44] =>  0:27
@@ -1366,23 +1390,9 @@ piece on prison labor to one of my works on "marriage"
 
    CLOCK: [2019-08-01 do 21:55]--[2019-08-01 do 22:15] =>  0:20
 * weekly statistics
+CLOCK: [2020-02-23 zo 10:17]--[2020-02-23 zo 10:18] =>  0:01
 
 #+BEGIN: clocktable :maxlevel 2 :scope file :step week :tstart "<-3w>" :tend "<tomorrow>" :compact t
-
-Weekly report starting on: [2020-01-27 ma]
-| Headline                                      |       Time |
-|-----------------------------------------------+------------|
-| *Total time*                                  | *1d 15:22* |
-|-----------------------------------------------+------------|
-| practicing typing                             |       0:54 |
-| \emsp everyday                                |       0:54 |
-| DP Posts on Career Finale                     |    1d 2:45 |
-| \emsp Work done on posts                      |      18:09 |
-| \emsp Not counted for DP                      |       8:36 |
-| DP Switching careers                          |      11:43 |
-| \emsp Finale article (rewriting from scratch) |       1:10 |
-| \emsp Other useful stuff                      |       0:31 |
-| \emsp Not counted for DP                      |      10:02 |
 
 Weekly report starting on: [2020-02-03 ma]
 | Headline                                      |       Time |
@@ -1406,75 +1416,20 @@ Weekly report starting on: [2020-02-10 ma]
 | DP Posts on Career Finale | 1d 10:49   |
 | \emsp Work done on posts  | 1d 2:26    |
 | \emsp Not counted for DP  | 8:23       |
+
+Weekly report starting on: [2020-02-17 ma]
+| Headline                  | Time      |
+|---------------------------+-----------|
+| *Total time*              | *1d 7:10* |
+|---------------------------+-----------|
+| DP Posts on Career Finale | 1d 7:10   |
+| \emsp Work done on posts  | 21:46     |
+| \emsp Not counted for DP  | 9:24      |
 #+END:
 
 * daily statistics
 
 #+BEGIN: clocktable :maxlevel 2 :scope file :step day :tstart "<-7d>" :tend "<tomorrow>" :compact t
-
-Daily report: [2020-02-09 zo]
-| Headline                                      |    Time |
-|-----------------------------------------------+---------|
-| *Total time*                                  | *19:56* |
-|-----------------------------------------------+---------|
-| practicing typing                             |    0:39 |
-| \emsp everyday                                |    0:39 |
-| DP Posts on Career Finale                     |   10:19 |
-| \emsp Work done on posts                      |    6:24 |
-| \emsp Not counted for DP                      |    3:55 |
-| DP Switching careers                          |    8:58 |
-| \emsp Finale article (rewriting from scratch) |    0:15 |
-| \emsp Not counted for DP                      |    8:43 |
-
-Daily report: [2020-02-10 ma]
-| Headline                  |   Time |
-|---------------------------+--------|
-| *Total time*              | *4:26* |
-|---------------------------+--------|
-| DP Posts on Career Finale |   4:26 |
-| \emsp Work done on posts  |   3:44 |
-| \emsp Not counted for DP  |   0:42 |
-
-Daily report: [2020-02-11 di]
-| Headline     | Time   |
-|--------------+--------|
-| *Total time* | *0:00* |
-
-Daily report: [2020-02-12 wo]
-| Headline                  |   Time |
-|---------------------------+--------|
-| *Total time*              | *4:02* |
-|---------------------------+--------|
-| DP Posts on Career Finale |   4:02 |
-| \emsp Work done on posts  |   3:30 |
-| \emsp Not counted for DP  |   0:32 |
-
-Daily report: [2020-02-13 do]
-| Headline                  |   Time |
-|---------------------------+--------|
-| *Total time*              | *3:54* |
-|---------------------------+--------|
-| DP Posts on Career Finale |   3:54 |
-| \emsp Work done on posts  |   3:20 |
-| \emsp Not counted for DP  |   0:34 |
-
-Daily report: [2020-02-14 vr]
-| Headline                  |   Time |
-|---------------------------+--------|
-| *Total time*              | *4:12* |
-|---------------------------+--------|
-| DP Posts on Career Finale |   4:12 |
-| \emsp Work done on posts  |   3:32 |
-| \emsp Not counted for DP  |   0:40 |
-
-Daily report: [2020-02-15 za]
-| Headline                  |   Time |
-|---------------------------+--------|
-| *Total time*              | *7:38* |
-|---------------------------+--------|
-| DP Posts on Career Finale |   7:38 |
-| \emsp Work done on posts  |   6:00 |
-| \emsp Not counted for DP  |   1:38 |
 
 Daily report: [2020-02-16 zo]
 | Headline                  |    Time |
@@ -1484,6 +1439,61 @@ Daily report: [2020-02-16 zo]
 | DP Posts on Career Finale |   10:37 |
 | \emsp Work done on posts  |    6:20 |
 | \emsp Not counted for DP  |    4:17 |
+
+Daily report: [2020-02-17 ma]
+| Headline                  |   Time |
+|---------------------------+--------|
+| *Total time*              | *4:32* |
+|---------------------------+--------|
+| DP Posts on Career Finale |   4:32 |
+| \emsp Work done on posts  |   3:29 |
+| \emsp Not counted for DP  |   1:03 |
+
+Daily report: [2020-02-18 di]
+| Headline                  |   Time |
+|---------------------------+--------|
+| *Total time*              | *4:08* |
+|---------------------------+--------|
+| DP Posts on Career Finale |   4:08 |
+| \emsp Work done on posts  |   3:27 |
+| \emsp Not counted for DP  |   0:41 |
+
+Daily report: [2020-02-19 wo]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *0:00* |
+
+Daily report: [2020-02-20 do]
+| Headline                  |   Time |
+|---------------------------+--------|
+| *Total time*              | *4:01* |
+|---------------------------+--------|
+| DP Posts on Career Finale |   4:01 |
+| \emsp Work done on posts  |   3:22 |
+| \emsp Not counted for DP  |   0:39 |
+
+Daily report: [2020-02-21 vr]
+| Headline                  |   Time |
+|---------------------------+--------|
+| *Total time*              | *4:32* |
+|---------------------------+--------|
+| DP Posts on Career Finale |   4:32 |
+| \emsp Work done on posts  |   3:40 |
+| \emsp Not counted for DP  |   0:52 |
+
+Daily report: [2020-02-22 za]
+| Headline                  |    Time |
+|---------------------------+---------|
+| *Total time*              | *12:16* |
+|---------------------------+---------|
+| DP Posts on Career Finale |   12:16 |
+| \emsp Work done on posts  |    6:07 |
+| \emsp Not counted for DP  |    6:09 |
+
+Daily report: [2020-02-23 zo]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *0:00* |
 #+END:
 
 * Shortcuts

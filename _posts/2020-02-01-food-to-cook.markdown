@@ -243,3 +243,96 @@ https://minimalistbaker.com/easy-chana-masala/
 ## Kadai vegetable
 
 ## Make potatoes 
+
+## Veg makhanwala recipe
+
+https://www.archanaskitchen.com/veg-makhanwala-recipe-north-indian-mixed-vegetables-gravy
+
+https://www.youtube.com/watch?time_continue=2&v=crSzWAG3OQU&feature=emb_logo
+
+### Ingredients
+
+**Cooking Veggies**
+
+1 tablespoon Butter
+Salt , to taste
+1/4 cup Carrot (Gajjar) , cut into 1 inch diagonals
+1/4 cup Green Bell Pepper (Capsicum) , cut into 1 inch diagonals
+1/4 cup Green beans (French Beans) , cut into 1 inch diagonals
+1/4 cup Baby corn , cut into 1 inch diagonals
+1/4 cup Cauliflower (gobi) , small florets
+
+**Gravy**
+ 
+1 tablespoon Butter
+2 Cloves (Laung)
+1 Cardamom (Elaichi) Pods/Seeds
+1 inch Cinnamon Powder (Dalchini)
+2 Kashmiri dry red chilli
+1 teaspoon Coriander seeds
+1/2 teaspoon Whole Black Pepper Corns
+6 Cashew nuts
+5 cloves Garlic
+1 inch Ginger
+1 Green Chilli
+2 Onions , finely chopped
+Salt , to taste
+1 teaspoon Kashmiri Red Chilli Powder
+1/4 teaspoon Turmeric powder (Haldi)
+1 teaspoon Cumin powder (Jeera)
+1 teaspoon Garam masala powder
+1 cup Homemade tomato puree
+2 tablespoons Fresh cream
+Butter , to serve
+
+### Recipe
+
+
+**Cooking veggies**
+
+
+1. Add butter and add all the vegetables - carrot, capsicum, babycorn,
+   beans and cauliflower (1/4 cups).
+
+2. Salt to taste
+
+2. Cover and cook until vegetables are done (they need to be crunchy)
+
+3. Set aside
+
+**Gravy**
+
+1. Add butter, 1 inch cinnamon, 2 cloves, 1 cardommom broken, 1/2 tsp
+   black pepper corns, 2 whole dry chilles, 1 tsp corriander seeds
+   
+2. Roast
+
+3. 5 cloves garlic, 1 inch shaven ginger, one green chilli
+
+4. 2 onions chopped (saute until onions turn soft (brown))
+
+5. 6 cashews
+
+6. Grind it (make paste)
+
+**The dish**
+
+1.Add butter, gravy paste, salt, 1/3 tsp turmeric, 1tsp cumin, 1 tsp
+red chilli, 1 tsp garath
+
+2. one cup tomato puree so that it spreads in the pan
+
+3. 2 tablespoons cream
+
+4. Add veges
+
+5. Simmer for 5 mins, close pan with lid
+
+6. Add little water, bring to boil
+
+
+
+
+
+
+
