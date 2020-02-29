@@ -862,7 +862,7 @@ for.
 - Lack of ability to provide a proper reply when asked about the time
   spent by EAs 
   
-- Let's not loose focus. WE want to identify what we should be
+- Let's not loose focus. We want to identify what we should be
   doing. Suprisingly this post was useful with its output on GR and
   the lack of demand. Atleast teh abundance of supply.
 
@@ -886,7 +886,7 @@ guys from a certain EAO.
 
 **80k's explanation**
 
-	An organisation reporting being ‘talent constrained’ doesn’t
+An organisation reporting being ‘talent constrained’ doesn’t
 necessarily indicate that they are about to hire a large number of
 people." --- WTF
 https://forum.effectivealtruism.org/posts/pzEJmc5gRskHjGTak/many-ea-orgs-say-they-place-a-lot-of-financial-value-on
@@ -1129,7 +1129,6 @@ makes me think there is a huge demand
 They have been making quite a fuss about working at EAOs and not
 etging (as in the Why should we focus more on talent gaps)
 
-
 ETG and that too as a quants person in trading is ranked 8th in their
 top priority paths behind, AI safety, policy and strategy, China
 specialists, working in EAOs and doing global priorities research.
@@ -1153,7 +1152,7 @@ the potential[300k<span>$</span> average donations per year](https://80000hours.
 > key bottleneck. ---[high impact careers](https://80000hours.org/articles/high-impact-careers/)(Aug 2018)
 
 
-## Very easy to get into EAO
+### Very easy to get into EAO
 
 **How easy is it to get into EAO**
 
@@ -1219,10 +1218,6 @@ hire.
 ## What did I think before, what changes now to my future? 
 
 ## How hard is it to get a job in EA now?
-
-
-
-
 
 There seems to be money, even trying to earn to give seems to be
 pointless, considering at max I can be a data

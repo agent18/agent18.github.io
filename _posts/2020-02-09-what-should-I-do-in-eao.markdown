@@ -6,7 +6,7 @@ date:    09-02-2020
 categories: posts
 tags: DP, feedback, examples
 permalink: /:title.html
-published: true
+published: false
 ---
 
 ## Claims, Claims, Claims!
@@ -492,6 +492,7 @@ really need evidence on if these posts are even working.
 Like one of the hardest things to do is estimate the impact and
 conveniently they leave it out. They get very creative in their
 example giving. 
+
 ## Some other things I could potentially try
 
 - try to improve the lives of ordinary EA folk 
