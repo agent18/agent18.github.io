@@ -1659,4 +1659,9 @@ earlier.
 or maybe it is just better to take mild digs at them... here and
 there. 
 
+ Furthermore,
+80khours has a history with mistakes in the past. They have gone [back
+and forth with replaceability](https://80000hours.org/search/?cx=007036038893981741514%3Ad-war0ad7jy&cof=FORID%3A11&q=replaceability) since 2012, they realized they put
+too much stress on career capital, [downplayed how hard it is to get a
+job in EA](https://80000hours.org/career-reviews/working-at-effective-altruist-organisations/#what-are-the-predictors-of-success). I am having a hard time understanding how several people
 
