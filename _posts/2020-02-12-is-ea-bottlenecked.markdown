@@ -1542,3 +1542,121 @@ about ETG as in the later paragraph of the quotes.
 	is a separate debate but the message seems to be that there is LOT OF
 	TC (atleast based on the title). 
 
+# from is ea bottlenecked 2
+## Qualms with 80khours
+
+I am really frustrated with 80khours. Atleast to my knowledge they
+have made 4 claims:
+
+- replaceability
+- TC
+- Pushing CC
+- how easy getting a job in EA is 
+- They write in english (not numbers)
+- They don't think they need to apologise
+- very bad explanation:
+  Think twice Talent gaps
+  Survey 2019 EA work about cash
+  
+- LAck of decisive advice (saying just about everything)
+
+- bloating a definition to make it useless
+
+- contradiction:
+profile on AI says basically everything where as it is somehow TC in
+specific areas in AI.
+
+TC not in general but for AI it is in general, for Working in EAO it
+is in general.
+
+- lack of updation of posts. 
+
+- Several definitions for TC (god help me)
+- repeat posts (not sure what the difference is)
+
+- Mistakes mistakes mistakes
+
+recent hire cost, 
+
+- useless advice
+
+go to the companies and ask them how much donation I would be
+irrelavent. BS
+
+- Not one place do they seem to mention the EA forum (My savior)
+
+- how useless ETG is
+
+- untestable claims unless for EA forum:
+
+> In brief, we think our list of top problems (AI safety, biorisk, EA,
+> GPR, nuclear security, institutional decision-making) are mainly
+> constrained by research insights, either those that directly solve
+> the issue or insights about policy solutions.
+
+Look at is-ea-bottlenecked.markdown 
+
+- one of the hardest things to do is to estimate the impact and they
+  conviniently leave that out. They get very createive with their
+  example giving.
+
+**Other**
+
+- They expect english to convey shit... not numbers
+
+When someone asked that 80khours hsould consider the cost of us
+applying and figuring out how much life sucks they literally made a
+shitty comment.
+
+Peter Expresses his concern on the bemoaning of ETG. As evidence to
+his claim I believe unless I can be a quants trader I am a loser and
+that it is better to focus on working at an EAO as a result. And now
+even this is turning out to be hard as fuck. And the one org we turn
+to for career advice sucks. 
+
+https://80000hours.org/career-reviews/working-at-effective-altruist-organisations/#choosing-which-organisation-to-work-at
+
+useless advice
+
+https://80000hours.org/key-ideas/#most-pressing-problems
+contradictory advice in 2019 article: operations staff still bottleneck
+
+## How replaceable is GR in actually?
+
+I tried to get data but that didn't seem to work out in this case.
+But is this what the world is undergoing? is it true that who ever
+doens't get the job has to do something significantly bad ? according
+to peter hurford yes, according to his friends yes.
+
+
+So now that EA is not TC atleast for the type of jobs I was planning
+to upskill myself in (GR, AI safety guy), I need another plan. 
+
+I was thinking of working in GiveWell maybe and from there on going
+further. Or doing a masters in AI and then finding my way into there. 
+
+
+## You wont get into EA
+
+Start with 80khours telling people they shouldn't ETG (as it is
+pointless). They should focus on 
+
+and maybe list all the people who didn't get in
+
+Orgs are hiring slow they remain small... 
+
+## How I think 80khours misleads everybody
+
+- definitions 
+
+- no examples
+
+- working for the elite
+
+or try to see if you can make that a post the things I have written
+earlier.
+
+or maybe it is just better to take mild digs at them... here and
+there. 
+
+

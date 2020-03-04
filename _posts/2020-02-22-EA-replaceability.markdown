@@ -6,7 +6,7 @@ date:    12-02-2020
 categories: drafts
 tags: DP, feedback, examples
 permalink: /:title.html
-published: true
+published: false
 ---
 
 ## EAs are not replaceable
@@ -32,6 +32,14 @@ other things. But I am not sure this is true as we look at people like
 EA applicant and others going to do sub optmial things?
 
 Oh man this is going to be a long article too.
+
+This debate is so important because it breaks the claims of 0%
+replaceability (TC), which 80khours seems to make [here](https://80000hours.org/2015/07/replaceability-isnt-as-important-as-you-might-think-or-weve-suggested/) and [here](https://80000hours.org/career-reviews/working-at-effective-altruist-organisations/#but-wont-i-be-replaceable)
+(2015 to 2017).
+
+https://forum.effectivealtruism.org/posts/7bp9Qjy7rCtuhGChs/survey-of-ea-org-leaders-about-what-skills-and-experience?commentId=ySRBeBocRz7oSahAC#ySRBeBocRz7oSahAC
+
+
 
 ## 80khours
 
@@ -79,6 +87,17 @@ Like how are they wrong about everything? or did the times change?
 
 And regarding the WHEN statement atleast Peter hurford for his jobs
 and EAF hiring round and Open phil seem to be thinking otherwise.
+
+> Why are EA organisations predominantly talent constrained? The key
+> reason is that the organisations want to grow, and there are a
+> number of large donors supporting the organisations, such as the
+> Open Philanthropy Project. These donors are usually willing to
+> provide funds for anyone who can make a significant
+> contribution. The community also has a good track record of
+> attracting new large donors. This creates a situation where anyone
+> above the bar gets hired and is not replaceable.???
+
+???
 
 ## Value created by one person
 
@@ -485,12 +504,12 @@ not TC. Similar story with EAF, Rethink Priorities and TLYCS.
 
 Replaceability has become crucial now in this light and 80khours turns
 out to be not that useful or trust worthy ( with false claims on TC,
-replaceability, focusing too much on career capital, how
-hard it is to get an EA job). Thus, I am trying to do my own
-evaluation. Hence I seek values for replaceability (question 2) and
-dollars influenced or moved at EA orgs by the employees (question 1)
-to multiply\* and compare it with ETG and if it makes sense to go
-behind ETG instead of EA job.
+replaceability, focusing too much on career capital, how hard it is to
+get an EA job). Thus, I am trying to do my own evaluation. Hence I
+seek values for replaceability (question 2) and dollars influenced or
+moved at EA orgs by the employees (question 1) to multiply\* and
+compare it with ETG and if it makes sense to go behind ETG instead of
+EA job.
 
 P.S
 I am writing a post about it. Hope to make this my first post on EA

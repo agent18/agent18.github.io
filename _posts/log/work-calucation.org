@@ -67,7 +67,21 @@ CLOCK: [2020-02-09 zo 16:15]--[2020-02-09 zo 19:15] =>  3:00
 CLOCK: [2020-02-09 zo 10:29]--[2020-02-09 zo 12:30] =>  2:01
 CLOCK: [2020-02-09 zo 08:58]--[2020-02-09 zo 09:39] =>  0:41
 *** How bottlenecked is EA?
-CLOCK: [2020-02-29 za 16:56]
+CLOCK: [2020-03-04 wo 07:21]
+CLOCK: [2020-03-03 di 22:26]--[2020-03-03 di 22:55] =>  0:29
+CLOCK: [2020-03-03 di 19:58]--[2020-03-03 di 21:41] =>  1:43
+CLOCK: [2020-03-02 ma 22:22]--[2020-03-02 ma 22:53] =>  0:31
+CLOCK: [2020-03-02 ma 21:33]--[2020-03-02 ma 21:33] =>  0:00
+CLOCK: [2020-03-02 ma 21:11]--[2020-03-02 ma 21:24] =>  0:13
+CLOCK: [2020-03-02 ma 19:49]--[2020-03-02 ma 21:06] =>  1:17
+CLOCK: [2020-03-01 zo 22:35]--[2020-03-01 zo 22:52] =>  0:17
+CLOCK: [2020-03-01 zo 21:10]--[2020-03-01 zo 22:00] =>  0:50
+CLOCK: [2020-03-01 zo 19:15]--[2020-03-01 zo 20:11] =>  0:56
+CLOCK: [2020-03-01 zo 14:49]--[2020-03-01 zo 15:14] =>  0:25
+CLOCK: [2020-02-29 za 21:34]--[2020-02-29 za 22:38] =>  1:04
+CLOCK: [2020-02-29 za 19:05]--[2020-02-29 za 19:30] =>  0:25
+CLOCK: [2020-02-29 za 18:26]--[2020-02-29 za 18:44] =>  0:18
+CLOCK: [2020-02-29 za 16:56]--[2020-02-29 za 17:23] =>  0:27
 CLOCK: [2020-02-29 za 14:37]--[2020-02-29 za 16:07] =>  1:30
 CLOCK: [2020-02-29 za 09:41]--[2020-02-29 za 10:15] =>  0:34
 CLOCK: [2020-02-29 za 08:17]--[2020-02-29 za 09:37] =>  1:20
@@ -130,6 +144,14 @@ CLOCK: [2020-02-12 wo 20:58]--[2020-02-12 wo 22:34] =>  1:36
 
 ** Not counted for DP
 *** Breaks
+CLOCK: [2020-03-03 di 21:41]--[2020-03-03 di 22:26] =>  0:45
+CLOCK: [2020-03-02 ma 21:06]--[2020-03-02 ma 21:11] =>  0:05
+CLOCK: [2020-03-01 zo 22:52]--[2020-03-01 zo 22:52] =>  0:00
+CLOCK: [2020-03-01 zo 22:00]--[2020-03-01 zo 22:35] =>  0:35
+CLOCK: [2020-03-01 zo 20:11]--[2020-03-01 zo 21:10] =>  0:59
+CLOCK: [2020-03-01 zo 15:14]--[2020-03-01 zo 19:10] =>  3:56
+CLOCK: [2020-02-29 za 19:35]--[2020-02-29 za 21:34] =>  1:59
+CLOCK: [2020-02-29 za 17:23]--[2020-02-29 za 18:26] =>  1:03
 CLOCK: [2020-02-29 za 16:07]--[2020-02-29 za 16:56] =>  0:49
 CLOCK: [2020-02-29 za 10:15]--[2020-02-29 za 14:37] =>  4:22
 CLOCK: [2020-02-29 za 09:37]--[2020-02-29 za 09:41] =>  0:04
@@ -1448,69 +1470,72 @@ Weekly report starting on: [2020-02-17 ma]
 
 #+BEGIN: clocktable :maxlevel 2 :scope file :step day :tstart "<-7d>" :tend "<tomorrow>" :compact t
 
-Daily report: [2020-02-16 zo]
-| Headline                  |    Time |
-|---------------------------+---------|
-| *Total time*              | *10:37* |
-|---------------------------+---------|
-| DP Posts on Career Finale |   10:37 |
-| \emsp Work done on posts  |    6:20 |
-| \emsp Not counted for DP  |    4:17 |
-
-Daily report: [2020-02-17 ma]
+Daily report: [2020-02-25 di]
 | Headline                  |   Time |
 |---------------------------+--------|
-| *Total time*              | *4:32* |
+| *Total time*              | *4:46* |
 |---------------------------+--------|
-| DP Posts on Career Finale |   4:32 |
-| \emsp Work done on posts  |   3:29 |
-| \emsp Not counted for DP  |   1:03 |
+| DP Posts on Career Finale |   4:46 |
+| \emsp Work done on posts  |   3:51 |
+| \emsp Not counted for DP  |   0:55 |
 
-Daily report: [2020-02-18 di]
-| Headline                  |   Time |
-|---------------------------+--------|
-| *Total time*              | *4:08* |
-|---------------------------+--------|
-| DP Posts on Career Finale |   4:08 |
-| \emsp Work done on posts  |   3:27 |
-| \emsp Not counted for DP  |   0:41 |
-
-Daily report: [2020-02-19 wo]
+Daily report: [2020-02-26 wo]
 | Headline     | Time   |
 |--------------+--------|
 | *Total time* | *0:00* |
 
-Daily report: [2020-02-20 do]
+Daily report: [2020-02-27 do]
 | Headline                  |   Time |
 |---------------------------+--------|
-| *Total time*              | *4:01* |
+| *Total time*              | *1:59* |
 |---------------------------+--------|
-| DP Posts on Career Finale |   4:01 |
-| \emsp Work done on posts  |   3:22 |
-| \emsp Not counted for DP  |   0:39 |
+| DP Posts on Career Finale |   1:59 |
+| \emsp Work done on posts  |   1:59 |
 
-Daily report: [2020-02-21 vr]
+Daily report: [2020-02-28 vr]
 | Headline                  |   Time |
 |---------------------------+--------|
-| *Total time*              | *4:32* |
+| *Total time*              | *3:27* |
 |---------------------------+--------|
-| DP Posts on Career Finale |   4:32 |
-| \emsp Work done on posts  |   3:40 |
-| \emsp Not counted for DP  |   0:52 |
+| DP Posts on Career Finale |   3:27 |
+| \emsp Work done on posts  |   2:19 |
+| \emsp Not counted for DP  |   1:08 |
 
-Daily report: [2020-02-22 za]
+Daily report: [2020-02-29 za]
 | Headline                  |    Time |
 |---------------------------+---------|
-| *Total time*              | *12:16* |
+| *Total time*              | *13:55* |
 |---------------------------+---------|
-| DP Posts on Career Finale |   12:16 |
-| \emsp Work done on posts  |    6:07 |
-| \emsp Not counted for DP  |    6:09 |
+| DP Posts on Career Finale |   13:55 |
+| \emsp Work done on posts  |    5:38 |
+| \emsp Not counted for DP  |    8:17 |
 
-Daily report: [2020-02-23 zo]
-| Headline     | Time   |
-|--------------+--------|
-| *Total time* | *0:00* |
+Daily report: [2020-03-01 zo]
+| Headline                  |   Time |
+|---------------------------+--------|
+| *Total time*              | *7:58* |
+|---------------------------+--------|
+| DP Posts on Career Finale |   7:58 |
+| \emsp Work done on posts  |   2:28 |
+| \emsp Not counted for DP  |   5:30 |
+
+Daily report: [2020-03-02 ma]
+| Headline                  |   Time |
+|---------------------------+--------|
+| *Total time*              | *2:06* |
+|---------------------------+--------|
+| DP Posts on Career Finale |   2:06 |
+| \emsp Work done on posts  |   2:01 |
+| \emsp Not counted for DP  |   0:05 |
+
+Daily report: [2020-03-03 di]
+| Headline                  |   Time |
+|---------------------------+--------|
+| *Total time*              | *2:57* |
+|---------------------------+--------|
+| DP Posts on Career Finale |   2:57 |
+| \emsp Work done on posts  |   2:12 |
+| \emsp Not counted for DP  |   0:45 |
 #+END:
 
 * Shortcuts
