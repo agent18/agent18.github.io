@@ -1,18 +1,18 @@
 ---
 layout: post
 comments: true
-title:  "Career-2020 Summary (The ultimate Essay) try 1" 
+title:  "Career-2020 Summary (The ultimate Essay)" 
 date:    04-01-2020 
 categories: drafts
 tags: DP, feedback, examples
 permalink: /:title.html
-published: true
+published: false
 ---
 
 ## Where should you work (done)
 
 This is clear I think. Has to be in a hub if you wanna be great and
-	have less distractions and focus on the one you need.
+have less distractions and focus on the one you need.
 
 ## DW is better than ETG (should be easy to finish)
 

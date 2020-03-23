@@ -1183,6 +1183,55 @@ is clear later).
 
 
 
+### vague
+
+### vague
+
+So the survey is supposed to inform us of what we need more of. So
+when I see GRs are needed I know GRs such as in Open Phil or any of
+the other EA orgs, is what is needed. If they say operations people
+are missing, then I think they need people like Tanya to run EA
+orgs. Simple.
+
+But when people say one-on-one skills, it could mean many things (as
+AG pointed out): talking to politicians about causes (policy people
+maybe), People who are good at convincing people changing their career
+path (career counselors), it could also mean fundraisers in the front
+line bringing the big bucks. I am sure we can think of other things as
+well. So what is it that people in the survey meant? everything? Why
+not just say, "we need policy people with good social skills
+instead". At least this way the community knows what you are missing
+"exactly" rather than allowing it to interpretation. This way, people
+can act on it. What "good social skills" means? Well let's not get
+into that discussion as well. If I and the surveyors could be provided
+with one example, like Tanya for FHI, it makes things concrete and
+people exactly know what the survey is talking about.
+
+I am not a big fan of these broad terminologies as they don't allow ME
+to act on them. Case in point: "Best ways to gain Career Capital (CC)
+are: Work at a growing organisation that has a reputation for high
+performance; Getting a graduate degree; Working in Tech sector; Taking
+a data science job; Working in think tanks; Making "good connections",
+Having runway etc... " Literally everything under the sun.
+
+I am unable to act on it. I could in theory pursue everything. I don't
+know how to compare which has higher CC and lower CC. The definition
+says: "CC puts you in a better position to make a difference in the
+future, including skills, connections, credentials and runway." When I
+work in Data Science in a FAANG job do I have higher CC compared to
+when I work in computer science degree? I don't know. 
+
+Economists routinely measure the impact of high-school dropout vs
+high-school diploma vs some years of college but dropout vs undergrad
+degree vs grad degree, in different fields, using the variable "median
+weekly earnings" or "lifetime earnings". So when someone says, "you
+need a degree to get ahead in life", I can imagine what they mean $470
+weekly wage increase. Whereas when someone says, "Computer Science PhD
+is good CC", I am lost. Contrast that to saying "Best ways to gain CC
+is by looking at earnings". Then I could look at median earnings for
+Data Science Faang job vs Phd in computer science in say top 20
+university (based on my capability) and get ahead in life.
+
 ## Replaceable
 
 https://80000hours.org/career-reviews/working-at-effective-altruist-organisations/#but-wont-i-be-replaceable

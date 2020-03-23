@@ -6,7 +6,7 @@ date:    29-10-2019
 categories: drafts
 tags: DP, feedback, examples
 permalink: /:title.html
-published: true
+published: false
 ---
 https://forum.effectivealtruism.org/posts/jmbP9rwXncfa32seH/after-one-year-of-applying-for-ea-jobs-it-is-really-really
 
