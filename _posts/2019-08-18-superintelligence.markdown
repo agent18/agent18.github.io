@@ -3,8 +3,8 @@ layout: post
 comments: true
 title:  "DP11: Superintelligence and Statistical Sleuth"
 date:    18-08-2019 
-categories: posts
-tags: DP, feedback, examples
+categories: dp
+tags: 
 permalink: /:title.html
 published: true
 ---

@@ -10,6 +10,10 @@ published: True
 
 ---
 
+**Update September 2019:** Having been written in 2018, this article no longer reflects the most recent understanding of my career-choices. Nevertheless, it has useful work done in assimilating info right from working in a career in dubai to working at an EA org.
+
+---
+
 ## Entry question:
 
 What should I be doing career-wise in the coming months with a focus

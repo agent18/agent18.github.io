@@ -3,9 +3,8 @@ layout: post
 comments: true
 title:  "Identifying patterns #1 for DP10 essay"
 date:    27-09-2019 
-categories: notes
-tags: DP, feedback, examples
-permalink: /:title.html
+categories: dp
+tags: DP
 published: True
 ---
 

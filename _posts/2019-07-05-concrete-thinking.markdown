@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Common failure modes"
 date:    05-07-2019 
-categories: posts
+categories: drafts
 tags: DP, feedback, examples
 permalink: /:title.html
 published: True

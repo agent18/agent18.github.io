@@ -9,6 +9,8 @@ permalink: /:title.html
 published: True
 ---
 
+**Disclaimer**: This post is not cleaned up thoroughly. 
+
 ## Introduction
 
 A [summary of the book](/deliberate-practice.html) "Talent is Overrated" was written in

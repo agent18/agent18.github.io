@@ -3,8 +3,8 @@ layout: post
 comments: true
 title:  "Marriage: one example explanation"
 date:    17-10-2019 
-categories: posts
-tags: DP, feedback, examples
+categories: dp
+tags: 
 permalink: /:title.html
 published: true
 ---

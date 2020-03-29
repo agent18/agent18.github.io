@@ -152,6 +152,7 @@ to agree with this proxy-approximation of the question as evidenced
 [here](https://80000hours.org/articles/high-impact-careers/#our-list-of-priority-paths)[^7] and [here](https://80000hours.org/career-reviews/working-at-effective-altruist-organisations/#what-skills-are-the-organisations-most-short-of)[^8]. The top 7 results (out of 20 or so) are
 below:
 
+{:.tablestyletwo}
 |   | 2017        | 2017 (EA)   | 2018       | 2018 (EA)  | 2019      | 2019 (EA)   |
 |---|-------------|-------------|------------|------------|-----------|-------------|
 | 1 | GR          | G&P     | Oper.      | G&P  | GR        | G&P     |

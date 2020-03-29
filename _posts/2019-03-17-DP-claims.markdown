@@ -3,8 +3,8 @@ layout: post
 comments: true
 title:  "DP Claims"
 date:    17-03-2019 
-categories: posts
-tags: DP, feedback, examples, claim
+categories: dp
+tags: DP
 permalink: /:title.html
 published: true
 ---

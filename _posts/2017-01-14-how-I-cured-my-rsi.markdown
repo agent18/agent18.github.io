@@ -7,6 +7,8 @@ categories: posts
 permalink: /:title.html
 ---
 
+**Disclaimer**: This post is not cleaned up thoroughly. It will be rough around the edges.
+
 <!--
 # TOC
 {:.no_toc}

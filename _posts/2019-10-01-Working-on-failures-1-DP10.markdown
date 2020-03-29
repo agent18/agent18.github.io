@@ -3,8 +3,8 @@ layout: post
 comments: true
 title:  "Working on failures #1 (based on DP10 essay)"
 date:    01-10-2019 
-categories: posts
-tags: DP, feedback, examples
+categories: dp
+tags: 
 permalink: /:title.html
 published: True
 ---

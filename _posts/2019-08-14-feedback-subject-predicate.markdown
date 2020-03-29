@@ -3,8 +3,8 @@ layout: post
 comments: true
 title:  "Feedback: DP10 Subject Predicate Valuation"
 date:    14-08-2019 
-categories: notes
-tags: DP, feedback, examples
+categories: dp
+tags: DP
 permalink: /:title.html
 published: true
 ---

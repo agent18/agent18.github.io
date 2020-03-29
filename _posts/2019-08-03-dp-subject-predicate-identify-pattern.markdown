@@ -4,7 +4,7 @@ comments: true
 title:  "DP10: Subject Predicate Valuation"
 date:    03-08-2019 
 categories: posts
-tags: DP, feedback, examples
+tags: DP
 permalink: /:title.html
 published: true
 ---

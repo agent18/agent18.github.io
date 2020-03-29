@@ -3,8 +3,8 @@ layout: post
 comments: true
 title:  "DP Examples 3"
 date:    07-03-2019 
-categories: posts
-tags: DP, feedback, examples
+categories: dp
+tags: DP
 permalink: /:title.html
 published: true
 ---
