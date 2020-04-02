@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Food to cook"
 date:    02-01-2020 
-categories: drafts
+categories: notes
 tags: DP, feedback, examples
 permalink: /:title.html
 published: true
