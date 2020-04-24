@@ -13,9 +13,9 @@ published: false
 
 - toggleable WCmode
 - show on modeline
+- SHOULD NOT BE SLOW AT ALL
 - show how many typed after switched on
 - ability to reset
-- SHOULD NOT BE SLOW AT ALL
 
 ## wc-mode
 
@@ -52,6 +52,8 @@ to do so much boring stuff before I got to the interesting
 stuff. etc...
 
 1.5 hrs in total later, I seem to be ok. This is an important topic.
+
+24-04-2020
 
 ## Statistics
 

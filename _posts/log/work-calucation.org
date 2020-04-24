@@ -3,6 +3,203 @@
 ** everyday
 CLOCK: [2020-02-09 zo 12:30]--[2020-02-09 zo 13:09] =>  0:39
 CLOCK: [2020-02-02 zo 11:07]--[2020-02-02 zo 12:01] =>  0:54
+* WC-mode project Pandian
+CLOCK: [2020-04-24 vr 21:30]
+
+* Career Decision (week of epicness)
+*** Restarting after TC
+CLOCK: [2020-04-24 vr 20:34]--[2020-04-24 vr 21:05] =>  0:31
+CLOCK: [2020-04-24 vr 20:18]--[2020-04-24 vr 20:32] =>  0:14
+CLOCK: [2020-04-21 di 22:16]--[2020-04-21 di 22:38] =>  0:22
+CLOCK: [2020-04-21 di 21:11]--[2020-04-21 di 21:38] =>  0:27
+CLOCK: [2020-04-21 di 20:24]--[2020-04-21 di 21:11] =>  0:47
+CLOCK: [2020-04-20 ma 21:11]--[2020-04-20 ma 22:36] =>  1:25
+CLOCK: [2020-04-20 ma 19:56]--[2020-04-20 ma 20:33] =>  0:37
+CLOCK: [2020-04-20 ma 18:56]--[2020-04-20 ma 19:56] =>  1:00
+CLOCK: [2020-04-19 zo 21:12]--[2020-04-19 zo 22:44] =>  1:32
+CLOCK: [2020-04-19 zo 20:53]--[2020-04-19 zo 21:01] =>  0:08
+CLOCK: [2020-04-19 zo 19:36]--[2020-04-19 zo 20:29] =>  0:53
+CLOCK: [2020-04-19 zo 10:25]--[2020-04-19 zo 10:25] =>  0:00
+CLOCK: [2020-04-14 di 21:10]--[2020-04-14 di 22:04] =>  0:54
+CLOCK: [2020-04-14 di 19:57]--[2020-04-14 di 20:33] =>  0:36
+CLOCK: [2020-04-14 di 18:46]--[2020-04-14 di 19:30] =>  0:44
+CLOCK: [2020-04-14 di 18:21]--[2020-04-14 di 18:26] =>  0:05
+
+*** Data Science
+*** replaceability
+*** reasoning
+*** breaks
+**** lunch
+**** dinner
+**** post-dinner breaks
+***** shitting
+***** youtube warzone etc...
+**** morning work breaks
+* Written Exam 1(failed) :( 
+** what I did the previous time
+CLOCK: [2020-04-16 do 18:39]--[2020-04-16 do 18:44] =>  0:05
+** Preparing with CE material
+CLOCK: [2020-04-15 wo 21:24]--[2020-04-15 wo 22:08] =>  0:44
+CLOCK: [2020-04-15 wo 20:06]--[2020-04-15 wo 20:25] =>  0:19
+CLOCK: [2020-04-15 wo 18:58]--[2020-04-15 wo 19:28] =>  0:30
+CLOCK: [2020-04-15 wo 18:20]--[2020-04-15 wo 18:43] =>  0:23
+** Making process ahead of time /planning
+CLOCK: [2020-04-15 wo 20:25]--[2020-04-15 wo 20:46] =>  0:21
+** actual 5hrs
+CLOCK: [2020-04-16 do 21:49]--[2020-04-16 do 21:49] =>  0:00
+*** Fam with bibliotherapy (20mins)
+CLOCK: [2020-04-15 wo 22:17]--[2020-04-15 wo 22:36] =>  0:19
+*** CC list and brief explanation (15mins)
+CLOCK: [2020-04-16 do 19:09]--[2020-04-16 do 19:28] =>  0:19
+CLOCK: [2020-04-16 do 18:59]--[2020-04-16 do 18:59] =>  0:00
+CLOCK: [2020-04-15 wo 22:08]--[2020-04-15 wo 22:17] =>  0:09
+*** Check if someone has worked on it before (givewell, who, J-PAL)
+CLOCK: [2020-04-16 do 18:44]--[2020-04-16 do 18:46] =>  0:02
+*** which CC is most important (30mins)
+CLOCK: [2020-04-16 do 19:34]--[2020-04-16 do 19:51] =>  0:17
+*** Get answers for that CC (60mins)
+CLOCK: [2020-04-16 do 21:17]--[2020-04-16 do 21:49] =>  0:32
+CLOCK: [2020-04-16 do 20:35]--[2020-04-16 do 21:12] =>  0:37
+CLOCK: [2020-04-16 do 19:57]--[2020-04-16 do 20:00] =>  0:03
+**** wiki rerun
+CLOCK: [2020-04-16 do 20:00]--[2020-04-16 do 20:10] =>  0:10
+**** 5 min investigation on RCT's
+CLOCK: [2020-04-16 do 20:14]--[2020-04-16 do 20:28] =>  0:14
+**** 5 mins investigation on googling words for 
+*** Writing up the research (60 mins) 500-1000 words
+CLOCK: [2020-04-17 vr 00:20]--[2020-04-17 vr 00:55] =>  0:35
+CLOCK: [2020-04-16 do 23:10]--[2020-04-17 vr 00:10] =>  1:00
+CLOCK: [2020-04-16 do 22:53]--[2020-04-16 do 23:04] =>  0:11
+*** re-writing (30 mins)
+CLOCK: [2020-04-17 vr 01:28]--[2020-04-17 vr 01:49] =>  0:21
+CLOCK: [2020-04-17 vr 01:08]--[2020-04-17 vr 01:28] =>  0:20
+*** spell-check and final read and adding links (45 mins)
+CLOCK: [2020-04-17 vr 01:49]--[2020-04-17 vr 01:58] =>  0:09
+** Wrapping up and sending to GB
+CLOCK: [2020-04-17 vr 01:58]--[2020-04-17 vr 02:14] =>  0:16
+CLOCK: [2020-04-17 vr 01:57]--[2020-04-17 vr 01:57] =>  0:00
+*** writing explanation of hours
+** time spent downloading and finding papers manually online.
+CLOCK: [2020-04-16 do 20:10]--[2020-04-16 do 20:14] =>  0:04
+** breaks
+CLOCK: [2020-04-16 do 21:50]--[2020-04-16 do 22:53] =>  1:03
+CLOCK: [2020-04-15 wo 20:46]--[2020-04-15 wo 21:24] =>  0:38
+CLOCK: [2020-04-15 wo 19:28]--[2020-04-15 wo 20:06] =>  0:38
+CLOCK: [2020-04-15 wo 18:43]--[2020-04-15 wo 18:58] =>  0:15
+
+* Preparing for the indrew with CE for internship
+** checking
+I usually use skype for calls, my Skype name is live:georgebridgwater
+or you can search for me using my email address:
+Georgebridgwater@googlemail.com.
+
+CLOCK: [2020-04-06 ma 18:57]--[2020-04-06 ma 19:41] =>  0:44
+** What do I need to know:
+CLOCK: [2020-04-11 za 14:21]--[2020-04-11 za 14:22] =>  0:01
+CLOCK: [2020-04-11 za 11:05]--[2020-04-11 za 12:40] =>  1:35
+CLOCK: [2020-04-11 za 09:34]--[2020-04-11 za 10:39] =>  1:05
+CLOCK: [2020-04-11 za 07:35]--[2020-04-11 za 08:46] =>  1:11
+CLOCK: [2020-04-09 do 19:15]--[2020-04-09 do 20:48] =>  1:33
+CLOCK: [2020-04-07 di 19:03]--[2020-04-07 di 19:07] =>  0:04
+CLOCK: [2020-04-06 ma 20:34]--[2020-04-06 ma 22:34] =>  2:00
+CLOCK: [2020-04-06 ma 19:41]--[2020-04-06 ma 19:52] =>  0:11
+
+*** Statistics (2-3 examples)
+**** DONE hypothesis testing (stat sleuth)
+CLOCK: [2020-04-08 wo 21:55]--[2020-04-08 wo 23:04] =>  1:09
+
+**** percentages
+**** DONE bayes theoram 
+CLOCK: [2020-04-08 wo 19:37]--[2020-04-08 wo 20:56] =>  1:19
+Need to still come to a conclusion on where to use bayes: Currently I
+only know the Independence example.
+CLOCK: [2020-04-07 di 22:22]--[2020-04-07 di 23:02] =>  0:40
+CLOCK: [2020-04-07 di 19:34]--[2020-04-07 di 19:57] =>  0:23 
+**** DONE 90% confidence intervals
+CLOCK: [2020-04-09 do 22:01]--[2020-04-09 do 23:03] =>  1:02
+Start here tomorrow
+CLOCK: [2020-04-08 wo 23:05]--[2020-04-08 wo 23:05] =>  0:00
+**** RCT
+**** Regression to the mean
+**** DONE time Discounting
+**** DONE DALY's
+**** SWB's
+**** Log and Ln graphs (what is exponential)
+**** DONE probability
+CLOCK: [2020-04-07 di 20:32]--[2020-04-07 di 21:51] =>  1:19
+*** Selling CV
+CLOCK: [2020-04-12 zo 20:40]--[2020-04-12 zo 21:49] =>  1:09
+CLOCK: [2020-04-12 zo 13:28]--[2020-04-12 zo 14:13] =>  0:45
+CLOCK: [2020-04-12 zo 10:37]--[2020-04-12 zo 12:16] =>  1:39
+CLOCK: [2020-04-12 zo 10:37]--[2020-04-12 zo 10:37] =>  0:00
+CLOCK: [2020-04-12 zo 08:48]--[2020-04-12 zo 09:58] =>  1:10
+**** General EA story starting from 2014
+
+**** Why EA
+**** Why utilitarianism
+**** General selling
+**** Research experience
+**** DSS capstone final assignment
+**** Chairman
+**** Leading team for music show
+**** What I try to write everyday?
+**** what I learnt in statistics in DScapstone
+*** CE 
+**** Go through CE procedure (be familiar with it)
+CLOCK: [2020-04-06 ma 20:56]--[2020-04-06 ma 22:33] =>  1:37
+***** DONE CEA
+CLOCK: [2020-04-07 di 19:07]--[2020-04-07 di 19:30] =>  0:23
+***** DONE WFM
+***** DONE IC (this is "it is better to eat beef than chicken"
+***** 5 steps
+**** Apply CEA analysis as done by 
+***** DONE DALYS
+***** Sensitivity analysis
+***** CEA can reduce BIASEs --> claim
+***** Monte Carlo with Guesstimate
+**** WFM
+**** Crucial considerations
+**** GiveWell CE analysis examples
+**** Read up their mental health research see how to estimate it already
+**** check mental health papers that they cited
+*** HR questions
+CLOCK: [2020-04-13 ma 09:13]--[2020-04-13 ma 09:48] =>  0:35
+**** when you worked in a team (how did you handle the situation)
+**** Name a time when you collaborated well, what were the challenges how did you solve them 
+***** I don't have infor (TT) I go after it.
+***** I don't have challenging jobs I go after it.
+**** Why CE Why not into AI?
+**** Challenges you face during research?
+***** Finding the information
+**** Strengths
+***** I am not afraid of a challenge
+***** I thrive in such situations
+***** 
+*** questions why to CE?
+**** 
+*** Indrew
+CLOCK: [2020-04-13 ma 12:56]--[2020-04-13 ma 14:01] =>  1:05
+*** time wasting dreaming
+** Breaks
+CLOCK: [2020-04-13 ma 09:48]--[2020-04-13 ma 12:56] =>  3:08
+CLOCK: [2020-04-12 zo 21:49]--[2020-04-12 zo 22:19] =>  0:30
+CLOCK: [2020-04-12 zo 14:13]--[2020-04-12 zo 20:40] =>  6:27
+CLOCK: [2020-04-12 zo 12:16]--[2020-04-12 zo 13:28] =>  1:12
+CLOCK: [2020-04-12 zo 09:58]--[2020-04-12 zo 10:32] =>  0:34
+CLOCK: [2020-04-11 za 19:34]--[2020-04-11 za 19:57] =>  0:23
+CLOCK: [2020-04-11 za 15:59]--[2020-04-11 za 19:34] =>  3:35
+CLOCK: [2020-04-11 za 12:40]--[2020-04-11 za 14:21] =>  1:41
+CLOCK: [2020-04-11 za 10:39]--[2020-04-11 za 11:05] =>  0:26
+CLOCK: [2020-04-11 za 08:46]--[2020-04-11 za 09:34] =>  0:48
+CLOCK: [2020-04-09 do 20:49]--[2020-04-09 do 22:01] =>  1:12
+CLOCK: [2020-04-08 wo 20:56]--[2020-04-08 wo 21:45] =>  0:49
+CLOCK: [2020-04-07 di 21:51]--[2020-04-07 di 22:22] =>  0:31
+CLOCK: [2020-04-07 di 19:57]--[2020-04-07 di 20:35] =>  0:38
+CLOCK: [2020-04-07 di 19:30]--[2020-04-07 di 19:34] =>  0:04
+CLOCK: [2020-04-06 ma 22:33]--[2020-04-06 ma 22:49] =>  0:16
+CLOCK: [2020-04-06 ma 19:52]--[2020-04-06 ma 20:34] =>  0:42
+
+
 * Applying for CE internship
 ** Getting CV thing to work
 CLOCK: [2020-03-26 do 21:16]--[2020-03-26 do 22:38] =>  1:22
@@ -21,6 +218,7 @@ CLOCK: [2020-03-26 do 19:54]--[2020-03-26 do 20:37] =>  0:43
 CLOCK: [2020-03-29 zo 14:55]--[2020-03-29 zo 16:40] =>  1:45
 CLOCK: [2020-03-29 zo 13:25]--[2020-03-29 zo 14:12] =>  0:47
 ** Applying
+CLOCK: [2020-04-05 zo 09:12]--[2020-04-05 zo 09:55] =>  0:43
 ** Reading for CE
 CLOCK: [2020-03-27 vr 22:21]--[2020-03-27 vr 23:04] =>  0:43
 ** Break
@@ -33,7 +231,11 @@ CLOCK: [2020-03-27 vr 21:43]--[2020-03-27 vr 22:14] =>  0:31
 CLOCK: [2020-03-26 do 20:37]--[2020-03-26 do 21:16] =>  0:39
 CLOCK: [2020-03-25 wo 21:18]--[2020-03-25 wo 22:30] =>  1:12
 
-* DP Posts on Career Finale
+* DP Posts on Career Finale (transferred to Above)
+** prepping
+CLOCK: [2020-04-05 zo 18:39]--[2020-04-05 zo 19:44] =>  1:39
+
+
 ** Work done on posts
 *** Where? Which area post!
 **** Writing from preexisting ("wjere to work")
@@ -215,11 +417,31 @@ CLOCK: [2020-03-15 zo 09:51]--[2020-03-15 zo 11:23] =>  1:32
 *** Looking for content
 
 *** DPing 
+** Replying to people
+CLOCK: [2020-04-11 za 19:57]--[2020-04-11 za 21:30] =>  1:33
+CLOCK: [2020-04-11 za 14:22]--[2020-04-11 za 15:59] =>  1:37
+CLOCK: [2020-04-05 zo 10:26]--[2020-04-05 zo 13:06] =>  2:40
+CLOCK: [2020-04-05 zo 09:55]--[2020-04-05 zo 10:04] =>  0:09
+CLOCK: [2020-04-04 za 19:24]--[2020-04-04 za 20:21] =>  0:57
+CLOCK: [2020-04-04 za 14:15]--[2020-04-04 za 16:50] =>  2:35
+CLOCK: [2020-04-04 za 10:16]--[2020-04-04 za 12:35] =>  2:19
+CLOCK: [2020-04-04 za 08:21]--[2020-04-04 za 09:35] =>  1:14
+
 ** Other useful stuff
 *** Work done for STM 
 
 ** Not counted for DP
 *** Breaks
+CLOCK: [2020-04-21 di 21:38]--[2020-04-21 di 22:16] =>  0:38
+CLOCK: [2020-04-20 ma 20:34]--[2020-04-20 ma 21:11] =>  0:37
+CLOCK: [2020-04-19 zo 21:01]--[2020-04-19 zo 21:12] =>  0:11
+CLOCK: [2020-04-19 zo 20:29]--[2020-04-19 zo 20:53] =>  0:24
+CLOCK: [2020-04-14 di 20:33]--[2020-04-14 di 21:10] =>  0:37
+CLOCK: [2020-04-14 di 19:30]--[2020-04-14 di 19:57] =>  0:27
+CLOCK: [2020-04-05 zo 13:06]--[2020-04-05 zo 18:39] =>  5:33
+CLOCK: [2020-04-05 zo 10:04]--[2020-04-05 zo 10:26] =>  0:22
+CLOCK: [2020-04-04 za 12:35]--[2020-04-04 za 14:05] =>  1:30
+CLOCK: [2020-04-04 za 09:35]--[2020-04-04 za 10:16] =>  0:41
 CLOCK: [2020-03-22 zo 20:32]--[2020-03-22 zo 21:05] =>  0:51
 CLOCK: [2020-03-22 zo 19:50]--[2020-03-22 zo 20:19] =>  0:29
 CLOCK: [2020-03-22 zo 12:43]--[2020-03-22 zo 18:21] =>  5:38
@@ -1571,73 +1793,82 @@ Weekly report starting on: [2020-02-17 ma]
 
 #+BEGIN: clocktable :maxlevel 2 :scope file :step day :tstart "<-7d>" :tend "<tomorrow>" :compact t
 
-Daily report: [2020-02-26 wo]
+Daily report: [2020-04-13 ma]
+| Headline                                |   Time |
+|-----------------------------------------+--------|
+| *Total time*                            | *4:48* |
+|-----------------------------------------+--------|
+| Preparing for the indrew with CE for... |   4:48 |
+| \emsp What do I need to know:           |   1:40 |
+| \emsp Breaks                            |   3:08 |
+
+Daily report: [2020-04-14 di]
+| Headline                  |   Time |
+|---------------------------+--------|
+| *Total time*              | *3:23* |
+|---------------------------+--------|
+| DP Posts on Career Finale |   3:23 |
+| \emsp Restarting after TC |   2:19 |
+| \emsp Not counted for DP  |   1:04 |
+
+Daily report: [2020-04-15 wo]
+| Headline                                     |   Time |
+|----------------------------------------------+--------|
+| *Total time*                                 | *4:16* |
+|----------------------------------------------+--------|
+| Written Exam 1(failed) :(                    |   4:16 |
+| \emsp Preparing with CE material             |   1:56 |
+| \emsp Making process ahead of time /planning |   0:21 |
+| \emsp actual 5hrs                            |   0:28 |
+| \emsp breaks                                 |   1:31 |
+
+Daily report: [2020-04-16 do]
+| Headline                                    |   Time |
+|---------------------------------------------+--------|
+| *Total time*                                | *4:27* |
+|---------------------------------------------+--------|
+| Written Exam 1(failed) :(                   |   4:27 |
+| \emsp what I did the previous time          |   0:05 |
+| \emsp actual 5hrs                           |   3:15 |
+| \emsp time spent downloading and finding... |   0:04 |
+| \emsp breaks                                |   1:03 |
+
+Daily report: [2020-04-17 vr]
+| Headline                            |   Time |
+|-------------------------------------+--------|
+| *Total time*                        | *1:51* |
+|-------------------------------------+--------|
+| Written Exam 1(failed) :(           |   1:51 |
+| \emsp actual 5hrs                   |   1:35 |
+| \emsp Wrapping up and sending to GB |   0:16 |
+
+Daily report: [2020-04-18 za]
 | Headline     | Time   |
 |--------------+--------|
 | *Total time* | *0:00* |
 
-Daily report: [2020-02-27 do]
+Daily report: [2020-04-19 zo]
 | Headline                  |   Time |
 |---------------------------+--------|
-| *Total time*              | *1:59* |
+| *Total time*              | *3:08* |
 |---------------------------+--------|
-| DP Posts on Career Finale |   1:59 |
-| \emsp Work done on posts  |   1:59 |
+| DP Posts on Career Finale |   3:08 |
+| \emsp Restarting after TC |   2:33 |
+| \emsp Not counted for DP  |   0:35 |
 
-Daily report: [2020-02-28 vr]
+Daily report: [2020-04-20 ma]
 | Headline                  |   Time |
 |---------------------------+--------|
-| *Total time*              | *3:27* |
+| *Total time*              | *2:14* |
 |---------------------------+--------|
-| DP Posts on Career Finale |   3:27 |
-| \emsp Work done on posts  |   2:19 |
-| \emsp Not counted for DP  |   1:08 |
-
-Daily report: [2020-02-29 za]
-| Headline                  |    Time |
-|---------------------------+---------|
-| *Total time*              | *13:55* |
-|---------------------------+---------|
-| DP Posts on Career Finale |   13:55 |
-| \emsp Work done on posts  |    5:38 |
-| \emsp Not counted for DP  |    8:17 |
-
-Daily report: [2020-03-01 zo]
-| Headline                  |   Time |
-|---------------------------+--------|
-| *Total time*              | *7:58* |
-|---------------------------+--------|
-| DP Posts on Career Finale |   7:58 |
-| \emsp Work done on posts  |   2:28 |
-| \emsp Not counted for DP  |   5:30 |
-
-Daily report: [2020-03-02 ma]
-| Headline                  |   Time |
-|---------------------------+--------|
-| *Total time*              | *2:06* |
-|---------------------------+--------|
-| DP Posts on Career Finale |   2:06 |
-| \emsp Work done on posts  |   2:01 |
-| \emsp Not counted for DP  |   0:05 |
-
-Daily report: [2020-03-03 di]
-| Headline                  |   Time |
-|---------------------------+--------|
-| *Total time*              | *2:57* |
-|---------------------------+--------|
-| DP Posts on Career Finale |   2:57 |
-| \emsp Work done on posts  |   2:12 |
-| \emsp Not counted for DP  |   0:45 |
-
-Daily report: [2020-03-04 wo]
-| Headline                  |   Time |
-|---------------------------+--------|
-| *Total time*              | *8:38* |
-|---------------------------+--------|
-| DP Posts on Career Finale |   8:38 |
-| \emsp Work done on posts  |   7:20 |
-| \emsp Not counted for DP  |   1:18 |
+| DP Posts on Career Finale |   2:14 |
+| \emsp Restarting after TC |   1:37 |
+| \emsp Not counted for DP  |   0:37 |
 #+END:
+
+scrolling issue 
+WC-mode
+markdown color issue
 
 * Shortcuts
 

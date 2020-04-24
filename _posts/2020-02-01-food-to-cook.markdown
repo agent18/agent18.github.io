@@ -17,24 +17,25 @@ published: true
 
 1 Tbsp oil
 2 Tbsp butter
-Cumin seeds- 1 tsp
-Cloves 4-5
-Cardamom 2-3
-Cinnamon- small piece
-Garlic pods 8-10
+Cumin seeds- 1 tsp 
+Cloves 4-5 --> 2
+Cardamom 2-3 --> 1.5
+Cinnamon- small piece --> small
+Garlic pods 8-10 --> 6ish small
 Ginger- small piece
-2 Onions cut in cubes
-4 tomatoes cut in cubes
+2 Onions cut in cubes --> Add red chilli here
+4 tomatoes cut in cubes --> make it 3
+
 Cashewnuts 15-20
 Salt as required
 
 
 A bay leaf
-Red chilly powder- 1 tsp
+Red chilly powder- 1 tsp --> kashmiri
 Turmeric powder- 1/4 tsp
 Coriander powder- 2 tsp
-Garam masala powder- 1 tsp
-Dry fenugreek leaves- 1 tsp
+Garam masala powder- 1 tsp 
+Dry fenugreek leaves- 1 tsp --> also corriander leaves
 Paneer 200 gms cut in cubes
 Honey/sugar- 1 tsp
 Fresh cream 4 tbsp
@@ -82,7 +83,7 @@ https://www.youtube.com/watch?v=h5jVABchs4I&list=PL3qez0X0oa1bPluSwlzinr1y5X1KPR
 1 tsp coriander seeds
 1 tsp cumin / jeera
 ¾ tsp pepper
-¼ tsp methi / fenugreek
+¼ tsp methi / fenugreek seedsx
 2 dried red chilli
 few curry leaves
 
@@ -107,7 +108,7 @@ few curry leaves
 ### Recipe
 
 1. firstly, to prepare spice mix dry roast 1 tsp coriander seeds, 1
-   tsp cumin, ¾ tsp pepper, ¼ tsp methi, 2 dried red chilli and few
+   tsp cumin, ¾ tsp pepper, ¼ tsp methi seeds, 2 dried red chilli and few
    curry leaves.
    
 2. dry roast until spices turn aromatic.
@@ -115,6 +116,8 @@ few curry leaves
 3. cool completely and blend to coarse powder without adding
    water. keep aside.
    
+---
+
 1. in a kadai heat 1 tbsp ghee and splutter 1 tsp mustard, 1 tsp
    cumin, pinch hing, 1 dried red chilli, few curry leaves and 3 clove
    garlic.
@@ -236,6 +239,46 @@ Add ghee (mix lightly upside down)
 PUT LID (5mins)
 
 
+
+## Blou 2 (3people)
+
+https://www.indianhealthyrecipes.com/pulao-recipe-veg-pulao-recipe/#wprm-recipe-container-37931
+
+https://www.youtube.com/watch?v=zXodGPzOU34&feature=emb_logo
+
+### ingredients
+
+1 cup = 240ml
+
+1. 1.5 cups rice
+
+2. 1 medium onion thinly slicd
+
+3. 2 green chillies
+
+4. 1.5 cuprs mixed veges (carrots, beans, peas potatoes)
+
+5. 2.5 cups of water
+
+5. 3 tbs of mint finely chopped ( I put a handful first attempt)
+
+6. 1.5 teaspoons of GGP
+
+
+**spices**
+
+1. bay leaf
+2. star  or phool
+3. 3/4 ts of jeera
+4. 4 cardamoms (elaichi)
+5. 6 cloves (laung)
+6. 2 inch cinnamon
+7. 1/4 saumpf
+
+
+
+
+
 ## channa different recipe
 
 https://minimalistbaker.com/easy-chana-masala/
@@ -277,6 +320,9 @@ Salt , to taste
 1 Green Chilli
 2 Onions , finely chopped
 Salt , to taste
+
+---
+
 1 teaspoon Kashmiri Red Chilli Powder
 1/4 teaspoon Turmeric powder (Haldi)
 1 teaspoon Cumin powder (Jeera)
@@ -331,7 +377,48 @@ red chilli, 1 tsp garath
 6. Add little water, bring to boil
 
 
+## Dal tadka
 
+https://www.vegrecipesofindia.com/restaurant-style-dal-tadka/
+
+
+### recipe
+
+1. 1 cup toor dal (250 gm) + 0.5 cup masoor dal
+
+2. 1-2 green chilles
+
+3. 1 medium sized onion
+
+4. 2 medium sized tomato
+
+5. 1/2 ginger chopped
+
+6. 1 teaspoon turmeric
+
+6. 1 pinch asfoetida
+
+---
+
+7. 1-2 pinch garam masala
+
+7. 1 teaspoon crushed kasuri methi
+
+8. 1 tablespoon chopped coriander leaves 
+
+### for tadka
+
+1. 2 tablespoons of butter
+
+2. 1 teaspoon cumin seeds
+
+4. 2-3 dry red chilles
+
+3. 5-6 garlic cloves finely choppped
+
+5. generous pinch of asfoetida
+
+6. 1/2 teasoon of red chill powder
 
 
 
