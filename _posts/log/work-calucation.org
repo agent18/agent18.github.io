@@ -37,7 +37,7 @@ CLOCK: [2020-05-08 vr 19:32]--[2020-05-08 vr 20:24] =>  0:52
  
 *** Thinking about other stuff
 *** writing
-CLOCK: [2020-05-20 wo 12:35]
+CLOCK: [2020-05-20 wo 12:35]--[2020-05-20 wo 14:48] =>  2:13
 CLOCK: [2020-05-19 di 23:24]--[2020-05-19 di 23:36] =>  0:12
 CLOCK: [2020-05-19 di 22:33]--[2020-05-19 di 22:58] =>  0:25
 CLOCK: [2020-05-19 di 21:20]--[2020-05-19 di 22:08] =>  0:48
@@ -2105,11 +2105,11 @@ Daily report: [2020-05-19 di]
 Daily report: [2020-05-20 wo]
 | Headline                 |   Time |
 |--------------------------+--------|
-| *Total time*             | *3:01* |
+| *Total time*             | *6:59* |
 |--------------------------+--------|
-| DP Claims TC             |   3:01 |
-| \emsp Counted for DP     |   1:45 |
-| \emsp Not counted for DP |   1:16 |
+| DP Claims TC             |   6:59 |
+| \emsp Counted for DP     |   4:21 |
+| \emsp Not counted for DP |   2:38 |
 #+END:
 
 scrolling issue 

@@ -79,14 +79,14 @@ Machan,
 
 ## Abbreviations
 
-RP- Rethink Priorities
-RC- Rethink Charity
-CE- Charity Entrepreneurship
-CS- Charity Science
-TLYCS- The Life You Can Save
-EAF- Effective Altruism Fund
-FWI- Fish Welfare Fund
-PH- Peter Hurford
+RP- Rethink Priorities  
+RC- Rethink Charity  
+CE- Charity Entrepreneurship  
+CS- Charity Science  
+TLYCS- The Life You Can Save  
+EAF- Effective Altruism Fund  
+FWI- Fish Welfare Fund  
+PH- Peter Hurford  
 
 ## Entry question
 
