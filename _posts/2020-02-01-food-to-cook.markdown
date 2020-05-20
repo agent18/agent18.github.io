@@ -421,5 +421,71 @@ https://www.vegrecipesofindia.com/restaurant-style-dal-tadka/
 6. 1/2 teasoon of red chill powder
 
 
+## Chole pulav
+
+1 cup = 240ml
+
+Referenced:
+https://www.youtube.com/watch?v=kQI0h4Vjk7o&t=111s
 
 
+based on:
+
+https://www.youtube.com/watch?v=XNjbfxroaWA&t=5s
+
+https://hebbarskitchen.com/chana-pulao-recipe-channa-rice/
+
+### ingredients
+
+3 tsp oil
+1 bay leaf / tej patta
+1 star anise
+5 cloves --> 2 cloves + 1 cardamom
+1 inch cinnamon / dalchini
+1 tsp jeera / cumin
+
+1 onion, finely chopped
+1 tsp ginger garlic paste
+1 tomato, finely chopped  --> 2 chillis (big/small)
+
+
+½ tsp garam masala
+¼ tsp turmeric
+¾ tsp aamchur / dry mango powder
+1 tsp kashmiri red chilli powder
+½ tsp coriander powder
+¼ tsp cumin powder --> don't have
+1 tsp kasuri methi / dry fenugreek leaves
+1 tsp salt
+
+1 cup chickpea / chana, soaked overnight and boiled 10 minutes --> 0.5
+cups channa 1.5 cups beans 1 cup potato cubes
+2 cup water --> 2.5 cup
+1 cup basmati rice, soaked 20 minutes --> 250 ml cup
+coriander to garnish
+
+
+
+### recipe (OPUS)
+
+
+
+- firstly, in a pressure cooker heat 3 tsp oil and saute 1 bay leaf, 1
+star anise, 5 cloves, 1 inch cinnamon and 1 tsp jeera till it turns
+aromatic. 
+
+
+- saute onion, ginger garlic paste and tomatoes.
+- further add ¼ tsp turmeric, 1 tsp chilli powder, ½ tsp coriander
+  powder, ¼ tsp cumin powder, ½ tsp garam masala, ¾ tsp aamchur, 1 tsp
+  kasuri methi and 1 tsp salt. saute well.
+
+
+- now add 1 cup soaked and boiled chickpea and saute for a minute.
+- furthermore add 1 cup basmati rice (soaked for 20 minutes) and saute
+  gently.
+- now add 2 cup water and stir well.
+- cover and pressure cook for 2 whistles.
+
+
+- finally, garnish with coriander and serve chana pulao along with onion tomato raita.

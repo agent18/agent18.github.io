@@ -181,9 +181,9 @@ should be doing.
   * [ ] Write up the reasoning as to why you think you need to go
         behind DS instead EA?
 		
-  * [ ] What Planning fallacy teaches us?
+  * [ ] What Planning fallacy teaches us? how to applly it here.
 
-### Data Science
+### Data Science (Day 1,2)
 
   * [ ] Can I get into DS? (blind, payscale, interviews. )
 
@@ -205,7 +205,7 @@ should be doing.
   
   * [ ] Conclusions
   
-### Will I get a job in EA?
+### Will I get a job in EA? (Day 2,3)
 
   * [ ] Write what you think? Why it will be hard
   
@@ -218,12 +218,12 @@ should be doing.
   * [ ] Priors based on Karolina's article?
   
   * [ ] Look at survey by hurford and 80khours and see what makes
-        others btick?
+        others tick?
 		
   * [ ] Maybe try to write about longtermism jobs, EA and AEA.
   
   
-### Greatness
+### Greatness 
 
   * [ ] So what are you going to be great at?
   
@@ -234,20 +234,20 @@ should be doing.
 - ways to get to a FAABK job in DS?
 - Is L1 really an option
 - cost of DS courses (Can I afford?)
-- infor on J-PAL type courses
+- infor on J-PAL type courses (reach out to people who have done the course)
 
-### general
+### general 
 
 write out claims such as "great people"
 
 people unable to stick to sumpin for more than 2 years. Don't plan for
 long, except in that direction . 
 
-### Reading about AI?
+### Reading about AI? (2,3,4)
 
   * [ ] Should I consider longtermist impact? the case for working in AI?
 
-## Final steps 
+## Final steps (Day 5,6)
 
    * [ ] Writing a post on EA forum
    
@@ -264,5 +264,60 @@ long, except in that direction .
 
 ## Personal
 
+## Planning
+
+- identify reason with H1B rejections (1 hr)
+
+	- possible plans to bypass this
+		- What do people do on blind.
+		- consultancies
+		- do "masters"
+		
+	- list people you know who have done the change
+	
+		- State the claim
+		- people with exceptional talent asking for L1 at joining
+		- people suggested by Ram, people suggested by ramshu, people
+       suggested by blind, people suggested by sridhar
+	
+- Write it all out. (2 hrs). the entire DS thingy. Let's go
+
+- ask ASML people about working in DS (during the day 1-2hr)
+
+	- find managers who can help
+	- opportunities to go and work in US in L1
+	- qualifications needed
+
+- write about EA (follow actions on top) [3 hrs]
 
 
+**Wake up at 7. Period. GETUP. You only have 6 more days you . PLEASE
+6 days later you are going to freak out like hell. Please get shit
+done Thej Please think about 6 day later thej.
+Thanks.**
+
+
+**Stop procrastinating**
+
+
+### My biggest fear from HPMOR
+
+Already you insist on risking it! Why are you so driven? What is the real reason you must not go to Hufflepuff and be happier there? What is your true fear?"
+
+I must achieve my full potential. If I don't I... fail...
+
+"What happens if you fail?"
+
+Something terrible...
+
+"What happens if you fail?"
+
+I don't know!
+
+"Then it should not be frightening. What happens if you fail?"
+
+I DON'T KNOW! BUT I KNOW THAT IT'S BAD!
+
+There was silence for a moment in the caverns of Harry's mind.
+
+"You know - you aren't letting yourself think it, but in some quiet corner of your mind you know just exactly what you aren't thinking - you know that by far the simplest explanation for this unverbalisable fear of yours is just the fear of losing your fantasy of greatness, of disappointing the people who believe in you, of turning out to be pretty much ordinary, of flashing and fading like so many other child prodigies..."

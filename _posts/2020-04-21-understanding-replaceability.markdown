@@ -57,7 +57,8 @@ Level 0 thinking misses that B could actually be doing something. B
 might not just be sitting at home. He could find another job in EA. 
 
 come back to this tomorrow. And then get shit done on DS questiosn to
-be askeed... Start planning for that. 
+be asked... Start planning for that. 
+
 
 
 

@@ -13,7 +13,7 @@ published: true
 over 3hrs atleast (I don't know the upper bound). His comments were
 very thorough (he didn't leave any hyperlink unclicked). He managed to
 question several of my claims. I have updated parts of this post based
-on his comments. I also want to thank Carrick Flynn, Peter Hurford,
+on his comments. I also want to thank STM, Carrick Flynn, Peter Hurford,
 [EA Applicant](https://forum.effectivealtruism.org/users/ea-applicant), Jon Behar, Ben West, 80,000 hours for helping me
 directly or indirectly. They provided valuable info in their
 posts/comments/email which I have used in this article. That said,
@@ -153,15 +153,15 @@ to agree with this proxy-approximation of the question as evidenced
 below:
 
 {:.tablestyletwo}
-|   | 2017        | 2017 (EA)   | 2018       | 2018 (EA)  | 2019      | 2019 (EA)   |
-|---|-------------|-------------|------------|------------|-----------|-------------|
-| 1 | GR          | G&P     | Oper.      | G&P  | GR        | G&P     |
-| 2 | Good Calib. | Good Calib. | Mngment    | Oper.      | Oper.     | Mngment     |
-| 3 | Mngment     | Mngment     | GR         | ML/AI      | Mngment   | GPR  |
-| 4 | Off. mngers | ML/AI | ML/AI | Mngment | ML | Founding |
-| 5 | Oper.       | Movt. build | GPR |  GPR | Econ/math | Soc. Skill  |
-| 6 | Math        | GR          | Founder    | GR         | HighEA\*  | ML/AI       |
-| 7 | ML/AI       | Oper.       | Soc. skill | Founding   | GPR    | Movt. Build |
+|   | 2017        | 2017 (EA)   | 2018       | 2018 (EA) | 2019      | 2019 (EA)   |
+|---|-------------|-------------|------------|-----------|-----------|-------------|
+| 1 | GR          | G&P         | Oper.      | G&P       | GR        | G&P         |
+| 2 | Good Calib. | Good Calib. | Mngment    | Oper.     | Oper.     | Mngment     |
+| 3 | Mngment     | Mngment     | GR         | ML/AI     | Mngment   | GPR         |
+| 4 | Off. mngers | ML/AI       | ML/AI      | Mngment   | ML        | Founding    |
+| 5 | Oper.       | Movt. build | GPR        | GPR       | Econ/math | Soc. Skill  |
+| 6 | Math        | GR          | Founder    | GR        | HighEA\*  | ML/AI       |
+| 7 | ML/AI       | Oper.       | Soc. skill | Founding  | GPR       | Movt. Build |
 
 \* High level overview of EA  
 \*\*\* Government and Policy 
@@ -428,6 +428,79 @@ take up that job.
 Total value created for the world if A sits idle at home: 400k  
 Total value created if A takes the job: 500k.  
 Total value if A does ETG (for 100k) and B takes the job: 500k --> 
+
+
+## STM feedback
+
+Machan,
+
+> BTW: http://agent18.github.io/is-ea-bottlenecked-2.html (Uyir a
+> koduthu eluthirkain;80hrs ezhuthirkain, need some meha critical
+> feedback on writing, any potential claim evidence fuckups etc...)
+
+I would pause immediately at the term "talent-constrained". I don't
+understand it. The first step is to describe the claim "X is
+talent-constrained" in terms of **familiar claims** so that you can
+actually test the claim against evidence. Do you mean that there is a
+low rejection rate for PhD applicants?
+
+A related issue is that, for the same claim, you're **switching between
+evidence in the form of surveys and evidence in the form of rejection
+rates**. If the claim is about rejection rates, then you either have the
+numbers or you don't. If you don't, you can't test that claim against
+a concrete example. If the claim is about surveys, then you'll have to
+use the survey. Right now, you're taking the same claim and mixing
+multiple kinds of evidence, such as surveys and 80k opinion posts and
+rejection rates, which left me at the end with no clear answer.
+
+So, split the different kinds of claims: "EA has high rejection rates"
+and "EA surveys have high percentages saying the words 'we are
+talent-constrained'". You can even make the claims more precise:
+"Operations manager roles have high rejection rates for candidates
+with 2 years of similar experience" - notice how you can immediately
+test that claim given concrete examples.
+
+Contrast that to "In brief, we think our list of top problems ... are
+mainly constrained by research insights". How do you test that given
+some data? Imagine if they'd said "Salaries went up by 20% last year
+but number of open questions solved in published papers went down by
+40%". We can debate whether "number of open questions solved" has been
+a useful metric but there's no question that we can test that claim
+against evidence.
+
+* * * * *
+
+On a different note, a key point that is missing from the analysis,
+here and elsewhere, is that we talk about a shortage ***for a given
+price***. We don't say that there is no supply of onions. We say there
+is no supply of onions at Rs 10/kg. When the price has eventually
+risen due to lack of supply, people have even transported onions from
+other countries to supply them for a profit.
+
+Saying that there is a lack of "talent" or researchers for a given
+role doesn't make much sense unless you talk about the current
+salary. But people are talking as though, no matter the salary, there
+is not enough talent in the world to do this research. People have in
+the past moved from country to country and from job to job for higher
+pay (and other desired characteristics like climate and family
+members). There are a lot of well-published PhDs and postdocs working
+on all kinds of other research areas for much less than six-figures
+and a lot of professors and researchers working for not too much
+more. Is the claim that they won't switch for a 2x salary or that they
+can't study and catch up on the slightly different field in a few
+years? If the EA organizations were "desperate" for a particular kind
+of researcher, did they raise the salary a lot? If they didn't have
+enough funds to raise salaries, then aren't
+they... "funding-constrained"? Are the two "constraints" actually
+distinct?
+
+* * * * *
+
+Mission #6: For now, I recommend **rewriting the post after splitting
+the claims till you have narrow claims** that are either tested with
+examples or don't have any available examples. **Check if** you see
+any lingering confusion or **ambiguity** at the end. One week should
+be enough time.
 
 ## Footnotes
 
