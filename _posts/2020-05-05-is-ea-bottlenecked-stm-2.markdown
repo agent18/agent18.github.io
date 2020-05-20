@@ -518,6 +518,14 @@ much time.
 <!-- these people are there. That's it. Simple. building up over narrow ass -->
 <!-- claims. -->
 
+## Time spent
+
+Total time: 48 hrs (Over 2 weeks)
+Total words: 4700
+
+Number of days: 13
+Avg hrs per day: 3.6hrs (including weekends and 2 full days)
+
 ## Footnotes
 
 [^1]: **Definition 1**
