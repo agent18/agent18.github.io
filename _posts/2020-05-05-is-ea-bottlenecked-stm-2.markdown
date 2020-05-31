@@ -87,6 +87,7 @@ TLYCS- The Life You Can Save
 EAF- Effective Altruism Fund  
 FWI- Fish Welfare Fund  
 PH- Peter Hurford  
+GH&P- Global Health and Poverty
 
 ## Entry question
 
@@ -98,11 +99,10 @@ funding is stopping them from hiring people.
 
 ## Introduction
 
-In the following discussion, I have *not used* "for a given pay" or
-"for x years of experience", as I don't have any examples for
-them. Similarly, for every claim, I have not talked about any
-position/org that I don't have evidence for (such as CEO or director
-of operations etc.)
+In the following discussion, I have *not used* "for a given pay" as I
+don't have any examples for them. Similarly, certain positions such as
+director of operations or fundraising people are not considered as I
+don't have evidence for it.
 
 I started off with writing out the claims and examples, checked if it
 matched the definition, and reiterated a few times before I came to
@@ -121,13 +121,15 @@ With the following post I look into the following aspects:
 **Finding people**
 
 EA Orgs seem to be able to hire the number of people they want, *at
-the end of the hiring round* be it in research, operations and
-*possibly* even charity entrepreneurship. [ OPP wanted to hire 5 GRs
-in 2018](https://www.openphilanthropy.org/blog/reflections-our-2018-generalist-research-analyst-recruiting) and succeeded in it. [EAF set out to hire 1 GR and 1
-Operations](https://forum.effectivealtruism.org/posts/d3cupMrngEArCygNk/takeaways-from-eaf-s-hiring-round) personnel and managed to do that. [FWI](https://forum.effectivealtruism.org/posts/YGBgWfLqeqCCWfnmK/hiring-process-and-takeaways-from-fish-welfare-initiative) also managed
-to get a researcher and "welfare specialist". [RP, RC, CS](https://forum.effectivealtruism.org/posts/7bp9Qjy7rCtuhGChs/survey-of-ea-org-leaders-about-what-skills-and-experience?commentId=ySRBeBocRz7oSahAC#ySRBeBocRz7oSahAC) and
-[TLYCS](https://forum.effectivealtruism.org/posts/7bp9Qjy7rCtuhGChs/survey-of-ea-org-leaders-about-what-skills-and-experience?commentId=tojT8rKhwCz9rfJbB#ySRBeBocRz7oSahAC) seem to suggest that they have no problem finding people
-(researchers I think).
+the end of the hiring round* be it in *research or operations*. [OPP
+wanted to hire 5 GRs in 2018](https://www.openphilanthropy.org/blog/reflections-our-2018-generalist-research-analyst-recruiting) and succeeded in it. [EAF set out to
+hire 1 GR and 1 Operations](https://forum.effectivealtruism.org/posts/d3cupMrngEArCygNk/takeaways-from-eaf-s-hiring-round) personnel and managed to do
+that. [FWI](https://forum.effectivealtruism.org/posts/YGBgWfLqeqCCWfnmK/hiring-process-and-takeaways-from-fish-welfare-initiative) also managed to get a researcher and "welfare
+specialist".
+
+[RP, RC, CS](https://forum.effectivealtruism.org/posts/7bp9Qjy7rCtuhGChs/survey-of-ea-org-leaders-about-what-skills-and-experience?commentId=ySRBeBocRz7oSahAC#ySRBeBocRz7oSahAC) and [TLYCS](https://forum.effectivealtruism.org/posts/7bp9Qjy7rCtuhGChs/survey-of-ea-org-leaders-about-what-skills-and-experience?commentId=tojT8rKhwCz9rfJbB#ySRBeBocRz7oSahAC) seem to suggest that they have no
+problem finding people (researchers I think [based on their recent
+hires](https://www.linkedin.com/search/results/people/?facetCurrentCompany=%5B%2237265641%22%5D)).
 
 > I’ve certainly had no problem finding junior staff for Rethink
 > Priorities, Rethink Charity, or Charity Science (Note: Rethink
@@ -137,12 +139,14 @@ to get a researcher and "welfare specialist". [RP, RC, CS](https://forum.effecti
 > ourselves turning down really strong applicants we would otherwise
 > really love to hire. --- Peter Hurford
 
-CE in 2019, however during its incubation program was only able to
-[accept 17 people](https://forum.effectivealtruism.org/posts/fNRSGinhWqPZtuo3T/application-process-for-the-2019-charity-entrepreneurship) despite having ~20 positions. Apparently (in
-email), they would have hired more if there were better
-candidates. *However*, this year they have more than 10 times the
-applications and CE thinks that they would *probably* find more people
-than they have seed grants for.
+However, EA orgs *don't* seem to be able to hire the number of
+*Entrepreneurs* they want, *at the end of a hiring round*. CE in 2019,
+during its incubation program was only able to [accept 17 people](https://forum.effectivealtruism.org/posts/fNRSGinhWqPZtuo3T/application-process-for-the-2019-charity-entrepreneurship)
+despite having ~20 positions. Apparently (in an email to me), they
+would have hired more if there were better candidates. *However*, this
+year they have more than 10 times the applications of last year for
+the same number of positions and CE thinks that they would *probably*
+find more people than they have seed grants for.
 
 *Note:* *I don't have more info on other hiring rounds and so stick with
 the above for most of the rest of the discussion as well.*
@@ -150,19 +154,72 @@ the above for most of the rest of the discussion as well.*
 ---
 <br>
 
+It is *unclear* if the type of organization (Longterm, GH&P, Meta,
+Animal EA) relates to finding a hire or not. OPP (Meta), TLYCS, RC,
+RP, CS (GH&P), FWI (Animal EA) are able to find hires. But it is not
+clear what are the struggles of Orgs such as MIRI or FHI in finding
+people (Longtermism) as I don't have those examples.
+
+---
+<br>
+
 **Quality of hires**
 
-EA Orgs seem happy with their recent hires. It does not look like they
-had to settle for someone with "lesser experience", when they wanted
-someone with "more experience". I am unable to be specific as I don't
-have any examples for them. Unfortunately, all I have is testimonials
-from the Orgs.
+EA orgs are able to hire Researchers (in the last 2 years), either
+with greater than 3 years of experience related to EA, or people who
+studied in top universities (based on rankings) in [UK](https://www.thecompleteuniversityguide.co.uk/league-tables/rankings) and
+[US](https://www.usnews.com/best-colleges/rankings/national-universities), or PhD's in Philosophy or Political sciences or Economics or
+Math or relevant (e.g., PhD in Marine life for FWI). A look at the
+recent hiring rounds seems to agree with the claim above. Saulius,
+however seems to be an exception. But he seems to have [done other
+things (such as to write and criticize EA research on his own)](https://forum.effectivealtruism.org/posts/hcdwSvGntCDJxCuqx/examples-of-people-who-didn-t-get-into-ea-in-the-past-but?commentId=AiZ96d7trvcBh9jMg) to
+grab the eyes of recruiters who requested him to apply for the
+vacancy.
 
-OPP said they got more than 100s of "very good resumes" for the GR
-positions. In the end they thought multiple people from the pool who
-didn't make it, *would exceed at OPP in the future*.
+{:.tablestyletwo}
+| org | Name      | University   | PhD           | NGO exp | Year | Founded  | Awards |
+|-----|-----------|--------------|---------------|---------|------|----------|--------|
+| GW  | Olivia    | Yale         | MBA.          | 6m      | 2018 | 1 (comm) | 6      |
+| GW  | Grace     | Stanford     | BA. Bio       | 0       | 2019 | -        | 2      |
+| GW  | Alicia    | MIT          | BA. Econ      | 0       | 2019 | -        | -      |
+| GW  | Marinella | Oxford (17%) | PhD Phil      | 1y      | 2019 | -        | -      |
+| OPP | Peter     | LSE (9%)     | MS. Econ      | 0       | 2019 | -        | -      |
+| OPP | Jacob     | Harvard      | Econ          | 0       | 2018 | 3 (comp) | 6      |
+| OPP | Joseph    | yale, Ox     | MPhil         | 0       | 2018 | -        | -      |
+| RP  | Daniel    | U. Barcelona | MA. Social    | >8      | 2018 | -        |        |
+| RP  | Saulius   | Vilniaus     | MS. CSish     | 10m\*   | 2018 | -        | -      |
+| RP  | Neil      | Oxford, EUV  | PhD Social    | 18m\*   | 2018 | -        | -      |
+| FWI | Marco     | U. Port      | PhD Marine    | -       | 2020 | -        | -      |
+| FWI | Jennifer  | U. Freiburg  | B.Sc. Environ | 3-4\*\* | 2020 |          |        |
 
-[RP RC CS Personnel Peter said](https://forum.effectivealtruism.org/posts/7bp9Qjy7rCtuhGChs/survey-of-ea-org-leaders-about-what-skills-and-experience?commentId=s9wuF9QQgjfHvfPAB),
+\* internships 
+
+\*\* did volunteering work excessively and has other research
+experience in university related to the field of work.
+
+*People:* [Olivia](https://www.linkedin.com/in/oliviaroselarsen/),  [Grace](https://www.linkedin.com/in/gracehultquist/), [Alicia](https://www.linkedin.com/in/alicia-weng-50aa4117a/), [Marinella](https://www.linkedin.com/in/marinella-capriati-474814a5/),
+[Peter](https://www.linkedin.com/in/peterfavaloro/), [Jacob](https://www.linkedin.com/in/jacob-trefethen-82105350/), [Joseph](https://www.linkedin.com/in/joseph-carlsmith-8ab07148/), [Daniel](https://www.linkedin.com/in/danielawaldhorn/),  [Saulius](https://www.linkedin.com/in/saulius-%C5%A1im%C4%8Dikas-0867b4a6/),
+[Neil](https://www.linkedin.com/in/neildullaghan/), [Marco](https://www.linkedin.com/in/marco-cerqueira-15bb8947/?originalSubdomain=pt), [Jennifer](https://www.linkedin.com/in/jennifer-justine-kirsch-689426155/)
+
+Whether you are a new org or an old org you are able to hire
+Researchers (in the last 2 years), either with greater than 3 years of
+experience related to EA, or people who studied in top universities in
+UK and US or PhD's in Philosophy or Political sciences or Economics or
+Math or relevant (PhD in Marine life for FWI). RP and FWI are orgs
+founded in or after 2018, GiveWell in 2007 and OPP in 2014. The same
+table above is used as evidence.
+
+---
+<br>
+
+EA Orgs seem happy with their recent hires. ~~It does not look like
+they had to settle for someone with "lesser experience", when they
+wanted someone with "more experience".~~ [OPP said](https://www.openphilanthropy.org/blog/reflections-our-2018-generalist-research-analyst-recruiting) they got more
+than 100s of "very good resumes" for the GR positions. In the end they
+thought multiple people from the pool who didn't make it, *would
+exceed at OPP in the future*.
+
+[Peter of RP said](https://forum.effectivealtruism.org/posts/7bp9Qjy7rCtuhGChs/survey-of-ea-org-leaders-about-what-skills-and-experience?commentId=s9wuF9QQgjfHvfPAB),
 
 > Based at least on my recent hiring for Rethink Priorities, I can
 > definitely confirm this is true, at least for us. We ended up
@@ -180,12 +237,14 @@ didn't make it, *would exceed at OPP in the future*.
 absolute bar and wouldn't take anyone if they didn't pass that bar. As
 far as they hired they seem to be happy with the level of the hires.
 
----
-<br>
-**Number of good quality people**
+*Was that too "vague"?*
 
-The acceptance rates of EA Orgs are similar to top Universities like
-Harvard and in the best startup incubator Y-combinator. The
+## How many people
+
+**Number of "good quality" people**
+
+The acceptance rates of EA Orgs are similar to [top Universities](https://www.usnews.com/best-colleges/rankings/national-universities)
+like Harvard and the [best startup incubator](https://tendercapital.com/en/the-ten-best-startup-incubators-in-the-world/) Y-combinator. The
 following are the acceptance rates for EA Orgs ([OPP](https://www.openphilanthropy.org/blog/reflections-our-2018-generalist-research-analyst-recruiting), [EAF](https://forum.effectivealtruism.org/posts/d3cupMrngEArCygNk/takeaways-from-eaf-s-hiring-round),
 [CE](https://forum.effectivealtruism.org/posts/fNRSGinhWqPZtuo3T/application-process-for-the-2019-charity-entrepreneurship), [FWI](https://forum.effectivealtruism.org/posts/YGBgWfLqeqCCWfnmK/hiring-process-and-takeaways-from-fish-welfare-initiative)) followed by Top universities ([<rank 10](https://www.usnews.com/best-colleges/rankings/national-universities)) and
 Y-combinator, and followed by moderate universities ([>= rank 20](https://www.usnews.com/best-colleges/rankings/national-universities)).
@@ -200,28 +259,37 @@ Y-combinator, and followed by moderate universities ([>= rank 20](https://www.us
 | 2019 | CE                  | Internship Mental Health            | <2.5% |
 | 2019 | FWI                 | Research analyst Welfare specialist |  2.4% |
 |------|---------------------|-------------------------------------|------:|
+|      |                     |                                     |       |
 | 2017 | Y-comb              | startups                            |  1.6% |
 | 2018 | Harvard (#2)        | student                             |  5.2% |
 | 2018 | Yale (#3)           | student                             |  6.9% |
 | 2018 | Stanford (#6)       | student                             |  4.7% |
 |------|---------------------|-------------------------------------|------:|
+|      |                     |                                     |       |
 | 2018 | California LA (#20) | student                             |   16% |
 | 2018 | Florida (#34)       | student                             |   42% |
 
 Looking at the acceptance rates it appears that EA Orgs are hard to
 get in just like the top Universities. I am unsure anything related to
-the number of good quality people can be derived from here.
+the number of "good quality" people can be derived from here.
+
+--- 
+<br>  
+New Orgs seem to have similar visibility as older Orgs (number of
+people applying per position). In [FWI's (founded in 2019) hiring](https://forum.effectivealtruism.org/posts/YGBgWfLqeqCCWfnmK/hiring-process-and-takeaways-from-fish-welfare-initiative)
+round for researcher there were roughly 40 apps for 1 vacancy. In
+OPP's (founded in 2014) 2018 hiring round for GR, there were more than
+20 apps for 1 vacancy.
 
 ---
 <br>
-EA Orgs seem to think that there are more candidates fit for the job
-than the ones they hired.
 
-[OPP said](https://www.openphilanthropy.org/blog/reflections-our-2018-generalist-research-analyst-recruiting) they got more than 100s of good resumes for the GR
-positions. In the end they thought multiple people from the pool who
-didn't make it, *would exceed at OPP in the future*.
-
-[RP RC CS Personnel Peter said](https://forum.effectivealtruism.org/posts/7bp9Qjy7rCtuhGChs/survey-of-ea-org-leaders-about-what-skills-and-experience?commentId=s9wuF9QQgjfHvfPAB),
+EA Orgs seem to think that there are *more candidates fit for the job
+than the ones they hired* in *research*. [OPP said](https://www.openphilanthropy.org/blog/reflections-our-2018-generalist-research-analyst-recruiting) they got more
+than 100s of good resumes for the GR positions. In the end they
+thought multiple people from the pool who didn't make it, *would
+exceed at OPP in the future*. [TLCYS](https://forum.effectivealtruism.org/posts/7bp9Qjy7rCtuhGChs/survey-of-ea-org-leaders-about-what-skills-and-experience?commentId=tojT8rKhwCz9rfJbB) suggests that he is confident
+and able to find high-quality candidates. [Peter of RP said](https://forum.effectivealtruism.org/posts/7bp9Qjy7rCtuhGChs/survey-of-ea-org-leaders-about-what-skills-and-experience?commentId=s9wuF9QQgjfHvfPAB),
 
 > Based at least on my recent hiring for Rethink Priorities, I can
 > definitely confirm this is true, at least for us. We ended up
@@ -234,65 +302,68 @@ didn't make it, *would exceed at OPP in the future*.
 > funding / management capacity / could grow the team even faster
 > without overwhelming everyone.
 
-[TLCYS](https://forum.effectivealtruism.org/posts/7bp9Qjy7rCtuhGChs/survey-of-ea-org-leaders-about-what-skills-and-experience?commentId=tojT8rKhwCz9rfJbB) suggests that he is confident and able to find high-quality
-candidates.
-
-CE had ~20 positions and were able to [fill only 17 in 2019](https://forum.effectivealtruism.org/posts/fNRSGinhWqPZtuo3T/application-process-for-the-2019-charity-entrepreneurship) but in
-2020 with more than 10 times the applications as in 2019, it is
-*probable* that they have more "acceptable" candidates than the number
-they hire.
+EA orgs seem to think that there are *NOT many candidates fit for the
+job than the ones they hired* in *Entrepreneurship*. CE had ~20
+positions and were able to [fill only 17 in 2019](https://forum.effectivealtruism.org/posts/fNRSGinhWqPZtuo3T/application-process-for-the-2019-charity-entrepreneurship). But in 2020 with
+more than 10 times the applications as in 2019, it is *probable* that
+they have more "acceptable" candidates than the people they hire.
 
 --- 
 <br> 
 
+I am unable to say more about the type (PhD's, yoe) and the number of
+people who didn't manage a job because of reasons such as, the orgs
+didn't have money to hire more, or the orgs were management constrained
+etc. I don't have any data or even one example regarding the unhired
+people who were "good enough" to be hired.
+
 I assume for now (for lack of other better alternatives) that the
-number of candidates in the last round give an indication of how many
-"good quality" candidates, Orgs had. Most of the final rounds had 2x
-the number of people hired.
+number of candidates in the last round gives an indication of how many
+were fit for a job. Most of the final rounds had 2x the number of
+people hired, for *research* positions. (And orgs had about 5 rounds
+including initial application.)
 
-[OPP had 17 people](https://www.openphilanthropy.org/blog/reflections-our-2018-generalist-research-analyst-recruiting)in the trial round while hiring for 5 people.[
-EAF had 4 people](https://forum.effectivealtruism.org/posts/d3cupMrngEArCygNk/takeaways-from-eaf-s-hiring-round) in the trial round while hiring 2 people. [FWI
-had 4 people](https://forum.effectivealtruism.org/posts/YGBgWfLqeqCCWfnmK/hiring-process-and-takeaways-from-fish-welfare-initiative) in the last round which was "reference check and call
-with finalists", while hiring 2 people in the end.
+[OPP had 17 people](https://www.openphilanthropy.org/blog/reflections-our-2018-generalist-research-analyst-recruiting) in the trial round while hiring for 5
+people. [EAF had 4 people](https://forum.effectivealtruism.org/posts/d3cupMrngEArCygNk/takeaways-from-eaf-s-hiring-round) in the trial round while hiring 2
+people. [FWI had 4 people](https://forum.effectivealtruism.org/posts/YGBgWfLqeqCCWfnmK/hiring-process-and-takeaways-from-fish-welfare-initiative) in the last round, which was a
+"reference check and call with finalists", while hiring 2 people in
+the end.
 
-[CE in 2019 had 27](https://forum.effectivealtruism.org/posts/fNRSGinhWqPZtuo3T/application-process-for-the-2019-charity-entrepreneurship) people in the last round compared to 20 people
-they wanted hire *!= 2x*. But then again we should remember that in
-2020 they have had more than 10 times the applications for the same
-number of positions (20) as in 2019.
-
----
-<br>
-
-It is *unclear* if the type of organization (Longterm, GH&P or Meta)
-relates to finding a hire or not. OPP (Meta), TLYCS, RC, RP, CS (GH&P)
-are able to find "good hires". But it is not clear what are the
-struggles of Orgs such as MIRI or FHI in finding people (Longtermism).
+The final rounds in orgs hiring for Entrepreneurship, don't seem to
+have 2x the number of people hired. [CE in 2019 had 27](https://forum.effectivealtruism.org/posts/fNRSGinhWqPZtuo3T/application-process-for-the-2019-charity-entrepreneurship) people in
+the last round compared to 20 people they wanted hire *!= 2x*. It
+could be different in 2020 where they have 10 times the applications
+as last time for the same number of positions.
 
 ## Jobs in govt/academia in AI Policy
 
-Apparently, "Senior staff within governments and top AI labs tell us
-that they are *struggling* to find experienced and qualified AI talent
-to employ". Honestly I don't know if they are talking about Policy
-people or technical people or strategy people. I don't have any
-example for this anyway. So I can't test. I don't understand how bad
-the talent pool is of their hiring rounds and I don't have more info
-on that as well.
+[80000hours](https://80000hours.org/articles/us-ai-policy/#ai-policy-challenge): "Senior staff within governments and top AI labs tell
+us that they are *struggling* to find experienced and qualified AI
+talent to employ". I have 0 examples to understand this. I have no
+idea what each of the words refer to as I don't have an example. I
+don't know what "struggling", "experienced", "qualified AI Talent",
+"top AI labs", "senior staff within governments", means. How many jobs
+are there? how many jobs were they not able to fill? Did they end up
+hiring people withe lesser experience? I don't know. 
 
 In the [case for working in AI policy](https://80000hours.org/articles/us-ai-policy/#ai-policy-challenge), 80000hours seems to suggest
-that there could be *many* jobs in this field, citing DoD's new JAIC
-(2018) which is expected to hire 200 people by 2020 (not all in Policy
-though). 80000hours suggests that there are many agencies (>20) and
-many more in academia and that here there ought to be "many" jobs.
+that there could be *many* jobs in this field. But, there doesn't seem
+to be 100s of jobs in Govt./Academia ([>20](https://80000hours.org/articles/us-ai-policy/#ai-policy-challenge)) in AI Policy in one
+year. A look at the 80000hours job board seems to identify only [10
+positions including internships, in companies, non-profits, academia
+and Govt](https://80000hours.org/job-board/ai-safety-policy/) over a 3 month period. This translates to 40 per year at
+max, including companies non-profits, academia and Govt.
 
-But, there doesn't seem to be 100s of jobs in Govt./Academia in AI
-Policy in one year. A look at the 80000hours job board seems to
-identify only [10 positions including internships in companies,
-working in non-profits, academia and Govt](https://80000hours.org/job-board/ai-safety-policy/) over a 3 month period.
+<!-- Even if we look at 80ks example of DoD's JAIC now and its progress in -->
+<!-- the last 2 years, it *appears* about 10 people have been hired in -->
+<!-- policy (conservatively) since 2018, 5 per year. And they have only [40 -->
+<!-- in total (as per Linkedin)](https://www.linkedin.com/company/dod-joint-artificial-intelligence-center/about/) not 200 (as they envisioned in 2018). -->
 
-Even if we look at DoD's JAIC now and its progress in the last 2
-years, it *appears* about 10 people have been hired in policy
-(conservatively) since 2018, 5 per year. And they have only [40 in
-total (as per Linkedin)](https://www.linkedin.com/company/dod-joint-artificial-intelligence-center/about/) not 200 (as they envisioned).
+
+<!-- This is tedious to test, as I have to look at 20+ orgs and gather. But -->
+<!-- a quick check at the orgs I know of and their open Policy related -->
+<!-- positions, points to the following: DOD JAIC has no vacancies now; -->
+<!-- DeepMind, No; OpenAI, 1 Policy manager; FHI, 0; This doesn't say any. -->
 
 <!-- 80000hours suggests that there are many agencies (>20) and many more -->
 <!-- in academia and that here there ought to be "many" jobs. I don't want -->
@@ -302,23 +373,32 @@ total (as per Linkedin)](https://www.linkedin.com/company/dod-joint-artificial-i
 <!-- companies like Facebook and Microsoft it is hard to discern which jobs -->
 <!-- are related to AI policy. So my conclusion is *I don't know*. -->
 
-80000hours also suggest that in the future we need a ["lot of
+80000hours also suggest that in the future we will need a ["lot of
 people"](https://80000hours.org/articles/us-ai-policy/#ai-policy-challenge). It is not possible to test that. But it shall be noted
 that LOT means atleast 20 senior people with the right background
-working in the 20 or so agencies that will be involved.
+working in the 20 or so US Govt. agencies that will be involved.
 
 --- 
 <br>
 
 There seems to be an underlying assumption that AEAs will have more
 impact than the people who take up these "senior roles" or other roles
-in academia and govt. I don't have any example or data on this to
-check it.
+in academia and govt. I don't have any example for this either.
 
-## Funding: Short on cash
+## Funding: Short on cash to hire people
 
-Orgs working on Global Poverty and Health, seem to be willing to hire
-more candidates but are short on cash. [TLYCS's Jon Behar](https://forum.effectivealtruism.org/posts/7bp9Qjy7rCtuhGChs/survey-of-ea-org-leaders-about-what-skills-and-experience?commentId=tojT8rKhwCz9rfJbB) says
+Meta Orgs don't seem to be affected by funding while considering
+hiring researchers. [OPP said](https://www.openphilanthropy.org/blog/reflections-our-2018-generalist-research-analyst-recruiting), "our current ability to immediately
+assess and deploy this base of available talent is weak".
+
+It is not clear if hiring is affected by funding in Longtermism
+Orgs. There is not info I can find regarding this on MIRI for example.
+
+---
+<br>  
+
+There are orgs working on GP&H, seem to be willing to hire more
+research candidates but are short on cash. [TLYCS's Jon Behar](https://forum.effectivealtruism.org/posts/7bp9Qjy7rCtuhGChs/survey-of-ea-org-leaders-about-what-skills-and-experience?commentId=tojT8rKhwCz9rfJbB) says
 that here,
 
 > TLYCS’s experience is very consistent with Peter’s. Money is
@@ -332,20 +412,19 @@ that here,
 > constrained than I feel “I need more talented applicants”
 > constrained.
 
-However, CE of the Incubation program (via mail) says that, they were
-not having any issues with money, but suggest that this year the
-situation might be different due to the 10 times more applications.
+However, orgs in GH&P hiring for entrepreneurship don't seem to be
+short on cash. CE (via mail) says that, they were not having any
+issues with money, but suggest that this year (2020) the situation
+might be different due to the 10 times more applications.
 
 ---
-<br>
-Hiring is not affected by funding in meta Orgs. OPP said that, "our
-current ability to immediately assess and deploy this base of
-available talent is weak,". 
+<br>  
+Whether you are a new or an old org you seem to want money to get more
+hires. RP is a new org (founded in 2018) and would like money to get
+more hires, but so does TLYCS (founded in 2010) and the whole RC
+(2013) CS franchise according to Peter which were founded many years
+ago.
 
-It is not clear if hiring is not affected by funding in Longtermism
-Orgs. There is not info I can find on this on MIRI for example.
-
- 
 ---
 <br>
 **Fundraisers**
@@ -353,56 +432,22 @@ Orgs. There is not info I can find on this on MIRI for example.
 Some Longtermism Orgs are unable to meet their fundraising targets as
 small as 1m`$`.
 
-MIRI in 2017 raised all of the 2.5m. MIRI in 2018 was short by 250k
-(trying to raise 1.2m). In 2019 they were short by 400k (trying to
-raise 1m). The severity of this is expressed here:
+~~MIRI in [2017](https://intelligence.org/2017/12/01/miris-2017-fundraiser/) managed to raise all of the 2.5m.~~ MIRI in
+[2018](https://intelligence.org/2018/11/26/miris-2018-fundraiser/) was short by 250k (trying to raise 1.2m). In [2019](https://intelligence.org/2019/12/02/miris-2019-fundraiser/) they
+were short by 400k (trying to raise 1m). The severity of this is
+expressed here:
 
-> "Given our $6.8M budget for 2020, and the cash we currently have on
-> hand, raising $1M in this fundraiser will put us in a great position
-> for 2020. Hitting $1M positions us with cash reserves of 1.25–1.5
+> "Given our `$`6.8M budget for 2020, and the cash we currently have on
+> hand, raising `$`1M in this fundraiser will put us in a great position
+> for 2020. Hitting `$`1M positions us with cash reserves of 1.25–1.5
 > years going into 2020, which is exactly where we want to be to
 > support ongoing hiring efforts and to provide the confidence we need
 > to make and stand behind our salary and other financial commitments.
 
 I don't know the scene with GH&P or Meta Orgs regarding fundraising. I
-don't see any fundraising efforts by GiveWell and OPP for
-example. GiveWell and OPP seem to be covered for the most part by Good
-Ventures and nonrestrictive donations.
-
-## New org vs old org 
-
-Whether you are a new org or an old org you are able to find good
-quality candidates. OPP, TLYCS, RC, CS are all able to find "good
-quality candidates". They are all Orgs founded before 2015 atleast. RP
-is certainly new ([founded in 2018](https://www.linkedin.com/company/rethinkpriorities/about/)). Peter assures us that the
-candidates are "good".
-
-> Based at least on my recent hiring for Rethink Priorities, I can
-> definitely confirm this is true, at least for us. We ended up
-> completely overwhelmed with high-quality applicants beyond our
-> wildest dreams. As a result we're dramatically scaling up as fast as
-> we can to hire as many great applicants as we can responsibly,
-> taking on a bunch of risk to do so. Even with all of that additional
-> effort, we still had to reject numerous high-quality candidates that
-> we would've otherwise loved to work with, if only we had more
-> funding / management capacity / could grow the team even faster
-> without overwhelming everyone. --- Peter Hurford
-
----
-<br>
-New Orgs don't seem to have much lesser visibility than older Orgs
-(number of people applying per position). In [FWI's (founded in 2019)
-hiring](https://forum.effectivealtruism.org/posts/YGBgWfLqeqCCWfnmK/hiring-process-and-takeaways-from-fish-welfare-initiative) round for researcher there were roughly 40 apps for 1
-vacancy. In OPPs 2018 hiring round for GR, there were more than 20
-apps for 1 vacancy.
-
----
-<br>
-Whether you are a new or an old org you seem to want money to get more
-hires. RP is a new org (founded in 2018) and would like money to get
-more hires, but so does TLYCS (founded in 2010) and the whole RC
-(2013) CS franchise according to Peter which were founded many years
-ago.
+don't see any fundraising efforts by GiveWell, RC, RP, CS or OPP for
+example. ~~GiveWell and OPP seem to be covered for the most part by
+[Good Ventures and non-restrictive donations](https://www.givewell.org/about/FAQ).~~
 
 ## Reflection
 
@@ -415,7 +460,7 @@ such as if FHI is able to find people for their vacancies or even a
 statement such as "you clear the bar you WILL get the job at FHI and
 that they are always hiring for DR researchers". But I didn't see
 anything like that in Carrick's post. Hence it was decided to not use
-that post.
+that content.
 
 **No more holistic decisions on claims**  
 
@@ -441,8 +486,8 @@ individually.
 
 **Narrow the claims and feel better**
 
-When I say "TC" now, it hurts. I realize I don't know what they are
-talking about anymore. Instantaneously I feel confused. There are
+When people say "TC" now, it hurts. I realize I don't know what they
+are talking about anymore. Instantaneously I feel confused. There are
 atleast 5 definitions that I know of[^1]. Jesus! Pick one at a time
 and feel better.
 
@@ -455,30 +500,23 @@ problem with funding, what you have is an anomaly", "there are many
 jobs in the govt for AI Policy, surely it is TC" and "What more can we
 do, we already asked the Orgs if they are TC". 
 
-I don't feel tensed and confused about how to deal claims anymore. I
-know that I can split the claims into narrow claims and have a
-discussion as opposed to just shrinking my face in confusion and not
-knowing how to proceed.
+I don't feel tensed and confused about how to deal with these claims
+anymore. I know that I can split the claims into narrow claims and
+have a discussion as opposed to just shrinking my face in confusion
+and not knowing how to proceed.
 
-P.S
-I answered "Yes, I agree", to "What more can we do, we already
-asked the Orgs if they are TC". Damn!
-
-**Onions at 10rs/kg**
-
-Contrast "OPP has low rejection rates for PhDs", with "OPP has low
-rejection rates". The first claim seems to weed out all the fluff
-applicants and tries to get info on rejection rates per "good set of
-candidates" (PhDs). The second seems not so useful to verify.
+P.S.  
+I answered "Yes, I agree we can't do more", to "What more can we do,
+we already asked the Orgs if they are TC". Damn it! Split into
+familiar claims.
 
 **Don't just write, think in claims and examples**
 
-I tried writing the previous paragraphs on "reflection" and seemed to
-be ending up with a lot of words, feeling confused (head hurts) not
-knowing where this was going. This seems to have also happened in the
-previous re-writes of this essay. Then I changed to "what claim am I
-trying to make", followed by an example. And it seems to have gone
-"smoother". Less "confused", more "organized" types.
+I tried writing the previous paragraphs on "reflection" and the main
+post, and seemed to be ending up with a lot of words, feeling confused
+(head hurts) not knowing where this was going. Then I changed to "what
+claim am I trying to make", followed by an example. And it seems to
+have gone "smoother". Less "confused", more "organized" types.
 
 **Too soon to judge**
 
@@ -501,15 +539,16 @@ hired. Not 100s of jobs in JAIC, just 5 per year.
 
 **Re-write a fresh**
 
-Send distractions to the footnote. Don't force yourself to keep it and
-weave it in the post. You are out here to find the truth and not weave
+Send distractions to the footnote. Don't force yourself to keep them and
+weave them in the post. You are out here to find the truth and not weave
 all the research you have done into a flowing story.
 
 Re-writing in a fresh sheet and re-factoring old stuff seems to have
 helped in this regard. I got rid of many things I was clinging on to
 and struggling to weave into the story (such as a section on "why I
-think EA is TC", A section on 'definitions' etc.). Shit was taking so
-much time.
+think EA is TC", A section on 'definitions' etc.). It was taking so
+much time to make it all fit into a story, until I removed those
+sections completely.
 
 <!-- **Systematic way?** -->
 
@@ -520,11 +559,12 @@ much time.
 
 ## Time spent
 
-Total time: 48 hrs (Over 2 weeks)
-Total words: 4700
+Total time: 48 hrs (Over 2 weeks) + 9 hrs (another edit after sending
+it to an STM)  
+Total words: 4700  
 
-Number of days: 13
-Avg hrs per day: 3.6hrs (including weekends and 2 full days)
+Number of days: 13  
+Avg hrs per day: 3.6hrs (including weekends and 2 full days)  
 
 ## Footnotes
 

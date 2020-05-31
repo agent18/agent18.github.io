@@ -80,32 +80,6 @@ number of hours per day clocked? why not FAANG.
 
 
 
-## L1 route
-
-Time to destination
-
-Related Visa issues
-
-ask people from ASML in california?
-
-1 example
-
-Examples. Examples. Examples
-
-## Other routes? Direct application
-
-## actions
-
-- blind
-- google search
-- quora
-- reddit
-- interviews
-- use already have info on visas
-
-## interesting links
-
-
 ## probabilities of getting H1B approved per year
 
 Talk in depth about H1B
@@ -255,27 +229,6 @@ Write to people and ask them what worked in favor of their life...
 --- 
 
 L-
-
-## Today
-
-
-- write it up
-
-- check claims (focus on time, money examples and prolties)
-
-- engage with linkedin people (first) and see if they have some
-  insight for you
-  
-- think if this is the way what all would I need to make a decision
-
-- Focus on L1 bro!
-
-	Are there cases of people going in L1
-	Is there any reason for L1 to be denied because of mech
-	engineering background.
-
-- Is Swe going to be harder for me?
-
 
 ## L1
 
@@ -465,6 +418,17 @@ jobs between Adobe, Roku and Amazon in 1.5yrs no probs so far
 applied for H1B extension in dec 2019 and got it stamped". Both are
 Indians. 
 
+
+Case 2: H1B Extension applied in PP in October 2017; Working for
+Consulting firm - EVC model and Client provided Client letter; Got RFE
+for Speciality Occupation & Employee-Employer relationship & Wage
+Level 1 justification; Approved last week after responding to RFE; BE
+in EEE, MS in EE, 4.5 Years Experience all of which is with same
+Consultant and since graduation; Job requires BE in CS or related
+field with 2 or more years experience - Wage Level 1, Software
+Developer is the job title;---[here](http://forum.murthy.com/topic/113510-any-successful-h1-extension-with-electronics-or-mechanical-engineering-background/?do=findComment&comment=431827)
+
+
 **Conclusion**: False; Bachelor seems to not matter if you have a
 relevant masters (or if you don't have relevant masters)
 
@@ -621,7 +585,7 @@ https://www.teamblind.com/post/FAANG-that-accepts-candidate-with-less-than-24-mo
 Only Google and Amazon accept people with 1 h1b attempt. Fb wont even
 hire with 2 H1B attempts.
 
-## Conclusion on RFE
+## Conclusion on RFE (probabilities)
 
 So it turns out that there is no clear pattern with masters or
 yoe. But because the rejections are based on "speciality occupation"
@@ -661,19 +625,21 @@ The probability of getting a FAANG job seems to be:
 	
 2. P(getting approved after clearing the H1B): 62.7%
 
+	https://www.fragomen.com/insights/alerts/report-confirms-significant-increase-h-1b-and-l-1-rfe-and-denial-rates
+
 	[According to Fragoman](https://www.fragomen.com/insights/alerts/latest-uscis-data-confirm-continued-high-rates-nonimmigrant-rfes-and-denials-fy-2019), 84% of the people get approved after
-    being selected in the lottery. In my case I am going to assume
-    that for sure I get an RFE as the people I have talked to have
-    gotten an RFE and the cases I see are more of what I relate
-    to. 39.6% get an RFE and 62.7% of that get approval.
-	
+	being selected in the lottery. In my case I am going to assume
+	that for sure I get an RFE as the people I have talked to have
+	gotten an RFE and the cases I see are more of what I relate
+	to. 39.6% get an RFE and 62.7% of that get approval.
+
 	As suggested earlier, this whole process seems to have a lot of
-    random factors. There seems to be a high chance that I will get an
-    RFE as the cases I saw who got RFE resonate with my
-    background. And I hence suggest I take the above values.
-	
+	random factors. There seems to be a high chance that I will get an
+	RFE as the cases I saw who got RFE resonate with my
+	background. And I hence suggest I take the above values.
+
 	This means that the probability of getting approved after clearing
-    the H1B is 62.7%.
+	the H1B is 62.7%.
 	
 3. P(of doing well enough in masters and landing a job in US based on
    skills) = 85%
@@ -1028,35 +994,43 @@ https://nfap.com/wp-content/uploads/2019/04/H-1B-Denial-Rates-Past-and-Present.N
 
 denial rates
 
-## Drama
+### Even people with Bachelor's and Masters' in Cs are getting RFE
+https://www.teamblind.com/post/Received-RFE-for-2019-H1B-d2yOXW5Q
 
-I feel drama is weighing down quite a bit. a simple miscommunication
-leading to someone thinking I am racist or to body saying XX is not
-worth his time, basically saying something not in the best tone. Body
-said, "I am not going to waste my time on these forums". He didn't see
-the extent of my research, he didn't care about what I was trying to
-acheive and how I did it. He just assumed I am obsessing over
-pointless stuff I think. And I want to show him... I want to tell him
-no motherfucker you are the dumb one. Who the fuck gave you a job in
-Apple? Look at my research, its based on "data". It's based on sound
-principles like Concrete thinking. But I didn't. But it is contunuiing
-to way down on me I think. Bro I just finished a very nice
-claim. Managed to get "decent" evidence on it. 
+> I received RFE for "specialty occupation" for this year H1B. Anyone
+> on the same boat?
+>
+> Both Bachelors and Master's in Computer Science..working as software engineer now!
 
-Like I am looking at the art of not giving a fuck. Despite beign far
-away from people and drama it still cmoes back to me. maybe avoid
-those people creating the drama?
+https://www.teamblind.com/post/H1b-transfer-denied-post-RFE-FML-78RNuBAt
 
-So dissapointed in this shit 
+https://www.teamblind.com/post/H1B-RFE-approved-k6B362V3
 
-Even today I am thinking of how less people think of me for an
-incident that happened on sunday. and Still now and then when I think
-of this guy, I exclaim wtf is wrong with him why does he expect me to
-do something an ddoes shit in return. I let go. I dont' engage in
-drama but there are still these mental remanants. I want inner peace.
+https://www.teamblind.com/post/H1B-transfer-denied-after-RFE-i7KeS5Qg
 
-Even in the mornign I think about it.. I guess I need to replace it
-with a real problem.
+https://www.teamblind.com/post/RFE-TIMELINES-FOR-FEB-2020-mbNwVE8r
+
+> Not to be a bearer of bad news but I got an RFE on Feb 6. The RFE
+> was vague according to lawyers (Fragomen) and they submitted a
+> response on Feb 25. I got a denial yesterday (March 6). Yet to find
+> the reason.  I have masters (one of top 20 universities in US) and
+> bachelor's in computers science. I am working as full time and also
+> have i140 approved. It's shocking but I've made peace with it. Just
+> telling you to be prepared for anything
+
+
+> Was supposed to join FB as a senior engg. My visa transfer got
+> rejected today after an RFE for speciality occupation.
+>
+> USCIS site says they are still reviewing it, but DHS site shows they
+> denied my transfer on the 12th.
+>
+> P.S: I have a masters degree in CS, 6 years of experience in relevant
+> domain & getting paid well at both places.
+
+> **Undergrad from EE**
+
+Think bugger got canned (no response)
 
 ## MIDS
 

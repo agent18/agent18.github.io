@@ -37,6 +37,11 @@ fucking fuck that means.). So I would like to see if DS is even an
 option or I have been farting all along? What are the chances to a
 great ETG? and if I should pursue it in contrast to working in a EAO.
 
+I am subpar. I procrastinate a lot (Just yesterday and today When I am
+on holiday I worked on 4 hrs. It's ridiculous the number of things I
+need to be doing and not doing and procrastinating). I am on no path
+to greatness.
+
 I recently got rejected for a mental health internship. I made it to
 the interview and then the test where I got rejected due to "sub-par
 research capabilities" (even though I promised to work 20+ hours when
@@ -46,7 +51,7 @@ what if I am able to break in, but the job is highly replaceable and
 there are very few positions of "high impact"? The EA movement is
 growing like crazy with 200 people apping for 15 positions in the last
 year to CE, to >2000 people apping for the roughly 20 positions. So
-maybe if I am good with research I might still not be a good fit. 
+maybe if I am good with research I might still not be a good fit.
 
 So there is a lot of uncertainty so let me start trying to see how
 things unfold.
@@ -56,9 +61,15 @@ things unfold.
 prolties impact
 
 A DS job in Apple with 3yoe can pay 300k<span>$</span> per year
-TC. Jeff Kaufman is able to donate 50% of his salary (???) in
-Boston. Based on this, I think 150k<span>$</span> is definitely a
-possibility for donations after 2 years of say savings. 
+TC. Jeff Kaufman is able to donate 50% of his salary (???) in Boston
+in a SWE job with similar earnings. Based on this, I think
+150k<span>$</span> is definitely a possibility for donations after 2
+years of say savings. 
+
+But it might not flow on every year.
+
+And bigger thing is getting to that state is going to be hard with a
+lot of randomness involved. It's not just about Talentl
  
 The thing with DS in US is that I am not a Citizen and that comes with
 the thing that I need an H1B Visa and with that comes lot of anxiety,
@@ -235,12 +246,13 @@ The probability of getting a FAANG job seems to be:
     insane, if there is ever hope of hitting half a million dollars I
     think it can be done, here. This gives massive donation potential.
 
-FUCK!
+FUCK! I don't know how to make a confidence interval yet. I just roll
+with absolute numbers.
 
 
 In the end (?)
 
-### EA scene 
+### The EA scene 
 
 prolties, use what my internship recent one.  impact
 
@@ -263,11 +275,9 @@ not!).
 
 I could choose other options based on dearth of people But... there
 seems to be no indication of the sorts of people that are in dearth
-other than in Disentanglement Research and AI Policy and perhaps
-higher up positions in EAOs (owing to my article on TC). All three of
-which I don't think I can get into at Entry either because of not
-being in the US or lack of citizenship or not setup for such research
-etc...
+of. Unforuntately opinion posts are all I have. All three of which I
+don't think I can get into at Entry either because of not being in the
+US or lack of citizenship or not setup for such research etc...
 
 Not only the dearth, but I could also look at replaceability, and all
 the jobs I know of or where I have stats (confirmation bias) appears
@@ -472,3 +482,9 @@ evaluations. ( This week starts on Jun2 2020. **Important**)
 - spell check
 - publish
 - next assignment
+
+## Questions to PETER
+
+Relevancy of DS to the work he does, i.e., 
+
+what skills did you learn to move to RP etc...

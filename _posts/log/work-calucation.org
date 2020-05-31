@@ -1,4 +1,113 @@
 #+COLUMNS: %7TODO(To Do) %40ITEM(Task) %10CLOCKSUM(Clock)
+* Statistics khan academy
+** Analyzing Categorical data (direct quiz)
+CLOCK: [2020-05-28 do 20:34]--[2020-05-28 do 21:11] =>  0:37
+CLOCK: [2020-05-28 do 19:35]--[2020-05-28 do 20:17] =>  0:42
+** break
+CLOCK: [2020-05-28 do 21:11]--[2020-05-28 do 22:51] =>  1:40
+CLOCK: [2020-05-28 do 20:18]--[2020-05-28 do 20:34] =>  0:16
+* HPMOR
+** ch21
+CLOCK: [2020-05-21 do 23:22]--[2020-05-21 do 23:59] =>  0:37
+** ch22
+CLOCK: [2020-05-23 za 18:15]--[2020-05-23 za 18:45] =>  0:30
+** Ch23
+CLOCK: [2020-05-25 ma 23:00]--[2020-05-26 di 00:06] =>  1:06
+
+* Career Decision (week of epicness 2)
+** Counted for DP
+*** Prepping for task
+    CLOCK: [2020-05-21 do 17:43]--[2020-05-21 do 19:46] =>  2:03
+    CLOCK: [2020-05-21 do 11:15]--[2020-05-21 do 12:00] =>  0:45
+    CLOCK: [2020-05-21 do 10:01]--[2020-05-21 do 10:58] =>  0:57
+
+*** Looking for content
+
+*** DPing 
+*** Thinking and writing
+CLOCK: [2020-05-26 di 21:00]--[2020-05-26 di 21:12] =>  0:12
+CLOCK: [2020-05-26 di 18:30]--[2020-05-26 di 19:30] =>  1:00
+CLOCK: [2020-05-26 di 16:11]--[2020-05-26 di 16:26] =>  0:15
+CLOCK: [2020-05-26 di 15:32]--[2020-05-26 di 16:11] =>  0:39
+CLOCK: [2020-05-26 di 13:01]--[2020-05-26 di 14:14] =>  1:13
+CLOCK: [2020-05-26 di 09:58]--[2020-05-26 di 11:55] =>  1:57
+CLOCK: [2020-05-26 di 09:58]--[2020-05-26 di 09:58] =>  0:00
+CLOCK: [2020-05-25 ma 21:48]--[2020-05-25 ma 23:00] =>  1:12
+CLOCK: [2020-05-25 ma 19:31]--[2020-05-25 ma 20:16] =>  0:45
+CLOCK: [2020-05-25 ma 19:25]--[2020-05-25 ma 19:25] =>  0:00
+CLOCK: [2020-05-25 ma 18:05]--[2020-05-25 ma 19:25] =>  1:20
+CLOCK: [2020-05-25 ma 13:46]--[2020-05-25 ma 15:30] =>  1:44
+CLOCK: [2020-05-25 ma 13:34]--[2020-05-25 ma 13:46] =>  0:12
+CLOCK: [2020-05-24 zo 20:07]--[2020-05-24 zo 20:43] =>  0:36
+CLOCK: [2020-05-24 zo 13:15]--[2020-05-24 zo 14:11] =>  0:56
+CLOCK: [2020-05-24 zo 12:07]--[2020-05-24 zo 12:58] =>  0:51
+CLOCK: [2020-05-24 zo 10:33]--[2020-05-24 zo 11:13] =>  0:40
+CLOCK: [2020-05-24 zo 09:20]--[2020-05-24 zo 10:06] =>  0:46
+CLOCK: [2020-05-24 zo 00:03]--[2020-05-24 zo 00:57] =>  0:54
+CLOCK: [2020-05-23 za 21:49]--[2020-05-23 za 21:50] =>  0:01
+CLOCK: [2020-05-23 za 14:03]--[2020-05-23 za 14:24] =>  0:21
+CLOCK: [2020-05-23 za 13:33]--[2020-05-23 za 13:44] =>  0:11
+CLOCK: [2020-05-23 za 12:07]--[2020-05-23 za 13:33] =>  1:26
+CLOCK: [2020-05-23 za 11:14]--[2020-05-23 za 11:25] =>  0:11
+CLOCK: [2020-05-23 za 10:27]--[2020-05-23 za 10:55] =>  0:28
+CLOCK: [2020-05-23 za 09:48]--[2020-05-23 za 10:20] =>  0:32
+CLOCK: [2020-05-22 vr 20:50]--[2020-05-22 vr 21:22] =>  0:32
+CLOCK: [2020-05-22 vr 19:17]--[2020-05-22 vr 20:12] =>  0:55
+CLOCK: [2020-05-22 vr 18:07]--[2020-05-22 vr 19:10] =>  1:03
+CLOCK: [2020-05-22 vr 12:33]--[2020-05-22 vr 13:50] =>  1:17
+CLOCK: [2020-05-22 vr 10:50]--[2020-05-22 vr 11:40] =>  0:50
+CLOCK: [2020-05-22 vr 10:33]--[2020-05-22 vr 10:46] =>  0:13
+CLOCK: [2020-05-22 vr 09:52]--[2020-05-22 vr 10:15] =>  0:23
+*** H1B discussion
+CLOCK: [2020-05-25 ma 9:30]--[2020-05-25 ma 10:54] =>  1:24
+** Other useful stuff
+*** Work done for STM 
+
+** Not counted for DP
+*** Breaks
+CLOCK: [2020-05-26 di 14:14]--[2020-05-26 di 15:32] =>  1:18
+CLOCK: [2020-05-26 di 11:55]--[2020-05-26 di 13:01] =>  1:06
+CLOCK: [2020-05-25 ma 20:16]--[2020-05-25 ma 21:48] =>  1:32
+CLOCK: [2020-05-25 ma 19:25]--[2020-05-25 ma 19:31] =>  0:06
+CLOCK: [2020-05-25 ma 15:30]--[2020-05-25 ma 18:05] =>  2:35
+CLOCK: [2020-05-25 ma 11:25]--[2020-05-25 ma 13:34] =>  2:09
+CLOCK: [2020-05-24 zo 14:11]--[2020-05-24 zo 14:56] =>  0:45
+CLOCK: [2020-05-24 zo 12:58]--[2020-05-24 zo 13:10] =>  0:12
+CLOCK: [2020-05-24 zo 11:13]--[2020-05-24 zo 12:07] =>  0:54
+CLOCK: [2020-05-24 zo 10:09]--[2020-05-24 zo 10:33] =>  0:24
+CLOCK: [2020-05-23 za 13:44]--[2020-05-23 za 14:03] =>  0:19
+CLOCK: [2020-05-23 za 13:33]--[2020-05-23 za 13:33] =>  0:00
+CLOCK: [2020-05-23 za 11:25]--[2020-05-23 za 12:07] =>  0:42
+CLOCK: [2020-05-23 za 10:55]--[2020-05-23 za 11:14] =>  0:19  
+CLOCK: [2020-05-23 za 10:20]--[2020-05-23 za 10:27] =>  0:07 
+CLOCK: [2020-05-22 vr 20:12]--[2020-05-22 vr 20:50] =>  0:38
+CLOCK: [2020-05-22 vr 19:10]--[2020-05-22 vr 19:17] =>  0:07
+CLOCK: [2020-05-22 vr 13:51]--[2020-05-22 vr 18:07] =>  4:16
+**** Working on Org mode
+**** Dreaming
+**** Random
+**** Lunch
+CLOCK: [2020-05-22 vr 11:40]--[2020-05-22 vr 12:33] =>  0:53
+*** Sleeping 
+*** Watching Youtube
+*** Playing with phone
+
+*today
+
+finish settling money with achu
+
+watch porn and sleep
+plan for friday to celebrate guns bday
+picnic
+
+for work
+
+Randomization 
+send mail about carpooling 
+final mail (weather and shit)
+
+buy holidays tomorow
+buy shares figure out tomo
 * DP Claims TC
 ** Counted for DP
 *** Prepping for task
@@ -89,10 +198,23 @@ CLOCK: [2020-05-20 wo 09:56]--[2020-05-20 wo 10:19] =>  0:23
 CLOCK: [2020-05-20 wo 07:49]--[2020-05-20 wo 09:11] =>  1:22
 *** re-re-writing
 CLOCK: [2020-05-20 wo 10:50]--[2020-05-20 wo 11:13] =>  0:23
+*** re-re-re-writing
+CLOCK: [2020-05-31 zo 16:56]
+CLOCK: [2020-05-31 zo 15:25]--[2020-05-31 zo 16:56] =>  1:31
+CLOCK: [2020-05-31 zo 13:06]--[2020-05-31 zo 14:30] =>  1:24
+CLOCK: [2020-05-31 zo 12:54]--[2020-05-31 zo 12:57] =>  0:03
+CLOCK: [2020-05-31 zo 10:55]--[2020-05-31 zo 11:56] =>  1:01
+CLOCK: [2020-05-31 zo 09:20]--[2020-05-31 zo 10:20] =>  1:00
+CLOCK: [2020-05-30 za 17:34]--[2020-05-30 za 18:39] =>  1:05
+CLOCK: [2020-05-30 za 10:11]--[2020-05-30 za 10:55] =>  0:44
+CLOCK: [2020-05-29 vr 19:50]--[2020-05-29 vr 21:00] =>  1:10
+CLOCK: [2020-05-29 vr 18:23]--[2020-05-29 vr 19:12] =>  0:49
 ** Other useful stuff
 *** Work done for STM 
 
 ** Not counted for DP
+CLOCK: [2020-05-31 zo 11:56]--[2020-05-31 zo 12:54] =>  0:58
+CLOCK: [2020-05-31 zo 10:20]--[2020-05-31 zo 10:55] =>  0:35
 *** Breaks
 CLOCK: [2020-05-20 wo 11:13]--[2020-05-20 wo 12:35] =>  1:22
 CLOCK: [2020-05-20 wo 10:19]--[2020-05-20 wo 10:50] =>  0:31
@@ -144,6 +266,8 @@ CLOCK: [2020-05-08 vr 20:28]--[2020-05-08 vr 21:09] =>  0:41
 CLOCK: [2020-05-05 di 22:09]--[2020-05-05 di 22:43] =>  0:34
 CLOCK: [2020-05-05 di 20:35]--[2020-05-05 di 21:11] =>  0:36
 *** Playing with phone
+CLOCK: [2020-05-31 zo 14:30]--[2020-05-31 zo 15:25] =>  0:55
+CLOCK: [2020-05-29 vr 19:12]--[2020-05-29 vr 19:39] =>  0:27
 
 *today
 
@@ -162,11 +286,10 @@ final mail (weather and shit)
 buy holidays tomorow
 buy shares figure out tomo
 
-
 * practicing typing
 ** everyday
 CLOCK: [2020-02-09 zo 12:30]--[2020-02-09 zo 13:09] =>  0:39
-CLOCK: [2020-02-02 zo 11:07]--[2020-02-02 zo 12:01] =>  0:54
+CLOCK: [2020-02-02 zo 11:07]--[2020-02-02 zo 12:01] =>  0:54 
 * WC-mode project Pandian
 CLOCK: [2020-04-24 vr 21:30]--[2020-04-24 vr 22:42] =>  1:12
 
@@ -2041,75 +2164,76 @@ Weekly report starting on: [2020-04-27 ma]
 
 #+BEGIN: clocktable :maxlevel 2 :scope file :step day :tstart "<-7d>" :tend "<tomorrow>" :compact t
 
-Daily report: [2020-05-13 wo]
+Daily report: [2020-05-24 zo]
+| Headline                             |   Time |
+|--------------------------------------+--------|
+| *Total time*                         | *6:58* |
+|--------------------------------------+--------|
+| Career Decision (week of epicness 2) |   6:58 |
+| \emsp Counted for DP                 |   4:43 |
+| \emsp Not counted for DP             |   2:15 |
+
+Daily report: [2020-05-25 ma]
+| Headline                             |    Time |
+|--------------------------------------+---------|
+| *Total time*                         | *13:59* |
+|--------------------------------------+---------|
+| HPMOR                                |    1:00 |
+| \emsp Ch23                           |    1:00 |
+| Career Decision (week of epicness 2) |   12:59 |
+| \emsp Counted for DP                 |    6:37 |
+| \emsp Not counted for DP             |    6:22 |
+
+Daily report: [2020-05-26 di]
+| Headline                             |   Time |
+|--------------------------------------+--------|
+| *Total time*                         | *7:46* |
+|--------------------------------------+--------|
+| HPMOR                                |   0:06 |
+| \emsp Ch23                           |   0:06 |
+| Career Decision (week of epicness 2) |   7:40 |
+| \emsp Counted for DP                 |   5:16 |
+| \emsp Not counted for DP             |   2:24 |
+
+Daily report: [2020-05-27 wo]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *0:00* |
+
+Daily report: [2020-05-28 do]
+| Headline                                       |   Time |
+|------------------------------------------------+--------|
+| *Total time*                                   | *3:15* |
+|------------------------------------------------+--------|
+| Statistics khan academy                        |   3:15 |
+| \emsp Analyzing Categorical data (direct quiz) |   1:19 |
+| \emsp break                                    |   1:56 |
+
+Daily report: [2020-05-29 vr]
 | Headline                 |   Time |
 |--------------------------+--------|
-| *Total time*             | *4:31* |
+| *Total time*             | *2:26* |
 |--------------------------+--------|
-| DP Claims TC             |   4:31 |
-| \emsp Counted for DP     |   3:38 |
-| \emsp Not counted for DP |   0:53 |
+| DP Claims TC             |   2:26 |
+| \emsp Counted for DP     |   1:59 |
+| \emsp Not counted for DP |   0:27 |
 
-Daily report: [2020-05-14 do]
+Daily report: [2020-05-30 za]
 | Headline             |   Time |
 |----------------------+--------|
-| *Total time*         | *0:17* |
+| *Total time*         | *1:49* |
 |----------------------+--------|
-| DP Claims TC         |   0:17 |
-| \emsp Counted for DP |   0:17 |
+| DP Claims TC         |   1:49 |
+| \emsp Counted for DP |   1:49 |
 
-Daily report: [2020-05-15 vr]
-| Headline             |   Time |
-|----------------------+--------|
-| *Total time*         | *1:33* |
-|----------------------+--------|
-| DP Claims TC         |   1:33 |
-| \emsp Counted for DP |   1:33 |
-
-Daily report: [2020-05-16 za]
-| Headline                 |    Time |
-|--------------------------+---------|
-| *Total time*             | *14:02* |
-|--------------------------+---------|
-| DP Claims TC             |   14:02 |
-| \emsp Counted for DP     |    4:50 |
-| \emsp Not counted for DP |    9:12 |
-
-Daily report: [2020-05-17 zo]
+Daily report: [2020-05-31 zo]
 | Headline                 |   Time |
 |--------------------------+--------|
-| *Total time*             | *9:47* |
+| *Total time*             | *5:56* |
 |--------------------------+--------|
-| DP Claims TC             |   9:47 |
-| \emsp Counted for DP     |   5:17 |
-| \emsp Not counted for DP |   4:30 |
-
-Daily report: [2020-05-18 ma]
-| Headline                 |    Time |
-|--------------------------+---------|
-| *Total time*             | *12:31* |
-|--------------------------+---------|
-| DP Claims TC             |   12:31 |
-| \emsp Counted for DP     |    6:39 |
-| \emsp Not counted for DP |    5:52 |
-
-Daily report: [2020-05-19 di]
-| Headline                 |    Time |
-|--------------------------+---------|
-| *Total time*             | *13:53* |
-|--------------------------+---------|
-| DP Claims TC             |   13:53 |
-| \emsp Counted for DP     |    8:00 |
-| \emsp Not counted for DP |    5:53 |
-
-Daily report: [2020-05-20 wo]
-| Headline                 |   Time |
-|--------------------------+--------|
-| *Total time*             | *6:59* |
-|--------------------------+--------|
-| DP Claims TC             |   6:59 |
-| \emsp Counted for DP     |   4:21 |
-| \emsp Not counted for DP |   2:38 |
+| DP Claims TC             |   5:56 |
+| \emsp Counted for DP     |   3:28 |
+| \emsp Not counted for DP |   2:28 |
 #+END:
 
 scrolling issue 
