@@ -6,7 +6,7 @@ date:    05-05-2020
 categories: posts
 tags: DP, feedback, examples
 permalink: /:title.html
-published: true
+published: true 
 ---
 
 ## STM feedback

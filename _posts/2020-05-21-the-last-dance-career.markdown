@@ -420,9 +420,10 @@ off debt is. In addition there is the recession laying off, and all of
 it that makes this debt just painful to bear. I know the risk reward
 ratio is high. I am the kind of guy, who couldn't handle the stress of
 house moving. I mean it got to me. Doing work is hard. I am the guy
-who gets depressed max because people above him were making noise. I
-can handle ONE THING AT A TIME. That's all. I can handle it, but don't
-ask me to also produce the best owrk. But routinely people do it in
+who gets depressed max because people above him were making noise or
+that I have to move or find a tenant. I can handle ONE crazy THING AT
+A TIME. That's all. I can handle it, but don't ask me to also produce
+the best owrk. But routinely people do it in
 the US.  
 
 But people regularly are doing it, how many people do I know who
@@ -513,6 +514,8 @@ It hurts to know that I am going to be ordinary, well, not ordinary
 but atleast something. 
 
 Try to get into the US while trying to get into EA. 
+
+How long will it take?
 
 ## DS to EA
 

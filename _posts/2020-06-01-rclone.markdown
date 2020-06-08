@@ -1,0 +1,79 @@
+---
+layout: post
+comments: true
+title:  "Rclone for Drive"
+date:    01-06-2020 
+categories: notes
+tags: 
+permalink: /:title.html
+published: true
+---
+
+## Installation
+
+From here: https://rclone.org/install/ 
+
+Use the "Linux installation from precompiled library method"
+
+Fetch and unpack
+
+	curl -O https://downloads.rclone.org/rclone-current-linux-amd64.zip
+	unzip rclone-current-linux-amd64.zip
+	cd rclone-*-linux-amd64
+
+Copy binary file
+
+	sudo cp rclone /usr/bin/
+	sudo chown root:root /usr/bin/rclone
+	sudo chmod 755 /usr/bin/rclone
+
+Install manpage
+
+	sudo mkdir -p /usr/local/share/man/man1
+	sudo cp rclone.1 /usr/local/share/man/man1/
+	sudo mandb 
+
+
+## Follow this video verbatim
+
+	rclone config
+	
+I ignored all deviations from the video, and it seems good enough.
+
+Video: https://www.youtube.com/watch?v=vPs9K_VC-lg
+
+By pressing 1 gave infinite access to rclone. Maybe there are other
+options, like one folder in particular. Should go for that !!!
+
+## Once done (Still in the video)
+
+	rclone listremotes
+
+out:
+
+	GokulDrive:
+	GokulDrive-one-folder:
+---
+
+	rclone mkdir GokulDrive:rclone-test-folder
+	
+out: 
+
+Creates in folder in drive! Waaaat!
+
+---
+
+**Copies files from PC to GokulDrive**
+
+	rclone copy agent18/g-drive/ GokulDrive:rclone-test-folder
+
+**Syncing PC from Gdrive**
+
+	rclone sync GokulDrive:rclone-test-folder agent18/g-drive/
+	
+This is cool. It actually syncs. :)
+
+**Check Rclone if synced?**
+
+	rclone sync GokulDrive:rclone-test-folder agent18/g-drive/
+

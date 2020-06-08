@@ -1,0 +1,344 @@
+---
+layout: post
+comments: true
+title:  "Career update plan"
+date:    01-06-2020 
+categories: posts
+tags: 
+permalink: /:title.html
+published: true
+---
+
+
+## Entry question
+
+What should I do next? Should I go for a Masters? Should I upskill for
+EAO?
+
+## EA jobs have high impact in Research
+
+I am going to try making a life time impact calculation (very rough)
+based on [Milan Griffes attempt here](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/). [People seem hesitant to
+make such calculations](https://forum.effectivealtruism.org/posts/afDCCvCsZcz8axoPp/examples-for-impact-of-working-at-eaorg-instead-of-etg) for some reason. And somehow they are able
+to make decisions without these. All I want to do is just see if it is
+even worth spending time to be a researcher in the [already crowded
+space](https://www.openphilanthropy.org/blog/reflections-our-2018-generalist-research-analyst-recruiting) (OPPs recent hiring round).
+
+GiveWell moved 110m`$` in 2015. An entry level researchers
+contribution is expected at [10% of a co-founder](https://blog.givewell.org/2016/04/05/givewells-progress-in-2015/). Over a life time
+I find it hard to believe that one will be stuck at 10% of the
+co-founder contribution. With time one would move up the ladder and on
+average *I assume* one is at `30%` the co-founder
+contribution. GiveWell employed [9 co-founders](https://blog.givewell.org/2016/04/05/givewells-progress-in-2015/) that year. So we
+get a multiplying factor `0.3/9`.
+
+Just like we divide the impact of the org to the different people, it
+seems that we should also divide the impact of the 110m among the
+following: the Donors (e.g., Good Ventures), the middle men
+(GiveWell) and the intervention orgs (AMF). The impact from the
+110m`$` seems to belong to each of these Orgs. *I assume* all orgs
+have equal weight in this for lack of any other better estimate. So we
+get a multiplying factor `0.33`.
+
+**Replaceability of org**
+
+Now we get into counterfactual estimates of the org itself. What is
+the utility to the world if GiveWell existed, minus when they didn't
+exist. I don't know how to estimate this but it appears [80000hours
+uses a factor `<=0.3`](https://ea.greaterwrong.com/posts/fnBnEiwged7y5vQFf/triple-counting-impact-in-ea/comment/CWxdafynvn3nQ7v9b) to estimate their counterfactual impact. We
+shall roll with this for now for lack of any better estimate. So *we
+assume* `0.3` again.
+
+So far the Impact for a researcher at GiveWell is
+`0.3/9x0.33x0.3x110m=363k`. This final value is TOO sensitive to any
+changes in the factors listed above. For example, if the 'Contribution
+of the Org', changed from 0.3 to 0.4, then the outcome increases by
+about 100k to 484k.
+
+**Replaceability of person**
+
+Counterfactual estimates for the impact created by a person in an EA
+job, is the difference between, when he takes the job and when he
+doesn't. This is quite hard to predict. It not only depends on the
+next candidate who didn't get this job, but what that next canidate
+did next and if he ended up displacing other people in EA, and
+following the chain of events.
+
+Depending on the situation this can vary from 0 to 363k`$`. Imagine a
+job opening where anyone who meets a "very high bar" can get that
+research position as there are enough funds for this. Such a person
+seems to take credit for all of the 363k. However, imagine a case
+where there are 2 similarly skilled people for one job that was
+open. `A` gets the job and `B` can do ETG but can donate only a few
+100`$` a year. This makes the counterfactual impact of `A` 100`$`.
+  
+In reality there are many people and it is hard to trace the actual
+impact. Attempting to make estimates seems to need a lot more
+assumptions which I am unable to back up with examples.
+
+**Conclusion**
+
+It appears that EA work has a lot of potential impact ranging from 0k
+to even >363k. My problem is there is a lot of uncertainty. And this
+number could be extremely high (even in millions) depending on the
+type of work one chooses and how much better he is than others .
+
+## Hard to get EA jobs. Needs credentials.
+
+In the essay on ["Talent Constraint"](/is-ea-bottlenecked-stm-2.html), this table was presented. 
+
+{:.tablestyletwo}
+| Year | Org                 | position                            |    AR |
+|------|---------------------|-------------------------------------|------:|
+| 2018 | OPP                 | GR                                  |   <5% |
+| 2018 | EAF                 | GR  & Operations                    |    3% |
+| 2019 | CE                  | CE entrepreneurship program         | 11.7% |
+| 2020 | CE                  | CE Entrepreneurship program         |   <1% |
+| 2019 | CE                  | Internship Mental Health            | <2.5% |
+| 2019 | FWI                 | Research analyst Welfare specialist |  2.4% |
+|------|---------------------|-------------------------------------|------:|
+|      |                     |                                     |       |
+| 2017 | Y-comb              | startups                            |  1.6% |
+| 2018 | Harvard (#2)        | student                             |  5.2% |
+| 2018 | Yale (#3)           | student                             |  6.9% |
+| 2018 | Stanford (#6)       | student                             |  4.7% |
+|------|---------------------|-------------------------------------|------:|
+|      |                     |                                     |       |
+| 2018 | California LA (#20) | student                             |   16% |
+| 2018 | Florida (#34)       | student                             |   42% |
+
+
+It shows how hard getting an EA job is. It takes [a few years to build
+up from no job to yes job](https://forum.effectivealtruism.org/posts/hcdwSvGntCDJxCuqx/examples-of-people-who-didn-t-get-into-ea-in-the-past-but). For Peter, apparently it took him 5
+years of hardwork to get to founding his own org. MSJ, to get an
+internship in CE, took 2-4 years and quite some hardwork (writing your
+own research, showing up at EA conferences, criticizing research
+etc...). For Saulius, it took about 2 years and 2 internships.
+
+I recently apped for an internship and didn't get it. I probably need
+to work on it for a few years and copy actions of these examples. In
+addition I really suck at understanding claims, so add a few more
+years?
+
+**Conclusion**: It could take about 2-5 years and "a lot of hard work"
+before I get into an EA org.
+
+## DS vs L1 ETG
+
+I am limiting my sight to DS only for it involves "critical thinking",
+working with statistics, working with claims, hypothesis testing etc.,
+unlike Computer science. Statistics is apparently useful for research
+as can be seen by what GiveWell and OPP seem to want via their job
+descriptions. Earning potential wise, it appears there is not "much
+difference" ([looking at the average salaries](https://medium.com/datadriveninvestor/which-is-more-promising-data-science-or-software-engineering-7e425e9ec4f4)). ~~Maybe I should
+look at FAANG in particular to check if there is a difference.~~
+
+Earning potential is quite high in the US. Earnings are substantially
+larger than here in Netherlands. I know DS people with 4yoe in Apple
+California earning 300k TC and others with similar in Walmart with
+300k TC. While here (Netherlands) people seem to be [earning
+78-103k](https://www.glassdoor.nl/Salarissen/Booking-com-Data-Scientist-Amsterdam-Salarissen-EJI_IE256653.0,11_KO12,26_IL.27,36_IM1112.htm?experienceLevel=ONE_TO_THREE) as per Glassdoor. With such salaries as in the US there
+are people like ([Jeff Kaufman](https://www.jefftk.com/donations)) who are able to donate 50%. This
+amounts to about 150k.
+
+There are 2 ways many people I know take, to get to US. People take
+the masters route, and then work towards an H1B visa which allows you
+to work there. The other route is the L1 route. In this case you work
+in say Amazon in India (for e.g.,) and then try to move to the US on
+an L1.
+
+**Probabilities**
+
+A lot of random factors are associated with working in US. Getting an
+H1B is based on lottery. Whether you are doing an L1 or Masters in the
+US you end up having to deal with H1B at some point. Either after
+Master's or before your L1 expires (<5years). There seems to be a 60%
+chance that a person like me will clear this hurdle [^2]. This is
+completely random and out of my control. This is including atleast 3
+tries at H1B (i.e., 1-3 years of applying).
+
+For the Masters route on top of this, I need to be able to be good
+enough that in 2-3 years I end up at FAANG or atleast the large corps
+like Walmart etc. I have seen examples of people in FAANG whom I know
+well, and thus think it is definitely within reach comparing myself to
+them. Worst case it should be possible to atleast get a DS job in
+California from where I can grow into FAANG. People are able to do
+bootcamps and join DS from different industries such as [Electrical
+Engineering](https://www.linkedin.com/in/shashankmaiya/). This suggests to me that it is definitely not out of
+reach.
+
+For the L1 route, the biggest hurdle would be to find a company that
+is L1-able. There are examples I have come across, across fields and
+countries. There are people who went all the way to JP Morgan in New
+York on an L1 after a few years in India???, [SWe engineers from India
+who are now in FAANG](https://www.linkedin.com/in/ramshandilya/). ~~People demanding a job in US because they
+are good and pushing for a job there.~~ Atleast for mechanical
+background, people from ASML Netherlands regularly work in the US for
+a few years on L1. It seems accessible. I have to look into the
+possibilities more.
+
+In addition, the US is not the most friendly place for workers
+rights. Once you loose a job you have [60 days to find another
+job](https://www.nolo.com/legal-encyclopedia/just-got-laid-off-h-1b-job-i-any-grace-period-can-i-another-visa-jobhunt.html). In times of recession (like in 2008 or during the Coronna
+period), the chance of loosing job seems to be about 15%[^5] and might
+mean a one way ticket back to home.  This comes to a multiplying
+factor of `84.6%`.
+
+**Costs**
+
+With the Master's route based on examples I have seen, 4 to 6 years to
+a FAANG 300k job (2-4 yoe +2 for masters). With the L1 route 2-3 years
+yoe + 2-5 years before getting H1B transfer. 4-8 years from now.
+
+I think I have to do an online masters atleast to be able to fight
+when the time comes to defend an RFE[^4] and also to improve chances
+with H1B[^9], in case I choose the L1
+route. Estimated at [20k](https://www.reddit.com/r/datascience/comments/7o21qw/berkeley_master_data_science_mids_vs_other_online/) for 2 years. But I will be working during
+that time and can cover my costs. With the regular masters route, I
+would have to spend 50-70k at a public university and mostly can't
+work during that time. Becoming a total of 
+
+**Conclusion**
+
+The fact that the probability reduces to below 50% is scary for both
+cases. In the Master's case this seems to imply that I could be in
+debt of 50-70k in case things don't work out (worst-case). Yes there
+are opportunities to get tuition waiver such as working as a teaching
+assistant, but that seems to be something that everyone is going to
+try for. This means that I have to pay my debt for another 5-7 years
+before I can potentially ETG again. For the L1 case, atleast I am not
+in going to be in debt. 
+
+In the Master's case I am afraid I will not have time to work on
+building skills needed for research work. First I start with GRE, get
+a job here in DS, working out the universities, applying, sending
+documents, talking to people about where to go etc. Combined with my
+actual 9-5 job I think there is not going to be much time. During
+Master's I tend to spend all my time to get better grades and working
+all the time on work, and applying to jobs. I would want to do
+everything in my power to learn skills needed and get good grades.
+
+In the Case with L1, if I end up working in Netherlands and doing a
+masters part-time, maybe the story is the same. Once I get to the US
+on L1 I will be working on getting an H1B type job. That would be the
+focus. So both cases I am unable to build EA related skills.
+
+Going to EAO might be "harder" than now as I would have passed
+several crucial years where I could have spent learning skills related
+to an EAO[^7].
+
+Considering the debt part alone and the reduced anxiety due to that, I
+would prefer the L1 route. It is still unclear what the chances are
+with meeting an L1-able company. L1 on the other hand also allows you
+to gain a few years (2-4y) experience before applying to FAANG. So, in
+theory if someone pays for my masters and I had "experience" (of 2-3
+years), then **both options are almost the same.**
+
+## plan
+
+- footnotes
+- re-write english
+(content is ok)
+- spell check
+- dollar check
+- tab footnotes
+
+## Footnotes
+
+[^2]: placeholder
+
+The number of times a person can apply for H1B on a Master's is around
+[3 times on a STEM OPT](https://www.quora.com/How-many-times-can-I-apply-for-a-H1B-visa-after-getting-STEM-Masters) (answer by Carlos Cueva). With an L1, we
+assume we are ready from the 3rd year on to apply for an H1B (having
+secured another job by then). So we will have the same 3 chances to
+apply for H1b. 
+
+**Note:** Some companies do not hire you in your OPT if you don't have
+[atleast 2 attempts](https://www.teamblind.com/post/FAANG-that-accepts-candidate-with-less-than-24-month-OPT-46DqLqvB). Also there is a possibility of applying with
+many H1B sponsors for the same year with different employers. So lets
+assume I have 3 tries for now.
+
+
+Based on a 50% split between the general pool and the advanced pool
+([which is what the DHS have assumed](https://www.happyschools.com/h1b-visa-2020-probability-lottery/)), we see that with 3 H1B
+attempts the chance of success is 80% for people with students with
+Masters.
+
+
+
+
+<!-- 2020-04-24-Data-Science.markdown has info on the probabilities -->
+<!-- and 2020-05-04-career-update.markdown -->
+
+
+
+[^3]: Around 3 million people max could be on H1B with the govt
+allowing 230k people every year and starting in 2009 with [650k
+people](https://cis.org/Memorandum/Estimating-Size-H1B-Population-US). And assuming all layoffs from tech are 200k (currently
+60k), we get to 6% layoffs. And mind you this number also has a decent
+proportion of Americans and gc holders. it includes all types of
+staff.
+
+https://layoffs.fyi/tracker/ currently 60k
+
+
+[^4]: rfe reasons
+
+[^5]: recession prolty
+
+Let's say there is a 10% chance of
+recession and a 6% chance [^6] of loosing your job in these times
+giving you a one way ticket to home.
+
+[^6]: harder to learn skills after 30
+
+[^7]: ^^6
+
+[^8]: **How bad is it to learn a skill in 35's or 40's as compared to
+30's?**
+
+https://www.ncbi.nlm.nih.gov/pubmed/3268226
+
+https://booksc.xyz/book/60896083/a4b624
+
+According to *Acquisition of word-processing skills by younger,
+middle-age, and older adults.*
+
+> The study included three age groups composed of 15 female subjects
+> each: younger (A/ age - 2 1 . 5 years. SD - 3.5. range 18-28): middle
+> age (M age -- 42.2 years. SD - 3.1, range = 37-481; and older (A/ age
+> =- 60.7 years SD = 3.6, range = 55-67).
+
+After roughly 21 hrs of training and excercises on word processing
+with SuperSCRIPT, subjects took one final exam which was
+timed. Earlier exams were also timed, but let's look at the last one.
+Younger batch got a mean of 87 and the middle batch got a mean of 106,
+i.e., 20% slower than the younger batch. The older batch were 68%
+slower compared to the younger batch. This is an example of how slow
+the mean learning of a person in the age of 37-48 could be.  It's not
+bad at all. There is a wide amount of uncertainty expressed in S.D=28
+mins. It is expected that when I am at 37 it could be much lower than 20%.
+
+This is "consistent" (alteast in the order of magnitude) with IQ:
+
+> The average 50-year-old can attain a certain IQ score with
+> only 85–90 percent of the performance speed typical of an individual in her
+> early 20s. --- Cambridge handbook
+
+I could also look at the P-value in this case. but not
+available. Atleast it is not too bad as with old people typically
+seeing s
+
+<!-- 2020-01-05-career-what-should-i-do-in-EAO-life-attempt-1.markdown -->
+
+[^9]: h1b online masters
+
+https://www.quora.com/Does-an-online-Masters-degree-have-any-impact-on-H1B-approval
+
+https://internationaloffice.berkeley.edu/h-1b_faqs#10
+
+https://www.murthy.com/2015/04/13/can-an-online-masters-degree-be-used-to-qualify-for-the-h1b-masters-exemption-what-about-a-masters-degree-from-a-part-time-or-evening-program/
+
+
+Need to verify more.. But looks like this is the shit people are
+selling everywhere.
