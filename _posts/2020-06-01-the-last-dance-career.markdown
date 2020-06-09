@@ -167,7 +167,7 @@ rights. Once you loose a job you have [60 days to find another
 job](https://www.nolo.com/legal-encyclopedia/just-got-laid-off-h-1b-job-i-any-grace-period-can-i-another-visa-jobhunt.html). In times of recession (like in 2008 or during the Corona
 period), the chance of loosing the job seems to be about 15%[^5] and
 might mean a one way ticket back to home. This comes to a multiplying
-factor of `85%`.
+factor of `89%`.
 
 For Master's route, I think I have "good" chances of getting a DS job
 in FAANG with 2-3 yoe (not including the H1B chances). I have seen
@@ -177,7 +177,7 @@ be possible to atleast get a DS job in California, from where I can
 grow into FAANG. People are able to do bootcamps and join DS from
 different industries such as [Electrical Engineering](https://www.linkedin.com/in/shashankmaiya/). This
 suggests to me that it is definitely not out of reach. Let's put this
-at `80%`. So in total, `60%x84.6%x80%=40%` chance of making it.
+at `80%`. So in total, `60%x89%x80%=42%` chance of making it.
 
 For the L1 route, the biggest hurdle would be to find a company that
 is L1-able. There are examples I have come across, across fields and
@@ -188,7 +188,7 @@ are good and pushing for a job there.~~ Atleast for mechanical
 background, people from ASML Netherlands regularly work in the US for
 a few years on L1. It seems accessible. I have to look into the
 possibilities more for DS people in Netherlands. Say `60-80%`
-chance. So in total, `30%` to `40%`.
+chance. So in total, `32%` to `42%`.
 
 **DS Costs (time and money)**
 
@@ -254,22 +254,24 @@ then **both options are "almost" the same.**
 
 The Impact with DS seems to be high in the order of 150k (and more
 maybe) donations. Getting a job in the US seems to be coming in with a
-probability of less than 50% be it Master's or be it the L1 route
-(most of them are not in my control).
+probability of less than 50% (most of which are not in my control) be
+it Master's or be it the L1 route .
 
-If this path is chosen, there is a good chance that I am unable to
-sink my teeth into up-skilling myself, to break into EA (during the
-4-8 years of pursuing this path). I would be in my 33-36's if I crash
-and burn. I am afraid its gonna be "much harder than now" to try EA as
-I would have passed several crucial years (4-7) where I could have
-spent learning skills related to an EA.
+If this path is chosen, there is a "good chance" that I am unable to
+sink my teeth into up-skilling myself in other things such as EA
+(during the 4-8 years of pursuing this path). 
+
+I would be in my 33-36's if I crash and burn. I am afraid its gonna be
+"much harder than now" to try EA as I would have passed several
+crucial years (4-7) where I could have spent learning skills related
+to an EA.
 
 **EA route**
 
 So far we have seen that breaking into EA can take 2-5 years and a
 "lot of hard work". The probabilities for success are unclear, but the
-impact seems to have a lot of potential i.e., >350k`$` (the lower limit
-could be as low as few k's; very hard to estimate currently).
+impact seems to have a lot of potential i.e., >350k`$` (the lower
+limit could be as low as few k`$`; very hard to estimate currently).
 
 If this path is chosen, it means that I still need a day job (25-40
 hrs). Continuing to work on my usual MechE job is possible until a
@@ -284,7 +286,9 @@ started with DS.
 
 Having to restart after 4-8 years "sounds like a bad idea". I will be
 older in my 34s to 38s, and am not sure about how it is perceived and
-if I can get a master's at that time, if I can move jobs etc...
+if I can get a master's at that time, if I can move jobs etc. Also
+learning skills is supposed to be harder in some cases as you move to
+a middle age (37-48)[^10].
 
 However there seems to be a "better" route. Instead of uselessly
 clocking time on MechE, and not having back-up options, I could first
@@ -306,7 +310,7 @@ and when I crash and burn, I wont be starting anything from scratch.
 	secured another job by then). So we will have the same 3 chances to
 	apply for H1b. 
 
-	**Note:** Some companies do not hire you in your OPT and don't have
+	**Note:** Some companies do not hire you in your OPT if you don't have
 	[atleast 2 attempts](https://www.teamblind.com/post/FAANG-that-accepts-candidate-with-less-than-24-month-OPT-46DqLqvB) left. Also there is a possibility of applying
 	with many H1B sponsors for the same year with different employers. So
 	lets assume I have 3 tries for now.
@@ -317,35 +321,40 @@ and when I crash and burn, I wont be starting anything from scratch.
 
 	After you are selected in the lottery, you are either approved or
 	rejected or requested for an [RFE](https://goh1b.com/en/blog/2019/07/02/what-does-h1b-rfe-mean-most-common-reasons/). The cases for RFE have become
-	"much higher" [(33% in 2019 from 10% in 2016)](https://www.forbes.com/sites/stuartanderson/2019/08/08/latest-uscis-data-show-increase-in-denials-for-new-h-1b-visas/#5443e3417cc4) over the trump era
-	and one of the things they seem to be scrutinizing the people for not
+	"much higher" [(33% in 2019 from 10% in
+	2016)](https://www.forbes.com/sites/stuartanderson/2019/08/08/latest-uscis-data-show-increase-in-denials-for-new-h-1b-visas/#5443e3417cc4)
+	over the trump era. One of the things they seem to be scrutinizing
+	the people is for not
 	having the **right background/experience for the work**. This comes
 	under "Beneficiary qualifications". Naturally, this scares me as I
-	have a mechanical Master's and Bachelor's. Another common issue seen
-	is called "Speciality Occupation". The **position needs to qualify as
-	a speciality occupation**. Apparently[ USCIS does not usually think a
-	job is "special enough", if they don't seem to have the need of
+	have a mechanical Master's and Bachelor's. Another common reason
+	issued by the USCIS is called "Speciality Occupation". The **position needs to qualify as
+	a speciality occupation**. Apparently [USCIS does not usually think a
+	job is "special enough", if they don't have the need for a 
 	relevant bachelor's](https://ogletree.com/insights/uscis-issues-top-10-reasons-for-h-1b-requests-for-evidence/). If you look on [trackitt](https://www.trackitt.com/usa-immigration-trackers/h1b), you do see that
-	"most" of the rejects are cited based on this "Specialty Occupation"
+	"most" of the RFEs are cited based on this "Specialty Occupation"
 	or "lack of relevant degree" (Beneficiary qualifications I presume). I
 	seem like a prime suspect for atleast lack of "beneficiary
 	qualifications". Thus, I take a 100% chance of getting an RFE.
 
 	Whether the RFE gets approved or not seems to be random. There are
 	cases of people with Bachelor's and Master's in Mechanical who have
-	made it to software job after their RFEs ([ronaldo7!](https://www.teamblind.com/post/6mTKzvNm),[tiger12](https://www.teamblind.com/post/H1B-RFE-Data-Scientist-III-PqF7wkMk))
+	made it to software job after their RFEs
+	([ronaldo7!](https://www.teamblind.com/post/6mTKzvNm), [tiger12](https://www.teamblind.com/post/H1B-RFE-Data-Scientist-III-PqF7wkMk))
 	post 2018. And then there are people with Master's in Financial
 	Mathematics who are denied after their RFE to a CS/DS job
 	([9mineHwang](https://www.teamblind.com/post/Im-a-data-scientist-and-I-got-a-H1B-RFE-again-UvhDqaXm)). A Hiring manager at Amazon sums up what a giant
 	cluster fuck of a mess it is: "One of my report’s visa was rejected
 	saying the job is not a specialty occupation and doesn’t need
-	bachelors degree which is ridiculous as why would Amazon pay that
-	person $300K per year for a non-specialty job.  The decision on visa
+	Bachelor's degree which is ridiculous as why would Amazon pay that
+	person 300K`$` per year for a non-specialty job.  The decision on visa
 	application has become so arbitrary that the outcome is not known.
 	One employee has one application rejected and the same application was
 	approved the second time."---[hiring manager Amazon](https://www.teamblind.com/post/Immigration-Mess-sAYGCXgg). 
 
-	[According to Fragoman](https://www.fragomen.com/insights/alerts/latest-uscis-data-confirm-continued-high-rates-nonimmigrant-rfes-and-denials-fy-2019) the Success amounts to 60.4%. So, `41.9% x
+	[According to
+	Fragoman](https://www.fragomen.com/insights/alerts/latest-uscis-data-confirm-continued-high-rates-nonimmigrant-rfes-and-denials-fy-2019)
+	the success of RFE approval amounts to 60.4%. So, `41.9% x
 	100% x 60.4%=25.3%` for 1 attempt of H1B. Over three attempts the
 	chance becomes `1-(1-25.3%)^3`=58%.
 
@@ -360,13 +369,13 @@ and when I crash and burn, I wont be starting anything from scratch.
     relevant degree" (Beneficiary qualifications I presume). I seem
     like a prime suspect for atleast lack of "beneficiary
     qualifications". Defending a Data science related RFE of
-    `Beneficiary qualifications` with Mechanical degree (Bachelor's
+    `Beneficiary Qualifications` with Mechanical degree (Bachelor's
     and Master's) might turn out to be hard or atleast incentivizing
     people at USCIS to reject me. People with Electronics backgrounds
-    with such a "BQ" RFE, seem to show how each subject is related to
-    computer science in their rebuttal to USCIS.
+    with such a "Beneficiary Qualifications" RFE, for a CS job, seem to show how each subject is related to
+    computer science in their rebuttal to USCIS. 
 	
-	Despite the fact that the RFE rejections looking random--as they even
+	Despite the fact that the RFE rejections are looking random--as they even
 	[reject CS students for SWe jobs](https://www.teamblind.com/post/RFE-TIMELINES-FOR-FEB-2020-mbNwVE8r)--it appears that pushing for a
 	degree *might help* an RFE with "Beneficiary Qualifications" atleast.
 
@@ -375,9 +384,8 @@ and when I crash and burn, I wont be starting anything from scratch.
 [^5]: **Probability of layoffs**
 
 	US has "had" about [8 recessions in a span of 70
-	years](https://en.wikipedia.org/wiki/List_of_recessions_in_the_United_States). Assuming
-	those are the only real times when your job is in danger we have the
-	probability of no recession at: `11.4%`
+		years](https://en.wikipedia.org/wiki/List_of_recessions_in_the_United_States). Probability
+		of recession is `11.4%`. It is assumed that those are the only real times when your job is in danger.
 
 	**% Layoffs during a recession for H1B people**
 
@@ -386,16 +394,16 @@ and when I crash and burn, I wont be starting anything from scratch.
 	3m H1B people in the US.
 
 	The logged layoffs in this current "recession" due to the pandemic
-	fucking things up for H1B users in tech startups is logged at
+	fucking things up for H1B users in tech startups, is logged at
 	[layoffs.fyi](https://layoffs.fyi/tracker/). It is currently 60k. If we assume all layoffs to be
-	a factor 3 greater i.e., ~200k we get to *6% layoffs*. And mind you
-	this number also has a "proportion" of Americans and GC holders and
-	even layoffs in other countries, and hence appearing to be
+	a factor 3 greater i.e., ~200k, we get to *6% layoffs*. And mind you
+	this number also has a "portion" of Americans and GC holders and
+	even layoffs in other countries, and hence appears to be
 	conservative.
 
-	**The chance that you get laid off is**
+	**The chance that you don't get laid off is**:
 
-	`(1-8/70)x(1-6%) = 83%`
+	`(1-8/70)+8/70x6% = 89%`
 
 <!-- [^7]: **How bad is it to learn a new skill in 35's or 40's as compared -->
 <!-- to 30's?** -->
@@ -436,10 +444,10 @@ and when I crash and burn, I wont be starting anything from scratch.
 
 [^9]: There is a difference of 15% in making the lottery, depending on
 	if you are part of the Master's cap or regular cap. I have a
-	masters from a non-US university which does not seem to cut it to
+	masters from a non-US university which does not seem to cut it, to
 	be part of the Masters pool in H1B. To be part of this Master's
-	pool, I an online masters from the US seems to cut it, according
-	to [Murthy Law firm](https://www.murthy.com/2015/04/13/can-an-online-masters-degree-be-used-to-qualify-for-the-h1b-masters-exemption-what-about-a-masters-degree-from-a-part-time-or-evening-program/):
+	pool, an online masters from the US seems to cut it, according to
+	[Murthy Law firm](https://www.murthy.com/2015/04/13/can-an-online-masters-degree-be-used-to-qualify-for-the-h1b-masters-exemption-what-about-a-masters-degree-from-a-part-time-or-evening-program/):
 
 	> The advanced degree exemption requires a degree from an accredited,
 	> nonprofit U.S. college or university. It does not matter if the
@@ -451,3 +459,14 @@ and when I crash and burn, I wont be starting anything from scratch.
 	
 
 	
+[^10]: "Acquisition of Word-Processing Skills by Younger,
+	Middle-Age, and Older Adults"
+	
+	> The study included three age groups composed of 15 female subjects
+	> each: younger (M age - 21. 5 years. SD - 3.5. range 18-28): middle
+	> age (M age - 42.2 years. SD - 3.1, range = 37-48; and older (M age
+	> - 60.7 years SD = 3.6, range = 55-67)
+
+	> On Item 5 (differentiating between regular and align tabs) both the
+	> middle-age and the older group performed less well than the younger group, but did not differ between themselves (p < .05).
+
