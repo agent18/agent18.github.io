@@ -9,6 +9,9 @@ permalink: /:title.html
 published: true
 ---
 
+**Disclaimer:** If you are an org looking at my blog as a reflection
+of what I am capable of, please choose another post. This is very
+experimental and "incomplete" in parts.
 
 ## Entry question
 

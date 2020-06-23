@@ -1,12 +1,151 @@
 #+COLUMNS: %7TODO(To Do) %40ITEM(Task) %10CLOCKSUM(Clock)
-* Statistics khan academy
-** Analyzing Categorical data (direct quiz)
+#+TAGS: work(w)  DP(d) break(b) meta(m) DS(s) blog(g) other(o) reading(r) NATW(n)
+* Applying to HLI volunteering                                        :other:
+** Counted for work                                                    :work:
+*** Prepping for task
+CLOCK: [2020-06-21 zo 19:55]--[2020-06-21 zo 21:48] =>  1:53
+CLOCK: [2020-06-21 zo 13:03]--[2020-06-21 zo 13:46] =>  0:43
+CLOCK: [2020-06-21 zo 11:57]--[2020-06-21 zo 12:50] =>  0:53
+
+*** Looking for content
+
+
+*** other
+*** DPing 1 hr a day                                                     :DP:
+
+
+** Other useful stuff                                                 :meta:
+*** Work done for STM 
+
+** Not counted for DP                                                :break:
+CLOCK: [2020-06-22 ma 21:37]--[2020-06-22 ma 22:00] =>  0:23
+CLOCK: [2020-06-21 zo 13:46]--[2020-06-21 zo 14:40] =>  0:54
+*** Breaks
+**** Working on Org mode
+**** Dreaming
+**** Random
+*** Sleeping 
+*** Watching Youtube
+*** Playing with phone
+
+*today
+
+finish settling money with achu
+
+watch porn and sleep
+plan for friday to celebrate guns bday
+picnic
+
+for work
+
+Randomization 
+send mail about carpooling 
+final mail (weather and shit)
+
+buy holidays tomorow
+buy shares figure out tomo
+* DP Mission 7 on refining claims (200)                                :blog:
+** Counted for work                                                    :work:
+*** Prepping for task
+CLOCK: [2020-06-21 zo 08:31]--[2020-06-21 zo 10:21] =>  1:50
+CLOCK: [2020-06-20 za 22:49]--[2020-06-20 za 23:10] =>  0:21
+CLOCK: [2020-06-20 za 21:49]--[2020-06-20 za 22:34] =>  0:45
+CLOCK: [2020-06-20 za 18:21]--[2020-06-20 za 20:06] =>  1:45
+CLOCK: [2020-06-20 za 13:32]--[2020-06-20 za 14:20] =>  0:48
+CLOCK: [2020-06-20 za 13:00]--[2020-06-20 za 13:31] =>  0:31
+CLOCK: [2020-06-20 za 11:48]--[2020-06-20 za 12:34] =>  0:46
+*** Looking for content
+CLOCK: [2020-06-22 ma 20:19]--[2020-06-22 ma 21:18] =>  0:59
+*** DPing                                                              :DP:
+CLOCK: [2020-06-23 di 19:08]
+CLOCK: [2020-06-22 ma 22:00]--[2020-06-22 ma 22:05] =>  0:05
+CLOCK: [2020-06-22 ma 21:18]--[2020-06-22 ma 21:37] =>  0:19
+** Other useful stuff (setting up org tags)                            :meta:
+CLOCK: [2020-06-20 za 09:20]--[2020-06-20 za 10:54] =>  1:34
+** Not counted for DP                                                :break:
+*** Breaks
+CLOCK: [2020-06-20 za 20:07]--[2020-06-20 za 21:49] =>  1:42
+CLOCK: [2020-06-20 za 14:30]--[2020-06-20 za 14:54] =>  0:24
+CLOCK: [2020-06-20 za 10:54]--[2020-06-20 za 11:48] =>  0:54
+CLOCK: [2020-06-20 za 09:30]--[2020-06-20 za 09:31] =>  0:01
+**** Working on Org mode
+**** Dreaming
+**** Random
+CLOCK: [2020-06-21 zo 10:22]--[2020-06-21 zo 11:57] =>  1:35
+*** Sleeping 
+CLOCK: [2020-06-20 za 12:34]--[2020-06-20 za 13:00] =>  0:26
+*** Watching Youtube
+*** Playing with phone
+
+*today
+
+finish settling money with achu
+
+watch porn and sleep
+plan for friday to celebrate guns bday
+picnic
+
+for work
+
+Randomization 
+send mail about carpooling 
+final mail (weather and shit)
+
+buy holidays tomorow
+buy shares figure out tomo
+* Kaggle                                                                 :DS:
+** setting up pythiath                                                :work:
+CLOCK: [2020-06-18 do 21:04]--[2020-06-18 do 21:04] =>  0:00
+CLOCK: [2020-06-18 do 20:04]--[2020-06-18 do 21:04] =>  1:00
+CLOCK: [2020-06-17 wo 19:46]--[2020-06-17 wo 20:54] =>  1:08
+CLOCK: [2020-06-17 wo 07:15]--[2020-06-17 wo 08:15] =>  1:00
+CLOCK: [2020-06-15 ma 20:32]--[2020-06-15 ma 20:36] =>  0:04
+CLOCK: [2020-06-15 ma 20:18]--[2020-06-15 ma 20:18] =>  0:00
+CLOCK: [2020-06-15 ma 20:12]--[2020-06-15 ma 20:16] =>  0:04
+CLOCK: [2020-06-15 ma 20:06]--[2020-06-15 ma 20:11] =>  0:05
+CLOCK: [2020-06-15 ma 20:05]--[2020-06-15 ma 20:06] =>  0:01
+CLOCK: [2020-06-15 ma 19:45]--[2020-06-15 ma 19:56] =>  0:11
+CLOCK: [2020-06-14 zo 22:50]--[2020-06-14 zo 22:51] =>  0:01
+CLOCK: [2020-06-14 zo 21:07]--[2020-06-14 zo 22:43] =>  1:36
+CLOCK: [2020-06-14 zo 20:47]--[2020-06-14 zo 21:07] =>  0:20
+CLOCK: [2020-06-14 zo 19:06]--[2020-06-14 zo 20:21] =>  1:15
+CLOCK: [2020-06-14 zo 12:50]--[2020-06-14 zo 14:00] =>  1:10
+CLOCK: [2020-06-14 zo 12:15]--[2020-06-14 zo 12:36] =>  0:21
+CLOCK: [2020-06-14 zo 09:13]--[2020-06-14 zo 11:09] =>  1:56
+CLOCK: [2020-06-13 za 19:04]--[2020-06-13 za 20:17] =>  1:13
+CLOCK: [2020-06-13 za 13:40]--[2020-06-13 za 14:04] =>  0:24
+** Breaks                                                            :break:
+CLOCK: [2020-06-18 do 21:04]--[2020-06-18 do 22:43] =>  1:39
+CLOCK: [2020-06-17 wo 20:55]--[2020-06-18 do 18:45] => 21:50
+CLOCK: [2020-06-15 ma 20:18]--[2020-06-15 ma 20:32] =>  0:14
+CLOCK: [2020-06-14 zo 20:21]--[2020-06-14 zo 20:47] =>  0:26
+CLOCK: [2020-06-14 zo 12:36]--[2020-06-14 zo 12:50] =>  0:14
+CLOCK: [2020-06-14 zo 11:09]--[2020-06-14 zo 12:15] =>  1:06
+* data science what to do                                                :DS:
+** Work types                                                         :work:
+  CLOCK: [2020-06-13 za 18:44]--[2020-06-13 za 18:45] =>  0:01
+  CLOCK: [2020-06-13 za 12:28]--[2020-06-13 za 12:45] =>  0:17
+  CLOCK: [2020-06-13 za 12:05]--[2020-06-13 za 12:23] =>  0:18
+  CLOCK: [2020-06-13 za 10:07]--[2020-06-13 za 10:45] =>  0:38
+  CLOCK: [2020-06-11 do 22:22]--[2020-06-11 do 22:41] =>  0:19
+  CLOCK: [2020-06-11 do 21:10]--[2020-06-11 do 21:51] =>  0:41
+  CLOCK: [2020-06-11 do 20:08]--[2020-06-11 do 20:30] =>  0:22
+
+** break                                                             :break:
+CLOCK: [2020-06-13 za 20:17]--[2020-06-13 za 20:37] =>  0:20
+CLOCK: [2020-06-13 za 18:45]--[2020-06-13 za 19:04] =>  0:19
+CLOCK: [2020-06-13 za 14:04]--[2020-06-13 za 18:44] =>  4:40
+  CLOCK: [2020-06-11 do 21:51]--[2020-06-11 do 22:22] =>  0:31
+  CLOCK: [2020-06-11 do 20:31]--[2020-06-11 do 21:05] =>  0:34
+
+* Statistics khan academy                                                :DS:
+** Analyzing Categorical data (direct quiz)                           :work:
 CLOCK: [2020-05-28 do 20:34]--[2020-05-28 do 21:11] =>  0:37
 CLOCK: [2020-05-28 do 19:35]--[2020-05-28 do 20:17] =>  0:42
-** break
+** break                                                             :break:
 CLOCK: [2020-05-28 do 21:11]--[2020-05-28 do 22:51] =>  1:40
 CLOCK: [2020-05-28 do 20:18]--[2020-05-28 do 20:34] =>  0:16
-* HPMOR
+* HPMOR                                                        :reading:NATW:
 ** ch21
 CLOCK: [2020-05-21 do 23:22]--[2020-05-21 do 23:59] =>  0:37
 ** ch22
@@ -14,8 +153,8 @@ CLOCK: [2020-05-23 za 18:15]--[2020-05-23 za 18:45] =>  0:30
 ** Ch23
 CLOCK: [2020-05-25 ma 23:00]--[2020-05-26 di 00:06] =>  1:06
 
-* Career Decision (week of epicness 2)
-** Counted for DP
+* Career Decision (week of epicness 2)                                 :blog:
+** Counted for DP                                                     :work:
 *** Prepping for task
     CLOCK: [2020-05-21 do 17:43]--[2020-05-21 do 19:46] =>  2:03
     CLOCK: [2020-05-21 do 11:15]--[2020-05-21 do 12:00] =>  0:45
@@ -23,8 +162,8 @@ CLOCK: [2020-05-25 ma 23:00]--[2020-05-26 di 00:06] =>  1:06
 
 *** Looking for content
 
-*** DPing 
-*** Thinking and writing
+*** DPing                                                              :DP:
+*** Thinking and writing                                               :DP:
 CLOCK: [2020-05-26 di 21:00]--[2020-05-26 di 21:12] =>  0:12
 CLOCK: [2020-05-26 di 18:30]--[2020-05-26 di 19:30] =>  1:00
 CLOCK: [2020-05-26 di 16:11]--[2020-05-26 di 16:26] =>  0:15
@@ -91,10 +230,10 @@ CLOCK: [2020-06-03 wo 22:09]--[2020-06-03 wo 22:54] =>  0:45
 CLOCK: [2020-06-03 wo 20:01]--[2020-06-03 wo 21:19] =>  1:18
 CLOCK: [2020-06-03 wo 19:22]--[2020-06-03 wo 20:00] =>  0:38
 CLOCK: [2020-06-03 wo 18:27]--[2020-06-03 wo 19:00] =>  0:33
-** Other useful stuff
+** Other useful stuff                                                 :meta:
 *** Work done for STM 
 
-** Not counted for DP
+** Not counted for DP                                                :break:
 CLOCK: [2020-06-06 za 17:10]--[2020-06-06 za 18:18] =>  1:08
 CLOCK: [2020-06-06 za 15:58]--[2020-06-06 za 16:25] =>  0:27
 CLOCK: [2020-06-01 ma 13:52]--[2020-06-01 ma 14:50] =>  0:58
@@ -152,8 +291,8 @@ final mail (weather and shit)
 
 buy holidays tomorow
 buy shares figure out tomo 
-* DP Claims TC
-** Counted for DP
+* DP Claims TC                                                         :blog:
+** Counted for DP                                                     :work:
 *** Prepping for task
 CLOCK: [2020-05-05 di 22:09]--[2020-05-05 di 22:09] =>  0:00
 CLOCK: [2020-05-05 di 19:58]--[2020-05-05 di 20:10] =>  0:12
@@ -161,7 +300,7 @@ CLOCK: [2020-05-05 di 19:22]--[2020-05-05 di 19:58] =>  0:36
 
 *** Looking for content
 
-*** Identifying narrow claims
+*** Identifying narrow claims                                          :DP:
 CLOCK: [2020-05-08 vr 19:14]--[2020-05-08 vr 19:32] =>  0:18
 CLOCK: [2020-05-08 vr 00:06]--[2020-05-08 vr 00:58] =>  0:52
 CLOCK: [2020-05-07 do 19:11]--[2020-05-07 do 19:36] =>  0:25
@@ -169,9 +308,9 @@ CLOCK: [2020-05-06 wo 19:07]--[2020-05-06 wo 19:33] =>  0:26
 CLOCK: [2020-05-05 di 21:11]--[2020-05-05 di 22:09] =>  0:58
 CLOCK: [2020-05-05 di 20:18]--[2020-05-05 di 20:35] =>  0:17
 
-*** Claims from other sources
+*** Claims from other sources                                          :DP:
 CLOCK: [2020-05-08 vr 21:16]--[2020-05-08 vr 22:13] =>  0:57
-*** Claims and examples all of it
+*** Claims and examples all of it                                      :DP:
 CLOCK: [2020-05-10 zo 10:47]--[2020-05-10 zo 11:05] =>  0:18
 CLOCK: [2020-05-09 za 22:29]--[2020-05-09 za 22:33] =>  0:04
 CLOCK: [2020-05-09 za 20:35]--[2020-05-09 za 21:56] =>  1:21
@@ -186,9 +325,9 @@ CLOCK: [2020-05-09 za 04:00]--[2020-05-09 za 04:30] =>  0:30
 CLOCK: [2020-05-08 vr 21:09]--[2020-05-08 vr 21:11] =>  0:02
 CLOCK: [2020-05-08 vr 20:24]--[2020-05-08 vr 20:28] =>  0:04
 CLOCK: [2020-05-08 vr 19:32]--[2020-05-08 vr 20:24] =>  0:52
-*** Thinking about rejection rates vs surveys
+*** Thinking about rejection rates vs surveys                          :DP:
  
-*** Thinking about other stuff
+*** Thinking about other stuff                                         :DP:
 *** writing
 CLOCK: [2020-05-20 wo 12:35]--[2020-05-20 wo 14:48] =>  2:13
 CLOCK: [2020-05-19 di 23:24]--[2020-05-19 di 23:36] =>  0:12
@@ -240,7 +379,7 @@ CLOCK: [2020-05-10 zo 11:05]--[2020-05-10 zo 11:56] =>  0:51
 *** reshuffling
 CLOCK: [2020-05-20 wo 09:56]--[2020-05-20 wo 10:19] =>  0:23
 CLOCK: [2020-05-20 wo 07:49]--[2020-05-20 wo 09:11] =>  1:22
-*** re-re-writing
+*** re-re-writing                                                      :DP:
 CLOCK: [2020-05-20 wo 10:50]--[2020-05-20 wo 11:13] =>  0:23
 *** re-re-re-writing
 
@@ -254,10 +393,10 @@ CLOCK: [2020-05-30 za 17:34]--[2020-05-30 za 18:39] =>  1:05
 CLOCK: [2020-05-30 za 10:11]--[2020-05-30 za 10:55] =>  0:44
 CLOCK: [2020-05-29 vr 19:50]--[2020-05-29 vr 21:00] =>  1:10
 CLOCK: [2020-05-29 vr 18:23]--[2020-05-29 vr 19:12] =>  0:49
-** Other useful stuff
+** Other useful stuff                                                 :meta:
 *** Work done for STM 
 
-** Not counted for DP
+** Not counted for DP                                                :break:
 CLOCK: [2020-05-31 zo 11:56]--[2020-05-31 zo 12:54] =>  0:58
 CLOCK: [2020-05-31 zo 10:20]--[2020-05-31 zo 10:55] =>  0:35
 *** Breaks
@@ -332,15 +471,15 @@ final mail (weather and shit)
 buy holidays tomorow
 buy shares figure out tomo
 
-* practicing typing
+* practicing typing                                                    :NATW:
 ** everyday
 CLOCK: [2020-02-09 zo 12:30]--[2020-02-09 zo 13:09] =>  0:39
 CLOCK: [2020-02-02 zo 11:07]--[2020-02-02 zo 12:01] =>  0:54 
-* WC-mode project Pandian
+* WC-mode project Pandian                                              :NATW:
 CLOCK: [2020-04-24 vr 21:30]--[2020-04-24 vr 22:42] =>  1:12
 
-* Career Decision (week of epicness)
-** Restarting after TC
+* Career Decision (week of epicness)                                   :blog:
+** Restarting after TC                                                :work:
 CLOCK: [2020-04-25 za 11:39]--[2020-04-25 za 11:39] =>  0:00
 CLOCK: [2020-04-24 vr 20:34]--[2020-04-24 vr 21:05] =>  0:31
 CLOCK: [2020-04-24 vr 20:18]--[2020-04-24 vr 20:32] =>  0:14
@@ -359,7 +498,7 @@ CLOCK: [2020-04-14 di 19:57]--[2020-04-14 di 20:33] =>  0:36
 CLOCK: [2020-04-14 di 18:46]--[2020-04-14 di 19:30] =>  0:44
 CLOCK: [2020-04-14 di 18:21]--[2020-04-14 di 18:26] =>  0:05
 
-** Data Science
+** Data Science                                                       :work:
 CLOCK: [2020-05-02 za 12:53]--[2020-05-02 za 13:22] =>  0:29
 CLOCK: [2020-05-02 za 10:32]--[2020-05-02 za 11:55] =>  1:23
 CLOCK: [2020-05-01 vr 17:34]--[2020-05-01 vr 17:34] =>  0:00
@@ -392,7 +531,7 @@ CLOCK: [2020-04-25 za 22:31]--[2020-04-26 zo 01:35] =>  3:04
 CLOCK: [2020-04-25 za 18:42]--[2020-04-25 za 21:08] =>  2:26
 CLOCK: [2020-04-25 za 11:39]--[2020-04-25 za 14:30] =>  2:15
 
-** Working in EAO
+** Working in EAO                                                     :work:
 CLOCK: [2020-05-03 zo 21:13]--[2020-05-03 zo 22:32] =>  1:19
 CLOCK: [2020-05-03 zo 19:47]--[2020-05-03 zo 20:48] =>  1:01
 CLOCK: [2020-05-03 zo 19:21]--[2020-05-03 zo 19:32] =>  0:11
@@ -405,7 +544,7 @@ CLOCK: [2020-05-02 za 20:11]--[2020-05-02 za 20:41] =>  0:30
 CLOCK: [2020-05-02 za 13:22]--[2020-05-02 za 14:10] =>  0:48
 *** replaceability
 
-** Wrapping it up for now
+** Wrapping it up for now                                             :work:
 *** DS
 CLOCK: [2020-05-04 ma 11:18]--[2020-05-04 ma 12:30] =>  1:12
 CLOCK: [2020-05-04 ma 10:08]--[2020-05-04 ma 10:46] =>  0:38
@@ -418,8 +557,8 @@ CLOCK: [2020-05-04 ma 13:37]--[2020-05-04 ma 14:33] =>  0:56
 *** other writing
 CLOCK: [2020-05-04 ma 21:29]--[2020-05-04 ma 22:19] =>  0:50
 *** other 
-** reasoning
-** breaks
+** reasoning                                                          :work:
+** breaks                                                            :break:
 *** lunch
 CLOCK: [2020-05-04 ma 12:30]--[2020-05-04 ma 13:37] =>  1:07
 CLOCK: [2020-05-03 zo 19:47]--[2020-05-03 zo 19:50] =>  0:03
@@ -465,17 +604,17 @@ CLOCK: [2020-05-02 za 20:41]--[2020-05-02 za 20:58] =>  0:17
 CLOCK: [2020-04-30 do 19:56]--[2020-04-30 do 20:21] =>  0:25
 CLOCK: [2020-04-29 wo 20:12]--[2020-04-29 wo 20:21] =>  0:09
 CLOCK: [2020-04-28 di 19:36]--[2020-04-28 di 19:56] =>  0:20
-* Written Exam 1(failed) :( 
-** what I did the previous time
+* Written Exam 1(failed) :(                                      :blog:other:
+** what I did the previous time                                       :work:
 CLOCK: [2020-04-16 do 18:39]--[2020-04-16 do 18:44] =>  0:05
-** Preparing with CE material
+** Preparing with CE material                                         :work:
 CLOCK: [2020-04-15 wo 21:24]--[2020-04-15 wo 22:08] =>  0:44
 CLOCK: [2020-04-15 wo 20:06]--[2020-04-15 wo 20:25] =>  0:19
 CLOCK: [2020-04-15 wo 18:58]--[2020-04-15 wo 19:28] =>  0:30
 CLOCK: [2020-04-15 wo 18:20]--[2020-04-15 wo 18:43] =>  0:23
-** Making process ahead of time /planning
+** Making process ahead of time /planning                             :work:
 CLOCK: [2020-04-15 wo 20:25]--[2020-04-15 wo 20:46] =>  0:21
-** actual 5hrs
+** actual 5hrs                                                        :work:
 CLOCK: [2020-04-16 do 21:49]--[2020-04-16 do 21:49] =>  0:00
 *** Fam with bibliotherapy (20mins)
 CLOCK: [2020-04-15 wo 22:17]--[2020-04-15 wo 22:36] =>  0:19
@@ -505,26 +644,26 @@ CLOCK: [2020-04-17 vr 01:28]--[2020-04-17 vr 01:49] =>  0:21
 CLOCK: [2020-04-17 vr 01:08]--[2020-04-17 vr 01:28] =>  0:20
 *** spell-check and final read and adding links (45 mins)
 CLOCK: [2020-04-17 vr 01:49]--[2020-04-17 vr 01:58] =>  0:09
-** Wrapping up and sending to GB
+** Wrapping up and sending to GB                                      :work:
 CLOCK: [2020-04-17 vr 01:58]--[2020-04-17 vr 02:14] =>  0:16
 CLOCK: [2020-04-17 vr 01:57]--[2020-04-17 vr 01:57] =>  0:00
 *** writing explanation of hours
-** time spent downloading and finding papers manually online.
+** time spent downloading and finding papers manually online.         :work:
 CLOCK: [2020-04-16 do 20:10]--[2020-04-16 do 20:14] =>  0:04
-** breaks
+** breaks                                                            :break:
 CLOCK: [2020-04-16 do 21:50]--[2020-04-16 do 22:53] =>  1:03
 CLOCK: [2020-04-15 wo 20:46]--[2020-04-15 wo 21:24] =>  0:38
 CLOCK: [2020-04-15 wo 19:28]--[2020-04-15 wo 20:06] =>  0:38
 CLOCK: [2020-04-15 wo 18:43]--[2020-04-15 wo 18:58] =>  0:15
 
-* Preparing for the indrew with CE for internship
-** checking
+* Preparing for the indrew with CE for internship                      :blog:
+** checking                                                           :work:
 I usually use skype for calls, my Skype name is live:georgebridgwater
 or you can search for me using my email address:
 Georgebridgwater@googlemail.com.
 
 CLOCK: [2020-04-06 ma 18:57]--[2020-04-06 ma 19:41] =>  0:44
-** What do I need to know:
+** What do I need to know:                                            :work:
 CLOCK: [2020-04-11 za 14:21]--[2020-04-11 za 14:22] =>  0:01
 CLOCK: [2020-04-11 za 11:05]--[2020-04-11 za 12:40] =>  1:35
 CLOCK: [2020-04-11 za 09:34]--[2020-04-11 za 10:39] =>  1:05
@@ -610,7 +749,7 @@ CLOCK: [2020-04-13 ma 09:13]--[2020-04-13 ma 09:48] =>  0:35
 *** Indrew
 CLOCK: [2020-04-13 ma 12:56]--[2020-04-13 ma 14:01] =>  1:05
 *** time wasting dreaming
-** Breaks
+** Breaks                                                            :break:
 CLOCK: [2020-04-13 ma 09:48]--[2020-04-13 ma 12:56] =>  3:08
 CLOCK: [2020-04-12 zo 21:49]--[2020-04-12 zo 22:19] =>  0:30
 CLOCK: [2020-04-12 zo 14:13]--[2020-04-12 zo 20:40] =>  6:27
@@ -629,11 +768,11 @@ CLOCK: [2020-04-07 di 19:30]--[2020-04-07 di 19:34] =>  0:04
 CLOCK: [2020-04-06 ma 22:33]--[2020-04-06 ma 22:49] =>  0:16
 CLOCK: [2020-04-06 ma 19:52]--[2020-04-06 ma 20:34] =>  0:42
 
-* Applying for CE internship
-** Getting CV thing to work
+* Applying for CE internship                                     :blog:other:
+** Getting CV thing to work                                           :work:
 CLOCK: [2020-03-26 do 21:16]--[2020-03-26 do 22:38] =>  1:22
 CLOCK: [2020-03-25 wo 20:22]--[2020-03-25 wo 21:18] =>  0:56
-** Writing CV
+** Writing CV                                                         :work:
 CLOCK: [2020-03-29 zo 11:00]--[2020-03-29 zo 12:10] =>  1:15
 CLOCK: [2020-03-28 za 20:40]--[2020-03-28 za 22:20] =>  2:04
 CLOCK: [2020-03-28 za 16:10]--[2020-03-28 za 18:05] =>  1:55
@@ -642,15 +781,15 @@ CLOCK: [2020-03-27 vr 22:14]--[2020-03-27 vr 22:15] =>  0:01
 CLOCK: [2020-03-27 vr 20:44]--[2020-03-27 vr 21:43] =>  0:59
 CLOCK: [2020-03-26 do 19:54]--[2020-03-26 do 20:37] =>  0:43
 
-** Writing other
-** cleaning blog
+** Writing other                                                      :work:
+** cleaning blog                                                      :work:
 CLOCK: [2020-03-29 zo 14:55]--[2020-03-29 zo 16:40] =>  1:45
 CLOCK: [2020-03-29 zo 13:25]--[2020-03-29 zo 14:12] =>  0:47
-** Applying
+** Applying                                                           :work:
 CLOCK: [2020-04-05 zo 09:12]--[2020-04-05 zo 09:55] =>  0:43
-** Reading for CE
+** Reading for CE                                                     :work:
 CLOCK: [2020-03-27 vr 22:21]--[2020-03-27 vr 23:04] =>  0:43
-** Break
+** Break                                                             :break:
 CLOCK: [2020-03-29 zo 14:12]--[2020-03-29 zo 15:02] =>  0:50
 CLOCK: [2020-03-29 zo 12:10]--[2020-03-29 zo 13:32] =>  1:22
 CLOCK: [2020-03-28 za 18:10]--[2020-03-28 za 20:32] =>  2:22
@@ -660,12 +799,12 @@ CLOCK: [2020-03-27 vr 21:43]--[2020-03-27 vr 22:14] =>  0:31
 CLOCK: [2020-03-26 do 20:37]--[2020-03-26 do 21:16] =>  0:39
 CLOCK: [2020-03-25 wo 21:18]--[2020-03-25 wo 22:30] =>  1:12
 
-* DP Posts on Career Finale (transferred to Above)
-** prepping
+* DP Posts on Career Finale (transferred to Above)                     :blog:
+** prepping                                                           :work:
 CLOCK: [2020-04-05 zo 18:39]--[2020-04-05 zo 19:44] =>  1:39
 
 
-** Work done on posts
+** Work done on posts                                                 :work:
 *** Where? Which area post!
 **** Writing from preexisting ("wjere to work")
 CLOCK: [2020-02-01 za 13:41]--[2020-02-01 za 17:07] =>  3:26
@@ -840,13 +979,13 @@ CLOCK: [2020-03-15 zo 09:51]--[2020-03-15 zo 11:23] =>  1:32
 
 
 
-** Counted for DP
+** Counted for DP                                                       :DP:
 *** Prepping for task
 
 *** Looking for content
 
 *** DPing 
-** Replying to people
+** Replying to people                                                 :work:
 CLOCK: [2020-04-11 za 19:57]--[2020-04-11 za 21:30] =>  1:33
 CLOCK: [2020-04-11 za 14:22]--[2020-04-11 za 15:59] =>  1:37
 CLOCK: [2020-04-05 zo 10:26]--[2020-04-05 zo 13:06] =>  2:40
@@ -856,10 +995,10 @@ CLOCK: [2020-04-04 za 14:15]--[2020-04-04 za 16:50] =>  2:35
 CLOCK: [2020-04-04 za 10:16]--[2020-04-04 za 12:35] =>  2:19
 CLOCK: [2020-04-04 za 08:21]--[2020-04-04 za 09:35] =>  1:14
 
-** Other useful stuff
+** Other useful stuff                                                 :meta:
 *** Work done for STM 
 
-** Not counted for DP
+** Not counted for DP                                                :break:
 *** Breaks
 CLOCK: [2020-04-21 di 21:38]--[2020-04-21 di 22:16] =>  0:38
 CLOCK: [2020-04-20 ma 20:34]--[2020-04-20 ma 21:11] =>  0:37
@@ -991,14 +1130,14 @@ final mail (weather and shit)
 
 buy holidays tomorow
 buy shares figure out tomo
-* DP Switching careers
+* DP Switching careers                                                 :blog:
 
 Write 60 claims within 32 hrs i.e., (2+4+4+0+2+7+7+4 = 30 hrs)
 
 Above criteria need to be met... 30 bucks for failure and 10 bucks for
 hour of loss
 
-So basicall
+So basically
 ** Finale article (rewriting from scratch)
 CLOCK: [2020-02-09 zo 08:43]--[2020-02-09 zo 08:58] =>  0:15
 CLOCK: [2020-02-08 za 15:55]--[2020-02-08 za 16:53] =>  0:58
@@ -1199,7 +1338,7 @@ CLOCK: [2019-10-29 di 19:05]--[2019-10-29 di 19:23] =>  0:18
 CLOCK: [2019-10-29 di 18:40]--[2019-10-29 di 18:57] =>  0:17
 *** Watching Youtube
 *** Playing with phone
-* DP blog writing Marriage
+* DP blog writing Marriage                                             :blog:
 ** Deadline 
 
 Did 60 claims in the end
@@ -1312,7 +1451,7 @@ CLOCK: [2019-10-20 zo 12:01]--[2019-10-20 zo 13:58] =>  1:57
 CLOCK: [2019-10-19 za 15:09]--[2019-10-19 za 15:31] =>  0:22
 *** Watching Youtube
 *** Playing with phone
-* DP 200 phrases (working on failure) Actual!
+* DP 200 phrases (working on failure) Actual!                          :blog:
 
 ** Counted for work
 *** prepping for task
@@ -1402,7 +1541,7 @@ CLOCK: [2019-09-24 di 20:20]--[2019-09-24 di 20:38] =>  0:18
 CLOCK: [2019-09-24 di 18:49]--[2019-09-24 di 19:12] =>  0:23
 ** Statistics
 
-* Statistical Sleuth
+* Statistical Sleuth                                                     :DS:
 ** Counted for work
 *** Prepping for task
 CLOCK: [2019-10-11 vr 21:09]--[2019-10-11 vr 21:27] =>  0:18
@@ -1735,7 +1874,7 @@ CLOCK: [2019-09-02 ma 17:34]--[2019-09-02 ma 17:53] =>  0:19
 *** Watching Youtube
 *** Playing with phone
 
-* SuperIntelligence
+* SuperIntelligence                                                    :blog:
 ** Counted for DP
 *** Prepping for task
 CLOCK: [2019-08-24 za 14:30]--[2019-08-24 za 14:39] =>  0:09
@@ -1842,10 +1981,9 @@ CLOCK: [2019-08-18 zo 18:03]--[2019-08-18 zo 19:59] =>  1:56
 CLOCK: [2019-08-24 za 15:02]--[2019-08-24 za 15:24] =>  0:22
 *** Watching Youtube
 *** Playing with phone
-* Random week 33-35
+* Random week 33-35                                                    :work:
 ** working on setting up this file for work sakes
 CLOCK: [2019-08-12 ma 21:25]--[2019-08-12 ma 21:33] =>  0:08
-
 
 ** Counted for work
 
@@ -1901,7 +2039,7 @@ CLOCK: [2019-08-30 vr 21:23]--[2019-08-30 vr 21:46] =>  0:23
 CLOCK: [2019-08-29 do 20:24]--[2019-08-29 do 20:46] =>  0:22
 CLOCK: [2019-08-28 wo 20:30]--[2019-08-28 wo 20:58] =>  0:28
 
-* Task DP 200 predicate subject Feedback processing
+* Task DP 200 predicate subject Feedback processing                    :blog:
 ** Counted for DP
 *** Prepping for task
 CLOCK: [2019-08-31 za 17:07]--[2019-08-31 za 17:55] =>  0:48
@@ -1978,8 +2116,7 @@ Statistics while identifying failed scenarios
 | 6. |     13 |   16 |       1.23 |    3 |                 3 |
 |    |        |      |            |      |                   |
 
-
-* TASK DP 200 predicate subject (DP10)
+* TASK DP 200 predicate subject (DP10)                                 :blog:
 ** Counted for work w
 *** Prepping for task
     CLOCK: [2019-08-03 za 08:52]--[2019-08-03 za 08:55] =>  0:08
@@ -2166,8 +2303,7 @@ Statistics while identifying failed scenarios
 Worked on 200 phrases. Link is [[/dp-predicate-subject-definition.html][here]]. Content ranges from John olivers
 piece on prison labor to one of my works on "marriage"
 
-
-* Not absolute time wasters
+* Not absolute time wasters                                            :NATW:
 ** Figuring out time tracking
    CLOCK: [2019-08-06 di 22:41]--[2019-08-06 di 22:54] =>  0:13
    CLOCK: [2019-08-02 vr 19:00]--[2019-08-02 vr 21:18] =>  2:18
@@ -2181,102 +2317,137 @@ piece on prison labor to one of my works on "marriage"
 
    CLOCK: [2019-08-01 do 21:55]--[2019-08-01 do 22:15] =>  0:20
 * weekly statistics
-CLOCK: [2020-02-23 zo 10:17]--[2020-02-23 zo 10:18] =>  0:01
 
-#+BEGIN: clocktable :maxlevel 2 :scope file :step week :tstart "<-1w>" :tend "<tomorrow>" :compact t
+#+BEGIN: clocktable :maxlevel 2 :scope file :step week :tstart "<-5w>" :tend "<tomorrow>" :compact t :tags "-break-NATW"
 
-Weekly report starting on: [2020-04-25 za]
-| Headline                           |    Time |
-|------------------------------------+---------|
-| *Total time*                       | *18:51* |
-|------------------------------------+---------|
-| Career Decision (week of epicness) |   18:51 |
-| \emsp Data Science                 |   12:41 |
-| \emsp breaks                       |    6:10 |
+Weekly report starting on: [2020-05-18 ma]
+| Headline                             |       Time |
+|--------------------------------------+------------|
+| *Total time*                         | *1d 11:51* |
+|--------------------------------------+------------|
+| Career Decision (week of epicness 2) |      16:51 |
+| \emsp Counted for DP                 |      16:51 |
+| DP Claims TC                         |      19:00 |
+| \emsp Counted for DP                 |      19:00 |
 
-Weekly report starting on: [2020-04-27 ma]
-| Headline                           | Time      |
-|------------------------------------+-----------|
-| *Total time*                       | *2d 8:10* |
-|------------------------------------+-----------|
-| Career Decision (week of epicness) | 2d 8:10   |
-| \emsp Data Science                 | 1d 3:32   |
-| \emsp Working in EAO               | 2:20      |
-| \emsp breaks                       | 1d 2:18   |
+Weekly report starting on: [2020-05-25 ma]
+| Headline                                       |    Time |
+|------------------------------------------------+---------|
+| *Total time*                                   | *22:10* |
+|------------------------------------------------+---------|
+| Statistics khan academy                        |    1:19 |
+| \emsp Analyzing Categorical data (direct quiz) |    1:19 |
+| Career Decision (week of epicness 2)           |   11:53 |
+| \emsp Counted for DP                           |   11:53 |
+| DP Claims TC                                   |    8:58 |
+| \emsp Counted for DP                           |    8:58 |
+
+Weekly report starting on: [2020-06-01 ma]
+| Headline                             |    Time |
+|--------------------------------------+---------|
+| *Total time*                         | *16:48* |
+|--------------------------------------+---------|
+| Career Decision (week of epicness 2) |   16:48 |
+| \emsp Counted for DP                 |   16:48 |
+
+Weekly report starting on: [2020-06-08 ma]
+| Headline                             |    Time |
+|--------------------------------------+---------|
+| *Total time*                         | *18:00* |
+|--------------------------------------+---------|
+| Kaggle                               |    8:16 |
+| \emsp setting up pythiath            |    8:16 |
+| data science what to do              |    2:36 |
+| \emsp Work types                     |    2:36 |
+| Career Decision (week of epicness 2) |    7:08 |
+| \emsp Counted for DP                 |    7:08 |
+
+Weekly report starting on: [2020-06-15 ma]
+| Headline                                       |    Time |
+|------------------------------------------------+---------|
+| *Total time*                                   | *15:22* |
+|------------------------------------------------+---------|
+| Applying to HLI volunteering                   |    3:29 |
+| \emsp Counted for work                         |    3:29 |
+| DP Mission 7 on refining claims (200)          |    8:20 |
+| \emsp Counted for work                         |    6:46 |
+| \emsp Other useful stuff (setting up org tags) |    1:34 |
+| Kaggle                                         |    3:33 |
+| \emsp setting up pythiath                      |    3:33 |
+
+Weekly report starting on: [2020-06-22 ma]
+| Headline                              |   Time |
+|---------------------------------------+--------|
+| *Total time*                          | *1:23* |
+|---------------------------------------+--------|
+| DP Mission 7 on refining claims (200) |   1:23 |
+| \emsp Counted for work                |   1:23 |
 #+END:
 
 * daily statistics
 
-#+BEGIN: clocktable :maxlevel 2 :scope file :step day :tstart "<-7d>" :tend "<tomorrow>" :compact t
+#+BEGIN: clocktable :maxlevel 2 :scope file :step day :tstart "<-7d>" :tend "<tomorrow>" :compact t :tags "-break-NATW"
 
-Daily report: [2020-05-31 zo]
-| Headline                 |   Time |
-|--------------------------+--------|
-| *Total time*             | *7:38* |
-|--------------------------+--------|
-| DP Claims TC             |   7:38 |
-| \emsp Counted for DP     |   5:10 |
-| \emsp Not counted for DP |   2:28 |
+Daily report: [2020-06-15 ma]
+| Headline                  |   Time |
+|---------------------------+--------|
+| *Total time*              | *0:25* |
+|---------------------------+--------|
+| Kaggle                    |   0:25 |
+| \emsp setting up pythiath |   0:25 |
 
-Daily report: [2020-06-01 ma]
-| Headline                             |   Time |
-|--------------------------------------+--------|
-| *Total time*                         | *8:39* |
-|--------------------------------------+--------|
-| Career Decision (week of epicness 2) |   8:39 |
-| \emsp Counted for DP                 |   5:27 |
-| \emsp Not counted for DP             |   3:12 |
-
-Daily report: [2020-06-02 di]
+Daily report: [2020-06-16 di]
 | Headline     | Time   |
 |--------------+--------|
 | *Total time* | *0:00* |
 
-Daily report: [2020-06-03 wo]
-| Headline                             |   Time |
-|--------------------------------------+--------|
-| *Total time*                         | *4:05* |
-|--------------------------------------+--------|
-| Career Decision (week of epicness 2) |   4:05 |
-| \emsp Counted for DP                 |   3:14 |
-| \emsp Not counted for DP             |   0:51 |
+Daily report: [2020-06-17 wo]
+| Headline                  |   Time |
+|---------------------------+--------|
+| *Total time*              | *2:08* |
+|---------------------------+--------|
+| Kaggle                    |   2:08 |
+| \emsp setting up pythiath |   2:08 |
 
-Daily report: [2020-06-04 do]
-| Headline                             |   Time |
-|--------------------------------------+--------|
-| *Total time*                         | *0:06* |
-|--------------------------------------+--------|
-| Career Decision (week of epicness 2) |   0:06 |
-| \emsp Counted for DP                 |   0:06 |
+Daily report: [2020-06-18 do]
+| Headline                  |   Time |
+|---------------------------+--------|
+| *Total time*              | *1:00* |
+|---------------------------+--------|
+| Kaggle                    |   1:00 |
+| \emsp setting up pythiath |   1:00 |
 
-Daily report: [2020-06-05 vr]
-| Headline                             |   Time |
-|--------------------------------------+--------|
-| *Total time*                         | *1:56* |
-|--------------------------------------+--------|
-| Career Decision (week of epicness 2) |   1:56 |
-| \emsp Counted for DP                 |   1:23 |
-| \emsp Not counted for DP             |   0:33 |
+Daily report: [2020-06-19 vr]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *0:00* |
 
-Daily report: [2020-06-06 za]
-| Headline                             |   Time |
-|--------------------------------------+--------|
-| *Total time*                         | *9:02* |
-|--------------------------------------+--------|
-| Career Decision (week of epicness 2) |   9:02 |
-| \emsp Counted for DP                 |   3:44 |
-| \emsp Not counted for DP             |   5:18 |
+Daily report: [2020-06-20 za]
+| Headline                                       |   Time |
+|------------------------------------------------+--------|
+| *Total time*                                   | *6:30* |
+|------------------------------------------------+--------|
+| DP Mission 7 on refining claims (200)          |   6:30 |
+| \emsp Counted for work                         |   4:56 |
+| \emsp Other useful stuff (setting up org tags) |   1:34 |
 
-Daily report: [2020-06-07 zo]
-| Headline                             |   Time |
-|--------------------------------------+--------|
-| *Total time*                         | *4:21* |
-|--------------------------------------+--------|
-| Career Decision (week of epicness 2) |   3:49 |
-| \emsp Counted for DP                 |   2:54 |
-| \emsp Not counted for DP             |   0:55 |
-| DP Claims TC                         |   0:32 |
-| \emsp Not counted for DP             |   0:32 |
+Daily report: [2020-06-21 zo]
+| Headline                              |   Time |
+|---------------------------------------+--------|
+| *Total time*                          | *5:19* |
+|---------------------------------------+--------|
+| Applying to HLI volunteering          |   3:29 |
+| \emsp Counted for work                |   3:29 |
+| DP Mission 7 on refining claims (200) |   1:50 |
+| \emsp Counted for work                |   1:50 |
+
+Daily report: [2020-06-22 ma]
+| Headline                              |   Time |
+|---------------------------------------+--------|
+| *Total time*                          | *1:23* |
+|---------------------------------------+--------|
+| DP Mission 7 on refining claims (200) |   1:23 |
+| \emsp Counted for work                |   1:23 |
 #+END:
 
 scrolling issue 
@@ -2317,6 +2488,18 @@ clock is shown, agreegate for today or the total times.
 2) C-c C-x C-z ~org-resolve-clocks~ allows to go back in time to correct clocks. Look
 [[https://stackoverflow.com/questions/11143645/emacs-org-mode-how-to-adjust-previous-clock-if-i-forget-to-clock-out][here]] for more info.
 
+* Links
+
+https://orgmode.org/manual/The-clock-table.html
+
+https://orgmode.org/manual/Matching-tags-and-properties.html#Matching-tags-and-properties
+
+https://orgmode.org/manual/The-clock-table.html#The-clock-table
+
+https://orgmode.org/manual/Setting-Tags.html#Setting-Tags
+
+https://orgmode.org/guide/Properties.html
+
 * Goal
 
 To track how many hours you are spending on what with comments
@@ -2332,16 +2515,52 @@ To view statistics
   DP. :
 )
 * DP template
-** Counted for DP
+** Counted for DP                                                     :work:
 *** Prepping for task
 
 *** Looking for content
 
-*** DPing 
-** Other useful stuff
+*** DPing                                                              :DP:
+** Other useful stuff                                                 :meta:
 *** Work done for STM 
 
-** Not counted for DP
+** Not counted for DP                                                :break:
+*** Breaks
+**** Working on Org mode
+**** Dreaming
+**** Random
+*** Sleeping 
+*** Watching Youtube
+*** Playing with phone
+
+*today
+
+finish settling money with achu
+
+watch porn and sleep
+plan for friday to celebrate guns bday
+picnic
+
+for work
+
+Randomization 
+send mail about carpooling 
+final mail (weather and shit)
+
+buy holidays tomorow
+buy shares figure out tomo
+* Other template
+** Counted for work                                                    :work:
+*** Prepping for task
+
+*** Looking for content
+
+*** other
+*** DPing                                                              :DP:
+** Other useful stuff                                                 :meta:
+*** Work done for STM 
+
+** Not counted for DP                                                :break:
 *** Breaks
 **** Working on Org mode
 **** Dreaming

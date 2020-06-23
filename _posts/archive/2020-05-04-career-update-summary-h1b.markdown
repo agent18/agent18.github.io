@@ -9,6 +9,8 @@ permalink: /:title.html
 published: false
 ---
 
+H1B rejections post, attempts on rfe etc...
+
 ## Introduction
 
 When Harry was asked by the sorting hat in HPMOR(???) as to why he
