@@ -1494,7 +1494,7 @@ czech master richard reti
 
 11. 
 
-**Claim**: years of hard work doesn't lead to extraordinary performance
+**Claim**: Just years of hard work doesn't lead to extraordinary performance
 
 **re-write Claim**: YOE? violists? 
 
@@ -1502,22 +1502,122 @@ F1 racing?
 
 people don't get better: drivers doctors don't get better
 
+Dad , people in office, I found mistakes think about rob... or all the
+old people in your office. right?
+
 12. 
+
+**What is DP**
+
+It is activity designed specifically to improve performance, often
+with a teacher's help; it can be repeated a lot; feedback on results
+is continuously available; it's highly demanding mentally, whether the
+activity is purely intellectual, such as chess or business-related
+activi- ties, or heavily physical, such as sports; and it isn't much
+fun.
+
 
 **Claim**: What Jerry rice did is DP
 
-13. 
+**re-write Claim**: Jerry Rice designed activity to specifically
+improve his performance
 
-**Claim**: What top violinists did is DP
+**Example**: 
 
-14. 
+> His weight training gave him tremendous strength. His trail running
+> gave him control so he could change directions suddenly without
+> signaling his move. The uphill wind sprints gave him explosive
+> acceleration. Most of all, his endurance training—not something that a
+> speed-focused athlete would normally concentrate on—gave him a giant
+> advantage in the fourth quarter, when his opponents were tired and
+> weak, and he seemed as fresh as he was in the first minute. Time and
+> again, that's when he put the game away.
 
-**Claim**: Jerry Rice is a near perfect example of DP
 
-check against characteristics of DP. could be expanded to multiple
-claims.
+
+**Definition**:
+
+**Checklist**: 
+ 
+
+**re-write Claim**: Jerry Rice repeated those activities to improve
+performance a lot.
+
+**Example**: 
+
+> Rice and his coaches understood exactly what he needed in order to
+> be dominant. They focused on those things and not on other goals that
+> might have seemed generally desirable, like speed.
+
+**Definition**: 
+
+**Checklist**: 
+ 
+
+
+**re-write Claim**: not fun; demanding mentally;
+
+> There's nothing enjoyable about running to the point of exhaustion or
+> lifting weights to the point of muscle failure. But these were centrally
+> important activities.
+
+the one hour I pick up the dumbells, I fail and have 8 more sets to
+go. God help me. 
+
+
+
+**re-write Claim**: feedback on results continuously available
+
+He has trainers, he has games and all sorts of equipment and he
+watches 
+
+
+> His independent off-season workouts consisted of conditioning, and
+> his team workouts were classroom study, reviewing of game films,
+> conditioning, and lots of work with other play- ers on specific
+> plays.
+
 
 15.
 
 **Claim**: It is important to have a teacher  while doing DP
+
+I was playing aoe with friends and I would have never realized I
+should look to improve research methodologies and all of the AI had 25
+while I had in some single digits. 
+
+Not I start to look at those info
+
+He then told me to use skirms specifically as they has certain damage
+
+
+or basket ball (from random to 50% in a workout just by corrections)
+
+## randomista development
+
+
+> (RD)[1] can take (low-risk or more “hits-based”
+> forms)[2]. (Effective altruists)[3] have especially focused on the
+> (low-risk form of RD)[4]: specifically, (directly funding
+> interventions that have been tested by RCTs)[5], such as (malaria
+> bednet distributions)[6] and (cash transfers)[7]. However, even
+> within direct funding of such programmes, there is (significant
+> variation in the probability of success)[]. For example, GiveWell
+> thinks that deworming is a high risk/high-reward bet with a
+> significant chance of having small effect but some chance of having
+> a large effect. Other GiveWell recommended programmes offer a much
+> more certain probability of impact.
+
+
+> More clearly hits-based forms of RD are possible. GiveWell has done
+> various forms of more hits-based giving, including for example its
+> support for the Center for Suicide Prevention, which advocates for
+> policy change at the national level in India and Nepal. Co-Impact, a
+> collaborative philanthropy group, is advocating for national
+> scale-up of the RCT-supported education programme Teaching at the
+> Right Level across Africa. By this definition, RD also includes
+> advocacy and scale-up of scientific research that can be tested by
+> RCTs, such as mosquito gene drives, researching vaccines or
+> antibiotics, or the agricultural research that led to the Green
+> Revolution.[1]
 
