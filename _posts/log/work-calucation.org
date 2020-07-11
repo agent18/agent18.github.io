@@ -1,5 +1,85 @@
 #+COLUMNS: %7TODO(To Do) %40ITEM(Task) %10CLOCKSUM(Clock)
-#+TAGS: work(w)  DP(d) break(b) meta(m) DS(s) blog(g) other(o) reading(r) NATW(n)
+#+TAGS: work(w)  DP(d) break(b) meta(m) DS(s) blog(g) other(o) reading(r) NATW(n) apping(a)
+* Applying to HLI volunteering round 2                          :blog:apping:
+** Counted for work                                                   :work:
+*** Prepping for task
+CLOCK: [2020-06-29 ma 19:44]--[2020-06-29 ma 20:06] =>  0:22
+** Task 1
+*** Reading up
+CLOCK: [2020-06-30 di 19:54]--[2020-06-30 di 19:56] =>  0:02
+CLOCK: [2020-06-30 di 19:11]--[2020-06-30 di 19:12] =>  0:01
+CLOCK: [2020-06-30 di 18:42]--[2020-06-30 di 18:48] =>  0:06
+CLOCK: [2020-06-29 ma 22:19]--[2020-06-29 ma 22:53] =>  0:34
+CLOCK: [2020-06-29 ma 21:35]--[2020-06-29 ma 22:04] =>  0:29
+CLOCK: [2020-06-29 ma 20:06]--[2020-06-29 ma 20:26] =>  0:20
+*** Performing the actual task 
+CLOCK: [2020-06-30 di 21:10]--[2020-06-30 di 21:44] =>  0:34
+CLOCK: [2020-06-30 di 20:56]--[2020-06-30 di 21:07] =>  0:11
+CLOCK: [2020-06-30 di 20:12]--[2020-06-30 di 20:19] =>  0:07
+CLOCK: [2020-06-30 di 20:02]--[2020-06-30 di 20:10] =>  0:08
+CLOCK: [2020-06-30 di 19:19]--[2020-06-30 di 19:41] =>  0:22
+CLOCK: [2020-06-30 di 19:00]--[2020-06-30 di 19:11] =>  0:11
+CLOCK: [2020-06-30 di 18:48]--[2020-06-30 di 18:58] =>  0:10
+CLOCK: [2020-06-30 di 18:42]--[2020-06-30 di 18:42] =>  0:00
+CLOCK: [2020-06-29 ma 22:04]--[2020-06-29 ma 22:18] =>  0:14
+*** proof-read
+CLOCK: [2020-06-30 di 21:45]--[2020-06-30 di 22:00] =>  0:15
+** Task 2
+*** Reading and planning
+CLOCK: [2020-07-01 wo 19:50]--[2020-07-01 wo 20:05] =>  0:15
+CLOCK: [2020-07-01 wo 19:25]--[2020-07-01 wo 19:36] =>  0:11
+CLOCK: [2020-06-30 di 22:00]--[2020-06-30 di 22:24] =>  0:24
+*** Performing the actual task
+CLOCK: [2020-07-01 wo 20:28]--[2020-07-01 wo 20:59] =>  0:31
+CLOCK: [2020-07-01 wo 19:36]--[2020-07-01 wo 19:50] =>  0:14
+CLOCK: [2020-06-30 di 22:56]--[2020-06-30 di 23:19] =>  0:23
+CLOCK: [2020-06-30 di 22:24]--[2020-06-30 di 22:45] =>  0:21
+*** proof-reading
+CLOCK: [2020-07-01 wo 21:03]--[2020-07-01 wo 21:12] =>  0:09
+*** processing
+CLOCK: [2020-07-01 wo 21:12]--[2020-07-01 wo 22:11] =>  0:59
+** Task 2 redo due to fucked up deletion
+*** writing email and the rest
+CLOCK: [2020-07-01 wo 23:29]--[2020-07-02 do 00:13] =>  0:44
+CLOCK: [2020-07-01 wo 22:48]--[2020-07-01 wo 23:05] =>  0:17
+CLOCK: [2020-07-01 wo 22:11]--[2020-07-01 wo 22:11] =>  0:00
+*** proof-read
+CLOCK: [2020-07-02 do 00:13]--[2020-07-02 do 00:38] =>  0:25
+
+
+
+** Other useful stuff                                                 :meta:
+*** Work done for STM 
+
+** Not counted for DP                                                :break:
+CLOCK: [2020-07-01 wo 22:11]--[2020-07-01 wo 22:48] =>  0:37
+CLOCK: [2020-07-01 wo 20:05]--[2020-07-01 wo 20:28] =>  0:23
+CLOCK: [2020-06-30 di 20:19]--[2020-06-30 di 20:56] =>  0:37
+CLOCK: [2020-06-29 ma 20:26]--[2020-06-29 ma 21:44] =>  1:18
+*** Breaks
+**** Working on Org mode
+**** Dreaming
+**** Random
+*** Sleeping 
+*** Watching Youtube
+*** Playing with phone
+
+*today
+
+finish settling money with achu
+
+watch porn and sleep
+plan for friday to celebrate guns bday
+picnic
+
+for work
+
+Randomization 
+send mail about carpooling 
+final mail (weather and shit)
+
+buy holidays tomorow
+buy shares figure out tomo
 * Applying to HLI volunteering                                        :other:
 ** Counted for work                                                    :work:
 *** Prepping for task
@@ -47,6 +127,7 @@ buy shares figure out tomo
 * DP Mission 7 on refining claims (200)                                :blog:
 ** Counted for work                                                    :work:
 *** Prepping for task
+
 CLOCK: [2020-06-21 zo 08:31]--[2020-06-21 zo 10:21] =>  1:50
 CLOCK: [2020-06-20 za 22:49]--[2020-06-20 za 23:10] =>  0:21
 CLOCK: [2020-06-20 za 21:49]--[2020-06-20 za 22:34] =>  0:45
@@ -57,12 +138,73 @@ CLOCK: [2020-06-20 za 11:48]--[2020-06-20 za 12:34] =>  0:46
 *** Looking for content
 CLOCK: [2020-06-22 ma 20:19]--[2020-06-22 ma 21:18] =>  0:59
 *** DPing                                                              :DP:
-CLOCK: [2020-06-23 di 19:08]
+CLOCK: [2020-07-11 za 08:57]
+CLOCK: [2020-07-10 vr 16:33]--[2020-07-10 vr 18:07] =>  1:34
+CLOCK: [2020-07-09 do 21:30]--[2020-07-09 do 22:26] =>  0:56
+CLOCK: [2020-07-09 do 20:49]--[2020-07-09 do 21:10] =>  0:21
+CLOCK: [2020-07-09 do 20:10]--[2020-07-09 do 20:46] =>  0:36
+CLOCK: [2020-07-09 do 18:53]--[2020-07-09 do 19:22] =>  0:29
+CLOCK: [2020-07-08 wo 22:04]--[2020-07-08 wo 22:22] =>  0:18
+CLOCK: [2020-07-08 wo 20:57]--[2020-07-08 wo 21:49] =>  0:52
+CLOCK: [2020-07-08 wo 19:11]--[2020-07-08 wo 19:24] =>  0:13
+CLOCK: [2020-07-07 di 22:57]--[2020-07-07 di 23:12] =>  0:15
+CLOCK: [2020-07-07 di 21:22]--[2020-07-07 di 22:33] =>  1:11
+CLOCK: [2020-07-06 ma 20:37]--[2020-07-06 ma 22:02] =>  1:25
+CLOCK: [2020-07-06 ma 19:06]--[2020-07-06 ma 20:01] =>  0:55
+CLOCK: [2020-07-06 ma 18:06]--[2020-07-06 ma 18:53] =>  0:47
+CLOCK: [2020-07-05 zo 14:10]--[2020-07-05 zo 15:59] =>  1:49
+CLOCK: [2020-07-05 zo 12:25]--[2020-07-05 zo 13:05] =>  0:40
+CLOCK: [2020-07-05 zo 11:31]--[2020-07-05 zo 11:53] =>  0:22
+CLOCK: [2020-07-05 zo 10:15]--[2020-07-05 zo 10:56] =>  0:41
+CLOCK: [2020-07-05 zo 09:31]--[2020-07-05 zo 10:12] =>  0:41
+CLOCK: [2020-07-04 za 20:55]--[2020-07-04 za 21:26] =>  0:31
+CLOCK: [2020-07-04 za 19:30]--[2020-07-04 za 20:14] =>  0:44
+CLOCK: [2020-07-04 za 19:01]--[2020-07-04 za 19:20] =>  0:19
+CLOCK: [2020-07-04 za 10:34]--[2020-07-04 za 12:17] =>  1:43
+CLOCK: [2020-07-04 za 09:21]--[2020-07-04 za 10:13] =>  0:52
+CLOCK: [2020-07-03 vr 22:51]--[2020-07-03 vr 22:54] =>  0:03
+CLOCK: [2020-07-03 vr 18:59]--[2020-07-03 vr 19:24] =>  0:25
+CLOCK: [2020-07-03 vr 07:29]--[2020-07-03 vr 07:37] =>  0:08
+CLOCK: [2020-07-03 vr 06:47]--[2020-07-03 vr 07:29] =>  0:42
+CLOCK: [2020-07-03 vr 06:41]--[2020-07-03 vr 06:47] =>  0:06
+CLOCK: [2020-07-02 do 20:19]--[2020-07-02 do 20:48] =>  0:29
+CLOCK: [2020-06-26 vr 09:31]--[2020-06-26 vr 10:28] =>  0:57
+CLOCK: [2020-06-26 vr 08:10]--[2020-06-26 vr 09:05] =>  0:55
+CLOCK: [2020-06-25 do 23:04]--[2020-06-25 do 23:33] =>  0:29
+CLOCK: [2020-06-25 do 21:33]--[2020-06-25 do 23:04] =>  1:31
+CLOCK: [2020-06-24 wo 21:40]--[2020-06-24 wo 22:42] =>  1:02
+CLOCK: [2020-06-24 wo 20:51]--[2020-06-24 wo 21:40] =>  0:49
+CLOCK: [2020-06-24 wo 18:49]--[2020-06-24 wo 20:17] =>  1:28
+CLOCK: [2020-06-23 di 22:34]--[2020-06-23 di 23:35] =>  1:01
+CLOCK: [2020-06-23 di 19:08]--[2020-06-23 di 20:47] =>  1:39
 CLOCK: [2020-06-22 ma 22:00]--[2020-06-22 ma 22:05] =>  0:05
 CLOCK: [2020-06-22 ma 21:18]--[2020-06-22 ma 21:37] =>  0:19
-** Other useful stuff (setting up org tags)                            :meta:
+** Other useful stuff (setting up org tags)                           :meta:
 CLOCK: [2020-06-20 za 09:20]--[2020-06-20 za 10:54] =>  1:34
 ** Not counted for DP                                                :break:
+CLOCK: [2020-07-09 do 21:10]--[2020-07-09 do 21:37] =>  0:27
+CLOCK: [2020-07-09 do 20:46]--[2020-07-09 do 20:49] =>  0:03
+CLOCK: [2020-07-09 do 19:22]--[2020-07-09 do 20:10] =>  0:48
+CLOCK: [2020-07-08 wo 22:22]--[2020-07-08 wo 22:22] =>  0:00
+CLOCK: [2020-07-08 wo 19:24]--[2020-07-08 wo 19:31] =>  0:07
+CLOCK: [2020-07-07 di 22:33]--[2020-07-07 di 22:57] =>  0:24
+CLOCK: [2020-07-06 ma 20:01]--[2020-07-06 ma 20:37] =>  0:36
+CLOCK: [2020-07-06 ma 18:53]--[2020-07-06 ma 19:06] =>  0:13
+CLOCK: [2020-07-05 zo 15:59]--[2020-07-05 zo 17:56] =>  1:57
+CLOCK: [2020-07-05 zo 13:06]--[2020-07-05 zo 14:10] =>  1:04
+CLOCK: [2020-07-05 zo 11:53]--[2020-07-05 zo 12:25] =>  0:32
+CLOCK: [2020-07-05 zo 11:01]--[2020-07-05 zo 11:31] =>  0:30
+CLOCK: [2020-07-05 zo 10:12]--[2020-07-05 zo 10:15] =>  0:03
+CLOCK: [2020-07-04 za 20:17]--[2020-07-04 za 20:55] =>  0:38
+CLOCK: [2020-07-04 za 19:20]--[2020-07-04 za 19:30] =>  0:10
+CLOCK: [2020-07-04 za 12:17]--[2020-07-04 za 19:01] =>  6:44
+CLOCK: [2020-07-04 za 10:13]--[2020-07-04 za 10:34] =>  0:21
+CLOCK: [2020-07-03 vr 19:24]--[2020-07-03 vr 20:07] =>  0:43
+CLOCK: [2020-07-02 do 20:48]--[2020-07-02 do 21:11] =>  0:23
+CLOCK: [2020-06-26 vr 09:05]--[2020-06-26 vr 09:34] =>  0:29
+CLOCK: [2020-06-25 do 23:04]--[2020-06-25 do 23:04] =>  0:00
+CLOCK: [2020-06-24 wo 20:17]--[2020-06-24 wo 20:51] =>  0:34
+CLOCK: [2020-06-23 di 20:47]--[2020-06-23 di 22:29] =>  1:42
 *** Breaks
 CLOCK: [2020-06-20 za 20:07]--[2020-06-20 za 21:49] =>  1:42
 CLOCK: [2020-06-20 za 14:30]--[2020-06-20 za 14:54] =>  0:24
@@ -604,7 +746,7 @@ CLOCK: [2020-05-02 za 20:41]--[2020-05-02 za 20:58] =>  0:17
 CLOCK: [2020-04-30 do 19:56]--[2020-04-30 do 20:21] =>  0:25
 CLOCK: [2020-04-29 wo 20:12]--[2020-04-29 wo 20:21] =>  0:09
 CLOCK: [2020-04-28 di 19:36]--[2020-04-28 di 19:56] =>  0:20
-* Written Exam 1(failed) :(                                      :blog:other:
+* Written Exam 1(failed) :(                                     :blog:apping:
 ** what I did the previous time                                       :work:
 CLOCK: [2020-04-16 do 18:39]--[2020-04-16 do 18:44] =>  0:05
 ** Preparing with CE material                                         :work:
@@ -656,7 +798,7 @@ CLOCK: [2020-04-15 wo 20:46]--[2020-04-15 wo 21:24] =>  0:38
 CLOCK: [2020-04-15 wo 19:28]--[2020-04-15 wo 20:06] =>  0:38
 CLOCK: [2020-04-15 wo 18:43]--[2020-04-15 wo 18:58] =>  0:15
 
-* Preparing for the indrew with CE for internship                      :blog:
+* Preparing for the indrew with CE for internship               :blog:apping:
 ** checking                                                           :work:
 I usually use skype for calls, my Skype name is live:georgebridgwater
 or you can search for me using my email address:
@@ -768,7 +910,7 @@ CLOCK: [2020-04-07 di 19:30]--[2020-04-07 di 19:34] =>  0:04
 CLOCK: [2020-04-06 ma 22:33]--[2020-04-06 ma 22:49] =>  0:16
 CLOCK: [2020-04-06 ma 19:52]--[2020-04-06 ma 20:34] =>  0:42
 
-* Applying for CE internship                                     :blog:other:
+* Applying for CE internship                                    :blog:apping:
 ** Getting CV thing to work                                           :work:
 CLOCK: [2020-03-26 do 21:16]--[2020-03-26 do 22:38] =>  1:22
 CLOCK: [2020-03-25 wo 20:22]--[2020-03-25 wo 21:18] =>  0:56
@@ -2320,15 +2462,15 @@ piece on prison labor to one of my works on "marriage"
 
 #+BEGIN: clocktable :maxlevel 2 :scope file :step week :tstart "<-5w>" :tend "<tomorrow>" :compact t :tags "-break-NATW"
 
-Weekly report starting on: [2020-05-18 ma]
-| Headline                             |       Time |
-|--------------------------------------+------------|
-| *Total time*                         | *1d 11:51* |
-|--------------------------------------+------------|
-| Career Decision (week of epicness 2) |      16:51 |
-| \emsp Counted for DP                 |      16:51 |
-| DP Claims TC                         |      19:00 |
-| \emsp Counted for DP                 |      19:00 |
+Weekly report starting on: [2020-05-20 wo]
+| Headline                             |    Time |
+|--------------------------------------+---------|
+| *Total time*                         | *21:12* |
+|--------------------------------------+---------|
+| Career Decision (week of epicness 2) |   16:51 |
+| \emsp Counted for DP                 |   16:51 |
+| DP Claims TC                         |    4:21 |
+| \emsp Counted for DP                 |    4:21 |
 
 Weekly report starting on: [2020-05-25 ma]
 | Headline                                       |    Time |
@@ -2378,76 +2520,81 @@ Weekly report starting on: [2020-06-15 ma]
 Weekly report starting on: [2020-06-22 ma]
 | Headline                              |   Time |
 |---------------------------------------+--------|
-| *Total time*                          | *1:23* |
+| *Total time*                          | *6:20* |
 |---------------------------------------+--------|
-| DP Mission 7 on refining claims (200) |   1:23 |
-| \emsp Counted for work                |   1:23 |
+| DP Mission 7 on refining claims (200) |   6:20 |
+| \emsp Counted for work                |   6:20 |
 #+END:
 
 * daily statistics
 
 #+BEGIN: clocktable :maxlevel 2 :scope file :step day :tstart "<-7d>" :tend "<tomorrow>" :compact t :tags "-break-NATW"
 
-Daily report: [2020-06-15 ma]
-| Headline                  |   Time |
-|---------------------------+--------|
-| *Total time*              | *0:25* |
-|---------------------------+--------|
-| Kaggle                    |   0:25 |
-| \emsp setting up pythiath |   0:25 |
+Daily report: [2020-07-02 do]
+| Headline                                    |   Time |
+|---------------------------------------------+--------|
+| *Total time*                                | *1:07* |
+|---------------------------------------------+--------|
+| Applying to HLI volunteering round 2        |   0:38 |
+| \emsp Task 2 redo due to fucked up deletion |   0:38 |
+| DP Mission 7 on refining claims (200)       |   0:29 |
+| \emsp Counted for work                      |   0:29 |
 
-Daily report: [2020-06-16 di]
-| Headline     | Time   |
-|--------------+--------|
-| *Total time* | *0:00* |
-
-Daily report: [2020-06-17 wo]
-| Headline                  |   Time |
-|---------------------------+--------|
-| *Total time*              | *2:08* |
-|---------------------------+--------|
-| Kaggle                    |   2:08 |
-| \emsp setting up pythiath |   2:08 |
-
-Daily report: [2020-06-18 do]
-| Headline                  |   Time |
-|---------------------------+--------|
-| *Total time*              | *1:00* |
-|---------------------------+--------|
-| Kaggle                    |   1:00 |
-| \emsp setting up pythiath |   1:00 |
-
-Daily report: [2020-06-19 vr]
-| Headline     | Time   |
-|--------------+--------|
-| *Total time* | *0:00* |
-
-Daily report: [2020-06-20 za]
-| Headline                                       |   Time |
-|------------------------------------------------+--------|
-| *Total time*                                   | *6:30* |
-|------------------------------------------------+--------|
-| DP Mission 7 on refining claims (200)          |   6:30 |
-| \emsp Counted for work                         |   4:56 |
-| \emsp Other useful stuff (setting up org tags) |   1:34 |
-
-Daily report: [2020-06-21 zo]
+Daily report: [2020-07-03 vr]
 | Headline                              |   Time |
 |---------------------------------------+--------|
-| *Total time*                          | *5:19* |
+| *Total time*                          | *1:24* |
 |---------------------------------------+--------|
-| Applying to HLI volunteering          |   3:29 |
-| \emsp Counted for work                |   3:29 |
-| DP Mission 7 on refining claims (200) |   1:50 |
-| \emsp Counted for work                |   1:50 |
+| DP Mission 7 on refining claims (200) |   1:24 |
+| \emsp Counted for work                |   1:24 |
 
-Daily report: [2020-06-22 ma]
+Daily report: [2020-07-04 za]
+| Headline                              |   Time |
+|---------------------------------------+--------|
+| *Total time*                          | *4:09* |
+|---------------------------------------+--------|
+| DP Mission 7 on refining claims (200) |   4:09 |
+| \emsp Counted for work                |   4:09 |
+
+Daily report: [2020-07-05 zo]
+| Headline                              |   Time |
+|---------------------------------------+--------|
+| *Total time*                          | *4:13* |
+|---------------------------------------+--------|
+| DP Mission 7 on refining claims (200) |   4:13 |
+| \emsp Counted for work                |   4:13 |
+
+Daily report: [2020-07-06 ma]
+| Headline                              |   Time |
+|---------------------------------------+--------|
+| *Total time*                          | *3:07* |
+|---------------------------------------+--------|
+| DP Mission 7 on refining claims (200) |   3:07 |
+| \emsp Counted for work                |   3:07 |
+
+Daily report: [2020-07-07 di]
+| Headline                              |   Time |
+|---------------------------------------+--------|
+| *Total time*                          | *1:26* |
+|---------------------------------------+--------|
+| DP Mission 7 on refining claims (200) |   1:26 |
+| \emsp Counted for work                |   1:26 |
+
+Daily report: [2020-07-08 wo]
 | Headline                              |   Time |
 |---------------------------------------+--------|
 | *Total time*                          | *1:23* |
 |---------------------------------------+--------|
 | DP Mission 7 on refining claims (200) |   1:23 |
 | \emsp Counted for work                |   1:23 |
+
+Daily report: [2020-07-09 do]
+| Headline                              |   Time |
+|---------------------------------------+--------|
+| *Total time*                          | *2:22* |
+|---------------------------------------+--------|
+| DP Mission 7 on refining claims (200) |   2:22 |
+| \emsp Counted for work                |   2:22 |
 #+END:
 
 scrolling issue 

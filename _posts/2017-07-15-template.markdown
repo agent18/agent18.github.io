@@ -1,10 +1,10 @@
 ---
 layout: post
 comments: true
-title:  "Food to cook"
-date:    02-01-2020 
-categories: drafts
-tags: DP, feedback, examples
+title:  ""
+date:    xx-xx-2020 
+categories: notes
+tags: 
 permalink: /:title.html
 published: false
 ---

@@ -25,7 +25,7 @@ an Industry Hub.
 
 ## Industries cluster in certain areas
 
-Three-quarters of the US entertainers live in LA. Anyone who wants
+[Three-quarters of the US entertainers live in LA](https://80000hours.org/career-guide/how-to-be-successful/#7-consider-changing-where-you-live). Anyone who wants
 fame, or who wants to be part of the entertainment industry seems to
 want to be here. Youtubers, Sitcom folks, Instagram models, Talk-show
 hosts etc... flock this neighborhood. A quick look at the top

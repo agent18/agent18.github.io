@@ -1,0 +1,109 @@
+## Work task: Volunteer application for HLI’s mental health program evaluation project
+
+**Goal**: How sure are you that improvement in the study group is due to
+SbS.
+
+**Interested Claim**: Step by Step (e-intervention, minimally guided
+health intervention) reduces depression in low-income countries.
+
+**Example**: Data in the [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7034323/).
+
+**Criticism**:
+
+- This is a study where units are not selected at random (inferences to
+  populations of low-income countries (etc.) of people with depression cannot
+  be made) 
+
+- There is no control group (Causation being SbS cannot be inferred)
+
+- Potential for a "lot" of systematic bias. This study,  
+
+	- has 77% females
+	- is pertaining to people in Lebanon mostly (89%)
+	- is about people with education level of more than 18+ years (91%)
+	- has people who are mostly (66%) never married
+	- possibly has people with high motivation (explained later)
+	- has people mainly recruited from cites such as MOPH's Facebook
+      page, and Whatsapp of Beirut University and through 7 PHCC's
+      across country of Lebanon. Unsure of other effects but can
+      imagine that people "actively looking for help" are the ones who
+      this intervention reached.
+
+- Confounding variables could be anything such as Natural recovery (over time), or even seasonal changes or whatever. We don't know.
+	
+- High attrition as noted by the author himself 
+
+	- 129 people were recruited (200 was the goal)
+	- 74 (57%) completed session 1 after pre-test questionnaire
+	- 35 (27%) completed 80% of the intervention
+	- 26 (20%) completed both baseline and post-intervention survey
+	- 11 participants in the study did the process evaluation
+      interview where 4 had dropped out.
+	- Very high attrition rate (80%) compared to often seen values of
+      33% or even the 'e-mental health for depression among Turkish
+      Migrants in Netherlands' @ 62%.
+	  
+	Might suggest that this might be for say people with "higher
+    motivation". The feedback from the 11 participants also seemed to
+    suggest things along these lines.
+	
+- Long term effects are not known from this study. 
+ 
+- Academics, health staff and NGOs and others seem to have signed up
+  in the beginning. This could skew some of the results (which
+  compares with the initial set of people who did not continue). For
+  example, there is the comparison of the mental health scores of the
+  final 26 people and the initial set of people and their PHQ-8
+  scores.
+
+**Pros**
+
+- Among the final population (26 people who are young, female etc...)
+  they considered, there is a strong suggestion of depression symptoms
+  improving due to the intervention "indicating causation".
+  
+  - PHQ-8 scores p-value <0.001 (pre and post intervention)
+  - Average Reduction in mean PHQ-8 scores with every intervention session
+  - Wilcoxon signed ranks tests showed significant difference with baseline and post.
+
+- Although the attrition rate is high, PHQ-8 score at
+  pre-intervention for the 26 completers and the people who signed
+  up but did not complete, is found to be statistically
+  insignificant. This seems to suggest that the 26 completers
+  seemed to be in "same ball park mental health" as the final 26 before
+  they started the intervention.
+
+- First study (right step in the right direction)
+
+- Got lots of feedback for improvement (to improve the way
+  intervention was done) from 11 participants. 
+  
+- Seemingly very little imputation (1.4% of post-intervention
+  answers).
+
+- Effect size, very rough (over-)estimation is done and comparable to
+  that in high-income settings (0.98). (*I can't comment more. I would
+  need to spend some time to understand it.*)
+
+- More work is being done in 2019 and 2020 based on the feedback,
+  trying to include other nationalities and to reduce attrition rates.
+
+**Additional things unanswered due to lack of time**
+
+- t-statistics assumptions validity
+
+- If PHQ-8 and other chosen methods are "std. tests" for Mental-Health
+
+- It appears that it does not distinguish between participants who
+  used the tablets in the private rooms in PHCCs, and the ones who did
+  not.
+  
+- Effect sizes needs better understanding
+
+**Conclusion**:
+
+The high attrition rate and the systematic biases along with the
+confounding variables are not convincing enough for me to believe the
+claim that "Step by Step (e-intervention, minimally guided health
+intervention) reduces depression in low-income countries."
+
