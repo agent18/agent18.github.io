@@ -1595,19 +1595,254 @@ or basket ball (from random to 50% in a workout just by corrections)
 
 ## randomista development
 
+> We define randomista development (RD) as an approach to development
+> economics which investigates, evaluates and recommends only
+> interventions which can be tested by randomised controlled trials
+> (RCTs).
 
-> (RD)[1] can take (low-risk or more “hits-based”
-> forms)[2]. (Effective altruists)[3] have especially focused on the
-> (low-risk form of RD)[4]: specifically, (directly funding
-> interventions that have been tested by RCTs)[5], such as (malaria
-> bednet distributions)[6] and (cash transfers)[7]. However, even
-> within direct funding of such programmes, there is (significant
-> variation in the probability of success)[]. For example, GiveWell
+> RD can take low-risk or more “hits-based” forms. Effective altruists
+> have especially focused on the low-risk form of RD: specifically,
+> directly funding interventions that have been tested by RCTs, such
+> as malaria bednet distributions and cash transfers. However, even
+> within direct funding of such programmes, there is significant
+> variation in the probability of success. For example, GiveWell
 > thinks that deworming is a high risk/high-reward bet with a
 > significant chance of having small effect but some chance of having
 > a large effect. Other GiveWell recommended programmes offer a much
 > more certain probability of impact.
 
+Change risk to mutiplier factor
+
+It's not 18% it is 1-18% for multiplier
+
+RD --> Direct funding of interventions that have been tested by RCTs
+
+For bednets we take separate prolty values (45 I think)
+ 
+for deworming they have aggregate prolty values
+
+For VAS we need to calculate aggregate prolty values multiply and say
+your success percentage...
+
+factor in hits based meaning that the CE estiamtes still make sense.
+
+---
+
+**Claim**: RD can take "low-risk forms" 
+
+**re-write Claim**: Recommending interventions which are based on RCTs,
+carries low probability of failure in some cases.
+
+**Subject**: Risk related to recommending interventions based on RCTs
+
+**Predicate**: is estimated to be low in some cases
+
+**Example-sub**: GiveWell recommends [Malaria Bednet Distributions](https://www.givewell.org/international/technical/programs/insecticide-treated-nets)
+intervention. 
+
+| Intervention | contribution to cost-effectiveness | %   |
+|--------------|------------------------------------|-----|
+| Nets         | under 5 mortality reduction        | 42% |
+| Nets         | age 5 and over mortality reduction | 22% |
+| Nets         | development effects                | 33% |
+
+The above is based on [2018 cost-effectiveness model](https://docs.google.com/spreadsheets/d/15pzFH5e4k4qQwOX5ffqQcJNPK4RnVJ-b5EFd9ZUtlJs/edit#gid=1034883018)'s "Results" page.
+
+<!-- "Efficacy reduction due to insecticide resistance" is at 18% (which in -->
+<!-- the end is a multiplier). ---[2019 cost effectiveness](https://docs.google.com/spreadsheets/d/1zLmPuddUmKsy3v55AfG_e1Quk-ngDdNzW-FDx0T-Y94/edit#gid=1364064522&range=A54) -->
+
+<!-- This seems to be their main concern while recommending AMF (as -->
+<!-- expressed [here](https://www.givewell.org/charities/amf#Summary)). They have factored this risk and still find this -->
+<!-- intervention to be cost effective. -->
+
+**Definition**: checks out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes; 
+ 
+time: 3 hrs
+
+---
+
+**Claim**: RD can take "hits-based" forms
+
+**re-write Claim**: Recommending interventions which are based on RCTs,
+carries high-risk in some cases.
+
+**Subject**: Risk related to recommending interventions based on RCTs
+
+**Predicate**: is estimated to be high 
+
+**Example-sub**: GiveWell recommends [Deworming](https://blog.givewell.org/2016/07/26/deworming-might-huge-impact-might-close-zero-impact/) interventions. 
+
+| Intervention | contribution                                           | %    |
+|--------------|--------------------------------------------------------|------|
+| Deworming    | Aggregate adjustment development effect — DtW          | 0.7% |
+| Deworming    | Aggregate adjustment development effect — SCI          | 0.6% |
+| Deworming    | Aggregate adjustment  development effect — Sightsavers | 0.6% |
+| Deworming    | Aggregate adjustment development effect — END Fund     | 0.5% |
+
+<!-- They --> <!-- quantify the risk of the RCTs not being the same as
+the current --> <!-- interventions with a multiplier of `1%` in their
+CE analysis: -->
+
+<!-- "Aggregate adjustment to Miguel and Kremer development effect — DtW" -->
+<!-- is at 1% ---[2019 cost effectiveness](https://docs.google.com/spreadsheets/d/1zLmPuddUmKsy3v55AfG_e1Quk-ngDdNzW-FDx0T-Y94/edit#gid=472531943&range=A46)  -->
+
+<!-- This seems to be their main concern regarding RCTs while recommending -->
+<!-- Deworming The World as expressed [here](https://blog.givewell.org/2016/07/26/deworming-might-huge-impact-might-close-zero-impact/). They have factored this -->
+<!-- risk and still find this intervention to be cost effective. -->
+
+**Definition**: checks out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes; 
+ 
+time: 3 hrs 
+
+Note: Understanding what he meant with low risk and in the end writing
+it out was so hard. Finding info also took equal time I think. I think
+it was a sloppy way to write for him to just say low-risk and leave it
+at that. And I just THINK he means the above, i.e., talking about only
+the risks related to the extrapolation of the impact one RCT to
+current day interventions.
+
+ Jesus. Lots of ups and downs and fighting within myself about
+delivering english vs... finally it feels like it adds up... fucking
+loose ass english from these niggas high risk in what where how fuck
+you.
+
+Whether this includes how well or how uncertain GW is about the
+intervention org doing its job is quite hard to extract (its a long
+table and we need to be really clear about it).
+
+lot of confusion in reading the GW table
+
+---
+
+**Claim**: Direct funding interventions that have been tested by RCTs
+can be low-risk
+
+same as above.
+
+
+**Claim**: Directly funding interventions that have been tested by RCTs
+can also be high-risk
+
+same as above
+
+time: 5mins
+
+---
+
+**Claim**: EAs have especially focused on directly funding
+interventions that have been tested by RCTs
+
+**re-write Claim**: EA Orgs' all recommended interventions are based on
+atleast one RCT that is available on this topic.
+
+**Subject**: The number of RCTs based on which the EA Orgs recommend
+each of their interventions
+
+**Predicate**: is >= 1 (per intervention recommended)
+
+**Example-sub**: 
+
+- GiveWell recommends [Malaria consortium](https://www.givewell.org/charities/malaria-consortium#Is_SMC_an_effective_intervention) which does
+  [SMC](https://www.givewell.org/international/technical/programs/seasonal-malaria-chemoprevention). Apparently there are 7 RCTs that provide "strong evidence"
+  that SMC substantially reduces
+  
+- GiveWell recommends AMF which provides funding for [LLINs](https://www.givewell.org/international/technical/programs/insecticide-treated-nets). They
+  use [a couple of RCTs](https://www.givewell.org/international/technical/programs/insecticide-treated-nets), for example, one on comparing mortality
+  rates in children that received nets from birth to 6 months.
+  
+- GiveWell recommends Helen Keller's Vitamin A supplementation
+  program. This is based on a [couple of RCTs](https://www.givewell.org/international/technical/programs/vitamin-A) as well.
+
+**Definition**: Of the first 3 recommended interventions we looked
+at it appears that they all use more than 1 RCT
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+---
+ 
+**Claim**: There is significant variation in the probability of
+success
+
+**re-write Claim**: There is a significant variation in the estimated
+probability of success (aka multiplying factor in the CE)
+
+**Subject**: Amount of variation in the estimated probability of
+success per intervention
+
+**Predicate**: is around 10%
+
+**Example-sub**: GiveWell estimates the "probability of success" in
+the [2018 CE estimates](https://docs.google.com/spreadsheets/d/15pzFH5e4k4qQwOX5ffqQcJNPK4RnVJ-b5EFd9ZUtlJs/edit#gid=1034883018).
+
+| Intervention | Variable                                      | Value |
+|--------------|-----------------------------------------------|-------|
+| Deworming    | Aggregate adjustment development effect — DtW | 0.7%  |
+| Nets         | under 5 mortality reduction                   | 42%   |
+
+
+**Definition**: Yes "significant".
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes; 
+ 
+---
+
+**Claim**: Other GiveWell recommended programmes offer a "much more
+certain" probability of impact.
+
+**re-write Claim**:  The estimated probability of success attributed
+to the deviation of the RCTs from the current day interventions for
+most GiveWell recommended interventions are much greater than 1%.
+
+**Subject**: The estimated probability of success attributed to the
+deviation of the RCTs from the current day interventions for most
+GiveWell recommended interventions
+
+**Predicate**:  are much greater than 1%
+
+**Example-sub**: 
+
+GiveWell estimates the "probability of success" aka multiplying factor
+in the [2018 CE estimates](https://docs.google.com/spreadsheets/d/15pzFH5e4k4qQwOX5ffqQcJNPK4RnVJ-b5EFd9ZUtlJs/edit#gid=1034883018).
+
+
+
+| Intervention | contribution                                           | %    |
+|--------------|--------------------------------------------------------|------|
+| Cash         | short-term consumption increases                       | 55%  |
+| Cash         | investment returns in the future                       | 45%  |
+|              |                                                        |      |
+| Nets         | under 5 mortality reduction                            | 42%  |
+| Nets         | age 5 and over mortality reduction                     | 22%  |
+| Nets         | development effects                                    | 33%  |
+|              |                                                        |      |
+| SMC          | mortality reduction (ages 3- to 59-months)             | 66%  |
+| SMC          | mortality reduction (ages >59-month)                   | 5%   |
+| SMC          | development effects                                    | 29%  |
+|              |                                                        |      |
+| Deworming    | Aggregate adjustment development effect — DtW          | 0.7% |
+| Deworming    | Aggregate adjustment development effect — SCI          | 0.6% |
+| Deworming    | Aggregate adjustment  development effect — Sightsavers | 0.6% |
+| Deworming    | Aggregate adjustment development effect — END Fund     | 0.5% |
+|              |                                                        |      |
+
+**Definition**: checks out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes; 
+
+**Note to self:** Try to give yourself a challenge that you
+value. Something like working on this essay which "would be
+useful". It was painstakingly hard in the beginning. Working on the
+other things such a TIO seemed to be namesake I think.
+
+It was not hard to clock 6 hrs.. and Most likely I will make 8 hrs
+today. 
+
+It was 1 hr then 3 hrs straight and then 2 hrs straight and then 40
+mins break and then ... 
 
 > More clearly hits-based forms of RD are possible. GiveWell has done
 > various forms of more hits-based giving, including for example its
@@ -1621,3 +1856,32 @@ or basket ball (from random to 50% in a workout just by corrections)
 > antibiotics, or the agricultural research that led to the Green
 > Revolution.[1]
 
+**Definition**: Hits based giving is looking only at CE estimates and
+not at probability of success which could be quite high
+
+**Claim**: Hits-based forms of RD are possible.
+
+**re-write Claim**: 
+
+
+GiveWell seems to be using. Despite high risks of
+deworming it still recommends that
+
+
+
+**Claim**: Support for Center for Suicide prevention is hits-based by
+GiveWell
+
+
+CSPS is 9x cost effective than cash transfers. probability of success
+in India is estimated to be 10% and nepal to be 60%
+
+Does it have high risk and is it still cost effective?
+
+
+
+
+**Claim**: National scale-up of the RCT-supported education programme
+at the Right Level across Africa, is hits-based
+
+**Claim**: RD also includes advocacy and scale up of scientific research
