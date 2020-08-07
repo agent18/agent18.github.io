@@ -3,10 +3,10 @@ layout: post
 comments: true
 title:  "Narrowing down the claims"
 date:    20-06-2020 
-categories: drafts
+categories: posts
 tags: DP, feedback, examples
 permalink: /:title.html
-published: false
+published: true
 ---
 
 Claims from the book on toi
@@ -6050,7 +6050,6 @@ poverty rate and compute the R2 value.
 | Gambia                       | 58.34                   | 10.1                   |
 | Zambia                       | 53.02                   | 57.5                   |
 
-
 Aid amount vs head count poverty rate has an R2 value of 0.4%.
 
 **Definition**: checks out
@@ -6060,6 +6059,8 @@ Aid amount vs head count poverty rate has an R2 value of 0.4%.
 **Time**: 30 mins (extracting the data)
 
 ---
+
+### Figure 3
 
 > Direct anti-poverty programmes usually favored by proponents of RD,
 > such as cash transfers, microfinance, or the graduation approach,
@@ -6079,35 +6080,1089 @@ Aid amount vs head count poverty rate has an R2 value of 0.4%.
 proponents of RD), aim to raise the income of the poor at a given level
 of national median income.
 
-**re-write Claim**: Cash transfers aim to increase the income of the
-poor ~~at a given level of national median income~~.
-
-**Note**: I don't know how to check the last part hence the
-strike-through
+**re-write Claim**: Cash transfers aim to increase the ~~expenditure
+capability~~ of the poor ~~at a given level of national median
+income~~ over time.
 
 **re-write Claim**: Cash transfers increase the income of the poor.
 
 **Example-sub**: 
 
-**Definition**: 
+1000 USD was delivered to 10,500 households across
+328 villages in Siaya, Kenya.
+
+Expenditure has increased by USD PPP 293 (11.5% increase) 18 months
+after the start of transfers.
+
+[Source](https://www.givedirectly.org/wp-content/uploads/2019/11/General-Equilibrium-Effects-of-Cash-Transfers.pdf)
+
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-**Time**: more than 60 mins.
+**Time**: more than 60 mins trying to see what "at a given level of
+national median income" meant, by reading the paper.
+
+<!-- aug 2 -->
+
+**re-write Claim**: Cash transfers keep the national median income
+constant.
+
+**Note:** no idea how to check or how to rewrite to test it.
+
+**Failed**
+
+---
 
 **Claim**: differences across the country/years in the impact of
 these targeted poverty programmes conditional on the median account
 for at the very most 1.2 percent of the total cross-national variation
 in poverty rates.
 
+**re-write Claim**: (Differences across the "country/years")[1] in the
+("impact of interventions")[2], "conditional on (the median
+account)[3]", at most explains 1.2% of the "(total cross-national
+variation in poverty rates)[4]".
+
+**Note**: I tried reading that part of the paper, and they mention
+1.2% and they don't seem to have a proper citation. They have a foot
+note and it doesn't show what or where this 1.2% is coming from. Pg12.
+
+**Failed**
+
+**re-write Claim**: [1] in Poverty headcount rate when median
+consumption is held constant, accounts for 1.2% of [4].
+
+**Example-sub**: 
+
+[1] @ median consumption of 1000 units for 1.9`$` poverty line -->
+15% 
+
+[4] is 100% as countries variation in poverty rates are from 0 to 100%
+
+[Source: Figure 3](https://d101vc9winf8ln.cloudfront.net/documents/32264/original/RCTs_and_the_big_questions_10000words_june30.pdf?1565974982)
+
+**Definition**: Doesn't check out. WTF is this author and parrot from
+the blog post talking about.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 2 hrs
+
+However, if we look at the "impact of interventions", then they pretty
+much attack countries with high poverty rate > 0.35 (Kenya, Liberia
+cash transfers). SO,
+
+---
+
 **Claim**: This suggests that identifying the best direct anti-poverty
 programmes currently being implemented and scaling them up can at most
 have very limited low-bar poverty reduction benefits, unless these can
 be shown to increase national median income per head.
 
+**Note**: We can only comment on what is observed. What is observed is
+for a given median annual consumption the head count poverty rate
+doesn't vary too much (0-15%). But this is lower for poverty rates in
+the order of 30 to 50%, which is where GD does its cash transfers
+intervention. So if we look at a median consumption around 750 units
+in the same graph [Figure 3](https://d101vc9winf8ln.cloudfront.net/documents/32264/original/RCTs_and_the_big_questions_10000words_june30.pdf?1565974982), then we see <5%
+
+**re-write Claim**: Increase in headcount poverty rate observed at a
+constant median annual consumption is <20%
+
+**Example-sub**: 
+
+At 750 units of median consumption, we see that the heacount poverty
+rate of line 1.9`$` is less than 5%.
+
+**Definition**: checks out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 15 mins.
+
 **Claim**: There is no reason to think that many current RD
 programmes, such as cash transfers or the graduation approach,
 increase national median income.
+
+**Note**: Not sure how to check if the median income will stay the
+same if there is cash transfer or not. Don't have direct data atleast.
+
+---
+
+### From the paper
+
+This of course doesn’t mean that other factors like the change in the
+inequality or the adoption of “poverty” programs cannot make a
+difference or even that they cannot in principal make a “substantial”
+difference, it just says that empirically, relative to the massive
+changes associated with the change in the median (from poverty of 100
+percent to near zero percent), the differences at a given level of
+consumption are very modest compared to the gains from growth.
+
+**Claim**: Relative to (the massive changes associated with the change
+in the median)[1], the (differences at a given level of consumption)[2] are
+very modest compared (to the gains from growth)[3].
+
+**Note**: These are some of the most convoluted fucking sentences I have ever
+seen. No commas.. nothing. Fucking cunt of a writer. After half an
+hour of pondering over this fucking sentence. I think I get it... This
+nigga says "relative to [1]" and then "compared to [3]" which I think
+he means the same fucking thing. What a fucking retard. There are also
+typos which make me wonder what sort of shit publication this is.
+
+**re-write Claim**:  Relative to [1], [2] compared to [3] is very
+modest.
+
+**Example-sub**: 
+
+insert figure 3 from [here](https://d101vc9winf8ln.cloudfront.net/documents/32264/original/RCTs_and_the_big_questions_10000words_june30.pdf?1565974982).
+
+[1] --> If median annual consumption changes from 0 to 8000 units then
+headcount poverty rate goes from 100% to 0%
+
+[2] --> At any median annual consumption, for 1.9`$` poverty line, the
+variation of headcount poverty rate is at max 10%.
+
+[3] --> Its the fucking same as [1]. I don't think this "paper" was
+proof read.
+
+**Definition**: Checks out that [2] is modest AF based on the
+empirical evidence. 
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 40 mins
+
+---
+
+> This is not to say that decreasing inequality is not important: as we
+> saw above, inequality can have large effects on a country’s welfare
+> per person.
+
+Nigga is literally contradicting himself at this point. And also
+copying word for word from the paper. He doesn't distinguish between
+correlation and causation.
+
+**Claim**: inequality can have large effects on a country's welfare
+per person
+
+**re-write Claim**: GINI index is strongly correlated with GDP per
+capita
+
+**Example-sub**: 
+
+In 2013 the correlation between GINI index and log GDP per capita is -0.6
+
+[Source](https://ourworldindata.org/grapher/gdp-per-capita-vs-economic-inequality?zoomToSelection=true&minPopulationFilter=1000000)
+
+**Definition**: Doesn't check out
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 15 mins (getting data and finding the parameter to check
+with)
+
+---
+
+<!-- 4 so far. -->
+
+<!-- This was reallly hard. Jesus. -->
+
+---
+
+> The story of human welfare is well illustrated by this graph
+
+**Claim**: the story of human welfare is "well illustrated" by this
+graph.
+
+**re-write Claim**: Most of the World GDP increase happens in the last
+200-250 years.
+
+**Example-sub**: @1820 World GDP was at 1.2tr USD. @2013 it is
+\>101tn USD.
+
+Last 200 years GDP increase 100 tn USD,
+
+Before that, GDP increase 1tn for over 1800 years.
+
+[Source](https://ourworldindata.org/grapher/world-gdp-over-the-last-two-millennia)
+
+**Definition**: checks out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 10 mins
+
+---
+
+> Until 1800, average human welfare was stagnant, but after the
+> Industrial Revolution, living standards exploded. This preceded most
+> development economics. However, the end of the Second World War
+> marked the start of what Pritchett calls the ‘development era’ with:
+>
+> - The end of colonisation with the liberation of India, Pakistan and
+>   Indonesia  
+> - The founding of the Bretton Woods institutions - the IMF and the
+>   World Bank  
+> - Truman’s Four Point plan to provide technical assistance to
+>   developing countries  
+> - Overall a concerted effort by economists and sovereign states to
+>   increase development[21]  
+
+**Claim**: Until 1800 average human welfare was stagnant.
+
+**re-write Claim**: Until 1800 World GDP was <2 tn USD
+
+**Example-sub**: 
+
+Before 1820, GDP was 1.2tn for over 1800 years.
+
+[Source](https://ourworldindata.org/grapher/GDP-per-capita-in-the-uk-since-1270)
+
+**Definition**: checks out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 5 mins
+
+---
+
+**Claim**: After industrial revolution, living standards exploded.
+
+**re-write Claim**: GDP increase from 1840 to 1940 was much larger
+(>10 times) than GDP increase from 1740 to 1840
+
+**Example-sub**: 
+
+1740 to 1840  6600bn USD
+
+1840 to 1940  600bn USD
+
+6600/600>11
+
+**Definition**: checks out
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 5 mins.
+
+<!-- 7 so far.. -->
+
+<!-- aug 3 -->
+
+**Claim**: this preceded most development economics.
+
+**re-write Claim**: Industrial revolution preceded most development
+economics.
+
+**re-write Claim**: Industrial revolution preceded the green
+revolution
+
+**re-write Claim**: Invention of steam engine preceded the Mexican
+Agricultural program
+
+**Example-sub**: 
+
+1712: Invention of steam engine
+
+1943: Mexican agricultural program begins---[wiki](https://www.sourcewatch.org/index.php/Timeline_of_the_Green_Revolution#:~:text=1953%3A%20Norman%20Borlaug%20receives%20semi,the%20term%20%22Green%20Revolution.%22)
+
+**Definition**: Checks out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 30 mins
+
+---
+
+**Claim**: the end of the Second World War marked the start of what
+Pritchett calls the ‘development era’ with The end of colonization
+with the liberation of India, Pakistan and Indonesia
+
+**re-write Claim**: End of second World War preceded the start
+liberation of India, Pakistan and Indonesia
+
+**re-write Claim**: Year in which Germany and Japan surrendered to
+Allies (WW2) preceded the year of independence of India, Pakistan.
+
+**Example-sub**: 
+
+1945: [Year in which Germany and Japan surrendered](http://www.primaryhomeworkhelp.co.uk/war/end.html)
+
+1947: [end of British rule in India/Pakistan](https://www.bbc.com/news/world-south-asia-12641776)
+
+**Definition**: 
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 15mins
+
+**Claim**: the end of the Second World War marked the start of what
+Pritchett calls the ‘development era’ with The founding of the Bretton
+Woods institutions - the IMF and the World Bank
+
+**re-write Claim**: Year in which Germany and Japan surrendered to
+Allies (WW2) and the year of founding of the Bretton Woods
+Institutions was within 1 year.
+
+**Example-sub**: 
+
+1945: [Year in which Germany and Japan surrendered](http://www.primaryhomeworkhelp.co.uk/war/end.html)
+
+1944: [Year of founding of the Bretton Woods Institutions](https://www.brettonwoodsproject.org/2019/01/art-320747/#:~:text=The%20Bretton%20Woods%20Institutions%20are,Hampshire%2C%20USA%20in%20July%201944.&text=The%20creation%20of%20the%20World,of%20the%20Second%20World%20War.)
+
+**Definition**: checks out
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 5mins
+
+**Claim**: the end of the Second World War marked the start of what
+Pritchett calls the ‘development era’ with Truman’s Four Point plan to
+provide technical assistance to developing countries
+
+**re-write Claim**: Year in which Germany and Japan surrendered to
+Allies (WW2) preceded the Trumans inaugural address on plan for
+developing countries.
+
+**Example-sub**: 
+
+1945: [Year in which Germany and Japan surrendered](http://www.primaryhomeworkhelp.co.uk/war/end.html)
+
+1949: [Inaugural Address of Truman's four point program](https://en.wikipedia.org/wiki/Point_Four_Program#:~:text=The%20Point%20Four%20Program%20was,objective%20mentioned%20in%20the%20speech.) for developing
+countries
+
+**Definition**: checks out
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 5mins
+
+**Claim**: the end of the Second World War marked the start of what
+Pritchett calls the ‘development era’ with Overall a concerted effort
+by economists and sovereign states to increase development[21]
+
+**re-write Claim**: Year in which Germany and Japan surrendered to
+Allies (WW2) was few years within the Mexican agricultural program began.
+
+**Example-sub**: 
+
+1945: [Year in which Germany and Japan surrendered](http://www.primaryhomeworkhelp.co.uk/war/end.html)
+
+1943: Mexican agricultural program begins---[wiki](https://www.sourcewatch.org/index.php/Timeline_of_the_Green_Revolution#:~:text=1953%3A%20Norman%20Borlaug%20receives%20semi,the%20term%20%22Green%20Revolution.%22)
+
+**Definition**: Checks out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 10 mins
+
+The development era was a huge success: since 1950, human welfare has
+improved on all objective measures by more than all prior human
+history combined.[22] On the chart below, countries can move
+vertically up from the diagonal line (meaning that they had positive
+growth), or vertically down from the diagonal line (meaning that they
+had negative growth).
+
+**Claim**: The development era was a huge success
+
+**re-write Claim**: GDP per capita increase from 0 to 1950 was smaller
+than 1950 to 2010
+
+**Example-sub**: 
+
+0-1950: 9.2tn`$`
+
+1950 to 2010: 76tn`$`
+
+[Source](https://ourworldindata.org/grapher/world-gdp-over-the-last-two-millennia?tab=table&time=1950..2009)
+
+**Definition**: checks out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 15 mins.
+
+**Claim**: Since 1950, human welfare has improved on all objective
+measures by more than all prior human history combined.[22]
+
+**Note**: Instead of doing all objective measures, we just look at
+Life expectancy
+
+**re-write Claim**: Life expectancy of world increase from 1770 to 1950 was smaller
+than 1950 to 2010
+
+**Example-sub**: 
+
+1770: 28.7 years
+
+1950: 47.5 years
+
+2010: 69.5 years
+
+1770 to 1950 --> 18.8 years in 180 years
+
+1950 to 2010 --> 22 years in 60 years.
+
+[Source](https://ourworldindata.org/grapher/life-expectancy?time=1770..2015&country=~OWID_WRL)
+  
+**Definition**: checks out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 10 mins
+
+**Claim**: countries can move vertically up from the diagonal line
+(meaning that they had positive growth), or vertically down from the
+diagonal line (meaning that they had negative growth).
+
+**re-write Claim**: Many countries have had positive GDP per capita
+increase from 1950 to 2016 and some countries have had -ve GDP per
+capita increase from 1950 to 2016.
+
+**Example-sub**: 
+
+More than 100 countries seem to have had positive growth since 1950.
+
+Around 9 countries have had negative growth since 1950.
+
+[Source](https://ourworldindata.org/uploads/2020/01/Scatter-1950-vs-2016-GDP-1-2048x2048.png)
+
+**Definition**: checks out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 15mins
+
+---
+
+It is important to note that the development era was not all plain
+sailing and that there have been some major growth decelerations, as
+we discuss below. Nevertheless, the net effect of the era has been
+overwhelmingly positive.
+
+**Claim**: It is important to note that the development era was not
+all plain sailing and that there have been some major growth
+deceleration's
+
+**re-write Claim**: It is important to note that the dev era was not
+all plain sailing.
+
+important???
+
+**re-write Claim**: Dev era was not all plain sailing
+
+**re-write Claim**: There have been some major growth deceleration's.
+
+**re-write Claim**: Some countries have had negative growth since
+1950.
+
+**Example-sub**: 
+
+Zimbabwe, Democratic Republic of congo, Central African Republic,
+Burundi, Niger etc... all have ratios of 2010 GDP per capita vs 1950
+GDP per capita as less than 1.
+
+[Source](https://ourworldindata.org/uploads/2020/01/Scatter-1950-vs-2016-GDP-1-2048x2048.png)
+
+**Definition**: checks out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 10 mins
+
+---
+
+**Claim**: Nevertheless, the net effect of the era has been
+overwhelmingly positive.
+
+**re-write Claim**: Ratio of countries with positive GDP per capita growth and
+negative GDP per capita decrease is >10 from 1950 to 2010
+
+**Example-sub**: 
+
+atleast 110 countries with net positive GDP per capita
+
+9 countries with net negative GDP per capita
+
+[Source](https://ourworldindata.org/uploads/2020/01/Scatter-1950-vs-2016-GDP-1-2048x2048.png)
+
+**Definition**: checks out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 10 mins.
+
+If things are going so well, why would we start working on a
+completely different form of development economics? It seems like the
+best course would be to broaden and accelerate this process globally,
+and replicate previous successes. Moreover, the failures that do exist
+seem to make the case for improving our knowledge of growth and the
+likelihood of policy success. (We discuss this in more detail below).
+
+**Claim**: It is not a good idea to work on something completely
+different form of development economics, when things are going so
+well.
+
+Very hard don't know where to start what do they mean by the current
+form of dev eco anyways. 
+
+**failed**
+
+**time**: 20 mins
+
+**re-write Claim**: Things are going so well with the current form of
+dev eco
+
+**re-write Claim**: Most countries with positive growth have grown 2x
+richer atleast since 1950 and some even 30x richer.
+
+**Example-sub**: 
+
+Out of atleast 110 countries with +ve growth, it appears that 97
+countries are 2x richer since 1950 in terms of GDP per capita.
+
+[Source](https://ourworldindata.org/uploads/2020/01/Scatter-1950-vs-2016-GDP-1-2048x2048.png)
+
+**Definition**: checks out
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 10 mins
+
+
+**Claim**: It seems like the best course would be to broaden and
+accelerate this process globally, and replicate previous successes.
+
+maybe comeback? seems like a thesis type of situation?
+
+**failed**
+
+**re-write Claim**: 
+
+**Claim**: Moreover, the failures that do exist seem to make the case
+for improving our knowledge of growth and the likelihood of policy
+success. 
+
+**failed**
+
+**re-write Claim**: Failures do exist of the dev eco era.
+
+**re-write Claim**: Some countries have had negative growth since
+1950.
+
+**Example-sub**: 
+
+Zimbabwe, Democratic Republic of congo, Central African Republic,
+Burundi, Niger etc... all have ratios of 2010 GDP per capita vs 1950
+GDP per capita as less than 1.
+
+[Source](https://ourworldindata.org/uploads/2020/01/Scatter-1950-vs-2016-GDP-1-2048x2048.png)
+
+**Definition**: checks out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 1 mins (copied from above)
+
+<!-- 12 so far -->
+
+---
+
+RD has moved in an entirely different direction. Instead of
+replicating this success, it asks: among interventions that we can
+test with RCTs, what is most impactful? In the wake of the period with
+by far the greatest progress in human welfare of all time, this change
+in strategy is difficult to justify.
+
+**Claim**: RD has moved in an entirely different direction
+
+**re-write Claim**: RD is not trying to replicate what happened from
+1950 to 2010
+
+**re-write Claim**: GiveWell does not recommend any intervention which
+involves "trade liberalization".
+
+**re-write Claim**: GiveWell does not recommend any intervention
+"focusing" on Trade.
+
+**Example-sub**: GiveWell top recommended charities are focused on
+Deworming and malaria.
+
+**Definition**: checks out
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 15 mins (bit hard. Struggled to find a way to test "what
+happened from 1950 to 2010")
+
+**re-write Claim**: RD trying to do other things instead
+
+**re-write Claim**: GiveWell recommends interventions on Deworming and
+malaria
+
+**Example-sub**: GiveWell's top recommended charities are Malaria
+consortium, Deworming The World etc...
+
+[Source](https://www.givewell.org/)
+
+**Definition**: checks out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 2 mins
+
+**Claim**: RD doing other things is difficult to justify
+
+**Note**: 
+
+Author says, last 50 years look at GDP per capita and look at life
+expectancy. We should focus on GDP per capita. Author is pissed that
+RD is working on Deworming the world because there is no clear
+indication that it increases the GDP per capita and if it is the best
+way to increase GDP per capita.
+
+**re-write Claim**: Deworming the world has no clear evidence on GDP
+per capita
+
+**re-write Claim**: Deworming The World has no clear evidence on being
+the best way to increase GDP per capita.
+
+**re-write Claim**: Deworming the world does not improve long term
+income (let alone GDP per capita)
+
+I tried understanding the paper but it was all too much. I didn't
+understand and it was too long to read every sentence. Skimming for
+results didn't help.
+
+**re-write Claim**: GiveWell does not believe that Deworming The World
+improves the long term income.
+
+**Example-sub**: 
+
+"However, after further investigation and updates based on new data,
+we no longer believe that these studies provide substantial support
+for the theory that deworming has long-term impacts. "---[GiveWell](https://www.givewell.org/international/technical/programs/deworming)
+
+**Definition**: checks out
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 40 mins (mainly trying to read the paper and see if I can
+use it to inform the presence of weak evidence).
+
+As a way to guide the comparison with RD, it is interesting to compare
+this progress with the estimated effect of Deworming. Of GiveWell’s
+top charities, Deworm the World is estimated to offer the most
+cost-effective way to improve economic outcomes for the very poor. But
+given the story above, it would be very surprising if this was the
+case: differences in rates of deworming explain a miniscule fraction
+of the variation in individual economic outcomes across the
+world. No-one argues that deworming is among the top 1000 causes of
+the huge economic transformation documented above.
+
+**Claim**: it is interesting to compare "this" progress with the
+estimated effect of Deworming
+
+**re-write Claim**: Estimated increase in gdp per capita increase from
+2000 to 2010 is 1000 times higher than estimated gdp per capita as a
+result of Deworming.
+
+No idea how to get the impact of Deworming on GDP per capita.
+
+**Failed**
+
+**Claim**: Deworm the World is estimated to offer the most
+cost-effective way to improve economic outcomes for the very poor.
+
+**re-write Claim**: Deworming The World is estimated to offer the most
+cost-effective program from GiveWell's top charity recommendations
+~~to improve economic outcomes for the very poor~~
+
+**Example-sub**: 
+
+Deworming The World has a cost-effectiveness of 67, while Bednets has
+17, VAS has 15, SMC has 16, and Deworming Sightsavers has 9 (all
+compared to "cash" transfers).
+
+**Definition**: checks out
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 5 mins.
+
+**Claim**: it would be very surprising if "differences in rates of
+deworming explain a miniscule fraction of the variation in individual
+economic outcomes across the world."
+
+"It would be surprising"
+
+**Claim**: differences in rates of deworming explain a miniscule
+fraction of the variation in individual economic outcomes across the
+world.
+
+Connecting deworming to GDP per capita I don't know how. I could make
+an estimation based on how many people it is expected to reach, with
+some adjustment factors etc... It would take time. I can't quickly
+test it.
+
+**Claim**: No-one argues that deworming is among the top 1000 causes of
+the huge economic transformation documented above.
+
+**re-write Claim**: GiveWell does not suggest that deworming helps
+increase economic output
+
+**failed**
+
+Moreover, given that GiveWell estimates that deworming has similar
+impact on welfare (broadly conceived) to their other top charities,
+this should lead us to question whether their other top charities are
+the best way to increase human welfare, broadly conceived.
+
+What do you expect me to do here? Can you give an example?
+
+The part with Deworming The World was really painful.
+
+## Cost-effectiveness analysis: RD vs. Growth
+
+Though growth is a major determinant of human welfare today, it does
+not follow that research and advocacy for growth and national
+development are more cost-effective than RD interventions. While the
+payoff might be large, the probability of influencing policy, or the
+probability that you know better than policymakers, might be low
+enough to make the expected value of such work lower than RD.
+
+**Claim**: Growth is a major determinant of human welfare today.
+
+**re-write Claim**: GDP per capita is strongly correlated with
+"expanded welfare metric"
+
+**Example-sub**: 
+
+0.96
+
+[Source: Figure 7 pg 2451](http://klenow.com/Jones_Klenow.pdf)
+
+**Definition**: checks out
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 5 mins
+
+**Claim**: It does not follow that research and advocacy for growth
+and national development are more cost-effective than RD
+interventions.
+
+**re-write Claim**: research and advocacy for growth and national
+development are more cost-effective than RD interventions.
+
+Thesis type come back?
+
+
+**Claim**: While the payoff might be large, the probability of
+influencing policy, or the probability that you know better than
+policymakers, might be low enough to make the expected value of such
+work lower than RD.
+
+**re-write Claim**: Thesis type. Let's see if there are examples
+first.
+
+> Pritchett has a convincing response to this argument. He compares a
+> popular form of RD, the Graduation approach, with research on and
+> advocacy for growth.
+
+> The Ultra Poor Graduation program gets people out of extreme poverty
+> via livelihood training, productive asset transfers, consumption
+> support, savings plans, and healthcare. It is one of the most
+> well-tested and impactful direct anti-poverty programs. (Founders
+> Pledge research suggests that Bandhan, a charity carrying out the
+> Graduation approach, is 5x a cost-effective as cash. GiveWell
+> estimates that Malaria Consortium is 15.8 times as cost-effective as
+> cash. Thus, it seems fair to roughly assume that Malaria Consortium is
+> around 3 times more cost-effective than the Graduation approach.)
+
+**Claim**: the Ultra Poor Graduation program gets people out of
+extreme poverty via livelihood training, productive asset transfers,
+etc...
+
+**re-write Claim**: average income before the 3 year graduation program is <1.9`$`  
+
+**Example-sub**: 
+
+The criteria for different countries seem to be different in the
+study.
+
+For Pakistan the eligibility criteria is 1.74`$` PPP. But for
+Honduras the eligibility criteria seems to be 2.18`$` (67.82/31). For
+other countries, it's not even based on income. 
+
+[Source](http://www.econ.yale.edu/~cru2/pdf/Science-2015-TUP.pdf)
+
+**Definition**: Does not check out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 30 mins or more. (finding evidence is insanely hard, reading
+and extracting info.)
+
+**re-write Claim**: average income after 3 year graduation program is
+\>1.9`$` PPP
+
+**Note** above is not available, so we are happy if average
+consumption + increase in asset value due to program is > than
+eligibility criteria
+
+**re-write Claim**: Annual consumption per person "attributed to the
+program" is > 1.9`$` 
+
+**Example-sub**: 
+
+Let's take Pakistan and in third year (one year after the stopping of
+the intervention):
+
+Non-durable annual consumption as a result of the program per
+household = 451 USD PPP
+
+**Definition**: Assuming 2 people even per household, this doesn't
+seem to be greater than 1.9 USD PPP. Doesn't check out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 120 mins (trying to understand the paper and find key
+parameters which we can use to understand the outcome)
+
+There are more intricate details, but it is too much to go into it
+right now.
+
+**Claim**: It is one of the most well-tested and impactful direct
+anti-poverty programs.
+
+**Note**: How do you test well-tested? You will always get google
+scholar results for anything and everything.
+
+**re-write Claim**: Graduation program is "one of the most" impactful
+direct anti-poverty programs.
+
+**re-write Claim**: Graduation program is ~~one of the most~~ more
+cost-effective than Cash transfers.
+
+**Example-sub**: 
+
+Bandhan's Graduate program is 5x as cost-effective as Cash Transfers(according
+to Founders Pledge an organization that does not believe in citations
+or transparency). I can't find this in Founders pledge research but
+quote the authors of the blog post for this.
+
+**Definition**: checks out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 15mins
+
+**Claim**: Thus, it seems fair to roughly assume that Malaria
+Consortium is around 3 times more cost-effective than the Graduation
+approach.)
+
+Can't test. Not sure what it means.
+
+> A range of RCTs in different contexts have shown that the Graduation
+> approach raised year 3 incomes in 5 out of 6 study sites. The study
+> suggests that the intervention on average produces a 1.6x return in
+> net present value.[23] Thus, $1000 invested in the intervention
+> would produce $1,600 in net present value. There are around 100
+> million people in Ethiopia, so $1 billion invested in the graduation
+> approach there would increase per capita income by $16.
+
+**Claim**: A range of RCTs in different contexts have shown that the
+Graduation approach raised year 3 incomes in 5 out of 6 study sites.
+
+**re-write Claim**: 6 RCTs in different countries have shown that the
+Graduation Programme raised year 3 consumption in 5 out of 6 sites
+compared to control group.
+
+**Example-sub**: 
+
+According to [this paper](http://www.econ.yale.edu/~cru2/pdf/Science-2015-TUP.pdf), Year 3 non-durable annual consumption due
+to the program is +ve for 5 sites with the exception being Honduras (-ve)
+
+**Definition**: checks out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 10 mins
+
+> Compare this to the per-person value of growth accelerations and
+> decelerations documented by Pritchett et al (2016). These are
+> defined as the change in output per capita resulting from one
+> structural break in the trend growth of output to the next. These
+> acceleration or deceleration typically range from 10 to 30
+> years. The per person benefits (costs) of these growth accelerations
+> (decelerations) are orders of magnitude greater than the impact of
+> the Graduation programme:[24]
+
+**Claim**: Per person "benefits of growth accelerations" are orders of
+magnitude greater than the potential impact of graduation programme.
+
+**re-write Claim**: GDP per capita increase due to the "Black-box
+growth acceleration" is orders of magnitude higher than potential
+gdp per capita increase of graduation programme.
+
+**Example-sub**: 
+
+Potential gdp per capita increase of graduation programme in Ethiopia:
+
+- Benefit to cost is 1.6 times on average. ([Table 4 line 11](http://www.econ.yale.edu/~cru2/pdf/Science-2015-TUP.pdf))
+
+- Ethiopian population is 100 million.
+
+- Investing 1billion USD will therefore *could* get a per capita increase of
+  16$ per year..
+
+Whereas GDP per capita increase due to "black-box growth acceleration"
+in the past for Brazil in 1967
+
+"Per capita gain per annum in NPV of GDP from a single large growth
+acceleration" = 551`$`  in Brazil around 1967 ([Table 4](https://www.sciencedirect.com/science/article/pii/S0264999316300311))
+
+551/16 = 34 times
+
+**Definition**: checks out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**time:** More than 6-10 hours. Had to dive deep into these NPV and
+understand a bunch of claims there before I came back to answer this
+claim.
+
+**Claim**: Growth accelerations happened in Brazil in 1967
+
+"an acceleration in 1967 in which growth increased from 4.16 to 5.16
+ppa... These acceleration and deceleration years create four episodes
+of growth (1950–1967, 1967–1980, 1980–2002 and 2002–
+2010). "---[Section 2.4 on Brazil](https://www.sciencedirect.com/science/article/pii/S0264999316300311)
+
+But this is not good enough for us. So,
+
+**re-write Claim**: From 1950 to 1967 the "growth" was 4.16 ppa in Brazil
+
+**re-write Claim**: From 1950 to 1967 the regression slope of log GDP
+per capita in Brazil vs years was 4.16% +-0.5%
+
+**Example-sub**: 
+
+Using [data](https://ourworldindata.org/grapher/real-gdp-per-capita-PWT) from Our World In Data:
+
+Slope of regression 3.86%
+
+**Definition**: checks out
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: Part of the 10 hours spent on understanding all of this.
+
+**re-write Claim**: From 1967-1980 the the "growth" was 4.16 ppa in Brazil
+
+**re-write Claim**: From 1950 to 1967 the regression slope of log GDP
+per capita in Brazil vs years was 5.16% +-0.5%
+
+**Example-sub**: 
+
+Using [data](https://ourworldindata.org/grapher/real-gdp-per-capita-PWT) from Our World In Data:
+
+Slope of regression 5.01%
+
+**Definition**: checks out
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: Spent 2 hrs time identifying what ppa meant.
+
+**re-write Claim**: Growth accelerations happened in 1967
+
+**re-write Claim**: Slope of regression between log GDP per capita vs
+years in Brazil increased from [1950-1967] and [1967-1980]
+
+**Note**: I didn't delve into how these year brackets come about. I
+assume the author has his reasons.
+
+**Example-sub**:
+
+1950-1967 --> 3.86%
+
+1967-1980 --> 5.01%
+
+**Definition**: Checks out
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**time**: -
+
+**Claim**: "Growth accelerations" end up with trillions of dollars NPV
+
+**re-write Claim**: Growth increase in % compared to counterfactual in 1967
+over the entire growth period (using discount rate of 5%)
+
+**re-write Claim**: Net present Value in 1967 of Actual GDP per capita
+minus PRM GDP per capita from 1967 to 1980 in Brazil is in trillions
+of dollars
+
+**Example-sub**: 
+
+Actual GDP per capita from 1980 to 2002 from : [data](https://ourworldindata.org/grapher/real-gdp-per-capita-PWT)
+
+PRM GDP per capita computed from 2.87 ppa: [From the paper
+itself](https://www.sciencedirect.com/science/article/pii/S0264999316300311). Not going to go into calculating this. Just accept the
+value for now.
+
+Net Present Value of Actual minus PRM is calculated as follows: 
+`$\sum_{n=1}^{n=22} \frac{1}{1+r^n} (GDP_{actual} - GDP_{PRM})$ ` 
+
+This is in GDP per capita. If we multiply this with 88mn (population
+of Brazil in 1967), then we get +ve 1 tn USD.
+
+**Definition**: checks out
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**:  10 mins
+
+**re-write Claim**: Loss of 7.5 trillion dollars from 1980 to 2002 for
+Brazil
+
+**re-write Claim**: Net Present Value in 1980 of Actual GDP per capita
+minus PRM GDP per capita from 1980 to 2002 in Brazil is -ve 7.5 +-2
+trillion dollars
+
+**Example-sub**: 
+
+Actual GDP per capita from 1980 to 2002 from : [data](https://ourworldindata.org/grapher/real-gdp-per-capita-PWT)
+
+PRM GDP per capita computed from 4.5 ppa: [From the paper
+itself](https://www.sciencedirect.com/science/article/pii/S0264999316300311). Not going to go into calculating this. Just accept the
+value for now.
+
+Net Present Value of Actual minus PRM is calculated as follows: 
+`$\sum_{n=1}^{n=22} \frac{1}{1+r^n} (GDP_{actual} - GDP_{PRM})$ ` 
+
+This is in GDP per capita. If we multiply this with 120mn (population
+of Brazil in 1980), then we get -ve 6 tn USD.
+
+**Definition**: checks out
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 90 mins (tough one with piecing all th epieces together
+trying to split the claim etc...)
+
+**Claim**: Largest growth acceleration produce total benefits in the
+hundreds of billions of dollars in net present value.
+
+
+I think this is done... But I want to get to NPV trillions. For now I
+have reproduced the growth rates and counterfactual I have assumed
+and next I want to move on to other things...
+
 
 ## Statistics
 
@@ -6156,3 +7211,7 @@ estimated variance for Gene X
 - check if the **Subject**: matches the claim for each and the
   predicate too.
 - check for Dollar issues
+
+
+fucking helll finally 200 is over... no over to corrections and
+sending it to an STM.
