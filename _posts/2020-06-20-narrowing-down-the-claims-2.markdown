@@ -2437,12 +2437,15 @@ again thesis type posts... for the end I guess.
 
 ---
 
-### 3.1
-
-> title
+### 3.1 Econ growth
 
 **Claim**: Economic growth explains a substantial fraction of the
 variance in human welfare today
+
+**re-write Claim**: GDP per capita correlates with "expanded welfare
+metric"
+
+**Note**: Answered below.
 
 > In this section, we discuss the relationship between income per head
 > and different objective and subjective measures of welfare.
@@ -2450,11 +2453,11 @@ variance in human welfare today
 **Claim**: we discuss the relationship between income per head
 and different objective and subjective measures of welfare.
 
-thesis type
+**Note**: Answered below.
 
 ---
 
-> Income per head and broad measures of welfare
+> Income per head and broad measures of welfare (title)
 >
 > Today, there is significant variation in income per head across the
 > world
@@ -2465,8 +2468,12 @@ the world.
 **re-write Claim**: There is significant variation in GDP per capita
 across the world
 
-**Example-sub**: US GDP 2016 is 53000`$`. India's is at
-5000`$`. Democratic republic of Congo is at 836`$`.
+**re-write Claim**: There is variation in orders of magnitude in GDP
+per capita across the world.
+
+**Example-sub**: US GDP 2016 is 53000`$`. India's is at 5000`$` (one
+order smaller than US). Democratic republic of Congo is at 836`$` (2
+orders smaller than US).
 
 [Source: section 3.1](https://forum.effectivealtruism.org/posts/bsE5t6qhGC65fEpzN/growth-and-the-case-against-randomista-development#3_1__Economic_growth_explains_a_substantial_fraction_of_the_variance_in_human_welfare_today)
 
@@ -2476,34 +2483,25 @@ across the world
 
 **Time**: 15mins
 
-<!-- income measured as GDP per capita -->
-
-<!-- Gross domestic product (GDP) is the total monetary or market value of -->
-<!-- all the finished goods and services produced within a country's -->
-<!-- borders in a specific time period. -->
-
 ---
 
-<!-- 15-juli 2020 -->
-
-**Claim**: If markets function reasonably well and people are broadly
-rational, then richer people will buy more goods which have a
-substantial private good element.
+**Claim**: If "markets function reasonably well" and people are
+"broadly rational", then "richer people" will buy more goods which have
+a "substantial private good element".
 
 **re-write Claim**: In places with GDP per capita >50k USD, then
 richer people will buy more goods which have a ~~substantial~~ private
 good element.
 
-**re-write Claim**: In Netherlands people earning greater than 50k USD
-spend more on food, shelter, electricity, than people earning 35k USD.
+**re-write Claim**: The more money you earn the more people tend to
+spend on ~~food and~~ shelter in countries like Netherlands.
 
 **Example-sub**: 
 
-A friend I know earns 300kTC in California and bought a house 3 story
-house worth 1m USD. Here I can barely afford a 250k USD house so I
-rent for 12k a year.
+When I earned 42k I spent 5760 on rent. When I earned 60k I spent 9600
+euros on rent.
 
-**Definition**: Think so
+**Definition**: checks out
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes; HARD still.
 
@@ -2515,15 +2513,15 @@ rent for 12k a year.
 large differences in human welfare due to differential consumption of
 private goods.
 
-**re-write Claim**: "Large" cross-national differences in GDP per
-capita correlate with  large differences in human welfare ~~due to differential
+**re-write Claim**: ~~"Large"~~ cross-national differences in GDP per
+capita predicts differences in human welfare ~~due to differential
 consumption of private goods.~~
 
-**Note**: Causation is hard to establish. so we skip it.
+**Note**: Causation is hard to establish. So we skip it.
 
 **Example-sub**: 
 
-Consider Niger and Portugal. 
+Consider Niger and Portugal. All values are w.r.t that of the US.
 
 |          | welfare metric | GDP per person |
 |----------|----------------|----------------|
@@ -2532,14 +2530,13 @@ Consider Niger and Portugal.
 
 [Welfare metric](https://forum.effectivealtruism.org/posts/bsE5t6qhGC65fEpzN/growth-and-the-case-against-randomista-development#Income_per_head_and_broad_measures_of_welfare).
 
-**Definition**: Differences in wellness and GDP per capita correlate
+Differences in GDP per capita predicts differences in welfare metric
+
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
 **Time**: 30mins
-
-**Note**: "due to differential consumption of private goods" is tough
-to work out. not even gonna try
 
 ---
 
@@ -2548,8 +2545,8 @@ to work out. not even gonna try
 **re-write Claim**: Effects of donating to charity is non-rivalrous
 and non-excludable
 
-**Example-sub**: Sending 4k USD to AMF saves one life adding to the
-total utility of the world. 
+**Example-sub**: Increasing the total utility of the world by sending
+4k USD to AMF.
 
 **Definition**: This total utility is non-excludable, as you cannot
 stop someone from experiencing the joy of increasing the total utility
@@ -2581,20 +2578,21 @@ doesn't mean other person can't feel happy as well.
 <!-- gates, even then substantial portion goes into himself. -->
 
 ---
-<!-- 16juli -->
-This does not mean that GDP is all that matters. The metric of GDP per
-capita misses some crucial contributors to human welfare, including:
 
-- Public goods: Increasing income per head reliably increases
-  consumption of private goods. However, it might not necessarily
-  increase public goods, such as public health interventions, clean
-  air, public safety, electricity grids, sanitation, and so on.
-  
-- Consumption: High levels of investment increase GDP but also
-  constitute foregone consumption, which involves a loss of welfare that
-  is not reflected in GDP.  Leisure: High hours worked per capita
-  deliver higher GDP but also constitute foregone leisure time, which
-  involves a loss of welfare that is not reflected in GDP
+> This does not mean that GDP is all that matters. The metric of GDP
+> per capita misses some crucial contributors to human welfare,
+> including:
+>
+> - Public goods: Increasing income per head reliably increases
+>   consumption of private goods. However, it might not necessarily
+>   increase public goods, such as public health interventions, clean
+>   air, public safety, electricity grids, sanitation, and so on.
+>   
+> - Consumption: High levels of investment increase GDP but also
+>   constitute foregone consumption, which involves a loss of welfare that
+>   is not reflected in GDP.  Leisure: High hours worked per capita
+>   deliver higher GDP but also constitute foregone leisure time, which
+>   involves a loss of welfare that is not reflected in GDP
 
 **Claim**: The metric of GDP per capita misses some crucial
 contributors to human welfare
@@ -2605,19 +2603,11 @@ an increase in production of public goods
 **re-write Claim**: Increase in GDP per capita does not mean there is
 an increase in government spending on healthcare per capita.
 
-Increase in govt. spending on healthcare is a proxy for the "value you
-get from govt saving lives as a result of spending on healthcare"
-(which is a public good)
+**re-write Claim**: Increase in GDP per capita and increase in
+government spending on healthcare per capita do not happen at the same
+time.
 
 **Example-sub**: 
-
-Increase in GDP per capita in India 1995 to 2014: 1565 USD to 5312 USD
-
-Increase in population: 936m to 1.3b
-
-Increase in GDP : 1.4T to 6.9T (multiplying I and II)
-
-Increase in healthcare spending as a percentage of GDP: 1% to 1.4%
 
 |    | India                          | 1995  | 2014 | Unit       | comment |
 |----|--------------------------------|-------|------|------------|---------|
@@ -2628,16 +2618,15 @@ Increase in healthcare spending as a percentage of GDP: 1% to 1.4%
 | 5. | healthcare spending per capita | 14.9  | 74.3 | USD        | 4x3/2   |
 	
 	
-Percentage increase in GDP per capita: 239%
+- Percentage increase in GDP per capita: 239%
 
-Percentage increase in healthcare spending per capita: 398%
+- Percentage increase in healthcare spending per capita: 398%
 
-[GDP per capita](https://ourworldindata.org/grapher/average-real-gdp-per-capita-across-countries-and-regions?time=1995..2016&country=~IND)
+- [GDP per capita](https://ourworldindata.org/grapher/average-real-gdp-per-capita-across-countries-and-regions?time=1995..2016&country=~IND)
 
-[Population](https://ourworldindata.org/grapher/population?country=~IND)
+- [Population](https://ourworldindata.org/grapher/population?country=~IND)
 
-[Government spending on health care as a function of GDP](https://ourworldindata.org/government-spending)
-
+- [Government spending on health care as a function of GDP](https://ourworldindata.org/government-spending)
 
 **Definition**: As far as India is concerned it appears that Increase
 in GDP per capita and increase in healthcare spending happen at the
@@ -2649,20 +2638,23 @@ same time.
 
 ---
 
-<!-- think in terms of value of a goooood. Value of a service etc... -->
 **Claim**: Public health intervention is a public good
 
 **re-write Claim**: The value of Public health intervention is
 non-rivalrous and non-excludable
 
 **Example-sub**: AMF does LLIN interventions in developing countries
-saving roughly 12500 lives (worth `12500 x 7m$=87500m$`) in 2016
-alone. For this AMF spent 50m USD.
+saving roughly 12500 lives in 2016 alone (50mn `$` with each life
+costing 4k `$`). For this AMF spent 50m USD.
+
+Value of a LLIN interventions: `12500 x 7m$`= `87bn$`
 
 [Source: Value of a life](http://www.law.harvard.edu/programs/olin_center/papers/pdf/Viscusi_517.pdf)
 
-**Definition**: This value fo 87500m USD is non-excludable and
-non-rivalrous.
+**Definition**: This total utility is non-excludable, as you cannot
+stop someone from experiencing the joy of increasing the total utility
+of the world by 87bn. This is also non-rivalrous as if one person
+feels happy doesn't mean other person can't feel happy as well.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
@@ -2680,8 +2672,8 @@ non-rivalrous.
 **Claim**: There is a case where there is GDP increase and investment
 increase but consumption still decreases.
 
-**re-write Claim**: Foreign investment increase and electricity
-consumption decrease happen at the same time.
+**re-write Claim**: Foreign investment increase, GDP increase but
+electricity consumption decrease happen at the same time.
 
 **Example-sub**: Libya has decrease in GDP, decrease in investment but
 still increases in consumption.
@@ -2691,11 +2683,6 @@ still increases in consumption.
 | Foreign direct investment          | 5%      | -0.19%  |
 | per capita Electricity consumption | 1857kWh | 3795kWh |
 | GDP per capita                     | 27953   | 9736    |
-
-
-And as far as India is concerned. GDP per capita increases,
-Electricity consumption per capita increases despite Foreign direct
-investment decreasing.
 
 
 Consider Bangladesh, during 2006 to 2013 there has been "quite some"
@@ -2714,15 +2701,15 @@ foreign investment but still GDP increases and consumption increases.
 
 [GDP per capita](https://ourworldindata.org/grapher/average-real-gdp-per-capita-across-countries-and-regions?time=1950..2016&country=~BGD)
 
-
-**Example-pred**: There is no case that is found for GDP increasing
-and investment increasing but consumption still decreasing.
-
-**Definition**: False. Doesn't check out.
+**Definition**: Doesn't check out. There is no case that is found for
+GDP increasing and investment increasing but consumption still
+decreasing.
 
 **Checklist**: False; sub; Yes; pre; Yes; ecm; Yes;
 
 **Time**: 2hrs
+
+???
 
 ---
 
@@ -2731,20 +2718,25 @@ and investment increasing but consumption still decreasing.
 > that is not reflected in GDP
 
 **re-write Claim**: Higher hours of work per capita implies there is
-going to be higher GDP, for a given Countries with GDP per capita
-(from 30k to 40k)
+going to be higher GDP, for countries with GDP per capita (from 30k to
+40k).
 
 **Example-sub**: 
 
 From 1980 to 2000,
 
-|             | Abs. change in hr | Abs. change in GDP pp | 2000 GDP per capita |
-|-------------|-------------------|-----------------------|---------------------|
-| Australia   | +1.35 h           | 13k                   | 39k                 |
-| Belgium     | -1.6 h            | +10k                  | 34k                 |
-| Canada      | +0.9 h            | +10k                  | 38k                 |
-| Spain       | -4.55 h           | +13k                  | 29k                 |
-| Netherlands | -6.5 h            | +13k                  | 40k                 |
+|             | Abs. change in hr | Abs. change in GDP pp | GDP per capita Yr2000 |
+|-------------|-------------------|-----------------------|-----------------------|
+| Australia   | +1.35 h           | +13k                  | 39k                   |
+| Belgium     | -1.6 h            | +10k                  | 34k                   |
+| Canada      | +0.9 h            | +10k                  | 38k                   |
+| Spain       | -4.55 h           | +13k                  | 29k                   |
+| Netherlands | -6.5 h            | +13k                  | 40k                   |
+
+We see cases where there is decrease in 'abs. change in hrs per week'
+but still the GDP per capita increases.
+
+[Source](https://ourworldindata.org/grapher/weekly-work-hours-vs-gdp-per-capita)
 
 **Definition**: Doesn't check out.
 
@@ -2764,26 +2756,105 @@ From 1980 to 2000,
 > might lead to lower overall welfare. This is a difference in welfare
 > that is not captured by GDP.
 
-**Claim**: Marginal utility of a good or service declines as its
+**Note**: Another insanely hard paragraph.
+
+**Claim**: Individuals get diminishing marginal utility from income
+
+**re-write Claim**: Marginal utility of a good or service declines as its
 supply increases
 
-**Subject**: Marginal utility of a good as supply increases
+**Note**: "Marginal" throwing me off. I feel better once I remove that
+word Spent 1 hr on understanding how to actually answer this claim.
 
-**Predicate**: declines
+**re-write Claim**: Increase in utility of a good, decreases, as
+supply increases
 
-**Example-sub**: Marginal utility of a slice of pizza when supply is 1
-pizza per week
+**re-write Claim**: Increase in "utility" of a good diminishes, as
+"supply increases"
 
-What is supply increasing mean? I don't have an example...
+**re-write Claim**: ~~Increase~~ Difference in "amount you are willing
+to pay" for a good diminishes, with every additional good at a given
+time.
 
-**Time**: 10mins
+**Example-sub**: 
+
+For Pizzas delivered at 6 o' clock today
+
+| pizza number | Willing to pay (WTP)_ | delta in WTP | Comment                |
+|--------------|-----------------------|--------------|------------------------|
+| 1            | 15 Euros              | N/A          | I will eat it          |
+| 2            | 7 Euros               | -8 Euros     | I can freeze it        |
+| 3            | 3 Euros               | -4 Euros     | Will give it to friend |
+| 4-10         | 0 euros               | -3 Euros     | no space anywhere      |
+
+With the first pizza I am willing to pay 15 euros. If there is an
+offer of some sort to get extra pizza I will consider it, so that I
+can save it for future in my freezer. If they are giving me 7 more
+pizzas for 7 euros, I couldn't care less as I can't eat it or store
+it. This often happens when I buy from Subway... When there is an offer.
+
+**Definition**: Checks out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes; difficulty level:
+"private goods"
+
+**Time**: 30 mins. (first time 30 mins and **failed**)
+
+**Note**: I am happy that when I come back to this claim after going
+one round over 200 claims I am able to answer it atleast.
+
+---
+
+**Claim**: Individuals get diminishing marginal utility from income
+
+**re-write Claim**: "Utility" from (additional income)[2], declines as
+(income increases)[3].
+
+**Note**: what is this utility, and how do we measure it? Happiness
+quotient? Money spent on outside food? I think that is the main
+problem.
+
+**Note**: the value of 2 dollars when I didn't have a job was really
+high as I would refuse to spend it on anything. Going for a 10 euro
+lunch was blasphemy and spending 20 euros for dinner was outrageous.
+
+**re-write Claim**: Amount of money you spend per month for food and
+shelter, increases with increase in salary.
+
+**Example-sub**: 
+
+When I earned 0k, My total expenses for rent, food and drinks was 600-800
+euros a month.
+
+When I earned 42k, I spent 900-1000 euros on expenses.
+
+When I earn 60k, I spent about 1400-1600 Euros on expenses.
+
+**Definition**:   checks out
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes; "difficulty level":
+proverb
+
+**Failed**
+
+**Time**: 120mins 
 
 ---
 
 **Claim**: The more you use a good or service, the less satisfied you
 will be with each successive use or consumption
 
+**re-write Claim**: You will be less satisfied with every successive
+consumption of a good.
+
 **Example-sub**: 
+
+
+| Number of bites | self-reported Satisfaction (SRS) |
+|-----------------|----------------------------------|
+| 1/2 a pizza     | 10 on 10                         |
+| 2nd half        | 7                                |
+| 2nd pizza       | -1                               |
 
 Personally,
 
@@ -2801,42 +2872,9 @@ Looking at another Pizza right after --> Tapping out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-**Time**: 15mins
+**Time**: 15 mins
 
----
-
-**Claim**: Individuals get diminishing marginal utility from income
-
-**re-write Claim**: More income does not lead to much more happiness.
-
-**re-write Claim**: Value from (additional income)[2], declines as
-(income increases)[3].
-
-**re-write Claim**: How much you value X euros, declines as income
-increases.
-
-**Subject**: [1] of [2] as [3].
-
-**Predicate**: declines.
-
-**Example-sub**: 
-
-When I earned 0k, the max I buy food outside was 7 euros a
-week. Spending more than that was blasphemy. How much I valued 5 more
-euros was huge.
-
-When I earned 42k, I spent 40 euros a week on beer and food without
-batting an eye. How much I valued 5 more euros was really really small.
-
-**Definition**: 
-
-**Checklist**: sub; Yes; pre; Yes; ecm; Yes; FAIL
- 
-**Time**: 60mins
-
-**Note**: No idea how to measure happiness, Very hard to re-write
-claim. Couldn't come up with it on my own and had to do the previous
-claim to check myself.
+???
 
 ---
 
@@ -2844,46 +2882,25 @@ claim to check myself.
 
 **re-write Claim**: Inequality is not captured in GDP
 
-**re-write Claim**: Gini index varies (inequality) by more than 5%
-across countries with similar GDP per capita (within 40k and 50k USD)
-
-**Note:** The idea being that if GDP captures GINI then we expect GINI
-variation with "similar GDP" countries to be <5%. If GDP captures GINI
-then we expect GINI to decrease while GDP increases.
+**re-write Claim**: Gini index is not strongly (0.7) correlated with GDP per
+capita across different countries
 
 **Example-sub**: 
 
-[2013 data Gini Index per country](https://ourworldindata.org/grapher/gdp-per-capita-vs-economic-inequality?zoomToSelection=true&minPopulationFilter=1000000&country=DEU~FRA~GRC~AUS~IND~GBR~SWE~NLD~CHN~CHE~FIN~DNK~USA~CAN~NOR~BEL). Here GDP per capita is adjusted
-for price differences between countries.
+[Year 2000 Data](https://ourworldindata.org/grapher/gdp-per-capita-vs-economic-inequality)
 
-| Country     | GINI index | GDP per capita |
-|-------------|------------|----------------|
-| Finland     | 27         | 37k            |
-| Japan       | 32.1       | 37k            |
-| UK          | 32.5       | 37k            |
-| France      | 33.1       | 37k            |
-|             |            |                |
-| Sweden      | 27.3       | 41k            |
-| Denmark     | 29         | 43k            |
-| Germany     | 30.1       | 43k            |
-| Canada      | 33.7       | 43k            |
-|             |            |                |
-| Netherlands | 27         | 48k            |
-| Ireland     | 32.52      | 49k            |
-| US          | 41         | 51.5k          |
+Correlation: 0.14 (gini index vs GDP per capita as of 2000) (-ve)
 
+**Definition**: checks out.
 
-**Definition**: Variations greater than 5% for a variation in GDP per
-capita of <2k. 
-
-**Checklist**: True; sub; Yes; pre; Yes; ecm; Yes;
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
 **Time**: 30mins
 
 ---
 
-**re-write Claim**: Gini index increase as GDP per capita increases
-across a country over time in some countries
+**re-write Claim**: Gini index increases as GDP per capita increases
+for a given country over time
 
 **Example-sub**: 
 
@@ -2917,8 +2934,11 @@ equal~~, societies with a more equal income distribution must have
 greater welfare per person
 
 **re-write Claim**: Across countries with same GDP per capita,
-countries with lower GINI index have greater ~~"welfare per person"~~,
+countries with lower GINI index (>4%) have higher ~~"welfare per person"~~,
 HDI
+
+**re-write Claim**: Across countries with same GDP per capita,
+countries with lowest GINI index have highest HDI
 
 **Example-sub**: 
 
@@ -2942,31 +2962,24 @@ HDI
 | Ireland     | 32.52      | 49k            | 0.91 |
 | US          | 41         | 51.5k          | 0.92 |
 
-
-**Definition**: Doesn't check out. HDI almost seems to be constant
-across same GDP per capita.
+**Definition**: Doesn't check out, as UK still has higher HDI than
+Finland.
 
 **Checklist**: False; sub; Yes; pre; Yes; ecm; Yes;
 
 **Time**: 30mins
 
-**Note**: I miss "everything else equal" I guess to test the
-claim. 
-
 ---
 
 **Claim**: Income and other resources might be positional goods
 
-**re-write Claim**: Skipped as toooooo vague
-
+**Note**: Skipped as it seems to be too vague (too many english words
+that need to be converted into testable phrases, e.g., "material
+prosperity", "limited supply", "relatively more expensive")
 
 **Definition**: goods which are in limited supply and which become
 more sought after and relatively more expensive as material prosperity
 increases.
-
----
-
-<!-- speding on goods by households is called consumption -->
 
 ---
 
@@ -2976,7 +2989,9 @@ increases.
 **Claim**: Social connection is not represented in GDP but is a major
 determinant of human welfare.
 
-come back... after discussing welfare.
+**Note**: No idea what he's talking about. Skip.
+
+---
 
 > Health: A country can have higher income per head than another, but
 > the lives of its citizens could be worse if they die earlier or
@@ -2986,7 +3001,7 @@ come back... after discussing welfare.
 the lives of its citizens could be worse if they die earlier or suffer
 greater morbidity.
 
-**re-write Claim**: Higher GDP does not imply higher life expectancy
+**re-write Claim**: Higher GDPPC does not imply higher life expectancy
 
 **Example-sub**: 
 
@@ -2995,7 +3010,7 @@ greater morbidity.
 |       | GDP per capita | Life expectancy |
 |-------|----------------|-----------------|
 | Cuba  | 7.8k USD       | 78.56           |
-| US    | 52k     USD    | 78.91           |
+| US    | 52k USD        | 78.91           |
 | Japan | 36k USD        | 83.88           |
 
 **Definition**: checks out.
@@ -3015,27 +3030,43 @@ greater morbidity.
 > consumption-equivalent welfare measure that allows comparisons
 > across time for a given country, as well as across countries.[6]
 
-**Claim**: It is interesting to explore how well GDP per capita
+**Claim**: It is "interesting" to explore how well GDP per capita
 correlates with more holistic measures of welfare that try to account
 for these other determinants.
 
-You can't test this? because of "interesting". It's along the lines of
-"it makes sense to do X".
+**Note**: You can't test this? because of "interesting". It's along
+the lines of "it makes sense to do X"?
+
+**re-write Claim**: GDP strongly correlates with "more holistic
+measures of welfare"
+
+done later.
 
 **Claim**: There have been numerous attempts to build a more holistic
-measure of welfare than GDP per capita
+measures of welfare than GDP per capita
 
-skipping... Not interested.
+**re-write Claim**: There have been >10 attempts to build "more
+holistic" measures of welfare than GDP per capita.
+
+**Note**: I cant test "more holistic than GDP per capita" for example
+by checking if "life expectancy" is included in the parameter in
+addition to GDP per capita.
+
+**Note**: Not sure of the value of reading papers to come to this
+conclusion. so skipping for now.
 
 **Claim**: Jones' consumption equivalent welfare measure allows
 comparisons across time for a given country
 
-Isn't that like literally every other measure. Skip.
+**Note**: Isn't that like literally every other measure. Skip.
 
 **Claim**: Jones' consumption equivalent welfare measure allows
 comparisons across countries.
 
-It's like every other measure. Skip.
+**Note**: It's like every other measure. Skip.
+???
+
+---
 
 > This measure of human welfare suggests that the true level of
 > welfare of some countries differs markedly from the level that might
@@ -3050,8 +3081,8 @@ of welfare of some countries differs markedly from the level that
 might be suggested by their GDP per capita.
 
 **re-write Claim**: Jones' measure of human welfare "differs
-significantly" from the GDP level for a given country compared to that
-of it's US counterpart.
+significantly" 30% higher from the GDPPC level for some countries
+compared to that of it's US counterpart.
 
 **Example-sub**: 
 
@@ -3068,28 +3099,43 @@ GDP per capita ratio of France compared to US in 2005 is 60%.
 
 ---
 
-Although GDP per capita is distinct from this expanded welfare metric,
-the correlation between GDP per capita and this expanded welfare
-metric is very strong at 0.96, though there is substantial variation
-across countries, and welfare is more dispersed (standard deviation of
-1.51 in logs) than is income (standard deviation of 1.27 in logs).[9]
+> Although GDP per capita is distinct from this expanded welfare
+> metric, the correlation between GDP per capita and this expanded
+> welfare metric is very strong at 0.96, though there is substantial
+> variation across countries, and welfare is more dispersed (standard
+> deviation of 1.51 in logs) than is income (standard deviation of
+> 1.27 in logs).[9]
 
 **Claim**:  GDP per capita is distinct from expanded welfare metric
 
-Do we need to expand this? I mean I know the two definitions. How do
-you "prove" them to be different.
+**re-write Claim**: GDPPC value for a country is different than Jones'
+welfare metric.
+
+**Example-sub**: 
+
+Jones' measure of welfare per person for France compared to the US is
+92% for 2005.
+
+GDP per capita ratio of France compared to US in 2005 is 60%.
+
+**Definition**: checks out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 2 mins.
 
 ---
 
 **Claim**: GDP per capita and expanded welfare metric has a strong
 correlation.
 
-**re-write Claim**: GDP per capita and expanded welfare metric for
-different countries relative to the US for the year 2007
+**re-write Claim**: GDP per capita strongly correlates with Jones'
+expanded welfare metric for different countries relative to the US for
+the year 2007.
 
 **Example-sub**: 
 
-Figure 7 [here](https://www.nber.org/papers/w16352.pdf) shows 0.96. 
+Figure 7 [here](https://www.nber.org/papers/w16352.pdf) shows 0.96 for the year 2007.
 
 <!-- This shows the strength of linear -->
 <!-- relationship between the two variables. scattered around or -->
@@ -3106,31 +3152,38 @@ Figure 7 [here](https://www.nber.org/papers/w16352.pdf) shows 0.96.
 
 ---
 
-<!-- july 19th -->
-
 **Claim**: ~~Even though there is high correlation~~ There is
 substantial variation across countries.
 
+**Note**: I don't think the author of the blogpost is talking about
+the variation in GDP per capita across different countries. I think
+the is talking about the countries that are still far away from the
+correlation line and countries that are spot on, on the correlation
+line.
+
 **re-write Claim**: Difference in Predicted welfare and plotted
-welfare across countries is "substantial" (An order less).
+welfare (actual welfare metric of Jones'), across countries is
+"substantial" (atleast one order of magnitude larger).
 
 **Example-sub**: 
 
 Based on graph [figure 7](https://www.nber.org/papers/w16352.pdf). Values are in logs and with respect to
 US GDP and Welfare.
 
-| Country  | GDP per Cap | pred. welfare | plot. welfare | diff. |
-|----------|-------------|---------------|---------------|-------|
-| Portugal | 1/2         | 1/2           | 1/2           | 0     |
-| Botswana | 1/4         | 1/4           | 1/32          | 7/32  |
+| Country  | GDP per Cap | pred. welfare | Act. welfare | diff.% \* |
+|----------|-------------|---------------|--------------|-----------|
+| Portugal | 1/2         | 1/2           | 1/2          | 0%        |
+| Botswana | 1/4         | 1/4           | 1/32         | 700%      |
+\*diff is calculated as "Act. welfare - Pred. welfare" in terms of
+"Act. welfare"
 
-
-**Definition**: pred value is 1/4 = 0.25 and plot value is 1/32
-=0.031, a full order smaller.
+**Definition**: In one case it is 0% difference and in the other case
+it is 700%. checks out as substantial.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-**Time**: 45 mins (to understand what they were talking about as variation)
+**Time**: 60 mins (to understand what they were talking about as
+variation, and come up with example)
 
 ---
 
@@ -3149,10 +3202,9 @@ std. deviation is 1.27 in logs. (as per the blog post.)
 **Time**: 15mins
 
 **Note**: I don't get why the std. deviation is 1.51 logs when the
-graph varies only from 0 to 1.
-
-
-<!-- Correlation tells you how dispersed your points are from the line as a whole -->
+graph varies only from 0 to 1. I don't think I understand the units in
+the plot. But I skip for now. and I don't have the data to see what it
+means.
 
 ---
 
@@ -3165,20 +3217,16 @@ graph varies only from 0 to 1.
 > clear that it explains a substantial fraction of the variation across
 > individuals.
 
-**Claim**: GDP per capita is also very strongly correlated with the
-Human Development Index
+**Claim**: GDP per capita is also very strongly (\>0.7) correlated
+with the Human Development Index
 
 **Example-sub**: 
 
 GDP per capita vs HDI is shown [here](https://ourworldindata.org/grapher/human-development-index-vs-gdp-per-capita). 
 
-This correlation value is not available but it looks very similar to a
-"strong" correlation as per [here](https://userpage.fu-berlin.de/soga/200/2020_descriptive_statistics/20242_correlation.html).
+For the year 2014 the correlation is 0.73
 
 **Definition**: checks out. 
-
-**Note**: didn't want to spend too much time getting this info and
-calculating in R.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
@@ -3192,22 +3240,26 @@ in welfare.
 
 **Note**: No idea what "if measure such as these are accurate"
 means. Does he mean that there was no data entry error? or if the data
-is "representative".
+is "representative"? All of which I am not sure how to check.
+
+**Failed**
 
 **re-write Claim**: ~~If measures such as these are accurate,~~ GDP
 per capita explains most of the observed cross-national variation in
 welfare.
 
 **Note**: For this I think I should look at R^2 value. As this
-attempts to explain the amount of variation captured. Correlation
-however appears to capture how close to the linear relationship the
-plot is.
+attempts to explain the "amount of variation captured" in a
+variable. Correlation however appears to capture how close to the
+linear relationship the plot is.
 
 **re-write Claim**: R2 value for GDP per capita vs Welfare is greater
 than 90%
 
 **Example-sub**: Correlation was found to be 0.96. This means R2 value
-is `0.96^2=92%`
+is `0.96^2=92%`, for the year 2007.
+
+[Source](https://www.nber.org/papers/w16352.pdf)
 
 **Definition**: Checks out.
 
@@ -3224,12 +3276,13 @@ most of the observed variation across individuals in welfare.
 **Claim**: It is, however, clear that it explains a substantial
 fraction of the variation across individuals.
 
-Am puzzled these two claims are exactly the same. with the difference
-being "most" and "substantial". God help me from these top writers
-whom people think are extremely intelligent (highest karma points
-ever in the forum). I doubt people even read his entire post.
+**Note**: Am puzzled for at the outset these two claims appear to be
+exactly the same. With the difference being "most" and
+"substantial". Is this "bad" writing according to an STM? (Highest
+karma points post ever in the forum vera). Maybe he was trying to
+differentiate between causation and correlation? Athukunu ipdiya?
 
-skip wozniak
+Skipped.
 
 ---
 
@@ -3249,15 +3302,11 @@ achieved" for a country with "low GDP per capita"
 **re-write Claim**: Using Jones welfare metric, only "so much can be
 achieved" for a country with GDP <1/4th of US.
 
-No idea what he is talking about even after reading his example.
+**Note**: I am getting mad at the fact that this sloppy writing (I
+cannot for the love of god understand what he is saying), is revered
+so highly (highest karma points post ever in forum) or is it just me?
 
-Skip.
-
-Time: 10 mins
-
----
-
-**Claim**: unless a country’s income per person is at least a quarter
+**re-write Claim**: Unless a country’s income per person is at least a quarter
 that of the US, then, empirically, its welfare per person can also not
 be more than a sixth that of the US.
 
@@ -3272,21 +3321,21 @@ US, it's welfare per person cannot be more than 1/6 that of US.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-**Time**: 20mins; very hard to understand this "unless" statement. Had
-to use an example. Really threw me off.
+**Time**: 40mins; very hard to understand this "unless" statement. Had
+to use an example. Really threw me off with the seeming double negative.
 
 ---
 
-Crucially, on the Jones and Klenow welfare metric, most developing
-countries are substantially poorer than incomes suggest because of a
-combination of shorter lives and extreme inequality. Lower life
-expectancy reduces welfare by 15 to 50 percent in the developing
-countries Jones and Klenow examine, which implies that global welfare
-inequality is greater than global income inequality.[11] Therefore,
-ensuring evenly shared growth and improved health is also important
-for human welfare. We do not investigate the best way to do that here,
-though we think that these goals are best advanced outside of the
-constraints of directly funding RCT-backed interventions.
+> Crucially, on the Jones and Klenow welfare metric, most developing
+> countries are substantially poorer than incomes suggest because of a
+> combination of shorter lives and extreme inequality. Lower life
+> expectancy reduces welfare by 15 to 50 percent in the developing
+> countries Jones and Klenow examine, which implies that global welfare
+> inequality is greater than global income inequality.[11] Therefore,
+> ensuring evenly shared growth and improved health is also important
+> for human welfare. We do not investigate the best way to do that here,
+> though we think that these goals are best advanced outside of the
+> constraints of directly funding RCT-backed interventions.
 
 **Claim**: Most developing countries are substantially poorer than
 incomes suggest because of a combination of shorter lives and extreme
@@ -3305,7 +3354,7 @@ per capita <1/4th that of US,
 
 **Example-sub**: 
 
-As per [Figure 5 here](https://www.nber.org/papers/w16352.pdf). Values are as per 2005
+As per [Figure 5 here](https://www.nber.org/papers/w16352.pdf). Values are as per 2007.
 
 | Countries | GDP per capita | Ratio of welfare to GDP |
 |-----------|----------------|-------------------------|
@@ -3320,14 +3369,6 @@ As per [Figure 5 here](https://www.nber.org/papers/w16352.pdf). Values are as pe
 **Time**: 15 mins
 
 ---
-
-<!-- 6 so far in 3 hrs. -->
-
-<!-- 3 claims in the next hour -->
-
-**Claim**: Crucially, on the Jones and Klenow welfare metric, most
-developing countries are substantially poorer than incomes suggest
-because of a combination of shorter lives and extreme inequality
 
 **re-write Claim**: "developing countries" life expectancy is "low"
 compared to "developed countries"
@@ -3356,7 +3397,7 @@ lesser than countries with >1/4 GDP
 **re-write Claim**: "Developing countries" inequality is high
 
 **re-write Claim**: SD of log consumption of countries with <1/4 US
-GDP, is higher than countries with >1/4 GDP
+GDP, is higher than countries with >1/4 GDP per capita.
 
 **Example-sub**: 
 
@@ -3365,7 +3406,9 @@ GDP, is higher than countries with >1/4 GDP
 | India   | 1/16 of US     | 0.45                  |
 | UK      | >1/2 of US     | 0.45                  |
 
-**Definition**: Checks out
+Source: [Figure 1 here](https://www.nber.org/papers/w16352.pdf).
+
+**Definition**: does not check out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
@@ -3388,13 +3431,16 @@ countries, if they didn't have "lower life expectancy"
 
 **Predicate**: 15 to 50 %
 
+**Note**: The welfare metric is a formula which takes in life
+expectancy as an input. If you change that value for russia from 
+
 **Example-sub**: 
 
 > A life expectancy of only 67 years cuts Russia’s welfare by 50 log
 > points, or around 40 percent---[author of that same paper](https://www.nber.org/papers/w16352.pdf).
 
 So, Welfare reduces by 40% at life expectancy of 67 years for Russia
-(compared to that of the US at 77 years.)
+(compared to welfare at 77 years)
 
 **Definition**: checks out.
 
@@ -3407,13 +3453,14 @@ So, Welfare reduces by 40% at life expectancy of 67 years for Russia
 **re-write Claim**: ~~this implies,~~ Welfare inequality appears to be
 greater than income inequality
 
-"across countries, welfare inequality appears even greater than income
+**Note**: These guys from the blogpost left the "across countries"
+while copying sentences from said paper. I was puzzled as to what they
+were talking about. the following excerpt makes it clear they were not
+talking about the within country inequality.
+
+"... across countries, welfare inequality appears even greater than income
 inequality."---[author of that same paper from which the blog post is
 "inspired"](https://www.nber.org/papers/w16352.pdf)
-
-These guys left the "across countries" and I was puzzled what they
-were talking about. Now its clear they were not talking about the
-within country inequality.
 
 **re-write Claim**: Across countries, welfare inequality appears even
 greater than income inequality.
@@ -3432,11 +3479,12 @@ much greater than income inequality.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-**Time**: 60mins spent time on understanding log
+**Time**: 60mins spent time on understanding how to extract log
+numbers and puzzling out what the author wanted to say.
 
 ---
 
-<!-- july 20 -->
+
 
 > Therefore, ensuring evenly shared growth and improved health is also
 > important for human welfare. We do not investigate the best way to
@@ -3444,21 +3492,17 @@ much greater than income inequality.
 > outside of the constraints of directly funding RCT-backed
 > interventions.
 
-**Claim**: ensuring evenly shared growth and improved health is also
+**Claim**: Ensuring evenly shared growth and improved health is also
 important for human welfare.
 
 **re-write Claim**: reducing inequality and improving life expectancy
 increases human welfare.
 
-**re-write Claim**: reducing standard deviation of log consumption
-increases human welfare
+**re-write Claim**: reducing standard deviation of log consumption for
+a country increases human welfare (Jones' welfare metric)
 
-**re-write Claim**: Standard deviation of log consumption is lower
-implies higher human welfare
-
-**Note**: instead of this we can also check "if we have access to the
-formula" what happens when we change the SD vs when you don't change
-the SD.
+**re-write Claim**: Standard deviation of log consumption for a
+country is lower implies higher human welfare
 
 **Example-sub**: 
 
@@ -3494,30 +3538,51 @@ increases
 
 ---
 
-We do not investigate the best way to do that here, though we think
-that these goals are best advanced outside of the constraints of
-directly funding RCT-backed interventions.
+> We do not investigate the best way to do that here, though we think
+> that these goals are best advanced outside of the constraints of
+> directly funding RCT-backed interventions.
 
 **Claim**: Improving health and evenly sharing growth are best
 advanced outside of the constraints of directly funding RCT-backed
 interventions.
 
-**re-write Claim 1**: Increasing life expectancy of a country happens
-outside the constraints of directly funding RCT-backed interventions
+**re-write Claim 1**: Increasing life expectancy of a country are
+~~best~~ advanced outside the constraints of directly funding
+RCT-backed interventions.
 
-**re-write Claim 1**:  Increasing life expectancy of a country happens
-without RCT-backed interventions
+**re-write Claim**: Life expectancy increase due to malaria aid in a
+country during 1950 to 2010 is better than life expectancy increase
+from 2000 to 2015.
 
-**re-write Claim 2**: Reducing standard deviation of log consumption of
-a country takes place outside the constraints of directly funding
-RCT-backed interventions
+**Note**: But this above rewritten claim is not representative of the
+initial claim. I am not looking at all "RCT-backed interventions".
 
-**Note**: I don't have examples for this. Maybe later in the passage
-we have some examples?
+**Failed**
 
-**Fail**
+**Example-sub**: 
+
+- Life expectancy increase due to malaria aid from 1950 to 2010 for
+  African region: 1.2 years
+
+- Life expectancy increase from 1950 to 2010 for African region: 9.6 years
+
+- [Section 6.7 WHO report](https://apps.who.int/iris/bitstream/handle/10665/252038/9789241511711-eng.pdf;jsessionid=6F4C4384EC4B286AE7D38467441AA3A1?sequence=1).
+
+**Definition**: checks out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 7 mins.
+
+**re-write Claim 2**: Reducing standard deviation of log consumption
+of a country is best advanced outside the constraints of directly
+funding RCT-backed interventions.
+
+**Failed**
 
 ---
+
+### Life Expectancy
 
 > GDP per capita and life expectancy are correlated
 
@@ -3526,28 +3591,24 @@ we have some examples?
 **re-write Claim**: GDP per capita and life expectancy have a
 correlation of >0.9
 
-**Note**: I don't know how to estimate non-linear correlation and
-first I need to get my hand on the data. This is going to take time so
-I skip.
-
-**re-write Claim**: GDP per capita and life expectancy seem to have a
-[weak correlation atleast ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40dipti.rohan.pawar%2Fcorrelation-statistical-analysis-9471411f0431&psig=AOvVaw1ojyZ_WlhCZeOWLPGaxiuM&ust=1595354641458000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCz7ae13OoCFQAAAAAdAAAAABAI) 
+**re-write Claim**: Log GDP per capita and life expectancy seem to
+have strong correlation (>0.7).
 
 **Example-sub**: 
 
-[This graph](https://ourworldindata.org/grapher/life-expectancy-vs-gdp-per-capita?time=2012) shows the life expectancy vs GDP per capita for 2012. 
+[This graph](https://ourworldindata.org/grapher/life-expectancy-vs-gdp-per-capita?time=2012) shows the life expectancy vs GDP per capita for 2015.
 
-We see a weak linear correlation between Life expectancy and Log of
-GDP per capita for 2012
+0.81 is the correlation--> 2015 data of Life expectancy vs Log GDP per
+capita for different countries.
 
-**Instructions:** Paste graph here
+[Source: downloaded data in libre calc](https://ourworldindata.org/grapher/life-expectancy-vs-gdp-per-capita)
 
 **Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-**Time**: 30mins, "correlated" and the non-linearity really threw me
-off.
+**Time**: 30mins, "correlated" and the "non-linearity" (log) were
+confusing initially.
 
 ---
 
@@ -3590,8 +3651,39 @@ rising over time.
 health, countries that get richer would just move along the same
 curve.
 
-**re-write Claim**: GDP per capita is not the only determinant of life
-expectancy
+**Claim**: Economic development is the only determinant of
+life expectancy.
+
+**re-write Claim**: Correlation of GDP per capita vs Life expectancy
+is 1.
+
+**Example-sub**: 
+
+0.81 in 2015
+
+[Source: downloaded data in libre calc](https://ourworldindata.org/grapher/life-expectancy-vs-gdp-per-capita)
+
+**Definition**: Doesn't check out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 5 mins.
+
+**re-write Claim**: "life expectancy vs GDP per capita" curves for
+different years are along the same curve.
+
+**Example-sub**: 
+
+According to [here](https://lh5.googleusercontent.com/YCqtM5YFfFuWbpgbxSUB-nQVYvCsO8WJNw3_tRv5yKUhNlpEZ_bLevql29mXAX1hqao_0CTKA4gFSkCgjj6MXYpMPbbkURiJ0zfdH1Guvvubzx4UDCxqzS2zo1P3jwhljQvEQVsy), we see curve of 2012 different from curve of
+1980 different from 1950 and 1800.
+
+**Definition**: Does not check out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 10 mins.
+
+---
 
 **re-write Claim**: Life expectancy increases with GDP per capita and
 the year we live in.
@@ -3601,6 +3693,9 @@ the year we live in.
 [This graph](https://ourworldindata.org/uploads/2019/11/Life-Expectancy-vs-GDP-Scatter-786x550.png), shows the life expectancy vs. GDP per capita since
 1800.
 
+Following shows, increase in Life expectancy with time for a given GDP
+per capita.
+
 | GDP per capita | year | Life expectancy |
 |----------------|------|-----------------|
 | 3200 USD       | 1800 | 40              |
@@ -3608,13 +3703,17 @@ the year we live in.
 | 3200 USD       | 1980 | 65              |
 | 3200 USD       | 2012 | 70              |
 
+Following shows, increase  in life expectancy with GDP per capita for
+a given time.
+
 | GDP per capita | year | Life expectancy |
 |----------------|------|-----------------|
 | 3200           | 2012 | 70              |
 | 12800          | 2012 | 73              |
 | 28000          | 2012 | 81              |
 
-**Definition**: checks out.
+**Definition**: checks out that there atleast 2 variables that vary
+with Life expectancy.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
@@ -3630,6 +3729,8 @@ expectancy increased with time.
 
 **re-write Claim**: Amount of money pumped into "malaria control
 activities" ~~and life expectancy~~ increased over time.
+
+**Note**: splitting it into two claims
 
 **Example-sub**: 
 
@@ -3649,7 +3750,7 @@ activities" ~~and life expectancy~~ increased over time.
 ---
 
 **re-write Claim**: Life expectancy due to "malaria mortality reduction"
-increased.
+increased over time. 
 
 **Example-sub**: 
 
@@ -3665,9 +3766,9 @@ world from 2000 to 2015.
 
 **Time**: almost 60 mins then split to 2 claims.
 
-**note**: It took a long time to come to any reasonable rewritten
+**Note**: It took a long time to come to any reasonable rewritten
 claim. I forgot to just translate causation claims to claims on
-trend. I completely skipped one of the variables and focused on the
+trend. I completely skipped one of the variables and focused only the
 other.
 
 ---
@@ -3676,10 +3777,15 @@ other.
 cross-national life expectancy on average by around 8 years.
 
 **re-write Claim**: Cross-national life expectancy on average has
-increased by 8 years over 60 year time period.
+increased by 8 years over 60 year time period since 1950.
+
+**Note**: A bit time consuming to compute life expectancy on average
+in libre calc for 60 years so modified to check for a few examples.
 
 **re-write Claim**: Life expectancy of many countries has increased by
 8 years from 1955 to 2015.
+
+**Note**: Whether it was due to public health improvements is skipped
 
 **Example-sub**: 
 
@@ -3700,8 +3806,6 @@ increased by 8 years over 60 year time period.
 **Time**: 10 mins
 
 ---
-
-<!-- July 21st 10 common pandiya dhikadho...-->
 
 > Nonetheless, the graph above shows that GDP per capita explains a
 > significant fraction of the variation in life expectancy across
@@ -3742,6 +3846,8 @@ income per head of 1k USD to 32.5k USD.
 growth" could shift a country from income per head of 1k USD to 32.5k
 USD.
 
+**Failed**: Unsure how to measure "sustained growth"
+
 **re-write Claim**: In 60 years it is possible to go from 1k USD GDP
 per capita to 32.5k USD GDP per capita.
 
@@ -3762,11 +3868,16 @@ South Korea went from 1k USD to 32.5k USD, in the time period from
 necessarily wholly cause, an increase in life expectancy by more than
 20 years, on average.
 
-Jesus man this guy.. wtf is he talking about... Is he talking about
-the GDP per capita from 1k to 32.5k in 2016 and its corresponding life
-expectancy?
+**re-write Claim**: An increase in 1k to 32.5k in GDP per capita in
+2015, is correlated with an increase in life expectancy by more than
+20 years.
 
-This correlated word throws me the hell off. correlated is about relationships.
+**Note**: This correlated word throws me the hell off. Correlated is
+about 2 variables and multiple points, from which we get a single
+number to express how far the points are from the "trend line". Here
+he seems to be talking about increase from 1k to 32.5k and
+corresponding increase of 20 years. I think this is the wrong usage
+and move on. ???
 
 **re-write Claim**: In 2015, a variation in gdp per capita from 1k to
 32.5k USD between any two countries would imply that Life expectancy
@@ -3778,7 +3889,7 @@ gap would be >20 years.
 |----------------|---------------------------|-------------------------|
 | Sierre Leone   | 1k                        | 54                      |
 | Czech Republic | 31k                       | 78                      |
-| Difference     | 30k                       | 24                      |
+| **Difference** | 30k                       | 24                      |
 
 [Source](https://ourworldindata.org/grapher/life-expectancy-vs-gdp-per-capita)
 
@@ -3793,9 +3904,9 @@ gap would be >20 years.
 **Claim**: Today, almost no countries with income per head above
 $10,000 have life expectancy below 70 years.
 
-**re-write Claim**: ratio of number of countries with GDP per capita
-\>10k USD but below 70 years to number of countries with GDP per
-capita \>10k USD is less than 2%
+**re-write Claim**: Ratio of Number of countries with GDP per capita \>10k USD
+but below life expectancy 70 years in 2016, to number of countries
+with GDP per capita \>10k USD is < 10%
 
 **Example-sub**: 
 
@@ -3804,17 +3915,19 @@ years = 7
 
 Number of countries with GDP per capita \>10k = 105
 
-Ratio: 6.6%
+Ratio is 6.6%
 
 [Source: downloaded data in libre calc](https://ourworldindata.org/grapher/life-expectancy-vs-gdp-per-capita)
 
-**Definition**: Claim is false.
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
 **Time**: 15mins
 
 ---
+
+<!-- start here -->
 
 **Claim**: Most countries with income below $5,000 per head have life
 expectancy below 70 years, and a significant fraction have life
@@ -3827,7 +3940,7 @@ per capita have life expectancy below 70 years for 2016
 
 Number of countries with GDP below 5000 USD in 2016: 46
 
-number of countries with GDP below 5000 USD in 2016 and Life
+Number of countries with GDP below 5000 USD in 2016 and Life
 expectancy <70 years: 41
 
 [Source: downloaded data in libre calc](https://ourworldindata.org/grapher/life-expectancy-vs-gdp-per-capita)
@@ -3838,6 +3951,8 @@ expectancy <70 years: 41
 
 **Time**: 6 mins.
 
+---
+
 **re-write Claim**: 75% of the countries with GDP below 5000 USD per
 capita have life expectancy below 60 years for 2016.
 
@@ -3845,14 +3960,14 @@ capita have life expectancy below 60 years for 2016.
 
 Number of countries with GDP below 5000 USD in 2016: 46
 
-number of countries with GDP below 5000 USD in 2016 and Life
+Number of countries with GDP below 5000 USD in 2016 and Life
 expectancy <60 years: 10
 
 [Source: downloaded data in libre calc](https://ourworldindata.org/grapher/life-expectancy-vs-gdp-per-capita)
 
-**Definition**: 10/46=21.7% FALSE. Doesn't check out. This nigga is
-bullshitting. There are only 12 countries below 60 years of life
-expectancy according to the [chart even](https://ourworldindata.org/grapher/life-expectancy-vs-gdp-per-capita?time=latest).
+**Definition**: 10/46=21.7% FALSE AF. Doesn't check out. Really sloppy
+writing. There are only 12 countries below 60 years of life expectancy
+according to the [chart even](https://ourworldindata.org/grapher/life-expectancy-vs-gdp-per-capita?time=latest).
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
@@ -3860,22 +3975,24 @@ expectancy according to the [chart even](https://ourworldindata.org/grapher/life
 
 ---
 
+### Life satisfaction
+
 > GDP per capita is also correlated with self-reported life
 > satisfaction:
 
 **Claim**: GDP per capita is also correlated with self-reported life
 satisfaction:
 
-**re-write Claim**: log GDP per capita and self-reported life satisfaction
-country average for a given year have a correlation >0.9
+**re-write Claim**: Log GDP per capita and self-reported life
+satisfaction country average for a given year have a correlation >0.9
 
 **Example-sub**: 
 
-Correlation is 0.72 is observed for the year 2017 between log GDP per
-capita and self-reported life satisfaction country average
+Correlation of 0.72 is observed for the year 2017 between log GDP per
+capita and 'self-reported life satisfaction country average'.
 
-`R^2` value of 50% => 50% of the variation in Life satisfaction
-average that is "explained" by the GDP per capita.
+<!-- `R^2` value of 50% => 50% of the variation in Life satisfaction -->
+<!-- average that is "explained" by the GDP per capita. -->
 
 [Source](https://ourworldindata.org/grapher/gdp-vs-happiness)
 
@@ -3910,8 +4027,8 @@ is above 20k USD & ALS scores are below 5.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-**Time**: 10 mins (is taking time to understand these double if statements,
-or feel confused and puzzled)
+**Time**: 10 mins (It is taking time to understand these "double if
+statements", feel confused and puzzled)
 
 ---
 
@@ -3928,7 +4045,7 @@ life satisfaction score of 5.83 for the year 2017
 
 **Definition**: False. Really sloppy writing.
 
-**Checklist**: False; sub; Yes; pre; Yes; ecm; Yes;
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
 **Time**: 5 mins.
 
@@ -3947,10 +4064,6 @@ because it does not put income on a log scale.
 self-reported household income vs self-reported life satisfaction
 average
 
-**note**: For correlation you need the scatter plot and the
-correlation line. the strength of a relationship is determined by how
-close the scatter points are to your correlation line/curve.
-
 **re-write Claim**: The chart below shows the *scatter plot and the
 trend/correlation line/curve* for self-reported household income vs
 self-reported life satisfaction average.
@@ -3960,7 +4073,7 @@ self-reported life satisfaction average.
 It shows lines/curves for US, India, Italy and Russia but there are no
 scatter plots over which the trend was obtained.
 
-[insert graph here.:](https://lh6.googleusercontent.com/ZVeTlAYUY2kZQIav05u4Hk_Q3Sq-q282DGMEN9D7q_hMnUitSInwZifOGXENcN-5pN6GTtfe3bkdIyX8z_NkZfpJ-ivWkD8KAcZ1pBC0v3leUVAG1wtBjwXf9eSMOUlHQsjsrgfe)
+[insert graph here.:](https://lh6.googleusercontent.com/ZVeTlAYUY2kZQIav05u4Hk_Q3Sq-q282DGMEN9D7q_hMnUitSInwZifOGXENcN-5pN6GTtfe3bkdIyX8z_NkZfpJ-ivWkD8KAcZ1pBC0v3leUVAG1wtBjwXf9eSMOUlHQsjsrgfe) insert picture???
 
 **Definition**: False.
 
@@ -3968,38 +4081,27 @@ scatter plots over which the trend was obtained.
 
 **Time**: 20 mins
 
+---
+
 **re-write Claim**: The chart below shows the trend line "more
 clearly" than the charts with Log income per capita
 
-**re-write Claim**: I give up. God bless this writer. I don't know how
-or across what dimension to measure "more clearly".
+**Note**: I give up. God bless this writer. I don't know how or across
+what dimension to measure "more clearly".
 
 **Time**: 20 mins
 
-Damn. This guy is just making stuff up. I cannot...
-
-I think today is my vishvaroopam movement. Today is my transformation
-scene. Yes it is hard but my was able to convert the shit statement to
-meaningful testable hypothesis, without too much effort or stress. :)
-
-I thank an STM and hope he guides me to G-word. Inshallah.
-
-What are examples of how the people in the EA community do deliberate
-practice? how did you measure your progress? some examples please.
+**Failed**
 
 ---
-
-<!-- july 22 2020 -->
 
 > This shows the value of economic development for life satisfaction
 > in low-income countries (as well as the limited benefits for rich
 > countries).
 
-**Claim**: This (graph) shows the value of economic development for life
-satisfaction in low-income countries (as well as the limited benefits
-for rich countries).
-
-**re-write Claim**: Economic development within the same country.
+**Claim**: This ([graph](https://lh6.googleusercontent.com/ZVeTlAYUY2kZQIav05u4Hk_Q3Sq-q282DGMEN9D7q_hMnUitSInwZifOGXENcN-5pN6GTtfe3bkdIyX8z_NkZfpJ-ivWkD8KAcZ1pBC0v3leUVAG1wtBjwXf9eSMOUlHQsjsrgfe)) shows the value of economic development
+for life satisfaction in low-income countries (as well as the limited
+benefits for rich countries).
 
 **re-write Claim**: Self-reported life satisfaction in low-income
 countries (sub 10k USD GDP per capita) increases with increase in
@@ -4041,20 +4143,22 @@ ones (1<10k GDP per capita).
 
 | Country    | self-reported life satisfaction | Income (USD) |
 |------------|---------------------------------|--------------|
-| India      | 6.3                             | 15k          |
-| India      | 6.8                             | 25k          |
-| Difference | 2                               | 10k          |
+| US         | 7                               | 30k          |
+| US         | 7.3                             | 40k          |
+| Difference | 0.3                            | 10k          |
 
+Low-income countries have their satisfaction improve by 10k by 2
+points while high-income countries go up by roughly 0.3 points.
 
-**Definition**: Low-income countries have their satisfaction improve
-by 10k by 2 points while high-income countries go up by roughly 0.5
-points.
+**Definition**: checks out
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
 **Time**: 10 mins. 
 
 ---
+
+### Parvati
 
 > GDP per capita is very strongly associated with poverty reduction, on
 > standard low-bar poverty thresholds. Increasing median income above a
@@ -4065,7 +4169,8 @@ points.
 **Claim**: GDP per capita is very strongly associated with poverty
 reduction, on "standard low-bar poverty thresholds"
 
-Unable to get his exact data or it is costing too much time.:()
+**Note**: Tried getting the data from as pointed by the author but it
+was taking too much time, hence I don't show correlation.
 
 **re-write Claim**: Headcount poverty rate (as a % of total pop)
 decreases with increase in "Median PPP annual income/consumption",
@@ -4073,7 +4178,7 @@ when below poverty is defined by 1.9 USD per day.
 
 **Example-sub**: 
 
-Based on the [following graph](https://d101vc9winf8ln.cloudfront.net/documents/32264/original/RCTs_and_the_big_questions_10000words_june30.pdf?1565974982) (pg 7) for year XXXX (For some
+Based on the [following graph](https://d101vc9winf8ln.cloudfront.net/documents/32264/original/RCTs_and_the_big_questions_10000words_june30.pdf?1565974982) (pg 7) for year XXXX (for some
 reason getting year info is not straightforward), we see that,
 
 | Headcount poverty rate @ USD 1.9/day | Median PPP annual income/consumption (USD) |
@@ -4099,7 +4204,10 @@ low headcount poverty rate @1.9 USD/day
 
 **Example-sub**:
 
-Same graph as above. It's about 1%
+\<1% is the headcount poverty rate (@1.9 USD/day) for countries with median income
+\>7500 USD.
+
+[Source: Pg7](https://d101vc9winf8ln.cloudfront.net/documents/32264/original/RCTs_and_the_big_questions_10000words_june30.pdf?1565974982)
 
 **Definition**: checks out.
 
@@ -4109,12 +4217,14 @@ Same graph as above. It's about 1%
 
 ---
 
-**Claim**: Above a median income of $5,000, no country has low-bar
-poverty above 2.5%
+**Claim**: Above a median income of 5,000 USD, no country has low-bar
+poverty above 2.5%.
+
+**re-write Claim**: Above a median income of 5k USD, no country
+has head count poverty rate \>2.5% (
 
 **Example-sub**: 
 
-same graph as above
 
 **Definition**:  checks out.
 
@@ -4167,6 +4277,8 @@ Insert [figure 2](https://d101vc9winf8ln.cloudfront.net/documents/32264/original
 **Time**: 10mins
 
 ---
+
+### GDP and other ind
 
 > There is also a strong correlation between GDP per capita and other
 > indicators of welfare such as: Reduced undernourishment, Literacy,
@@ -5195,6 +5307,8 @@ discussed before.
 
 ---
 
+### What does explain cross-national differences in GDP per capita?
+
 > Thus, many RCT-backed interventions do not seem to explain much of
 > the cross-national variation in GDP per capita. What does? There are
 > a range of factors including: Growth-friendly policies, Geography,
@@ -5843,23 +5957,79 @@ poverty, because of ‘kinky poverty lines’
 reduce poverty, if we use poverty line definition of "less than 1.9
 USD a day"
 
-"could"
+**Note**: based on the example the author gives, it appears he is
+checking if we can get eradicate poverty if we use the 1.9 USD per
+day poverty line.
+
+**re-write Claim**: Available aid minus Aid (without losses in cash
+transfer) required to increase the income of below poverty line people
+to above poverty line, is >0
 
 **Example-sub**: 
 
-"Globally, around $180bn is spent on aid per year—roughly $500 million
-per day. There are 500 million people who are extremely poor. Assuming
-that all the extreme poor have $1 per day already, we could eradicate
-extreme poverty through cash transfers."
+*[Example from the blogpost](https://forum.effectivealtruism.org/posts/bsE5t6qhGC65fEpzN/growth-and-the-case-against-randomista-development#Excursus_on_kinky_poverty_lines)*: "Globally, around 180bn USD is spent
+on aid per year—roughly 500 USD million per day. There are 500 million
+people who are extremely poor. Assuming that all the extreme poor have
+1 USD per day already, we could eradicate extreme poverty through cash
+transfers."
 
-**Definition**: checks out
+- Assuming a 1`$` per day already with the poor people and no losses
+in cash transfer of the aid reaching people. 700mn people are below
+poverty as of 2015. So we have `700mn x 1$x 365 = 255bn`
+
+- Total Available Aid per year amounts to [180bn](https://forum.effectivealtruism.org/posts/bsE5t6qhGC65fEpzN/growth-and-the-case-against-randomista-development#Excursus_on_kinky_poverty_lines)`$`
+
+- 180bn-255bn is negative
+  
+**Definition**: Does not check out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-**Time**: 30 mins (didn't understand what kinky poverty lines meant
-for a 30 mins atleast. I then realized after looking at "reducing poverty")
+**Time**: 45 mins (didn't understand what kinky poverty lines meant
+for a 30 mins atleast., "could", "effective way" and "because"
+throwing me off.)
 
-**Claim**: 500 million people are extremely poor
+---
+
+**Claim**: RD do not measure progress above that level
+
+**re-write Claim**: One of the goals of UN is to reduce to zero people
+living under 1.25 `$` per day.
+
+**Example-sub**: 
+
+"By 2030, eradicate extreme poverty for all people everywhere,
+currently measured as people living on less than $1.25 a day"
+---[UN](https://www.un.org/sustainabledevelopment/poverty/)
+
+**Definition**: checks out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 5 mins  
+
+**Claim**: Directly funding RCT-backed aid could pull people out of
+poverty.
+
+**re-write Claim**: Available aid minus Aid (without losses in cash
+transfer) required to increase the income of below poverty line people
+to above poverty line, is >0
+
+Done earlier.
+
+---
+
+**Claim**: We could eradicate poverty through cash transfers
+
+**re-write Claim**: Available aid minus Aid (without losses in cash
+transfer) required to increase the income of below poverty line people
+to above poverty line, is >0
+
+Done earlier.
+
+---
+
+**Claim**: 500 million people are extremely poor in the world
 
 **re-write Claim**: 500m people are earning less than 1.9 USD/day.
 
@@ -5875,33 +6045,33 @@ According to [OWID](https://ourworldindata.org/grapher/world-population-in-extre
 
 **Time**: 5 mins
 
-But this would raise their income by around $1 per day. And someone on
-$2 per day is still very poor even if they are above the kinky $1.90
-threshold. Indeed, this poverty line is discriminatory and would never
-be used for citizens in a high-income country: in the US, the poverty
-line is $17 per day.[19] There is no reason that such thresholds
-should not apply to people outside high-income countries. On this more
-expansive definition of poverty, it is very difficult for direct
-funding of programmatic aid to lift people out of poverty.
+---
+
+> But this would raise their income by around $1 per day. And someone
+> on $2 per day is still very poor even if they are above the kinky
+> $1.90 threshold. Indeed, this poverty line is discriminatory and
+> would never be used for citizens in a high-income country: in the
+> US, the poverty line is $17 per day.[19] There is no reason that
+> such thresholds should not apply to people outside high-income
+> countries. On this more expansive definition of poverty, it is very
+> difficult for direct funding of programmatic aid to lift people out
+> of poverty.
 
 **Claim**: And someone on 2 USD per day is still very poor even if
 they are above the kinky 1.90 USD threshold.
 
-**Claim**: Someone on 2 international dollars per day still cannot
-even afford more than a liter of mil and 1/2 a croissant.
+**Claim**: Someone on [2 international dollars per day](https://datahelpdesk.worldbank.org/knowledgebase/articles/193310-how-is-the-global-poverty-line-derived-how-is-it) still cannot
+even afford more than a liter of milk and 1/2 a croissant.
 
 **Example-sub**: 
-
-From [here](https://datahelpdesk.worldbank.org/knowledgebase/articles/193310-how-is-the-global-poverty-line-derived-how-is-it), we gather that the poverty line value of
-1.9 `$` is referring to international dollars
 
 From [WHO](https://www.who.int/choice/costs/ppp/en/#:~:text=Costs%20in%20local%20currency%20units,buy%20in%20the%20United%20States.) we gather that we can multiply the international dollar
 by the [PPP exchange rate](https://data.oecd.org/conversion/purchasing-power-parities-ppp.htm) to get the local currency units.
 
 2 USD per day translates to 1.36 euros (Netherlands). For this I will
 get 1 liter of milk and 1/2 croissant. How are you supposed to live on
-that. And what sort of a living would this even be? Let alone rent,
-insurance and other things.
+that per day. And what sort of a living would this even be? Let alone
+rent, insurance and other things.
 
 2 USD per day translates to 42rs in India. For this you can have 1l of
 milk. Rent, health, education of children Who?
@@ -5910,9 +6080,11 @@ milk. Rent, health, education of children Who?
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-**Time**:  (got lost in understanding the conversion and PPP. I
-realized only after a while that I don't need them. Also getting lost
-in explaining very poor based on purchasing power.)
+**Time**: 60mins (got lost in understanding the conversion and
+PPP. Also getting lost in explaining very poor based on purchasing
+power.)
+
+---
 
 **Claim**: Poverty line is discriminatory
 
@@ -5933,18 +6105,20 @@ international poverty line is >10 times.
 
 **Time**: 15mins
 
-<!-- 9 so far -->
+---
 
-**Claim**: poverty line of 1.9 `$` would never be used for citizens in a
-high-income country
+**Claim**: Poverty line of 1.9 `$` would never be used for citizens in
+a high-income country.
 
-**re-write Claim**: Poverty line of 1.9`$` per day is not used in high-income
-countries to determine eligibility for assistance programs.
+**re-write Claim**: Poverty line of 1.9`$` per day is not used in
+high-income countries to determine eligibility for assistance
+programs like Medicaid.
 
 **Example-sub**: 
 
 For one person the 2018 US guidelines suggest 12,140`$` per year as
-the poverty threshold. This amounts to 33.3`$` per day.
+the poverty threshold for [assistance programs like Medicaid](https://www.hhs.gov/answers/hhs-administrative/what-programs-use-the-poverty-guidelines/index.html). This
+amounts to 33.3`$` per day.
 
 [Source](https://en.wikipedia.org/wiki/Poverty_in_the_United_States#Poverty_thresholds)
 
@@ -5954,22 +6128,26 @@ the poverty threshold. This amounts to 33.3`$` per day.
 
 **Time**: 7 mins
 
+---
+
 **Claim**: There is no reason that such thresholds should not apply to
 people outside high-income countries.
 
-Someone can say "cows fart", is the reason. How will you test it is
-not. you can't test reasons. You can check facts. But you can't check
-vague stuff like reasons... So waht can you test?
+**re-write Claim**: It's not moral that such thresholds should not
+apply to people outside high-income countries.
 
-It's not moral 
+**Note**: If all lives are equal irrespective of race caste or
+whatever, then the same poverty line should apply. but how is this an
+example. It's just a "reason" and "explanation" that one accepts or
+not.
 
-If all lives are equal irrespective of race caste or whatever, then
-the same poverty line should apply.
+**Failed**
 
-**re-write Claim**: skip
+---
 
 **Claim**: It is very difficult for direct funding of programmatic aid
-to lift people out of poverty.
+to lift people out of poverty, on this more expansive definition of
+poverty line.
 
 **re-write Claim**: Cash transfers required per year is 10 times higher
 with the case of eliminating higher poverty line of 35`$` per day,
@@ -5986,7 +6164,7 @@ Assuming the world has 500million people in poverty.
 
 
 Cash transfers at 35 `$` per day would be 34 times higher assuming an
-initial earnigns of 1`$` per day.
+initial earnings of 1`$` per day.
 
 **Definition**: checks out.
 
@@ -6021,6 +6199,8 @@ Source:[figure 3 and pg9 from this paper](https://d101vc9winf8ln.cloudfront.net/
 
 **Time**: 10-15 mins (took time to write out the claim)
 
+---
+
 **re-write Claim**: Direct anti-poverty programmes at a given level of
 income, predicts all the observed variation in poverty, at any poverty
 line.
@@ -6029,12 +6209,15 @@ line.
 income~~ across different countries predicts the headcount poverty
 rate, at any poverty line.
 
-**re-write Claim**: R^2 value of Aid amount vs headcount poverty rate
+**re-write Claim**: Linear R^2 value of Aid amount vs headcount poverty rate
 across countries is <50%, at 1.9`$` poverty line.
+
+**Note**: I could have used non-linear fits and then made R^2, but as of now I don't
+know how to do it.
 
 **Example-sub**: There is not a direct graph on Our World In Data so,
 I will take 10 countries at random, fill out their Aid and headcount
-poverty rate and compute the R2 value.
+poverty rate and compute the linear R2 value.
 
 | Country                      | Aid received per capita | Poverty headcount rate |
 |------------------------------|-------------------------|------------------------|
@@ -6084,7 +6267,13 @@ of national median income.
 capability~~ of the poor ~~at a given level of national median
 income~~ over time.
 
-**re-write Claim**: Cash transfers increase the income of the poor.
+**re-write Claim**: Cash transfers increase the income of the poor ~~at
+a given level of national median income~~.
+
+**Note**: I don't have data on if the national median income changes
+or not So I look at it separately and fail.
+
+**Failed**
 
 **Example-sub**: 
 
@@ -6103,8 +6292,6 @@ after the start of transfers.
 **Time**: more than 60 mins trying to see what "at a given level of
 national median income" meant, by reading the paper.
 
-<!-- aug 2 -->
-
 **re-write Claim**: Cash transfers keep the national median income
 constant.
 
@@ -6114,7 +6301,7 @@ constant.
 
 ---
 
-**Claim**: differences across the country/years in the impact of
+**Claim**: Differences across the country/years in the impact of
 these targeted poverty programmes conditional on the median account
 for at the very most 1.2 percent of the total cross-national variation
 in poverty rates.
@@ -6124,26 +6311,32 @@ in poverty rates.
 account)[3]", at most explains 1.2% of the "(total cross-national
 variation in poverty rates)[4]".
 
-**Note**: I tried reading that part of the paper, and they mention
-1.2% and they don't seem to have a proper citation. They have a foot
-note and it doesn't show what or where this 1.2% is coming from. Pg12.
+**Note**: I tried reading that part of the [paper](https://d101vc9winf8ln.cloudfront.net/documents/32264/original/RCTs_and_the_big_questions_10000words_june30.pdf?1565974982), and they
+mention 1.2% and they don't seem to have a proper citation. They have
+a foot note and it doesn't show what or where this 1.2% is coming
+from. Pg12.
 
 **Failed**
 
-**re-write Claim**: [1] in Poverty headcount rate when median
-consumption is held constant, accounts for 1.2% of [4].
+**re-write Claim**: [1] in Poverty headcount rate due to
+~~interventions~~ when median consumption is held constant, accounts
+for 1.2% of [4].
 
-**Example-sub**: 
+**Example-sub**:
 
 [1] @ median consumption of 1000 units for 1.9`$` poverty line -->
-15% 
+20 to 35% = 15% 
 
-[4] is 100% as countries variation in poverty rates are from 0 to 100%
+**Example-pred**:
+
+[4] is 100% as countries vary in poverty rates are from roughly 0 to
+100%
+
+1.2% of [4] is 1.2%
 
 [Source: Figure 3](https://d101vc9winf8ln.cloudfront.net/documents/32264/original/RCTs_and_the_big_questions_10000words_june30.pdf?1565974982)
 
-**Definition**: Doesn't check out. WTF is this author and parrot from
-the blog post talking about.
+**Definition**: Doesn't check out. 15% != 1.2%
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
@@ -6151,7 +6344,35 @@ the blog post talking about.
 
 However, if we look at the "impact of interventions", then they pretty
 much attack countries with high poverty rate > 0.35 (Kenya, Liberia
-cash transfers). SO,
+cash transfers). So, 
+
+**re-write Claim**: [1], in poverty headcount rate (when poverty
+headcount rate is higher than 35%), when median consumption is held
+constant, accounts for 1.2% of [4].
+
+
+**Example-sub**:
+
+[1] @ median consumption of 750 units (where poverty rate is > 35%)
+for 1.9`$` poverty line is between roughly 50 and 53% --> = 3%
+
+**Example-pred**:
+
+[4] is 100% as countries vary in poverty rates are from roughly 0 to
+100%
+
+1.2% of [4] is 1.2%
+
+[Source: Figure 3](https://d101vc9winf8ln.cloudfront.net/documents/32264/original/RCTs_and_the_big_questions_10000words_june30.pdf?1565974982)
+
+**Definition**: Doesn't check out. 3% != 1.2% (might be due to errors
+in reading the graph, don't have data. Is this what the author is
+talking about???)
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 30mins (realizing that I might after all know what the
+author could have meant)
 
 ---
 
@@ -6162,13 +6383,14 @@ be shown to increase national median income per head.
 
 **Note**: We can only comment on what is observed. What is observed is
 for a given median annual consumption the head count poverty rate
-doesn't vary too much (0-15%). But this is lower for poverty rates in
-the order of 30 to 50%, which is where GD does its cash transfers
+doesn't vary too much (15% max). But this variation at a given
+consumption is lower (around 3% max) for poverty rates in the order of
+35 to 50%, which is where Give Directly does its cash transfers
 intervention. So if we look at a median consumption around 750 units
 in the same graph [Figure 3](https://d101vc9winf8ln.cloudfront.net/documents/32264/original/RCTs_and_the_big_questions_10000words_june30.pdf?1565974982), then we see <5%
 
-**re-write Claim**: Increase in headcount poverty rate observed at a
-constant median annual consumption is <20%
+**re-write Claim**: Differences in headcount poverty rate observed at a
+constant median annual consumption of 750 units is <20%
 
 **Example-sub**: 
 
@@ -6181,6 +6403,8 @@ rate of line 1.9`$` is less than 5%.
 
 **Time**: 15 mins.
 
+---
+
 **Claim**: There is no reason to think that many current RD
 programmes, such as cash transfers or the graduation approach,
 increase national median income.
@@ -6188,31 +6412,40 @@ increase national median income.
 **Note**: Not sure how to check if the median income will stay the
 same if there is cash transfer or not. Don't have direct data atleast.
 
+**Failed**
+
 ---
 
 ### From the paper
 
-This of course doesn’t mean that other factors like the change in the
-inequality or the adoption of “poverty” programs cannot make a
-difference or even that they cannot in principal make a “substantial”
-difference, it just says that empirically, relative to the massive
-changes associated with the change in the median (from poverty of 100
-percent to near zero percent), the differences at a given level of
-consumption are very modest compared to the gains from growth.
+[Paper](https://d101vc9winf8ln.cloudfront.net/documents/32264/original/RCTs_and_the_big_questions_10000words_june30.pdf?1565974982).
+
+> This of course doesn’t mean that other factors like the change in
+> the inequality or the adoption of “poverty” programs cannot make a
+> difference or even that they cannot in principal make a
+> “substantial” difference, it just says that empirically, relative to
+> the massive changes associated with the change in the median (from
+> poverty of 100 percent to near zero percent), the differences at a
+> given level of consumption are very modest compared to the gains
+> from growth.
+
+The part on "inequality" is being skipped as that is not what I want
+to test in this paper.
 
 **Claim**: Relative to (the massive changes associated with the change
 in the median)[1], the (differences at a given level of consumption)[2] are
 very modest compared (to the gains from growth)[3].
 
-**Note**: These are some of the most convoluted fucking sentences I have ever
-seen. No commas.. nothing. Fucking cunt of a writer. After half an
-hour of pondering over this fucking sentence. I think I get it... This
-nigga says "relative to [1]" and then "compared to [3]" which I think
-he means the same fucking thing. What a fucking retard. There are also
-typos which make me wonder what sort of shit publication this is.
+**Note**: These are some of the most convoluted sentences I have ever
+seen.  After half an hour of pondering over this sentence, I think I
+get it... I think "relative to [1]" and then "compared to [3]" which
+seems to mean the same thing. There are also typos (closure of
+brackets missing) which make me wonder what sort of publication this
+is. I suspect this "paper" was proof read.
 
-**re-write Claim**:  Relative to [1], [2] compared to [3] is very
-modest.
+**re-write Claim**: Relative to [1], [2] of the poverty headcount
+rate, compared to changes in poverty headcount rate when median
+consumption changes, is very modest (>10%).
 
 **Example-sub**: 
 
@@ -6222,13 +6455,13 @@ insert figure 3 from [here](https://d101vc9winf8ln.cloudfront.net/documents/3226
 headcount poverty rate goes from 100% to 0%
 
 [2] --> At any median annual consumption, for 1.9`$` poverty line, the
-variation of headcount poverty rate is at max 10%.
+variation of headcount poverty rate is at max 15%.
 
-[3] --> Its the fucking same as [1]. I don't think this "paper" was
-proof read.
+changes in poverty headcount rate when median consumption changes -->
+It seems to be the same as [1]. 
 
-**Definition**: Checks out that [2] is modest AF based on the
-empirical evidence. 
+**Definition**: Checks out that [2] is modest based on the empirical
+evidence.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
@@ -6236,19 +6469,17 @@ empirical evidence.
 
 ---
 
+**Note**: Back to blogpost
+
 > This is not to say that decreasing inequality is not important: as we
 > saw above, inequality can have large effects on a country’s welfare
 > per person.
 
-Nigga is literally contradicting himself at this point. And also
-copying word for word from the paper. He doesn't distinguish between
-correlation and causation.
-
 **Claim**: inequality can have large effects on a country's welfare
 per person
 
-**re-write Claim**: GINI index is strongly correlated with GDP per
-capita
+**re-write Claim**: GINI index is strongly (>abs(0.7)) correlated with
+GDP per capita
 
 **Example-sub**: 
 
@@ -6270,21 +6501,22 @@ with)
 <!-- This was reallly hard. Jesus. -->
 
 ---
+## Success of development era
 
 > The story of human welfare is well illustrated by this graph
 
-**Claim**: the story of human welfare is "well illustrated" by this
-graph.
+**Claim**: the story of human welfare is "well illustrated" by [this
+graph](https://lh5.googleusercontent.com/SFgCykO0xLL1UEbzZGYyou7-_iVp-SPIZqohPg2npuFTPFf45tGb3O8oDBNrkI400IP47ufzwLuhzlM1M7MTwWQnpOOQXOXPV5dAEJmf0NGDyHrB0xxXguNvNhdhzKdN7Zc6CSbt).
 
-**re-write Claim**: Most of the World GDP increase happens in the last
+**re-write Claim**: Most of the World GDP per annum increase, happens in the last
 200-250 years.
 
-**Example-sub**: @1820 World GDP was at 1.2tr USD. @2013 it is
-\>101tn USD.
+**Example-sub**: 
 
-Last 200 years GDP increase 100 tn USD,
+Last 200 years, GDP per annum increase 100tn USD (@1820 World GDP was at 1.2tr
+USD. @2013 it is \>101tn USD).
 
-Before that, GDP increase 1tn for over 1800 years.
+From 0 to 1800, GDP per annum increase by 1tn.
 
 [Source](https://ourworldindata.org/grapher/world-gdp-over-the-last-two-millennia)
 
@@ -6293,6 +6525,8 @@ Before that, GDP increase 1tn for over 1800 years.
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
 **Time**: 10 mins
+
+**Feedback**: missed "per annum"
 
 ---
 
@@ -6312,11 +6546,11 @@ Before that, GDP increase 1tn for over 1800 years.
 
 **Claim**: Until 1800 average human welfare was stagnant.
 
-**re-write Claim**: Until 1800 World GDP was <2 tn USD
+**re-write Claim**: Until 1800 World GDP per annum was <2 tn USD.
 
 **Example-sub**: 
 
-Before 1820, GDP was 1.2tn for over 1800 years.
+Before 1820, World GDP per annum was 1.2tn for over 1800 years.
 
 [Source](https://ourworldindata.org/grapher/GDP-per-capita-in-the-uk-since-1270)
 
@@ -6324,22 +6558,28 @@ Before 1820, GDP was 1.2tn for over 1800 years.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-**Time**: 5 mins
+**Time**: 5 mins 
+
+**Feedback**: Missed "per annum"
 
 ---
 
 **Claim**: After industrial revolution, living standards exploded.
 
-**re-write Claim**: GDP increase from 1840 to 1940 was much larger
-(>10 times) than GDP increase from 1740 to 1840
+~~**re-write Claim**: World GDP annum increase from 1840 to 1940
+(industrial revolution was much larger (>10 times) than GDP per annum
+increase from 1740 to 1840~~
+
+**re-write Claim**: World GDP per annum after 100 years after 1840 was
+10 times greater than 100 years before 1840
 
 **Example-sub**: 
 
-1740 to 1840  6600bn USD
+GDP per annum at 1940: ~9.25tn`$`
 
-1840 to 1940  600bn USD
+GDP per annum at 1740: ~750bn`$`
 
-6600/600>11
+=> \> 10 times
 
 **Definition**: checks out
 
@@ -6347,11 +6587,11 @@ Before 1820, GDP was 1.2tn for over 1800 years.
 
 **Time**: 5 mins.
 
-<!-- 7 so far.. -->
+**Feedback**: rewrote claim during 2nd read through. 
 
-<!-- aug 3 -->
+---
 
-**Claim**: this preceded most development economics.
+**Claim**: This preceded most development economics.
 
 **re-write Claim**: Industrial revolution preceded most development
 economics.
@@ -6359,8 +6599,8 @@ economics.
 **re-write Claim**: Industrial revolution preceded the green
 revolution
 
-**re-write Claim**: Invention of steam engine preceded the Mexican
-Agricultural program
+**re-write Claim**: 1760-1840 preceded the Mexican Agricultural
+program
 
 **Example-sub**: 
 
@@ -6372,7 +6612,7 @@ Agricultural program
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-**Time**: 30 mins
+**Time**: 30 mins (figuring out some way to test "most development economics")
 
 ---
 
@@ -6392,15 +6632,17 @@ Allies (WW2) preceded the year of independence of India, Pakistan.
 
 1947: [end of British rule in India/Pakistan](https://www.bbc.com/news/world-south-asia-12641776)
 
-**Definition**: 
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-**Time**: 15mins
+**Time**: 15mins (learning about WW2)
+
+---
 
 **Claim**: the end of the Second World War marked the start of what
-Pritchett calls the ‘development era’ with The founding of the Bretton
-Woods institutions - the IMF and the World Bank
+Pritchett calls the ‘development era’ with founding of Bretton Woods
+Institutions
 
 **re-write Claim**: Year in which Germany and Japan surrendered to
 Allies (WW2) and the year of founding of the Bretton Woods
@@ -6417,6 +6659,8 @@ Institutions was within 1 year.
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
 **Time**: 5mins
+
+---
 
 **Claim**: the end of the Second World War marked the start of what
 Pritchett calls the ‘development era’ with Truman’s Four Point plan to
@@ -6439,18 +6683,25 @@ countries
 
 **Time**: 5mins
 
-**Claim**: the end of the Second World War marked the start of what
+---
+
+**Claim**: The end of the Second World War marked the start of what
 Pritchett calls the ‘development era’ with Overall a concerted effort
 by economists and sovereign states to increase development[21]
 
+~~**re-write Claim**: Year in which Germany and Japan surrendered to
+Allies (WW2) was few years within when the Mexican agricultural
+program began.~~
+
 **re-write Claim**: Year in which Germany and Japan surrendered to
-Allies (WW2) was few years within the Mexican agricultural program began.
+Allies (WW2) was few years within the founding of the Bretton Woods
+Institution.
 
 **Example-sub**: 
 
 1945: [Year in which Germany and Japan surrendered](http://www.primaryhomeworkhelp.co.uk/war/end.html)
 
-1943: Mexican agricultural program begins---[wiki](https://www.sourcewatch.org/index.php/Timeline_of_the_Green_Revolution#:~:text=1953%3A%20Norman%20Borlaug%20receives%20semi,the%20term%20%22Green%20Revolution.%22)
+1944: [Year of founding of the Bretton Woods Institutions](https://www.brettonwoodsproject.org/2019/01/art-320747/#:~:text=The%20Bretton%20Woods%20Institutions%20are,Hampshire%2C%20USA%20in%20July%201944.&text=The%20creation%20of%20the%20World,of%20the%20Second%20World%20War.)
 
 **Definition**: Checks out.
 
@@ -6458,23 +6709,27 @@ Allies (WW2) was few years within the Mexican agricultural program began.
 
 **Time**: 10 mins
 
-The development era was a huge success: since 1950, human welfare has
-improved on all objective measures by more than all prior human
-history combined.[22] On the chart below, countries can move
-vertically up from the diagonal line (meaning that they had positive
-growth), or vertically down from the diagonal line (meaning that they
-had negative growth).
+---
+
+> The development era was a huge success: since 1950, human welfare
+> has improved on all objective measures by more than all prior human
+> history combined.[22] On the chart below, countries can move
+> vertically up from the diagonal line (meaning that they had positive
+> growth), or vertically down from the diagonal line (meaning that
+> they had negative growth).
 
 **Claim**: The development era was a huge success
 
-**re-write Claim**: GDP per capita increase from 0 to 1950 was smaller
-than 1950 to 2010
+**re-write Claim**: GDP per capita per annum increase from 0 to 1950
+was 5 times smaller than 1950 to 2010
 
 **Example-sub**: 
 
 0-1950: 9.2tn`$`
 
 1950 to 2010: 76tn`$`
+
+76/9.2 = 8.2
 
 [Source](https://ourworldindata.org/grapher/world-gdp-over-the-last-two-millennia?tab=table&time=1950..2009)
 
@@ -6484,26 +6739,28 @@ than 1950 to 2010
 
 **Time**: 15 mins.
 
+---
+
 **Claim**: Since 1950, human welfare has improved on all objective
 measures by more than all prior human history combined.[22]
 
 **Note**: Instead of doing all objective measures, we just look at
 Life expectancy
 
-**re-write Claim**: Life expectancy of world increase from 1770 to 1950 was smaller
+**re-write Claim**: Life expectancy of world increase from 1770 to 1950, was smaller
 than 1950 to 2010
 
 **Example-sub**: 
 
-1770: 28.7 years
+- 1770: 28.7 years
 
-1950: 47.5 years
+- 1950: 47.5 years
 
-2010: 69.5 years
+- 2010: 69.5 years
 
-1770 to 1950 --> 18.8 years in 180 years
+- 1770 to 1950 --> 18.8 years in 180 years
 
-1950 to 2010 --> 22 years in 60 years.
+- 1950 to 2010 --> 22 years in 60 years.
 
 [Source](https://ourworldindata.org/grapher/life-expectancy?time=1770..2015&country=~OWID_WRL)
   
@@ -6511,15 +6768,18 @@ than 1950 to 2010
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-**Time**: 10 mins
+**Time**: 10 mins (mining the data)
 
-**Claim**: countries can move vertically up from the diagonal line
+---
+
+**Claim**: Countries can move vertically up from the diagonal line
 (meaning that they had positive growth), or vertically down from the
-diagonal line (meaning that they had negative growth).
+diagonal line (meaning that they had negative growth) (while pointing
+at [this graph](https://lh4.googleusercontent.com/RPLPjIuXhv5M_wfYlR_-8vOm2OyDQSrRz6pucNqH1F_t3puoBRX_uL6ZztzTFVtVUARgVMXJKR4I4lF1huQ9mQHTB4JsS1ZaozPCFeRgFsI0aEjWME5O_cteB66icYHIRbIEwyud)).
 
 **re-write Claim**: Many countries have had positive GDP per capita
-increase from 1950 to 2016 and some countries have had -ve GDP per
-capita increase from 1950 to 2016.
+per annum increase from 1950 to 2016 and some countries have had -ve
+GDP per capita increase from 1950 to 2016.
 
 **Example-sub**: 
 
@@ -6537,10 +6797,10 @@ Around 9 countries have had negative growth since 1950.
 
 ---
 
-It is important to note that the development era was not all plain
-sailing and that there have been some major growth decelerations, as
-we discuss below. Nevertheless, the net effect of the era has been
-overwhelmingly positive.
+> It is important to note that the development era was not all plain
+> sailing and that there have been some major growth decelerations, as
+> we discuss below. Nevertheless, the net effect of the era has been
+> overwhelmingly positive.
 
 **Claim**: It is important to note that the development era was not
 all plain sailing and that there have been some major growth
@@ -6577,8 +6837,9 @@ GDP per capita as less than 1.
 **Claim**: Nevertheless, the net effect of the era has been
 overwhelmingly positive.
 
-**re-write Claim**: Ratio of countries with positive GDP per capita growth and
-negative GDP per capita decrease is >10 from 1950 to 2010
+**re-write Claim**: Ratio of countries with positive GDP per capita
+per annum growth and negative GDP per capita per annum decrease is
+\>10, for period 1950 to 2010
 
 **Example-sub**: 
 
@@ -6594,29 +6855,30 @@ atleast 110 countries with net positive GDP per capita
 
 **Time**: 10 mins.
 
-If things are going so well, why would we start working on a
-completely different form of development economics? It seems like the
-best course would be to broaden and accelerate this process globally,
-and replicate previous successes. Moreover, the failures that do exist
-seem to make the case for improving our knowledge of growth and the
-likelihood of policy success. (We discuss this in more detail below).
+---
 
-**Claim**: It is not a good idea to work on something completely
-different form of development economics, when things are going so
-well.
+> If things are going so well, why would we start working on a
+> completely different form of development economics? It seems like the
+> best course would be to broaden and accelerate this process globally,
+> and replicate previous successes. Moreover, the failures that do exist
+> seem to make the case for improving our knowledge of growth and the
+> likelihood of policy success. (We discuss this in more detail below).
 
-Very hard don't know where to start what do they mean by the current
-form of dev eco anyways. 
+**Claim**: It is not a good idea to work on a completely different
+form development economics, when things are going so well.
 
-**failed**
+**Note**: Not sure how to test "not a good idea" with current evidence
+base.
 
-**time**: 20 mins
+**Failed**
+
+**time**: 20 mins ("Failed")
 
 **re-write Claim**: Things are going so well with the current form of
-dev eco
+dev econ.
 
-**re-write Claim**: Most countries with positive growth have grown 2x
-richer atleast since 1950 and some even 30x richer.
+**re-write Claim**: Most countries with positive growth since 1950
+have grown 2x richer atleast.
 
 **Example-sub**: 
 
@@ -6631,19 +6893,23 @@ countries are 2x richer since 1950 in terms of GDP per capita.
 
 **Time**: 10 mins
 
+---
 
 **Claim**: It seems like the best course would be to broaden and
 accelerate this process globally, and replicate previous successes.
 
-maybe comeback? seems like a thesis type of situation?
+**Note**: Unsure how to test "best course of action" and "accelerate
+process globally", "replicate previous successes"
 
 **failed**
 
-**re-write Claim**: 
+---
 
 **Claim**: Moreover, the failures that do exist seem to make the case
 for improving our knowledge of growth and the likelihood of policy
 success. 
+
+**Note**: How to test "X makes the case for Y"
 
 **failed**
 
@@ -6655,7 +6921,7 @@ success.
 **Example-sub**: 
 
 Zimbabwe, Democratic Republic of congo, Central African Republic,
-Burundi, Niger etc... all have ratios of 2010 GDP per capita vs 1950
+Burundi, Niger etc... All have ratios of 2010 GDP per capita vs 1950
 GDP per capita as less than 1.
 
 [Source](https://ourworldindata.org/uploads/2020/01/Scatter-1950-vs-2016-GDP-1-2048x2048.png)
@@ -6666,15 +6932,13 @@ GDP per capita as less than 1.
 
 **Time**: 1 mins (copied from above)
 
-<!-- 12 so far -->
-
 ---
 
-RD has moved in an entirely different direction. Instead of
-replicating this success, it asks: among interventions that we can
-test with RCTs, what is most impactful? In the wake of the period with
-by far the greatest progress in human welfare of all time, this change
-in strategy is difficult to justify.
+> RD has moved in an entirely different direction. Instead of
+> replicating this success, it asks: among interventions that we can
+> test with RCTs, what is most impactful? In the wake of the period with
+> by far the greatest progress in human welfare of all time, this change
+> in strategy is difficult to justify.
 
 **Claim**: RD has moved in an entirely different direction
 
@@ -6685,7 +6949,10 @@ in strategy is difficult to justify.
 involves "trade liberalization".
 
 **re-write Claim**: GiveWell does not recommend any intervention
-"focusing" on Trade.
+based on Trade.
+
+**Note**: I guess "based on X" is not testable. Correct? So would need
+to make it "more concrete" somehow?
 
 **Example-sub**: GiveWell top recommended charities are focused on
 Deworming and malaria.
@@ -6694,8 +6961,8 @@ Deworming and malaria.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-**Time**: 15 mins (bit hard. Struggled to find a way to test "what
-happened from 1950 to 2010")
+**Time**: 15 mins (*Struggled* to find a way to test "what happened
+from 1950 to 2010")
 
 **re-write Claim**: RD trying to do other things instead
 
@@ -6713,15 +6980,9 @@ consortium, Deworming The World etc...
 
 **Time**: 2 mins
 
+---
+
 **Claim**: RD doing other things is difficult to justify
-
-**Note**: 
-
-Author says, last 50 years look at GDP per capita and look at life
-expectancy. We should focus on GDP per capita. Author is pissed that
-RD is working on Deworming the world because there is no clear
-indication that it increases the GDP per capita and if it is the best
-way to increase GDP per capita.
 
 **re-write Claim**: Deworming the world has no clear evidence on GDP
 per capita
@@ -6729,12 +6990,15 @@ per capita
 **re-write Claim**: Deworming The World has no clear evidence on being
 the best way to increase GDP per capita.
 
+
 **re-write Claim**: Deworming the world does not improve long term
 income (let alone GDP per capita)
 
-I tried understanding the paper but it was all too much. I didn't
-understand and it was too long to read every sentence. Skimming for
-results didn't help.
+**Note**: If Deworming The World does not improve "long-term" income
+then, we can say that the author of the blog post "finds it difficult
+to justify". I tried understanding the paper that explained it but it
+was all too much. I didn't understand and it was too long to read
+every sentence. Skimming for results didn't help.
 
 **re-write Claim**: GiveWell does not believe that Deworming The World
 improves the long term income.
@@ -6747,38 +7011,51 @@ for the theory that deworming has long-term impacts. "---[GiveWell](https://www.
 
 **Definition**: checks out
 
-**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+**Checklist**: sub; Yes; pre; Yes; ecm; **NO**;
 
 **Time**: 40 mins (mainly trying to read the paper and see if I can
 use it to inform the presence of weak evidence).
 
-As a way to guide the comparison with RD, it is interesting to compare
-this progress with the estimated effect of Deworming. Of GiveWell’s
-top charities, Deworm the World is estimated to offer the most
-cost-effective way to improve economic outcomes for the very poor. But
-given the story above, it would be very surprising if this was the
-case: differences in rates of deworming explain a miniscule fraction
-of the variation in individual economic outcomes across the
-world. No-one argues that deworming is among the top 1000 causes of
-the huge economic transformation documented above.
+---
 
-**Claim**: it is interesting to compare "this" progress with the
+> As a way to guide the comparison with RD, it is interesting to
+> compare this progress with the estimated effect of Deworming. Of
+> GiveWell’s top charities, Deworm the World is estimated to offer the
+> most cost-effective way to improve economic outcomes for the very
+> poor. But given the story above, it would be very surprising if this
+> was the case: differences in rates of deworming explain a miniscule
+> fraction of the variation in individual economic outcomes across the
+> world. No-one argues that deworming is among the top 1000 causes of
+> the huge economic transformation documented above.
+
+^^ is arguably the hardest paragraph to do this excercise.
+
+**Claim**: It is interesting to compare "this" progress with the
 estimated effect of Deworming
 
-**re-write Claim**: Estimated increase in gdp per capita increase from
-2000 to 2010 is 1000 times higher than estimated gdp per capita as a
-result of Deworming.
+**re-write Claim**: Estimated increase in gdp per capita from 2000 to
+2010 is 1000 times higher than estimated gdp per capita as a result of
+Deworming.
 
-No idea how to get the impact of Deworming on GDP per capita.
+**Note**: I could make an estimate on gdp per capita if I had an
+estimate on the income gains. But reading the paper for income gains
+was "hard". and the paper is being ["disqualified"](https://www.givewell.org/international/technical/programs/deworming) as evidence by
+GiveWell. Not sure how to proceed as a result. Also, there re no
+cost-effectiveness estimates for "this" progress.
 
 **Failed**
+
+---
 
 **Claim**: Deworm the World is estimated to offer the most
 cost-effective way to improve economic outcomes for the very poor.
 
-**re-write Claim**: Deworming The World is estimated to offer the most
+**re-write Claim**: Deworming The World is estimated to be the most
 cost-effective program from GiveWell's top charity recommendations
 ~~to improve economic outcomes for the very poor~~
+
+**Note**: not sure where the author got his source from. There are no
+citations to such claims.
 
 **Example-sub**: 
 
@@ -6786,52 +7063,65 @@ Deworming The World has a cost-effectiveness of 67, while Bednets has
 17, VAS has 15, SMC has 16, and Deworming Sightsavers has 9 (all
 compared to "cash" transfers).
 
+[CE estimate](https://docs.google.com/spreadsheets/d/1zLmPuddUmKsy3v55AfG_e1Quk-ngDdNzW-FDx0T-Y94/edit#gid=472531943)
+
 **Definition**: checks out
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
 **Time**: 5 mins.
 
+---
+
 **Claim**: it would be very surprising if "differences in rates of
 deworming explain a miniscule fraction of the variation in individual
 economic outcomes across the world."
 
-"It would be surprising"
+**Note**: Not sure how to test --> "It would be surprising"?
 
-**Claim**: differences in rates of deworming explain a miniscule
+**Failed**
+
+**re-write Claim**: Differences in rates of deworming explain a miniscule
 fraction of the variation in individual economic outcomes across the
 world.
 
-Connecting deworming to GDP per capita I don't know how. I could make
+**Note**: Connecting deworming to GDP per capita and saying they don't help in
+world GDP increase: I don't know how to test this. I could make
 an estimation based on how many people it is expected to reach, with
 some adjustment factors etc... It would take time. I can't quickly
 test it.
 
-**Claim**: No-one argues that deworming is among the top 1000 causes of
+**Failed**
+
+**Claim**: No-one argues that Deworming is among the top 1000 causes of
 the huge economic transformation documented above.
 
 **re-write Claim**: GiveWell does not suggest that deworming helps
-increase economic output
+increase long-term income.
 
-**failed**
+**Note**: "suggest"? I guess it not ok to test.
 
-Moreover, given that GiveWell estimates that deworming has similar
-impact on welfare (broadly conceived) to their other top charities,
-this should lead us to question whether their other top charities are
-the best way to increase human welfare, broadly conceived.
+**Failed**
+
+> Moreover, given that GiveWell estimates that Deworming has similar
+> impact on welfare (broadly conceived) to their other top charities,
+> this should lead us to question whether their other top charities
+> are the best way to increase human welfare, broadly conceived.
 
 What do you expect me to do here? Can you give an example?
 
 The part with Deworming The World was really painful.
 
+**Failed**
+
 ## Cost-effectiveness analysis: RD vs. Growth
 
-Though growth is a major determinant of human welfare today, it does
-not follow that research and advocacy for growth and national
-development are more cost-effective than RD interventions. While the
-payoff might be large, the probability of influencing policy, or the
-probability that you know better than policymakers, might be low
-enough to make the expected value of such work lower than RD.
+> Though growth is a major determinant of human welfare today, it does
+> not follow that research and advocacy for growth and national
+> development are more cost-effective than RD interventions. While the
+> payoff might be large, the probability of influencing policy, or the
+> probability that you know better than policymakers, might be low
+> enough to make the expected value of such work lower than RD.
 
 **Claim**: Growth is a major determinant of human welfare today.
 
@@ -6850,6 +7140,8 @@ enough to make the expected value of such work lower than RD.
 
 **Time**: 5 mins
 
+---
+
 **Claim**: It does not follow that research and advocacy for growth
 and national development are more cost-effective than RD
 interventions.
@@ -6857,20 +7149,35 @@ interventions.
 **re-write Claim**: research and advocacy for growth and national
 development are more cost-effective than RD interventions.
 
-Thesis type come back?
+**re-write Claim**: Ratio budget of world bank (over X years) to
+the increase the GDP of country Y (due to world bank) is "orders of magnitude" greater
+than the cost-effectiveness of Graduation approach.
 
+**Note**:Didn't get far enough with the text with the blogpost to be
+able to answer this claim.
+
+---
 
 **Claim**: While the payoff might be large, the probability of
 influencing policy, or the probability that you know better than
 policymakers, might be low enough to make the expected value of such
 work lower than RD.
 
-**re-write Claim**: Thesis type. Let's see if there are examples
-first.
+**re-write Claim**: Probability of "influencing policy" is less than 1%
+
+**re-write Claim**: Expected cost-effectiveness of "work to influence
+policy" is lower than the expected cost-effectiveness of Graduation
+approach.
+
+**Note**:Didn't get far enough with the text
+
+**Time**: 5 mins ("might", "expected costs", "probability")
 
 > Pritchett has a convincing response to this argument. He compares a
 > popular form of RD, the Graduation approach, with research on and
 > advocacy for growth.
+
+**Note**: This is like a summary of the rest. So skip this.
 
 > The Ultra Poor Graduation program gets people out of extreme poverty
 > via livelihood training, productive asset transfers, consumption
@@ -6882,64 +7189,60 @@ first.
 > cash. Thus, it seems fair to roughly assume that Malaria Consortium is
 > around 3 times more cost-effective than the Graduation approach.)
 
-**Claim**: the Ultra Poor Graduation program gets people out of
+**Claim**: The Ultra Poor Graduation program gets people out of
 extreme poverty via livelihood training, productive asset transfers,
 etc...
 
-**re-write Claim**: average income before the 3 year graduation program is <1.9`$`  
+**re-write Claim**: Average income for all countries in the
+Graduation program year graduation program is <1.9`$` PPP per day
 
-**Example-sub**: 
+**Example-sub**:
 
-The criteria for different countries seem to be different in the
-study.
+For Pakistan the eligibility criteria is <1.74`$` PPP. But for
+Honduras the eligibility criteria seems to be <2.18`$` PPP per day
+(67.82`$`/31). For other countries, it's not even based on income.
 
-For Pakistan the eligibility criteria is 1.74`$` PPP. But for
-Honduras the eligibility criteria seems to be 2.18`$` (67.82/31). For
-other countries, it's not even based on income. 
-
-[Source](http://www.econ.yale.edu/~cru2/pdf/Science-2015-TUP.pdf)
+[Source: Table 1](http://www.econ.yale.edu/~cru2/pdf/Science-2015-TUP.pdf)
 
 **Definition**: Does not check out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-**Time**: 30 mins or more. (finding evidence is insanely hard, reading
-and extracting info.)
+**Time**: 30 mins (Finding evidence was taking time. Mainly reading
+and extracting info from the papers.)
 
-**re-write Claim**: average income after 3 year graduation program is
-\>1.9`$` PPP
+**re-write Claim**: Average income after third year of graduation
+program is \>1.9`$` PPP per day
 
-**Note** above is not available, so we are happy if average
-consumption + increase in asset value due to program is > than
-eligibility criteria
-
-**re-write Claim**: Annual consumption per person "attributed to the
-program" is > 1.9`$` 
+**Note** Average income not available. So we look at consumption due
+to the program. If it is greater than 1.9`$` PPP per day
+ 
+**re-write Claim**: Consumption per person "attributed to the
+program over the control" is > 1.9`$` PPP per day
 
 **Example-sub**: 
 
 Let's take Pakistan and in third year (one year after the stopping of
 the intervention):
 
-Non-durable annual consumption as a result of the program per
-household = 451 USD PPP
+Non-durable annual consumption "as a result of the program per
+household" = 451 USD PPP
 
-**Definition**: Assuming 2 people even per household, this doesn't
-seem to be greater than 1.9 USD PPP. Doesn't check out.
+Assuming 2 people even per household, this becomes `451/365/2=0.61$`
+PPP per day
+
+[Source: Table 4](http://www.econ.yale.edu/~cru2/pdf/Science-2015-TUP.pdf)
+
+**Definition**:  Doesn't check out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-**Time**: 120 mins (trying to understand the paper and find key
-parameters which we can use to understand the outcome)
+**Time**: 120 mins ("reading paper and figuring out usable values")
 
-There are more intricate details, but it is too much to go into it
-right now.
+---
 
 **Claim**: It is one of the most well-tested and impactful direct
 anti-poverty programs.
-
-**Note**: How do you test well-tested? You will always get google
-scholar results for anything and everything.
 
 **re-write Claim**: Graduation program is "one of the most" impactful
 direct anti-poverty programs.
@@ -6949,10 +7252,9 @@ cost-effective than Cash transfers.
 
 **Example-sub**: 
 
-Bandhan's Graduate program is 5x as cost-effective as Cash Transfers(according
-to Founders Pledge an organization that does not believe in citations
-or transparency). I can't find this in Founders pledge research but
-quote the authors of the blog post for this.
+Bandhan's Graduate program is 5x as cost-effective as Cash Transfers
+([according to Founders Pledge](https://forum.effectivealtruism.org/posts/bsE5t6qhGC65fEpzN/growth-and-the-case-against-randomista-development#The_Graduation_Approach) an organization that does not
+believe in citations or transparency).
 
 **Definition**: checks out.
 
@@ -6960,37 +7262,51 @@ quote the authors of the blog post for this.
 
 **Time**: 15mins
 
+---
+
 **Claim**: Thus, it seems fair to roughly assume that Malaria
 Consortium is around 3 times more cost-effective than the Graduation
 approach.)
 
-Can't test. Not sure what it means.
+**Note**: Not sure how to test "seems fair to assume something". If I remove
+that then it can be tested.
 
+---
+<br>  
 > A range of RCTs in different contexts have shown that the Graduation
 > approach raised year 3 incomes in 5 out of 6 study sites. The study
 > suggests that the intervention on average produces a 1.6x return in
-> net present value.[23] Thus, $1000 invested in the intervention
-> would produce $1,600 in net present value. There are around 100
-> million people in Ethiopia, so $1 billion invested in the graduation
-> approach there would increase per capita income by $16.
+> net present value.[23] Thus, `$`1000 invested in the intervention
+> would produce `$`1,600 in net present value. There are around 100
+> million people in Ethiopia, so `$`1 billion invested in the graduation
+> approach there would increase per capita income by `$`16.
 
 **Claim**: A range of RCTs in different contexts have shown that the
 Graduation approach raised year 3 incomes in 5 out of 6 study sites.
 
 **re-write Claim**: 6 RCTs in different countries have shown that the
 Graduation Programme raised year 3 consumption in 5 out of 6 sites
-compared to control group.
+"compared to control group".
+
+**Note**: I don't know how they obtained the "effect size" of
+consumption compared to the control group. So it is a black box for me
+and hence the "".
 
 **Example-sub**: 
 
-According to [this paper](http://www.econ.yale.edu/~cru2/pdf/Science-2015-TUP.pdf), Year 3 non-durable annual consumption due
-to the program is +ve for 5 sites with the exception being Honduras (-ve)
+According to [this paper](http://www.econ.yale.edu/~cru2/pdf/Science-2015-TUP.pdf) which summarizes the results of 6 RCTs in
+different countries, Table 4 Line 6 shows Year 3 non-durable annual
+consumption due to the program is *+ve for 5 sites out of 6* with the
+exception being that of Honduras (-ve).
 
 **Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
 **Time**: 10 mins
+
+---
+<br>
 
 > Compare this to the per-person value of growth accelerations and
 > decelerations documented by Pritchett et al (2016). These are
@@ -7001,18 +7317,37 @@ to the program is +ve for 5 sites with the exception being Honduras (-ve)
 > (decelerations) are orders of magnitude greater than the impact of
 > the Graduation programme:[24]
 
+**Time**: Spent 10-15 hours trying to understand the "growth
+acceleration", "NPV", "ppa" and how these are calculated in the
+[paper](https://www.sciencedirect.com/science/article/pii/S0264999316300311) and reproducing them to check understanding.
+
 **Claim**: Per person "benefits of growth accelerations" are orders of
-magnitude greater than the potential impact of graduation programme.
+magnitude greater than the per-person potential impact of graduation
+programme.
 
 **re-write Claim**: GDP per capita increase due to the "Black-box
-growth acceleration" is orders of magnitude higher than potential
+growth acceleration" is one order of magnitude higher than potential
 gdp per capita increase of graduation programme.
 
-**Example-sub**: 
+**Note**: The following example as given in blog post and elaborated
+by me the first time is a BIG FAIL for the above claim. Benefits are
+compared but not for same costs. Sad part is I said it checks out the
+first time. And realized about it while re-reading it. I then edit the
+claim so that atleast the example matches the claim.
+
+**Failed**
+
+**re-write Claim**: GDP per capita increase due to "growth
+acceleration" from 1967 to 1980 (irrespective of the cost it took to
+get there), is one order of magnitude higher than potential GDP per
+capita increase of graduation programme for a cost of 1bn `$`.
+
+**Example-sub**:
 
 Potential gdp per capita increase of graduation programme in Ethiopia:
 
-- Benefit to cost is 1.6 times on average. ([Table 4 line 11](http://www.econ.yale.edu/~cru2/pdf/Science-2015-TUP.pdf))
+- Dollars in benefit to cost ratio is 1.6 times on average. ([Table 4
+  line 11](http://www.econ.yale.edu/~cru2/pdf/Science-2015-TUP.pdf))
 
 - Ethiopian population is 100 million.
 
@@ -7027,13 +7362,16 @@ acceleration" = 551`$`  in Brazil around 1967 ([Table 4](https://www.sciencedire
 
 551/16 = 34 times
 
+??? Comeback
+
 **Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-**time:** More than 6-10 hours. Had to dive deep into these NPV and
-understand a bunch of claims there before I came back to answer this
-claim.
+**time:** 10 mins
+
+**Note**: Picked up some claims from the paper (as below) while trying
+to understand the blogpost. 
 
 **Claim**: Growth accelerations happened in Brazil in 1967
 
@@ -7051,7 +7389,9 @@ per capita in Brazil vs years was 4.16% +-0.5%
 
 **Example-sub**: 
 
-Using [data](https://ourworldindata.org/grapher/real-gdp-per-capita-PWT) from Our World In Data:
+Using [data](https://ourworldindata.org/grapher/real-gdp-per-capita-PWT) from Our World In Data which is "slightly" different
+from the data used in the [paper](https://www.sciencedirect.com/science/article/pii/S0264999316300311) (e.g., Figure 6 1968 value of GDP
+is 8.7 in Our World In Data and 8.35 in the paper):
 
 Slope of regression 3.86%
 
@@ -7059,9 +7399,9 @@ Slope of regression 3.86%
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-**Time**: Part of the 10 hours spent on understanding all of this.
+**Time**: 
 
-**re-write Claim**: From 1967-1980 the the "growth" was 4.16 ppa in Brazil
+**re-write Claim**: From 1967-1980 the the "growth" was 5.16 ppa in Brazil
 
 **re-write Claim**: From 1950 to 1967 the regression slope of log GDP
 per capita in Brazil vs years was 5.16% +-0.5%
@@ -7076,7 +7416,7 @@ Slope of regression 5.01%
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-**Time**: Spent 2 hrs time identifying what ppa meant.
+**Time**: 
 
 **re-write Claim**: Growth accelerations happened in 1967
 
@@ -7084,7 +7424,7 @@ Slope of regression 5.01%
 years in Brazil increased from [1950-1967] and [1967-1980]
 
 **Note**: I didn't delve into how these year brackets come about. I
-assume the author has his reasons.
+assume the author has his reasons for now and roll with it.
 
 **Example-sub**:
 
@@ -7104,8 +7444,8 @@ assume the author has his reasons.
 over the entire growth period (using discount rate of 5%)
 
 **re-write Claim**: Net present Value in 1967 of Actual GDP per capita
-minus PRM GDP per capita from 1967 to 1980 in Brazil is in trillions
-of dollars
+minus PRM GDP per capita for period [1967 to 1980] in Brazil is in
+trillions of dollars
 
 **Example-sub**: 
 
@@ -7157,7 +7497,6 @@ trying to split the claim etc...)
 
 **Claim**: Largest growth acceleration produce total benefits in the
 hundreds of billions of dollars in net present value.
-
 
 I think this is done... But I want to get to NPV trillions. For now I
 have reproduced the growth rates and counterfactual I have assumed
@@ -7211,7 +7550,47 @@ estimated variance for Gene X
 - check if the **Subject**: matches the claim for each and the
   predicate too.
 - check for Dollar issues
+- insert figures by searching
 
 
 fucking helll finally 200 is over... no over to corrections and
 sending it to an STM.
+
+
+## Questions
+
+Do we answer "might, would could", "seems fair to roughly assume"?
+
+RD might look like a plausibly effective way to reduce poverty
+
+Do we look at calculations that lead to a probability?
+
+I don't understand example for predicate. **Claim**: avg income is
+greater than 1.9`$`
+
+Leaving out somethings that I don't understand in the such as "due to
+program"
+
+"It is important/interesting/surprising to note that the dev era was not all plain sailing" 
+
+How to answer this?
+
+what about things that involve calculations?
+
+## Note to STM
+
+- **re-write Claim**: are used to split claims or breakdown claims
+- Main claims are between "---" lines.
+- I miss PPP or what this USD dollars is in many places... Might not
+  change the outcome much but I am not clear on it and didn't bother
+  for now. 
+  
+- In someplaces I used actual correlatation as I realized I could do
+  it in calc. By that time I realized it I was quite far along and
+  several claims already done. Not redoing the claims for which I
+  don't have pnn
+  
+  - All becuase statements are skipped. **Claim**: 60 years of public
+health improvements since 1950 increase cross-national life expectancy
+on average by around 8 years.
+

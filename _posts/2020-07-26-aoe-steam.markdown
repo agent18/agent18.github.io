@@ -2,11 +2,11 @@
 layout: post
 comments: true
 title:  "Steam Age of empires"
-date: 10-07-2020
+date: 7-08-2020
 categories: notes
 tags: gaming
 permalink: /:title.html
-published: false
+published: true
 ---
 
 ## lingesh
@@ -29,4 +29,154 @@ https://www.youtube.com/watch?v=kzXowgAUS9I&feature=youtu.be
 https://www.youtube.com/watch?v=mbdvOUz1544&feature=youtu.be
 
 
-## Side note... Identify how to increase space
+## Things to do
+
+1. 1 and 2 based on [basic procedure](https://www.youtube.com/watch?v=xJC9oC49mXs ).
+
+2. Change Steam global settings to use proton: Steam / Settings /
+   Steam Play --> Enable Steam Play For all titles.
+
+
+### Tweeks needed for AOE 
+
+0. Install the game:
+
+	From [YouTube comments](https://www.youtube.com/watch?v=kzXowgAUS9I&feature=youtu.be):
+		
+    > You have to enable Steam Proton for all your Steam library and
+    > then download and install the game as normal. Once that is done,
+    > then follow the instructions on this video. I did a previous
+    > video on Steam Proton that might be helpful -
+    > https://www.youtube.com/watch?v=xJC9oC49mXs&feature=youtu.be
+
+1. Based on [this](https://www.youtube.com/watch?v=kzXowgAUS9I&feature=youtu.be).
+
+	sudo apt install winetricks
+	
+done. :)
+
+2. Need to install the Media Foundation workaround for Wine
+	
+	https://github.com/z0z0z/mf-install
+	
+	Download and install it using the following after moving to folder
+    of downloaded mf-install
+    referencing to the game's "installation location":
+	
+		WINEPREFIX="/home/eghx/.local/share/Steam/steamapps/compatdata/813780/pfx" ./mf-install.sh 
+		
+3. Install Microsoft Visual Runtime
+
+		WINEPREFIX="/home/ryanjohnson/.steam/debian-installation/steamapps/compatdata/1017900/pfx"
+		winetricks -q vcrun2017
+		
+4. Rename the video folder (otherwise it will crash)
+
+	right click on game in steath --> properties --> go to local files
+    --> Assets --> change the name of "Video" to anything else.
+	
+	You will get an error "Unable to setup bla bla bla"... noi worries
+    keep gehen.
+	
+	Alternatively you can add -nostartup to the game's custom
+    launcher, this has the same affect as renaming the Video folder. ???
+
+
+Doesn't work...
+
+redoing the mf-install.sh line...
+
+worst case... remove game and redo the above steps fresh?
+
+Try [this guide](https://www.reddit.com/r/aoe2/comments/dwuplr/how_to_run_age_of_empires_2_definitive_edition_on/) that I found on reddit
+
+## winetricks vcrun2017 not found
+
+
+- error: Unknown arg vcrun2017
+
+so we atleast need a later version of 20170823
+
+- link for Winetricks instructions and readme
+:https://github.com/Winetricks/winetricks
+
+- [only old (2014) version of winetricks](https://packages.ubuntu.com/search?keywords=winetricks) available in 16.04
+
+
+
+1. Started with purging winetricks
+
+2. Installing latest winetricks based off of here:
+   https://askubuntu.com/a/755060/443958
+   
+   Did only first 2 steps. and now have version: 20200412
+
+Now did the vcrun2017 And got error: 
+
+
+``` terminal
+------------------------------------------------------
+Your version of wine 1.6.2 is no longer supported upstream. You should upgrade to 4.x
+------------------------------------------------------
+Executing mkdir -p /home/eghx/.local/share/Steam/steamapps/compatdata/813780
+------------------------------------------------------
+You are using a 64-bit WINEPREFIX. Note that many verbs only install 32-bit versions of packages. If you encounter problems, please retest in a clean 32-bit WINEPREFIX before reporting a bug.
+------------------------------------------------------
+------------------------------------------------------
+
+```
+
+Now removed wine and updating to 4.x from 1.6.2 based on [winehqeiki](https://wiki.winehq.org/Ubuntu)
+
+Notes on [winprefix and 32 and 64 bit shit](https://www.google.com/search?q=wine+32+bit+64+bit+difference&oq=wine+32+bit+64+bit+&aqs=chrome.1.69i57j33l7.4958j0j7&sourceid=chrome&ie=UTF-8)
+
+There is so much detail here. And I am afraid I fucked up... I did the
+vcrun2017 command but then I got an error type message.. Was that an
+error or what? 
+
+should I change wineprefix to 32bit? 
+
+after successful installation of wine 5.0 I tried the vcrun2017
+command again. It seems that wine is finally active and working and
+asking me to install "gecko" etc...
+
+
+``` terminal
+You are using a 64-bit WINEPREFIX. Note that many verbs only install 32-bit versions of packages. If you encounter problems, please retest in a clean 32-bit WINEPREFIX before reporting a bug.
+
+```
+
+## Direct x 11 issues
+
+It said compatibility not met... Tried ediitng th evideo folder and
+adding something from this video as first attempt...
+
+He was setting some "set launch options"
+https://www.youtube.com/watch?v=mbdvOUz1544
+
+## Graphic card issue:
+
+Need to figure out if game is using my powerful nvidia graphic card. 
+
+Didn't work.
+		
+## Space Issue: Identifying how to increase space [Solved]
+
+Checked it out. It is very easy to do. But runs the risk of fucking up
+Ubuntu and then re-installing. Currently all I need is like 10-20gb
+space which I have more than enough of in my "non-root" partition. 
+
+Made some notes [here](/resizing-ubuntu-dual-boot-partition.html).
+
+### Issue of installation in the "root" "/"
+
+- We have very little space in the "/" and we need to install things not
+in "/" but else where.
+
+exp:
+https://askubuntu.com/questions/611775/does-steam-install-games-to-the-root-partition
+
+- Steam doesn't install things in the root. It gives choice to install
+  elsewhere.
+  
+

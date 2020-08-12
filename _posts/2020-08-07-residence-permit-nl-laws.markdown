@@ -54,8 +54,17 @@ https://ind.nl/en/Pages/main-residence.aspx
 > you. And read how the required amount is calculated for your
 > income. --- [IND](https://ind.nl/en/Pages/income-requirements-permanent-residence.aspx)
 
+- What is the current status of my PR?
 
-- What are the conditions for letting you go outside netherlands..
+- When will I receive it
+
+- What are the conditions for revoking PR? 
+
+	- Job? time of work (24hrs)
+	- Transfer of money to accounts in india
+	- How often to renew? 
+
+- What are the things that will not allow me to renew my PR.
 
 Outside stay
 no job
@@ -63,3 +72,41 @@ no job
 conditions for renewal?
 
 Conditions for citizenship.
+
+
+
+I called the people
+
+
+they said I can take time off... As long as I show that I can support
+myself and show evidence. I "hope" they are talking about the
+sustainable income.
+
+
+## Naturalization
+
+- sustainable income ... you hace a indefinite stay so no one cares.
+
+- What if I loose my job during application 
+
+- 3 days a week is that a problem
+
+- birth certificate
+
+https://ind.nl/en/dutch-citizenship/Pages/Naturalisation.aspx
+
+requirements ^^
+
+[income related for naturalization](https://ind.nl/en/Pages/sustainable-income.aspx)
+
+## Translations
+
+- I have my permanante residence card already 
+
+Ik heb mijn vaste verblijfsvergunning
+
+- what do you mean by that 
+
+wat bedoel je daarmee
+
+registrei buitenlasdse actenn --> 4 weeks
