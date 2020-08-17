@@ -8,6 +8,7 @@ tags: DP, feedback, examples
 permalink: /:title.html
 published: true
 ---
+
 ## Feedback from the previous post
 
 > In the following discussion, I have not used "for a given pay" as I
@@ -253,9 +254,10 @@ compared to "developed countries"
 - What all counts as **EE**, Calculations counts as EE?
   Cost-effectiveness Calcs from GiveWell (?)
   
-  
 
-## Current essay on bottleneck
+## Essay on bottleneck
+
+**Based on**: [Talent constrained post](/is-ea-bottlenecked-stm-2.html)
 
 ### EA orgs hiring
 
@@ -674,7 +676,9 @@ RP projected budget for [2020](https://forum.effectivealtruism.org/posts/yq8M5ao
 
 **Time**: 10 mins (coming up with the claims)  
 
-## My work: Where to work
+## Where to work
+
+**Based on**: [Where to work](/career-2020-where-to-work.html) 
 
 **Claim**: Industries cluster in certain areas.
 
@@ -836,6 +840,8 @@ started to "work harder and optimize his time even further".
 **Failed**
 
 ## TIO
+
+**Based on**: [Talent is overrated](/deliberate-practice.html) 
 
 **Claim**: Geniuses are made not born.
 
@@ -1035,6 +1041,8 @@ their lives, did scarcely better, placing only six or seven pieces."
 **Time**: 10 mins
 
 ## Randomista development
+
+**Based on**: [Highest Karma EA forum post](https://forum.effectivealtruism.org/posts/bsE5t6qhGC65fEpzN/growth-and-the-case-against-randomista-development)
 
 > We define randomista development (RD) as an approach to development
 > economics which investigates, evaluates and recommends only
@@ -1361,8 +1369,6 @@ By selecting many regions and assigning each region randomly to
 **Time**: 15 mins
 
 ---
-
-## 13th July  (~9 or 7)
 
 **Claim**: RD includes scale-up of scientific research.
 
@@ -1722,7 +1728,7 @@ views.
 
 **Note**: Didn't get as far in the blogpost to be able to answer it.
 
-## 3 randomista (6)
+## Randomista 3.0
 
 > In this section, we set out three arguments for the proposition that
 > research and advocacy for growth is more cost-effective than
@@ -1753,7 +1759,7 @@ outside of the constraints of RD.
 
 ---
 
-### 3.1 Econ growth
+### Econ growth
 
 **Claim**: Economic growth explains a substantial fraction of the
 variance in human welfare today.
@@ -3594,7 +3600,7 @@ for poverty line of 5.50`$`/day with median income \<3535 USD.
 
 ---
 
-### GDP and other ind
+### GDP and other metrics
 
 > There is also a strong correlation between GDP per capita and other
 > indicators of welfare such as: Reduced undernourishment, Literacy,
@@ -6916,3 +6922,4 @@ and next I want to move on to other things...
 <!-- OPP ??? -->
 
 <!-- https://www.openphilanthropy.org/focus/global-health-and-development/science-for-global-health -->
+
