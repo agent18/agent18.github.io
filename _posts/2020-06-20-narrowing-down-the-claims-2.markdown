@@ -8,11 +8,6 @@ tags: DP, feedback, examples
 permalink: /:title.html
 published: true
 ---
-
-Claims from the book on toi
-
-Mail stm
-
 ## Feedback from the previous post
 
 > In the following discussion, I have not used "for a given pay" as I
@@ -126,7 +121,7 @@ how much they 'seem to want money'?" But the question for this section
 was "are they 'short on cash'?" #SeparateThyClaims
 
 > Some Longtermism Orgs are unable to meet their fundraising targets
-> as small as 1m$.
+> as small as 1m`$`.
 
 "Longtermism"??
 
@@ -157,113 +152,124 @@ without concrete examples are gone. For example, "we are short on
 cash" will become "we have zero budget for new hires this year" plus
 example.
 
-## important take away and claim
+## Important take always
 
-So we have the **claim**: Meta-orgs don't seem to be "affected by
-funding" while hiring researchers. Let's say I wanted to test this
-against **EE** and not with "OPP didn't want to hire in that round
-because of ...". Then, I see the problem. I can't test it bro. Hell I
-don't even know what it means. I am lost.
+So we have the **claim**, "GiveWell don't seem to be affected by
+funding while hiring researchers". Let's say it is expected to test
+this against **EE** and not with statements such as: "OPP didn't want
+to hire in that round because of ...". Then, I see the problem. I
+can't test the statement. SS Hurts.
 
 Let's try another,
 
-**Claims**: Meta-orgs don't want to hire more researchers ~~not
-because of funding issues~~ despite having enough funding.
+**Claims**: GiveWell "don't want" to hire more researchers ~~not
+because of funding issues~~ despite "having enough funding".
 
-Even this is not good. SS is hurting like hell "don't want to hire more
-researchers", "despite having enough funding". 
+**Note**: Even this is not good. SS is still hurting like hell "don't
+want to hire more researchers", "despite having enough funding".
 
-**Claims**: Meta-orgs do not allocate more funding than previous year
-to hire more researchers (than last year), despite allocating "more"
-funds to other things like bigger office etc...
+**re-write Claim**: GiveWell do not allocate more ~~funding~~ money in
+budget than previous year for hiring, despite allocating "more" funds
+to other things like bigger office, higher salaries etc...
 
-This seems to be testable by checking budget as an STM has
-informed. Ufff! that took time to get to.
+**Note**: This seems to be testable by checking budget as an STM has
+informed. *Ufff! that took time to get to.*
+
+**re-write Claim**: GiveWell does not allocate more money in budget
+than previous year for hiring.
+
+**Example-sub**: 
+
+GiveWell 2019 salary expenses: 3.1m USD
+
+GiveWell 2018 salary expenses: 1.9m USD
+
+2019 Salary \> 2018 Salary
+
+[Source: pg 6](https://files.givewell.org/files/ClearFund/GiveWell_TCF_2019_Audited_Financial_Statements.pdf)
+
+**Definition**: Does not check out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**re-write Claim**: GiveWell allocates more money in its budget for
+Rent.
+
+**Example-sub**: 
+
+GiveWell 2019 Occupancy expenses: 119k USD
+
+GiveWell 2018 Occupancy expenses: 23k USD
+
+2019 expenses \> 2018 expenses
+
+[Source: pg 6](https://files.givewell.org/files/ClearFund/GiveWell_TCF_2019_Audited_Financial_Statements.pdf)
+
+**Definition**: checks out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+---
 
 **Lessons**: Make claims testable by removing the fluff ("affected by
-funding"). Go back to square one, subject predicate level to identify
-the fluff. Agent is struggling with complicated claims ("affected by
+funding"). Agent is struggling with complicated claims ("affected by
 funding"). As soon as you change that complicated part, you can modify
 the claim to make it testable (as shown above). 
 
+## Notes to an STM
 
-## Content to write on
+I assumed we don't talk about anything less than 200 claims. The above
+format is what I try to keep up with along this excercise:
 
-my current essay on bottleneck
+- Main claims --\> "**Claim**:"  
 
-my essay on EA job todo
+- sub claims --\> "**re-write Claim**:" 
 
-MSJ article
+- sub claims rewritten --\> **re-write Claim**: 
 
-some black lives matters post?
+- Line donates the end of a "**Claim**:", not a "**re-write Claim**:" 
 
-Corona post reuters article
+- All "Because" claims are skipped as that is not the goal
+  here. "Because" is removed and the claim is treated regularly. 
+  
+  For e.g.,
+  
+  **Claim**: Most developing countries are substantially poorer than
+incomes suggest because of a combination of shorter lives and extreme
+inequality.
 
-some trevor noah or john mayers?
+	**re-write Claim**: Most developing countries are "substantially
+poorer" than incomes suggests.
 
-Passagge from HPMOR? 
+	**re-write Claim**: "developing countries" life expectancy is "low"
+compared to "developed countries"
 
-Randomista post?
+	etc...
 
-80000hours about AI good suspect as you never get any example for this shit
-
-Elizer weightloss plan
-
-How to integrate work related stuff? Feducial will work or not? PS
-part of Feducial?
-
-https://www.jefftk.com/p/coronavirus-and-rents
-
-https://forum.effectivealtruism.org/posts/hyisZr7n9fYTXx7g8/will-protests-lead-to-thousands-of-coronavirus-deaths
-
-TOI?
-
-STM articles?  hp how he picks up the different assumptions.
-
-STM EA for everyday one hr atleast is better.
-
-80000hours recent podcast on AI
-
-Mental health claims by George.
-
-
-## statistics, stat quest
-
-<!-- Relationship is given by correlation. If Gene X and Gene Y are
---> <!-- correlated (slope can be anything), then Gene X can predict
-Gene --> <!-- Y with less variation. R^2 is used to undersatand how
-much of the --> <!-- variation (error with mean) is captured by said
---> <!-- relationsship. There is still x% of relationship still
-left. Then --> <!-- what is correlation actually telling you, how
-strong the --> <!-- relationship is. and not anything about how much
-of the --> <!-- error. What does strong relationship even mean? huh?
-It means --> <!-- that you can predict something you already know with
-less --> <!-- variation-->
-
-That could be a fun excercise to take claims from videos and make an
-example for it on here
-
-
+- Have not answered claims about the future with "might", "would",
+  "could". Please let me know at the claim itself if I could have done
+  better.
+  
+- What all counts as **EE**, Calculations counts as EE?
+  Cost-effectiveness Calcs from GiveWell (?)
+  
+  
 
 ## Current essay on bottleneck
 
 ### EA orgs hiring
 
-Research, Operations, Entrepreneurship 
-
-1. 
-
 **Claim**: EA orgs don't seem to be able to hire the number of
-*Entrepreneurs* they set out to, at the end of a hiring round.
+*Entrepreneurs* they set out to hire, at the end of a hiring round.
 
 **Re-write claim**: The number of people who were accepted at the end
-of the incubation round for Entrepreneurs, is greater than or equal to
-the number of incubees budgeted for at the beginning of the year.
+of the year for Entrepreneurs, is less than the number of
+incubees budgeted for at the beginning of the year.
 
-**Subject**: The Number of people who were "accepted" at the end of an
-incubation round for entrepreneurs
+**Subject**: The Number of people who were "accepted" by the end of
+the year for entrepreneurs,
 
-**Predicate**: is greater than or equal to the number of incubees
+**Predicate**: is lesser than to the number of incubees
 budgeted for at the beginning of the year.
 
 **Example-sub**: [17 people](https://forum.effectivealtruism.org/posts/fNRSGinhWqPZtuo3T/application-process-for-the-2019-charity-entrepreneurship) accepted 
@@ -278,85 +284,86 @@ people they budgeted for. But the CEO informs via mail that it was 10
 > getting a better sense of applications eventually having in 13 in
 > the program.
 
-**Definition**: Checks out.
+**Definition**: False.
 
 **Checklist**: sub; Yes; pre; yes; ecm; Yes; s-1;
 
-**General**: Budgets are hard to find (let alone read). CE's budget
+**Note/Rant**: Budgets are hard to find (let alone read). CE's budget
 was hidden in a blog post which I got a hold of only after reaching
 out to them. :(
 
-Hmm. I didn't really expect that based on what was said initially. In
-the last essay I literally said that: " EA orgs *don't* seem to be
-able to hire the number of *Entrepreneurs* they want, *at the end of a
-hiring round*." But looking at the re-written claim this is not
-true. The contrast is baffling. I thought they meant one thing but I
-ended up with the opposite.
+Hmm. I didn't really expect the claim to be false based on what was
+said initially. In the last essay I literally said that: "EA orgs
+*don't* seem to be able to hire the number of *Entrepreneurs* they
+want, *at the end of a hiring round*." 
 
 > Last year we were not management, mentoring or funding constraint
 > and would have let in more people if we thought more people could
 > found an extremely impactful charity.
 
-"if we thought more people could found an extremely impactful charity"
-
-Ah man. I hate English.
+But looking at the re-written claim this is not true. The contrast is
+baffling. I thought they meant one thing but I ended up with the
+opposite. Dang it! English-1 Agent-0.
 
 ---
 
-2. EA orgs don't seem to be able to hire the number of *Researchers*
-they set out to, at the end of a hiring round.
+> EA orgs don't seem to be able to hire the number of *Researchers*
+> they set out to, at the end of a hiring round.
 
-**Claim**: EA Orgs are able to find the people they want while hiring Researchers
+**Claim**: EA Orgs are not able to find the people they want while
+hiring Researchers.
 
 **re-write Claim**: The number of people who were hired at EA Orgs in
-Research is equal or greater than their goal for that year.
+Research is less than their goal for that year.
 
 **Subject**: The number of people who were hired at EA Orgs in
-Research
+Research,
 
-**Predicate**: is equal or greater than their goal for that year.
+**Predicate**: is less than their goal for that year.
 
-**Example-sub**: In 2019 [7 joined their research team](https://blog.givewell.org/2020/05/20/reflecting-on-our-progress-in-2019/).
+**Example-sub**: In 2019 [7 joined GiveWell's research team](https://blog.givewell.org/2020/05/20/reflecting-on-our-progress-in-2019/).
 
 **Example-pred**: They wanted to have [3-5 signed offer letters](https://blog.givewell.org/2019/05/16/givewells-plans-for-2019/#ResearchCapacity) from new
 research staff as per their goals explicitly stated in their blog.
 
-**Definition**: 7 \> 5
+**Definition**: 7 !\< 5. Hence false claim.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes; 
 
-**General**: Getting info from GiveWell's budget was hard.
+**Time**: Getting info from GiveWell's budget was the hard part.
 
 ---
 
-3. Operations
-
-**Claim**: Ea Orgs don't seem to be able to hire the number of 
+**Claim**: EA Orgs don't seem to be able to hire the number of people
+they want while hiring for operations.
 
 **re-write Claim**: The number of people who were hired at EA orgs in
-Operations is equal or greater than their goal for that year.
+Operations is less than their goal for that year.
 
-**Example-sub**: In 2019 [3 people joined the operations team](https://blog.givewell.org/2020/05/20/reflecting-on-our-progress-in-2019/). 
+**Example-sub**: In 2019 [3 people joined the operations team of
+GiveWell](https://blog.givewell.org/2020/05/20/reflecting-on-our-progress-in-2019/).
 
 **Example-pred**: In 2019 GiveWell wanted [to hire 1 operations associate](https://blog.givewell.org/2019/05/16/givewells-plans-for-2019/#ResearchCapacity).
 
-**Definition**: checks out.
+**Definition**: 3 !\< 1. False.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes; 
+
+**Note**: So far we checked GiveWell and Charity Entrepreneurship and
+find that their goals (based on budget or explicit statements in the
+blogpost) are "more than met" by the supply.
 
 ---
 
 ### EA orgs types and hiring
 
-4. 
-
 **Claim**: *Longtermism* organizations are able to find the people they
 are looking for.
 
-**re-write Claim**: The number of people hired at Longtermism Orgs is
-equal to or greater than their goal for that given period.
+**re-write Claim**: The number of people hired at ~~Longtermism Orgs~~
+MIRI is equal to or greater than their goal for that given period.
 
-**Subject**: Number of people hired at Longtermism Orgs in a given period
+**Subject**: Number of people hired at MIRI in a given period,
 
 **Predicate**: is equal or greater than their goal for that given period.
 
@@ -366,7 +373,7 @@ to have left during that time and Nate Soares seems to have taken the
 "leadership" role. `16-(8-2)=10`. So they did end up hiring 10 new
 people.
 
-**Example-pred**: [10 research people to be hired in 2 years](https://intelligence.org/2017/12/01/miris-2017-fundraiser/) (from 2017)
+**Example-pred**: [10 research people to be hired in 2 years](https://intelligence.org/2017/12/01/miris-2017-fundraiser/) (from 2018).
 
 **Definition**: Checks out.
 
@@ -375,41 +382,21 @@ people.
 **Disclaimer**:
 
 According to MIRI, they were up by [8 research staff as of
-2019](https://intelligence.org/2019/12/02/miris-2019-fundraiser/). It appears MIRI is looking at net population of staff. And
-they also hired one person before 2019 ended for February 2020 and now
-another joins in May 2020. *Making it 10* delayed over 6 months.
+2019](https://intelligence.org/2019/12/02/miris-2019-fundraiser/). It appears MIRI was looking at net population of staff, when
+I reached out to them. They have one person starting February 2020 and
+now another joins in May 2020. *Making it 10* delayed over 6 months.
 
-
-Thalaiva thank you for showing me. Inshallah inshallah! Too soon? It's
-still hard matching the evidence with the claims.
-
-And thalaiva should I go dvorak? emacs vandhachu.. Then I will also
-invest time already. 
-
-the amount of persuasion I feel to do better, to not suck, to realize
-that I suck seems so important. When I do this work is where I get to
-that level. Pandya! common bro... Persuasion is king. Persuasion is everything
-
-Linkedin is no good to look at as some members are not accessible
-
-budgets are not complete for 2019... what to do?
-
-Looked at wayback machine
-
-greater than 45 mins
-
-I said I didn't have examples for longtermism orgs. Hmm.
+**Time**: \>45 mins (realizing that I could look at archives)
 
 --- 
 
-5. 
+**Claim**: *Meta orgs* are able to hire the number of people they want.
 
-**Claim**: *Meta orgs* are able to hire the number of people they want
+**re-write Claim**: The number of people hired at ~~Meta Orgs~~ OPP is
+equal to or greater than their goal for that given year.
 
-**re-write Claim**: The number of people hired at Meta Orgs is equal
-to or greater than their goal for that given year.
-
-**Subject**: The number of people hired at Meta Orgs in a given year.
+**Subject**: The number of people hired at ~~Meta Orgs~~ OPP in a
+given year.
 
 **Predicate**: is equal to or greater than their goal for that given
 year.
@@ -418,50 +405,37 @@ year.
 
 Unable to find more info on forecasting or budgets from OPP. And from
 their website it appears they didn't have a clear idea of how many
-people they wanted as GRs. They keep stating ["several" Generalist
-researchers](https://www.openphilanthropy.org/blog/new-job-opportunities) in 2018. So we skip that.
+people they wanted as GRs. They keep stating that they want to hire
+["several" Generalist researchers](https://www.openphilanthropy.org/blog/new-job-opportunities) in 2018. So we skip that.
 
 OPP was looking for [one Director of Operations in 2018](https://www.openphilanthropy.org/blog/new-job-opportunities). OPP hired
-[Beth Jones from May 2018](https://www.linkedin.com/in/beth-jones-4b16392b/) (whose applications closed in May).
+[Beth Jones from May 2018](https://www.linkedin.com/in/beth-jones-4b16392b/).
 
-OPP seems [to be looking for atleast 1 grants associates](https://www.openphilanthropy.org/blog/new-job-opportunities). [Jan
-2018](https://web.archive.org/web/20180105182929/https://www.openphilanthropy.org/about/team) shows 2 people with that function (Grants associate), Derek
-Hoph got promoted and [by Nov 2018](https://web.archive.org/web/20181128184458/https://www.openphilanthropy.org/about/team) Anya Grenier joins leading to
-`2-(2-1)=1` hire as they had forecasted.
+OPP seems [to be looking for atleast 1 grants associates in
+2018](https://www.openphilanthropy.org/blog/new-job-opportunities). [Jan 2018](https://web.archive.org/web/20180105182929/https://www.openphilanthropy.org/about/team) shows 2 people with that function (Grants
+associate), Derek Hoph got promoted and [by Nov 2018](https://web.archive.org/web/20181128184458/https://www.openphilanthropy.org/about/team) Anya Grenier
+joins leading to `2-(2-1)=1` hire as they had forecasted.
 
 **Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes; 
 
-No info [here](https://www.openphilanthropy.org/blog/new-job-opportunities).
-
-No where does it say they wanted only 5 or that they decided to hire
-only 5. Budgets are no where to be found.
-
-DEAD END
-
-Open phil is not explicit about how many they want in [2018](https://www.openphilanthropy.org/blog/new-job-opportunities) or [2019](https://www.openphilanthropy.org/blog/our-progress-2018-and-plans-2019)
-
-Need to check the claim and all that later.
-
-3 claims and it takes 3 hours. :( Speed up pandya
+**time**: 1 hr
 
 ---
 
-6. 
-
 **Claim**: *GH&P orgs* are able to hire the number of people they
-budgeted for
+budgeted for.
 
-**re-write Claim**: The number of people hired at GH&P Orgs is equal
-to or greater than their goal for that given year.
+**re-write Claim**: The number of people hired at GiveWell is equal to
+or greater than their goal for that given year.
 
-**Subject**: The number of people hired at GH&P Orgs in that given year
+**Subject**: The number of people hired at GiveWell in that given year,
 
 **Predicate**: is equal or greater than their goal for that given year.
 
-**Example-sub&pred**: GiveWell[ 2018 goals was to  hire 1 head of growth](https://blog.givewell.org/2018/04/20/givewells-outreach-and-operations-2017-review-and-2018-plans/) and
-in June [Ben Bateman](https://www.givewell.org/about/progress/2018-review#Outreach) started.
+**Example-sub&pred**: GiveWell [2018 goals was to hire 1 head of
+growth](https://blog.givewell.org/2018/04/20/givewells-outreach-and-operations-2017-review-and-2018-plans/) and in June [Ben Bateman](https://www.givewell.org/about/progress/2018-review#Outreach) started.
 
 <!-- Regarding researchers, they admit to not having clear picture about -->
 <!-- how many they wanted to hire ([Research point 6: hire flexible -->
@@ -474,37 +448,27 @@ research staff. And [7 joined their research team](https://blog.givewell.org/202
 
 **Checklist**: sub; yes; pre; yes; ecm; yes;
 
-I have checked in the past and GiveWell doens't really provide how
-many they want to hire. But perhaps I can look at their budget and the
-outcome as mentioned in teams in archive.org.
-
-The trouble is not in finding the number of researchers added (with
-archive.org), but it is in, forecasting.
-
 ---
 
-7. 
-
-
-**Claim**: *Animal EA orgs* are able to find the people they want
+**Claim**: *Animal EA orgs* are able to find the people they want.
 
 **re-write Claim**: The number of people hired at Animal EA Orgs is
 equal to or greater than their goal for that given year.
 
-**Subject**: The number of people hired at Animal EA Orgs
+**Subject**: The number of people hired at ACE,
 
 **Predicate**: is equal to or greater than their goal for that given
 year.
 
-**Example-sub**: 0 senior researcher by the end of the year 2019 since
-Oct 2019 comparing web archive team's page of ACE.
+**Example-sub**: 0 senior researcher were hired by the end of the year
+2019 since Oct 2019 based on web archive team's page of ACE.
 
 [2019 Oct Web archive of team](https://web.archive.org/web/20191008233423/https://animalcharityevaluators.org/about/contributors/meet-our-team/)
 
 [2020 Jan Web archive of team](https://web.archive.org/web/20200111011038/https://animalcharityevaluators.org/about/contributors/meet-our-team/)
 
 
-**Example-pred**: [1 senior researcher by the end of the year 2019](https://animalcharityevaluators.org/blog/room-for-more-funding-2019/)
+**Example-pred**: [1 senior researcher by the end of the year 2019](https://animalcharityevaluators.org/blog/room-for-more-funding-2019/).
 
 **Definition**: Claim is false.
 
@@ -512,28 +476,19 @@ Oct 2019 comparing web archive team's page of ACE.
 
 **Problems**
 
-Unable to extract proper forecasts:
+Unable to extract proper forecasts of number of people to hire:
 https://animalcharityevaluators.org/blog/room-for-more-funding-2019/#fn2-1-26652
 
-Is program officer hired or needed?
+Is program officer hired or needed, is not clear from the blog posts above.
 
 Whether they hired someone or not can be found easily either through
-websrchive, or through their [budgets comparing last year and this
-year](https://animalcharityevaluators.org/transparency/financials/). But the forecasts are hard to come by
-
-There are no budgets available, even if they are they are not useful
-as they don't have the forecasts which is what one would be interested
-in.
+web-archive, or through their [budgets comparing last year and this
+year](https://animalcharityevaluators.org/transparency/financials/). But the forecasts are hard to come by.
 
 ---
 
-8. 
-
 **Claim**: The type of organizations (AI, GH&P and Meta) in EA doesn't
 seem to affect whether the org can find a hire or not.
-
-The type of organizations in EA does not change the statues if an org
-is able to meet the forecasted number of hires by the end of the year.
 
 **re-write Claim**: The number of people hired at different types (AI,
 GH&P and Meta) of EA Orgs is equal to or greater than their hiring goal for
@@ -563,24 +518,22 @@ GH&P org GiveWell wanted to have 3-5 signed offers for researchers in
 
 ### EA orgs quality of hires
 
-9. 
-
 **Claim**: Quality of hires is good enough in EA. 
 
 **re-write Claim**: Most of the EA orgs' ~~are able to~~ hired
 Researchers (in the last 2 years), are either with greater than 3
-years of experience related to EA, or people who studied in top
+years of experience "related to EA", or people who studied in top
 universities (based on rankings) in [UK](https://www.thecompleteuniversityguide.co.uk/league-tables/rankings) and [US](https://www.usnews.com/best-colleges/rankings/national-universities), or PhD's in
-Philosophy or Political sciences or Economics or Math or relevant
+Philosophy or Political sciences or Economics or Math or "relevant"
 (e.g., PhD in Marine life for FWI).
 
-**Subject**: Most of the hired researchers qualifications in EA in the
+**Subject**: Most of the hired researchers' qualifications in EA in the
 last two years,
 
 **Predicate**: is greater than 3 years of experience related to EA, or
 people who studied in top universities (based on rankings) in [UK](https://www.thecompleteuniversityguide.co.uk/league-tables/rankings)
 and [US](https://www.usnews.com/best-colleges/rankings/national-universities), or PhD's in Philosophy or Political sciences or Economics
-or Math or relevant (e.g., PhD in Marine life for FWI)
+or Math or relevant (e.g., PhD in Marine life for FWI).
 
 **Example**: 
 
@@ -593,8 +546,8 @@ or Math or relevant (e.g., PhD in Marine life for FWI)
 | GW  | Marinella | Oxford (17%) | PhD Phil      | 1y      | 2019 | -        | -      |
 | OPP | Peter     | LSE (9%)     | MS. Econ      | 0       | 2019 | -        | -      |
 | OPP | Jacob     | Harvard      | Econ          | 0       | 2018 | 3 (comp) | 6      |
-| OPP | Joseph    | yale, Ox     | MPhil         | 0       | 2018 | -        | -      |
-| RP  | Daniel    | U. Barcelona | MA. Social    | >8      | 2018 | -        |        |
+| OPP | Joseph    | Yale, Ox     | MPhil         | 0       | 2018 | -        | -      |
+| RP  | Daniel    | U. Barcelona | MA. Social    | \>8      | 2018 | -        |        |
 | RP  | Saulius   | Vilniaus     | MS. CSish     | 10m\*   | 2018 | -        | -      |
 | RP  | Neil      | Oxford, EUV  | PhD Social    | 18m\*   | 2018 | -        | -      |
 | FWI | Marco     | U. Port      | PhD Marine    | -       | 2020 | -        | -      |
@@ -609,475 +562,121 @@ experience in university related to the field of work.
 [Peter](https://www.linkedin.com/in/peterfavaloro/), [Jacob](https://www.linkedin.com/in/jacob-trefethen-82105350/), [Joseph](https://www.linkedin.com/in/joseph-carlsmith-8ab07148/), [Daniel](https://www.linkedin.com/in/danielawaldhorn/),  [Saulius](https://www.linkedin.com/in/saulius-%C5%A1im%C4%8Dikas-0867b4a6/),
 [Neil](https://www.linkedin.com/in/neildullaghan/), [Marco](https://www.linkedin.com/in/marco-cerqueira-15bb8947/?originalSubdomain=pt), [Jennifer](https://www.linkedin.com/in/jennifer-justine-kirsch-689426155/)
 
-**Example-pred**: 11/12 (most)
+**Example-pred**: 11/12 (most).
 
 **Definition**: checks out.
 
 **Checklist**: sub; yes; pre; yes; ecm; yes;
- 
-"most" has been answered.
 
 ---
-
-10. 
 
 **Claim**: EA Orgs are happy with their recent hires.
 
-EA orgs feel that their recent hires are good and not that they need
-more experience.
-
-Post analysis more like... so ho would you test?
-
-surveys?
-
-EAs published more research than previous hires?
-
-Those EAs got in more grants than previous hires? Very hard to check
-and find out. Let's skip as it adds little value to us.
-
-I think I just wanted to check if EA orgs "feel good" about their
-recent hires. did they have a good conversation? did they feel like he
-is good at the job without looking at any metrics?
-
-Or same as last claims?
-
-such a vague claims.
+**re-write Claim**: Most of the EA orgs' ~~are able to~~ hired
+Researchers (in the last 2 years), are either with greater than 3
+years of experience "related to EA", or people who studied in top
+universities (based on rankings) in [UK](https://www.thecompleteuniversityguide.co.uk/league-tables/rankings) and [US](https://www.usnews.com/best-colleges/rankings/national-universities), or PhD's in
+Philosophy or Political sciences or Economics or Math or "relevant"
+(e.g., PhD in Marine life for FWI).
 
 
-hard to check, very vague claim, possible to do with feelings
+**Note**: Done above.
 
 ---
 
-11. 
-
-**Claim**: The number of good quality people are high.
+**Claim**: The number of good quality people who applied are high.
 
 **re-write claim**: The percentage of PHD's or people with greater
-than 3 years in EA, and who applied and didn't get the job is greater
-than 5% of total.
+than 3 years in EA, who applied is greater than 30% of total
+applications.
 
-Need to ask orgs for info hiring round data.
+**Note**: Not sure how to try this other than without accessing the
+data.
 
+**re-write Claim**: The number of people who made it to the last round
+is 2x the number of people who ended up being hired.
 
-But how else can I do this?
+**Example-sub**:
 
-How else can we predict the quality of people who applied
+[OPP had 17 people](https://www.openphilanthropy.org/blog/reflections-our-2018-generalist-research-analyst-recruiting) in the trial round when it hired 5 people. [EAF
+had 4 people](https://forum.effectivealtruism.org/posts/d3cupMrngEArCygNk/takeaways-from-eaf-s-hiring-round) in the trial round while hiring 2 people. [FWI had 4
+people](https://forum.effectivealtruism.org/posts/YGBgWfLqeqCCWfnmK/hiring-process-and-takeaways-from-fish-welfare-initiative) in the last round, which was a "reference check and call
+with finalists", while hiring 2 people in the end.
 
-There are PHDs or people with 3 years EA experience or people who
-started EA chapters who applied but didn't get...
+**Definition**: checks out.
 
----
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-12. 
-
-**Claim**: EA Orgs seem to think that there are *more candidates fit
-for the job than the ones they hired* in *research*.
-
-**re-write Claim**:  There are people they recommended to other orgs
-
-number of prospective candidates according to EA is hard, 
-
-But I can see the people in the last round were 2ce the number for
-research <-- Skip it already done. work and focus on failures.
+**Time**: 5 mins.
 
 ---
 
-12. 
 
 **Claim**: Senior staff within governments and top AI labs are
 struggling to find experienced and qualified AI talent to employ.
 
-What the fuck does struggling even mean?
-
-Are they unable to hire people after budgeting them?
-
-Are they looking for experienced people for a particular set of money?
-
-what does struggling mean?
-
 **re-write Claim** AI labs are not able to fill the positions which
 planned to the previous year.
 
-MIRI?
+**Example-sub**: 
 
-**Subject**: Number of people planned to be hired
+MIRI wanted to add [10 new people to their research staff](https://intelligence.org/2017/12/01/miris-2017-fundraiser/) in 2
+years from 2018-2020.
 
-**Predicate**: equals number of people hired
+MIRI had 8 research staff in [Jan 2018](https://web.archive.org/web/20180113211347/https://intelligence.org/team/). MIRI has [16 research
+staff as of Dec 2020](https://web.archive.org/web/20191224082740/https://intelligence.org/team/). But, Marcello Herreshoff seems to have left
+during that time and Nate Soares seems to have taken the "leadership"
+role. `16-(8-2)=10`. So they did end up hiring 10 new people.
 
-**Example-subj**: MIRI example
+**Definition**: checks out.
 
-**Example-pred**:
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-**Definition**: 
-
-**Checklist**: sub; No; pre; No; ecm; No; 
-
----
-
-13. 
-
-**Claim**: There are many jobs in AI Policy
-
-**Claim**: There are more than 100 jobs in AI policy govt./ academia
-over 1 year (as per the job board)
-
-- currently today(actual websites) vs per year 
-
-- academia vs tech
-
-- job board vs company websites
-
-- many --> 100s
-
-- growth of organizations in AI Policy space
-
-so we can split it into two...
-
-growth in one year according to linkedin? of Dod JAIC
-
-**re-write Claim**:
-
-**Subject**: 
-
-**Predicate**: 
-
-**Example**: 
-
-**Definition**: 
-
-**Checklist**: sub; No; pre; No; ecm; No;
-
-done in the past not doing again.
+**Time**: 5 mins.
 
 ---
 
+**Claim**: Rethink Priorities is funding constrained.
 
-**Claim**: In the future we will need a lot of people
+**re-write Claim**: RP don't meet their projected budget for 2019 by
+the end of 2018.
 
+**Example-sub**: 
 
-Give up
+Projected Budget for 2019: 447k USD
 
+Projected Budget for 2019 not met by Dec 2018: 294k USD
 
-What about past what about lot of people?
+[Source](https://forum.effectivealtruism.org/posts/6cgRR6fMyrC4cG3m2/rethink-priorities-plans-for-2019#Fundraising).
 
-Cannot answer as it is about the future and is a prediction (different
-skill?)
+**Definition**: checks out.
 
----
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-Do EA orgs have room for more funding to add more hires?
-^
-|
-|
+**Time**: 15 mins (coming up with the claims)
 
-Do their budgets remain the same for last two years? => Room for
-funding more people or perhaps they don't want to grow
+**re-write Claim**: RP do not increase their projected budget from 2019 to 2020.
 
-Do their budgets increase for hiring? => implies they have funding for hiring
+**Note**: So if RP stays with the same budget in 2020 as in 2019, then
+we expect that donating more money could help the
+organization. Probably, they keep to the same budget as they don't
+expect to get more money with fundraising.
 
-Do their budgets increase for other things besides hiring? => then
-they probably don't want to hire more people...
+**Example-sub**: 
 
+RP projected budget for [2019](https://forum.effectivealtruism.org/posts/6cgRR6fMyrC4cG3m2/rethink-priorities-plans-for-2019#Fundraising): 447k USD
 
-How to test "AMF has room for additional funding for more
-interventions"
+RP projected budget for [2020](https://forum.effectivealtruism.org/posts/yq8M5aorCLSq8JjvC/rethink-priorities-2019-impact-and-strategy#Funding_Status): 1,013k USD
 
-You can look at their budgets from the past and present and forecasts.
+**Definition**: False, they increase their budget.
 
-Look at forecasts of what they want to do and the amount of funding
-they got last year? also maybe look at eventual impact?
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-Moving on...
-
-----------------------------
-
-<!-- today starts here 03/07 -->
-
-**Claim**: AI Orgs are short on cash to hire people
-
-orgs have allocated no more budget than last year.
-
-Orgs don't have money allocated in their budget to hire new people. 
-
-and if they have cash to do other things like rent a new space, then
-they are probably not "short on cash"
-
-You could also look at some indication of budget... such as salaries +
-overhead minus fundraising etc...
-
-**re-write Claim** Orgs don't allocate more budget than last year to
-hire people? but they allocate more money for other things like a new
-desks?
-
-complete...
-
-
-Meta orgs
-
-
-- and then GH&P orgs don't seem to be short on cash for
-entrepreneurship???
-
-Budget is not avail;able...
-
-
-
----
-
-
-
-15 claims.... work on next 15 after that...
-
---- 
-
-**Claim**: We are heavily funding constrained and have the management
-capacity and hiring talent pool to quickly grow if given more money.
-
-**re-write claim**: We have forecasted
-
-**Claim**: Orgs want to hire more people but money is stopping them
-from allocating more budget.
-
-
-So then it is not clear to me how to make  a claim. because I think of
-RP. They want more money and have already planned it. If they get more
-money this is what they are going to do. 
-
-isn't this good enough?
-
-Does peter say
-
-I think the biggest problem is in the definition itself. thats where
-all the stuggle is happening.agreeing that something testable is the definition.
-
-Just looking at an unchanged budget is not make or break
-
-When forecasts are not being met with money for hiring.
-
-Forecasts can be on the blog.
-
-Fundraising not being met? where the forecast allocation was for
-hiring.
-
-Its unclear if they met their fundraising gap RP: for 2019 or 2020. so far.
-
-https://forum.effectivealtruism.org/posts/6cgRR6fMyrC4cG3m2/rethink-priorities-plans-for-2019
-
-https://forum.effectivealtruism.org/posts/yq8M5aorCLSq8JjvC/rethink-priorities-2019-impact-and-strategy#We_are_heavily_funding_constrained_and_have_the_management_capacity_and_hiring_pool_to_quickly_grow_if_given_more_money_
-
-Let's move on... this is getting us no where.
-
-
-
-### claims from woek
-
-**Claim**: When you make two measurements, error reduces by sqrt(2)
-
-**re-write claim**: When you have random errors in your measurement,
-with each measurement the uncertainty reduces by sqrt(#).
-
-**Subject**:  When you have random errors in your measurement,
-uncertainty of 1 measurement and uncertainty of 5 measurements
-
-**Predicate**: is a factor of sqrt(n)
-
-**Example**: There is a 99% chance that if you make a measurement your
-error is within +-3sigma (provided the error is a normal dist)
-
-But if you make 2 measurements your 99% chance of being within the
-+-3sigma/sqrt(n).
-
-You can check the SD.
-
-**Definition**: 
-
-**Checklist**: sub; No; pre; No; ecm; No; 
-
----
-
-**Claim**: It doens't matter what is the distribution of the random
-variable. Doens't have to be normal
-
-dice example
-
-Works with poinsson, but a better example is indeed dice... the dandom
-variable of value of die is a flat line, which becomes different 
-
-temp.r in agent18 has the formulas
-
----
-
-**Claim**: Thermal from different source adds up and doesn't
-
-*Not doing it.*
-
-At work I often in the recent days... Take one example and explain
-things so that I understand to begin with and then add more complexity
-like drift etc... to see where I stand. and test all those hypothesis.
-
----
-
-**Claim**: error when you measure using a natchiappan is X not 2X
-
-Although the TT says otherwise. The error is only shows up once.
-
-Not sure how to write it.
-
----
-1. 
-
-**Claim**: You can find out the drift with an error of X with
-confidence interval
-
-If there is a static error and a random error. You can extract the
-static error with uncertainty given by random error and number of
-measurements.
-
-done...
-
----
-
-**Claim**: Mark error adds up to caliberation error. 
-
-**re-write claim**: Error due to caliberation of the mark
-
----
-
-**Claim**: Assuming the position of the pivot point of the gripper is
-constant, the effect of pick up at the PA does not affect the final
-drop XY position before and after heating, as long as the temp is
-constant during transfer.
-
-
----
-
-**Claim**: The position of the pivot point affects the thermal value
-over time
-
-**re-write claim** If the position of the pivot point changes with
-time, then the drift due to gripper is +ve
-
-
-If pivot point moves from X1 (t1) to X2 (t2), then the change in
-position of wafer at WEX between t1 and t2 is X2-X1 (roughly). This is
-despite the wafer location at pick up being the exact same.
-that 
-
----
-
-**Claim**: Even with sensor measurement we are looking at a lost cause
-to follow drift.
-
-Current drift is at 55um. To take this out, we need 10 measurements
-
-**Claim**: you don't need to consider Rz once you consider XY
-
-**Claim**: coming to work is good for you?
-
-**Claim**: Scrum works
-
-**Claim**: it is import to come to work
-
-**Claim**: we are not considering double counting why
-
-Accounting for it is complicated.
-
-Accounting for double counting of the MEtro frame and the gripper is double
-
-**Example**: Think og the MF and the gripper. We would expect the
-gripper to go from 22 to higher, while the MF can go lower or higher
-than its cali temp.
-
-Within PS, it doens't add much value? or not needs to be checked. If
-Naseh confirms that they add up
-
-What about the gripper and the PA... That can be accounted for, if
-Naseh confirms that one of 22 is the minimum temperature and they both
-go the expansion direction.
-
-**Definition**: 
-
-**Checklist**: 
- 
- 
----
-
-**Claim**: Y-beam expansion is not double counting with any other part
-
-Y-beam expansion from caliberation temperature of 22 degrees and
-Metroframe expansion of 22 degrees
-
-Y-beam and the metroframe, only one should be counted.
-
-This is the complexit
-
-I think it is not that complex. I can probably impliment it for the
-local values atleast.
-
-
-
-**Definition**: 
-
-**Checklist**: 
- 
-
----
-
-
-**Claim**: It doesn't feel good for the team to see you work 4 days.
-
-The team will miss me when I am not around?
-
-You will get less work done?
-
-You wont be able to properly integrate with the team?
-
-It will be a short week? No shit.
-
-
-
---- 
-
-**Claim**: Calibration will give Mark Rz error
-
-
-yes
-
----
-
-**Claim**: sensor remeasuring wont work.
-
-Sensor remeasuring will not lead to improvements in drift.
-
-Drift keeps changeing every 15 mins by 50um
-
-**Claim**: feducial will work really well.
-
-
-**Claim**: you can only get rid of all the static values with
-measuring
-
+**Time**: 10 mins (coming up with the claims)  
 
 ## My work: Where to work
 
-**Claim**: We would benefit greatly from moving to our industry hub. 
-
-Let's come back to this? later?
-
-We would get smarter by moving to the industry hub
-
-We would be persuaded to work harder than we usually do when we move
-to an industry hub.
-
-People feel the need to work harder when they are around people
-working harder.
-
-
-How will you test this? No idea.
-
----
-
-**Claim**: Industries cluster in certain areas
+**Claim**: Industries cluster in certain areas.
 
 Isn't it enough to think of 3/4th US entertainers living in LA? or
 that all non-political late night shows work from in and around
@@ -1085,11 +684,7 @@ California?
 
 **re-write Claim**: More than 50% of the industry is present in one city.
 
-**Subject**: Number of cities more than 50% of the industry is present in,
-
-**Predicate**: is 1
-
-**Example-sub**: Three-fourths of the US entertainers live in LA.
+**Example-sub**: [Three-fourths of the US entertainers live in LA](https://80000hours.org/career-guide/how-to-be-successful/#7-consider-changing-where-you-live).
 
 **Example-pred**: LA is one city.
 
@@ -1101,62 +696,47 @@ California?
 
 **Claim**: It matters which city you live in.
 
-you get converted to the cities message.
+**re-write Claim**:  The things you value change, when you move to
+another region.
 
-Persuasion is real
-
-You feel the values that the people around you respect
-
-You absorb the values of the people around you respect
-
-**re-write Claim**:  
-
-**Subject**: The values you absorb 
-
-**Predicate**: are those that the people around you respect
-
-**Example-sub**: Will probably didn't care about "YC startup standards"
-while he was in London. Will found out that he was doing "merely fine"
-by YC standards and started to "work harder and optimize his time even
-further".
+**Example**: Will probably didn't care about "YC startup standards"
+while he was in London. (After he moved to the Silicon Valley,) Will
+found out that he was doing ["merely fine"](https://www.effectivealtruism.org/articles/why-nonprofits-should-apply-to-y-combinator/) by YC standards and
+started to "work harder and optimize his time even further".
 
 Will absorbed the value that "YC standards" are to live by while he
-was with Y-combinator
-
-**Example-pred**: The Y-combinator startup people care about being a
-top YC startup according to "YC standards"
+was with Y-combinator.
 
 **Definition**:  Checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes; 
 
-Really vague possibly. 
+**Failed**? Unsure. "YC standards", "value"!
 
 ---
 
-**Claim**: More money at the top hubs
+**Claim**: More money at the top hubs.
 
 **re-write Claim**: Salary at "great hubs" is higher than in
 "non-hubs".
 
-Salary at places that is home to the largest revenue Invensment banks'
-headquarters is higher than other places
+**re-write Claim**: Salary at home of headquarters of the largest
+revenue Investment banks' is higher than in other places.
 
-**Subject**: Salary at places that is home to the largest revenue Invensment banks'
-headquarters
+**Example**: Salary of friend in NYC in Investment Banking is about
+200k`$`. In India was about 33k`$`.
 
-**Predicate**: is higher than other places
-
-**Example**: Salary of friend in NYC is about 200k$. In India was
-about 33k$.
-
-**Definition**: checks out
+New York houses the [Largest Revenue Investment Bank’s
+ Headquarters](https://en.wikipedia.org/wiki/List_of_investment_banks)(Goldman Sachs, JP Morgan and Chase, Morgan Stanley,
+ BofA). 
+ 
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes; 
 
 --- 
 
-**Claim**: Great hubs attract top people (highly ambitious and super-productive)
+**Claim**: Great hubs attract top people (highly ambitious and super-productive).
 
 **re-write claims**: Places that have the highest concentration from
 an industry ~~attract~~ have highly successful people.
@@ -1166,9 +746,24 @@ concentration from an industry, haves.
 
 **Predicate**: highly successful people.
 
-**Example**: LA is home to 3/4th entertainers in the US. It has the
-likes of Logan Paul, Lily Singh, David Dobrik and many more who are
-not originally from LA or even Cali baby.
+**re-write Claim**: Top people from outside the hub move into the
+great hub.
+
+**re-write Claim**: LA as the most number of US entertainers.
+
+**Note**: Done already.
+
+**re-write Claim**: Many \>10m Youtubers not originally from LA move to
+LA to pursue their career.
+
+
+**Example**: It has the likes of Logan Paul, Lily Singh, David Dobrik,
+Liza Koshi and many more who are not originally from LA or even Cali
+baby.
+
+Logan Paul moved (with his brother Jake Paul) at a young age of 19
+from Houston to LA to pursue his career of becoming a huge
+entertainer.
 
 **Definition**: checks out.
 
@@ -1178,44 +773,30 @@ not originally from LA or even Cali baby.
 
 **Claim**: It matters a lot the type of message the city sends you.
 
-I think I am talking about values here. So I think I will skip this.
+**re-write Claim**:  The things you value change, when you move to
+another region.
 
-or lets give another example
-
-**re-write Claim**: The values you end up caring about are the ones
-that the people around you respect.
-
-**Subject**: the values you end up caring about
-
-**Predicate**: are the ones that people around you respect
-
-**Example**: My values that I would like are to be AEA focused, DP
-focused and not care about job, just do 9-5. and they can't fire me
-from the job.
-
-But the I recently went on a trip with friends to a tent next to the
-beach. It was very important for the group to be mixed.
-
-Now I want to do a trip to Alps and do some hiking with friends. #road trip
-
-
-**Example-pred**: these trips were talked about excessively among the
-colleagues who I talk with before I got the idea.
-
-**Definition**: 
-
-**Checklist**: sub; Yes; pre; Yes; ecm; Yes; 
-
-skipped v.hard
+**Note**: Done before.
 
 --- 
 
 **Claim**: Moving to a hub improves networking opportunities; improves
-exit opportunities
+exit opportunities.
 
-**Subject**: consequences of moving to a hub
+**re-write Claim**: SFO is where the EA annual conferences happen.
 
-**Predicate**: more networking opportunities.
+**Example-sub**: 
+
+EA Global 2019 happened in San Francisco.
+
+**Definition**:  checks out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 5 mins.
+
+**re-write Claim**: If you move to San Francisco you meet more people
+in the EA community.
 
 **Example-sub**: [Milan Griffes](https://80000hours.org/2016/08/reflections-from-a-givewell-employee/) who worked for GiveWell (SF) (EA
 hub, Many EA orgs are located in that region) informs that prior to
@@ -1233,78 +814,33 @@ accepted was enabled by his EA network. Needless to say there are
 
 **Claim**: Moving to a hub increases ambitiousness,
 
-**re-write Claim**: You feel the need to become "better" and practice,
-if you are around people who are "much better" than you
+**re-write Claim**: Moving to Silicon Valley makes you "work harder".
 
-**Subject**: You practice/ do anything to make you better when you are around people who are "much better" than you
+**Example**: Will, probably didn't care about "YC startup standards"
+while he was in London. (After he moved to the Silicon Valley,) Will
+found out that he was doing ["merely fine"](https://www.effectivealtruism.org/articles/why-nonprofits-should-apply-to-y-combinator/) by YC standards and
+started to "work harder and optimize his time even further".
 
-**Predicate**: 
-
-**Example**: 
-
-Once I started playing with the Chinese people here, and realized how
-much I suck, I started to practice here every saturday for 2 hrs.  
-
-so I play AOE with some friends here. And I suck at it. My friends
-constantly talk about it in the group and practice everyday and are
-tyring to go for ranked games. 
-
-Just to save embarrassment, I practice meticulously and repeatedly
-certain build orders. 
-
-
-**Definition**: 
+**Definition**:  Checks out?
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes; 
 
-
-how the fuck will you test it?
-
-I just want to say I felt persuaded to practice.
-
-
-exactly.
+**Failed**? Unsure. "YC standards", "work harder"
 
 ---
 
-**Claim**: It improves learning best practices
+**Claim**: Moving to a hub improves learning best practices.
 
-I cannot deny that i didn't learn from these guys. just by playing
-with them, I got better in AOE. They teach you that you sshould not
-have X villagers. They teach you that you need to use skirmishers for
-archers. Period. 
+**re-write Claim**: Playing with people who are better than you improves you.
 
-They teach you to look at the game statistics, such as K/D ratio, such
-as researches done. They look in a detail that is completely
-unparalleled to mine. :) K
-
----
-
-
-## DS or not
-
-
-
+**Failed**
 
 ## TIO
 
+**Claim**: Geniuses are made not born.
 
-## Randomista
-
-write 10 claims
-
----
-
-1. 
-
-**Claim**: Geniuses are made 
-
-**re-write Claim**: People who are atop their field trainer longer and harder
+**re-write Claim**: People who are atop their field trained longer and harder
 than the ones that are not.
-
-**Subject**: How hard the people who are atop their field, work
-
-**Predicate**: much harder than the rest.
 
 **Example**: 
 
@@ -1324,299 +860,185 @@ place.
 > other players would sometimes join Rice just to see what it was
 > like. Some of them got sick before the day was over
 
-Even the NFL players get sick. Compare this to the regular players at
-school level or even me for that matter.
-
-**Definition**: checks out
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes; 
 
+**re-write Claim**: Geniuses are not born.
+
+**re-write Claim**: Average hours required by the "best" and the
+average hours required by the "rest" is similar to reach a particular
+grade level.
+
+**Example-sub**:  
+
+*In the Ericsson study:*   
+"The researchers calculated the average hours of practice needed by
+the most elite group of students to reach each grade level, and they
+calculated the average hours needed by each of the other groups. There
+were no statistically significant differences."
+
+**Definition**: checks out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 10mins
+
 ---
 
-2. 
+**Claim**: Hard work distinguishes the world class from the ok
+players.
 
-**Claim**: Hard work so on distinguishes the world class from the
-ok players.
-
-**re-write Claim**: number of hours of practice per week is greater
+**re-write Claim**: Number of hours of practice per week is greater
 for people who were the top class (who would win most competitions)
-w.r.t to people who would win (lesser competitions)
+w.r.t to people who would win (lesser competitions).
 
-**Subject**: Number of hours of practice per week for top class
-(people who won most competitions)
+**Example**: 
 
-**Predicate**: is greater than the number of hours of practice per
-week for people who would win lesser competitions
-
-**Example**: Ericsson study shows that the "best people" practiced for
-24 hrs per week and the "not so best people" practiced for 9hrs a
-week. (the classification of "best" and "not so best" is done by the
-book TIO based on the number of competitions)
+Ericsson study shows that the "best people" practiced for 24 hrs per
+week and the "not so best people" practiced for 9hrs a week. (The
+classification of "best" and "not so best" is done by the book TIO
+based on the number of competition won).
 
 **Definition**: Checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes; 
 
-3. 
+---
 
-**Claim**: Experience does not distinguish the world class from the ok
+**Claim**: Experience does not distinguish the "world class" from the "ok"
 players.
 
 **re-write Claim**: The "best" compared to the "good" were playing for
-a similar time.
+a similar number of years before becoming "musicians".
 
-**Subject**: 
-
-**Predicate**: 
-
-**Example**: There was no statistically significant difference between
-the years the "best" and the "good" people were playing violin
-for. All age groups started by around 8 and decided to become
-musicians by 15.
+**Example**: In the Ericsson study, all age groups started by around 8
+and decided to become musicians by 15, yet they were distinguished
+into 3 different groups basked on skill level.
 
 **Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes; 
 
-
-as long as you say he is experienced then you are going to be
-eternally confused. When you changed that to number of years of
-experience like in a job, it suddenly changes the perspective. Wow. 
-
-Focus on words that confuse you.
-
- 
-5.
-
-**Claim**: Luck distinguishes the world class from the people who
-work hard
-
-
-**re-write Claim** It's not really random. 
-
-
-**Example**: 
-
-the best and the good gang had significant differences in time
-practiced per week. If it was random it wouldn't be significant
-
-**Definition**: I think so.
-
-**Checklist**: 
- 
+**Time**: 15 mins.
 
 ---
 
-7. 
+**Claim**: Luck does not distinguish the world class from the people who
+work hard.
 
-**Claim**: Just "working hard" seems to not cut it to become the
-greatest of the greats aka legend.
+**re-write Claim**: Number of hours of practice per week is greater
+for people who were the top class (who would win most competitions)
+w.r.t to people who would win (lesser competitions).
 
-**re-write Claim**: Just years of experience in a field doesn't count
+**Example**: 
 
-Look at the number of people at work above 50... 
+Ericsson study shows that the "best people" practiced for 24 hrs per
+week and the "not so best people" practiced for 9hrs a week. (The
+classification of "best" and "not so best" is done by the book TIO
+based on the number of competition won).
 
-and what does greatest mean? 
+24\>9.
 
-No: of years of experience at a company does not make you a recognized
-legend (you don't become an ASML Fellow)
+**Definition**: Checks out.
 
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes; 
 
-8. 
+---
+ 
+**Claim**: Mozart was extremely smart. No one compares to his level.
 
-**Claim**: Mozart was naturally smart
+**re-write Claim**: There is no one like Mozart today.
 
-**re-write Claim**: Preparation before playing a piece publicly for
-Mozart vs average music students is about Much Much better.
+**re-write Claim**: Number of years of study before performing
+publicly w.r.t to average students is greater for Mozart than 20th
+century prodigies.
 
+**Example-sub**: 
 
-Mozart was much smarter than todays average by no means compares to
-todays prodigies over the 
+- Average student: say 6 years before performing
 
-Mozart didn't need to learn as many years as todays average. And is
-similar to todays prodigies
+- Mozart: 6/1.3 = 4.6 years
 
+- 20th century prodigies: 6/5 = 1.2 years
 
-**re-write Claim**: todays "prodigies" are learn much faster than mozart
-did 
+- The above is based on Precocity index.
 
+- Source: pg. 27 TIO
 
-... pg 37
+**Definition**: False, does not check out. 
 
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-> Recent scholarship has put his abilities as a prodigy performer in a
-> new perspective as well. Researchers constructed a "precocity index"
-> for pianists; they figured out the number of years of study needed
-> by a pia- nist under modern training programs before publicly
-> performing vari- ous works, and then compared that with the number
-> of years actually needed by several prodigies throughout history. If
-> the average music student needs six years of preparation before
-> publicly playing a piece, and a given prodigy did it after three
-> years, that student would have an index of zoo percent. Mozart's
-> index is around 13o percent, clearly ahead of average students. But
-> twentieth-century prodigies score 30o percent to 500 percent. This
-> is another example of rising standards. The effects of today's
-> improved training methods apparently swamp the effects of Mozart's
-> genius as a performer.
+**Time**: 15 mins
 
+---
 
-8. 
+**Claim**: Talent doesn't exist.
 
-**Claim**: Talent doesn't exist
+**re-write Claim**: Average hours required by the "best" and the
+average hours required by the "rest" is similar to reach a particular
+grade level.
 
-**re-write Claim**: it still took people X amount of years to reach
-success no matter how "talented" you were.
+**Example-sub**:  
 
-this is hard,
+*In the Ericsson study:*   
+"The researchers calculated the average hours of practice needed by
+the most elite group of students to reach each grade level, and they
+calculated the average hours needed by each of the other groups. There
+were no statistically significant differences."
 
-come back...
+**Definition**: checks out.
 
-> No matter who they were, or what explanation of their
-> performance was being advanced, it always took them many years to
-> become excellent, and if a person achieves elite status only after many
-> years of toil, assigning the principal role in that success to innate gifts
-> becomes problematic, to say the least.
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
+**Time**: 2mins (copied from past claims)
 
-
-9. 
+---
 
 **Claim**: There is nothing called in born talent for tiger.
 
-This is very hard... 
+**re-write Claim**: Number of hours of practice before Tiger got into
+pro-golf compared to others was statistically not significant.
 
-Moving on...
+**Failed** Don't have these numbers.
 
-you can say he still had to practice and got to that level at 19 only.
-
-**re-write Claim**: It still took him 19 years to reach pro level.
-
-Number of hours of him adn his 
-
-He's been learning from 7 months and with professional help from 17 years.
-
-10. 
-
-**Claim**: Intelligence distinguishes the world class from the people
-who work hard
-
-
-business study
-
-5. 
+---
 
 **Claim**: Memory distinguishes the world class from the people who
-work hard
+work hard.
 
-czech master richard reti
+**re-write Claim**: How much World class Chess players can remember vs
+how much non-chess players can remember is different only when it
+comes to Chess.
 
+**Example-sub**: 
 
-11. 
+"Consider a study in which highly skilled chess players as well as
+non- players were shown chessboards with twenty to twenty-five pieces
+set up as they were in actual games; the research subjects were shown
+the boards only briefly—five to ten seconds—and then asked to recall
+the positions of the pieces. The results were what you'd expect: The
+chess masters could typically recall the position of every piece,
+while the non- players could place only four or five pieces."
 
-**Claim**: Just years of hard work doesn't lead to extraordinary performance
+"Then the researchers repeated the procedure, this time with pieces
+positioned not as in actual games but randomly. The non players again
+could place only four or five 46 How Smart Do You Have to Be?
+pieces. But the masters, who had been studying chessboards for most of
+their lives, did scarcely better, placing only six or seven pieces."
 
-**re-write Claim**: YOE? violists? 
+**Definition**: checks out.
 
-F1 racing?
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-people don't get better: drivers doctors don't get better
+**Time**: 10 mins
 
-Dad , people in office, I found mistakes think about rob... or all the
-old people in your office. right?
-
-12. 
-
-**What is DP**
-
-It is activity designed specifically to improve performance, often
-with a teacher's help; it can be repeated a lot; feedback on results
-is continuously available; it's highly demanding mentally, whether the
-activity is purely intellectual, such as chess or business-related
-activi- ties, or heavily physical, such as sports; and it isn't much
-fun.
-
-
-**Claim**: What Jerry rice did is DP
-
-**re-write Claim**: Jerry Rice designed activity to specifically
-improve his performance
-
-**Example**: 
-
-> His weight training gave him tremendous strength. His trail running
-> gave him control so he could change directions suddenly without
-> signaling his move. The uphill wind sprints gave him explosive
-> acceleration. Most of all, his endurance training—not something that a
-> speed-focused athlete would normally concentrate on—gave him a giant
-> advantage in the fourth quarter, when his opponents were tired and
-> weak, and he seemed as fresh as he was in the first minute. Time and
-> again, that's when he put the game away.
-
-
-
-**Definition**:
-
-**Checklist**: 
- 
-
-**re-write Claim**: Jerry Rice repeated those activities to improve
-performance a lot.
-
-**Example**: 
-
-> Rice and his coaches understood exactly what he needed in order to
-> be dominant. They focused on those things and not on other goals that
-> might have seemed generally desirable, like speed.
-
-**Definition**: 
-
-**Checklist**: 
- 
-
-
-**re-write Claim**: not fun; demanding mentally;
-
-> There's nothing enjoyable about running to the point of exhaustion or
-> lifting weights to the point of muscle failure. But these were centrally
-> important activities.
-
-the one hour I pick up the dumbells, I fail and have 8 more sets to
-go. God help me. 
-
-
-
-**re-write Claim**: feedback on results continuously available
-
-He has trainers, he has games and all sorts of equipment and he
-watches 
-
-
-> His independent off-season workouts consisted of conditioning, and
-> his team workouts were classroom study, reviewing of game films,
-> conditioning, and lots of work with other play- ers on specific
-> plays.
-
-
-15.
-
-**Claim**: It is important to have a teacher  while doing DP
-
-I was playing aoe with friends and I would have never realized I
-should look to improve research methodologies and all of the AI had 25
-while I had in some single digits. 
-
-Not I start to look at those info
-
-He then told me to use skirms specifically as they has certain damage
-
-
-or basket ball (from random to 50% in a workout just by corrections)
-
-## randomista development
+## Randomista development
 
 > We define randomista development (RD) as an approach to development
 > economics which investigates, evaluates and recommends only
-> interventions which can be tested by randomised controlled trials
+> interventions which can be tested by randomized controlled trials
 > (RCTs).
 
 > RD can take low-risk or more “hits-based” forms. Effective altruists
@@ -1630,47 +1052,45 @@ or basket ball (from random to 50% in a workout just by corrections)
 > a large effect. Other GiveWell recommended programmes offer a much
 > more certain probability of impact.
 
-RD --> Direct funding of interventions that have been tested by RCTs
+**Note**: There is some fundamental confusion regarding the definition
+of "RD". "RD is defined as an approach to development economics which
+investigates, evaluates and recommends only interventions which "can
+be tested" by randomized controlled trials (RCTs)". If you say "CAN be
+tested" then I don't know how to go about testing it. I don't know
+what distinguishes something as "can be tested by RD" and "cannot
+be...". If you say "Is tested by RCTs" instead, then both GiveWell and
+OPP don't qualify as "RD", as some of the interventions that they
+offer grants to, do not have RCTs for them e.g., ["CPSP"](https://www.givewell.org/research/incubation-grants/centre-pesticide-suicide-prevention/august-2017-grant). Having
+said that, the author of the blog post refers to GiveWell and Open
+Philanthropy Project (OPP) in the context of "RD" multiple times, so in
+many places I just substitute "RD" with GiveWell or OPP.
+
+So basically the claim is modified as shown: "Direct funding of
+interventions that ~~can be~~ *have been tested* by RCTs."
  
-The idea that they mean multipliers and not really probabilities of
-success is captured here: 
+**Claim**: Direct funding of interventions that have been tested by
+RCTs can be low-risk.
 
-> The “1-2% chance” doesn’t mean that we think that there’s a 98-99%
-> chance that deworming programs have no effect at all, but that we
-> think it’s appropriate to use a 1-2% multiplier compared to the
-> impact found in the original trials – this could be thought of as
-> assigning some chance that deworming programs have no impact, and
-> some chance that the impact exists but will be smaller than was
-> measured in those trials. ---[DWT poor impact chances](https://blog.givewell.org/2016/07/26/deworming-might-huge-impact-might-close-zero-impact/)
-
----
-
-**Claim**: RD can take "low-risk forms" 
+**Claim**: RD can take "low-risk forms".
 
 **re-write Claim**: Recommending interventions which are based on RCTs,
 carries high probability of success in some cases.
 
-**re-write Claim**: Recommending interventions which are based on
-RCTs, carries high (10-50%) estimated multiplying factor (that is
-responsible for the reduction in lives saved as a result of the
-mismatch between current intervention and RCTs used).
-
-**Subject**: multiplying factor related to recommending interventions
-based on RCTs...
-
-**Predicate**: is estimated to be high in some cases
+**re-write Claim**: Recommended interventions which are based on
+RCTs, carries high (\>10%) estimated adjustment factor (e.g., for
+accounting for the mismatch between RCTs and current interventions).
 
 **Example-sub**: GiveWell recommends [Malaria Bednet Distributions](https://www.givewell.org/international/technical/programs/insecticide-treated-nets)
 intervention. The multiplying factor is estimated to be 24%.
 
 
 
-|             | Variable                                  | %     | based on row |
-|-------------|-------------------------------------------|-------|--------------|
-| MBD(5+ age) | (based on) total number of deaths averted | 24%   | 80           |
-| MBD         | Downside adjustments                      | 80%   | 191          |
-| MBD         | Exclusion effects                         | 126%  | 214          |
-| MBD         | Total product                             | 24%   | -            |
+| Intervention | Variable                                  | %    | based on row |
+|--------------|-------------------------------------------|------|--------------|
+| MBD(5+ age)  | (based on) total number of deaths averted | 24%  | 80           |
+| MBD          | Downside adjustments                      | 80%  | 191          |
+| MBD          | Exclusion effects                         | 126% | 214          |
+| MBD          | Total product                             | 24%  | -            |
 
 
 
@@ -1678,126 +1098,77 @@ intervention. The multiplying factor is estimated to be 24%.
 
 [2019 CE analysis of GiveWell with rows to calculate some aggregate %](https://docs.google.com/spreadsheets/d/1LHJXCUs9C_n8iZXmYdNqgF4BhcJKxVp971kPyWl8AKg/edit#gid=1070538669)
 
-
-The above is based on [2018 cost-effectiveness model](https://docs.google.com/spreadsheets/d/15pzFH5e4k4qQwOX5ffqQcJNPK4RnVJ-b5EFd9ZUtlJs/edit#gid=1034883018)'s "Results" page.
-
-<!-- "Efficacy reduction due to insecticide resistance" is at 18% (which in -->
-<!-- the end is a multiplier). ---[2019 cost effectiveness](https://docs.google.com/spreadsheets/d/1zLmPuddUmKsy3v55AfG_e1Quk-ngDdNzW-FDx0T-Y94/edit#gid=1364064522&range=A54) -->
-
-<!-- This seems to be their main concern while recommending AMF (as -->
-<!-- expressed [here](https://www.givewell.org/charities/amf#Summary)). They have factored this risk and still find this -->
-<!-- intervention to be cost effective. -->
-
-**Definition**: 24% is high. Checks out. 
+**Definition**: 24% is \>10%. Checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes; 
  
-time: 4 hrs
+**Time**: 4 hrs (finding evidence, understanding the CE estimates, and
+finally leaving it at this)
 
 ---
 
-**Claim**: RD can take "hits-based" forms
+**Claim**: Directly funding of interventions that have been tested by
+RCTs can also be high-risk.
+
+**Claim**: RD can take "hits-based" forms.
 
 **re-write Claim**: Recommending interventions which are based on RCTs,
-carries high-risk in some cases
+carries high-risk in some cases.
 
-**re-write Claim**: Recommending interventions which are based on
-RCTs, carries low (2%) estimated multiplying factor (that is
-responsible for the reduction in lives saved as a result of the
-mismatch between current intervention and RCTs used).
-
-**Subject**: Multiplying factor related to recommending interventions
-based on RCTs...
-
-**Predicate**: is estimated to be low (<2%)
+**re-write Claim**: Recommended interventions which are based on
+RCTs, carries low (\<10%) estimated adjustment factor (e.g., for
+accounting for the mismatch between RCTs and current interventions).
 
 **Example-sub**: GiveWell recommends [Deworming](https://blog.givewell.org/2016/07/26/deworming-might-huge-impact-might-close-zero-impact/) interventions. The
-multiplying factor is estimated to be 1%.
+adjustment factor is estimated to be [1% in their blog post](https://blog.givewell.org/2016/07/26/deworming-might-huge-impact-might-close-zero-impact/). We
+use the same method as above to come to the 1%.
 
-
-|             | Variable                                  | %     | based on row |
-|-------------|-------------------------------------------|-------|--------------|
-| DTW         | Aggregate adjustment                      | 0.97% | 46           |
-| DTW         | Downside adjustments                      | 92%   | 184          |
-| DTW         | Exclusion effects                         | 121%  | 204          |
-| DTW         | Total product                             | 1%    | -            |
+| Intervention | Variable             | %     | based on row |
+|--------------|----------------------|-------|--------------|
+| DTW          | Aggregate adjustment | 0.97% | 46           |
+| DTW          | Downside adjustments | 92%   | 184          |
+| DTW          | Exclusion effects    | 121%  | 204          |
+| DTW          | Total product        | 1%    | -            |
 
 
 [2019 CE analysis of GiveWell](https://docs.google.com/spreadsheets/d/1zLmPuddUmKsy3v55AfG_e1Quk-ngDdNzW-FDx0T-Y94/edit#gid=1070538669)
 
 [2019 CE analysis of GiveWell with rows to calculate some aggregate %](https://docs.google.com/spreadsheets/d/1LHJXCUs9C_n8iZXmYdNqgF4BhcJKxVp971kPyWl8AKg/edit#gid=1070538669)
-
-<!-- They --> <!-- quantify the risk of the RCTs not being the same as
-the current --> <!-- interventions with a multiplier of `1%` in their
-CE analysis: -->
-
-<!-- "Aggregate adjustment to Miguel and Kremer development effect — DtW" -->
-<!-- is at 1% ---[2019 cost effectiveness](https://docs.google.com/spreadsheets/d/1zLmPuddUmKsy3v55AfG_e1Quk-ngDdNzW-FDx0T-Y94/edit#gid=472531943&range=A46)  -->
-
-<!-- This seems to be their main concern regarding RCTs while recommending -->
-<!-- Deworming The World as expressed [here](https://blog.givewell.org/2016/07/26/deworming-might-huge-impact-might-close-zero-impact/). They have factored this -->
-<!-- risk and still find this intervention to be cost effective. -->
 
 **Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes; 
  
-time: 4 hrs 
+**Time**: 4 hrs (In total I spent 2x 4hrs trying to understand the
+last two claims and getting to some uniform way of making the
+example.)
 
-Note: Understanding what he meant with low risk and in the end writing
-it out was so hard. Finding info also took equal time I think. I think
-it was a sloppy way to write for him to just say low-risk and leave it
-at that. And I just THINK he means the above, i.e., talking about only
-the risks related to the extrapolation of the impact one RCT to
-current day interventions.
-
- Jesus. Lots of ups and downs and fighting within myself about
-delivering english vs... finally it feels like it adds up... fucking
-loose ass english from these niggas high risk in what where how fuck
-you.
-
-Whether this includes how well or how uncertain GW is about the
-intervention org doing its job is quite hard to extract (its a long
-table and we need to be really clear about it).
-
-lot of confusion in reading the GW table
-
-More confusion with the definition.. damn I really doubt he knew waht
-he was talking about.
+**Note**: Understanding what GiveWell meant with low risk and in the
+end writing it out was so hard. Finding info also took equal time I
+think. The author of the blog-post just says it is low risk. But in
+actuality (I checked with GiveWell too) they are talking about an
+adjustment factor to account for things like "mismatch between RCTs
+and current interventions". "High risk" is such a misnomer here both
+in GiveWell's website and in the blog post used for this excercise.
 
 ---
 
-**Claim**: Direct funding interventions that have been tested by RCTs
-can be low-risk
-
-same as above.
-
-
-**Claim**: Directly funding interventions that have been tested by RCTs
-can also be high-risk
-
-same as above
-
-time: 5mins
-
----
-
-**Claim**: EAs have especially focused on directly funding
-interventions that have been tested by RCTs
+**Claim**: EAs have *especially* focused on directly funding
+interventions that have been tested by RCTs.
 
 **re-write Claim**: EA Orgs' all recommended interventions are based on
 atleast one RCT that is available on this topic.
 
 **Subject**: The number of RCTs based on which the EA Orgs recommend
-each of their interventions
+each of their interventions,
 
-**Predicate**: is >= 1 (per intervention recommended)
+**Predicate**: is \>= 1 (per intervention recommended)
 
 **Example-sub**: 
 
 - GiveWell recommends [Malaria consortium](https://www.givewell.org/charities/malaria-consortium#Is_SMC_an_effective_intervention) which does
   [SMC](https://www.givewell.org/international/technical/programs/seasonal-malaria-chemoprevention). Apparently there are 7 RCTs that provide "strong evidence"
-  that SMC substantially reduces
+  that SMC substantially reduces.
   
 - GiveWell recommends AMF which provides funding for [LLINs](https://www.givewell.org/international/technical/programs/insecticide-treated-nets). They
   use [a couple of RCTs](https://www.givewell.org/international/technical/programs/insecticide-treated-nets), for example, one on comparing mortality
@@ -1807,35 +1178,28 @@ each of their interventions
   program. This is based on a [couple of RCTs](https://www.givewell.org/international/technical/programs/vitamin-A) as well.
 
 **Definition**: Of the first 3 recommended interventions we looked
-at it appears that they all use more than 1 RCT
+at it appears that they all use more than 1 RCT.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
 ---
  
-**Claim**: There is significant variation in the probability of
-success
+**Claim**: However, even with direct funding programmes there is
+significant variation in the probability of success.
 
-**re-write Claim**: There is a significant variation (>10%) in the
-estimated multiplying factor (attributed to the deviation of the RCTs
-from the current day interventions for GiveWell recommended
-interventions).
+**re-write Claim**: There is a significant variation (\>10%) in the
+estimated adjustment factor (e.g., attributed to the deviation of the
+RCTs from the current day interventions) across GiveWell recommended
+interventions.
 
-**Subject**: Amount of variation in the estimated multiplying factor.
-
-**Predicate**: is around 10%
-
-**Example-sub**: GiveWell estimates the "probability of success" in
-the .
+**Example-sub**: 
 
 | Intervention | Variable      | Value |   |
 |--------------|---------------|-------|---|
 | MBD          | Total product | 24%   | - |
 | DTW          | Total product | 1%    | - |
 
-
-
-**Definition**: Yes "significant" variation of >10%.
+**Definition**: Yes "significant" variation of \>10%.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes; 
  
@@ -1844,20 +1208,14 @@ the .
 **Claim**: Other GiveWell recommended programmes offer a "much more
 certain" probability of impact.
 
-**re-write Claim**:  The estimated probability of success attributed
-to the deviation of the RCTs from the current day interventions for
-most GiveWell recommended interventions are much greater than 1%.
-
-**re-write Claim**: The estimated multiplying factor (that is
-responsible for the reduction in lives saved as a result of the
-mismatch between current intervention and RCTs used), is high (10-50%)
+**re-write Claim**: The estimated adjustment factor , is high (\>10%)
 for other interventions.
 
 **Subject**: The estimated multiplying factor (that is responsible for
 the reduction in lives saved as a result of the mismatch between
 current intervention and RCTs used).
 
-**Predicate**:  are much greater than 1%
+**Predicate**:  are much greater than 1%.
 
 **Example-sub**: 
 
@@ -1889,17 +1247,6 @@ GiveWell estimates the CE from which the factors are extracted.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes; 
 
-**Note to self:** Try to give yourself a challenge that you
-value. Something like working on this essay which "would be
-useful". It was painstakingly hard in the beginning. Working on the
-other things such a TIO seemed to be namesake I think.
-
-It was not hard to clock 6 hrs.. and Most likely I will make 8 hrs
-today. 
-
-It was 1 hr then 3 hrs straight and then 2 hrs straight and then 40
-mins break and then ... 
-
 ---
 
 > More clearly hits-based forms of RD are possible. GiveWell has done
@@ -1914,26 +1261,23 @@ mins break and then ...
 > antibiotics, or the agricultural research that led to the Green
 > Revolution.[1]
 
-**Definition**: Hits based giving is looking only at CE estimates and
-not at probability of success which could be quite high
+**Definition**: [Hits based](https://www.openphilanthropy.org/blog/hits-based-giving) giving is looking only at CE estimates
+and not at probability of success (adjustment factors) which could be
+quite high.
 
 **Claim**: Hits-based forms of RD are possible.
 
-**re-write Claim**: Recommending interventions despite the low (1-2%)
-multiplier (associated with the reduction in lives saved, as a result
-of the mismatch between current intervention and RCTs used), based on
-CE alone happens in EA.
-
-**Subject**: If recommending interventions despite the low multiplier
-(...) happens in EA
-
-**Predicate**: it happens.
+**re-write Claim**: Recommended interventions having low (1-2%)
+adjustment factor (e.g., for accounting for the mismatch between RCTs
+and current interventions), but High cost-effectiveness ( x-times
+better than cash transfers)~~based on CE alone~~, happens with
+GiveWell.
 
 **Example-sub**: 
 
 GiveWell recommends Deworming The World despite its [low multiplier of
-1%](https://blog.givewell.org/2016/07/26/deworming-might-huge-impact-might-close-zero-impact/). GiveWell [recommends DWT based on the CE value](https://www.givewell.org/charities/deworm-world-initiative#Summary) being [67
-times better than Cast transfers](https://docs.google.com/spreadsheets/d/1zLmPuddUmKsy3v55AfG_e1Quk-ngDdNzW-FDx0T-Y94/edit#gid=472531943).
+1%](https://blog.givewell.org/2016/07/26/deworming-might-huge-impact-might-close-zero-impact/) and [CE value](https://www.givewell.org/charities/deworm-world-initiative#Summary) being high ([67 times better than Cast
+transfers](https://docs.google.com/spreadsheets/d/1zLmPuddUmKsy3v55AfG_e1Quk-ngDdNzW-FDx0T-Y94/edit#gid=472531943)).
 
 **Definition**: checks out.
 
@@ -1942,57 +1286,48 @@ times better than Cast transfers](https://docs.google.com/spreadsheets/d/1zLmPud
 ---
 
 **Claim**: Support for Center for Pesticide Suicide prevention is hits-based by
-GiveWell
+GiveWell.
 
-**re-write Claim**: CPSP has a low multiplier (associated with the
-reduction in lives saved, as a result of the mismatch between current
-intervention and RCTs used) and a high CE.
+**re-write Claim**: CPSP has a low adjustments (\<=10%) (e.g., for accounting
+for the mismatch between RCTs and current interventions) and a high CE
+(greater than Cash Cash Transfers).
 
 **Example-sub**: 
 
 CSPS is [9x cost effective than cash transfers](https://www.givewell.org/research/incubation-grants/centre-pesticide-suicide-prevention/august-2017-grant#Cost-effectiveness). Multiplier for
 India is estimated to be [10% and nepal to be 60%](https://docs.google.com/spreadsheets/d/1bVbJGuzpSldE2RaPH_XieXjnIunXlwkzJ5Q9Ec8GMp4/edit#gid=1574341664).
 
-**Note:** The CE estimates shows it as 3 times Cost effective and not
-9 times.
-
 **Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes; 
 
-
 ---
 
-~~**Claim**: National scale-up of the RCT-supported education programme
-at the Right Level across Africa, is hits-based~~
+**Claim**: RD also includes advocacy and scale up of scientific
+research that can be tested by RCTs.
 
-**Claim**: RD also includes advocacy and scale up of scientific research
+**re-write Claim**: EA orgs are also proponents of advocacy ~~and~~
+~~scale-up of scientific research~~ ~~that can be tested by RCTs~~.
 
-**re-write Claim**: EA orgs are also proponents of advocacy and
-~~scale-up of scientific research~~ that can be tested by RCTs
+**re-write Claim**: GiveWell grants money to interventions which
+attempt to change policy in governments.
 
-**re-write Claim**: GiveWell recommends interventions which "push for"
-change in policy in governments.
-
-**Subject**: What interventions GiveWell recommends
-
-**Predicate**: change in policy in governments.
-
-**Example**: GiveWell grants 1m$ to CPSP to "start collecting data
+**Example**: GiveWell grants 1m`$` to CPSP to "start collecting data
 on pesticide suicides in Nepal and India with the aim of assisting
 governments in enacting bans on the most lethal pesticides currently
-used in suicide attempts"---[GiveWell about CPSP](https://www.givewell.org/research/incubation-grants/centre-pesticide-suicide-prevention/august-2017-grant/)
+used in suicide attempts"---[GiveWell about CPSP](https://www.givewell.org/research/incubation-grants/centre-pesticide-suicide-prevention/august-2017-grant/).
 
 **Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes; 
  
 **re-write Claim**: GiveWell recommends interventions which currently
-don't have RCTs ~~but are RCT testable~~
+don't have RCTs to back up but does have some other empirical
+evidence.
 
 **Subject**: What GiveWell recommends.
 
-**Predicate**: interventions that do not have RCTs currently
+**Predicate**: interventions that do not have RCTs currently.
 
 **Example-sub**: GiveWell recommends CPSP, which currently has [two
 observational time series analyses](https://www.givewell.org/research/incubation-grants/centre-pesticide-suicide-prevention/august-2017-grant#Evidence_from_Sri_Lanka) from Sri Lanka and NO RCTs on
@@ -2002,40 +1337,44 @@ the subject.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes; 
 
----
- 
-**re-write Claim**: GiveWell recommends charities that atleast
-have the potential to be RCT testable.
+**re-write Claim**: RD also includes advocacy that can be tested by
+RCTs.
 
-Maybe need to check the criteria?
+**re-write Claim**: CPSP (previous example) can be tested by RCTs.
 
-In theory everything can be RCT testable right? but just that either
-there are "limitations in processes" or "funding" or whatever as
-frequently mentioned by GiveWell.
+**Note**: Testing one aspect of RCTs atleast in the following.
 
-How about pollicy stuff though???
+**re-write Claim**: CPSP intervention can be Randomized within a
+country.
 
-**Checklist**: sub; No; pre; No; ecm; No; 
+**Example-sub**: 
+
+By selecting many regions and assigning each region randomly to
+"treatment" and "control", it can be randomized.
+
+**Definition**: checks out?
+
+**Failed**? Not an example? Can you even test "can"?
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 15 mins
 
 ---
 
 ## 13th July  (~9 or 7)
 
-**Claim**: RD includes scale-up of scientific research
+**Claim**: RD includes scale-up of scientific research.
 
 **re-write Claim**: EA orgs recommend "scale-up of scientific
-research" 
+research".
 
 **re-write Claim**: GiveWell recommends organizations which do
-"scaling up of scientific research" such as mosquito gene drives,
-researching vaccines or antibiotics
+~~"scaling up of scientific research" such as~~ mosquito gene drives,
+researching vaccines or antibiotics.
 
-**Example-sub**: GiveWell lists its priority programs [here](https://www.givewell.org/research/intervention-reports#Priorityprograms). I
-don't find anything that supports research.
-
-I looked at the names of the programs and don't find anything that
-promotes scientific research. For example, [Immunizations](https://www.givewell.org/international/technical/programs/immunization), it is
-about "trying to reach more children with basic vaccines".
+**Example-sub**: GiveWell lists its priority programs [here](https://www.givewell.org/research/intervention-reports#Priorityprograms). none
+of "scientific research" is mentioned here.
 
 **Definition**: Doesn't check out.
 
@@ -2044,8 +1383,8 @@ about "trying to reach more children with basic vaccines".
 ---
 
 **re-write Claim**: Co-impact recommends organizations which do
-"scaling up of scientific research" such as mosquito gene drives,
-researching vaccines or antibiotics
+~~"scaling up of scientific research" such as~~ mosquito gene drives,
+researching vaccines or antibiotics.
 
 **Example-sub**: I can't find in their [systems grants](https://www.co-impact.org/systems-change-grants/) or their
 [design grants](https://www.co-impact.org/design-grants/) anything related to promoting research of vaccines
@@ -2060,34 +1399,12 @@ in Liberia ](https://www.co-impact.org/systems-change-grants/liberia/) etc...
  
 ---
 
-
-
-**Rant**: I just realized I don't understand what RD means. 
-
-The definition is that you recommend orgs that can *only* be tested by
-RCTs. 
-
-change only to mainly? 7 interventions all have RCTs
-
-So Does GiveWell take this approach, apparently not with CPSP. CPSP
-didn't need
-
-Does Co-impact take this approach, Seems like it with TARL-Africa
-atleast.
-
-Because the author talks about them in the context of RD. So I will
-take that thats his game. 
-
-**Checklist**: sub; Yes; pre; Yes; ecm; Yes; for above
-
-**Checklist**: sub; Yes; pre; Yes; ecm; Yes; for above 
-
-
----
+<!-- **Note**: At this point is where this whole "RD" definition is -->
+<!-- confusing me.  -->
 
 > Global poverty remains a popular cause area among people interested in
 > EA.[2] EA has especially focused on directly funding RCT-backed
-> interventions. GiveWell moved $161m to RCT-backed charities in
+> interventions. GiveWell moved `$`161m to RCT-backed charities in
 > 2018.[3] The Effective Altruism Global Health and Development Fund has
 > disbursed most of its funds to charities that directly implement
 > RCT-backed interventions.
@@ -2096,7 +1413,7 @@ take that thats his game.
 interested in EA.
 
 **re-write Claim**: Many GiveWell's top recommended charities focus on
-~~global~~ reducing death
+~~global~~ reducing death.
 
 **Example-sub**: Out of the 9 top recommended charities by GiveWell 8
 of them focus on health. For example, Malaria consortium focuses on
@@ -2106,46 +1423,48 @@ reducing the risk of death due to Malaria in Africa and Asia.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes; 
 
-time: 6mins
+**Time**: 6mins
 
 **re-write Claim**: Many GiveWell's top recommended charities focus
 on ~~global~~ reducing poverty.
 
 **Example-sub**: Out of 9 top recommended charities only 1 focuses on
-reducing poverty called GiveDirectly.
+reducing poverty, called GiveDirectly.
 
 **Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes; 
  
-time: 1 mins
+**Time**: 1 mins
+
+**Failed?**: I guess that the claims are not narrow enough. "Reducing Poverty".
 
 ---
 
 **Claim**: EA has especially focused on directly funding RCT-backed
 interventions.
 
-**re-write Claim**: GiveWell has focused on directly funding
-RCT-backed interventions
+**re-write Claim**: GiveWell has provided grants to RCT-backed
+interventions.
 
 **re-write Claim**: Most GiveWell's top charities' interventions are
-supported by >=1 number of RCTs.
+supported by \>=1 number of RCTs.
 
-**Example-sub**: The first four and the last are shown here...
+**Example-sub**: 
   
 - [Malaria Consortium](https://www.givewell.org/charities/malaria-consortium): [SMC](https://www.givewell.org/international/technical/programs/seasonal-malaria-chemoprevention): 7 RCT
 
-- [AMF](https://www.givewell.org/charities/amf): [LLIN](https://www.givewell.org/international/technical/programs/insecticide-treated-nets#Evidencefromsmallscalehighqualitystudies): >1 RCT
+- [AMF](https://www.givewell.org/charities/amf): [LLIN](https://www.givewell.org/international/technical/programs/insecticide-treated-nets#Evidencefromsmallscalehighqualitystudies): \>1 RCT
 
-- Helen Keller's Vitamin A supplementation program: [VAS](https://www.givewell.org/international/technical/programs/vitamin-A): >1 RCT 
+- Helen Keller's Vitamin A supplementation program: [VAS](https://www.givewell.org/international/technical/programs/vitamin-A): \>1 RCT 
 
-- Deworming the world: [Deworming](https://www.givewell.org/international/technical/programs/deworming): >5 RCT
+- Deworming the world: [Deworming](https://www.givewell.org/international/technical/programs/deworming): \>5 RCT
 
-- SCI foundation: [Deworming](https://www.givewell.org/international/technical/programs/deworming): >5 RCT
+- SCI foundation: [Deworming](https://www.givewell.org/international/technical/programs/deworming): \>5 RCT
 
-- Sightsavers work on Deworming: [Deworming](https://www.givewell.org/international/technical/programs/deworming): >5 RCT
+- Sightsavers work on Deworming: [Deworming](https://www.givewell.org/international/technical/programs/deworming): \>5 RCT
 
-- the End fund: [Deworming](https://www.givewell.org/international/technical/programs/deworming): >5 RCT
+- the End fund: [Deworming](https://www.givewell.org/international/technical/programs/deworming): \>5 RCT
 
 - GiveDirectly: [Cash Transfers](https://blog.givewell.org/2012/12/26/the-case-for-cash-2/): [atleast 1 RCTs](https://www.givewell.org/charities/give-directly#RCT)
 
@@ -2155,17 +1474,19 @@ supported by >=1 number of RCTs.
 
 **Time**: 30 mins
 
+**Failed?** "supported by RCTs?" How would one make this concrete? I
+feel this whole "RCT-backed" thing is vague. All I am trying to say is
+I look at GiveWell posts and check if there are any RCTs in it. How
+"good quality" they are? I don't know.
+
 ---
 
-**Claim**: GiveWell moved $161m to RCT-backed charities in 2018
+**Claim**: GiveWell moved `$`161m to "RCT-backed" charities in 2019.
 
-**re-write Claim**: GiveWell moved more than 90% of their donations to
-"RCT-cited" charities in 2018
+**re-write Claim**: GiveWell moved 161m USD in total in 2019.
 
-**Example-sub**: According to [2018 impact review](https://blog.givewell.org/2019/09/09/givewells-money-moved-and-web-traffic-in-2018/#:~:text=Donations%20supporting%20GiveWell's%20operations%3A%20GiveWell,GiveWell's%20operational%20funding%20in%202018.) by GiveWell it
-appears that they moved 95% of their donations to their [top
-charities](https://www.givewell.org/charities/top-charities). All of the top charities are "RCT-backed" as shown in
-the previous claim.
+**Example-sub**: [2019 impact review](https://blog.givewell.org/2019/09/09/givewells-money-moved-and-web-traffic-in-2018/#:~:text=Donations%20supporting%20GiveWell's%20operations%3A%20GiveWell,GiveWell's%20operational%20funding%20in%202018.) by GiveWell shows 161m`$` in
+money moved.
 
 **Definition**: checks out.
 
@@ -2195,7 +1516,7 @@ Malaria consortium: [SMC](https://www.givewell.org/international/technical/progr
 
 J-PAL's Innovation in Government Initiative: [atleast 1 RCT](https://www.givewell.org/research/incubation-grants/innovation-in-government-initiative/december-2018-grant#footnote42_lipfu8d)
 
-Schistosomiasis Control Initiative: [Deworming](https://www.givewell.org/international/technical/programs/deworming): >5 RCT
+Schistosomiasis Control Initiative: [Deworming](https://www.givewell.org/international/technical/programs/deworming): \>5 RCT
 
 **Definition**: checks out.
 
@@ -2204,8 +1525,6 @@ Schistosomiasis Control Initiative: [Deworming](https://www.givewell.org/interna
 **Time**: 30mins
 
 ---
-
-<!-- 14th juli 2020 -->
 
 **re-write Claim**: 
 
@@ -2219,42 +1538,44 @@ Schistosomiasis Control Initiative: [Deworming](https://www.givewell.org/interna
 > directly funding, or working for, organizations implementing
 > interventions that can be tested by RCTs.
 
-**Claim**: GiveWell announced that they will expand their research
-beyond RD to include difficult-to-evaluate interventions.
+**Claim**: GiveWell [announced](https://blog.givewell.org/2019/02/07/how-givewells-research-is-evolving/) that they will expand their
+research beyond RD to include difficult-to-evaluate interventions.
 
-**re-write Claim**: ~~GiveWell says they are going to include
-"difficult-to-evaluate" interventions~~
-
-**Example-sub**: ---
-
-**Definition**: 
-
-**Time**: 25mins
-
-**re-write Claim**: GiveWell says they are going to go beyond
-emperical research???
+**Note**: GiveWell says they are going to go "beyond empirical
+research, in their announcement". "This includes more comprehensively
+reviewing direct interventions in sectors where impacts are more
+difficult to measure, investigating opportunities to influence
+government policy, as well as other areas.". I don't think there is
+any point in going further than this ATM as this is about their future
+and it's only been 6 months. Are they talking about even smaller
+"adjustment factors" (as seen in the beginning)? That would be one of
+the ways how we can measure if the organizations are
+"difficult-to-evaluate" interventions.
 
 ---
 
 **Claim**: GiveWell's initial focus is to focus on improving public
-policy
+policy.
 
-**re-write Claim**:  GWs wants to focus on Global health alone and not on
-economic growth 
+**re-write Claim**:  GiveWell wants to focus on Global health alone and not on
+economic growth.
 
 **re-write Claim**: GiveWell is not planning to investigate
 interventions that are other than GH&P.
 
-**Subject**: Interventions GiveWell plans to investigate
-
-**Predicate**: only about GH&P
+**re-write Claim**: Interventions GiveWell plans to investigate are
+only about GH&P.
 
 **Example-sub**: Charter cities; infrastructure programs, Building
 State Capability are all part of the things they want to explore.
 
-[as per feb 2019](https://blog.givewell.org/2019/02/07/how-givewells-research-is-evolving/) they would like to investigate the above
+[As per Feb 2019](https://blog.givewell.org/2019/02/07/how-givewells-research-is-evolving/) they would like to investigate the above.
 
-**Definition**: These are not only about GH&P. 
+**Definition**: These are not only about GH&P. Umm but some people
+would argue that everything in the end is about GH&P. This claim and
+example is a mistake. or atleast GH&P is ill-defined.
+
+**Failed**
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
@@ -2263,14 +1584,13 @@ State Capability are all part of the things they want to explore.
 ---
 
 **Claim**: Most of the EA money in global development focuses on
-directly funding interventions (that can be tested by RCTs).
+"directly funding interventions" (that can be tested by RCTs).
 
-**re-write Claim**: The Effective Altruism Global Health and
-Development Fund grants disbursed most of the donations to RCT-cited
-interventions.
+**re-write Claim**: Effective Altruism Global Health and Development
+Fund grants disbursed most of the donations to RCT-cited interventions.
 
 **Example-sub**: \~5m`$` out of \~6m`$` sent to RCT-cited
-interventions
+interventions.
 
 Total grants [disbursed to date](https://app.effectivealtruism.org/funds/global-development#payout-reports): ~6m`$` 
 
@@ -2282,7 +1602,7 @@ Malaria consortium: [SMC](https://www.givewell.org/international/technical/progr
 
 J-PAL's Innovation in Government Initiative: [atleast 1 RCT](https://www.givewell.org/research/incubation-grants/innovation-in-government-initiative/december-2018-grant#footnote42_lipfu8d)
 
-Schistosomiasis Control Initiative: [Deworming](https://www.givewell.org/international/technical/programs/deworming): >5 RCT
+Schistosomiasis Control Initiative: [Deworming](https://www.givewell.org/international/technical/programs/deworming): \>5 RCT
 
 **Definition**: checks out.
 
@@ -2290,44 +1610,65 @@ Schistosomiasis Control Initiative: [Deworming](https://www.givewell.org/interna
 
 **Time**: 5mins
 
----
-
-**Claim**: Almost all EAs interested in global development we have met
-at events like EAG seem focused on directly funding interventions that
-can be tested by RCTs.
-
-**re-write Claim**: personal evidence can't be tested?
-
-**re-write Claim**: EAs interested in "global development" are focused
-on funding interventions that are RCT-cited.
-
-**re-write Claim**: 50% of EAs interested in "global development" donate
-to "RCT-backed" interventions (as per RP survey)
-
-**Subject**: How much % of EAs who donated to Health and poverty
-alleviation interventions are RCT-backed interventions
-
-**Predicate**: 50%
+**re-write Claim**: The Effective Altruism Global Health and
+Development Fund grants disbursed 80% of the donations to
+interventions which involve, people getting objects such as bednets or
+tablets to prevent diseases or cash transfers to their bank accounts.
 
 **Example-sub**: 
 
-EAs who donated to health and poverty: 884 including animal charities
-and global health and poverty charities (GiveWell)
+"Most of the donations" --\> 3m of the 6m disbursed, was to, Malaria
+Consortium and Schistosomiasis Control Initiative.
 
-EAs who donated to RCT backed interventions: 623 including only
-GiveWell and GiveWell Top charities (such as AMF, GiveDirectly
-etc...). There could be more EAs who donated to RCT backed
-interventions but it is too much work to check.
+50% to "direct interventions". Fortify Health and J-Pal's "Innovations
+in the Government" which received another 2m total, are interventions
+where the people don't directly receive stuff.
 
-623/884=70%. i.e., >70%
-
-[EA survey 2019 by RP](https://forum.effectivealtruism.org/posts/wtQ3XCL35uxjXpwjE/ea-survey-2019-series-community-demographics-and)
-
-**Definition**: checks out
+**Definition**: Does not check out to be 80%.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-**Time**: 40 mins
+**Time**: 20 mins ("directly funding interventions" was hard to test.)
+
+**Note**: The first time I did this CLAIM, I completely missed
+"directly funding interventions". Damn. It's only when I was reading
+it the second time that I found this unclear.
+
+---
+
+**Claim**: Almost all "EAs" interested in "global development" we have met
+at events like EAG seem "focused on directly funding interventions" that
+can be "tested by RCTs".
+
+**Note**: personal evidence can't be tested.
+
+**re-write Claim**: 90% of all the people who saw and took the "EA
+survey on the EA forum", donated to RCT-backed interventions and not
+"AI/meta causes".
+
+**Note**: I know you are going to say "AI/meta causes? WTF!" How else
+do I play this?
+
+**Example-sub**: 
+
+EAs who donated according to survey: 1070 
+
+EAs who donated to RCT backed interventions: 623 including only
+GiveWell and GiveWell Top charities (such as AMF, GiveDirectly
+GiveWell, SCI, DTW).
+
+623/1070=58%.
+
+[EA survey 2019 by RP](https://forum.effectivealtruism.org/posts/wtQ3XCL35uxjXpwjE/ea-survey-2019-series-community-demographics-and)
+
+**Definition**: Does not check out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 60 mins (very hard, trying to tackle all phrases in courts,
+and am certain I still sucked)
+
+**Failed**?
 
 ---
 
@@ -2336,7 +1677,7 @@ at events like EAG seem focused on working for, organizations
 implementing interventions that can be tested by RCTs.
 
 **re-write Claim**: Most EAs donating to "global development" would
-like to work in organizations implementing "RCT-backed" interventions
+like to work in organizations implementing "RCT-backed" interventions.
 
 This seems very hard to verify as I don't have the data atm and it
 will be time consuming to extract such info. So, I skip for now.
@@ -2346,66 +1687,42 @@ prioritization survey](https://forum.effectivealtruism.org/posts/8hExrLibTEgyzaD
 like, where people would actually like to work such as AMF, GiveWell
 etc... only then can I go that far.
 
-careers and skills?
-
-cause prioritization?
-
-**Checklist**: sub; No; pre; No; ecm; No;
+**Failed**?
 
 **Time:** 15mins
 
 
 ---
 
-We too used to support direct funding of interventions that can be
-tested by RCTs, but now believe it is suboptimal. We will argue that
-research and advocacy for growth-friendly economic policies can often
-be orders of magnitude more cost-effective than direct funding of
-evidence-based interventions. The case against hits-based RD is less
-clear and we leave that to future work.
+> We too used to support direct funding of interventions that can be
+> tested by RCTs, but now believe it is suboptimal. We will argue that
+> research and advocacy for growth-friendly economic policies can often
+> be orders of magnitude more cost-effective than direct funding of
+> evidence-based interventions. The case against hits-based RD is less
+> clear and we leave that to future work.
 
 
 **Claim**: Funding of interventions that are tested by RCTs is
-suboptimal
+suboptimal.
 
-???
+**Note**: Didn't come as far in the blogpost so as to be able to answer it.
 
 **Claim**: "Research and advocacy" for "growth-friendly economic
 policies" can often be "orders of magnitude more cost-effective" than
-"direct funding of evidence-based interventions"
+"direct funding of evidence-based interventions".
 
-???
-
-This is the thesis. So lets' move on
-
+**Note**: Didn't get as far in the blogpost to be able to answer it.
 
 > The ideas here rely heavily on work by Lant Pritchett of the Blavatnik
 > School of Government in Oxford.[4] However, within economics there is
 > considerable support for similar views (see Appendix 1).
 
 **Claim**: Within Economics there is considerable support for similar
-views
+views.
 
----
-
-
-Apparently this relies on
-https://d101vc9winf8ln.cloudfront.net/documents/32264/original/RCTs_and_the_big_questions_10000words_june30.pdf?1565974982
-
-Randomizing Development: Method or Madness?
-
-
-
-## for later
-
-OPP ???
-
-https://www.openphilanthropy.org/focus/global-health-and-development/science-for-global-health
-
-
+**Note**: Didn't get as far in the blogpost to be able to answer it.
 
 ## 3 randomista (6)
-
 
 > In this section, we set out three arguments for the proposition that
 > research and advocacy for growth is more cost-effective than
@@ -2421,29 +1738,28 @@ https://www.openphilanthropy.org/focus/global-health-and-development/science-for
 
 
 **Claim**: Research and advocacy for growth is more cost-effective than directly
-funding interventions tested by RCTs
+funding interventions tested by RCTs.
 
 **Claim**: "Economic growth" is not the best way to increase "human
-welfare"
+welfare".
 
 **Claim**: Research and advocacy for growth is better than randomista
-development
+development.
 
 **Claim**: There may be other ways to cost-effectively increase human welfare
-outside of the constraints of RD
+outside of the constraints of RD.
 
-again thesis type posts... for the end I guess.
-
+**Note**: The above are dealt with through this excercise.
 
 ---
 
 ### 3.1 Econ growth
 
 **Claim**: Economic growth explains a substantial fraction of the
-variance in human welfare today
+variance in human welfare today.
 
 **re-write Claim**: GDP per capita correlates with "expanded welfare
-metric"
+metric".
 
 **Note**: Answered below.
 
@@ -2466,7 +1782,7 @@ and different objective and subjective measures of welfare.
 the world.
 
 **re-write Claim**: There is significant variation in GDP per capita
-across the world
+across the world.
 
 **re-write Claim**: There is variation in orders of magnitude in GDP
 per capita across the world.
@@ -2477,7 +1793,7 @@ orders smaller than US).
 
 [Source: section 3.1](https://forum.effectivealtruism.org/posts/bsE5t6qhGC65fEpzN/growth-and-the-case-against-randomista-development#3_1__Economic_growth_explains_a_substantial_fraction_of_the_variance_in_human_welfare_today)
 
-**Definition**: checks out
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
@@ -2489,7 +1805,7 @@ orders smaller than US).
 "broadly rational", then "richer people" will buy more goods which have
 a "substantial private good element".
 
-**re-write Claim**: In places with GDP per capita >50k USD, then
+**re-write Claim**: In places with GDP per capita \>50k USD, then
 richer people will buy more goods which have a ~~substantial~~ private
 good element.
 
@@ -2501,7 +1817,7 @@ spend on ~~food and~~ shelter in countries like Netherlands.
 When I earned 42k I spent 5760 on rent. When I earned 60k I spent 9600
 euros on rent.
 
-**Definition**: checks out
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes; HARD still.
 
@@ -2530,7 +1846,7 @@ Consider Niger and Portugal. All values are w.r.t that of the US.
 
 [Welfare metric](https://forum.effectivealtruism.org/posts/bsE5t6qhGC65fEpzN/growth-and-the-case-against-randomista-development#Income_per_head_and_broad_measures_of_welfare).
 
-Differences in GDP per capita predicts differences in welfare metric
+Differences in GDP per capita predicts differences in welfare metric.
 
 **Definition**: checks out.
 
@@ -2540,13 +1856,15 @@ Differences in GDP per capita predicts differences in welfare metric
 
 ---
 
-**Claim**: Charity is public good
+**Claim**: Charity is public good.
 
 **re-write Claim**: Effects of donating to charity is non-rivalrous
-and non-excludable
+and non-excludable.
 
 **Example-sub**: Increasing the total utility of the world by sending
 4k USD to AMF.
+
+[Based on](https://incessantdissent.wordpress.com/2009/10/03/is-charity-a-public-good/).
 
 **Definition**: This total utility is non-excludable, as you cannot
 stop someone from experiencing the joy of increasing the total utility
@@ -2557,7 +1875,7 @@ doesn't mean other person can't feel happy as well.
 
 **Time**: 15mins
 
-[based on](https://incessantdissent.wordpress.com/2009/10/03/is-charity-a-public-good/)
+
 
 <!-- Is charity a public good? -->
 
@@ -2572,7 +1890,7 @@ doesn't mean other person can't feel happy as well.
 
 <!-- private goods: Food, clothes, flowers, If you buy this,, only you can -->
 <!-- use it... yachts, ships, real estate, ham burger or seeing movies in -->
-<!-- the theatre, TV, fridge, food, anythign you buy is prviate good -->
+<!-- the theatre, TV, fridge, food, anythign you buy is Private good -->
 
 <!-- unless of course they want to do something in the world like Bill -->
 <!-- gates, even then substantial portion goes into himself. -->
@@ -2595,10 +1913,10 @@ doesn't mean other person can't feel happy as well.
 >   involves a loss of welfare that is not reflected in GDP
 
 **Claim**: The metric of GDP per capita misses some crucial
-contributors to human welfare
+contributors to human welfare.
 
 **re-write Claim**: Increase in GDP per capita does not mean there is
-an increase in production of public goods
+an increase in production of public goods.
 
 **re-write Claim**: Increase in GDP per capita does not mean there is
 an increase in government spending on healthcare per capita.
@@ -2638,10 +1956,10 @@ same time.
 
 ---
 
-**Claim**: Public health intervention is a public good
+**Claim**: Public health intervention is a public good.
 
 **re-write Claim**: The value of Public health intervention is
-non-rivalrous and non-excludable
+non-rivalrous and non-excludable.
 
 **Example-sub**: AMF does LLIN interventions in developing countries
 saving roughly 12500 lives in 2016 alone (50mn `$` with each life
@@ -2669,11 +1987,14 @@ feels happy doesn't mean other person can't feel happy as well.
 > constitute foregone consumption, which involves a loss of welfare
 > that is not reflected in GDP.
 
-**Claim**: There is a case where there is GDP increase and investment
-increase but consumption still decreases.
+**Claim**: If GDP and investment increases then consumption decreases.
 
-**re-write Claim**: Foreign investment increase, GDP increase but
-electricity consumption decrease happen at the same time.
+**re-write Claim**: Foreign investment increases, GDP increases but
+electricity consumption decreases 
+
+**re-write Claim**: Foreign investment decreases, GDP decreases but
+electricity consumption increases
+
 
 **Example-sub**: Libya has decrease in GDP, decrease in investment but
 still increases in consumption.
@@ -2685,14 +2006,14 @@ still increases in consumption.
 | GDP per capita                     | 27953   | 9736    |
 
 
-Consider Bangladesh, during 2006 to 2013 there has been "quite some"
-foreign investment but still GDP increases and consumption increases.
+<!-- Consider Bangladesh, during 2006 to 2013 there has been "quite some" -->
+<!-- foreign investment but still GDP increases and consumption increases. -->
 
-| Bangladesh                         | 2006   | 2013   |
-|------------------------------------|--------|--------|
-| Foreign direct investment          | 0%     | 0.35%  |
-| per capita Electricity consumption | 190kWh | 292kWh |
-| GDP per capita                     | 1600   | 2800   |
+<!-- | Bangladesh                         | 2006   | 2013   | -->
+<!-- |------------------------------------|--------|--------| -->
+<!-- | Foreign direct investment          | 0%     | 0.35%  | -->
+<!-- | per capita Electricity consumption | 190kWh | 292kWh | -->
+<!-- | GDP per capita                     | 1600   | 2800   | -->
 
 
 [Foreign direct investment as a % share of GDP](https://ourworldindata.org/grapher/foreign-direct-investment-net-outflows-of-gdp?tab=chart&year=latest&country=~BGD)
@@ -2701,15 +2022,11 @@ foreign investment but still GDP increases and consumption increases.
 
 [GDP per capita](https://ourworldindata.org/grapher/average-real-gdp-per-capita-across-countries-and-regions?time=1950..2016&country=~BGD)
 
-**Definition**: Doesn't check out. There is no case that is found for
-GDP increasing and investment increasing but consumption still
-decreasing.
+**Definition**: Checks out.
 
-**Checklist**: False; sub; Yes; pre; Yes; ecm; Yes;
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
 **Time**: 2hrs
-
-???
 
 ---
 
@@ -2758,16 +2075,16 @@ but still the GDP per capita increases.
 
 **Note**: Another insanely hard paragraph.
 
-**Claim**: Individuals get diminishing marginal utility from income
+**Claim**: Individuals get diminishing marginal utility from income.
 
 **re-write Claim**: Marginal utility of a good or service declines as its
-supply increases
+supply increases.
 
 **Note**: "Marginal" throwing me off. I feel better once I remove that
 word Spent 1 hr on understanding how to actually answer this claim.
 
 **re-write Claim**: Increase in utility of a good, decreases, as
-supply increases
+supply increases.
 
 **re-write Claim**: Increase in "utility" of a good diminishes, as
 "supply increases"
@@ -2778,7 +2095,7 @@ time.
 
 **Example-sub**: 
 
-For Pizzas delivered at 6 o' clock today
+For Pizzas delivered at 6 o' clock today,
 
 | pizza number | Willing to pay (WTP)_ | delta in WTP | Comment                |
 |--------------|-----------------------|--------------|------------------------|
@@ -2830,7 +2147,7 @@ When I earned 42k, I spent 900-1000 euros on expenses.
 
 When I earn 60k, I spent about 1400-1600 Euros on expenses.
 
-**Definition**:   checks out
+**Definition**:   checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes; "difficulty level":
 proverb
@@ -2842,7 +2159,7 @@ proverb
 ---
 
 **Claim**: The more you use a good or service, the less satisfied you
-will be with each successive use or consumption
+will be with each successive use or consumption.
 
 **re-write Claim**: You will be less satisfied with every successive
 consumption of a good.
@@ -2853,20 +2170,20 @@ consumption of a good.
 | Number of bites | self-reported Satisfaction (SRS) |
 |-----------------|----------------------------------|
 | 1/2 a pizza     | 10 on 10                         |
-| 2nd half        | 7                                |
-| 2nd pizza       | -1                               |
+| 2nd half        | 7 on 10                          |
+| 2nd pizza       | -1 on 10                         |
 
 Personally,
 
-Eating the first slice of pizza --> utility high (eating it really
-fast)
+- Eating the first slice of pizza --\> utility high (eating it really
+fast).
 
-After half of the pizza --> I start to wonder why I buy Pizza nowadays
+- After half of the pizza --\> I start to wonder why I buy Pizza nowadays.
 
-Eating the last slice of pizza --> Utility low (trying to finish it so
-that it doens't "go to waste")
+- Eating the last slice of pizza --\> Utility low (trying to finish it so
+that it doesn't "go to waste").
 
-Looking at another Pizza right after --> Tapping out.
+- Looking at another Pizza right after --\> Tapping out.
 
 **Definition**: checks out.
 
@@ -2874,22 +2191,20 @@ Looking at another Pizza right after --> Tapping out.
 
 **Time**: 15 mins
 
-???
-
 ---
 
-**Claim**: Difference in inequality in not captured by GDP
+**Claim**: Difference in inequality in not captured by GDP.
 
-**re-write Claim**: Inequality is not captured in GDP
+**re-write Claim**: Inequality is not captured in GDP.
 
 **re-write Claim**: Gini index is not strongly (0.7) correlated with GDP per
-capita across different countries
+capita across different countries.
 
 **Example-sub**: 
 
 [Year 2000 Data](https://ourworldindata.org/grapher/gdp-per-capita-vs-economic-inequality)
 
-Correlation: 0.14 (gini index vs GDP per capita as of 2000) (-ve)
+Correlation: 0.14 (Gini index vs GDP per capita as of 2000) (-ve).
 
 **Definition**: checks out.
 
@@ -2900,7 +2215,7 @@ Correlation: 0.14 (gini index vs GDP per capita as of 2000) (-ve)
 ---
 
 **re-write Claim**: Gini index increases as GDP per capita increases
-for a given country over time
+for a given country over time.
 
 **Example-sub**: 
 
@@ -2931,14 +2246,14 @@ same country despite growth in GDP.
 
 **Claim**: ~~Thus~~, Holding income per capita ~~and everything else
 equal~~, societies with a more equal income distribution must have
-greater welfare per person
+greater welfare per person.
 
 **re-write Claim**: Across countries with same GDP per capita,
-countries with lower GINI index (>4%) have higher ~~"welfare per person"~~,
-HDI
+countries with lower GINI index (\>4%) have higher ~~"welfare per person"~~,
+HDI.
 
 **re-write Claim**: Across countries with same GDP per capita,
-countries with lowest GINI index have highest HDI
+countries with lowest GINI index have highest HDI.
 
 **Example-sub**: 
 
@@ -2971,11 +2286,11 @@ Finland.
 
 ---
 
-**Claim**: Income and other resources might be positional goods
+**Claim**: Income and other resources might be positional goods.
 
-**Note**: Skipped as it seems to be too vague (too many english words
+**Note**: Skipped as it seems to be too vague (too many English words
 that need to be converted into testable phrases, e.g., "material
-prosperity", "limited supply", "relatively more expensive")
+prosperity", "limited supply", "relatively more expensive").
 
 **Definition**: goods which are in limited supply and which become
 more sought after and relatively more expensive as material prosperity
@@ -3001,7 +2316,7 @@ determinant of human welfare.
 the lives of its citizens could be worse if they die earlier or suffer
 greater morbidity.
 
-**re-write Claim**: Higher GDPPC does not imply higher life expectancy
+**re-write Claim**: Higher GDPPC does not imply higher life expectancy.
 
 **Example-sub**: 
 
@@ -3038,14 +2353,16 @@ for these other determinants.
 the lines of "it makes sense to do X"?
 
 **re-write Claim**: GDP strongly correlates with "more holistic
-measures of welfare"
+measures of welfare".
 
-done later.
+Done later.
 
-**Claim**: There have been numerous attempts to build a more holistic
-measures of welfare than GDP per capita
+---
 
-**re-write Claim**: There have been >10 attempts to build "more
+**Claim**: There have been numerous attempts to build more holistic
+measures of welfare than GDP per capita.
+
+**re-write Claim**: There have been \>10 attempts to build "more
 holistic" measures of welfare than GDP per capita.
 
 **Note**: I cant test "more holistic than GDP per capita" for example
@@ -3055,16 +2372,25 @@ addition to GDP per capita.
 **Note**: Not sure of the value of reading papers to come to this
 conclusion. so skipping for now.
 
-**Claim**: Jones' consumption equivalent welfare measure allows
-comparisons across time for a given country
+---
 
-**Note**: Isn't that like literally every other measure. Skip.
+**Claim**: Jones' consumption equivalent welfare measure allows
+comparisons across time for a given country.
+
+**re-write Claim**: Jones' consumption equivalent welfare measure can
+be computed for different times.
+
+**Note**: Skipped as not interesting.
+
+---
 
 **Claim**: Jones' consumption equivalent welfare measure allows
 comparisons across countries.
 
-**Note**: It's like every other measure. Skip.
-???
+**re-write Claim**: Jones' consumption equivalent welfare measure can
+be computed for different countries.
+
+**Note**: Skipped as not interesting.
 
 ---
 
@@ -3106,7 +2432,7 @@ GDP per capita ratio of France compared to US in 2005 is 60%.
 > deviation of 1.51 in logs) than is income (standard deviation of
 > 1.27 in logs).[9]
 
-**Claim**:  GDP per capita is distinct from expanded welfare metric
+**Claim**:  GDP per capita is distinct from expanded welfare metric.
 
 **re-write Claim**: GDPPC value for a country is different than Jones'
 welfare metric.
@@ -3140,9 +2466,9 @@ Figure 7 [here](https://www.nber.org/papers/w16352.pdf) shows 0.96 for the year 
 <!-- This shows the strength of linear -->
 <!-- relationship between the two variables. scattered around or -->
 <!-- not. When you predict known -->
-<!-- values of variable, you will haev less variation than when you -->
+<!-- values of variable, you will have less variation than when you -->
 <!-- have smaller correlations. R^2 gives how much of the variation is -->
-<!-- captured by this stright-line-->
+<!-- captured by this st right-line-->
 
 **Definition**: checks out.
 
@@ -3187,10 +2513,10 @@ variation, and come up with example)
 
 ---
 
-**Claim**: Welfare is more dispersed than income
+**Claim**: Welfare is more dispersed than income.
 
 **re-write Claim**: Welfare has higher standard deviation than GDP per
-capita
+capita.
 
 **Example-sub**: Welfare std. deviation is 1.51 is logs. Income
 std. deviation is 1.27 in logs. (as per the blog post.)
@@ -3218,13 +2544,13 @@ means.
 > individuals.
 
 **Claim**: GDP per capita is also very strongly (\>0.7) correlated
-with the Human Development Index
+with the Human Development Index.
 
 **Example-sub**: 
 
 GDP per capita vs HDI is shown [here](https://ourworldindata.org/grapher/human-development-index-vs-gdp-per-capita). 
 
-For the year 2014 the correlation is 0.73
+For the year 2014 the correlation is 0.73.
 
 **Definition**: checks out. 
 
@@ -3254,7 +2580,7 @@ variable. Correlation however appears to capture how close to the
 linear relationship the plot is.
 
 **re-write Claim**: R2 value for GDP per capita vs Welfare is greater
-than 90%
+than 90%.
 
 **Example-sub**: Correlation was found to be 0.96. This means R2 value
 is `0.96^2=92%`, for the year 2007.
@@ -3297,10 +2623,10 @@ much can be achieved for a country holding its income per head at a
 low level.
 
 **re-write Claim**: Using Jones welfare metric, only "so much can be
-achieved" for a country with "low GDP per capita" 
+achieved" for a country with "low GDP per capita".
 
 **re-write Claim**: Using Jones welfare metric, only "so much can be
-achieved" for a country with GDP <1/4th of US.
+achieved" for a country with GDP \<1/4th of US.
 
 **Note**: I am getting mad at the fact that this sloppy writing (I
 cannot for the love of god understand what he is saying), is revered
@@ -3310,14 +2636,14 @@ so highly (highest karma points post ever in forum) or is it just me?
 that of the US, then, empirically, its welfare per person can also not
 be more than a sixth that of the US.
 
-**re-write Claim**: Unless a country's GDP per capita is >1/4 that of
+**re-write Claim**: Unless a country's GDP per capita is \>1/4 that of
 US, it's welfare per person cannot be more than 1/6 that of US.
 
-**re-write Claim**: If GDP per capita is >1/4 then Welfare per person >1/6
+**re-write Claim**: If GDP per capita is \>1/4 then Welfare per person \>1/6
 
-**Example-sub**: Malasia Income >1/4 and <1/2. Malaysia welfare >~1/6
+**Example-sub**: Malaysia Income \>1/4 and \<1/2. Malaysia welfare \>~1/6
 
-**Definition**: checks out
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
@@ -3342,15 +2668,15 @@ incomes suggest because of a combination of shorter lives and extreme
 inequality.
 
 **re-write Claim**: Most developing countries are "substantially
-poorer" than incomes suggests
+poorer" than incomes suggests.
 
-**re-write Claim**: Many countries with GDP per capita <1/4th that of
-US, have their welfare to GDP per capita ratio <0.75
+**re-write Claim**: Many countries with GDP per capita \<1/4th that of
+US, have their welfare to GDP per capita ratio \<0.75.
 
 **Subject**: Ratio of welfare to GDP per capita of countries with GDP
-per capita <1/4th that of US,
+per capita \<1/4th that of US,
 
-**Predicate**: <75%
+**Predicate**: \<75%
 
 **Example-sub**: 
 
@@ -3362,7 +2688,7 @@ As per [Figure 5 here](https://www.nber.org/papers/w16352.pdf). Values are as pe
 | Brazil    | 1/6 of US      | 0.65                    |
 | China     | 1/10 of US     | 0.65                    |
 
-**Definition**: <0.75... checks out.
+**Definition**: \<0.75... checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
@@ -3371,10 +2697,10 @@ As per [Figure 5 here](https://www.nber.org/papers/w16352.pdf). Values are as pe
 ---
 
 **re-write Claim**: "developing countries" life expectancy is "low"
-compared to "developed countries"
+compared to "developed countries".
 
-**re-write Claim**: Life expectancy of countries with <1/4 US GDP, is
-lesser than countries with >1/4 GDP
+**re-write Claim**: Life expectancy of countries with \<1/4 US GDP, is
+lesser than countries with \>1/4 GDP.
 
 **Example-sub**: 
 
@@ -3394,17 +2720,17 @@ lesser than countries with >1/4 GDP
 
 ---
 
-**re-write Claim**: "Developing countries" inequality is high
+**re-write Claim**: "Developing countries" inequality is high.
 
-**re-write Claim**: SD of log consumption of countries with <1/4 US
-GDP, is higher than countries with >1/4 GDP per capita.
+**re-write Claim**: SD of log consumption of countries with \<1/4 US
+GDP, is higher than countries with \>1/4 GDP per capita.
 
 **Example-sub**: 
 
 | country | GDP per capita | SD of log consumption |
 |---------|----------------|-----------------------|
 | India   | 1/16 of US     | 0.45                  |
-| UK      | >1/2 of US     | 0.45                  |
+| UK      | \>1/2 of US     | 0.45                  |
 
 Source: [Figure 1 here](https://www.nber.org/papers/w16352.pdf).
 
@@ -3424,15 +2750,15 @@ that global welfare inequality is greater than global income
 inequality.
 
 **re-write Claim**: Lower life expectancy reduces welfare by 15 to 50
-percent in developing countries 
+percent in developing countries.
 
 **Subject**: The amount by which the welfare is reduced in developing
-countries, if they didn't have "lower life expectancy"
+countries, if they didn't have "lower life expectancy".
 
 **Predicate**: 15 to 50 %
 
 **Note**: The welfare metric is a formula which takes in life
-expectancy as an input. If you change that value for russia from 
+expectancy as an input.  
 
 **Example-sub**: 
 
@@ -3440,7 +2766,7 @@ expectancy as an input. If you change that value for russia from
 > points, or around 40 percent---[author of that same paper](https://www.nber.org/papers/w16352.pdf).
 
 So, Welfare reduces by 40% at life expectancy of 67 years for Russia
-(compared to welfare at 77 years)
+(compared to welfare at 77 years).
 
 **Definition**: checks out.
 
@@ -3451,7 +2777,7 @@ So, Welfare reduces by 40% at life expectancy of 67 years for Russia
 ---
 
 **re-write Claim**: ~~this implies,~~ Welfare inequality appears to be
-greater than income inequality
+greater than income inequality.
 
 **Note**: These guys from the blogpost left the "across countries"
 while copying sentences from said paper. I was puzzled as to what they
@@ -3495,14 +2821,14 @@ numbers and puzzling out what the author wanted to say.
 **Claim**: Ensuring evenly shared growth and improved health is also
 important for human welfare.
 
-**re-write Claim**: reducing inequality and improving life expectancy
+**re-write Claim**: Reducing inequality and improving life expectancy
 increases human welfare.
 
 **re-write Claim**: reducing standard deviation of log consumption for
-a country increases human welfare (Jones' welfare metric)
+a country increases human welfare (Jones' welfare metric).
 
 **re-write Claim**: Standard deviation of log consumption for a
-country is lower implies higher human welfare
+country is lower implies higher human welfare.
 
 **Example-sub**: 
 
@@ -3521,7 +2847,7 @@ country is lower implies higher human welfare
 ---
 
 **re-write Claim**: Life expectancy increases, human welfare also
-increases
+increases.
 
 **Example-sub**: 
 
@@ -3530,7 +2856,7 @@ increases
 | France  | 80              | 1              |
 | India   | 64              | 1/32           |
 
-**Definition**: checks out
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
@@ -3562,9 +2888,9 @@ initial claim. I am not looking at all "RCT-backed interventions".
 **Example-sub**: 
 
 - Life expectancy increase due to malaria aid from 1950 to 2010 for
-  African region: 1.2 years
+  African region: 1.2 years.
 
-- Life expectancy increase from 1950 to 2010 for African region: 9.6 years
+- Life expectancy increase from 1950 to 2010 for African region: 9.6 years.
 
 - [Section 6.7 WHO report](https://apps.who.int/iris/bitstream/handle/10665/252038/9789241511711-eng.pdf;jsessionid=6F4C4384EC4B286AE7D38467441AA3A1?sequence=1).
 
@@ -3589,16 +2915,16 @@ funding RCT-backed interventions.
 **Claim**: GDP per capita and Life expectancy are correlated.
 
 **re-write Claim**: GDP per capita and life expectancy have a
-correlation of >0.9
+correlation of \>0.9.
 
 **re-write Claim**: Log GDP per capita and life expectancy seem to
-have strong correlation (>0.7).
+have strong correlation (\>0.7).
 
 **Example-sub**: 
 
 [This graph](https://ourworldindata.org/grapher/life-expectancy-vs-gdp-per-capita?time=2012) shows the life expectancy vs GDP per capita for 2015.
 
-0.81 is the correlation--> 2015 data of Life expectancy vs Log GDP per
+0.81 is the correlation--\> 2015 data of Life expectancy vs Log GDP per
 capita for different countries.
 
 [Source: downloaded data in libre calc](https://ourworldindata.org/grapher/life-expectancy-vs-gdp-per-capita)
@@ -3659,7 +2985,7 @@ is 1.
 
 **Example-sub**: 
 
-0.81 in 2015
+0.81 in 2015.
 
 [Source: downloaded data in libre calc](https://ourworldindata.org/grapher/life-expectancy-vs-gdp-per-capita)
 
@@ -3730,7 +3056,7 @@ expectancy increased with time.
 **re-write Claim**: Amount of money pumped into "malaria control
 activities" ~~and life expectancy~~ increased over time.
 
-**Note**: splitting it into two claims
+**Note**: splitting it into two claims.
 
 **Example-sub**: 
 
@@ -3760,7 +3086,7 @@ world from 2000 to 2015.
 
 [Source: pg 50 WHO report](https://apps.who.int/iris/bitstream/handle/10665/252038/9789241511711-eng.pdf;jsessionid=6F4C4384EC4B286AE7D38467441AA3A1?sequence=1)
 
-**Definition**: checks out
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
@@ -3785,7 +3111,7 @@ in libre calc for 60 years so modified to check for a few examples.
 **re-write Claim**: Life expectancy of many countries has increased by
 8 years from 1955 to 2015.
 
-**Note**: Whether it was due to public health improvements is skipped
+**Note**: Whether it was due to public health improvements is skipped.
 
 **Example-sub**: 
 
@@ -3793,10 +3119,10 @@ in libre calc for 60 years so modified to check for a few examples.
 |---------|----------------------|----------------------|------------|
 | UK      | 70.1                 | 81.1                 | 11         |
 | US      | 69.3                 | 78.9                 | 9.6        |
-| Jordan  | 48.6                 | 74.1                 | >10        |
-| Sudan   | 45.9                 | 68.6                 | >10        |
-| India   | 38.4                 | 64.4                 | >10        |
-| Niger   | 34.6                 | 60.6                 | >10        |
+| Jordan  | 48.6                 | 74.1                 | \>10        |
+| Sudan   | 45.9                 | 68.6                 | \>10        |
+| India   | 38.4                 | 64.4                 | \>10        |
+| Niger   | 34.6                 | 60.6                 | \>10        |
 
 
 **Definition**: Checks out.
@@ -3810,11 +3136,11 @@ in libre calc for 60 years so modified to check for a few examples.
 > Nonetheless, the graph above shows that GDP per capita explains a
 > significant fraction of the variation in life expectancy across
 > countries. 60 years of sustained growth could shift a country from
-> income per head of $1,000 to $32,500.[12] Today, this would be
+> income per head of `$`1,000 to `$`32,500.[12] Today, this would be
 > correlated with, though would not necessarily wholly cause, an
 > increase in life expectancy by more than 20 years, on average. Today,
-> almost no countries with income per head above $10,000 have life
-> expectancy below 70 years. Most countries with income below $5,000 per
+> almost no countries with income per head above `$`10,000 have life
+> expectancy below 70 years. Most countries with income below `$`5,000 per
 > head have life expectancy below 70 years, and a significant fraction
 > have life expectancy below 60.
 
@@ -3827,7 +3153,7 @@ capita for different countries is greater than 90% for a given year.
 **Example-sub**: 66% R^2 value for the 2015 data of Life expectancy vs
 Log GDP per capita for different countries.
 
-R2 informs the variation in Life expectancy captured by GDP per capita
+R2 informs the variation in Life expectancy captured by GDP per capita.
 
 [Source: downloaded data in libre calc](https://ourworldindata.org/grapher/life-expectancy-vs-gdp-per-capita)
 
@@ -3846,7 +3172,7 @@ income per head of 1k USD to 32.5k USD.
 growth" could shift a country from income per head of 1k USD to 32.5k
 USD.
 
-**Failed**: Unsure how to measure "sustained growth"
+**Failed**: Unsure how to measure "sustained growth".
 
 **re-write Claim**: In 60 years it is possible to go from 1k USD GDP
 per capita to 32.5k USD GDP per capita.
@@ -3872,14 +3198,7 @@ necessarily wholly cause, an increase in life expectancy by more than
 2015, is correlated with an increase in life expectancy by more than
 20 years.
 
-**Note**: This correlated word throws me the hell off. Correlated is
-about 2 variables and multiple points, from which we get a single
-number to express how far the points are from the "trend line". Here
-he seems to be talking about increase from 1k to 32.5k and
-corresponding increase of 20 years. I think this is the wrong usage
-and move on. ???
-
-**re-write Claim**: In 2015, a variation in gdp per capita from 1k to
+**re-write Claim**: In 2015, a variation in GDP per capita from 1k to
 32.5k USD between any two countries would imply that Life expectancy
 gap would be >20 years.
 
@@ -3893,29 +3212,29 @@ gap would be >20 years.
 
 [Source](https://ourworldindata.org/grapher/life-expectancy-vs-gdp-per-capita)
 
-**Definition**: checks out
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-**Time**: 20mins (puzzling out what the fucking author is trying to say)
+**Time**: 20mins ("Correlated", threw me off)
 
 ---
 
 **Claim**: Today, almost no countries with income per head above
-$10,000 have life expectancy below 70 years.
+`$`10,000 have life expectancy below 70 years.
 
 **re-write Claim**: Ratio of Number of countries with GDP per capita \>10k USD
 but below life expectancy 70 years in 2016, to number of countries
-with GDP per capita \>10k USD is < 10%
+with GDP per capita \>10k USD is \< 10%.
 
 **Example-sub**: 
 
-Number of countries with GDP per capita \>10k & Life expectancy <70
-years = 7
+Number of countries with GDP per capita \>10k & Life expectancy \<70
+years = 7.
 
-Number of countries with GDP per capita \>10k = 105
+Number of countries with GDP per capita \>10k = 105.
 
-Ratio is 6.6%
+Ratio is 6.6%.
 
 [Source: downloaded data in libre calc](https://ourworldindata.org/grapher/life-expectancy-vs-gdp-per-capita)
 
@@ -3929,19 +3248,19 @@ Ratio is 6.6%
 
 <!-- start here -->
 
-**Claim**: Most countries with income below $5,000 per head have life
+**Claim**: Most countries with income below `$`5,000 per head have life
 expectancy below 70 years, and a significant fraction have life
 expectancy below 60.
 
 **re-write Claim**: 90% of the countries with GDP below 5000 USD
-per capita have life expectancy below 70 years for 2016
+per capita have life expectancy below 70 years for 2016.
 
 **Example-sub**: 
 
-Number of countries with GDP below 5000 USD in 2016: 46
+Number of countries with GDP below 5000 USD in 2016: 46.
 
 Number of countries with GDP below 5000 USD in 2016 and Life
-expectancy <70 years: 41
+expectancy \<70 years: 41.
 
 [Source: downloaded data in libre calc](https://ourworldindata.org/grapher/life-expectancy-vs-gdp-per-capita)
 
@@ -3961,7 +3280,7 @@ capita have life expectancy below 60 years for 2016.
 Number of countries with GDP below 5000 USD in 2016: 46
 
 Number of countries with GDP below 5000 USD in 2016 and Life
-expectancy <60 years: 10
+expectancy \<60 years: 10
 
 [Source: downloaded data in libre calc](https://ourworldindata.org/grapher/life-expectancy-vs-gdp-per-capita)
 
@@ -3984,7 +3303,7 @@ according to the [chart even](https://ourworldindata.org/grapher/life-expectancy
 satisfaction:
 
 **re-write Claim**: Log GDP per capita and self-reported life
-satisfaction country average for a given year have a correlation >0.9
+satisfaction country average for a given year have a correlation \>0.9.
 
 **Example-sub**: 
 
@@ -4004,13 +3323,13 @@ capita and 'self-reported life satisfaction country average'.
 
 ---
 
-> Once GDP per capita is above $20,000, no countries have average life
-> satisfaction scores below 5; once it is below $3,000, almost no
+> Once GDP per capita is above `$`20,000, no countries have average life
+> satisfaction scores below 5; once it is below `$`3,000, almost no
 > countries have self-reported life satisfaction scores above 5.The
 > chart below shows the strength of the relationship more clearly as
 > it does not put income on a logarithmic scale:
 
-**Claim**: Once GDP per capita is above $20,000, no countries have
+**Claim**: Once GDP per capita is above `$`20,000, no countries have
 average life satisfaction (ALS) scores below 5;
 
 **re-write Claim**: If GDP per capita is above 20k USD, number of
@@ -4032,16 +3351,16 @@ statements", feel confused and puzzled)
 
 ---
 
-**Claim**: Once it is below $3,000, almost no countries have
-self-reported life satisfaction scores above 5
+**Claim**: Once it is below `$`3,000, almost no countries have
+self-reported life satisfaction scores above 5.
 
 **re-write Claim**: If GDP per capita is below 3k USD, then 0
-countries have self-reported life satisfaction scores above 5
+countries have self-reported life satisfaction scores above 5.
 
 **Example-sub**: 
 
 [Tajikistan](https://ourworldindata.org/grapher/gdp-vs-happiness?country=~TJK) has a GDP per capita of 2897 USD and self-reported
-life satisfaction score of 5.83 for the year 2017
+life satisfaction score of 5.83 for the year 2017.
 
 **Definition**: False. Really sloppy writing.
 
@@ -4051,18 +3370,18 @@ life satisfaction score of 5.83 for the year 2017
 
 ---
 
-**Claim**: The chart below shows the strength of the relationship more
-clearly as it does not put income on a logarithmic scale
+**Claim**: The [chart](https://lh6.googleusercontent.com/ZVeTlAYUY2kZQIav05u4Hk_Q3Sq-q282DGMEN9D7q_hMnUitSInwZifOGXENcN-5pN6GTtfe3bkdIyX8z_NkZfpJ-ivWkD8KAcZ1pBC0v3leUVAG1wtBjwXf9eSMOUlHQsjsrgfe) below shows the strength of the relationship
+more clearly as it does not put income on a logarithmic scale.
 
-**re-write Claim**: The chart below shows "strength of the
-relationship" (which relationship?) more clearly 
-because it does not put income on a log scale.
+![80k scatter plot](./images/claims/scatter-plot-80k.png)
 
-[insert graph here](https://lh6.googleusercontent.com/ZVeTlAYUY2kZQIav05u4Hk_Q3Sq-q282DGMEN9D7q_hMnUitSInwZifOGXENcN-5pN6GTtfe3bkdIyX8z_NkZfpJ-ivWkD8KAcZ1pBC0v3leUVAG1wtBjwXf9eSMOUlHQsjsrgfe) from that 80000hours hours bullshit.
+**re-write Claim**: The [chart](https://lh6.googleusercontent.com/ZVeTlAYUY2kZQIav05u4Hk_Q3Sq-q282DGMEN9D7q_hMnUitSInwZifOGXENcN-5pN6GTtfe3bkdIyX8z_NkZfpJ-ivWkD8KAcZ1pBC0v3leUVAG1wtBjwXf9eSMOUlHQsjsrgfe) below shows "strength of the
+relationship" more clearly because it does not put income on a log
+scale.
 
-**re-write Claim**: The chart below shows the correlation between
+**re-write Claim**: The [chart](https://lh6.googleusercontent.com/ZVeTlAYUY2kZQIav05u4Hk_Q3Sq-q282DGMEN9D7q_hMnUitSInwZifOGXENcN-5pN6GTtfe3bkdIyX8z_NkZfpJ-ivWkD8KAcZ1pBC0v3leUVAG1wtBjwXf9eSMOUlHQsjsrgfe) below shows the correlation between
 self-reported household income vs self-reported life satisfaction
-average
+average.
 
 **re-write Claim**: The chart below shows the *scatter plot and the
 trend/correlation line/curve* for self-reported household income vs
@@ -4073,8 +3392,6 @@ self-reported life satisfaction average.
 It shows lines/curves for US, India, Italy and Russia but there are no
 scatter plots over which the trend was obtained.
 
-[insert graph here.:](https://lh6.googleusercontent.com/ZVeTlAYUY2kZQIav05u4Hk_Q3Sq-q282DGMEN9D7q_hMnUitSInwZifOGXENcN-5pN6GTtfe3bkdIyX8z_NkZfpJ-ivWkD8KAcZ1pBC0v3leUVAG1wtBjwXf9eSMOUlHQsjsrgfe) insert picture???
-
 **Definition**: False.
 
 **Checklist**: False; sub; Yes; pre; Yes; ecm; Yes;
@@ -4084,7 +3401,7 @@ scatter plots over which the trend was obtained.
 ---
 
 **re-write Claim**: The chart below shows the trend line "more
-clearly" than the charts with Log income per capita
+clearly" than the charts with Log income per capita.
 
 **Note**: I give up. God bless this writer. I don't know how or across
 what dimension to measure "more clearly".
@@ -4122,35 +3439,36 @@ income in that same country.
 
 ---
 
-**Claim**: There are limited benefits for rich countries
+**Claim**: There are limited benefits for rich countries.
 
-**re-write Claim**: For a 10k USD increase in Income, rich countries (>30k GDP
+**re-write Claim**: For a 10k USD increase in Income, rich countries (\>30k GDP
 per capita) have lesser self-reported life satisfaction than poorer
-ones (1<10k GDP per capita).
+ones (1\<10k GDP per capita).
 
 **Example-sub**: 
 
-*Low-Income Country*--> 
+*Low-Income Country*--\> 
 
 | Country    | self-reported life satisfaction | Income (USD) |
 |------------|---------------------------------|--------------|
 | India      | 4                               | 1k           |
 | India      | 6                               | 10k          |
 | Difference | 2                               | 10k          |
-|            |                                 |              |
 
-*High-Income Country*-->
+
+*High-Income Country*--\>
 
 | Country    | self-reported life satisfaction | Income (USD) |
 |------------|---------------------------------|--------------|
 | US         | 7                               | 30k          |
 | US         | 7.3                             | 40k          |
-| Difference | 0.3                            | 10k          |
+| Difference | 0.3                             | 10k          |
+
 
 Low-income countries have their satisfaction improve by 10k by 2
 points while high-income countries go up by roughly 0.3 points.
 
-**Definition**: checks out
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
@@ -4158,16 +3476,16 @@ points while high-income countries go up by roughly 0.3 points.
 
 ---
 
-### Parvati
+### Poverty 
 
 > GDP per capita is very strongly associated with poverty reduction, on
 > standard low-bar poverty thresholds. Increasing median income above a
-> certain level is empirically sufficient to eliminate $1.90 a day
-> poverty. Above a median income of $5,000, no country has low-bar
+> certain level is empirically sufficient to eliminate `$`1.90 a day
+> poverty. Above a median income of `$`5,000, no country has low-bar
 > poverty above 2.5%
 
 **Claim**: GDP per capita is very strongly associated with poverty
-reduction, on "standard low-bar poverty thresholds"
+reduction, on "standard low-bar poverty thresholds".
 
 **Note**: Tried getting the data from as pointed by the author but it
 was taking too much time, hence I don't show correlation.
@@ -4183,11 +3501,11 @@ reason getting year info is not straightforward), we see that,
 
 | Headcount poverty rate @ USD 1.9/day | Median PPP annual income/consumption (USD) |
 |--------------------------------------|--------------------------------------------|
-| 0.9                                  | <0.5k                                      |
+| 0.9                                  | \<0.5k                                      |
 | 0.3                                  | 1k                                         |
 | 0.01                                 | 8k                                         |
 
-**Definition**: Checks out
+**Definition**: Checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
@@ -4197,15 +3515,15 @@ what the data means)
 ---
 
 **Claim**: Increasing median income above a certain level is
-empirically sufficient to eliminate $1.90 a day poverty.
+empirically sufficient to eliminate `$`1.90 a day poverty.
 
 **re-write Claim**: Countries with median income \>7500 USD have very
-low headcount poverty rate @1.9 USD/day
+low headcount poverty rate (poverty measured as \<1.9 USD/day).
 
 **Example-sub**:
 
-\<1% is the headcount poverty rate (@1.9 USD/day) for countries with median income
-\>7500 USD.
+\<1% is the headcount poverty rate (\<1.9 USD/day) for countries with
+median income \>7500 USD.
 
 [Source: Pg7](https://d101vc9winf8ln.cloudfront.net/documents/32264/original/RCTs_and_the_big_questions_10000words_june30.pdf?1565974982)
 
@@ -4221,10 +3539,11 @@ low headcount poverty rate @1.9 USD/day
 poverty above 2.5%.
 
 **re-write Claim**: Above a median income of 5k USD, no country
-has head count poverty rate \>2.5% (
+has head count poverty rate \>2.5% (poverty measured as \<1.9 USD/day).
 
 **Example-sub**: 
 
+[Source: Pg7](https://d101vc9winf8ln.cloudfront.net/documents/32264/original/RCTs_and_the_big_questions_10000words_june30.pdf?1565974982)
 
 **Definition**:  checks out.
 
@@ -4236,24 +3555,18 @@ has head count poverty rate \>2.5% (
 
 > Increasing median per capita income above a certain level is also
 > empirically necessary to eliminate poverty. No country (but one) has
-> pushed $5.50/day poverty below 10 percent without increasing median
-> income above $3,535.[13]
+> pushed `$`5.50/day poverty below 10 percent without increasing median
+> income above 3,535`$`.[13]
 
 **Claim**: Increasing median per capita income above a certain level
 is also "empirically necessary" to eliminate poverty.
 
-Jesus.. what a loaded word... they seem to be implying causality.
-
-This guys work is highly derivative. Even the author of link uses it
-in courts. This cunt.. fuck me... doesn't hesitate and copies it
-happily.
-
-**re-write Claim**: Above a median income of $5,000, headcount poverty
-rate @1.9 USD/day is close to 1%
+**re-write Claim**: Above a median income of 5,000 USD, headcount poverty
+rate @1.9 USD/day is close to 1%.
 
 **Example-sub**: 
 
-same graph as above.
+[Source: Pg7](https://d101vc9winf8ln.cloudfront.net/documents/32264/original/RCTs_and_the_big_questions_10000words_june30.pdf?1565974982)
 
 **Definition**: checks out.
 
@@ -4263,12 +3576,15 @@ same graph as above.
 
 ---
 
-**Claim**: No country (but one) has pushed $5.50/day poverty below 10
-percent without increasing median income above $3,535.[13]
+**Claim**: No country (but one) has pushed 5.50`$`/day poverty below 10
+percent without increasing median income above `$`3,535.[13]
+
+**re-write Claim**: Only one country has 10% headcount poverty rate
+for poverty line of 5.50`$`/day with median income \<3535 USD.
 
 **Example-sub**: 
 
-Insert [figure 2](https://d101vc9winf8ln.cloudfront.net/documents/32264/original/RCTs_and_the_big_questions_10000words_june30.pdf?1565974982) here
+![figure2-pritchet](./images/claims/figure2-pritchet.png)
 
 **Definition**: checks out.
 
@@ -4285,16 +3601,16 @@ Insert [figure 2](https://d101vc9winf8ln.cloudfront.net/documents/32264/original
 > Reduced child mortality, Sanitation
 
 **Claim**: There is also a strong correlation between GDP per capita
-and Reduced undernourishment
+and Reduced undernourishment.
 
-**re-write Claim**: There is also a correlation of >0.7 between log GDP
-per capita and Share of population who are undernourished
+**re-write Claim**: There is also a correlation \>0.7 between log GDP
+per capita and Share of population who are undernourished.
 
 **Example-sub**: 
 
 [Negative correlation of 0.62](https://ourworldindata.org/grapher/share-undernourished-vs-gdp-pc?time=latest); 2016
 
-**Definition**: Does not check out as "strong".
+**Definition**: Does not check out.
 
 **Checklist**: False; sub; Yes; pre; Yes; ecm; Yes;
 
@@ -4303,10 +3619,10 @@ per capita and Share of population who are undernourished
 ---
 
 **Claim**: There is also a strong correlation between GDP per capita
-and Literacy
+and Literacy.
 
-**re-write Claim**: There is also a correlation of >0.7 between log GDP
-per capita and Literacy rate of population older than 14 years
+**re-write Claim**: There is also a correlation \>0.7 between log GDP
+per capita and Literacy rate of population older than 14 years.
 
 **Example-sub**: 
 
@@ -4321,16 +3637,16 @@ per capita and Literacy rate of population older than 14 years
 ---
 
 **Claim**: There is also a strong correlation between GDP per capita
-and Reduced child mortality
+and Reduced child mortality.
 
-**re-write Claim**: There is also a correlation of >0.7 between log GDP
-per capita and child mortality rate (based on death before 5 years)
+**re-write Claim**: There is also a correlation \>0.7 between log GDP
+per capita and child mortality rate (based on death before 5 years).
 
 **Example-sub**: 
 
 [-ve correlation of 0.79](https://ourworldindata.org/grapher/child-mortality-gdp-per-capita); 2016
 
-**Definition**: checks out
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
@@ -4339,9 +3655,9 @@ per capita and child mortality rate (based on death before 5 years)
 ---
 
 **Claim**: There is also a strong correlation between GDP per capita
-and sanitation
+and sanitation.
 
-**re-write Claim**: There is also a correlation of >0.7 between log GDP
+**re-write Claim**: There is also a correlation of \>0.7 between log GDP
 per capita and share of population with improved sanitation.
 
 **Example-sub**: 
@@ -4361,9 +3677,9 @@ per capita and share of population with improved sanitation.
 > correlated with many objective and subjective measures of
 > welfare. Thus, empirical evidence shows that only so much can be
 > achieved for a country at a low level of income per head. If a country
-> has an income per head below $5,000, it is very likely to do poorly on
+> has an income per head below `$`5,000, it is very likely to do poorly on
 > most objective and subjective measures of welfare. If a country’s
-> income per head is above $20,000, it is very likely to do well on most
+> income per head is above `$`20,000, it is very likely to do well on most
 > objective and subjective measures of welfare.
 
 **Claim**: The foregoing arguments show that GDP per capita is
@@ -4372,8 +3688,8 @@ welfare.
 
 **re-write Claim**: 
 
-Log GDP per capita is strongly correlated (>0.7) with many objective
-and subjective measures of welfare.
+Log GDP per capita is strongly correlated (\>0.7) with many (5/6)
+objective and subjective measures of welfare.
 
 **Example-sub**: 
 
@@ -4398,20 +3714,18 @@ and subjective measures of welfare.
 **Claim**: Thus, empirical evidence shows that only so much can be
 achieved for a country at a low level of income per head.
 
-**re-write Claim**: Countries with income per head <5k USD, on
-average have \>10 years lower life expectancy than countries >20k USD
+**re-write Claim**: Average life expectancy for countries with GDP per
+capita \<5k is lower than Average life expectancy for countries with
+GDP per capita \>20k.
 
 **Example-sub**: 
 
 | GDP per capita (USD) | Avg. Life expectancy |
 |----------------------|----------------------|
 | \>20k                | 79                   |
-| <5k                  | 62                   |
-
-
+| \<5k                  | 62                   |
 
 Based on [Life expectancy vs. GDP per capita, 2015](https://ourworldindata.org/grapher/life-expectancy-vs-gdp-per-capita).
-
 
 **Definition**: checks out.
 
@@ -4421,24 +3735,24 @@ Based on [Life expectancy vs. GDP per capita, 2015](https://ourworldindata.org/g
 
 ---
 
-**Claim**: If a country has an income per head below $5,000, it is
+**Claim**: If a country has an income per head below `$`5,000, it is
 very likely to do poorly on most objective and subjective measures of
 welfare. 
 
-**Note**: Not doing most as it is too much work. Just taking one example.
+**Note**: Not doing "most" as it is too much work. Just taking one example.
 
-**re-write Claim**: Countries with income per head <5k USD, on
-average have <65years life expectancy
+**re-write Claim**: Countries with income per head \<5k USD, on
+average have \<65years life expectancy.
 
 **Example-sub**: 
 
 | GDP per capita (USD) | Avg. Life expectancy |
 |----------------------|----------------------|
-| <5k                  | 62                   |
+| \<5k                  | 62                   |
 
 Based on [Life expectancy vs. GDP per capita, 2015](https://ourworldindata.org/grapher/life-expectancy-vs-gdp-per-capita)
 
-**Definition**: 
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
@@ -4446,12 +3760,12 @@ Based on [Life expectancy vs. GDP per capita, 2015](https://ourworldindata.org/g
 
 ---
 
-**Claim**: If a country’s income per head is above $20,000, it is very
+**Claim**: If a country’s income per head is above `$`20,000, it is very
 likely to do well on most objective and subjective measures of
 welfare.
 
 **re-write Claim**: Countries with income per head \>20k USD, on
-average have >75years life expectancy
+average have \>75years life expectancy.
 
 **Example-sub**: 
 
@@ -4461,17 +3775,13 @@ average have >75years life expectancy
 
 Based on [Life expectancy vs. GDP per capita, 2015](https://ourworldindata.org/grapher/life-expectancy-vs-gdp-per-capita)
 
-**Definition**: checks out
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
 **Time**: 5 mins
 
 ---
-
-<!-- 15 PR over 3.5 hours -->
-
-<!--  23rd july -->
 
 > As discussed above, there are also good reasons to believe that
 > increased GDP per capita causes many of these increases in
@@ -4484,17 +3794,18 @@ Based on [Life expectancy vs. GDP per capita, 2015](https://ourworldindata.org/g
 **Claim**: There are good reasons to believe that increased GDP per
 capita causes many of these increases in welfare.
 
-**Note:**  Only correlation was discussed above.
+**Note:**  Only correlation was discussed above. What are those
+"reasons to believe" are not discussed.
 
 **re-write Claim**: If there is a high GDP per capita across countries
-then there is high life expectancy, across countries.
+then there is high life expectancy, on average across countries.
 
 **Example-sub**: 
 
 | GDP per capita (USD) | Avg. Life expectancy |
 |----------------------|----------------------|
 | \>20k                | 79                   |
-| <5k                  | 62                   |
+| \<5k                  | 62                   |
 
 Based on [Life expectancy vs. GDP per capita, 2015](https://ourworldindata.org/grapher/life-expectancy-vs-gdp-per-capita).
 
@@ -4513,16 +3824,14 @@ best to increase GDP per capita.
 **re-write Claim**: If there is increase in GDP per capita then there
 is increase in human welfare.
 
-answered several times in the past.
+**Note**: Answered several times in the past.
+
+<!-- Start here -->
 
 **re-write Claim**: To get the biggest increase in human welfare, we
 should find out best ways to increase GDP per capita.
 
-**re-write Claim**: circle back???
-
-thesis probably... once you have info on cost effectiveness maybe...
-
-**Fail**
+**Failed**
 
 ---
 
@@ -4534,10 +3843,10 @@ GDP per capita".
 
 **re-write Claim**: EA orgs have not published blog posts or
 questions, attempting to answer the "Best ways to increase GDP per
-capita"
+capita".
 
 **re-write Claim**: EA orgs have not published blog posts containing
-the words "GDP per capita"
+the words "GDP per capita".
 
 **Example-sub**: 
 
@@ -4551,8 +3860,6 @@ However for GiveWell it does produce actual hits with "GDP per capita".
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
 **Time**: 15 mins
-
-I don't know how else to "test it".
 
 ---
 
@@ -4574,8 +3881,8 @@ question of whether the interventions they assess increase economic
 growth.
 
 **re-write Claim**: It is not possible to find words such as "economy"
-or "economic" or "gdp" or "gdp per capita" in important documents of
-GiveWell 
+or "economic" or "GDP" or "GDP per capita" in many documents of
+GiveWell.
 
 **Example-sub**: 
 
@@ -4588,17 +3895,15 @@ charities](https://www.givewell.org/charities/top-charities), we don't find any 
 
 **Time**: 10 mins
 
----
-
 **re-write Claim**: Output dimensions to assess interventions do not
-include economic growth or GDP per capita
+include economic growth or GDP per capita.
 
 **Example-sub**: 
 
 In the post used to express "[why Malaria Consortium is a top charity
 according to GiveWell](https://www.givewell.org/charities/malaria-consortium)", the output dimensions used to asses
-interventions are --> cost-effectiveness, Cost per SMC treatment,
-expected expenses etc... Not economic growth or GDP per capita
+interventions are --\> cost-effectiveness, Cost per SMC treatment,
+expected expenses etc... Not economic growth or GDP per capita.
 
 **Definition**: checks out.
 
@@ -4613,46 +3918,55 @@ programmatic attempts to solve a problem in a specific target
 population, such as depression, educational attainment, intestinal
 worms or malaria.
 
-**re-write Claim**: (RD)[1] works ~~overwhelmingly focused~~ on
+~~**re-write Claim**: (RD)[1] works overwhelmingly focused on
 (evaluating the success of programmatic attempts to solve a
-problem)[2] in a specific target population)[3], such as depression,
-educational attainment, intestinal worms or malaria.
+problem)[2] in a (specific target population)[3], such as depression,
+educational attainment, intestinal worms or malaria.~~
+
+**Time**: 40 mins or more. (identifying how to answer it and
+researching the paper and finding useful info takes time)
+
+**Note**: decided to split the claim. Above is too confusing.
+
+**re-write Claim**: RD works on evaluating the success of programmatic
+attempts to solve a problem.
+
+**re-write Claim**: GiveWell makes cost-effectiveness estimates of
+different interventions.
 
 **Example-sub**: 
 
-For [1]: GiveWell 
-
-For [2]: GiveWell while evaluating Malaria consortium, checks the rate
-ratio for [SMC](https://www.givewell.org/international/technical/programs/seasonal-malaria-chemoprevention#Evidence_from_randomized_controlled_trials) (which tells that using certain drugs prevents
-approximately three quarters of all clinical malaria episodes), and in
-the end comes up with a cost effectiveness estimate of 16 times that
-of cash transfers.
-
-For [3]: Nigeria, Sahel region in Africa 
+[cost-effectiveness table](https://docs.google.com/spreadsheets/d/1zLmPuddUmKsy3v55AfG_e1Quk-ngDdNzW-FDx0T-Y94/edit#gid=1377543212)
 
 **Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-**Time**: 40 mins or more. (identifying how to answer it and
-researching the paper and finding useful info takes time)
+**Time**: 5mins
+
+**re-write Claim**: RD works on specific target population.
+
+**Example-sub**: 
+
+SMC is done in Nigeria, Sahel region in Africa. Not in the US.
+
+**Definition**: checks out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 5 mins
 
 ---
 
 <!-- july 24 -->
 
 **Claim**: This does not mean that the things assessed by RD do not
-increase economic growth at all
+increase economic growth at all.
 
 **re-write Claim**: RD increases economic growth.
 
 **re-write Claim**: Recipients of cash transfers have ~~significantly~~
-higher total expenditure
-
-**Subject**: Expenditure of recipients of cash transfers with respect
-to control groups
-
-**Predicate**: is higher
+higher total expenditure.
 
 **Example-sub**: 1000 USD was delivered to 10,500 households across
 328 villages in Siaya, Kenya.
@@ -4669,14 +3983,14 @@ after the start of transfers.
 **Time**: 30 mins
 
 **re-write Claim**: Enterprise revenues per household is higher than
-in control villages
+in control villages.
 
 **Example-sub**: USD PPP 343 per household for Treatment groups vs USD
 PPP 222.
 
 [Source](https://www.givedirectly.org/wp-content/uploads/2019/11/General-Equilibrium-Effects-of-Cash-Transfers.pdf)
 
-**Definition**: checks out
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
@@ -4693,12 +4007,10 @@ PPP 222.
 consumption later in life, and thus do increase growth to an extent.
 
 **re-write Claim**: Some RD health interventions "seem to" increase
-earnings later in life
+earnings "later in life".
 
-**Subject**: Increase in earnings, after said RD health intervention,
-after a few years (>4 years).
-
-**Predicate**: is there.
+**re-write Claim**: Some health interventions increase after 4 years
+of start of intervention.
 
 **Example-sub**: 
 
@@ -4708,6 +4020,8 @@ grants."
 
 An increase of 41% compared to those who did not receive the grants,
 after 4 years of receiving one-time grants.
+
+[Source](https://www.givedirectly.org/research-on-cash-transfers/)
 
 **Definition**: checks out.
 
@@ -4721,31 +4035,28 @@ after 4 years of receiving one-time grants.
 be a top priority for proponents of RD.
 
 **re-write Claim**: evaluating effect size of the increase in earnings
-due to RD interventions is "trivial"
+due to RD interventions is "trivial".
 
 **re-write Claim**: evaluating effect size of the increase in earnings
-due to RD interventions is not "trivial"
+due to RD interventions is not "trivial".
 
 **re-write Claim**: evaluating effect size "triviality" should be top
 priority.
 
-skip woosnum. I don't think I am going to get far.
-
-I tried to do sumpin abut it.
-
-Later maybe
+**Failed**
 
 ---
 
 <!-- july 25th -->
 
-**Claim**: There is "weak evidence" for health improving growth.
+**Claim**: However, the evidence for health causing growth is weak and
+the effect is small.
 
-**Time**: 30-40 mins already and 0 info later. ++ 40 mins to read
-paper and see what in the hell this "weak evidence" could mean.
+**Time**: 1.5 hrs to read paper and see what in the hell this "weak
+evidence" could mean.
 
-**re-write Claim**: There is weak correlation (<0.5) for life
-expectancy and GDP per capita across countries
+**re-write Claim**: There is weak correlation (\<0.5) for life
+expectancy and GDP per capita across countries.
 
 **Example-sub**: 
 
@@ -4759,12 +4070,12 @@ Correlation of 0.81.
 
 **Time**: 5 mins
 
-**re-write Claim**: Change in life expectancy vs change in gdp has
-weak correlation (<0.5)
+**re-write Claim**: Change in life expectancy vs change in GDP has
+weak correlation (\<0.5).
 
 **Example-sub**: 
 
-R^2 value is 0.5 => Correlation = 0.7
+R^2 value is 0.5 =\> Correlation = 0.7
 
 [Source: pg 636](https://cpb-us-w2.wpmucdn.com/sites.brown.edu/dist/1/24/files/2018/10/Chapter-3-Health-and-Economic-Growth_2014_Handbook-of-Economic-Growth-1u57nzx.pdf) 
 
@@ -4777,9 +4088,11 @@ R^2 value is 0.5 => Correlation = 0.7
 **Note**: For the rest of it this "weak evidence" is not understood as
 the author uses some theoretical frame work to suggest there is "weak
 causal evidence" (not strong evidence of a weak effect) between health
-and gdp per capita. I skip that.
+and GDP per capita. I skip that.
 
 ---
+
+<!-- start here -->
 
 > Independently of this, we do not believe that the vast majority of
 > RD interventions are plausibly among the top 100 ways to increase
@@ -4788,7 +4101,13 @@ and gdp per capita. I skip that.
 > capita:[14]
 
 **Claim**: The vast majority of RD interventions are plausibly not
-among the top 100 ways to increase growth
+among the top 100 ways to increase growth.
+
+**Note**: Don't' know where such a tier list exists. 
+
+**Note**: There is a way to compare RD intervention that has evidence
+of increasing income, and "growth accelerations" in GDP per
+capita. This is dealt with towards the far end of this excercise.
 
 **Claim**: It is implausible that direct funding of the following
 interventions is the best way to increase GDP per capita such as
@@ -4797,16 +4116,17 @@ malaria bednets, cash transfers etc...
 **re-write Claim**: Best way to increase GDP per capita is not through
 malaria bednets or cash transfers.
 
-**Note**: The author refers to another [link](https://www.cgdev.org/blog/your-impact-evaluation-asking-questions-matter-four-part-smell-test), where it suggests 4
-tests to identify if X is an "important determinant" of economic
-growth. The following are the tests in "**re-write
-Claim**'s"
+**Note**: The author refers to another [link](https://www.cgdev.org/blog/your-impact-evaluation-asking-questions-matter-four-part-smell-test) for the above claim,
+where it suggests 4 tests to identify if X is an "important
+determinant" of economic growth. The following are the tests in
+"**re-write Claim**'s".
 
 **re-write Claim**: Developed countries have more cash transfers
 than less developed countries.
 
 **Example-sub**: 
 
+*More developed countries vs less developed countries:*
 
 | Country     | GDP per capita | Population |
 |-------------|----------------|------------|
@@ -4815,14 +4135,14 @@ than less developed countries.
 
 
 Netherlands has unemployment benefits (a form of cash transfer by the
-govt.) for the unemployed where it pays 70% of the salary
-(avg. salary=36.5k EUR). In 2018 there was an unemployment rate of
-3.5%. Assuming 1% of the unemployed got the benefits, this amounts to
-`17mx3.5%x70%x36.5kEURx1%`=200m USD
+govt.) for the unemployed (for a certain period) where it pays 70% of
+the salary (avg. salary=36.5k EUR). In 2018 there was an unemployment
+rate of 3.5%. Assuming 1% of the unemployed got the benefits, this
+amounts to `17mx3.5%x70%x36.5kEURx1%`=200m USD.
 
 Regarding Kenya, GiveDirectly managed to pump only [32m](https://www.givedirectly.org/financials/) in cash
-transfers. This seems to be the only monetary aid they get. There are
-[no unemployment benefits](https://africapay.org/kenya/labour-laws/social-security-1/unemployment-benefits) (insurance) or other ways to get
+transfers. This seems to be the only monetary aid they get. There seem
+to be [no unemployment benefits](https://africapay.org/kenya/labour-laws/social-security-1/unemployment-benefits) (insurance) or other ways to get
 benefits in Kenya.
 
 **Definition**: Checks out. 
@@ -4836,7 +4156,7 @@ hard)
 than they did in ~~1870~~ 1900s.
 
 **Example-sub**: Assuming population increase as a proxy for cash
-transfers increase
+transfers increase.
 
 For Netherlands, Population in 1900s was 5m. Today it is at 17m.
 
@@ -4848,29 +4168,37 @@ For Netherlands, Population in 1900s was 5m. Today it is at 17m.
 
 **Time**: 45mins (finding the proxy and looking up info)
 
-**re-write Claim**: Cash transfers were part of developmental success
+**re-write Claim**: Cash transfers were part of "developmental success"
 from the 1950s
+
+**Failed** 
 
 **re-write Claim**: Cash transfers were part of "rapid development" of
 countries and no "slow development" of countries.
 
+**Failed** 
+
 ---
 
-The reason these things (RD interventions) are unlikely to be the best
-way to increase growth is that they play no role in the causal story
-of the huge differences in GDP per capita across space and time.
+> The reason these things (RD interventions) are unlikely to be the best
+> way to increase growth is that they play no role in the causal story
+> of the huge differences in GDP per capita across space and time.
+
+**Claim**: unlikely to be the best way to increase growth.
 
 **Claim**: they (RD interventions) play no role in the causal story of
 the huge differences in GDP per capita across space and time.
 
 **re-write Claim**: Interventions backed by RCTs are not the
-reason why China rose to power
+reason why China rose to power.
 
-**re-write Claim**: It is not possible for healthcare expenditure alone to create the
-massive rise in GDP since 1990s
+**re-write Claim**: It is not possible for healthcare expenditure
+alone to create the massive rise in GDP since 1990s.
 
 **re-write Claim**: Healthcare expenditure per capita as a percentage
-of GDP per capita decreases since 1990s
+of GDP per capita decreases since 1990s.
+
+**Failed?**
 
 **Example-sub**: 
 
@@ -4890,18 +4218,14 @@ of GDP per capita decreases since 1990s
 
 **Checklist**: False; sub; Yes; pre; Yes; ecm; Yes;
 
----
-
-<!-- july 26th -->
-
-**re-write Claim**: Healthcare expenditure per capita vs gdp per
-capita is poorly/negatively correlated for China
+**re-write Claim**: Healthcare expenditure per capita vs GDP per
+capita is poorly/negatively correlated for China.
 
 **Example-sub**: 0.99 correlation
 
 [Source](https://ourworldindata.org/grapher/healthcare-expenditure-vs-gdp?country=~CHN)
 
-**Definition**: does not check out.
+**Definition**: Does not check out.
 
 **Checklist**: False; sub; Yes; pre; Yes; ecm; Yes;
 
@@ -4911,10 +4235,8 @@ measurable ones)
 **Note**: Don't know how else to check if RD interventions were not
 the reason or not for GDP increase. 
 
----
-
-**re-write Claim**: Vaccinations poorly or negatively with GDP per
-capita for China
+**re-write Claim**: Vaccinations poorly or negatively correlate with
+GDP per capita for China.
 
 **Example-sub**: 0.77 correlation
 
@@ -4943,10 +4265,10 @@ capita for China
 Ugandans because they have implemented direct programmatic efforts of
 this kind to a greater extent.
 
-**re-write Claim**: Danish people are better off than Ugandans
+**re-write Claim**: Danish people are better off than Ugandans.
 
 **re-write Claim**: Danish people have a higher GDP per capita than
-Ugandans
+Ugandans.
 
 **Example-sub**: 
 
@@ -4962,7 +4284,7 @@ Ugandans: 1.9k USD
 **Time**: 5 mins
 
 **re-write Claim**: Danish people have higher life expectancy than
-Ugandans
+Ugandans.
 
 **Example-sub**: 
 
@@ -4981,14 +4303,16 @@ Ugandans: 62 years in 2015
 **re-write Claim**: Danish people investment in direct interventions
 is similar to Ugandan investments for a given population.
 
-Unless and Until I have a way to measure direct interventions, I am
+Unless and Until I have a way to measure "direct interventions", I am
 not going to get anywhere. When I first read this... I sided with the
 author initially. But the baseline starting point is not the same for
-both the countries. I mean econ dev is insanely hard.
+both the countries. I mean dev econ is insanely hard science. I try to
+measure "investment in direct interventions" with "healthcare
+expenditure".
 
 **re-write Claim**: Healthcare expenditure per capita for Danish
 people has been of similar order compared to Ugandans since 1950
-atleast
+atleast.
 
 **Example-sub**: 
 
@@ -5058,7 +4382,7 @@ half of the 20th century, no-one argues that this was because they
 engaged in more interventions of this type.
 
 **re-write Claim**: There were huge Life expectancy increases in
-China, Indonesia, Vietnam, Singapore, South Korea and Hong Kong
+China, Indonesia, Vietnam, Singapore, South Korea and Hong Kong.
 
 **re-write Claim**: Life expectancy gains are greater than 20 years
 from 1950 to now.
@@ -5115,13 +4439,43 @@ expenditure per capita as a % of GDP per capita decreases or stays constant.
 > assistance” (only slightly ahead of one person each naming “illegal
 > activity” and “winning the lottery”).
 
-**Claim**: The role of direct programmatic assistance in explaining the variance
-in economic outcomes is mirrored in surveys of people who have moved
-out of poverty.
+**Claim**: The role of direct programmatic assistance in explaining
+the variance in economic outcomes is mirrored in surveys of people who
+have moved out of poverty.
+
+**re-write Claim**: Role of interventions in improving incomes of
+people out of poverty (1.9 USD/day) is poor.
+
+**re-write Claim**: Average income before intervention is \<1.9 USD/day
+and after intervention is still less than \<1.9 USD/day.
+
+**Example-sub**: 
+
+For the Graduation Programme cited here to "bring people out of
+poverty" ([Source: Table 1](http://www.econ.yale.edu/~cru2/pdf/Science-2015-TUP.pdf)), in Pakistan people with salary of
+\<1.74 USD/day were accepted.
+
+**Note**: Assuming consumption if higher, then income is higher.
+
+ Non-durable annual consumption "as a result of the program per
+household" = 451 USD PPP. Assuming 2 people even per household, this
+becomes `451/365/2=0.61$` PPP per day.
+
+[Source: Table 4](http://www.econ.yale.edu/~cru2/pdf/Science-2015-TUP.pdf)
+
+**Definition**: We see that consumption does not increase to \>1.94
+USD/day. Checks out if consumption as proxy, is accepted.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Time**: 15 mins.
+
+---
 
 **re-write Claim**: According to surveys of people "who moved out of
-poverty", % denoted to NGOs help in getting people "out of poverty" is
-low by atleast 1 order of magnitude.
+poverty", % change denoted to NGOs help in getting people "out of
+poverty" compared to the peoples' own effort more than 1 order
+smaller.
 
 **Example-sub**: 
 
@@ -5130,20 +4484,20 @@ people ranked level of living of households today and their level 10
 years ago. This identified 4k households that "moved out of poverty"
 were asked what is the primary reason they got out of poverty.
 
-60.1% was denoted as due to individual initiative
-0.3% was denoted as due to NGO assistance
-(3.4% was denoted as dues to functioning of government)
+60.1% was denoted as due to individual initiative. 0.3% was denoted as
+due to NGO assistance (3.4% was denoted as dues to functioning of
+government).
 
 [Source: pg7](https://www.cgdev.org/sites/default/files/alleviating-global-poverty-labor-mobility-direct-assistance-and-economic-growth.pdf)
 
-**Definition**: 2 orders smaller
+**Definition**: 2 orders smaller.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
 **Time**: 20 mins. (reading the paper to see if there is more info)
 
-**Note**: the author already notes that this is subject to all the
-subjectivity biases.
+**Note**: The author already notes that this is subject to all sorts
+of subjectivity biases. Nevertheless presents it. 
 
 ---
 
@@ -5156,20 +4510,9 @@ same as above.
 named “NGO assistance” (only slightly ahead of one person each naming
 “illegal activity” and “winning the lottery”).
 
-**Example-sub**: 
-
-Attributed to "NGO assistance" was 0.3%. 0.3% out of 4000 people
-surveyed = 12
-
-**Definition**: doesn't check out.
-
-**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
-
-**Time**: 5 mins
+**Note**: Above is not a claim.
 
 ---
-
-<!--Post lunch -->
 
 > It is true that there might be biases at play here that may cause
 > under-reporting of NGO assistance as a cause of escape from
@@ -5183,7 +4526,7 @@ surveyed = 12
 > interventions have played a very small role in escape from poverty.
 
 **Claim**: There might be biases at play here that may cause
-under-reporting of NGO assistance as a cause of escape from poverty
+under-reporting of NGO assistance as a cause of escape from poverty.
 
 **re-write Claim**: There are biases at play (that may cause
 under-reporting of NGO assistance).
@@ -5191,34 +4534,30 @@ under-reporting of NGO assistance).
 **Failed**
 
 **Claim**: People may naturally want to attribute their success
-to their own hard work, even if NGOs did play a role
+to their own hard work, even if NGOs did play a role.
 
 **Failed**
 
-**Claim**: impact of some NGOs may be difficult to see, even for
+---
+
+**Claim**: Impact of some NGOs may be difficult to see, even for
 beneficiaries.
 
 **re-write Claim**: Impact of NGOs might be hard to see for
 beneficiary.
 
-For this you would need actual "impact" and "impact" according to the
-beneficiary and compare them for a particular intervention.
-
-I don't know how to answer this. So the aim is to show that measuring
-"impact" is already hard for people in Science. Hence the results from
-folks might not be trust worthy.
-
 **re-write Claim**: Determining the impact of NGOs needs a lot of
-people to cooperate
+people to cooperate and time.
 
 **Example-sub**: 
 
-*Impact of NGOs:* Increase in average annual harvest value increases
+*Impact of NGOs:* Increase in average "annual harvest value" increases
 by 76 USD for people provided with free ITNs (Insecticide Treated
-Nets)
+Nets).
 
 *People*: In addition to the people performing and analyzing the
-survey, data from 516 farmers over 1 year was required.
+survey, data from 516 farmers over 1 year was required to determine
+the impact.
 
 [Source: GiveWell](https://www.givewell.org/international/technical/programs/insecticide-treated-nets)
 
@@ -5230,12 +4569,21 @@ survey, data from 516 farmers over 1 year was required.
 
 **re-write Claim**: Determining the impact of NGOs has other issues as well.
 
-**Example-sub**: In the same study seen above, it turns out that there
-is a "baseline imbalance" between treatment and control groups, which
-GiveWell thus views as "weak".
+**Example-sub**: 
 
-**Definition**: Checks out? I am almost positive STM is going to be
-unhappy with this one.
+In the same study seen above, it turns out that there is a "baseline
+imbalance" between treatment and control groups, which GiveWell thus
+views as "weak".
+
+[Source: GiveWell](https://www.givewell.org/international/technical/programs/insecticide-treated-nets)
+
+**Definition**: Checks out?
+
+**Note**: I am almost positive STM is going to be unhappy with this
+one as I merely quoted someone saying something, like I did in the
+earlier practice sessions. But I want to rely on the shoulders of
+Giants otherwise it takes too much time. I could go into the paper and
+find out what exactly that meant and how much the "imbalance" was.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
@@ -5244,12 +4592,27 @@ unhappy with this one.
 ---
 
 **Claim**: Most people may not be able to notice the substantial
-effect of salt iodization or the Green Revolution on their lives
+effect of salt iodization or the Green Revolution on their lives.
 
 **re-write Claim**: Noticing the effect of salt iodization on ones
 life is hard.
 
-**Failed** Don't know how to proceed.
+**re-write Claim**: It is not possible to notice the effect of salt
+iodization or Green Revolution.
+
+**Example-sub**: 
+
+Well. If you get Goiter you can know that your iodine intake is not
+correct. Similarly if your crop makes [10 times when using IR8 yields](https://www.bbc.com/news/world-asia-india-38156350)
+vs "traditional varieties".
+
+**Definition**: False. 
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**Failed**?
+
+---
 
 **Claim**: Nonetheless, this survey does suggest that direct funding
 of RCT-backed interventions have played a very small role in escape
@@ -5265,9 +4628,9 @@ people ranked level of living of households today and their level 10
 years ago. This identified 4k households that "moved out of poverty"
 were asked what is the primary reason they got out of poverty.
 
-60.1% was denoted as due to individual initiative
-0.3% was denoted as due to NGO assistance
-(3.4% was denoted as dues to functioning of government)
+60.1% was denoted as due to individual initiative. 0.3% was denoted
+as due to NGO assistance (3.4% was denoted as dues to functioning of
+government).
 
 [Source: pg7](https://www.cgdev.org/sites/default/files/alleviating-global-poverty-labor-mobility-direct-assistance-and-economic-growth.pdf)
 
@@ -5291,11 +4654,11 @@ interventions turned out to be the best way to increase growth
 (especially given that they were not recommended on that basis in the
 first place).
 
-discussed before.
+**Note**: discussed before and **Failed**.
 
-**Claim**: High correlation between growth and welfare
+**Claim**: High correlation between growth and welfare metric.
 
-**Example-sub**: 0.95 as per 2007 data
+**Example-sub**: 0.95 as per 2007 data.
 
 [Source: Figure 7 and pg 2449](http://klenow.com/Jones_Klenow.pdf)
 
@@ -5314,17 +4677,12 @@ discussed before.
 > a range of factors including: Growth-friendly policies, Geography,
 > Natural resources, Human Capital, Culture.
 
-**Claim**: RCT-backed interventions do no seem to explain much of the
+**Claim**: RCT-backed interventions do not seem to explain much of the
 cross-national variation in GDP per capita.
 
 so far "RCT-backed interventions" was being measured with estimates on
-"health expenditure" and I don't know what "explain" means. They do
-have a strong (>0.7) correlation. So I don't know what the author was
-talking about.
-
-I am unsure how to see this through.
-
-I don't know how to measure RCT-backed interventions
+"health expenditure". They do have a strong (\>0.7) correlation. So I
+don't know what the author was talking about. 
 
 **Failed**
 
@@ -5336,14 +4694,13 @@ resources, Human Capital, Culture.
 cross-national variation in GDP per capita.
 
 **re-write Claim**: "[Trade liberalization](https://www.investopedia.com/terms/t/trade-liberalization.asp)" explains the
-cross-national variation in GDP per capita
+cross-national variation in GDP per capita.
 
-Assuming Trade Liberalization can be measured by
-"trade openness", we can look at trade openness and GDP per capita
-within EU.
+Assuming Trade Liberalization can be measured by "trade openness", we
+can look at trade openness index and GDP per capita within EU.
 
 **re-write Claim**: EU countries Trade Openness Index is strongly
-correlated with GDP per capita
+correlated with GDP per capita.
 
 **Example-sub**: 
 
@@ -5361,7 +4718,7 @@ correlated with GDP per capita
 | Portugal       | 85.20%     | 27.7                          |
 
 
-Correlation: 0.3.
+Out of countries in EU, correlation: 0.3.
 
 Source: [GDP per capita](https://ourworldindata.org/grapher/average-real-gdp-per-capita-across-countries-and-regions?country=NLD~DEU~SWE~ESP~FRA~GBR~ITA~BEL~POL~PRT), [Trade Openness Index](https://ourworldindata.org/grapher/trade-as-share-of-gdp?tab=chart&country=NLD~FRA~GBR~DEU~ESP~ITA~SWE~BEL~POL~PRT)
 
@@ -5370,40 +4727,15 @@ Source: [GDP per capita](https://ourworldindata.org/grapher/average-real-gdp-per
 **Checklist**: False; sub; Yes; pre; Yes; ecm; Yes;
 
 **Time**: 2hrs (very hard to focus. I had no belief that I was going
-to even come to a conclusion with this claim. Struggled like hell to
-go from "Growth-friendly policies" to something measurable. I guess I
-was looking for things like certain trade policies that led to X
-amount of GDP before and after...)
+to even come to an example with this claim. Struggled like hell to go
+from "Growth-friendly policies" to something measurable. I guess I was
+looking for things like certain trade policies that led to X amount of
+GDP before and after. In the end ended up with TDI.)
 
 ---
 
-**re-write Claim**: Geography explains the cross-national variation in
-GDP per capita
-
-**Note** We saw earlier that TDI poorly (0.3) correlated with GDP per
-capita. The paper cited about geography in "our world in data" is what
-the following claim is based on.
-
-**re-write Claim**: "Actual trade share" is strongly (>0.7) correlated with
-"constructed trade share"
-
-"constructed trade share" is a metric that factors in proximity of
-different countries, countries size, area etc...
-
-**Example-sub**:  Actual trade share and constructed trade share are
-correlated with a value of 0.62
-
-[Source](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.89.3.379)
-
-**Definition**: does not check out
-
-**Checklist**: False; sub; Yes; pre; Yes; ecm; Yes;
-
-**Time**: 45 mins (reading paper trying to understand what variables
-to use)
-
 **re-write Claim**: Geography explains cross-national variation in GDP
-per capita
+per capita.
 
 **Example-sub**: 
 
@@ -5423,13 +4755,12 @@ per capita
 | Denmark        | 136              | 45.1                  |
 | Greece         | 70               | 24.6                  |
 
-Has a correlation of 0.24 out of the selected countries
+Has a correlation of 0.24 out of the selected countries.
 
+- [Market potential](https://www.oecd.org/norway/42506177.pdf) is a measure of proximity of one country to
+another.
 
-[Market potential](https://www.oecd.org/norway/42506177.pdf) is a measure of proximity of one country to
-another
-
-[GDP pet capita 2016](https://ourworldindata.org/grapher/average-real-gdp-per-capita-across-countries-and-regions?country=NLD~USA~AUS~DNK~GRC)
+- [GDP pet capita 2016](https://ourworldindata.org/grapher/average-real-gdp-per-capita-across-countries-and-regions?country=NLD~USA~AUS~DNK~GRC)
 
 **Definition**: Does not check out.
 
@@ -5439,19 +4770,17 @@ another
 
 ---
 
-<!-- July 28 -->
-
 **re-write Claim**: Natural Resources explains the cross-national variation in
-GDP per capita
+GDP per capita.
 
 **re-write Claim**: Oil production (measured in terawatt-hour (TWh)
-equivalents per year) is strongly correlated with GDP per capita
+equivalents per year) is strongly correlated with GDP per capita.
 
 **Note**: Do not have single charts "Our World In Data" so just going
 to look at some countries.
 
-**re-write Claim**: Oil production is higher for "most" countries with
-higher GDP per capita
+**re-write Claim**: Countries with higher oil production, have higher
+GDP per capita.
 
 **Example-sub**: 
 
@@ -5475,11 +4804,13 @@ higher GDP per capita
 
 **Time**: 25mins (Looking at data and copying values)
 
+---
+
 **re-write Claim**: Human capital explains the cross-national variation in
-GDP per capita
+GDP per capita.
 
 **re-write Claim**: Human Capital Index is strongly correlated with
-GDP per capita
+GDP per capita.
 
 **Example-sub**: 
 
@@ -5496,14 +4827,14 @@ GDP per capita
 ---
 
 **re-write Claim**: Culture explains the cross-national variation in
-GDP per capita
+GDP per capita.
 
-Like how do you measure "culture". am not sure. I can literally
-interpret it as anything. Woman's rights? Transport accidents? Wafers?
-Waste?  Vaccination? working hours.
+**Note**: Like how do you measure "culture". am not sure. I can literally
+interpret it as anything. Woman's rights? Transport accidents? 
+Waste? Vaccination? working hours? etc...
 
-**re-write Claim**: number of working hours correlates with GDP per
-capita
+**re-write Claim**: Number of working hours correlates with GDP per
+capita.
 
 **Example-sub**: 
 
@@ -5529,57 +4860,72 @@ capita
 > increase GDP per capita should be a top priority for effective
 > altruists.
 
-**Claim**: Within growth-friendly policies generally, some hits-based forms of RD
-may be promising
+**Claim**: Within growth-friendly policies generally, some hits-based
+forms of RD may be promising.
 
 **re-write Claim**: Within policies that seem to increase GDP per
 capita, there exists some "hits-based" interventions that could save
 millions of lives.
 
 **re-write Claim**: Green revolution producing large amounts of food
-and the steep increase in GDP per capita happen within 5years
+and the steep increase in GDP per capita, happen within 5years of each
+other.
+
+**re-write Claim 1**: Time of producing enough food for the country and
+never before seen slopes in GDP per capita increase, happen within 10
+years of each other.
 
 **Example-sub**: The "seeds" for increasing the yield in [Mexico
 started in 1941](https://histphil.org/2016/02/08/a-practitioners-history-of-the-green-revolution/) by investment in researching and spreading
-techniques to improve yield which seems to have led to them in 1956
-producing enough food to feed the country.
+techniques to improve yield which seems to have led to them in *1956
+producing enough food to feed the country*.   
 
 At 1962 point we observe the GDP per capita starting to soar to never
-before seen slopes from [2k USD to 14k USD today](https://ourworldindata.org/grapher/maddison-data-gdp-per-capita-in-2011us?tab=chart&country=~MEX) (in roughly 70
-years.)
+before seen slopes from [as shown here](https://ourworldindata.org/grapher/maddison-data-gdp-per-capita-in-2011us?tab=chart&country=~MEX) (in roughly 70 years).
 
-**Definition**: checks out.
+**Note**: I am aware the "slope part" is not well defined.
+
+**Definition**: checks out. 
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-**Time**: 67mins+30 mins (coming to this claim and reading about the
-GR was taking time)
+**Failed** "never before seen slopes"
 
-**re-write Claim**: Green Revolution is a high-risk-high-reward
-intervention
+**Time**: 67mins+30 mins (coming to this claim and reading about the
+Green revolution was taking time)
+
+---
+
+**re-write Claim 2**: Green Revolution is a high-risk-high-reward
+intervention.
 
 **Example-sub**: At the time in 1950, people didn't seem to know about
 the effects this would have on inequal growth in the country (rich get
 richer poor get poorer). 
 
-"Development practitioners now have a better understanding of the
-conditions under which the Green Revolution and similar
-yield-enhancing technologies are likely to have equitable benefits
-among farmers"
+"Development practitioners now (after decades from 1956) have a better
+understanding of the conditions under which the Green Revolution and
+similar yield-enhancing technologies are likely to have equitable
+benefits among farmers".
 
-**Definition**: "checks out" I guess!!!
+**Definition**: checks out?
+
+**Failed**
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-**Time**: 15 mins. Building on the previous claim
+**Time**: 15 mins. 
 
-**re-write Claim**: There exist high-risk-high-reward interventions
-that saved millions of lives.
+**re-write Claim 3**: There exist interventions that saved millions of
+lives (proxy for "high-reward").
 
-**re-write Claim**: the Green Revolution improved poverty greatly (???
-modify)
+**re-write Claim**: 2 decades after Mexico was able to satisfy their
+own needs for food, the global poverty dropped despite an increase in
+population.
 
 **Example-sub**: 
+
+Year in which Mexico was able to manage its own needs for food: 1962
 
 "The absolute number of poor people fell from 1.15 billion in 1975 to
 825 million in 1995 despite a 60 percent increase in population. In
@@ -5590,18 +4936,18 @@ then declined steadily to about one-third of the rural population by
 
 **Definition**: checks out.
 
+**Note**: Could be done better, but not sure how atm.
+
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-**Time**: 30 mins (damn was it hard to see where these claims of
-saving billions of lives were coming from. Spent most time trying to
-find evidence for it).
+**Time**: 30 mins (finding evidence)
 
 ---
 
-**Claim**: the Green Revolution was a form of randomista development
+**Claim**: The Green Revolution was a form of randomista development.
 
 **re-write Claim**: Improving yield of crops involved experiments with
-Rice hybrids
+Rice hybrids.
 
 **Example-sub**: 
 
@@ -5618,40 +4964,45 @@ varieties from China, Taiwan and Indonesia.
 and rose to almost 10 tons with 120 kg of nitrogen per hectare. That
 was 10 times the traditional rice yield."
 
+[Source](https://www.bbc.com/news/world-asia-india-38156350)
+
 **Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-**Time**: 30 mins (checking on RCTs and trying to come to a
-claim that can be tested)
+**Time**: 30 mins (checking for RCTs and trying to come to a claim
+that can be tested)
 
-**Claim**: correlation between educational performance and GDP per capita
+---
 
-**re-write Claim**: Small percent of people have a score above 400 is
-observed in developing regions compared to developed countries
+**Claim**: Correlation between educational performance and GDP per capita.
+
+**re-write Claim**: Small percent of people having a score above 400,
+is observed in developing regions compared to developed countries
+(GDPPC \>40k USD).
 
 **Example-sub**: 
 
-| Country     | % above score 400 | GDP per capita >40k or NOT |
+| Country     | % above score 400 | GDP per capita \>40k or NOT |
 |-------------|-------------------|----------------------------|
 | Netherlands | 95%               | Yes                        |
 | Ghana       | 40%               | No                         |
 
 [Source: based on Fig 8](http://documents1.worldbank.org/curated/en/885051468141302837/pdf/395110Edu1Quality1Economic1Growth.pdf) 
 
-**Definition**:
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
 **Time**: 45 mins (finding something that can translate to educational
-performance and reading the ee)
+performance and reading the)
 
 ---
 
 **Claim**: Scaling up RCT-backed educational interventions would
-increase GDP per capita
+increase GDP per capita.
 
-"would" "Future" skip
+"would" "Future" skip. **Failed**
 
 ---
 
@@ -5659,7 +5010,7 @@ increase GDP per capita
 the most cost-effective way to increase GDP per capita should be a top
 priority for effective altruists
 
-"should" "opinion poll types?"
+"should" "opinion poll types?" **Failed**
 
 ---
 
@@ -5670,33 +5021,24 @@ priority for effective altruists
 >
 > - Infrastructure spending   
 > - Economic liberalization (Hong Kong, China)  
-> - Trade liberalisation (India)   
+> - Trade liberalization (India)   
 > - Export-led development and state  
 > - protection of industry (South Korea, China)  
 
 **Claim**: Many of the most promising growth-friendly policies cannot
-be tested by RCTs
+be tested by RCTs.
 
 **re-write Claim**: ~~most~~ Trade Liberalization policy change in
-India cannot be tested by RCTs
-
-For starters you need a control country which is "similar", "
-
-there is no country similar to India w.r.t gdp per capita and
-population
-
-even similarity in states within India is tough to achieve
-
-Many variations happen for example, we can have floods this year... population
+India cannot be tested by RCTs.
 
 **Note**: For RCTs, Ideally you need a control group almost exactly as
 same as India. Let's call it India\*. Then you want administer the
-policy intervention to India and do nothing to India\* and compare the
-differences. But where are we going to get India\*? 
+policy intervention to India and keeping the rest same for India\* and
+compare the differences. But where are we going to get India\*?
 
 **re-write Claim**: (checking for similar baselines), No country is
 similar to India atleast in terms of population and GDP per capita
-(together)
+(together).
 
 **Example-sub**: 
 
@@ -5709,44 +5051,39 @@ Capita is 5 times larger than that of India.
 
 **Time**: 30 mins (spent time on coming up with what to test)
 
-However.
-
 **re-write Claim**: Interventions can be "RCT tested" within a country
 by comparing "similar" groups of villages and administering
 interventions to one of them.
 
-I would like to test one part of "RCT tested". Ability to randomly
-select the treatment and control villages.
+**Note**: I would like to test then, one part of "RCT tested": Ability
+to randomly select the treatment and control villages.
 
 **re-write Claim**: [Randomization](https://www.verywellmind.com/internal-and-external-validity-4584479#:~:text=Internal%20validity%20is%20the%20extent,alternative%20explanations%20for%20a%20finding.) (random allocation of treatment
 and control groups) is achievable while testing effects of
-interventions on the income of people in villages
+interventions on the income of people in villages.
 
-**Subject**: Randomization, when measuring the income growth of people
-upon a certain intervention 
-
-**Predicate**: was achieved
-
-**Example-sub**: 
+**Example-sub**:
 
 In [section 1.3 of this paper](https://www.givedirectly.org/wp-content/uploads/2019/11/General-Equilibrium-Effects-of-Cash-Transfers.pdf), which informs the measures of
 income growth of households upon cash transfer intervention, we see
 that they randomized the allocation of treatment, control, "high
-saturation" and "low saturation" to 653 villages.
+saturation" and "low saturation" with 653 villages.
 
-**Definition**: checks out
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
 **Time**: 30 mins atleast (very hard identifying "RCT-tested")
 
-**Claim**: impact of growth-friendly policies is not outside the realm
-of empirical investigation
+---
+
+**Claim**: Impact of growth-friendly policies is not outside the realm
+of empirical investigation.
 
 **re-write Claim**: GDP per capita increase compared to TDI is not
-outside the realm of empirical investigation
+outside the realm of empirical investigation.
 
-**re-write Claim**: TDI correlates with GDP per capita
+**re-write Claim**: TDI correlates with GDP per capita weakly (\>0.2).
 
 **Example-sub**: 
 
@@ -5778,21 +5115,19 @@ Source: [GDP per capita](https://ourworldindata.org/grapher/average-real-gdp-per
 
 **re-write Claim**: There are papers that write about the causation of
 GDP per capita due to increase in Trade, based on existing data and
-"modeling"
+"modeling".
 
 **Example-sub**: 
 
 [This paper](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.89.3.379): "Does Trade Cause Growth?"
 
-**Definition**: checks out
+**Definition**: checks out.
+
+**Failed**?
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
 **Time**: 10mins 
-
-<!-- 5 claims today I think we are at 150 -->
-
-<!-- aug 1st fuck! -->
 
 > “... [Development] is fundamentally a process of social
 > transformation—markets (and their supporting institutions and
@@ -5806,19 +5141,20 @@ GDP per capita due to increase in Trade, based on existing data and
 > reliably attribute development to specific organizations (and doing so
 > may, in and of itself, cause less effectiveness).”[17]
 
-**Claim**: Development is a process of social transformation
+**Claim**: Development is a process of social transformation.
 
-**Claim**: Markets are social mechanisms
+**Claim**: Markets are social mechanisms.
 
-**Claim**: Governments are social mechanisms 
+**Claim**: Governments are social mechanisms.
 
 **Claim**: This social process of national development reliably
 produces higher human well-being in every dimension.
 
-**re-write Claim**: giveup
+**Note**: Not checking every dimension but just one.
 
-**re-write Claim**: There is increase in life expectancy over the last
-50 years for the entire world
+**re-write Claim**: All the shit that has happened so far, has
+increased the life expectancy over the last 50 years for the entire
+world.
 
 **Example-sub**: 
 
@@ -5826,7 +5162,7 @@ Life Expectancy has increased from 1966 until 2015, going up all the time.
 
 [Source](https://ourworldindata.org/grapher/life-expectancy?time=1966..2015&country=~OWID_WRL).
 
-**Definition**: 
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
@@ -5836,38 +5172,38 @@ it. translation to **Re-Write Claim**: was hard)
 ---
 
 **Claim**: No one can reliably and rigorously demonstrate exactly
-which actions best promote development
+which actions best promote development.
 
-**re-write Claim**: give up
+**Failed**
 
 **Claim**: No one can reliably attribute development to specific
 organizations.
 
-**re-write Claim**: give up
+**Failed**
 
-> This should lead us to be sceptical about RD. Growth is arguably the
+> This should lead us to be skeptical about RD. Growth is arguably the
 > major driver of human progress, but proponents of RD rarely argue that
 > the interventions that they recommend do increase growth.
 
 **Claim**: We have to be skeptical about RD causing increase in GDP
-per capita
+per capita.
 
-"advice?" "have to" "should"
+**Failed** "advice?" "have to" "should"
 
-**re-write Claim**: Cash Transfers increase GDP per capita
+**re-write Claim**: Cash Transfers increase GDP per capita.
 
 **re-write Claim**: Recipients of cash transfers have ~~significantly~~
-higher total expenditure
+higher total expenditure.
 
 **Example-sub**: 1000 USD was delivered to 10,500 households across
 328 villages in Siaya, Kenya.
 
-Expenditure has increased by USD PPP 293 (11.5% increase) 18 months
-after the start of transfers.
+Expenditure has increased by USD PPP 293 per year (11.5% increase) 18
+months after the start of transfers.
 
 [Source](https://www.givedirectly.org/wp-content/uploads/2019/11/General-Equilibrium-Effects-of-Cash-Transfers.pdf)
 
-**Definition**: checks out
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes; 
 
@@ -5875,14 +5211,14 @@ after the start of transfers.
 
 ---
 
-**Claim**: Growth is arguably the major driver of human progress
+**Claim**: Growth is arguably the major driver of human progress.
 
-**re-write Claim**: gdp per capita is the major driver of human
-progress ~~than others~~
+**re-write Claim**: GDP per capita is the major driver of human
+progress ~~than others~~.
 
-**Note**: I guess I could compare it with interventions, but that is difficult
+**Note**: I guess I could compare it with interventions, but that is difficult.
 
-**re-write Claim**: Log GDP per capita is strongly correlated (>0.7)
+**re-write Claim**: Log GDP per capita is strongly correlated (\>0.7)
 with many objective and subjective measures of welfare.
 
 **Example-sub**: 
@@ -5905,7 +5241,7 @@ with many objective and subjective measures of welfare.
 
 ---
 
-**Claim**: proponents of RD rarely argue that the interventions that
+**Claim**: Proponents of RD rarely argue that the interventions that
 they recommend do increase growth.
 
 **re-write Claim**: GiveWell top charity blog posts do not have the
@@ -5914,7 +5250,7 @@ words "GDP" or "econom" in them.
 **Example-sub**: 
 
 [Malaria consortium](https://www.givewell.org/charities/malaria-consortium) blog post doesn't have "GDP" or "econom" when
-searched for and neither does [AMF](https://www.givewell.org/charities/amf)
+searched for and neither does the one on [AMF](https://www.givewell.org/charities/amf).
 
 **Definition**: Checks out.
 
@@ -5923,12 +5259,12 @@ searched for and neither does [AMF](https://www.givewell.org/charities/amf)
 **Time**: 7 mins
 
 **re-write Claim**: GiveWell Cost-effectiveness estimates do not have
-the words "GDP" or "econom" in them
+the words "GDP" or "econom" in them.
 
 **Example-sub**: 
 
-GiveWell 2019 Cost-effectiveness Analysis, does not have the words
-"GDP" or "econom". 
+GiveWell [2019 Cost-effectiveness Analysis](https://docs.google.com/spreadsheets/d/1zLmPuddUmKsy3v55AfG_e1Quk-ngDdNzW-FDx0T-Y94/edit#gid=472531943), does not have the
+words "GDP" or "econom".
 
 **Definition**: Checks out.
 
@@ -5936,26 +5272,26 @@ GiveWell 2019 Cost-effectiveness Analysis, does not have the words
 
 **Time**: 7 mins.
 
-<!-- 5 so far -->
+---
 
 ### Excursus on kinky poverty lines
 
 > RD might look like a plausibly effective way to reduce poverty,
 > because of ‘kinky poverty lines’[18] — which define “extreme poverty”
-> as living on less than $1.90 per day, and then do not measure progress
+> as living on less than `$`1.90 per day, and then do not measure progress
 > above that level. On this poverty line, directly funding RCT-backed
-> aid could ‘pull people out of poverty’. Globally, around $180bn is
-> spent on aid per year—roughly $500 million per day. There are 500
+> aid could ‘pull people out of poverty’. Globally, around `$`180bn is
+> spent on aid per year—roughly `$`500 million per day. There are 500
 > million people who are extremely poor. Assuming that all the extreme
-> poor have $1 per day already, we could eradicate extreme poverty
+> poor have `$`1 per day already, we could eradicate extreme poverty
 > through cash transfers.
 
 **Claim**: RD might look like a plausibly effective way to reduce
-poverty, because of ‘kinky poverty lines’
+poverty, because of ‘kinky poverty lines’.
 
 **re-write Claim**: RD interventions could be an effective way to
 reduce poverty, if we use poverty line definition of "less than 1.9
-USD a day"
+USD a day".
 
 **Note**: based on the example the author gives, it appears he is
 checking if we can get eradicate poverty if we use the 1.9 USD per
@@ -5963,7 +5299,7 @@ day poverty line.
 
 **re-write Claim**: Available aid minus Aid (without losses in cash
 transfer) required to increase the income of below poverty line people
-to above poverty line, is >0
+to above poverty line, is \>0.
 
 **Example-sub**: 
 
@@ -5975,11 +5311,11 @@ transfers."
 
 - Assuming a 1`$` per day already with the poor people and no losses
 in cash transfer of the aid reaching people. 700mn people are below
-poverty as of 2015. So we have `700mn x 1$x 365 = 255bn`
+poverty as of 2015. So we have `700mn x 1$x 365 = 255bn`.
 
-- Total Available Aid per year amounts to [180bn](https://forum.effectivealtruism.org/posts/bsE5t6qhGC65fEpzN/growth-and-the-case-against-randomista-development#Excursus_on_kinky_poverty_lines)`$`
+- Total Available Aid per year amounts to [180bn](https://forum.effectivealtruism.org/posts/bsE5t6qhGC65fEpzN/growth-and-the-case-against-randomista-development#Excursus_on_kinky_poverty_lines)`$`.
 
-- 180bn-255bn is negative
+- 180bn-255bn is negative.
   
 **Definition**: Does not check out.
 
@@ -5991,7 +5327,7 @@ throwing me off.)
 
 ---
 
-**Claim**: RD do not measure progress above that level
+**Claim**: RD do not measure progress above that level.
 
 **re-write Claim**: One of the goals of UN is to reduce to zero people
 living under 1.25 `$` per day.
@@ -6000,7 +5336,7 @@ living under 1.25 `$` per day.
 
 "By 2030, eradicate extreme poverty for all people everywhere,
 currently measured as people living on less than $1.25 a day"
----[UN](https://www.un.org/sustainabledevelopment/poverty/)
+---[UN](https://www.un.org/sustainabledevelopment/poverty/).
 
 **Definition**: checks out.
 
@@ -6013,31 +5349,29 @@ poverty.
 
 **re-write Claim**: Available aid minus Aid (without losses in cash
 transfer) required to increase the income of below poverty line people
-to above poverty line, is >0
+to above poverty line, is \>0
 
 Done earlier.
 
 ---
 
-**Claim**: We could eradicate poverty through cash transfers
+**Claim**: We could eradicate poverty through cash transfers.
 
 **re-write Claim**: Available aid minus Aid (without losses in cash
-transfer) required to increase the income of below poverty line people
-to above poverty line, is >0
+	transfer) required to increase the income of below poverty line
+	people to above poverty line, is \>0.
 
 Done earlier.
 
 ---
 
-**Claim**: 500 million people are extremely poor in the world
+**Claim**: 500 million people are extremely poor in the world.
 
 **re-write Claim**: 500m people are earning less than 1.9 USD/day.
 
 **Example-sub**: 
 
 According to [OWID](https://ourworldindata.org/grapher/world-population-in-extreme-poverty-absolute), it is 700m people as of 2015. 
-
-([projected 2030 people](https://ourworldindata.org/uploads/2019/11/Extreme-Poverty-projection-by-the-World-Bank-to-2030-786x550.png) in poverty is 500m)
 
 **Definition**: Doesn't check out.
 
@@ -6047,11 +5381,11 @@ According to [OWID](https://ourworldindata.org/grapher/world-population-in-extre
 
 ---
 
-> But this would raise their income by around $1 per day. And someone
-> on $2 per day is still very poor even if they are above the kinky
-> $1.90 threshold. Indeed, this poverty line is discriminatory and
+> But this would raise their income by around `$`1 per day. And someone
+> on `$`2 per day is still very poor even if they are above the kinky
+> `$`1.90 threshold. Indeed, this poverty line is discriminatory and
 > would never be used for citizens in a high-income country: in the
-> US, the poverty line is $17 per day.[19] There is no reason that
+> US, the poverty line is `$`17 per day.[19] There is no reason that
 > such thresholds should not apply to people outside high-income
 > countries. On this more expansive definition of poverty, it is very
 > difficult for direct funding of programmatic aid to lift people out
@@ -6086,10 +5420,10 @@ power.)
 
 ---
 
-**Claim**: Poverty line is discriminatory
+**Claim**: Poverty line is discriminatory.
 
 **re-write Claim**: ratio of Poverty line in high-income countries and the
-international poverty line is >10 times.
+international poverty line is \>10 times.
 
 **Example-sub**: 
 
@@ -6122,7 +5456,7 @@ amounts to 33.3`$` per day.
 
 [Source](https://en.wikipedia.org/wiki/Poverty_in_the_United_States#Poverty_thresholds)
 
-**Definition**: checks out
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
@@ -6183,7 +5517,7 @@ variation in poverty at all poverty lines.
 
 **re-write Claim**: R^2 value of non-linear fit 'Median consumption'
 vs 'Headcount Poverty rate' across countries with Median Annual
-consumption <8000 USD, for different poverty lines (1.9, 3.2 and
+consumption \<8000 USD, for different poverty lines (1.9, 3.2 and
 5.5`$`), is greater than 90%.
 
 **Example-sub**: 
@@ -6210,7 +5544,7 @@ income~~ across different countries predicts the headcount poverty
 rate, at any poverty line.
 
 **re-write Claim**: Linear R^2 value of Aid amount vs headcount poverty rate
-across countries is <50%, at 1.9`$` poverty line.
+across countries is \<50%, at 1.9`$` poverty line.
 
 **Note**: I could have used non-linear fits and then made R^2, but as of now I don't
 know how to do it.
@@ -6235,7 +5569,7 @@ poverty rate and compute the linear R2 value.
 
 Aid amount vs head count poverty rate has an R2 value of 0.4%.
 
-**Definition**: checks out
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
@@ -6306,10 +5640,10 @@ these targeted poverty programmes conditional on the median account
 for at the very most 1.2 percent of the total cross-national variation
 in poverty rates.
 
-**re-write Claim**: (Differences across the "country/years")[1] in the
-("impact of interventions")[2], "conditional on (the median
-account)[3]", at most explains 1.2% of the "(total cross-national
-variation in poverty rates)[4]".
+**re-write Claim**: Differences across countries in poverty headcount
+rate ~~in the impact of these targeted poverty programmes~~, accounts
+for 1.2% of total cross national variation in headcount poverty rate,
+when median consumption is held constant.
 
 **Note**: I tried reading that part of the [paper](https://d101vc9winf8ln.cloudfront.net/documents/32264/original/RCTs_and_the_big_questions_10000words_june30.pdf?1565974982), and they
 mention 1.2% and they don't seem to have a proper citation. They have
@@ -6318,21 +5652,15 @@ from. Pg12.
 
 **Failed**
 
-**re-write Claim**: [1] in Poverty headcount rate due to
-~~interventions~~ when median consumption is held constant, accounts
-for 1.2% of [4].
-
 **Example-sub**:
 
-[1] @ median consumption of 1000 units for 1.9`$` poverty line -->
-20 to 35% = 15% 
+Differences across countries in poverty headcount rate @ median
+consumption of 1000 units for 1.9`$` poverty line --\> 20 to 35% = 15%.
 
 **Example-pred**:
 
-[4] is 100% as countries vary in poverty rates are from roughly 0 to
-100%
-
-1.2% of [4] is 1.2%
+Total cross national variation in headcount poverty rate is 100% as
+countries vary in poverty rates are from roughly 0 to 100%.
 
 [Source: Figure 3](https://d101vc9winf8ln.cloudfront.net/documents/32264/original/RCTs_and_the_big_questions_10000words_june30.pdf?1565974982)
 
@@ -6342,32 +5670,30 @@ for 1.2% of [4].
 
 **Time**: 2 hrs
 
-However, if we look at the "impact of interventions", then they pretty
-much attack countries with high poverty rate > 0.35 (Kenya, Liberia
-cash transfers). So, 
+**Note**: However, if we look at the "impact of targeted poverty
+programmes", then they pretty much attack countries with high poverty
+rate \> 0.35 (Kenya, Liberia cash transfers). Factoring this into the
+following claim.
 
-**re-write Claim**: [1], in poverty headcount rate (when poverty
-headcount rate is higher than 35%), when median consumption is held
-constant, accounts for 1.2% of [4].
-
+**re-write Claim**: Differences across countries in poverty headcount
+rate accounts for 1.2% of total cross national variation in headcount
+poverty rate, when poverty headcount rate is higher than 35% and
+median consumption is held constant.
 
 **Example-sub**:
 
-[1] @ median consumption of 750 units (where poverty rate is > 35%)
-for 1.9`$` poverty line is between roughly 50 and 53% --> = 3%
+Differences across countries in poverty headcount rate @ median
+consumption of 750 units (where poverty rate is \> 35%) for 1.9`$`
+poverty line is between roughly 50 and 53% --\> = 3%.
 
 **Example-pred**:
 
-[4] is 100% as countries vary in poverty rates are from roughly 0 to
-100%
-
-1.2% of [4] is 1.2%
+Total cross national variation in headcount poverty rate is 100% as
+countries vary in poverty rates are from roughly 0 to 100%.
 
 [Source: Figure 3](https://d101vc9winf8ln.cloudfront.net/documents/32264/original/RCTs_and_the_big_questions_10000words_june30.pdf?1565974982)
 
-**Definition**: Doesn't check out. 3% != 1.2% (might be due to errors
-in reading the graph, don't have data. Is this what the author is
-talking about???)
+**Definition**: Doesn't check out. 3% != 1.2%
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
@@ -6387,14 +5713,14 @@ doesn't vary too much (15% max). But this variation at a given
 consumption is lower (around 3% max) for poverty rates in the order of
 35 to 50%, which is where Give Directly does its cash transfers
 intervention. So if we look at a median consumption around 750 units
-in the same graph [Figure 3](https://d101vc9winf8ln.cloudfront.net/documents/32264/original/RCTs_and_the_big_questions_10000words_june30.pdf?1565974982), then we see <5%
+in the same graph [Figure 3](https://d101vc9winf8ln.cloudfront.net/documents/32264/original/RCTs_and_the_big_questions_10000words_june30.pdf?1565974982), then we see \<5%.
 
 **re-write Claim**: Differences in headcount poverty rate observed at a
-constant median annual consumption of 750 units is <20%
+constant median annual consumption of 750 units is \<20%.
 
 **Example-sub**: 
 
-At 750 units of median consumption, we see that the heacount poverty
+At 750 units of median consumption, we see that the headcount poverty
 rate of line 1.9`$` is less than 5%.
 
 **Definition**: checks out.
@@ -6438,26 +5764,26 @@ very modest compared (to the gains from growth)[3].
 
 **Note**: These are some of the most convoluted sentences I have ever
 seen.  After half an hour of pondering over this sentence, I think I
-get it... I think "relative to [1]" and then "compared to [3]" which
-seems to mean the same thing. There are also typos (closure of
-brackets missing) which make me wonder what sort of publication this
-is. I suspect this "paper" was proof read.
+get it... I think "relative to [1]" and then "compared to [3]" seems
+to mean the same thing. There are also typos (closure of brackets
+missing) which make me wonder what sort of publication this is. I
+suspect this "paper" was even proof read.
 
 **re-write Claim**: Relative to [1], [2] of the poverty headcount
 rate, compared to changes in poverty headcount rate when median
-consumption changes, is very modest (>10%).
+consumption changes, is very modest (\>10%).
 
 **Example-sub**: 
 
-insert figure 3 from [here](https://d101vc9winf8ln.cloudfront.net/documents/32264/original/RCTs_and_the_big_questions_10000words_june30.pdf?1565974982).
+![figure3-pritchet](./images/claims/figure3-pritchet.png)
 
-[1] --> If median annual consumption changes from 0 to 8000 units then
-headcount poverty rate goes from 100% to 0%
+[1] --\> If median annual consumption changes from 0 to 8000 units then
+headcount poverty rate goes from 100% to 0%.
 
-[2] --> At any median annual consumption, for 1.9`$` poverty line, the
+[2] --\> At any median annual consumption, for 1.9`$` poverty line, the
 variation of headcount poverty rate is at max 15%.
 
-changes in poverty headcount rate when median consumption changes -->
+changes in poverty headcount rate when median consumption changes --\>
 It seems to be the same as [1]. 
 
 **Definition**: Checks out that [2] is modest based on the empirical
@@ -6467,38 +5793,36 @@ evidence.
 
 **Time**: 40 mins
 
+<!-- 4 so far. -->
+
+<!-- This was really hard. Jesus. -->
+
 ---
 
-**Note**: Back to blogpost
+**Note**: Back to blogpost.
 
 > This is not to say that decreasing inequality is not important: as we
 > saw above, inequality can have large effects on a country’s welfare
 > per person.
 
 **Claim**: inequality can have large effects on a country's welfare
-per person
+per person.
 
-**re-write Claim**: GINI index is strongly (>abs(0.7)) correlated with
-GDP per capita
+**re-write Claim**: GINI index is strongly (\>abs(0.7)) correlated with
+GDP per capita.
 
 **Example-sub**: 
 
-In 2013 the correlation between GINI index and log GDP per capita is -0.6
+In 2013 the correlation between GINI index and log GDP per capita is -0.6.
 
 [Source](https://ourworldindata.org/grapher/gdp-per-capita-vs-economic-inequality?zoomToSelection=true&minPopulationFilter=1000000)
 
-**Definition**: Doesn't check out
+**Definition**: Doesn't check out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
 **Time**: 15 mins (getting data and finding the parameter to check
 with)
-
----
-
-<!-- 4 so far. -->
-
-<!-- This was reallly hard. Jesus. -->
 
 ---
 ## Success of development era
@@ -6535,7 +5859,7 @@ From 0 to 1800, GDP per annum increase by 1tn.
 > development economics. However, the end of the Second World War
 > marked the start of what Pritchett calls the ‘development era’ with:
 >
-> - The end of colonisation with the liberation of India, Pakistan and
+> - The end of colonization with the liberation of India, Pakistan and
 >   Indonesia  
 > - The founding of the Bretton Woods institutions - the IMF and the
 >   World Bank  
@@ -6546,7 +5870,7 @@ From 0 to 1800, GDP per annum increase by 1tn.
 
 **Claim**: Until 1800 average human welfare was stagnant.
 
-**re-write Claim**: Until 1800 World GDP per annum was <2 tn USD.
+**re-write Claim**: Until 1800 World GDP per annum was \<2 tn USD.
 
 **Example-sub**: 
 
@@ -6567,11 +5891,11 @@ Before 1820, World GDP per annum was 1.2tn for over 1800 years.
 **Claim**: After industrial revolution, living standards exploded.
 
 ~~**re-write Claim**: World GDP annum increase from 1840 to 1940
-(industrial revolution was much larger (>10 times) than GDP per annum
+(industrial revolution was much larger (\>10 times) than GDP per annum
 increase from 1740 to 1840~~
 
 **re-write Claim**: World GDP per annum after 100 years after 1840 was
-10 times greater than 100 years before 1840
+10 times greater than 100 years before 1840.
 
 **Example-sub**: 
 
@@ -6579,15 +5903,15 @@ GDP per annum at 1940: ~9.25tn`$`
 
 GDP per annum at 1740: ~750bn`$`
 
-=> \> 10 times
+=\> \> 10 times
 
-**Definition**: checks out
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
 **Time**: 5 mins.
 
-**Feedback**: rewrote claim during 2nd read through. 
+**note to self**: rewrote claim during 2nd read through.
 
 ---
 
@@ -6597,16 +5921,16 @@ GDP per annum at 1740: ~750bn`$`
 economics.
 
 **re-write Claim**: Industrial revolution preceded the green
-revolution
+revolution.
 
 **re-write Claim**: 1760-1840 preceded the Mexican Agricultural
-program
+program.
 
 **Example-sub**: 
 
-1712: Invention of steam engine
+1712: Invention of steam engine.
 
-1943: Mexican agricultural program begins---[wiki](https://www.sourcewatch.org/index.php/Timeline_of_the_Green_Revolution#:~:text=1953%3A%20Norman%20Borlaug%20receives%20semi,the%20term%20%22Green%20Revolution.%22)
+1943: Mexican agricultural program begins---[wiki](https://www.sourcewatch.org/index.php/Timeline_of_the_Green_Revolution#:~:text=1953%3A%20Norman%20Borlaug%20receives%20semi,the%20term%20%22Green%20Revolution.%22).
 
 **Definition**: Checks out.
 
@@ -6618,10 +5942,10 @@ program
 
 **Claim**: the end of the Second World War marked the start of what
 Pritchett calls the ‘development era’ with The end of colonization
-with the liberation of India, Pakistan and Indonesia
+with the liberation of India, Pakistan and Indonesia.
 
 **re-write Claim**: End of second World War preceded the start
-liberation of India, Pakistan and Indonesia
+liberation of India, Pakistan and Indonesia.
 
 **re-write Claim**: Year in which Germany and Japan surrendered to
 Allies (WW2) preceded the year of independence of India, Pakistan.
@@ -6642,7 +5966,7 @@ Allies (WW2) preceded the year of independence of India, Pakistan.
 
 **Claim**: the end of the Second World War marked the start of what
 Pritchett calls the ‘development era’ with founding of Bretton Woods
-Institutions
+Institutions.
 
 **re-write Claim**: Year in which Germany and Japan surrendered to
 Allies (WW2) and the year of founding of the Bretton Woods
@@ -6654,7 +5978,7 @@ Institutions was within 1 year.
 
 1944: [Year of founding of the Bretton Woods Institutions](https://www.brettonwoodsproject.org/2019/01/art-320747/#:~:text=The%20Bretton%20Woods%20Institutions%20are,Hampshire%2C%20USA%20in%20July%201944.&text=The%20creation%20of%20the%20World,of%20the%20Second%20World%20War.)
 
-**Definition**: checks out
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
@@ -6664,7 +5988,7 @@ Institutions was within 1 year.
 
 **Claim**: the end of the Second World War marked the start of what
 Pritchett calls the ‘development era’ with Truman’s Four Point plan to
-provide technical assistance to developing countries
+provide technical assistance to developing countries.
 
 **re-write Claim**: Year in which Germany and Japan surrendered to
 Allies (WW2) preceded the Trumans inaugural address on plan for
@@ -6677,7 +6001,7 @@ developing countries.
 1949: [Inaugural Address of Truman's four point program](https://en.wikipedia.org/wiki/Point_Four_Program#:~:text=The%20Point%20Four%20Program%20was,objective%20mentioned%20in%20the%20speech.) for developing
 countries
 
-**Definition**: checks out
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
@@ -6687,7 +6011,7 @@ countries
 
 **Claim**: The end of the Second World War marked the start of what
 Pritchett calls the ‘development era’ with Overall a concerted effort
-by economists and sovereign states to increase development[21]
+by economists and sovereign states to increase development[21].
 
 ~~**re-write Claim**: Year in which Germany and Japan surrendered to
 Allies (WW2) was few years within when the Mexican agricultural
@@ -6718,10 +6042,10 @@ Institution.
 > growth), or vertically down from the diagonal line (meaning that
 > they had negative growth).
 
-**Claim**: The development era was a huge success
+**Claim**: The development era was a huge success.
 
 **re-write Claim**: GDP per capita per annum increase from 0 to 1950
-was 5 times smaller than 1950 to 2010
+was 5 times smaller than 1950 to 2010.
 
 **Example-sub**: 
 
@@ -6745,10 +6069,10 @@ was 5 times smaller than 1950 to 2010
 measures by more than all prior human history combined.[22]
 
 **Note**: Instead of doing all objective measures, we just look at
-Life expectancy
+Life expectancy.
 
 **re-write Claim**: Life expectancy of world increase from 1770 to 1950, was smaller
-than 1950 to 2010
+than 1950 to 2010.
 
 **Example-sub**: 
 
@@ -6758,9 +6082,9 @@ than 1950 to 2010
 
 - 2010: 69.5 years
 
-- 1770 to 1950 --> 18.8 years in 180 years
+- 1770 to 1950 --\> 18.8 years in 180 years
 
-- 1950 to 2010 --> 22 years in 60 years.
+- 1950 to 2010 --\> 22 years in 60 years.
 
 [Source](https://ourworldindata.org/grapher/life-expectancy?time=1770..2015&country=~OWID_WRL)
   
@@ -6804,14 +6128,14 @@ Around 9 countries have had negative growth since 1950.
 
 **Claim**: It is important to note that the development era was not
 all plain sailing and that there have been some major growth
-deceleration's
+deceleration's.
 
 **re-write Claim**: It is important to note that the dev era was not
 all plain sailing.
 
-important???
+**Note**: important? how to deal with this?
 
-**re-write Claim**: Dev era was not all plain sailing
+**re-write Claim**: Development era was not all plain sailing.
 
 **re-write Claim**: There have been some major growth deceleration's.
 
@@ -6820,7 +6144,7 @@ important???
 
 **Example-sub**: 
 
-Zimbabwe, Democratic Republic of congo, Central African Republic,
+Zimbabwe, Democratic Republic of Congo, Central African Republic,
 Burundi, Niger etc... all have ratios of 2010 GDP per capita vs 1950
 GDP per capita as less than 1.
 
@@ -6839,13 +6163,13 @@ overwhelmingly positive.
 
 **re-write Claim**: Ratio of countries with positive GDP per capita
 per annum growth and negative GDP per capita per annum decrease is
-\>10, for period 1950 to 2010
+\>10, for period 1950 to 2010.
 
 **Example-sub**: 
 
-atleast 110 countries with net positive GDP per capita
+Atleast 110 countries with net positive GDP per capita.
 
-9 countries with net negative GDP per capita
+9 countries with net negative GDP per capita.
 
 [Source](https://ourworldindata.org/uploads/2020/01/Scatter-1950-vs-2016-GDP-1-2048x2048.png)
 
@@ -6887,7 +6211,7 @@ countries are 2x richer since 1950 in terms of GDP per capita.
 
 [Source](https://ourworldindata.org/uploads/2020/01/Scatter-1950-vs-2016-GDP-1-2048x2048.png)
 
-**Definition**: checks out
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
@@ -6899,7 +6223,7 @@ countries are 2x richer since 1950 in terms of GDP per capita.
 accelerate this process globally, and replicate previous successes.
 
 **Note**: Unsure how to test "best course of action" and "accelerate
-process globally", "replicate previous successes"
+process globally", "replicate previous successes".
 
 **failed**
 
@@ -6909,7 +6233,7 @@ process globally", "replicate previous successes"
 for improving our knowledge of growth and the likelihood of policy
 success. 
 
-**Note**: How to test "X makes the case for Y"
+**Note**: How to test "X makes the case for Y".
 
 **failed**
 
@@ -6920,7 +6244,7 @@ success.
 
 **Example-sub**: 
 
-Zimbabwe, Democratic Republic of congo, Central African Republic,
+Zimbabwe, Democratic Republic of Congo, Central African Republic,
 Burundi, Niger etc... All have ratios of 2010 GDP per capita vs 1950
 GDP per capita as less than 1.
 
@@ -6940,10 +6264,10 @@ GDP per capita as less than 1.
 > by far the greatest progress in human welfare of all time, this change
 > in strategy is difficult to justify.
 
-**Claim**: RD has moved in an entirely different direction
+**Claim**: RD has moved in an entirely different direction.
 
 **re-write Claim**: RD is not trying to replicate what happened from
-1950 to 2010
+1950 to 2010.
 
 **re-write Claim**: GiveWell does not recommend any intervention which
 involves "trade liberalization".
@@ -6964,10 +6288,10 @@ Deworming and malaria.
 **Time**: 15 mins (*Struggled* to find a way to test "what happened
 from 1950 to 2010")
 
-**re-write Claim**: RD trying to do other things instead
+**re-write Claim**: RD trying to do other things instead.
 
 **re-write Claim**: GiveWell recommends interventions on Deworming and
-malaria
+malaria.
 
 **Example-sub**: GiveWell's top recommended charities are Malaria
 consortium, Deworming The World etc...
@@ -6982,17 +6306,17 @@ consortium, Deworming The World etc...
 
 ---
 
-**Claim**: RD doing other things is difficult to justify
+**Claim**: RD doing other things is difficult to justify.
 
 **re-write Claim**: Deworming the world has no clear evidence on GDP
-per capita
+per capita.
 
 **re-write Claim**: Deworming The World has no clear evidence on being
 the best way to increase GDP per capita.
 
 
 **re-write Claim**: Deworming the world does not improve long term
-income (let alone GDP per capita)
+income (let alone GDP per capita).
 
 **Note**: If Deworming The World does not improve "long-term" income
 then, we can say that the author of the blog post "finds it difficult
@@ -7009,7 +6333,7 @@ improves the long term income.
 we no longer believe that these studies provide substantial support
 for the theory that deworming has long-term impacts. "---[GiveWell](https://www.givewell.org/international/technical/programs/deworming)
 
-**Definition**: checks out
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; **NO**;
 
@@ -7023,7 +6347,7 @@ use it to inform the presence of weak evidence).
 > GiveWell’s top charities, Deworm the World is estimated to offer the
 > most cost-effective way to improve economic outcomes for the very
 > poor. But given the story above, it would be very surprising if this
-> was the case: differences in rates of deworming explain a miniscule
+> was the case: differences in rates of deworming explain a minuscule
 > fraction of the variation in individual economic outcomes across the
 > world. No-one argues that deworming is among the top 1000 causes of
 > the huge economic transformation documented above.
@@ -7031,13 +6355,13 @@ use it to inform the presence of weak evidence).
 ^^ is arguably the hardest paragraph to do this excercise.
 
 **Claim**: It is interesting to compare "this" progress with the
-estimated effect of Deworming
+estimated effect of Deworming.
 
-**re-write Claim**: Estimated increase in gdp per capita from 2000 to
-2010 is 1000 times higher than estimated gdp per capita as a result of
+**re-write Claim**: Estimated increase in GDP per capita from 2000 to
+2010 is 1000 times higher than estimated GDP per capita as a result of
 Deworming.
 
-**Note**: I could make an estimate on gdp per capita if I had an
+**Note**: I could make an estimate on GDP per capita if I had an
 estimate on the income gains. But reading the paper for income gains
 was "hard". and the paper is being ["disqualified"](https://www.givewell.org/international/technical/programs/deworming) as evidence by
 GiveWell. Not sure how to proceed as a result. Also, there re no
@@ -7065,7 +6389,7 @@ compared to "cash" transfers).
 
 [CE estimate](https://docs.google.com/spreadsheets/d/1zLmPuddUmKsy3v55AfG_e1Quk-ngDdNzW-FDx0T-Y94/edit#gid=472531943)
 
-**Definition**: checks out
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
@@ -7073,15 +6397,15 @@ compared to "cash" transfers).
 
 ---
 
-**Claim**: it would be very surprising if "differences in rates of
-deworming explain a miniscule fraction of the variation in individual
+**Claim**: It would be very surprising if "differences in rates of
+deworming explain a minuscule fraction of the variation in individual
 economic outcomes across the world."
 
-**Note**: Not sure how to test --> "It would be surprising"?
+**Note**: Not sure how to test --\> "It would be surprising"?
 
 **Failed**
 
-**re-write Claim**: Differences in rates of deworming explain a miniscule
+**re-write Claim**: Differences in rates of deworming explain a minuscule
 fraction of the variation in individual economic outcomes across the
 world.
 
@@ -7126,7 +6450,7 @@ The part with Deworming The World was really painful.
 **Claim**: Growth is a major determinant of human welfare today.
 
 **re-write Claim**: GDP per capita is strongly correlated with
-"expanded welfare metric"
+"expanded welfare metric".
 
 **Example-sub**: 
 
@@ -7134,7 +6458,7 @@ The part with Deworming The World was really painful.
 
 [Source: Figure 7 pg 2451](http://klenow.com/Jones_Klenow.pdf)
 
-**Definition**: checks out
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
@@ -7163,13 +6487,13 @@ influencing policy, or the probability that you know better than
 policymakers, might be low enough to make the expected value of such
 work lower than RD.
 
-**re-write Claim**: Probability of "influencing policy" is less than 1%
+**re-write Claim**: Probability of "influencing policy" is less than 1%.
 
 **re-write Claim**: Expected cost-effectiveness of "work to influence
 policy" is lower than the expected cost-effectiveness of Graduation
 approach.
 
-**Note**:Didn't get far enough with the text
+**Note**:Didn't get far enough with the text.
 
 **Time**: 5 mins ("might", "expected costs", "probability")
 
@@ -7194,12 +6518,12 @@ extreme poverty via livelihood training, productive asset transfers,
 etc...
 
 **re-write Claim**: Average income for all countries in the
-Graduation program year graduation program is <1.9`$` PPP per day
+Graduation program year graduation program is \<1.9`$` PPP per day.
 
 **Example-sub**:
 
-For Pakistan the eligibility criteria is <1.74`$` PPP. But for
-Honduras the eligibility criteria seems to be <2.18`$` PPP per day
+For Pakistan the eligibility criteria is \<1.74`$` PPP. But for
+Honduras the eligibility criteria seems to be \<2.18`$` PPP per day
 (67.82`$`/31). For other countries, it's not even based on income.
 
 [Source: Table 1](http://www.econ.yale.edu/~cru2/pdf/Science-2015-TUP.pdf)
@@ -7212,13 +6536,13 @@ Honduras the eligibility criteria seems to be <2.18`$` PPP per day
 and extracting info from the papers.)
 
 **re-write Claim**: Average income after third year of graduation
-program is \>1.9`$` PPP per day
+program is \>1.9`$` PPP per day.
 
 **Note** Average income not available. So we look at consumption due
-to the program. If it is greater than 1.9`$` PPP per day
+to the program. If it is greater than 1.9`$` PPP per day.
  
 **re-write Claim**: Consumption per person "attributed to the
-program over the control" is > 1.9`$` PPP per day
+program over the control" is \> 1.9`$` PPP per day.
 
 **Example-sub**: 
 
@@ -7226,10 +6550,10 @@ Let's take Pakistan and in third year (one year after the stopping of
 the intervention):
 
 Non-durable annual consumption "as a result of the program per
-household" = 451 USD PPP
+household" = 451 USD PPP.
 
 Assuming 2 people even per household, this becomes `451/365/2=0.61$`
-PPP per day
+PPP per day.
 
 [Source: Table 4](http://www.econ.yale.edu/~cru2/pdf/Science-2015-TUP.pdf)
 
@@ -7266,7 +6590,7 @@ believe in citations or transparency).
 
 **Claim**: Thus, it seems fair to roughly assume that Malaria
 Consortium is around 3 times more cost-effective than the Graduation
-approach.)
+approach.
 
 **Note**: Not sure how to test "seems fair to assume something". If I remove
 that then it can be tested.
@@ -7327,7 +6651,7 @@ programme.
 
 **re-write Claim**: GDP per capita increase due to the "Black-box
 growth acceleration" is one order of magnitude higher than potential
-gdp per capita increase of graduation programme.
+GDP per capita increase of graduation programme.
 
 **Note**: The following example as given in blog post and elaborated
 by me the first time is a BIG FAIL for the above claim. Benefits are
@@ -7339,53 +6663,55 @@ claim so that atleast the example matches the claim.
 
 **re-write Claim**: GDP per capita increase due to "growth
 acceleration" from 1967 to 1980 (irrespective of the cost it took to
-get there), is one order of magnitude higher than potential GDP per
+get there), is one order of magnitude higher, than potential GDP per
 capita increase of graduation programme for a cost of 1bn `$`.
+
+**Note**: The above claim compares GDPPC increase in graduation
+programme for 1bn `$` and "black-box growth accelerations" (not per
+1bn `$`). This is what the author seems to be saying, and the
+following just tests that. I understand that this is a bullshit
+comparison.
 
 **Example-sub**:
 
-Potential gdp per capita increase of graduation programme in Ethiopia:
+- Potential GDP per capita increase of graduation programme in Ethiopia:
 
-- Dollars in benefit to cost ratio is 1.6 times on average. ([Table 4
+ - Dollars in benefit to cost ratio is 1.6 times on average. ([Table 4
   line 11](http://www.econ.yale.edu/~cru2/pdf/Science-2015-TUP.pdf))
 
-- Ethiopian population is 100 million.
+ - Ethiopian population is 100 million.
 
-- Investing 1billion USD will therefore *could* get a per capita increase of
-  16$ per year..
+ - Investing 1billion USD *could* get a per capita increase of 16`$` per
+  year.
 
-Whereas GDP per capita increase due to "black-box growth acceleration"
-in the past for Brazil in 1967
+- Whereas GDP per capita increase due to "black-box growth acceleration"
+in the past for Brazil in 1967.
 
-"Per capita gain per annum in NPV of GDP from a single large growth
-acceleration" = 551`$`  in Brazil around 1967 ([Table 4](https://www.sciencedirect.com/science/article/pii/S0264999316300311))
+ - "Per capita gain per annum in NPV of GDP from a single large growth
+acceleration" = 551`$` in Brazil around 1967 ([Table 4](https://www.sciencedirect.com/science/article/pii/S0264999316300311)).
 
-551/16 = 34 times
-
-??? Comeback
+- 551/16 = 34 times
 
 **Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-**time:** 10 mins
+**Time:** 10 mins
 
 **Note**: Picked up some claims from the paper (as below) while trying
 to understand the blogpost. 
 
-**Claim**: Growth accelerations happened in Brazil in 1967
+**Claim**: Growth accelerations happened in Brazil in 1967.
 
-"an acceleration in 1967 in which growth increased from 4.16 to 5.16
-ppa... These acceleration and deceleration years create four episodes
-of growth (1950–1967, 1967–1980, 1980–2002 and 2002–
+"an acceleration in 1967 (in Brazil) in which growth increased from
+4.16 to 5.16 ppa... These acceleration and deceleration years create
+four episodes of growth (1950–1967, 1967–1980, 1980–2002 and 2002–
 2010). "---[Section 2.4 on Brazil](https://www.sciencedirect.com/science/article/pii/S0264999316300311)
 
-But this is not good enough for us. So,
-
-**re-write Claim**: From 1950 to 1967 the "growth" was 4.16 ppa in Brazil
+**re-write Claim**: From 1950 to 1967 the "growth" was 4.16 ppa in Brazil.
 
 **re-write Claim**: From 1950 to 1967 the regression slope of log GDP
-per capita in Brazil vs years was 4.16% +-0.5%
+per capita in Brazil vs years was 4.16% +-0.5%.
 
 **Example-sub**: 
 
@@ -7393,59 +6719,55 @@ Using [data](https://ourworldindata.org/grapher/real-gdp-per-capita-PWT) from Ou
 from the data used in the [paper](https://www.sciencedirect.com/science/article/pii/S0264999316300311) (e.g., Figure 6 1968 value of GDP
 is 8.7 in Our World In Data and 8.35 in the paper):
 
-Slope of regression 3.86%
+Slope of regression 3.86%.
 
 **Definition**: checks out
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-**Time**: 
-
-**re-write Claim**: From 1967-1980 the the "growth" was 5.16 ppa in Brazil
+**re-write Claim**: From 1967-1980 the the "growth" was 5.16 ppa in Brazil.
 
 **re-write Claim**: From 1950 to 1967 the regression slope of log GDP
-per capita in Brazil vs years was 5.16% +-0.5%
+per capita in Brazil vs years was 5.16% +-0.5%.
 
 **Example-sub**: 
 
 Using [data](https://ourworldindata.org/grapher/real-gdp-per-capita-PWT) from Our World In Data:
 
-Slope of regression 5.01%
+Slope of regression 5.01%.
 
-**Definition**: checks out
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-**Time**: 
-
-**re-write Claim**: Growth accelerations happened in 1967
+**re-write Claim**: Growth accelerations happened in 1967.
 
 **re-write Claim**: Slope of regression between log GDP per capita vs
-years in Brazil increased from [1950-1967] and [1967-1980]
+years in Brazil increased from [1950-1967] and [1967-1980].
 
 **Note**: I didn't delve into how these year brackets come about. I
 assume the author has his reasons for now and roll with it.
 
 **Example-sub**:
 
-1950-1967 --> 3.86%
+1950-1967 --\> 3.86%
 
-1967-1980 --> 5.01%
+1967-1980 --\> 5.01%
 
-**Definition**: Checks out
+**Definition**: Checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
 **time**: -
 
-**Claim**: "Growth accelerations" end up with trillions of dollars NPV
+**Claim**: "Growth accelerations" end up with trillions of dollars NPV.
 
 **re-write Claim**: Growth increase in % compared to counterfactual in 1967
-over the entire growth period (using discount rate of 5%)
+over the entire growth period (using discount rate of 5%).
 
 **re-write Claim**: Net present Value in 1967 of Actual GDP per capita
 minus PRM GDP per capita for period [1967 to 1980] in Brazil is in
-trillions of dollars
+trillions of dollars.
 
 **Example-sub**: 
 
@@ -7456,23 +6778,23 @@ itself](https://www.sciencedirect.com/science/article/pii/S0264999316300311). No
 value for now.
 
 Net Present Value of Actual minus PRM is calculated as follows: 
-`$\sum_{n=1}^{n=22} \frac{1}{1+r^n} (GDP_{actual} - GDP_{PRM})$ ` 
+`$\sum_{n=1}^{n=22} \frac{1}{1+r^n} (GDP_{actual} - GDP_{PRM})$ `.
 
 This is in GDP per capita. If we multiply this with 88mn (population
 of Brazil in 1967), then we get +ve 1 tn USD.
 
-**Definition**: checks out
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
 **Time**:  10 mins
 
 **re-write Claim**: Loss of 7.5 trillion dollars from 1980 to 2002 for
-Brazil
+Brazil.
 
 **re-write Claim**: Net Present Value in 1980 of Actual GDP per capita
 minus PRM GDP per capita from 1980 to 2002 in Brazil is -ve 7.5 +-2
-trillion dollars
+trillion dollars.
 
 **Example-sub**: 
 
@@ -7483,16 +6805,16 @@ itself](https://www.sciencedirect.com/science/article/pii/S0264999316300311). No
 value for now.
 
 Net Present Value of Actual minus PRM is calculated as follows: 
-`$\sum_{n=1}^{n=22} \frac{1}{1+r^n} (GDP_{actual} - GDP_{PRM})$ ` 
+`$\sum_{n=1}^{n=22} \frac{1}{1+r^n} (GDP_{actual} - GDP_{PRM})$`. 
 
 This is in GDP per capita. If we multiply this with 120mn (population
 of Brazil in 1980), then we get -ve 6 tn USD.
 
-**Definition**: checks out
+**Definition**: checks out.
 
 **Checklist**: sub; Yes; pre; Yes; ecm; Yes;
 
-**Time**: 90 mins (tough one with piecing all th epieces together
+**Time**: 90 mins (tough one with piecing all the pieces together
 trying to split the claim etc...)
 
 **Claim**: Largest growth acceleration produce total benefits in the
@@ -7503,94 +6825,94 @@ have reproduced the growth rates and counterfactual I have assumed
 and next I want to move on to other things...
 
 
+<!-- ## Statistics -->
+
+<!-- **Claim**: Covariance is a way to tell us something that the -->
+<!-- individual measurements do not... -->
+
+<!-- **Claim**: Covariance can classify 3 types of relationships -->
+
+<!-- **Claim**: you will never calculate Covariance and be done for the -->
+<!-- day. -->
+
+<!-- **Claim**: Covariance is a computational stepping stone to correlation -->
+
+<!-- **Claim**: Slope of the relationship between Gene X and Gene Y is -->
+<!-- positive if Covariance is positive -->
+
+<!-- **Claim**: Covariance value does not tell us how steep the slope of -->
+<!-- the line is. -->
+
+<!-- **Claim**: Covariance doesn't tell us if the points are far away or -->
+<!-- close to the dotted line -->
+
+<!-- **Claim**: Covariance is hard to interpret??? -->
+
+<!-- changes with scale.. -->
+
+<!-- **Claim**: Sensitivity to the scale also prevents the covariance from -->
+<!-- telling us if the data are close to the dotted line or far from it. -->
+
+<!-- 20:02 https://www.youtube.com/watch?v=qtaqvPAeEJY -->
+
+
+<!-- **Claim**: Covariance for no trend is 0. -->
+
+<!-- **Claim**: Covariance for Gene X with itself is the same thing as the -->
+<!-- estimated variance for Gene X  -->
+
+<!-- **Claim**: correlation is not sensitive to scale of the data. -->
+
+
 ## Statistics
 
-**Claim**: Covariance is a way to tell us something that the
-individual measurements do not...
+**Time**: 166 hrs (roughly 2 months of work)
 
-**Claim**: Covariance can classify 3 types of relationships
+**Time/day**: 2.98 hrs
 
-**Claim**: you will never calculate Covariance and be done for the
-day.
+**Words**: 27k words
 
-**Claim**: Covariance is a computational stepping stone to correlation
+**Claims worked out with one example**: 209 
 
-**Claim**: Slope of the relationship between Gene X and Gene Y is
-positive if Covariance is positive
+<!-- ## Content to write on -->
 
-**Claim**: Covariance value does not tell us how steep the slope of
-the line is.
+<!-- my current essay on bottleneck -->
 
-**Claim**: Covariance doesn't tell us if the points are far away or
-close to the dotted line
+<!-- my essay on EA job todo -->
 
-**Claim**: Covariance is hard to interpret???
+<!-- MSJ article -->
 
-changes with scale..
+<!-- some black lives matters post? -->
 
-**Claim**: Sensitivity to the scale also prevents the covariance from
-telling us if the data are close to the dotted line or far from it.
+<!-- Corona post reuters article -->
 
-20:02 https://www.youtube.com/watch?v=qtaqvPAeEJY
+<!-- some trevor noah or john mayers? -->
 
+<!-- Passagge from HPMOR?  -->
 
-**Claim**: Covariance for no trend is 0.
+<!-- Randomista post? -->
 
-**Claim**: Covariance for Gene X with itself is the same thing as the
-estimated variance for Gene X 
+<!-- 80000hours about AI good suspect as you never get any example for this shit -->
 
-**Claim**: correlation is not sensitive to scale of the data.
+<!-- Elizer weightloss plan -->
 
-## todo
+<!-- How to integrate work related stuff? Feducial will work or not? PS -->
+<!-- part of Feducial? -->
 
-- recheck claims adn rec's and give notes to help with the translation (1x)
-- rate difficulty
-- check for signs of should would etc...
-- spell check 
-- check if the **Subject**: matches the claim for each and the
-  predicate too.
-- check for Dollar issues
-- insert figures by searching
+<!-- https://www.jefftk.com/p/coronavirus-and-rents -->
 
+<!-- https://forum.effectivealtruism.org/posts/hyisZr7n9fYTXx7g8/will-protests-lead-to-thousands-of-coronavirus-deaths -->
 
-fucking helll finally 200 is over... no over to corrections and
-sending it to an STM.
+<!-- TOI? -->
 
+<!-- STM articles?  hp how he picks up the different assumptions. -->
 
-## Questions
+<!-- STM EA for everyday one hr atleast is better. -->
 
-Do we answer "might, would could", "seems fair to roughly assume"?
+<!-- 80000hours recent podcast on AI -->
 
-RD might look like a plausibly effective way to reduce poverty
+<!-- Mental health claims by George. -->
 
-Do we look at calculations that lead to a probability?
+<!-- OPP ??? -->
 
-I don't understand example for predicate. **Claim**: avg income is
-greater than 1.9`$`
-
-Leaving out somethings that I don't understand in the such as "due to
-program"
-
-"It is important/interesting/surprising to note that the dev era was not all plain sailing" 
-
-How to answer this?
-
-what about things that involve calculations?
-
-## Note to STM
-
-- **re-write Claim**: are used to split claims or breakdown claims
-- Main claims are between "---" lines.
-- I miss PPP or what this USD dollars is in many places... Might not
-  change the outcome much but I am not clear on it and didn't bother
-  for now. 
-  
-- In someplaces I used actual correlatation as I realized I could do
-  it in calc. By that time I realized it I was quite far along and
-  several claims already done. Not redoing the claims for which I
-  don't have pnn
-  
-  - All becuase statements are skipped. **Claim**: 60 years of public
-health improvements since 1950 increase cross-national life expectancy
-on average by around 8 years.
-
+<!-- https://www.openphilanthropy.org/focus/global-health-and-development/science-for-global-health -->
