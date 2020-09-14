@@ -9,9 +9,57 @@ permalink: /:title.html
 published: true
 ---
 
-**Disclaimer:** If you are an org looking at my blog as a reflection
-of what I am capable of, please choose another post. This is very
-experimental and "incomplete" in parts.
+## STM feedback after essay
+
+Mr. Agent,
+
+I didn't see the lifetime impact of the data science path. What has
+been the growth rate of "impact" for the two career paths as people
+got promoted or started new ventures? What are you assuming it will
+be?
+
+Related: How many years of career are you assuming? That along with
+the growth rate would point to the lifetime "impact". That total would
+be a better indicator of the expected value of some gamble like
+Master's degree and H1B visa. For example, 8 years of a grind even
+starting at 30 may be worth the remaining 27 years of high pay
+compared to 35 years of what seems less risky but lower-paying.
+
+For how many years will you be allowed to work in a given country? Can
+you go back to Europe or is it back to India after that?
+
+> The probabilities are sub 50% for success in either cases. In case I
+> fail to make it to the US, I am stuck with very low ETG (5-10k).
+
+Also look at other options that may have a higher acceptance rate for
+permanent residency and work options, even if they have lower overall
+compensation. Canada, Australia, other European countries, etc. Also
+India.
+
+Then there's the cost of living in different places. For example,
+Seattle has pretty high salaries and lower cost of living than the Bay
+Area.
+
+In other words, when I hear "lifetime impact", I expect to see
+lifetime calculations. Doesn't have to be perfect, but has to consider
+the total career. A very crude one would be the total given some
+starting salary and some growth rate over X years of career. A more
+detailed one would be an average salary (or "impact") of X1 for 5
+years and X2 for the next 10 years and so on, and then calculating the
+sum over the career.
+
+> My plan is to roughly first move to DS ASAFP (3-6 months) and start
+> "clocking" DS hours on the side (9-5 job). I will spend the next few
+> years (0-5 years) focusing on gaining R skills, research skills
+> needed for EA and try my luck at breaking into EA "in a way that
+> creates a lot of impact". (It took 5 years for Peter Hurford to
+> start his own org.)
+
+What is the opportunity cost of doing the above mix vs data science
+full-time?
+
+Side note: Please avoid using rare abbreviations everywhere (such as
+GR or ETG).
 
 ## Entry question
 
@@ -159,7 +207,7 @@ on an L1.
 **Chances are low to make it in the US**
 
 There are random factors associated with working in US. Getting an H1B
-is based on lottery. Whether you are doing an L1 or Masters in the US
+is based on lottery. Whether you are doing an L1 or Masters in the US,
 you end up having to deal with H1B at some point--either after
 Master's or before your L1 expires (<5years). There seems to be a
 `60%` chance that a person like me will clear this hurdle [^2]. This
@@ -167,10 +215,11 @@ is including atleast 3 tries at H1B (i.e., 1-3 years of applying).
 
 In addition, the US is not the most friendly place for workers
 rights. Once you loose a job you have [60 days to find another
-job](https://www.nolo.com/legal-encyclopedia/just-got-laid-off-h-1b-job-i-any-grace-period-can-i-another-visa-jobhunt.html). In times of recession (like in 2008 or during the Corona
-period), the chance of loosing the job seems to be about 15%[^5] and
-might mean a one way ticket back to home. This comes to a multiplying
-factor of `89%`.
+job](https://www.nolo.com/legal-encyclopedia/just-got-laid-off-h-1b-job-i-any-grace-period-can-i-another-visa-jobhunt.html). In
+times of recession (like in 2008 or during the Corona period), the
+chance of loosing the job seems to be about 15%[^5] and might mean a
+one way ticket back to home. This comes to a multiplying factor of
+`89%`.
 
 For Master's route, I think I have "good" chances of getting a DS job
 in FAANG with 2-3 yoe (not including the H1B chances). I have seen
