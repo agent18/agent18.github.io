@@ -7,6 +7,37 @@ categories: notes
 permalink: /:title.html
 ---
 
+
+## Summary:
+
+**Terminal**
+
+`which python` to know where it is pointing to in terminal
+
+`base` is the environment  which means it has a particular python and
+a particular set of libraries.
+
+`conda activate base`
+
+**Emacs**
+
+environment `base` given in init file with:   
+
+	(setq python-shell-interpreter "/home/eghx/anaconda3/bin/ipython")
+
+`M-x run-python` seems to open an ipython console which works
+
+
+`sys.version` and `sys.prefix` in python to check which "environment"
+is installed.
+
+
+While installing python libraries such as `learntools`, as long as we
+install (`conda install scipy`, look below on how to install non-conda
+libraries) it in the `base` environment in the terminal (`source
+anaconda3/bin/activate` or `conda activate base`), then it seems to be
+**available in EMACS too**. :)
+
 ## Installing pythiath
 
 Rumor has it that anaconda is the shiz and the "best" way to work with
@@ -187,31 +218,6 @@ IPython:  7.12.0
 
   [1]: https://emacs.stackexchange.com/a/24572/17941
 
-## future things
-
-commands jump from one to the console and back
-
-auto complete variables and commands
-
-help for commands
-
-ipython magic
-
-specify environment etc... next...
-
-syntax checking
-
-More to dos here.
-https://www.seas.upenn.edu/~chaoliu/2017/09/01/python-programming-in-emacs/
-
-https://gist.github.com/widdowquinn/987164746810f4e8b88402628b387d39
-
-https://steelkiwi.com/blog/emacs-configuration-working-python/
-
-https://www.emacswiki.org/emacs/PythonProgrammingInEmacs
-
-
-	
 ## Checking setup with EMACS
 
 Ask emacs to look at the right python, [use code](https://stackoverflow.com/a/49807116/5986651) and add to emacs
@@ -306,6 +312,37 @@ Packages are available with `conda search` are from `conda`. Packages
 are also available at `anaconda.org`. If packages (such as `learntool`
 for Kaggle) are not available in both `conda` or `anaconda.org`, then
 they are `non-conda` packages.
+### Installing packages with conda install
+
+[Fastai man page](https://github.com/fastai/fastai):
+
+	conda install -c fastai -c pytorch -c anaconda fastai 
+
+Can also be done (it appears) with the github link and then `environment.yml`: 
+
+	git clone https://github.com/fastai/fastai2
+	cd fastai2
+	conda env create -f environment.yml
+	source activate fastai2
+
+With[ pip](https://forums.fast.ai/t/platform-local-server-ubuntu/65851/22?u=thetj09):
+
+	git clone https://github.com/fastai/fastai2
+	cd fastai2
+	pip install -e ".[dev]"
+	
+**Note about Pip**
+
+> Just in case you haven’t found that one. They can coexist, but maybe
+> not in a way you’d expect. Pip can easily be run inside conda. You
+> can use conda to manage python versions, install some libraries and
+> then use pip for the rest. That will totally work. What will not
+> work are packages you installed before installing conda, but that’s
+> because the python you run after that (installed by conda) does not
+> have the same site-packages directory in sys.path. Ofc, you can
+> install them again after installing conda, but they will be
+> downloaded, unpacked, and possibly compiled (in case they do not
+> have wheels) again. ---[fastaiforum](https://forums.fast.ai/t/installing-fastai-on-ubuntu-using-pip-and-virtualenv/38356/3?u=thetj09)
 
 ### Installing non-conda packages
 
@@ -327,12 +364,13 @@ to pkgs. `cd` into the downloaded unzipped folder. `activate` the base and then,
 And now it is available to emacs. It appears that the packages are
 tied to the `python` selected. That seems good. :) Pandian le
 
-## Installing packages with Anaconda
+### Installing packages with Anaconda
+
 https://stackoverflow.com/questions/28741563/pytesseract-no-such-file-or-directory-error/49762616#49762616
 
 
 
-## Installing dependencies so that opencv works without the following error
+### Installing dependencies so that opencv works without the following error
 
 >error: /io/opencv/modules/highgui/src/window.cpp:583: error: (-2) The
 >function is not implemented. Rebuild the library with Windows, GTK+
@@ -343,12 +381,111 @@ https://stackoverflow.com/questions/28741563/pytesseract-no-such-file-or-directo
 https://www.pyimagesearch.com/2015/06/22/install-opencv-3-0-and-python-2-7-on-ubuntu/
 
 
-## Working with emacs
+### Working with emacs
 
 https://stackoverflow.com/q/49805906/5986651
 
-## Todo 
+## Understanding environments
 
-- make sure emacs python is using anaconda.
-- how to create a console that works on the file you are working on
-- install one package and check if it is working
+Every environment seems to have it's own python and packages.
+
+[Conda help on environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
+
+Create environment: `conda create -n myenv python=3.6`
+
+Clone environment: `conda create --name fastai --clone base`
+
+add packages to environment: `conda install -n myenv scipy` (or go to
+environment and just `conda install ipthon` for example)
+
+activate conda env: `conda activate myenv`  (you will see a `(myenv)`
+in front in the terminal)
+
+List packages in environment: Go to environment and then `conda list`
+
+**How to work on a particular environment in Emacs?**
+
+0. Create environment  myenv
+
+1. install necessary packages
+
+2. Modify init file or `M-:` with right link to python or shell
+   interpreter obtainable from `which python` e.g., `(setq python-shell-interpreter
+   "/home/eghx/anaconda3/bin/ipython")`
+
+3. Test
+
+Really simple.
+
+Delete environment: `conda env remove --name myenv` or `conda remove
+--name myenv --all`
+
+Check if deleted: `conda info --envs`
+
+
+
+Great so far so good.
+
+### conda install with environment.yml
+
+	conda env create -f environment.yml
+	conda activate EnvironmentName
+
+
+	conda env update -f environment.yml
+	conda activate EnvironmentName
+
+
+Source:
+https://stackoverflow.com/questions/40616381/can-i-add-a-channel-to-a-specific-conda-environment
+
+
+
+## future things
+
+- show commands for example **`np.` should show available commands**
+- commands jump from one to the console and back
+
+auto complete variables and commands
+
+help for commands
+
+ipython magic
+
+specify environment etc... next...
+
+syntax checking
+
+More to dos here.
+https://www.seas.upenn.edu/~chaoliu/2017/09/01/python-programming-in-emacs/
+
+https://gist.github.com/widdowquinn/987164746810f4e8b88402628b387d39
+
+https://steelkiwi.com/blog/emacs-configuration-working-python/
+
+https://www.emacswiki.org/emacs/PythonProgrammingInEmacs
+
+
+	
+## Jupyter notebook it is
+
+**epistemic status:** I think jupyter was installed with the base already?
+but I checked right? As spyder is already.
+
+Some discussion on Jupyterlab vs Jupyter on [stack](https://stackoverflow.com/questions/50982686/what-is-the-difference-between-jupyter-notebook-and-jupyterlab). Atleast
+someone switched back to Jupyter notebook and people advising
+beginners to go to Jupyter notebook.
+
+**Conda installation**
+
+	conda install -c conda-forge notebook
+
+This directly installs jupiter in the `base` env as that is the one
+that is active.
+
+**Start Jupyter**
+
+	conda activate base
+	
+	jupyter notebook
+	

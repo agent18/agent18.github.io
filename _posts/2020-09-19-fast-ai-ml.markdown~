@@ -1,0 +1,449 @@
+---
+layout: post
+comments: true
+title:  "Learning ML"
+date: 19-09-2020
+categories: notes
+tags: gaming
+permalink: /:title.html
+published: true
+---
+
+## todo or not?
+
+https://www.fast.ai/2017/04/06/alternatives/
+
+
+
+## Resources
+
+2018 Lesson 1 wiki: https://forums.fast.ai/t/wiki-thread-lesson-1/6825
+
+course 2018: https://course18.fast.ai/lessonsml1/lesson1.html
+
+2020 setup help: https://forums.fast.ai/t/setup-help/65529
+
+Ubuntu setup help used:
+
+- https://forums.fast.ai/t/pytorch-installation-in-conda-environment-failing/6703/19
+ 
+- https://forums.fast.ai/t/platform-local-server-ubuntu/65851
+
+- https://forums.fast.ai/t/how-to-do-an-ubuntu-local-setup-for-part1-v2/9349/7
+  
+updates 2020:
+https://forums.fast.ai/t/official-part-1-2020-updates-and-resources-thread/63376
+  
+> ^^ Has all the code pictures and text
+
+2020 book:https://github.com/fastai/fastbook/blob/master/01_intro.ipynb
+
+2020 software fastai repo: https://github.com/fastai/fastai
+
+> ^^ this is fastai v2 written from scratch
+
+2020 course nbs: https://github.com/fastai/fastbook/tree/master/clean
+
+2020 readme page fastai: https://course.fast.ai/#How-do-I-get-started?
+
+2020 lesson 1 wiki: https://forums.fast.ai/t/lesson-1-official-topic/65626
+
+forums: https://forums.fast.ai/ 
+
+Lesson 1 wiki: https://forums.fast.ai/t/lesson-1-official-topic/65626
+
+Help with setup: https://forums.fast.ai/t/setup-help/65529
+
+
+**Old**
+
+fastiai2 - https://github.com/fastai/fastai2 
+coursev4 - https://github.com/fastai/course-v4 
+fastbook - https://github.com/fastai/fastbook 
+
+## PC ready for fast ai
+
+https://forums.fast.ai/t/platform-local-server-ubuntu/65851
+
+  * [ ] check if drivers are uptodate?
+  * [ ] upadate drivers
+  * [ ] check how long it takes to run benchmark tests on PC on
+        jupyter
+  * [ ] Start with pulling and instaling the latest
+  * [ ] Check out Jupyter for Emacs
+  
+  * [ ] Have working python noteboko
+
+
+### Learning about ubuntu
+
+[ppa](https://itsfoss.com/ppa-guide/)
+
+Fixing errors with `sudo apt-get update` --> fixed with `#`
+
+~~so maybe I need to add the new launchpad PPA and remove the old
+poppler shit? why is poppler not there? do I need to replace?~~
+
+suggested to remove the ppa as [here](https://itsfoss.com/ppa-guide/) I put a `#` instead. OPencpu
+seems to be used for R but I don't know if there is even a point.
+
+You don't need to `apt-get update; apt-get upgrade`. As we use the
+`Softwar&Updates` all should already be good [it seems](https://askubuntu.com/questions/362872/is-using-software-updater-the-same-thing-as-running-apt-get-update-and-apt-get-u).
+
+How to install nvidia drivers is [here](https://www.cyberciti.biz/faq/ubuntu-linux-install-nvidia-driver-latest-proprietary-driver/) and [here](https://askubuntu.com/a/851144/443958) and [here](https://askubuntu.com/questions/61396/how-do-i-install-the-nvidia-drivers).
+
+or simply remove those repositories?
+
+What happens when I upgrade? does it update the Nvidia driver?
+
+### Checking graphics driver
+
+It's not clear what I MUST have 430 or 390. Now should I just change
+to 430? how does that work? Wont I have 2 drivers installed?
+
+Nvidia drivers site: https://www.nvidia.com/Download/driverResults.aspx/135161/en-us
+
+
+What is the difference? Who is deciding what shows up on additional
+drivers?
+
+Is the driver OS version dependent?
+
+Online support is for 450 but I am afraid to use it?
+
+### question (no answer on stack)
+
+
+**Goal**
+
+I somehow installed the driver 3 years back and want to check if I
+have the latest ones and if they are upgraded.
+
+**Status**
+
+`Additional drivers` in `Software & Updates` shows a bunch of
+NVIDIA graphics drivers. And currently `390` has been installed and I
+see it working with the processes using the GPU, with:
+	
+	nvidia-smi
+
+I dont think I have added repos ever, (like [this][1]):
+
+    sudo add-apt-repository ppa:graphics-drivers/ppa
+    sudo apt update 
+
+I know this because I don't see the `graphics-drivers` PPA's in 
+
+    grep ^ /etc/apt/sources.list /etc/apt/sources.list.d/*
+
+
+**Question**
+
+0. When I look in Nvidia website there is a higher proprietary version
+[450](https://www.nvidia.com/Download/driverResults.aspx/163238/en-us), based on the official [Nvidia driver finder](https://www.nvidia.com/Download/index.aspx?lang=en-us). When I look in launchpad it says [`430`][2] is the current supported version, but`450`
+is not shown in `additional drivers`. Why? What am I missing?
+
+1. I want to go to the latest driver available. Is `390` the latest
+   stable release for Ubuntu 16.04? How do I figure this out?
+  
+2. There are many ways to install `450` (I am afraid of conflicts or my
+   system breaking). Which should I prefer now that I have `390` via
+   `additional drivers`? 
+
+	- download from [Nvidia site](https://www.nvidia.com/Download/driverResults.aspx/135161/en-us) and install
+	- apt-get has it's own install `sudo apt-get nvidia-\*\*450\*\*`,
+      once I have the `graphics-drivers` PPA's.
+	- add PPAs and install from `additional drivers`
+
+3. Should I uninstall `390` so I can install `450` and if so how? (there is no option in
+   `additional drivers` to unselect all options). Is the following ok?
+   
+		$ sudo apt purge nvidia-390 -y
+		$ sudo apt autoremove -y
+		$ sudo apt autoclean
+
+4. Should I [disable][3] `secure boot` before installing and enable it afterwards?
+
+**Current Config**
+
+- Ubuntu 16.04 LTS & Windows 10 dual boot
+- 8 gb ram
+- Nvidia GeForce GTX 1050/PCIe/SSE2
+
+
+  [1]: https://askubuntu.com/a/851144/443958
+  [2]: https://launchpad.net/~graphics-drivers/+archive/ubuntu/ppa
+  [3]: https://askubuntu.com/a/937898/443958
+  
+## Fastai cloning and installing with conda  
+
+
+**What seems to work**:
+
+	conda create --name fastaiclean 
+
+	conda install -c fastai -c pytorch -c anaconda fastai 
+	
+	conda install -c fastai -c pytorch -c anaconda gh
+	
+	conda install -c conda-forge notebook
+	
+Yes to all the disclaimers such as additional packages to be installed.
+	
+	
+Based on [this stack answer](https://stackoverflow.com/a/64056681/5986651): We don't need to install anaconda
+package as the miniconda install doesn't seem to require it.
+	
+	
+**Attempt 1** (BIG NO):
+
+[Man page](https://docs.fast.ai/#Installing) instructions:
+
+	conda install -c fastai -c pytorch -c anaconda fastai gh anaconda
+
+
+Before doing the above I first created a fastai env which is a clone
+of my base `conda create --name fastai --clone base`
+
+Error seems to be some [HTTPS error with Pytorch](https://forums.fast.ai/t/pytorch-installation-in-conda-environment-failing/6703). If I know what all
+packages I need to install. That is also good. this can be observed in
+here:
+https://github.com/fastai/fastai/blob/master/environment.yml. these
+are dependencies of fastai. `pytorch` is a dependency of fastai.
+
+
+
+**Attempt 2 (DIDN't try, but looks like it will work)** as long as you
+make a fresh env
+
+But where is python installed? Is it in fastai? **Guy 1**:
+https://forums.fast.ai/t/platform-local-server-ubuntu/65851/22
+
+
+	git clone https://github.com/fastai/fastai2
+	cd fastai2
+	conda env create -f environment.yml
+	conda activate fastai2
+...
+
+Another guy: https://forums.fast.ai/t/platform-local-server-ubuntu/65851
+
+	conda create --name fastaiv1
+	conda activate fastaiv1
+	conda install -c pytorch -c fastai fastai
+	
+	...
+	
+---by [wgpubs](https://forums.fast.ai/t/pytorch-installation-in-conda-environment-failing/6703/4). 
+
+If you’ve cloned the repo for `fastai` and installed/upgraded to the
+latest version of Anaconda:
+
+	cd <into your fastai folder>
+	conda env create -n fastai python=3.6 -f environment.yml
+	That should give you python 3.6 environment with all the required packages.
+
+
+**Note about Pip**
+
+> Just in case you haven’t found that one. They can coexist, but maybe
+> not in a way you’d expect. Pip can easily be run inside conda. You
+> can use conda to manage python versions, install some libraries and
+> then use pip for the rest. That will totally work. What will not
+> work are packages you installed before installing conda, but that’s
+> because the python you run after that (installed by conda) does not
+> have the same site-packages directory in sys.path. Ofc, you can
+> install them again after installing conda, but they will be
+> downloaded, unpacked, and possibly compiled (in case they do not
+> have wheels) again. ---[fastaiforum](https://forums.fast.ai/t/installing-fastai-on-ubuntu-using-pip-and-virtualenv/38356/3?u=thetj09)
+
+### Testing with intro.pynb
+
+
+``` python
+ImportError: IProgress not found. Please update jupyter and ipywidgets. See https://ipywidgets.readthedocs.io/en/stable/user_install.html
+```
+
+trying from the [link](https://ipywidgets.readthedocs.io/en/stable/user_install.html) above, 
+
+	conda install -c conda-forge ipywidgets
+
+
+
+**FASTAI works.** Somehow the GPU was not used at all, and what took 1 min
+for the lecturer in lesson 1 took me 15 mins (atleast that's what it
+said).
+
+### Fixing GPU
+
+-  [ ] computer slow fix
+
+Based on this [stack answer](https://askubuntu.com/a/756409/443958)
+
+	sudo swapoff -a
+	sudo swapon -a
+
+- [ ] bench mark test to access gpu
+
+
+
+- [ ] maybe change libraries to improve speed
+
+### Cuda
+
+
+What is cuda?
+
+https://tech.amikelive.com/node-731/how-to-properly-install-nvidia-graphics-driver-on-ubuntu-16-04/
+
+Restarting didn't help access the gpu.
+
+
+Do I need cuda? 
+
+Do I have cuda? from pytorch or something
+
+Does installing cuda use nvidia-smi?
+
+
+
+check if pytorch even sees your device
+https://chrisalbon.com/deep_learning/pytorch/basics/check_if_pytorch_is_using_gpu/
+
+https://stackoverflow.com/questions/48152674/how-to-check-if-pytorch-is-using-the-gpu
+
+Pytorch looks  like it is not seeing nvidia.. Need to see what to
+do...
+
+and maybe cuda is not enough, or we can maybe use the right cuda
+
+I still don't know what is stable for ubuntu 16 and abd where to look?
+
+
+### question
+
+Which is the LATEST STABLE proprietary drivers for UBUNTU 16.04 and NVIDIA
+Geforce GTX 1050 (4gb)?
+
+1. Nvidia site says [450](https://www.nvidia.com/Download/driverResults.aspx/163238/en-us)(450.66) is the latest for GTX 1050 (not
+   ubuntu version specific)
+
+	- download from [Nvidia site](https://www.nvidia.com/Download/driverResults.aspx/135161/en-us) and install
+	- apt-get has it's own install `sudo apt-get nvidia-\*\*450\*\*`,
+	
+2. Additional drivers tab in `Software and Updates` only shows version
+   `390`
+   
+   - **Note:** `graphics-drivers` PPA's have not been added yet.
+   
+3. [launchpad](https://launchpad.net/~graphics-drivers/+archive/ubuntu/ppa) says `430` (430.40)
+   
+    > Current long-lived branch release: `nvidia-430` (430.40) Dropped
+	> support for Fermi series
+	> (https://nvidia.custhelp.com/app/answers/detail/a_id/4656)
+	
+4. [Launchpad](https://launchpad.net/~graphics-drivers/+archive/ubuntu/ppa) also says old branch for GeForce 10 series (1050) is
+   390.129
+   
+   > Old long-lived branch release: `nvidia-390` (390.129)
+   > For GF1xx GPUs use `nvidia-390` (390.129)
+
+### FASTER
+
+- No X-server stuff on Nvidia
+
+https://forums.fast.ai/t/successful-ubuntu-18-04-with-igpu-for-xserver-and-nvidia-gpu-for-cuda-work-setup/20128/9?u=thetj09
+
+
+- step 3 in above link: lib stuff to turbo lib stuff
+https://forums.fast.ai/t/platform-local-server-ubuntu/65851?u=thetj09 
+
+	- [medium post](https://medium.com/@JamesDietle/install-fast-ai-with-ubuntu-18-04-d92c0bc460bd#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6IjJjNmZhNmY1OTUwYTdjZTQ2NWZjZjI0N2FhMGIwOTQ4MjhhYzk1MmMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJuYmYiOjE2MDEwMDI0MjEsImF1ZCI6IjIxNjI5NjAzNTgzNC1rMWs2cWUwNjBzMnRwMmEyamFtNGxqZGNtczAwc3R0Zy5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsInN1YiI6IjExMDA3ODMxNzc3MzIxMDQ5MzYyNyIsImVtYWlsIjoidGhldGowOUBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXpwIjoiMjE2Mjk2MDM1ODM0LWsxazZxZTA2MHMydHAyYTJqYW00bGpkY21zMDBzdHRnLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwibmFtZSI6IlRoZWogS2lyYW4iLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dzVWZyNFFLSk44WEx3ZnEwUXhPOHFRdFhZWlZYRUgwbjBEX0xjMGc9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGhlaiIsImZhbWlseV9uYW1lIjoiS2lyYW4iLCJpYXQiOjE2MDEwMDI3MjEsImV4cCI6MTYwMTAwNjMyMSwianRpIjoiNTUzNTA4YzBjMGU3MWY3M2I1MjJiYjY1ZWRmYTE0MmJlYmU1ZmRiMCJ9.hkA7m2I80iCb5PRQJYxaRfAZ5IjeRgbICbAMHN237J_aVwm4C_mBXfSkp6tFpgqp4JqOMCI_FetqEmlXlimKDvoH1Hfd5hpJ2wmqcs9E1FsLYqQ5nv7ff4RdAHcViJQtSS4ikhTEXNn-s4JkPDNP7FZ70_30Do3A0XOJNAxqUvG-xX2xvgJ56xPAK0sN8FPY6wbhM_y0spvE9r8SDtIsodx3NClzJ9asNjFQqnsjOQjIv3C-46qzSgZQpXIn5mQZSSAzfQYsZOJHQQfQ7ECWjKSZxycCegLlF_cy4L5OtEYYC4aSyrJpmNDh0ylbPtSCaUPq9ELXY81Vc4lcxabxdg) by some pisth 
+	
+- Make post on SO about nvidia driver what is the latest for ubuntu16
+
+- Make post on SO about how to identify why nvidia smi is not working
+  or showing anything
+
+### Other sources regarding installation
+
+- [medium post](https://medium.com/@JamesDietle/install-fast-ai-with-ubuntu-18-04-d92c0bc460bd#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6IjJjNmZhNmY1OTUwYTdjZTQ2NWZjZjI0N2FhMGIwOTQ4MjhhYzk1MmMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJuYmYiOjE2MDEwMDI0MjEsImF1ZCI6IjIxNjI5NjAzNTgzNC1rMWs2cWUwNjBzMnRwMmEyamFtNGxqZGNtczAwc3R0Zy5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsInN1YiI6IjExMDA3ODMxNzc3MzIxMDQ5MzYyNyIsImVtYWlsIjoidGhldGowOUBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXpwIjoiMjE2Mjk2MDM1ODM0LWsxazZxZTA2MHMydHAyYTJqYW00bGpkY21zMDBzdHRnLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwibmFtZSI6IlRoZWogS2lyYW4iLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dzVWZyNFFLSk44WEx3ZnEwUXhPOHFRdFhZWlZYRUgwbjBEX0xjMGc9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGhlaiIsImZhbWlseV9uYW1lIjoiS2lyYW4iLCJpYXQiOjE2MDEwMDI3MjEsImV4cCI6MTYwMTAwNjMyMSwianRpIjoiNTUzNTA4YzBjMGU3MWY3M2I1MjJiYjY1ZWRmYTE0MmJlYmU1ZmRiMCJ9.hkA7m2I80iCb5PRQJYxaRfAZ5IjeRgbICbAMHN237J_aVwm4C_mBXfSkp6tFpgqp4JqOMCI_FetqEmlXlimKDvoH1Hfd5hpJ2wmqcs9E1FsLYqQ5nv7ff4RdAHcViJQtSS4ikhTEXNn-s4JkPDNP7FZ70_30Do3A0XOJNAxqUvG-xX2xvgJ56xPAK0sN8FPY6wbhM_y0spvE9r8SDtIsodx3NClzJ9asNjFQqnsjOQjIv3C-46qzSgZQpXIn5mQZSSAzfQYsZOJHQQfQ7ECWjKSZxycCegLlF_cy4L5OtEYYC4aSyrJpmNDh0ylbPtSCaUPq9ELXY81Vc4lcxabxdg) by some pisth 
+
+
+## Lesson 1
+
+
+1. [x] Let's setup a gpu online first: https://course.fast.ai/start_gradient
+
+2. [ ] Look for GPU usage on PC: https://forums.fast.ai/t/wiki-thread-lesson-1/6825
+
+### Resources
+
+- [Lesson wiki](https://forums.fast.ai/t/wiki-thread-lesson-1/6825)
+
+- [course notes](https://medium.com/@hiromi_suenaga/machine-learning-1-lesson-1-84a1dc2b5236) by someone on medium
+
+### Jupiter
+
+- Jupiter with crestle 
+- aws or PC
+- paperspace (have )
+
+### Jupyter in emacs
+
+https://tkf.github.io/emacs-ipython-notebook/
+
+
+
+### todo
+
+setup jupyter on emacs and browser to see how different it is....
+
+- clone fast ai [repo](https://github.com/fastai/fastai), instructions on website... 
+
+finish this course lecture 1 atleast. seeing it
+
+- followed by assignmets
+
+- **figure out how to use fast ai (pc or aws or whatever) with
+  jupyter**
+
+## stack
+
+I am trying to install [fastai][1] but I don't understand what they are trying to do with `conda install`.
+
+The [man page][1] of `fastai` says:
+
+    conda install -c fastai -c pytorch -c anaconda fastai gh anaconda
+
+**Does this mean:** the channels to be used are `fastai`, `pytorch` and `anaconda` while the packages to be installed are `fastai`, `gh` and `anaconda` respectively? I think they want to install `pytorch` and `fastai` basically. But they don't even mention `pytorch` package.
+
+`conda install` seems to be done like this:
+
+    conda install -c <package-name>
+
+  [1]: https://github.com/fastai/fastai
+  [2]: https://github.com/fastai/fastai/blob/master/environment.yml
+
+- If I want to install `pytorch` is it enough to mention the channel alone?
+
+    conda install -c pytorch
+
+- Is this even correct to install `anaconda` with `conda install`? Don't you have `conda install` as a result of installing `anaconda`?
+
+    conda install -c fastai -c pytorch -c anaconda fastai gh anaconda
+
+If I look at the [yml file][2] for any clues, then I am even more puzzled about what needs to be installed:
+
+> name: fastai 
+> channels:
+> - fastai
+> - pytorch
+> - defaults dependencies:
+> - fastcore>=1.0.0...
+> - pytorch>=1.6.0
+
+
+## Other useful links
+
+[Managing your data science project environments with Conda](https://towardsdatascience.com/managing-project-specific-environments-with-conda-406365a539ab)

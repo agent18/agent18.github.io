@@ -1,8 +1,108 @@
 #+COLUMNS: %7TODO(To Do) %40ITEM(Task) %10CLOCKSUM(Clock)
 #+TAGS: work(w)  DP(d) break(b) meta(m) DS(s) blog(g) other(o) reading(r) NATW(n) apping(a)
-* Career essay 2                                                       :blog:
+* Data science                                                         :work:
+** Counted for work                                                    :work:
+*** Prepping for task
+CLOCK: [2020-09-19 za 16:55]--[2020-09-19 za 17:32] =>  0:37
+CLOCK: [2020-09-19 za 14:41]--[2020-09-19 za 15:45] =>  1:04
+CLOCK: [2020-09-19 za 09:05]--[2020-09-19 za 10:52] =>  1:47
+CLOCK: [2020-09-18 vr 21:34]--[2020-09-18 vr 21:53] =>  0:19
+CLOCK: [2020-09-18 vr 16:56]--[2020-09-18 vr 18:23] =>  1:27
+CLOCK: [2020-09-18 vr 16:27]--[2020-09-18 vr 16:43] =>  0:16
+CLOCK: [2020-09-17 do 19:00]--[2020-09-17 do 19:16] =>  0:16
+
+*** Looking for content
+
+*** studying
+*** working on emacs stuff
+CLOCK: [2020-09-18 vr 19:53]--[2020-09-18 vr 20:51] =>  0:58
+**** setting up jupiter
+CLOCK: [2020-09-19 za 12:36]--[2020-09-19 za 13:59] =>  1:23
+*** kaggle
+*** Coursera
+*** fast.ai
+**** Setting up GPU
+CLOCK: [2020-09-26 za 19:56]
+CLOCK: [2020-09-26 za 18:12]--[2020-09-26 za 19:35] =>  1:23
+CLOCK: [2020-09-26 za 12:54]--[2020-09-26 za 13:12] =>  0:18
+CLOCK: [2020-09-26 za 09:51]--[2020-09-26 za 11:16] =>  1:25
+CLOCK: [2020-09-26 za 09:25]--[2020-09-26 za 09:51] =>  0:26
+CLOCK: [2020-09-25 vr 21:49]--[2020-09-25 vr 23:25] =>  1:36
+CLOCK: [2020-09-25 vr 19:15]--[2020-09-25 vr 20:15] =>  1:00
+CLOCK: [2020-09-25 vr 15:25]--[2020-09-25 vr 16:13] =>  0:48
+CLOCK: [2020-09-25 vr 12:40]--[2020-09-25 vr 12:40] =>  0:00
+CLOCK: [2020-09-25 vr 11:44]--[2020-09-25 vr 12:35] =>  0:51
+CLOCK: [2020-09-25 vr 10:24]--[2020-09-25 vr 11:21] =>  0:57
+CLOCK: [2020-09-25 vr 03:57]--[2020-09-25 vr 05:14] =>  1:17
+CLOCK: [2020-09-25 vr 02:49]--[2020-09-25 vr 03:34] =>  0:45
+CLOCK: [2020-09-23 wo 23:26]--[2020-09-24 do 00:00] =>  0:34
+CLOCK: [2020-09-23 wo 22:15]--[2020-09-23 wo 22:50] =>  0:35
+CLOCK: [2020-09-21 ma 15:09]--[2020-09-21 ma 16:34] =>  1:25
+CLOCK: [2020-09-21 ma 12:58]--[2020-09-21 ma 14:09] =>  1:11
+CLOCK: [2020-09-21 ma 10:29]--[2020-09-21 ma 12:05] =>  1:36
+CLOCK: [2020-09-21 ma 09:37]--[2020-09-21 ma 10:24] =>  0:47
+CLOCK: [2020-09-21 ma 00:19]--[2020-09-21 ma 01:00] =>  0:41
+CLOCK: [2020-09-20 zo 23:24]--[2020-09-21 ma 00:09] =>  0:45
+CLOCK: [2020-09-20 zo 22:16]--[2020-09-20 zo 22:54] =>  0:38
+CLOCK: [2020-09-20 zo 21:08]--[2020-09-20 zo 21:44] =>  0:36
+**** Lesson 1
+CLOCK: [2020-09-19 za 10:52]--[2020-09-19 za 11:31] =>  0:39
+
+*** other?
+** Other useful stuff                                                 :meta:
+*** Work done for STM 
+
+** Not counted for DP                                                :break:
+CLOCK: [2020-09-26 za 19:35]--[2020-09-26 za 19:54] =>  0:19
+CLOCK: [2020-09-26 za 11:16]--[2020-09-26 za 13:12] =>  1:56
+CLOCK: [2020-09-25 vr 16:32]--[2020-09-25 vr 21:49] =>  5:17
+CLOCK: [2020-09-25 vr 12:40]--[2020-09-25 vr 15:25] =>  2:45
+CLOCK: [2020-09-25 vr 12:35]--[2020-09-25 vr 12:40] =>  0:05
+CLOCK: [2020-09-25 vr 11:21]--[2020-09-25 vr 11:44] =>  0:23
+CLOCK: [2020-09-25 vr 05:14]--[2020-09-25 vr 10:24] =>  5:10
+CLOCK: [2020-09-25 vr 03:34]--[2020-09-25 vr 03:57] =>  0:23
+CLOCK: [2020-09-23 wo 22:50]--[2020-09-23 wo 23:26] =>  0:36
+CLOCK: [2020-09-21 ma 16:24]--[2020-09-21 ma 17:03] =>  0:39
+CLOCK: [2020-09-21 ma 14:09]--[2020-09-21 ma 15:09] =>  1:00
+CLOCK: [2020-09-21 ma 12:05]--[2020-09-21 ma 12:58] =>  0:53
+CLOCK: [2020-09-21 ma 10:24]--[2020-09-21 ma 10:29] =>  0:05
+CLOCK: [2020-09-21 ma 00:14]--[2020-09-21 ma 00:19] =>  0:05
+CLOCK: [2020-09-20 zo 22:54]--[2020-09-20 ma 23:24] =>  0:03
+CLOCK: [2020-09-20 zo 21:44]--[2020-09-20 zo 22:16] =>  0:32
+*** Breaks
+CLOCK: [2020-09-19 za 15:45]--[2020-09-19 za 16:55] =>  1:10
+CLOCK: [2020-09-19 za 13:59]--[2020-09-19 za 14:41] =>  0:42
+CLOCK: [2020-09-19 za 11:31]--[2020-09-19 za 12:36] =>  1:05
+CLOCK: [2020-09-18 vr 20:51]--[2020-09-18 vr 21:34] =>  0:43
+CLOCK: [2020-09-18 vr 18:23]--[2020-09-18 vr 19:53] =>  1:30
+CLOCK: [2020-09-18 vr 16:43]--[2020-09-18 vr 16:56] =>  0:13
+CLOCK: [2020-09-17 do 19:31]--[2020-09-18 vr 01:06] =>  5:35
+**** Working on Org mode
+**** Dreaming
+**** Random
+*** Sleeping 
+*** Watching Youtube
+*** Playing with phone
+
+*today
+
+finish settling money with achu
+
+watch porn and sleep
+plan for friday to celebrate guns bday
+picnic
+
+for work
+
+Randomization 
+send mail about carpooling 
+final mail (weather and shit)
+
+buy holidays tomorow
+buy shares figure out tomo
+* Career essay 2  (after STM feedback)                                 :blog:
 ** work
-CLOCK: [2020-09-15 di 22:57]
+CLOCK: [2020-09-15 di 22:57]--[2020-09-15 di 23:10] =>  0:13
 CLOCK: [2020-09-15 di 20:56]--[2020-09-15 di 22:56] =>  2:00
 CLOCK: [2020-09-15 di 19:36]--[2020-09-15 di 20:09] =>  0:33
 CLOCK: [2020-09-14 ma 22:50]--[2020-09-14 ma 23:09] =>  0:19
@@ -186,43 +286,6 @@ CLOCK: [2020-08-22 za 11:01]--[2020-08-22 za 12:06] =>  1:05
 CLOCK: [2020-08-19 wo 19:07]--[2020-08-19 wo 20:00] =>  0:53
 CLOCK: [2020-08-18 di 22:05]--[2020-08-18 di 23:16] =>  1:11
 
-* What to do part 2 (after STM feedback)
-** Counted for work                                                    :work:
-*** Prepping for task
-CLOCK: [2020-08-18 di 19:25]--[2020-08-18 di 21:33] =>  2:08
-
-*** Looking for content
-
-*** other
-*** DPing                                                              :DP:
-** Other useful stuff                                                 :meta:
-*** Work done for STM 
-
-** Not counted for DP                                                :break:
-*** Breaks
-**** Working on Org mode
-**** Dreaming
-**** Random
-*** Sleeping 
-*** Watching Youtube
-*** Playing with phone
-
-*today
-
-finish settling money with achu
-
-watch porn and sleep
-plan for friday to celebrate guns bday
-picnic
-
-for work
-
-Randomization 
-send mail about carpooling 
-final mail (weather and shit)
-
-buy holidays tomorow
-buy shares figure out tomo
 * Applying to HLI volunteering round 2                          :blog:apping:
 ** Counted for work                                                   :work:
 *** Prepping for task
@@ -2898,50 +2961,47 @@ about it.
 
 #+BEGIN: clocktable :maxlevel 2 :scope file :step week :tstart "<-4w>" :tend "<tomorrow>" :compact t :tags "-break-NATW"
 
-Weekly report starting on: [2020-08-18 di]
-| Headline                               |   Time |
-|----------------------------------------+--------|
-| *Total time*                           | *6:38* |
-|----------------------------------------+--------|
-| Career essay 2                         |   2:26 |
-| \emsp work                             |   2:10 |
-| \emsp Email sturen                     |   0:16 |
-| dutch for citizenship                  |   2:04 |
-| \emsp learning                         |   2:04 |
-| What to do part 2 (after STM feedback) |   2:08 |
-| \emsp Counted for work                 |   2:08 |
-
 Weekly report starting on: [2020-08-24 ma]
-| Headline       | Time      |
-|----------------+-----------|
-| *Total time*   | *1d 8:33* |
-|----------------+-----------|
-| Career essay 2 | 1d 8:33   |
-| \emsp work     | 1d 8:33   |
+| Headline                             | Time      |
+|--------------------------------------+-----------|
+| *Total time*                         | *1d 8:33* |
+|--------------------------------------+-----------|
+| Career essay 2  (after STM feedback) | 1d 8:33   |
+| \emsp work                           | 1d 8:33   |
 
 Weekly report starting on: [2020-08-31 ma]
-| Headline       | Time      |
-|----------------+-----------|
-| *Total time*   | *1d 7:40* |
-|----------------+-----------|
-| Career essay 2 | 1d 7:40   |
-| \emsp work     | 1d 7:40   |
+| Headline                             | Time      |
+|--------------------------------------+-----------|
+| *Total time*                         | *1d 7:40* |
+|--------------------------------------+-----------|
+| Career essay 2  (after STM feedback) | 1d 7:40   |
+| \emsp work                           | 1d 7:40   |
 
 Weekly report starting on: [2020-09-07 ma]
-| Headline       | Time      |
-|----------------+-----------|
-| *Total time*   | *1d 1:44* |
-|----------------+-----------|
-| Career essay 2 | 1d 1:44   |
-| \emsp work     | 1d 1:44   |
+| Headline                             | Time      |
+|--------------------------------------+-----------|
+| *Total time*                         | *1d 1:44* |
+|--------------------------------------+-----------|
+| Career essay 2  (after STM feedback) | 1d 1:44   |
+| \emsp work                           | 1d 1:44   |
 
 Weekly report starting on: [2020-09-14 ma]
-| Headline       |   Time |
-|----------------+--------|
-| *Total time*   | *9:28* |
-|----------------+--------|
-| Career essay 2 |   9:28 |
-| \emsp work     |   9:28 |
+| Headline                             |    Time |
+|--------------------------------------+---------|
+| *Total time*                         | *20:17* |
+|--------------------------------------+---------|
+| Data science                         |   10:36 |
+| \emsp Counted for work               |   10:36 |
+| Career essay 2  (after STM feedback) |    9:41 |
+| \emsp work                           |    9:41 |
+
+Weekly report starting on: [2020-09-21 ma]
+| Headline               |   Time |
+|------------------------+--------|
+| *Total time*           | *3:13* |
+|------------------------+--------|
+| Data science           |   3:13 |
+| \emsp Counted for work |   3:13 |
 #+END:
 
 
@@ -2951,69 +3011,63 @@ Weekly report starting on: [2020-09-14 ma]
 
 #+BEGIN: clocktable :maxlevel 2 :scope file :step day :tstart "<-7d>" :tend "<tomorrow>" :compact t :tags "-break-NATW"
 
-Daily report: [2020-09-07 ma]
-| Headline       |   Time |
-|----------------+--------|
-| *Total time*   | *1:00* |
-|----------------+--------|
-| Career essay 2 |   1:00 |
-| \emsp work     |   1:00 |
+Daily report: [2020-09-19 za]
+| Headline               |   Time |
+|------------------------+--------|
+| *Total time*           | *5:30* |
+|------------------------+--------|
+| Data science           |   5:30 |
+| \emsp Counted for work |   5:30 |
 
-Daily report: [2020-09-08 di]
-| Headline       |   Time |
-|----------------+--------|
-| *Total time*   | *2:32* |
-|----------------+--------|
-| Career essay 2 |   2:32 |
-| \emsp work     |   2:32 |
+Daily report: [2020-09-20 zo]
+| Headline               |   Time |
+|------------------------+--------|
+| *Total time*           | *1:50* |
+|------------------------+--------|
+| Data science           |   1:50 |
+| \emsp Counted for work |   1:50 |
 
-Daily report: [2020-09-09 wo]
-| Headline       |   Time |
-|----------------+--------|
-| *Total time*   | *1:46* |
-|----------------+--------|
-| Career essay 2 |   1:46 |
-| \emsp work     |   1:46 |
+Daily report: [2020-09-21 ma]
+| Headline               |   Time |
+|------------------------+--------|
+| *Total time*           | *5:49* |
+|------------------------+--------|
+| Data science           |   5:49 |
+| \emsp Counted for work |   5:49 |
 
-Daily report: [2020-09-10 do]
-| Headline       |   Time |
-|----------------+--------|
-| *Total time*   | *2:47* |
-|----------------+--------|
-| Career essay 2 |   2:47 |
-| \emsp work     |   2:47 |
+Daily report: [2020-09-22 di]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *0:00* |
 
-Daily report: [2020-09-11 vr]
-| Headline       |   Time |
-|----------------+--------|
-| *Total time*   | *6:45* |
-|----------------+--------|
-| Career essay 2 |   6:45 |
-| \emsp work     |   6:45 |
+Daily report: [2020-09-23 wo]
+| Headline               |   Time |
+|------------------------+--------|
+| *Total time*           | *1:09* |
+|------------------------+--------|
+| Data science           |   1:09 |
+| \emsp Counted for work |   1:09 |
 
-Daily report: [2020-09-12 za]
-| Headline       |   Time |
-|----------------+--------|
-| *Total time*   | *6:27* |
-|----------------+--------|
-| Career essay 2 |   6:27 |
-| \emsp work     |   6:27 |
+Daily report: [2020-09-24 do]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *0:00* |
 
-Daily report: [2020-09-13 zo]
-| Headline       |   Time |
-|----------------+--------|
-| *Total time*   | *4:27* |
-|----------------+--------|
-| Career essay 2 |   4:27 |
-| \emsp work     |   4:27 |
+Daily report: [2020-09-25 vr]
+| Headline               |   Time |
+|------------------------+--------|
+| *Total time*           | *7:14* |
+|------------------------+--------|
+| Data science           |   7:14 |
+| \emsp Counted for work |   7:14 |
 
-Daily report: [2020-09-14 ma]
-| Headline       |   Time |
-|----------------+--------|
-| *Total time*   | *6:35* |
-|----------------+--------|
-| Career essay 2 |   6:35 |
-| \emsp work     |   6:35 |
+Daily report: [2020-09-26 za]
+| Headline               |   Time |
+|------------------------+--------|
+| *Total time*           | *2:09* |
+|------------------------+--------|
+| Data science           |   2:09 |
+| \emsp Counted for work |   2:09 |
 #+END:
 
 scrolling issue 
