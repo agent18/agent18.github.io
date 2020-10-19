@@ -1,0 +1,1013 @@
+---
+layout: post
+comments: true
+title:  "Learning ML"
+date: 19-09-2020
+categories: notes
+tags: gaming
+permalink: /:title.html
+published: false
+---
+
+## todo or not?
+
+https://www.fast.ai/2017/04/06/alternatives/
+
+
+
+## Resources
+
+2018 Lesson 1 wiki: https://forums.fast.ai/t/wiki-thread-lesson-1/6825
+
+course 2018: https://course18.fast.ai/lessonsml1/lesson1.html
+
+2020 setup help: https://forums.fast.ai/t/setup-help/65529
+
+Ubuntu setup help used:
+
+- https://forums.fast.ai/t/pytorch-installation-in-conda-environment-failing/6703/19
+ 
+- https://forums.fast.ai/t/platform-local-server-ubuntu/65851
+
+- https://forums.fast.ai/t/how-to-do-an-ubuntu-local-setup-for-part1-v2/9349/7
+  
+updates 2020:
+https://forums.fast.ai/t/official-part-1-2020-updates-and-resources-thread/63376
+  
+> ^^ Has all the code pictures and text
+
+2020 book:https://github.com/fastai/fastbook/blob/master/01_intro.ipynb
+
+2020 software fastai repo: https://github.com/fastai/fastai
+
+> ^^ this is fastai v2 written from scratch
+
+2020 course nbs: https://github.com/fastai/fastbook/tree/master/clean
+
+2020 readme page fastai: https://course.fast.ai/#How-do-I-get-started?
+
+2020 lesson 1 wiki: https://forums.fast.ai/t/lesson-1-official-topic/65626
+
+forums: https://forums.fast.ai/ 
+
+Lesson 1 wiki: https://forums.fast.ai/t/lesson-1-official-topic/65626
+
+Help with setup: https://forums.fast.ai/t/setup-help/65529
+
+
+**Old**
+
+fastiai2 - https://github.com/fastai/fastai2 
+coursev4 - https://github.com/fastai/course-v4 
+fastbook - https://github.com/fastai/fastbook 
+
+## PC ready for fast ai
+
+https://forums.fast.ai/t/platform-local-server-ubuntu/65851
+
+  * [x] check if drivers are uptodate?
+  * [ ] upadate drivers
+  * [ ] check how long it takes to run benchmark tests on PC on
+        jupyter
+  * [ ] Start with pulling and instaling the latest
+  * [ ] Check out Jupyter for Emacs
+  
+  * [ ] Have working python noteboko
+
+
+### Learning about ubuntu
+
+[ppa](https://itsfoss.com/ppa-guide/)
+
+Fixing errors with `sudo apt-get update` --> fixed with `#`
+
+~~so maybe I need to add the new launchpad PPA and remove the old
+poppler shit? why is poppler not there? do I need to replace?~~
+
+suggested to remove the ppa as [here](https://itsfoss.com/ppa-guide/) I put a `#` instead. OPencpu
+seems to be used for R but I don't know if there is even a point.
+
+You don't need to `apt-get update; apt-get upgrade`. As we use the
+`Softwar&Updates` all should already be good [it seems](https://askubuntu.com/questions/362872/is-using-software-updater-the-same-thing-as-running-apt-get-update-and-apt-get-u).
+
+How to install nvidia drivers is [here](https://www.cyberciti.biz/faq/ubuntu-linux-install-nvidia-driver-latest-proprietary-driver/) and [here](https://askubuntu.com/a/851144/443958) and [here](https://askubuntu.com/questions/61396/how-do-i-install-the-nvidia-drivers).
+
+or simply remove those repositories?
+
+What happens when I upgrade? does it update the Nvidia driver?
+yes. same as running 
+
+### Checking graphics driver
+
+It's not clear what I MUST have 430 or 390. Now should I just change
+to 430? how does that work? Wont I have 2 drivers installed?
+
+Nvidia drivers site: https://www.nvidia.com/Download/driverResults.aspx/135161/en-us
+
+
+What is the difference? Who is deciding what shows up on additional
+drivers?
+
+Is the driver OS version dependent?
+
+Online support is for 450 but I am afraid to use it?
+
+### question (no answer on stack)
+
+
+**Goal**
+
+I somehow installed the driver 3 years back and want to check if I
+have the latest ones and if they are upgraded.
+
+**Status**
+
+`Additional drivers` in `Software & Updates` shows a bunch of
+NVIDIA graphics drivers. And currently `390` has been installed and I
+see it working with the processes using the GPU, with:
+	
+	nvidia-smi
+
+I dont think I have added repos ever, (like [this][1]):
+
+    sudo add-apt-repository ppa:graphics-drivers/ppa
+    sudo apt update 
+
+I know this because I don't see the `graphics-drivers` PPA's in 
+
+    grep ^ /etc/apt/sources.list /etc/apt/sources.list.d/*
+
+
+**Question**
+
+0. When I look in Nvidia website there is a higher proprietary version
+[450](https://www.nvidia.com/Download/driverResults.aspx/163238/en-us), based on the official [Nvidia driver finder](https://www.nvidia.com/Download/index.aspx?lang=en-us). When I look in launchpad it says [`430`][2] is the current supported version, but`450`
+is not shown in `additional drivers`. Why? What am I missing?
+
+1. I want to go to the latest driver available. Is `390` the latest
+   stable release for Ubuntu 16.04? How do I figure this out?
+  
+2. There are many ways to install `450` (I am afraid of conflicts or my
+   system breaking). Which should I prefer now that I have `390` via
+   `additional drivers`? 
+
+	- download from [Nvidia site](https://www.nvidia.com/Download/driverResults.aspx/135161/en-us) and install
+	- apt-get has it's own install `sudo apt-get nvidia-\*\*450\*\*`,
+      once I have the `graphics-drivers` PPA's.
+	- add PPAs and install from `additional drivers`
+
+3. Should I uninstall `390` so I can install `450` and if so how? (there is no option in
+   `additional drivers` to unselect all options). Is the following ok?
+   
+		$ sudo apt purge nvidia-390 -y
+		$ sudo apt autoremove -y
+		$ sudo apt autoclean
+
+4. Should I [disable][3] `secure boot` before installing and enable it afterwards?
+
+**Current Config**
+
+- Ubuntu 16.04 LTS & Windows 10 dual boot
+- 8 gb ram
+- Nvidia GeForce GTX 1050/PCIe/SSE2
+
+
+  [1]: https://askubuntu.com/a/851144/443958
+  [2]: https://launchpad.net/~graphics-drivers/+archive/ubuntu/ppa
+  [3]: https://askubuntu.com/a/937898/443958
+  
+## Fastai cloning and installing with conda  
+
+
+**What seems to work**:
+
+	conda create --name fastaiclean 
+
+	conda install -c fastai -c pytorch -c anaconda fastai 
+	
+	conda install -c fastai -c pytorch -c anaconda gh
+	
+	conda install -c conda-forge notebook
+	
+Yes to all the disclaimers such as additional packages to be installed.
+	
+	
+Based on [this stack answer](https://stackoverflow.com/a/64056681/5986651): We don't need to install anaconda
+package as the miniconda install doesn't seem to require it.
+	
+	
+**Attempt 1** (BIG NO):
+
+[Man page](https://docs.fast.ai/#Installing) instructions:
+
+	conda install -c fastai -c pytorch -c anaconda fastai gh anaconda
+
+
+Before doing the above I first created a fastai env which is a clone
+of my base `conda create --name fastai --clone base`
+
+Error seems to be some [HTTPS error with Pytorch](https://forums.fast.ai/t/pytorch-installation-in-conda-environment-failing/6703). If I know what all
+packages I need to install. That is also good. this can be observed in
+here:
+https://github.com/fastai/fastai/blob/master/environment.yml. these
+are dependencies of fastai. `pytorch` is a dependency of fastai.
+
+
+
+**Attempt 2 (DIDN't try, but looks like it will work)** as long as you
+make a fresh env
+
+But where is python installed? Is it in fastai? **Guy 1**:
+https://forums.fast.ai/t/platform-local-server-ubuntu/65851/22
+
+
+	git clone https://github.com/fastai/fastai2
+	cd fastai2
+	conda env create -f environment.yml
+	conda activate fastai2
+...
+
+Another guy: https://forums.fast.ai/t/platform-local-server-ubuntu/65851
+
+	conda create --name fastaiv1
+	conda activate fastaiv1
+	conda install -c pytorch -c fastai fastai
+	
+	...
+	
+---by [wgpubs](https://forums.fast.ai/t/pytorch-installation-in-conda-environment-failing/6703/4). 
+
+If you’ve cloned the repo for `fastai` and installed/upgraded to the
+latest version of Anaconda:
+
+	cd <into your fastai folder>
+	conda env create -n fastai python=3.6 -f environment.yml
+	That should give you python 3.6 environment with all the required packages.
+
+
+**Note about Pip**
+
+> Just in case you haven’t found that one. They can coexist, but maybe
+> not in a way you’d expect. Pip can easily be run inside conda. You
+> can use conda to manage python versions, install some libraries and
+> then use pip for the rest. That will totally work. What will not
+> work are packages you installed before installing conda, but that’s
+> because the python you run after that (installed by conda) does not
+> have the same site-packages directory in sys.path. Ofc, you can
+> install them again after installing conda, but they will be
+> downloaded, unpacked, and possibly compiled (in case they do not
+> have wheels) again. ---[fastaiforum](https://forums.fast.ai/t/installing-fastai-on-ubuntu-using-pip-and-virtualenv/38356/3?u=thetj09)
+
+### Testing with intro.pynb
+
+
+``` python
+ImportError: IProgress not found. Please update jupyter and ipywidgets. See https://ipywidgets.readthedocs.io/en/stable/user_install.html
+```
+
+trying from the [link](https://ipywidgets.readthedocs.io/en/stable/user_install.html) above, 
+
+	conda install -c conda-forge ipywidgets
+
+
+
+**FASTAI works.** Somehow the GPU was not used at all, and what took 1 min
+for the lecturer in lesson 1 took me 15 mins (atleast that's what it
+said).
+
+**More reasonable testing:**
+
+https://songhuiming.github.io/pages/2019/02/16/install-nvidia-driver-on-ubuntu-install-fastai-and-pytorch/
+
+### Fixing GPU
+
+-  [ ] computer slow fix
+
+Based on this [stack answer](https://askubuntu.com/a/756409/443958)
+
+	sudo swapoff -a
+	sudo swapon -a
+
+- [ ] bench mark test to access gpu
+
+
+
+- [ ] maybe change libraries to improve speed
+
+### question on nvidia
+
+Which is the **LATEST STABLE proprietary drivers** for UBUNTU **16.04** and NVIDIA
+Geforce **GTX 1050** (4gb)? There are simply too many answers which I have compiled below:
+
+1. **Nvidia site** says [450](https://www.nvidia.com/Download/driverResults.aspx/163238/en-us)(450.66) is the latest for GTX 1050 (not
+   ubuntu version specific)
+
+	- download from [Nvidia site](https://www.nvidia.com/Download/driverResults.aspx/135161/en-us) and install
+	- apt-get has it's own install `sudo apt-get nvidia-\*\*450\*\*`,
+	
+2. **Additional drivers** tab in `Software and Updates` only shows version
+   `390`
+   
+   - **Note:** `graphics-drivers` PPA's have not been added yet.
+   
+3. [**launchpad**](https://launchpad.net/~graphics-drivers/+archive/ubuntu/ppa) says `430` (430.40)
+   
+    > Current long-lived branch release: `nvidia-430` (430.40) Dropped
+	> support for Fermi series
+	> (https://nvidia.custhelp.com/app/answers/detail/a_id/4656)
+	
+4. [**Launchpad**](https://launchpad.net/~graphics-drivers/+archive/ubuntu/ppa) also says old branch for GeForce 10 series (1050) is
+   390.129
+   
+   > Old long-lived branch release: `nvidia-390` (390.129)
+   > For GF1xx GPUs use `nvidia-390` (390.129)
+
+5. [Launchpad here](https://launchpad.net/~graphics-drivers/+archive/ubuntu/ppa) shows overview of packages (scroll down).
+
+	Here the version names contain 16.04 for `430`.
+	
+6. [Ubuntu recommended drivers](https://help.ubuntu.com/community/BinaryDriverHowto/Nvidia#NVIDIA_drivers_provided_by_the_Ubuntu_repositories) shows different version for
+   ubuntu. If I go by this then only `384` has supported versions for
+   16.04 (Xenial Xerus)
+
+These are some ofthe links I looked into:
+
+  [1] --> https://askubuntu.com/a/851144/443958  
+  [2] --> https://launchpad.net/~graphics-drivers/+archive/ubuntu/ppa  
+  [3] --> https://askubuntu.com/a/937898/443958  
+  [4] --> https://askubuntu.com/questions/1045241/ubuntu-18-04-how-do-i-install-drivers-for-my-nvidia-geforce-gtx-1050  
+[5] --> https://askubuntu.com/questions/61396/how-do-i-install-the-nvidia-drivers?noredirect=1&lq=1  
+
+
+### Answer to NVIDIA driver to be used
+
+It also says it is `open source` in my `addtional driver` tab... This
+looks like a [bug](https://askubuntu.com/questions/1185924/nvidia-vs-nouveau-drivers).
+
+**Plan**
+
+> The key to success is simply to go with the Additional Drivers tab
+> recommendations. The Ubuntu Developers worked really hard to make
+> that tab trustworthy and reliable. It only shows options that are
+> compatible with your hardware from sources that you already
+> subscribe to. After you add the PPA, then go with the Additional
+> Drivers tab (#2 / 430). If you encounter problems, downgrade to 410
+> or 390. ---[my post on stack](https://askubuntu.com/q/1277947/443958)
+
+  * [ ] Figure out what to do with secure boot
+  
+  * [ ] uninstall 390 how?
+  
+  * [ ] plan for issues that may come about
+  
+  * [ ] install 430. 
+  
+Inshallah Inshallah
+
+To check which drivers are installed, execute the following command :
+`dpkg --get-selections | grep nvidia`
+
+---
+
+**Uninstall and re-install**
+
+didn't uninstall. Just changed on `additional drivers` and rebooted
+and see that `nvidia-smi` shows `430`. But not sure if `dpkg
+--get-selections grep nvidia`  showing `nvidia-390 deinstall` and
+`nvidia-430 install` is a bad thins.
+
+**Resources on Nvidia graphics card**
+
+- [Stack detailed resource](https://askubuntu.com/a/61433/443958)
+
+These are some ofthe links I looked into:
+
+  [1] --> https://askubuntu.com/a/851144/443958  
+  [2] --> https://launchpad.net/~graphics-drivers/+archive/ubuntu/ppa  
+  [3] --> https://askubuntu.com/a/937898/443958  
+  [4] --> https://askubuntu.com/questions/1045241/ubuntu-18-04-how-do-i-install-drivers-for-my-nvidia-geforce-gtx-1050  
+[5] --> https://askubuntu.com/questions/61396/how-do-i-install-the-nvidia-drivers?noredirect=1&lq=1  
+
+### Cuda
+
+What is cuda?
+
+https://tech.amikelive.com/node-731/how-to-properly-install-nvidia-graphics-driver-on-ubuntu-16-04/
+
+Restarting didn't help access the gpu.
+
+
+Do I need cuda? 
+
+Do I have cuda? 
+
+Do I have the right version of cuda? from pytorch or something
+
+Does installing cuda use nvidia-smi?
+
+
+**Testing**
+
+check if pytorch even sees your device
+https://chrisalbon.com/deep_learning/pytorch/basics/check_if_pytorch_is_using_gpu/
+
+
+Pytorch looks  like it is not seeing nvidia.. Need to see what to
+do...
+https://stackoverflow.com/questions/48152674/how-to-check-if-pytorch-is-using-the-gpu
+
+
+
+and maybe cuda is not enough, or we can maybe use the right cuda
+
+I still don't know what is stable for ubuntu 16 and abd where to look?
+
+Base install of pytorch with the help of fastai's dependencies gets me
+not anywhere as gcard still aint working. pytorch doesn't recognize
+it...
+
+	print(torch.cuda.device_count())
+	0
+	print(torch.cuda.current_device())
+	
+	AssertionError: 
+	The NVIDIA driver on your system is too old (found version 10010).
+	
+Looking the assertion error on google points to [github pytorch
+issues](https://github.com/pytorch/pytorch/issues/4546) where they talk about versions not matching of the driver
+and the CUDA version. Digging a bit deeper you see the NVIDIA website
+regarding cuda and driver version numbers [Table 1: Nvidia site](https://docs.nvidia.com/deploy/cuda-compatibility/index.html).
+	
+I currently have cudatoolkit 10.2.89 (possibly the same as cuda version) installed with my fastaiclean
+install which probably installed the "necessary" dependencies. However
+according to Nvidia says `CUDA 10.2 (10.2.89)	>= 440.33`. But I have
+`430` only because `ppa: graphics-drivers` says so for ubuntu 16.
+
+Downgrading seems to be the way to gag...
+
+> Yup this. I downgraded cuda to 9.0 and everything works. Check your
+> LD_LIBRARY_PATH and make sure you have conda before /opt/cuda if you
+> dont want to downgrade your system version of CUDA
+
+Anything below cuda 10.2 is ok. i.e., How to downgrade cuda then bruv?
+
+BTW, `apt list --installed | grep cuda` shows `libcuda1-430/xenial,now
+430.64-0ubuntu0~gpu16.04.6 amd64 [installed,automatic]` 
+
+so I think `libcuda1-430` is expected to work with nvidia
+driver 430. That is great. It already installs it. Somehow either
+`pytorch` doesn't know it, or `pytorch` seems to be looking at the
+cudatoolkit within the `conda list`. Roughly as expressed in this
+[Stack Question](https://stackoverflow.com/questions/59529804/nvidia-cudatoolkit-vs-conda-cudatoolkit) and asnswered in the [same stack](https://stackoverflow.com/a/59940352/5986651) as I expected it
+to be... Inshallah. 
+
+
+> If using anaconda to install tensorflow-gpu, yes it will install
+> cuda and cudnn for you in same conda environment as
+> tensorflow-gpu. All you need to install yourself is the latest
+> nvidia-driver (so that it works with the latest CUDA level and all
+> older CUDA levels you use.)
+
+> Anaconda should ignore any version of CUDA outside of the conda
+> env. It shouldn't be able to find it.
+
+Interesting. For example [this guy:Songhuiming](https://songhuiming.github.io/pages/2019/02/16/install-nvidia-driver-on-ubuntu-install-fastai-and-pytorch/) did 410 driver and
+9.2 toolkit.
+
+**So basically**
+
+cuda version needed: <=10.1.105 (based on nvidia driver `418` which
+should work for `430`)
+
+Nvidia-smi output: 10.1
+
+conda list shows: 10.2.89
+
+Build channel: `conda list pytorch`: `py3.8_cuda10.2.89_cudnn7.6.5_0` 
+
+Assertion error:
+
+	AssertionError: 
+		The NVIDIA driver on your system is too old (found version 10010)
+
+Pytorch seems to be looking at cuda version 10010 (is this correctly
+interpreted)? (which could be 10.0.10??). ([code from wassname](https://gist.github.com/wassname/34626c2d31e28ffc864fc4f3027c4489))
+which should work for 430 right?
+
+``` python
+>>> print(torch._C._cuda_getDriverVersion(), 'cuda driver')
+10010 cuda driver
+```
+
+pytorch seems to be looking at version 10020 (which could be
+10.0.20??) which is the cuda compiled version.
+
+``` python
+>>> print(torch._C._cuda_getCompiledVersion(), 'cuda compiled version')
+10020 cuda compiled version
+```
+
+**Assuming the issue is with the downgrading**
+
+although it is not clear we proceed. 
+
+- make clone JIC
+
+- install like [this](https://pytorch.org/get-started/previous-versions/): 
+
+		conda install pytorch==1.6.0 torchvision==0.7.0 cudatoolkit=10.0.130 -c pytorch
+
+- tools 
+
+		conda search -c pytorch cudatoolkit ## searching for available version
+		
+		conda list pytorch ## current version installed
+	
+
+**So downgrade that motherfucker cudatoolkit but wait**
+
+My 430 driver should work with cuda \<= 10.1.105 according to
+[website](https://docs.nvidia.com/deploy/cuda-compatibility/index.html).
+
+  * [ ] Find out version of `libcuda1-430.64`. Couldn't and didn't
+        understand what was happeneing.
+
+  * [ ] cudatoolkit 10.2.89 to 10.1.105 downgrade
+
+Unable to go down... Tried....
+
+	conda install pytorch==1.6.0 torchvision==0.7.0
+	cudatoolkit=10.0.130 -c pytorch
+	
+Error in the end: 
+
+``` terminal
+
+(fastaiclean) eghx@eghx-nitro:~$ conda install pytorch==1.6.0 torchvision==0.7.0 cudatoolkit=10.0.130 -c pytorch
+Collecting package metadata (current_repodata.json): done
+Solving environment: failed with initial frozen solve. Retrying with flexible solve.
+Solving environment: failed with repodata from current_repodata.json, will retry with next repodata source.
+Collecting package metadata (repodata.json): done
+Solving environment: failed with initial frozen solve. Retrying with flexible solve.
+Solving environment: \ 
+Found conflicts! Looking for incompatible packages.
+This can take several minutes.  Press CTRL-C to abort.
+Examining conflict for pexpect ipykernel ipython ipywidgets: : 151it
+[03:17,  1.Examining conflict for ipykernel ipython ipywidgets
+pickleshare: : 152it [03:17,Examining conflict for ipykernel ipython
+ipywidgets pickleshare: : 153it [03:17,Examining conflict for
+ipykernel ipython ipywidgets prompt-toolkit: : 153it [03:Examining
+conflict for ipykernel ipython ipywidgets prompt-toolkit: : 154it
+[03:Examining conflict for spacy ipython wcwidth prompt-toolkit: :
+154it [03:18,  3.Examining conflict for spacy ipython wcwidth
+prompt-toolkit: : 155it [03:18,  3.Examining conflict for pyqt qt
+fontconfig: : 155it [03:19,  3.58it/s]           failed         
+...
+
+The following specifications were found to be incompatible with your system:
+
+  - feature:/linux-64::__cuda==10.1=0
+  - feature:|@/linux-64::__cuda==10.1=0
+
+Your installed version is: 10.1
+```
+	
+Got conflicts and ended up with no change in versions of
+`cudatoolkit` atleast.
+
+**Plan**
+
+1. Why am I getting conflicts? 
+
+2. what should I then do?
+
+3. what about 10.1 version shown in nvidia-smi?
+ 
+4. Have a look at this [medium post](https://towardsdatascience.com/managing-cuda-dependencies-with-conda-89c5d817e7e1)
+
+I tried changing all versions of pytorch torchvision and
+cudatoolkit. Maybe I should just stick to one.
+
+### question cuda pytorch
+
+Cuda version and Nvidia driver version seem to not be compatible
+
+	print(torch.cuda.current_device())
+	
+	AssertionError: 
+		The NVIDIA driver on your system is too old (found version
+		10010)
+		
+So I went back to my conda environment and installed
+
+### Multiple versions of cuda
+
+I have Nvidia driver `430` on Ubuntu 16.04 with Geforce 1050. It comes
+with `libcuda1-430` when I installed the driver from `additional
+drivers` tab in ubuntu (`Software and Updates`). I installed `pytorch`
+with `conda` which also installed the `cudatoolkit`. 
+
+1. `nvidia-smi` says I have cuda version `10.1`
+
+2. `conda list` tells me cudatoolkit version is `10.2.89` 
+
+3. `print(torch.cuda.current_device())`, I get `10.0.10`? (it
+   looks like):
+   
+    > AssertionError: The NVIDIA driver on your system is too old
+		(found version 10010)
+
+4. `print(torch._C._cuda_getCompiledVersion(), 'cuda compiled
+   version')` tells me my version is `10.0.20`? 
+   
+   > 10020 cuda compiled version
+   
+What am I missing? What version of CUDA is my torch actually looking
+at? Why are there so many different versions?
+
+<!-- Based on [Nvidias site](https://docs.nvidia.com/deploy/cuda-compatibility/index.html) I know I need to have <=`CUDA 10.1 -->
+<!-- (10.1.105)`. -->
+
+
+### Mupltiple versions of cuda answer
+
+1. `nvidia-smi` is just showing version it can handle according to
+   [Berriel from stack](https://stackoverflow.com/q/64089854/5986651)
+   
+2. Using `torch.version.cuda` we can find out which version pytorch
+   was built with. this was found to be 10.2 (as was `cudatoolkit
+   version`)
+   
+3. & 4. forget it.
+
+Suggestion was to remove pytorch torchvision and cudatoolkit
+
+	conda remove pytorch torchvision cudatoolkit
+	
+It provided a huge list it was going to remove, a huge list it was
+going to add and deprecate and download. I blindly said yes. 
+
+Now following it as per `nvidia-smi` output that 430 can support 10.1
+cuda, we attempt
+
+``` terminal
+conda install pytorch==1.6.0 torchvision==0.7.0 cudatoolkit=10.1.168
+-c pytorch
+```
+	
+Again it asks for several things I say yes blindly but 	seemingly **NO
+CONFLICTS**
+
+check what torch.version.cuda is: `10.1`
+	
+**Checking seems successful** based on [SO answer](https://stackoverflow.com/a/48152675/5986651)
+
+``` python
+In [1]: import torch
+
+In [2]: torch.cuda.current_device()
+Out[2]: 0
+
+In [3]: torch.cuda.device(0) ## previously this gave "old driver error"
+Out[3]: <torch.cuda.device at 0x7efce0b03be0>
+
+In [4]: torch.cuda.device_count()
+Out[4]: 1
+
+In [5]: torch.cuda.get_device_name(0)
+Out[5]: 'GeForce GTX 950M'
+
+In [6]: torch.cuda.is_available()
+Out[6]: True
+```
+`torch.cuda.device(0)` previously gave the assertion error that Nvidia
+driver was too old.
+
+Now I have the value as 0 which seems to be expected as per: [SO answer](https://stackoverflow.com/a/48152675/5986651).
+
+Fresh error: Now fastai is missing.
+
+Am thinking of doing a fresh install with all of this...
+
+
+Well I tried
+
+    conda install -c pytorch -c fastai fastai
+	
+Didn't ask to redownload cudatoolkit or pytorch and came without any
+exceptions...
+
+so far so good.
+
+TEsting pytorch stuff again....
+
+``` terminal
+eghx@eghx-nitro:~$ conda activate fastaiclean
+(fastaiclean) eghx@eghx-nitro:~$ python
+Python 3.8.5 (default, Sep  4 2020, 07:30:14) 
+[GCC 7.3.0] :: Anaconda, Inc. on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import torch
+>>> torch.cuda.current_device()
+0
+>>> torch.cuda.device(0)
+<torch.cuda.device object at 0x7f14de991d30>
+>>> torch.cuda.device_count()
+1
+>>> torch.cuda.get_device_name()
+'GeForce GTX 1050'
+>>> torch.cuda.is_available()
+True
+>>> print(torch.rand(2,3).cuda())
++tensor([[0.2424, 0.8397, 0.6206],
+        [0.0982, 0.4568, 0.3958]], device='cuda:0')
+>>> print(torch.rand(2,3).cuda())
+tensor([[0.8775, 0.8157, 0.1333],
+        [0.6189, 0.9641, 0.5741]], device='cuda:0')
+>>> 
+
+```
+
+For the first fucking time I saw another process on nvidia-smi
+(INSHALLAH INSHALLAH)
+
+
++-----------------------------------------------------------------------------+
+| Processes:                                                       GPU Memory   |
+| GPU       PID   Type   Process name                             Usage         |
+| ============================================================================= |
+| 0      1164      G   /usr/lib/xorg/Xorg                           293MiB      |
+| 0      2252      G   compiz                                       114MiB      |
+| 0     22866      C   python                                       431MiB      |
++-----------------------------------------------------------------------------+
+
+
+
+Oh my god all of the ram is being consumed and I am still able to
+work! WOW
+
+all 4 cores are not even being used fully ... WOWO.
+
+### Conda install conflicts (question)
+
+How to downgrade cuda to 10.0.10 with conda without conflicts? 
+
+So I decided to go for the CUDA (cudatoolkit) version compatible with
+`430`. i.e., `10.0.130` as recommended by the [Nvidias site](https://docs.nvidia.com/deploy/cuda-compatibility/index.html).
+
+Based on [this answer](https://stackoverflow.com/a/23974240/5986651) I did `conda install -c pytorch
+cudatoolkit=10.0.130` and then I get [this error (pastebin
+link)](https://pastebin.com/NG8hRY7N). Very-short version below:
+
+
+``` terminal
+(fastaiclean) eghx@eghx-nitro:~$ conda install -c pytorch cudatoolkit=10.0.130
+...  
+Solving environment: failed with initial frozen solve. Retrying with flexible solve.
+Solving environment: | 
+Found conflicts! Looking for incompatible packages.
+This can take several minutes.  Press CTRL-C to abort.
+failed   
+UnsatisfiableError: The following specifications were found to be incompatible with each other:
+
+Output in format: Requested package -> Available versions
+
+Package _libgcc_mutex conflicts for:
+pyzmq -> libgcc-ng[version='>=7.3.0'] -> _libgcc_mutex=[build=main]
+libgcc-ng -> _libgcc_mutex=[build=main]
+lcms2 -> libgcc-ng[version='>=7.3.0'] -> _libgcc_mutex=[build=main]
+...  
+The following specifications were found to be incompatible with your system:
+
+  - feature:/linux-64::__cuda==10.1=0
+  - feature:|@/linux-64::__cuda==10.1=0
+
+Your installed version is: 10.1
+
+```
+
+Why am I getting conflicts? Why does it say `10.1` when cuda toolkit
+is `10.2.89` (`conda list`)? how to handle conflicts? What can I do
+with this error? The conflicts are so huge, I don't know where to start.
+
+**History**
+
+Firstly, based on [Nvidias site](https://docs.nvidia.com/deploy/cuda-compatibility/index.html) I know I need to have cuda version  <=`CUDA 10.1
+(10.1.105)` for a `430` version Nvidia driver.
+
+Checking with `print(torch.cuda.current_device())` the following
+error:
+   
+    > AssertionError: The NVIDIA driver on your system is too old
+	> (found version 10010)
+
+I have cudatoolkit `10.2.89` in my conda environment. so it all "makes
+sense" to downgrade?
+
+**Other**
+
+- Nvidia driver `430`
+
+- current cudatoolkit: 10.2.89
+
+### Fixing xorg process on nvidia
+
+**Resources**
+
+[fastaiforum](https://forums.fast.ai/t/successful-ubuntu-18-04-with-igpu-for-xserver-and-nvidia-gpu-for-cuda-work-setup/20128/2)
+
+[Isolate integrated intel (igpu) from Nvidia (gpu)](https://askubuntu.com/questions/980875/isolate-integrated-intel-igpu-from-nvidia-gpu)
+
+[How to configure iGPU for xserver and nvidia GPU for CUDA work](https://askubuntu.com/questions/1061551/how-to-configure-igpu-for-xserver-and-nvidia-gpu-for-cuda-work) BY
+FASTI STASON
+
+[How to configure igpu for xserver and nvidia gpu for cuda?](https://askubuntu.com/a/995125/443958) by
+simple solution guy
+
+
+**Attempt 1**
+
+1. change intel graphics card on nvidia settings
+
+2. added the 
+
+		export LD_LIBRARY_PATH=/usr/lib/nvidia-430:$LD_LIBRARY_PATH
+		
+and then restarted....
+
+Now, external monitor doesn't work anymore and nvidia graphics is not
+recognized :(
+
+
+- Put command in 2 in .bashrc to work with every terminal
+open... `LD_Library_path` loses its value after terminal session
+
+Testing with this to check if it is even worth running something with
+this 10% gain in ram.
+
+|                                 | time1 | time2 |
+|---------------------------------|-------|-------|
+| xorg running on Nvidia          | 1:56  | 1.19  |
+| no processes and missing screen | 2.03  | 1.15  |
+| Reverting back                  | 2.10  | 1.18  |
+| adding the lib stuff            | 1.11  | 1.19  |
+| second time                     | 0.58  |1.17  |
+
+Damn this is so useful.
+
+
+Maybe I can try later.
+
+What was the point of all this effort? Maybe it helps with something
+else? not sure... How easy is it to go back? and we are potentially
+talking about 11.4% increase in ram with all the burdens I am facing
+now. Maybe it is time to call it a day? Worst is I don't see any
+increase in value.
+
+**Going back to xorg and all the same way**
+
+[Nvidia forums](https://forums.developer.nvidia.com/t/nvidia-settings-error-unable-to-load-info-from-any-available-system/60804/5): `prime-select nvidia`
+
+
+test it... ????????????
+
+
+**Next: So** let's add the xconf file back and see what it does. or
+modify it ..
+
+If this allows monitor to work, we keep it otherwise we go back with
+`prime-select nvidia`
+
+I want to check out the xconf solution without even modifying any
+xconf process.
+
+[components of a GUI](https://en.wikipedia.org/wiki/Display_server)
+
+It's too complicated to get other screen to work and get cuda to
+run.. Especially for the complete lack of progress I got. so screw
+that.
+
+`sudo prime-select nvidia`
+
+everything works for now... Wrap it up...
+
+Maybe just add the turbo stuff and wrap it up..
+
+write post on how to install... clean up this post
+
+reply to several ask ubuntu posts 
+
+Start with the course work as of tomorrow
+
+How about jupyter in emacs? fuck me...
+
+### libtoibo shit
+
+conda install -c conda-forge libjpeg-turbo 
+
+CC="cc -mavx2" pip install --no-cache-dir -U --force-reinstall
+--no-binary :all: --compile pillow-simd
+
+
+### FASTER
+
+- No X-server stuff on Nvidia
+
+https://forums.fast.ai/t/successful-ubuntu-18-04-with-igpu-for-xserver-and-nvidia-gpu-for-cuda-work-setup/20128/9?u=thetj09
+
+
+- step 3 in above link: lib stuff to turbo lib stuff
+https://forums.fast.ai/t/platform-local-server-ubuntu/65851?u=thetj09 
+
+	- [medium post](https://medium.com/@JamesDietle/install-fast-ai-with-ubuntu-18-04-d92c0bc460bd#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6IjJjNmZhNmY1OTUwYTdjZTQ2NWZjZjI0N2FhMGIwOTQ4MjhhYzk1MmMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJuYmYiOjE2MDEwMDI0MjEsImF1ZCI6IjIxNjI5NjAzNTgzNC1rMWs2cWUwNjBzMnRwMmEyamFtNGxqZGNtczAwc3R0Zy5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsInN1YiI6IjExMDA3ODMxNzc3MzIxMDQ5MzYyNyIsImVtYWlsIjoidGhldGowOUBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXpwIjoiMjE2Mjk2MDM1ODM0LWsxazZxZTA2MHMydHAyYTJqYW00bGpkY21zMDBzdHRnLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwibmFtZSI6IlRoZWogS2lyYW4iLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dzVWZyNFFLSk44WEx3ZnEwUXhPOHFRdFhZWlZYRUgwbjBEX0xjMGc9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGhlaiIsImZhbWlseV9uYW1lIjoiS2lyYW4iLCJpYXQiOjE2MDEwMDI3MjEsImV4cCI6MTYwMTAwNjMyMSwianRpIjoiNTUzNTA4YzBjMGU3MWY3M2I1MjJiYjY1ZWRmYTE0MmJlYmU1ZmRiMCJ9.hkA7m2I80iCb5PRQJYxaRfAZ5IjeRgbICbAMHN237J_aVwm4C_mBXfSkp6tFpgqp4JqOMCI_FetqEmlXlimKDvoH1Hfd5hpJ2wmqcs9E1FsLYqQ5nv7ff4RdAHcViJQtSS4ikhTEXNn-s4JkPDNP7FZ70_30Do3A0XOJNAxqUvG-xX2xvgJ56xPAK0sN8FPY6wbhM_y0spvE9r8SDtIsodx3NClzJ9asNjFQqnsjOQjIv3C-46qzSgZQpXIn5mQZSSAzfQYsZOJHQQfQ7ECWjKSZxycCegLlF_cy4L5OtEYYC4aSyrJpmNDh0ylbPtSCaUPq9ELXY81Vc4lcxabxdg) by some pisth 
+	
+	
+	
+	
+- Make post on SO about nvidia driver what is the latest for ubuntu16
+
+- Make post on SO about how to identify why nvidia smi is not working
+  or showing anything
+
+### Other sources regarding installation
+
+- [medium post](https://medium.com/@JamesDietle/install-fast-ai-with-ubuntu-18-04-d92c0bc460bd#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6IjJjNmZhNmY1OTUwYTdjZTQ2NWZjZjI0N2FhMGIwOTQ4MjhhYzk1MmMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJuYmYiOjE2MDEwMDI0MjEsImF1ZCI6IjIxNjI5NjAzNTgzNC1rMWs2cWUwNjBzMnRwMmEyamFtNGxqZGNtczAwc3R0Zy5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsInN1YiI6IjExMDA3ODMxNzc3MzIxMDQ5MzYyNyIsImVtYWlsIjoidGhldGowOUBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXpwIjoiMjE2Mjk2MDM1ODM0LWsxazZxZTA2MHMydHAyYTJqYW00bGpkY21zMDBzdHRnLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwibmFtZSI6IlRoZWogS2lyYW4iLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dzVWZyNFFLSk44WEx3ZnEwUXhPOHFRdFhZWlZYRUgwbjBEX0xjMGc9czk2LWMiLCJnaXZlbl9uYW1lIjoiVGhlaiIsImZhbWlseV9uYW1lIjoiS2lyYW4iLCJpYXQiOjE2MDEwMDI3MjEsImV4cCI6MTYwMTAwNjMyMSwianRpIjoiNTUzNTA4YzBjMGU3MWY3M2I1MjJiYjY1ZWRmYTE0MmJlYmU1ZmRiMCJ9.hkA7m2I80iCb5PRQJYxaRfAZ5IjeRgbICbAMHN237J_aVwm4C_mBXfSkp6tFpgqp4JqOMCI_FetqEmlXlimKDvoH1Hfd5hpJ2wmqcs9E1FsLYqQ5nv7ff4RdAHcViJQtSS4ikhTEXNn-s4JkPDNP7FZ70_30Do3A0XOJNAxqUvG-xX2xvgJ56xPAK0sN8FPY6wbhM_y0spvE9r8SDtIsodx3NClzJ9asNjFQqnsjOQjIv3C-46qzSgZQpXIn5mQZSSAzfQYsZOJHQQfQ7ECWjKSZxycCegLlF_cy4L5OtEYYC4aSyrJpmNDh0ylbPtSCaUPq9ELXY81Vc4lcxabxdg) by some pisth 
+
+- [Stack](https://askubuntu.com/q/1077061/443958): How do I install NVIDIA and CUDA drivers into Ubuntu?
+
+
+## Lesson 1
+
+
+1. [x] Let's setup a gpu online first: https://course.fast.ai/start_gradient
+
+2. [ ] Look for GPU usage on PC: https://forums.fast.ai/t/wiki-thread-lesson-1/6825
+
+### Resources
+
+- [Lesson wiki](https://forums.fast.ai/t/wiki-thread-lesson-1/6825)
+
+- [course notes](https://medium.com/@hiromi_suenaga/machine-learning-1-lesson-1-84a1dc2b5236) by someone on medium
+
+### Jupiter
+
+- Jupiter with crestle 
+- aws or PC
+- paperspace (have )
+
+### Jupyter in emacs
+
+https://tkf.github.io/emacs-ipython-notebook/
+
+### todo
+
+setup jupyter on emacs and browser to see how different it is....
+
+- clone fast ai [repo](https://github.com/fastai/fastai), instructions on website... 
+
+finish this course lecture 1 atleast. seeing it
+
+- followed by assignmets
+
+- **figure out how to use fast ai (pc or aws or whatever) with
+  jupyter**
+
+## stack
+
+I am trying to install [fastai][1] but I don't understand what they are trying to do with `conda install`.
+
+The [man page][1] of `fastai` says:
+
+    conda install -c fastai -c pytorch -c anaconda fastai gh anaconda
+
+**Does this mean:** the channels to be used are `fastai`, `pytorch` and `anaconda` while the packages to be installed are `fastai`, `gh` and `anaconda` respectively? I think they want to install `pytorch` and `fastai` basically. But they don't even mention `pytorch` package.
+
+`conda install` seems to be done like this:
+
+    conda install -c <package-name>
+
+  [1]: https://github.com/fastai/fastai
+  [2]: https://github.com/fastai/fastai/blob/master/environment.yml
+
+- If I want to install `pytorch` is it enough to mention the channel alone?
+
+    conda install -c pytorch
+
+- Is this even correct to install `anaconda` with `conda install`? Don't you have `conda install` as a result of installing `anaconda`?
+
+    conda install -c fastai -c pytorch -c anaconda fastai gh anaconda
+
+If I look at the [yml file][2] for any clues, then I am even more puzzled about what needs to be installed:
+
+> name: fastai 
+> channels:
+> - fastai
+> - pytorch
+> - defaults dependencies:
+> - fastcore>=1.0.0...
+> - pytorch>=1.6.0
+
+
+## Other useful links
+
+[Managing your data science project environments with Conda](https://towardsdatascience.com/managing-project-specific-environments-with-conda-406365a539ab)

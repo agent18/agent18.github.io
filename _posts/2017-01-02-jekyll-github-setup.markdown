@@ -6,21 +6,10 @@ date:   2017-01-10 23:54
 categories: posts
 permalink: /:title.html
 ---
-<!-- <img src="/images/git.png" width="200" height="200" /> --> 
----
 
-#### **Entry question** : How to get a static-blogging-site up and running using jekyll and Github pages.
-This is supposed to be a guide based on my experience with trying to use github and jekyll within an **ubuntu** environment. This is definitely not the complete guide. Several issues are not discussed in detail. But please hit me up in case you are stuck. Maybe I am able help. I am more than glad to help.
+## setting up gh-pages with jekyll
 
----
-
-#### **What do we want to do?**
-
-We want to write some posts in simple-plain-text-based Markdown and then magically want it to show up in a site username.github.io, which is also the name of our repository(folder) on github. To get this to work, we need to install jekyll, write 3 commands and then setup github pages and write ~7 more commands and then we should have a working site. I warn you now and I warn you hard that it took me quite some time to get it to work. Especially getting jekyll running was a pain. For now don't delve too much into what each command does and run with the flow. We figure out things as and when we hit a road block.
-
---- 
-
-#### **Jekyll** 
+### Jekyll 
 Start [here][jekyll_welcome] to understand what jekyll is and move on to the next
 page to see some instructions on how to get started. We need jekyll
 and bundler installed via gem. I found a nice help on [this stack
@@ -90,6 +79,194 @@ Jekyll would be smoothly installed.
 
 --- 
 
+### gh-pages setup
+
+This has been been tested on okt 18th.
+
+1. Repository name: "username.github.io"
+2. branch: Master/Main
+3. Don't choose theme
+4. No readme or anything to be added
+
+Following are the commands that need to be executed based on [gh-pages](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll):
+
+	jekyll new my-awesome-site
+	cd my-awesome-site
+	jekyll serve
+
+More about Jekyll file structure on the [Jekyll website](https://jekyllrb.com/docs/themes/).
+
+	cd my-awesome-site # go inside the jekyll folder
+	git init # initializes the local repository into a git recognizable.
+	git add . 
+	git commit -m "First commit" 
+	git push # won't work
+
+	git remote add origin "remote url of repo"
+	git push -u origin main
+	git status
+		
+Add this @ some point (the terminal will most likely suggest the
+following two):
+	
+	git config --global user.email "agent18@github.io"
+		
+	git config --global user.name "agent18"
+	
+	git config --global push.default simple
+
+
+### restoring sites folders
+
+[Jekyll main](https://jekyllrb.com/docs/themes/)
+
+[There is a way here](https://stackoverflow.com/questions/59913903/how-to-run-bundle-exec-jekyll-new)
+
+[gh-pages instructions on how to do it](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll)
+
+### Adding favicon
+
+Source: [how to add favicon to your site](https://medium.com/@xiang_zhou/how-to-add-a-favicon-to-your-jekyll-site-2ac2179cc2ed)
+
+Find out where minima is:
+
+	bundle show minima
+	
+copy the `head.html` you wanna change to `_includes` and then add
+after `<meta name="viewport"...` line.
+
+``` html
+<link rel="icon" type="image/png" href="./images/favicon.png"/>
+```
+
+### Removing Jekyll website names based on categories and date
+
+Source: [permalink on jekyll site](https://jekyllrb.com/docs/permalinks/)
+
+Add this to every post `front matter`: 
+
+	permalink: /:title.html
+	
+
+### adding math capabilities
+
+Source: [how to use math with github pages and jekyll](https://stackoverflow.com/a/46765337/5986651)
+
+Add the following to the end of the `head.html` file.
+
+``` html
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']]
+      }
+    });
+  </script>
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> 
+```
+[Here](https://stackoverflow.com/a/30389289/5986651) are ways you wanna do it.
+
+1. Write between two Dollar signs to get inline output. 
+
+$\frac{2}{3}$, $$\frac{2}{3}$$,
+
+1. Following gives very neat output and centered:
+
+\\[ \frac{1}{n^{2}} \\] 
+
+1. or suggested. I have always used the dollar sign and it has worked decently.
+
+{% raw %}
+$$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping!  
+{% endraw %}
+
+### Discuss comments
+
+Source: [link 1](https://desiredpersona.com/disqus-comments-jekyll/), 
+
+1. You can create different "shortnames" for different sites with the
+   same account. I have `agent18` and `another-name`.
+   
+2. Find `post.html` using `bundle show minima` in the right
+   folder. Copy and past.
+   
+3. `Post.html` already has this:
+
+	``` html
+	{%- if site.disqus.shortname -%}
+		{%- include disqus_comments.html -%}
+	{%- endif -%}
+	```
+4. `config.yml` add:
+
+	``` yml
+	disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: "another-name"
+	```
+5. Add the `universal code` from disqus.
+
+6. Finally paste the `counter-thingy` at the end of `post.html`. Not
+   fully sure how to get it working or what exactly it does. But just
+   wrapped it up.
+
+
+### changing repository name
+
+Source: [changed repository name](https://stackoverflow.com/a/30443593/5986651)
+
+Updating local folder with changes on the repository name.
+
+	git remote rm origin
+	git remote add origin [updated link]
+
+### adding a general image to every post
+### changing formatting?
+## starting up with **existing** gh-pages
+
+So I have fastpages setup on the github. Apprently it uses
+jekyll... How convinient?
+
+	sudo apt-get install git
+
+	git clone https://github.com/agent18/agent18.github.io.git myblock
+	
+	git add -A
+	
+	git commit -m "empty testing git on new pc"
+
+	git config --global user.email "agent18@github.io"
+	
+	git config --global user.name "agent18"
+	
+	git config --global push.default simple
+	
+	git config --global credential.helper cache
+
+	git commit -m "empty testing git on new pc"
+	
+	git push
+
+That's it. Git will start working, in combination with jekyll.
+
+	jekyll serve
+
+
+## Deprecated
+
+#### **Entry question** : How to get a static-blogging-site up and running using jekyll and Github pages.
+This is supposed to be a guide based on my experience with trying to use github and jekyll within an **ubuntu** environment. This is definitely not the complete guide. Several issues are not discussed in detail. But please hit me up in case you are stuck. Maybe I am able help. I am more than glad to help.
+
+---
+
+#### **What do we want to do?**
+
+We want to write some posts in simple-plain-text-based Markdown and then magically want it to show up in a site username.github.io, which is also the name of our repository(folder) on github. To get this to work, we need to install jekyll, write 3 commands and then setup github pages and write ~7 more commands and then we should have a working site. I warn you now and I warn you hard that it took me quite some time to get it to work. Especially getting jekyll running was a pain. For now don't delve too much into what each command does and run with the flow. We figure out things as and when we hit a road block.
+
+--- 
+
 #### **Github pages**
 [Github pages][github_pages] helps to host our site along with this epic time machine called git (read about it). All you need to do is to "upload" the contents from "my-awesome-site" to github pages and bam, username.github.io shows the site as you saw locally. Ofcourse you need to setup git and github_pages. Look down!
 
@@ -98,7 +275,11 @@ Create a new Github repository using this [page's][github_pages] exact instructi
 
 #### **Setting up a first connection between online (http://github.com/agent18) and local (my-awesome-site)** 
 
-Go inside topmost jekyll folder (my-awesome-site) - the one that contains \_posts/, \_site/, etc. Now, we will make this folder into a git repository. This folder is what should go up on Github. Follow the instructions on [this page][github_add_existing]. Step 1 is already done, so skip it. The commands are reproduced for convenience:
+Go inside topmost jekyll folder (my-awesome-site) - the one that
+contains \_posts/, \_site/, etc. Now, we will make this folder into a
+git repository. This folder is what should go up on Github. Follow the
+instructions on [this page][github_add_existing]. Step 1 is already done, so skip
+it. The commands are reproduced for convenience:
 
 	$ cd my-awesome-site # go inside the jekyll folder
 	$ git init # initializes the local repository into a git recognizable.
@@ -168,7 +349,10 @@ That's it. Git will start working, in combination with jekyll.
 ---
 
 ####  **Disqus comments**
-Disqus offers a simple system so that people can comment in your posts. All you need to do is copy paste a universal code into /layouts/\_post and register your site with Disqus. Refer [here][jekyll_disqus] and [here][jekyll_disqus_2] and be blessed. Good luck and big balls!
+Disqus offers a simple system so that people can comment in your
+posts. All you need to do is copy paste a universal code into
+/layouts/\_post and register your site with Disqus. Refer [here][jekyll_disqus]
+and [here][jekyll_disqus_2] and be blessed. Good luck and big balls!
 
 #### Writing Math equations!
 
