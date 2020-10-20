@@ -253,6 +253,90 @@ That's it. Git will start working, in combination with jekyll.
 
 	jekyll serve
 
+## Gem, rubygems, bundler, jekyll 
+
+### Basics
+
+> RubyGems is a package manager for the Ruby programming language that
+> provides a standard format for distributing Ruby programs and
+> libraries (in a self-contained format called a "gem"), a tool designed
+> to easily manage the installation of gems, and a server for
+> distributing them.---[What is a Ruby Gem](https://stackoverflow.com/a/5233948/5986651)
+
+`Gems` seem to be individual `packages`. `RubyGems` the package manager
+like `apt-get` I guess. `Bundler` is an overarching package manager
+giving the seeming feel of `conda` and its different
+environments. `Bundler` allows you to select the "envs" using
+`Gemfile.lock` and `bundle exec` commands.
+
+**Gemfile & Gemfile.lock**
+
+First time you run `bundle install` in a folder where `Gemfile` is
+installed, you create a file `Gemfile.lock`. This file contains all
+the packages and dependencies installed verbatim to version number. 
+
+**Transferring the files**
+
+When you hand over someone the whole folder, if that person runs
+`bundle install` he gets all the exact versions installed as per the
+`Gemfile.lock` file and not the `Gemfile`.
+
+**Updating gems**
+
+Now when I want to add some other `gems` such as a `Javascript
+runtime`, all I have to do is add this to the `Gemfile` (`gem
+"therubyracer"`) and then `bundle install` and only that
+`therubyracer` is added. 
+
+The `env` part of `bundler` kicks in now. I want to run `jekyll serve`
+based around the `Gemfile.lock` file. So `bundle exec jekyll serve`
+makes that happen.
+
+The beauty of `bundler`, `gems` and everything coming together with
+the "envs" is explained in [bundler rationale](https://bundler.io/v1.12/rationale.html) and summarized in
+[this stack answer](https://stackoverflow.com/a/10959764/5986651).
+
+### Bundler: can't find gem bundler (>= 0.a) (Gem::GemNotFoundException)
+
+`bundle install` gives this error:
+
+While installing [fastpages](https://github.com/fastai/fastpages) and cloning it to my PC and running it
+locally, I got the following error.
+
+As per [this stack answer](https://stackoverflow.com/a/54088452/5986651), did `gem install bundle`. I had version
+`1.something`, but the `Gemfile.lock` file had.
+
+	BUNDLED WITH
+	2.1.4
+
+### Jekyll “Could not find a JavaScript runtime” error
+
+Once I ran `bundle exec jekyll serve --trace` there were no error
+messages anymore.
+
+``` terminal
+: Could not find a JavaScript runtime. See https://github.com/rails/execjs for a list of available runtimes. (ExecJS::RuntimeUnavailable)
+```
+
+Tried adding `gem "therubyracer"` to the `Gemfile` which one of the 7
+mentioned [in the error link above](https://github.com/rails/execjs) and `bundle install`. No more
+errors with `bundle exec jekyll serve`
+
+### Installing fastpages
+
+   
+first running `gem install bundle` and then doing `bundle install` to
+install from `Gemfile.lock` and then `bundle exec jekyll serve` to use
+run in the context of the existing bundle.
+
+### Useful gem commands
+
+`gem list --local` lists current gems installed (including all
+versions), i.e., `jekyll (4.1.1, 3.8.7, 3.8.4, 3.8.3)`.
+
+`gem env` lists all the versions things like `rubygems` and `bundler`
+etc...
+
 
 ## Deprecated
 
