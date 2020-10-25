@@ -1,5 +1,39 @@
 #+COLUMNS: %7TODO(To Do) %40ITEM(Task) %10CLOCKSUM(Clock)
 #+TAGS: work(w)  DP(d) break(b) meta(m) DS(s) blog(g) other(o) reading(r) NATW(n) apping(a)
+* Applying for Junior DS job
+** Counted for work                                                    :work:
+*** push issues on other repos
+CLOCK: [2020-10-25 zo 23:26]
+*** find CV repo set it up
+*** make cv
+** Other useful stuff                                                 :meta:
+*** Work done for STM 
+
+** Not counted for DP                                                :break:
+*** Breaks
+**** Working on Org mode
+**** Dreaming
+**** Random
+*** Sleeping 
+*** Watching Youtube
+*** Playing with phone
+
+*today
+
+finish settling money with achu
+
+watch porn and sleep
+plan for friday to celebrate guns bday
+picnic
+
+for work
+
+Randomization 
+send mail about carpooling 
+final mail (weather and shit)
+
+buy holidays tomorow
+buy shares figure out tomo
 * Data science                                                         :work:
 ** Counted for work                                                    :work:
 *** Prepping for task
@@ -154,7 +188,6 @@ CLOCK: [2020-10-24 za 18:00]--[2020-10-24 za 18:27] =>  0:27
 CLOCK: [2020-10-24 za 11:00]--[2020-10-24 za 12:24] =>  1:24
 CLOCK: [2020-10-23 vr 22:58]--[2020-10-24 za 01:05] =>  2:07
 ***** Write a complete blogpost
-CLOCK: [2020-10-25 zo 17:18]--[2020-10-25 zo 17:18] =>  0:00
 CLOCK: [2020-10-25 zo 16:42]--[2020-10-25 zo 17:18] =>  0:36
 CLOCK: [2020-10-25 zo 14:45]--[2020-10-25 zo 16:15] =>  1:30
 CLOCK: [2020-10-25 zo 11:55]--[2020-10-25 zo 12:46] =>  0:51
@@ -3135,14 +3168,6 @@ about it.
 
 #+BEGIN: clocktable :maxlevel 2 :scope file :step week :tstart "<-4w>" :tend "<tomorrow>" :compact t :tags "-break-NATW"
 
-Weekly report starting on: [2020-09-26 za]
-| Headline               |    Time |
-|------------------------+---------|
-| *Total time*           | *11:26* |
-|------------------------+---------|
-| Data science           |   11:26 |
-| \emsp Counted for work |   11:26 |
-
 Weekly report starting on: [2020-09-28 ma]
 | Headline               |    Time |
 |------------------------+---------|
@@ -3170,10 +3195,10 @@ Weekly report starting on: [2020-10-12 ma]
 Weekly report starting on: [2020-10-19 ma]
 | Headline               |    Time |
 |------------------------+---------|
-| *Total time*           | *14:36* |
+| *Total time*           | *22:58* |
 |------------------------+---------|
-| Data science           |   14:36 |
-| \emsp Counted for work |   14:36 |
+| Data science           |   22:58 |
+| \emsp Counted for work |   22:58 |
 #+END:
 
 
@@ -3182,14 +3207,6 @@ Weekly report starting on: [2020-10-19 ma]
 
 
 #+BEGIN: clocktable :maxlevel 2 :scope file :step day :tstart "<-7d>" :tend "<tomorrow>" :compact t :tags "-break-NATW"
-
-Daily report: [2020-10-17 za]
-| Headline               |   Time |
-|------------------------+--------|
-| *Total time*           | *8:26* |
-|------------------------+--------|
-| Data science           |   8:26 |
-| \emsp Counted for work |   8:26 |
 
 Daily report: [2020-10-18 zo]
 | Headline               |   Time |
@@ -3239,10 +3256,18 @@ Daily report: [2020-10-23 vr]
 Daily report: [2020-10-24 za]
 | Headline               |   Time |
 |------------------------+--------|
-| *Total time*           | *3:52* |
+| *Total time*           | *4:40* |
 |------------------------+--------|
-| Data science           |   3:52 |
-| \emsp Counted for work |   3:52 |
+| Data science           |   4:40 |
+| \emsp Counted for work |   4:40 |
+
+Daily report: [2020-10-25 zo]
+| Headline               |   Time |
+|------------------------+--------|
+| *Total time*           | *4:47* |
+|------------------------+--------|
+| Data science           |   4:47 |
+| \emsp Counted for work |   4:47 |
 #+END:
 
 scrolling issue 
