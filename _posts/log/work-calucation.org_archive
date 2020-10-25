@@ -134,3 +134,20 @@ CLOCK: [2020-08-08 za 08:47]--[2020-08-08 za 08:56] =>  0:09
 :ARCHIVE_CATEGORY: work-calucation
 :ARCHIVE_ITAGS: blog work
 :END:
+
+* Write a complete blogpost
+CLOCK: [2020-10-25 zo 16:42]
+CLOCK: [2020-10-25 zo 14:45]--[2020-10-25 zo 16:15] =>  1:30
+CLOCK: [2020-10-25 zo 11:55]--[2020-10-25 zo 12:46] =>  0:51
+CLOCK: [2020-10-25 zo 10:30]--[2020-10-25 zo 11:30] =>  1:00
+CLOCK: [2020-10-25 zo 02:02]--[2020-10-25 zo 02:48] =>  0:46
+CLOCK: [2020-10-25 zo 01:31]--[2020-10-25 zo 01:35] =>  0:04
+CLOCK: [2020-10-23 vr 22:58]--[2020-10-23 vr 22:58] =>  0:00
+:PROPERTIES:
+:ARCHIVE_TIME: 2020-10-25 zo 17:06
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/work-calucation.org
+:ARCHIVE_OLPATH: Data science/Counted for work/fast.ai/Lesson 2
+:ARCHIVE_CATEGORY: work-calucation
+:ARCHIVE_ITAGS: work
+:END:
+

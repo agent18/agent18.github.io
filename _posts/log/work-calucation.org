@@ -130,27 +130,57 @@ CLOCK: [2020-10-17 za 17:22]--[2020-10-17 za 17:54] =>  0:32
 CLOCK: [2020-10-17 za 14:51]--[2020-10-17 za 15:50] =>  0:59
 CLOCK: [2020-10-17 za 13:32]--[2020-10-17 za 14:11] =>  0:39
 CLOCK: [2020-10-17 za 11:13]--[2020-10-17 za 12:19] =>  1:06
+***** Deploy on haroku
+CLOCK: [2020-10-23 vr 15:27]--[2020-10-23 vr 16:52] =>  1:25
+CLOCK: [2020-10-23 vr 11:01]--[2020-10-23 vr 12:32] =>  1:31
 ***** Setup a simple blog on github
 CLOCK: [2020-10-19 ma 12:10]--[2020-10-19 ma 12:10] =>  0:00
 CLOCK: [2020-10-19 ma 11:10]--[2020-10-19 ma 11:50] =>  0:40
 CLOCK: [2020-10-18 zo 20:49]--[2020-10-19 ma 00:51] =>  4:02
 CLOCK: [2020-10-18 zo 00:51]--[2020-10-18 zo 01:42] =>  0:51
 ***** Setup fastpages
+CLOCK: [2020-10-21 wo 20:24]--[2020-10-21 wo 21:24] =>  1:00
+CLOCK: [2020-10-21 wo 00:48]--[2020-10-21 wo 01:25] =>  0:37
 CLOCK: [2020-10-19 ma 12:10]--[2020-10-19 ma 12:52] =>  0:42
-***** First blog post on fastpages
-CLOCK: [2020-10-20 di 21:06]
+CLOCK: [2020-10-20 di 23:08]--[2020-10-20 di 23:58] =>  0:50
+CLOCK: [2020-10-20 di 21:06]--[2020-10-20 di 22:18] =>  1:12
 CLOCK: [2020-10-19 ma 19:16]--[2020-10-19 ma 21:20] =>  2:04
 CLOCK: [2020-10-19 ma 17:10]--[2020-10-19 ma 17:31] =>  0:21
 CLOCK: [2020-10-19 ma 15:53]--[2020-10-19 ma 17:09] =>  1:16
+***** clean up blog formatting
+CLOCK: [2020-10-24 za 21:57]--[2020-10-24 za 22:45] =>  0:48
+CLOCK: [2020-10-24 za 20:37]--[2020-10-24 za 21:33] =>  0:56
+CLOCK: [2020-10-24 za 18:00]--[2020-10-24 za 18:27] =>  0:27
+CLOCK: [2020-10-24 za 11:00]--[2020-10-24 za 12:24] =>  1:24
+CLOCK: [2020-10-23 vr 22:58]--[2020-10-24 za 01:05] =>  2:07
+***** Write a complete blogpost
+CLOCK: [2020-10-25 zo 17:18]--[2020-10-25 zo 17:18] =>  0:00
+CLOCK: [2020-10-25 zo 16:42]--[2020-10-25 zo 17:18] =>  0:36
+CLOCK: [2020-10-25 zo 14:45]--[2020-10-25 zo 16:15] =>  1:30
+CLOCK: [2020-10-25 zo 11:55]--[2020-10-25 zo 12:46] =>  0:51
+CLOCK: [2020-10-25 zo 10:30]--[2020-10-25 zo 11:30] =>  1:00
+CLOCK: [2020-10-25 zo 02:02]--[2020-10-25 zo 02:48] =>  0:46
+CLOCK: [2020-10-25 zo 01:31]--[2020-10-25 zo 01:35] =>  0:04
+CLOCK: [2020-10-23 vr 22:58]--[2020-10-23 vr 22:58] =>  0:00
+
 **** Lesson 3
 CLOCK: [2020-10-13 di 19:55]--[2020-10-13 di 21:01] =>  1:06
-
 
 *** other?
 ** Other useful stuff                                                 :meta:
 *** Work done for STM 
 
 ** Not counted for DP                                                :break:
+CLOCK: [2020-10-25 zo 12:46]--[2020-10-25 zo 14:45] =>  1:59
+CLOCK: [2020-10-25 zo 11:30]--[2020-10-25 zo 12:00] =>  0:30
+CLOCK: [2020-10-24 za 22:45]--[2020-10-25 zo 01:31] =>  2:46
+CLOCK: [2020-10-24 za 21:33]--[2020-10-24 za 21:57] =>  0:24
+CLOCK: [2020-10-24 za 18:27]--[2020-10-24 za 20:37] =>  2:10
+CLOCK: [2020-10-24 za 12:24]--[2020-10-24 za 13:30] =>  1:06
+CLOCK: [2020-10-23 vr 16:52]--[2020-10-23 vr 16:52] =>  0:00
+CLOCK: [2020-10-23 vr 12:32]--[2020-10-23 vr 15:17] =>  2:45
+CLOCK: [2020-10-20 di 23:58]--[2020-10-21 wo 00:48] =>  0:50
+CLOCK: [2020-10-20 di 22:18]--[2020-10-20 di 23:08] =>  0:50
 CLOCK: [2020-10-19 ma 17:31]--[2020-10-19 ma 19:16] =>  1:45
 CLOCK: [2020-10-19 ma 12:53]--[2020-10-19 ma 15:53] =>  3:00
 CLOCK: [2020-10-19 ma 11:50]--[2020-10-19 ma 12:10] =>  0:20
@@ -3105,13 +3135,13 @@ about it.
 
 #+BEGIN: clocktable :maxlevel 2 :scope file :step week :tstart "<-4w>" :tend "<tomorrow>" :compact t :tags "-break-NATW"
 
-Weekly report starting on: [2020-09-21 ma]
-| Headline               | Time      |
-|------------------------+-----------|
-| *Total time*           | *1d 1:38* |
-|------------------------+-----------|
-| Data science           | 1d 1:38   |
-| \emsp Counted for work | 1d 1:38   |
+Weekly report starting on: [2020-09-26 za]
+| Headline               |    Time |
+|------------------------+---------|
+| *Total time*           | *11:26* |
+|------------------------+---------|
+| Data science           |   11:26 |
+| \emsp Counted for work |   11:26 |
 
 Weekly report starting on: [2020-09-28 ma]
 | Headline               |    Time |
@@ -3138,12 +3168,12 @@ Weekly report starting on: [2020-10-12 ma]
 | \emsp Counted for work | 1d 7:51   |
 
 Weekly report starting on: [2020-10-19 ma]
-| Headline               |   Time |
-|------------------------+--------|
-| *Total time*           | *0:51* |
-|------------------------+--------|
-| Data science           |   0:51 |
-| \emsp Counted for work |   0:51 |
+| Headline               |    Time |
+|------------------------+---------|
+| *Total time*           | *14:36* |
+|------------------------+---------|
+| Data science           |   14:36 |
+| \emsp Counted for work |   14:36 |
 #+END:
 
 
@@ -3152,46 +3182,6 @@ Weekly report starting on: [2020-10-19 ma]
 
 
 #+BEGIN: clocktable :maxlevel 2 :scope file :step day :tstart "<-7d>" :tend "<tomorrow>" :compact t :tags "-break-NATW"
-
-Daily report: [2020-10-12 ma]
-| Headline               |   Time |
-|------------------------+--------|
-| *Total time*           | *4:58* |
-|------------------------+--------|
-| Data science           |   4:58 |
-| \emsp Counted for work |   4:58 |
-
-Daily report: [2020-10-13 di]
-| Headline               |   Time |
-|------------------------+--------|
-| *Total time*           | *3:28* |
-|------------------------+--------|
-| Data science           |   3:28 |
-| \emsp Counted for work |   3:28 |
-
-Daily report: [2020-10-14 wo]
-| Headline               |   Time |
-|------------------------+--------|
-| *Total time*           | *3:28* |
-|------------------------+--------|
-| Data science           |   3:28 |
-| \emsp Counted for work |   3:28 |
-
-Daily report: [2020-10-15 do]
-| Headline               |   Time |
-|------------------------+--------|
-| *Total time*           | *0:45* |
-|------------------------+--------|
-| Data science           |   0:45 |
-| \emsp Counted for work |   0:45 |
-
-Daily report: [2020-10-16 vr]
-| Headline               |   Time |
-|------------------------+--------|
-| *Total time*           | *5:14* |
-|------------------------+--------|
-| Data science           |   5:14 |
-| \emsp Counted for work |   5:14 |
 
 Daily report: [2020-10-17 za]
 | Headline               |   Time |
@@ -3212,10 +3202,47 @@ Daily report: [2020-10-18 zo]
 Daily report: [2020-10-19 ma]
 | Headline               |   Time |
 |------------------------+--------|
-| *Total time*           | *3:50* |
+| *Total time*           | *5:54* |
 |------------------------+--------|
-| Data science           |   3:50 |
-| \emsp Counted for work |   3:50 |
+| Data science           |   5:54 |
+| \emsp Counted for work |   5:54 |
+
+Daily report: [2020-10-20 di]
+| Headline               |   Time |
+|------------------------+--------|
+| *Total time*           | *2:02* |
+|------------------------+--------|
+| Data science           |   2:02 |
+| \emsp Counted for work |   2:02 |
+
+Daily report: [2020-10-21 wo]
+| Headline               |   Time |
+|------------------------+--------|
+| *Total time*           | *1:37* |
+|------------------------+--------|
+| Data science           |   1:37 |
+| \emsp Counted for work |   1:37 |
+
+Daily report: [2020-10-22 do]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *0:00* |
+
+Daily report: [2020-10-23 vr]
+| Headline               |   Time |
+|------------------------+--------|
+| *Total time*           | *3:58* |
+|------------------------+--------|
+| Data science           |   3:58 |
+| \emsp Counted for work |   3:58 |
+
+Daily report: [2020-10-24 za]
+| Headline               |   Time |
+|------------------------+--------|
+| *Total time*           | *3:52* |
+|------------------------+--------|
+| Data science           |   3:52 |
+| \emsp Counted for work |   3:52 |
 #+END:
 
 scrolling issue 

@@ -566,16 +566,11 @@ Exporting model & Inference on any other image of your choice
 [How to make a bash file](https://www.taniarascia.com/how-to-create-and-use-bash-scripts/)
 
 
-binder app; https://mybinder.org/v2/gh/tkravichandran/First-DL-Classifier/main?urlpath=voila%2Frender%2Fobama_classifier_min_binder.ipynb
+[my binder app](https://mybinder.org/v2/gh/tkravichandran/First-DL-Classifier/main?urlpath=voila%2Frender%2Fobama_classifier_min_binder.ipynb)
 
-https://mybinder.org/v2/gh/tkravichandran/bear_voila/master?filepath=voila%2Frender%2Fbear_classifier.ipynb
+[Share your V2 projects here](https://forums.fast.ai/t/share-your-v2-projects-here/65757/3)
 
-https://mybinder.org/v2/gh/tkravichandran/bear_voila/master?filepath=voila%2Frender%2Fbear_classifier_2.ipynb
-
-https://mybinder.org/v2/gh/tkravichandran/bear_voila/master?filepath=voila%2Frender%2Fbear_classifier_3.ipynb
-
-https://mybinder.org/v2/gh/tkravichandran/bear_voila/master?urlpath=voila%2Frender%2Fbear_classifier_3.ipynb
-
+[Blogs, projects and other](https://forums.fast.ai/t/blog-posts-projects-and-articles/1736)
 
 ### Lesson resources
 
@@ -775,6 +770,73 @@ understand how though.
 Follow [this issue](https://forums.fast.ai/t/lesson1-issues-with-gradient-instance/77813/3), apparently it is not supposed to go to
 "Free-CPU". What a cunt program. And there seems to be a guy who
 potentially could help from paperspace.
+
+## Deployment errors
+
+### binder does not work
+
+[forked bear-viola](https://github.com/tkravichandran/bear_voila) from the main hosters and it didn't work with binder
+and there was no way to see what the error was.
+
+### Heroku
+
+With heroku I had to add a `requirement.txt`, `runtime.txt`
+(specifying the right version of python for the ones in the
+`requirement.txt`). `Procfile` allows to add `--debug` option which
+shows errors.
+
+So, `Procfile` [with and without debug](https://github.com/tkravichandran/First-DL-Classifier/commit/a3f01b1081d08c8e335692adaf4d4c9284468a6e#diff-0a99231995da379e7aebabe76c9d849a23737a42c3b3a8994043e2aa80958424):
+
+``` text
+web: voila --port=$PORT --no-browser --enable_nbextensions=True obama_classifier_min_binder.ipynb
+```
+
+``` text
+web: voila --debug --port=$PORT --no-browser --enable_nbextensions=True obama_classifier_min_binder.ipynb
+```
+
+`Requirement.txt` now has and seems to need only the following for
+lesson 2. Note that **Haroku only allows 950Mb slugs, so we use CPU
+version of pytorch** as a result:
+
+``` text
+
+https://download.pytorch.org/whl/cpu/torch-1.6.0%2Bcpu-cp38-cp38-linux_x86_64.whl
+https://download.pytorch.org/whl/cpu/torchvision-0.7.0%2Bcpu-cp38-cp38-linux_x86_64.whl
+fastai==2.0.11
+voila
+ipywidgets
+```
+
+Lastly we need to specify the exact python version in `runtime.txt`
+other wise we get the ` not the right wheels` error.
+
+``` text
+python-3.8.5
+```
+
+Most useful links were that of the [old fast ai deployment on haroku
+guide](https://course.fast.ai/deployment_heroku) and the link of someone for who this worked aka [whatgame](https://github.com/mesw/whatgame3).
+
+**Useful links**
+
+[Link 1](https://forums.fast.ai/t/deploying-in-heroku-error-not-a-supported-wheel-on-this-platform/76196)
+
+[Link 2](https://forums.fast.ai/t/anyone-using-heroku-to-deploy-a-fastai2-model/79070)
+
+[Other github repos](https://github.com/mahtabsyed/PyTorch-fastaiv2-bears-classification)
+
+[Other github repos from which I copied ideas](https://github.com/mesw/whatgame3)
+
+[Successful deployment by agent](https://github.com/tkravichandran/First-DL-Classifier)
+
+## Writing the blog lessons fastai
+
+I am thinking I should start with the basics of data.... how I clean,
+how I do other things and then finish with the app. Basically take
+people through the entire journey of development.
+
+More info about [fast yaml front matter is here](https://github.com/fastai/fastpages#customizing-blog-posts-with-front-matter)
 
 ## Lesson 2 HW questions and answers
 
@@ -1007,7 +1069,7 @@ potentially could help from paperspace.
 use `function.__module__` to know where it comes from. Use `?` and
 `??` to see the code. And `doc()` to see what is happening with the 
 
-### Resources
+## Other lesson 2 Resources
 
 - [What Jeremy says](https://youtu.be/BvHmRx14HQ8?t=4485)
 
@@ -1015,14 +1077,15 @@ use `function.__module__` to know where it comes from. Use `?` and
 
 - [Project Group thread](https://forums.fast.ai/t/official-project-group-thread/65817)
 
+- [Official 2020 Project group thread](https://forums.fast.ai/t/official-project-group-thread/65817)
+
 - Lesson 1 TOP examples
 
 ## todo
-  * [ ] add and display blog locally
-  * [ ] add comments to a fastpost
-  * [ ] Decide what to write on the post
-  * [ ] clean up the blog
-  * [ ] Write and publish post
+
+  * [ ] deploy on heroku
+  * [ ] write blog post
+  * [ ] deploy
 
 ## Lesson 3 Resources
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  "How to make jekyll work with github for your blog site"
+title:  "Jekyll gh-pages fastpages Docker github workflow"
 date:   2017-01-10 23:54
 categories: posts
 permalink: /:title.html
@@ -116,7 +116,7 @@ following two):
 	git config --global push.default simple
 
 
-### restoring sites folders
+### restoring sites folders and files?
 
 [Jekyll main](https://jekyllrb.com/docs/themes/)
 
@@ -237,17 +237,25 @@ jekyll... How convinient?
 	
 	git commit -m "empty testing git on new pc"
 
-	git config --global user.email "agent18@github.io"
+	git config user.email "agent18@github.io"
 	
-	git config --global user.name "agent18"
+	git config user.name "agent18"
 	
-	git config --global push.default simple
-	
-	git config --global credential.helper cache
-
 	git commit -m "empty testing git on new pc"
 	
 	git push
+
+Might need to do it sometimes on a fresh pc perhaps.
+
+	git config --global push.default simple
+	
+	git config --global credential.helper cache
+	
+Check with this shows all the important info:
+
+	git config --list
+	
+	
 
 That's it. Git will start working, in combination with jekyll.
 
@@ -324,10 +332,14 @@ errors with `bundle exec jekyll serve`
 
 ### Installing fastpages
 
-   
-first running `gem install bundle` and then doing `bundle install` to
-install from `Gemfile.lock` and then `bundle exec jekyll serve` to use
-run in the context of the existing bundle.
+1. clone
+2. install docker
+3. sudo make server
+
+If you just want to get markdown parts running then the following is
+enough: First running `gem install bundle` and then doing `bundle
+install` to install from `Gemfile.lock` and then `bundle exec jekyll
+serve` to use run in the context of the existing bundle.
 
 ### Useful gem commands
 
@@ -338,3 +350,33 @@ versions), i.e., `jekyll (4.1.1, 3.8.7, 3.8.4, 3.8.3)`.
 etc...
 
 
+
+### Making ipnb notebooks work with Docker
+
+After installing docker, all I need to do is `make server` according
+to [fastpages](https://github.com/fastai/fastpages/blob/master/_fastpages_docs/DEVELOPMENT.md).
+
+docker installed all good with make 
+
+but when I tried makefile got docker error that `docker-compose` is
+not there. After that:
+
+``` terminal
+Traceback (most recent call last):
+  File "urllib3/connectionpool.py", line 677, in urlopen
+  File "urllib3/connectionpool.py", line 392, in _make_request
+  File "http/client.py", line 1252, in request
+  File "http/client.py", line 1298, in _send_request
+  File "http/client.py", line 1247, in endheaders
+  File "http/client.py", line 1026, in _send_output
+  File "http/client.py", line 966, in send
+  File "docker/transport/unixconn.py", line 43, in connect
+PermissionError: [Errno 13] Permission denied
+```
+
+Based on [this](https://docs.docker.com/compose/install/)
+
+Just use `sudo make server` and the rest is ok for now. It takes more
+than 5 mins to host... wait patiently? Yes for now.
+
+More info about [fast yaml front matter is here](https://github.com/fastai/fastpages#customizing-blog-posts-with-front-matter)
