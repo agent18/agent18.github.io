@@ -158,7 +158,7 @@ verblijfsvergunning)?
 
 **op kantoor**
 
-Ik werk op dit moment 3 dagen per week
+/Ik werk op dit moment 3 dagen per week
 Het duurt een half tot een uur
 Hij zegt dat ....
 Hij zegt dat het een half uur tot een uur duurt ( zegt dat … werkwoord
@@ -294,7 +294,7 @@ Wanneer heeft u uw inburgeringsexamen gehaald?
 Uit welke onderdelen bestond het inburgeringsexamen?  
 Welk onderdeel vond u het moeilijkst?  
 Geeft u uw Indiase nationaliteit op? (opgeven) / Levert u uw Indiase
-paspoort in? (inleveren) / Doet u afstand van
+paspoort in? (inleveren) / Doet u afstand van uw Indiase Nationaliteit
 uw Indiase nationaliteit?  
 Gaat u afstand doen van uw Indiase nationaliteit?  
 Heeft u al een bekeuring / boete gehad in NL?  
@@ -462,3 +462,297 @@ answer: From now you wait till you receive letter for the ceremony and
 then you participate in the ceremony where you get the passport.
 
 2. Why was I rejected? What must I do? When can I apply again?
+
+
+## Word list
+
+Verstaan --> Ik verstaa je niet
+onafgebroken --> Woont u 5 jaar of langer (niet meer) onafgebroken in
+NL?
+besproken gechecked geoverlegt --> (discussed, checked, consulted). Ik
+heb het besrpoken met the gemeente. En de gemeente heeft met the IND gechecked.
+
+Veranderen,vervangen, --> (change, replace, arrange), ik heb geprobeerd een
+nieuwe geboorteakte te regelen
+
+goedgekeured (aprroved) --> De gemeente heeft mij an email gestuurd
+waarin staat dat de IND het goedgekeurd heeft
+
+onderdalen (parts) --> Somige ondedlen waren moelijk.
+
+
+Voldeed (satisfied) --> Maar Mevrouw, ik Voldeed aan alle voorwarden
+(of criteria) toch?
+
+inleveren, afstand --> Waneer moet ik mijn passport inleveren, Doet u afstand
+
+ontvangen --> Ontvangst bewijs (Proof of receipt)
+
+verzoeken aanvragen --> Ik wil graag voor de Naturalisatie aanvragen
+
+### the document
+
+ontvangst, kwitantie --> (receipt) Dit ontvangstbewijs is de kwitantie, ten bewijs van het feit day de voor het verzoek 
+
+verklaart, uitleggen --> (explains/declares) De burgemeester van delft
+verklaart het naturasatie verzoek
+
+verlenen --> (grant) verzoekt Uw hierbij het Nederlandschap te
+verlenen
+
+gevoegd --> (added) Bij dit verzoek is wel een verzoek tot
+naamvastelling gevoegd
+
+straafrectilijk vervolgd --> (crimnal prosecution) Wordt u op dit moment (nu),
+straafrectilijk vervolgd(B)? Ik word niet straafrectikijk vervolgd
+
+Ik word niet --> I am not being ...
+
+gepleegd (not verpleegd)-->  (commited) Ik heb geen misdrijf gepleegd
+
+verstrekt (gegeven)--> Heeft u tijdens de verblijfsvergunningprocedure alle
+informatie naar waarheid gegeven / verstrekt
+
+onjuiste / verkeerde / foute --> (wrong) Als u verkeerde informatie
+gegeven, dan bent u staatloos
+
+strafblad --> (Crimanl record) Heeft uw straafblad
+beukering --> (traffic ticket) 
+
+Gevaar --> threat (Bent u gevaar voor de open bare orde of nationale veligheid)
+
+open bare orde --> (public policy)
+
+nationale veligheid --> public policy
+
+### Passage 
+
+ik begrip dat de IND actuele gegevens van mij zal opvragen by the
+politie and justitie. Als uit deze actuele gegevens blijkt dat sprake
+van omstandigheiden zoals genoemd onder a t/m, dan kan the verzoek
+worden afgewezen.
+
+
+gegevens -->  (data)
+
+opvragen --> (request)  
+blikt --> (looks)
+Sprake --> (talk)
+
+omstandigheiden --> (circumstances)
+zoals --> as
+afgewezen --> afwijzen
+
+verklaaring omtrent --> (Statement regarding)
+gedrag --> (behaviour)
+
+naamvastelling --> naming
+
+ In de Rijkswet op het nederlandschap staat dat voor de verkriging
+
+rikswet --> (statute),
+
+verkrijging --> acquisition
+
+afgelegd -->  taken (the oath)
+
+verklaring van verbondenheid --> 
+
+beried --> (reddy) Bent u beried om de verklaring van verbondenheid af
+te leggen
+
+verklaren -->  declare
+
+indiening --> (submission) ook staat in the wet dat u bij hte
+indiening van het nederlandschap, eerst een verklaring van
+verbondenheiden moet worden afgelegd.
+
+
+### more woorden
+
+vaardigheid --> (skill)
+
+gelugt --> (lying) onjuiste, niet waarheid, verkeerde verklaring,
+leugens vertellen
+
+bevat --> (contains) Het brief bevat alle informatie.
+
+voorwarden --> conditions complied? Ik heb toch aan alle voorwaarden voldaan 
+ 
+rekenen --> (count) Vanaf nu moet u rekenen op / rekening houden met een periode van 4 tot
+6 weken.
+
+ 
+### meer woorden
+
+betrokken verleden --> (involved in the past) Bent u betrokken geweest
+bij een juridische procedure ? Ik ben nog nooit juridishe procedure betrokken geweest.
+
+can we startover with the quetion?
+
+het maakt for hen niet uit...
+
+snap (begreipen) ik het. heb ik het, goed 
+
+vermaakt
+
+bescherm 
+
+Ik voelme nederelanders
+
+kent mij niet
+
+waht are the last words
+
+
+Dit afschrift bestaande uit 3 blanen, stemt overeen met het origineel.
+
+sign here sign there with date
+
+rekenen
+
+besmetingen
+
+gedachten
+
+bevistig
+
+overleggen (discuss)
+
+bekijken beordelen
+
+opleiding
+
+Dat waardeer ik zeer. 
+
+heen en weer tussen duitsland
+
+hetzelfde overeen verschil
+
+betrokken
+
+gelovige
+
+belessing bevestiging (confirmation) goedgekuerd indiening (submission), verlenen (grant)
+
+Na de beslissing van de IND nodigt de gemeente u uit voor de
+naturalisatieceremonie. 
+
+## Plannen
+
+- Application
+
+- Andere gesprek
+
+	- het coronavirus gesprek
+
+	- over Germany
+	^^ start here at 15:00 hrs
+	- over rejection
+
+- what wil je segen als
+
+	- je het niet goed (kunt begripen) ?
+	
+		Kunt u het herhalen?
+		Kunt u dat nog een keer zeggen?
+		What bedoelt u met ... woorden?
+		Kunt u even een beetje laangzaam and simpler zeggen
+		alsjeblieft
+		Kunt u het op een simpeler manier zeggen?
+		Is dit wat u bedoelt: ...
+		Et spijt me, het is een beetje moelijk om te hoeren en begripen
+	
+		Ik begrijp het niet
+		Dat begrijp ik niet
+		
+		Kunt u dit op een eenvoudiger manier zeggen
+
+	- als je OK wilt zeggen
+	
+		duedelijk. 
+		dat is fine
+		
+	- als het juiste is
+	
+		Dat klopt,
+		Ya zeker? 
+		Inderedaad 
+		Precise 
+		Dat is fine.
+		Absoluut
+	
+	- are you asking me or telling me?
+	
+		Klopt het dan dat wij uw gegevens niet zullen vinden / zullen
+        tegenkomen in de politiedatabank/database of in de
+        justitieregisters?
+		
+		Je vraagt me of als ik politie ken?
+
+	- I deeply appreciate it
+	
+		Dat waardeer ik zeer. ( I really appreciate it)
+		Dat is heel fijn. / Dat zou fijn zijn.
+		Dat stel ik erg op prijs
+	
+	- als ik iets checked als ik niet goed hoert
+	
+	    Je bedoeld ... toch?
+		Volgens U ik heb all voorwaarden voldaan toch?
+		  
+			
+- niks/nooit
+
+	ik heb nooits en boete gekregen (I have never)
+	ik word niet een strafrectelijk vervolgd (I am not being)
+	ik ben nooits een strafrectelijk vervolgd geweest (?)
+	
+	ik heb nog nooit iets verkeerde gedaan op dat gebeid!
+	
+	Het maakt ze niets uit
+	Het maakt voor hen niet it.
+	
+- woordenlijst
+
+
+
+
+- proeftijd... straafzaaak
+
+- overheid?
+
+- moilijk om te begrijpen ...
+
+- during that period
+
+
+
+
+
+tijdens the ceremonie
+
+speed snelheid
+
+recten and plicten (mag and moet doen))
+
+don't I meet the condition? with inbugrgeing diploma
+
+
+Is that niet genoege... is dat niet een 
+
+dat is toch een van de voorwaarden
+
+nummertje trekeen ()
+
+wense u (wish) geluk (luck/ happy) veel plezieur
+
+voor de bevestiginig
+
+kiezen doe je daarvoor
+
+why do you want to be a nederlends
+
+## HOT strategy
+
+once you get letter already book the contents passport and identity card..

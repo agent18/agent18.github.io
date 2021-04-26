@@ -168,7 +168,8 @@ is not shown in `additional drivers`. Why? What am I missing?
 	
 	conda install -c conda-forge notebook
 	
-Yes to all the disclaimers such as additional packages to be installed.
+Yes to all the disclaimers such as additional packages to be
+installed. **Checked as of jan 18 2021. STILL WORKS GREAT.  :)**
 	
 	
 Based on [this stack answer](https://stackoverflow.com/a/64056681/5986651): We don't need to install anaconda
@@ -1139,6 +1140,30 @@ fastaiclean4 is a fresh install without the libtiff steffs.
 graphviz still causing issues... I don't know why? it is not
 displaying hte pictures via gv...
 
+
+## Kaggle and tabular stuff
+
+	conda install kaggle -c conda-forge
+	
+You will need a json file according to the api github...
+
+> To use the Kaggle API, sign up for a Kaggle account at https://www.kaggle.com. Then go to the 'Account' tab of your user profile (https://www.kaggle.com/<username>/account) and select 'Create API Token'. This will trigger the download of kaggle.json, a file containing your API credentials. Place this file in the location ~/.kaggle/kaggle.json (on Windows in the location C:\Users\<Windows-username>\.kaggle\kaggle.json - you can check the exact location, sans drive, with echo %HOMEPATH%). You can define a shell environment variable KAGGLE_CONFIG_DIR to change this location to $KAGGLE_CONFIG_DIR/kaggle.json (on Windows it will be %KAGGLE_CONFIG_DIR%\kaggle.json).
+
+
+`Create API token` in kaggle gives the json file to put in `~/.kaggle/kaggle.json`.
+
+
+> For your security, ensure that other users of your computer do not
+> have read access to your credentials. On Unix-based systems you can
+> do this with the following command:
+
+	chmod 600 ~/.kaggle/kaggle.json
+
+
+`dtreeviz` package.
+
+
+	conda install dtreeviz -c conda-forge
 
 ## GPU full
 

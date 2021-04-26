@@ -1,0 +1,483 @@
+
+## Introduction
+
+- Tabular time series data with 590k train transactions and 500k test
+  transactions.
+- 443 columns as independent variables
+- "isFraud" is the dependent variable
+- Leader Board (LB) is based on the public and private AUC score.
+
+**Goal**: Predict transactions that are `isFraud==1`.
+
+**Submission**: `TransactionID` and Probability of `isFraud==1`.
+
+## The Part that makes it harder to predict
+
+- We are **not predicting Fraudulent Transactions**. Once a client has
+  a fraudulent transaction [all the posterior transactions (associated
+  with the useraccount, email address or billing address) are marked
+  as fraud](https://www.kaggle.com/c/ieee-fraud-detection/discussion/101203).
+  
+  
+  And it is not known as to **What constitutes the client**. But here
+  is an example of an "assumed client-variable set"
+  
+    * [x] Example of is fraud and not fraud mix (client-isFraud1.png)
+  
+- To make this even more difficult the meaning of most of the
+columns are obscured. For example, we know that `D1` to `D15` are some
+"timedelta" such as days between each transaction, but don't know what
+they stand for. This goes for all 433 columns.
+
+## EDA
+
+### Lots of NaNs
+
+- The data has "many" variables with >25% Nans (254 columns out of 439
+  columns)
+
+- I tried both fillna, removing the columns completely and also just
+  leaving them as NANs
+
+- I found best results with filling NaNs with an artificial number
+  such as `-9999`. Removing the >25% NaN columns seems to remove
+  critical important information. Results with `fillna` were better
+  than leaving NaNs as it is by 0.0002
+
+
+**Median Imputing doens't make sense**
+
+There are columns such as "card1" and "addr1" which denote credit card
+and address information respectively, but there is no way a median
+imputation makes any sense. Median "card" makes no sense for example.
+
+### **Reducing 339 `V` columns to 139 `V` columns**
+	
+There were about 340 `V` columns said to be "engineered" by the
+company conducting the competition. They are engineered from the rest
+of the 100 columns. It thus appears that the `V` columns might not be
+so important.
+
+The `V` columns thus share a "lot" of correlation and large number of
+Nan's. The Goal of this step is to find "similar" columns based on
+number of "NaN's", and Correlation>`0.75`.
+
+- First group by NaN's
+- within each Nan group, highly correlated columns are binned together
+- The column with maximum unique values is chosen from each bin.
+
+For example, `V35` to `V52` (17 columns) contain 168k NaNs. They
+contain 8 pairs of highly correlated columns. From this we select
+`['V36', 'V44', 'V39', 'V49', 'V47', 'V41', 'V40', 'V38']`. Using a
+script this process is automated.
+
+```
+plt.figure(figsize=(15,15))
+#mask = np.triu(xs_corr)
+sns.heatmap(xs_corr, cmap='RdBu_r', annot=False, center=0.0)#, mask=mask)
+plt.title('All Cols',fontsize=14)
+plt.show()
+```
+
+  * [x] Display heatmap from 08v11 (corr.png (png is missing add it later))
+
+
+**Effect on LB and time:**
+
+|                      | public | private | time   |
+|----------------------|--------|---------|--------|
+| baseline             | 0.9384 | 0.9096  | 11mins |
+| remove 200 V columns | 0.9377 | 0.9107  | 7mins  |
+
+
+Small decrease for a large gain in computation time.
+
+### Reducing further
+
+Tried reducing other columns as well such as the C columns and M
+columns and ID columns in a same manner but then they reduced the LB
+by 0.01, so this is as far as the reduction goes.
+
+### Understanding D columns
+
+`D1` column is known from the discussions to be "days since the client
+credit card began".  Subtracting this value from the "Transaction Day"
+will result in CONSTANT values for per client.
+
+  * [x] D1n vs D1 per client (`D1-D1n.png`)
+
+We do the same for all `D` columns irrespective and see how it fares
+in the LB.
+
+`D9` denotes the hours at which the transactions are done. This is
+tested using ` df["Hr"] = df["TransactionDT"]/(60*60)%24//1/24`. The
+following plot clearly shows it's relation to determining if a
+transaction is Fraud or not.
+
+  * [x] `D9.png`
+
+### **Unbalanced data**
+
+The Data has only 3.7% transactions names as "Fraud"
+(`isFraud`=1). `RandomOverSampling` and `Smote` didn't do much for the
+score so it has been skipped.
+
+## EDA for UID
+
+As said before this competition is not just about predicting
+fraudulent transactions over time, it's about predicting clients who
+are more likely to have `isFraud` transactions. Client account, client
+email addresses and client address associated with a Fraudulent
+transaction is made `isFraud==1` in a posterior fashion. We need to
+thus find these client variables (UIDs) to be able to predict better.
+
+**Finding the UIDs**
+
+I stood on the [shoulders of giants](https://www.kaggle.com/c/ieee-fraud-detection/discussion/111510), to find help on this part.
+
+UIDs are nothing but variables that help identify a particular
+clients' transactions. Not all transactions are fraud for a client but
+"most" are expected to be. This allows us to determine the quality of
+a UID.
+
+To find the UID a bit of guess and **adversarial validation** (AV) is
+used. Based on how "isFraud" is defined we can already guess that
+`card1`, `addr1` & `P_emaildomain` are probably part of UID. In
+addition we use AV to determine the rest of the columns.
+
+* [x] `fi.png`
+
+To determine how good the UID is, we look at how much percent of the
+clients have both `isFraud==0` and `isFraud==1` and we check manually
+if they happen one after the other. Shown below are the percentages
+for different UIDs.
+
+|      | Mixed | isFraud==1 | isFraud==0 |
+|------|-------|------------|------------|
+| uid0 | 1.9%  | 1.9%       | 96%        |
+| uid1 | 1.4%  | 2.3%       | 96.3%      |
+| uid2 | 0.79% | 2.6%       | 96.5%      |
+| uid3 | 0.43% | 2.6%       | 96.9%      |
+| uid4 | 0.38  | 2.6%       | 97%        |
+
+UID0: D10n, card1, addr1
+UID1: D1n, card1, addr1
+UID2: D1n,card1,addr1,p\_emaildomain
+UID3: D1n,card1,addr1,p\_emaildomain, D3n
+UID4: D1n,card1,addr1,p_emaildomain, D3n, V1, M7
+
+In all cases "many" of the "Mixed" clients don't have `isFraud==0` and
+`isFraud==1` sequentially. So it looks like most of the Mixed clients
+are wrongly classified. I tried refining it with several other
+combinations but had little success. So I moved on to the testing out
+how these UIDs helped.
+
+
+  * [x] `mixed-isFraud.png`
+
+## Model
+
+I started off with Random Forests, but didn't get far with it after 3
+weeks of trying. XGB Catboost and LGBM seem to be prefered decision
+tree types in the ML community. So I choose XGB and stuck with it till
+the end to see what are the best results I can get with it.
+
+I used the default values and that was just good enough. 
+
+My classifier was made of: 
+
+``` python
+    clf = xgb.XGBClassifier(n_estimators=2000, 
+                        max_depth=8, 
+                        learning_rate= 0.05,
+                        subsample= 0.6,
+                        colsample_bytree= 0.4, 
+                        random_state = r.randint(0,9999),
+                        use_label_encoder=False,
+                        tree_method='gpu_hist')
+
+```
+
+As I wanted to get the max score possible, I used `random_state =
+r.randint(0,9999)`, as this would not keep the random_state
+constant. Simulations in this manner produced variation in the order
+of `+-0.002` AUC score. So when it is unclear if a hypothesis works or
+not, I run a same simulation a few times and take its average.
+
+Ensembling is also an option but I haven't tried it in this competition.
+
+## Feature engineering
+
+
+1. Fillna
+   
+   `df.fillna(-9999,inplace=True)`
+   
+   XGB is capable of handling NaNs. It places the NaN rows in one of
+   the splits at each node, (based on which gives a better impurity
+   score). However if we choose a number to represent NaNs then it
+   treats the NaNs like just another value/category. And it is a bit
+   faster, due to lesser computations.
+   
+   However `fillna` boosts the score by `0.0002`.
+
+2. Label Encoding of Categorical data
+
+	This is done to reduce the ram usage. A string in python uses
+    almost [twice as much memory](https://stackoverflow.com/q/58041687/5986651) as an integer.
+	
+	`df.factorize()`
+	
+	
+3. One hot encoding the NaN structure for certain columns.
+
+	`D2` has 50% NaNs and is highly correlated (`0.98`) with `D1`. In
+    this case `D2` is removed and the NaN structure is alone kept.
+	
+	`D9` columns represents the time of transaction in a day. But it
+    contains 86% NaN values. So a new `D9` (`HrOfDay`) column was
+    created from `TransactionDT` using ` df["Hr"] =
+    df["TransactionDT"]/(60*60)%24//1/24`. And the nan structure is
+    One Hot Encoded.
+
+4. Splitting
+
+	There are many categorical columns, that would allow for better
+    models when split. For example, we have "TransactionAmt", which
+    allows for split as the dollars and cents. `cents` could be a
+    proxy for identifying if the transaction is from another country
+    than US. Possibly there could be a pattern on how frauds happen
+    with "cents". So it is "split" using the following function.
+	
+	``` python
+	def split_cols(df, col):
+    df['cents'] = df[col].mod(1)
+    df[col] = df[col].floordiv(1)
+	```
+	  * [x] `cents.png`
+
+	Another example is `id_31`. It has values such as `chrome 65.0`,
+    `chrome 66.0`. Browser with version. To aid the model we would
+    split the version number and browser.
+	
+	``` python
+	lst_to_rep = [r"^.*chrome.*$",r"^.*aol.*$",r"^.*[Ff]irefox.*$",r"^.*google.*$",r"^.*ie.*$",r"^.*safari.*$",r"^.*opera.*$",r"^.*[Ss]amsung.*$",r"^.*edge.*$",r"^.*[Aa]ndroid.*$"]
+
+lst_val = ["chrome","aol","firefox","google","ie","safari","opera","samsung","edge","chrome"]
+df["id_31_browser"].replace(to_replace=lst_to_rep, value=lst_val, regex=True,inplace=True);
+	```
+	
+	  * [x] `id_41.png`
+	
+	The same has been done for several other columns and tested for
+    increase in score.
+	
+	
+5. Combining
+
+	Combining values such as `card1` and `addr1`. By themselves they
+    might not mean much, but together they could correlate to
+    something meaningful. One such combine is the UID
+
+6. Frequency encoding
+
+	The frequency of the values of a column turns out to be important
+    to detect if a transaction is fraud or not.
+	
+	``` python
+	def encode_CB2(df1,uid):
+		newcol = "_".join(uid)
+		## make combined column
+		df1[newcol] = df1[uid].astype(str).apply(lambda x: '_'.join(x), axis=1)
+	```
+
+
+7. Aggregation (transforms) while imputing NaNs
+
+	This is one of the most important part of the solution which
+    boosted the score all the way into top 10% from top 40%.  Why
+    Aggregations work is explained [here](https://www.kaggle.com/c/ieee-fraud-detection/discussion/111453). This aggregation is done
+    after combining the train and test dataframes.
+	
+	`df_all.groupby(uid,dropna=False)["TransactionAmt"].transform("mean").reset_index(drop=True)`
+	
+	It is very important to add `dropna=False`, as there are many NaN
+    rows which would be dropped otherwise.
+
+	Finding the columns to be aggregated was possible using just the
+    AV feature importance seen above and a bit of logic.
+
+9. Removing redundant columns based on FI
+
+	As far as I have seen removing redundant columns only makes the
+    model faster and rarely improves the score. Having said that I
+    tried remove columns that seemed redundant but got the score
+    reduced by 0.002, which is a LOT in this competition. So I kept
+    all those variables. However removing redundant `V` columns gives
+    a large decrease in time of computation. So those ones are only
+    removed.
+
+10. removing time columns such as `TransactionDT` and `TransactionID`
+
+  * [ ] `TransactionID.png`
+
+| Method           | Public LB |         | Private LB |         | Percentile |
+|------------------|-----------|---------|------------|---------|------------|
+| baseline         | 0.9384    |         | 0.9096     |         | Top 80%    |
+| remove 200 `V`   | 0.9377    | -0.003  | 0.9107     | +0.001  |            |
+| remove time cols | 0.9374    | -0.0003 | 0.9109     | +0.0002 |            |
+| Transform `D`    | 0.9429    |         | 0.9117     |         | top 50%    |
+| Combine and FE   | 0.9471    |         | 0.9146     |         | top 30%    |
+| Agg on uid1      | 0.9513    |         | 0.9203     |         | top 20%    |
+| additional agg   | 0.9535    |         | 0.9220     |         | top 10%    |
+| fillna           | 0.9537    |         | 0.9223     |         | top 10%    |
+
+
+
+## Local Validation and Prediction Strategy
+
+Initially I started with a 50k sample dataset and looked at a hold out. Tried
+different experiments to see what features work. Considering that it
+took 7 mins per simulation for the entire dataset, I went on to use
+the entire dataset.
+
+I tried a couple of strategies here and compared to test solution:
+
+1. Holdout and predict average of 5 models
+2. 5Fold CV unshuffled.
+3. Group 5fold CV based on Month
+
+The following are the results:
+
+
+|                     | Local    | Public LB | Private LB |
+|---------------------|----------|-----------|------------|
+| 5Fold CV unshuffled | baseline | baseline | baseline          |
+| Holdout (5x)        | -0.01    | -0.013    | -0.016     |
+| Month 5fold CV      | +0.0022  | -0.0006   | +0.0000    |
+
+
+The Holdout method seems obviously not good. `Month 5fold CV` did not
+produce significant increases (>0.002) in LB so I skip it. All are
+compared to the baseline values (`5fold CV unshuffled`).
+
+
+
+**Note** As this is a time series simulation people had warned me
+about not using CV: [here](https://www.kaggle.com/c/ieee-fraud-detection/discussion/99993#577626), and [here](https://www.kaggle.com/c/ieee-fraud-detection/discussion/99993#576742). However the best
+results, including that of the 1st solution for this competition were
+only possible due to CV.
+
+## Memory reduction
+
+1. Label encoding of categorical variables
+  
+2. Converting variables to float32 should be [good enough](https://stackoverflow.com/a/64069641/5986651).
+
+	16bit: 0.1235
+	32bit: 0.12345679
+	64bit: 0.12345678912121212
+
+	With the AUC numbers, 8 digits beyond the decimal seems good enough.
+	
+3. Removing 200 V columns out of the 439 columns with little change in score.
+
+## Preventing overfitting
+
+There are usually two reasons why the Train and Test data are not the
+same.
+
+1. Overfitting
+
+2. Out of Domain Data 
+
+	i.e., test and train data are from different times, or clients
+
+There is a nice trick to see why there is a difference between the
+training and the test datatraining and t
+
+There is a nice trick to see where the issue is at. OOB (out of bag)
+or OOF (out of fold) scores tell you how good your how training is
+within the domain. If train and OOB/OOF match then it appears that you
+are not overfitting and probably you have the second error. If train
+and oob/oof don't match then you are already overfitting.
+
+  * [ ] Quote the mistake you had which you saw in your AV...
+
+
+The general consensus seems to be to remove time dependent columns or
+modify them... AND REMOVE THE TIME DEPENDENT PARTS.
+
+
+With my final score it is clear that I am overfitting to begin
+with. 
+
+What I used to reduce overfitting is lots and lots of aggregations.
+
+
+### Score growth
+
+### References
+## What can your AV do for you?
+
+1. Help remove useless columns
+
+Removing columns that are out of domain to improve prediction.
+
+So for negligible decrease in test AUC it is possible to remove
+columns.
+
+You identify which columns are making it hard to predict in the time series
+
+1. Informs how different the test and train dataset are.
+
+I got an AUC score of 1. It quickly implies that your test and train
+dataset are different. That doesn't mean that we always need AUC of
+0.5. but it means that they are different. For example, if you had a
+certain type of clients in train and a certain type of clients in
+test, then you will see that AV results in value of 1, but still my Lb
+score was off the charts. 
+
+1. helps you find the Aggregations you need
+
+This is and will be the greatest reason for doing AV. AV is so
+powerful that to imrpove my score from top 80% to a top 10% score was
+done purely by looking at the AV. For finding on which columns to
+aggregate and to find which columns could help in finding the UID.
+
+I pretty much used the first 10 columns and a few columns on my own
+based on the AV to determine which columns to chose as UID adn which
+to aggregate over. In addition of course I added other columns as I
+saw fit and checked if it increased the score or decreased the score.
+
+
+1. Find mistakes in your aggregations...
+
+I made a mistake with the test and train aggregation. I applied it to
+the train but did not apply it to the test. This was prompty visible
+in the AV as the aggregated columns showed up first. the whole reason
+to do Aggregation is to avoid such variables.
+
+Another clue was the difference in score reduction between OOB and
+other.
+
+Anyways this allowed me to find which caused the issue and when probed
+found the mistake.
+
+
+## planning
+
+
+  * [x] introduction until UID
+  
+  * [x] UID EDA
+  
+  * [ ] What can your AV do for you?
+  
+  * [x] Validation Strategy
+  
+  * [x] Feature engineering
+  
+  * [ ] preventing overfirring
+  
+  * [ ] rest

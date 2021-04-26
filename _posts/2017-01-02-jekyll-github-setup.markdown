@@ -380,3 +380,10 @@ Just use `sudo make server` and the rest is ok for now. It takes more
 than 5 mins to host... wait patiently? Yes for now.
 
 More info about [fast yaml front matter is here](https://github.com/fastai/fastpages#customizing-blog-posts-with-front-matter)
+
+### instructions on already installed PC
+
+	fastblock
+	sudo make server
+	
+Wait 5 mins and click on the link it shows.

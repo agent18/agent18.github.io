@@ -8,6 +8,67 @@ permalink: /:title.html
 published: True
 ---
 
+## Emacs LaTeX mode quick start guide
+
+We are trying use AUCTEX. Apparently [AUCTEX mode is given by](https://stackoverflow.com/a/17778046/5986651)): 
+
+	LaTeX-mode
+	
+and shows as `LaTeX\P` in when we do `C-h m`.
+
+
+**Emacs hooks** are based on commands like this:
+
+	(add-hook 'LaTeX-mode-hook 'linum-mode)
+	
+
+**Run emacs**
+
+`C-c C-c` and then followed by typing `*mk` so that it "compiles" with
+`LaTeXmk`.
+
+**Folding**
+
+`Tab` does folding.
+
+**Keybindings**
+
+`C-c C-e` --> add environment
+
+`C-c ret` --> add macros such as `\item` etc...
+
+## Error `fontspec` cannot use pdf-tex engine
+
+``` tex-error
+ERROR: Fatal fontspec error: "cannot-use-pdftex"
+
+--- TeX said ---
+! 
+! The fontspec package requires either XeTeX or LuaTeX.
+! 
+! You must change your typesetting engine to, e.g., "xelatex" or
+! "lualatex"instead of plain "latex" or "pdflatex".
+! 
+! See the fontspec documentation for further information.
+! 
+! For immediate help type H <return>.
+```
+
+**Please add the following to the end of the file and reopen it.**
+
+From [here](https://tex.stackexchange.com/a/21212/97901).
+
+``` LaTeX
+%%% Local Variables: 
+%%% coding: utf-8
+%%% mode: latex
+%%% TeX-engine: xetex
+%%% End: 
+```
+**Check version of auctex by**
+
+`C-h v AUCTEx-version`
+
 ## Goal
 
 I would like to write my resume and cover letter in Emacs. With this
@@ -40,8 +101,8 @@ how do make a simple document with hello world.
 >and environments, C-c C-e, LaTeX-math-mode and the RefTeX commands
 >for inserting citations and cross-references
 
-Apprently there is this thing called YASnippet as described in [Working
-with templates](https://tex.stackexchange.com/questions/51204/working-with-templates/51250#51250).
+Apprently there is this thing called YASnippet as described in
+[Working with templates](https://tex.stackexchange.com/questions/51204/working-with-templates/51250#51250).
 
 ### Compiling
 
@@ -57,7 +118,7 @@ really simple](https://tex.stackexchange.com/questions/50827/a-simpletons-guide-
 
 >If you're using a distro which packages LaTeX (almost all will do)
 >then look for texlive or tetex. TeX Live is the newer of the two, and
-	>is replacing tetex on most distributions now. -[stack](https://stackoverflow.com/a/1017170/5986651)
+>is replacing tetex on most distributions now. -[stack](https://stackoverflow.com/a/1017170/5986651)
 
 [Latex for linux ](https://stackoverflow.com/a/1017170/5986651) stack website suggests the use of `texlive`
 package. This allows for the use of latex in all its glory. There are

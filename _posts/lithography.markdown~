@@ -1,0 +1,122 @@
+## body
+
+1. design of experiements (56 jobs)
+root cause analysis
+
+make recommendation, create data impact, insights
+statistics
+
+hypothesis testing
+
+deisgn
+
+correlation analysis
+
+drivers (feature importation types)
+
+A/B testing hypothesis (randomised unbiased) truly unbiased outcome,
+causal. 
+
+
+2. ""productivity improvement projects and the work typically involves
+   a lot of (machine and customer) data crunching, detailed breakdowns
+   of tact time of stages, handlers and track, bottle neck analyses
+   and the creation of options and solutions to enhance throughput and
+   output""
+   
+   Customer support
+   
+   hands dirty with data (difficult data) comprehensive data
+   story.... workign with unclean data answer data.
+   
+3. I look at data from ASML's customers to suggest customised
+   productivity improvements based on their usage of lithography
+   machines. I am involved in new product introduction, and multiple
+   stages of the product generation process. I also do data analysis
+   and reporting as part of application and business support.
+   
+   
+4. Data mining with some home made tools, to suggest improvements
+
+Writing queries, cleaning, manipulating it, adding features, if
+required data products, making insights and presenting it
+
+Full stack data analyst --> ^^^^ good analysis...  ML and more
+statistical rigor is Dat scientist.
+
+operations analyst --> understands data to create impact...
+
+You will be sucked into domain...
+
+
+Big data ()
+
+## lith
+
+In device and on-product metrology
+
+ 
+
+In-device --> using actual device repetitive features not specific marks
+
+On-product metrology --> using marks placed inbetween chips
+
+ 
+
+Machine overlay --> overlay within the machine scanner
+
+On-product overlay --> actual overlay over the entire process
+
+
+### process
+
+https://www.youtube.com/watch?v=oBKhN4n-EGI
+
+https://youtu.be/TdwUGOxCdUc?t=1062
+
+1. **Cleaning** H202 cleaning the substrate
+
+2. Layer of silicon (masking film)
+
+3. **Preparation: HDMS** (increase adhesion of photoresits) RRC reduce resist
+   consumption
+   
+4. **Coating and prebake** photo resist --> thin coating (0.5 to 2.5 um)
+
+5. extra photo resist is removed edge bead removal (FLAT LAYER)
+
+6. pre bake (drive off excess photo resist)
+
+7. **Exposing:  light** --> conddenser lens (collimated beath) --> photo mask -->
+   projection lens --> photo resist has a pattern now
+   
+8. **Development:** wash away exposed parts of the photoresist (+ve
+   resist) (soluble photoresist)
+
+9. **etching process**: remove upper most layer of substrate (silicon)
+   unprotected by photoresist
+   
+10. **Photoresist Cleaning** remove insoluble photoresist
+
+
+11. SiO2 is deposited  --> so we have Si unexposed region and Si02 in
+    the exposed region gaps
+
+12. make several layers
+
+13. Etch SiO2 to reveal 3d stretcher.
+
+### Resolution
+
+R ~lambda/na;
+
+N/A - nsin alpha
+
+
+ArF 193nm KrF 248nm
+
+Current 14nm, CD
+	
+### terminology
+
+- camera stepper or scanner that projects an image of photomast onto photoresist

@@ -108,5 +108,19 @@ working](https://stackoverflow.com/questions/25436312/gitignore-not-working)
 	git revert --no-commit oldercommit..HEAD
 	git commit -m "reverted to oldercommit"
 	
-x
+## Accidentally uploading a large file commit
+
+You get the dreaded git error from remote saying you tried to commit a
+large file. In this particular case I had uploaded a file "core" which
+is genenrated by linux in case of wierd crashes. No worries. this shit
+can be removed peacefully.
+
+I followed the instructions here as it was a recent commit and I had
+not done anything after that: 
+
+	git rm --cached core
+	git commit --amend -C HEAD
+
+	lazygit "comment"
 	
+and done. :)

@@ -1,0 +1,205 @@
+## SQL where to learn
+
+
+Here, this 6 months to DSer suggests a [stanford course](https://towardsdatascience.com/how-i-went-from-zero-coding-skills-to-data-scientist-in-6-months-c2207b65f2f3). It looks
+like this is the one: [Relational databases and SQL](https://www.edx.org/course/databases-5-sql).
+
+Course length 8-10 hours and 2 weeks == 20 hrs
+
+Each video 10 mins avg. and 19 video types.
+
+## Introduction to Databases
+
+
+Massive, Persistent, safe, multi-user, convenient (high-level info), Enquiry
+
+People build databases applications using "frameworks" (janko, ruby on
+rails)
+
+**Goal:** Storing and operating data through a DBMS.
+
+
+### Relational model
+
+Relations --> Tables (students, college)
+Attributest --> columns (id nma gpa photo)
+tuple --> row
+type --> dtype
+schema --> Students : columns : dtypes
+Instance --> contents of such a schema at a given type
+key --> ID where everything is unique in the coalath or 2 cols together...
+
+NULL --> unknown or undefined (as always be aware when you are
+selecting it and not). (`gpa>3.5` does not get null values)
+
+
+
+
+can have millions or billions of rows
+
+### intro to sql
+
+DDL create table drop table
+
+DML select insert delete update
+
+other commands indexes etc...
+
+### select
+
+Select attributes (coalaths)
+
+From relations (tables)
+
+where conditions (combine filter)
+
+### Types of (relational) Daterbases out there (DBMS)
+
+- SQL server (MS)
+- SQLite
+- Oracle
+- DB2
+- MySQL (most popular opensource daterbase)
+- BigData
+- Postgre SQL
+
+
+## To get sql work king on your machine YOU NEED?
+
+You need an database engine --> PostgreSQL, SQL Server Mysql etc...
+
+[MySQL most popular opensource daterbase](https://youtu.be/7S_tz1z_5bA?t=147).
+
+1. MySQL community server install
+
+2. Graphical tool to connect to server and manage daterbases (MySQL workbench)
+
+
+1. Init daterbase (or server)
+
+2. Make connection (start server on workbench)
+
+
+### To use on pythiath
+
+you need mysql-connector or similar modules.
+
+
+### installation of mysql community server
+
+Install packages without verification, I said ok all the time.
+
+
+**Remove sql**
+
+	sudo apt-get remove -y mysql-*
+	
+	sudo apt-get purge -y mysql-*
+	
+	
+**General proc**
+
+As said [here](https://www.digitalocean.com/community/tutorials/how-to-install-the-latest-mysql-on-ubuntu-16-04):
+
+	curl -OL https://dev.mysql.com/get/mysql-apt-config_0.8.3-1_all.deb
+	
+
+	sudo dpkg -i mysql-apt-config*
+
+
+	sudo apt-get update
+
+
+Got error that keyexpired. Didn't bother with it and moved on
+nevertheless.
+
+	rm mysql-apt-config*
+	
+	sudo apt-get install mysql-server
+	
+	systemctl status mysql
+
+
+``` shell
+Output
+● mysql.service - MySQL Community Server
+   Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+   Active: active (running) since Wed 2017-04-05 19:28:37 UTC; 3min 42s ago
+ Main PID: 8760 (mysqld)
+   CGroup: /system.slice/mysql.service
+           └─8760 /usr/sbin/mysqld --daemonize --pid-file=/var/run/mysqld/mysqld.pid
+```
+
+	mysql_secure_installation
+
+Got access denied a couple of times. Started from the top and this
+time it was ok.
+
+
+	mysqladmin -u root -p version
+
+
+``` shell
+eghx@eghx-nitro:~$ mysqladmin -u root -p version
+Enter password: 
+mysqladmin  Ver 8.42 Distrib 5.7.33, for Linux on x86_64
+Copyright (c) 2000, 2021, Oracle and/or its affiliates.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Server version		5.7.33
+Protocol version	10
+Connection		Localhost via UNIX socket
+UNIX socket		/var/run/mysqld/mysqld.sock
+Uptime:			2 min 34 sec
+
+Threads: 1  Questions: 9  Slow queries: 0  Opens: 113  Flush tables: 1  Open tables: 106  Queries per second avg: 0.058
+```
+
+### installation workbench
+
+
+	mysql --version
+	
+``` shell
+$ mysql -V
+mysql  Ver 14.14 Distrib 5.7.33, for Linux (x86_64) using  EditLine wrapper
+```
+
+
+## Learning and excercises
+
+### Dater
+
+zip file from this [Reference 1](https://www.youtube.com/watch?v=7S_tz1z_5bA): http://bit.ly/2LNdvCd which
+contains text to run dbs.
+
+Files from the stanford course are [schema](https://courses.edx.org/assets/courseware/v1/7be258f060155f581b3cf0d092235ce6/asset-v1:StanfordOnline+SOE.YDB-SQL0001+2T2020+type@asset+block/Schema.sql) and [dater](https://courses.edx.org/assets/courseware/v1/bc24afe0c983ffb91f39b37c56dc46c3/asset-v1:StanfordOnline+SOE.YDB-SQL0001+2T2020+type@asset+block/Data.Sq)
+
+### Issue 1273 error while running `basicselect.sql`
+
+
+
+- you will get 1273 error
+
+Replace `utf8mb4_0900_ai_ci` with `utf8mb4_general_ci`
+
+
+### Issue \*\*\*\* unable to delete
+
+Preferences --> Sql editor --> allow to delete and update 
+
+
+## mysql workbench
+
+
+
+## References
+
+1. [How to install on mac and windows and how to use MySQL](https://www.youtube.com/watch?v=7S_tz1z_5bA)
+
+2. [Learn SQL in 1 hr](https://www.youtube.com/watch?v=9Pzj7Aj25lw)
+
+3. [Complete getting started for pythiath and mysql](https://www.youtube.com/watch?v=x7SwgcpACng)

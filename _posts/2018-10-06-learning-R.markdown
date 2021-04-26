@@ -4,7 +4,7 @@ comments: true
 title:  "Learning R"
 date:    06-10-2018 
 categories: notes
-ntags: R, learn
+tags: R, learn
 permalink: /:title.html
 published: TRUE
 ---
@@ -20527,6 +20527,24 @@ runApp()
 http://shiny.rstudio.com/articles/shinyapps.html
 
 You get the Token and secret in https://www.shinyapps.io/admin/#/tokens
+
+``` R
+library(rsconnect)
+rsconnect::setAccountInfo(name="<ACCOUNT>", token="<TOKEN>", secret="<SECRET>")
+deployApp(appName="somethinggreaterthan4letters")
+```
+
+### Regular workflow for deployment
+
+1. go to website and get token
+
+2. make a separate folder with `server.r` and `ui.r`
+
+3. go into that folder and then 
+
+4. open R (`M-x R`)
+
+5. add the code.
 
 ``` R
 library(rsconnect)
