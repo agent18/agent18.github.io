@@ -1,0 +1,638 @@
+I"lT<h2 id="machine">Machine</h2>
+
+<h3 id="mission">Mission</h3>
+
+<p>Mission #9: Your mission, should you choose to accept it, is to
+concretely analyze the key claims in the book Superintelligence by
+Nick Bostrom (the book mentioned in the Elon Musk tweet above). He’s a
+PhD at Oxford who’s been writing about AI safety along with guys like
+Eliezer for nearly two decades. The book has detailed arguments and
+examples about all the topics like possible paths to
+“superintelligence” (whatever that means), types of
+“superintelligence”, the control problem, etc.</p>
+
+<p>No need to write “Question: “ - doesn’t seem to have changed your answers.</p>
+
+<p>Don’t have to go sentence by sentence; look at <strong>one key claim for each
+section</strong>, usually the one in the first few paragraphs, <strong>or one for each
+paragraph</strong> if you feel it’s an important section. For example:</p>
+
+<blockquote>
+  <p>CHAPTER 2 Paths to superintelligence</p>
+
+  <p>Machines are currently far inferior to humans in general
+intelligence. Yet one day (we have suggested) they will be
+superintelligent. How do we get from here to there? This chapter
+explores several conceivable technological paths. We look at
+artificial intelligence, whole brain emulation, biological
+cognition, and human-machine interfaces, as well as networks and
+organizations. We evaluate their different degrees of plausibility
+as pathways to superintelligence. The existence of multiple paths
+increases the probability that the destination can be reached via at
+least one of them.</p>
+</blockquote>
+
+<p>The key claim is “How do we get from here to there? Answer: Artificial
+intelligence, whole brain emulation, …”</p>
+
+<h3 id="feedback-checklist">Feedback checklist</h3>
+
+<p>Feedback checklist:</p>
+
+<ol>
+  <li>
+    <p>Could it be that this claim has no any example at all? For example,
+“civilization is at stake”.</p>
+  </li>
+  <li>
+    <p>Could this claim be false? Remember the “there is no doubting”
+example.</p>
+  </li>
+  <li>
+    <p>Does this claim say anything about “best” (need to compare against
+the entire set) or “most” (need to show it’s the majority in the
+set) or “no” (need to show that nothing in the set matches)?</p>
+  </li>
+  <li>
+    <p>Did you stick to examples that are in the chapter itself? That way
+you don’t have to search online for too long.</p>
+  </li>
+  <li>
+    <p>Did you use a running example for a technical phrase? There will be
+lots of new phrases in the book, like “convergent instrumental
+value” and “orthogonality thesis”. Whenever you see them, you
+should recall whatever running example you’ve used.</p>
+  </li>
+  <li>
+    <p>If this is an “if-then” claim, did you either get a concrete
+example or mark it as having no example?</p>
+  </li>
+</ol>
+
+<p>Short names: none; false; best; chapter; running; if-then.</p>
+
+<p>Please refer to the checklist after every claim analysis to ensure
+you’re not making old mistakes. If you want to add to the checklist
+based on mistakes found in past feedback, that’s great.</p>
+
+<h3 id="claim">Claim</h3>
+
+<p>I am possibly going to enjo the experience much much more than the
+last few days of fighting to complete the [2] hours. It seems like
+this is a signal for an panindian pandian to do something else or do
+it differently.</p>
+
+<p>Without Examples I am nothing!</p>
+
+<p>I am more happy to work on this, “because it seems to add more value
+to my life and it will be interesting”</p>
+
+<h2 id="claims-chapter-1">Claims Chapter 1</h2>
+
+<h3 id="growth-modes">Growth modes</h3>
+
+<p><strong>Claim</strong>: History, at the largest scale, seems to exhibit a sequence
+of distinct growth modes, each much more rapid than its predecessor.</p>
+
+<p><strong>Claim</strong>: the rise of Homo sapiens from our last common ancestor with
+the great apes happened swiftly.</p>
+
+<p><strong>Claim</strong>: These capabilities let humans develop increasingly efficient productive technol-
+ogies, making it possible for our ancestors to migrate far away from the rainforest
+and the savanna.</p>
+
+<p><strong>Claim</strong>: Such changes in the rate of growth have important
+consequences.</p>
+
+<p><strong>Claim</strong>: Even the present rate of growth will produce impressive results if maintained
+for a moderately long time.</p>
+
+<p><strong>Claim</strong>: Prospect of continuing on a steady exponential growth path pales in
+comparison to what would happen if the world were to experience another step
+change in the rate of growth comparable in magnitude to those associated with
+the Agricultural Revolution and the Industrial Revolution</p>
+
+<p><strong>Claim</strong>: Such a growth rate seems fantastic by current lights</p>
+
+<h3 id="great-expectations">Great expectations</h3>
+
+<blockquote>
+  <p>the case for taking seriously the prospect of a machine
+intelligence revolution need not rely on curve-fitting exercises or
+extrapolations from past economic growth. As we shall see,</p>
+</blockquote>
+
+<p><strong>Claim</strong>: <em>there are stronger reasons for taking heed.</em></p>
+
+<p><strong>Claim</strong>: The growth pattern has taken to suggest that another growth
+mode might be possible</p>
+
+<p><strong>Claim</strong>: Two decades is a sweet spot for prognosticators of radical
+change: near enough to be attention-grabbing and relevant, yet far
+enough to make it possible to sup- pose that a string of
+breakthroughs, currently only vaguely imaginable, might by then have
+occurred.</p>
+
+<p><strong>Claim</strong>:  The main reason why progress has been slower than expected is that the
+technical difficulties of constructing intelligent machines have proved greater
+than the pioneers foresaw.</p>
+
+<!-- 3-->
+
+<p><strong>Claim</strong>: Sometimes a problem that initially looks hopelessly
+complicated turns out to have a surprisingly simple ­solution (though
+the reverse is probably more common).</p>
+
+<p><strong>Claim</strong>: The next stop, just a short distance farther along the tracks, is super-
+human-level machine intelligence.</p>
+
+<h3 id="seasons-of-hope-and-dispair">Seasons of hope and dispair</h3>
+
+<p><strong>Claim</strong>: The methods that produced successes in the early
+demonstration systems often proved difficult to extend to a wider
+variety of problems or to harder problem instances</p>
+
+<p><strong>Claim</strong>: To overcome the combinatorial explosion, one needs
+algorithms that exploit structure in the target domain and take
+advantage of prior knowledge by using heuristic search, planning, and
+flexible abstract representations—capabilities that were poorly
+developed in the early AI systems</p>
+
+<p><strong>Claim</strong>: The performance of these early systems also suffered
+because of poor methods for handling uncertainty, reliance on brittle
+and ungrounded symbolic representations, data scarcity, and severe
+hardware limitations on memory capacity and processor speed.</p>
+
+<p><strong>Claim</strong>: The newly popular techniques, which included neural
+networks and genetic algorithms, promised to overcome some of the
+shortcomings of the GOFAI approach, in particular the “brittleness”
+that characterized classical AI programs (which typically pro- duced
+complete nonsense if the programmers made even a single slightly erro-
+neous assumption).</p>
+
+<p><strong>Claim</strong>: Behind the razzle-dazzle of machine learning and creative problem-solving
+thus lies a set of mathematically well-specified tradeoffs.</p>
+
+<p><strong>Claim</strong>: artificial intelligence as a quest to find shortcuts: ways of tractably approxi-
+mating the Bayesian ideal by sacrificing some optimality or generality while pre-
+serving enough to get high performance in the actual domains of interest.</p>
+
+<p><strong>Claim</strong>: One advantage of relating learning problems from specific
+domains to the gen- eral problem of Bayesian inference is that new
+algorithms that make Bayesian inference more efficient will then yield
+immediate improvements across many different areas.</p>
+
+<h3 id="state-of-the-art">State of the art</h3>
+
+<p><strong>Claim</strong>: Artificial intelligence already outperforms human
+intelligence in many domains.</p>
+
+<p><strong>Claim</strong>: In other domains, solutions have turned out to be more
+complicated than initially expected, and progress slower.</p>
+
+<p><strong>Claim</strong>: Common sense and natural language understanding have also
+turned out to be difficult.</p>
+
+<p><strong>Claim</strong>: Chess-playing expertise turned out to be achievable by
+means of a surprisingly simple algorithm</p>
+
+<p><strong>Claim</strong>: Modern speech recognition, based on statistical techniques
+such as hidden Markov models, has become sufficiently accurate for
+practical use</p>
+
+<p><strong>Claim</strong>: Machine translation remains imperfect but is good enough
+for many applications.</p>
+
+<p><strong>Claim</strong>: Face recognition has improved sufficiently in recent years
+that it is now used at automated border crossings in Europe and
+Australia.</p>
+
+<p><strong>Claim</strong>: Theorem-proving and equation-solving are by now so well
+established that they are hardly regarded as AI anymore.</p>
+
+<p><strong>Claim</strong>: The US military and intelligence establishments have been
+leading the way to the large-scale deployment of bomb-disposing
+robots, surveillance and attack drones, and other unmanned vehicles.</p>
+
+<p><strong>Claim</strong>: Intelligent scheduling is a major area of success.</p>
+
+<p><strong>Claim</strong>: Now, it must be stressed that the demarcation between artificial intelligence
+and software in general is not sharp.</p>
+
+<p><strong>Claim</strong>: many of them contain components that might also play a role
+in future artificial general intelligence or be of service in its
+development</p>
+
+<p><strong>Claim</strong>: One high-stakes and extremely competitive environment in
+which AI systems operate today is the global financial market.</p>
+
+<h3 id="opinions-about-the-future-of-machines">Opinions about the future of machines</h3>
+
+<p><strong>Claim</strong>: Progress on two major fronts has restored to AI research
+some of its lost prestige.</p>
+
+<p><strong>Claim</strong>: One result of this conservatism has been increased
+concentration on “weak AI”—the variety devoted to providing aids to
+human thought—and away from “strong AI”—the variety that attempts to
+mechanize human-level intelligence.</p>
+
+<p><strong>Claim</strong>: Expert opinions about the future of AI vary wildly</p>
+
+<p><strong>Claim</strong>: There is disagreement about timescales as well as about
+what forms AI might eventually take.</p>
+
+<p><strong>Claim</strong>: we can get a rough impression from various smaller surveys and infor-
+mal observations.</p>
+
+<p><strong>Claim</strong>: These numbers should be taken with some grains of salt:</p>
+
+<p><strong>Claim</strong>: median numbers reported in the expert survey do not have
+enough probability mass on later arrival dates.</p>
+
+<p><strong>Claim</strong>: AI researchers have not had a strong record of being able
+to predict the rate of advances in their own field or the shape that
+such advances would take.</p>
+
+<p><strong>Claim</strong>: Small sample sizes, selection biases, and—above all—the
+inherent unreliability of the subjective opinions elicited mean that
+one should not read too much into these expert surveys and interviews.</p>
+
+<p><strong>Claim</strong>: it might perhaps fairly soon thereafter result in
+superintelligence; and that a wide range of outcomes may have a
+significant chance of occurring, includ- ing extremely good outcomes
+and outcomes that are as bad as human extinc- tion.</p>
+
+<p><em>unable to identify one claim per section</em> important!</p>
+
+<h2 id="questions-to-an-stm">Questions to an STM</h2>
+
+<p>How to identify claims of importance?</p>
+
+<p>What is the goal here?</p>
+
+<p>People are making so many claims (as listed in black in the book)?</p>
+
+<p>How do you go about it?</p>
+
+<p>do you still have the same laptop! kill me!</p>
+
+<h2 id="statistics">Statistics</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>phrases/hr</th>
+      <th>claims/hr</th>
+      <th>actual claims/hr</th>
+      <th>Comments</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>17-05-2019</td>
+      <td>12</td>
+      <td>7</td>
+      <td>-</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>18-05-2019</td>
+      <td>10</td>
+      <td>4</td>
+      <td>-</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>19-05-2019</td>
+      <td> </td>
+      <td>1</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>20-05-2019</td>
+      <td> </td>
+      <td>1</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>21-05-2019</td>
+      <td>3</td>
+      <td>2</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>22-05-2019</td>
+      <td>5</td>
+      <td>3</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>23-05-2019</td>
+      <td>2</td>
+      <td>2</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>24-05-2019</td>
+      <td>4</td>
+      <td>2</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>25-05-2019</td>
+      <td>-</td>
+      <td>-</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>26-05-2019</td>
+      <td>10</td>
+      <td>7</td>
+      <td> </td>
+      <td>Good, did proper one hr</td>
+    </tr>
+    <tr>
+      <td>27-05-2019</td>
+      <td>2</td>
+      <td>1</td>
+      <td> </td>
+      <td>Quite hard, was work</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>on the next phrase</td>
+    </tr>
+    <tr>
+      <td>28-05-2019</td>
+      <td>3</td>
+      <td>1</td>
+      <td> </td>
+      <td>T’was hard!</td>
+    </tr>
+    <tr>
+      <td>29-05-2019</td>
+      <td> </td>
+      <td>5</td>
+      <td>0</td>
+      <td>0 worked out!</td>
+    </tr>
+    <tr>
+      <td>30-05-2019</td>
+      <td> </td>
+      <td>0</td>
+      <td> </td>
+      <td><strong>failed</strong></td>
+    </tr>
+    <tr>
+      <td>31-05-2019</td>
+      <td> </td>
+      <td>0</td>
+      <td> </td>
+      <td>tried hard, had to read</td>
+    </tr>
+    <tr>
+      <td>01-06-2019</td>
+      <td>2</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>02-06-2019</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>03-06-2019</td>
+      <td>3</td>
+      <td>2</td>
+      <td> </td>
+      <td>ok! last example fine</td>
+    </tr>
+    <tr>
+      <td>04-06-2019</td>
+      <td>4</td>
+      <td>2</td>
+      <td> </td>
+      <td>good day! repeat 1!</td>
+    </tr>
+    <tr>
+      <td>05-06-2019</td>
+      <td>3</td>
+      <td>1</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>06-06-2019</td>
+      <td>3</td>
+      <td>1</td>
+      <td> </td>
+      <td>repeated the same!</td>
+    </tr>
+    <tr>
+      <td>07-07-2019</td>
+      <td>2</td>
+      <td>1</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>08-07-2019</td>
+      <td>2</td>
+      <td>1</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>09-07-2019</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td><strong>failed</strong></td>
+    </tr>
+    <tr>
+      <td>10-07-2019</td>
+      <td>30</td>
+      <td>17</td>
+      <td> </td>
+      <td>[5] hrs</td>
+    </tr>
+    <tr>
+      <td>11-07-2019</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>12-07-2019</td>
+      <td>3</td>
+      <td>2</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>13-07-2019</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td><strong>failed</strong></td>
+    </tr>
+    <tr>
+      <td>14-07-2019</td>
+      <td>3</td>
+      <td>2</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>15-07-2019</td>
+      <td>32(0.5/m)</td>
+      <td>20</td>
+      <td> </td>
+      <td>[6] hrs!</td>
+    </tr>
+    <tr>
+      <td>16-07-2019</td>
+      <td>27(1/m)</td>
+      <td>16</td>
+      <td> </td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>17-07-2019</td>
+      <td>60(1.3/m</td>
+      <td>39</td>
+      <td> </td>
+      <td>[6] hrs but my article</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>on DP</td>
+    </tr>
+    <tr>
+      <td>18-08-2019</td>
+      <td>15 +20</td>
+      <td>[7]+[14]</td>
+      <td> </td>
+      <td>[3].5hrs+ [2].5</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>80khours art + mijn</td>
+    </tr>
+    <tr>
+      <td>19-09-2019</td>
+      <td>20+25</td>
+      <td> </td>
+      <td> </td>
+      <td>80khours AI   [5].5</td>
+    </tr>
+    <tr>
+      <td>20-09-2019</td>
+      <td>1</td>
+      <td> </td>
+      <td> </td>
+      <td>[1] hr  AI</td>
+    </tr>
+    <tr>
+      <td>21-09-2019</td>
+      <td>4</td>
+      <td>2</td>
+      <td> </td>
+      <td>[2] hrs</td>
+    </tr>
+    <tr>
+      <td>22-09-2019</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>Did [2] hrs</td>
+    </tr>
+    <tr>
+      <td>23-09-2019</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>Did [3]-[4] hrs</td>
+    </tr>
+    <tr>
+      <td>New plan</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>24-09-2019</td>
+      <td>8-5</td>
+      <td>6-3</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<p>I am dreaming most of the time! I don’t have a deadline or some focus! I think. I am
+rarely able to do this. I am thinking about the life in India! This
+should be painful not boring! And I think it is boring and the very
+second the clock ticks 58 to 60 mins pandian is out!</p>
+
+<p>Need to finish 10 phrases today period!</p>
+
+<h3 id="letter-to-an-stm">Letter to an STM</h3>
+
+<p>Thalaiva,</p>
+
+<p>If You were me, how would you be spending your time? On what exactly would you be spending your time? Would you just keep trying to clock hours after hours of pure DP on Concrete Thinking? Would you also work on DS?</p>
+
+<p>Why am I looking at DS?</p>
+
+<p>Based on 80khours, I came to the conclusion of working on DS, because it will give me more money(1.5 times in the US) than an engineer, and I could move to the US (for cryonics and more money than here). Everyone from different backgrounds are able to do DS so it should be easy to move. I personally know many people who have moved to DS without too much difficulty after a masters in TU Delft. The route I envision is to start DS work within this year and move to some big DS company in a few years (2-3years)  and do a lot of “critical thinking”and make my way to some EAO like say GiveWell within the next 5-8 years and really start saving large numbers of people.</p>
+
+<p>Should I be working on DP for CT completely instead?</p>
+
+<p>Why I ask this is because I am not sure of the consequence of working on this (DP for concrete Thinking), i.e., I don’t have an example where this makes a “difference” in my life. I don’t know how to compare DS and DP for CT. But I will take your word for it and slog my ass off atleast for the coming 4 weeks (just the beginning)(&gt;4hrs per day average of DP guaranteed). Also, over the last few weeks there has been a dip in my amount of hours clocked, so I SUCK and I don’t want to SUCK. 4.15 hours on a good week and 2.9 hrs/day last week (I start half hour after I have had dinner, I take long breaks scrolling FB etc…, including weekends.). (I count work on DS, and DP for concrete thinking together in the above.)</p>
+
+<p>I need your thoughts on this. I am not sure how this 1 hr per day od DP for CT is helping, as I barely get shit done in 1 hr (5 claims, sometimes 1 claim, as things take time to puzzle out.). I stop before I get in the groove. If DS should not be my focus right now, I am more than willing to stop with course 8/10 (20 more hrs of work) and not get closure and not be able to save face when people ask why I am not done with these courses yet.</p>
+
+<p>I don’t want to do 1 hr if it is the most important thing to focus on. I don’t want to do random phrases from texts and move on to others as it gets hard for me. I want to take a full blown essay (80khours key ideas) or chapter from some book on regression and tear it apart over how many ever days it takes full time. Why? that way I guess I get some work done with Large repetitions. Also I can gather some statistics of work done per hour on similar work and compare over the course of the exercise.</p>
+
+<p>So,</p>
+
+<p>Thalaiva, What would you do if you were me? Let’s go big or go home!</p>
+
+<p>And last but not the least, Can you please do this for me? It will help me big time to compare and improve. Can you take this section on Longtermism (5 small paragraphs) and detail it out for me as if you were submitting it for correction by including the phrases the claims and the examples. I am having several questions as I have shown my take, I would like to see you do it and carry that “attitude” throughout the entire essay. It feels like this is one type of essay vagueness I need to handle. And for most parts I am wondering what depth I should go in etc… as discussed below.</p>
+
+<p>I know you always say send me 200 phrases! Name your price for this, just this one time.</p>
+
+<p>Thank You for everything. Cheers!</p>
+
+:ET

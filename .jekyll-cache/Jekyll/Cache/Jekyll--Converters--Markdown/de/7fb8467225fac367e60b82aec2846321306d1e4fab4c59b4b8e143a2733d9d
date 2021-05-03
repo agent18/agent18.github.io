@@ -1,0 +1,330 @@
+I"�E<h2 id="uninstalling-r">Uninstalling R</h2>
+
+<p>Lets start here.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ R
+&gt; .libPaths() 
+</code></pre></div></div>
+
+<p>Delete these folders that you see as output,</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt-get remove r-base-core
+sudo apt-get remove r-base
+sudo apt-get autoremove
+</code></pre></div></div>
+
+<p><a href="https://stackoverflow.com/questions/24118558/complete-remove-and-reinstall-r-including-all-packages">Source</a></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt-get purge r-base
+sudo apt-get purge r-base-dev
+sudo apt-get purge r-base-core
+sudo apt-get purge r-base-recommended
+</code></pre></div></div>
+
+<p><a href="https://askubuntu.com/questions/423644/re-install-r-in-ubuntu">Source</a></p>
+
+<p>Just found this somewhere, not sure if this is needed. But I did it.</p>
+
+<h2 id="installing-r-35-for-ubuntu-1610">Installing R 3.5 for Ubuntu 16.10</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt-get install r-base
+</code></pre></div></div>
+
+<p>This installs R version 3.2.3. But the latest version is 3.5. But it
+appears as of jun 10 that <a href="https://askubuntu.com/questions/1031597/r-3-5-0-for-ubuntu">problematic (stack answer)</a>. Might be
+unstable!!! If this is the first time you are installing R then follow below.</p>
+
+<blockquote>
+  <p>It installs 3.2 because that’s the default in the Ubuntu 16.04
+repository. If you want the most up to date version of R for Ubuntu
+it’s best to follow the instructions at the <a href="https://cran.r-project.org/bin/linux/ubuntu/">cran page for R on
+Ubuntu</a>. - <a href="https://stackoverflow.com/questions/44567499/install-r-latest-verison-on-ubuntu-16-04">stack</a></p>
+</blockquote>
+
+<p>Based on <a href="https://cran.r-project.org/bin/linux/ubuntu/">cran page for R on Ubuntu</a> &amp;&amp; <a href="https://stackoverflow.com/a/48518006/5986651">Stack</a>: add <code class="language-plaintext highlighter-rouge">deb
+https://cloud.r-project.org/bin/linux/ubuntu xenial-cran35/</code> to
+<code class="language-plaintext highlighter-rouge">/etc/apt/sources.list</code>. Run the following commands:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys
+E084DAB9
+
+sudo apt-get update
+sudo apt-get install r-base
+
+R --version
+</code></pre></div></div>
+
+<p>That is it. If that didn’t go right, go to the section ‘re-installing
+R for Ubuntu 16.10’</p>
+
+<h2 id="installing-r-studio">Installing R-studio</h2>
+
+<p>Its a <a href="https://mikewilliamson.wordpress.com/2016/11/14/installing-r-studio-on-ubuntu-16-10/">yak shave</a> to install it due to the <a href="https://mikewilliamson.wordpress.com/2016/11/14/installing-r-studio-on-ubuntu-16-10/">Gstreamer
+dependency</a>. But thanks to the <a href="https://mikewilliamson.wordpress.com/2016/11/14/installing-r-studio-on-ubuntu-16-10/">Mike Williamson and his blog</a>
+and the further answer in <a href="https://askubuntu.com/a/862520/443958">stack</a>, it was a very smooth install for
+Ubuntu 16.10 as per <a href="https://stackoverflow.com/a/48518006/5986651">this stack answer</a>.</p>
+
+<p><strong>Preparing to install R Studio</strong></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt install libjpeg62
+</code></pre></div></div>
+
+<p><strong>Specifically installing for Ubuntu 16.10</strong> (For other versions refer
+to the stack answer):</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>wget --tries=3 --timeout=120 http://ftp.ca.debian.org/debian/pool/main/g/gstreamer0.10/libgstreamer0.10-0_0.10.36-1.5_amd64.deb
+wget --tries=3 --timeout=120 http://ftp.ca.debian.org/debian/pool/main/g/gst-plugins-base0.10/libgstreamer-plugins-base0.10-0_0.10.36-2_amd64.deb
+sudo dpkg -i libgstreamer0.10-0_0.10.36-1.5_amd64.deb
+sudo dpkg -i libgstreamer-plugins-base0.10-0_0.10.36-2_amd64.deb
+sudo apt-mark hold libgstreamer-plugins-base0.10-0
+sudo apt-mark hold libgstreamer0.10
+</code></pre></div></div>
+
+<p><strong>Installing R Studio</strong></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>wget --tries=3 --timeout=120 https://download1.rstudio.org/rstudio-xenial-1.1.383-amd64.deb
+sudo dpkg -i rstudio-*-amd64.deb
+
+rstudio
+</code></pre></div></div>
+
+<p>Thats it!</p>
+
+<p><strong>Note:</strong></p>
+
+<blockquote>
+  <p>i386 refers to the 32-bit edition and amd64 (or x86_64) refers to the
+64-bit edition for Intel and AMD processors.- <a href="https://askubuntu.com/a/54298/443958">stack</a></p>
+</blockquote>
+
+<h2 id="re-installing-r-34-for-ubuntu-1610">Re-Installing R 3.4 for Ubuntu 16.10</h2>
+
+<p>But the latest version is 3.5. But it appears as of jun 10 that it
+could be <a href="https://askubuntu.com/questions/1031597/r-3-5-0-for-ubuntu">problematic (stack answer)</a>. <del>I didn’t have problems
+until I had to install xlsx and then shit went south that all other
+packages got fucked.</del>I thought I had problems and took on a path of
+multiple installing and uninstalling, when the syntax for
+<code class="language-plaintext highlighter-rouge">xmlTreeParse</code> was wrong from my side. Without realizing this (much
+later), I went for R 3.4 only!</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt-get install r-base
+</code></pre></div></div>
+
+<blockquote>
+  <p>It installs 3.2 because that’s the default in the Ubuntu 16.04
+repository. If you want the most up to date version of R for Ubuntu
+it’s best to follow the instructions at the <a href="https://cran.r-project.org/bin/linux/ubuntu/">cran page for R on
+Ubuntu</a>. - <a href="https://stackoverflow.com/questions/44567499/install-r-latest-verison-on-ubuntu-16-04">stack</a></p>
+</blockquote>
+
+<p>Based on <a href="https://cran.r-project.org/bin/linux/ubuntu/">cran page for R on Ubuntu</a> &amp;&amp; <a href="https://stackoverflow.com/a/48518006/5986651">Stack</a>: add <code class="language-plaintext highlighter-rouge">deb
+https://cloud.r-project.org/bin/linux/ubuntu xenial/</code> to
+<code class="language-plaintext highlighter-rouge">/etc/apt/sources.list</code>. Run the following commands:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys
+E084DAB9
+
+sudo apt-get update
+sudo apt-get install r-base
+</code></pre></div></div>
+
+<p>It didn’t work for me for some reason. I got dependency error that
+looked something like this.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>r-base : Depends: r-recommended (= 3.4.4-1xenial0) but it is not going to be installed
+
+E: Unable to correct problems, you have held broken packages.
+</code></pre></div></div>
+
+<p>After hours of trying I stumbled on this <a href="https://stackoverflow.com/questions/45951385/unable-to-install-r-base-in-ubuntu-16-04">stack page</a>. This page
+didn’t have an answer but one of the comments took me to <a href="https://askubuntu.com/questions/223237/unable-to-correct-problems-you-have-held-broken-packages">Unable to
+correct problems, you have held broken packages</a>. From the <a href="https://askubuntu.com/a/223267/443958">answer
+here I tried</a> (apparently aptitude will try harder to give us a
+solution! Amazing!):</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo aptitude install r-base
+</code></pre></div></div>
+
+<p>This gave me these options</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> Keep the following packages at their current version:
+1)     r-base [Not Installed]                             
+2)     r-cran-foreign [Not Installed]                     
+	3)     r-recommended [Not Installed]                      
+
+ Leave the following dependencies unresolved:         
+4)     r-base-core recommends r-recommended 
+</code></pre></div></div>
+
+<p>I didn’t know what leaving following dependencies meant so I said
+<code class="language-plaintext highlighter-rouge">n</code>. Then I got another set of options:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>The following actions will resolve these dependencies:
+
+ Install the following packages:            
+1)     r-cran-foreign [0.8.69-1xenial0 (xenial)]
+</code></pre></div></div>
+
+<p>Thats it, it appears it also installed <code class="language-plaintext highlighter-rouge">r-base-dev</code> by
+itself. Apparently according to the <a href="https://cran.curtin.edu.au/bin/linux/ubuntu/">Cran page</a> it is also needed
+if we are going to use <code class="language-plaintext highlighter-rouge">install-packages()</code>, which we are.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>R --version
+</code></pre></div></div>
+
+<p>All Good!</p>
+
+<p>Now let’s see <a href="/learning-R.html">how the packages installation</a> will go.</p>
+
+<h2 id="setting-up-r-with-emacs">Setting up R with Emacs</h2>
+
+<p><a href="https://www.r-bloggers.com/using-r-with-emacs-and-ess/">R-bloggers</a>, suggests to install package <code class="language-plaintext highlighter-rouge">ESS</code> and
+<code class="language-plaintext highlighter-rouge">ESS-smart-underscore</code> and some other <code class="language-plaintext highlighter-rouge">org</code> and <code class="language-plaintext highlighter-rouge">org-ref</code> type of
+packages. The org stuff seem to be unnecessary for me, so I skip them
+for now. Further more <a href="https://www.r-bloggers.com/using-r-with-emacs-and-ess/">r-bloggers</a> link to their github repository
+and the <a href="https://github.com/pprevos/r.prevos.net/blob/master/Miscellaneous/BodyImage/init.el">minimum-working-init-file</a> for our reference.</p>
+
+<p>The <a href="https://github.com/pprevos/r.prevos.net/blob/master/Miscellaneous/BodyImage/init.el">init-file </a> linked above shows that we need to add <code class="language-plaintext highlighter-rouge">require
+ess-site</code>. I don’t understand what it is and why we need it. I stick
+to installing the required packages <code class="language-plaintext highlighter-rouge">ESS</code> and
+<code class="language-plaintext highlighter-rouge">ESS-smart-underscore</code>. This can be manually installed with <code class="language-plaintext highlighter-rouge">M-x
+package-list-packages RET</code> or you can add it to the init file. In my
+case I add the packages to my <code class="language-plaintext highlighter-rouge">package-init.el</code> file which will
+automatically install it. Furthermore the following is added to the
+<code class="language-plaintext highlighter-rouge">init.el</code> based on <a href="https://github.com/pprevos/r.prevos.net/blob/master/Miscellaneous/BodyImage/init.el">r-bloggers-init-file</a>:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>;; Line numbers
+(add-hook 'ess-mode-hook 'linum-mode)
+</code></pre></div></div>
+
+<p>This allows for line numbers during the usage of ESS.</p>
+
+<h3 id="testing-if-the-above-works">Testing if the above works</h3>
+
+<p>Yes it works.</p>
+
+<p>To get a console simply do:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>M-x R
+</code></pre></div></div>
+
+<p>The setup we now want to have is R editor on the left and R console on
+the right. Create <code class="language-plaintext highlighter-rouge">testing.R</code> file. Run <code class="language-plaintext highlighter-rouge">C-x 3</code> to split the
+window. Go to the other window (<code class="language-plaintext highlighter-rouge">C-x 0</code>). Open the console using <code class="language-plaintext highlighter-rouge">M-x
+R</code>. The <a href="https://stats.blogoverflow.com/2011/08/using-emacs-to-work-with-r/">following command</a> will run the file in the console:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>C-c C-l
+</code></pre></div></div>
+
+<p>Toodles! Some more helpful configuration things are given in
+<a href="https://stats.blogoverflow.com/2011/08/using-emacs-to-work-with-r/">here</a>. This shall be taken into account later if needed.</p>
+
+<h3 id="writing-r-code">Writing R code</h3>
+
+<p><code class="language-plaintext highlighter-rouge">_</code> key is bound to <code class="language-plaintext highlighter-rouge">&lt;-</code> by default in the <code class="language-plaintext highlighter-rouge">ESS</code>
+mode. <code class="language-plaintext highlighter-rouge">ESS-smart-underscore</code> tries to overcome this issue (I have not
+yet tested how).</p>
+
+<h3 id="time-taken-to-understand-and-install-and-procrastinate">Time taken to understand and install and procrastinate</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>1hr 35 mins.
+</code></pre></div></div>
+
+<h2 id="upgrading-r-344-to-next-version-for-mass-library">Upgrading R 3.4.4 to next version for MASS library</h2>
+
+<p>From <a href="https://stackoverflow.com/a/10476798/5986651">this stack answer made on may 18</a>,</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo nano /etc/apt/sources.list    
+
+deb https://cloud.r-project.org/bin/linux/ubuntu/ version/
+
+gpg --keyserver keyserver.ubuntu.com --recv-key E084DAB9
+
+gpg -a --export E084DAB9 | sudo apt-key add -
+
+sudo apt-get update &amp;&amp; sudo apt-get upgrade
+</code></pre></div></div>
+
+<p>It appears that R has already upgraded!</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt-get install r-base-dev
+</code></pre></div></div>
+
+<div class="language-terminal highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="go">Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+r-base-dev is already the newest version (3.6.0-1xenial).
+r-base-dev set to manually installed.
+The following packages were automatically installed and are no longer required:
+  cdbs libaio1 libevent-core-2.0-5 snapd-login-service
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+</span></code></pre></div></div>
+
+<p><strong>Seemless integration into ESS emacs</strong></p>
+
+<h3 id="but-packages-are-missin">But packages are missin!</h3>
+
+<p>But all packages are missin! BUT!!!!!</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>library(ggplot2)
+
+NOT FOUND!
+</code></pre></div></div>
+
+<p>For this we follow <a href="https://stackoverflow.com/a/10476798/5986651">the same guy on this answer</a>!</p>
+
+<blockquote>
+  <p>Recover your old packages following the solution that best suits to
+you (see this). For instance, to recover all the packages (not only
+those from CRAN) the idea is:</p>
+
+  <p>– copy the packages from R-oldversion/library to
+R-newversion/library, (do not overwrite a package if it already
+exists in the new version!).</p>
+
+  <p>– Run the R command update.packages(checkBuilt=TRUE, ask=FALSE).</p>
+</blockquote>
+
+<p>So we first look at <code class="language-plaintext highlighter-rouge">.libPaths()</code> in R to see where 3.6 packages are!</p>
+
+<p>and we get</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>[2] "/usr/local/lib/R/site-library"               
+[3] "/usr/lib/R/site-library"                     
+[4] "/usr/lib/R/library"  
+</code></pre></div></div>
+
+<p>And found that <code class="language-plaintext highlighter-rouge">/usr/lib/R/library</code> has the packages of the current
+folders of packages. I test many of them using <code class="language-plaintext highlighter-rouge">library(MASS)</code> for
+example! It works!</p>
+
+<p>When you ask to update packages (also install packages I think), it
+puts in a different folder which is writable. I found 3.4 packages in
+<code class="language-plaintext highlighter-rouge">/home/eghx/R/x86_64-pc-linux-gnu-library/3.4</code> and 3.6 packages go
+into <code class="language-plaintext highlighter-rouge">/home/eghx/R/x86_64-pc-linux-gnu-library/3.6</code> when you</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>update.packages(checkBuilt=TRUE, ask=FALSE)
+</code></pre></div></div>
+
+<h4 id="conclusion">Conclusion</h4>
+
+<p>In conclusion, what needs to be done is,</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo cp -rn R/x86_64-pc-linux-gnu-library/3.4/ggplot2 /usr/lib/R/library/ggplot2
+</code></pre></div></div>
+
+<p>for all folders</p>
+
+<p><strong>or</strong></p>
+
+<p>just copy paste from <code class="language-plaintext highlighter-rouge">R/x86_64-pc-linux-gnu-library/3.4</code> to
+<code class="language-plaintext highlighter-rouge">R/x86_64-pc-linux-gnu-library/3.6</code>. Do not replace any folders in 3.6
+and then type in R</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>update.packages(checkBuilt=TRUE, ask=FALSE)
+</code></pre></div></div>
+
+<p>You will have a lot of warnings, maybe errors even. But thats how it’s
+going to be! But I guess it’s ok!</p>
+:ET

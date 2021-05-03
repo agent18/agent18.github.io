@@ -1,0 +1,1168 @@
+I"o�<h2 id="introduction">Introduction</h2>
+
+<p>This is the 3rd DP practice session on improving the skill,
+“identifying phrases that need examples and giving examples”.</p>
+
+<h2 id="feedback-on-last-essay-by-an-stm">Feedback on last essay by an STM</h2>
+
+<ul>
+  <li>
+    <p>split even further</p>
+
+    <blockquote>
+      <p>You need to break down the “phrase” even further. Instead of
+“designed specifically to improve performance”, which has two
+main parts, make it “designed specifically” and “improve
+performance”. That way, for “improve performance”, you get to
+know exactly what you mean by “performance”.</p>
+    </blockquote>
+
+    <blockquote>
+      <p>feedback on results is continuously available</p>
+    </blockquote>
+
+    <blockquote>
+      <p>Again, chunk it up. What does “feedback on results” look like?
+Say, shooting percentage. (Why not also measure categories like
+“missed completely” and “hit the rim” and “nothing but net”?
+Fine-grained feedback as opposed to “in” and “out”.)</p>
+    </blockquote>
+
+    <blockquote>
+      <p>Next, what does “continuously available” look like? Maybe you’re
+counting the last 10 balls and the success percentage
+therein. This is continuous, as opposed to “go home and log it
+after taking a shower and maybe having dinner”, which is the
+exact opposite of “continuously available”.</p>
+    </blockquote>
+  </li>
+  <li>
+    <p>Examples need to be concrete</p>
+
+    <blockquote>
+      <blockquote>
+        <p><strong>E:</strong> You will NEVER be better than your peers.</p>
+      </blockquote>
+
+      <p>I’m too dumb to understand this sentence, especially when there
+is no concrete example for miles. Especially taxing on my brain
+are the words “be better” and “peers”.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<p>etc…</p>
+
+<h2 id="mission-6-by-an-stm">Mission #6 by an STM</h2>
+
+<blockquote>
+  <p>Mission #6: Your mission, should you choose to accept it, would be to
+clarify material that genuinely confuses you. (Did your spider-sense
+start tingling for the last two phrases? It should have.)</p>
+
+  <p>Primary target: Some work-related document that you need to understand
+thoroughly but currently don’t. Take it apart almost word-by-word and
+provide a <em>concrete</em> example for each one.</p>
+
+  <p>For example, “habeas corpus” sounds like a confusing legal term. But
+once I’ve seen an example for it
+(https://en.wikipedia.org/wiki/Habeas_corpus#Examples), I know it
+pretty well and can follow along when I hear it in another case. Even
+somebody who has no idea of the jargon can understand by looking at
+the concrete example. Note that the theoretical definition (“Habeas
+corpus is a recourse in law through which a person can report an
+unlawful detention or imprisonment to a court and request that the
+court order the custodian of the person, usually a prison official, to
+bring the prisoner to court, to determine whether the detention is
+lawful.”) is not good enough - it’s not a concrete example.</p>
+
+  <p>Secondary target: Some non-technical document that you want to
+understand thoroughly but currently don’t.</p>
+
+  <p>Reps: 200.</p>
+
+  <p>Success criteria: Does it feel less confusing? Does it now feel
+crystal-clear? (<spider-sense tingling="">)</spider-sense></p>
+</blockquote>
+
+<hr />
+<p><br /></p>
+
+<h2 id="dp">DP</h2>
+
+<p><strong>Note:</strong></p>
+
+<p>I have marked with italic text in some places for the reader to help
+me out with examples and feedback if possible. I have done this
+where ever I have noticed “confusion or difficulty”.</p>
+
+<h3 id="lecture-notes-on-dynamics-20">Lecture notes on Dynamics (20)</h3>
+
+<p><strong>Source</strong> is course notes for Engineering Dynamics.</p>
+
+<p><strong>P:</strong></p>
+<blockquote>
+  <p>The (analytical approach)[1] to (mechanics)[2] (in this book), unlike (vector
+mechanics)[3], is based on the (concepts of energy)[4a] and (work)[4b] and
+therefore provides a (better understanding)[5] of (mechanical
+phenomena)[6]. (It provides)[7] at the same time a (very powerful
+tool)[8] for two main reasons:</p>
+</blockquote>
+
+<blockquote>
+  <ul>
+    <li>(It)[9] (considerably simplifies)[10] the (analytical formulation)[11] of
+the (motion equations)[12] for a (complex mechanical system)[13].</li>
+  </ul>
+</blockquote>
+
+<p><strong>E:</strong> For the work I did on the IC engine in <a href="https://www.researchgate.net/publication/291747197_Design_of_Dynamically_Loaded_Components_Using_a_Kinetostatic_Approach">this paper</a>, we find out
+the equilibrium forces in the crank and piston when the crank rotates
+from 0-360 degrees[2], we wrote the newton equations in XYRz for each
+part and then solved all the equations simultaneously to obtain the
+forces[1,7,9,11].</p>
+
+<p><em>Can I get away with saying “equilibrium forces”, Last time you asked
+me “who is crank?” If this is not good enough, can you give me an
+example of how this is supposed to be? :)</em></p>
+
+<p>For the truss problem shown below: We could write the individual force
+equations for each part in the XYRz (3 equations per part)[3], or we
+could write one equation using the energy stored in the spring[4a] and
+the work done by the force F [4b] for a small displacement d and come
+to the same solution[14]. This is also called Principle of virtual
+works (POVW)).</p>
+
+<p><img src="./images/images-DP-3/truss.jpg" alt="Truss problem" /></p>
+
+<p>When we use POVW this is the equation: <code class="language-plaintext highlighter-rouge">F*dy=0.5*k*dx^2</code>. It contains
+stiffness, force and geometry. You see the relation between F and k,
+you increase F by factor 2 then k needs to be increased by factor 2 as
+well [6] when all else is the same! With Vector mechanics we would
+have 6 equations (ΣFX=0,ΣFY=0,ΣM=0–2x). Once we solve them we have a
+relation like <code class="language-plaintext highlighter-rouge">f(geometry, reaction force, internal force,
+stiffness)=0</code>. This doesn’t allow to the see the increase in F by a
+factor 2 and its subsequent increase in the stiffness by factor 2[5].</p>
+
+<p>In vector mechanics, we have 6 equations and in POVW we have 1
+equation[8,10] (<code class="language-plaintext highlighter-rouge">F*dy=0.5*k*dx^2</code>)[12] for this truss problem [13].</p>
+
+<p>Consider a double pendulum system[13]. They are dynamic in nature
+(position of the masses changes with time). As opposed to 6 equations
+we have 2 equations [10] which describe the position information using
+a differential equation like <code class="language-plaintext highlighter-rouge">m*l^2*\\ddot(\\theta) +
+mgl*sin(\\theta)</code> [12] while using POVW.</p>
+
+<blockquote>
+  <ul>
+    <li>(It)[14] (gives rise)[15] to (approximate numerical methods)[16] for the
+solution of both (discrete)[17] and (continuous)[18] systems in the
+most (natural manner)[19].</li>
+  </ul>
+</blockquote>
+
+<p><strong>P:</strong> It</p>
+
+<p><strong>E:</strong> <a href="https://www.youtube.com/watch?v=QBWk996hg5Et=277">Analytical approach using energy and work</a>[14]</p>
+
+<p><strong>P:</strong> gives rise in natural manner [15,19]</p>
+
+<p><strong>E:</strong> For <a href="https://mathinsight.org/ordinary_differential_equation_introduction_examples">simple differential equations</a> it is possible to get the
+solution. But for systems like the Navier-Stokes equations <a href="https://www.quora.com/Is-it-possible-to-solve-every-differential-equation-in-this-world">it is
+impossible to solve without many assumptions</a>. Thus we need
+something else.[15,19]</p>
+
+<p><em>I would assume this is not an example of giving rise in a natural
+manner, maybe it was an explanation</em></p>
+
+<p><strong>P:</strong> approximate numerical methods</p>
+
+<p><strong>E:</strong> Find the root of 𝑓(𝑥)=𝑥−5.</p>
+
+<p>let’s guess 𝑥=1: 𝑓(1)=1−5=−4. A negative number. Let’s guess 𝑥=6:
+𝑓(6)=6−5=1. A positive number.</p>
+
+<p>The answer must be between them. Let’s try 𝑥=(6+1)/2: 𝑓(7/2)&lt;0</p>
+
+<p><a href="https://math.stackexchange.com/questions/935405/what-s-the-difference-between-analytical-and-numerical-approaches-to-problems">Source</a></p>
+
+<p><strong>P:</strong> discrete systems</p>
+
+<p><strong>E:</strong> double pendulum with mass positioned at a distance <code class="language-plaintext highlighter-rouge">l</code> apart.</p>
+
+<p><strong>P:</strong> continuous systems</p>
+
+<p><strong>E:</strong> A beam</p>
+
+<p><em>It was quite taxing to come up with examples. It was very hard, this
+part. It took 5 phrases per hour. Very slow! Was racking my head for
+“examples”</em></p>
+
+<h3 id="principle-of-virtual-work-7">Principle of virtual work (7)</h3>
+
+<blockquote>
+  <p>Let us consider (a particle of mass m)[1], (submitted to a force field <strong>X</strong>)[2]
+(of components Xi)[3] in an (inertial frame)[4]. The (dynamic equilibrium)[5] of
+the particle can be expressed in (d’Alembert’s form)[6]</p>
+</blockquote>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>m*üi − Xi = 0      where i=1,2,3
+</code></pre></div></div>
+
+<blockquote>
+  <p>where ui represents the (displacement of the particle)[7].</p>
+</blockquote>
+
+<p>Imagine a pendulum[1] pulled to a height h from its rest position and
+let go of. The gravitational force acts on it[2]. In the vertical
+direction you have the weight of the mass <code class="language-plaintext highlighter-rouge">mg</code> [3]. The forces are
+defined in a frame such that if the pendulum is in its mean position
+(with 0 net force) then is does not accelerate [4].</p>
+
+<p>When the pendulum is pulled to a height and let go of, the pendulum is
+in dynamic equilibrium[5]. When it is stationary at the mean position it
+is in static equilibrium. D’Alhembert’s form is the <code class="language-plaintext highlighter-rouge">F-ma=0</code>
+form [6].</p>
+
+<p><em>“dynamic equilibrium”, means for me that I can use <code class="language-plaintext highlighter-rouge">F=ma</code> equation
+at every instance but I don’t know how else to give an example to
+explain it</em></p>
+
+<p><strong>P:</strong> Displacement of a particle[7]</p>
+
+<p><strong>E:</strong> When the pendulum moves from mean position to 90 degree position
+the displacement in horizontal direction is length of the pendulum.</p>
+
+<p><em>After this things got way too complicated with the text so I stopped
+there, as it was taking too much time and I was getting no where</em></p>
+
+<p><strong>P:</strong></p>
+<blockquote>
+  <p>Let us next imagine that the (particle)[1] follows during the time interval
+[t1 , t2 ] a (motion trajectory ui*)[2] (distinct from the real one)[3]
+ui. This (allows us)[4] to define the (virtual displacement of the particle)[5]
+by the relationship (figure 1.1)</p>
+
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>δui = ui* − ui
+</code></pre></div>  </div>
+</blockquote>
+
+<p><img src="./images/images-DP-3/VD.png" alt="virtual displacement" /></p>
+
+<p><strong>E:</strong>
+The pendulum[1] moves from the mean position to say 90 degrees (B) to the
+right (ui). ui* is when the pendulum ball takes any other route to
+B[2,3]. The difference between these 2 is the virtual displacement.</p>
+
+<p><em>I didn’t understand this part at all and couldn’t continue with
+giving examples, so I stop here.</em></p>
+
+<h3 id="maxwells-equations-22">Maxwells equations (22)</h3>
+
+<p>Source from text book Mechatronics Systems Design by Robert Munning Schmidt</p>
+
+<blockquote>
+  <p>(Electro magnetics)[1] is the (physics area)[2] that (describes the
+phenomena)[3], associated with (electric)[4] and (magnetic fields)[5]
+and (their interaction)[6].</p>
+</blockquote>
+
+<p><strong>P:</strong> Electro Magnetics</p>
+
+<p><strong>E:</strong> Door bell has a magnetic material with coil around it. When a
+current is passed through this material, it creates a magnetic field
+that makes a rod hit a plate to make sound. <a href="https://wonderopolis.org/wonder/how-does-a-doorbell-work#">Source</a></p>
+
+<p>E2: Motors rotate because of the creation of magnetic field by the
+rotor which is opposed to the magnetic field by the stator. The
+magnetic field of the rotor is created from an electric field. [1]</p>
+
+<p><strong>P:</strong> Physics area</p>
+
+<p><strong>E:</strong> light, electromagnetism, electrons, atoms,  planets, [2]</p>
+
+<p><strong>P:</strong> describes the phenomena</p>
+
+<p><strong>E:</strong> Door bell has a magnetic material with coil around it. When a
+current is passed through this material, it creates a magnetic field
+that makes something to move and hit a two-tone bar[3]</p>
+
+<p><strong>P:</strong> electric fields</p>
+
+<p><strong>E:</strong>  When you bring a positive charge close to a negative charge, they
+are attracted towards each other[4]</p>
+
+<p><strong>P:</strong> magnetic fields</p>
+
+<p><strong>E:</strong> When you bring a magnetic material towards a magnet it gets
+attracted due to the magnetic field[5].</p>
+
+<p><strong>P:</strong> their interaction</p>
+
+<p><strong>E:</strong> When you pass current through a conductor it creates a magnetic
+field. (doorbell) [6]</p>
+
+<blockquote>
+  <p>Although this book (focuses on comprehension)[1], rather than
+(mathematics)[2], it is not possible to (escape from the fact)[3],
+that the (physics)[4] in (electro magnetics)[5] are governed by
+(stipulated laws and models)[6]. (These laws)[7] in itself (can not
+be understood by definition)[8], but (have to be accepted)[9] for
+reason of their (capability to predict the behavior)[10] of
+(electromagnetic systems)[11].</p>
+</blockquote>
+
+<p><strong>P:</strong> comprehension</p>
+
+<p><strong>E:</strong> If you apply a current to a coil you will see a magnetic field. You
+bring a magnetic material close to the coil it will get attracted
+[1].</p>
+
+<p><strong>P:</strong> Mathematics</p>
+
+<p><strong>E:</strong> Maxwell’s equation derivation https://en.wikipedia.org/wiki/Maxwell%27s_equations [2]</p>
+
+<p><strong>E:</strong> Physics can only go so deep, it cannot tell you why the
+current carrying coil in the doorbell[5,11] creates the magnetic
+field[3,4]. It can only tell you that the Maxwell’s laws[6,7] inform the
+creation of magnetic field from electric field[8].</p>
+
+<p>If you jump off a building YOU WILL FALL DOWN[10], so you don’t jump
+off the building [9].</p>
+
+<p>~~&gt; Though this complicates the matter (for people, who want to know</p>
+<blockquote>
+  <p>why things work as they do)[],~~ (these laws)[1] are taken as a (starting
+point)[2] and then the (subject is presented)[3] as if its
+(understood)[4] (what causes these laws to be true)[5].</p>
+</blockquote>
+
+<p>So I started with a breadboard and was informed that a <a href="https://learn.sparkfun.com/tutorials/transistors/applications-i-switches">certain way of
+connections</a> the transistor acts as a switch with a very small base
+control current[1]. I accepted this[2] and made the line follower
+robot. I took a couple of transistors and made the circuit[3,4] as
+though transistors acting as switches[5] was true.</p>
+
+<p><em>Struggled in explaining “understood” and “what causes these laws to
+be true”. This was hard. Couldn’t continue beyond this so moved on to
+another topic</em></p>
+
+<h3 id="career-guide-career-capital-38">Career guide career capital (38)</h3>
+
+<p>Source for the following is from: <a href="https://80000hours.org/career-guide/career-capital/">career-guide of 80000 hrs</a>.</p>
+
+<p><strong>P:</strong></p>
+<blockquote>
+  <p>(Career capital)[1] is anything that puts you in a (better position)[2] to make
+a( difference in the future)[3], including (skills)[4], (connections)[5], (credentials)[6]
+and (runway)[7].</p>
+</blockquote>
+
+<p>For example, if you look at data science in Google, you learn
+programming, statistics, maths, and you learn about the industry
+(cars, phones, clothing) you are working in[1,4]. These skills are
+expected to become <a href="https://80000hours.org/career-reviews/data-science/#career-capital">increasingly valuable</a> in the the future across
+wide range of industries (Phones, Cars, clothing, supermarkets
+etc…)[2]. So if you wanted to go into an NGO like GIVEWELL[3], the
+skills learned could allow you to migrate into that sector.</p>
+
+<p><em>“learn about the industry” is vague?</em></p>
+
+<p>My colleagues at work helped me find jobs by giving me a list of
+companies to apply to [5].</p>
+
+<p>Working at Google or BCG, or Mckinsey is already a Green Flag on your
+CV. People respect you just for that [6].</p>
+
+<p><em>Is this not an example? Are you going to ask me what is a “green
+flag”?</em></p>
+
+<p>With my current job I should be able to save 10k€ per year. This
+will last me for a year without work[7].</p>
+
+<blockquote>
+  <p>(Gaining career capital)[1] is (important)[2] (throughout your career)[3], but
+(especially when you’re young)[4] and (you have a lot to learn)[5].</p>
+</blockquote>
+
+<p>My cousin is 40 years old and is doing sales in Dubai, he is
+constantly having to be on his toes to make connections[1] which will
+allow him to make new sales. On the other spectrum if he doesn’t make
+connections he might lose his job and come back to India[2,3].</p>
+
+<p>Learning a language at the age of 40 is much harder than when you
+are 25. After 30 it is hard to learn new skills [4] (Source: Talent is
+Overrated).</p>
+
+<p>Now I am 27, and I am learning Data Science, working on “critical
+thinking”, learning dutch, and weight training so that it puts me in
+the best possible position in the future (working at GiveWell or start
+my own NGO)[5].</p>
+
+<blockquote>
+  <p>(The earlier you are in your career)[1], and the (less certain you
+are)[2] about (what to do in the medium-term)[3], (the more you
+should focus)[4] on (gaining career capital)[5] that’s (flexible)[6]
+i.e.( useful in many different sectors)[7a] and (career paths)[7].</p>
+</blockquote>
+
+<p><a href="https://80000hours.org/career-guide/career-capital/#3-develop-a-valuable-transferable-skill">Peter</a> was majoring in political science when he was 22[1]. He was
+inclined to make a big difference in this world[3], but he didn’t know
+how. He could do law, charity work or programming[2]. He chose
+computer programming as it would give him lot of income to donate and
+a transferable skill[4,5]. If he didn’t like it, it would be easier
+for him to switch into an NGO to do charity work[6]. But not the other
+way around. The organization he works for gives him skills in
+programming business and finance [7], this seems to ensure he can work
+for organizations like Google, Tesla, Walmart, Facebook, and even
+GiveWell [7a].</p>
+
+<hr />
+<p><br /></p>
+<blockquote>
+  <p>Some of the (best ways)[1] to (gain career capital)[2] (early on)[3] include:</p>
+</blockquote>
+
+<p><strong>P:</strong> best ways to gain career capital [1,2]</p>
+
+<p><strong>E:</strong> Rob Mather of AMF says that he started <a href="https://80000hours.org/career-guide/career-capital/#3-develop-a-valuable-transferable-skill">his career in sales and
+management consulting</a>. And that these positions have him the
+management and persuasion skills to make AMF efficient [1,2].</p>
+
+<p>E2: <a href="https://80000hours.org/career-reviews/">Economics Phd, Machine learning Phd, foundation grantmaker</a></p>
+
+<p><strong>E3:</strong> Programming, Data Science, tech entrepreneurship</p>
+
+<p><strong>P:</strong> early on</p>
+
+<p><strong>E:</strong> 20-30 I guess</p>
+
+<p><strong>P:</strong></p>
+<blockquote>
+  <p>(Working in any organization)[4] which has, or with any people who
+have, (a reputation for high performance)[5] e.g. (top consultancy)[6] or
+(technology firms)[7], or any work with a (great mentor or team)[8].</p>
+</blockquote>
+
+<p><strong>E:</strong> Working in Google, Amazon, Apple, Facebook or Mckinsey[6], BCG[6]
+[4,5,7].</p>
+
+<p>My boss once made me take on customer support for our clients in
+France, which I managed to do well, despite not knowing anything about
+the module. He was there for me to ask questions and learn and helped
+me dealing with the panic caused by the guys in France [8].</p>
+
+<blockquote>
+  <p>Undertaking (certain graduate studies)[9], especially (applied
+quantitative subjects)[10] like economics, computer science and
+applied mathematics. Anything that gives you a (valuable)[11a]
+(transferable skill)[11] e.g. programming, data science, marketing.</p>
+</blockquote>
+
+<p><strong>P:</strong> certain graduate studies</p>
+
+<p><strong>E:</strong> <a href="https://80000hours.org/career-reviews/">Economics Phd, Machine learning Phd</a>[9]</p>
+
+<p><strong>P:</strong> Applied quantitative subjects</p>
+
+<p><strong>E:</strong> “Economics, computer science and applied mathematics”[10]</p>
+
+<p><strong>P:</strong> Valuable transferable skill</p>
+
+<p><strong>E:</strong> “programming, data science, marketing”[11] are some transferable
+skills that can be used in literally all industries [11a]</p>
+
+<p><strong>P:</strong></p>
+<blockquote>
+  <p>(Taking opportunities)[12] which allow you to (achieve impressive and
+socially valuable things)[13] e.g. (founding an organization)[14],
+(doing anything at which you might excel)[15].</p>
+</blockquote>
+
+<p><strong>E:</strong> Arnold Schwarzenegger worked hard in bodybuilding[15] and turned his success into
+movies[12,13] and now into politics.</p>
+
+<p>Rob Mather started with management consulting[12] which allowed him to
+make AMF one of the most effective organizations[13] in providing aid [14].</p>
+
+<p>Benjamin Todd couldn’t find good advice on careers, so he
+started 80k hours[12,14] and now has had an impact on &gt;3000 major
+career change decisions[13].</p>
+
+<blockquote>
+  <p>There are also (lots)[16] of ways to (gain career capital in any
+job)[17], which we cover in a later article.</p>
+</blockquote>
+
+<p><strong>E:</strong> Volunteering to work on a programming project so that you can learn and
+get additional skills. [17]</p>
+
+<p><em>Would you consider the above as an example?</em></p>
+
+<p><strong>E2:</strong> learn courses in addition to work like programming, marketing or
+management</p>
+
+<p><strong>E3:</strong> improve on social skills by joining improv or toastmasters. Be
+sure to apply those techniques everywhere.</p>
+
+<p><strong>P:</strong> lots  [16]</p>
+
+<p><strong>E:</strong> The above listed examples are a few [E,E2,E3]. Also many more
+<a href="https://80000hours.org/career-guide/how-to-be-successful/#9-try-out-this-list-of-ways-to-become-more-productive">here</a>.</p>
+
+<h3 id="career-capital-in-detail-70">Career Capital in detail (70)</h3>
+
+<p>Source for the following is from: <a href="https://80000hours.org/career-guide/career-capital/">career-guide of 80000 hrs</a>.</p>
+
+<blockquote>
+  <p>(Skills)[1] – (what will you (learn)[2a] in this job)[2], and (how fast
+will you learn)[3]?  You can( break skills down)[4] into
+(transferable skills)[5], (knowledge)[6] and (personality
+traits)[7].</p>
+</blockquote>
+
+<p>At my current job, I am a design engineer. My skills are designing to
+position parts within a few microns, troubleshooting and customer
+support [1,2]. I work on variety of different projects like designing
+modules for clamping of a wafer, and designing stages that accelerate
+at 40g’s [2a]. I am able to make my own designs with little help from
+senior designers in 5 years time[3]. The different skill types are
+transferable skills, knowledge and personality traits [4]. I can
+transfer my design skills to other high-tech companies like Philips in
+Medical[5]. With the knowledge of the lithography industry I am able
+to move to sales[6]. At my previous company I sucked a lot, I was
+allowed to ask dumb questions. I didn’t even know how to design a part
+for milling. But I was softly pointed out my flaws and I pulled
+through quite well after that. Now when I have recent hires to mentor,
+I make sure I extend the same kindness I was offered [7].</p>
+
+<p><em>Does troubleshooting, customer support work for you? why? and why
+not? Do you think these need examples? When I say troubleshooting, I
+imagine the time when I found and fixed the rootcause for a failing
+filter in the module. When I think about customer support, I imagine
+me on the phone listening about a ticket raised to critical about
+broken wafer tables, and frantically discussing with people on how to
+solve it</em></p>
+
+<p><em>Can you comment on 2a? When I think about learning, I think about the
+different projects I will work on, and the experience I gain from
+that</em></p>
+
+<blockquote>
+  <p>Some especially (useful)[8] transferable skills include: (personal
+productivity)[9], (analysis)[10] and (problem-solving)[11], the (ability
+to learn quickly)[12], (decision-making)[13], (social skills)[14],
+and (management)[15].</p>
+</blockquote>
+
+<p><strong>P:</strong> useful</p>
+
+<p><strong>E:</strong> programming, and marketing skills can be used in every single
+sector, and are the least risk of getting automated</p>
+
+<p><strong>P:</strong> personal productivity</p>
+
+<p><strong>E:</strong> When I really need to focus, and time is of the essence, I switch
+off my phone, switch on leechblock to block sites like youtube and
+linkedin, and go to the silent room in the library with ear plugs. The
+days when I invariably clock the most hours (10.5 hrs even) is with
+this above setup [9]. There is not a case in history where I did 6 hrs
+say when I was at home and didn’t have the above setup.</p>
+
+<p><strong>P:</strong> analysis and problem-solving</p>
+
+<p><strong>E:</strong> At work I am often given a task which starts with a problem: “there
+is leak in the vacuum chamber”. My objective would be to identify why
+there is leak (“Make experiments to check if the leak is virtual or
+due to a faulty connection”)[10] and then propose solutions to
+overcome it (“replace connection and retry”)[11].</p>
+
+<p><strong>P:</strong> ability to learn quickly</p>
+
+<p><strong>E:</strong> Following <a href="https://80000hours.org/2013/04/how-to-improve-your-memory/">spaced repetition</a>. For example, reviewing 100 flash
+cards of GRE words and meanings everyday.[12]</p>
+
+<p><em>Is this a proper example? Should have I chunked it up to “ability”
+and “learn quickly”, if so can you write this out for me?</em></p>
+
+<p><strong>P:</strong> decision-making</p>
+
+<p><strong>E:</strong> for example, ability to make decision without falling for the
+Alias paradox</p>
+
+<p>1A: 24k with 100% certainty
+1B: 33/34 chance if winning</p>
+
+<p>2A: 34% chance of winning 24k
+2B: 33% chance of winning 27k</p>
+
+<p>Choosing 1B and 2B makes sense as they are equivalent and are the
+highest $$.</p>
+
+<p><em>Is this not an example? why? what would be an example? A real
+decision that I made overcoming my bias would be the right example?</em></p>
+
+<p><strong>P:</strong> social skills<br />
+<strong>E:</strong> ability to sustain conversation with someone you met (not awkward
+silence).</p>
+
+<p><em>This seems to be a hard one, I can think of real life examples like
+friends I have? Can you show me an example for this? I think what I
+have written is an explanation (theory)</em></p>
+
+<p><strong>E:</strong> A colleague of mine is a support technician, in my view a real dumb
+dumb when it comes to understanding tech. But he is extremely
+social. He is capable of having long conversations with anybody even
+the CEO of my company (yes a support technician). He is 38 and got
+invited to parties of girl students(22) who work part time in my
+company.</p>
+
+<p><em>I think the above is an example.</em></p>
+
+<p><strong>P:</strong> management</p>
+
+<p><strong>E:</strong> My boss at work, has 8 people under him. Everyone has a task to
+do. For example, I was asked to work on the calculations for the
+module, another on the design and another on the electrical parts
+etc… In addition he also communicates with other teams to make sure
+the module we make interfaces with modules other teams make.</p>
+
+<blockquote>
+  <p>We cover(why)[16] and (how to learn them)[17] in a later article.</p>
+</blockquote>
+
+<p><strong>P:</strong> Why (to learn transferable skills)</p>
+
+<p><strong>E:</strong> Jobs like programming, management are the safest jobs not at the risk
+of automation. <a href="https://80000hours.org/career-guide/career-capital/#which-jobs-are-best-early-career">Source</a>.</p>
+
+<p><strong>P:</strong> how to learn them</p>
+
+<p><strong>E:</strong> By means of Deliberate Practice. <a href="https://www.youtube.com/watch?v=a8RXei5Jn3Q&amp;t=638s">Here</a> is an example of someone
+improving their shot percentage of 3 pointers from ~25% to ~40% over 4
+weeks.</p>
+
+<p><strong>P:</strong></p>
+<blockquote>
+  <p>If (you want)[18] (to do good)[19], you also (need)[20] to (learn
+all about)[21] the (world’s most pressing problems)[22] and (how to
+solve them)[23].</p>
+</blockquote>
+
+<p><strong>E:</strong> Donating atleast 10% of your salary[18] to EA organizations [19]</p>
+
+<p><strong>P:</strong> need</p>
+
+<p><strong>E:</strong> ??</p>
+
+<p><em>thought for a while and left it</em></p>
+
+<p><strong>P:</strong>(learn all about)[21]</p>
+
+<p><strong>E:</strong> I read the entire career guide of 80k hours atleast 2-5 times and in
+the end wrote a 21k word article about my decision based on it</p>
+
+<p><strong>P:</strong> world’s most pressing problems</p>
+
+<p><strong>E:</strong> AI risks, Promoting EA, Global priorities research, developing
+world health [22]</p>
+
+<p><strong>P:</strong></p>
+<blockquote>
+  <p>(A job)[24b] will be (best)[24a] (for learning)[24] when you are
+(pushed)[25] to (improve)[26] and get (lots)[27] of (feedback from
+mentors)[28].</p>
+</blockquote>
+
+<p>My friend currently works in Apple after he had an ivy league
+schooling in the US. Previously he worked in Mu Sigma a company in
+India, catering to the fortune 500 in the field of Data
+Science[24b]. He and several others who left their job in Mu Sigma 2
+years later, are in some kickass positions now in the US[24a,24]. He
+often worked long hours and was under a lot of pressure to
+deliver[25,26] for the fortune 500 companies. Even on holiday trips he
+had his laptop to do meetings to make changes or inform his
+findings[27,28].</p>
+
+<p><em>squeezed lots of feedback together? Should have I done it separately?
+can you show me how?</em></p>
+
+<blockquote>
+  <p>(Connections)[1] – (who will you work with)[2] and (meet in this
+job)[3]? Your connections are (how)[4] you’ll (find opportunities)[5],
+(spread)[6a] (ideas)[6] and (start new projects)[7]. The (people you spend
+time with)[8] also (shape your character)[9].</p>
+</blockquote>
+
+<p>A few months back the company I used to work for went bankrupt. At
+that time everyone was searching for jobs. People I had interacted
+with related to work[2] and while having lunch[3], openly discussed
+with each other where we are applying for jobs. They gave suggestions
+on where to find companies and what companies they were applying
+to[4,5]. My immediate boss gave me a recommendation and contact to speak
+with which lead me to getting multiple interviews within the same
+company[4,5]. I had met someone high up in the management ladder of another
+company a few years back. I called him up directly and re-introduced
+myself and got some great advice on where to look for jobs[5]. Another
+colleague gave me a list of companies he had gotten from a bigshot to
+apply to[4,5].</p>
+
+<p><em>squeezed “how” and “find opportunities” together? how would I split
+it and what are the questions you ask yourself to come up with an
+example in this case?</em></p>
+
+<p>My co-conspirator in the US constantly introduces me to new ideas on
+life such as deliberate practice and effective altruism[6]. He does
+this by way of giving me missions [6a] to complete under some strict
+deadlines. Right now I am allocating a few hrs a day towards
+Deliberate practice[7]. In tandem I am half way through the Coursera
+course on Data Science[7].</p>
+
+<p>Persuasion is real. I was once unfortunately third wheeling 2 couples
+on new years[8]. One of the couples could not stop PDAing. We went out
+for the fireworks and it made me feel so alone. I think I was fine
+until I saw this shit[9]. Wanting to have a girlfriend peaked at that
+time[9]. I was visibly sad or wanted to retreat into my shell!
+HaHa. But now I think I am ok! Grinding and deeply thinking about the
+concepts of 80k hours and reading about what people in the EA
+community are doing[8] is filling me with more desire to be like
+them[9] and not like those cuddly PDA-showing
+not-caring-about-the-world couples!</p>
+
+<blockquote>
+  <p>For both reasons, it’s (important)[11] to (make connections)[12] who
+are (influential)[13] and (who care about social impact)[14].</p>
+</blockquote>
+
+<p>My colleagues informed me companies I could apply to, so that I can
+get a job[11]. Engaging with an STM and the EA community is allowing
+me to focus on deliberate practice[11] which is expected to make me
+earn top $$ (200k in the next few years) or save 1000s of lives.</p>
+
+<p>Talking to people at work, about design or just making jokes, drinking
+beer with them seems to make solid connections. (I went to this guy for
+so many tough questions I had to deal with. I drank with him till the
+end on some occasions. I thanked him for all his support when mapper
+went bankrupt, and he was touched by it. I just ask him for advice to
+this day and he responds)[12]. He now has his own consultancy, with a
+few more years of experience I could work for him[13].</p>
+
+<p>People who care about social impact: STM, EA community, 80k hours,
+Founders pledge, Elon Musk, Peter Singer, GiveWell :) [14]</p>
+
+<blockquote>
+  <p>(Credentials)[1] – will (this job act as)[2] (a good signal)[3] to (future
+collaborators)[4] or (employers)[5]? Note that we don’t just mean (formal
+credentials)[6] like having a law degree[6], but also your (achievements)[7] and
+(reputation)[8]. If you’re a writer, it’s the (quality)[9] of your blog. If
+you’re a coder, it’s your GitHub.</p>
+</blockquote>
+
+<p>A Masters degree, an award recognizing your work in the company, a
+scholarship are some credentials [1]. Due to the bankruptcy of the
+previous company I worked for I was looking for jobs in precision
+engineering field like ASML, DEMCON [4,5]. I got about 5-8 interviews
+quite easily[3], mainly by pitching my story in the previous
+job[2]. Most of them converted[3]. Having a masters degree accounted
+for more $$[6]. I constantly boasted with the help of my recommendation
+letter, how much money I saved for the company (20k€ and 300 man
+hours)[7], how well I performed in customer support[7], and how in one
+project I was picked ahead of senior designers to do system
+engineering[8].</p>
+
+<p>In the Less Wrong community you see other people post as well; other
+than Eliezer. For example when I saw this series “The Science of
+Winning at life”, I was excited for a second and immediately checked
+the author’s credentials. He has 65k people “Like” his posts[9]. Ok
+now I am going to read it.</p>
+
+<blockquote>
+  <p>(Runway)[1] – (how much money will you save in this job)[2]? Your
+runway is (how long)[3] you could (comfortably live)[4] with (no
+income)[5]. It depends on both your (savings)[6] and how much you
+could (reduce your expenses by)[7]. We (recommend)[8a] (aiming)[8] for at
+least six months of runway to (maintain your financial
+security)[9]. 12-18 months of runway is (even more useful)[10] because
+it gives you the (flexibility)[11] to make a (major career
+change)[12]. It’s (usually)[13] (worth)[14] (paying down)[14b] (high-interest
+debt)[15] before (donating)[16] more than 1% per year or (taking a big pay
+cut)[17] for greater impact.</p>
+</blockquote>
+
+<p>With my previous job I could save about 6-8k [1,2]. Cost of living is
+about 1200€ per month[4]. So I can withstand for about 6 months[3] for
+every year I work, with 0€ income in a first world country like
+Netherlands[5].</p>
+
+<p>If I go to India I can cut it down to probably &lt;500€[7]. Potentially I
+could stay more months with no income. With my current savings of
+12k€[6] I could probably stay without income for more than 1.5 years
+in India.</p>
+
+<p>8k bank balance for emergencies seems to be enough for 6 months [8].</p>
+
+<p><em>“recommend”? no idea!</em></p>
+
+<p>In case you lose your job then you need a few months to find a
+job[9]. Typical time periods at large companies (ASML) are 2-4 months
+of application process. From start to finish ASML took 2.5 months
+before handing me the contract.</p>
+
+<p>Doing an MBA would mean more $$[10] in the bank. In case I decide to
+do an MBA in Netherlands full time [12], I would need to quit my job
+and pursue it[11]. So 15k for basic needs for a year and 50k of
+tuition loan.</p>
+
+<p>When people come for a masters to Netherlands[13], they take a loan in
+India where people pay 7-8% interest[15] every year in addition to
+paying off the base. (assuming the interest does not decrease over
+years) For 40L rs of loan it will take 8 years if you pay 5L base, 3L
+interest[14b] and make no donation. It will take 20 years if you pay 2L
+base, 3L interest and 3L donation[16]. With the first option where you
+pay your debt first, over a period of 20 years you can donate ~72L
+and with the second option you can donate ~60L. It seems to add
+another 12L rs if debt is paid first[14].</p>
+
+<p>In Europe I would imagine working in an EA organization will probably
+start with minimum wage ~25k€ (a paycut of 30k€). This gives not much
+place for savings(maybe 2-3k), This would just cover the interest in
+the above case of loan from India[17]. As you also need to pay the
+base, it is not recommended at all.</p>
+
+<h3 id="80k-hours-misunderstood-views-42">80k hours misunderstood views (42)</h3>
+
+<p>Source for this text <a href="https://80000hours.org/2017/12/annual-review/#people-misunderstand-our-views-on-career-capital">here</a>.</p>
+
+<blockquote>
+  <p>In the (main career guide)[1], (we promote the idea)[2] of (gaining
+“career capital”)[3a] (early in your career)[3b]. This has led to
+some (engaged users)[4] (to focus on)[4b] (options)[5] like
+(consulting)[6], (software engineering)[7], and (tech
+entrepreneurship)[8], when actually (we think)[9] (these)[9b] are
+(rarely)[10] the (best)[11] (early career options)[12] if you’re
+(focused on)[13] our (top problems areas)[14]. Instead, (it seems
+like)[15a] (most people)[15] (should focus)[15b] on (entering a
+priority path)[16] (directly)[17], or (perhaps)[18] (go to graduate
+school)[19].</p>
+</blockquote>
+
+<p>In <a href="https://80000hours.org/career-guide/career-capital/#mistake-2-not-building-flexible-career-capital-that-will-be-useful-in-the-future">this link</a>[1], 80k hours say “Gaining career capital is
+important throughout your career, but especially when you’re young and
+you have a lot to learn.”[2].</p>
+
+<p>Peter who was 22[3b] and majoring in political science moved to
+programming, management and finance[3a].</p>
+
+<p><strong>P:</strong> engaged users <strong>E:</strong> Myself and people who have been using it to make
+career changes [4]</p>
+
+<p><strong>P:</strong> to focus <strong>E:</strong> People like myself moving towards Data Science, taking
+Data science courses [4b]</p>
+
+<p><strong>P:</strong> options <strong>E:</strong> “consulting, software engineering” [5]</p>
+
+<p><strong>P:</strong> consulting <strong>E:</strong> working at McKinsey [6]</p>
+
+<p><strong>P:</strong> software engineering <strong>E:</strong> working at Google [7]</p>
+
+<p><strong>P:</strong> tech entrepreneurship <strong>E:</strong> Airbnb [8]</p>
+
+<p><strong>P:</strong> we think  <strong>E:</strong> 80k hours website [9]</p>
+
+<p><em>Your comments on “we think”</em></p>
+
+<p><strong>P:</strong> these <strong>E:</strong> consulting, SE, tech entrepreneurship [9b]</p>
+
+<p><strong>P:</strong></p>
+<blockquote>
+  <p>(rarely)[10] the (best)[11] (early career options)[12] if you’re
+(focused on)[13] our (top problems areas)[14]</p>
+</blockquote>
+
+<p><strong>E:</strong> If you look at the <a href="https://80000hours.org/articles/cause-selection/">top 3 problem areas </a>[14] such as
+AI, global priorities research, and promoting effective altruism, it
+looks like none of them seem to need consulting or software
+programming [10].</p>
+
+<p>You can enter AI if you are really good in math heavy research,
+support roles, policy and strategy. For promoting effective altruism,
+working directly in EA organizations and doing internships and
+volunteer work gets you inside. For global priorities research, an
+economics related degree, or political science, philosophy,
+decision-making helps etc… [11,12] <a href="https://80000hours.org/articles/cause-selection/">Source</a>.</p>
+
+<p>Of the candidates featured in the 80k hours career guide,
+I barely saw people with a consulting background or an MBA even, when
+I surveyed it <a href="http://agent18.github.io/Summary-before-applying-to-80k.html">here</a> [10].</p>
+
+<p><strong>P:</strong> focused on <strong>E:</strong> An example of ‘being focused on’ is Niel Bowerman
+working on AI policy all the way from a PhD in climate physics. His
+focus being on creating maximum impact (saving max lives)[13].</p>
+
+<p><strong>P:</strong></p>
+
+<blockquote>
+  <p>Instead, (it seems like)[15a] (most people)[15] (should focus)[15b]
+on (entering a priority path)[16] (directly)[17], or (perhaps)[18]
+(go to graduate school)[19].</p>
+</blockquote>
+
+<p><strong>E:</strong> Niel Bowerman works for AI policy now[16], from PhD in climate
+physics [15b]. He got in touch with great people in the community
+while being an advocate for climate change. This way he entered the
+community and today he is AI Policy specialist at 80k hours[17]. He
+didn’t do an MBA or programming before getting into the priority
+path[17]. On the other hand<a href="https://80000hours.org/career-guide/member-stories/dillon-bowen/">Dillon</a> was going to pursue an
+economics PhD to work on the priority paths [19] later.</p>
+
+<p>Most people who applied or reported their career change to 80k hours
+[15],showed interest in consulting rather than directly into the
+priority paths[15]. Instead, according to <a href="https://80000hours.org/articles/cause-selection/">80k hours research</a>
+[15a], they should be working directly on the priority paths[15b].</p>
+
+<p><em>most people, how do I quantify it, I don’t have any data? Maybe I
+should dig into 80k hours?</em></p>
+
+<blockquote>
+  <p>We think there are several misunderstandings going on:</p>
+
+  <p>There’s a (difference)[0] between (narrow)[1] and (flexible career
+capital)[2].</p>
+</blockquote>
+
+<p><strong>P:</strong> flexible career capital</p>
+
+<p><strong>E:</strong> Peter 22, works for a firm that needs his programming skills and
+also learns about finance and management at work. So he has the option
+in the future to move into 3 different kinds of paths and into
+multiple sectors(Banks, automobile, EA organizations) and likely to
+keep his job from the risk of automation.</p>
+
+<p><strong>E2:</strong> Doing Data science gives you skills in programming, “problem
+solving”, statistics and detailed knowledge of the industry you work
+in (for example, if you are in self-driving cars, then you learn about
+that industry and how it works as well”)</p>
+
+<p><strong>P:</strong> Narrow career capital</p>
+
+<p><strong>E:</strong> Working in a non-profit straight out of university</p>
+
+<p><strong>P:</strong> difference</p>
+
+<p><strong>E:</strong> Kate ended up returning to the corporate sector for several years,
+and would have ended up ahead if she’d done that straight away
+(without starting at a non-profit straight out of university).</p>
+
+<p><em>“Would have ended up ahead”? Not good enough?</em></p>
+
+<p>Hard to build up runway for a 6 months by working for a year, as you
+will be earning 50k$ when you begin.</p>
+
+<p>It’s <a href="https://80000hours.org/2015/09/what-do-leaders-of-effective-non-profits-say-about-working-in-non-profits-interviews-with-givedirectly-deworm-the-world-initiative-development-media-international-schistosomiasis-control-initiativ/">widely accepted in the non-profit sector</a> that it’s easier to
+switch from a business job to a non-profit job than vice versa. So if
+you’re unsure between the two, a business position offers more
+flexibility. <a href="https://80000hours.org/career-guide/career-capital/#which-jobs-are-best-early-career">Source</a></p>
+
+<p><strong>P:</strong></p>
+
+<blockquote>
+  <p>(Narrow career capital)[3a] is useful for a (small number of
+paths)[3], while (flexible career capital)[3b] is useful in a (large
+number)[4].</p>
+</blockquote>
+
+<p><strong>E:</strong> Working at EAO’s[3a] keeps you well positioned for senior positions
+in EA organizations. One can move in wide range of sectors but only
+within the EA community[3]. For example, Neil Bowerman, started with
+Climate Change and now is in freaking AI policy[3]. While working in
+data science[3b] can lead to job switches in several sectors (mobiles
+phones, self-driving cars, food-chains, supermarkets, clothing and
+EAO’s)[4].</p>
+
+<p>The technical skills you develop also open the possibility to
+transition into different roles including software engineering,
+founding or joining early-stage startups, academia,2 and quant
+finance. <a href="https://80000hours.org/career-reviews/data-science/#career-capital">Source</a>[4]</p>
+
+<blockquote>
+  <p>If you’re (focused on)[5] our (top problem areas)[6], (narrow career
+capital in those areas)[7] is (usually)[8a] (more useful)[8] than
+(flexible career capital)[9].</p>
+</blockquote>
+
+<p><strong>E:</strong> Niel Bowerman was interested in climate advocacy[6] and pursued it
+seriously and got several connections within the EA community[5]. He
+ended up getting impressive achievements such as founding a think
+tank[8]. He works now on AI policy[6] which he was able to use and
+transfer his skills, reputation and connections into[7,8]. Contrast
+this to him having taken up a job in Software Engineering [9].</p>
+
+<p><em>I think “usually”[8a] is not covered in the above! How would you write
+an example for “usually” in this context?</em></p>
+
+<blockquote>
+  <p>(Consulting)[10A] (provides flexible career capital)[10], which means (it’s
+not top overall)[11] unless you’re (very uncertain)[12] about (what
+to aim for)[13].</p>
+</blockquote>
+
+<p>Following work at Mckinsey[10A], people tend to occupy chief of staff
+positions for senior/influential public official or become people of
+the top management for large companies like Google. They also work on
+strategy team for companies like Google, or work on the front lines
+where they served as consultants, policy, private/equity etc… The
+options seem to be a lot [10]. I <a href="./Summary-before-applying-to-80k.html">estimate here</a> that working for
+an EAO like 80k hours (with the “right skills and intention” it is
+definitely possible, I think I can get in if I spend a “few years” on
+my “skills”) could save 1100 lives, where as the best case scenario of
+becoming a consultant— a partner— seems to save 1050 lives not
+including any probabilities of getting there (thumbs down for
+consulting)[11].</p>
+
+<p><strong>P:</strong> very uncertain</p>
+
+<p><strong>E:</strong> You don’t know if you can handle the stress of an Investment
+banking/trading job, so you need to try something similar to see if
+you are a good fit for it[12]. Hence you do not know if you want to Earn
+to give or work directly [13].</p>
+
+<p><strong>E2:</strong> My friend was 26 when he decided to do a masters in computer
+science in the US. He didn’t know if he was up for AI research (say at
+MIRI)[12] or if he should earn-to-give (say at Google).[13]</p>
+
+<blockquote>
+  <p>You can get (good)[14a] (career capital)[14] in (positions with high
+immediate impact)[15] (especially problem-area specific career
+capital)[16], including (most of those we recommend)[17].</p>
+</blockquote>
+
+<p>Tara gained skills in managing and making efficient[14,17] processes
+while working at hospitals and with the RedCross. She managed to save
+8m$ for the hospital in a year[14a]. This landed her the CEO position
+at the Centre for Effective Altruism which seems to be Promoting
+Effective Altruism[16].</p>
+
+<h2 id="reflection">Reflection</h2>
+
+<p>When I was editing the text, I found that in many places, it was hard
+to follow the example, what with all the numbering going
+everywhere. For example:</p>
+
+<blockquote>
+  <p>You can get (good career capital)[14] in (positions with high
+immediate impact)[15] (especially problem-area specific career
+capital)[16], including (most of those we recommend)[17].</p>
+</blockquote>
+
+<p><strong>I wrote:</strong></p>
+
+<p>Tara gained skills in managing and making efficient[14,17] processes
+within organizations related to healthcare[16] while working in an
+hospital and then later working in Bhutan with the RedCross[15]. Her
+impressive achievements (saving 8M$ for the hospital) allowed her to
+take on even bigger tasks like becoming the CEO of Centre for
+Effective Altruism.</p>
+
+<p><strong>I changed it to:</strong></p>
+
+<p>Tara gained skills in managing and making efficient[14,17] processes
+while working at hospitals and with the RedCross[15]. She managed to save
+8m$ for the hospital in a year[14a]. This landed her the CEO position
+at the Centre for Effective Altruism which seems to be Promoting
+Effective Altruism[16].</p>
+
+<p>I didn’t spend much time editing this time. I wrote the text, edited
+it once and did some grammar checks. I should probably spend more time
+on making it readable. Atleast get 2 revisions of the text.</p>
+
+<h2 id="statistics">Statistics</h2>
+
+<!-- 1st day 3.5 hours -->
+
+<!-- 2nd day 3.9 hours -->
+
+<!-- 3rd day 10.7 hours (quit bb practice as I didn't get much done in the -->
+<!-- day) -->
+
+<!-- Sucked in the morning, half hour of sleep, coundn't do the techinical -->
+<!-- stuff. 80k hours was not too easy, but I was able to make up for the -->
+<!-- lost time. -->
+
+<!-- Overall I felt good towards the end of the day. Not really bored I -->
+<!-- think during any part of the day. Morning was intense though. 4 hrs -->
+<!-- went by and I was racking my head to find examples. -->
+
+<!-- 4rth day   -->
+
+<!-- Slow start but soodu pudikudhu! Finally figured out 3 secntences after -->
+<!-- more than 1 hr. Takes time to research and right! -->
+
+<!-- 5th day 5 hrs editing and making corrections to badly written -->
+<!-- examples. -->
+
+<p><strong>Day1:</strong> 3.5 hrs (reading STM’s email and understanding what is expected)</p>
+
+<p>Weekday with 8 hrs work and 2.5 hrs gym things</p>
+
+<p><strong>Day2</strong>: 3.9 hrs (DP)</p>
+
+<p>Weekday with 8 hrs work and 2.5 hrs gym things</p>
+
+<p><strong>Day3</strong>: 10.7 hrs (DP)</p>
+
+<p>Weekend, No sports, only DP from 9 am in the morning, slept for 36
+mins 1hr after lunch.</p>
+
+<p>Sucked in the morning, couldn’t do the technical stuff. 80k hours was
+not too easy, but I was able to make up for the lost time.</p>
+
+<p>Overall I felt good towards the end of the day. Not really bored I
+think during any part of the day. Morning was intense though. 4 hrs
+went by and I was racking my head to find examples.</p>
+
+<p>Finished 100 phrases.</p>
+
+<p><strong>Day4</strong>: 8.6 hrs (DP)</p>
+
+<p>Weekend, Started at 9 am in the morning, slept after 1 hr of lunch for
+20 mins.</p>
+
+<p>Spent 6 hrs in the evening on playing basketball, and eating dinner
+with friends despite the crucial deadline. Stayed up till 2 am to catch
+up. :(</p>
+
+<p>Finished another 100 phrases.</p>
+
+<p><strong>Day5</strong>: 6 hrs (editing and correcting DP examples)</p>
+
+<p>Weekday with 7 hrs of work, 1 hour of dinner, slept for 25 mins right
+at the beginning.</p>
+
+<p><strong>Total hours</strong>: 32.8 hrs in 5 days; average = 6.56 hrs per day (I think
+PR)</p>
+
+<p><strong>Total DP hours</strong>: ~28 hrs</p>
+
+<p><strong>Total words</strong>: 6.5k</p>
+
+<!-- ## Material to work on -->
+
+<!-- I am thinking something from the DSS course, as I don't have anything -->
+<!-- related to work as yet. And Can't pull out documents! -->
+
+<!-- How about stuff from Shigley? -->
+
+<!-- or how about stuff from the thesis? or internship? -->
+
+<!-- or maybe rob munning smidt on dynamics! -->
+
+<!-- log log, dynamics -->
+
+<!-- dynamics by rixen? -->
+
+<!-- principle of virtual works! -->
+
+<!-- Motivation articles! -->
+
+<!-- https://80000hours.org/career-guide/career-capital/ -->
+:ET

@@ -1,0 +1,4826 @@
+I"~<h2 id="mission-9">Mission #9.</h2>
+
+<p><strong>Mail dated Aug 13,</strong></p>
+
+<p>Great job on spending 29 hours in a week! <em>I recommend measuring rate
+of phrases per hour.</em></p>
+
+<p>Overall, I didn’t see you take on Superintelligence, which was the
+mission. Please work on either that or stuff you feel <em>confused</em>
+about. <em>Only failures matter</em> (apart from maintenance of existing
+performance).</p>
+
+<p>Note down patterns of failure, such as “X prefers A to B”. Spend, say,
+half your time searching for and practicing on examples of those
+types. You can spend the rest of your practice time on new examples,
+from which you will hopefully find other patterns of failure.</p>
+
+<p><strong>Mail dated June 24,</strong></p>
+
+<p>Mission #9: Your mission, should you choose to accept it, is to
+concretely analyze the key claims in the book Superintelligence by
+Nick Bostrom (the book mentioned in the Elon Musk tweet above). He’s a
+PhD at Oxford who’s been writing about AI safety along with guys like
+Eliezer for nearly two decades. The book has detailed arguments and
+examples about all the topics like possible paths to
+“superintelligence” (whatever that means), types of
+“superintelligence”, the control problem, etc.</p>
+
+<p>No need to write “Question: “ - doesn’t seem to have changed your
+answers.</p>
+
+<p>Don’t have to go sentence by sentence; <em>look at one key claim for each
+section, usually the one in the first few paragraphs</em>, or one for each
+paragraph if you feel it’s an important section. For example:</p>
+
+<blockquote>
+  <p>CHAPTER 2 Paths to superintelligence</p>
+
+  <p>Machines are currently far inferior to humans in general
+intelligence. Yet one day (we have suggested) they will be
+superintelligent. How do we get from here to there? This chapter
+explores several conceivable technological paths. We look at
+artificial intelligence, whole brain emulation, biological
+cognition, and human-machine interfaces, as well as networks and
+organizations. We evaluate their different degrees of plausibility
+as pathways to superintelligence. The existence of multiple paths
+increases the probability that the destination can be reached via at
+least one of them.</p>
+</blockquote>
+
+<p>The key claim is “How do we get from here to there? Answer: Artificial
+intelligence, whole brain emulation, …”</p>
+
+<p>Feedback checklist:</p>
+
+<ol>
+  <li>
+    <p>Could it be that this claim has no any example at all? For example,
+“civilization is at stake”.</p>
+  </li>
+  <li>
+    <p>Could this claim be false? Remember the “there is no doubting”
+example.</p>
+  </li>
+  <li>
+    <p>Does this claim say anything about “best” (need to compare against
+the entire set) or “most” (need to show it’s the majority in the
+set) or “no” (need to show that nothing in the set matches)?</p>
+  </li>
+  <li>
+    <p>Did you stick to examples that are in the chapter itself? That way
+you don’t have to search online for too long.</p>
+  </li>
+  <li>
+    <p>Did you use a running example for a technical phrase? There will be
+lots of new phrases in the book, like “convergent instrumental
+value” and “orthogonality thesis”. Whenever you see them, you
+should recall whatever running example you’ve used.</p>
+  </li>
+  <li>
+    <p>If this is an “if-then” claim, did you either get a concrete
+example or mark it as having no example?</p>
+  </li>
+</ol>
+
+<p>Short names: none; false; best; chapter; running; if-then.</p>
+
+<p>Please refer to the checklist after every claim analysis to ensure
+you’re not making old mistakes. If you want to add to the checklist
+based on mistakes found in past feedback, that’s great.</p>
+
+<h2 id="introduction">Introduction</h2>
+
+<p>With this Essay I take on the first three chapters of
+“Superintelligence” by Nick Bostrom, and the first three chapters of
+Statistical Sleuth. I try to pick “important” claims from each section
+and try to work them out in the typical DP fashion as is being done
+since the last essay on “subject-predicate”.</p>
+
+<h2 id="feedback-list-used-in-this-essay">Feedback list used in this essay</h2>
+
+<p>For this blog post, I use the checklist that looks like the following:</p>
+
+<p><strong>Checklist</strong>: yes; neither;;
+<em>no-example</em>; <em>failed</em>; (<em>no idea how the example would look</em>);
+<strong>Pattern</strong>: “random-sampling?”</p>
+
+<p>In this checklist, “yes” refers to if the claim has an
+example. “Neither” informs that I don’t know if the claim is true or
+false based on the example given. The claim has “<em>no-example</em>”, and
+I have “<em>failed</em>” in it, as I have “<em>no idea how the example would
+look</em>”. The pattern I suspect that I need to practice more, are claims
+related to “random sampling”, but I am unsure (?).</p>
+
+<p>I have skipped things like “in-chapter” and “running” as part of my
+checklists, as I think for most part I have tried to use “running” and
+“in-chapter” examples. For example, in every chapter of Statistical
+Sleuth there are two case studies at the beginning of the chapter. I
+try to use these as much as possible as examples for claims. Where
+they don’t work, either I have not given examples or I have given other
+examples in the book, or my own examples.</p>
+
+<p>Regarding “if”, “most/best” etc… I have identified it as a <em>pattern</em> when I
+have failed in it.</p>
+
+<h2 id="chapter-1-history">Chapter 1 History</h2>
+<h3 id="growth-modes-and-big-history">Growth modes and big history</h3>
+
+<blockquote>
+  <p>(History at the largest scale)[1], seems to exhibit (a sequence of
+distinct growth modes)[2], each much more rapid than (its predecessor)[3].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] seems to exhibit [2], each much more rapid than [3].</p>
+
+<p><strong>Subject</strong>: [2] exhibited in [1].</p>
+
+<p><strong>Predicate</strong>: much more rapid than [3].</p>
+
+<p><strong>Example</strong>: “A few hundred thousand years ago, in early human (or
+hominid) prehistory, growth was so slow that it took in the order of
+one million years for human productive capacity to increase
+sufficiently to sustain an additional one million individuals living
+at subsistence level. By 5000 BC, following the Agricultural
+Revolution, the rate of growth had increased to the point where the
+same amount of growth took just two centuries. Today, following the
+Industrial Revolution, the world economy grows on average by that
+amount every ninety minutes.”</p>
+
+<p><strong>Definition</strong>: checks out.</p>
+
+<p><strong>Checklist</strong>: yes; true;</p>
+
+<hr />
+
+<!-- "However, the case for taking seriously the prospect of a machine -->
+<!-- intelligence revolution need not rely on curve-fitting exercises or -->
+<!-- extrapolations from past economic growth. As we shall see, there are -->
+<!-- stronger reasons for taking heed." -->
+
+<h3 id="great-expectations">Great expectations</h3>
+
+<blockquote>
+  <p>(Machines matching humans in general intelligence)[1]—that is,
+possessing common sense and an effective ability to learn, reason,
+and plan to meet complex information-processing challenges across a
+wide range of natural and abstract domains—have been expected since
+(the invention of computers in the 1940s)[2].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] has been expected since [2].</p>
+
+<p><strong>Subject</strong>: When [1] has been expected since.</p>
+
+<p><strong>Predicate</strong>: since [2].</p>
+
+<p><strong>Example</strong>: <em>No example of someone expecting in 1940, in the book.</em></p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: yes; neither; 
+<em>no-example</em>;</p>
+
+<hr />
+
+<blockquote>
+  <p>From the (fact that some individuals have overpredicted artificial
+intelligence in the past)[1], however, it does not follow that (AI is
+impossible or will never be developed)[2].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: AI is not impossible or could be developed in the future</p>
+
+<p><strong>Checklist</strong>: no; neither;
+<em>future-with-no-ex</em>;</p>
+
+<hr />
+
+<p><strong>Claims</strong>: From [1], [2] does not follow.</p>
+
+<p><strong>Subject</strong>: The future as a result of [1].</p>
+
+<p><strong>Predicate</strong>: [2] wont happen.</p>
+
+<p><strong>Example</strong>: <em>no-example</em>; Don’t think it is possible to give example
+for “A leads to or does not lead to B”, atleast in this case.</p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: no; neither;;;; if
+<em>no-example</em>; <em>failed</em>; <strong>Pattern</strong>: <em>A-leads-to-B</em>; <em>failed</em> (didn’t know
+if it was possible to give example for this)</p>
+
+<hr />
+
+<blockquote>
+  <p>The main reason (why progress has been slower than expected)[1] is that
+(the technical difficulties of constructing intelligent machines have
+proved greater than the pioneers foresaw)[2].</p>
+</blockquote>
+
+<p><em>because</em></p>
+
+<p><strong>Checklist</strong>: yes; neither;<br />
+<em>because-should-due-to</em>; <em>time</em>; (I was unsure for a bit if it really
+was “because” statement);</p>
+
+<p><strong>Summary of chapter 1</strong></p>
+
+<p>“The AI pioneers for the most part did not countenance the possibility
+that their enterprise might involve risk. They gave no lip service—let
+alone serious thought—to any safety concern or ethical qualm related
+to the creation of artificial minds and potential computer overlords:
+a lacuna that astonishes even against the background of the era’s
+not-so-impressive standards of critical technology assessment.”</p>
+
+<h3 id="seasons-of-hope-and-despair">Seasons of hope and despair</h3>
+
+<blockquote>
+  <p>In the (six decades since this brash beginning)[0], (the field of
+artificial intelligence)[1] has been through (periods of hype and
+high expectations alternating with periods of setback and
+disappointment)[2].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: Since [0], [1] has been through [2].</p>
+
+<p><strong>Subject</strong>: [1], since [0].</p>
+
+<p><strong>Predicate</strong>: has been through [2].</p>
+
+<p><strong>Example</strong>: After the Dartmouth meeting, researchers built systems
+like the Logic Theorist, which was able to prove most of the theorems
+in the second chapter of WhiteHead and Russell’s Principia
+Mathematica, and even came up with one proof that was much more
+elegant than the original.</p>
+
+<p>Post 1970, funding decreased and skepticism increased.</p>
+
+<p><em>This seems to be the best one can do while giving examples. There are
+claims in the example (“post 1970…”), but atleast we can ask the
+author what exactly he meant when needed to investigate further.</em></p>
+
+<p><strong>Definition</strong>: checks out!</p>
+
+<p><strong>Checklist</strong>: yes; true;</p>
+
+<hr />
+
+<!-- **Combinatorial explosion** -->
+
+<blockquote>
+  <p>(The methods)[1] that produced (successes in the early demonstration
+systems)[2] often proved difficult to (extend to a wider variety of
+problems or to harder problem instances)[3].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] that produced [2], often proved [3].</p>
+
+<p><strong>Subject</strong>: Extension to harder problems based on [2],</p>
+
+<p><strong>Predicate</strong>: often proved to be difficult</p>
+
+<p><strong>Example</strong>: “For instance, to prove a theorem that has a 5-line long
+proof in a deduction system with one inference rule and 5 axioms, one
+could simply enumerate the 3,125 possible combinations and check
+each one to see if it delivers the intended conclusion”, based on the
+exhaustive search method.</p>
+
+<p>“Proving a theorem with a 50-line proof does not take ten times longer
+than proving a theorem that has a 5-line proof: rather, if one uses
+exhaustive search, it requires combing through <code class="language-plaintext highlighter-rouge">5^50 ≈ 8.9 × 10^34</code>
+possible sequences—which is computationally infeasible even with the
+fastest supercomputers.”</p>
+
+<p><strong>Definition</strong>: checks out!</p>
+
+<p><strong>Checklist</strong>: yes; true; 
+<em>often</em>; <em>failed</em>; (don’t know how to give an example for often)</p>
+
+<hr />
+
+<!-- **Summary** -->
+
+<!-- Graphical models and Bayesian statistics have become a shared focus of -->
+<!-- research in many fields, including machine learning, statistical -->
+<!-- physics, bioinformatics, combinatorial optimization, and communication -->
+<!-- theory. -->
+
+<h3 id="state-of-the-art">State of the art</h3>
+
+<blockquote>
+  <p>(Artificial intelligence)[1] already (outperforms human intelligence in many domains)[2].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] already does [2].</p>
+
+<p><strong>Subject</strong>: [1].</p>
+
+<p><strong>Predicate</strong>: already does [2].</p>
+
+<p><strong>Example</strong>: “2010: IBM’s Watson defeats the two all-time-greatest
+human Jeopardy! champions, Ken Jennings and Brad Rutter. Jeopardy!
+is a televised game show with trivia questions about history,
+literature, sports, geography, pop culture, science, and other
+topics. Questions are presented in the form of clues, and often
+involve wordplay.” — Games</p>
+
+<p>There are not other examples of [1] already doing [2], in the section.</p>
+
+<p><strong>Definition</strong>: Checks out for one domain (gaming) atleast!</p>
+
+<p><strong>Checklist</strong>: yes; true;</p>
+
+<hr />
+
+<blockquote>
+  <p>These achievements might not seem impressive today. But this is
+because (our standards for what is impressive)[1] keep adapting to the
+(advances being made)[2].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] keep adapting to the [2].</p>
+
+<p><strong>Subject</strong>: [1]</p>
+
+<p><strong>Predicate</strong>: keep adapting to [2].</p>
+
+<p><strong>Example</strong>: In late fifties: “if one could devise a successful chess
+machine one would seem to have penetrated to the core of human
+intellectual endeavor.”</p>
+
+<p>I don’t know anyone who is amazed by a chess AI today. It’s the norm,
+there are so many apps based on it.</p>
+
+<p><strong>Definition</strong>: checks out!</p>
+
+<p><strong>Checklist</strong>: yes; true</p>
+
+<hr />
+
+<h3 id="opinions-about-the-future-of-machine-intelligence-x">Opinions about the future of machine intelligence x</h3>
+
+<blockquote>
+  <p>Progress on two major fronts—towards a more solid statistical and
+(information-theoretic foundation for machine learning on the one
+hand)[1], and (towards the practical and commercial success of
+various problem-specific or domain-specific applications on the
+other)[2]—has restored to AI research (some of its lost
+prestige)[3].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: Progress on [1], and [2], has restored [3] to AI research.</p>
+
+<p><strong>Subject</strong>: Progress on [1] and [2].</p>
+
+<p><strong>Predicate</strong>: has restored [3] to AI research.</p>
+
+<p><strong>Example</strong>: <em>No examples in the section</em></p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: yes; neither; 
+<em>no-example</em></p>
+
+<hr />
+
+<blockquote>
+  <p>One result of (this conservatism)[1] has been (increased
+concentration on “weak AI”—the variety devoted to providing aids to
+human thought—and away from “strong AI”—the variety that attempts to
+mechanize human-level intelligence)[2].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: Result of [1] has been [2].</p>
+
+<p><strong>Subject</strong>: Result of [1].</p>
+
+<p><strong>Predicate</strong>: has been [2].</p>
+
+<p><strong>Example</strong>: <em>no examples in the section</em></p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: yes; neither; 
+<em>no-example</em></p>
+
+<hr />
+
+<blockquote>
+  <p>(Expert opinions about the future of AI)[1] vary (wildly)[2].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] varies [2].</p>
+
+<p><strong>Subject</strong>: [1].</p>
+
+<p><strong>Predicate</strong>: varies [2].</p>
+
+<p><strong>Example</strong>: A survey documented <a href="https://intelligence.org/files/PredictingAI.pdf">here</a> shows the prediction of
+Human-level AI of “experts”, ranging from 2020 all the way to 2100.</p>
+
+<p><strong>Definition</strong>: checks out.</p>
+
+<p><strong>Checklist</strong>: yes; true;</p>
+
+<hr />
+
+<p><strong>Summary</strong></p>
+
+<p>“Small sample sizes, selection biases, and—above all—the inherent
+unreliability of the subjective opinions elicited mean that one should
+not read too much into these expert surveys and interviews. They do
+not let us draw any strong conclusion. But they do hint at a weak
+conclusion. They suggest that (at least in lieu of better data or
+analysis) it may be reasonable to believe that human-level machine
+intelligence has a fairly sizeable chance of being developed by
+mid-century, and that it has a non-trivial chance of being developed
+considerably sooner or much later;”</p>
+
+<h2 id="chapter-2-paths-to-superintelligence">Chapter 2 Paths to Superintelligence</h2>
+<h3 id="artificial-intelligence-8">Artificial intelligence (8)</h3>
+
+<blockquote>
+  <p>How do we get from here to there? AI is a conceivable technology
+path.</p>
+</blockquote>
+
+<p><strong>Claims</strong>: AI is a conceivable technology path to go from current to superintelligent.</p>
+
+<p><strong>Subject</strong>: AI</p>
+
+<p><strong>Predicate</strong>: is a conceivable technology path to go from current to superintelligent.</p>
+
+<p><strong>Example</strong>: <del>“blind evolutionary processes can produce human-level
+general intelligence, since they have already done so at least
+once. Evolutionary processes with foresight—that is, genetic programs
+designed and guided by an intelligent human programmer—should be able
+to achieve a similar outcome with far greater efficiency.”</del></p>
+
+<p><em>Crossed out above, are reasons, they are more unverified claims. You can’t give
+examples for “could be”</em>.</p>
+
+<p><strong>Definition</strong>: Also, what does conceivable even mean? How would I
+know if it is conceivable. How would I know the definition?  Maybe if
+there is an example then it is conceivable?</p>
+
+<p><strong>Checklist</strong>: no; neither; 
+<em>future-with-no-ex</em>; <em>definition-unclear</em>;</p>
+
+<hr />
+
+<blockquote>
+  <p>(Evolutionary processes with foresight—that is, genetic programs)[1]
+designed and guided by (an intelligent human programmer)[2]—should be
+able to achieve a (similar outcome with far greater efficiency)[3].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] designed and guided by [2] should be able to achieve
+[3].</p>
+
+<p><strong>Subject</strong>: [1] designed and guided by [2].</p>
+
+<p><strong>Predicate</strong>: should be able to achieve [3].</p>
+
+<p><strong>Example</strong>:</p>
+
+<p>”<del>If we were to simulate 10^25 neurons over a billion years of
+evolution (longer than the existence of nervous systems as we know
+them), and we allow our computers to run for one year, these figures
+would give us a requirement in the range of 10^31–10^44 FLOPS. For
+comparison, China’s Tianhe-2, the world’s most powerful supercomputer
+as of September 2013, provides only 3.39×10 16 FLOPS. In recent
+decades, it has taken approximately 6.7 years for commodity computers
+to increase in power by one order of magnitude. Even a century of
+continued Moore’s law would not be enough to close this gap</del>”</p>
+
+<!-- *If we assume the calculations scratched out above as evidence , then we -->
+<!-- see the evolution is not possible within this century. But any -->
+<!-- calculation is not an example, just like we don't consider [Elizebeth -->
+<!-- Warren's statement](https://www.forbes.com/sites/zackfriedman/2019/06/17/elizabeth-warren-student-loan-debt-forgiveness/#60261e105e7b) of voiding all student debt and countering for -->
+<!-- it via increasing taxes for the ultra millionaires*.  -->
+
+<p><em>This again talks about some prediction for the future. We are not
+interested in calculations, we are interested for now (for some
+reason) only in examples</em></p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: no; neither; 
+<em>because-should-due-to</em>; <em>future-with-no-ex</em></p>
+
+<hr />
+
+<blockquote>
+  <p>Another way of arguing for the (feasibility of artificial
+intelligence)[1] is by pointing to the (human brain)[2] and
+suggesting that we could use it as (a template for a machine
+intelligence)[3].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] can be done by using [2] as [3].</p>
+
+<p><strong>Subject</strong>: [1] using [2] as [3].</p>
+
+<p><strong>Predicate</strong>: can be done.</p>
+
+<p><strong>Example</strong>: <del>whole brain simulation, taking inspiration from brain,
+neuromorphic approaches, recursive self-improvement</del></p>
+
+<p><em>Take inspiration all you want. Show me the money (examples)!</em></p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: no; neither; 
+“future with no ex”</p>
+
+<hr />
+
+<p><strong>Summary</strong></p>
+
+<p>“Lot of ways” to make SI from AI but there are currently 0 examples
+for it in this section.</p>
+
+<h3 id="whole-brain-emulation-6">Whole brain emulation (6)</h3>
+
+<p><strong>Claims</strong>: We get from current to superintelligent by using Whole
+brain Emulation.</p>
+
+<p><strong>Subject</strong>: That which will lead us from current to superintelligent</p>
+
+<p><strong>Predicate</strong>:  is  Whole Brain Emulation</p>
+
+<p><strong>Example</strong>: <del>“No brain has yet been emulated. Consider the humble
+model organism Caenorhabditis elegans, which is a transparent
+roundworm, about 1 mm in length, with 302 neurons. The complete
+connectivity matrix of these neurons has been known since the
+mid-1980s, when it was laboriously mapped out by means of slicing,
+electron microscopy, and hand-labeling of specimens…”</del></p>
+
+<p>There is no example of even a small organism whose brain is emulated
+currently.</p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: no; neither; 
+“future with no ex”</p>
+
+<hr />
+
+<p><strong>Summary</strong></p>
+
+<p>“Nevertheless, compared with the AI path to machine intelligence, whole
+brain emulation is more likely to be preceded by clear omens since it
+relies more on concrete observable technologies and is not wholly
+based on theoretical insight.”</p>
+
+<h3 id="biological-cognition-8">Biological cognition (8)</h3>
+
+<p><strong>Claims</strong>: We get from current to superintelligent by using
+biological cognition.</p>
+
+<p><strong>Subject</strong>: That which will lead us from current to superintelligent</p>
+
+<p><strong>Predicate</strong>: biological cognition</p>
+
+<p><strong>Example</strong>: <del>“Pre-implantation genetic diagnosis has already been
+used during in vitro fertilization procedures to screen embryos
+produced for monogenic disorders such as Huntington’s disease and for
+predisposition to some late-onset diseases such as breast cancer.”</del></p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: No; neither;
+<em>future-with-no-ex</em></p>
+
+<hr />
+
+<h3 id="brain-computer-interfaces-4">Brain-computer interfaces (4)</h3>
+
+<p><strong>Claims</strong>: We get from current to superintelligent by using
+Brain-computer interfaces.</p>
+
+<p><strong>Subject</strong>: That which will lead us from current to superintelligent</p>
+
+<p><strong>Predicate</strong>: brain-computer interfaces</p>
+
+<p><strong>Example</strong>: <del>“Impressive work on the rat hippocampus has
+demonstrated the feasibility of a neural prosthesis that can enhance
+performance in a simple working-memory task.”</del></p>
+
+<p><del>“This prosthesis can not only restore function when the normal
+neural connection between the two neural areas is blockaded, but by
+sending an especially clear token of a particular memory pattern to
+the second area it can enhance the performance on the memory task
+beyond what the rat is normally capable of.”</del></p>
+
+<p>Nothing “superintelligent” about the crossed out part.</p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: no; true; 
+<em>future-with-no-ex</em></p>
+
+<hr />
+
+<h3 id="networks-and-organizations-4">Networks and Organizations (4)</h3>
+
+<blockquote>
+  <p>(Another conceivable path to superintelligence)[1] is through the (gradual
+enhancement of networks and organizations that link individual
+human minds with one another and with various artifacts and bots)[2]</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] is through [2].</p>
+
+<p><strong>Subject</strong>: [2].</p>
+
+<p><strong>Predicate</strong>: is [1].</p>
+
+<p><strong>Example</strong>: -</p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: no; neither;
+<em>future-with-no-ex</em></p>
+
+<hr />
+
+<h3 id="conclusion">Conclusion</h3>
+
+<p>There are many “possible paths”. But all of them seem to be
+predictions based on what all needs to be done. The author is claiming
+that the gap to Superintelligence can be fixed if we do XYZ. For
+example, they claim cyborgization of man will lead to
+Superintelligence. Yet, the examples we see are the ones where
+patients are able to communicate by moving a cursor over alphabets on
+a screen. Another example, was the rat whose performance was “enhanced”
+in a simple working-memory task. What I fail to see is an example
+showing glimmers of Superintelligence, i.e., something that can do
+<strong>many things</strong> at “<strong>much higher performance</strong>” than current
+humans/rats/whatever.</p>
+
+<p>Yes computers can beat the shit out of humans in games. Great. But we
+do not seem to consider this as superintelligence. Everyone “could
+do” everything in theory, but when testing a claim, we want
+examples. This is very similar to people claiming “human civilization
+is at risk due to AI”.</p>
+
+<h3 id="reflection">Reflection</h3>
+
+<p>I think, (and please take this with a grain of salt), if I had read
+this book earlier, my thoughts would have been we are fucked (because
+of AI). SI is coming and we would need to pick up our shit.</p>
+
+<p>Hell, that hypothetical example on 80khours about how AI takes over
+cancer by killing people was convincing enough for me (a few months
+back). The sad part about this is that these are all hypothetical
+examples. If you think 80khours and Nick Bostrom know better as they
+are scientists and committed to the field of making a difference in
+the world. The book is useless, if all we needed were his word to
+believe something.</p>
+
+<p>We would like to be able to test claims by ourselves to see what is
+right or wrong. But with this book (atleast the first 3 chapters), NB
+is talking about abstract stuff, that you can’t feel or touch and one
+that is currently not real. So it is hard to take him seriously at
+this point of my CT capability.</p>
+
+<h2 id="chapter-3">Chapter 3</h2>
+
+<blockquote>
+  <p>This chapter identifies (3 different forms of Superintelligence)[1],
+and argues that they are, (in a practically relevant sense,
+equivalent)[2], practically relevant sense, equivalent. We also
+show that the (potential for intelligence in a machine substrate)[3] is
+vastly greater than (in a biological substrate)[4].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] are [2].</p>
+
+<p><strong>Subject</strong>: [1].</p>
+
+<p><strong>Predicate</strong>: are [2].</p>
+
+<p><strong>Example</strong>: <del>Superintelligence in any of these forms could, over
+time, develop the technology necessary to create any of the others.</del></p>
+
+<p>I don’t have any examples for this other than the crossed-out claim to
+support this. And I have no way of testing this crossed-out claim as
+well, as it has SI as subject, for which I have zero examples.</p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: no; neither;
+<em>future-with-no-ex</em></p>
+
+<hr />
+
+<p><strong>Claims</strong>: [3] is greater than [4].</p>
+
+<p><strong>Subject</strong>: [3] compared to [4].</p>
+
+<p><strong>Predicate</strong>: is greater.</p>
+
+<p><strong>Example</strong>: <del>“Biological neurons operate at a peak speed of about 200
+Hz, a full seven orders of magnitude slower than a modern
+microprocessor (~ 2 GHz)”</del></p>
+
+<p>There are many more “advantages for digital intelligence”, but I don’t
+think it helps. Because, “potential” seems to be talking about
+something that could exist and doesn’t exist currently. I don’t think
+I can test it with an example. Just like I can’t test “I have the
+potential to become CEO one day”. However I can test “Sundar Pichai”
+has the potential to become the CEO”.</p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: no; neither; 
+<em>future-with-no-ex</em></p>
+
+<hr />
+
+<blockquote>
+  <p>(Many machines and nonhuman animals)[1] already perform (at superhuman
+levels)[2] in (narrow domains)[3]. Bats interpret sonar signals better than
+man, calculators outperform us in arithmetic, and chess programs
+beat us in chess.</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] already perform [2] in [3].</p>
+
+<p><strong>Subject</strong>: What [1], does.</p>
+
+<p><strong>Predicate</strong>: perform [2] in [3].</p>
+
+<p><strong>Example</strong>: “Google’s AI AlphaGo has done it again: it’s defeated Ke
+Jie, the world’s number one Go player, in the first game of a
+three-part match.”</p>
+
+<p><strong>Definition</strong>: If we assume “superhuman” means way better than the
+average human, then yes the definition checks out.</p>
+
+<p><strong>Checklist</strong>: yes; neither;</p>
+
+<hr />
+
+<h3 id="speed-superintelligence">Speed Superintelligence</h3>
+
+<blockquote>
+  <p>Because of this apparent time dilation of the material world, a
+(speed superintelligence)[1] would prefer to (work with digital
+objects)[2].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] would prefer to [2].</p>
+
+<p><strong>Subject</strong>: What [1] does.</p>
+
+<p><strong>Predicate</strong>: would prefer to [2].</p>
+
+<p><strong>Example</strong>: No example</p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: no; neither; 
+<em>future-with-no-ex</em>;</p>
+
+<hr />
+
+<blockquote>
+  <p>(The speed of light)[1] becomes an (increasingly important
+constraint)[2] as (minds get faster)[3], since (faster minds face
+greater opportunity costs in the use of their time for traveling or
+communicating over long distances)[4]. Light is roughly a million
+times faster than a jet plane, so it would take a digital agent with
+a mental speedup of 1,000,000× about the same amount of subjective
+time to travel across the globe as it does a contemporary human
+journeyer. Dialing somebody long distance would take as long as
+getting there “in person,” though it would be cheaper as a call
+would require less bandwidth.</p>
+</blockquote>
+
+<p><em>I don’t understand what they are trying to say here with this
+paragraph. Why would it take a digital agent with a mental speedup of
+one millx, about the same amount of “subjective time” to travel across
+the globe as it does a contemporary human journeyer. What does
+subjective time even mean? Information reaches far ends of this world
+already within seconds. Why would it take a much faster digital agent
+more “subjective time”</em>.</p>
+
+<p><strong>Claims</strong>: [1] becomes [2] as [3], <del>since [4].</del></p>
+
+<p><strong>Subject</strong>: [1] as [3].</p>
+
+<p><strong>Predicate</strong>: becomes [2].</p>
+
+<p><strong>Example</strong>: No examples here. Talking about hypothetical situations.</p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: yes; neither;</p>
+
+<hr />
+
+<h3 id="collective-superintelligence">Collective Superintelligence</h3>
+
+<blockquote>
+  <p>(Collective intelligence)[1] excels at (solving problems that can be
+readily broken into parts)[2] such that (solutions to sub-problems
+can be pursued in parallel and verified independently)[3]. Tasks
+like building a space shuttle or operating a hamburger franchise
+offer myriad opportunities for division of labor: different
+engineers work on different components of the spacecraft; different
+staffs operate different restaurants.</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] excels at [2] such that [3].</p>
+
+<p><strong>Subject</strong>: What [1] does.</p>
+
+<p><strong>Predicate</strong>: excels at [2] such that [3].</p>
+
+<p><strong>Example</strong>: People working together on building a space shuttle at
+say NASA.</p>
+
+<p><strong>Definition</strong>: Does it excel though? compared to what? Speed
+superintelligence perhaps! But I have no examples of speed
+superintelligence*</p>
+
+<p><strong>Checklist</strong>: yes; neither;
+<em>future-with-no-ex</em>; <em>definition-unclear</em></p>
+
+<hr />
+
+<blockquote>
+  <p>Collective superintelligence could be either loosely or tightly
+integrated.  To illustrate a case of loosely integrated collective
+superintelligence, imagine a planet, MegaEarth, which has the same
+level of communication and coordination technologies that we
+currently have on the real Earth but with a population one million
+times as large. With such a huge population, the total intellectual
+work- force on MegaEarth would be correspondingly larger than on our
+planet. Suppose that a scientific genius of the caliber of a Newton
+or an Einstein arises at least once for every 10 billion people:
+then on MegaEarth there would be 700,000 such geniuses living
+contemporaneously, alongside proportionally vast multitudes of
+slightly lesser talents. (New ideas and technologies)[1] would be
+developed at (a furious pace)[2], and (global civilization on
+MegaEarth)[3] would constitute (a loosely integrated collective
+superintelligence.)[4]</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] would be developed at [2], and [3] would constitute
+[4].</p>
+
+<p><strong>Subject</strong>: What [1] would be developed at</p>
+
+<p><strong>Predicate</strong>: at [2].</p>
+
+<p><strong>Example</strong>: <em>Would be</em></p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: no; neither; 
+<em>future-with-no-ex</em>;</p>
+
+<hr />
+
+<p><strong>Claims</strong>: [3] would constitute [4].</p>
+
+<p><strong>Subject</strong>: What [3] would constitute.</p>
+
+<p><strong>Predicate</strong>: [4].</p>
+
+<p><strong>Example</strong>: “would”</p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: yes; false; 
+<em>future-with-no-ex</em>;</p>
+
+<h3 id="quality-superintelligence">Quality Superintelligence</h3>
+
+<blockquote>
+  <p>(Such examples)[0] show that (normal human adults)[1] have a range of
+(remarkable cognitive talents)[2] that are not simply a function of
+(possessing a sufficient amount of general neural processing power)[3] or
+(even a sufficient amount of general intelligence: specialized
+neural circuitry is also needed.)[4]</p>
+</blockquote>
+
+<!-- *This one I read a few times, and had no idea wtf NB is talking -->
+<!-- about. NB is making me furious in many cases, just by not providing -->
+<!-- examples and hanging on to abstract bullshit. Such a bastard he -->
+<!-- is. How does he expect people to read this shit? especially if they -->
+<!-- don't have a background on this and worst of all, he seems to have -->
+<!-- extensively used the thesaurus to sound cool. So many words I had to -->
+<!-- look up. Why not write it like Harry Potter? huh? why not? eugenics, -->
+<!-- affliction, adduced, intractable, circumscribed, "dogs walking on hind -->
+<!-- legs, docility"* -->
+
+<p><strong>Claims</strong>: [2] is not a function of [3].</p>
+
+<p>The claim I started with was “[1] have a range of [2] that are not
+[3]”, which led me astray as I chose the subject to be “What [1] have”
+and was struggling to come up with something that met the large
+predicate. There were too many words such as “general neural
+processing power”, “remarkable cognitive talents” etc… which I think
+made it difficult for me to give an example that satisfied the
+subject. In the end what worked seems to be, trying to get the core
+claim by taking the smallest claim. I started off with “[1] have [2].”
+but that was useless as it didn’t make sense with [0] given as example
+in the book. Then it hit me that it should be [2] is not a function of
+[3]. I spent 2hrs atleast on this.</p>
+
+<p><strong>Subject</strong>: What [2] is not a function of</p>
+
+<p><strong>Predicate</strong>: [3] or [4].</p>
+
+<p><strong>Example</strong>: <em>People with autism spectrum disorders who may have
+striking deficits in “social cognition” will function well in other
+“cognitive domains” say like painting, playing the piano
+etc…—Chapter 3 SI</em>. &lt;– I assume this to mean that autistic people
+have “much lesser” [3] and [4].</p>
+
+<p>The above is hardly an example. Let’s consider <a href="https://youtu.be/zNGjdYY7WVE?t=142">this</a>, where we
+see a guy with autism making highly detailed drawings of scenery.</p>
+
+<p><a href="https://www.youtube.com/watch?v=h57TsezhYI8">This</a> is a video of a person without autism doing incredible work
+with a pencil.</p>
+
+<p><strong>Definition</strong>: Checks out, assuming autistic people do not posses [3]
+or [4] (what ever sufficient means) and “normal human adults” posses
+it.</p>
+
+<p><strong>Checklist</strong>: yes; true;
+<em>identifying the real claim</em>; <em>time</em>; (2hrs); <strong>Pattern</strong>: No idea;</p>
+
+<p><em>Help needed</em></p>
+
+<hr />
+
+<p><strong>General rant:</strong></p>
+
+<p><em>This one I read a few times, and had no idea wtf NB is talking
+about. NB is making me furious in many cases, just by not providing
+examples and hanging on to abstract things (sufficient amount of
+general intelligence, specialized neural circuitry), i.e., things I
+have 0 examples for. How does he expect people to read this?
+especially if I don’t have a background on this and worst of all, he
+seems to have extensively used the thesaurus to sound cool. So many
+words I had to look up. Why not write it like Harry Potter? huh? why
+not? Eugenics, affliction, adduced, intractable, circumscribed, “dogs
+walking on hind legs”, docility</em>.</p>
+
+<hr />
+
+<h3 id="direct-and-indirect-reach">Direct and indirect reach</h3>
+
+<blockquote>
+  <p>(Superintelligence in any of these forms)[1] could, over time,
+develop (the technology necessary to create any of the
+others)[2]. The (indirect reaches of these three forms of
+superintelligence)[3] are therefore (equal)[4]. In that sense, the
+(indirect reach of current human intelligence)[5] is also in the same
+equivalence class, under the supposition that we are able eventually
+to create some form of superintelligence.</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] could over time develop [2].</p>
+
+<p><strong>Subject</strong>: [1] over time.</p>
+
+<p><strong>Predicate</strong>: could develop [2].</p>
+
+<p><strong>Example</strong>: <em>Could</em>. Also <em>I have no example for [1].</em></p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: no; neither;
+<em>future-with-no-ex</em>; <em>could</em></p>
+
+<hr />
+
+<p><strong>Claims</strong>: [3] are all equal.</p>
+
+<p><strong>Subject</strong>: [3].</p>
+
+<p><strong>Predicate</strong>: are all equal.</p>
+
+<p><strong>Example</strong>: <em>No example for subject</em></p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: no; neither; 
+<em>no-example</em></p>
+
+<hr />
+
+<p><strong>Claims</strong>: [5] also same as [3].</p>
+
+<p><strong>Subject</strong>: [5].</p>
+
+<p><strong>Predicate</strong>: also same as [3].</p>
+
+<p><strong>Example</strong>: no example</p>
+
+<p><strong>Definition</strong>: don’t understand the predicate either.</p>
+
+<p><strong>Checklist</strong>: no; neither;
+<em>no-example</em>; <em>definition-unclear</em></p>
+
+<hr />
+
+<blockquote>
+  <p>And one can speculate that the (tardiness and wobbliness of
+humanity’s progress)[1] on (many of the “eternal problems” of
+philosophy)[2] are due to the (unsuitability of the human cortex for
+philosophical work.)[3]</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] on [2] are due to [3].</p>
+
+<p><strong>Subject</strong>: [1] on [2].</p>
+
+<p><strong>Predicate</strong>: are due to [3].</p>
+
+<p><strong>Example</strong>: <em>because</em> + <em>no example</em></p>
+
+<p><strong>Definition</strong>:</p>
+
+<p><strong>Checklist</strong>: no; neither;
+<em>big-gigantic-cluster-fuck-of-a-sentence</em> (I need an example to
+understand and NB never wants to provide an example, even a fake one)</p>
+
+<h3 id="sources-of-advantage-for-digital-intelligence">Sources of advantage for digital intelligence</h3>
+
+<blockquote>
+  <p>Minor changes in (brain volume)[1] and (wiring)[2] can have (major
+consequences)[3].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: Minor changes in [1] and [2] can have [3].</p>
+
+<p><strong>Subject</strong>: Minor changes in [1] and [2].</p>
+
+<p><strong>Predicate</strong>: can have [3].</p>
+
+<p><strong>Example</strong>: <del>“intellectual and technological achievements of humans
+with those of other apes”</del> <em>no-example</em></p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: yes; neither; 
+<em>no-example</em>;</p>
+
+<h2 id="data-science-stuff">Data science stuff</h2>
+
+<!-- ### Attempt 1: things to do -->
+
+<!-- - Joshua Starmer (StatQuest)  -->
+
+<!-- I generally look at the wikipedia articles on each subject and then -->
+<!-- just use google in general to see what comes up. One good source is -->
+<!-- Penn State Statistics: -->
+<!-- https://newonlinecourses.science.psu.edu/stat414/node/287/ -->
+
+<!-- - Statistical sleuth -->
+
+<!-- R Book: https://cran.r-project.org/web/packages/Sleuth3/ -->
+
+<!-- Book: https://drive.google.com/open?id=1DLpuj4MDfwWV3NIBMgGtv5j5aOAK4Ks3 -->
+
+<!-- or look at stuff in R-learning notes and pick them and see where you -->
+<!-- understand and go deeper. -->
+
+<!-- Plan is to search for patterns for 10 hrs atleast!  -->
+
+<!-- (knitr) -->
+
+<h2 id="chapter-1-statistical-sleuth">Chapter 1: Statistical sleuth</h2>
+<h3 id="111">1.1.1</h3>
+
+<p><strong>Claims</strong>: Rewards increase productivity, skill, creativity (in general)</p>
+
+<p><strong>Subject</strong>: What rewards do.</p>
+
+<p><strong>Predicate</strong>: increase productivity, skill creativity. (general predicate)</p>
+
+<p><strong>Example</strong>: A study by Teresa Amabile takes people with “considerable
+experience” in creative writing and assigns them randomly to two groups;
+Intrinsic and Extrinsic groups.</p>
+
+<p>The Intrinsic group of 24 were made to rank statements which were
+focused on “triggering” intrinsic motivation using statements such as
+“you get a lot of pleasure out of reading something good that you have
+written”.</p>
+
+<p>The extrinsic group of 23 were made to rank statements which was
+focused on “triggering” extrinsic motivation using statements such as
+“You have heard of cases where one bestselling novel or collection of
+poems has made the author financially secure”.</p>
+
+<p>After ranking statements all subjects were asked to write a poem in
+Haiku style about “laughter” and were subjectively rated by 12 poets
+on a 40 point scale.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Sample size</th>
+      <th>I/E</th>
+      <th>Avg.</th>
+      <th>SD</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>24</td>
+      <td>Intrinsic</td>
+      <td>19.88</td>
+      <td>4.44</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>Extrinsic</td>
+      <td>15.74</td>
+      <td>5.25</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>The two sided t-test p-value=0.005, under the null-hypothesis.</p>
+
+<p><strong>Definition</strong>: As this was a randomized experiment, one may infer
+causation. The p-value is super low, suggesting that there is a high
+chance that the questionnaires affect the creativity scores of
+writers.</p>
+
+<p>If the questionnaires are ASSUMED to somehow trigger similar reactions
+like “rewards”, then this example matches the definition.</p>
+
+<p><strong>Notes</strong></p>
+
+<ul>
+  <li>This experiment allows to infer causation between questionnaires and
+creativity score because of the randomization.</li>
+  <li>Inference to other populations other than the writers involved in
+this experiment is purely speculative.</li>
+</ul>
+
+<p><strong>Checklist</strong>: yes; true;
+<em>example-matching-subject</em>; <em>time</em> (46mins); <strong>Pattern</strong>:
+<em>claims-involving-studies</em>?</p>
+
+<hr />
+
+<h3 id="112">1.1.2</h3>
+
+<blockquote>
+  <p>Did a bank disciminatorily pay higher starting salaries to men than
+to women? Not-sure (says the book). There could be other factors.</p>
+</blockquote>
+
+<p><strong>Claims</strong>: The bank paid disciminatorily towards women.</p>
+
+<p><strong>Subject</strong>: What the bank did.</p>
+
+<p><strong>Predicate</strong>:  discriminatory pay…</p>
+
+<p><strong>Example</strong>: “mean starting salary for males is estimated to be
+<span>$</span>560 to <span>$</span>1080 larger than the mean starting
+salary for females for the same position (entry level clerical
+employees)”.</p>
+
+<ul>
+  <li>one sided p-value &lt;0.00001 from a two sample t-test</li>
+  <li>CI is 560 to 1080 dollars</li>
+</ul>
+
+<p><strong>Definition</strong>: It is not possible to conclude with just the CI and
+the p-value as there could be other confounding variables, such as
+“initial years of experience”.</p>
+
+<p><strong>Notes</strong>: <em>This is a common conclusion that causation cannot be
+established with observation studies like the above.</em></p>
+
+<p><strong>Checklist</strong>: yes; neither;</p>
+
+<hr />
+
+<p><strong>Claims</strong>: It is not possible to establish causation with observation
+studies because there could always be confounding variables</p>
+
+<p><strong>Example</strong>:</p>
+
+<p><em>I need more information to use the same observational study as in the
+previous claim to give that as example here, considering the
+confounding variables</em></p>
+
+<p>In a 22 year study on the effect of vitamins on death
+rates: “The <em>raw differences</em> in death risks for consumers of folic
+acid, vitamin B6, magnesium, zinc, copper, and multivitamins are NOT
+statistically significant.”</p>
+
+<p>Confounding variables: “Supplement users had a lower prevalence of
+diabetes mellitus, high blood pressure, and smoking status; a lower
+BMI and waist to hip ratio, and were less likely to live on a
+farm. Supplement users had a higher educational level, were more
+physically active and were more likely to use estrogen replacement
+therapy. Also, supplement users were more likely to have a lower
+intake of energy, total fat, and monounsaturated fatty acids,
+saturated fatty acids and to have a higher intake of protein,
+carbohydrates, polyunsaturated fatty acids, alcohol, whole grain
+products, fruits, and vegetables.”</p>
+
+<p>When all the measured parameters were controlled for: “Of the 15
+supplements that the study tracked, researchers found consuming seven
+of these supplements were linked to a statistically significant
+INCREASE in death risk (p-value &lt; 0.05): multivitamins (increase in
+death risk 2.4%), vitamin B6 (4.1%), iron (3.9%), folic acid (5.9%),
+zinc (3.0%), magnesium (3.6%), and copper (18.0%).”</p>
+
+<p><strong>Source</strong>: https://statisticsbyjim.com/basics/observational-studies/</p>
+
+<p><strong>Definition</strong>: Raw results suggest that there is the consumption of
+certain vitamins do not affect the death rate. However controlling for other
+“confounding variables”, it shows that there is a statistically
+significant (p-value &lt;0.05) increase in death rates.</p>
+
+<p><em>I wanted an example where it showed what happens when you control for
+confounding variables and you don’t control for them, so had to search
+outside. The book didn’t have it. It was an important claim so I had
+to spent time on it!</em></p>
+
+<p><strong>Checklist</strong>: yes; true; ; not-chapter</p>
+
+<hr />
+
+<h3 id="121">1.2.1</h3>
+
+<p><strong>Claims</strong>: Causal inference can be justified by proper use of random
+mechanisms.</p>
+
+<p><strong>Subject</strong>: Justification of causal inference by “proper” use of
+random mechanisms (aka randomized experiments)</p>
+
+<p><strong>Predicate</strong>: can be done.</p>
+
+<p><strong>Example</strong>: We take the same creativity example from last time where
+a randomization of the participants led to the choice in intervention;
+some with intrinsic group and the others with extrinsic
+group.</p>
+
+<p><strong>Definition</strong>: The example could have been “justified”, if this
+statistical analysis matched the reality. But that is not part of
+the example or info I see in the book. I currently don’t have one
+example even.</p>
+
+<p><strong>Checklist</strong>: yes; neither; 
+<em>no-example</em>;</p>
+
+<hr />
+
+<p><strong>Claims</strong>: (The chance—that the randomization turned out in such a way
+that the intrinsic motivation group received many more of the
+naturally creative writers)[1]—is incorporated into (the statistical
+tools that are used to express uncertainty.)[2]</p>
+
+<p><strong>Subject</strong>: Is [1] incorporated into [2].</p>
+
+<p><strong>Predicate</strong>: Yes.</p>
+
+<p><strong>Example</strong>: We think of the creativity study from earlier. The
+difference in averages from the sample was 4.14 between the intrinsic
+and extrinsic group.</p>
+
+<p>It is possible that there was actually no difference between the
+population creativity scores of the two groups and, just by chance the
+sample intrinsic group had the best creativity scorers.</p>
+
+<p>This chance is calculated by: Taking all the people (along with their
+group scores) and considering all possible randomizations of group
+assignment. How often we get 4.14 is [1]. For the given case with 1000
+randomizations we get a &gt;4.14 only 4 times. This is <code class="language-plaintext highlighter-rouge">0.004</code>.</p>
+
+<p>The p-value is 0.005 (based on statistical tools that are used to
+express uncertainty).</p>
+
+<p><strong>Definition</strong>: [1] is 0.004 and [2] is 0.005. Checks out.</p>
+
+<p><strong>Checklist</strong>: yes; false; 
+<em>example-matching-subject</em>; <em>time</em>; <strong>Pattern</strong>: no idea.; (seemed
+mighty hard and convoluted, [1] especially. During the third correction
+even, it took me 15 mins to understand [1].);</p>
+
+<hr />
+
+<p><strong>Claims</strong>: Is there any (role at all for observational data in serious
+scientific inquiry)[1]? Yes.</p>
+
+<p><strong>Claims</strong>: Establishing causation is not always the goal</p>
+
+<p><strong>Subject</strong>: [1].</p>
+
+<p><strong>Predicate</strong>: is there.</p>
+
+<p><strong>Example</strong>: A study was conducted with 10 American men of Chinese
+descent and 10 American men of European descent to examine the blood
+pressure-reducing drug. The result was that the men of Chinese
+ancestry tended to exhibit a different response to the drug.</p>
+
+<p><strong>Definition</strong>: This does not prove causal inference that being of
+Chinese descent is responsible for the difference. In fact, it could
+be diet or a particular gene or something. Nevertheless, the study
+provided “important” information to the doctors prescribing the drug
+to people from these populations.</p>
+
+<p><strong>Checklist</strong>: yes; true;</p>
+
+<hr />
+
+<p><strong>Claims</strong>: Establishing causation may be done in other ways whilst
+still using observational studies.</p>
+
+<p><strong>Subject</strong>: Establishing causation using observational studies</p>
+
+<p><strong>Predicate</strong>: may be done.</p>
+
+<p><strong>Example</strong>: Radiation biologists counted chromosomal aberrations in a
+sample of Japanese atomic bomb survivors who received radiation from
+the blast, and compared these to counts on individuals who were far
+enough from the blast. Although the data is purely observational, the
+researchers are certain that higher counts in the radiation group can
+only be due to radiation. And has thus been used to estimate the
+dose-response relationship between radiation and chromosomal
+aberration.</p>
+
+<p><strong>Definition</strong>: seems to check out.</p>
+
+<p><strong>Checklist</strong>: yes; true;</p>
+
+<hr />
+
+<p><strong>Claims</strong>: (Analysis of observational data)[1] may lend evidence toward
+(causal theories and suggest the direction of future research)[2].</p>
+
+<p><strong>Subject</strong>: [1]</p>
+
+<p><strong>Predicate</strong>: may lend evidence towards [2].</p>
+
+<p><strong>Example</strong>: Many observational studies indicated an association
+between smoking and lung cancer, but causation was accepted only after
+decades of OS, experimental studies on laboratory animals and a
+scientific theory for the carcinogenic mechanism of smoking.</p>
+
+<p><strong>Definition</strong>: It seems that those observational studies were the
+first straw for further investigation.</p>
+
+<p><strong>Checklist</strong>: yes; true;</p>
+
+<hr />
+
+<h3 id="122">1.2.2</h3>
+
+<blockquote>
+  <p>(Inferences to populations)[1] can be drawn from (random
+sampling studies)[2], but not (otherwise)[3].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] can be drawn from [2].</p>
+
+<p><strong>Subject</strong>: [1] from [2].</p>
+
+<p><strong>Predicate</strong>: can be drawn.</p>
+
+<p><strong>Example</strong>:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## Population
+&gt; n &lt;- 100000
+&gt; x1 &lt;- runif(n/3,1,100) # gen n/3 random numbers from 1-100
+&gt; x2 &lt;- runif(n/3,500,600)
+&gt; x3 &lt;- runif(n/3,900,1000)
+&gt; x  &lt;- c(x1,x2,x3)
+
+&gt; mean(x)
+[1] 517.0248
+
+## Sample a few times
+&gt; mean(x[sample(1:length(x),100,replace=T)])
+[1] 548
+[1] 531
+[1] 529
+</code></pre></div></div>
+
+<p><strong>Definition</strong>: The sample mean is very close (6%) from the actual
+mean of the population.</p>
+
+<p><strong>Checklist</strong>: yes; true; ;not-chapter;</p>
+
+<hr />
+
+<p><strong>Claims</strong>: [1] cannot be drawn from non [2].</p>
+
+<p><strong>Subject</strong>: [1] from non [2].</p>
+
+<p><strong>Predicate</strong>: cannot be drawn</p>
+
+<p><strong>Example</strong>: Same example as above.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## Population
+&gt; n &lt;- 100000
+&gt; x1 &lt;- runif(n/3,1,100) # gen random numbers from 1-100
+&gt; x2 &lt;- runif(n/3,500,600)
+&gt; x3 &lt;- runif(n/3,900,1000)
+&gt; x  &lt;- c(x1,x2,x3)
+
+&gt; mean(x)
+[1] 517.0248
+
+## Sample
+&gt; mean(x[1:1000])
+[1] 50.7674
+</code></pre></div></div>
+
+<p><strong>Definition</strong>: When sampling is not random we don’t seem to be able
+to infer to population.</p>
+
+<p><strong>Checklist</strong>: yes; true;; not-chapter;</p>
+
+<hr />
+
+<p><strong>Claims</strong>: (Random sampling)[1] ensures that (all sub-populations are
+represented in the sample in roughly the same mix as in the overall
+population)[2]</p>
+
+<p><strong>Subject</strong>: [1].</p>
+
+<p><strong>Predicate</strong>: ensures that [2].</p>
+
+<p><strong>Example</strong>: We take the same example as above,</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## Population
+&gt; n &lt;- 100000
+&gt; x1 &lt;- runif(n/3,1,100) # gen random numbers from 1-100
+&gt; x2 &lt;- runif(n/3,500,600)
+&gt; x3 &lt;- runif(n/3,900,1000)
+&gt; x  &lt;- c(x1,x2,x3)
+</code></pre></div></div>
+
+<p>Looking at the mean of the population and the mean of
+the sample, implies that the sample is a “decent” mix of the
+population, courtesy of [1].</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt; mean(x)
+[1] 517.0248
+
+## Sample
+
+&gt; mean(x[sample(1:length(x),100,replace=T)])
+[1] 548
+[1] 531
+[1] 529
+</code></pre></div></div>
+
+<p>To suggest that [1], <em>ensures</em> [2] we toggle [1]. We take the first
+100 numbers and find that it doesn’t represent the population.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt; mean(x)
+[1] 517.0248
+
+## Sample
+&gt; mean(x[1:1000])
+[1] 50.7674
+</code></pre></div></div>
+
+<p><strong>Definition</strong>: Atleast there is one example where using random
+sampling seems to enable inference to population and where if we
+remove it, we don’t get the inference to population. Checks out!</p>
+
+<p><strong>Checklist</strong>: yes; true;; not-chapter; 
+<em>ensures</em>; <em>unsure</em>; <em>missed-comparison</em>;</p>
+
+<p>Does <em>ensure</em> need toggling, STM?</p>
+
+<hr />
+
+<p><strong>Claims</strong>: (Random selection)[1] has a chance of producing
+(non-representative sample)[2]</p>
+
+<p><strong>Subject</strong>: Chance of [1] producing [2].</p>
+
+<p><strong>Predicate</strong>: &gt;0</p>
+
+<p><strong>Example</strong>:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## Population
+&gt; n &lt;- 100000
+&gt; x1 &lt;- runif(n/3,1,100) # gen random numbers from 1-100
+&gt; x2 &lt;- runif(n/3,500,600)
+&gt; x3 &lt;- runif(n/3,900,1000)
+&gt; x  &lt;- c(x1,x2,x3)
+
+&gt; mean(x)
+[1] 517.0248
+</code></pre></div></div>
+
+<p>When I sampled from <code class="language-plaintext highlighter-rouge">X</code> 10000 times the mean was less than 400 only
+once. It was:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>[1] 381.0892
+</code></pre></div></div>
+
+<p><strong>Definition</strong>: Non-representative sample is off by 25%. [1] seems to
+have a chance of producing [2], in this case <code class="language-plaintext highlighter-rouge">=1/10000</code>. Checks out.</p>
+
+<p><strong>Checklist</strong>: yes; true;; not-chapter</p>
+
+<h3 id="123">1.2.3</h3>
+
+<blockquote>
+  <p>Statistical analysis is used to make statements from available data
+in answer to questions of interest about some broader context than
+the study at hand. No such statement about the broader context based
+on available data can be made with absolute certainty.</p>
+</blockquote>
+
+<p><strong>Claims</strong>: (No such statement about broader context based on
+available data)[1] can be made with (absolute certainty)[2]</p>
+
+<p><strong>Subject</strong>: [1]</p>
+
+<p><strong>Predicate</strong>: can be made with [2].</p>
+
+<p><strong>Example</strong>: <del>The same creativity study. The creative study concluded
+that ‘creative writers are able to write better with intrinsic
+motivation’.</del></p>
+
+<p><em>No example in the book</em></p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: yes; neither; 
+<em>no-example</em>; <em>time</em>;</p>
+
+<hr />
+
+<p><strong>Claims</strong>: (Chance mechanisms)[1] enable (the investigator)[2] to calculate
+(measures of uncertainty)[3] to accompany inferential conclusions.</p>
+
+<p><strong>Subject</strong>: What [1] does.</p>
+
+<p><strong>Predicate</strong>: enables [2] to calculate [3].</p>
+
+<p><strong>Example</strong>: We think of a coin toss which was used in the creativity
+study. We see that we are able to compute the p-value of 0.4% for
+the null hypothesis.</p>
+
+<p><strong>Definition</strong>: Checks out.</p>
+
+<p><strong>Checklist</strong>: yes; true; 
+<em>example-matching-definition</em>; <em>unsure</em>; <em>time</em>; <strong>Pattern</strong>: “Chance
+mechanisms”; “measures of uncertainty”; “enable”</p>
+
+<hr />
+
+<p><strong>Claims</strong>: (Conclusions from C&amp;E studies))[1] can be quite strong,
+even if (observed pattern cannot be inferred to hold in some general
+population (self-selected))[2].</p>
+
+<p><strong>Subject</strong>: If [2], then how strong [1] is.</p>
+
+<p><strong>Predicate</strong>: can be quite strong.</p>
+
+<p><strong>Example</strong>: <em>The creativity study is not the right example for this
+subject, as it doesn’t inform why any conclusion is particularly strong.</em></p>
+
+<p><em>For this claim I have no example.</em></p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: yes; neither;</p>
+
+<hr />
+
+<blockquote>
+  <p>For (observational studies)[1] the (lack of truly random samples)[2]
+is more worrisome, because making (an inference about some larger
+population)[3] is usually the goal.</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] has [2].</p>
+
+<p><strong>Example</strong>: We think of the ‘sex discrimination by a bank’ study. The
+units selected for the study are part of a bank. There is nothing
+random about it.</p>
+
+<p><strong>Definition</strong>: Checks out.</p>
+
+<p><strong>Checklist</strong>: yes; neither;</p>
+
+<hr />
+
+<p><strong>Claims</strong>: For [1], [2] is more worrisome</p>
+
+<p>We have seen earlier that [2] results in the inability to [3] and
+hence could be considered worrisome. But why it is “more worrisome”
+for [1] is unclear. I don’t have an example for it.</p>
+
+<p><strong>Checklist</strong>: yes; neither;
+<em>no-example</em>;</p>
+
+<hr />
+
+<blockquote>
+  <p>In (observational studies)[1], obtaining (random samples from the
+populations of interest)[2] is often impractical or impossible and
+inference based on assumed models may be better than no inference at
+all.</p>
+</blockquote>
+
+<p><strong>Claims</strong>: In [1], obtaining [2] is often impractical or impossible</p>
+
+<p><strong>Subject</strong>: Impracticality of obtaining [2] in [1].</p>
+
+<p><strong>Predicate</strong>: is often impractical</p>
+
+<p><strong>Example</strong>: In the Vitamin study discussed earlier, it appears that
+the population of interest is the whole world. Taking random samples
+from this population of interest (aka [2]), implies that we select
+random people in the world and ask them to discuss their lives with us
+over 22 years. But this is impractical as not everyone is willing to
+participate in the study. The next “best” thing we have is that people
+volunteer to the study.</p>
+
+<p><strong>Definition</strong>: i.e., we are unable to have [2].</p>
+
+<p><strong>Checklist</strong>: yes; true;; not-chapter; 
+<em>example-matching-subject</em>; <em>unsure</em>; <strong>Pattern</strong>:
+“observational-studies”; “random-samples”; “often”</p>
+
+<hr />
+
+<h3 id="131-probability-model-for-randomized-experiments">1.3.1 Probability model for randomized experiments</h3>
+
+<p><strong>Claims</strong>: (The chance mechanism for randomizing units to treatment
+groups)[1] ensures that every subset of (24 subjects gets the same
+chance of becoming the intrinsic group)[2].</p>
+
+<p><strong>Subject</strong>: What [1] ensures.</p>
+
+<p><strong>Predicate</strong>: ensures [2].</p>
+
+<p><strong>Example</strong>: With 24 black cards and 23 red cards shuffled, we are able to
+segregate people to the intrinsic and extrinsic group randomly.</p>
+
+<p>The total available combinations <code class="language-plaintext highlighter-rouge">TAC=47!/23!</code>.</p>
+
+<p>If we look at A1 to A24 taking up the intrinsic group, it looks like
+the chances are <code class="language-plaintext highlighter-rouge">1/TAC</code>. If we look at A2 to A25 taking up the
+intrinsic group, the chances are still <code class="language-plaintext highlighter-rouge">1/TAC</code>. For every subset the
+chances seem to be <code class="language-plaintext highlighter-rouge">1/TAC</code>.</p>
+
+<p><em>Do I need to toggle [1] and show the result as well?</em></p>
+
+<p><strong>Definition</strong>: checks out.</p>
+
+<p><strong>Checklist</strong>: yes; true; ; not-chapter;
+<em>example-matching-definition</em>; <em>unsure</em>; <em>time</em>; <em>A-ensures-B</em>;
+<em>unsure</em>; <strong>Pattern</strong>: “probability”; “ensures”</p>
+
+<h3 id="132-test-for-treatment-effect-in-creative-study">1.3.2 Test for treatment effect in creative study</h3>
+
+<blockquote>
+  <p>(The value of this test statistic is close to or far from zero)[1]? The
+answer to that question comes from what is known about how the
+(test statistic might have turned out in other randomization outcomes)[2]
+if (there were no effect of the treatments)[3]</p>
+</blockquote>
+
+<p><strong>Claims</strong>: What is known about [2], is the answer to [1], if [3].</p>
+
+<p><strong>Subject</strong>: What is known about [2], if [3].</p>
+
+<p><strong>Predicate</strong>: is the answer to [1].</p>
+
+<p><strong>Example</strong>: In the creativity study problem, it is known that the
+test statistic (difference in average between both groups) of greater
+than 4 is obtained only 4 times over 1000 randomized groups, under the
+<em>null hypothesis</em> (no effect of the intrinsic treatment).</p>
+
+<p><strong>Definition</strong>: We are able to observe that the test statistic is far
+away from 0 in a histogram (looking like a bell curve), as values
+greater than 4 appear four times over 1000 randomizations (0.4%).</p>
+
+<p><strong>Checklist</strong>: yes; true;
+<em>example-matching-subject</em>; <em>time</em> <strong>Pattern</strong>: “long-sentence”</p>
+
+<hr />
+
+<p><strong>Claims</strong>: It is possible to determine what test statistic values
+would have occurred had the randomization process turned out
+differently.</p>
+
+<p><strong>Example</strong>: In the creativity study, under the null hypothesis—that
+the difference between the extrinsic and intrinsic treatments was
+nothing—we now posses 47 creativity scores with which we can compute
+different test statistics for other randomizations.</p>
+
+<p>For current randomization the test statistic is 4. For another
+randomization shown in the book the test statistic is 2.07. It is
+possible to generate the test statistic for all combinations.</p>
+
+<p><strong>Definition</strong>: checks out!</p>
+
+<p><strong>Checklist</strong>: yes; true;</p>
+
+<hr />
+
+<blockquote>
+  <p>That conclusion (that the null hypothesis is wrong) could be
+incorrect, however, because the randomization is capable of
+producing such an extreme.</p>
+</blockquote>
+
+<p><strong>Claims</strong>: (The conclusion that the null hypothesis is wrong)[1], could be
+(incorrect)[2].</p>
+
+<p><strong>Subject</strong>: What [1] could be.</p>
+
+<p><strong>Predicate</strong>: could be [2].</p>
+
+<p><strong>Example</strong>: <em>In order to see the claim to be true, I would need to
+look at the actual reality and compare it with the null hypothesis. At
+this point I don’t have an example</em></p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: yes; neither;; 
+<em>no-example</em>;</p>
+
+<hr />
+
+<blockquote>
+  <p>The smaller the (p-value)[1], the more unlikely it is that (chance
+assignment)[2] is responsible for the (discrepancy between
+groups)[3], and (the greater the evidence that the null hypothesis
+is incorrect)[3].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: The smaller the [1], the more unlikely it is that [2] is
+responsible for [3].</p>
+
+<p><strong>Subject</strong>: Consequences of smaller [1].</p>
+
+<p><strong>Predicate</strong>: the more unlikely it is that [2] is responsible for
+[3].</p>
+
+<p><strong>Example</strong>:</p>
+
+<p>We look at the same creativity example. The difference in the means
+between the two sample groups is 4.14. Under the null hypothesis
+(i.e., [2] being responsible for [3]) we see value <code class="language-plaintext highlighter-rouge">&gt;4.14</code> appears 4
+times in 1000 simulations, i.e., this implies that the null hypothesis
+is unlikely. The p-value for this case is 0.004.</p>
+
+<p>If values <code class="language-plaintext highlighter-rouge">&gt;4.14</code> appears 50 times instead of 4, then p-value is 0.05
+(from 0.004), and the chances of [2] being responsible for [3] is
+higher.</p>
+
+<p><strong>Definition</strong>: I think it checks out. I “think” because, “The smaller
+the p-value”, is the exact same thing as “[2] being responsible for
+[3].”. I am unable to see them as different objects as I think they
+are one and the same. So, I am not sure if this should be taken as a
+claim and worked out so much.</p>
+
+<p><strong>Checklist</strong>: yes; true;<br />
+<em>example-matching-subject</em>; <em>unsure</em>; <em>time</em>; <strong>Pattern</strong>: No-idea</p>
+
+<hr />
+
+<h3 id="14-measuring-uncertainty-in-observational-studies">1.4 Measuring Uncertainty in Observational studies</h3>
+
+<p><strong>Claims</strong>: (Uncertainty measures in Observational studies)[1] are
+identical to those of the (randomization test (used in C&amp;E studies to
+establish Causation))[2].</p>
+
+<p><strong>Subject</strong>: [1].</p>
+
+<p><strong>Predicate</strong>: are identical to [2]</p>
+
+<p><strong>Example</strong>: For the ‘sex discrimination study’, we use the p-value,
+under the null hypothesis that: the salaries were provided to the two
+groups at random i.e., the salaries were shuffled amongst the
+different groups.</p>
+
+<p>For the ‘creativity study’, we use the p-value, but for a different
+form of null hypothesis based on the creativity scores of the person
+remaining with them and instead, the people were shuffled amongst
+different groups to make the randomizations.</p>
+
+<p><strong>Definition</strong>: checks out that they both seem to have identical
+measures aka p-value for a null hypothesis.</p>
+
+<p><strong>Checklist</strong>: yes; true;</p>
+
+<h3 id="142-testing-for-a-difference-in-the-sex-discrimination-study">1.4.2 Testing for a difference in the Sex Discrimination Study</h3>
+
+<blockquote>
+  <p>In the sex discrimination study, there is no interest in the
+starting salaries of some larger population of individuals who were
+never hired, so a (random sampling model)[1] is not
+(relevant)[2]. It makes no (sense)[3] to view (the sex of these
+individuals)[4] as (randomly assigned)[5]. Neither the random
+sampling nor the randomized experiment model applies.</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1], is not [2] in the context of observational studies.</p>
+
+<p><strong>Subject</strong>: Relevance of [1] in the context of observational studies</p>
+
+<p><strong>Predicate</strong>: is [2].</p>
+
+<p><strong>Example</strong>: -</p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: yes; neither;;
+<em>no-example</em>; <em>failed</em>; (<em>no idea how the example could look</em>);
+<strong>Pattern</strong>: “random-sampling”</p>
+
+<hr />
+
+<p><strong>Claims</strong>: [1] is not [2] in the case of the sex discrimination
+study.</p>
+
+<p><strong>Checklist</strong>: yes; neither; <em>no-example</em>; <em>failed</em>; (<em>no idea how the
+example could look</em>); <strong>Pattern</strong>: “random-sampling”</p>
+
+<hr />
+
+<p><strong>Claims</strong>: (Randomized experiment model)[1] does not apply to
+(observational studies)[2].</p>
+
+<p><strong>Example</strong>: -</p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: yes; true; <em>no-example</em>; <em>failed</em>; (<em>no idea how the
+example could look</em>); <strong>Pattern</strong>: “random-sampling”</p>
+
+<h3 id="15">1.5</h3>
+
+<blockquote>
+  <p>The stem and leaf diagrams show the centers, spreads and shapes of
+distributions in the same way histograms do.</p>
+</blockquote>
+
+<p><strong>Claims</strong>: ^^</p>
+
+<p><strong>Subject</strong>: Comparison of stem-and-leaf diagrams vs histograms</p>
+
+<p><strong>Predicate</strong>: show the centers, shapes and distributions in the same way.</p>
+
+<p><strong>Example</strong>: Image below (1.10 in the book), shows the stem and leaf diagram
+for the creativity study. If you rotate it 90 degrees clockwise it
+looks like it has the Y and X axis of a histogram. If you increase the
+histogram bins to show each integer or score then they coincide
+exactly in shape.</p>
+
+<p><br /></p>
+
+<p><img src="./images/images-DP-11/stem-leaf.png" alt="stem-leaf" /></p>
+
+<p><strong>Definition</strong>: checks out.</p>
+
+<p><strong>Checklist</strong>: yes; true;</p>
+
+<p>P.S</p>
+
+<p>Sorry the picture is tilted, its from a pdf online and that is the
+best I was able to extract from it.</p>
+
+<h3 id="154">1.5.4</h3>
+
+<blockquote>
+  <p>In (sampling units such as lakes of different sizes)[1], it is sometimes
+useful to allow (larger units to have higher probabilities of being
+sampled than smaller units)[2].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: In [1], it is sometimes useful to allow [2].</p>
+
+<p><strong>Subject</strong>: While [1], how often [2] is useful.</p>
+
+<p><strong>Predicate</strong>: is sometimes useful.</p>
+
+<p><strong>Example</strong>: <em>No examples in the chapter.</em></p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: yes; neither;;
+<em>no-example</em>;</p>
+
+<h3 id="155">1.5.5</h3>
+
+<blockquote>
+  <p>(Close examination of the results of randomization or random
+sampling)[1] can usually expose ways in which (the chosen sample is
+not representative)[2]. The (key)[3], however is not to abandon (the
+procedure when its result is suspect)[4].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] can usually expose ways in which [2].</p>
+
+<p><strong>Subject</strong>: What [1], exposes.</p>
+
+<p><strong>Predicate</strong>: exposes ways in which [2].</p>
+
+<p><strong>Example</strong>: -</p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: yes; neither; 
+<em>no-example</em>;</p>
+
+<hr />
+
+<p><strong>Claims</strong>: Not to abandon [4], is key.</p>
+
+<p><strong>Subject</strong>: Consequences of not abandoning [4].</p>
+
+<p><strong>Predicate</strong>: is key</p>
+
+<p><strong>Example</strong>: -</p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: yes; neither; 
+<em>no-example</em>;</p>
+
+<hr />
+
+<blockquote>
+  <p>If (randomization were abandoned)[5], there would be no way to
+express (uncertainty accurately)[6].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: If [5], there would be no way to express [6].</p>
+
+<p><strong>Subject</strong>: If [5], ways to express [6].</p>
+
+<p><strong>Predicate</strong>: do not exist</p>
+
+<p><strong>Example</strong>: <em>No idea how the example will look</em></p>
+
+<p><strong>Definition</strong>:</p>
+
+<p><strong>Checklist</strong>: yes; false; 
+<em>no-example</em>; <em>failed</em>; <strong>Pattern</strong>: false; <em>no-way-to-do-X</em></p>
+
+<h3 id="16">1.6</h3>
+
+<blockquote>
+  <p>(Randomized experiments)[1] eliminate (this problem (of
+confounding variables))[2] by ensuring that differences between groups
+(other than those of the assigned treatments) are due to chance
+alone. Statistical measures of uncertainty account for this chance.</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] eliminate [2].</p>
+
+<p><strong>Subject</strong>: What [1], eliminates.</p>
+
+<p><strong>Predicate</strong>: eliminates [2].</p>
+
+<p><strong>Example</strong>: <em>I again think that the only way to give an example for
+these claims is by taking an example and comparing it to
+reality. That’s how we know we eliminate the problem. For example, I
+would take the creativity study and then show the effect of
+confounding variables when randomized and when not randomized. But I
+don’t have data for this.</em></p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: yes; neither; 
+<em>no-example</em>; <em>failed</em> (because I don’t know how the example is
+expected to look). <strong>Pattern</strong>: “Randomized-experiments”;
+“confounding variables”;</p>
+
+<hr />
+
+<blockquote>
+  <p>When the model corresponds to the planned use of randomization or
+random sampling, it provides a firm basis for drawing inferences.</p>
+</blockquote>
+
+<p>I can know if something provides a firm basis for drawing inferences, only
+if I get feedback from reality.</p>
+
+<p>Regarding randomization, I have only the creativity study and that is
+not enough for this claim. I am unable to design the experiment and
+use R to simulate it. Unable!</p>
+
+<p>Regarding random sampling, the claim is already proven with a
+simulation in R.</p>
+
+<p><strong>Checklist</strong>: yes; neither;
+<em>no-example</em>; <em>failed</em> (I don’t even know how to simulate such an
+experiment on randomization)</p>
+
+<hr />
+<h2 id="chapter-2">Chapter 2</h2>
+
+<h3 id="20-t-distributions">2.0 t-distributions</h3>
+
+<blockquote>
+  <p>The t-tools are useful in regression and analysis of variance
+structures</p>
+</blockquote>
+
+<p><em>Example out of scope for this chapter</em></p>
+
+<blockquote>
+  <p>The t-tools are derived under random sampling models when
+populations are normally distributed.</p>
+</blockquote>
+
+<p><strong>Subject</strong>: What the t-tools are derived under.</p>
+
+<p><strong>Predicate</strong>: random sampling models when populations are normally distributed.</p>
+
+<p><strong>Example</strong>: I guess I can give an example for t-tools being used
+when the population is normally distributed and checking if the
+t-tools give “good” results. Or I could cite the derivation.</p>
+
+<p>Theorem stating: “If Ybar is the average in a random sample of size n
+from a normally distributed population, the sampling distribution of
+its t-ratio is described by Student’s t-distribution.”</p>
+
+<p><em>What should I do?</em></p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: not-sure;neither
+<em>no-example</em>; <em>failed</em>; (am I even expected to give an example or not.)</p>
+
+<hr />
+
+<h3 id="211-bumpuss-data">2.1.1 Bumpus’s data</h3>
+
+<blockquote>
+  <p>As evidence in support of (natural selection)[1], he presented
+(measurements on house sparrows brought to the Anatomical Laboratory
+of Brown university after an uncommonly severe winter storm)[2].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [2] is evidence in support of [1].</p>
+
+<p><strong>Example</strong>: Difference in lengths between the armbone of 24 adult
+male sparrows that perished and 35 adult males that survived. Two
+sided p-value is 8%.</p>
+
+<p><strong>Definition</strong>: A p-value of 8% seems to suggest only a small chance that
+the null hypothesis is true. This seems to be evidence in support of
+natural selection, NOT PROOF.</p>
+
+<p><strong>Checklist</strong>: yes; true; 
+<em>example-matching-definition</em>; <em>time</em>;</p>
+
+<h3 id="212-anatomical-abnormalities-associated-with-schizophrenia">2.1.2 Anatomical Abnormalities Associated with Schizophrenia</h3>
+
+<blockquote>
+  <p>Are there any physiological indicators associated with
+schizophrenia? Yes.</p>
+</blockquote>
+
+<p><strong>Claims</strong>: ^^</p>
+
+<p><strong>Example</strong>: Paired difference of hippocampus volume between 15 sets
+of twins (there by controlling for genes and socioeconomic
+differences):</p>
+
+<ul>
+  <li>average : 0.199cm^3</li>
+  <li>SD : 0.238</li>
+  <li>p-value : 0.6%</li>
+</ul>
+
+<p><strong>Definition</strong>: This p-value seems to suggest that the null hypothesis
+(that there is not difference between hippocampus volume of the
+twins), has a low chance of being true. In other words there seems to
+be a good chance that there are physiological indicators associated
+with schizophrenia.</p>
+
+<p><strong>Checklist</strong>: yes; true;</p>
+
+<hr />
+
+<h3 id="221-one-sample-t-tools-and-paired-t-test">2.2.1 One-sample t-tools and paired t-test</h3>
+
+<blockquote>
+  <p>The mean of the sampling distribution of the average is also mu, the
+(standard deviation of the sampling distribution)[1] is (sigma by
+root n)[2]. The (shape of the sampling distribution)[3] is more
+nearly normal than is the (shape of the population
+distribution)[4]. The last fact comes from the Central limit
+theorem.</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] is [2].</p>
+
+<p><strong>Example</strong>: Randomly sampled in R was, 10000 numbers from Poisson with
+lambda=1 (doesn’t look normal at all). And these are the findings:</p>
+
+<ul>
+  <li>n_sample=100</li>
+  <li>sd(population)/sqrt(100)=0.10008 [2]</li>
+  <li>sd(sampling distribution of the average)=0.1004 [1]</li>
+</ul>
+
+<p><strong>Definition</strong>: Checks out!</p>
+
+<p><strong>Checklist</strong>: yes; true; ; not-chapter</p>
+
+<hr />
+
+<p><strong>Claims</strong>: [3] is more nearly normal than is [4].</p>
+
+<p><strong>Example</strong>: In the above case I took a Poisson distribution with
+lambda=1; No one in their right mind would say it looks normally
+distributed.</p>
+
+<p>Contrast that to the sampling distribution of the average and it looks
+like a bell curve for the example mentioned in the previous claim.</p>
+
+<p><strong>Definition</strong>: checks out!</p>
+
+<p><strong>Checklist</strong>: yes; true;</p>
+
+<hr />
+
+<blockquote>
+  <p>The (standard deviation in the sampling distribution of an average)[1],
+denoted by SD(Y_bar), is the (typical size of (Y_bar-mu))[2], the error
+in using Y_bar as an estimate of mu. This standard deviation gets
+smaller as the sample size increases.</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] is [2].</p>
+
+<p><strong>Example</strong>:</p>
+
+<p>SD(Y_bar) = 0.10008
+Ybar-mu = 1.02-1.0045 = 0.0155</p>
+
+<p><strong>Definition</strong>: I don’t think it checks out. I suspect I made a
+mistake with understanding what they meant by “typical size of
+(Ybar-mu)”. Also if you look at it, Ybar can take any value in the
+whole sampling distribution depending on chance. So you will never have
+the same “Ybar-mu”.</p>
+
+<p><strong>Checklist</strong>: yes; false; 
+<em>example-matching-subject</em>; <em>failed</em>; <strong>Pattern</strong>: Y_bar-mu</p>
+
+<hr />
+
+<h3 id="223-the-t-ratio-based-on-a-sample-average-start-from-here">2.2.3 The T-ratio based on a sample average (start from here)</h3>
+
+<blockquote>
+  <p>If the (sampling distribution of the estimate)[1] is normal, then
+the (sampling distribution of Z)[2] is (standard normal)[3], where
+the mean is 0 and the standard deviation is 1.</p>
+</blockquote>
+
+<p>Z = (estimated mean - Mean of population)/SD(estimate)</p>
+
+<p><strong>Claims</strong>: If [1] is normal, then [2] is [3].</p>
+
+<p><strong>Example</strong>: We go further with the same example we have seen till now
+where a population is setup using <code class="language-plaintext highlighter-rouge">rpois</code> (Poisson distribution).</p>
+
+<p>[1] looks normal (visually, like a bell curve). Now we compute
+sampling distribution of Z and determine SD and mean.</p>
+
+<p>mean = 0.009
+SD = 1</p>
+
+<p><strong>Definition</strong>: Standard normal is defined by SD=1 and mean=0, i.e.,
+checks out.</p>
+
+<p><strong>Checklist</strong>: yes; true;
+<em>if-then</em></p>
+
+<hr />
+
+<!-- > If the (standard deviation of the estimate)[1] is known, this permits -->
+<!-- > (an understanding of the likely size of the estimation -->
+<!-- > error)[2]. Consequently (useful statements)[3] can be made about the (amount -->
+<!-- > of uncertainty with which questions about the parameter can be -->
+<!-- > resolved)[4]. -->
+
+<!-- **Claims**: If [1] is known, this permits an understanding of [2]. -->
+
+<!-- *come back later maybe we see examples ahead* -->
+
+<!-- **Claims**: [3] about [3] can be made. -->
+
+<!-- *come back later, maybe we see examples ahead* -->
+
+<blockquote>
+  <p>The t-ratio does not have a standard normal distribution, because
+there is extra variability due to estimating the standard deviation</p>
+</blockquote>
+
+<p><strong>Subject</strong>: What t-ratio matches with.</p>
+
+<p><strong>Predicate</strong>: does not match standard normal distribution</p>
+
+<p><strong>Example</strong>: We take a Poisson’s distribution with 10000 random
+values and <code class="language-plaintext highlighter-rouge">lambda=1</code>. <code class="language-plaintext highlighter-rouge">pop.mu=0.995</code> &amp; <code class="language-plaintext highlighter-rouge">pop.sd=0.99</code>.</p>
+
+<p>t-ratio = (estimate-parameter)/std.error</p>
+
+<p>In our case, t-ratio = <code class="language-plaintext highlighter-rouge">(sample.mn-population.mn)/std.error</code>.</p>
+
+<p>We take 100 samples and 10 units per sample. We compute the tratio and
+display its mean and sd():</p>
+
+<p>mean : 0.08
+sd : 1.16</p>
+
+<p>The mean and sd for Zratio are:</p>
+
+<p>mean: 0.069
+sd: 1.00</p>
+
+<p><strong>Definition</strong>: For a std normal mean=0; and sd=1; There will always
+be some error in the values of mean and sd of the sampling
+distribution. To understand how much error still allows the
+distribution to be called normal, it seems to be worthwhile to have a
+look at the Zratio which is expected to be std.normal if the sampling
+distribution is normally distributed (which is the case here).</p>
+
+<p>Looking at the t-ratio we see that it is not as std-normal as the Z-ratio.</p>
+
+<p><strong>Checklist</strong>: yes; true; none; not-chapter;
+<em>example-matching-subject</em>; <em>time</em>; <strong>Pattern</strong>: no-idea;</p>
+
+<hr />
+
+<blockquote>
+  <p>The fewer the (degrees of freedom)[1], the greater is (the extra
+variability)[2], due to (estimating the standard deviation)[3].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: The fewer the [1], the greater the [2], due to [3].</p>
+
+<p><strong>Checklist</strong>: yes; neither.
+<em>because-should-due-to</em>; <em>almost-missed</em></p>
+
+<hr />
+
+<p><strong>Claims</strong>: The fewer the [1], the greater is [2].</p>
+
+<p><strong>Example</strong>:</p>
+
+<p>With 9 dofs the t-ratio sd: 1.2</p>
+
+<p>with 99 dofs the t-ratio sd: 1.06</p>
+
+<p><strong>Definition</strong>: checks out!</p>
+
+<p><strong>Checklist</strong>: yes; true; not-chapter;</p>
+
+<hr />
+
+<blockquote>
+  <p>Under some conditions, however, the sampling distribution of the
+t-ratio is known.</p>
+</blockquote>
+
+<p><strong>Claims</strong>: Same as below.</p>
+
+<blockquote>
+  <p>if (Y_bar is the average in a random sample of size n from a
+normally distributed population)[1], (the sampling distribution of
+its t-ratio)[2] is described by (a student’s t-distribution on n-1
+degrees of freedom)[3].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: If [1], [2] is described by [3].</p>
+
+<p><strong>Example</strong>: We take a normally distributed population using <code class="language-plaintext highlighter-rouge">rnorm</code>
+of size 100,000 and compute the t-ratio for a sampling distribution
+with sample size 10. We take 10,000 samples and the t-ratios are
+computed. We take a population of 10,000 based on <code class="language-plaintext highlighter-rouge">rt</code> which samples
+from a student’s t-distribution. We compute the mean and sd of the
+t-dist with <code class="language-plaintext highlighter-rouge">n-1=9</code> dofs. The mean and sd are tabulated as below:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>zratio</th>
+      <th>tratio</th>
+      <th>Students T-distribution</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>mean</td>
+      <td>-0.003</td>
+      <td>0.0012</td>
+      <td>0.005</td>
+    </tr>
+    <tr>
+      <td>sd</td>
+      <td>1.009</td>
+      <td>1.15</td>
+      <td>1.13</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Definition</strong>: There is a close match between the standard deviations
+but the match between the means don’t seem to exist. I don’t know why
+and where the error in the mean is coming from.</p>
+
+<p><strong>Checklist</strong>: yes; false; 
+<em>example-matching-definition</em>; <em>failed</em>; (one of us is wrong and it is
+most likely me.); <strong>Pattern</strong>: “t-distribution”?; “someone-is-wrong”</p>
+
+<hr />
+
+<blockquote>
+  <p>Histograms for t-distributions are symmetric about zero. For large
+degrees of freedom, t-distributions differ very little from the
+standard normal. For smaller dofs, they have longer rails than normal.</p>
+</blockquote>
+
+<p><em>Seem to be simple enough to test with come R-code. Not going to work
+on it as I am interested in failures.</em></p>
+
+<h3 id="224-unraveling-the-t-ratio">2.2.4 Unraveling the t-ratio</h3>
+
+<blockquote>
+  <p>If the (sample produces one of the 95% most likely t-ratios)[1],
+then mu is (expected to be) (between 0.067 and 0.331)[2]. &lt;– This
+is in the case that sample mean is 0.199 and SE is 0.0615 and is
+part of the Schizophrenia study in Section 2.1.2.</p>
+</blockquote>
+
+<p><em>I don’t think I can prove this without the “expected to be”. So I
+added it. At max I can comment on it based on the t-distribution.</em></p>
+
+<p><strong>Subject</strong>: If [1], what mu is (expected to be).</p>
+
+<p><strong>Predicate</strong>: [2]</p>
+
+<p><strong>Example</strong>: We come back to the twins study where one of the twins is
+schizophrenic.</p>
+
+<p>Here the estimate average of differences between the volume is 0.199
+cm^3. The SE is determined to be 0.0615.</p>
+
+<p>We know that we are expecting a t-distribution with 14 degrees of
+freedom. We look at the 2.5th percentile and 97.5th percentile (95%
+most likely values). The t-ratios are -2.145 and +2.145. This gives us
+possible values of mu if the sample was drawn with the 95% most likely
+values.</p>
+
+<p><code class="language-plaintext highlighter-rouge">-2.145&lt;(0.199-mu)/0.615&lt;2.145</code></p>
+
+<p>This gives 0.067 and 0.331</p>
+
+<p><strong>Definition</strong>:  Check!</p>
+
+<p><strong>Checklist</strong>: yes; true; 
+<em>example-matching-definition</em>; <em>time</em></p>
+
+<hr />
+
+<blockquote>
+  <p>(A 95% confidence interval)[1] will contain (the parameter)[2] if
+(the t-ratio from the observed data happens to be one of the those
+in the middle 95% of the sampling distribution)[3]. Since 95% of all
+possible pairs of samples lead to such t-ratios, the procedure of
+constructing a 95% confidence interval is successful in capturing
+the parameter of interest in 95% of its applications. It is
+impossible to say (whether it is successful or not in any particular
+application)[5].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: if [3], [1] will contain [2].</p>
+
+<p><strong>Subject</strong>: if [3], what [1] will contain.</p>
+
+<p><strong>Predicate</strong>: will contain [2].</p>
+
+<p><strong>Example</strong>: We take a population of mean 0 and sd 1.</p>
+
+<p>For [1] we take a random sample with 100 units where we compute our
+expected 95% confidence interval for the mean. We compute it as
+follows:</p>
+
+<div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">## compute sample, se and q</span><span class="w">
+</span><span class="n">x.sam</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">x</span><span class="p">[</span><span class="n">sample</span><span class="p">(</span><span class="m">1</span><span class="o">:</span><span class="nf">length</span><span class="p">(</span><span class="n">x</span><span class="p">),</span><span class="n">size</span><span class="o">=</span><span class="n">n.sample</span><span class="p">)]</span><span class="w">
+</span><span class="n">se</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">sd</span><span class="p">(</span><span class="n">x.sam</span><span class="p">)</span><span class="o">/</span><span class="nf">sqrt</span><span class="p">(</span><span class="n">n.sample</span><span class="p">)</span><span class="w">
+</span><span class="n">q</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">qt</span><span class="p">(</span><span class="m">0.975</span><span class="p">,</span><span class="n">df</span><span class="o">=</span><span class="n">n.sample</span><span class="m">-1</span><span class="p">)</span><span class="w"> </span><span class="c1">## 95% quantiles</span><span class="w">
+
+</span><span class="c1">## Computing 95%CI</span><span class="w">
+</span><span class="n">mean</span><span class="p">(</span><span class="n">x.sam</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">q</span><span class="o">*</span><span class="n">se</span><span class="w">
+</span><span class="n">mean</span><span class="p">(</span><span class="n">x.sam</span><span class="p">)</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="n">q</span><span class="o">*</span><span class="n">se</span><span class="w">
+</span></code></pre></div></div>
+
+<p><code class="language-plaintext highlighter-rouge">-0.011 to 0.34</code>.</p>
+
+<p>For [2] we think of the mean of the population i.e., <code class="language-plaintext highlighter-rouge">0</code>.</p>
+
+<p>For [3], with the below code we get the t-ratio as <code class="language-plaintext highlighter-rouge">1.85</code>. This is
+within the middle 95% t-sampling distribution for dof=99, i.e., <code class="language-plaintext highlighter-rouge">-1.98
+to 1.98</code>.</p>
+
+<div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">tratio</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="p">(</span><span class="n">mean</span><span class="p">(</span><span class="n">x.sam</span><span class="p">)</span><span class="m">-0</span><span class="p">)</span><span class="o">/</span><span class="n">sd</span><span class="p">(</span><span class="n">x.sam</span><span class="p">)</span><span class="o">*</span><span class="nf">sqrt</span><span class="p">(</span><span class="n">n.sample</span><span class="p">)</span><span class="w">
+</span><span class="n">tratio</span><span class="w">
+</span></code></pre></div></div>
+
+<!-- *splitting it helped attacking this claim* *as I write this I realize -->
+<!-- I don't know what this 95% CI is, in the light that I was planning to -->
+<!-- skip this or that I thought this was too easy. If I wanted to learn -->
+<!-- this, I would look at solving more questions and that would be enough -->
+<!-- it appears* -->
+
+<!-- *I can't remember the amount of time I have been staring at this and I -->
+<!-- still don't understand. I am unable to even point to my -->
+<!-- confusion. Whereas I went to khan academy and life already seems much -->
+<!-- simpler. I can blame two things the book, and/or my technique of -->
+<!-- claims. I have having serious doubts to the value of this technique* -->
+
+<p><strong>Definition</strong>: We thus see that the CI (<code class="language-plaintext highlighter-rouge">-0.011 to 0.34</code>) contains
+the mean (the population mean/parameter <code class="language-plaintext highlighter-rouge">0</code>), when the t-ratio is
+within the middle 95% of the t-sampling distribution. I checked this
+for a couple of random samples and it checked out for all.</p>
+
+<p><em>took me 3-4 hrs my-god! Seems so simple, but even on the second
+revision of this post it took me 10mins to make sure I did the right
+thing. The 3-4 hrs was mainly because I wanted to give an example
+such that I showed [3] but at the ends of the 95% band. I have still
+not figured out how to do it.</em></p>
+
+<p><strong>Checklist</strong>: yes; true;;; <em>if</em>; <em>example-matching-definition</em>;
+<em>time</em>;</p>
+
+<hr />
+
+<p><strong>Claims</strong>: To say [5] is impossible.</p>
+
+<p><em>No idea how to go about this</em></p>
+
+<p><strong>Checklist</strong>: yes; neither;
+<em>no-example</em>; <em>failed</em>; <strong>Pattern</strong>: <em>impossible</em>;</p>
+
+<hr />
+
+<h3 id="231-sampling-dist-of-the-diff-between-2-independent-sample-averages">2.3.1 Sampling dist of the diff between 2 independent sample averages</h3>
+
+<blockquote>
+  <p>The spread of the sampling distribution will be smaller with larger
+sample sizes. The sampling distribution is approximately normal, and
+will be more so with larger sample sizes. As was the case in Section
+2.2.1, (the theoretical results about the sampling distribution of
+Y2-Y1)[1] are insufficient for (making inferential statements)[2],
+because <code class="language-plaintext highlighter-rouge">SD(Y1_bar-Y2_bar)</code>, the standard deviation of this sampling
+distribution, depends on unknown parameters.</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] are insufficient for [2].</p>
+
+<p><strong>Subject</strong>: [1] for making [2].</p>
+
+<p><strong>Predicate</strong>: are insufficient.</p>
+
+<p><strong>Example</strong>: I don’t understand what they mean by [1] or [2] (i.e., I
+don’t have an example for each)</p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: yes; neither; 
+<em>no-example</em>; <em>failed</em>; <strong>Pattern</strong>: “inferential-statements”;
+“theoretical results about the sampling distribution”</p>
+
+<h3 id="232-se-for-diff-of-2-averages">2.3.2 SE for diff of 2 averages</h3>
+
+<blockquote>
+  <p>However, (comparing averages)[1] provides a (complete analysis)[3]
+only if (all other features of the two distributions are
+similar)[2]. Therefore assume in the following that the two
+populations have equal standard deviations: sigma1 = sigma2 = sigma</p>
+</blockquote>
+
+<p><strong>Subject</strong>: If [2], then what [1], provides.</p>
+
+<p><strong>Predicate</strong>: provides [3].</p>
+
+<p><strong>Example</strong>: <em>No example provided</em>.</p>
+
+<p><strong>Definition</strong>: <em>Also definition unclear</em></p>
+
+<p><strong>Checklist</strong>: yes; neither.
+<em>no-example</em>; <em>failed</em>;  <em>definition-unclear</em> (not sure at all what this [3] could
+be) <strong>Pattern</strong>: “complete-analysis”</p>
+
+<hr />
+
+<h3 id="233-ci-for-diff-between-pop-means">2.3.3 CI for diff between pop means</h3>
+
+<blockquote>
+  <p>If the populations are normally distributed, this t-ratio has a
+t-distribution with n1 + n2 -2 degrees of freedom.</p>
+</blockquote>
+
+<p>I skip this, as it is simple to test and can be simulated in R.</p>
+
+<blockquote>
+  <p>Now a (statement about the likely values for the t-ratio from the
+distribution)[1] can be translated into a statement about (the
+plausible values for mu2-mu1)[2].</p>
+</blockquote>
+
+<p><strong>Subject</strong>: [1] translating to [2].</p>
+
+<p><strong>Predicate</strong>: can be translated.</p>
+
+<p><strong>Example</strong>: For the Bumpus data of the birds that died vs survived,
+we look at the Humerus length.</p>
+
+<p>For [1], we think of 95% middle t-ratios from the t-distribution with
+57 dofs: 2.002 and -2.002.</p>
+
+<p>For [2], we think computing the possible values of the mean using [1]
+based on the formula below:</p>
+
+<p>t-ratio = <code class="language-plaintext highlighter-rouge">(estimate-mean_under_null_hypothesis)/SE</code></p>
+
+<p>We have difference in sample mean, i.e., estimate =
+<code class="language-plaintext highlighter-rouge">(Y2_bar-Y1_bar)=0.01008</code>, along with the <code class="language-plaintext highlighter-rouge">SE=0.00567</code>.</p>
+
+<p>We have t-ratio from [1], from which we calculate [2] to be:</p>
+
+<p><code class="language-plaintext highlighter-rouge">-0.00127 &lt; mean_under_null_hypothesis &lt; 0.02143</code>.</p>
+
+<p><strong>Definition</strong>: checks out.</p>
+
+<p><strong>Checklist</strong>: yes; true;</p>
+
+<hr />
+
+<blockquote>
+  <p>There is a trade-off between the level of confidence and the width of
+the confidence interval. The level of confidence can be specified to
+be large by the user (and a (high confidence level)[1] is
+(good)[2]). but only at the expense of having (wider interval)[3]
+(which is (bad)[4] since the interval is less specific in answering
+the question of interest).</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] is good.</p>
+
+<p><strong>Checklist</strong>: yes; neither;
+<em>no-example</em>; <em>failed</em>; (as it is important)</p>
+
+<p><strong>Claims</strong>: [3] is bad.</p>
+
+<p><strong>Checklist</strong>: yes; neither;
+<em>no-example</em>; <em>failed</em>; (as it is important)</p>
+
+<hr />
+
+<h3 id="234-testing-a-hypothesis-about-diff-between-means">2.3.4 Testing a hypothesis about diff between means</h3>
+
+<blockquote>
+  <p>The p-value may be based on a probability model induced by random
+assignment in a randomized experiment (section 1.3.2) or on a
+probability model induced by random sampling from populations, as
+here.</p>
+</blockquote>
+
+<blockquote>
+  <p>If the p-value is small, then either the hypothesis is correct—and
+the sample happened to be one of those rare ones that produce such
+an unusual t-ratio—or the hypothesis is incorrect. Although it is
+impossible to know which of these two possibilities is true, the
+p-value indicates the probability of the first of these results.</p>
+</blockquote>
+
+<p><strong>Claims</strong>: It is impossible to know which of these…</p>
+
+<p><strong>Checklist</strong>: yes; neither;
+<em>no-example</em> ; <em>failed</em>; <strong>Pattern</strong>: <em>impossible</em></p>
+
+<hr />
+
+<blockquote>
+  <p>The smaller the p-value, the stronger is the evidence that the
+hypothesis is incorrect. A large p-value implies that the study is
+not capable of excluding the null hypothesis as a possible
+explanation for how the data turned out. A possible wording in this
+case is “the data are consistent with the hypothesis being true”. It
+is wrong to conclude that the null hypothesis is true.</p>
+</blockquote>
+
+<p><em>I can take two samples in R and empirically show that the smaller the
+p-value, the stronger the evidence that the hypothesis is incorrect. I
+skip this for now.</em></p>
+
+<h3 id="24-inferences-in-a-two-treatment-randomized-experiment">2.4 Inferences in a two-treatment randomized experiment</h3>
+
+<blockquote>
+  <p>Chapter 2 has thus far discussed inference procedures whose
+motivation stems from considerations of random sampling from
+populations that are conceptual, infinite, and normally
+distributed. While there seems to be considerable difference between
+the situations, it turns out that the (t-distribution uncertainty
+measures discussed in this chapter)[1] are (useful approximations to
+both the randomization and the random sampling uncertainty measures
+for a wide range of problems)[2]. The practical consequence is that
+t-tools are used for many situations that do not conform to the
+strict model upon which the t-tools are based, including data from
+randomized experiments. Conclusions from randomized experiments,
+however, are phrased in the language of treatment effects and
+causation, rather than differences in population means and
+association.</p>
+</blockquote>
+
+<p><strong>Claims</strong>: t-tools are derived under random sampling models, when
+populations are normally distributed.</p>
+
+<p>Same claim as before in section 2.0.</p>
+
+<p><strong>Checklist</strong>: yes; true; 
+<em>no-example</em>; <em>failed</em>; (am I even expected to give an example or
+not.); <strong>Pattern</strong>: “derived”;</p>
+
+<hr />
+
+<p><strong>Claims</strong>: [1] for randomization is a useful approximation.</p>
+
+<p><strong>Subject</strong>: The usefulness of [1] for randomization</p>
+
+<p><strong>Predicate</strong>: is useful approximation</p>
+
+<p><strong>Example</strong>: We go back to the creativity study we saw in the first
+chapter. Here, a group of “creative people” were picked and then
+randomized into two interventions. The goal is to identify causal
+relations between the intervention and the creativity score.</p>
+
+<p>In total there were 47 people split as 23 and 24, into the different
+interventions namely intrinsic and extrinsic.</p>
+
+<p>Using the T-tools for randomization: For the given group we have the
+t-statistic = <code class="language-plaintext highlighter-rouge">(4.14-0)/1.42 = 2.92</code>. This gives a 0.0027 p-value when
+looked up on a t-distribution of 45 dofs.</p>
+
+<p>The above describes “[1] for randomization”.</p>
+
+<p>Using the randomization procedure and a computer simulation with 500
+random assignments of the people into the two groups, the real p-value
+is 0.002.</p>
+
+<!-- We would like to compare this to the "actual". In chapter 1, there is -->
+<!-- an estimation of the p-value based on the randomization -->
+<!-- procedure. This is 0.004 one-sided p-value. This is obtained by -->
+<!-- looking at all randomizations of the creativity scores and the -->
+<!-- resulting difference between the two groups and comparing how often a -->
+<!-- number as high as 4.14 is obtained. -->
+
+<!-- 0.0027 and 0.004 both seem to give the same conclusion if we assume a -->
+<!-- cutoff of 5%. but the values as such are different (48% off). The text -->
+<!-- book however uses another number to compare to 0.0027. It uses the -->
+<!-- p-value from the randomization procedure not of the creativity scores -->
+<!-- but of the t-ratio. And then the p-value is 0.002. -->
+
+<p><strong>Definition</strong>: The actual p-value and the approximation as a result
+of [1], seem to be quite close (35% error). All we need for t-tools is
+a table of values. But to determine actual values you need a computer
+to perform randomizations. Hence it is a useful approximation.</p>
+
+<p><strong>Checklist</strong>: yes; true;
+<em>example-matching-definition</em>; <em>time</em>;</p>
+
+<hr />
+
+<p><strong>Claims</strong>: [1] for random sampling is a useful approximation.</p>
+
+<p>Just as above was done for randomizations we can establish one for
+random sampling based on the sex discrimination study; Not done in the
+book. I skip this for now.</p>
+
+<p><strong>Checklist</strong>: yes; true;
+<em>no-example</em>;</p>
+
+<hr />
+
+<blockquote>
+  <p>The (randomization-based procedure)[1] (to determine the CI) relies
+on (a relationship between testing and confidence intervals)[2]: Any
+hypothesized parameter value should be included or excluded from
+100(1-alpha)% confidence interval according to whether its test
+yields a two-sided p-value that is greater than or less than alpha.</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] to determine the CI relies on testing and CI.</p>
+
+<p><strong>Subject</strong>: What [1] relies on.</p>
+
+<p><strong>Predicate</strong>: relies on testing and CI.</p>
+
+<p><strong>Example</strong>: We look at the same creativity study.</p>
+
+<p>The “randomization procedure to determine the CI” ([1]) of creativity
+study starts with looking at one value of delta.</p>
+
+<p>Let’s say delta=5. We subtract 5 from all scores in the intrinsic
+group. Now with this homogeneous mixture, we perform the randomization
+and check if the estimate has a greater probability than the two-sided
+p-value. If so, then that delta=5 is within the 95% confidence
+interval.</p>
+
+<p>By trial and error we keep shifting delta’s value to find the limits
+of this 95% CI.</p>
+
+<p><strong>Definition</strong>: This procedure has 2 parts to it. First step involves:
+Taking each hypothesized parameter value (delta=5) and then TESTING if
+that probability of delta value is likely (i.e., &gt;5% p-value). The
+second step involves: doing this until you find the CI limits.</p>
+
+<p>TESTING over and over again seems to lead CI. Claim checks out.</p>
+
+<p><strong>Checklist</strong>: yes; true;
+<em>example-matching-definition</em>; <em>time</em>; <strong>Pattern</strong>: “CI-testing”;
+“randomization based procedure”;</p>
+
+<hr />
+
+<p><strong>Claims</strong>: There is a (relationship between testing and confidence
+intervals)[1].</p>
+
+<p><em>I don’t have an example for this. I don’t understand how to give
+example for [1]. CI and Testing are connected as shown above. But
+that’s all I can tell right now.</em></p>
+
+<p><em>This is really hard. How long it takes to understand this is still
+puzzling. &gt;3hrs easily and no answer. How to show the relationship is
+unclear in this case.</em></p>
+
+<p><strong>Checklist</strong>: yes; neither; 
+<em>no-example</em>; <em>failed</em>; <em>time</em>; (&gt;3 hrs) <strong>Pattern</strong>: “relationship”;
+“testing”; “CI”</p>
+
+<hr />
+
+<h3 id="25-related-issues">2.5 Related issues</h3>
+
+<p><strong>Claims</strong>: It is difficult and unwise to decide on absolute cutoff
+points for p-values in all situations.</p>
+
+<p><strong>Subject</strong>: How difficult and unwise, absolute cutoff points for
+p-values is.</p>
+
+<p><strong>Predicate</strong>: are difficult and unwise</p>
+
+<p><strong>Example</strong>: <del>If we take the absolute cutoff point to be 5%, and we get
+a sample with 5.1% p-value then we accept the null hypothesis. If we
+get 4.9%, then we are going to reject the null hypothesis.</del></p>
+
+<p><del>Although important for leading to advances in the theory of
+statistics. The rejection region approach has largely been discarded
+for practical applications and p-values are reported instead.</del></p>
+
+<p><em>I don’t have an actual example for this.</em></p>
+
+<p><strong>Definition</strong>: <del>Looks like choosing 5% and saying it is valid for
+all cases as a hard cut-off seems to be difficult. Also choosing 5%
+seems to be unwise as this would result in 2 very close percentages
+being interpreted completely differently.</del></p>
+
+<p><strong>Checklist</strong>: yes; true;
+<em>no-example</em>;</p>
+
+<p><em>Writing out the subject and predicate is not overrated
+after all. helps me decide what I need to give an example for.</em></p>
+
+<hr />
+
+<p><strong>Claims</strong>: p-values can be comprehended by comparing them to events
+whose probabilities are more familiar.</p>
+
+<p><strong>Subject</strong>: Comparing p-values to events whose probabilities are more
+familiar</p>
+
+<p><strong>Predicate</strong>: makes them comprehensible.</p>
+
+<p><strong>Example</strong>: We look at the probabilities with respect to a fair
+coin.<br />
+p(4 heads in a row) = 6.3%<br />
+P(5 heads in a row) = 3.1%<br />
+P(6 heads in a row) = 1.5%<br />
+P(10 heads in a row) = 0.1%</p>
+
+<p>If we get a p-value of 0.1% we think that it is “rare”? Why? Unable to
+test claim.</p>
+
+<p>I suspect or remember reading somewhere, that p-value cutoffs are
+intentionally different for different scenarios (unverified
+claim). Whereas in the above we are comparing one p-value in one
+scenario to another p-value in say genetics or something.</p>
+
+<p><strong>Definition</strong>: I don’t know what “comprehensible” means here or how
+to check it. Also, I am afraid it is dangerous to compare two p-values
+from 2 different scenarios.</p>
+
+<p><strong>Checklist</strong>: yes; neither;
+<em>no-example</em>; <em>time</em>; <em>failed</em>; <em>definition-unclear</em>; <em>very very hard</em>;
+<strong>Pattern</strong>: “comprehended”; “comparing”; “p-values”</p>
+
+<hr />
+
+<p><strong>Claims</strong>: The actual confidence levels are not important for some
+cases.</p>
+
+<p><strong>Example</strong>: Experiments were made to understand the value of the
+parameter “general relativity” (gamma) and to see who was
+right. Newton made a <code class="language-plaintext highlighter-rouge">0</code> prediction and Einstein made a prediction
+of 1. A graph showing the value of gamma over several years of
+experimentation, shows values ranging from 0.6 to 1.2 in 1920, to 0.95
+to 1.05 in 1985. Just this was enough to show that the value of gamma
+was closer to one than <code class="language-plaintext highlighter-rouge">0</code> from 1920 to 1985.</p>
+
+<p><strong>Definition</strong>: The whole spread of the gamma values shows that in
+1920 the value was close to 1 rather than 0. The CI was not important
+here but just the whole spread of values was taken.</p>
+
+<p><strong>Checklist</strong>: yes; true;</p>
+
+<hr />
+
+<h2 id="chapter-3-a-closer-look-at-assumptions-2">Chapter 3 a closer look at assumptions (2)</h2>
+<h3 id="311-cloud-seeding-to-increase-rainfall-1">3.1.1 Cloud seeding to increase rainfall (1)</h3>
+
+<blockquote>
+  <p>(Massive injection of silver iodide into cumulus clouds)[1] can lead to
+(increased rainfall)[2].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] can lead to [2].</p>
+
+<p><strong>Example</strong>:  Clouding seeding to increase rainfall randomized
+experiment:</p>
+
+<p>On 52 days that were deemed suitable for cloud seeding, a random
+mechanism was used to decide whether to seed the target on that day
+or to leave it unseeded as a control. An airplane flew in either
+cases. Precipitation was measured on those 52 days.</p>
+
+<p>Estimate = 3.1 times as large as when not seeded. 95% CI is 1.3 times
+to 7.7 times.</p>
+
+<p><strong>Definition</strong>: Since randomization was used, it is safe to infer
+causality. Checks out.</p>
+
+<p><strong>Checklist</strong>: yes; true;</p>
+
+<h3 id="312-effects-of-agent-orange-on-troops-in-vietnam-2">3.1.2 Effects of Agent Orange on Troops in Vietnam (2)</h3>
+
+<blockquote>
+  <p>Dioxin levels tends to be higher for the Vietnam veterans than for
+the non-Vietnam veterans.</p>
+</blockquote>
+
+<p><strong>Claims</strong>: Dioxin levels in Vietnam Veterans than the non-Vietnam
+veterans is higher</p>
+
+<p><strong>Example</strong>: Agent Orange Study :</p>
+
+<p>In a non-randomly selected sample of 646 Vietnam veterans who served
+in Vietnam in most heavily treated regions with Agent Orange (Dioxin)
+were selected as the test group. 97 non-Vietnam veterans who served in
+US and Germany were the control. Blood tests were done on Dioxin
+levels reported.</p>
+
+<p>A one-sided p-value of 0.4 for the null hypothesis was obtained.</p>
+
+<p><strong>Definition</strong>: The p-value of 40% informs that there is not
+sufficient evidence to conclude that the levels are higher for the
+test group than the control.</p>
+
+<p><strong>Caveat</strong>: As the sample was not randomly selected, we need to
+investigate more. For example, non-participating Vietnam veterans may
+have failed to participate because of dioxin-related illnesses. At
+best we can say there isn’t sufficient evidence and that the results
+could be seriously biased.</p>
+
+<p><strong>Checklist</strong>: yes; neither;</p>
+
+<hr />
+
+<blockquote>
+  <p>Inference to populations is speculative.</p>
+</blockquote>
+
+<p><em>Not sure how to give an example in this context as there is no data
+of the true reality to compare with (here). However we have seen
+before that without randomness inference to population is
+speculative.</em></p>
+
+<p><strong>Checklist</strong>: yes; neither;<br />
+<em>no-example</em>;</p>
+
+<h3 id="321-the-meaning-of-robustness-2">3.2.1 The meaning of robustness (2)</h3>
+
+<blockquote>
+  <p>Actual conditions did not seem to match the ideal models upon which
+t-tools are based for both studies.</p>
+</blockquote>
+
+<!-- I need to probably look at normality and maybe SD of the two groups -->
+<!-- and also the independence. As those are the three points they talk -->
+<!-- about in the 3rd chapter. In the second chapter though, they only -->
+<!-- discuss normality as a formality. -->
+
+<p><strong>Claims</strong>: The conditions of the Seeded Rainfall study do not match
+the ideal model on which t-tools are based upon.</p>
+
+<p><strong>Example</strong>: When we look at the box plots of the Seeded and Unseeded
+samples (n=26), we see that the box plots has outliers at 2500 units,
+when the median is at 250 units and the 75th percentile is at 750
+units. There is ~15% of outliers, making it NON-NORMAL (highly skewed).</p>
+
+<p>In addition the SD seen for now as the distance between 25th and 75th
+percentile in the box plot are ranging from 0 to 750 units in the
+“Seeded” group and 0 to 450 units in the other group. I.E., different
+SD’s for different groups.</p>
+
+<p><strong>Definition</strong>: Checks out that the normality is not met along with
+the standard deviations of the populations being not equal (In this case it
+is only possible to measure the standard deviation of the sample).</p>
+
+<p><strong>Checklist</strong>: yes; true.</p>
+
+<hr />
+
+<!-- *One thing I realize now that I don't know is how they are able to -->
+<!-- comment on the population based on the sample. The t-tools are based -->
+<!-- on population normality equal sd and independence* -->
+
+<p><strong>Claims</strong>: The conditions of the Agent Orange study do not match the
+ideal model on which t-tools are based upon.</p>
+
+<p><strong>Example</strong>: We look at the box plot of the Vietnam study. We see
+again similar trends in outliers as in the last example. The outliers
+are &gt;4times the 75th percentile. AKA making making it NON-normal.</p>
+
+<p>Looking at the SD or spread, it appears that for both groups the range
+is same about: 0 to 8 units.</p>
+
+<p><strong>Definition</strong>: Checks out! Only the non-normality is not met.</p>
+
+<p><strong>Checklist</strong>: yes;true</p>
+
+<h3 id="322-robustness-against-departures-from-normality-6">3.2.2 Robustness Against Departures from normality (6)</h3>
+
+<blockquote>
+  <p>Underlying normality is not a serious issue, as long as sample size
+are reasonably large.</p>
+</blockquote>
+
+<p><em>no-example</em>; but it should be possible to simulate in a computer if needed.</p>
+
+<blockquote>
+  <p>Many empirical investigations and related theory, however confirm
+that the t-tools remain reasonably valid in large samples</p>
+</blockquote>
+
+<p><em>no-example</em> (in the book). But can be simulated in a computer if needed.</p>
+
+<blockquote>
+  <p>If the two populations have same (SD and approximately shapes)[1],
+and if the (sample sizes)[2] are equal, then the (validity of the
+t-tools)[3] is affected moderately by (long-tailedness)[4] and very
+little by (skewness)[5].</p>
+</blockquote>
+
+<!-- > If the two populations have the same standard deviations and -->
+<!-- > approximately the same shapes, but if the sample sizes are not -->
+<!-- > approximately the same, then the validity of the t-tools is affected -->
+<!-- > moderately by long-tailedness and substantially by skewness. The -->
+<!-- > adverse effects diminish, however, with increasingly large sample -->
+<!-- > sizes. -->
+
+<!-- > If the skewness in the two populations differs considerably, the -->
+<!-- > tools can be very misleading with small and moderate sample sizes. -->
+
+<p><strong>Claims</strong>: If [1] is same, and if [2] is equal, then [3] is affected
+moderately by [4].</p>
+
+<p><strong>Example</strong>: 1000 computer simulations involving a success criterion
+that 95% of the simulations will contain the parameter of interest
+were performed. All the populations have the same SD and same sample
+sizes.</p>
+
+<p>For a given sample size and SD being equal in the population, we see
+that using t-tools we get the following:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Sample size</th>
+      <th>Long tail</th>
+      <th>Short tail</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>5</td>
+      <td>98.3%</td>
+      <td>94.5%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><em>I suspect that you are going to ask me what Long tail and short tail
+means. The book has some pictures of how it could look but does not
+provide actual rules of thumb to identify them.</em></p>
+
+<p><img src="./images/images-DP-11/non-normal.png" alt="non-normal" /></p>
+
+<p><strong>Definition</strong>: Looking at the output it looks like the output is good
+for both short tailed and longtailed non-normal distributions. I am
+not sure it affects at all, let alone moderately. 94.5% is pretty darn
+close to 95% (which is the criterion for success).</p>
+
+<p><em>But the book seems to suggest otherwise: “Only the long-tailed
+distribution appears to have success rates poor enough to cause
+potentially misleading statements.”</em></p>
+
+<p><strong>Checklist</strong>: yes; FALSE;
+<em>example-matching-definition</em>; <em>unsure</em>; (book says otherwise);</p>
+
+<hr />
+
+<p><strong>Claims</strong>: If [1] is same, and if [2] is equal, then [3] is affected
+very little by [5].</p>
+
+<p><strong>Example</strong>: Same example but this time we look at the skewedness.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Sample size</th>
+      <th>strongly skewed</th>
+      <th>mildly skewed</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>5</td>
+      <td>95.5%</td>
+      <td>95.2%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Definition</strong>: Looks like it is barely affected as expected in the claim.</p>
+
+<!-- *Until I actually wrote this, I totally believed their claim.* -->
+
+<hr />
+
+<p><strong>Claims</strong>: If [1] is same, and if [2] is NOT equal, then [3] is affected
+moderately by [4].</p>
+
+<p><strong>Example</strong>: Example not available for this case.</p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: yes; neither;
+<em>no-example</em></p>
+
+<hr />
+
+<p><strong>Claims</strong>: If [1] is same, and if [2] is NOT equal, then [3] is
+affected substantially by [5].</p>
+
+<p><strong>Example</strong>: Example not available for this case.</p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: yes; neither; 
+<em>no-example</em></p>
+
+<hr />
+
+<p><strong>Claims</strong>: If [5] between the two populations differs considerably,
+then the tools can be very misleading with small [2].</p>
+
+<p><strong>Example</strong>: <em>no-example</em></p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: yes; false; 
+<em>no-example</em>;</p>
+
+<hr />
+
+<p><strong>Claims</strong>: If [5] differs considerably, then the tools can be
+misleading with moderate [2].</p>
+
+<p><strong>Example</strong>: -</p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: yes; false;
+<em>no-example</em>;</p>
+
+<hr />
+
+<blockquote>
+  <p>Of the five distributions examined, only the long-tailed
+distribution appears to have success rates that are poor enough to
+cause potentially misleading statements—and even those are not too
+bad.</p>
+</blockquote>
+
+<p><strong>Example</strong>:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>size</th>
+      <th>strg. skewed</th>
+      <th>Mod. skewed</th>
+      <th>mild. skewed</th>
+      <th>longtailed</th>
+      <th>shorttailed</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>5</td>
+      <td>95.5%</td>
+      <td>95.4%</td>
+      <td>95.2%</td>
+      <td>98.3%</td>
+      <td>94.5%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Definition</strong>: The longtailed distribution appears to have only
+higher success rates than shorttailed. <em>How is that having poor
+success rates.</em> No Idea.</p>
+
+<p><strong>Checklist</strong>: yes; false; 
+<em>example-matching-definition</em>; <em>unsure</em>; (book says otherwise);</p>
+
+<h3 id="323-robustness-against-differing-standard-deviations-3-4">3.2.3 Robustness Against Differing Standard Deviations (3-4)</h3>
+
+<blockquote>
+  <p>In this case, the pooled estimate of standard deviation does not
+estimate any population parameter and the standard error formula
+which uses the pooled estimate of sd, no longer estimates the sd of
+the difference between sample averages.</p>
+</blockquote>
+
+<p><em>no-example</em> but can be tested using simulations.</p>
+
+<hr />
+
+<blockquote>
+  <p>(t-tools)[1] remain fairly valid when the (standard deviations are
+unequal)[2], as long as the (sample sizes are roughly the same)[3].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: If [2] and [3], then [1] remain fairly valid.</p>
+
+<p><strong>Example</strong>: A computer simulation involving two populations that have
+different std.deviations but are normal, turns out as below:</p>
+
+<p>For n1=10 and n2=10, and sigma2/sigma1=1/4 ([2]); success rate as a result
+of simulation is 95.2%.</p>
+
+<p><strong>Definition</strong>: [1] remains fairly valid due to the 95% success rate.</p>
+
+<p><strong>Checklist</strong>: yes; true;</p>
+
+<hr />
+
+<blockquote>
+  <p>(For substantially different sigma’s and different n’s the CI are
+unreliable)[1] (the worst situation is when the ratio of the sd is much
+different from one another, and the smaller sized sample is from the
+population with the larger sd)[2].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1].</p>
+
+<p><strong>Example</strong>:</p>
+
+<p>A computer simulation involving two populations that have
+different std.deviations but are normal.</p>
+
+<p>For n1=10 and n2=40, and sigma2/sigma1=1/4; success rate as a result
+of simulation is 71%.</p>
+
+<p><strong>Definition</strong>: unreliable indeed.</p>
+
+<p><strong>Checklist</strong>: yes; true;</p>
+
+<hr />
+
+<p><strong>Claims</strong>: [2].</p>
+
+<p><strong>Example</strong>:  Based on 1000 computer simulations on normal distributions.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>n1</th>
+      <th>n2</th>
+      <th>sd2/sd1</th>
+      <th>sd1/sd2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>10</td>
+      <td>40</td>
+      <td>71%</td>
+      <td>99%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Definition</strong>: checks out!</p>
+
+<p><strong>Checklist</strong>: yes; false;</p>
+
+<hr />
+
+<h3 id="3241-cluster-effects-and-serial-effects-2-3">3.2.4.1 Cluster effects and Serial effects (2-3)</h3>
+
+<blockquote>
+  <p>Cluster effect occurs sometimes when the data have been collected in
+sub groups. For example, 50 experimental animals may have been
+collected from 10 litters.</p>
+</blockquote>
+
+<p>I don’t know what this effect means or what the impact is.</p>
+
+<p><em>no-example</em></p>
+
+<blockquote>
+  <p>The serial effect: The other type of dependence commonly encountered
+is caused in which measurements are taken over time and observations
+close together in time tend to be more similar than observations
+collected at distant time points.</p>
+</blockquote>
+
+<p><em>no-example</em></p>
+
+<h3 id="3242-effects-of-lack-of-independence-3">3.2.4.2 Effects of lack of independence (3)</h3>
+
+<blockquote>
+  <p>When the independence assumptions are violated, the standard error of
+the difference of averages is an inappropriate estimate of the sd of
+the difference in averages.</p>
+</blockquote>
+
+<p><em>can be tested but I don’t know how to simulate
+dependence/independence</em>; <em>no-example</em></p>
+
+<blockquote>
+  <p>The t-ratio no longer has a t-distribution, and the t-tools may give
+misleading results.</p>
+</blockquote>
+
+<p><em>no-example</em></p>
+
+<blockquote>
+  <p>It is unwise to use t-tools directly if cluster of serial effects are
+suspected.</p>
+</blockquote>
+
+<p><em>no-example</em></p>
+
+<p><strong>Checklist</strong>: yes; neither;
+<em>no-example</em>; <em>failed</em>; (it is important to have examples about
+independence); <strong>Pattern</strong>: “independence”; “t-tools”;</p>
+
+<h3 id="331-outliers-and-resistance-3">3.3.1 Outliers and Resistance (3)</h3>
+
+<blockquote>
+  <p>Long-tailed population distributions are not the only explanation for
+outliers.</p>
+</blockquote>
+
+<p><strong>Example</strong>: Contamination could be another reason for an outlier.</p>
+
+<p>In the Agent Orange study about US veterans and Dioxin, 2 outliers are
+identified. The sample was about people who were in Vietnam in Orange rich
+zones. The two outliers in this study were, one of them was not exposed
+to herbicides during his stay in Vietnam. The other had 180 days of
+indirect military exposure to herbicides.</p>
+
+<p><strong>Definition</strong>: checks out</p>
+
+<p><strong>Checklist</strong>: yes; true.</p>
+
+<hr />
+
+<blockquote>
+  <p>It is irrelevant to distinguish between a natural long-tailed
+distribution and the one that includes outliers that result from
+contamination.</p>
+</blockquote>
+
+<p><em>no-example</em> <em>The idea is that it becomes irrelevant because they
+both don’t capture the group behavior. But how would I give an
+example for that?</em></p>
+
+<p><strong>Checklist</strong>: no; neither;<br />
+<em>no-example</em>; <em>failed</em>; <strong>Pattern</strong>: “irrelevant”</p>
+
+<blockquote>
+  <p>It is useful to know how sensitive a statistical procedure may be to
+one or two outlying observations.</p>
+</blockquote>
+
+<p><strong>Example</strong>: We comeback to the same Agent Orange data. We have two
+outliers here. The sample size is &gt;600 in the case of veterans in
+Vietnam.</p>
+
+<p>The one-sided p-value is 40% with all observations, 48% with one
+outlier removed and 54% with both outliers removed.</p>
+
+<p><strong>Definition</strong>: Although the conclusion didn’t change regarding
+rejecting or accepting an hypothesis, the variation is quite large
+between keeping outliers despite the large number of the sample.</p>
+
+<p>This example I think checks out that it is useful. I think this
+example is instrumental in showing the havoc, outliers can breathe
+when values become closer to the “cutoff”(say 5%)</p>
+
+<p><strong>Checklist</strong>: yes; true;</p>
+
+<h3 id="332-resistance-of-t-tools-2">3.3.2 Resistance of t-tools (2)</h3>
+
+<blockquote>
+  <p>Since t-tools are based on averages, they are not resistant</p>
+</blockquote>
+
+<p><strong>Claims</strong>: t-tools are not resistant to outliers</p>
+
+<p><strong>Example</strong>: <del>In a hypothetical sample of 10,20,30,50,70, the sample
+average is 36, and the sample median is 30. Now change the 70 to 700,
+and we see that the average becomes 162, but the sample median remains
+30.</del></p>
+
+<p><em>no-example</em>; Can be simulated.</p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: yes; true; 
+<em>no-example</em>;</p>
+
+<hr />
+
+<blockquote>
+  <p>one or two outliers can affect the CI or change the p-value enough
+to completely alter a conclusion.</p>
+</blockquote>
+
+<p><em>no-example</em></p>
+
+<h3 id="341-consider-serial-cluster-effects-1">3.4.1 Consider Serial cluster effects (1)</h3>
+
+<blockquote>
+  <p>Were the subjects selected in distinct groups? Were different Groups
+of subjects treated differently in a way that was unrelated to the
+primary treatment? Were different responses merely repeated
+measurements of the same subjects? Were observations taken at
+different but proximate times or locations? Affirmative answers to any
+of these questions suggest that independence may be lacking.</p>
+</blockquote>
+
+<p><strong>Claims</strong>: If the answer to above questions is yes then it suggests
+that independence may be lacking.</p>
+
+<p><strong>Checklist</strong>: yes; neither;
+<em>no-example</em>; <em>definition-unclear</em>; <em>failed</em> (<em>should know how to check for
+independence but not given in the text clearly</em>); <strong>Pattern</strong>: “independence”;</p>
+
+<hr />
+
+<h3 id="342-evaluate-the-suitability-of-the-t-tools-1">3.4.2 Evaluate the suitability of the t-tools (1)</h3>
+
+<blockquote>
+  <p>A (transformation)[2] should be considered if the (graphical displays of
+the transformed data appear to be closer to the ideal conditions)[1].</p>
+</blockquote>
+
+<p><strong>Subject</strong>: If [1], Should [2] be done?</p>
+
+<p><strong>Predicate</strong>: should be considered.</p>
+
+<p><strong>Example</strong>: We go back to the Cloud seeding case study. We see in the
+normal box plots that both the groups look “skewed”. And the spread
+(SD) looks much larger for the seeded one.</p>
+
+<p>When we make this into a logarithm chart we see that immediately the
+spreads look very similar (SD similar), the skewness vanishes (closer to
+normal looking). These are conditions that are close to what the
+t-tools are created based on.</p>
+
+<p><img src="./images/images-DP-11/seeded.png" alt="cloud" /></p>
+
+<p><strong>Definition</strong>: Checks out. We should consider it as the
+transformation could make your data look more applicable to the
+t-tools.</p>
+
+<p><em>Something more nicer would be to check the results of using the
+actual values and the transformed values and seeing how different the
+results are.</em></p>
+
+<p><strong>Checklist</strong>: yes; true;</p>
+
+<hr />
+
+<h3 id="343-a-strategy-for-dealing-with-outliers-2">3.4.3 A strategy for Dealing with Outliers (2)</h3>
+
+<blockquote>
+  <p>If investigation reveals that an outlying observation was recorded
+improperly or was the result of contamination from another population,
+the solution is to correct it if the right value is known or to leave
+it out.</p>
+</blockquote>
+
+<p><strong>Example</strong>: We comeback to the same Agent Orange study. We have two
+outliers here. The sample size is &gt;600 in the case of veterans in
+Vietnam.</p>
+
+<p>The one-sided p-value is 40% with all observations, 48% with one
+outlier removed and 54% with both outliers removed.</p>
+
+<p>Here even though it does not affect the conclusion of this study, the
+variation in the p-value is 14%.</p>
+
+<p><strong>Definition</strong>: Quite a large variation, and by removing them we are
+more closer to the truth (without contaminants).</p>
+
+<p><em>This is the best example I have, unfortunately it doesn’t show a
+failing case.</em></p>
+
+<p><strong>Checklist</strong>: yes; neither;</p>
+
+<hr />
+
+<blockquote>
+  <p>An important aspect of adopting this procedure is that an outlier
+does not get swept under the rug simply <del>because it is different from
+the other observations.</del></p>
+</blockquote>
+
+<p><strong>Claims</strong>: Using careful examination as shown in fig.3.7, we prevent
+contaminants from influencing the result.</p>
+
+<p><strong>Subject</strong>: Prevention of using careful examination</p>
+
+<p><strong>Predicate</strong>: prevent contaminants from influencing the result.</p>
+
+<p><strong>Example</strong>: We take the same example as before. We find the
+contaminants and remove them there by not allowing the contaminants to
+affect the result.</p>
+
+<p><strong>Definition</strong>: Checks out.</p>
+
+<p><strong>Checklist</strong>: yes;true; 
+<em>subject-predicate-split</em>; <em>unsure</em>; <em>time</em>; (15 mins); “Using XYZ, we
+do ABC”</p>
+
+<hr />
+
+<h3 id="344-agent-orange-2">3.4.4 Agent orange (2)</h3>
+
+<blockquote>
+  <p>the skewness is mild and unlikely to cause any problems with the
+t-test or the CI (for the Agent orange study)</p>
+</blockquote>
+
+<p><strong>Claims</strong>: The skewness in Agent Orange study is mild</p>
+
+<p><strong>Example</strong>: We look at the skewness below (pg67). Here the tail is
+long on one side and there seems to be a relatively smaller tail on
+the other side.</p>
+
+<p><img src="./images/images-DP-11/agent-orange.png" alt="agent-orange" /></p>
+
+<p><strong>Definition</strong>: Looking at the picture below (pg61) describing mild
+skewness, we see that a mild skewness looks such that there are tails
+on both sides, but the tail on one side is shorter.</p>
+
+<p><em>Yes it seems quite subjective, as the book does not seem to want to
+quantify it</em></p>
+
+<p><img src="./images/images-DP-11/skew.png" alt="skew" /></p>
+
+<p><strong>Checklist</strong>: yes; true.</p>
+
+<hr />
+
+<p><strong>Claims</strong>: The skewness is unlikely to cause any problems with t-test
+or the CI.</p>
+
+<p><strong>Example</strong>: <em>It is possible to run a computer simulation on a similar
+problem based on this skewness and number of units in a sample, to
+test it. But not for this exact study.</em></p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: yes; neither
+<em>no-example</em></p>
+
+<h3 id="351-the-logarithmic-transformation-1">3.5.1 The Logarithmic Transformation (1)</h3>
+
+<blockquote>
+  <p>The most useful transformation is the logarithm for positive data.</p>
+</blockquote>
+
+<p><em>It is unclear against what dimensions this is most useful. I could
+probably show in an example, say with the Vietnam war study, that log
+works better in this case, but going to MOST from here I have no idea
+how to go about it.</em></p>
+
+<p><strong>Checklist</strong>: yes; neither; most; 
+<em>no-example</em> ;<em>failed</em>; <strong>Pattern</strong>: <em>most</em>; “lack-of-examples”</p>
+
+<h3 id="3511-recognizing-the-need-for-log-5">3.5.1.1 Recognizing the need for Log (5)</h3>
+
+<blockquote>
+  <p>The data themselves usually suggest the need for a log
+transformation. If the ratio of the largest to the smallest
+measurement in a group is greater than 10, then the data are
+probably more conveniently expressed on the log scale. If the
+(graphical displays of the two samples show them both to be skewed)[1]
+and if (the group with the larger average also has the larger spread)[2],
+the (log transformation)[3] is likely to be a good choice.</p>
+</blockquote>
+
+<p><strong>Claims</strong>:  If [1] and [2], then [3] is a good choice.</p>
+
+<p><strong>Example</strong>: We take the cloud seeding example. We plot the box plot
+and see that the data is “moderately skewed” (according to some
+graphical display on pg61). Also the seeded group has much larger
+spread (median @250 and extreme at 2500), than unseeded (median @150
+and extreme at 1250).</p>
+
+<p>Taking log transforms we get two groups that have the same spread and
+very little skewness.</p>
+
+<p><img src="./images/images-DP-11/seeded.png" alt="seeded" /></p>
+
+<p><strong>Definition</strong>: The initial groups aren’t expected to work with
+t-tools due to long-tailedness of the sample (as seen before). After
+transformation they would work with t-tools as there is no skewness or
+long-tailedness and both groups have the same spread, which is what
+the t-tools can work reliably on (as seen before).</p>
+
+<p><strong>Checklist</strong>: yes; true;
+<em>example-matching-definition</em>; <em>time</em> (20mins).</p>
+
+<hr />
+
+<blockquote>
+  <p>The overall result is that the (two distributions on the transformed
+scale)[1] appear to be (symmetric and have equal spread)[2]— just the right
+conditions for applying the t-tools.</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] appears to be [2].</p>
+
+<p><strong>Example</strong>: Same example as above.</p>
+
+<p><strong>Definition</strong>: checks out.</p>
+
+<p><strong>Checklist</strong>: yes; true</p>
+
+<hr />
+
+<p><strong>Claims</strong>: If two distributions have symmetric and equal spread, then
+they have right conditions for applying t-tools.</p>
+
+<p><strong>Example</strong>: <em>Don’t have an example. A computer simulation providing
+the success rate would be the check.</em></p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: yes; neither;
+<em>no-example</em></p>
+
+<hr />
+
+<blockquote>
+  <p>Small numbers get spread out more, while large numbers are squeezed
+more closely together (as a result of log transformation)</p>
+</blockquote>
+
+<p><strong>Example</strong>: If you look at a log plot and divide it equally… then
+this is what you see…</p>
+
+<p>1-10 say corresponds to 2units. 10 to 100 has the same 2 units. And
+100 to 1000 has the same 2 units. It can be visualized in the previous
+figure.</p>
+
+<p><strong>Definition</strong>: checks out!</p>
+
+<p><strong>Checklist</strong>: yes; true</p>
+
+<hr />
+
+<h3 id="352-interpretation-after-a-log-transformation-1">3.5.2 Interpretation after a Log Transformation (1)</h3>
+
+<blockquote>
+  <p>For some measurements, the results of an analysis are appropriately
+presented on the transformed scale.</p>
+</blockquote>
+
+<p><strong>Example</strong>: The Richter scale is used to measure earthquakes’
+strength.</p>
+
+<p><strong>Definition</strong>: checks out.</p>
+
+<p><strong>Checklist</strong>: yes; true;</p>
+
+<hr />
+
+<h3 id="3522-population-model-5">3.5.2.2 Population model (5)</h3>
+
+<blockquote>
+  <p>Taking the (antilogarithm of the estimate of the mean on the log
+scale)[1] does not give (an estimate of the mean on the original
+scale)[2].</p>
+</blockquote>
+
+<p><strong>Example</strong>: For [1] : we get 169.01 for the seeded case in the
+cloud seeding example.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>exp(mean(df$lograin[df$Treatment=="Seeded"]))
+</code></pre></div></div>
+
+<p>For [2], we compute the mean of the rainfall in the original scale = 441</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>mean(df$Rainfall[df$Treatment=="Seeded"])
+</code></pre></div></div>
+
+<p><strong>Definition</strong>: Checks out!</p>
+
+<p><strong>Checklist</strong>: yes; true; 
+<em>definition-unclear</em>; <em>time</em> (20mins); <strong>Pattern</strong>: “long phrases?”</p>
+
+<hr />
+
+<blockquote>
+  <p>If, log-transformed data have symmetric distributions, then 
+Mean[logY] = Median[logY]</p>
+</blockquote>
+
+<p><strong>Example</strong>:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>summary(df$lograin[df$Treatment=="Seeded"])
+Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+1.411   4.581   5.396   5.134   6.001   7.918
+</code></pre></div></div>
+
+<p><strong>Definition</strong>: Although this treatment does not result in totally
+symmetric distribution (still has a small tail on one side), it still
+manages to keep the median and mean close by. So good enough and
+checks out.</p>
+
+<p><strong>Checklist</strong>: yes; true;</p>
+
+<hr />
+
+<blockquote>
+  <p>It is evident that (the anti logarithm of the mean of the log
+values)[1] is the (median on the original scale of measurements)[2].</p>
+</blockquote>
+
+<p><strong>Example</strong>: We think of the same cloud seeding example:</p>
+
+<p>For [1] we think of</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>exp(mean(df$lograin[df$Treatment=="Unseeded"]))
+= 54
+</code></pre></div></div>
+
+<p>For [2] we think of</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>median(df$Rainfall[df$Treatment=="Unseeded"])
+= 44
+</code></pre></div></div>
+
+<p><strong>Definition</strong>:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>summary(df$Rainfall[df$Treatment=="Unseeded"])
+Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+1.00   24.82   44.20  164.59  159.20 1202.60 
+</code></pre></div></div>
+
+<p>The data taken is not fully symmetric. It still has some
+tails. Despite that [1] is a close match to the median in the normal
+scale.</p>
+
+<p><strong>Checklist</strong>: yes;true;</p>
+
+<hr />
+
+<blockquote>
+  <p>A problem with interpretation on the original scale arises</p>
+</blockquote>
+
+<p><strong>Claims</strong>: (A problem)[0] with (interpretation on the original
+scale)[2] arises if we use (log transformation)[1].</p>
+
+<p><strong>Subject</strong>: If [1], Is [2] expected to arise?</p>
+
+<p><strong>Predicate</strong>: yes.</p>
+
+<p><strong>Example</strong>:</p>
+
+<p>In the case of log transformation (as shown in the previous example):</p>
+
+<p>For [2], we think of the previous example where the ‘antilog of mean
+of log values’ is the median in the original scale and NOT THE MEAN.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>#antilog of mean of log
+exp(mean(df$lograin[df$Treatment=="Unseeded"]))
+= 54
+
+#Actual mean and median
+summary(df$Rainfall[df$Treatment=="Unseeded"])
+Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+1.00   24.82   44.20  164.59  159.20 1202.60 
+</code></pre></div></div>
+
+<p><strong>Definition</strong>: Whether it is a problem I am not sure. I think the
+author just wanted to inform that you wont get the MEAN anymore in the
+original scale, after the log transformation—which is true. So I say
+it checks out.</p>
+
+<p><strong>Checklist</strong>: yes; true;
+<em>example-matching-subject</em>; <em>time</em>; <strong>Pattern</strong>: “interpretation”; “original-scale”</p>
+
+<hr />
+
+<blockquote>
+  <p><code class="language-plaintext highlighter-rouge">exp(Z2bar-Z1bar)</code>estimates <code class="language-plaintext highlighter-rouge">Median(Y2)/Median(Y1)</code></p>
+</blockquote>
+
+<p><strong>Claims</strong>: ^^</p>
+
+<p><strong>Example</strong>: <em>Either I can simulate and show this using computer
+simulations in R. OR I provide the proof as in the text book. Proof is
+not an example. So the best I can do is a Computer simulation. I skip
+these type of simulations now</em></p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: yes; neither;
+<em>no-example</em>;</p>
+
+<hr />
+
+<blockquote>
+  <p>The point of the above is that a very useful multiplicative
+interpretation emerges in terms of the ratio of population medians.</p>
+</blockquote>
+
+<p><strong>Claims</strong>: (Multiplicative interpretation in terms of the ratio of
+population medians)[1], emerges from the (previous claim)[2].</p>
+
+<p><strong>Question</strong>: Does [1] emerge from [2].</p>
+
+<p><strong>Example</strong>: So basically there is a <code class="language-plaintext highlighter-rouge">log A - log B</code> which becomes
+<code class="language-plaintext highlighter-rouge">log[A/B]</code>. When you take the antilog you get ratio of A and B. I am
+not sure I can show this in an example. I don’t have an example.</p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: yes; neither; 
+<em>no-example</em>; <em>failed</em>; <em>time</em>; <em>example-matching-subject</em>; <em>failed</em>;
+<strong>Pattern</strong>: “A-emerges-from-B”; “related-to-derivation” (Very hard this was)</p>
+
+<hr />
+
+<p><strong>Claims</strong>: The emerged multiplicative interpretation is very useful.</p>
+
+<p><strong>Example</strong>: After using the log transformation and performing the
+t-test on the Cloud seeding data, we see that the confidence interval
+suggests that the rainfall is 1.27 times to 7.74 times higher in the
+case of seeded.</p>
+
+<p><strong>Definition</strong>: The log transformation seems to allow to interpret the
+original data in terms of ratio which is useful to understand the
+outcome. Not sure how it is “very useful”</p>
+
+<p><strong>Checklist</strong>: yes; neither;
+<em>definition-unclear</em>;</p>
+
+<hr />
+
+<blockquote>
+  <p>In addition, (back-transforming the ends of a confidence interval
+constructed on the log scale)[1] produces a (confidence interval for the
+ratio of medians)[2]</p>
+</blockquote>
+
+<p><strong>Example</strong>: No example.</p>
+
+<p><em>The only way to show this seems to be through a computer
+simulation. With the studies given in the book, it is not possible to
+tally this claim. For example, with the Cloud seeded study, I can
+compute the confidence intervals on the log scale and back transform
+it. To check if the number produces a CI of the ratio of medians I
+have nothing to check it against.</em></p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: yes; neither; 
+<em>no-example</em>;</p>
+
+<h3 id="3523-example-sex-discrimination-1">3.5.2.3 Example (sex discrimination) (1)</h3>
+
+<blockquote>
+  <p>Graphical displays of the log-transformed salaries indicate that
+analysis would also be suitable on the log scale.</p>
+</blockquote>
+
+<p><strong>Example</strong>: Looking at the male and female histograms</p>
+
+<ol>
+  <li><code class="language-plaintext highlighter-rouge">hist(df$logSalary[df$Sex=="Male"])</code></li>
+</ol>
+
+<p>Looks symmetric with very short tail (very little skewness and
+short-tailed histogram). The spread ranges from 8.4 to 9.0 = 0.6</p>
+
+<ol>
+  <li><code class="language-plaintext highlighter-rouge">hist(df$logSalary[df$Sex=="Female"])</code></li>
+</ol>
+
+<p>Has a small tail (mildly skewed and short-tailed histogram). The
+spread ranges from 8.26 to 8.74 =0.48</p>
+
+<p><strong>Definition</strong>: Both histograms seem to be close to normal and have
+similar spread which are roughly ideal conditions for applying
+t-tools, and hence make analysis also suitable for the log scale.</p>
+
+<p><strong>Checklist</strong>: yes; true.</p>
+
+<hr />
+<h3 id="353-other-transformations-for-positive-measurements-5">3.5.3 Other transformations for Positive measurements (5)</h3>
+
+<blockquote>
+  <p>There are other useful transformations for positive measurements
+with skewed distributions where the means and standard deviations
+differ between groups.</p>
+</blockquote>
+
+<p><em>no-example</em> <em>No example of actually applying another transformation
+is given.</em></p>
+
+<blockquote>
+  <p>The square root transformation applies to data that are counts.</p>
+</blockquote>
+
+<p><em>no-example</em></p>
+
+<blockquote>
+  <p>The reciprocal transformation 1/Y applies to data that are waiting
+time</p>
+</blockquote>
+
+<p><em>no-example</em></p>
+
+<blockquote>
+  <p>The arcsine square root transformation and the logit transformation
+apply when the measurements are proportions between zero and one.</p>
+</blockquote>
+
+<p><em>no-example</em></p>
+
+<blockquote>
+  <p>Only log gives such ease in converting inferences back to the
+original scale of measurement.</p>
+</blockquote>
+
+<p><em>no-example</em></p>
+
+<blockquote>
+  <p>Situations arise where presenting results in terms of population
+medians is not sufficient.</p>
+</blockquote>
+
+<p><em>no-example</em></p>
+
+<h3 id="361-prefer-graphical-methods-over-formal-tests-for-model-adequacy">3.6.1 Prefer Graphical Methods over Formal Tests for Model Adequacy</h3>
+
+<blockquote>
+  <p>Tests for normality and tests for equal sd are available in most
+computer programs.</p>
+</blockquote>
+
+<p><em>no-example</em></p>
+
+<blockquote>
+  <p>The diagnostic tests are not very helpful for model checking.</p>
+</blockquote>
+
+<p><em>no-example</em></p>
+
+<blockquote>
+  <p>Graphical displays provide a good indication of whether or not the
+data are amenable to t-analysis and, if not, they often suggest a
+remedy.</p>
+</blockquote>
+
+<p><strong>Subject</strong>: What Graphical displays provide</p>
+
+<p><strong>Predicate</strong>:  a good indication of … t-analysis</p>
+
+<p><em>Claim dealt with before with the seeded cloud study in section … ???</em></p>
+
+<p><strong>Claims</strong>: Graphical displays, when data are not amenable to
+t-analysis, often suggest a remedy.</p>
+
+<p><em>no-example</em></p>
+
+<hr />
+
+<h3 id="362-robustness-and-transformation-for-paired-t-tools-2">3.6.2 Robustness and Transformation for Paired t-Tools (2)</h3>
+
+<blockquote>
+  <p>When the (observations within each pair are positive)[1], either (an
+apparent multiplicative treatment effect (in an experiment))[2] or a
+tendency for larger differences in pairs with larger average values
+suggest the use of log transformation.</p>
+</blockquote>
+
+<p><em>Dealt with similar claim in section 3.5.1.1</em></p>
+
+<hr />
+
+<h3 id="summary-1">Summary (1)</h3>
+
+<blockquote>
+  <p>This is the situation where log-transformation confirms the adequacy
+of the transformation.</p>
+</blockquote>
+
+<p><em>claim discussed before in section 3.5.1.1</em></p>
+
+<hr />
+
+<h2 id="general-statistics">General statistics</h2>
+
+<p>Over the past 2 months I have been working on this and the essay on
+“working on failures”. It took a “lot of time” to read and work out
+the claims, identifying my failures, to find a way to make the
+first practice session, write some bash scripts etc… Also the books
+I took were a lot of work (10 claims per hour was very very rare). I
+can’t remember spending 2 months for roughly 250 claims. In between I
+also spent time to write some bash scripts that would process my
+failures and give me stats such as below:</p>
+
+<p><strong>Total claim:</strong> 136</p>
+
+<p><strong>Failed:</strong> 49 claims</p>
+
+<p><strong>Failure types</strong> as seen below:</p>
+
+<p><em>example-matching-definition</em>: 11</p>
+
+<p><em>no-example</em>: 23</p>
+
+<p><em>definition-unclear</em>: 2</p>
+
+<p><em>subject-predicate-split</em>: 1</p>
+
+<p><em>example-matching-subject</em>: 8</p>
+
+<p><em>because-should-due-to</em>: 2</p>
+
+<p>I guess the plan would be to take types where I have failed the most
+and practice them and follow it up with feedback if it has helped. How
+do we know if something has helped is to see a SCORE. So for example,
+if I see only 5 <em>no-example</em> failures instead of 23, in the next
+practice session of the same books then it would be considered an
+improvement in Score.</p>
+
+<p><strong>Over the last two months</strong></p>
+
+<p>Amount of effort (not just DPing) put on average per week (not only
+DPing): 20hrs per week or 2.8 hrs per day avg (Courtesy:Org-mode,
+PNN). Its not great, its not what I set out for in march which was 4
+hrs.</p>
+
+<h2 id="appendix-round-1">Appendix: Round 1</h2>
+
+<p>I try to count distractions (acronym:dist), and how much time I spend per
+phrase/claim, how much time I spend on reading etc…</p>
+
+<h3 id="superintelligence">Superintelligence</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>chapter</th>
+      <th>time</th>
+      <th>phrases</th>
+      <th>dist</th>
+      <th>claims</th>
+      <th>pages</th>
+      <th>mins/phr</th>
+      <th>mins/pg</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2.2</td>
+      <td>10</td>
+      <td>2</td>
+      <td>1</td>
+      <td>1</td>
+      <td>(6)</td>
+      <td>5</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>2.3</td>
+      <td>60</td>
+      <td> </td>
+      <td>5</td>
+      <td> </td>
+      <td>8</td>
+      <td> </td>
+      <td>7.5</td>
+    </tr>
+    <tr>
+      <td>2.3</td>
+      <td>21</td>
+      <td>2</td>
+      <td>0</td>
+      <td> </td>
+      <td>(8)</td>
+      <td>10</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>2.4</td>
+      <td>20</td>
+      <td> </td>
+      <td>1</td>
+      <td> </td>
+      <td>4</td>
+      <td> </td>
+      <td>6.25</td>
+    </tr>
+    <tr>
+      <td>2.5</td>
+      <td>15</td>
+      <td> </td>
+      <td>1</td>
+      <td> </td>
+      <td>3</td>
+      <td>5</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>2.4 2.5</td>
+      <td>20</td>
+      <td> </td>
+      <td>2</td>
+      <td> </td>
+      <td> </td>
+      <td>4</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>27</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>5</td>
+      <td> </td>
+      <td>5.4</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>60</td>
+      <td> </td>
+      <td>13</td>
+      <td> </td>
+      <td>6</td>
+      <td> </td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>159</td>
+      <td>34</td>
+      <td>9</td>
+      <td> </td>
+      <td> </td>
+      <td>4.67</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="statistical-sleuth">Statistical sleuth</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>chapter</th>
+      <th>time</th>
+      <th>phrases</th>
+      <th>dist</th>
+      <th>claims</th>
+      <th>pages</th>
+      <th>mins/phr</th>
+      <th>mins/pg</th>
+      <th>date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1.1.1</td>
+      <td>19</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>3</td>
+      <td> </td>
+      <td>6.3</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>1.1.1</td>
+      <td>40</td>
+      <td>2</td>
+      <td> </td>
+      <td>1</td>
+      <td> </td>
+      <td>20</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>1.1.2</td>
+      <td>7</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>2</td>
+      <td> </td>
+      <td>3.5</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>1.1.2</td>
+      <td>22</td>
+      <td>2</td>
+      <td> </td>
+      <td>1</td>
+      <td> </td>
+      <td>11.5</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>1.2.1,.2</td>
+      <td>60</td>
+      <td> </td>
+      <td>2</td>
+      <td> </td>
+      <td>4</td>
+      <td> </td>
+      <td>15</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>1.2.1,2</td>
+      <td>90</td>
+      <td>16</td>
+      <td>8</td>
+      <td>8</td>
+      <td> </td>
+      <td>5.6</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>”</td>
+      <td>60</td>
+      <td>3</td>
+      <td>2</td>
+      <td>2</td>
+      <td> </td>
+      <td>20</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>””</td>
+      <td>25</td>
+      <td>6</td>
+      <td>1</td>
+      <td>3</td>
+      <td> </td>
+      <td>4.16</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>1.3.1,2</td>
+      <td>40</td>
+      <td> </td>
+      <td>8</td>
+      <td> </td>
+      <td>4.5</td>
+      <td> </td>
+      <td>8.8</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>1.4</td>
+      <td>24</td>
+      <td> </td>
+      <td>4</td>
+      <td> </td>
+      <td>2</td>
+      <td> </td>
+      <td>12</td>
+      <td>3/09</td>
+    </tr>
+    <tr>
+      <td>1.5.1</td>
+      <td>48</td>
+      <td> </td>
+      <td>9</td>
+      <td> </td>
+      <td>5</td>
+      <td> </td>
+      <td>9.6</td>
+      <td>3/09</td>
+    </tr>
+    <tr>
+      <td>1.2.3</td>
+      <td>90</td>
+      <td>8</td>
+      <td>10</td>
+      <td>4</td>
+      <td> </td>
+      <td>11.25</td>
+      <td> </td>
+      <td>3/09</td>
+    </tr>
+    <tr>
+      <td>1.2.3</td>
+      <td>80</td>
+      <td>6</td>
+      <td>9</td>
+      <td>3</td>
+      <td> </td>
+      <td>13.3</td>
+      <td> </td>
+      <td>4/09</td>
+    </tr>
+    <tr>
+      <td>1.3.1,2</td>
+      <td>90</td>
+      <td>9</td>
+      <td>11</td>
+      <td>4</td>
+      <td> </td>
+      <td>10</td>
+      <td> </td>
+      <td>4/09</td>
+    </tr>
+    <tr>
+      <td>1.4,1.5</td>
+      <td>80</td>
+      <td>9</td>
+      <td>11</td>
+      <td>4 (3)</td>
+      <td> </td>
+      <td>8.88</td>
+      <td> </td>
+      <td>4/09</td>
+    </tr>
+    <tr>
+      <td>1.5</td>
+      <td>75</td>
+      <td>12</td>
+      <td>15</td>
+      <td>6</td>
+      <td> </td>
+      <td>6.25</td>
+      <td> </td>
+      <td>5/09</td>
+    </tr>
+    <tr>
+      <td>2.1,2*</td>
+      <td>46</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>7</td>
+      <td> </td>
+      <td>6.57</td>
+      <td>7/09</td>
+    </tr>
+    <tr>
+      <td>2.1</td>
+      <td>45</td>
+      <td>4</td>
+      <td>7</td>
+      <td>2</td>
+      <td> </td>
+      <td>11.25</td>
+      <td> </td>
+      <td>7/09</td>
+    </tr>
+    <tr>
+      <td>2.2</td>
+      <td>90</td>
+      <td>8</td>
+      <td>8</td>
+      <td>4</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>7/09</td>
+    </tr>
+    <tr>
+      <td>2.2.4,2.3</td>
+      <td>54</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>8</td>
+      <td> </td>
+      <td>6.75</td>
+      <td>8/09</td>
+    </tr>
+    <tr>
+      <td>^^</td>
+      <td>27</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>3</td>
+      <td> </td>
+      <td>9</td>
+      <td>8/09</td>
+    </tr>
+    <tr>
+      <td>^^</td>
+      <td>30</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>4</td>
+      <td> </td>
+      <td> </td>
+      <td>8/09</td>
+    </tr>
+    <tr>
+      <td>^^</td>
+      <td>90</td>
+      <td>3</td>
+      <td> </td>
+      <td>1</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>8/09</td>
+    </tr>
+    <tr>
+      <td>^^</td>
+      <td>100</td>
+      <td>4</td>
+      <td>7</td>
+      <td>2</td>
+      <td> </td>
+      <td>25</td>
+      <td> </td>
+      <td>9/09</td>
+    </tr>
+    <tr>
+      <td>^^</td>
+      <td>28</td>
+      <td>2</td>
+      <td>2</td>
+      <td>1</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>9/09</td>
+    </tr>
+    <tr>
+      <td>^^</td>
+      <td>80</td>
+      <td>0</td>
+      <td>9</td>
+      <td>0</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>9/09</td>
+    </tr>
+    <tr>
+      <td>^^</td>
+      <td>120</td>
+      <td>2</td>
+      <td>8</td>
+      <td>1</td>
+      <td> </td>
+      <td>75</td>
+      <td> </td>
+      <td>10/09</td>
+    </tr>
+    <tr>
+      <td>^^</td>
+      <td>45</td>
+      <td>3</td>
+      <td> </td>
+      <td>1</td>
+      <td> </td>
+      <td>15</td>
+      <td> </td>
+      <td>11/09</td>
+    </tr>
+    <tr>
+      <td>^^</td>
+      <td>60</td>
+      <td>4</td>
+      <td>9</td>
+      <td>2</td>
+      <td> </td>
+      <td>15</td>
+      <td> </td>
+      <td>11/09</td>
+    </tr>
+    <tr>
+      <td>3.1,3.2</td>
+      <td>50</td>
+      <td> </td>
+      <td>9</td>
+      <td> </td>
+      <td>7</td>
+      <td> </td>
+      <td>7.14</td>
+      <td>12/09</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>33</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>4.5</td>
+      <td> </td>
+      <td>6.66</td>
+      <td>12/09</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>60</td>
+      <td> </td>
+      <td>9</td>
+      <td> </td>
+      <td>5</td>
+      <td> </td>
+      <td>12</td>
+      <td>14/09</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>13</td>
+      <td> </td>
+      <td>3</td>
+      <td> </td>
+      <td>2.75</td>
+      <td> </td>
+      <td>4.7</td>
+      <td>14/09</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>97</td>
+      <td>18</td>
+      <td>8</td>
+      <td>9</td>
+      <td> </td>
+      <td>5.38</td>
+      <td> </td>
+      <td>15/09</td>
+    </tr>
+    <tr>
+      <td>pr**</td>
+      <td>52</td>
+      <td>20</td>
+      <td>2</td>
+      <td>10</td>
+      <td> </td>
+      <td>2.6</td>
+      <td> </td>
+      <td>15/09</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>35</td>
+      <td>10</td>
+      <td>2</td>
+      <td>5</td>
+      <td> </td>
+      <td>3.5</td>
+      <td> </td>
+      <td>15/09</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>62</td>
+      <td>18</td>
+      <td>7</td>
+      <td>9</td>
+      <td> </td>
+      <td>3.4</td>
+      <td> </td>
+      <td>16/09</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>62***</td>
+      <td>10</td>
+      <td>6</td>
+      <td>5</td>
+      <td> </td>
+      <td>6.2</td>
+      <td> </td>
+      <td>16/09</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>66</td>
+      <td>14</td>
+      <td>7</td>
+      <td>7</td>
+      <td> </td>
+      <td>4.17</td>
+      <td> </td>
+      <td>16/09</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>18</td>
+      <td>6</td>
+      <td>6</td>
+      <td>3</td>
+      <td> </td>
+      <td>3</td>
+      <td> </td>
+      <td>16/09</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<p>*2 pages of images
+** started skipping claims if I had no example, and if I could give
+a simulation to prove it.</p>
+
+<p>*** took some time due to puzzling as well as using R to setup and
+make shit happen Pnn!</p>
+
+<h3 id="corrections">Corrections</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>date</th>
+      <th>time</th>
+      <th>Claims</th>
+      <th>phrases</th>
+      <th>dist</th>
+      <th>min/phr</th>
+      <th>mins/dist</th>
+      <th>words/min</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>17/09</td>
+      <td>44</td>
+      <td>2</td>
+      <td>4</td>
+      <td>4</td>
+      <td>11</td>
+      <td>11</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>17/09</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>18/09</td>
+      <td>60</td>
+      <td>10</td>
+      <td> </td>
+      <td>7</td>
+      <td>3</td>
+      <td>8.5</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>18/09</td>
+      <td>72</td>
+      <td>4</td>
+      <td>8</td>
+      <td>6</td>
+      <td>9</td>
+      <td>12</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>18/09</td>
+      <td>60</td>
+      <td>4</td>
+      <td>8</td>
+      <td>4</td>
+      <td>7.5</td>
+      <td>15</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>19/09</td>
+      <td>54</td>
+      <td>4</td>
+      <td>8</td>
+      <td>7</td>
+      <td>6.75</td>
+      <td>7.7</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>19/09</td>
+      <td>56</td>
+      <td>14</td>
+      <td>28</td>
+      <td>9</td>
+      <td>2</td>
+      <td>6.2</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>19/09</td>
+      <td>53</td>
+      <td>9</td>
+      <td>18</td>
+      <td>8</td>
+      <td>2.94</td>
+      <td>6.6</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>21/09</td>
+      <td>60</td>
+      <td>10</td>
+      <td>20</td>
+      <td>10</td>
+      <td>3</td>
+      <td>6</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>21/09</td>
+      <td>90</td>
+      <td>8</td>
+      <td>16</td>
+      <td>12</td>
+      <td>5.6</td>
+      <td>7.5</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>21/09</td>
+      <td>63</td>
+      <td>15</td>
+      <td>30</td>
+      <td>12</td>
+      <td>2.1</td>
+      <td>5.25</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>21/09</td>
+      <td>28</td>
+      <td>7</td>
+      <td>14</td>
+      <td>8</td>
+      <td>2</td>
+      <td>3.5</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>21/09</td>
+      <td>62</td>
+      <td>9</td>
+      <td>18</td>
+      <td>10</td>
+      <td>3.4</td>
+      <td>6.2</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>22/09</td>
+      <td>30</td>
+      <td>1</td>
+      <td>2</td>
+      <td>3</td>
+      <td>15</td>
+      <td>10</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>22/09</td>
+      <td>30</td>
+      <td>5</td>
+      <td>10</td>
+      <td>4</td>
+      <td>3</td>
+      <td>7.5</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>23/09</td>
+      <td>60</td>
+      <td>10</td>
+      <td>20</td>
+      <td>15</td>
+      <td>3</td>
+      <td>4</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>23/09</td>
+      <td>45</td>
+      <td>10</td>
+      <td>20</td>
+      <td>7</td>
+      <td>2.25</td>
+      <td>6.42</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+:ET

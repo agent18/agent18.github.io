@@ -1,0 +1,924 @@
+I"<p><strong>Disclaimer:</strong> This post is not cleaned up thoroughly. It is my
+attempt to take all the failed cases from <a href="/dp-subject-predicate-identify-pattern.html">this essay</a> and assort
+them here into different patterns so I can work on them:</p>
+
+<h2 id="example-not-matching-subject">example not matching subject</h2>
+<h2 id="no-example">no example</h2>
+<h3 id="beliefs-about-right-or-wrong-24-practiced">beliefs about right or wrong (24 practiced)</h3>
+
+<blockquote>
+  <p>(Crime)[0] should (not pay)[1], is (very simple common sense)[2].</p>
+
+  <p>Claims: Crime should not pay</p>
+
+  <p>Definition: checks out I think!</p>
+</blockquote>
+
+<p>This is a predicate based on his beliefs about what is right and
+wrong, not on empirical examples. “Crime does not pay” is a predicate
+about the world and it would be false if the average crime led to a
+lot of money without imprisonment. “Crime should not pay” can be
+skipped for now. (“The Holy B says that crime should not pay” is
+testable, though.)</p>
+
+<p><strong>Pattern</strong>: “is common sense”</p>
+
+<h3 id="pattern">pattern</h3>
+
+<blockquote>
+  <p>X prefers A to B</p>
+
+  <p>Many prisoners prefer to do jobs, instead of having to sit in their cells all day</p>
+
+  <p>It took me time to realize that this doesn’t have an example in the
+video I was watching</p>
+</blockquote>
+
+<p><strong>how to</strong>: find pattern and guess within 3 mins if it has example or
+not.</p>
+
+<h3 id="context-dependent">context dependent</h3>
+
+<blockquote>
+  <p>Claims: crime does not pay</p>
+
+  <p>Didn’t know how the example would look keeping the definition in mind</p>
+</blockquote>
+
+<p><strong>how to</strong>: A does not B</p>
+
+<h3 id="self-claims">Self claims</h3>
+
+<blockquote>
+  <p>(Marriage)[1] is (a social construct where a man marries a
+woman(/man))[2]. (In countries like India)[3] it is (the norm)[4],
+whereas in (European countries)[5] we do have (couples who do not
+marry for a long time)[6] and (have kids even.)[7]</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] is [2].</p>
+
+<p><strong>Subject</strong>: [1].</p>
+
+<p><strong>Predicate</strong>: is [2].</p>
+
+<p><strong>Example</strong>: -</p>
+
+<p><strong>Definition</strong>: <em>I don’t understand this “social construct” and am
+unable to give example and compare, as a result.</em></p>
+
+<p><strong>Checklist</strong>: not-sure; neither; none; not-chapter; not-running;
+none; <em>no-example</em>; <em>failed</em> (Failed to give example for my own
+claim).</p>
+
+<p><strong>pattern</strong>: my own claims</p>
+
+<hr />
+
+<p><strong>Claims</strong>: It is not [11] to get [12].</p>
+
+<p><strong>Subject</strong>: Spending huge amounts of money and time and effort on me.</p>
+
+<p><strong>Predicate</strong>: is worth for parents despite kids not listening to
+them.</p>
+
+<p><strong>Example</strong>: <em>I don’t have examples for this, mainly because of the
+label “worth for parents”. I don’t understand what it could stand for.</em></p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: yes; neither; none; not-chapter; not-running; none;
+<em>self-claim-with-0-ex</em>; <em>failed</em>; <em>definition-unclear</em>;</p>
+
+<p><strong>Pattern</strong>:  vague predicates(like “worth it” etc…) with own
+claims.</p>
+
+<p><strong>What it should have been:</strong></p>
+
+<p><strong>Example</strong>: My parents will waive 46000 euros of my tuition off if
+and only if I get married. i.e., only if I listen to them.</p>
+
+<p>checks out!</p>
+
+<hr />
+
+<blockquote>
+  <p>As the (movies)[1] portray (it might be great to have kids)[2], but
+I have seen (kids)[3] first hand. Its a (lot of work)[4], its a (lot
+of time investment)[5]. When there are so (many important problems
+to solve in this world)[6], why unnecessarily (bring more problems
+for you)[7].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: When there is [6], [7] is unnecessary.</p>
+
+<p><strong>Subject</strong>: If [6], then [7]</p>
+
+<p><strong>Predicate</strong>: is unnecessary.</p>
+
+<p><strong>Example</strong>: <em>I don’t have an example</em></p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: yes; neither; none; not-chapter; not-running; none;
+<em>self-claim-with-0-ex</em>; <em>failed</em>; <em>no-example</em>;</p>
+
+<p><em>Spending time on other things will leave you with less time for this?
+Give one example of a top problem to be solved in the world and how
+your addition of problems say by bringing kids into the world is going
+to stop you. Atleast you don’t have an example. That is clear. Which
+is definitely sad.</em></p>
+
+<hr />
+
+<blockquote>
+  <p>For example, instead of spending 40000 Euros on your kids, you could
+use it to save ‘I don’t know how many fucking lives’. Period. Did you
+know (primary schools)[8] cost (2 to 3k Euros in India)[9]? Why would
+I unnecessarily- having seen (a lot of parents in my life)[10]- get
+myself into (this bullshit)[11]. I have (no interest)[12] in (starting a
+family)[13]. I have (my parents, my brother and a whole lot of friends
+and cousins)[14]. These many people (are good)[15]. Here me out loud, I
+am not opposed to the concept of girlfriend, but (marriage)[16], and
+(making a life long commitment)[17], so that the (girl feels secure with
+half of your earnings at divorce)[18], Sorry! Not my cup of milk!</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [10], struggle with their kids</p>
+
+<p><strong>Subject</strong>: What [10] do.</p>
+
+<p><strong>Predicate</strong>: Struggle with their children.</p>
+
+<p><strong>Example</strong>: Whenever I see my cousin at a marriage she would be on the tail
+of her two kids. She needs people to be behind them all the time. This
+is the case with all my cousins.</p>
+
+<p><strong>Definition</strong>: checks out!</p>
+
+<p><strong>Checklist</strong>: yes; true; none; not-chapter; not-running; none ;
+<em>self-claim-with-0-ex</em>; <em>failed</em>; <em>time</em></p>
+
+<p><em>I spent quite some time, wondering why I hated kids so much. Not one
+repulsive example came to my mind</em></p>
+
+<p><em>The definition is unclear but that is because I don’t remember what I
+wanted to say. It is an argument I make to avoid kids in my life. I
+keep saying kids are a pain but that’s just too broad I guess. I
+remember an STM also saying make smaller claims that you can test
+right now. Changing a diaper sucks? dealing with fighting children
+sucks? or not being able to do anything else in your life sucks</em></p>
+
+<hr />
+
+<p><strong>Claims</strong>: I have [12] in [13].</p>
+
+<p><strong>Subject</strong>: What I have.</p>
+
+<p><strong>Predicate</strong>: [12] in [13].</p>
+
+<p><strong>Example</strong>: <em>Don’t think I can give an example for this.</em></p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: no; neither; none; not-chapter; not-running; none;
+<em>self-claim-with-0-ex</em>; <em>failed</em>; <em>time</em></p>
+
+<p><em>What I am thinking in my mind is when will “no interest” be
+satisfied! That is what I am unsure of.</em></p>
+
+<p><strong>What is should have been</strong>:</p>
+
+<p><strong>Example</strong>: I told my parents I am not going to get married and to
+stop looking for a bride for me.</p>
+
+<p><strong>Definition</strong>: checks out as this shows the lack of interest in
+starting a family.</p>
+
+<p><em>More than this I dont see the point of dealing with this claim.</em></p>
+
+<hr />
+
+<p><strong>Claims</strong>: I have [14] and that is good enough.</p>
+
+<p><strong>Subject</strong>: Having [14].</p>
+
+<p><strong>Predicate</strong>: is good enough.</p>
+
+<p><strong>Example</strong>: <em>Don’t have an example for it.</em></p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: no; neither; none; not-chapter; not-running; none;
+<em>definition-unclear</em>; <em>failed</em> ; <em>self-claim-with-0-ex</em>; <em>failed</em></p>
+
+<p><strong>Pattern</strong>: X is good enough</p>
+
+<hr />
+
+<blockquote>
+  <p>If you really have not a (better thing to do in life)[1] and choose to
+(“settle down” and marry)[2], good luck bruv.</p>
+</blockquote>
+
+<p><strong>Claims</strong>: It’s a bad idea to [2], because you have not
+anything [1].</p>
+
+<p><strong>Subject</strong>: The result, if you marry because you have not any [1]</p>
+
+<p><strong>Predicate</strong>: is a bad idea.</p>
+
+<p><strong>Example</strong>: <em>This should have an example I think, but I don’t have
+one.</em></p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: yes; neither; none; not-chapter; not-running; none;
+<em>self-claim-with-0-ex</em>; <em>failed</em></p>
+
+<p><strong>Pattern</strong>: self claims</p>
+
+<hr />
+
+<blockquote>
+  <p>You don’t have any problems when you are at 35 now. But suddenly
+because you are married, you already have shit loads of problems
+at 35. For me if I loose my job, I pretty much don’t care. I will go
+back to India, stay with my parents, try to find something that
+works for me. But if I am married, I better be worried sick every
+second of my life that that doesn’t happen.</p>
+</blockquote>
+
+<p><strong>Claims</strong>: Compared to a married men at 35, unmarried men at 35, have
+much less problems at 35.</p>
+
+<p><strong>Subject</strong>: Problems married men at 35 have compared to unmarried men
+at 35.</p>
+
+<p><strong>Predicate</strong>: is much less</p>
+
+<p><strong>Example</strong>: <em>I have 0 examples.</em></p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: yes; neither; none; not-chapter; not-running; none;
+<em>self-claim-with-0-ex</em>; <em>failed</em>;</p>
+
+<p><strong>Pattern</strong>: self-claims</p>
+
+<h3 id="no-idea-if-has-example-or-not">no idea if has example or not</h3>
+
+<p><strong>Claims</strong>: crime does not pay</p>
+
+<p><strong>Checklist</strong>: yes; false; none; not-chapter; not-running; none;
+<em>no-example</em>; <em>unsure</em>;</p>
+
+<p><strong>Pattern</strong>: A does not B?; crime?; pay?</p>
+
+<p>“Crime does not pay” is a predicate about the world and
+it would be false if the average crime led to a lot of money without
+imprisonment.</p>
+
+<hr />
+
+<h2 id="claims-of-the-future-27-practiced">Claims of the future (27 practiced)</h2>
+
+<p>You can’t proove something of the future but you can show examples of
+confidence for something of the future based on past (aka human
+civilization is at risk due to diseases)</p>
+
+<h3 id="future-that-have-examples">future that have examples:</h3>
+
+<blockquote>
+  <p>There are (many issues)[1] we haven’t been able to look into yet, so
+we expect there are other (high-impact areas we haven’t listed)[3].</p>
+</blockquote>
+
+<p><strong>STM</strong>: What made them expect that there are other areas left? If I
+don’t like plain Parle G biscuits even after trying many times, I
+won’t say that “I expect there are other tasty, plain Parle G biscuits
+that we haven’t listed”.</p>
+
+<p>Perhaps they’ve seen an average of 3 out of 10 areas to be promising,
+so based on that they expect that maybe 3 out of the remaining 10
+would also be good. Or maybe not 3, but at least 1 or 2.</p>
+
+<p>If they had tried a hundred areas and found zero promising ones, they
+would not expect too many promising areas in the future.</p>
+
+<p><strong>Claims</strong>: There are other [3] we have not looked into.</p>
+
+<p><strong>How to</strong>: Find future statements and practice like a nigger</p>
+
+<h3 id="future-that-does-not-have-examples">future that does not have examples</h3>
+
+<blockquote>
+  <p>Claim: [3] is at stake (because of AI).</p>
+
+  <p>Example:</p>
+
+  <p>The fate of Gorillas currently depends on the actions of
+humans. They are currently endangered. Similarly the fate of
+humanity may come to depend on the actions of machines than our own.</p>
+</blockquote>
+
+<p>In other words, we have no concrete example. If they said that
+diseases put human civilization at stake, we can point to the Black
+Plague, which killed nearly half the people of Western Europe. Or
+nukes (Japan). Or asteroids (dinosaurs).</p>
+
+<p><strong>Pattern</strong>: Future is at stake types subject talks about the future</p>
+
+<hr />
+
+<blockquote>
+  <p>I see that (my mind)[8] has already been (made up)[9], primarily for
+the reasons, that (I)[10] have (other important things to focus on)[11]
+and I am not ready to invest in something that is (going to bring my
+goal down)[12]. For me it is very important (to make lots of money)[13],
+and (focus on my career)[14]. What ever I need (to do for that)[15], I
+am (ready to do)[16].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [8], regarding marriage, is already [9] <br />
+aka “<em>I am not going to marry ever</em>”.</p>
+
+<p><strong>Subject</strong>: [8], regarding marriage</p>
+
+<p><strong>Predicate</strong>: is already [9].</p>
+
+<p><strong>Example</strong>: <em>Not possible to come up with example for the future!</em></p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: no; false; none; not-chapter; not-running; none;
+<em>no-example</em>; <em>almost-failed</em></p>
+
+<p><strong>Pattern</strong>: claims about the future</p>
+
+<hr />
+
+<h2 id="if--missed-comparison">IF / missed comparison</h2>
+
+<h3 id="if-with-missed-comparison">if with missed comparison</h3>
+
+<blockquote>
+  <p>(These areas)[6a] can be (particularly worth pursuing)[7] if you’re
+(especially motivated by one of them)[8].</p>
+</blockquote>
+
+<p>Your response:</p>
+
+<blockquote>
+  <p>For [6a] we think of, working in promoting EA as in the above
+example.</p>
+</blockquote>
+
+<blockquote>
+  <p>For [8], we think of a personal fit of more than 50%</p>
+</blockquote>
+
+<blockquote>
+  <p>For [7], we think of an impact of 5300*50%=2650 lives which is
+better than working a DS job resulting in 530 net people.</p>
+</blockquote>
+
+<p>But that doesn’t use [8] at all. Why is it particularly worth pursuing
+if you are “especially motivated”? The “impact” [7] you pointed out
+would seem to be the same if you had [8] or if you didn’t.</p>
+
+<p>I would expect an example where someone who had this magical [8] went
+on to have particularly great “impact”. And I suspect that they do not
+have that example.</p>
+
+<p>Consider this: You can bowl a particularly high bouncer if you’re 6
+feet tall. Showing Bhuvaneshwar Kumar bowling a bouncer is not an
+example. You have to show Courtney Walsh bowling a bouncer that is one
+foot higher than usual bouncers.</p>
+
+<p><strong>how to</strong>: find <em>if</em> statements and practice like a nigger.</p>
+
+<h3 id="given">Given</h3>
+
+<blockquote>
+  <p>Given our take on (the world’s most pressing problems)[1] and the
+(most pressing bottlenecks these issues face)[2], we think the
+following (five broad categories of career)[3] are a good place to
+(start generating ideas)[4] if (you have the flexibility to consider
+a new career path)[5].</p>
+
+  <p>Claim: Given [1] and [2], it appears that following [3] is a good place for [4].</p>
+
+  <p>Question: Is following [3], a good place for [4]?</p>
+
+  <p>I am not sure how to give an example “Given [1] and [2]”?</p>
+</blockquote>
+
+<p>Another sentence: “Given that we want batsmen who are short and have
+curly hair, here are the batsmen we found: Sachin Tendulkar, …”</p>
+
+<p>So, if you sorted the table of “all careers” using the fields “how
+pressing is this problem?” and “how pressing is the bottleneck they’re
+focusing on?”, then the five top careers are …</p>
+
+<p>Giving an example of Jacques Kallis would be wrong because he isn’t
+short and doesn’t have curly hair. Ricky Ponting would be wrong
+because he doesn’t have curly hair.</p>
+
+<p><strong>how to</strong>:</p>
+
+<h3 id="hidden-comparison">hidden comparison</h3>
+
+<h2 id="because-should-due-to">because-should-due-to</h2>
+
+<p>All causation type statements using because, due-to, do not have
+examples. But we can try to give examples for statements where the
+“because part” is removed.</p>
+
+<blockquote>
+  <p>For example, instead of spending 40000 Euros on your kids, you could
+use it to save ‘I don’t know how many fucking lives’. Period. Did you
+know (primary schools)[8] cost (2 to 3k Euros in India)[9]? Why would
+I unnecessarily- having seen (a lot of parents in my life)[10]- get
+myself into (this bullshit)[11]. I have (no interest)[12] in (starting a
+family)[13]. I have (my parents, my brother and a whole lot of friends
+and cousins)[14]. These many people (are good)[15]. Here me out loud, I
+am not opposed to the concept of girlfriend, but (marriage)[16], and
+(making a life long commitment)[17], so that the (girl feels secure with
+half of your earnings at divorce)[18], Sorry! Not my cup of milk!</p>
+</blockquote>
+
+<p><strong>Claims</strong>: I am opposed to 16, 17 because of 18.</p>
+
+<p>Becomes–&gt;</p>
+
+<p><strong>Claims</strong>: I am opposed to 16,17.</p>
+
+<p><strong>Claims</strong>: I am opposed to 16, 17.</p>
+
+<p><strong>Subject</strong>: what I do.</p>
+
+<p><strong>Predicate</strong>: is opposed to 16 and 17.</p>
+
+<p><strong>Example</strong>: I tell my parents that I don’t want to get married</p>
+
+<p><strong>Definition</strong>: checks out!</p>
+
+<p><strong>Checklist</strong>: yes; true; none; not-chapter; not-running; none;</p>
+
+<h3 id="with-examples">with examples</h3>
+<blockquote>
+  <p>(Average (pay is 0.63 <span>$</span>))[1], that means there are (states
+where Prisoners make considerable less )[2]</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] means [2] exists.</p>
+
+<p><em>Hard to establish causality of [1] meaning [2].</em></p>
+
+<p><strong>Checklist</strong>: yes; neither; none; not-chapter; not-running; none;
+<em>because-should-due-to</em>; <em>failed</em></p>
+
+<p><strong>Pattern</strong>: that means</p>
+
+<p>Do not need to establish causality, but just show an example where
+Average pay is [1], and [2] is also true.</p>
+
+<h3 id="with-no-examples">with no examples</h3>
+
+<p><strong>Claims</strong>: I am opposed to 16,17 so that 18.</p>
+
+<p><strong>Subject</strong>: What I do.</p>
+
+<p><strong>Predicate</strong>: is opposed to 16, so as to 18.</p>
+
+<p><strong>Example</strong>: <em>I don’t have an example. And I am not sure if I can give
+an example</em></p>
+
+<p><strong>Definition</strong>:</p>
+
+<p><strong>Checklist</strong>: not-sure; neither; none; not-chapter; not-running; if; 
+<em>because-should-due-to</em>; <em>failed</em>; (failed to recognize it)</p>
+
+<p><strong>Pattern</strong>: ABC so that Z.</p>
+
+<h3 id="should">should</h3>
+
+<p><strong>Claims</strong>: Federal Government <strong>should</strong> have stepped in to reduce the
+delay in desegregation.</p>
+
+<p><strong>Checklist</strong>: no; neither;
+<em>because-should-due-to</em> ; <em>time</em>;</p>
+
+<p><strong>Failure-mode</strong>: <em>time</em></p>
+
+<p><strong>pattern</strong>: “should” in the text.</p>
+
+<p>“Crime should not pay” can be skipped for now. (“The Holy B says that
+crime should not pay” is testable, though.)</p>
+
+<h3 id="when-x-you-end-up-with-y">When X you end up with Y</h3>
+
+<blockquote>
+  <p>When (you put all of this together)[1] you wind up with a scenario where
+(you’re not just hurting the people who are incarcerated)[2], (you’re
+hurting everyone around them)[3].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: When [1], you wind up with [2].</p>
+
+<p><strong>Subject</strong>: Consequences of [1].</p>
+
+<p><strong>Predicate</strong>: is [2].</p>
+
+<p><strong>Example</strong>: One in three families reported going into debt to pay for
+phone calls or visitation.</p>
+
+<p>https://ellabakercenter.org/sites/default/files/downloads/who-pays.pdf</p>
+
+<p><strong>Definition</strong>: checks out.</p>
+
+<p><strong>Checklist</strong>: yes; true; none; chapter; not-running; if;
+<del><em>example-matching-definition</em>; <em>unsure</em></del>; <em>because-should-due-to</em>; <em>didn’t-recognize</em></p>
+
+<p><strong>Pattern</strong>: When X you end up with Y</p>
+
+<p>Plan is to skip this “causation” and just give an example where bothe
+[1] and [2] occur.</p>
+
+<h3 id="by">By</h3>
+
+<hr />
+
+<h2 id="long-sentences">Long sentences</h2>
+
+<h2 id="most-">Most ?</h2>
+
+<h2 id="dont-know-if-has-example-or-not-or-how-to-give">Don’t know if has example or not or how to give</h2>
+<h3 id="must">Must</h3>
+
+<blockquote>
+  <p>Claims: Being able to save lives must be very satisfying</p>
+
+  <p>I don’t know if I can give an example or if I can’t give an example
+for must.</p>
+</blockquote>
+
+<p><strong>Pattern</strong>: <em>must</em></p>
+
+<p>I don’t think it is possible to give an example for must. But we
+should try to give an example by substituting it with is. To disprove
+it ofcourse, all you need is one example.</p>
+
+<blockquote>
+  <p>(Being able to save lives)[1] IS (very satisfying)[2]</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] MUST be [2].</p>
+
+<p><strong>Subject</strong>: [1].</p>
+
+<p><strong>Predicate</strong>: must be [2].</p>
+
+<p><strong>Example</strong>: I donate 4k <span>$</span>, every year to save one
+life.</p>
+
+<p><strong>Definition</strong>: I don’t think the feeling of satisfaction lasts for a
+minute even. False.</p>
+
+<p><strong>Checklist</strong>: yes; false; none; not-chapter; not-running; none;
+<em>must</em>; <em>failed</em></p>
+
+<h3 id="often">often</h3>
+
+<blockquote>
+  <p>It is often not the case that (prisoners who fire fight are learning
+skills)[1] that will help them get (a job outside)[2].</p>
+</blockquote>
+
+<p>My answer with and without “often” looks exactly the same. I don’t know
+how to give an example for often. I can’t try to give an example in
+the case of “often”, as done below. But what often means is unclear, I
+think for now I should just skip it and make an example for the claim
+as a result.</p>
+
+<p><strong>Claims</strong>: It is often that [1] will not get [2].</p>
+
+<p><strong>Subject</strong>: what [1] will not get.</p>
+
+<p><strong>Predicate</strong>: [2].</p>
+
+<p><strong>Example</strong>: California law  bars those with criminal record from
+becoming licensed emergency responders.</p>
+
+<p><strong>Definition</strong>: checks out. People who put out California fires can’t
+do it once they are released.</p>
+
+<p><strong>Checklist</strong>: yes; true; often; chapter; not-running; none; <em>often</em>;
+<em>failed</em></p>
+
+<p><strong>Pattern</strong>: <em>often</em></p>
+
+<hr />
+
+<blockquote>
+  <p>Jail and prisons often get a cut of the proceeds from phone and
+video calls</p>
+</blockquote>
+
+<p><strong>Subject</strong>:  What Jail and prisons get</p>
+
+<p><strong>Predicate</strong>:  a cut of the proceeds from the phone and video calls.</p>
+
+<p><strong>Example</strong>: “Securus paid Hodgson’s office (Bristol county) $1.7
+million in exchange for an exclusive contract to provide phone
+services to inmates. It paid the sheriff’s office a lump sum of
+$820,000 to cover 2016 to 2020”</p>
+
+<p><strong>Definition</strong>: checks out!</p>
+
+<p><strong>Checklist</strong>: yes; true; none; chapter; not-running; none; 
+<em>often</em>; <em>failed</em>;</p>
+
+<p><strong>Pattern</strong>: <em>often</em></p>
+
+<h2 id="adjectives">adjectives</h2>
+
+<p>useful, important, good; “A is adjective”</p>
+
+<h3 id="important">important</h3>
+
+<blockquote>
+  <p>Claims: I have important things to do in life (and hence cannot
+marry)</p>
+
+  <p>Look at the example I gave</p>
+
+  <p>Example: I have spent roughly 500 hrs over one year on Concrete
+thinking and still struggle with ten phrases an hour.</p>
+
+  <p>Having trouble with proving something is important</p>
+</blockquote>
+
+<h2 id="definition-unclear">Definition unclear</h2>
+<h3 id="long-predicate">Long predicate</h3>
+
+<blockquote>
+  <p>“There is (no doubting)[0] the force of the arguments)[1] … (the
+problem)[2] is (a research challenge worthy of the next generation’s
+best mathematical talent)[3]. (Human civilisation)[4] is (at
+stake)[5].”  – Clive Cookson, Science Editor at the Financial</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [2] is [3].</p>
+
+<p><strong>Subject</strong>: [2].</p>
+
+<p><strong>Predicate</strong>: is [3].</p>
+
+<p><strong>Example</strong>: Solving the AI control problem</p>
+
+<p><strong>Definition</strong>: I don’t know what the predicate label is trying to say.</p>
+
+<p><strong>Checklist</strong>: yes; neither;
+<em>definition-unclear</em> ; <em>time</em>; (didn’t give up in time, was trying
+understand it till the end)</p>
+
+<p><strong>Failure mode</strong>: <em>time</em></p>
+
+<p><strong>Pattern</strong>: long predicate maybe? with 2 phrases atleast.</p>
+
+<hr />
+
+<blockquote>
+  <p>(The amendment abolishing slavery)[1] is (not the one that you want to
+suddenly include the word “except”)[2].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] is [2].</p>
+
+<p><strong>Subject</strong>: [1].</p>
+
+<p><strong>Predicate</strong>: [2].</p>
+
+<p><strong>Example</strong>: <em>I don’t have any examples</em></p>
+
+<p><strong>Definition</strong>: -</p>
+
+<p><strong>Checklist</strong>: not-sure; neither; none; not-chapter; not-running;
+none; <em>definition-unclear</em>; <em>failed</em></p>
+
+<p><strong>Pattern</strong>: long predicate “not the one that you want to suddenly
+include…”</p>
+
+<h3 id="important--ready-to-do">important ; ready to do</h3>
+
+<blockquote>
+  <p>I see that (my mind)[8] has already been (made up)[9], primarily for
+the reasons, that (I)[10] have (other important things to focus on)[11]
+and I am not ready to invest in something that is (going to bring my
+goal down)[12]. For me it is very important (to make lots of money)[13],
+and (focus on my career)[14]. What ever I need (to do for that)[15], I
+am (ready to do)[16].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: For me it is important to [13].</p>
+
+<p><strong>Subject</strong>: Money making</p>
+
+<p><strong>Predicate</strong>: is important for me</p>
+
+<p><strong>Example</strong>: I spend majority of my time working a nine to five job in Netherlands.</p>
+
+<p><strong>Definition</strong>: Checks out.</p>
+
+<p><strong>Checklist</strong>: yes; true; none; not-chapter; not-running; none;
+<em>a-is-important</em>; <em>unsure</em> (I am not unsure anymore, this is how far I
+can go with checking definitions like “important”)</p>
+
+<p><strong>plan</strong>: check with an STM (no need to practice)</p>
+
+<hr />
+
+<p><strong>Claims</strong>: For me it is important to [14].</p>
+
+<p><strong>Subject</strong>: Focus on Career</p>
+
+<p><strong>Predicate</strong>: is important for me.</p>
+
+<p><strong>Example</strong>: I spend my free time almost everyday working on either CT
+or data science, roughly three hours a day after my nine to five job
+(plus gym).</p>
+
+<p><strong>Definition</strong>: Checks out.</p>
+
+<p><strong>Checklist</strong>: yes; true; none; not-chapter; not-running; none;
+<em>a-is-important</em>; <em>unsure</em>; (I am not unsure anymore, this is how far I
+can go with checking definitions like “important”)</p>
+
+<p><strong>plan</strong>: check with an STM (no need to practice)</p>
+
+<hr />
+
+<p><strong>Claims</strong>: What ever is needed for [15], I am [16]</p>
+
+<p><strong>Subject</strong>: The things needed for my career</p>
+
+<p><strong>Predicate</strong>: I am ready to do.</p>
+
+<p><strong>Example</strong>: Plotting my path to the US is needed for my career.</p>
+
+<p><strong>Definition</strong>: I have not really spoken to anyone within ASML about
+opportunities to go to the US. I have heard stories about it. Looks
+like example doesn’t match the definition.</p>
+
+<p><strong>Checklist</strong>: yes; false; none; not-chapter; not-running; none;
+<em>matching-definition</em>; <em>unsure</em>; <em>time</em>  (You need to understand that
+these are vague predicates I guess)</p>
+
+<p><strong>Pattern</strong>: “What is needed for X I am ready to do”</p>
+
+<p>I wont take this seriously. This statement is but an exercise and that
+is it. I wrote it in the past and whether it is true or not doesn’t
+make a difference to me.</p>
+
+<p><strong>plan</strong>: Skip it.</p>
+
+<h3 id="does-not-pay">does not pay</h3>
+
+<h3 id="keeping-true-costs-off-books">keeping true costs off books</h3>
+
+<blockquote>
+  <p>Part of the way (mass incarceration persists in this country)[1] is by
+(keeping the true costs of it off the books)[2] and we are doing that
+with (underpaid labor from prisoners themselves)[3], (financially draining
+families)[4], and (monetizing prisoners being launched into the fucking
+air)[5].</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] is by [2].</p>
+
+<p><strong>Subject</strong>: [1].</p>
+
+<p><strong>Predicate</strong>: is by [2].</p>
+
+<p><strong>Example</strong>: <em>Bold claim! I don’t think it has an example</em></p>
+
+<p><strong>Definition</strong>:  -</p>
+
+<p><strong>Checklist</strong>: no; neither; none; not-chapter; not-running; none;
+<em>definition-unclear</em>; <em>failed</em>; <em>because-should-due-to</em>; <em>failed to realize</em>; (<em>by</em>)</p>
+
+<p><strong>Pattern</strong>:  &gt; 6 words? maybe? I don’t know.</p>
+
+<h3 id="common-sense">common sense</h3>
+
+<blockquote>
+  <p>we have come a long long way from common sense</p>
+</blockquote>
+
+<p><strong>Subject</strong>: What we do.</p>
+
+<p><strong>Predicate</strong>: come a long long way from common sense</p>
+
+<p><strong>Example</strong>: A prisoner being launched six feet into the sky (<a href="https://youtu.be/AjqaNQ018zU?t=422">convict
+poker</a>) by way of which he can earn money in 100’s of <span>$</span> so
+that he can pay for things related to his case such as a private
+investigator.</p>
+
+<p><strong>Definition</strong>: I think it checks out.</p>
+
+<p><strong>Checklist</strong>: yes; neither; none; not-chapter; not-running; none;
+<em>definition-unclear</em>; <em>failed</em> ; (<em>common sense</em>)</p>
+
+<h2 id="subject-predicate-split">subject predicate split</h2>
+<h3 id="it-is-b">it is B</h3>
+
+<blockquote>
+  <p>“There was a little girl in California who was part of the second
+class to integrate her public schools and she was bused to school
+everyday, and that little girl was me,” she said. “So, I will tell
+you: on this subject, (it)[1] cannot be (an intellectual debate among
+Democrats)[2]. We have to take it seriously. We have to act swiftly.”</p>
+</blockquote>
+
+<p><strong>Claims</strong>: [1] cannot be [2].</p>
+
+<p><strong>Subject</strong>: Discussion amongst Democrats</p>
+
+<p><strong>Predicate</strong>: cannot be intellectual</p>
+
+<p><strong>Example</strong>: <em>Very vague labels and hard to give examples for this</em></p>
+
+<p><strong>Definition</strong>: <em>No idea how to test against the predicate, nor do I
+have an example.</em></p>
+
+<p><strong>Checklist</strong>: yes; neither; 
+<em>subject-predicate-split</em>; <em>time</em>; <em>failed</em></p>
+
+<p><strong>pattern</strong>: “It cannot be BC DEF”</p>
+
+<hr />
+
+<h3 id="i-have-x">I have X</h3>
+
+<p><strong>Claims</strong>: I have [11].</p>
+
+<p><strong>Subject</strong>: My important things.</p>
+
+<p><strong>Predicate</strong>: need focus.</p>
+
+<p><strong>Example</strong>: I have spent roughly 500 hrs over one year on Concrete
+thinking and still struggle with ten phrases an hour.</p>
+
+<p><strong>Definition</strong>: It appears that ten phrases per hour is really slow
+and that I need to spend more effort on it to improve.</p>
+
+<p><em>Don’t know if I did CT right here</em></p>
+
+<p><strong>Checklist</strong>: yes; true; none; not-chapter; not-running; none;
+<em>a-is-important</em>; <em>failed</em>; <em>subject-predicate-split</em>; <em>failed</em>;
+(“What I have” is the subject); (even if the claim was “My important
+things need focus”, then the subject is still wrong)</p>
+
+<p><strong>Pattern</strong>: “I have X”?</p>
+
+<hr />
+
+<h3 id="getting-a-is-b">Getting A is B</h3>
+
+<blockquote>
+  <p>Claims: Getting married is [12].</p>
+
+  <p>Subject: Being Married</p>
+
+  <p>Predicate: is [12].</p>
+
+  <p>Example: The great Eliezer Yudkowsky, Paul Graham, Bill Gates,
+Vishwanath Anand are all married.</p>
+
+  <p>Here I should have compared for example what Eliezer is and would have
+been if he was not married or sumpin in that context. But I didn’t</p>
+</blockquote>
+
+<p>What it actually should have been:</p>
+
+<p><strong>Subject</strong>: What marriage will do to your goals</p>
+
+<p><strong>Predicate</strong>: bring it down</p>
+
+<p>Then I would give an example to the subject and not just say
+“Eliezer or Vishvanath Anand”.</p>
+
+<p><strong>how-to</strong>: Getting A is B;</p>
+
+<h3 id="there-is-x">there is X</h3>
+
+<blockquote>
+  <p>if (an area already receives plenty of attention)[1], then there
+will usually already be (people working on the most promising
+interventions)[2].</p>
+</blockquote>
+
+<p>I don’t know how the subject and predicate looks without checking…</p>
+:ET

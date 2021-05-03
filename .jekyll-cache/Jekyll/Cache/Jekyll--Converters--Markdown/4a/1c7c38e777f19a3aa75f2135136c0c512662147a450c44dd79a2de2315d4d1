@@ -1,0 +1,72 @@
+I"�	<h2 id="what-i-have">What I have</h2>
+
+<p>Acer Nitro 5 AN515-51-5048 - Gaming Laptop - 15.6 inch</p>
+
+<p>According to <a href="https://www.bol.com/nl/p/acer-nitro-5-an515-51-5048-gaming-laptop-15-6-inch/9200000079996856/?s2a=#product_specifications">bol.com</a>:</p>
+
+<p><strong>Memory</strong>
+Internal memory Tooltip: 8 GB
+Max. internal memory Tooltip: <strong>32 GB</strong>
+Type of internal memory Tooltip: DDR4 (SODIMM)
+Number of memory slots: 2
+Memory layout: 1 x 8 GB
+RAM memory expandable: Yes</p>
+
+<p><strong>Other</strong>
+Intel® Core™ i5-7300HQ CPU @ 2.50GHz × 4</p>
+
+<p>GeForce GTX 1050/PCIe/SSE2</p>
+
+<p><strong>Can it be extended to 32GB ram</strong></p>
+
+<p>According to both bol and <a href="https://tweakers.net/pricewatch/900265/acer-nitro-5-an515-51-5048/specificaties/">tweakers</a>, yes.</p>
+
+<h2 id="what-do-you-need-exactly"><strong>What do you need exactly?</strong></h2>
+
+<p>Something about hz? “you need DDR4, 2133/2400MHz memory
+module.”—<a href="https://community.acer.com/en/discussion/541255/acer-nitro-5-an515-51-ram-upgrade">acerforum</a></p>
+
+<p>Using <code class="language-plaintext highlighter-rouge">sudo dmidecode --type 17</code> I get the following</p>
+
+<p>Memory Device
+	Array Handle: 0x000D
+	Error Information Handle: No Error
+	Total Width: 64 bits
+	Data Width: 64 bits
+	Size: 8192 MB
+	Form Factor: <strong>SODIMM</strong>
+	Set: None
+	Locator: ChannelB-DIMM0
+	Bank Locator: BANK 2
+	Type: <strong>DDR4</strong>
+	Type Detail: Synchronous Unbuffered (Unregistered)
+	Speed: <strong>2133 MHz</strong>
+	Manufacturer: 04CB
+	Serial Number: A5980000
+	Asset Tag: 9876543210
+	Part Number: AO1P21FC8T1-BSKS  <br />
+	Rank: 1
+	Configured Clock Speed: 2133 MHz
+	Minimum Voltage: 1.5 V
+	Maximum Voltage: 1.5 V
+	Configured Voltage: 1.2 V</p>
+
+<p>“It’s ok to buy higher Mhz”—<a href="https://superuser.com/questions/753502/what-happens-if-i-use-ram-of-a-faster-speed-than-the-cpu-supports">stack</a></p>
+
+<h2 id="buying">buying</h2>
+
+<p><strong>Where to buy exactly?</strong></p>
+
+<p>Bol.com known supplier has both hyperX (kingston) and crucial…</p>
+
+<p>HyperX Impact 16GB DDR4 2666MHz (1 x 16 GB)</p>
+
+<p>Crucial CT16G4SFD824A 16GB DDR4 SODIMM 2400MHz (1 x 16 GB)–&gt; Has
+9.8/10  <a href="https://www.coolblue.nl/en/product/803127/crucial-16gb-sodimm-ddr4-2400-1x-16gb.html#product-reviews">here</a></p>
+
+<p><strong>Crucial CT16G4SFD824A 16GB DDR4 SODIMM 2400MHz (1 x 16 GB) form bol.com…</strong></p>
+
+<p><strong>What is the return policy?</strong></p>
+
+<p>good RP.</p>
+:ET

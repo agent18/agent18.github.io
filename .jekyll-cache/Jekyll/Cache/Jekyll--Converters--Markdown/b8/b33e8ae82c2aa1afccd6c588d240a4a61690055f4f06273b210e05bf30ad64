@@ -1,0 +1,325 @@
+I"56<h2 id="installing-ubuntu-dual-boot-windows-10">installing ubuntu dual boot windows 10</h2>
+
+<p><a href="https://www.youtube.com/watch?v=qNeJvujdB-0&amp;t=183s">seems like a nice video for following</a>; also following <a href="https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/">random page</a></p>
+
+<p>PC on time starts at 16;58 rea; time!</p>
+
+<p><a href="https://askubuntu.com/questions/221835/how-do-i-install-ubuntu-alongside-a-pre-installed-windows-with-uefi?utm_medium=organic&amp;utm_source=google_rich_qa&amp;utm_campaign=google_rich_qa">how to di install a pre-installed
+windows with wifi</a> ask ubuntu page!</p>
+
+<p>Secure boot UeFI Fast boot; current system runs on UEFI mode–&gt;
+MSinfo32 on run gives the info….</p>
+
+<p>Space &gt; 20 gb</p>
+
+<p>Windows ont shutdown in ‘fast-startupmode’ (basically hibernation!)</p>
+
+<p>Dont understand “if installing on gpt type partition and you need to
+leave UEFI enabled”?</p>
+
+<p>–&gt; powershell–&gt; Confirm-SecureBootUEFI</p>
+
+<p>true imples secure boot is there and enabled!</p>
+
+<p>current boot mode is UEFI, need to boot ubuntu in UEFI, and only
+disable secure boot…..  <a href="https://help.ubuntu.com/community/UEFI">boot mode should match</a></p>
+
+<p>secure boot is avoid malware to use the boot loader</p>
+
+<p>UEFI is an alternative to BIOS that can support larger systems and is
+hence somehow prefered by microsoft</p>
+
+<p>Suggestions based on uefi ubuntu page and ask ubuntu page</p>
+
+<p>Keep secure boot on UEFI on fast boot swtiched off  and try ubuntu first, if good, then install, if
+still not good, then try boot repair</p>
+
+<p>We might need to create some space for EFI’’’’’ might!</p>
+
+<p>Getting grub and repairing the boot will be seen later or dealt with
+later!</p>
+
+<p>now to tht real installation?</p>
+<h4 id="partitioning">Partitioning</h4>
+
+<p>for now i allowcate 150gb, if needed later, i will refer to <a href="https://askubuntu.com/a/812653/443958">this</a>
+and follow the instructions to increase the size of the partition as
+and when required.</p>
+
+<h4 id="disable-fast-startup">disable fast startup</h4>
+
+<p>control panel–&gt; power options–&gt;choose what buttons do–&gt; change
+unavilable settings–&gt; turn off fast boot–&gt; save changes</p>
+
+<h4 id="disable-secure-boot">disable secure boot?</h4>
+<p>F2
+<a href="https://itsfoss.com/disable-secure-boot-in-acer/">set password in bios to change secure boot</a>
+now disable boot</p>
+
+<h4 id="try-ubuntu">Try ubuntu</h4>
+
+<p>unable to diable intel srt tech, as it is not there –&gt; suggested by
+uefi page</p>
+
+<p>Based on <a href="https://www.youtube.com/watch?v=qNeJvujdB-0&amp;t=183s">the video</a>
+	<code class="language-plaintext highlighter-rouge">check disck for errors defects</code></p>
+
+<p>one error found! no help online,, might be due to graphics drivers!
+might be realted to squashfs (previously seen as a problem with secure
+boot)</p>
+
+<p>moving further anyway then</p>
+
+<p>first try –&gt; didn’t work; black screen</p>
+
+<p>second try based on updating to <a href="https://askubuntu.com/questions/832163/black-screen-when-loading-ubuntu-live-usb/832173?utm_medium=organic&amp;utm_source=google_rich_qa&amp;utm_campaign=google_rich_qa">nomodeset</a></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>e to edit grub
+replace `quiet splash` by `nomodeset`
+</code></pre></div></div>
+
+<p>This is done as some hardware might have issues.</p>
+
+<p>ubuntu looks good so far!</p>
+
+<p>Checked if partition was GPT or mBr, looks like uefi and gpt go hand
+in hand, but i checked it using <a href="http://www.thpc.info/how/gpt_or_mbr.html">the link shown</a></p>
+
+<blockquote>
+  <p>The 4-partition limit no longer exists with disks that use the GUID
+Partition Table (GPT). GPT supports up to 128 partitions by default
+and does not include the concepts of primary, extended, or logical
+partitions (although many tools refer to all GPT partitions as
+“primary partitions,” simply because those tools were written with
+the older MBR system in mind). <a href="https://askubuntu.com/questions/149821/my-disk-already-has-4-primary-partitions-how-can-i-install-ubuntu?utm_medium=organic&amp;utm_source=google_rich_qa&amp;utm_campaign=google_rich_qa">-askubuntu</a></p>
+</blockquote>
+
+<hr />
+
+<ul>
+  <li>partitions of the free space
+    <ul>
+      <li>swap 2x ram 16gb (swap)</li>
+      <li>root 25gb ext4 journouling system (/)</li>
+      <li>home 120gb ext4 journouling system /(home)</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h4 id="installation-complete">Installation complete</h4>
+
+<p>restart now hangs – could be the graphics? lets wait and see</p>
+
+<p>hard reset</p>
+
+<h4 id="grub-not-showing">Grub not showing</h4>
+
+<p>changed somehting in the bootorder to <code class="language-plaintext highlighter-rouge">windows boot manager</code> and it
+went stright to grub.. need to check if I can make this better</p>
+
+<h4 id="ubuntu-booting">ubuntu booting</h4>
+
+<p>hangs with quiet splash</p>
+
+<p>takes way too long with  nomodeset, don’t know why?</p>
+
+<p>it boots into ubuntu,</p>
+
+<p>takes so much time before</p>
+
+<h4 id="nvidia-stuff">Nvidia stuff</h4>
+
+<p><a href="https://github.com/rdjondo/TensorFlowGPUonUbuntu/wiki/Installing-Ubuntu-16.04-LTS-in-Dual-Boot-with-NVIDIA-GPU-support">Possible Nvidia support </a> for system with dual boot, suggesting
+removal of secure boot</p>
+
+<p><a href="https://gist.github.com/wangruohui/df039f0dc434d6486f5d4d098aa52d07">Latest Long Lived Branch version for Linux x86_64/AMD64/EM64T,</a> to
+be used!</p>
+
+<p><a href="http://www.linuxandubuntu.com/home/how-to-install-latest-nvidia-drivers-in-linux">installation guide 1</a></p>
+
+<p>sudo apt-get install nvidia-390</p>
+
+<p>cehecked 390 support for 1050 and moving on. restart</p>
+
+<p>testing if system works without nomodeset
+System works,seems to take less time than before</p>
+
+<p>login screen -33s from selection 
+screen- 47
+mozilla - 61s</p>
+
+<p>Much better than old systems i have used, but still! the fact the
+windows boots to login in &lt;10s is painful.</p>
+
+<p><a href="https://github.com/rdjondo/TensorFlowGPUonUbuntu/wiki/Installing-Ubuntu-16.04-LTS-in-Dual-Boot-with-NVIDIA-GPU-support">Possible Nvidia support </a> says to try</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>nvidia-settings
+</code></pre></div></div>
+
+<p>to open the settings menu as a check as well</p>
+
+<p>different display settings open up finally to allow to use the
+different resolutions!</p>
+
+<p><a href="https://askubuntu.com/questions/760934/graphics-issues-after-while-installing-ubuntu-16-04-16-10-with-nvidia-graphics">this askubuntu post</a> covers basics of graphics and not
+	particulars, refer to the above for details succh as which and
+	what!</p>
+
+<h4 id="boot-time-slow">boot time slow</h4>
+
+<p>No problem with UUID <a href="https://askubuntu.com/questions/760694/really-slow-boot-on-16-04?utm_medium=organic&amp;utm_source=google_rich_qa&amp;utm_campaign=google_rich_qa">UUID check with /etc/fstab</a></p>
+
+<p>checking out DE, Xorg to see if it might have anything to do with it
+followed by <code class="language-plaintext highlighter-rouge">system-analyze-blame</code></p>
+
+<p>removed network waiting (14s)</p>
+
+<p>login screen -33s from selection 
+screen- 43
+chrome - 61s
+———————————————————</p>
+
+<p>aspci vishnu said something</p>
+
+<p>and also sleep is taking a long time, check it with using the nvidia swtichoffer!</p>
+<h2 id="installing-ubuntu-overwriting-windows-10">Installing Ubuntu overwriting windows 10</h2>
+
+<p><a href="https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop#5">Install ubuntu using this link for instructions</a></p>
+
+<p>The whole installation overwrote a Windows 10 pro edition, which was slow AF for doing normal actions.</p>
+
+<p>A message inbetween pointed out that the installation would happen with UEFI. Basic search pointed out there might not be any difference on whethere it is UEFI or Bios installation.</p>
+
+<p>Upon completion, it restarted to give me SquashF errors, just like I
+have always observed some errors in my old PC. I didn’t take any
+picture. Switching off secure boot seems to have done the trick.</p>
+
+<h3 id="secure-boot-on">Secure boot on</h3>
+
+<p>As we are Linux users we cannot really have completely “signed”
+drivers for many of our hardware. This being the case, I guess (from
+my reading online) that we should turn off secure boot.</p>
+
+<p>Use F12 to go to menu upon reboot adn find your way to switch off
+secure boot.</p>
+
+<h2 id="installing-3rd-party-softwares-as-necessary-by-ubuntu">Installing 3rd party softwares as necessary by UBUNTU</h2>
+
+<p>During installation I had selected “install all 3rd party software”
+Because of this secure boot switched on, I am not convinced it all happened smoothly.</p>
+
+<p>So I did <a href="https://askubuntu.com/questions/290293/how-can-i-install-the-third-party-software-option-after-ive-skipped-it-in-the">this</a>,</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt-get install ubuntu-restricted-extras
+</code></pre></div></div>
+
+<h2 id="emacs-installation">Emacs installation</h2>
+
+<p>Look at <a href="Emacs-introduction.html">this post</a> by me for more info on emacs
+and setting it up, but primarily:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo add-apt-repository ppa:kelleyk/emacs
+sudo apt-get update
+sudo apt-get install emacs25
+</code></pre></div></div>
+
+<h2 id="chrome">Chrome</h2>
+
+<p>Get chrome <a href="https://askubuntu.com/questions/510056/how-to-install-google-chrome">here</a> (mainly due to legacy use and page translate). Reproduced for convinience:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+
+echo 'deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main' | sudo tee /etc/apt/sources.list.d/google-chrome.list
+
+sudo apt-get update 
+
+sudo apt-get install google-chrome-stable	
+</code></pre></div></div>
+
+<h2 id="drive-on-laptop">Drive on laptop</h2>
+
+<p>Followed instructions as per <a href="https://www.howtogeek.com/196635/an-official-google-drive-for-linux-is-here-sort-of-maybe-this-is-all-well-ever-get/">how to geek</a>:</p>
+
+<ol>
+  <li>
+    <p>Install Gnome-control-centre</p>
+
+    <p>sudo apt install gnome-control-center gnome-online-accounts</p>
+  </li>
+  <li>
+    <p>Settings-&gt; online accounts -&gt; Add Account-&gt; Files (should be on for google)</p>
+  </li>
+</ol>
+
+<p>One needs Gnome-control-centre; install it and manipulate it and see
+how that goes!</p>
+
+<h2 id="internet-speed-on-panel">Internet speed on panel</h2>
+
+<p>Based on <a href="https://askubuntu.com/questions/866990/system-monitor-how-to-display-net-speed-on-panel?utm_medium=organic&amp;utm_source=google_rich_qa&amp;utm_campaign=google_rich_qa">Stack</a>,</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo -i
+add-apt-repository ppa:nilarimogard/webupd8
+apt update &amp;&amp; apt install indicator-netspeed
+</code></pre></div></div>
+
+<p>Run</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>indicator-netspeed &amp;
+</code></pre></div></div>
+
+<p>After this you never need to run it on a terminal, it will be on for
+the rest of the time. One needs to jsut check out the options on the
+panel bar before one sees the actual numbers.</p>
+
+<h2 id="chrome-with-emacs-shorcuts">Chrome with Emacs shorcuts?</h2>
+
+<p>Based on <a href="https://askubuntu.com/a/233539/443958">answer here</a> and if you have gtk3:</p>
+
+<p>Switching on as follows,</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gsettings set org.gnome.desktop.interface gtk-key-theme "Emacs"
+</code></pre></div></div>
+
+<p>Switching off as follows,</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gsettings set org.gnome.desktop.interface gtk-key-theme "Default"
+</code></pre></div></div>
+
+<p>For convinience, paste this in your .bashrc_aliases file:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>alias on-chrome-emacs-binding='gsettings set org.gnome.desktop.interface gtk-key-theme "Emacs"'
+alias off-chrome-emacs-binding='gsettings set org.gnome.desktop.interface gtk-key-theme "Default"'
+</code></pre></div></div>
+
+<p>Make sure the following is present in the .bashrc file (<a href="https://askubuntu.com/a/17537/443958">stack</a>):</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>if [ -f ~/.bash_aliases ]; then
+. ~/.bash_aliases
+fi
+</code></pre></div></div>
+
+<p>Not all keybindings work, only cut and copy works, not so good!</p>
+
+<h2 id="problems-with-the-newold-dell-latitude-e-5430">Problems with the new/old Dell Latitude E 5430</h2>
+
+<p>Mouse pad seems to be less sensitive and there are regions where the
+mousepad barely works.</p>
+
+<p>Sleep time seems to be taking up a lot of battery. My hp g6 pavillion
+can last a few days without turn off, but not this one. It doesn’t
+seem to last even a day.</p>
+
+<h2 id="boot-time">Boot time</h2>
+
+<p>may6 2018- Dell Latitude E5430- 39 seconds until login screen-  74 s until terminal opens -
+94 s until chrome opens - 1-2 s for gedit</p>
+
+<p>may 10 2018 - HP Pavillion G6- 54 s - 86s terminal - 106s until chrome - 4s for gedit</p>
+
+<h2 id="performace">Performace</h2>
+
+<p>Performance wise it is ok for sure. Things are fast enough.</p>
+:ET

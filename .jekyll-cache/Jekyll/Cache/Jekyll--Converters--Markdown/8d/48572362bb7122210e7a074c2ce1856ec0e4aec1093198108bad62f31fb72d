@@ -1,0 +1,1658 @@
+I"�<h2 id="feedback-from-an-stm">Feedback from an STM</h2>
+
+<p>In the <a href="/the-last-dance-career.html">last essay</a> I had looked at the impact of Data Science (DS)
+career vs an EA career. I hadn’t looked at the lifetime calculations
+which seems to be a better indicator. For example, 8 years of grind
+from 30 and then ending up with a high-pay job, might still be better
+than taking a less risky but lower-paying job.</p>
+
+<p>Also, at the end of the essay I concluded that I was going to switch
+to DS in the coming 6 months and then get back to focusing on EA. This
+I did without really looking at what sort of impact it had on the
+lifetime impact.</p>
+
+<p>With this essay, I hope to address the above issues.</p>
+
+<h2 id="introduction">Introduction</h2>
+
+<p>Many people I know in FAANG are making 300k TC after 4-6 years of
+experience, be it in antenna design or Data Science or CS. Having seen
+examples of Jeff Kaufman being able to donate 50% (150k), there seems
+to be “great” potential with a FAANG job.</p>
+
+<p>On the other hand EA also claims to have lots of impact. With Milan
+Griffes’ estimate <a href="https://80000hours.org/2016/08/reflections-from-a-givewell-employee/">here</a>, on how just as an entry level researcher
+he is able to make contributions to the extent of 93k dollars, it
+seems to hold a lot of promise.</p>
+
+<p>I am thus intrigued by both these paths as options for a
+“high-impact-career” and would like to compare these two over a life
+time and particularly for my scenario.</p>
+
+<p><strong>Note</strong>: There are 2 ways many people I know take, to get to the
+US. People take the masters route, and then work towards an H1B visa
+which allows you to work there. The other route is the L1 route. In
+this case you work in say Amazon in India (for e.g.,) and then try to
+move to the US on an L1.</p>
+
+<p>With this essay we look at the following scenarios:</p>
+
+<ol>
+  <li>
+    <p>Start with a DS job, find a masters in the US and somehow get into
+FAANG and donate X% ever year. This also includes the fall back
+option of coming back to NL for whatever reason (recession, getting
+fired etc.) and continuing DS in NL for the rest of my life.</p>
+  </li>
+  <li>
+    <p>Start with a DS job, and instead of taking the masters route to the
+US, I will try the L1 route. The rest is the same as in 1.</p>
+  </li>
+  <li>
+    <p>Try, in the coming 4-5 years to become a GiveWell Researcher while
+the fall back option being to pursue <code class="language-plaintext highlighter-rouge">DS with L1</code> and if that
+fails, back to Netherlands in DS.</p>
+  </li>
+  <li>
+    <p>Try in the coming 4-5 years to become a Charity Entrepreneur, and
+the fall back option being to pursue <code class="language-plaintext highlighter-rouge">DS with L1</code> and if that fails
+back to Netherlands in DS.</p>
+  </li>
+</ol>
+
+<p><strong>Why GiveWell?</strong></p>
+
+<p>GiveWell is a “highly respected” organization among the EA
+community. Their impact is very clear with their cost-effectiveness
+estimates and their money moved to other organizations. This allows me
+to compare impact with other scenarios. If for example I took MIRI or
+Open Phil, then I really don’t have such estimates to make
+comparisons.</p>
+
+<p>GiveWell can in-theory be substituted with anything else that holds
+similar or larger impact.</p>
+
+<p><strong>4-5 years is arbitrary</strong></p>
+
+<p>From <a href="https://forum.effectivealtruism.org/posts/hcdwSvGntCDJxCuqx/examples-of-people-who-didn-t-get-into-ea-in-the-past-but">here</a> I get some estimates of how long people spent trying to
+move into EA be it in research or entrepreneurship. It is in the order
+of 2-5 years. If I don’t get in, in that time then I assume I should
+stop trying.</p>
+
+<p><strong>Why DS?</strong></p>
+
+<p>I am going to focus on DS instead of CS, for DS involves “critical
+thinking”, working with statistics, working with claims, hypothesis
+testing etc.–things that seem to help become a better EA researcher.
+Also Earning potential wise, it appears there is not “much difference”
+(<a href="https://medium.com/datadriveninvestor/which-is-more-promising-data-science-or-software-engineering-7e425e9ec4f4">looking at the average salaries</a> of <code class="language-plaintext highlighter-rouge">137k$</code>). So we stick with
+DS.</p>
+
+<p><strong>Why US?</strong></p>
+
+<p>Earning potential is quite high in the US. Earnings are substantially
+larger than here in Netherlands (or Europe). I know DS people with
+4yoe in Apple California earning 300k<code class="language-plaintext highlighter-rouge">$</code> TC and others in Walmart with
+300k<code class="language-plaintext highlighter-rouge">$</code> TC. While here (Netherlands) people seem to be <a href="https://www.glassdoor.nl/Salarissen/Booking-com-Data-Scientist-Amsterdam-Salarissen-EJI_IE256653.0,11_KO12,26_IL.27,36_IM1112.htm?experienceLevel=ONE_TO_THREE">earning
+78k-103k$</a> as per Glassdoor. With salaries as in the US there
+are people like (<a href="https://www.jefftk.com/donations">Jeff Kaufman</a>) who are able to donate 50%. This
+amounts to about 150k<code class="language-plaintext highlighter-rouge">$</code> per year with a 300k<code class="language-plaintext highlighter-rouge">$</code> TC.</p>
+
+<p><strong>Why Research, why not operations?</strong></p>
+
+<p>I think I am capable of doing research more than operations. Also, the
+journey to an EA job in research seems like it can be done from home
+behind a computer. For e.g., there are <a href="https://forum.effectivealtruism.org/posts/hcdwSvGntCDJxCuqx/examples-of-people-who-didn-t-get-into-ea-in-the-past-but">people</a> who got a position
+in EA orgs by writing at the EA forum, critically evaluating other
+orgs’ work, and working on themselves on the side.</p>
+
+<p>However, the path doesn’t seem to be direct for operations work. If
+you look at <a href="https://www.linkedin.com/in/tanya-singh-08b36a65/">Tanya’s</a> profile you see that she has some different
+types of management experience for a few years and then turns to FHI
+for a position. I would need to take some chances and try some
+management positions and try to be best at it and maybe that pays
+off. Not sure what “high-impact-option” to take up if the operations
+route fails.</p>
+
+<p>Being a researcher doesn’t mean you can’t be a co-founder one day or
+grow into management positions in EA orgs. Research is only the start.
+It appears that researchers are capable of growing to <a href="https://www.linkedin.com/in/alexander-berger-58906098/">MD level</a>
+(higher impact than researcher) or even <a href="https://www.linkedin.com/in/milan-griffes/">co-founder level</a>
+positions.</p>
+
+<hr />
+<p><br /></p>
+
+<p>In the coming sections we look at the lifetime calculations of the
+different scenarios.</p>
+
+<h2 id="scenario-1-ds-with-masters-in-the-us">Scenario 1: DS with Masters in the US</h2>
+
+<p><img src="./images/career/DS-masters.png" alt="DS-masters" title="This is blab la blab" /></p>
+
+<p>The above decision tree shows the different parts expected on the
+“DS-masters” route. I would start with a DS job in Netherlands, find
+my way into a university, pay my University related expenses, fight
+with the odds of getting fired, get an H1B and then hopefully a FAANG
+job, working till 65 without getting fired.</p>
+
+<p>As a backup, in case I fail, I can always go back to Netherlands to
+pick myself up and continue DS there, albeit the smaller donation
+capability (shown later).</p>
+
+<h3 id="the-probabilities">The Probabilities</h3>
+
+<p>The following table shows the different crossroads and probabilities
+(Success/Other) associated with them. And the last line repeats itself
+until I am 65 when I would need to retire.</p>
+
+<table class="tablestyletwo">
+  <thead>
+    <tr>
+      <th>Year/age</th>
+      <th>Crossroad</th>
+      <th>Success</th>
+      <th>Other</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>30</td>
+      <td>Get a DS job in NL</td>
+      <td>95%</td>
+      <td>5%</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>Finishing master’s and Getting job</td>
+      <td>62%-71%</td>
+      <td>29%</td>
+    </tr>
+    <tr>
+      <td>34-39</td>
+      <td>Paying back the tuition debt</td>
+      <td>100%</td>
+      <td>0%</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>Not moving back due to recession or general firing</td>
+      <td>96%</td>
+      <td>4%</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>Not moving back due to recession or general firing</td>
+      <td>96%</td>
+      <td>4%</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>Not moving back due to recession or general firing</td>
+      <td>96%</td>
+      <td>4%</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>Get H1B within OPT years</td>
+      <td>58%</td>
+      <td>42%</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>Get FAANG job</td>
+      <td>90%</td>
+      <td>10%</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>Not moving back due to recession or general firing</td>
+      <td>96%</td>
+      <td>4%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>The chance of <strong>Getting a DS job in NL</strong> in the next 1 year seems
+“high” to me. I have seen a couple of people who have moved to DS from
+TU Delft where they did their master’s in engineering in “sustainable
+energy” and moved to DS. A more relatable story is of <a href="https://www.linkedin.com/in/vpparab/">this girl</a>,
+who did bachelor’s in Mechanical (similar to mine) and then moved to a
+master’s in TU Delft and moved into DS within a few months of
+graduating. She seems to have done a Coursera course, R and some
+python assignments in the mean time.</p>
+
+<p>Also, everyone works in DS, right from computer scientists to people
+who did their <a href="https://www.linkedin.com/in/peterhurford8/">bachelor’s in Psychology and political
+science</a>. <a href="https://www.linkedin.com/in/shashankmaiya/">This guy</a> with a PhD in Electrical Engineering spent
+8 months at a DS school in his weekends to transfer to DS in the
+US. As a result I think there is a high chance to <strong>Get a DS job in
+NL</strong>. I have placed this probability at <code class="language-plaintext highlighter-rouge">95%</code>.</p>
+
+<p><strong>Finishing master’s and getting job (recession or not)</strong></p>
+
+<p>Everyone I know has managed to get into a US university of their
+capability in a time that is not recession and ended up staying in the
+US with a job. I would guess that this number is around 20-40
+people. Three people from that lot did come back to India but that was
+because of not making the H1B Lottery (which is accounted for
+separately). Thus, I place the probability of finishing master’s and
+getting a job @ <code class="language-plaintext highlighter-rouge">70-80%</code>. If its a recession like now, then the
+chances of getting a job after finishing master’s is assumed to be
+<code class="language-plaintext highlighter-rouge">0%</code> which might be a “tad conservative”.</p>
+
+<p>The world has had about <a href="https://en.wikipedia.org/wiki/List_of_recessions_in_the_United_States">8 recessions in a span of 70 years</a>.
+Chance of recession in a given year seems to thus be <code class="language-plaintext highlighter-rouge">8/70=11.4%</code>. So
+taking this into account, the chance of “<strong>Finishing master’s and
+getting a job in the US (recession or not)</strong>”, is <code class="language-plaintext highlighter-rouge">(1-11.4%)x(70% to
+80%)+11.4%x0%</code>=<code class="language-plaintext highlighter-rouge">62% to 71%</code>.</p>
+
+<p><strong>Paying back tuition fees</strong>:<br />
+Doing a master’s costs money in the form of tuition and living
+expenses while studying. As soon as one starts his education the debt
+opens. I don’t expect any scholarship. Hence, this is placed at
+<code class="language-plaintext highlighter-rouge">100%</code>.</p>
+
+<p><strong>Not moving back due to recession or general firing</strong></p>
+
+<p>In the US it is quite possible that you loose your job in the time of
+recession or get fired from your regular job with little or no notice.
+This means that you have to scavenge for a job within the next 60 days
+and if you don’t end up finding a job you are kicked out of the
+country. This has bad implications for life time impact as this would
+mean going back to NL and working from there, where salaries are not
+comparable to that of the US.</p>
+
+<p>A proxy for the “<strong>chance of getting canned during recession</strong>” seems
+to be in this website which tracks the startups that are laying off
+people. I assume the median % of layoffs in these companies as my
+“chance of getting canned during recession” in any company. This seems
+conservative, in the sense that not all companies are going to layoff
+people during recession (e.g., FAANG in the current pandemic). This is
+<code class="language-plaintext highlighter-rouge">22%</code> according to <a href="https://airtable.com/shrqYt5kSqMzHV9R5/tbl8c8kanuNB6bPYr?backgroundColor=green&amp;viewControls=on">layoffs.fyi</a>. During recession I assume it is
+not possible to get a job within the 60 day period.</p>
+
+<p>The “<strong>chance of moving back to Netherlands, as a result of loosing my
+job in non-recession time</strong>” seems to be “really low”. Of the people I
+know who are living in the US and working in tech, some of them have
+gotten fired, and all of them have bounced back within the 60 day
+period. I thus put the chance of moving back during non-recession time
+as <code class="language-plaintext highlighter-rouge">2%</code> for a given year. (US unemployment rates during start of 2020
+was &lt;4%).</p>
+
+<p>Thus the total chance of <strong>NOT Moving back to NL due to recession or
+some general firing</strong> is <code class="language-plaintext highlighter-rouge">(1-11.4%)x(1-2%)+11.4%x(1-22%)</code>=<code class="language-plaintext highlighter-rouge">96%</code>.</p>
+
+<p><strong>Getting an H1B Visa</strong>: The next hurdle to be crossed is that of
+<strong>Getting an H1B visa</strong> through the lottery process. There seems to be
+a <code class="language-plaintext highlighter-rouge">58%</code> chance that a person with a switching background (mechanical
+to DS) will clear this hurdle <sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">1</a></sup>. This is including atleast 3 tries
+at H1B (i.e., 1-3 years of applying for the Lottery). The detailed
+reasoning and citations are in the footnotes <sup id="fnref:2:1" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">1</a></sup>.</p>
+
+<p>With this, all the probabilities used are covered for the DS Master’s
+path.</p>
+
+<h3 id="effective-value">Effective Value</h3>
+
+<p>With calculations for 3 different types of impacts, and the above
+probabilities it is possible to complete the decision tree and end up
+with an effective value as shown <a href="https://docs.google.com/spreadsheets/d/1Wfa8XFt98gqVNdfLaV8umMqASfVNx7QtYwwPjWe6Sew/edit#gid=1703661868">here</a> in Google sheets. The 3
+different impacts are:</p>
+
+<ol>
+  <li>
+    <p>Failure impact: Lifetime impact calculations from the time of
+failure (@ above “crossroads”) until retirement.</p>
+  </li>
+  <li>
+    <p>Success impact: Lifetime impact calculations if we face success (@
+above “crossroads”) all the time.</p>
+  </li>
+  <li>
+    <p>Additional significant costs that come into the picture such as
+tuition etc…</p>
+  </li>
+</ol>
+
+<p><strong>Failure Impact</strong></p>
+
+<p>The failure option for any point in the decision tree would be to go
+back to NL and pursue DS (“DS NL” in decision tree). This would be
+from the time of leaving US until retirement (and donate what is
+possible). The following variables are used to compute the <strong>DS NL</strong>
+impact.</p>
+
+<table class="tablestyletwo">
+  <thead>
+    <tr>
+      <th>Variables</th>
+      <th>Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Base salary NL at Start year</td>
+      <td>$60,000</td>
+    </tr>
+    <tr>
+      <td>Const. Growth Rate</td>
+      <td>3%</td>
+    </tr>
+    <tr>
+      <td>Average Donation %</td>
+      <td>15%</td>
+    </tr>
+    <tr>
+      <td>Start year</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td>End year (Retirement)</td>
+      <td>65</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>NL is pretty stable. While US unemployment rates have gone up to <a href="https://tradingeconomics.com/united-states/unemployment-rate#:~:text=Unemployment%20Rate%20in%20the%20United,percent%20in%20May%20of%201953.">14%
+from 3.5% at the beginning of the year</a>, in NL those rates have at
+max reached <a href="https://tradingeconomics.com/netherlands/unemployment-rate#:~:text=Unemployment%20Rate%20in%20Netherlands%20averaged,percent%20in%20February%20of%202020.">4.5% during recession from 3.5% at the beginning of the
+year</a>. It is thus assumed that I wont get fired till I retire, and
+will have a constant but slow growth rate (3% as observed where I
+work) in Netherlands.</p>
+
+<p>Regarding donations, I think 15% is hard to do in the first ten
+years. I am currently able to do 10%. This leaves me with just over
+15% for saving and vacations (36% taxes, 36% food and rent etc., 10%
+donation). Every Euro I earn extra from now on, is taxed at 50%
+along. Keeping expenses same and increasing savings and vacation
+expenses by 5%–between now and 10 years later–I estimate that I can
+increase the donation to 15% only after 10 years.</p>
+
+<p>So in the first 10 years sticking to 10% and in the last 10 years
+going as far as 20% might be an option. I think 15% on average over
+lifetime should be doable with a bit of effort. Further optimization
+is possible but we move on.</p>
+
+<p>In case I don’t get a US university for some reason, I am stuck in
+Netherlands as a result, then expected life time donation is around
+<code class="language-plaintext highlighter-rouge">560k$</code> based on years 32 to 65.</p>
+
+<p><strong>Success Impact</strong></p>
+
+<p>The following are the variables chosen to calculate the life time
+impact associated with working in DS in California:</p>
+
+<table class="tablestyletwo">
+  <thead>
+    <tr>
+      <th>Variables</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Base salary US at Start year</td>
+      <td>$150,000</td>
+    </tr>
+    <tr>
+      <td>Growth rate</td>
+      <td>6%</td>
+    </tr>
+    <tr>
+      <td>Average Donation %</td>
+      <td>30%-40%</td>
+    </tr>
+    <tr>
+      <td>Start year</td>
+      <td>34</td>
+    </tr>
+    <tr>
+      <td>End year</td>
+      <td>65</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>I assume the average growth rate is 6% on average (based on <a href="https://www.jefftk.com/money">2016 to
+2019 growth of Jeff Kaufman</a> which is after ~8 years of
+experience).</p>
+
+<p>In the first years I doubt I can do more than 10%. In the last 10
+years of my career I guess I can do way more than 30%. I expect to
+make 300k TC 8-10 years after I start the job. I will have about 100k
+per month to spend in-hand after a 30% donation (based on this
+<a href="https://www.calculator.net/take-home-pay-calculator.html?cannualincome=300000&amp;cpayfrequency=Annual&amp;cfilestatus=Single&amp;cchildren=0&amp;cotherdep=0&amp;cnonjobincome=0&amp;chelddeduction=9000&amp;cnothelddeduction=0&amp;citemdeduction=100000&amp;chasotherjobincome=no&amp;cjobincome2=0&amp;cjobincome3=0&amp;cstatetax=13.3&amp;ccitytax=0&amp;cselfemployed=no&amp;printit=0&amp;x=0&amp;y=0">net-salary calculator</a>). This seems to be quite a lot considering
+people in EA orgs are able to live on &lt;100k gross salary in
+California. Maybe I can push it to 40%, like a higher limit. If I end
+up with success at all crossroads, then it is expected to have <code class="language-plaintext highlighter-rouge">4m$</code>
+to <code class="language-plaintext highlighter-rouge">5m$</code> in expected donations by 65, based on average donation of
+<code class="language-plaintext highlighter-rouge">30%-40%</code>.</p>
+
+<p><strong>Additional Costs</strong></p>
+
+<p>Costs of program in a public university and the cost of living during
+that time is expected to be 70k for 2 years for a university like
+California State University. This I gather from someone who is doing
+their master’s there. I use this for now.</p>
+
+<p><strong>Lifetime Impact</strong></p>
+
+<p>Filling in the above values into the Google sheets shown <a href="https://docs.google.com/spreadsheets/d/1Wfa8XFt98gqVNdfLaV8umMqASfVNx7QtYwwPjWe6Sew/edit#gid=1703661868">here</a>,
+estimates the Lifetime impact of the DS Master’s path. It is expected
+to vary from <code class="language-plaintext highlighter-rouge">713k$</code> to <code class="language-plaintext highlighter-rouge">865k$</code>; with my “best-guess-estimate” at
+<code class="language-plaintext highlighter-rouge">731k$</code>. The <code class="language-plaintext highlighter-rouge">sheets</code> value only shows the “best-guess-estimate”.</p>
+
+<hr />
+
+<h2 id="scenario-2-ds-with-l1">Scenario 2: DS with L1</h2>
+
+<p><img src="./images/career/DS-L1.png" alt="DS-L1" /></p>
+
+<p>The above decision tree shows the different parts expected on the
+“DS-L1” route. I would start with finding a company that would allow
+me to transfer to US in due course on an L1 visa. I allow myself about
+4 years to mastermind this. Once I go to the US I would need to focus
+on plans to get to an H1B as the L1 is tied to the company and lasts
+for only 5 years. Once I am in the US I hope to also do an online
+master’s which would improve the chances of my H1B lottery (more on
+this later).</p>
+
+<p>As a backup, in case I fail, I can always go back to the Netherlands
+to pick myself up and continue DS there, albeit the smaller donation
+capability.</p>
+
+<h3 id="the-probabilities-1">The Probabilities</h3>
+
+<p>The following is part of the decision tree for what I expect to happen
+if I choose the “DS L1 route”.</p>
+
+<table class="tablestyletwo">
+  <thead>
+    <tr>
+      <th>Year/age</th>
+      <th>Crossroad</th>
+      <th>Success</th>
+      <th>Other</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>30</td>
+      <td>Did not find DS job in L1-able company in NL</td>
+      <td>50%</td>
+      <td>50%</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>Did find DS job in L1-able company in NL</td>
+      <td>50%</td>
+      <td>50%</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>Get L1 and go to US</td>
+      <td>72%</td>
+      <td>28%</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>Not  moving back due to recession or general firing</td>
+      <td>96%</td>
+      <td>4%</td>
+    </tr>
+    <tr>
+      <td>34-39</td>
+      <td>Paying back the tuition debt</td>
+      <td>100%</td>
+      <td>0%</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>Not  moving back due to recession or general firing</td>
+      <td>96%</td>
+      <td>4%</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>Not  moving back due to recession or general firing</td>
+      <td>96%</td>
+      <td>4%</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>Finding H1-able company</td>
+      <td>80%-100%</td>
+      <td>0%</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>Get H1B or move back</td>
+      <td>58%</td>
+      <td>42%</td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>Not moving back due to recession or general firing</td>
+      <td>96%</td>
+      <td>4%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>In this path I need to first find an L1-able company. A company that
+will allow me to move to the US on an L1-visa. There are examples I
+have come across, across fields and countries. There are people who
+went all the way to JP Morgan in New York on an L1 after a few years
+in India and <a href="https://www.linkedin.com/in/ramshandilya/">SWe engineers from India who are now in
+FAANG</a>. Atleast for mechanical background, people from ASML
+Netherlands regularly work in the US for a few years on L1. It seems
+“accessible”. I am really unsure how to approach such a thing for DS
+and from Netherlands. I have to look into the possibilities more for
+DS people in Netherlands. Say <code class="language-plaintext highlighter-rouge">50%</code> chance–much lesser than the
+chance of “finding a job in the US after a master’s” (80%). This
+is modeled as 2 chances for <strong>finding an L1-able company</strong> (as seen in
+the decision tree).</p>
+
+<p>Even if I find an L1-able company the USCIS needs to approve it. <a href="http://timesofindia.indiatimes.com/articleshow/71978362.cms?utm_source=contentofinterest&amp;utm_medium=text&amp;utm_campaign=cppst">This
+approval rate declined to 72% in fiscal 2019</a>. This is used in the
+decision tree.</p>
+
+<p>It appears that you increase your chances of getting an H1B from <code class="language-plaintext highlighter-rouge">42%
+to 58%</code><sup id="fnref:2:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">1</a></sup> (over 3 attempts) if you have a “US accredited
+Master’s”. Even in the L1 path I would like to pursue an online
+master’s atleast to increase chances of staying in the US. Hence the
+<strong>Paying back tuition debt</strong> “crossroad”.</p>
+
+<p>With an L1, there seems to be some push back from companies trying to
+take you in through an H1B. A friend while applying to companies while
+he was in L1 informs me that companies didn’t want him because he was
+on an L1. This was apparently so, as the company can only apply in
+April for H1B and furthermore needs to wait until a decision is
+received a few months later before that person on L1 is able to
+start. A way around this seems to be to not inform the companies of
+your visa status and focus on doing really well in the interview and
+informing them later about the visa. To factor this in, a multiplying
+factor of <code class="language-plaintext highlighter-rouge">80-100%</code> is used at crossroad: “<strong>Finding H1-able company</strong>”.</p>
+
+<p>The rest of the probabilities are similar to that in the previous
+scenario.</p>
+
+<h3 id="effective-value-1">Effective Value</h3>
+
+<p>The exact same impact calculations from the DS master’s path on
+failure impact, additional costs and success is used here as well. The
+decision tree in sheets can be found <a href="https://docs.google.com/spreadsheets/d/1Wfa8XFt98gqVNdfLaV8umMqASfVNx7QtYwwPjWe6Sew/edit#gid=1336986854">here</a>.</p>
+
+<p><strong>Lifetime Impact</strong></p>
+
+<p>Filling in the above values in the Google sheets estimates the life
+time impact of the <code class="language-plaintext highlighter-rouge">DS L1 path</code> to vary from <code class="language-plaintext highlighter-rouge">642k$</code> to <code class="language-plaintext highlighter-rouge">875k$</code>, with
+my “best-guess estimate” as <code class="language-plaintext highlighter-rouge">642k$</code>.</p>
+
+<hr />
+
+<h2 id="scenario-3-working-as-a-researcher">Scenario 3: Working as a researcher</h2>
+
+<p><img src="./images/career/GW.png" alt="GW" /></p>
+
+<p>The above decision tree shows the different parts expected along the
+“GiveWell Researcher” route. I would start by applying to GiveWell and
+working on improving myself in the next 4 years. Hopefully this gets
+me into GiveWell. From there on it can be anything such as growing in
+GiveWell or even starting up.</p>
+
+<h3 id="the-probabilities-2">The Probabilities</h3>
+
+<p>The following table shows the different crossroads and probabilities
+(Success/other) associated with them. And the last line repeats itself
+until I am 65 when I would need to retire.</p>
+
+<table class="tablestyletwo">
+  <thead>
+    <tr>
+      <th>Year/age</th>
+      <th>Crossroad</th>
+      <th>Success</th>
+      <th>Other</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>30</td>
+      <td>Did not get into GW</td>
+      <td>99%</td>
+      <td>1%</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>Did not get into GW</td>
+      <td>80%</td>
+      <td>20%-30%</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>Got into GW</td>
+      <td>60%</td>
+      <td>40%</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>Not moving back due to recession or general firing</td>
+      <td>96%</td>
+      <td>4%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>The general chance of getting into GiveWell or for that matter any EA
+org is quite low just looking at the number of people applying to
+it. For example, the acceptance rate for a GR at Open Phil was less
+than 5% of the people who applied in 2018. At the moment I am sure I
+am not GiveWell material. I didn’t get two internships with Happier
+Lives Institute and Charity Entrepreneurship which informs me that I
+atleast need to work on myself. However HLI informed me that my
+internal validity assessment, for one of their tests was “one of the
+best”, so all hope needn’t be abandoned yet. In a few years I can
+“build the skills” through DP hopefully and see where that gets me. I
+guess based on this, that there is a <code class="language-plaintext highlighter-rouge">1%</code> chance of me getting in now,
+a <code class="language-plaintext highlighter-rouge">20-30%</code> chance that I get in after 2 years of work, and a <code class="language-plaintext highlighter-rouge">60%</code>
+chance that I make it in 4 years from now.</p>
+
+<p>The chance that I don’t have to move back to NL and pursue other
+options either due to recession or general firing, is assumed to be
+the same as was the case with <code class="language-plaintext highlighter-rouge">DS master's</code> and <code class="language-plaintext highlighter-rouge">DS-L1</code> routes. So a
+<code class="language-plaintext highlighter-rouge">96%</code> chance.</p>
+
+<h3 id="effective-value-2">Effective Value</h3>
+
+<p>To compute the effective value we need the following in addition to
+the probabilities above.</p>
+
+<ol>
+  <li>
+    <p>Success impact: Lifetime calculations if faced with success all the
+time in the decision tree.</p>
+  </li>
+  <li>
+    <p>Failure impact: What happens when I don’t get into GiveWell. What
+is going to be the impact?</p>
+  </li>
+</ol>
+
+<p><strong>Failure impact</strong>:</p>
+
+<p>I assume that if I fail before 40 years I still can give DS L1 route a
+go, and if that fails, then ‘DS in NL’. Post 40 I just assume that I
+can only do ‘DS in NL’ for the rest of my life. These numbers are
+calculated based on the same variables as estimated in <code class="language-plaintext highlighter-rouge">DS-master's</code>
+and <code class="language-plaintext highlighter-rouge">DS-L1</code>.</p>
+
+<p><strong>Success Impact</strong></p>
+
+<p>Lifetime impact of working in an EA org is calculated based on
+<a href="https://blog.givewell.org/2016/04/05/givewells-progress-in-2015/">GiveWell’s 2015 impact post</a>. GiveWell moved 110m<code class="language-plaintext highlighter-rouge">$</code> in 2015. But
+the amount that is to be associated with the researcher is much
+less. How much is it? The values used to estimate this are shown in
+the table below.</p>
+
+<table class="tablestyletwo">
+  <thead>
+    <tr>
+      <th>Variables</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Total amount moved in 2015 by GW</td>
+      <td>$110,000,000</td>
+    </tr>
+    <tr>
+      <td><del>Amount Attributed to GW (shapely values)</del></td>
+      <td><del>33%</del></td>
+    </tr>
+    <tr>
+      <td>Counterfactual contribution of GW</td>
+      <td>37%</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Total amount attributed to Researcher as % of co-founder</td>
+      <td>10%</td>
+    </tr>
+    <tr>
+      <td>No. of co-founders</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>Growth Rate Attributed to the Researcher</td>
+      <td>8%</td>
+    </tr>
+    <tr>
+      <td>Counterfactual contribution of Researcher</td>
+      <td>5%-15%</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Additional Counterfactual ETG Base</td>
+      <td>$3,500</td>
+    </tr>
+    <tr>
+      <td>Growth Rate Attributed to Counterfactual ETG</td>
+      <td>3%</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Start Year</td>
+      <td>34</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>GiveWell moved <code class="language-plaintext highlighter-rouge">110m$</code>, but there were other agents involved as
+well. It doesn’t seem fair to attribute all the impact to just
+GiveWell, or the donors, or the orgs performing the interventions such
+as AMF or Give Directly.</p>
+
+<p>There seems to be two schools of thought when it comes to assessing
+impact when multiple agents are involved. One is through <a href="https://forum.effectivealtruism.org/posts/XHZJ9i7QBtAJZ6byW/shapley-values-better-than-counterfactuals">shapely
+values as motivated here</a> and the other is through <a href="https://forum.effectivealtruism.org/posts/EP8x3vHRQJP57TjFL/the-counterfactual-impact-of-agents-acting-in-concert">counterfactual
+impact as explained here</a>. Shapely values seems to divide the value
+among the different agents equally. Whereas, counterfactual impact
+captures how much impact an action “truly” has, compared to doing
+nothing. However using both seems not to be advocated in the links
+above. I prefer using counterfactual impacts as it gives the agent’s
+impact when it exists and doesn’t exist.</p>
+
+<p><del><strong>Shapely Values</strong>: Just like we divide the impact of the org among
+the different people working in the org, it seems appropriate that we
+should also divide the impact of the 110m that GiveWell moves, among
+the following: the Donors (e.g., Good Ventures), the middle men
+(GiveWell) and the intervention Orgs (AMF). The impact from the
+110m<code class="language-plaintext highlighter-rouge">$</code> seems to belong to each of these Orgs. <em>I assume</em> all Orgs
+have equal weight in this, for lack of any other better estimate. So
+we get a multiplying factor <code class="language-plaintext highlighter-rouge">0.33</code>.</del></p>
+
+<p><strong>Counterfactual impact of the org itself</strong></p>
+
+<p>It “seems likely” that if GiveWell was not formed by the 2 co-founders
+in 2007 then someone else would have co-founded it (perhaps a few
+years later). The reason this is being said is because there are many
+orgs that today, try to work with “cost-effectiveness ideas” trying to
+do the “most-good” to identify interventions that are “worthy to put
+money in”. There are many orgs such as Animal Charity Evaluators
+(ACE), Open Philanthropy Project (OPP), Happier Lives Institute (HLI),
+Charity Science Health (CSH), Charity Entrepreneurship (CE), The Life
+You Can Save (TLC’S) etc., that formed between 2010 and 2020. Thus for
+the hypothetical situation I would imagine a “GiveWell-like” org being
+formed say 7 years later by some other people. The two scenarios we
+thus use are: Actual–&gt; GiveWell forms in 2007; And hypothetical–&gt;
+GiveWell-like org forms in 2014.</p>
+
+<p>The counterfactual impact of the org is, how much more impact the
+actual scenario has over the hypothetical scenario. In 2007 the
+contributions in both scenarios are:</p>
+
+<p><em>Actual Scenario</em>: GiveWell moves <code class="language-plaintext highlighter-rouge">2.4m$</code> to charities with
+cost-effectiveness 7. (In 2018 cost-effectiveness was <a href="https://docs.google.com/spreadsheets/d/1Wfa8XFt98gqVNdfLaV8umMqASfVNx7QtYwwPjWe6Sew/edit#gid=1202275292&amp;range=E10">18</a>, so 7
+seems conservative. Money mainly went to their current top charities
+like AMF all along).</p>
+
+<p><em>Hypothetical Scenario</em> (tabulated below):</p>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">2.4m$</code> moved to “other-orgs” with much
+lesser cost-effectiveness of 1. Give Directly has the same
+Cost-effectiveness.</li>
+  <li><code class="language-plaintext highlighter-rouge">292k$</code> not used to run GiveWell the 2 person organization in 2007,
+with cost-effectiveness of 1. GiveWell costs for 2 co-founders is
+based on <a href="https://files.givewell.org/files/ClearFund/GiveWell_TCF_2019_Audited_Financial_Statements.pdf">GiveWell salaries for 41 people</a> in 2018.</li>
+  <li><code class="language-plaintext highlighter-rouge">100k$</code> Earning-To-Give by the 2 co-founders which goes to orgs say
+with cost-effectiveness of 5. The co-founders started GiveWell in the
+actual scenario so I think they might have had more than
+cost-effectiveness of 1 for their money.</li>
+</ul>
+
+<table class="tablestyletwo">
+  <thead>
+    <tr>
+      <th>Source in 2007</th>
+      <th>Money</th>
+      <th>c.eff</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>GiveWell moved money</td>
+      <td><code class="language-plaintext highlighter-rouge">2.4m$</code></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Money needed to run GiveWell in 2007</td>
+      <td><code class="language-plaintext highlighter-rouge">292k</code></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Earning-To-Give by the 2 co-founders</td>
+      <td><code class="language-plaintext highlighter-rouge">100k</code></td>
+      <td>5</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- ~~In both scenarios, if GiveWell/GiveWell is formed money has a -->
+<!-- cost-effectiveness of 7 and if GiveWell is yet to form -->
+<!-- cost-effectiveness is 1 (i.e., cost-effectiveness of Give Directly).~~ -->
+
+<p>The scenarios are evaluated in this <a href="https://docs.google.com/spreadsheets/d/1Wfa8XFt98gqVNdfLaV8umMqASfVNx7QtYwwPjWe6Sew/edit#gid=1579800708">Google sheets</a> until 2037 when
+it is assumed GiveWell ceases operating, in the actual scenario; and
+in the hypothetical scenario it ceases operating 7 years later 2044.</p>
+
+<p>How much GiveWell moves (from 2007 for the actual scenario and from
+2014 for the hypothetical scenario) is taken from <a href="https://www.givewell.org/about/impact">it’s
+website</a>. For example, in 2018 GiveWell moves <code class="language-plaintext highlighter-rouge">125m$</code>. So, in the
+hypothetical scenario in 2025 the GiveWell-like org is expected to
+move the same <code class="language-plaintext highlighter-rouge">125m$</code>, i.e., with a 7 year delay.</p>
+
+<p>The outcome seems conservative as the cost-effectiveness estimates for
+the <code class="language-plaintext highlighter-rouge">actual scenario</code> is assumed to be a factor 2 atleast smaller for
+all years. Cost-effectiveness for 2018 is <a href="https://docs.google.com/spreadsheets/d/1Wfa8XFt98gqVNdfLaV8umMqASfVNx7QtYwwPjWe6Sew/edit#gid=1202275292&amp;range=E10">18</a> while we assume
+throughout that the cost-effectiveness is just 7 for GiveWell moved
+money. Also, in the actual scenario, the impact of the people founding
+GiveWell-like org in the hypothetical scenario, is assumed to be 0 for
+ease of calculation.</p>
+
+<p>In order to compare the two scenarios, we multiply the dollars with
+cost-effectiveness and add it up for each scenario, per year. We then
+compute the Net Present Values as of 2007 for actual scenario and
+hypothetical scenario. This allows us to see the value of starting
+GiveWell 7 years later. For the future years from 2007 we assume a
+discount rate of 5%.</p>
+
+<p>The counterfactual impact is thus estimated to be <code class="language-plaintext highlighter-rouge">37%</code> better than
+the hypothetical scenario as computed in the <a href="https://docs.google.com/spreadsheets/d/1Wfa8XFt98gqVNdfLaV8umMqASfVNx7QtYwwPjWe6Sew/edit#gid=1579800708">Google sheets</a>.</p>
+
+<p><strong>Impact attributed to Researcher</strong>:</p>
+
+<p>An entry level researcher’s contribution is expected to be <a href="https://blog.givewell.org/2016/04/05/givewells-progress-in-2015/">10% of a
+co-founder</a> in 2015. GiveWell employed <a href="https://blog.givewell.org/2016/04/05/givewells-progress-in-2015/">9 co-founders</a> that
+year. So we get a multiplying factor of <code class="language-plaintext highlighter-rouge">10%/9</code> on the total money
+moved in 2015 (<code class="language-plaintext highlighter-rouge">110m$</code>).</p>
+
+<p>Over a lifetime I find it hard to believe that one will be stuck at
+<code class="language-plaintext highlighter-rouge">10%</code> of the co-founder contribution. With time one would move up the
+ladder and so we assume a growth rate of <code class="language-plaintext highlighter-rouge">8%</code> on this <code class="language-plaintext highlighter-rouge">10%</code>. This
+implies that one will end up having an impact of 46% of the co-founder
+after 20 years of experience, and 100% after 30 years of
+experience. Which seems reasonable to me.</p>
+
+<p><strong>Counterfactual estimates for the researcher</strong></p>
+
+<p>The explanation is as follows: There are two scenarios <code class="language-plaintext highlighter-rouge">Actual
+Scenario</code> and <code class="language-plaintext highlighter-rouge">Hypothetical Scenario</code> as shown in the table below. In
+the <code class="language-plaintext highlighter-rouge">Actual Scenario</code>:</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">AA</code> to <code class="language-plaintext highlighter-rouge">II</code> people exist</li>
+  <li><code class="language-plaintext highlighter-rouge">AA</code> to <code class="language-plaintext highlighter-rouge">FF</code> work in EAO.</li>
+  <li><code class="language-plaintext highlighter-rouge">GG</code> to <code class="language-plaintext highlighter-rouge">II</code> do ETG.</li>
+</ul>
+
+<p>When <code class="language-plaintext highlighter-rouge">AA</code> is removed, you get the <code class="language-plaintext highlighter-rouge">Hypothetical Scenario</code>:</p>
+
+<ul>
+  <li>The whole chain is assumed to displace up.</li>
+  <li><code class="language-plaintext highlighter-rouge">GG</code> moves to work in EA and his ETG is lost unfortunately.</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">A</code>, <code class="language-plaintext highlighter-rouge">B</code>, … <code class="language-plaintext highlighter-rouge">I</code> refer to the contribution of <code class="language-plaintext highlighter-rouge">AA</code>, <code class="language-plaintext highlighter-rouge">BB</code>, …. <code class="language-plaintext highlighter-rouge">II</code>
+in an EA job. <em>Here we assume all EA jobs have the same impact,</em> <code class="language-plaintext highlighter-rouge">EA</code>
+(makes the calculation simpler), and we quickly see that the
+Counterfactual Impact (CI) = <code class="language-plaintext highlighter-rouge">A-G x EA + ETG by GG</code>. It has an <code class="language-plaintext highlighter-rouge">AA
+better than GG</code> component and an <code class="language-plaintext highlighter-rouge">Earning-To-Give by GG</code> component.</p>
+
+<p>Assuming <code class="language-plaintext highlighter-rouge">AA</code> managed to get a job in GiveWell, and GG was just not
+good enough to get into the meritocraticaly last research job in EA,
+then I expect <code class="language-plaintext highlighter-rouge">AA</code> to be atleast 10% “better” than <code class="language-plaintext highlighter-rouge">GG</code>. <code class="language-plaintext highlighter-rouge">AA</code> produces
+10% more “impact” than <code class="language-plaintext highlighter-rouge">GG</code> for the same number of years worked per
+salary units. For lifetime calculations we assume variation between
+<code class="language-plaintext highlighter-rouge">5%-15%</code> with best guess at <code class="language-plaintext highlighter-rouge">10%</code>.</p>
+
+<table class="tablestyletwo">
+  <thead>
+    <tr>
+      <th>Impact</th>
+      <th>Scenario WITH</th>
+      <th>Scenario WITHOUT</th>
+      <th>Difference</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>EA1</td>
+      <td>AA</td>
+      <td>BB</td>
+      <td>A-B x EA</td>
+    </tr>
+    <tr>
+      <td>EA2</td>
+      <td>BB</td>
+      <td>CC</td>
+      <td>B-C x EA</td>
+    </tr>
+    <tr>
+      <td>EA3</td>
+      <td>CC</td>
+      <td>DD</td>
+      <td>C-D x EA</td>
+    </tr>
+    <tr>
+      <td>EA4</td>
+      <td>DD</td>
+      <td>EE</td>
+      <td>D-E x EA</td>
+    </tr>
+    <tr>
+      <td>EA5</td>
+      <td>EE</td>
+      <td>FF</td>
+      <td>E-F x EA</td>
+    </tr>
+    <tr>
+      <td>EA6</td>
+      <td>FF</td>
+      <td>GG</td>
+      <td>F-G x EA</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>ETG1</td>
+      <td>GG</td>
+      <td>0</td>
+      <td>ETG by GG</td>
+    </tr>
+    <tr>
+      <td>ETG2</td>
+      <td>HH</td>
+      <td>HH</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>ETG3</td>
+      <td>II</td>
+      <td>II</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Total</td>
+      <td>-</td>
+      <td>-</td>
+      <td>A-G x EA +  ETG by GG</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>And <code class="language-plaintext highlighter-rouge">GG</code> being an aspiring EA is expected to donate 10% of his/her
+salary. If they are from US this would be in the order of 20k with a
+200k salary let’s say. If they are in the EU it would be in the order
+of 3-10k (which I see as feasible). I assume for now that <code class="language-plaintext highlighter-rouge">GG</code> is from
+the EU and hence suggest that his/her base donation would be around
+<code class="language-plaintext highlighter-rouge">3.5k$</code> (<strong>Additional Counterfactual ETG Base</strong>).</p>
+
+<p>To count the lifetime impact we need growth rates. Typical growth
+rates I see in Netherlands are <code class="language-plaintext highlighter-rouge">3%</code>. I will stick to that for <code class="language-plaintext highlighter-rouge">GG</code> aka
+<strong>Growth rate Attributed to Counterfactual Earning-To-Give Base</strong> =
+<code class="language-plaintext highlighter-rouge">3%</code>.</p>
+
+<p>The following is the summary:</p>
+
+<table class="tablestyletwo">
+  <thead>
+    <tr>
+      <th>Variables</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Total amount moved in 2015 by GW</td>
+      <td>$110,000,000</td>
+    </tr>
+    <tr>
+      <td>Amount Attributed to Researcher as % of co-founder</td>
+      <td>10%</td>
+    </tr>
+    <tr>
+      <td>No. of co-founders</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>Counterfactual contribution of Researcher</td>
+      <td>5%-15%</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><del>Amount Attributed to GW (shapely values)</del></td>
+      <td>~~33% ~~</td>
+    </tr>
+    <tr>
+      <td>Counterfactual contribution of GW</td>
+      <td>37%</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Additional Base Counterfactual ETG</td>
+      <td>$3,500</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Growth Rate Attributed to the Researcher</td>
+      <td>8%</td>
+    </tr>
+    <tr>
+      <td>Growth Rate Attributed to Counterfactual Earning-To-Give Base</td>
+      <td>3%</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Start Year</td>
+      <td>34</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Lifetime Impact</strong></p>
+
+<p>Filling in the above values in the <a href="https://docs.google.com/spreadsheets/d/1Wfa8XFt98gqVNdfLaV8umMqASfVNx7QtYwwPjWe6Sew/edit#gid=1112593483">Google sheets</a> estimates the
+life time impact of the GiveWell Researcher path to vary between:</p>
+
+<table class="tablestyletwo">
+  <thead>
+    <tr>
+      <th> </th>
+      <th>low</th>
+      <th>best-guess</th>
+      <th>high</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><del>GW Researcher with shapely</del></td>
+      <td><del>564k</del></td>
+      <td><del>739k</del></td>
+      <td><del>909k</del></td>
+    </tr>
+    <tr>
+      <td>Total  Counterfactual Impact of Researcher</td>
+      <td>840k</td>
+      <td>1.4m</td>
+      <td>1.9m</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Even if I consider shapely values and therefore have an additional
+multiplication factor of 33%, the values are comparable to the
+best-guess estimates of DS-masters (<code class="language-plaintext highlighter-rouge">732k$</code>) and DS-L1 (<code class="language-plaintext highlighter-rouge">642k$</code>).</p>
+
+<p><strong>Note</strong>: Varying only the counterfactual contribution from 5-15%
+captures the entire variation from <code class="language-plaintext highlighter-rouge">840k$</code> to <code class="language-plaintext highlighter-rouge">1.9k$</code>. This goes on to
+inform an audien that the GREATER you are than <code class="language-plaintext highlighter-rouge">GG</code> the GREATER the impact.</p>
+
+<hr />
+
+<h2 id="scenario-4">Scenario 4:</h2>
+
+<p><img src="./images/career/CE.png" alt="CE" /></p>
+
+<p>The above decision tree shows the different parts expected on the
+“Charity Entrepreneurship” route. I would start by applying to Charity
+Entrepreneurship between age 30 and 34 while working on improving
+myself during that time.</p>
+
+<p>If I don’t get into Charity Entrepreneurship in that time, then I
+would try to get into research in GiveWell and if that doesn’t work
+out, the back up options would be to go back to data science in
+Netherlands or attempt the L1 option.</p>
+
+<p>If I get into Charity Entrepreneurship, I startup my own charity which on
+average is expected to last 4 years with a certain impact (according
+to <a href="https://docs.google.com/spreadsheets/d/1-LdoC5XFYlObYXmIE_86kiVBZr4ixDgjnzAYxHI7ZSA/edit#gid=0&amp;range=E51">Charity Entrepreneurship cost-effectiveness analysis</a>), and then
+one has to move on to something else. Perhaps research/management in
+GiveWell/GiveWell-like org!</p>
+
+<!-- According to [this cost-effectiveness analysis](https://docs.google.com/spreadsheets/d/1T4-9YjHHvX2MNR6uzBPsZdcEtZWMF_F5utlw_rpda0s/edit#gid=0&range=E51), by Charity -->
+<!-- Entrepreneurship, there is a 57% chance of the charity failing in 2 -->
+<!-- years, 22% chance of failing in 5 years, 19% chance of failing in 10 -->
+<!-- years and 1% chance of becoming a \>`10m$` charity. This comes to -->
+<!-- about an average life time of 4.3 years. Also in the analysis thye -->
+<!-- estimate lifetime impact based on these ~4 years. This is the 4 years -->
+<!-- that is used in the decision tree, -->
+
+<h3 id="the-probabilities-3">The Probabilities</h3>
+
+<p>The following table shows the different crossroads and probabilities
+associated with them. And the last line repeats itself until I am 65
+when I would need to retire.</p>
+
+<table class="tablestyletwo">
+  <thead>
+    <tr>
+      <th>Year/age</th>
+      <th>Crossroad</th>
+      <th>Success</th>
+      <th>Other</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>30</td>
+      <td>Rejected at CE</td>
+      <td>99%</td>
+      <td>1%</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>Rejected at CE</td>
+      <td>85%</td>
+      <td>15%</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>Accepted at CE</td>
+      <td>25%</td>
+      <td>75%</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>Work on Charity without failing</td>
+      <td>96%</td>
+      <td>4%</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>Work on Charity without failing</td>
+      <td>96%</td>
+      <td>4%</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>Work on Charity without failing</td>
+      <td>96%</td>
+      <td>4%</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>Rejected in GW or GW type</td>
+      <td>65%</td>
+      <td>35%</td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>Accepted at GW or GW type</td>
+      <td>60%</td>
+      <td>40%</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>Moving back due to recession or general firing</td>
+      <td>96%</td>
+      <td>4%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Currently I think there is a very low chance of getting into Charity
+Entrepreneurship and becoming an incubee. I didn’t manage to make it
+to their internship. Hence the <code class="language-plaintext highlighter-rouge">99% chance</code> of being rejected when I
+apply now. Let’s say over time I can develop skills and credentials
+needed for it.</p>
+
+<p>What I see in existing co-founders is that they have a “top notch”
+education (like economics, philosophy master), already have experience
+leading teams in social work and other, and/or have started local EA
+chapters somewhere in the world, e.g., <a href="https://www.linkedin.com/in/varsha-venugopal/">Varsha who is running
+Suvita</a>, <a href="https://www.linkedin.com/in/trzesimiech/?locale=en_US">Michal who is running Policy Entrepreneurship
+Network</a>.</p>
+
+<p>Let’s say I manage to support an existing EA group in Netherlands, and
+work on finding volunteer positions at CEA to gain their confidence
+for other roles, or even take up roles in EA research via unpaid
+internships. Even then, with the massive pool of people (2000
+applications for ~20 positions), it seems hard (1% acceptance rate) to
+get into Charity Entrepreneurship. Hence the <code class="language-plaintext highlighter-rouge">15%</code> (<code class="language-plaintext highlighter-rouge">1-85%</code>) and <code class="language-plaintext highlighter-rouge">25%</code>
+chances at age 32 and 34 (attempts 2 and 3 respectively).</p>
+
+<p>In case I do make it as an incubee, I would be starting up and working
+on the charity for 4 years (which is the estimated lifetime of an
+average charity that Charity Entrepreneurship supports). After which I
+would need to pick up something else. During the time of working on
+the startup charity, I assume similar probabilities as done before,
+<code class="language-plaintext highlighter-rouge">96%</code> chance of success of completing that year and getting the impact
+for that year.</p>
+
+<p>After Charity Entrepreneurship charity, I could perhaps work in
+research organizations like GiveWell. In Scenario 3 I assume a
+probability of <code class="language-plaintext highlighter-rouge">20%</code> and <code class="language-plaintext highlighter-rouge">60%</code> to get into GiveWell in attempts 2
+and 3. Here I assume similar probabilities for attempts at age 37 and
+38 (35% and 60%). At age 37 I expect a higher chance of getting in
+GiveWell having already started a charity and worked on it.</p>
+
+<h3 id="effective-value-3">Effective Value</h3>
+
+<p>To compute the effective value we need the following in addition to
+the probabilities above.</p>
+
+<ol>
+  <li>
+    <p>Success of GiveWell</p>
+  </li>
+  <li>
+    <p>Failure case when neither Charity Entrepreneurship nor GiveWell
+works out.</p>
+  </li>
+  <li>
+    <p>Success of Charity Entrepreneurship</p>
+  </li>
+</ol>
+
+<p>Success of GiveWell is already known from the previous
+scenario. Failure would lead to either <code class="language-plaintext highlighter-rouge">DS in NL</code> or <code class="language-plaintext highlighter-rouge">DS L1</code> based on
+the age. For the Success of a Charity Entrepreneurship charity
+consider the following:</p>
+
+<p>There is a cost-effectiveness analysis <a href="https://docs.google.com/spreadsheets/d/1T4-9YjHHvX2MNR6uzBPsZdcEtZWMF_F5utlw_rpda0s/edit#gid=0">from Charity Entrepreneurship
+as to how much “counterfactual impact” a co-founder could
+have</a>. They claim it is <code class="language-plaintext highlighter-rouge">100k$</code> given to Malaria consortium (top
+GiveWell charity) or <code class="language-plaintext highlighter-rouge">1.5m$</code> given to Give Directly per year. I am not
+convinced with this and explain why, below. The value I expect it to
+be is <code class="language-plaintext highlighter-rouge">15k$</code> given to Malaria consortium.</p>
+
+<p>For this counterfactual impact the <code class="language-plaintext highlighter-rouge">Actual Scenario</code> is founding of
+the Charity Entrepreneurship Charity; <code class="language-plaintext highlighter-rouge">Hypothetical Scenario</code> is when
+the Charity Entrepreneurship Charity is not founded.</p>
+
+<p>The cost-effectiveness analysis thus has 4 components to it to compute
+counterfactual impact of the Charity Entrepreneurship Charity:</p>
+
+<ul>
+  <li>
+    <p>Estimated impact due to Charity Entrepreneurship Charity (<code class="language-plaintext highlighter-rouge">add</code>)</p>
+
+    <ul>
+      <li>
+        <p>Estimated size of Charity Entrepreneurship charity or revenue to
+  an “average” charity is <code class="language-plaintext highlighter-rouge">1.46m$</code>.</p>
+      </li>
+      <li>
+        <p>Estimated average cost-effectiveness of their charities is 7.</p>
+      </li>
+      <li>
+        <p>Estimated impact due to Charity Entrepreneurship Charity is
+  <code class="language-plaintext highlighter-rouge">1.4mx7 = 10m$</code> per year per charity donated to Give Directly.</p>
+      </li>
+      <li>
+        <p>All the values are from Charity Entrepreneurship’s calculations.</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p>Estimated loss in impact due to taking away funding from other
+charities (<code class="language-plaintext highlighter-rouge">subtract</code>)</p>
+
+    <ul>
+      <li>
+        <p>On average Charity Entrepreneurship charities redirect 26% from
+  GiveWell top charities, 8% from Give Directly, 36% from
+  non-GiveWell etc.</p>
+      </li>
+      <li>
+        <p>Cost-effectiveness of GiveWell top charities is <a href="https://docs.google.com/spreadsheets/d/1Wfa8XFt98gqVNdfLaV8umMqASfVNx7QtYwwPjWe6Sew/edit#gid=1202275292&amp;range=E10">18</a> as of
+2018 (<a href="https://docs.google.com/spreadsheets/d/1T4-9YjHHvX2MNR6uzBPsZdcEtZWMF_F5utlw_rpda0s/edit#gid=0&amp;range=C29">15.8</a> according to Charity Entrepreneurship), Give
+Directly is 1, and non-GiveWell orgs is 0.38.</p>
+      </li>
+      <li>
+        <p>Average cost-effectiveness is <code class="language-plaintext highlighter-rouge">26% x 18 + 8% x 1 + 36% x 0.38
+...</code> = <code class="language-plaintext highlighter-rouge">5.3</code>.</p>
+      </li>
+      <li>
+        <p>Estimated loss in impact = <code class="language-plaintext highlighter-rouge">1.46m$ x 5.3</code> = <code class="language-plaintext highlighter-rouge">7m$</code> per year per
+charity donated to Give Directly.</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p>Estimated loss due to one-time costs of Charity over entire
+lifetime (<code class="language-plaintext highlighter-rouge">add</code>)</p>
+
+    <ul>
+      <li>
+        <p>This is assumed to be 100k for a 2 person charity started in the
+  UK.</p>
+      </li>
+      <li>
+        <p>Unfortunately the cost-effectiveness analysis seems to suggest
+  that <a href="https://docs.google.com/spreadsheets/d/1T4-9YjHHvX2MNR6uzBPsZdcEtZWMF_F5utlw_rpda0s/edit#gid=0&amp;range=E55">this 100k would be given to Give Directly</a> if there was
+  no Charity Entrepreneurship Charity. I disagree that
+  cost-effectiveness = 1.</p>
+      </li>
+      <li>
+        <p>I think the cost-effectiveness of this 100k would also be 5.3
+(just like the previous case).</p>
+      </li>
+      <li>
+        <p>We get <code class="language-plaintext highlighter-rouge">100k/4 x 5.3</code> = <code class="language-plaintext highlighter-rouge">123k$</code> per year per charity, donated to
+  Give Directly.</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p>Estimated loss in impact due to co-founder Earning-To-Give
+(<code class="language-plaintext highlighter-rouge">Subtract</code>)</p>
+
+    <ul>
+      <li>
+        <p>If the co-founders decide not to go through with the org then they
+ought to be doing something else. Here it is assumed they could be
+Earning-To-Give. Considering that they are already co-founder
+material, Charity Entrepreneurship assumes a salary of 100k and a
+donation of 50%. There is 100k per year available to be donated
+anywhere, assuming 2 co-founders.</p>
+      </li>
+      <li>
+        <p>Unfortunately they seem to be thinking that <a href="https://docs.google.com/spreadsheets/d/1T4-9YjHHvX2MNR6uzBPsZdcEtZWMF_F5utlw_rpda0s/edit#gid=0&amp;range=E55">this 100k would also
+be given to Give Directly</a> instead of the other more
+cost-effective ones available with GiveWell.</p>
+      </li>
+      <li>
+        <p>I think the cost-effectiveness of donations can be as high as
+ <a href="https://docs.google.com/spreadsheets/d/1Wfa8XFt98gqVNdfLaV8umMqASfVNx7QtYwwPjWe6Sew/edit#gid=1202275292&amp;range=E10">18</a> assuming the co-founders just hand over the money to
+ GiveWell to do what it sees fit. This being the case means that the
+ estimated impact of both co-founders doing Earning-To-Give is <code class="language-plaintext highlighter-rouge">100k
+ x 18</code>= <code class="language-plaintext highlighter-rouge">1.8m$</code> per year per charity donated to Give Directly (GD).</p>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p>This is summed up in the following table:</p>
+
+<table class="tablestyletwo">
+  <thead>
+    <tr>
+      <th>add/sub</th>
+      <th style="text-align: left">Estimated impact/loss due to:</th>
+      <th>cost-eff.</th>
+      <th><code class="language-plaintext highlighter-rouge">$</code></th>
+      <th style="text-align: left"><code class="language-plaintext highlighter-rouge">$</code> to GD</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Add</td>
+      <td style="text-align: left">Charity</td>
+      <td>7</td>
+      <td>1.46m</td>
+      <td style="text-align: left">10m</td>
+    </tr>
+    <tr>
+      <td>Sub</td>
+      <td style="text-align: left">Taking away funding</td>
+      <td>5.3</td>
+      <td>1.46m</td>
+      <td style="text-align: left">7.7m</td>
+    </tr>
+    <tr>
+      <td>Sub</td>
+      <td style="text-align: left">One time costs</td>
+      <td>5.3</td>
+      <td>23k</td>
+      <td style="text-align: left">123k</td>
+    </tr>
+    <tr>
+      <td>Sub</td>
+      <td style="text-align: left">Co-founders Earning-To-Give</td>
+      <td>18</td>
+      <td>100k</td>
+      <td style="text-align: left">1.8m</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Adding and subtracting as in the table above, we get average impact of
+a charity per year in dollars donated to Give Directly is <code class="language-plaintext highlighter-rouge">527k$</code>. If
+we want to compare it to regular donations then, we should compare it
+with say dollars donated to GiveWell (cost-effectiveness =
+18). Looking at this <code class="language-plaintext highlighter-rouge">527k$</code> in terms of dollars donated to
+GiveWell–i.e., dividing by cost-effectiveness of 18–we get <code class="language-plaintext highlighter-rouge">29.3k$ </code>
+per year per charity donated to GiveWell. This is for 2
+co-founders. For one co-founder this is <code class="language-plaintext highlighter-rouge">14.6k$</code> per year per charity.</p>
+
+<p><strong>Lifetime Impact</strong></p>
+
+<p>Filling in the above values in the <a href="https://docs.google.com/spreadsheets/d/1Wfa8XFt98gqVNdfLaV8umMqASfVNx7QtYwwPjWe6Sew/edit#gid=1618791818">Google sheets</a> estimates the
+life time impact of the Charity Entrepreneurship path to vary between
+<code class="language-plaintext highlighter-rouge">914k$</code> and <code class="language-plaintext highlighter-rouge">1.97m$</code>, with the best-guess estimate at <code class="language-plaintext highlighter-rouge">1.45m$</code>. The
+main reason this is so high is because of GiveWell researcher route
+being followed after the 4 years of founding a Charity
+Entrepreneurship Charity.</p>
+
+<hr />
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>The lifetime calculations are shown below:</p>
+
+<table class="tablestyletwo">
+  <thead>
+    <tr>
+      <th>Effective value</th>
+      <th>low</th>
+      <th>BGE</th>
+      <th>high</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>DS Masters</td>
+      <td>713k</td>
+      <td>741k</td>
+      <td>865k</td>
+    </tr>
+    <tr>
+      <td>DS L1</td>
+      <td>642k</td>
+      <td>662k</td>
+      <td>875k</td>
+    </tr>
+    <tr>
+      <td><del>GW Researcher with shapely</del></td>
+      <td><del>564k</del></td>
+      <td><del>739k</del></td>
+      <td><del>909k</del></td>
+    </tr>
+    <tr>
+      <td>GW Researcher</td>
+      <td>914k</td>
+      <td>1.43m</td>
+      <td>1.95k</td>
+    </tr>
+    <tr>
+      <td>CE</td>
+      <td>914k</td>
+      <td>1.42m</td>
+      <td>1.97m</td>
+    </tr>
+    <tr>
+      <td>DS NL</td>
+      <td>-</td>
+      <td>569k</td>
+      <td>698k</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>It seems quite clear that pursuing the GiveWell route has very high
+potential even if we look at the lower bound of the estimate, which
+assumes I am only 5% “better” than the person being displaced at the
+end of the chain (<code class="language-plaintext highlighter-rouge">GG</code>), into Earning-To-Give.</p>
+
+<p>Charity Entrepreneurship route and GiveWell route seem to have similar
+impact. This is not too surprising as for most part the Charity
+Entrepreneurship decision tree has GiveWell researcher decision tree
+in it. I feel more comfortable going into the GiveWell route, where
+in-theory I can work-from-home and improve my skills. Maybe later in
+life once I have some experience in research I can still consider
+founding etc., (like <a href="https://www.linkedin.com/in/milan-griffes/">Milan Griffes</a> or Peter Hurford).</p>
+
+<p><em>But so far as the estimated lifetime impact (effective value), the
+GiveWell route seems to be the clear winner.</em></p>
+
+<h2 id="opportunity-cost-of-starting-ds-now-vs-later">Opportunity cost of starting DS now vs later</h2>
+
+<p>I know DS in US is a cash cow and that is what I am chasing as a backup
+in-case for any reason it is not possible to get into GiveWell or
+GiveWell-type orgs (Open Phil etc.). While trying to get into GiveWell
+I think I will need a day job in the Netherlands and easiest is to
+continue with what I am doing. However I propose to already change to
+DS and work in DS while I continue to try to get into GiveWell. In the
+case that GiveWell doesn’t work out, at age 35, I would already have a
+few years experience in DS and can push towards the L1 route without
+spending time on learning DS afresh at 35. In order to see what sort
+of impact this would have on lifetime calculations we look at the
+following cases.</p>
+
+<p>Case 1: Start GiveWell route now and at 35 start DS for the first
+time, in case GiveWell career fails (<a href="https://docs.google.com/spreadsheets/d/1Wfa8XFt98gqVNdfLaV8umMqASfVNx7QtYwwPjWe6Sew/edit#gid=1195007376">Google sheets: Opportunity Costs
+1</a>).</p>
+
+<p>Case 2: Start the GiveWell route 1 year later, transition to DS in the
+mean time (<a href="https://docs.google.com/spreadsheets/d/1Wfa8XFt98gqVNdfLaV8umMqASfVNx7QtYwwPjWe6Sew/edit#gid=1752516958">Google sheets: Opportunity Costs 2</a>).</p>
+
+<p>Life time impact (best-guess-estimate) of case 1 seems to be:
+<code class="language-plaintext highlighter-rouge">1.363m$</code>, while life time impact of Case 2 seems to be:
+<code class="language-plaintext highlighter-rouge">1.359m$</code>. This is a very small number to take the difference
+seriously. For example, in case 2: I have not included the effect of
+having 3-5 years experience in DS when I have to pursue <code class="language-plaintext highlighter-rouge">DS in L1</code>
+(when GiveWell doesn’t work out). The starting salary would be higher
+in US in that case. So Case 2 could potentially trump Case 1 then.</p>
+
+<p>If the difference were in the order of <code class="language-plaintext highlighter-rouge">50k$</code>, then I would seriously
+consider focusing on the better case. Now it just seems that both
+cases would end up with “similar results” and <strong>I have a strong
+preference for Case 1.</strong></p>
+
+<h2 id="stats">Stats</h2>
+
+<p>Total words: 8k<br />
+Total time: 102hrs
+Avg.time/day: 4hrs</p>
+
+<p>Start date: 22-08-2020
+End date: 15-09-2020</p>
+
+<h2 id="footnotes">Footnotes</h2>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:2" role="doc-endnote">
+      <p><strong>Chance of getting an H1B with Master’s or L1</strong></p>
+
+      <p>The number of times a person can apply for H1B on a Master’s is around
+<a href="https://www.quora.com/How-many-times-can-I-apply-for-a-H1B-visa-after-getting-STEM-Masters">3 times on a STEM OPT</a> (answer by Carlos Cueva). With an L1, we
+assume we are ready from the 3rd year on to apply for an H1B (having
+secured another job by then). So we will have the same 3 chances to
+apply for H1B or maybe more depending on when I start finding jobs. We
+stick to 3 for now for both Master’s or the L1 option.</p>
+
+      <p>We see that 1 H1B attempt has a <a href="https://bintlr.work/h1bProbabilityEstimate.html">41.9% chance of success</a> for
+students with Master’s, based on a 50% split between the general pool
+and the advanced pool (<a href="https://www.happyschools.com/h1b-visa-2020-probability-lottery/">which is what the DHS have assumed</a>).</p>
+
+      <p>Getting selected in the lottery alone is not enough to get the
+H1B. After you are selected in the lottery, you are either approved or
+rejected or sent an <a href="https://goh1b.com/en/blog/2019/07/02/what-does-h1b-rfe-mean-most-common-reasons/">RFE</a> (request for evidence) by the USCIS. The
+overall cases of rejection after getting the lottery have become much
+higher, <a href="https://www.forbes.com/sites/stuartanderson/2019/08/08/latest-uscis-data-show-increase-in-denials-for-new-h-1b-visas/#5443e3417cc4">(33% in 2019 from 10% in 2016)</a>, over the trump era.</p>
+
+      <p>It doesn’t appear that people are rejected straightaway without being
+asked for RFE. Atleast I have not come across cases with direct
+rejection on blind either. So what is the chance of getting an RFE for
+me?</p>
+
+      <p><strong>What is the chance of getting an RFE?</strong></p>
+
+      <p><code class="language-plaintext highlighter-rouge">100%</code>. One of the things the USCIS seems to be scrutinizing the
+people for is, not having the <strong>“right” background/experience for the
+work</strong>. This comes under “Beneficiary qualifications”. Naturally, this
+scares me as I have a mechanical Master’s and Bachelor’s while I am
+looking to move into DS. Another common reason issued by the USCIS is
+called “Speciality Occupation”. The <strong>job posting needs to qualify as
+a speciality occupation</strong>. Apparently <a href="https://ogletree.com/insights/uscis-issues-top-10-reasons-for-h-1b-requests-for-evidence/">USCIS does not usually think a
+job is “special enough”, if they don’t have the need for a “relevant”
+bachelor’s</a> (e.g., a finance bachelor’s for a software job). If you
+look on <a href="https://www.trackitt.com/usa-immigration-trackers/h1b">trackitt</a>, you do see that “most” of the RFEs are cited
+based on this “Specialty Occupation” or “lack of relevant degree”
+(Beneficiary qualifications I presume). Thus, <em>I seem like a prime
+suspect for atleast lack of “beneficiary qualifications”</em>. Hence, I
+guess that I have a <code class="language-plaintext highlighter-rouge">100%</code> chance of getting an RFE.</p>
+
+      <p>Whether the RFE gets approved or not however seems to be random. There
+are cases of people with Bachelor’s and Master’s in Mechanical who
+have made it to software job after their RFEs (<a href="https://www.teamblind.com/post/6mTKzvNm">ronaldo7!</a>,
+<a href="https://www.teamblind.com/post/H1B-RFE-Data-Scientist-III-PqF7wkMk">tiger12</a>) post 2018. And then there are people with Master’s in
+Financial Mathematics who are Rejected after their RFE for a CS/DS job
+(<a href="https://www.teamblind.com/post/Im-a-data-scientist-and-I-got-a-H1B-RFE-again-UvhDqaXm">9mineHwang</a>). A Hiring manager at Amazon sums up what a giant
+cluster fuck of a mess it is: “One of my report’s visa was rejected
+saying the job is not a specialty occupation and doesn’t need
+Bachelor’s degree which is ridiculous as why would Amazon pay that
+person 300K<code class="language-plaintext highlighter-rouge">$</code> per year for a non-specialty job.  The decision on visa
+application has become so arbitrary that the outcome is not known.
+One employee has one application rejected and the same application was
+approved the second time.”—<a href="https://www.teamblind.com/post/Immigration-Mess-sAYGCXgg">hiring manager Amazon</a>.</p>
+
+      <p>Having received the RFE, <a href="https://www.fragomen.com/insights/alerts/latest-uscis-data-confirm-continued-high-rates-nonimmigrant-rfes-and-denials-fy-2019">according to Fragoman</a> the success of RFE
+approval amounts to 60.4%. So the chance of winning the lottery and
+getting RFE accepted is, <code class="language-plaintext highlighter-rouge">41.9% x 100% x 60.4%=25.3%</code> for 1
+attempt of H1B. Over three attempts the chance becomes
+<code class="language-plaintext highlighter-rouge">1-(1-25.3%)^3</code>=58%. More attempts implies better chances to stay in
+the US.</p>
+
+      <!-- 2020-04-24-Data-Science.markdown has info on the probabilities
+-->
+      <p><!-- and 2020-05-04-career-update.markdown --></p>
+
+      <p><strong>Note:</strong> Some companies do not hire you in your OPT if you don’t have
+<a href="https://www.teamblind.com/post/FAANG-that-accepts-candidate-with-less-than-24-month-OPT-46DqLqvB">atleast 2 attempts</a> left. Also there is a possibility of applying
+with many H1B sponsors for the same year with different employers. So
+the number of tries can theoretically be greater than 3. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a> <a href="#fnref:2:1" class="reversefootnote" role="doc-backlink">&#8617;<sup>2</sup></a> <a href="#fnref:2:2" class="reversefootnote" role="doc-backlink">&#8617;<sup>3</sup></a></p>
+    </li>
+  </ol>
+</div>
+:ET

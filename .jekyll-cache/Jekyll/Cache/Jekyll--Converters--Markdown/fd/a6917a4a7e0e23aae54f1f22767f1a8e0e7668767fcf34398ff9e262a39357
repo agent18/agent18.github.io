@@ -1,0 +1,801 @@
+I"�<h2 id="why-emacs">Why Emacs</h2>
+
+<p>An STM suggested to me that if I am looking for something over the long term (20
+years or more) I should check out EMACS. <a href="https://www.youtube.com/watch?v=FtieBc3KptU">This video</a> showed how
+emacs could be used by writers, people who are not programmers, people who would
+like their writing to be not clumsy AF, people who would like to free their mind of
+the all the things that could be hindering thier progress.</p>
+
+<p>You want to be at your creative best and not be bogged down by things like
+formatting and the like (for example writing in word and bleeding from your eyes
+as you struggle hard to format). Plus the things that org-mode can do are really fancy
+as mentioned in <a href="https://www.youtube.com/watch?v=FtieBc3KptU">the same video linked above</a>, they give us better
+control over what we are writing with simple key strokes.</p>
+
+<p>In summary,</p>
+
+<ul>
+  <li>you don’t have to move your hands to the right (dark) side of your keyboard.
+    <ul>
+      <li>emacs has keybindings (shortcuts) for basic movement, without moving to the
+right side of your keyboard</li>
+    </ul>
+  </li>
+  <li>we write in plain text and plain text only.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></li>
+  <li>org-mode allows to see just the headlines, minus the text with simple
+keybindings</li>
+  <li>You can split the screen which ever way you want (all with hot keys) and
+screens can be mirrored with one side showing outline of the doc and the other
+showing everything else.</li>
+  <li>Writers, programmers, academicians all praise this software and claim to have
+switched from other editors because EMACS is that good.</li>
+</ul>
+
+<blockquote>
+  <p>Yes, my friends, it is true. After more than fifteen years using Vim, teaching
+Vim, proselytizing about Vim, all the while scoffing in the general direction
+of Emacs, I’ve seen the light. The light of Lisp… Or something. -
+Aaron bieber</p>
+</blockquote>
+
+<ul>
+  <li>I have started using emacs for the past few days. I have only
+scratched the tip of the iceberg I suspect. I should be able to do
+much much more with it.</li>
+</ul>
+
+<p>There is a whole community out there. Some special metions with
+creation of decent documentation and some interesting modes would be</p>
+
+<p>Ian Barton and Carsten Doiminik.</p>
+
+<hr />
+
+<h2 id="getting-started">Getting started</h2>
+
+<h3 id="installation-basics">Installation basics</h3>
+
+<p>Installing from the ubuntu software centre is possible, but for some
+reason it didn’t install the latest version. I followed the
+installation procedure <a href="https://askubuntu.com/questions/598985/how-to-upgrade-to-the-latest-emacs">here</a>. I am
+replecating the information here for convinience.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo add-apt-repository ppa:kelleyk/emacs
+sudo apt-get update
+sudo apt-get install emacs25
+</code></pre></div></div>
+
+<p>In case you already installed an older version of emacs use the
+following to remove the current running version:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ sudo apt-get remove --auto-remove emacs
+</code></pre></div></div>
+
+<p>I ran into <a href="https://stackoverflow.com/questions/47983227/helm-installation-package-emacs-24-4-unavailable/47985613?noredirect=1#comment82941695_47985613">this error</a> whence I had the old
+installation (from software centre). Many packages including Helm and
+Markdown-mode didn’t install. So, I installed the latest version of
+emacs as above.</p>
+
+<h3 id="things-to-know">Things to know</h3>
+
+<p>One of the ideas behind emacs is to allow you to write efficiently
+without having to do silly key strokes to move around, that would involve moving your
+entire arm to another location. Emacs, offers a different solution to
+moving through a document. Bear with the initial discomfort, and
+it will pay off.</p>
+
+<p>We are not going to use the up, down, left, right, delete, home, end
+page up buttons when we are in emacs.</p>
+
+<p>I would imagine it best to go through the emacs tutorial (the tutorial
+you can find as soon as you open emacs) first to get the basics of emacs, but if you don’t have
+4-5 hrs maybe try this document.</p>
+
+<h4 id="basic-navigation">Basic navigation</h4>
+
+<p>In this document as well as in every other documentation in the world
+on emacs <code class="language-plaintext highlighter-rouge">C-x</code> stands for <code class="language-plaintext highlighter-rouge">Hold Ctrl and type x</code>. Similarly
+keybindings (or shortcuts) with the Alt key/Meta key is denoted as
+<code class="language-plaintext highlighter-rouge">M-x</code> for example, where <code class="language-plaintext highlighter-rouge">M</code> stands for the <code class="language-plaintext highlighter-rouge">Meta/Alt</code> key.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Cmd</th>
+      <th style="text-align: left">What it does</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">C-v</td>
+      <td style="text-align: left">Page down</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">M-v</td>
+      <td style="text-align: left">Page up</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"> </td>
+      <td style="text-align: left"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">C-f</td>
+      <td style="text-align: left">move forward</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">C-b</td>
+      <td style="text-align: left">move backward</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">C-p</td>
+      <td style="text-align: left">Move one line up</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">C-n</td>
+      <td style="text-align: left">Move one line down</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">C-a</td>
+      <td style="text-align: left">Move to beginning</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">C-e</td>
+      <td style="text-align: left">Move to the end of the line</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"> </td>
+      <td style="text-align: left"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">C-g or Esc (3 times)</td>
+      <td style="text-align: left">To cancel any command you started</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"> </td>
+      <td style="text-align: left"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Using <code class="language-plaintext highlighter-rouge">M</code> instead of <code class="language-plaintext highlighter-rouge">C</code> for the last 4 commands shows a different
+but similar usage of the command. Check it out!</p>
+
+<h4 id="terminology">Terminology</h4>
+
+<p>buffer: Every space where we type or help is displayed is called a
+buffer. A file opens into a buffer.</p>
+
+<p>Frame: the whole graphical screen with all the different buffers if
+any is called the frame.</p>
+
+<p>Mode line: This is the line you see at the bottom with the file name,
+percentage scrolled in the file, line number and other things.</p>
+
+<p>Modes: In the Mode line you will see something like this,
+<code class="language-plaintext highlighter-rouge">Fundamental</code>. This denotes the mode in which you are writing. Think
+of modes as the way emacs understands how the file should be indented
+and colored, speaking in a lay way. Check out <code class="language-plaintext highlighter-rouge">C-h m</code> to get more
+information about your current mode.</p>
+
+<p>Once you press <code class="language-plaintext highlighter-rouge">C-h m</code> you will see two things, a major mode and several
+minor modes. Major mode defines how certain indentations happen with
+emacs and the colour scheme etc… If I am using markdown I will use
+Markdown mode. If I wan’t to use ORG I will use ORG-mode. Minor modes
+are additions that can be added to any Major mode. For example, say I
+want to count the number of words in my doc. Then I am looking at the
+minor mode <code class="language-plaintext highlighter-rouge">WC</code> which can be added to any major mode.</p>
+
+<p>Echo area: When ever we type any commands they will appear in the
+bottom empty space. It is also called the Mini buffer sometimes.</p>
+
+<h4 id="commands-related-to-files">Commands related to Files</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Cmd</th>
+      <th style="text-align: left">What it does</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">C-x C-f</td>
+      <td style="text-align: left">Find file</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">C-x C-s</td>
+      <td style="text-align: left">Save file</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">C-x s</td>
+      <td style="text-align: left">Save some buffers</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">C-x C-b</td>
+      <td style="text-align: left">Switch buffer</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">C-x b</td>
+      <td style="text-align: left">Switch buffer</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">C-x C-c</td>
+      <td style="text-align: left">Quite emacs offering to save</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">C-s</td>
+      <td style="text-align: left">Searches within a file</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">C-x f</td>
+      <td style="text-align: left">Sets character count per line</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">M-q</td>
+      <td style="text-align: left">Aligns the current paragraph to the latest column character count</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"> </td>
+      <td style="text-align: left"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="help-related-commands">Help related commands</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Command</th>
+      <th style="text-align: left">what it does</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">C-h c C-p</td>
+      <td style="text-align: left">small description in mini buffer</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">C-h k C-p</td>
+      <td style="text-align: left">opens help buffer</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">C-h f</td>
+      <td style="text-align: left">type function and get help in buffer</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">C-h a</td>
+      <td style="text-align: left">search for commands (only meta I think)</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">C-h i</td>
+      <td style="text-align: left">primary documentation to use accroding to help!</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">C-h m</td>
+      <td style="text-align: left">Informs about the current mode in a buffer</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">C-h a</td>
+      <td style="text-align: left">allows to pattern search commands</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">C-h b</td>
+      <td style="text-align: left">Opens buffer to search for keybindings</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"> </td>
+      <td style="text-align: left"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="buffer-related-features">Buffer related features</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Command</th>
+      <th style="text-align: left">what it does</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">C-x o</td>
+      <td style="text-align: left">Move cursor to other buffer</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">C-x 1</td>
+      <td style="text-align: left">keep only current buffer open</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">C-x 2</td>
+      <td style="text-align: left">Split screen horizontally with duplicate</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">C-x 3</td>
+      <td style="text-align: left">Split scree vertically with duplicate</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">C-x 4 C-o</td>
+      <td style="text-align: left">Display different buffer in the other buffer</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"> </td>
+      <td style="text-align: left"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="interesting-options">Interesting options</h4>
+
+<p>The <code class="language-plaintext highlighter-rouge">Meta/Alt-x</code> is the Meta key followed by x.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Command</th>
+      <th style="text-align: left">What does it do</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">M-x org-mode</td>
+      <td style="text-align: left">toggles to org-mode</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">M-x Markdown-mode</td>
+      <td style="text-align: left">toggles to corresponding mode</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">M-x auto-fill-mode</td>
+      <td style="text-align: left">toggles to the corresponding minor mode</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"> </td>
+      <td style="text-align: left">Auto fill makes sure the character-column-width as constant</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">C-x C-+</td>
+      <td style="text-align: left">Zoom in</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">C-x C–</td>
+      <td style="text-align: left">Zoom out</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">C-/</td>
+      <td style="text-align: left">undo</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">C-f followed by C-/</td>
+      <td style="text-align: left"><a href="https://stackoverflow.com/questions/3527142/how-do-you-redo-changes-after-undo-with-emacs">redo</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">C-g or <Esc><Esc><Esc></Esc></Esc></Esc></td>
+      <td style="text-align: left">To cancel any command you started</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">C-x f</td>
+      <td style="text-align: left">to inform</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"> </td>
+      <td style="text-align: left"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Quick P.s</strong> I was blown away while writing this table in Markdown
+mode. The fact that someone actually thought about it in this way, and
+the naturalness of using a table with a tab and the whole self
+adjusting nature of the table… Kill me!</p>
+
+<p>This is what I constantly see online, people madly in love with this
+invention. And people crying and preeching to others to use this madness
+that is Emacs.</p>
+
+<h2 id="configuring-emacs-to-your-needs">Configuring Emacs to your needs</h2>
+
+<p>This is the part that is sort of hard to grasp within emacs. I make a
+quick attempt to list out the important things.</p>
+
+<p><strong>1 reason why we care about configuring:</strong></p>
+
+<p>Sometimes we might need to install some packages to our system to
+improve or have access to other functionality that is not preshipped
+with the installation. For me I wanted the <code class="language-plaintext highlighter-rouge">markdown-mode</code> that I saw
+online to write in markdown in emacs. FYI, <code class="language-plaintext highlighter-rouge">markdown-mode</code> has org-mode
+like features for using tables and visbility cycling (we will talk
+about this later).</p>
+
+<p>Typing <code class="language-plaintext highlighter-rouge">M-x markdown</code> followed by <code class="language-plaintext highlighter-rouge">tab</code> didn’t list anything in the
+minibuffer. So we don’t have it installed and so what you need to do
+is <code class="language-plaintext highlighter-rouge">M-x package-list-packages</code>. This shows a list of packages that we
+can install. My problem was I didn’t find anything close to
+markdown-mode or the like. That is why kids, we need to do this
+configuration thingy.</p>
+
+<p>Configuration/setting up the init file implies manipulating a text
+file. Emacs has this init file that can have Lisp code, to perform
+some tasks at start up.</p>
+
+<blockquote>
+  <p>For GnuEmacs, your init file is ~/.emacs, ~/.emacs.el, or
+~/.emacs.d/init.el. You can choose to use any of these names. ‘~/’
+stands for your home directory. -<a href="https://www.emacswiki.org/emacs/InitFile">emacs init wiki</a></p>
+</blockquote>
+
+<p>And so, I created a text file as <code class="language-plaintext highlighter-rouge">~/.emacs.d/init.el</code> as I didn’t have the file
+already created. I guess thats how it’s supposed to work. BTW, I didn’t have
+a <code class="language-plaintext highlighter-rouge">.emacs</code> file already created either.</p>
+
+<p>Based off of <a href="https://blog.aaronbieber.com/2015/05/24/from-vim-to-emacs-in-fourteen-days.html">Aaron Biebers introduction to
+emacs</a> , here is my init file (just copy it):</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>;; https://blog.aaronbieber.com/2015/05/24/from-vim-to-emacs-in-fourteen-days.html 
+
+(require 'package)
+
+(add-to-list 'package-archives '("org" . "http://orgmode.org/elpa/"))
+(add-to-list 'package-archives '("marmalade" . "http://marmalade-repo.org/packages/"))
+(add-to-list 'package-archives '("melpa" . "http://melpa.org/packages/"))
+(add-to-list 'package-archives '("melpa-stable" . "http://stable.melpa.org/packages/"))
+
+(setq package-enable-at-startup nil)
+(package-initialize)
+</code></pre></div></div>
+
+<p>I added the marmalade line as well (which is not there in Aaron
+Biebers init file), for <a href="https://stackoverflow.com/questions/19361068/missing-packages-from-gnu-emacs">some reason</a>. Stongly recommend adding
+it. With this I was able to install all the packages I wanted easily
+using the method described below.</p>
+
+<p>Load the init file without exiting by simply typing:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> M-x load-file "filename"
+</code></pre></div></div>
+
+<p>To install a package all you need to do is type</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>M-x package-list-packages
+</code></pre></div></div>
+
+<p>This opens a buffer with all packages. With <code class="language-plaintext highlighter-rouge">C-s</code> you can search for
+your package and then click it using a mouse and install it by
+clicking on the <code class="language-plaintext highlighter-rouge">install button</code> or just type <code class="language-plaintext highlighter-rouge">M-x package-install &lt;package name&gt;</code>.</p>
+
+<p>Links like <a href="http://orgmode.org/worg/org-tutorials/org4beginners.html">this</a> also say I need to add
+other things in my init file, but I suspect the data is outdated in
+some parts, and I suggest that as you need you shall add to your init
+file. Keep track with comments what you are putting in your init file.
+Right now my computer works just fine this way with the installation
+as explained above. The version I have now is <code class="language-plaintext highlighter-rouge">26.0.50.2</code>. I am a bloody
+noob. If you are reading this, then you are probably a bloddy noob as
+well. This document hopes to just get you started and I detail out
+some of the things I spent a lot of time on, and hope you don’t have
+to. :)</p>
+
+<p>If you want to install markdown mode for example, use this
+(<a href="https://jblevins.org/projects/markdown-mode/">Markdown-mode-Manual</a>).</p>
+
+<p><strong>P.S</strong></p>
+
+<p><a href="https://blog.aaronbieber.com/2015/05/24/from-vim-to-emacs-in-fourteen-days.html">Aarob Bieber’s page</a> also shows other ways of
+installation. But it went over my head and I will get back to it
+later.</p>
+
+<h3 id="setting-global-key-bindings">Setting global key bindings</h3>
+
+<p>If you want to set global key bindings, then you will find in <a href="https://emacs.stackexchange.com/questions/27926/avoiding-overwriting-global-key-bindings">Rules of
+thumb to overide global commands</a> that <code class="language-plaintext highlighter-rouge">C-c &lt;letter&gt;</code> is available
+for usage for end users. And <a href="https://emacs.stackexchange.com/questions/3488/define-controlshift-keys-without-kbd">this website</a> gives the right syntax.</p>
+
+<h3 id="adding-word-counter">Adding Word counter</h3>
+
+<p>According to <a href="https://github.com/bnbeckwith/wc-mode">github </a>,</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone git://github.com/bnbeckwith/wc-mode.git
+</code></pre></div></div>
+
+<p>and then  you add the follwing to the init file.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>;; https://github.com/bnbeckwith/wc-mode
+;; Add the path to the repo
+(add-to-list 'load-path "~/emacs_stuff/wc-mode/")
+(require 'wc-mode)
+;; Suggested setting
+(global-set-key "\C-cw" 'wc-mode)
+</code></pre></div></div>
+
+<h3 id="using-python-console-from-emacs-in-python-mode">Using python console from emacs in python mode</h3>
+
+<p>I have an anaconda installation of python. Setting up emacs to use
+Anaconda’s python or any python that you want can be done by adding this
+to the init file:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(setq python-shell-interpreter "/pathto/anaconda3/bin/python")
+</code></pre></div></div>
+
+<p>More info can be found <a href="https://stackoverflow.com/questions/2515754/changing-python-interpreter-for-emacs?utm_medium=organic&amp;utm_source=google_rich_qa&amp;utm_campaign=google_rich_qa">here</a></p>
+
+<p>P.S
+It appears that opening your python from the desktop and in the
+terminal environment inherit different PATH variables. This lead to
+the point that some files were not called and gave some
+errors. Beware, I have documented this over <a href="https://stackoverflow.com/questions/49829307/emacs-python-not-able-to-find-package-module">here (in stackoverflow)</a></p>
+
+<h3 id="using-indirect-buffers">Using indirect buffers</h3>
+
+<p><a href="http://www.gnu.org/software/emacs/manual/html_node/emacs/Indirect-Buffers.html#Indirect-Buffers">Indirect Buffers</a></p>
+
+<h3 id="my-final-init-file">My final init file</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>;; https://blog.aaronbieber.com/2015/05/24/from-vim-to-emacs-in-fourteen-days.html 
+
+(require 'package)
+
+(add-to-list 'package-archives '("org" . "http://orgmode.org/elpa/"))
+(add-to-list 'package-archives '("marmalade" . "http://marmalade-repo.org/packages/"))
+(add-to-list 'package-archives '("melpa" . "http://melpa.org/packages/"))
+(add-to-list 'package-archives '("melpa-stable" . "http://stable.melpa.org/packages/"))
+
+(setq package-enable-at-startup nil)
+(package-initialize)
+
+;; https://www.gnu.org/software/emacs/manual/html_node/efaq/Turning-on-auto_002dfill-by-default.html
+
+(setq-default auto-fill-function 'do-auto-fill)
+
+;; https://github.com/bnbeckwith/wc-mode
+
+;; Add the path to the repo
+(add-to-list 'load-path "~/emacs_stuff/wc-mode/")
+(require 'wc-mode)
+;; Suggested setting
+(global-set-key "\C-cw" 'wc-mode)
+
+
+;; https://github.com/syohex/emacs-mode-line-timer
+
+;; Add the path to the repo
+(add-to-list 'load-path "~/emacs_stuff/emacs-mode-line-timer")
+(require 'mode-line-timer)
+;; Suggested setting
+(global-set-key "\C-ct" 'mode-line-timer-start)
+(global-set-key "\C-cp" 'mode-line-timer-stop)
+;; https://emacs.stackexchange.com/questions/3488/define-controlshift-keys-without-kbd
+
+;; https://emacs.stackexchange.com/questions/27926/avoiding-overwriting-global-key-bindings
+;; info on key bindings
+
+
+;; https://www.emacswiki.org/emacs/AutoFillMode
+(add-hook 'text-mode-hook 'turn-on-auto-fill)
+(add-hook 'text-mode-hook 'flyspell-mode)
+
+;; for python
+;; https://stackoverflow.com/questions/2515754/changing-python-interpreter-for-emacs?utm_medium=organic&amp;utm_source=google_rich_qa&amp;utm_campaign=google_rich_qa
+
+(setq python-shell-interpreter "/home/eghx/anaconda3/bin/python")
+
+
+;;https://emacs.stackexchange.com/questions/15097/how-do-i-run-a-function-on-start-up?utm_medium=organic&amp;utm_source=google_rich_qa&amp;utm_campaign=google_rich_qa
+
+;; https://stackoverflow.com/questions/2736087/eval-after-load-vs-mode-hook?utm_medium=organic&amp;utm_source=google_rich_qa&amp;utm_campaign=google_rich_qa
+;;doesn't work
+;;(eval-after-load "markdown-mode"
+;; '(markdown-toggle-url-hiding)) 
+
+;; https://stackoverflow.com/questions/2736087/eval-after-load-vs-mode-hook?utm_medium=organic&amp;utm_source=google_rich_qa&amp;utm_campaign=google_rich_qa
+
+(add-hook 'markdown-mode-hook 'markdown-toggle-url-hiding)
+(custom-set-variables ;; custom-set-variables was added by Custom. ;; If you edit it by hand, you could mess it up, so be careful. ;; Your init file should contain only one such instance. ;; If there is more than one, they won't work right. '(package-selected-packages (quote (markdown-mode))))
+
+(custom-set-faces ;; custom-set-faces was added by Custom. ;; If you edit it by hand, you could mess it up, so be careful. ;; Your init file should contain only one such instance. ;; If there is more than one, they won't work right. '(markdown-header-face-1 ((t (:inherit markdown-header-face :foreground "medium blue" :height 1.0)))) '(markdown-header-face-2 ((t (:inherit markdown-header-face :foreground "medium blue" :height 1.0)))) '(markdown-header-face-3 ((t (:inherit markdown-header-face :foreground "dark orange" :height 1.0)))) '(markdown-header-face-4 ((t (:inherit markdown-header-face :foreground "dark cyan" :height 1.0)))))
+</code></pre></div></div>
+
+<h2 id="org-mode-the-farthest-i-have-come">Org mode, the farthest I have come</h2>
+
+<blockquote>
+  <p>Org mode is for keeping notes, maintaining TODO lists, planning
+projects, and authoring documents with a fast and effective plain-text
+system.- orgwiki</p>
+</blockquote>
+
+<p>Check out this <a href="https://www.youtube.com/watch?v=oJTwQvgfgMM">video</a> for a nice introduction
+to orgmode and its capabilities. In short, the idea of org-mode along
+with emacs makes writing easy, allows us to focus straight on content
+and less on setting up and formatting and thinking about other
+things. How ever there is learning curve. It took me about 10 hrs
+before I got anywhere with emacs. I spent another 10hrs working with
+it, trying to make things work, ask for help and get replies etc…</p>
+
+<p>If you have already come this far, then pat yourself on the
+back, you have a working emacs and a basic understanding that is going
+to probably propell you on a journey of emacs-epicness. Honestly the
+hype that people who use it gives me enough enthusiasm to echo their
+feelings. Also, it’s been a week since I started using emacs. I really
+love it and I think I am going to stay here for a long time, purely
+because it much much better than the text editors I have used all my
+life (these are primarily gedit and atom).</p>
+
+<p>ORG-Mode and other modes (such as markdown mode) associated with it,
+really take plain text to a whole new level. Writing tables has never
+been this easy. Org-mode is not just for computer programmers, it is
+for writers, poets, bloggers, anyone who writes text. Check this
+<a href="https://www.youtube.com/watch?v=FtieBc3KptU">video</a> by Jay Dixit, who is a writer,
+psycologist. It gives an introduction to how a writer got into emacs
+who will probably never leave this space. My plan with emacs is to use
+it for all my personal work, right from logging workout data to
+writing my blog. I have successfully converted all my logging data
+files to plain text, over which I can operate later using unix
+commands on a linux terminal. For references to what I am talking
+about, check out [unix-for-poets][unic-for-poets] for manuplating
+text.</p>
+
+<p>For blogging I was having some issues. I was not able to get certain
+things working.</p>
+
+<h3 id="blogging">Blogging</h3>
+
+<p>My setup with blogging is that I write posts in plain text markdown
+format and <a href="https://jekyllrb.com/docs/github-pages/">jekyll</a> subsequently converts it to html and just
+pushing this to git allows me to have a static website online via github.</p>
+
+<p>The problem now is that I would like to write in org mode and have the
+workflow as described
+<a href="http://orgmode.org/worg/org-tutorials/org-jekyll.html">here</a> and
+<a href="http://www.grantschissler.com/blog/2015/04/10/org-jekyll-github.html">here</a>. I did as suggested with adding the text to
+the init file. The workflow suggested was to write in org-mode and
+then subsequently export html to the right location with one click  and the site
+should work as it used to. I don’t know what went wrong, somehow it
+didn’t work the way it was supposed to.</p>
+
+<p>I also tried writing in org mode and then exporting it to markdown
+into the folder I wanted (all with one click to export), but it was much more
+involved and complex. Having spent quite some time and having had some issues, I
+gave up on it.</p>
+
+<p>With its foot quite deep into the philosopy of org-mode, comes another
+mode called Markdown mode.</p>
+
+<h2 id="markdown-mode">Markdown mode</h2>
+
+<p>Markdown mode is the currently what I use. Installation is simple as
+explained in the above sections. This mode has the basics that I need,
+such as visibility cycling and highlights the headings, although not in
+different colours according to their level (as in org-mode).</p>
+
+<p>Check <a href="https://github.com/defunkt/markdown-mode">this link</a>, for more info.</p>
+
+<h2 id="how-do-i-run-a-function-on-start-up">How do I run a function on start-up?</h2>
+
+<p><a href="https://emacs.stackexchange.com/questions/15097/how-do-i-run-a-function-on-start-up?utm_medium=organic&amp;utm_source=google_rich_qa&amp;utm_campaign=google_rich_qa">Based on this answer on emacs.exchange:</a></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(markdown-toggle-url-hiding)
+</code></pre></div></div>
+
+<p>This will and does not work, as it first needs <code class="language-plaintext highlighter-rouge">markdown-mode</code> to be
+alive. After quite some deliberation, we go with <a href="https://emacs.stackexchange.com/questions/17266/how-to-automatically-load-flyspell-mode-when-markdown-md-mdwn-file-is-open">adding a hook</a>
+instead of <code class="language-plaintext highlighter-rouge">eval-after-load</code>.</p>
+
+<h2 id="emacs-invalid-byte-opcode-op183-ptr185">Emacs: invalid byte opcode: op=183, ptr=185</h2>
+
+<p>Markdown mode not working with tables, giving error.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>M-x package-delete RET `package name`
+M-x package-install RET `package name`
+</code></pre></div></div>
+
+<h2 id="macro">macro!</h2>
+
+<p>https://www.emacswiki.org/emacs/KeyboardMacros</p>
+
+<blockquote>
+  <p>You want to add the text “– foobar was here” at the end of each of
+the lines in a file.</p>
+</blockquote>
+
+<blockquote>
+  <p>Place the TextCursor at the beginning of the first line.  <code class="language-plaintext highlighter-rouge">C-x (’ to
+start recording a keyboard macro.  ‘C-e’ (or ‘M-x end-of-line’) to
+move the cursor to the end of the line.  Type “-- foobar was here”
+‘C-a’ (or ‘M-x beginning-of-line’) to move the cursor to the
+beginning of the line.  ‘C-n’ (or ‘M-x next-line’) to move the
+cursor to the beginning of the next line.  </code>C-x )’ to stop recording
+the keyboard macro.  ‘C-u 0 C-x e’ to execute the macro an infinite
+number of times until the end of the file is reached (See
+InfiniteArgument).</p>
+</blockquote>
+
+<p>https://emacs.stackexchange.com/a/71/17941</p>
+
+<p>Here are the steps that you can follow:</p>
+
+<ul>
+  <li>Select the region you want to do the search-replace.</li>
+  <li>Start recording macro.</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">M-x start-kbd-macro</code></p>
+<ul>
+  <li>Do the required <code class="language-plaintext highlighter-rouge">M-x query-replace-regexp</code> (replace “abc” with “def”) and use <code class="language-plaintext highlighter-rouge">!</code> to force search-replace in the whole region.</li>
+  <li>Stop recording macro.</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">M-x kmacro-end-or-call-macro</code>.</p>
+<ul>
+  <li>Do <code class="language-plaintext highlighter-rouge">M-x kmacro-name-last-macro</code> and give the macro a descriptive name like <code class="language-plaintext highlighter-rouge">replace-abc-with-def</code>. You will then be able to call that macro again by doing <code class="language-plaintext highlighter-rouge">M-x replace-abc-with-def</code>.</li>
+  <li>Now save this macro as a function to a file that you load during your emacs initialization; for example, <code class="language-plaintext highlighter-rouge">init.el</code>.</li>
+  <li><code class="language-plaintext highlighter-rouge">M-x insert-kbd-macro</code></li>
+  <li>Select your named macro to be inserted there.</li>
+</ul>
+
+<p>The auto-created <code class="language-plaintext highlighter-rouge">replace-abc-with-def</code> function definition looks like this:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(fset 'replace-abc-with-def
+   (lambda (&amp;optional arg) "Keyboard macro." (interactive "p") (kmacro-exec-ring-item (quote ([59 39 return 97 98 99 return 100 101 102 return 33] 0 "%d")) arg)))
+</code></pre></div></div>
+
+<p>Now you can <code class="language-plaintext highlighter-rouge">M-x replace-abc-with-def</code> in all your emacs sessions.</p>
+
+<hr />
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>Emacs as hyped by everyone who uses it, who have jumped to using it
+after 15 years is crazy. My current usage of emacs already shows me
+the power it has.</p>
+
+<p>I conclude my current learning with emacs and how I started up. I love
+it and I am sure I would like to customize so many things. For now I
+have markdown mode and a word counter installed, with which I can set
+writing goals. Other things I wanted to do are as in the todo list
+below. For example icicles, apparently allows <a href="https://emacs.stackexchange.com/questions/37763/lazy-find-search-for-commands-within-emacs/37790?noredirect=1#comment59514_37790">to search for commands
+in a neat
+way</a>,
+w3 a web browser within emacs allows to just extract the links I
+need. But all these are quite involved and I don’t know how to install
+them yet. They don’t come as packages. They seem to have a particular
+method of installation, which I need to explore and try, something that has to do with
+the <code class="language-plaintext highlighter-rouge">%PATH</code> variable.</p>
+
+<p>Otherwise, I find emacs really interesting, I wouldn’t go back to my
+old editors such as gedit and atom.</p>
+
+<p>The overall journey until my current understanding would be estimated
+at ~20 hrs. Currently I would have spent about 30-40 hrs including
+writing and editing this post.</p>
+
+<p>P.S
+google and stack will always be your friends. Feel free to ask
+questions on stack, once you have done your due research. The
+community is active and amazing. Please stick to their code of
+conduct while writing questions.</p>
+
+<p>Peace.</p>
+
+<hr />
+
+<h2 id="todos">TODO’s</h2>
+
+<ul>
+  <li>TODO figure out how to install other things as per emacswiki</li>
+  <li>TODO Figure out how to use the web browser from emacs</li>
+  <li>TODO figure out how to write similar to org mode and convert it to
+  markdown or html.</li>
+</ul>
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>Plain text is the format that will probably never be 
+unsupported. It is the simplest form of storing data and can be read
+back decades to come follow. That’s one of the reasons we prefer plain
+text instead of softwares like word. Integrating with version
+control such as git is super light as a result of keeping it in plain
+text, instead of some binary formats. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

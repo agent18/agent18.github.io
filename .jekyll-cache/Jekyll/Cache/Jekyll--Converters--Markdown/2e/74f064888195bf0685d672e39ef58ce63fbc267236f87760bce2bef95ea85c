@@ -1,0 +1,91 @@
+I"y<h2 id="installation-of-r-and-rstudio-in-linux-and-setting-it-up-with-emacs">Installation of R and Rstudio in Linux and setting it up with Emacs</h2>
+
+<p>Refer <a href="/R-installation.html">here.</a></p>
+
+<h2 id="asking-a-data-science-question">Asking a data science question</h2>
+
+<ul>
+  <li>
+    <p>What is the question you are trying to answer ?</p>
+  </li>
+  <li>
+    <p>What steps or tools did you use to answer it?</p>
+  </li>
+  <li>
+    <p>what did you expect to see?</p>
+  </li>
+  <li>
+    <p>What did you see instead?</p>
+  </li>
+  <li>
+    <p>what other solutions have you thought about?</p>
+  </li>
+  <li>
+    <p>What is your system info</p>
+  </li>
+</ul>
+
+<p><a href="https://www.coursera.org/learn/data-scientists-tools/lecture/KPkZz/getting-help">Coursera course on data sceince</a></p>
+
+<h2 id="help-sources">Help sources</h2>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">Crossvalidated</code> is some sort of forum to ask for DS questions.</li>
+</ul>
+
+<p><a href="https://www.coursera.org/learn/data-scientists-tools/lecture/6zxii/finding-answers">Source: Coursera </a></p>
+
+<p><a href="r-help@r-project.org">r-help@r-project.org</a> is the mailing list that could be for
+	questions on R if needed as part of the DSS course.</p>
+
+<h2 id="installing-r-packages-required">Installing R packages required</h2>
+
+<p>Packages are usually found on CRAN or Bioconductor Project. More info
+on <code class="language-plaintext highlighter-rouge">c1-w2-installing-R-packages</code> file. To install a package:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>install.packages("package-name1")
+</code></pre></div></div>
+
+<p>It also installs the dependencies automatically.</p>
+
+<p>In case you want to use Bio conductor:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>source("http://bioconductor.org/biocLite.R")
+biocLite()
+
+biocLite(c("package-name1","package-name2"))
+</code></pre></div></div>
+
+<p>You can also install packages directly on RStudio. <code class="language-plaintext highlighter-rouge">Tools --&gt; install
+R package</code>.</p>
+
+<p>To load a library use:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>library(package-name)
+</code></pre></div></div>
+
+<p>To look at what functions are there in the library:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>search()
+</code></pre></div></div>
+
+<h2 id="how-to-share-data">How to share data</h2>
+
+<p>Using data to share</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>www.figshare.com
+</code></pre></div></div>
+
+<p>or</p>
+
+<p>use <a href="www.github.com/jtleek/datasharing">www.github.com/jtleek/datasharing</a> github page to learn more
+about data</p>
+
+<h2 id="r-important-commands">R important commands</h2>
+
+<p>Useful for discovering new commands</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt; help.search("concatenate")
+</code></pre></div></div>
+
+:ET

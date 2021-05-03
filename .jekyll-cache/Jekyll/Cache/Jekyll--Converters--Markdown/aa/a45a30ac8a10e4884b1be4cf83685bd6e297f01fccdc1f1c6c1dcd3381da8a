@@ -1,0 +1,194 @@
+I"�<h2 id="lingesh">lingesh</h2>
+
+<p>Whats the basic procedure for linux games
+https://www.youtube.com/watch?v=xJC9oC49mXs</p>
+
+<p>Install steam, install game, set the proton and then tweeks if
+necessary per game…</p>
+
+<p>Other things to install such as winetrix etc…etc..</p>
+
+<p>https://www.youtube.com/watch?v=kzXowgAUS9I&amp;feature=youtu.be</p>
+
+<h2 id="basic-running-i-think">Basic running I think</h2>
+
+<p>https://www.youtube.com/watch?v=mbdvOUz1544&amp;feature=youtu.be</p>
+
+<h2 id="things-to-do">Things to do</h2>
+
+<ol>
+  <li>
+    <p>1 and 2 based on <a href="https://www.youtube.com/watch?v=xJC9oC49mXs">basic procedure</a>.</p>
+  </li>
+  <li>
+    <p>Change Steam global settings to use proton: Steam / Settings /
+Steam Play –&gt; Enable Steam Play For all titles.</p>
+  </li>
+</ol>
+
+<h3 id="tweeks-needed-for-aoe">Tweeks needed for AOE</h3>
+
+<ol>
+  <li>
+    <p>Install the game:</p>
+
+    <p>From <a href="https://www.youtube.com/watch?v=kzXowgAUS9I&amp;feature=youtu.be">YouTube comments</a>:</p>
+
+    <blockquote>
+      <p>You have to enable Steam Proton for all your Steam library and
+then download and install the game as normal. Once that is done,
+then follow the instructions on this video. I did a previous
+video on Steam Proton that might be helpful -
+https://www.youtube.com/watch?v=xJC9oC49mXs&amp;feature=youtu.be</p>
+    </blockquote>
+  </li>
+  <li>
+    <p>Based on <a href="https://www.youtube.com/watch?v=kzXowgAUS9I&amp;feature=youtu.be">this</a>.</p>
+
+    <p>sudo apt install winetricks</p>
+  </li>
+</ol>
+
+<p>done. :)</p>
+
+<ol>
+  <li>
+    <p>Need to install the Media Foundation workaround for Wine</p>
+
+    <p>https://github.com/z0z0z/mf-install</p>
+
+    <p>Download and install it using the following after moving to folder
+ of downloaded mf-install
+ referencing to the game’s “installation location”:</p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> WINEPREFIX="/home/eghx/.local/share/Steam/steamapps/compatdata/813780/pfx" ./mf-install.sh 
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Install Microsoft Visual Runtime</p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> WINEPREFIX="/home/ryanjohnson/.steam/debian-installation/steamapps/compatdata/1017900/pfx"
+ winetricks -q vcrun2017
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Rename the video folder (otherwise it will crash)</p>
+
+    <p>right click on game in steath –&gt; properties –&gt; go to local files
+ –&gt; Assets –&gt; change the name of “Video” to anything else.</p>
+
+    <p>You will get an error “Unable to setup bla bla bla”… noi worries
+ keep gehen.</p>
+
+    <p>Alternatively you can add -nostartup to the game’s custom
+ launcher, this has the same affect as renaming the Video folder. ???</p>
+  </li>
+</ol>
+
+<p>Doesn’t work…</p>
+
+<p>redoing the mf-install.sh line…</p>
+
+<p>worst case… remove game and redo the above steps fresh?</p>
+
+<p>Try <a href="https://www.reddit.com/r/aoe2/comments/dwuplr/how_to_run_age_of_empires_2_definitive_edition_on/">this guide</a> that I found on reddit</p>
+
+<h2 id="winetricks-vcrun2017-not-found">winetricks vcrun2017 not found</h2>
+
+<ul>
+  <li>error: Unknown arg vcrun2017</li>
+</ul>
+
+<p>so we atleast need a later version of 20170823</p>
+
+<ul>
+  <li>
+    <p>link for Winetricks instructions and readme
+:https://github.com/Winetricks/winetricks</p>
+  </li>
+  <li>
+    <p><a href="https://packages.ubuntu.com/search?keywords=winetricks">only old (2014) version of winetricks</a> available in 16.04</p>
+  </li>
+</ul>
+
+<ol>
+  <li>
+    <p>Started with purging winetricks</p>
+  </li>
+  <li>
+    <p>Installing latest winetricks based off of here:
+https://askubuntu.com/a/755060/443958</p>
+
+    <p>Did only first 2 steps. and now have version: 20200412</p>
+  </li>
+</ol>
+
+<p>Now did the vcrun2017 And got error:</p>
+
+<div class="language-terminal highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="go">------------------------------------------------------
+Your version of wine 1.6.2 is no longer supported upstream. You should upgrade to 4.x
+------------------------------------------------------
+Executing mkdir -p /home/eghx/.local/share/Steam/steamapps/compatdata/813780
+------------------------------------------------------
+You are using a 64-bit WINEPREFIX. Note that many verbs only install 32-bit versions of packages. If you encounter problems, please retest in a clean 32-bit WINEPREFIX before reporting a bug.
+------------------------------------------------------
+------------------------------------------------------
+
+</span></code></pre></div></div>
+
+<p>Now removed wine and updating to 4.x from 1.6.2 based on <a href="https://wiki.winehq.org/Ubuntu">winehqeiki</a></p>
+
+<p>Notes on <a href="https://www.google.com/search?q=wine+32+bit+64+bit+difference&amp;oq=wine+32+bit+64+bit+&amp;aqs=chrome.1.69i57j33l7.4958j0j7&amp;sourceid=chrome&amp;ie=UTF-8">winprefix and 32 and 64 bit shit</a></p>
+
+<p>There is so much detail here. And I am afraid I fucked up… I did the
+vcrun2017 command but then I got an error type message.. Was that an
+error or what?</p>
+
+<p>should I change wineprefix to 32bit?</p>
+
+<p>after successful installation of wine 5.0 I tried the vcrun2017
+command again. It seems that wine is finally active and working and
+asking me to install “gecko” etc…</p>
+
+<div class="language-terminal highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="go">You are using a 64-bit WINEPREFIX. Note that many verbs only install 32-bit versions of packages. If you encounter problems, please retest in a clean 32-bit WINEPREFIX before reporting a bug.
+
+</span></code></pre></div></div>
+
+<h2 id="direct-x-11-issues">Direct x 11 issues</h2>
+
+<p>It said compatibility not met… Tried ediitng th evideo folder and
+adding something from this video as first attempt…</p>
+
+<p>He was setting some “set launch options”
+https://www.youtube.com/watch?v=mbdvOUz1544</p>
+
+<h2 id="graphic-card-issue">Graphic card issue:</h2>
+
+<p>Need to figure out if game is using my powerful nvidia graphic card.</p>
+
+<p>Didn’t work.</p>
+
+<h2 id="space-issue-identifying-how-to-increase-space-solved">Space Issue: Identifying how to increase space [Solved]</h2>
+
+<p>Checked it out. It is very easy to do. But runs the risk of fucking up
+Ubuntu and then re-installing. Currently all I need is like 10-20gb
+space which I have more than enough of in my “non-root” partition.</p>
+
+<p>Made some notes <a href="/resizing-ubuntu-dual-boot-partition.html">here</a>.</p>
+
+<h3 id="issue-of-installation-in-the-root-">Issue of installation in the “root” “/”</h3>
+
+<ul>
+  <li>We have very little space in the “/” and we need to install things not
+in “/” but else where.</li>
+</ul>
+
+<p>exp:
+https://askubuntu.com/questions/611775/does-steam-install-games-to-the-root-partition</p>
+
+<ul>
+  <li>Steam doesn’t install things in the root. It gives choice to install
+elsewhere.</li>
+</ul>
+
+:ET

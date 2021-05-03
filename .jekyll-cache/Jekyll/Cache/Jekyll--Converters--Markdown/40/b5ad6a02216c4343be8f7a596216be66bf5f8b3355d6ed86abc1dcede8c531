@@ -1,0 +1,250 @@
+I"�'<h2 id="basics">Basics</h2>
+
+<p>-Use <a href="https://certification.ubuntu.com/certification/">ubuntu-certified-hardware</a> to find out if your hardware is
+ubuntu certified. Helps in knowing if ubuntu is already going to work
+with it.</p>
+
+<p>-Always google said laptop with keywords: Laptop name, ubuntu,
+linux. Check for issues in that laptop</p>
+
+<p>-Know your laptop and what you are getting</p>
+
+<h2 id="current-laptop-problems">Current laptop problems</h2>
+
+<p>Basically wifi gave up after a year or 2 of usage, no going back,
+apparently, laptop screen started flickering and is not portable
+anymore. Performance has always been slow. One of my friends pointed
+some potential issues with the video drivers for the curent amd
+scene. In addition, sleeping kills performance, boot up takes 2 mins I
+think. But the irony is I have seen a laptop only being slept for
+months, but still opening applications, the same ones that I use in
+seconds.</p>
+
+<p>On a fresh boot my system hangs and is super super slow, even while
+running just some basic chrome and emacs. This is odd for what is
+expected from ubuntu. It makes a lot of sound, informing high
+processor usage when I a run a video for example.</p>
+
+<p>Bottom line, I have spent time and tried to fix this. A lot of
+time. Not worth it anymore. Time to retire and start with something
+that is known to give less problems and cheap.</p>
+
+<p>Problems documented by me alone are, <a href="https://askubuntu.com/questions/804013/ubuntu-stuck-at-shutdown-after-connecting-to-external-screen/804831#804831">Video driver problem</a>, <a href="https://askubuntu.com/questions/1001123/rt3290-ralink-wifi-drops-every-5-mins-ubuntu-14-04">Wifi
+problem</a></p>
+
+<h3 id="what-do-i-need">What do I need</h3>
+
+<p>Budget 200 bucks.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: right">Laptop</th>
+      <th style="text-align: left">Dell Latitude E5430 14 inch</th>
+      <th style="text-align: center">HP pavillion g6</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: right">hdd</td>
+      <td style="text-align: left">320</td>
+      <td style="text-align: center">736</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">screen size</td>
+      <td style="text-align: left">14, can buy an external screen</td>
+      <td style="text-align: center">15.4</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">ubunutu centre</td>
+      <td style="text-align: left">No</td>
+      <td style="text-align: center">Yes</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">wifi problems</td>
+      <td style="text-align: left">Yes, but curable according to ask ubuntu</td>
+      <td style="text-align: center">YES, Sucks!</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">video driver problems</td>
+      <td style="text-align: left">No, I think</td>
+      <td style="text-align: center">YES</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">return?</td>
+      <td style="text-align: left">Within 15 days</td>
+      <td style="text-align: center">Not anymore</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">4gb ram?</td>
+      <td style="text-align: left">YEs</td>
+      <td style="text-align: center">Yes</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Intel/amd</td>
+      <td style="text-align: left">Intel i5</td>
+      <td style="text-align: center">AMD</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Windows yes or no</td>
+      <td style="text-align: left">Windows 10 fornite capable</td>
+      <td style="text-align: center">NOPE/removed</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Cost</td>
+      <td style="text-align: left">200 Euros</td>
+      <td style="text-align: center">Cannot work anymore</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Expected lifetime</td>
+      <td style="text-align: left">1 year, 2 year max (4 years old)</td>
+      <td style="text-align: center">very poor performance 0 year</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Current age</td>
+      <td style="text-align: left">4 years</td>
+      <td style="text-align: center">4 years</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul class="task-list">
+  <li class="task-list-item">
+    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />I need 500gb hardisk space
+Well I will adjust. I don’t know why I need so much space anyway. I
+will buy an external when needed or use cloud storage as needed.</p>
+  </li>
+  <li class="task-list-item">
+    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />No errors or issues online
+There are some errors and problems, but they seem to have been
+verified.</p>
+  </li>
+  <li class="task-list-item">
+    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />something that I can return if I dont like
+Yes and within 30 days.</p>
+  </li>
+  <li class="task-list-item">
+    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />should be able to run emacs, browser with 10 tabs, atleast one
+    with video streaming in it, playable fortnite is a bonus</p>
+  </li>
+</ul>
+
+<p>Doesn’t seem to have those video driver problems</p>
+
+<ul class="task-list">
+  <li class="task-list-item">
+    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />4gb ram</p>
+  </li>
+  <li class="task-list-item">
+    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />INTEL</p>
+  </li>
+  <li class="task-list-item">
+    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Windows in parallel?</p>
+  </li>
+  <li class="task-list-item">
+    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Should work for 2 years atleast</p>
+  </li>
+</ul>
+
+<blockquote>
+  <p>Restart your computer once more and press the appropriate key to
+enter the BIOS. The date displayed in the menu will give you an
+approximation of the manufacture date</p>
+</blockquote>
+
+<p>Its 4 years old with one year warranty.</p>
+
+<h2 id="buying-ubuntu-pre-installed">Buying ubuntu pre-installed?</h2>
+
+<p>Might be pricy. New laptops are always pricy and not required at the moment.</p>
+
+<h2 id="using-a-chromebook">Using a chromebook</h2>
+
+<p>It is basically linux os. Hardware should be fine, but usually comes
+with tiny specs as it is meant for being light and carrying around!</p>
+
+<h2 id="why-not-a-desktop">Why not a Desktop</h2>
+
+<p>I would like a laptop, one that I can move around.</p>
+
+<h2 id="buying-second-hand">Buying second-hand</h2>
+
+<p>Places to buy</p>
+
+<ul class="task-list">
+  <li class="task-list-item">
+    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />informatique
+Useless, doens’t appear to have refurbished lappies</p>
+  </li>
+  <li class="task-list-item">
+    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />mediamarkt
+Seems no refurbished laptops are here.</p>
+  </li>
+  <li class="task-list-item">
+    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />bol.com</p>
+  </li>
+  <li class="task-list-item">
+    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />coolblue</p>
+  </li>
+  <li class="task-list-item">
+    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />azerty</p>
+  </li>
+  <li class="task-list-item">
+    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />tweedehandsnotebook.nl</p>
+  </li>
+</ul>
+
+<p>This one is good with good reviews, and customer service and
+returnability etc…, the first one I found online and within budget.</p>
+
+<h2 id="todo">TODO</h2>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Check System76 for what types of laptops they sell, maybe you
+    can buy them</li>
+</ul>
+
+<p>Not much use with Sytem 7, they have pricy laptops and thats it, they
+are not from known brands.</p>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Find cheapest laptop and put up your research on it, such as
+    specs, cost, where to buy and run over the basics part.</li>
+</ul>
+
+<h2 id="reflection">Reflection</h2>
+
+<p>In the last three months. I spent atleast 20-30 hours fixing
+wifi. Spent 50 euros on the screen which doens’t work. Spent another
+15-30 hrs trying to fix new problems, such as a hanging system, even
+on a fresh ass install.</p>
+
+<p>I spent 10-20 hrs determining what laptop I should buy, and finally
+bought it today. Will spend another 10 hrs installing and trying out things
+and getting the new laptop to speed. Fingers crossed, less problems.</p>
+
+<p>Why am I wasting so much time like this, when there are other things I
+should be doing?</p>
+
+<p>Everything takes time. Discovering that there is a problem, attempting
+to fix it etc… There is also the rhetoric of ‘hurdles are for
+learning’. When do you stop fixing or trying fixes on your ubuntu
+anyway? What do you do when nothing online works? You ask a
+friend/guy-with-some-experience and when the friend says it is toast,
+I give up.</p>
+
+<p>Also, possibly that spending money to buy a new lappy hurts and somehow
+consuming (consumerism) is also “wrong”. “I am not like the others who
+consume uselessly, I have a higher purpose and am better than these
+people”, is the rhetoric I share at some subconcious level I guess.</p>
+
+<p>I knew my computer was fucked on march 1st. Today is may 1. An
+appaling 2 months, before I ordered. Why?</p>
+
+<p>I guess the system was still just usable. I usually waste time endlessly on a
+weekend, on every weekend and get no work done and hence don’t buy
+anything. I have a phone sitting right next to me and asking me to use
+it. There is youtube, primevideo and all sorts of distractions, I fill
+my life with, such that it is easy to get distracted.</p>
+
+:ET

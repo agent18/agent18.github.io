@@ -1,0 +1,613 @@
+I"�<h2 id="stm-feedback-after-essay">STM feedback after essay</h2>
+
+<p>Mr. Agent,</p>
+
+<p>I didn’t see the lifetime impact of the data science path. What has
+been the growth rate of “impact” for the two career paths as people
+got promoted or started new ventures? What are you assuming it will
+be?</p>
+
+<p>Related: How many years of career are you assuming? That along with
+the growth rate would point to the lifetime “impact”. That total would
+be a better indicator of the expected value of some gamble like
+Master’s degree and H1B visa. For example, 8 years of a grind even
+starting at 30 may be worth the remaining 27 years of high pay
+compared to 35 years of what seems less risky but lower-paying.</p>
+
+<p>For how many years will you be allowed to work in a given country? Can
+you go back to Europe or is it back to India after that?</p>
+
+<blockquote>
+  <p>The probabilities are sub 50% for success in either cases. In case I
+fail to make it to the US, I am stuck with very low ETG (5-10k).</p>
+</blockquote>
+
+<p>Also look at other options that may have a higher acceptance rate for
+permanent residency and work options, even if they have lower overall
+compensation. Canada, Australia, other European countries, etc. Also
+India.</p>
+
+<p>Then there’s the cost of living in different places. For example,
+Seattle has pretty high salaries and lower cost of living than the Bay
+Area.</p>
+
+<p>In other words, when I hear “lifetime impact”, I expect to see
+lifetime calculations. Doesn’t have to be perfect, but has to consider
+the total career. A very crude one would be the total given some
+starting salary and some growth rate over X years of career. A more
+detailed one would be an average salary (or “impact”) of X1 for 5
+years and X2 for the next 10 years and so on, and then calculating the
+sum over the career.</p>
+
+<blockquote>
+  <p>My plan is to roughly first move to DS ASAFP (3-6 months) and start
+“clocking” DS hours on the side (9-5 job). I will spend the next few
+years (0-5 years) focusing on gaining R skills, research skills
+needed for EA and try my luck at breaking into EA “in a way that
+creates a lot of impact”. (It took 5 years for Peter Hurford to
+start his own org.)</p>
+</blockquote>
+
+<p>What is the opportunity cost of doing the above mix vs data science
+full-time?</p>
+
+<p>Side note: Please avoid using rare abbreviations everywhere (such as
+GR or ETG).</p>
+
+<h2 id="entry-question">Entry question</h2>
+
+<p>What should I do next? Should I go for a Master’s? Should I upskill for
+EA Orgs?</p>
+
+<h2 id="ea-jobs-have-high-impact-in-research">EA jobs have high impact in Research</h2>
+
+<p>I am going to try making a lifetime impact calculation (very rough)
+based on <a href="https://80000hours.org/2016/08/reflections-from-a-givewell-employee/">Milan Griffes attempt here</a>. <a href="https://forum.effectivealtruism.org/posts/afDCCvCsZcz8axoPp/examples-for-impact-of-working-at-eaorg-instead-of-etg">People seem hesitant to
+make such calculations</a> for some reason. And somehow they are able
+to make decisions without these. All I want to do is just see if it is
+even worth spending time to be a researcher in the <a href="https://www.openphilanthropy.org/blog/reflections-our-2018-generalist-research-analyst-recruiting">already crowded
+space</a> (OPPs recent hiring round).</p>
+
+<p>GiveWell moved 110m<code class="language-plaintext highlighter-rouge">$</code> in 2015. An entry level researcher’s
+contribution is expected to be <a href="https://blog.givewell.org/2016/04/05/givewells-progress-in-2015/">10% of a co-founder</a>. Over a
+lifetime I find it hard to believe that one will be stuck at 10% of
+the co-founder contribution. With time one would move up the ladder
+and on average <em>I assume</em> one is at <code class="language-plaintext highlighter-rouge">30%</code> the co-founder
+contribution. GiveWell employed <a href="https://blog.givewell.org/2016/04/05/givewells-progress-in-2015/">9 co-founders</a> that year. So we
+get a multiplying factor <code class="language-plaintext highlighter-rouge">0.3/9</code>.</p>
+
+<p>Just like we divide the impact of the org among the different people,
+it seems appropriate that we should also divide the impact of the 110m
+that GiveWell moves, among the following: the Donors (e.g., Good
+Ventures), the middle men (GiveWell) and the intervention Orgs
+(AMF). The impact from the 110m<code class="language-plaintext highlighter-rouge">$</code> seems to belong to each of these
+Orgs. <em>I assume</em> all Orgs have equal weight in this, for lack of any
+other better estimate. So we get a multiplying factor <code class="language-plaintext highlighter-rouge">0.33</code>.</p>
+
+<p><strong>Replaceability of org</strong></p>
+
+<p>Now we get into counterfactual estimates of the org itself. What is
+the utility to the world if GiveWell existed, minus when they didn’t
+exist. I don’t know how to estimate this but it appears <a href="https://ea.greaterwrong.com/posts/fnBnEiwged7y5vQFf/triple-counting-impact-in-ea/comment/CWxdafynvn3nQ7v9b">80000hours
+uses a factor <code class="language-plaintext highlighter-rouge">&lt;=0.3</code></a> to estimate their counterfactual impact. We
+shall roll with this, for lack of any better estimate. So <em>we assume</em>
+<code class="language-plaintext highlighter-rouge">0.3</code> again.</p>
+
+<p>So far the Impact for a researcher at GiveWell is estimated to be
+<code class="language-plaintext highlighter-rouge">0.3/9x0.33x0.3x110m=363k</code>. This final value is TOO sensitive to any
+changes in the factors listed above. For example, if the ‘Contribution
+of the Org’, changed from 0.3 to 0.4, then the outcome increases by
+about 100k<code class="language-plaintext highlighter-rouge">$</code> to 484k<code class="language-plaintext highlighter-rouge">$</code>.</p>
+
+<p><strong>Replaceability of person</strong></p>
+
+<p>Counterfactual estimates for the impact created by a person in an EA
+job, is the difference in impact between, when he takes the job and
+when he doesn’t. This is quite hard to predict. It not only depends on
+the next candidate who didn’t get this job, but what that next
+candidate did (spillover-effects). “Did he end up displacing other
+people in EA?”, “What happened in the rest of the displacement chain?”
+etc…</p>
+
+<p>Depending on the situation this can vary from 0 to 363k<code class="language-plaintext highlighter-rouge">$</code>. Imagine a
+job opening where anyone who meets a “very high bar” can get that
+research position as there are enough funds for it. Such a person
+seems to take credit for all of the 363k. However, imagine a case
+where there are 2 similarly skilled people for one job that was
+open. <code class="language-plaintext highlighter-rouge">A</code> gets the job and <code class="language-plaintext highlighter-rouge">B</code> can do ETG but can donate only a few
+100<code class="language-plaintext highlighter-rouge">$</code> a year. This makes the counterfactual impact of <code class="language-plaintext highlighter-rouge">A</code> = 100<code class="language-plaintext highlighter-rouge">$</code>.</p>
+
+<p>In reality there are many people and it is hard to trace the actual
+impact. Attempting to make estimates seems to need a lot more
+assumptions which I am unable to back up with data or examples. Moving
+on!</p>
+
+<p><strong>Conclusion</strong></p>
+
+<p>It appears that EA work has a lot of potential to do good ranging from
+0k<code class="language-plaintext highlighter-rouge">$</code> to even &gt;363k<code class="language-plaintext highlighter-rouge">$</code>. My problem is there is a lot of uncertainty. And
+this number could be extremely high (even in millions) depending on
+the type of work one chooses and how much better he is than others.</p>
+
+<h2 id="hard-to-get-ea-jobs-needs-credentials">Hard to get EA jobs. Needs credentials.</h2>
+
+<p>In the essay on <a href="/is-ea-bottlenecked-stm-2.html">“Talent Constraint”</a>, this table below was
+presented. It shows how hard getting an EA job is.</p>
+
+<table class="tablestyletwo">
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th>Org</th>
+      <th>position</th>
+      <th style="text-align: right">AR</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2018</td>
+      <td>OPP</td>
+      <td>GR</td>
+      <td style="text-align: right">&lt;5%</td>
+    </tr>
+    <tr>
+      <td>2018</td>
+      <td>EAF</td>
+      <td>GR  &amp; Operations</td>
+      <td style="text-align: right">3%</td>
+    </tr>
+    <tr>
+      <td>2019</td>
+      <td>CE</td>
+      <td>CE entrepreneurship program</td>
+      <td style="text-align: right">11.7%</td>
+    </tr>
+    <tr>
+      <td>2020</td>
+      <td>CE</td>
+      <td>CE Entrepreneurship program</td>
+      <td style="text-align: right">&lt;1%</td>
+    </tr>
+    <tr>
+      <td>2019</td>
+      <td>CE</td>
+      <td>Internship Mental Health</td>
+      <td style="text-align: right">&lt;2.5%</td>
+    </tr>
+    <tr>
+      <td>2019</td>
+      <td>FWI</td>
+      <td>Research analyst Welfare specialist</td>
+      <td style="text-align: right">2.4%</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td>2017</td>
+      <td>Y-comb</td>
+      <td>startups</td>
+      <td style="text-align: right">1.6%</td>
+    </tr>
+    <tr>
+      <td>2018</td>
+      <td>Harvard (#2)</td>
+      <td>student</td>
+      <td style="text-align: right">5.2%</td>
+    </tr>
+    <tr>
+      <td>2018</td>
+      <td>Yale (#3)</td>
+      <td>student</td>
+      <td style="text-align: right">6.9%</td>
+    </tr>
+    <tr>
+      <td>2018</td>
+      <td>Stanford (#6)</td>
+      <td>student</td>
+      <td style="text-align: right">4.7%</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td>2018</td>
+      <td>California LA (#20)</td>
+      <td>student</td>
+      <td style="text-align: right">16%</td>
+    </tr>
+    <tr>
+      <td>2018</td>
+      <td>Florida (#34)</td>
+      <td>student</td>
+      <td style="text-align: right">42%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>It takes <a href="https://forum.effectivealtruism.org/posts/hcdwSvGntCDJxCuqx/examples-of-people-who-didn-t-get-into-ea-in-the-past-but">a few years to break into EA</a>. For Peter, apparently it
+took him 5 years of hardwork to get to founding his own org. MSJ, to
+get an internship in CE, took 2-4 years and quite some hardwork
+(writing your own research, showing up at EA conferences, criticizing
+research etc…). For Saulius, it took about 2 years and 2
+internships.</p>
+
+<p>I recently apped for an internship and didn’t get it. I probably need
+to work on it for a few years and copy actions of these examples. In
+addition I really suck at understanding claims, so add a few more
+years!</p>
+
+<p><strong>Conclusion</strong>: It could take about 2-5 years and “a lot of hard work”
+before I get into an EA org. The counterfactual impact “depends”. The
+chances for success are unknown, and its getting quite competitive as
+expressed in the acceptance rates.</p>
+
+<hr />
+
+<h2 id="ds-for-etg">DS for ETG</h2>
+
+<p>I am going to focus on DS instead of CS, for DS involves “critical
+thinking”, working with statistics, working with claims, hypothesis
+testing etc.–things that seem to help become a better EA researcher
+(in case I need them in the future). Also Earning potential wise, it
+appears there is not “much difference” (<a href="https://medium.com/datadriveninvestor/which-is-more-promising-data-science-or-software-engineering-7e425e9ec4f4">looking at the average
+salaries</a>). So we stick with DS.</p>
+
+<p>Earning potential is quite high in the US. Earnings are substantially
+larger than here in Netherlands (or Europe). I know DS people with
+4yoe in Apple California earning 300k<code class="language-plaintext highlighter-rouge">$</code> TC and others in Walmart with
+300k<code class="language-plaintext highlighter-rouge">$</code> TC. While here (Netherlands) people seem to be <a href="https://www.glassdoor.nl/Salarissen/Booking-com-Data-Scientist-Amsterdam-Salarissen-EJI_IE256653.0,11_KO12,26_IL.27,36_IM1112.htm?experienceLevel=ONE_TO_THREE">earning
+78-103k</a> as per Glassdoor. With such salaries as in the US there
+are people like (<a href="https://www.jefftk.com/donations">Jeff Kaufman</a>) who are able to donate 50%. This
+amounts to about 150k<code class="language-plaintext highlighter-rouge">$</code> per year with a 300k<code class="language-plaintext highlighter-rouge">$</code> TC.</p>
+
+<p>There are 2 ways many people I know take, to get to the US. People
+take the masters route, and then work towards an H1B visa which allows
+you to work there. The other route is the L1 route. In this case you
+work in say Amazon in India (for e.g.,) and then try to move to the US
+on an L1.</p>
+
+<p><strong>Chances are low to make it in the US</strong></p>
+
+<p>There are random factors associated with working in US. Getting an H1B
+is based on lottery. Whether you are doing an L1 or Masters in the US,
+you end up having to deal with H1B at some point–either after
+Master’s or before your L1 expires (&lt;5years). There seems to be a
+<code class="language-plaintext highlighter-rouge">60%</code> chance that a person like me will clear this hurdle <sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">1</a></sup>. This
+is including atleast 3 tries at H1B (i.e., 1-3 years of applying).</p>
+
+<p>In addition, the US is not the most friendly place for workers
+rights. Once you loose a job you have <a href="https://www.nolo.com/legal-encyclopedia/just-got-laid-off-h-1b-job-i-any-grace-period-can-i-another-visa-jobhunt.html">60 days to find another
+job</a>. In
+times of recession (like in 2008 or during the Corona period), the
+chance of loosing the job seems to be about 15%<sup id="fnref:5" role="doc-noteref"><a href="#fn:5" class="footnote" rel="footnote">2</a></sup> and might mean a
+one way ticket back to home. This comes to a multiplying factor of
+<code class="language-plaintext highlighter-rouge">89%</code>.</p>
+
+<p>For Master’s route, I think I have “good” chances of getting a DS job
+in FAANG with 2-3 yoe (not including the H1B chances). I have seen
+examples of people in FAANG whom I know well, and thus think it is
+definitely within reach comparing myself to them. Worst case it should
+be possible to atleast get a DS job in California, from where I can
+grow into FAANG. People are able to do bootcamps and join DS from
+different industries such as <a href="https://www.linkedin.com/in/shashankmaiya/">Electrical Engineering</a>. This
+suggests to me that it is definitely not out of reach. Let’s put this
+at <code class="language-plaintext highlighter-rouge">80%</code>. So in total, <code class="language-plaintext highlighter-rouge">60%x89%x80%=42%</code> chance of making it.</p>
+
+<p>For the L1 route, the biggest hurdle would be to find a company that
+is L1-able. There are examples I have come across, across fields and
+countries. There are people who went all the way to JP Morgan in New
+York on an L1 after a few years in India and <a href="https://www.linkedin.com/in/ramshandilya/">SWe engineers from India
+who are now in FAANG</a>. <del>People demanding a job in US because they
+are good and pushing for a job there.</del> Atleast for mechanical
+background, people from ASML Netherlands regularly work in the US for
+a few years on L1. It seems accessible. I have to look into the
+possibilities more for DS people in Netherlands. Say <code class="language-plaintext highlighter-rouge">60-80%</code>
+chance. So in total, <code class="language-plaintext highlighter-rouge">32%</code> to <code class="language-plaintext highlighter-rouge">42%</code>.</p>
+
+<p><strong>DS Costs (time and money)</strong></p>
+
+<p>With the Master’s route based on examples I have seen, 4 to 6 years to
+a FAANG 300k<code class="language-plaintext highlighter-rouge">$</code> TC job (2-4 yoe + 2y for masters). With the L1 route 2-3
+yoe + 2-5 years before getting H1B transfer. So, 4-8 years from now.</p>
+
+<p>With the regular masters route, I would have to spend 50-70k<code class="language-plaintext highlighter-rouge">$</code> at a
+public university and mostly can’t work during that time–becoming a
+total of 70-90k<code class="language-plaintext highlighter-rouge">$</code> (including the opportunity costs). With the L1 route,
+I think I have to do an online masters (estimated at <a href="https://www.reddit.com/r/datascience/comments/7o21qw/berkeley_master_data_science_mids_vs_other_online/">20k</a> for 2
+years) atleast to be able to defend an RFE<sup id="fnref:4" role="doc-noteref"><a href="#fn:4" class="footnote" rel="footnote">3</a></sup> and also to improve
+chances with H1B<sup id="fnref:9" role="doc-noteref"><a href="#fn:9" class="footnote" rel="footnote">4</a></sup>. But I will be working during that time and can
+cover my costs as it will be part time.</p>
+
+<p><strong>Forget spending 2 hrs a day on things related to EA</strong></p>
+
+<p>With the Master’s route, combined with my actual 9-5 job I think there
+is not going to be much time until I reach FAANG. Starting with a DS
+Masters implies that for the next 4-7 years I will be investing all my
+resources on making it into FAANG. First I start with GRE, get a job
+here (NL) in DS, work out the universities, apply, send documents,
+talk to people about where to go etc. During Master’s I think I will
+tend to spend all my time to get better grades and work on DS, and
+apply for jobs. I would want to do everything in my power to learn
+skills needed and get good grades to maximize my chances. Until I
+reach FAANG, I would be doing things that can improve my chances.</p>
+
+<p>With the L1 route, I think the same holds too. If I end up working in
+Netherlands and doing a masters part-time, there is going to be no
+time. Forget spending 2 hrs a day. Once I get to the US on L1 I will
+be working on getting an H1B type job. That would be the focus. So
+both cases I guess that spending time to build “EA related skills” is
+gonna be hard during the time leading to FAANG.</p>
+
+<p><strong>When I fail</strong></p>
+
+<p>The probabilities are sub 50% for success in either cases. In case I
+fail to make it to the US, I am stuck with very low ETG (5-10k). And
+furthermore it is going to be much harder to start my journey into
+EA. I will be in my 33-36’s and I am afraid its gonna be “harder”
+than now as I would have passed several “crucial years” (4-7) where I
+could have spent learning “skills related to an EA”.</p>
+
+<p>In the Master’s case this seems to imply that I could be in debt of
+50-70k<code class="language-plaintext highlighter-rouge">$</code> in case things don’t work out (worst-case). This means that I
+have to pay my debt for another 5-7 years before I can potentially ETG
+again. For the L1 case, atleast I am not in going to be in debt.</p>
+
+<p>Considering the debt part alone and the reduced anxiety due to that, I
+would prefer the L1 route. It is still unclear what the chances are
+with meeting an L1-able company. L1 on the other hand also allows you
+to gain a few years (2-4y) experience before applying to FAANG
+(increasing the chances). However, in theory if someone pays for my
+Master’s (my brother perhaps) and I had “experience” (of 2-3 years),
+then <strong>both options are “almost” the same.</strong></p>
+
+<hr />
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p><strong>DS route</strong></p>
+
+<p>The Impact with DS seems to be high in the order of 150k (and more
+maybe) donations. Getting a job in the US seems to be coming in with a
+probability of less than 50% (most of which are not in my control) be
+it Master’s or be it the L1 route .</p>
+
+<p>If this path is chosen, there is a “good chance” that I am unable to
+sink my teeth into up-skilling myself in other things such as EA
+(during the 4-8 years of pursuing this path).</p>
+
+<p>I would be in my 33-36’s if I crash and burn. I am afraid its gonna be
+“much harder than now” to try EA as I would have passed several
+crucial years (4-7) where I could have spent learning skills related
+to an EA.</p>
+
+<p><strong>EA route</strong></p>
+
+<p>So far we have seen that breaking into EA can take 2-5 years and a
+“lot of hard work”. The probabilities for success are unclear, but the
+impact seems to have a lot of potential i.e., &gt;350k<code class="language-plaintext highlighter-rouge">$</code> (the lower
+limit could be as low as few k<code class="language-plaintext highlighter-rouge">$</code>; very hard to estimate currently).</p>
+
+<p>If this path is chosen, it means that I still need a day job (25-40
+hrs). Continuing to work on my usual MechE job is possible until a
+time that I am able to move to EA full-time.</p>
+
+<p>In case I crash and burn, then all I have is some skills that possibly
+wont help me in ETG. MechE is a low paying job. And moving to DS will
+be “much harder than now”. So I am delayed by 2-5 years in getting
+started with DS.</p>
+
+<p><strong>The path that has it all?</strong></p>
+
+<p>Having to restart after 4-8 years “sounds like a bad idea”. I will be
+older in my 34s to 38s, and am not sure about how it is perceived and
+if I can get a master’s at that time, if I can move jobs etc. Also
+learning skills is supposed to be harder in some cases as you move to
+a middle age (37-48)<sup id="fnref:10" role="doc-noteref"><a href="#fn:10" class="footnote" rel="footnote">5</a></sup>.</p>
+
+<p>However there seems to be a “better” route. Instead of uselessly
+clocking time on MechE, and not having back-up options, I could first
+quickly change to a DS job (3-6 months). From there on I could pursue
+EA route in the evenings and weekends, while I still clock DS
+time. Granted I wont become great at DS but I will have yoe atleast,
+and when I crash and burn, I wont be starting anything from scratch.</p>
+
+<hr />
+
+<h2 id="footnotes">Footnotes</h2>
+
+<!-- [^7]: **How bad is it to learn a new skill in 35's or 40's as compared -->
+<!-- to 30's?** -->
+
+<!-- https://www.ncbi.nlm.nih.gov/pubmed/3268226 -->
+
+<!-- https://booksc.xyz/book/60896083/a4b624 -->
+
+<!-- According to *Acquisition of word-processing skills by younger, -->
+<!-- middle-age, and older adults.* -->
+
+<!-- > The study included three age groups composed of 15 female subjects -->
+<!-- > each: younger (A/ age - 21.5 years. SD - 3.5. range 18-28): middle -->
+<!-- > age (M age -- 42.2 years. SD - 3.1, range = 37-48; and older (A/ age -->
+<!-- > =- 60.7 years SD = 3.6, range = 55-67). -->
+
+<!-- After roughly 21 hrs of training and exercises on word processing -->
+<!-- with SuperSCRIPT, subjects took one final exam which was -->
+<!-- timed. Earlier exams were also timed, but let's look at the last one. -->
+<!-- Younger batch got a mean of 87 and the middle batch got a mean of 106, -->
+<!-- i.e., 20% slower than the younger batch. The older batch were 68% -->
+<!-- slower compared to the younger batch. This is an example of how slow -->
+<!-- the mean learning of a person in the age of 37-48 could be. It's not -->
+<!-- bad at all. There is a wide amount of uncertainty expressed in S.D=28 -->
+<!-- mins. It is expected that when I am at 37 it could be much lower than 20%. -->
+
+<!-- This is "consistent" (alteast in the order of magnitude) with IQ: -->
+
+<!-- > The average 50-year-old can attain a certain IQ score with -->
+<!-- > only 85–90 percent of the performance speed typical of an individual in her -->
+<!-- > early 20s. --- Cambridge handbook -->
+
+<!-- I could also look at the P-value in this case. but not -->
+<!-- available. Atleast it is not too bad as with old people typically -->
+<!-- seeing s -->
+
+<!-- 2020-01-05-career-what-should-i-do-in-EAO-life-attempt-1.markdown -->
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:2" role="doc-endnote">
+      <p><strong>Probability calculation</strong></p>
+
+      <p>The number of times a person can apply for H1B on a Master’s is around
+<a href="https://www.quora.com/How-many-times-can-I-apply-for-a-H1B-visa-after-getting-STEM-Masters">3 times on a STEM OPT</a> (answer by Carlos Cueva). With an L1, we
+assume we are ready from the 3rd year on to apply for an H1B (having
+secured another job by then). So we will have the same 3 chances to
+apply for H1b.</p>
+
+      <p><strong>Note:</strong> Some companies do not hire you in your OPT if you don’t have
+<a href="https://www.teamblind.com/post/FAANG-that-accepts-candidate-with-less-than-24-month-OPT-46DqLqvB">atleast 2 attempts</a> left. Also there is a possibility of applying
+with many H1B sponsors for the same year with different employers. So
+lets assume I have 3 tries for now.</p>
+
+      <p>Based on a 50% split between the general pool and the advanced pool
+(<a href="https://www.happyschools.com/h1b-visa-2020-probability-lottery/">which is what the DHS have assumed</a>), we see that 1 H1B attempt
+has a <a href="https://bintlr.work/h1bProbabilityEstimate.html">41.9% chance of success</a> for students with Masters.</p>
+
+      <p>After you are selected in the lottery, you are either approved or
+rejected or requested for an <a href="https://goh1b.com/en/blog/2019/07/02/what-does-h1b-rfe-mean-most-common-reasons/">RFE</a>. The cases for RFE have become
+“much higher” <a href="https://www.forbes.com/sites/stuartanderson/2019/08/08/latest-uscis-data-show-increase-in-denials-for-new-h-1b-visas/#5443e3417cc4">(33% in 2019 from 10% in
+2016)</a>
+over the trump era. One of the things they seem to be scrutinizing
+the people is for not
+having the <strong>right background/experience for the work</strong>. This comes
+under “Beneficiary qualifications”. Naturally, this scares me as I
+have a mechanical Master’s and Bachelor’s. Another common reason
+issued by the USCIS is called “Speciality Occupation”. The <strong>position needs to qualify as
+a speciality occupation</strong>. Apparently <a href="https://ogletree.com/insights/uscis-issues-top-10-reasons-for-h-1b-requests-for-evidence/">USCIS does not usually think a
+job is “special enough”, if they don’t have the need for a 
+relevant bachelor’s</a>. If you look on <a href="https://www.trackitt.com/usa-immigration-trackers/h1b">trackitt</a>, you do see that
+“most” of the RFEs are cited based on this “Specialty Occupation”
+or “lack of relevant degree” (Beneficiary qualifications I presume). I
+seem like a prime suspect for atleast lack of “beneficiary
+qualifications”. Thus, I take a 100% chance of getting an RFE.</p>
+
+      <p>Whether the RFE gets approved or not seems to be random. There are
+cases of people with Bachelor’s and Master’s in Mechanical who have
+made it to software job after their RFEs
+(<a href="https://www.teamblind.com/post/6mTKzvNm">ronaldo7!</a>, <a href="https://www.teamblind.com/post/H1B-RFE-Data-Scientist-III-PqF7wkMk">tiger12</a>)
+post 2018. And then there are people with Master’s in Financial
+Mathematics who are denied after their RFE to a CS/DS job
+(<a href="https://www.teamblind.com/post/Im-a-data-scientist-and-I-got-a-H1B-RFE-again-UvhDqaXm">9mineHwang</a>). A Hiring manager at Amazon sums up what a giant
+cluster fuck of a mess it is: “One of my report’s visa was rejected
+saying the job is not a specialty occupation and doesn’t need
+Bachelor’s degree which is ridiculous as why would Amazon pay that
+person 300K<code class="language-plaintext highlighter-rouge">$</code> per year for a non-specialty job.  The decision on visa
+application has become so arbitrary that the outcome is not known.
+One employee has one application rejected and the same application was
+approved the second time.”—<a href="https://www.teamblind.com/post/Immigration-Mess-sAYGCXgg">hiring manager Amazon</a>.</p>
+
+      <p><a href="https://www.fragomen.com/insights/alerts/latest-uscis-data-confirm-continued-high-rates-nonimmigrant-rfes-and-denials-fy-2019">According to
+Fragoman</a>
+the success of RFE approval amounts to 60.4%. So, <code class="language-plaintext highlighter-rouge">41.9% x
+100% x 60.4%=25.3%</code> for 1 attempt of H1B. Over three attempts the
+chance becomes <code class="language-plaintext highlighter-rouge">1-(1-25.3%)^3</code>=58%.</p>
+
+      <!-- 2020-04-24-Data-Science.markdown has info on the probabilities
+-->
+      <p><!-- and 2020-05-04-career-update.markdown --> <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:5" role="doc-endnote">
+      <p><strong>Probability of layoffs</strong></p>
+
+      <p>US has “had” about <a href="https://en.wikipedia.org/wiki/List_of_recessions_in_the_United_States">8 recessions in a span of 70
+	years</a>. Probability
+	of recession is <code class="language-plaintext highlighter-rouge">11.4%</code>. It is assumed that those are the only real times when your job is in danger.</p>
+
+      <p><strong>% Layoffs during a recession for H1B people</strong></p>
+
+      <p>In 2009 it is estimated that <a href="https://cis.org/Memorandum/Estimating-Size-H1B-Population-US">650k people</a> were on H1B. Adding
+<a href="https://bintlr.work/h1bProbabilityEstimate.html">230k H1B grants</a> every year, this brings the sum to a maximum of
+3m H1B people in the US.</p>
+
+      <p>The logged layoffs in this current “recession” due to the pandemic
+fucking things up for H1B users in tech startups, is logged at
+<a href="https://layoffs.fyi/tracker/">layoffs.fyi</a>. It is currently 60k. If we assume all layoffs to be
+a factor 3 greater i.e., ~200k, we get to <em>6% layoffs</em>. And mind you
+this number also has a “portion” of Americans and GC holders and
+even layoffs in other countries, and hence appears to be
+conservative.</p>
+
+      <p><strong>The chance that you don’t get laid off is</strong>:</p>
+
+      <p><code class="language-plaintext highlighter-rouge">(1-8/70)+8/70x6% = 89%</code> <a href="#fnref:5" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:4" role="doc-endnote">
+      <p><strong>Why an online masters from US “accredited university” is
+important to defend RFE?</strong></p>
+
+      <p>If you look on <a href="https://www.trackitt.com/usa-immigration-trackers/h1b">trackitt</a>, you do see that “most” of the rejects
+are cited based on this “Specialty Occupation” or “lack of
+relevant degree” (Beneficiary qualifications I presume). I seem
+like a prime suspect for atleast lack of “beneficiary
+qualifications”. Defending a Data science related RFE of
+<code class="language-plaintext highlighter-rouge">Beneficiary Qualifications</code> with Mechanical degree (Bachelor’s
+and Master’s) might turn out to be hard or atleast incentivizing
+people at USCIS to reject me. People with Electronics backgrounds
+with such a “Beneficiary Qualifications” RFE, for a CS job, seem to show how each subject is related to
+computer science in their rebuttal to USCIS.</p>
+
+      <p>Despite the fact that the RFE rejections are looking random–as they even
+<a href="https://www.teamblind.com/post/RFE-TIMELINES-FOR-FEB-2020-mbNwVE8r">reject CS students for SWe jobs</a>–it appears that pushing for a
+degree <em>might help</em> an RFE with “Beneficiary Qualifications” atleast.</p>
+
+      <p>Later I can get more info by contacting firms like FrogoMan. <a href="#fnref:4" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:9" role="doc-endnote">
+      <p>There is a difference of 15% in making the lottery, depending on
+if you are part of the Master’s cap or regular cap. I have a
+masters from a non-US university which does not seem to cut it, to
+be part of the Masters pool in H1B. To be part of this Master’s
+pool, an online masters from the US seems to cut it, according to
+<a href="https://www.murthy.com/2015/04/13/can-an-online-masters-degree-be-used-to-qualify-for-the-h1b-masters-exemption-what-about-a-masters-degree-from-a-part-time-or-evening-program/">Murthy Law firm</a>:</p>
+
+      <blockquote>
+        <p>The advanced degree exemption requires a degree from an accredited,
+nonprofit U.S. college or university. It does not matter if the
+program was part-time, evening, and/or online. Just check the
+nonprofit / for-profit status of the school and the accreditation…</p>
+      </blockquote>
+
+      <p>Other links related to this are: <a href="https://www.quora.com/Does-an-online-Masters-degree-have-any-impact-on-H1B-approval">Quora</a>, <a href="https://internationaloffice.berkeley.edu/h-1b_faqs#10">IOBerkeley</a> <a href="#fnref:9" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:10" role="doc-endnote">
+      <p>“Acquisition of Word-Processing Skills by Younger,
+Middle-Age, and Older Adults”</p>
+
+      <blockquote>
+        <p>The study included three age groups composed of 15 female subjects
+each: younger (M age - 21. 5 years. SD - 3.5. range 18-28): middle
+age (M age - 42.2 years. SD - 3.1, range = 37-48; and older (M age</p>
+        <ul>
+          <li>60.7 years SD = 3.6, range = 55-67)</li>
+        </ul>
+      </blockquote>
+
+      <blockquote>
+        <p>On Item 5 (differentiating between regular and align tabs) both the
+middle-age and the older group performed less well than the younger group, but did not differ between themselves (p &lt; .05).</p>
+      </blockquote>
+      <p><a href="#fnref:10" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

@@ -1,0 +1,2011 @@
+I"w�<h2 id="resources">Resources</h2>
+
+<p>https://www.facebook.com/groups/473795076132698/permalink/1525667560945439</p>
+
+<p><em>Open source collection of items for masters</em><br />
+http://datasciencemasters.org/?fbclid=IwAR1LrnNRzHAteniw7xG2Hv1ignARfy8t2NXzTSGObYdy-t5WlGw6NKR8WbU</p>
+
+<p>Statistical Sleuth book I have</p>
+
+<h3 id="peter">Peter</h3>
+
+<blockquote>
+  <p>+1 for fast.ai +1 for getting experience doing Kaggle competitions
+But IMO don’t rush into deep learning and neglect the basic elements
+of statistical learning
+https://web.stanford.edu/~hastie/ElemStatLearn/ I was a professional
+data scientist for five years and was entirely self-taught</p>
+</blockquote>
+
+<p>I am considering doing some courses from Poverty Action Lab such as Data Science for Social Scientists, Microeconomics, and the challenges to Global Poverty. Is it a good place to start?”</p>
+
+<p>Sounds good to me!</p>
+
+<h3 id="ofir-reich">Ofir Reich</h3>
+
+<blockquote>
+  <p>Before you dive into ML! I’d say basic statistics and its relation
+to daily life is very important.  Probability - know a few basic
+distributions and real-life examples. Learn to intuitively classify
+examples to the appropriate distribution.  Numeracy - Learn to focus
+on the right quantities/outcomes for a problem.  Statistics - the
+basics. False positives, false negatives, setting a threshold,
+tradeoffs. Estimation, noise, fooled by randomness.  I also think
+some data visualization skills are important. Specific packages
+(matplotlib, seaborn, bokeh etc.) you can learn online - but for the
+theory I highly recommend Tufte’s “The visual display of
+quantitative information”.</p>
+</blockquote>
+
+<h3 id="jacques-thibo">Jacques Thibo</h3>
+
+<blockquote>
+  <p>Intro to ML: https://course18.fast.ai/ml<br />
+Deep Learning for Coders: https://course.fast.ai/index.html<br />
+For ML, nothing else compares, imo. Completely free with a big
+community on the forums! You can learn pandas/numpy while doing
+those courses as well (Start taking the course and look up stuff
+about Pandas as it comes up). The 2020 version of Deep Learning for
+Coders is coming online soon, so look out for that. I know that I’ll
+be taking it (again).</p>
+</blockquote>
+
+<h3 id="anjan-gantapara">Anjan Gantapara</h3>
+
+<p>Example did coursera machine learning course after his phd in
+computational stuff to get to a job in DS. Seems knowledgeable in
+statistics after which Philips hired him.</p>
+
+<p>“I employed advanced Statistical Mechanics concepts and modern Monte
+Carlo techniques to simulate micro- and nano-meter size anisotropic
+particles and elucidate their phase behavior as a function of various
+macroscopic controllable parameters.”</p>
+
+<h3 id="exercises">Exercises</h3>
+
+<p>Data Camp
+Kaggle
+http://datasciencemasters.org/</p>
+
+<p>https://www.kaggle.com/learn/overview</p>
+
+<h3 id="so-far">So far</h3>
+
+<p>I have an fb post coming with some examples of what people did…</p>
+
+<p>https://towardsdatascience.com/how-i-went-from-zero-coding-skills-to-data-scientist-in-6-months-c2207b65f2f3</p>
+
+<p>It takes 6 months…</p>
+
+<p>Based on the above, Statistics, experiment design, scientific method
+expertise</p>
+
+<p>SQL data analysis course etc…</p>
+
+<p>https://medium.com/fully-understood/how-to-learn-machine-learning-from-scratch-and-for-free-5753fa2170dd</p>
+
+<p>https://towardsdatascience.com/how-i-got-4-data-science-offers-and-doubled-my-income-2-months-after-being-laid-off-b3b6d2de6938</p>
+
+<h2 id="ideally">Ideally</h2>
+
+<p>I would like to copy the people who made the transition</p>
+
+<p><strong>Course in ML</strong></p>
+
+<ul>
+  <li>
+    <p>fast ai (detailed AF) [100 hrs]&lt;– critically acclaimed by peter and
+this other guy</p>
+  </li>
+  <li>
+    <p>random course on coursera for [60hrs]</p>
+  </li>
+  <li>
+    <p>Just start with Kaggle and see where it gets you (quick and dirty?)
+[unknown]</p>
+  </li>
+  <li>
+    <p>https://cloud.google.com/training/data-ml</p>
+  </li>
+</ul>
+
+<p><strong>Course in Statistics basics</strong></p>
+
+<ul>
+  <li>
+    <p>Khan academy all questions and answers AP stats?</p>
+  </li>
+  <li>
+    <p>Maybe: https://seeing-theory.brown.edu/basic-probability/index.html</p>
+  </li>
+  <li>
+    <p>Statistics I Princeton / Coursera</p>
+  </li>
+  <li>
+    <p>Data science for social scientists</p>
+  </li>
+  <li>
+    <p>microeconomics</p>
+  </li>
+</ul>
+
+<p>But these are books :(</p>
+
+<ul>
+  <li>
+    <p>https://web.stanford.edu/~hastie/ElemStatLearn/</p>
+  </li>
+  <li>
+    <p>Statistical sleuth</p>
+  </li>
+</ul>
+
+<p><strong>Experience with projects</strong></p>
+
+<ul>
+  <li>experience through kaggle competitions [unknown]</li>
+</ul>
+
+<p><strong>Sql course</strong></p>
+
+<p>https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/course/ ?</p>
+
+<p><strong>Tableau learning</strong></p>
+
+<p><strong>Prepare projects list</strong></p>
+
+<ul>
+  <li>shiny nlp (DS)</li>
+  <li>kaggle ML (ML)</li>
+</ul>
+
+<p>Work on</p>
+
+<h3 id="ideally-2">Ideally 2</h3>
+
+<p><strong>starting at kaggle</strong></p>
+
+<p>for ML… and do exams. as and when necessarey learn from fast.ai</p>
+
+<p><strong>Peter suggested Pythiath course:</strong>
+https://www.udemy.com/course/python-the-complete-python-developer-course/?fbclid=IwAR0a-S06xLRHlFWkCndGe8sjrTMgbAJbteL9HNlcyzmX9azcod-Bzo53KLI</p>
+
+<p><strong>Statistics course</strong>
+Finish Khan Academy Statistics and Probability.</p>
+
+<p>https://www.edx.org/course/statistical-learning NOT SURE ABUOT THIS!</p>
+
+<p>Do some course…</p>
+
+<p><strong>ML course</strong></p>
+
+<p>fast.ai
+kaggle
+DATACAMP</p>
+
+<p><strong>DS course</strong></p>
+
+<p>https://www.edx.org/course/foundations-of-data-analysis-part-1-statistics-usi</p>
+
+<p>coursera course [done already]</p>
+
+<p><strong>SQL course</strong></p>
+
+<p>I would like to do the MIT course, Statistics course, follow it up
+with heavy KAGGLE for ML (more info on fast.ai) and statistics as
+needed.. More problems on data camp</p>
+
+<h2 id="examples-tbd">Examples (tbd)</h2>
+
+<p><strong>Look for examples regarding?</strong>
+https://www.linkedin.com/in/kate-lewis-42131224/?originalSubdomain=au</p>
+
+<p>Above also did a machinelearning course but that was part of the
+DSS. prior to jumping into DS FT job. Of course shes much better than
+me as a base line with her statistical knowledge. This was her
+original <a href="https://towardsdatascience.com/@katemarielewis">post</a>.</p>
+
+<p>vadehi
+amrithpal
+etc…</p>
+<h2 id="target-3-months">Target 3 months</h2>
+
+<p>I want to pick up a statistics course and a DS course and an ML
+course. Mainly do examples and see how that goes.</p>
+
+<h2 id="explaining-logic-for-ml-being-first-action">Explaining logic for ML being first action</h2>
+
+<p>I need “ML”. Because ASML swears by it. Peter thinks it is
+important. ING aslo <a href="https://www.glassdoor.nl/Vacature/amsterdam-senior-data-engineer-vacatures-SRCH_IL.0,9_IC3064478_KO10,30.htm?rdserp=true&amp;jl=3645420576&amp;guid=00000174a565cfd58bdd695118cab4f1&amp;pos=105&amp;src=GD_JOB_AD&amp;srs=EI_JOBS&amp;s=21&amp;ao=4120">seems to want ML</a>. So I am pretty confident ML
+is important</p>
+
+<p>Looking at some data scientist jobs this is what I find even to get
+selected into an <a href="https://www.linkedin.com/jobs/view/2011384814/?eBP=CwEAAAF0pWdjPywntXvzgRXJ4BKRL3Hbil9_83pDATxuaTic8RTFOasMHSc1jvpTPcyIRng3Ufxa-hU4cNiCgsbK_WP0Yq8p0vwF3lBTf3-fb0qf-Kuki4KbYfk2h6fLNPuoRjGA2qQuEnJiRJ09qD5tGFiObo5v6cjhk5QpQBvodmyzPHuSibO0XSzgUWPE7bOL9C6KLaL242r-TM6fhssB-lG4u-m1eXsomDuZ_T1P83B3M10XzTSIqIGyjjINfvg1EKpdbZqzEnjqyF1zGJYCdnKfKwC3Uxbym0-a6TIS23YHGw5ABjl2ZVkBKsdI0CvLKwW9h7EZL4OOkrbi3lTAUZwMN0OjHt7D_KsvAFYU2HbMSepX14lU5nrnCxAyMlxLpCyP9GTiU2o93Q&amp;recommendedFlavor=SCHOOL_RECRUIT&amp;refId=1497270c-d242-475a-babd-7098c67907db&amp;trackingId=Kz6jS4WRH6NTu5KlG%2Fl71Q%3D%3D&amp;trk=flagship3_search_srp_jobs">accelerated program</a>.</p>
+
+<blockquote>
+  <p>Who are you?</p>
+
+  <p>Are you a data scientist with at least one year of relevant work
+experience and do you know statistics and possess the programming
+skills to build machine learning models? Then you’ve already got a
+fantastic foundation for developing further and future-proofing your
+career.</p>
+</blockquote>
+
+<p>Body at apple uses ML as well (it is a must for him). Although he
+swears by other things like hypothesis testing using right variables
+etc… Need to practice some DS problems. Where to find them though?</p>
+
+<h2 id="explaining-logic-for-ds-vs-da">Explaining logic for DS vs DA</h2>
+
+<p>salary?</p>
+
+<h2 id="what-to-ask-people">What to ask people?</h2>
+
+<p>How to transition into DS?</p>
+
+<p>How did you transition into DS?</p>
+
+<p>What would you suggest I do?</p>
+
+<p>People who transitioned in real life… When I ask them they say
+aply.</p>
+
+<p>I applied now I don’t get any interview calls even for the simplest of
+jobs.</p>
+
+<p>so I need to do something …. Do I have the skills?</p>
+
+<p>What don’t I have?</p>
+
+<p>Is DEEP Learning the way to go?</p>
+
+<p>I need statistics, ML and SQL ?????</p>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />See what skills are listed in each of the 25 vacancies! Can we
+    do it with python? built an nlp algo out of it? build a word cloud</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Should I do SQL course</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Should I do ML course by Ng</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Should I do DL course at fastai</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />What sort of excercises to do ? Kaggle or “own projects”</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Get idea of what other people are doing?</li>
+</ul>
+
+<h2 id="called-a-company-and-told-them-what-i-am-doing-cgi">Called a company and told them what I am doing (CGI)</h2>
+
+<p>They said yeah that sounds good, also do some courses in business to
+show that you are interested in consulting type of roles.</p>
+
+<h2 id="2021-plan">2021 plan</h2>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />check with anjan by friday</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />check with florent in less than a week</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />ask body for feedback by friday</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />send email to ypma and others once MAartje feedback is in.</li>
+</ul>
+
+<h2 id="22-feb">22 feb</h2>
+
+<ul class="task-list">
+  <li class="task-list-item">
+    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />find companies, call and apply</p>
+  </li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />find people to discuss within asml</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />when free do tableau or that thing they use in asml</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />How to find jaaps in netherlands</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />linkedin jops</li>
+  <li class="task-list-item">
+    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />other jops</p>
+  </li>
+  <li class="task-list-item">
+    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />prep linear regression principles p value t-statistic,
+    hypothesis testing in the weekend…</p>
+  </li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Prep BI visualization quick and write post on it.</li>
+</ul>
+
+<h2 id="finding-jobs-to-apply">finding jobs to apply.</h2>
+
+<p>What can I do?</p>
+
+<ul>
+  <li>look for companies on
+    <ul>
+      <li>linkedin</li>
+      <li>Stack (done not much left)</li>
+      <li>amsterdam</li>
+      <li>glassdoor</li>
+      <li>monster</li>
+      <li>friends and family??? ask if they can refer
+        <ul>
+          <li>pal (J&amp;J)</li>
+          <li>Asian ING</li>
+          <li>rohit nair and jaaps</li>
+          <li>amrithpal huwawei</li>
+          <li>sogetti  motta</li>
+          <li>pichus friend who is an ajith</li>
+          <li>telmo</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p>What am I going to do differently?</p>
+
+<h2 id="what-shall-i-do-now">What shall I do now?</h2>
+
+<p>find companies to call? and call them 
+find vacancies and call before applying…</p>
+
+<p>In the evening we can apply to them and see how things go and also
+apply to companies from firends and ask them for refereal</p>
+
+<h2 id="spotfire-tableau">Spotfire tableau</h2>
+
+<p><a href="https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/tableau-learning-path/">Analytics Vidhya overview</a></p>
+
+<p><a href="https://www.kaggle.com/getting-started/122304">Kaggle on tableau</a></p>
+
+<p><a href="https://infamdm02.medium.com/tibco-ultimate-tutorial-for-ultimate-training-db65216e1e9">Spotfire tutorials</a></p>
+
+<h3 id="data-scientist-at-dashmote">Data Scientist at Dashmote</h3>
+
+<p>ph number: 0622333933 Dennis (Goes stright to voice mail)
+https://jobs.dashmote.com/o/data-scientist-amsterdam</p>
+
+<p>They serve the F&amp;B industry allowing them to make data driven decisions.</p>
+
+<p><strong>Questions</strong></p>
+
+<ol>
+  <li>
+    <p>Are you still hiring (linkedin said 1 month)</p>
+  </li>
+  <li>
+    <ul>
+      <li>I am a self learn’t data scientist with top10% score on kaggle in
+tabular and vision.</li>
+      <li>python has been most of my life</li>
+      <li>software development in python for a year</li>
+      <li>Masters, ML Certification from Coursera etc…</li>
+    </ul>
+
+    <p>Is such a profile interesting?</p>
+  </li>
+  <li>
+    <p>I have some questions about the job?</p>
+
+    <ul>
+      <li>It said that you are looking for lead people and at entry level.</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="discussion-with-cool-blue">Discussion with cool blue</h3>
+
+<p>ph number: 0103104646 Charlotte van Kralingen</p>
+
+<p>https://www.werkenbijcoolblue.nl/vacatures/junior-product-owner-data-science-forecasting/</p>
+
+<p>JUNIOR PRODUCT OWNER DATA</p>
+
+<p><strong>Questions</strong></p>
+
+<ol>
+  <li>
+    <p>Are you still hiring?</p>
+  </li>
+  <li>
+    <p>Are you open to non-dutch fluent people?</p>
+  </li>
+  <li>
+    <p>My exp, is this interesting for you…</p>
+
+    <ul>
+      <li>asml</li>
+      <li>always looking for more responsibility</li>
+      <li>worked with clients all the way from requiremtns to delivery to
+support</li>
+      <li>exceeded expectations with my company</li>
+      <li>top 10% kaggle scores, and certifications in DS</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="discussion-with-nn-careers-nationale-nederlanden-done">discussion with nn-careers (nationale-nederlanden) (done))</h3>
+
+<p>ph number: 06-25682468 Jan Orthmann</p>
+
+<p>Data Scientist</p>
+
+<p><strong>Questions:</strong></p>
+
+<ol>
+  <li>
+    <p>Are you still hiring? 2 weeks</p>
+  </li>
+  <li>
+    <p>Are you looking for dutch speaking employees only? (dutch)</p>
+  </li>
+  <li>
+    <p>I see that NN is into insurance, mortgages, pension and other
+financial services, but <strong>What sort of products are you hiring DS
+for with the current vacancy?</strong> PRicing… are you expecting any
+financial experience?</p>
+  </li>
+  <li>
+
+    <ul>
+      <li>Masters which was math focussed, Done certification programmes
+from coursera</li>
+      <li>Experienced in ML, python, R tableau</li>
+      <li>Top 10% scores in kaggle</li>
+      <li>knowlege of working with Tableau (BI)</li>
+      <li>statistical work at ASML and 1 year experience in python programming</li>
+    </ul>
+  </li>
+  <li>
+    <p>what else can I do to get a job here?</p>
+  </li>
+  <li>are there other vacancies you think I would be a fit for?</li>
+</ol>
+
+<p><strong>He said it is predominantly a dutch company</strong>. He was very
+pleasant. Dozens of people have already applied and “he doesn’t mind
+if it is dutch or not”. he cares about python for some reason. they
+have already been looking for 2 weeks and are in process.</p>
+
+<h3 id="discussion-with-accenture">discussion with Accenture</h3>
+
+<p>ph number: Josephine Sillevis Smitt</p>
+
+<p>https://www.linkedin.com/jobs/view/2403766632/?eBP=CwEAAAF38fj_byGoxjUX1J-AJMsqliukA4gWM1h7j0A810Z9gk_gJrnYB1kplpQ1-rSAJGCrYVU6QU1Vn2_8IEbTWyqmaQpreNiPoavRXnbqZ4IuoLA25Q7SwQ4wZMr8BLhJtUThw9-BIWtI0kkOK7KjNq1FzG7aHYTKJCNBhoSYXF7Ac_frnsxF9hA5QDSI2IvqDv65VdM6vdPBir2kG0ShF9s7GNxVQ8a5Vk1RQGrr0bn4lmc6-Un7E6yHCeepoPoAsr_gVgdh2cbNQigmzuxlDSMR27ivsqK4605uR77tS2dA6FZeSNKa0JiBTrIzBNqJEfVbKrHtqvHFXIizbUWuWMZX-WFrc4UlwB_MtXKJ0DI17RmIjhn0KZectkoZFjmc9RDEbO336nEvOGEv&amp;recommendedFlavor=COMPANY_RECRUIT&amp;refId=TYeA%2BD%2Fz%2B%2BRJaRaqvK1NSg%3D%3D&amp;trackingId=UtJss8LHuf66QHjpNKCMWw%3D%3D&amp;trk=flagship3_search_srp_jobs</p>
+
+<ol>
+  <li>
+    <p>Are you still hiring? 2 weeks</p>
+  </li>
+  <li>
+    <p>Are you looking for dutch speaking employees only? (dutch)</p>
+  </li>
+</ol>
+
+<p>Only possible to send out emails…</p>
+
+<h3 id="rabobank">Rabobank</h3>
+
+<p>https://rabobank.jobs/nl/vacature/junior-data-scientist/JR_00040579/</p>
+
+<p>Hila Leuopen Turabaz</p>
+
+<ol>
+  <li>
+    <p>are you still hiring</p>
+  </li>
+  <li>
+    <p>dutch</p>
+  </li>
+  <li>
+    <p>can I get an exmaple of the type of analytics you too, what sorts
+of trends</p>
+  </li>
+</ol>
+
+<p>tried and it went to voicemail.</p>
+
+<h2 id="todo">todo</h2>
+
+<ul>
+  <li>
+    <p>reach out ot oxar</p>
+  </li>
+  <li>
+    <p>reach out to conducts from sander asap</p>
+  </li>
+  <li>
+    <p>send email to fellow field <a href="https://www.linkedin.com/jobs/view/2376495232/?eBP=CwEAAAF38w2kpZ8EN2TqxxNDhbfI-0qCHxKuDplEiKuTsFZlpgMemO3YEOScCEiJicsMKGSr1lYcJ9R9KDVnRWYPx9akN29VTMrgAFNrOSZxLLwcTDGJ2AlQuDDiJ92RlYa170xfAapiIxZDwe3tVAlfx7AFwhs19aUFFia5lrKID9SVnGO6XA1IEGKse2x9cr8XHdV3VzOZokGFJiGp_AzUJ4WDMg-4_mZ9v4Oa2Ys2q6vOoqJsJE7TLAlMe2ND24HrIxn-JrbuRb-_4vGRRxR6qEgxdB9pdjOv38Ws1dj4L4gQe_Nyha2oVg2dmGaHfLPAPNZ6xAD7cRN3BhSskr6wricWURIHa_kKJsKCYqSCCtCGWd3-kcagzvE4o1mi2JL8QfIG9w&amp;recommendedFlavor=ACTIVELY_HIRING_COMPANY&amp;refId=qMyFW9JBixCLwv8q4B7qIg%3D%3D&amp;trackingId=eozoQfunLfk4IC6ouXhxvw%3D%3D&amp;trk=flagship3_search_srp_jobs">stef van rijt</a></p>
+  </li>
+  <li>
+    <p>send mail to accenture</p>
+  </li>
+  <li>
+    <p>apply to rabobank (https://rabobank.jobs/nl/vacature/junior-data-scientist/JR_00040579/)</p>
+  </li>
+  <li>
+    <p>apply to nn</p>
+  </li>
+  <li>
+    <p>write an email and also apply to this vacancy from Cool blue.</p>
+  </li>
+</ul>
+
+<p>consider hadoop pyspark and regression techniques…</p>
+
+<h2 id="arnaud-hubaux">arnaud hubaux</h2>
+
+<p>https://www.gcppodcast.com/post/episode-238-asml-with-arnaud-hubaux/</p>
+
+<p>“I lead the development of performance applications for our
+lithography machines. Those applications combines physics and machine
+learning to detect defects or optimize corrections.”</p>
+
+<p>“At the same time, those machines are operating in completely sealed
+environments. There is no access to the internet. And the designs of
+the chips, the way the customers operate our machines, is completely
+unknown to us.”</p>
+
+<ol>
+  <li></li>
+</ol>
+
+<p>“It learns from the context to further optimize the behavior of the
+machine.”</p>
+
+<ol>
+  <li></li>
+</ol>
+
+<p>“The second type is, because every machine is very precise, but like
+every piece of engineering, it drifts through time.”</p>
+
+<ol>
+  <li>
+    <p>choosing features grounded in physics helps them deal with lack of
+dater.</p>
+  </li>
+  <li>
+    <p>Make system learn by itself… have multiple models compete with
+each other… and even do hyper-parameter tuning on the fly.</p>
+  </li>
+  <li>
+    <p><strong>Defect detection</strong></p>
+  </li>
+</ol>
+
+<p>Customer tells x is ok y wafer is bad</p>
+
+<ol>
+  <li>
+    <p>every customer has different requirements. so non-transferable
+dater.</p>
+  </li>
+  <li>
+    <p>“Because if you look at what the real fab would be crunching, they
+would be producing those 20,000 wafers in a week. So we get 20,000
+in three months. So that’s anyway good enough for us to get
+going. But the danger there is you could easily say, well, I have a
+sparse data set. So if I reach 60% accuracy, that is good enough. I
+know that when I will deploy it, I will reach 80%, 90%, 95%.”</p>
+  </li>
+</ol>
+
+<p><strong>Why?</strong></p>
+
+<ol>
+  <li>stochastic or systematic (recurring hardware issue)</li>
+</ol>
+
+<p>scheduled down not good.</p>
+
+<p>Explanability is key</p>
+
+<p><strong>Dimensional reduction</strong></p>
+
+<ol>
+  <li>PCA</li>
+  <li>Physics based (“So the physics model is actually for every bit of
+information or every module that we know, we try to predict what is
+going to be the ideal shape versus what the actual shape is.”)</li>
+</ol>
+
+<h2 id="plan-10-march">PLAN 10 MARCH</h2>
+
+<p>find people in conducts and ask them if there are any vacancies and if
+they can put a word.</p>
+
+<ul>
+  <li>look for companies on
+    <ul>
+      <li>linkedin</li>
+      <li>Stack (done not much left)</li>
+      <li>amsterdam</li>
+      <li>glassdoor</li>
+      <li>monster</li>
+      <li>friends and family??? ask if they can refer
+        <ul>
+          <li>pal (J&amp;J)</li>
+          <li>Asian ING</li>
+          <li>rohit nair and jaaps</li>
+          <li>amrithpal huwawei</li>
+          <li>sogetti  motta</li>
+          <li>pichus friend who is an ajith</li>
+          <li>telmo</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p>I want to check out what iron hack can do…</p>
+  </li>
+  <li>how and when to apply for the post grad degree…</li>
+</ul>
+
+<ol>
+  <li>look up linkedin and apply to another 20 companies (5 companies)</li>
+  <li>look up friends companies and ask for referral</li>
+  <li>figure out who more to contact in asml</li>
+</ol>
+
+<p>work on meetup to get more mileage…  find netherlands meetups and groups.</p>
+
+<p>On the side I keep learning, sql, regression example repro and post,
+design of experiements? statistics data analysis…</p>
+
+<p>Ask for internships? how speak to telmo…</p>
+
+<h2 id="todays-plan">Todays plan</h2>
+
+<p>make appt with asml guy based on todays discussion.</p>
+
+<p>apply to 10 companies</p>
+
+<p>finish off with sql…</p>
+
+<p>check out what iron hack people do?</p>
+
+<h2 id="try-to-find-people">try to find people</h2>
+
+<ul>
+  <li>join meetups for DS</li>
+  <li>organize asml contacts</li>
+  <li>plan some meetings of missed people?</li>
+  <li>apply more</li>
+  <li>
+    <p>sql in the night</p>
+  </li>
+  <li>
+    <p>work on getting feedback</p>
+  </li>
+  <li>
+    <p>check out what to dag about this hemasunder guy…</p>
+  </li>
+  <li>
+    <p>check out other vacancies in asml</p>
+  </li>
+  <li>
+    <p>check out other people to conduct regarding future meetings</p>
+  </li>
+  <li>
+    <p>prepareren for meeting with ikea</p>
+  </li>
+  <li>prepareren</li>
+</ul>
+
+<h3 id="today-app-23-march">today app 23 march</h3>
+
+<ul>
+  <li><del>PICNIC just apply for BA position.</del></li>
+  <li>find other companies and apply (yep tomorrow BA positions)</li>
+  <li>Call abn amro tomorrow and somehow also this bitch from rabo bank</li>
+  <li>apply to APP engineering via rob kurian</li>
+  <li>
+    <p>check oout other apps</p>
+  </li>
+  <li><del>apply to asml 56 jaaps</del></li>
+  <li>setup meeting with rene carpaij</li>
+  <li><del>send mail to deidrick edel</del></li>
+  <li>check if I have to conduct someone else.</li>
+  <li><del>reply to jessie</del></li>
+  <li>apply to BA pos (there was nothing)</li>
+  <li><strong>find ways to find people who have made it otherwise</strong></li>
+</ul>
+
+<h3 id="today-wtd-march-29">today wtd march 29</h3>
+
+<ul>
+  <li>call willem in morning</li>
+  <li>Prep questions and answers for discussion with WCC
+    <ul>
+      <li>what is WCC</li>
+      <li>Cv run through with clear focus that I am an ME</li>
+      <li>explanation of statistics assignement</li>
+      <li>explanaiton of everything on board.</li>
+      <li>explaining NN</li>
+      <li>look at the position again and prepare in the morning</li>
+    </ul>
+  </li>
+  <li>prepare for SGZ meeting (what do I want to do?)
+    <ul>
+      <li>call oca and understand what it is</li>
+      <li>check how far these things are?</li>
+      <li>what about the one in delft</li>
+    </ul>
+  </li>
+  <li>call parents.</li>
+</ul>
+
+<h3 id="today-march-30th">today march 30th</h3>
+
+<ul>
+  <li><del>setup more appts (finance guys for e.g.,)</del></li>
+  <li>apply to 20 companies</li>
+  <li>prepare a simple CV junior analyst DA</li>
+  <li>prepare a cv for 2 yoe DA</li>
+  <li></li>
+  <li><del>asml buy shares</del></li>
+</ul>
+
+<h3 id="today-march-31st">today march 31st</h3>
+
+<ul>
+  <li>pick up food</li>
+  <li>apply BA positions and DA positions</li>
+  <li>watch edu videos lithogra</li>
+  <li>figure out what to do for BA position case studies</li>
+  <li>reply to jeroen looijen</li>
+  <li>follow up on th epost.</li>
+</ul>
+
+<h2 id="stuff-to-get-good-in">Stuff to get good in</h2>
+
+<ul>
+  <li>Azure, AWS ML sols</li>
+  <li>data analysis trend finding? BA prep</li>
+  <li>pyspark hadoop</li>
+  <li>glm, naivebayes (tomo)</li>
+  <li>understanding bigdata</li>
+  <li>litho stuff, optics, EM</li>
+</ul>
+
+<h2 id="figure-out-what-to-prep">figure out what to prep</h2>
+
+<ol>
+  <li>Bart van binsbergen (prep BA)</li>
+  <li>Rob tousain (prep 2 ppts)</li>
+  <li>Ikea ( lost it after a trash mail I sent them)</li>
+  <li>PICNICU (prep BA)</li>
+  <li>DA with 56 indrews (prep litho and pitching experimentation)</li>
+</ol>
+
+<p>See what sort of case to work on on data analysis…</p>
+
+<h2 id="companies-and-interactions-jobs">companies and interactions jobs</h2>
+<h3 id="picnic-business-analyst"><strong>PICNIC</strong> Business analyst</h3>
+
+<p><strong>Requirements</strong></p>
+
+<ul>
+  <li>Master’s degree in Engineering, Econometrics, Mathematics, Physics
+or an equivalent quantitative study</li>
+  <li>0-5 years of work experience</li>
+  <li>Excellent Excel and data analysis skills</li>
+  <li>Fluency in both verbal and written English</li>
+  <li>Full-time availability</li>
+  <li>Preferably holder of an EU work permit</li>
+  <li>Desirable requirement: knowledge of SQL, Tableau, and Python</li>
+</ul>
+
+<p><strong>Teams</strong></p>
+
+<p>Examples of Picnic teams you could join: Fulfilment, Distribution,
+Growth, Trading, Merchandising, Partnerships, Payments, Customer
+Success, Finance, People, Store, Tech and so on. We will discuss the
+team we have in mind for you during the final stages of your interview
+process. Of course we take your preference into account too!</p>
+
+<p>What does the application process look like?</p>
+
+<p>Online application -&gt; online assessment (36 minutes) -&gt; video or phone
+call with recruiter -&gt; first interview round (behavioral + case
+interview) -&gt; case day -&gt; closing interview with one of the Picnic
+founders</p>
+
+<p><strong>Links of previous employers hype</strong></p>
+
+<p>https://join.picnic.app/story/top-tier-consultancy-to-disruptive-startup</p>
+
+<p>As Picnic is relatively small, and because we’re growing so fast –
+you’re given responsibility straight away. Two weeks after I started,
+I was doing the order forecasts. That’s a lot of responsibility. Many
+of our processes rely on the forecasting; the products we buy, the
+shoppers and runners we plan for, the development of the fleet. In
+order to write the forecasts, I used the existing models based on
+historical data. By incorporating the number of orders already placed,
+we saw real improvement in the model. The process is ongoing, and each
+day we use new tools to develop more involved and accurate models.</p>
+
+<p>Next to this, I’m also coordinating the Sunday delivery roll-out.</p>
+
+<p>https://join.picnic.app/story/results-responsibility</p>
+
+<p><strong>people from ASML now in picnic</strong></p>
+
+<p>https://www.linkedin.com/in/marnixackermans/</p>
+
+<p>We are on the hunt for business analysts who present their
+understanding of what drives consumer behavior and operational
+efficiency.</p>
+
+<h3 id="ikea-data-scientist">IKEA data scientist</h3>
+
+<ul>
+  <li>python R</li>
+  <li>3 years exp ??</li>
+  <li>appropriate knowledge of Proficiency with an appropriate set of
+languages, technologies, and frameworks (e.g., Python, R, Julia,
+Stan, Tensorflow, Keras, Jupyter, Databricks, Azure ML, ADLS) and
+cloud environments (e.g. Azure, AWS, Google).Proficiency with data
+modelling techniques and concepts incl. conventional databases (SQL,
+Oracle or related) as well as distributed technologies and graph
+databases Capabilities Ability to explain statistical and machine
+learning techniques to non-technical stakeholders and software
+engineers.</li>
+</ul>
+
+<p><strong>More stuff:</strong></p>
+
+<p>Market Insights (ICMI)&lt;/p&gt;&lt;p&gt;ICMI has the assignment to contribute to
+IKEA people making well founded decisions based on actionable and
+timely insights. ICMI delivers Consumer Insights, Strategy &amp;
+Market Insights, and Brand &amp; Range Insights. Each of these three
+areas develops and/or operates insight products to IKEA people across
+our value chain. As a Data Scientist, you will be part of the Data
+Engineering and Analytics chapter in ICMI.&lt;/p&gt;&lt;p&gt;Key
+responsibilities&lt;/p&gt;&lt;p&gt;As a Data scientist you work on the more
+complex data analytics challenges. You are involved in shaping the
+data sets needed for successful analysis and is comfortable with using
+at least one common programing language to work with data
+(i.e. Pypthon, r or similar). You lead the creation of models based on
+the gathered data, and know how to develop, test and deploy analytical
+models in a modern cloud based environment, using code as
+infrastructure and containers as a natural part of your toolkit.</p>
+
+<h3 id="discussion-with-willem-abn-amro-about-failure-to-get-jda">discussion with willem ABN AMRO ABOUT FAILURE TO GET JDA</h3>
+
+<p>Willem Berend Alkemade</p>
+
+<p><strong>jr. analyst</strong></p>
+
+<p>As a data analyst you are responsible within P&amp;C to deliver new data-driven insights and perform advanced analyzes. The focus within P&amp;C is mainly on non-commercial projects, which will give us further control of the Retail Bank. You can think of projects for identifying:</p>
+
+<p>Integrity risks (money laundering and terrorist financing)
+Vulnerable customers (social impact)
+Retail portfolio insights (MI &amp; definitions)
+Data quality insights
+Portfolio risks (transcending product)</p>
+
+<p><strong>Profile</strong></p>
+
+<p>You …</p>
+
+<p>Has excellent analytical skills and strong communication skills
+Are communicative and you know what is going on in your immediate environment and in the rest of the organization
+You take responsibility, you organize yourself and you take initiative
+Understands the business and can support them in non-technical language
+Has at least a WO working and thinking level
+Has at least 2 years of relevant work experience
+Have experience with one of the following languages: SQL, Python or R
+Optimal knowledge of and experience with Databricks, PowerBI
+Good command of the Dutch and English language</p>
+
+<p><strong>Feedback</strong></p>
+
+<p>“We feel that your experience is mainly in advanced analytics / data
+science, where in this position we are more looking for a more junior
+analyst with a focus on business intelligence &amp; MI.”</p>
+
+<p><strong>Questions</strong></p>
+
+<ol>
+  <li>What about dutch?</li>
+  <li>You say I was rejected</li>
+  <li>What sort of experience do I put in then, as this is what I have
+and I want to make the move?</li>
+  <li>I feel like I am stuck in the middle with some people thinking I</li>
+  <li>what sort of jobs within abn can I apply…</li>
+</ol>
+
+<p>enormous candidates –&gt; bank –&gt; strct rules–&gt; egnometrics –&gt; lead
+analytics –&gt; not allowed</p>
+
+<p>insights are used for client risk</p>
+
+<p>screened ML and engineering (we think you are bored after few
+month)…. 2. in this vacancy dutch speaking</p>
+
+<p>abn</p>
+
+<p>( working instructions in dutch) at this time I have 2 english
+speaking… 6 on really IT side…</p>
+
+<p>mainly… providing motivation letter transparent about
+it… transparency and honesty addresses weak and strong points</p>
+
+<p>Always read motivation letter…</p>
+
+<p>look to see there are traineeships…</p>
+
+<p>abn amro..</p>
+
+<p>look into</p>
+
+<p>smaller consultancies … m3tch</p>
+
+<p>experience… python sql pyspark</p>
+
+<p>abn amro,,, focus on 1. center of expertise advanced analytics and data</p>
+
+<ol>
+  <li>
+    <p>mortgages data lab</p>
+  </li>
+  <li>
+    <p>innovaiton and design</p>
+  </li>
+</ol>
+
+<h3 id="discussion-with-danielle-sweets-traineenldutch-regarding-missing">DISCUSSION WITH DANIELLE SWEETS trainee.Nl(dutch) REGARDING MISSING</h3>
+
+<p>TRAINEE.NETHERLANDS TRAINEESHIP</p>
+
+<p><strong>wAHT THEY ARE LOOKING FOR</strong></p>
+
+<ul>
+  <li>A permanent contract (yes really!)</li>
+  <li>Working and learning (practical experience and more theoretical
+knowledge)</li>
+  <li>Specialize as a professional in the field of Business Analytics &amp;
+Data Science. After the traineeship, the cool jobs are at your feet.</li>
+  <li>A post-master’s degree in Business Analytics &amp; Data Science, given
+by professors from VU Amsterdam and Data Science Alkmaar</li>
+  <li>Class full of other professionals that you can spar with Educational
+knowledge sessions that ensure that you are up to date in the field</li>
+  <li>Assignments with various great clients. Take a look behind the
+scenes at several organizations so that you discover where your
+passions lie</li>
+  <li>A wide range of assignments within, for example, government,
+airlines, marketing organizations and NGOs Coaching for faster
+personal development</li>
+  <li>A large network of professionals that you can rely on</li>
+  <li>Courses in Python, R, SQL, machine learning, data visualization and
+the like</li>
+</ul>
+
+<p>I am trying to get into data analytics and s</p>
+
+<p>ask her about the other traineeships?</p>
+
+<p><strong>Before call</strong></p>
+
+<ol>
+  <li>main vacancy which is JDA also doubles up as a traineeship</li>
+</ol>
+
+<p>https://www.linkedin.com/jobs/view/2437113172/?refId=MbH82zRD5y%2B7GC%2FwpqVRaA%3D%3D&amp;trackingId=jlZI20GtcAg6jAacH9mdTw%3D%3D</p>
+
+<ol>
+  <li>
+    <p>i have been rejected for :</p>
+
+    <blockquote>
+      <p>Unfortunately, I have to inform you that we have not selected
+you for the follow-up procedure. The reason for this is that
+other candidates fit the profile better. In the selection, we
+look in particular at affinity with the field, experience and
+education.</p>
+    </blockquote>
+  </li>
+</ol>
+
+<p><a href="https://mail.google.com/mail/u/0/#inbox/FMfcgxwLtGlbzhBcwVJxRJDmtCrwnGbb">email</a></p>
+
+<blockquote>
+  <p>Danielle Swets</p>
+
+  <table>
+    <tbody>
+      <tr>
+        <td>T 085 - 0 667 955</td>
+        <td>M 06 - 20 66 28 41</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Present: Monday to Friday.</p>
+</blockquote>
+
+<ol>
+  <li>there are other traineeships that I could do????</li>
+</ol>
+
+<p>SHE emailed saying dutch is shit.</p>
+
+<h2 id="preparing-for-wcc-indrew">preparing for WCC indrew</h2>
+
+<p><strong>Qualifications</strong></p>
+
+<ul>
+  <li>Have a completed M.Sc. degree in a quantitative field like Data
+Science, Artificial Intelligence, Machine Learning, Computer
+Science, Statistics,<strong>Mathematics</strong> or Econometrics</li>
+  <li>Have at least 3 years of professional experience in quantitative
+analysis on large volumes of data, for instance by using
+Spark/Hadoop in combination with <strong>statistics and machine learning</strong>
+packages like MLlib or Weka;</li>
+  <li>Have a deep understanding of the <strong>state-of-the-art, strengths, and
+pitfalls of methods and techniques for data analysis;</strong></li>
+  <li>Are experienced in optimizing analytical methods for robustness and
+scalability in environments with large amounts of imperfect
+real-world data;</li>
+  <li>Can use their <strong>full-stack development skills</strong> in, a.o., Java and
+Angular in order to present their analyses in intuitive
+visualizations that effectively communicate their findings;</li>
+  <li>Have a hands-on mentality combined with a strong analytical mindset;</li>
+  <li>Are able to think independently and act as a team player;</li>
+  <li>Have excellent oral and written communication skills in English.</li>
+</ul>
+
+<h3 id="questions-to-prep-for">questions to prep for</h3>
+
+<ul>
+  <li><strong>what is WCC? they make software solutions</strong></li>
+</ul>
+
+<p>WCC’s software solutions – powered by our unique search &amp; match
+platform – see 1/3 billion people every day.  Through our solutions,
+these people are impacted in important aspects of their daily lives,
+ranging from establishing their identity and keeping them safe to
+finding the job of their dreams. Moreover, our solutions enable
+businesses to operate more effectively and efficiently by aligning
+data within and between databases. Our solutions process vast amounts
+of data to make this happen.</p>
+
+<p>At WCC, we are focused on making data work for our customers through
+software that matters. We enable our customers to seamlessly capture,
+generate, and analyze big data from multiple sources, thus gaining
+valuable insights paramount to effective decision-making.</p>
+
+<ul>
+  <li>Cv run through with clear focus that I am an ME</li>
+  <li>explanation of statistics assignement</li>
+  <li>explanation of Image classification</li>
+  <li>explanation of tableau</li>
+</ul>
+
+<h3 id="feedback-during-interview">feedback during interview</h3>
+
+<p>overall very positive (guy bought everything I said)</p>
+
+<p>Correct CV to clearly explain I am a design engineer (people were
+unsure if I had 4 years exp or not).</p>
+
+<p>Let’s stick to conveying the truth.</p>
+
+<h2 id="design-engineer-overlay">Design engineer overlay</h2>
+
+<p>Integration cluster to make sure that the proposed solutions by the FC
+team work well with the normal processes of the scanner.</p>
+
+<p>They test the solutions, do feasibility studies by sourcing the right
+customer data. They fake being the customer and test their solutions
+so that they don’t break the system. They test the procedure.</p>
+
+<p>It is more of a software role compared to my hardware role.</p>
+
+<p>Almost all work is done in matlab.</p>
+
+<p>You will learn a little bit of statistics(basic), none of the
+semiconductor process and programming.</p>
+
+<p><strong>Questions asked</strong></p>
+
+<ol>
+  <li>
+    <p>do you like less stake holder management</p>
+  </li>
+  <li>
+    <p>What do you like in your job and what don’t you like</p>
+  </li>
+  <li>
+    <p>should you have done another masters?</p>
+  </li>
+  <li>
+    <p>explain an example of how you tested at a time (success story)?</p>
+  </li>
+  <li>
+    <p>What do you react to shit not working? how did you deal with the supplier</p>
+  </li>
+</ol>
+
+<h3 id="same-job-but-ntp-side">same job but NTP side</h3>
+
+<p>what thomai does, seems sto be exactly what the function definition is…</p>
+
+<p><strong>Position:</strong></p>
+
+<p>Developing algorithms which focus on the inference of critical parameters in semiconductor devices from machine data.</p>
+
+<p><strong>Tasks:</strong></p>
+
+<p>• Design of parameter estimation algorithms, which enable and improve semiconductor metrology solutions, using both physical models and machine learning methods.
+• Design of KPIs and KPI specs to track machine and algorithms performance.
+• Outlier detection in high dimensional machine data.
+• Data analysis and troubleshooting.
+• Provide solutions, by having customer needs in mind.
+• Project definition, functional breakdown and specifications.</p>
+
+<p><strong>My understanding of tasks</strong></p>
+
+<ul>
+  <li>
+    <p>“lots of data analysis” –&gt; getting trends using Exploratory Data
+Analysis</p>
+  </li>
+  <li>
+    <p>Budget breakdowns</p>
+  </li>
+  <li>
+    <p>associating fingerprint and root cause analysis</p>
+  </li>
+  <li>
+    <p>trouble shooting</p>
+  </li>
+</ul>
+
+<p><strong>My goals</strong></p>
+
+<p>make recommendation, create data impact, insights statistics, setting
+up testing, correlation analysis,</p>
+
+<p>I want high responsibility task</p>
+
+<p><strong>Questions asked</strong></p>
+
+<p>Note: Everything in the cv is fair game for questioning</p>
+
+<ol>
+  <li>
+    <p>Tell me about a time when you did stake holder management?
+What sorts of challenges did you have?</p>
+
+    <p>Time… discussed with
+Getting time from all the people was hard… Use teams, sometimes
+planning, no need for escalation.</p>
+
+    <ol>
+      <li>
+        <p>I identified and extended the scope of the assignement as it was
+not going to work.</p>
+      </li>
+      <li>
+        <p>I identified who the stakeholders are Thermal, different design teams,
+recipes people,</p>
+      </li>
+      <li>
+        <p>Analysed their individual contributions and went back and forth
+to realize a minimal value along with another partner.</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>how did you manage to reach all the stakeholders? What do you do
+when you were not able to reach them? Did you ever escalate?</p>
+
+    <p>Answer expected is escalate…</p>
+  </li>
+  <li>
+    <p>Tell me a time when you did customer support?</p>
+  </li>
+  <li>
+    <p>Tell me about a time when you did root cause analysis?</p>
+  </li>
+  <li>
+    <p>How did you do sanity checks ? hot examples (I told them about
+checking to see what you expect and what is observed)</p>
+  </li>
+  <li>
+    <p>Explain what Adverserial validation is? and why it is required?</p>
+  </li>
+  <li>tell me a time about how</li>
+  <li>
+    <p>what was your exact contribution in the statistics assignment?</p>
+  </li>
+  <li>why should we hire you? what do you bring to the table?</li>
+</ol>
+
+<p><strong>Other analysis I did (sent via email)</strong></p>
+
+<p>Hi Tomai,</p>
+
+<p>You had asked me earlier how I would do sanity checks to see whether a
+code does what I expect it to. I don’t know why I panicked, but I
+always do some sanity checks. For example, when I perform any
+operation on my dataset I do the following basic checks:</p>
+
+<ol>
+  <li>test the operation on a very simple minimal dataset that I can
+verify manually. This way I know the code works.</li>
+  <li>Once I implement an operation on the actual large dataset, I test
+it with 2 examples to make sure I see what I expect.</li>
+  <li>I also check if the overall value make sense (Is the number in the
+right order of magnitude? etc.)</li>
+</ol>
+
+<p>Hi Tomai and Jeroen,</p>
+
+<p>You had asked if I have done something in between 1. basic statistics
+and the 2. fraud detection assignment I have shown. Here is an example
+troubleshooting assignment that I did at Mapper. Hope it is clear and
+shows a bit about how I think.</p>
+
+<p><strong>Situation</strong>:</p>
+
+<p>Our “Wafer Clamping module” (which consists of 10+ sub-modules) gets an
+error message that we don’t have enough water to make the clamp. So
+the clamp fails.</p>
+
+<p>To give an idea of complexity of each module: Each module takes a day
+to assemble and verify by one person.</p>
+
+<p>It’s been only 2 months since I started and I don’t know anything
+about the module as I just started. I was expected to solve this,
+nevertheless.</p>
+
+<p><strong>Task</strong>: Identify the issue and convince the team lead of the issue.</p>
+
+<p><strong>Action</strong>:</p>
+
+<ol>
+  <li>
+    <p><strong>Basic sanity checks</strong></p>
+
+    <ul>
+      <li>Is the water reservoir empty? <em>No</em></li>
+      <li>Is the connection to the water reservoir shutoff by accident?
+<em>No</em></li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Is it a software implementation failure?</strong> Check the “expected
+Clamp process” (e.g., which valve should open/close and when) and
+the trace from the “Wafer Clamping Station” to see if they are in
+sync:</p>
+
+    <p><em>Everything checks out.</em></p>
+  </li>
+  <li>
+    <p><strong>Is there evidence that the clamp process even works on another
+BUILD?</strong> Check if this Clamp process has been tested before on
+another “Wafer clamping module”:</p>
+
+    <p><em>Yes it has.</em></p>
+  </li>
+  <li>
+    <p><strong>What is the difference between the two traces?</strong> Check certain
+“critical features” (such as volume of water, volume of pressurized
+nitrogen), which would impact water performance between the
+“Working Wafer Clamp Module” and the “non-working Wafer clamp
+module”.</p>
+
+    <p><em>Start pressures are the same but the final pressures are quite
+different.</em></p>
+  </li>
+  <li>
+    <p><strong>Do the two systems have the exact same HARDWARE?</strong></p>
+
+    <ul>
+      <li>
+        <p>I explain my findings to people who have experience with this
+ system, and there I got a clue that perhaps I had a smaller
+ ORIFICE in the “non-working Wafer Clamp Station”.</p>
+      </li>
+      <li>
+        <p>I start looking in the build sheets but I see no evidence of
+ changes of the nozzle.</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Did someone forget to update the buildsheet?</strong></p>
+
+    <ul>
+      <li>
+        <p>I wanted to test the “different Orifice” hypothesis,
+non-invasively if possible.</p>
+      </li>
+      <li>
+        <p>Using ideal gas law and the traces of Pressures and Volumes from
+both the “Wafer Clamp Stations”, I was able to PREDICT THE EXACT
+FINAL WATER LEVEL in the module in both cases accurately
+provided I assumed the bigger orifice for one system and smaller
+orifice for the “non-working wafer clamp station”.</p>
+      </li>
+    </ul>
+  </li>
+</ol>
+
+<p><strong>Result</strong></p>
+
+<ul>
+  <li>
+    <p>This helped identify what type of orifice I had in the Non-working
+Clamping Module</p>
+  </li>
+  <li>
+    <p>Once this was changed everything started working as expected.</p>
+  </li>
+</ul>
+
+<h3 id="another-posittion-jens-staecker">another posittion Jens Staecker</h3>
+
+<p><strong>Interviewers</strong></p>
+
+<p>Jens staecker</p>
+
+<p><strong>Alignment</strong></p>
+
+<p>Readout the SMASH laser using a photodiode, knowing center of the wafer.</p>
+
+<p><strong>About the job</strong>: 22410 &amp; NTP JOB</p>
+
+<p>Engineer D&amp;E for Overlay Wafer Fab Applications</p>
+
+<p>Alignment group brings a lot of dater to you and you gain insights and
+perform root cause analysis on it and communicate the results.</p>
+
+<p>You are probably the most senior member in the team.</p>
+
+<p>Mainly you will gain 
+	- extract insights from dater
+	- Not physiscs, more of respossibility thing
+	- breakdown and understanding of different variations.</p>
+
+<ul>
+  <li>
+    <p>Execute budget breakdown and root cause analysis</p>
+  </li>
+  <li>
+    <p>and includes effects on overlay caused by processing equipment,
+masks, metrology, and the choices that are made by the customer on
+how to do process setup and control.</p>
+  </li>
+  <li>
+    <p>They also do ml</p>
+  </li>
+</ul>
+
+<p><strong>About the GL</strong>:</p>
+
+<p>This group is in products and the other group from herman is in
+integration.</p>
+
+<p><strong>What I want to dag</strong></p>
+
+<p>What I want to do?</p>
+
+<p>Impact using data, provide insights, make recommendations, root cause
+analysis, use statistics, identifying the right drivers to improve
+performance, all the while having high feedback</p>
+
+<p><strong>Questions:</strong></p>
+
+<ol>
+  <li>what tools do you use?</li>
+  <li>how is the pressure?</li>
+  <li>can you give me examples of some insights you have had?</li>
+  <li>Is there customer interaction?</li>
+  <li>What is the difference between your group and that of herman borg.</li>
+  <li>What do you expect from me after a year? I really like NP.</li>
+</ol>
+
+<p><strong>Questions they asked</strong></p>
+
+<p>Jingchao was smiling and encouraging the whole time.</p>
+
+<ol>
+  <li>
+    <p>What do you want to be in 5 years? a leader or a person who is
+determining some niche data analysis trends</p>
+  </li>
+  <li>
+    <p>how will you convince stakeholders about explainable and unexplainable
+AI?</p>
+  </li>
+  <li>
+    <p>What is random forest?</p>
+  </li>
+</ol>
+
+<h3 id="third-interview-with-both">third interview with both</h3>
+
+<p>A typical day involves data preparation, discussing with several teams
+and working on selling products, breakdowns, analysis, identifying
+improvements etc…</p>
+
+<ol>
+  <li>how do you network?</li>
+</ol>
+
+<h3 id="4th-and-5th-indrew-prep">4th and 5th indrew prep</h3>
+
+<p><strong>Notes from indrew</strong></p>
+
+<p>NTP feasibility classic product development (samsung)</p>
+
+<p>Jens: 45 people, 15 people in functional cluster architect, owns roadmap for
+the Next 5 years, 2 years before cs apps, app, 10 years in ASML…
+application overlay OPO, Canon and asml system, MTBI</p>
+
+<p>David: FC architect, 2007, always OPO, Smash alignment, bsaseliner,
+NTP and product development Belgium</p>
+
+<ol>
+  <li>
+    <p>Why do you want to be part of this group? answer: started with
+physics/data work and now moved to soft skills/data work.</p>
+  </li>
+  <li>
+    <p>Regression vs  correlation</p>
+  </li>
+  <li>
+    <p>ML why future</p>
+  </li>
+  <li>
+    <p>Why trust my</p>
+
+    <p>How many volvo cars are there… volvvo and teslas… volvos, no one
+ trusts ML.</p>
+  </li>
+</ol>
+
+<p>What sort of data do you work with?  Overlay data… not eager to share
+data are companies, but you ask logs, FAP info etc…</p>
+
+<p>Escalations not many in NTP… New node… improvements… , showing why you
+don’t meet said claimed performance, showing the benefit of options,
+how existing products can show benefit, New options can we come up
+with it,</p>
+
+<p>DSP projects do that…</p>
+
+<p>Mapper, OPO… David, why mapper , limited to actuators to change finger print
+No reticle option, infinite
+Correction capabilities
+12 par + correct per field scnaner wasn’t fast enough…
+Actuations 3rd order effects, lens…
+Slightly manipulate lens system… to get final result but for all fields.</p>
+
+<p>What do you do in FC? Product development?  New estimaation models?
+Finger print on wafer, 200 points of wafer, 38 par distortation 3800
+parameters to define… 300 points… few points leading to projection on
+an already existing space. And statistics… often NTP… customers don’t
+want to share data, 5-6, Draw results from that… estimation, EPE. He
+said that the team sometimes needs people to draw CI with enough
+points even though they have only 5-6 wafers info. Sometimes they have
+to draw uncertainties of the 300 points over the 5-6 wafers and “add
+the uncertainties” together.</p>
+
+<p>Estimation models, developing new models. Dense data, 300,
+mathematical descriptions Models whats there in it? All wafers must
+work…</p>
+
+<p>Physics, linear algebra, programming? Algorithm team focusses on
+mathematics, Learning, shapes, data analysis, NTP projects…</p>
+
+<p>Collect data for not able to  300 sampling… 800 and 1000 points</p>
+
+<p>What is life cycle? 1.5 years</p>
+
+<p>Study sometimes are done as well.</p>
+
+<p>Diff between NTP and prod development (data is where you start , investigation approach)</p>
+
+<p>Get idea of solutions… Litho insight, prototypes, Java, matlab for
+prototyping…</p>
+
+<p>What is the difference between you and CS? missed this Q….</p>
+
+<p><strong>Questions from them</strong></p>
+
+<ol>
+  <li>
+    <p>Why do you want to be part of this group? answer: started with
+physics/data work and now moved to soft skills/data work.</p>
+  </li>
+  <li>
+    <p>Regression vs  correlation</p>
+  </li>
+  <li>
+    <p>ML why future</p>
+  </li>
+  <li>
+    <p>Why trust my</p>
+  </li>
+</ol>
+
+<p><strong>Questions for them</strong></p>
+
+<p>How is CS overlay different from you guys?</p>
+
+<p>what data are you looking at? machine data and overlay data?</p>
+
+<p>What will I learn? What will I develop in?</p>
+
+<p>How much time do you spend on analysing data, extracting info, vs
+communication vs presentation?</p>
+
+<p><strong>What does the job entail my version</strong></p>
+
+<p>Help customer with software tools necessary to improve his OPO.</p>
+
+<p>Understand what the customer wants and why he has overlay issues. You
+do that by looking at the data from the FAP…</p>
+
+<p>breakdowns,</p>
+
+<p>feasibility and help them achive where they want to go?</p>
+
+<p>extract insights from data</p>
+
+<p>make experiments with customer…</p>
+
+<h4 id="prepared-questions">Prepared questions</h4>
+
+<p>1 ppt about new litho techniquies, about my work experiences from kla,
+whether I could solve escalations, how do i solve an issue if i am
+lost, do i recognize local team effort, how do i ensure my work has
+visibility, if i am motivated to work with customers and different
+teams w/in organization, what is the path I am planning to take, am i
+motivated to be back to netherlands, why do i want to switch jobs</p>
+
+<ol>
+  <li>
+    <p>Tell me your understanding about  department? about job</p>
+  </li>
+  <li>
+    <p>Tell me about a time when you did stake holder management?
+What sorts of challenges did you have?</p>
+
+    <p>Time… discussed with PL to get more time on view of value
+Getting time from all the people was hard… Use teams, sometimes
+planning, no need for escalation.</p>
+
+    <ol>
+      <li>
+        <p>I identified and extended the scope of the assignement as it was
+not going to work.</p>
+      </li>
+      <li>
+        <p>I identified who the stakeholders are Thermal, different design teams,
+recipes people,</p>
+      </li>
+      <li>
+        <p>Analysed their individual contributions and went back and forth
+to realize a minimal value along with another partner.</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>how did you manage to reach all the stakeholders? What do you do
+when you were not able to reach them? Did you ever escalate?</p>
+
+    <p>Answer expected is escalate…</p>
+  </li>
+  <li>
+    <p>Tell me a time when you did <strong>customer support</strong>?</p>
+  </li>
+  <li>
+    <p>Tell me about a time when you did root cause analysis?</p>
+  </li>
+  <li>
+    <p>How did you do sanity checks ? hot examples (I told them about
+checking to see what you expect and what is observed)</p>
+  </li>
+  <li>
+    <p>Explain what Adverserial validation is? and why it is required?</p>
+  </li>
+  <li>tell us about your statistics assignment?</li>
+  <li>
+    <p>what was your exact contribution in the statistics assignment?</p>
+  </li>
+  <li>
+    <p>why should we hire you? what do you bring to the table?</p>
+  </li>
+  <li>
+    <p>Tell me about a time you did troubleshooting?</p>
+  </li>
+  <li>
+    <p>Tell me about a time you were in <strong>stress</strong>? how do you handle it?</p>
+  </li>
+  <li>
+    <p>What do you want to be in 5 years? a leader or a person who is
+determining some niche data analysis trends</p>
+  </li>
+  <li>
+    <p>how will you convince stakeholders about explainable and unexplainable
+AI?</p>
+  </li>
+  <li>
+    <p>What is random forest?</p>
+  </li>
+  <li>How do you network?</li>
+</ol>
+
+<p>They do research, NTP and functional work of understanding large data</p>
+
+<ol>
+  <li>
+    <p>What do you want to develop as</p>
+  </li>
+  <li>
+    <p>Why do the wafer alignment repro need to be calculated? hardware
+change</p>
+  </li>
+  <li>
+    <p>why do you have 2 sensors.</p>
+  </li>
+</ol>
+
+<p>what are the challenges you faced?</p>
+
+<ol>
+  <li>What did you talk about with MVDB? give examples</li>
+</ol>
+
+<p>It was a general discussion about accuracy specs and range specs
+making it hard to design. the lack of system engineering etc…</p>
+
+<ol>
+  <li>
+    <p>Where is metrology done?</p>
+  </li>
+  <li>
+    <p>Will E-beam tool be used after development?</p>
+  </li>
+  <li>
+    <p>Tell me about a time when you did more than what is required?</p>
+  </li>
+</ol>
+
+<p>expanding scope to the entire YS500, encoder plate (going beyond to
+check my boss work, checking thier claim with one example)</p>
+
+<ol>
+  <li>
+    <p>How do you do knowledge sharing? (wow writings, presenting in meetings)</p>
+  </li>
+  <li>
+    <p>how do you handle angry customers? jsut deal with it, do whats
+possible, have clear conversations on where we are at.</p>
+  </li>
+</ol>
+
+<h3 id="5th-indrew-with-statistics-francs">5th indrew with statistics francs</h3>
+
+<p>Prepping pandian</p>
+
+<ol>
+  <li>regression in and out</li>
+  <li>exaplanaiton of statistics assignment</li>
+  <li>Explanation of</li>
+  <li>in and out of xgb and random forest and dtree</li>
+  <li>more stadistis</li>
+</ol>
+
+<h2 id="cs-indrew">CS indrew</h2>
+
+<p>Presentations
+Questions
+My understanding of the job.</p>
+
+<h3 id="presentation">Presentation</h3>
+
+<p><strong>Chip making process</strong></p>
+
+<p>What is CVD
+What is electroplating</p>
+
+<p>Wat is diffusion barrier
+What is etch stop layer</p>
+
+<p>Why do you use tungsten</p>
+
+<p>What is 3dnand? logic and dram</p>
+
+<p>make sure the presentation is ok with the gaps in ppt</p>
+
+<p>stable resist film</p>
+
+<p>resolution exlpantion</p>
+
+<p><strong>Wafer alignment repro</strong></p>
+
+<h3 id="prepared-questions-1">Prepared questions</h3>
+
+<p>1 ppt about new litho techniquies, about my work experiences from kla,
+whether I could solve escalations, how do i solve an issue if i am
+lost, do i recognize local team effort, how do i ensure my work has
+visibility, if i am motivated to work with customers and different
+teams w/in organization, what is the path I am planning to take, am i
+motivated to be back to netherlands, why do i want to switch jobs</p>
+
+<ol>
+  <li>
+    <p>Tell me your understanding about Productivity department?</p>
+  </li>
+  <li>
+    <p>Tell me about a time when you did stake holder management?
+What sorts of challenges did you have?</p>
+
+    <p>Time… discussed with
+Getting time from all the people was hard… Use teams, sometimes
+planning, no need for escalation.</p>
+
+    <ol>
+      <li>
+        <p>I identified and extended the scope of the assignement as it was
+not going to work.</p>
+      </li>
+      <li>
+        <p>I identified who the stakeholders are Thermal, different design teams,
+recipes people,</p>
+      </li>
+      <li>
+        <p>Analysed their individual contributions and went back and forth
+to realize a minimal value along with another partner.</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>how did you manage to reach all the stakeholders? What do you do
+when you were not able to reach them? Did you ever escalate?</p>
+
+    <p>Answer expected is escalate…</p>
+  </li>
+  <li>
+    <p>Tell me a time when you did customer support?</p>
+  </li>
+  <li>
+    <p>Tell me about a time when you did root cause analysis?</p>
+  </li>
+  <li>
+    <p>How did you do sanity checks ? hot examples (I told them about
+checking to see what you expect and what is observed)</p>
+  </li>
+  <li>
+    <p>Explain what Adverserial validation is? and why it is required?</p>
+  </li>
+  <li>tell me a time about how</li>
+  <li>
+    <p>what was your exact contribution in the statistics assignment?</p>
+  </li>
+  <li>
+    <p>why should we hire you? what do you bring to the table?</p>
+  </li>
+  <li>
+    <p>Tell me about a time you did troubleshooting?</p>
+  </li>
+  <li>
+    <p>Tell me about a time you were in stress? how do you handle it?</p>
+  </li>
+  <li>
+    <p>What do you want to be in 5 years? a leader or a person who is
+determining some niche data analysis trends</p>
+  </li>
+  <li>
+    <p>how will you convince stakeholders about explainable and unexplainable
+AI?</p>
+  </li>
+  <li>
+    <p>What is random forest?</p>
+  </li>
+  <li>How do you network?</li>
+</ol>
+
+<h3 id="actual-questions">actual questions</h3>
+
+<p><strong>Longfei</strong></p>
+
+<p>50 people Has projects in metrology,NPI and NTP.</p>
+
+<ol>
+  <li>What did you talk about with MVDB? give examples</li>
+</ol>
+
+<p>It was a general discussion about accuracy specs and range specs
+making it hard to design. the lack of system engineering etc…</p>
+
+<ol>
+  <li>
+    <p>Where is metrology done?</p>
+  </li>
+  <li>
+    <p>Will E-beam tool be used after development?</p>
+  </li>
+</ol>
+
+<p><strong>Dominic</strong></p>
+
+<p>SPD Scnner performance diagnostics and wafer alignment overlay
+combining results SPD project to correlate  or predict issues to a
+particular type of finger print. He is working on spotless which is a
+grinding tool for the WT.</p>
+
+<p>CS does escalations, NPI and projects</p>
+
+<ol>
+  <li>
+    <p>What do you want to develop as</p>
+  </li>
+  <li>
+    <p>Why do the wafer alignment repro need to be calculated? hardware
+change</p>
+  </li>
+  <li>
+    <p>why do you have 2 sensors.</p>
+  </li>
+</ol>
+
+<p>what are the challenges you faced?</p>
+
+<p><strong>Dennis raemaker</strong></p>
+
+<p>Sometimes in escalations we might need to provide quick quick
+updates. It’s going to be working on several different
+projects. Reporting</p>
+
+<p>The part involves, analysisng the logs, verify productivity is as
+expected, 50% communication management, 50% Data analysis. And usage
+of python.</p>
+
+<ol>
+  <li>Tell me about a time when you did more than what is required?</li>
+</ol>
+
+<p>expanding scope to the entire YS500, encoder plate</p>
+
+<ol>
+  <li>
+    <p>How do you do knowledge sharing? (wow writings, presenting in meetings)</p>
+  </li>
+  <li>
+    <p>Tell me time about your experience with customer support?</p>
+  </li>
+  <li>
+    <p>how do you handle angry customers? jsut deal with it, do whats
+possible, have clear conversations on where we are at.</p>
+  </li>
+</ol>
+
+<h2 id="body-what-i-should-look-for-in-a-japs">body–&gt; what I should look for in a japs</h2>
+
+<ol>
+  <li>
+    <p>design of experiements (56 jobs)
+root cause analysis</p>
+  </li>
+  <li>
+    <p>"”productivity improvement projects and the work typically involves
+a lot of (machine and customer) data crunching, detailed breakdowns
+of tact time of stages, handlers and track, bottle neck analyses
+and the creation of options and solutions to enhance throughput and
+output””</p>
+
+    <p>Customer support</p>
+
+    <p>hands dirty with data (difficult data) comprehensive data
+story…. workign with unclean data answer data.</p>
+  </li>
+  <li>
+    <p>I look at data from ASML’s customers to suggest customised
+productivity improvements based on their usage of lithography
+machines. I am involved in new product introduction, and multiple
+stages of the product generation process. I also do data analysis
+and reporting as part of application and business support.</p>
+  </li>
+  <li>
+    <p>Data mining with some home made tools, to suggest improvements</p>
+  </li>
+</ol>
+
+<p>Big data:</p>
+
+<blockquote>
+  <p>make recommendation, create data impact, insights
+statistics</p>
+
+  <p>hypothesis testing</p>
+
+  <p>deisgn</p>
+
+  <p>correlation analysis</p>
+
+  <p>drivers (feature importation types)</p>
+
+  <p>A/B testing hypothesis (randomised unbiased) truly unbiased outcome,
+causal.</p>
+
+  <p>Writing queries, cleaning, manipulating it, adding features, if
+required data products, making insights and presenting it</p>
+
+  <p>Full stack data analyst –&gt; ^^^^ good analysis…  ML and more
+statistical rigor is Dat scientist.</p>
+
+  <p>operations analyst –&gt; understands data to create impact…</p>
+
+  <p>You will be sucked into domain…</p>
+
+  <p>Big data ()</p>
+</blockquote>
+
+<h2 id="hadoop-spark-pspark-big-data">hadoop spark pspark big data</h2>
+
+<p><strong>big data</strong></p>
+
+<p><a href="https://www.guru99.com/what-is-big-data.html#1">source</a></p>
+
+<p>Efficiently using the data from database and existing sources is
+really hard. Example 1m images on a 13gb ram Just simply doesn’t work.</p>
+
+<blockquote>
+  <p>A single Jet engine can generate 10+terabytes of data in 30 minutes
+of flight time. With many thousand flights per day, generation of
+data reaches up to many Petabytes.</p>
+</blockquote>
+
+<blockquote>
+  <p>The New York Stock Exchange generates about one terabyte of new
+trade data per day.</p>
+</blockquote>
+
+<p><strong>Types of big data</strong></p>
+
+<ol>
+  <li>Structured (Table with employee information)</li>
+  <li>Unstrutured (google search)</li>
+  <li>Semi-structured (xml,json types)</li>
+</ol>
+
+<p><strong>hadoop</strong></p>
+
+<p><a href="https://www.youtube.com/watch?v=aReuLtY0YMI&amp;list=WL&amp;index=3">source</a></p>
+
+<p>Data stored in blocks</p>
+
+<ol>
+  <li>Storage (Hadoop Distributed File system) HDFS</li>
+</ol>
+
+<ul>
+  <li>Stored in blocks of 128mb</li>
+  <li>3 data nodes</li>
+</ul>
+
+<ol>
+  <li>Mapreduce</li>
+</ol>
+
+<ul>
+  <li>runs a process to get data and aggregate on several nodes.</li>
+</ul>
+
+<ol>
+  <li>YARN –&gt; processes requests and manages cluster resources</li>
+</ol>
+
+<ul>
+  <li>resource manager</li>
+  <li>node manager</li>
+  <li>app manager</li>
+  <li>containers</li>
+</ul>
+
+<ol>
+  <li>Hadoop ecosystem has apache spark bla bla to aid in different
+things like analytics etc…</li>
+</ol>
+
+:ET

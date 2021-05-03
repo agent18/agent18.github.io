@@ -1,0 +1,525 @@
+I"�d<h2 id="summary">Summary:</h2>
+
+<p><strong>Terminal</strong></p>
+
+<p><code class="language-plaintext highlighter-rouge">which python</code> to know where it is pointing to in terminal</p>
+
+<p><code class="language-plaintext highlighter-rouge">base</code> is the environment  which means it has a particular python and
+a particular set of libraries.</p>
+
+<p><code class="language-plaintext highlighter-rouge">conda activate base</code></p>
+
+<p><strong>Emacs</strong></p>
+
+<p>environment <code class="language-plaintext highlighter-rouge">base</code> given in init file with:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(setq python-shell-interpreter "/home/eghx/anaconda3/bin/ipython")
+</code></pre></div></div>
+
+<p><code class="language-plaintext highlighter-rouge">M-x run-python</code> seems to open an ipython console which works</p>
+
+<p><code class="language-plaintext highlighter-rouge">sys.version</code> and <code class="language-plaintext highlighter-rouge">sys.prefix</code> in python to check which “environment”
+is installed.</p>
+
+<p>While installing python libraries such as <code class="language-plaintext highlighter-rouge">learntools</code>, as long as we
+install (<code class="language-plaintext highlighter-rouge">conda install scipy</code>, look below on how to install non-conda
+libraries) it in the <code class="language-plaintext highlighter-rouge">base</code> environment in the terminal (<code class="language-plaintext highlighter-rouge">source
+anaconda3/bin/activate</code> or <code class="language-plaintext highlighter-rouge">conda activate base</code>), then it seems to be
+<strong>available in EMACS too</strong>. :)</p>
+
+<h2 id="installing-pythiath">Installing pythiath</h2>
+
+<p>Rumor has it that anaconda is the shiz and the “best” way to work with
+python. I am comfortable with it</p>
+
+<h2 id="installing-anaconda">Installing Anaconda</h2>
+
+<blockquote>
+  <p>Anaconda® is a <strong>package manager</strong>, an environment manager, a Python/R
+data science distribution, and a collection of over 7,500+
+open-source packages. Anaconda is free and easy to install, and it
+offers free community support.</p>
+</blockquote>
+
+<ul>
+  <li>
+    <p>Check which python is used, <a href="https://docs.anaconda.com/anaconda/user-guide/tasks/integration/python-path/">if Anaconda is installed</a></p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  which python
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p><a href="https://docs.anaconda.com/anaconda/install/linux/">installing anacoda</a> as per the website</p>
+
+    <p>Don’t know what this is but did it anyway. <a href="https://askubuntu.com/questions/1189769/sha256sum-path-filename-no-such-file-or-directory">“Verification of
+  install file”</a></p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  sha256sum ~/Downloads/Anaconda3-xxxx.xx-Linux-x86_64.sh
+</code></pre></div>    </div>
+
+    <p>Download anaconda x86 and python 3.5 linux xxxx.xx. <del>I added
+  <a href="https://askubuntu.com/a/887558/443958">sudo</a>.</del> But I suspect maybe that was causing some
+  issues. Website doesn’t say sudo. Non sudo version seems to have
+  <code class="language-plaintext highlighter-rouge">conda update conda</code> working while I am still in the base.</p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  sudo bash ~/Downloads/Anaconda3-xxxx.xx-Linux-x86_64.sh		
+	
+  bash ~/Downloads/Anaconda3-xxxx.xx-Linux-x86_64.sh		
+</code></pre></div>    </div>
+
+    <p>Say yes to all.</p>
+
+    <p><code class="language-plaintext highlighter-rouge">(base) $eghx@eghxnitro</code> start appearing as opposed to the regular
+  thing on the terminal.</p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  conda config --set auto_activate_base False
+</code></pre></div>    </div>
+
+    <p>close and open terminal and the <code class="language-plaintext highlighter-rouge">(base)</code> is gone.</p>
+
+    <p>Verify your install using:</p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  conda list #Lists all packages in the current ENV
+</code></pre></div>    </div>
+
+    <p>Select env <code class="language-plaintext highlighter-rouge">base</code></p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  source anaconda3/bin/activate 
+</code></pre></div>    </div>
+
+    <p>Type <code class="language-plaintext highlighter-rouge">python</code> and see with <code class="language-plaintext highlighter-rouge">sys.prefix</code> where this python leads to.</p>
+  </li>
+</ul>
+
+<h2 id="what-is-base-more-info">What is <code class="language-plaintext highlighter-rouge">(base)</code> (MORE INFO)</h2>
+
+<p>It points to the python environment “selected”(<code class="language-plaintext highlighter-rouge">which python</code>) i.e.,
+Anacondas’s, explicitly in the terminal. Use the following to see
+which python is alive (e.g., anaconda or default installation etc.)</p>
+
+<blockquote>
+  <p>Switching from the (base) to the deactivated (base) implies
+switching from one python interpreter to another one - that may be
+checked using which.—<a href="https://stackoverflow.com/a/55134732/5986651">stack</a></p>
+</blockquote>
+
+<p><code class="language-plaintext highlighter-rouge">(base)</code> is a python environment currently pointing to the anaconda
+installation.</p>
+
+<ul>
+  <li>
+    <p>de-activating the <code class="language-plaintext highlighter-rouge">base</code> env</p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  conda deactivate
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Activating the <code class="language-plaintext highlighter-rouge">base</code> env</p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  source anaconda3/bin/activate 
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Currently the above is activated by default thanks to the following
+lines in you <code class="language-plaintext highlighter-rouge">.bashrc</code></p>
+  </li>
+</ul>
+
+<p><strong>Verdict</strong></p>
+
+<p>It’s ugly to have it in the terminal. Then,</p>
+<ul>
+  <li>deactivate and risk the chance of using another python by mistake when working</li>
+  <li>&amp; have to activate every single time.</li>
+</ul>
+
+<p>If you don’t want to activate it every single time and permanently
+modify where <code class="language-plaintext highlighter-rouge">which python</code> points to? Then you can do it by changing
+the <code class="language-plaintext highlighter-rouge">PATH</code> variable as shown <a href="https://stackoverflow.com/a/55134899/5986651">in this stack answer</a>. But this is
+<a href="https://stackoverflow.com/a/55134899/5986651"><em>Discouraged</em></a> as per “conda release notes”.</p>
+
+<p>This <a href="https://www.youtube.com/watch?v=nnhjvHYRsmM">video</a> was the most useful. Other links from
+<a href="https://stackoverflow.com/questions/55134440/in-conda-what-is-the-differece-between-base-environment-and-no-environment-at">stack1</a>. Other links from <a href="https://stackoverflow.com/questions/55133808/with-conda-anaconda-should-i-work-in-base-all-the-time">stack 2</a>.</p>
+
+<p>I DON’T use pythiath on the terminal. So I will <em>deactivate it PERMANENTLY</em>. I use
+it in EMACS and when that happens I will <code class="language-plaintext highlighter-rouge">setq</code>. (Look at the
+caution. I think we are gonna have some problems).</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda config --set auto_activate_base false
+</code></pre></div></div>
+
+<p><strong>Caution:</strong></p>
+
+<p>Changing where the default python is looking at in say EMACS might
+have other consequences.</p>
+
+<blockquote>
+  <p>It may not see packages that you have installed in the base
+environment, but it sees libraries that you installed with
+anaconda. Different environments serve to isolate dependencies
+installed.—<a href="https://stackoverflow.com/a/55134732/5986651">stack comment</a></p>
+</blockquote>
+
+<p>Figure out with time…</p>
+
+<h2 id="python-to-ipython--on-terminal-and-emacs">Python to Ipython  on terminal and Emacs</h2>
+
+<blockquote>
+  <p>IPython is basically the “recommended” Python shell, which provides
+extra features. There is no language called IPython.—<a href="https://stackoverflow.com/a/41971819/5986651">stack</a></p>
+</blockquote>
+
+<ul>
+  <li>
+    <p>how to make it work with emacs</p>
+  </li>
+  <li>
+    <p>there seem to be some variables which have access to it.</p>
+  </li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">conda list</code> already shows <code class="language-plaintext highlighter-rouge">ipython</code> package already installed.</p>
+
+<p>So in the normal terminal when the <code class="language-plaintext highlighter-rouge">base</code> env is not turned on, then
+you don’t get the <code class="language-plaintext highlighter-rouge">python</code> you want. Needless to say even <code class="language-plaintext highlighter-rouge">ipython</code>
+doesn’t work there. But once you toin on <code class="language-plaintext highlighter-rouge">base</code> using <code class="language-plaintext highlighter-rouge">source
+ anaconda3/bin/activate</code> then ‘alles sier goed’.</p>
+
+<p>If situation forces you to action, do the following, but it didn’t
+ work for me as per <a href="https://ipython.org/install.html">ipython’s site</a>.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda update conda
+conda update ipython	
+</code></pre></div></div>
+
+<p>or as per another <a href="https://stackoverflow.com/questions/29341708/anaconda-ipython-not-running">stack comment</a></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda update conda
+conda update ipython ipython-notebook ipython-qtconsole
+</code></pre></div></div>
+
+<p>Ipython help is give <a href="https://ipython.readthedocs.io/en/stable/interactive/tutorial.html">here</a>. There are magic functions, tab
+completion things and some shortcut commands that could be used here.</p>
+
+<p><strong>IPython in emacs has many features that don’t work</strong></p>
+
+<p>Had some issues such as the console behaving wierd! with
+many letters shown inplace of one.</p>
+
+<p>Finally was able to solve it after many many hours of relentless
+debugging and emacs stack had the answer anyways. :)</p>
+
+<p><strong>Error</strong> I got was similar garbled (wierd) text when I opened IPYTHON
+with <code class="language-plaintext highlighter-rouge">C-c C-p</code> on my simple python file <code class="language-plaintext highlighter-rouge">print("hello World")</code>.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ppppprrrrriiiiinnnnnttttt((((("""""HHHHHeeeeellllllllllooooo     
+WWWWWooooorrrrrlllllddddd""""")))))))))))))))
+Hello World
+</code></pre></div></div>
+
+<p><strong>Solution</strong> verbatim as per <a href="https://emacs.stackexchange.com/a/24572/17941">@ricardoLima’s answer</a> didn’t work
+for me. I had to re-write it as follows.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(setq python-shell-interpreter "/path/to/bin/ipython")
+(setq python-shell-interpreter-args "--simple-prompt -i")
+</code></pre></div></div>
+
+<p><strong>TIP:</strong></p>
+
+<p>Just use <code class="language-plaintext highlighter-rouge">emacs -q</code> in the terminal to open a no-init emacs and run
+these commands with <code class="language-plaintext highlighter-rouge">M-:</code>. <code class="language-plaintext highlighter-rouge">M-x run-python</code> and you are good to go.</p>
+
+<p><strong>P.S.</strong><br />
+Emacs: “This is GNU Emacs 25.3.2 (x86_64-pc-linux-gnu, GTK+ Version 3.18.9)
+ of 2019-12-24”<br />
+Ubuntu: 16.04<br />
+python and Ipython from Anaconda<br />
+Python: 3.7.6<br />
+IPython:  7.12.0</p>
+
+<h2 id="checking-setup-with-emacs">Checking setup with EMACS</h2>
+
+<p>Ask emacs to look at the right python, <a href="https://stackoverflow.com/a/49807116/5986651">use code</a> and add to emacs
+init file:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(setq python-shell-interpreter "/path/to/python")
+</code></pre></div></div>
+
+<p>Ask emacs to run a python shell, <a href="https://stackoverflow.com/a/50242869/5986651">use code</a>:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>M-x run-python
+</code></pre></div></div>
+
+<p>interpreter ipython python shell python interpreter???</p>
+
+<p>what is interpreter</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sys.version
+</code></pre></div></div>
+
+<p>To see which python your interpreter is using, <a href="https://stackoverflow.com/a/53952253/5986651">use code</a>:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sys.prefix
+</code></pre></div></div>
+
+<h2 id="conda-not-working-uninstall-and-re-install-is-the-only-way">conda not working (uninstall and re-install is the only way!)</h2>
+
+<p>Error on <code class="language-plaintext highlighter-rouge">conda update conda</code></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Collecting package metadata <span class="o">(</span>current_repodata.json<span class="o">)</span>: failed
+
+NotWritableError: The current user does not have write permissions to a required path.
+  path: /home/eghx/.conda/pkgs/urls.txt
+  uid: 1000
+  gid: 1000
+
+If you feel that permissions on this path are <span class="nb">set </span>incorrectly, you can manually
+change them by executing
+
+  <span class="nv">$ </span><span class="nb">sudo chown </span>1000:1000 /home/eghx/.conda/pkgs/urls.txt
+
+In general, it<span class="s1">'s not advisable to use '</span><span class="nb">sudo </span>conda<span class="s1">'.
+
+</span></code></pre></div></div>
+
+<p>https://github.com/conda/conda/issues/9004#issuecomment-517955252</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda config --set allow_conda_downgrades true
+conda install conda=4.6.14
+</code></pre></div></div>
+
+<p>Not working same error</p>
+
+<p><strong>JUST UNINTSALL AND FOLLOW INSTALLION PROCEDURE AGAIN</strong></p>
+
+<h2 id="uninstallingre-installing-anaconda">Uninstalling/re-installing anaconda</h2>
+
+<p>https://docs.anaconda.com/anaconda/install/uninstall/</p>
+
+<p>The following didn’t work</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda install anaconda-clean 
+</code></pre></div></div>
+
+<p>So I ended up following the stack answer from 2016 about removal of
+all folders and the contents in the <code class="language-plaintext highlighter-rouge">.bashrc</code>
+file. https://stackoverflow.com/a/40159908/5986651</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo rm -rf ~/anaconda3
+sudo rm -rf ~/.condarc ~/.conda ~/.continuum
+</code></pre></div></div>
+
+<p><em>I think I needed to use SUDO because I used it in the
+installation</em>. I am going to test it and not use any fucking
+sudo. Let’s see.</p>
+
+<h2 id="installing-packages-with-conda">Installing packages with Conda</h2>
+
+<p>https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-pkgs.html#searching-for-packages</p>
+
+<p>Check if package exists,</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda list
+
+conda list numpy
+</code></pre></div></div>
+
+<p>To check if package exists,</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda search scipy curl
+</code></pre></div></div>
+
+<p>Install package from search using <code class="language-plaintext highlighter-rouge">conda install ...</code></p>
+
+<p>Packages are available with <code class="language-plaintext highlighter-rouge">conda search</code> are from <code class="language-plaintext highlighter-rouge">conda</code>. Packages
+are also available at <code class="language-plaintext highlighter-rouge">anaconda.org</code>. If packages (such as <code class="language-plaintext highlighter-rouge">learntool</code>
+for Kaggle) are not available in both <code class="language-plaintext highlighter-rouge">conda</code> or <code class="language-plaintext highlighter-rouge">anaconda.org</code>, then
+they are <code class="language-plaintext highlighter-rouge">non-conda</code> packages.</p>
+<h3 id="installing-packages-with-conda-install">Installing packages with conda install</h3>
+
+<p><a href="https://github.com/fastai/fastai">Fastai man page</a>:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda install -c fastai -c pytorch -c anaconda fastai 
+</code></pre></div></div>
+
+<p>Can also be done (it appears) with the github link and then <code class="language-plaintext highlighter-rouge">environment.yml</code>:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone https://github.com/fastai/fastai2
+cd fastai2
+conda env create -f environment.yml
+source activate fastai2
+</code></pre></div></div>
+
+<p>With<a href="https://forums.fast.ai/t/platform-local-server-ubuntu/65851/22?u=thetj09"> pip</a>:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone https://github.com/fastai/fastai2
+cd fastai2
+pip install -e ".[dev]"
+</code></pre></div></div>
+
+<p><strong>Note about Pip</strong></p>
+
+<blockquote>
+  <p>Just in case you haven’t found that one. They can coexist, but maybe
+not in a way you’d expect. Pip can easily be run inside conda. You
+can use conda to manage python versions, install some libraries and
+then use pip for the rest. That will totally work. What will not
+work are packages you installed before installing conda, but that’s
+because the python you run after that (installed by conda) does not
+have the same site-packages directory in sys.path. Ofc, you can
+install them again after installing conda, but they will be
+downloaded, unpacked, and possibly compiled (in case they do not
+have wheels) again. —<a href="https://forums.fast.ai/t/installing-fastai-on-ubuntu-using-pip-and-virtualenv/38356/3?u=thetj09">fastaiforum</a></p>
+</blockquote>
+
+<h3 id="installing-non-conda-packages">Installing non-conda packages</h3>
+
+<p>Packages are also available at <code class="language-plaintext highlighter-rouge">anaconda.org</code>. If packages (such as
+<code class="language-plaintext highlighter-rouge">learntool</code> for Kaggle) are not available in both <code class="language-plaintext highlighter-rouge">conda</code> or
+<code class="language-plaintext highlighter-rouge">anaconda.org</code>, then they are <code class="language-plaintext highlighter-rouge">non-conda</code> packages.</p>
+
+<p>If not available in all of the above, <code class="language-plaintext highlighter-rouge">conda/pip install
+link-to-tar.gz</code> (in the base or respective environment) is still an
+option.</p>
+
+<p>In the case of <code class="language-plaintext highlighter-rouge">learntools</code> none of that works. So downloaded the repo
+to pkgs. <code class="language-plaintext highlighter-rouge">cd</code> into the downloaded unzipped folder. <code class="language-plaintext highlighter-rouge">activate</code> the base and then,</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>python setup.py install
+</code></pre></div></div>
+
+<p><a href="https://stackoverflow.com/questions/36164986/how-to-install-package-in-anaconda">Source</a>.</p>
+
+<p>And now it is available to emacs. It appears that the packages are
+tied to the <code class="language-plaintext highlighter-rouge">python</code> selected. That seems good. :) Pandian le</p>
+
+<h3 id="installing-packages-with-anaconda">Installing packages with Anaconda</h3>
+
+<p>https://stackoverflow.com/questions/28741563/pytesseract-no-such-file-or-directory-error/49762616#49762616</p>
+
+<h3 id="installing-dependencies-so-that-opencv-works-without-the-following-error">Installing dependencies so that opencv works without the following error</h3>
+
+<blockquote>
+  <p>error: /io/opencv/modules/highgui/src/window.cpp:583: error: (-2) The
+function is not implemented. Rebuild the library with Windows, GTK+
+2.x or Carbon support. If you are on Ubuntu or Debian, install
+libgtk2.0-dev and pkg-config, then re-run cmake or configure script
+in function cvShowImage</p>
+</blockquote>
+
+<p>https://www.pyimagesearch.com/2015/06/22/install-opencv-3-0-and-python-2-7-on-ubuntu/</p>
+
+<h3 id="working-with-emacs">Working with emacs</h3>
+
+<p>https://stackoverflow.com/q/49805906/5986651</p>
+
+<h2 id="understanding-environments">Understanding environments</h2>
+
+<p>Every environment seems to have it’s own python and packages.</p>
+
+<p><a href="https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html">Conda help on environments</a></p>
+
+<p><strong>Create</strong> environment: <code class="language-plaintext highlighter-rouge">conda create -n myenv python=3.6</code></p>
+
+<p><strong>Clone</strong> environment: <code class="language-plaintext highlighter-rouge">conda create --name fastai --clone base</code></p>
+
+<p><strong>add packages</strong> to environment: <code class="language-plaintext highlighter-rouge">conda install -n myenv scipy</code> (or go to
+environment and just <code class="language-plaintext highlighter-rouge">conda install ipthon</code> for example)</p>
+
+<p><strong>activate conda env</strong>: <code class="language-plaintext highlighter-rouge">conda activate myenv</code>  (you will see a <code class="language-plaintext highlighter-rouge">(myenv)</code>
+in front in the terminal)</p>
+
+<p><strong>List packages</strong> in environment: Go to environment and then <code class="language-plaintext highlighter-rouge">conda list</code></p>
+
+<p><strong>How to work on a particular environment in Emacs?</strong></p>
+
+<ol>
+  <li>
+    <p>Create environment  myenv</p>
+  </li>
+  <li>
+    <p>install necessary packages</p>
+  </li>
+  <li>
+    <p>Modify init file or <code class="language-plaintext highlighter-rouge">M-:</code> with right link to python or shell
+interpreter obtainable from <code class="language-plaintext highlighter-rouge">which python</code> e.g., <code class="language-plaintext highlighter-rouge">(setq python-shell-interpreter
+"/home/eghx/anaconda3/bin/ipython")</code></p>
+  </li>
+  <li>
+    <p>Test</p>
+  </li>
+</ol>
+
+<p>Really simple.</p>
+
+<p>Delete environment: <code class="language-plaintext highlighter-rouge">conda env remove --name myenv</code> or <code class="language-plaintext highlighter-rouge">conda remove
+--name myenv --all</code></p>
+
+<p>Check if deleted: <code class="language-plaintext highlighter-rouge">conda info --envs</code></p>
+
+<p>Great so far so good.</p>
+
+<h3 id="conda-install-with-environmentyml">conda install with environment.yml</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda env create -f environment.yml
+conda activate EnvironmentName
+
+
+conda env update -f environment.yml
+conda activate EnvironmentName
+</code></pre></div></div>
+
+<p>Source:
+https://stackoverflow.com/questions/40616381/can-i-add-a-channel-to-a-specific-conda-environment</p>
+
+<h2 id="future-things">future things</h2>
+
+<ul>
+  <li>show commands for example <strong><code class="language-plaintext highlighter-rouge">np.</code> should show available commands</strong></li>
+  <li>commands jump from one to the console and back</li>
+</ul>
+
+<p>auto complete variables and commands</p>
+
+<p>help for commands</p>
+
+<p>ipython magic</p>
+
+<p>specify environment etc… next…</p>
+
+<p>syntax checking</p>
+
+<p>More to dos here.
+https://www.seas.upenn.edu/~chaoliu/2017/09/01/python-programming-in-emacs/</p>
+
+<p>https://gist.github.com/widdowquinn/987164746810f4e8b88402628b387d39</p>
+
+<p>https://steelkiwi.com/blog/emacs-configuration-working-python/</p>
+
+<p>https://www.emacswiki.org/emacs/PythonProgrammingInEmacs</p>
+
+<h2 id="jupyter-notebook-it-is">Jupyter notebook it is</h2>
+
+<p><strong>epistemic status:</strong> I think jupyter was installed with the base already?
+but I checked right? As spyder is already.</p>
+
+<p>Some discussion on Jupyterlab vs Jupyter on <a href="https://stackoverflow.com/questions/50982686/what-is-the-difference-between-jupyter-notebook-and-jupyterlab">stack</a>. Atleast
+someone switched back to Jupyter notebook and people advising
+beginners to go to Jupyter notebook.</p>
+
+<p><strong>Conda installation</strong></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda install -c conda-forge notebook
+</code></pre></div></div>
+
+<p>This directly installs jupiter in the <code class="language-plaintext highlighter-rouge">base</code> env as that is the one
+that is active.</p>
+
+<p><strong>Start Jupyter</strong></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda activate base
+
+jupyter notebook
+</code></pre></div></div>
+
+:ET
