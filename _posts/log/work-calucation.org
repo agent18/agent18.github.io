@@ -1,6 +1,46 @@
 #+COLUMNS: %7TODO(To Do) %40ITEM(Task) %10CLOCKSUM(Clock)
 #+TAGS: work(w)  DP(d) break(b) meta(m) DS(s) blog(g) other(o) reading(r) NATW(n) apping(a)
+* Still fixing computer
+** Counted for work                                                    :work:
+*** Prepping for task
 
+*** Looking for content
+
+*** other
+*** fastblog
+:LOGBOOK:
+CLOCK: [2021-05-04 di 19:16]
+CLOCK: [2021-05-04 di 19:16]--[2021-05-04 di 19:16] =>  0:00
+:END:
+*** DPing                                                              :DP:
+** Other useful stuff                                                 :meta:
+*** Work done for STM 
+
+** Not counted for DP                                                :break:
+*** Breaks
+**** Working on Org mode
+**** Dreaming
+**** Random
+*** Sleeping 
+*** Watching Youtube
+*** Playing with phone
+
+*today
+
+finish settling money with achu
+
+watch porn and sleep
+plan for friday to celebrate guns bday
+picnic
+
+for work
+
+Randomization 
+send mail about carpooling 
+final mail (weather and shit)
+
+buy holidays tomorow
+buy shares figure out tomo
 * spark hadoop
 ** Counted for work                                                    :work:
 *** Prepping for task
@@ -76,7 +116,7 @@ CLOCK: [2021-04-17 za 20:14]--[2021-04-17 za 20:45] =>  0:31
 *** Work done for STM 
 
 ** Not counted for DP                                                :break:
-CLOCK: [2021-04-18 zo 13:40]
+CLOCK: [2021-04-18 zo 13:40]--[2021-04-18 zo 14:10] =>  0:30
 CLOCK: [2021-04-18 zo 10:49]--[2021-04-18 zo 12:33] =>  1:44
 CLOCK: [2021-04-17 za 20:45]--[2021-04-17 za 22:20] =>  1:35
 CLOCK: [2021-04-06 di 23:23]--[2021-04-07 wo 00:13] =>  0:50
@@ -4557,70 +4597,45 @@ Weekly report starting on: [2021-01-18 ma]
 
 #+BEGIN: clocktable :maxlevel 2 :scope file :step day :tstart "<-7d>" :tend "<tomorrow>" :compact t :tags "-break-NATW"
 
-Daily report: [2021-02-27 za]
-| Headline               |   Time |
-|------------------------+--------|
-| *Total time*           | *5:02* |
-|------------------------+--------|
-| Stadistis              |   5:02 |
-| \emsp Counted for work |   5:02 |
+Daily report: [2021-04-27 di]
+| Tags | Headline     | Time   |
+|------+--------------+--------|
+|      | *Total time* | *0:00* |
 
-Daily report: [2021-02-28 zo]
-| Headline               |   Time |
-|------------------------+--------|
-| *Total time*           | *1:12* |
-|------------------------+--------|
-| Tableau                |   1:12 |
-| \emsp Counted for work |   1:12 |
+Daily report: [2021-04-28 wo]
+| Tags | Headline     | Time   |
+|------+--------------+--------|
+|      | *Total time* | *0:00* |
 
-Daily report: [2021-03-01 ma]
-| Headline               |   Time |
-|------------------------+--------|
-| *Total time*           | *8:41* |
-|------------------------+--------|
-| Tableau                |   4:30 |
-| \emsp Counted for work |   4:30 |
-| Stadistis              |   1:11 |
-| \emsp Counted for work |   1:11 |
-| Applying for  DS job   |   3:00 |
-| \emsp Counted for work |   3:00 |
+Daily report: [2021-04-29 do]
+| Tags | Headline     | Time   |
+|------+--------------+--------|
+|      | *Total time* | *0:00* |
 
-Daily report: [2021-03-02 di]
-| Headline               |   Time |
-|------------------------+--------|
-| *Total time*           | *4:00* |
-|------------------------+--------|
-| Applying for  DS job   |   4:00 |
-| \emsp Counted for work |   4:00 |
+Daily report: [2021-04-30 vr]
+| Tags | Headline     | Time   |
+|------+--------------+--------|
+|      | *Total time* | *0:00* |
 
-Daily report: [2021-03-03 wo]
-| Headline               |   Time |
-|------------------------+--------|
-| *Total time*           | *4:00* |
-|------------------------+--------|
-| Applying for  DS job   |   4:00 |
-| \emsp Counted for work |   4:00 |
+Daily report: [2021-05-01 za]
+| Tags | Headline     | Time   |
+|------+--------------+--------|
+|      | *Total time* | *0:00* |
 
-Daily report: [2021-03-04 do]
-| Headline               |   Time |
-|------------------------+--------|
-| *Total time*           | *2:00* |
-|------------------------+--------|
-| Applying for  DS job   |   2:00 |
-| \emsp Counted for work |   2:00 |
+Daily report: [2021-05-02 zo]
+| Tags | Headline     | Time   |
+|------+--------------+--------|
+|      | *Total time* | *0:00* |
 
-Daily report: [2021-03-05 vr]
-| Headline               |   Time |
-|------------------------+--------|
-| *Total time*           | *2:00* |
-|------------------------+--------|
-| Applying for  DS job   |   2:00 |
-| \emsp Counted for work |   2:00 |
+Daily report: [2021-05-03 ma]
+| Tags | Headline     | Time   |
+|------+--------------+--------|
+|      | *Total time* | *0:00* |
 
-Daily report: [2021-03-06 za]
-| Headline     | Time   |
-|--------------+--------|
-| *Total time* | *0:00* |
+Daily report: [2021-05-04 di]
+| Tags | Headline     | Time   |
+|------+--------------+--------|
+|      | *Total time* | *0:00* |
 #+END:
 
 scrolling issue 
