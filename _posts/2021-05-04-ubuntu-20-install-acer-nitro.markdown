@@ -196,6 +196,11 @@ You first [point to the store for libsecret library](https://github.com/microsof
 You can view it using `secret-tool` and `seahorse`
 
 
+
+ 
+
+   
+
 ### write to git
 
 How to store multiple PATs/passwords for use by git?
@@ -334,6 +339,52 @@ This allows to store the pw in an encrypted format. The `git config` file can be
 P.S.
 There are many places that suggest the use of [Gnome-keyring](https://blog.scottlowe.org/2016/11/21/gnome-keyring-git-credential-helper/) but that is apparently [deprecated](https://askubuntu.com/a/959662/443958).
 Also answered the above [here](https://stackoverflow.com/a/67360592/5986651)
+
+
+**Storing passwords/PATs for more than one account**
+
+This becomes tricky and it appears as @VonC suggests that we need a `Git-Credential-Manager core` (GCM core). This answer is enhanced based on my findings in [this answer][2].
+
+1. First [install GCM core][3]
+
+   1. Download [latest .deb package](https://github.com/microsoft/Git-Credential-Manager-Core/releases/tag/v2.0.394-beta)
+   2. `sudo dpkg -i <path-to-package>`
+   3. `git-credential-manager-core configure`
+   4. `git config --global credential.credentialStore secretservice` as we use `libsecret`
+
+2. Get latest git
+
+	In my case I had git 2.25 and got error `error: unknown option
+   'show-scope'`. It appears that GCM core is using higher git
+   (atleast 2.26).
+   
+   So install the latest and greatest `git` as per [here](http://lifeonubuntu.com/upgrading-ubuntu-to-use-the-latest-git-version/):
+   
+	   
+		sudo add-apt-repository ppa:git-core/ppa
+		sudo apt-get update
+		apt list git # shows the latest git currently 2.31
+		sudo apt-get install git #or sudo apt-get upgrade
+   
+   
+3. Update git remote path with username built in
+
+	GCM core needs this to identify the different accounts.:(
+
+		git remote set-url origin https://user1@github.com/user1/myRepo1.git
+		git remote set-url origin https://user2@github.com/user1/myRepo1.git
+                                      ^^^^^
+
+ Your `~/.gitconfig` file will thus have the following :
+ 
+ ```
+ [credential]
+	helper = /usr/bin/git-credential-manager-core
+	credentialStore = secretservice
+[credential "https://dev.azure.com"]
+	useHttpPath = true
+ ```
+ 
 
 ## installing jekyll
 
