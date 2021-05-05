@@ -9,7 +9,8 @@
 *** other
 *** fastblog
 :LOGBOOK:
-CLOCK: [2021-05-04 di 19:16]
+CLOCK: [2021-05-05 wo 17:07]--[2021-05-05 wo 18:29] =>  1:22
+CLOCK: [2021-05-04 di 19:16]--[2021-05-04 di 20:45] =>  1:29
 CLOCK: [2021-05-04 di 19:16]--[2021-05-04 di 19:16] =>  0:00
 :END:
 *** DPing                                                              :DP:
@@ -17,6 +18,9 @@ CLOCK: [2021-05-04 di 19:16]--[2021-05-04 di 19:16] =>  0:00
 *** Work done for STM 
 
 ** Not counted for DP                                                :break:
+:LOGBOOK:
+CLOCK: [2021-05-05 wo 18:29]
+:END:
 *** Breaks
 **** Working on Org mode
 **** Dreaming

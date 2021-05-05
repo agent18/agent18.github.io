@@ -173,14 +173,73 @@ Now need to setup the permanent PAT as follows: only one command as the other as
 
 1. Create PAT 
 
-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
+
 
 
 2. clone and test connection
 
+3. fix github modified time issues
+
 3. use PAT using credential helper
 
+The thing is apparently @vonc thinks that I need a [GCM core](https://github.com/microsoft/Git-Credential-Manager-Core/blob/master/docs/linuxcredstores.md), to
+manage credentials for git. 
 
+First get a GCM core:
+
+
+
+You first [point to the store for libsecret library](https://github.com/microsoft/Git-Credential-Manager-Core/blob/master/docs/linuxcredstores.md).
+
+	git config --global credential.credentialStore secretservice
+
+You can view it using `secret-tool` and `seahorse`
+
+
+### write to git
+
+How to store multiple PATs/passwords for use by git?
+
+I wanted to store my credentials "safely" so I did as instructed
+[here](https://askubuntu.com/a/959662/443958). This way I don't have to input password/PAT every single
+time.
+
+1. Install `libsecret` using `sudo apt-get install libsecret-1-0
+   libsecret-1-dev`
+   
+2. Build the "credential manager" using `sudo make
+   --directory=/usr/share/doc/git/contrib/credential/libsecret`
+   
+3. and then configure my local git folder using `git config --global credential.helper \
+   /usr/share/doc/git/contrib/credential/libsecret/git-credential-libsecret` 
+   
+Works superb.
+   
+What I don't get is **how to do the same for many passwords** associated
+with different accounts/repositories. I was suggested to use gcm core
+
+I tried installing `gcm core` as instructed [here](https://github.com/microsoft/Git-Credential-Manager-Core).
+
+1. Download .deb package
+
+2. `sudo dpkg -i <path-to-package>
+git-credential-manager-core configure`
+
+3. configure the "credential store" `git config
+   credential.credentialStore secretservice` (as I use libsecret).
+   
+4. I removed the `Credential helper` pointing to
+   `/usr/share/doc/git/contrib/credential/libsecret/git-credential-libsecret`
+   from the local git config file.
+
+
+   
+It still doesn't work. When I try to push a repo, I get a garbled
+message with how to use `git config` followed by request to fill in
+credentials (shown [here](https://pastebin.com/K1Lqt7tX)).  I don't understand what I am doing? namely
+`credential store`, `credential manager`, and `gcm core`.
+
+I looked [here](https://stackoverflow.com/a/40312117/5986651) and [here](https://stackoverflow.com/a/51505417/5986651) and I still don't get it.
 
 ## latex installation to work with auctex
 
@@ -223,7 +282,7 @@ Currently at 66mb and now about to test and then `jekyll serve` Let's go... Now 
 
 cvblock at 696.8 before doing nythin... 
 
-## tackling the deprecation notice
+## github tackling the deprecation notice
 
 > Hi @agent18,      You recently used a password to access the
 > repository at agent18/[agent18.github.io](http://agent18.github.io/)
