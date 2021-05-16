@@ -1597,6 +1597,111 @@ expanding scope to the entire YS500, encoder plate
 4. how do you handle angry customers? jsut deal with it, do whats
    possible, have clear conversations on where we are at.
 
+## iron hack
+
+Recently I got in touch with this women adrianna from ironhack and she
+showed me the alumni network and what potentially I could do to get a
+job. I want to use the alumini network and do the following
+
+**Discussion**
+
+4 workshops + last week full of career stuff
+
+Before Covid --> 85% within 1-6 months
+
+After Covid (assumed as since 2020) --> 67% 1-3 months placement rate
+and 76% in 1-6 months.
+
+*Of course for me the question is how they calculated these numbers?,
+real numbers could be lower*
+
+24 students 1 class, 1 TA per class.
+
+---
+
+Who to conduct? 
+
+1. get feedback on CV
+2. ask them how they did it?
+3. ask them what I need to do?
+
+
+**What to get from them?**
+
+4. get company names to apply
+5. understand what they did other than the bootcamp?
+6. Do they know other people in the same space?
+
+Can they refer you?
+
+**The right group**
+
+1. Conduct people who recently graduated, 
+2. who have background in mech 
+
+**initial message**
+
+Hi  
+
+Can I connect with you to ask you a few questions about your
+experience with moving to Data Analytics/Science and regarding
+ironhack?
+
+Thanks.
+
+Regards,
+Thej
+
+**Later message**
+
+Like you I want to move into data analytics/Science. I am unable to
+get any interviews even. I am really wondering what I can do to
+improve my cv to get an interview.
+
+1. Is ironhack something you recommend?
+2. What from ironhack do you think helped you to get the job in Aigent
+   for example?
+3. I have done Coursera courses, fastai, sql courses and kaggle competitions. 
+
+I shall attach my CV. Any feedback you can give is much appreciated. I
+applied to around 80 companies but not one interview.
+
+**initial message other group**
+
+
+Hi,
+
+I am reaching out to you for advice. Like you I want to move into data
+analytics/Science. I am unable to get any interviews even. I am really
+wondering what I can do to improve my cv to get a job in the end.
+
+1.  I have done Coursera courses (Capstone series), fastai, sql
+    courses and kaggle competitions and still failed to get an
+    interview even with over 80 applications. Do you have any
+    suggestions for me? (CV attached)
+2. Is ironhack something you recommend?
+3. What from ironhack do you think helped you to get the job in Aigent
+   for example?
+
+Any feedback you can give is much appreciated.
+
+Thanks.
+
+Regards,
+Thej
+
+
+**the stats according to ironhack**
+
+
+**Goal**
+
+Send out requests to 15 people from the alumini network.
+
+Find people who have done it and copy their way... keep year as close
+to 2021 as possible, person as international as possible and carrier
+with few years of exp in some other field.
+
 ## body--> what I should look for in a japs
 
 1. design of experiements (56 jobs)

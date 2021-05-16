@@ -173,32 +173,23 @@ Now need to setup the permanent PAT as follows: only one command as the other as
 
 1. Create PAT 
 
-
-
-
 2. clone and test connection
 
 3. fix github modified time issues
 
 3. use PAT using credential helper
 
-The thing is apparently @vonc thinks that I need a [GCM core](https://github.com/microsoft/Git-Credential-Manager-Core/blob/master/docs/linuxcredstores.md), to
-manage credentials for git. 
+4. add gcm core as shown below
 
-First get a GCM core:
+5. get it to work?
 
+Instructions are [here](https://github.com/fastai/fastpages/blob/master/_fastpages_docs/DEVELOPMENT.md).
 
+6. install docker as per [here](https://docs.docker.com/engine/install/ubuntu/)
 
-You first [point to the store for libsecret library](https://github.com/microsoft/Git-Credential-Manager-Core/blob/master/docs/linuxcredstores.md).
+7. Install docker compose as per [here](https://docs.docker.com/compose/install/)
 
-	git config --global credential.credentialStore secretservice
-
-You can view it using `secret-tool` and `seahorse`
-
-
-
- 
-
+7. sudo make server (takes a full 5 mins) to run...
    
 
 ### write to git
