@@ -362,6 +362,8 @@ get to talk to several people and get examples of where this path has
 taken others (#examples). Meanwhile I will also "network a bit" by
 joining "meetups" to meet other similar data science folk.
 
+---
+
 ## Timeline TL;Dr
 
 September 15 --> wrap up post and start prepping computer for Machine
