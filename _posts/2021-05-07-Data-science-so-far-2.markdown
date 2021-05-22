@@ -351,7 +351,7 @@ option.
 Am happy that I am in some sort of a "data analysis" position, and
 that I get "some experience" while my daytime job is not fully a waste
 of time. As the calculations seem to suggest the delay in finding a
-"real Data analysis job" might not be too detrimental. So for now, am
+"real Data analysis job" might not be detrimental. So for now, am
 going to get to the bottom of the questions I left hanging in the last
 post such as, "what I need to learn/do to get into EA"? "Can I get
 empirical evidence of lifetime potential of an EA job"? etc.
@@ -418,14 +418,13 @@ ETL --> 0
 
 \> 1 year --> 13
 
+---
+
 **Data Analytics Skills and how often they were required by
 companies**
 
-In no particular order, these are the skills mentioned: 
-
-SQL, excel, data visualization: tableau (BI softwares), java, spark
+*Entire list:* SQL, excel, data visualization--tableau (BI softwares), java, spark
 hadoop, pyspark, aws usage, ETL, azure, kubernettes hadoop docker, R
-
 
 SQL --> 15/27
 
@@ -472,6 +471,7 @@ hypothesis testing, create data impact, statistics
 ## Related work done in other non-published files
 
 2020-06-11-data-science-what-to-do.markdown
+
 2021-05-07-Data-Science-so-far.markdown
 
 ## Footnotes
