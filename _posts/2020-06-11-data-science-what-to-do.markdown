@@ -1011,8 +1011,6 @@ Analysis
 
 - trouble shooting
 
-
-
 **My goals**
 
 make recommendation, create data impact, insights statistics, setting
