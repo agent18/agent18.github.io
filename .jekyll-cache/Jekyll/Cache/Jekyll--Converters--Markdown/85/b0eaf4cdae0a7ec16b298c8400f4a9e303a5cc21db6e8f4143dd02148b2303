@@ -1,0 +1,827 @@
+I"Q�<p><strong>Status</strong>: This is an essay where I horribly failed to think
+“concretely”.</p>
+
+<p><em>I am deeply grateful to Aaron Gertler who reviewed this article for
+over 3hrs atleast (I don’t know the upper bound). His comments were
+very thorough (he didn’t leave any hyperlink unclicked). He managed to
+question several of my claims. I have updated parts of this post based
+on his comments. I also want to thank STM, Carrick Flynn, Peter Hurford,
+<a href="https://forum.effectivealtruism.org/users/ea-applicant">EA Applicant</a>, Jon Behar, Ben West, 80,000 hours for helping me
+directly or indirectly. They provided valuable info in their
+posts/comments/email which I have used in this article. That said,
+again, they should not be viewed as endorsing anything in this. All
+mistakes are mine. All views are mine.</em></p>
+
+<h2 id="introduction">Introduction</h2>
+
+<p>I have been using <a href="https://80000hours.org/">80,000 Hours</a> (80k) since 2017 and have read
+almost all their posts, spent weeks after weeks reading them to figure
+out what I should be doing in life. They seem to have done a ton of
+research and put out many many posts, for us readers to benefit from.</p>
+
+<p>In the process they have made a lot of claims which are hard and
+time-consuming to verify as we don’t have the insights, contacts or
+the data that 80k is exposed to. For example <a href="https://80000hours.org/key-ideas/#global-priorities">they estimate</a> “an
+additional person working on the most effective issues will have over
+100 times as much impact as an additional person working on a typical
+issue”. To verify this with one example, I would need estimates from
+say Open Phil on the impact of an employee. I tried, but they are
+unable to put effort into it at the moment.</p>
+
+<p>Maybe 80k can be asked for clarification directly? Unfortunately, 80k
+doesn’t seem approachable other than through coaching<sup id="fnref:13" role="doc-noteref"><a href="#fn:13" class="footnote" rel="footnote">1</a></sup> (which is
+only for the stellar). <a href="http://disq.us/p/1tkqy0u">Comments sections seem to be deserted to ask
+for help</a>, and at the time, I didn’t know of any other sources
+doing this sort of research and coaching for people<sup id="fnref:4" role="doc-noteref"><a href="#fn:4" class="footnote" rel="footnote">2</a></sup>. Based on
+reading 80k for years I formed the impression as shared by fellow <a href="https://forum.effectivealtruism.org/posts/jmbP9rwXncfa32seH/after-one-year-of-applying-for-ea-jobs-it-is-really-really">EA
+applicant</a>:</p>
+
+<blockquote>
+  <p>Hey you! You know, all these ideas that you had about making the
+world a better place, like working for Doctors without Borders?
+They probably aren’t that great. The long-term future is what
+matters. And that is not funding constrained, so earning to give is
+kind of off the table as well. But the good news is, we really,
+really need people working on these things. We are so talent
+constrained…— <a href="https://forum.effectivealtruism.org/posts/jmbP9rwXncfa32seH/after-one-year-of-applying-for-ea-jobs-it-is-really-really">EA applicant in the EA Forum</a></p>
+</blockquote>
+
+<p>And looking at the <em>277 karma</em> this post got (<em>the highest of any post
+on the Forum</em>), it might appear that a “lot of people” share(d)
+this sentiment that EA orgs could potentially be seriously Talent
+Constrained (TC).</p>
+
+<p>A few weeks back I stumbled upon some articles in the <a href="https://forum.effectivealtruism.org/">EA forum</a>
+and to my surprise it appeared that some EA orgs were suggesting that
+they were not TC. Until this point I don’t think it occurred to me
+that 80k’ claims (“EA is TC”) could be wrong or lost in
+translation or that I should test it. Nevertheless, having seen orgs
+say otherwise, it felt like a good idea to dig into it at least now.</p>
+
+<p>The following article is my naive investigation on if EA is TC. Before
+we start going deep into whether EA is TC or not, we must first state
+the definition clearly.</p>
+
+<h2 id="definitions">Definitions</h2>
+
+<p>We are going to primarily deal with the term “Talent
+Constrained” (TC). 80k defines TC in “<a href="https://80000hours.org/2015/11/why-you-should-focus-more-on-talent-gaps-not-funding-gaps/#what-are-talent-gaps">Why you should work on
+Talent gaps</a>” (Nov 2015) as,</p>
+
+<blockquote>
+  <p>For some causes, additional money can buy substantial progress. In
+others, the key bottleneck is finding people with a specific skill
+set. This second set of causes are more “talent constrained” than
+“funding constrained”; we say they have a “talent gap”.</p>
+</blockquote>
+
+<p>So, a cause is TC if finding people with a specific skill set, proves
+to be difficult. The difficulty I assume is in the lack of those
+skilled people, and not some process/management constraint<sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">3</a></sup>. “<a href="https://concepts.effectivealtruism.org/concepts/talent-constraints-vs-funding-constraints/">EA
+Concepts</a>”, clears this confusion up with a better worded
+“example”:</p>
+
+<blockquote>
+  <p>Organization A: Has annual funding of $5m, so can fund more staff,
+and has been actively hiring for a year, but has been unable to find
+anyone suitable… Organization A is more talent constrained than
+funding constrained…</p>
+</blockquote>
+
+<p>In this post, discussions are focused on <em>Orgs that are TC</em> and not
+<em>Causes that are TC</em>. When I read that <a href="https://forum.effectivealtruism.org/posts/RCvetzfDnBNFX7pLH/personal-thoughts-on-careers-in-ai-policy-and-strategy">AI strategy is TC with the
+lack of “Disentanglement Research” (DR)</a>, I don’t know what to do about
+it. But if I know FHI and many other orgs are TC in DR, then I could
+potentially upskill in DR, and close the talent gap. So looking at
+causes for me, is less helpful, less concrete and is not what I have
+set out to understand.</p>
+
+<h2 id="why-i-think-ea-is-tc">Why I think EA is TC</h2>
+
+<p>EA has been and is talent constrained, according to surveys based on
+input from several EA orgs<sup id="fnref:6" role="doc-noteref"><a href="#fn:6" class="footnote" rel="footnote">4</a></sup>: <a href="https://80000hours.org/2017/11/talent-gaps-survey-2017/">2017 survey</a>, <a href="https://80000hours.org/2018/10/2018-talent-gaps-survey/#appendix-2-answers-to-open-comment-questions">2018 survey</a>,
+<a href="https://forum.effectivealtruism.org/posts/TpoeJ9A2G5Sipxfit/ea-leaders-forum-survey-on-ea-priorities-data-and-analysis">2019 survey</a>. These surveys were conducted by 80k and CEA.
+In all the surveys EAs on average claim to be more Talent Constrained
+than Funding Constrained. For example, in 2019 EA orgs reported feeling
+more Talent Constrained (3 out of 5 rating) and less Funding
+Constrained (1 out of 5 rating)<sup id="fnref:11" role="doc-noteref"><a href="#fn:11" class="footnote" rel="footnote">5</a></sup>.</p>
+
+<p>80k doesn’t seem to have changed it’s position on this matter
+since a while. In 2015, 80k suggested that we should focus on
+providing talent to the community rather than ETG, in <a href="https://80000hours.org/2015/11/why-you-should-focus-more-on-talent-gaps-not-funding-gaps/">“Why you should
+focus on talent gaps and not funding gaps”</a>. One of the examples
+they give is about AI Safety where there are people who are ready to
+donate even more funds, but think there isn’t enough “talent
+pool”. More posts such as <a href="https://80000hours.org/career-reviews/working-at-effective-altruist-organisations/">“Working at EA orgs</a> (June 2017), <a href="https://80000hours.org/podcast/episodes/the-world-desperately-needs-ai-strategists-heres-how-to-become-one/">“The
+world desperately needs AI strategists</a> (June 2017), “<a href="https://80000hours.org/articles/operations-management/">Why
+operations management is the biggest bottleneck in EA</a>” (March
+2018), and <a href="https://80000hours.org/articles/high-impact-careers/">High-Impact-Careers</a> (Aug 2018), continue to make the
+case for EA orgs being TC. Even in their recent post, <a href="https://80000hours.org/key-ideas/#priority-paths">“Key
+Ideas”</a> (October 2019)–which is mostly recycled from the 2018 article
+on <a href="https://80000hours.org/articles/high-impact-careers/">High-Impact-Careers</a>–they continue to say that the bottleneck
+to GPR for example, is researchers and operations people<sup id="fnref:10" role="doc-noteref"><a href="#fn:10" class="footnote" rel="footnote">6</a></sup>.</p>
+
+<p>In Nov 2018, they wrote a post to clarify any misconceptions regarding
+the understanding of the term TC: <a href="https://80000hours.org/2018/11/clarifying-talent-gaps/">“Think twice before talking about
+Talent gaps”</a>. 80k informs us that EA orgs are not TC in general
+but are TC by specific skills. Some examples (according to them)
+being, people capable of Disentanglement Research in Strategy and
+Policy (FHI, OpenAI, Deepmind), dedicated people in influential
+government positions etc… This is great, the claim is becoming
+narrower: <em>EA is TC in specifically X</em>. So what is this X?</p>
+
+<h2 id="where-is-the-ea-specifically-tc">Where is the EA specifically TC</h2>
+
+<p>There seem to be a list of posts from 80k from which we can
+gather where EA is specifically TC. They are:</p>
+
+<ul>
+  <li>Surveys (<a href="https://80000hours.org/2017/11/talent-gaps-survey-2017/">2017</a>, <a href="https://80000hours.org/2018/10/2018-talent-gaps-survey/">2018</a>, <a href="https://forum.effectivealtruism.org/posts/TpoeJ9A2G5Sipxfit/ea-leaders-forum-survey-on-ea-priorities-data-and-analysis">2019</a>)</li>
+  <li>Bottlenecks in <a href="https://80000hours.org/key-ideas/#priority-paths">top problem profiles</a> (<a href="https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/">Shaping AI</a>, <a href="https://80000hours.org/career-reviews/working-at-effective-altruist-organisations/">Working
+in an EA orgs</a>, <a href="https://80000hours.org/problem-profiles/global-priorities-research/#what-is-most-needed-to-solve-this-problem">GPR</a> etc…)</li>
+  <li>Posts on priority career paths (<a href="https://80000hours.org/articles/high-impact-careers/">High Impact Careers</a>,
+<a href="https://80000hours.org/key-ideas/#priority-paths">Key-ideas</a>)</li>
+  <li>Focused bottleneck posts (for <a href="https://80000hours.org/podcast/episodes/the-world-desperately-needs-ai-strategists-heres-how-to-become-one/">AI strategists</a> and <a href="https://80000hours.org/articles/operations-management/">Operations</a>)</li>
+</ul>
+
+<p><strong>The surveys</strong> from 2017 to 2019 that informed us that the EA Orgs
+are TC, provide information on “what sort of talent the EA orgs and EA
+as a whole would need more of, in the next 5 years?”. This question
+sounds like a proxy to “Where is EA specifically TC?”. 80k seems
+to agree with this proxy-approximation of the question as evidenced
+<a href="https://80000hours.org/articles/high-impact-careers/#our-list-of-priority-paths">here</a><sup id="fnref:7" role="doc-noteref"><a href="#fn:7" class="footnote" rel="footnote">7</a></sup> and <a href="https://80000hours.org/career-reviews/working-at-effective-altruist-organisations/#what-skills-are-the-organisations-most-short-of">here</a><sup id="fnref:8" role="doc-noteref"><a href="#fn:8" class="footnote" rel="footnote">8</a></sup>. The top 7 results (out of 20 or so) are
+below:</p>
+
+<table class="tablestyletwo">
+  <thead>
+    <tr>
+      <th> </th>
+      <th>2017</th>
+      <th>2017 (EA)</th>
+      <th>2018</th>
+      <th>2018 (EA)</th>
+      <th>2019</th>
+      <th>2019 (EA)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>GR</td>
+      <td>G&amp;P</td>
+      <td>Oper.</td>
+      <td>G&amp;P</td>
+      <td>GR</td>
+      <td>G&amp;P</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Good Calib.</td>
+      <td>Good Calib.</td>
+      <td>Mngment</td>
+      <td>Oper.</td>
+      <td>Oper.</td>
+      <td>Mngment</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Mngment</td>
+      <td>Mngment</td>
+      <td>GR</td>
+      <td>ML/AI</td>
+      <td>Mngment</td>
+      <td>GPR</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Off. mngers</td>
+      <td>ML/AI</td>
+      <td>ML/AI</td>
+      <td>Mngment</td>
+      <td>ML</td>
+      <td>Founding</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Oper.</td>
+      <td>Movt. build</td>
+      <td>GPR</td>
+      <td>GPR</td>
+      <td>Econ/math</td>
+      <td>Soc. Skill</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Math</td>
+      <td>GR</td>
+      <td>Founder</td>
+      <td>GR</td>
+      <td>HighEA*</td>
+      <td>ML/AI</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>ML/AI</td>
+      <td>Oper.</td>
+      <td>Soc. skill</td>
+      <td>Founding</td>
+      <td>GPR</td>
+      <td>Movt. Build</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>* High level overview of EA<br />
+*** Government and Policy</p>
+
+<p>For the talents that are unclear<sup id="fnref:20" role="doc-noteref"><a href="#fn:20" class="footnote" rel="footnote">9</a></sup>, I am unable to do anything with
+them at the moment. For the ones that I have clear examples for, I
+proceed further.</p>
+
+<p>Another way to arrive at or to supplement this list, is to look at the
+<strong><a href="https://80000hours.org/articles/high-impact-careers/#our-list-of-priority-paths">top problem profiles</a></strong> and check what the bottlenecks are. For
+example, in the <a href="https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/#what-can-you-do-to-help">profile on shaping AI</a> (March 2017), we see that
+80k calls for people to help in AI Technical research, AI
+Strategy and Policy, Complimentary roles and, Advocacy and Capacity
+building. So basically EVERYTHING IN AI except ETG, is TC (it
+appears). In the problem profile on <a href="https://80000hours.org/problem-profiles/global-priorities-research/#what-is-most-needed-to-solve-this-problem">GPR</a> (July 2018), 80k
+suggests that they mainly need researchers trained in math, econ, phil
+etc… Also needed are academic managers and operations staff. A very
+similar story for <a href="https://80000hours.org/career-reviews/working-at-effective-altruist-organisations/#what-skills-are-the-organisations-most-short-of">working at EA orgs</a> as well.</p>
+
+<p>Is it just me or is EA TC in “general”? Like when researchers,
+operations people and managers are in shortage at GPR orgs, AI orgs
+and other EA orgs, then who else is left?</p>
+
+<p>In the post on <a href="https://80000hours.org/articles/high-impact-careers/#why-did-we-choose-these-categories">High Impact Careers</a> (August 2018), 80k
+suggests the following <strong>priority career paths</strong> and what they are
+constrained by:</p>
+
+<blockquote>
+  <p>In brief, we think our list of top problems (AI safety, biorisk, EA,
+GPR, nuclear security, institutional decision-making) are mainly
+constrained by research insights, either those that directly solve
+the issue or insights about policy solutions. — <a href="https://80000hours.org/articles/high-impact-careers/">High Impact
+Careers</a></p>
+</blockquote>
+
+<!--- AI strategy and Policy research
+- AI safety technical research
+- Grant maker focused on top areas
+- Work in effective Altruism orgs
+- Global priorities researcher
+- Bio-risk strategy and policy
+- China Specialists
+- Earning to give in quant trading
+- Decision making psychology research and roles-->
+
+<p>In <strong>focused bottleneck posts</strong> for Operations and AI Strategy just
+the title already informs how TC the situation is:</p>
+
+<ul>
+  <li>
+    <p><a href="https://80000hours.org/podcast/episodes/the-world-desperately-needs-ai-strategists-heres-how-to-become-one/">The world desperately needs AI strategists</a> (June 2017)</p>
+
+    <p>Here, other than the title, I didn’t really understand the
+  “desperate need for AI strategists”. Miles expects that “many”
+  jobs would open up in the “future”.</p>
+  </li>
+  <li>
+    <p><a href="https://80000hours.org/articles/operations-management/#which-traits-do-you-need">Why operations management is one of the biggest bottlenecks in
+effective altruism</a> (March 2018)</p>
+
+    <p>80k updated this post one year later saying that the post is
+“somewhat out of date”, and that the job market has changed over the
+last year. That sounds plausible.</p>
+  </li>
+</ul>
+
+<p>In conclusion, the surveys say GRs, ML/AI people, GPR people and
+movement building are TC (2019). The problem profiles seem to suggest
+that GPR and AI are completely TC except for ETG (2017,2018). Whereas
+the High-impact-careers post says that research insights (good
+researchers) and policy solutions (good policy people) are the most
+constrained (2018). It appears that there is some discrepancy between
+different articles–every article doesn’t seem to say the same
+thing–but we move on with the key message that all these things
+listed could be potentially TC. But are they really TC though?</p>
+
+<h2 id="the-evidence">The Evidence</h2>
+
+<p><strong>GR in GPR</strong></p>
+
+<p>Researchers in GPR are claimed to be constrained. GR’s also stand on
+top of the survey lists shown before, for 2019. Yet, <a href="https://www.openphilanthropy.org/blog/reflections-our-2018-generalist-research-analyst-recruiting">Open Phil seems
+to paint a very different picture</a>. For the recent hiring round by
+Open Phil (started in Feb 2018 and ended in December 2018) they wanted
+to hire 5 GRs. They report that more than a 100 strong resumes with
+missions aligned to that of Open Phil were received. 59 of them were selected
+after remote work tests and went into an interview. Of this, 17 of
+them were offered a 3 month trial and 5 selected in the end. “Multiple
+people” they met in this round are claimed to have potential to excel
+in roles at Open Phil in the future. Open Phil does not seem to feel
+that there is a lack of skilled people. It appears that they had
+plenty to choose from and that they have found suitable candidates.</p>
+
+<p>A similar case is observed with EAF. In <a href="https://forum.effectivealtruism.org/posts/d3cupMrngEArCygNk/takeaways-from-eaf-s-hiring-round">EAF’s November 2018 hiring
+round</a> they wanted to hire 1 GR (<a href="https://ea-foundation.org/open-position-research-analyst/">for grant evaluation</a>) and 1
+operations person. <em>Within just 2 weeks, 66 people applied to this
+EA org which was in a <a href="./career-2020-where-to-work-2.html">non-hub</a></em><sup id="fnref:14" role="doc-noteref"><a href="#fn:14" class="footnote" rel="footnote">10</a></sup>. These 66 trickled down to 10
+interviews after work tests, 4 were offered trials and 2 were selected
+in the end. No TC in GR here either.</p>
+
+<p>Would Open Phil like to hire more GRs? For sure, but they don’t have
+the capability to deploy such a pool of available talent, they
+say. They seem to be constrained by something else, something not
+“talent”.</p>
+
+<hr />
+
+<p><br /></p>
+
+<p><strong>AI Strategy and Policy</strong></p>
+
+<p>Researchers in AI Strategy and Policy are also claimed to be
+constrained. The surveys echo the same as well. But <a href="https://forum.effectivealtruism.org/posts/RCvetzfDnBNFX7pLH/personal-thoughts-on-careers-in-ai-policy-and-strategy">Carrick from
+FHI</a> (Sep 2017) suggests that AI Policy implementation and research
+work is essentially on hold until Disentanglement Research
+progresses. And that even <em>“extremely talented people” will not be
+able to contribute directly</em> until then. Similar to Open Phil,
+institutional capacity to absorb and utilize more researchers in
+Strategy is constrained, according to Carrick. It must be noted that
+this is just one persons view on the matter and that a stronger
+version of evidence for this would be if several AI orgs agreed with
+Carrick’s view.</p>
+
+<p><em>Except for the TC in Disentanglement research (DR)</em>—where there
+seems to be large demand and if you meet the bar, you will get a
+job—there seems to be no sign of TC in Strategy and Policy, at the
+moment.</p>
+
+<p>Once DR progresses, there would be a need for “a lot of AI
+researchers”, Carrick expects. It’s been 2.5 years since the post by
+Carrick, and as late as Nov 2018, <a href="https://80000hours.org/2018/11/clarifying-talent-gaps/">80k continues to cite Carrick’s
+article</a>. This seems to suggest that not much might have changed. I
+<a href="https://forum.effectivealtruism.org/posts/RCvetzfDnBNFX7pLH/personal-thoughts-on-careers-in-ai-policy-and-strategy?commentId=a2o5mTK2YuZswqic6">have tried requesting Carrick</a> to write a reboot of his initial
+post and hopefully he can further clarify the TC or lack there of.</p>
+
+<!--**Note**: *This article by Carrick was written in September 2017
+and I am not sure what is the update in Feb 2020. Most articles on [AI
+strategy and Policy are written in
+2017](https://80000hours.org/topic/priority-paths/ai-policy/). As late
+as November 2018, this article by Carrick is still being [cited by
+80k](https://80000hours.org/2018/11/clarifying-talent-gaps/). This
+suggests that they might not have changed "much". But they claim in
+the future they would need "a lot of AI researchers" working on
+this.*-->
+
+<hr />
+
+<p><br /></p>
+
+<p><strong>Researchers and Management staff in other EA orgs</strong></p>
+
+<p>The co-founder and board member of Rethink Charity seems to suggest
+that both senior and junior staff for Rethink Charity and Charity
+Science were not hard to find, aka not TC.</p>
+
+<blockquote>
+  <p>I’ve certainly had no problem finding junior staff for Rethink
+Priorities, Rethink Charity, or Charity Science (Note: Rethink
+Priorities is part of Rethink Charity but both are entirely separate
+from Charity Science)… and so far we’ve been lucky enough to have
+enough strong senior staff applications that we’re still finding
+ourselves turning down really strong applicants we would otherwise
+really love to hire.—<a href="https://forum.effectivealtruism.org/posts/7bp9Qjy7rCtuhGChs/survey-of-ea-org-leaders-about-what-skills-and-experience?commentId=ySRBeBocRz7oSahAC">Peter Hurford says in the 2019 survey</a></p>
+</blockquote>
+
+<!-- 
+> Based at least on my recent hiring for Rethink Priorities, I can
+> definitely confirm this is true, at least for us. We ended up
+> completely overwhelmed with high-quality applicants beyond our
+> wildest dreams. As a result we're dramatically scaling up as fast as
+> we can to hire as many great applicants as we can responsibly,
+> taking on a bunch of risk to do so. Even with all of that additional
+> effort, we still had to reject numerous high-quality candidates that
+> we would've otherwise loved to work with, if only we had more
+> funding / management capacity / could grow the team even faster
+> without overwhelming everyone.-->
+
+<p>The Life You Can Save’s Jon Behar, <a href="https://forum.effectivealtruism.org/posts/7bp9Qjy7rCtuhGChs/survey-of-ea-org-leaders-about-what-skills-and-experience?commentId=tojT8rKhwCz9rfJbB">agrees with Peter</a>. He adds
+that it’s not the lack of talent but the lack of money to add new
+staff which is the bottleneck for TLYCS.</p>
+
+<p>Charity Entrepreneurship’s incubation program has grown from <a href="https://forum.effectivealtruism.org/posts/fNRSGinhWqPZtuo3T/application-process-for-the-2019-charity-entrepreneurship">140
+applications</a> to ~2000 applications for 15-20 positions since last
+year. It’s plausibly not TC this year atleast.</p>
+
+<hr />
+
+<p><br /></p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>An org is TC in Talent X, if it is not able to find “skilled” people
+despite “hiring actively”. So far we have seen that Open Phil, EAF,
+Rethink Charity, Charity Science, TLYCS and FHI, are able to find the
+skilled people they need–except for one concrete example of
+Disentanglement Research in FHI (and possibly similar institutes).
+Contrary to the claims from 80k, it appears that several orgs are
+not TC.</p>
+
+<p>I am really upset with 80k. First it was focusing too much on career
+capital (CC) and positions like management consulting, and now
+TC. Getting into the TC debate only opened a Pandora’s box of more
+issues. Recently, I discovered that their discussion on
+<a href="https://80000hours.org/career-reviews/working-at-effective-altruist-organisations/#but-wont-i-be-replaceable">replaceability</a> is plausibly <a href="https://forum.effectivealtruism.org/posts/7bp9Qjy7rCtuhGChs/survey-of-ea-org-leaders-about-what-skills-and-experience?commentId=sCXPW4BWKWdkdyK2q">wrong</a>. They have <a href="https://80000hours.org/search/?cx=007036038893981741514%3Ad-war0ad7jy&amp;cof=FORID%3A11&amp;q=replaceability">gone back and
+forth</a><sup id="fnref:15" role="doc-noteref"><a href="#fn:15" class="footnote" rel="footnote">11</a></sup> on it in the past and currently have suggested that it
+<a href="https://80000hours.org/2019/08/how-replaceable-are-top-candidates-in-large-hiring-rounds/">depends</a>. They ended up <a href="https://80000hours.org/2018/10/2018-talent-gaps-survey/#ea-leaders-are-willing-to-sacrifice-a-lot-of-extra-donations-to-hold-on-to-their-most-recent-hires">inflating impact associated with people
+working in EA orgs</a> and <a href="https://forum.effectivealtruism.org/posts/pzEJmc5gRskHjGTak/many-ea-orgs-say-they-place-a-lot-of-financial-value-on">have now taken it back</a>. They <a href="https://80000hours.org/career-reviews/working-at-effective-altruist-organisations/#how-to-assess-your-personal-fit">severely
+downplayed how competitive it is to get jobs in EA orgs</a><sup id="fnref:16" role="doc-noteref"><a href="#fn:16" class="footnote" rel="footnote">12</a></sup>. And
+there are <a href="https://forum.effectivealtruism.org/posts/jmbP9rwXncfa32seH/after-one-year-of-applying-for-ea-jobs-it-is-really-really">so many cases</a><sup id="fnref:12" role="doc-noteref"><a href="#fn:12" class="footnote" rel="footnote">13</a></sup> of people who feel the same way, not
+without reason. I traveled with 80k on the CC hype and spent months on
+identifying positions of “maximum CC”<sup id="fnref:19" role="doc-noteref"><a href="#fn:19" class="footnote" rel="footnote">14</a></sup>. Then I did a 1 year course
+of Data Science at Coursera. After that I jumped onto the
+<em>work-at-an-EA-org-because-TC</em> hype and was just about to upskill in
+statistics and apply for GR positions because <em>they need me</em>.</p>
+
+<p>So many crucial mistakes that cost people like me and others<sup id="fnref:12:1" role="doc-noteref"><a href="#fn:12" class="footnote" rel="footnote">13</a></sup> a
+lot of time, and the world a “lot of” dollars. And when someone
+requests one of the members of 80k to not just serve the elite
+and that perhaps maybe invest in a small conversation with the
+non-elite EAs to save them years of wasting time, <a href="https://forum.effectivealtruism.org/posts/jmbP9rwXncfa32seH/after-one-year-of-applying-for-ea-jobs-it-is-really-really?commentId=no7FouoZDjPZuxCwr">there is no
+reply</a>.</p>
+
+<p>Thus, I find it very hard to trust the claims listed in 80k. And there
+are so <a href="https://80000hours.org/key-ideas/">many of those</a> claims in every post and it’s just
+impractical to verify each one of them. Rather than relying on the
+interpretation of English<sup id="fnref:17" role="doc-noteref"><a href="#fn:17" class="footnote" rel="footnote">15</a></sup> and generalization of advice for
+everyone, I find EA forums a much easier place to get information
+from, challenge claims and get responses for (quickly). I found most
+of the evidence against TC including the Pandora’s box of issues,
+there. A lot of the successful people from the EA world seem
+approachable there with chats, comments and AMAs. Recently I was able
+to chat with Ben West, Aaron Gertler, Peter Hurford, Jon Behar, Jeff
+Kaufman and Stefan Torges. A bigger celebrity list of people can be
+seen commenting in posts, such as Carrick Flynn and 80k’s very own Rob
+Wiblin.</p>
+
+<!-- Why "so many" organizations reported that they were TC in the surveys -->
+<!-- is hard to determine. Maybe it was a generalization problem or the -->
+<!-- times changed too quickly or things got lost in translation or the -->
+<!-- definition changed over time or something else. I can only speculate. -->
+
+<h2 id="final-message">Final message</h2>
+
+<p><strong>Caution</strong>: Just because an org is not TC, it doesn’t mean that you
+should reject that org.</p>
+
+<p><strong>Why is this debate so important?</strong></p>
+
+<p>Whether an org is TC or not, has implications on the impact made. The
+true impact you make when a job is TC at an EA org is (much) higher,
+than when the job is not TC. A junior GR at GiveWell is expected to
+move 2.4m<span>$</span> if the job was TC. The same GR is expected to
+move only <a href="https://80000hours.org/2016/08/reflections-from-a-givewell-employee/">244k</a> in the case that the hired GR is better than the
+next-best-candidate by 10% (Not TC). Such is the distinction between
+being TC and not.</p>
+
+<p>The above example assumes no <a href="https://80000hours.org/career-reviews/working-at-effective-altruist-organisations/#but-wont-i-be-replaceable">spillover effects</a>. But is that
+correct? Why is there no spillover? Should I work in EA or not? How
+much value do people really get out of working at an EA org? What is
+best path for my aspiring EA career?</p>
+
+<p>Stay tuned…</p>
+
+<!--Consider A and B applying for a job at an EA org that is not TC. This
+means it is A can contribute 500k<span>$</span> value and B can
+contribute 400k<span>$</span> value for the same job. For simplicity,
+let's assume they produce little or no value if A or B does not take
+take up that job.
+
+Total value created for the world if A sits idle at home: 400k  
+Total value created if A takes the job: 500k.  
+Total value if A does ETG (for 100k) and B takes the job: 500k -->
+
+<h2 id="stm-feedback">STM feedback</h2>
+
+<p>Machan,</p>
+
+<blockquote>
+  <p>BTW: http://agent18.github.io/is-ea-bottlenecked-2.html (Uyir a
+koduthu eluthirkain;80hrs ezhuthirkain, need some meha critical
+feedback on writing, any potential claim evidence fuckups etc…)</p>
+</blockquote>
+
+<p>I would pause immediately at the term “talent-constrained”. I don’t
+understand it. The first step is to describe the claim “X is
+talent-constrained” in terms of <strong>familiar claims</strong> so that you can
+actually test the claim against evidence. Do you mean that there is a
+low rejection rate for PhD applicants?</p>
+
+<p>A related issue is that, for the same claim, you’re <strong>switching between
+evidence in the form of surveys and evidence in the form of rejection
+rates</strong>. If the claim is about rejection rates, then you either have the
+numbers or you don’t. If you don’t, you can’t test that claim against
+a concrete example. If the claim is about surveys, then you’ll have to
+use the survey. Right now, you’re taking the same claim and mixing
+multiple kinds of evidence, such as surveys and 80k opinion posts and
+rejection rates, which left me at the end with no clear answer.</p>
+
+<p>So, split the different kinds of claims: “EA has high rejection rates”
+and “EA surveys have high percentages saying the words ‘we are
+talent-constrained’”. You can even make the claims more precise:
+“Operations manager roles have high rejection rates for candidates
+with 2 years of similar experience” - notice how you can immediately
+test that claim given concrete examples.</p>
+
+<p>Contrast that to “In brief, we think our list of top problems … are
+mainly constrained by research insights”. How do you test that given
+some data? Imagine if they’d said “Salaries went up by 20% last year
+but number of open questions solved in published papers went down by
+40%”. We can debate whether “number of open questions solved” has been
+a useful metric but there’s no question that we can test that claim
+against evidence.</p>
+
+<hr />
+
+<p>On a different note, a key point that is missing from the analysis,
+here and elsewhere, is that we talk about a shortage <strong><em>for a given
+price</em></strong>. We don’t say that there is no supply of onions. We say there
+is no supply of onions at Rs 10/kg. When the price has eventually
+risen due to lack of supply, people have even transported onions from
+other countries to supply them for a profit.</p>
+
+<p>Saying that there is a lack of “talent” or researchers for a given
+role doesn’t make much sense unless you talk about the current
+salary. But people are talking as though, no matter the salary, there
+is not enough talent in the world to do this research. People have in
+the past moved from country to country and from job to job for higher
+pay (and other desired characteristics like climate and family
+members). There are a lot of well-published PhDs and postdocs working
+on all kinds of other research areas for much less than six-figures
+and a lot of professors and researchers working for not too much
+more. Is the claim that they won’t switch for a 2x salary or that they
+can’t study and catch up on the slightly different field in a few
+years? If the EA organizations were “desperate” for a particular kind
+of researcher, did they raise the salary a lot? If they didn’t have
+enough funds to raise salaries, then aren’t
+they… “funding-constrained”? Are the two “constraints” actually
+distinct?</p>
+
+<hr />
+
+<p>Mission #6: For now, I recommend <strong>rewriting the post after splitting
+the claims till you have narrow claims</strong> that are either tested with
+examples or don’t have any available examples. <strong>Check if</strong> you see
+any lingering confusion or <strong>ambiguity</strong> at the end. One week should
+be enough time.</p>
+
+<h2 id="footnotes">Footnotes</h2>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:13" role="doc-endnote">
+      <p>I approched with questions on DS and they informed me that they
+don’t give advice over email. I applied for coaching and didn’t
+make the cut. What I asked?</p>
+
+      <ul>
+        <li>Do I gain sufficient skills to migrate to Direct work (say analyst
+in GiveWell) having worked in Management consulting (M.C) for 5
+years?</li>
+      </ul>
+
+      <p>This is in case things don’t seem to work out towards becoming a partner.</p>
+
+      <ul>
+        <li>Are there examples of high impact direct workers who came from M.C?</li>
+      </ul>
+
+      <p>I would like to scan their profile to get a feel of what is possible. <a href="#fnref:13" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:4" role="doc-endnote">
+      <p>EAF seems to offer career coaching <a href="https://ea-foundation.org/career-coaching/">here</a>.</p>
+
+      <p>EAF’s operations analyst is also doing coaching <a href="https://danielkestenholz.org/coaching/">here</a>. <a href="#fnref:4" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:3" role="doc-endnote">
+      <p>If 80k on the other hand suggested that TC included
+everything that made it hard (such as hiring bottleneck) to find
+people with specific skillsets then TC is such a misnomer. Joel
+from EA forum puts it well:</p>
+
+      <blockquote>
+        <p>I could be mistaken, but it would seem odd to say you’re “funding
+constrained” but can’t use more funding at the moment. Whereas we
+are saying orgs are “talent constrained” but can’t make use of
+available talent… I feel a “talent bottleneck” implies an
+insufficient supply of talent/applicants, which doesn’t seem to be
+the case. I guess it’s more that there’s insufficient talent
+actually working on the problems, but it’s not a matter of supply,
+so it’s more of a “hiring bottleneck” or an “organizational capacity
+bottleneck”.—<a href="https://forum.effectivealtruism.org/posts/pzEJmc5gRskHjGTak/many-ea-orgs-say-they-place-a-lot-of-financial-value-on?commentId=r3vv6HWvZ8riBfLEM#r3vv6HWvZ8riBfLEM">Joel EA Forum</a></p>
+      </blockquote>
+      <p><a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:6" role="doc-endnote">
+      <p>2018 survey includes:</p>
+
+      <blockquote>
+        <p>80,000 Hours (3), AI Impacts (1), Animal Charity Evaluators (2),
+Center for Applied Rationality (2), Centre for Effective Altruism
+(2), Centre for the Study of Existential Risk (1), Berkeley Center
+for Human-Compatible AI (1), Charity Science: Health (1), DeepMind
+(1), Foundational Research Institute (2), Future of Humanity
+Institute (2), GiveWell (1), Global Priorities Institute (2),
+LessWrong (1), Machine Intelligence Research Institute (1), Open
+Philanthropy Project (4), OpenAI (1), Rethink Charity (2), Sentience
+Institute (1), SparkWave (1), and Other (5)</p>
+      </blockquote>
+      <p><a href="#fnref:6" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:11" role="doc-endnote">
+
+      <p><strong>Funding Constrained</strong></p>
+      <blockquote>
+        <p>1 = how much things cost is never a practical limiting factor for
+you; 5 = you are considering shrinking to avoid running out of money</p>
+      </blockquote>
+
+      <p><strong>Talent constrained</strong></p>
+      <blockquote>
+        <p>1 = you could hire many outstanding candidates who want to work at
+your org if you chose that approach, or had the capacity to absorb
+them, or had the money; 5 = you can’t get any of the people you need
+to grow, or you are losing the good people you have</p>
+      </blockquote>
+      <p><a href="#fnref:11" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:10" role="doc-endnote">
+      <p>80k about GPR: 
+“To make this happen, perhaps the biggest need right now is to
+find more researchers able to make progress on the key questions
+of the field. There is already enough funding available to hire
+more people if they could demonstrate potential in the area
+(though there’s a greater need for funding than with AI safety)”</p>
+
+      <p>“Another bottleneck to progress on global priorities research might be operations staff, as discussed earlier, so that’s another option to consider if you want to work on this issue.” <a href="#fnref:10" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:7" role="doc-endnote">
+
+      <blockquote>
+        <p>These positions are both our own assessment and backed up by
+results of our surveys of community leaders about talent
+constraints, skill needs and key bottlenecks.”</p>
+      </blockquote>
+      <p><a href="#fnref:7" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:8" role="doc-endnote">
+      <blockquote>
+        <p>What skills are the organizations most short of?</p>
+      </blockquote>
+      <p><a href="#fnref:8" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:20" role="doc-endnote">
+
+      <p>There are several talents listed in the surveys which I don’t
+understand. I don’t have any examples for what they could mean. For
+example, “Communications other than marketing and movement building”,
+“high level knowledge and enthusiasm about effective altruism” and
+“broad general knowledge about many relevant topics”.  Some of the
+other “talents” mentioned seem too generalized.  When I think of
+“one-on-one social skills”, it could be referring to anything like
+policy people talking to politicians, or Career Counselors convincing
+people to change their career path, or even people in the frontline of
+fundraising. If the surveyors wanted to inform the community that
+frontline fundraisers are required with “good social skills” (whatever
+that means), then exactly that in the survey seems much more
+beneficial than what they have currently done. Contrast this to
+talents such as GR or Operations. It is clear what these mean. For GR
+I can think of researchers at Open Phil or GiveWell. For operations I
+think of Tara from FHI. <a href="#fnref:20" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:14" role="doc-endnote">
+
+      <blockquote>
+        <p>… following list for SF area: 80khours (SF, Oxford), GiveWell (San
+Francisco), Open Philanthropy project (San Franscisco), 80khours
+(Oxford and SF), OpenAI (SF), MIRI (Berkeley), Center for Applied
+Rationality (Berkeley), AI Impact (Berkeley), Animal Charity
+Evaluator (Berkeley without any office space), Animal Equality (US
+UK),</p>
+      </blockquote>
+
+      <blockquote>
+        <p>The following for UK area: Center for Study of Existential Risk
+(Oxford), Future of Humanity Institute (Oxford, UK), Global
+Priorities Institute (Oxford), Sentience Institute (London), Giving
+What We Can (Oxford), Founders Pledge (London), Centre for Effective
+Altruism (Oxford). Against Malaria Foundation (St. Albans UK),
+Sightsavers (U.K), Founders Pledge (London).</p>
+      </blockquote>
+
+      <blockquote>
+        <p>The following for other areas: Evidence Action (Washington DC),
+Helen Keller International (Washington D.C), Give Directly (NYC),
+Poverty Action Lab (Cambridge, MA, US), Good Food Institute
+(Washington D.C, US), Center for Global Development (Washington D.C,
+US).</p>
+      </blockquote>
+
+      <blockquote>
+        <p>So for the EA community it looks like the clustering does happen in
+UK (Oxford, London) and San Francisco area. These regions are the
+only regions that host the annual EA conferences, not surprisingly.</p>
+      </blockquote>
+      <p><a href="#fnref:14" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:15" role="doc-endnote">
+
+      <p>2012: They seem to be suggesting <a href="https://80000hours.org/2012/01/just-what-is-making-a-difference-counterfactuals-and-career-choice/">here</a> while talking about
+doctors, aid workers, campaigners, “That’s because careers that are
+normally thought to be ethical tend to be extremely competitive. That
+means that if you don’t take the job, someone else will take your
+place.”</p>
+
+      <p>2014: They went on to suggest that <a href="https://80000hours.org/2015/07/replaceability-isnt-as-important-as-you-might-think-or-weve-suggested/">replaceability might not be as
+important as you might think</a>. In 2017 they seem to continue to
+promote that idea in “<a href="https://80000hours.org/career-reviews/working-at-effective-altruist-organisations/#but-wont-i-be-replaceable">Working at effective altruist
+organizations</a>”.</p>
+
+      <p>In 2019 article on “<a href="https://80000hours.org/2019/08/how-replaceable-are-top-candidates-in-large-hiring-rounds/">how replaceable are top candidates in large
+hiring rounds</a>”, they seem to suggest that it depends on the type
+of distribution of the candidates (log normal or normal). <a href="#fnref:15" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:16" role="doc-endnote">
+
+      <p>Claim: “If you get involved in the community, and prove your interest
+and general competence, there’s a <em>decent chance</em> you’ll be able to
+find a role regardless of your qualifications and experience.”</p>
+
+      <p>Example: <a href="https://forum.effectivealtruism.org/posts/jmbP9rwXncfa32seH/after-one-year-of-applying-for-ea-jobs-it-is-really-really">EA applicant</a> from EA forum.</p>
+
+      <p>He applied to 20 jobs. He didn’t get a single job, neither did his
+friends–with the characteristics as above– get jobs. His
+<a href="https://drive.google.com/file/d/1E8DLudgTYxJcESvhSdozgA36LQU0oMnN/view?usp=sharing">profile</a> seems to match the one in the claim.</p>
+
+      <p><strong>Note</strong>: The claim says “decent chance” and not “for sure” though. I
+give them that. Although many people seem interpret it differently. <a href="#fnref:16" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:12" role="doc-endnote">
+      <p>Links of posts where people were completely misinformed about
+how competitive the EA world is (look in the comments as well):</p>
+
+      <ol>
+        <li>
+          <p>https://forum.effectivealtruism.org/posts/jmbP9rwXncfa32seH/after-one-year-of-applying-for-ea-jobs-it-is-really-really</p>
+        </li>
+        <li>
+          <p>https://www.facebook.com/groups/473795076132698/permalink/1077231712455695/</p>
+        </li>
+        <li>
+          <p>https://physticuffs.tumblr.com/post/183108805284/slatestarscratchpad-this-post-is-venting-it</p>
+        </li>
+      </ol>
+      <p><a href="#fnref:12" class="reversefootnote" role="doc-backlink">&#8617;</a> <a href="#fnref:12:1" class="reversefootnote" role="doc-backlink">&#8617;<sup>2</sup></a></p>
+    </li>
+    <li id="fn:19" role="doc-endnote">
+
+      <p>I am not a big fan of these broad terminologies as they don’t allow ME
+to act on them. For example, “Best ways to gain Career Capital (CC)
+are: Work at a growing organisation that has a reputation for high
+performance; Getting a graduate degree; Working in Tech sector; Taking
+a data science job; Working in think tanks; Making “good connections”,
+Having runway etc… “ Literally everything under the sun.</p>
+
+      <p>I am unable to act on it. I could in theory pursue everything. I don’t
+know how to compare which has higher CC and lower CC. The definition
+says: “CC puts you in a better position to make a difference in the
+future, including skills, connections, credentials and runway.” When I
+work in Data Science in a FAANG job do I have higher CC compared to
+when I work on a computer science degree? I don’t know.</p>
+
+      <p>Economists routinely measure the impact of high-school dropout vs
+high-school diploma vs some years of college but dropout vs undergrad
+degree vs grad degree, in different fields, using the variable “median
+weekly earnings” or “lifetime earnings”. So when someone says, “you
+need a degree to get ahead in life”, I can imagine what they mean $470
+weekly wage increase. Whereas when someone says, “Computer Science PhD
+is good CC”, I am lost. Contrast that to saying “Best ways to gain CC
+is by looking at earnings”. Then I could look at median earnings for
+Data Science Faang job vs Phd in computer science in say top 20
+university (based on my capability) and get ahead in life. <a href="#fnref:19" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:17" role="doc-endnote">
+
+      <p>“If you get involved in the community, and prove your interest and
+general competence, there’s a decent chance you’ll be able to find a
+role regardless of your qualifications and experience.” — <a href="https://80000hours.org/career-reviews/working-at-effective-altruist-organisations/#how-to-assess-your-personal-fit">80k</a></p>
+
+      <p>This seems to imply to me that people like <a href="https://forum.effectivealtruism.org/posts/jmbP9rwXncfa32seH/after-one-year-of-applying-for-ea-jobs-it-is-really-really">EA applicant</a> should
+have gotten a job. But he didn’t. I think examples would be much
+better to understand what they mean. What does decent chance mean? <a href="#fnref:17" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

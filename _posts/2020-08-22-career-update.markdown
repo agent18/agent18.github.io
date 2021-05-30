@@ -9,7 +9,7 @@ permalink: /:title.html
 published: true
 ---
 
-## Feedback from an STM
+## Feedback from STM
 
 In the [last essay](/the-last-dance-career.html) I had looked at the impact of Data Science (DS)
 career vs an EA career. I hadn't looked at the lifetime calculations

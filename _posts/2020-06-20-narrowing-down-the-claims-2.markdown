@@ -9,251 +9,16 @@ permalink: /:title.html
 published: true
 ---
 
-## Feedback from the previous post
-
-> In the following discussion, I have not used "for a given pay" as I
-> don't have any examples for them. Similarly, certain positions such
-> as director of operations or fundraising people are not considered
-> as I don't have evidence for it.
-
-For future reference, glassdoor.com has salary data points. For
-example,
-https://www.glassdoor.com/Salary/Centre-for-Effective-Altruism-Salaries-E771486.htm.
-
-> Number of "good quality" people ...  Looking at the acceptance rates
-> it appears that EA Orgs are hard to get in just like the top
-> Universities. I am unsure anything related to the number of "good
-> quality" people can be derived from here.
-
-Need to further break down "number of 'good quality' people". Are we
-talking about (a) the number of people in the world with a certain
-level of qualification (say, PhD in Economics and 2 years of work
-experience), whether or not they work in one of the EA organizations,
-(b) the number of people who applied for a particular job posting, or
-(c) the number of people who were hired?
-
-(What is this "quality" you speak of?)
-
-> EA Orgs seem to think that there are more candidates fit for the job
-> than the ones they hired in research. OPP said they got more than
-> 100s of good resumes for the GR positions. In the end they thought
-> multiple people from the pool who didn't make it, would exceed at
-> OPP in the future.
-
-> EA orgs seem to think that there are NOT many candidates fit for the
-> job than the ones they hired in Entrepreneurship. CE had ~20
-> positions and were able to fill only 17 in 2019. But in 2020 with
-> more than 10 times the applications as in 2019, it is probable that
-> they have more "acceptable" candidates than the people they hire.
-
-What they say and think about the number of candidates fit for the job
-is different from the number of people hired or the other claims we
-saw above. Stick to one claim at a time. See what happens when you
-don't try to test the claim "holistically".
-
-> Funding: Short on cash to hire people
->
-> Meta Orgs don't seem to be affected by funding while considering
-> hiring researchers. OPP said, "our current ability to immediately
-> assess and deploy this base of available talent is weak". It is not
-> clear if hiring is affected by funding in Longtermism Orgs. There is
-> not info I can find regarding this on MIRI for example.
-
-short on cash"? "affected by funding"? "ability to immediately deploy
-available talent is weak"?
-
-Unfortunately, my dictionary is defective and seems to have omitted
-those words, so I'm having a hard time following this.
-
-How are you supposed to test the claim that someone is "short on
-cash"? He didn't hire a million people? Even Bill Gates didn't hire a
-million people.
-
-Contrast that to: this year's hiring budget. Even if that number is
-not directly available, you could look at related numbers like last
-year's expenditure on salaries and other overhead, last year's funds
-raised, and thus whatever surplus amount they have for hiring this
-year (this is one way people may decide their hiring budget; they may
-also look at their projected funds raised this year, etc.). Example:
-MIRI budget breakdown -
-https://intelligence.org/2019/12/02/miris-2019-fundraiser/.
-
-So, one way to look at claims of "funding-constrained" is to see the
-growth in budget and check if there was a surplus compared to last
-year and if more of that went into hiring new employees or if it went
-into higher salaries for existing employees, administrative costs
-(like managers or accountants), and higher rent for a bigger office.
-
-Why does this matter? If someone's projected budget is not higher than
-last year's, then he probably doesn't have much budget for hiring new
-employees. In that case, I would predict that donating more would
-probably lead to more hires and thus hopefully more impact (SST). But
-if his projected budget is higher and he still doesn't allocate much
-for new hires, then I wouldn't expect to see more donations to lead to
-more hires and more I-word. Much of that money might go into higher
-salaries or a bigger office (which may or may not lead to less I-word
-but will probably be different from that for new hires).
-
-> PH representing RP, RC, CS says,
->
-> I personally feel much more funding constrained / management
-> capacity constrained / team culture "don't grow too quickly"
-> constrained than I feel "I need more talented applicants"
-> constrained.
-
-WTF.
-
-> However, orgs in GH&P hiring for entrepreneurship don't seem to be
-> short on cash. CE (via mail) says that, they were not having any
-> issues with money, but suggest that this year (2020) the situation
-> might be different due to the 10 times more applications.
-
-"issues with money" vs "budget for new hires"
-
-> Whether you are a new or an old org you seem to want money to get
-> more hires. RP is a new org (founded in 2018) and would like money
-> to get more hires, but so does TLYCS (founded in 2010) and the whole
-> RC (2013) CS franchise according to Peter which were founded many
-> years ago.
-
-This is answering a different kind of question from the question for
-this section. This is about "does the age of the organization affect
-how much they 'seem to want money'?" But the question for this section
-was "are they 'short on cash'?" #SeparateThyClaims
-
-> Some Longtermism Orgs are unable to meet their fundraising targets
-> as small as 1m`$`.
-
-"Longtermism"??
-
-> Time spent
->
-> Total time: 48 hrs (Over 2 weeks) + 9 hrs (another edit after
-> sending it to an STM) Total words: 4700
->
-> Number of days: 13 Avg hrs per day: 3.6hrs (including weekends and 2
-> full days)
-
-Lovely. Keep up the great work, Mr. Agent. 3.6 hours per day calls for
-a nice celebration (alcohol or whatever you prefer as a treat). Here's
-to several thousand hours more.
-
-*****
-
-Mission #7: Here's your mission, should you choose to accept it - take
-up some passage that has **confused** you (could be about work, politics,
-EA, or AI), narrow down its claims, and test them with one concrete
-example each. The **output dimensions** for each claim would be whether
-you have a concrete example for the subject and the predicate and
-whether the example actually talks about the same thing as the claim
-(survey vs acceptance rate).
-
-The twist is that you have to rewrite the sentence till the claims
-without concrete examples are gone. For example, "we are short on
-cash" will become "we have zero budget for new hires this year" plus
-example.
-
-## Important take always
-
-So we have the **claim**, "GiveWell don't seem to be affected by
-funding while hiring researchers". Let's say it is expected to test
-this against **EE** and not with statements such as: "OPP didn't want
-to hire in that round because of ...". Then, I see the problem. I
-can't test the statement. SS Hurts.
-
-Let's try another,
-
-**Claims**: GiveWell "don't want" to hire more researchers ~~not
-because of funding issues~~ despite "having enough funding".
-
-**Note**: Even this is not good. SS is still hurting like hell "don't
-want to hire more researchers", "despite having enough funding".
-
-**re-write Claim**: GiveWell do not allocate more ~~funding~~ money in
-budget than previous year for hiring, despite allocating "more" funds
-to other things like bigger office, higher salaries etc...
-
-**Note**: This seems to be testable by checking budget as an STM has
-informed. *Ufff! that took time to get to.*
-
-**re-write Claim**: GiveWell does not allocate more money in budget
-than previous year for hiring.
-
-**Example-sub**: 
-
-GiveWell 2019 salary expenses: 3.1m USD
-
-GiveWell 2018 salary expenses: 1.9m USD
-
-2019 Salary \> 2018 Salary
-
-[Source: pg 6](https://files.givewell.org/files/ClearFund/GiveWell_TCF_2019_Audited_Financial_Statements.pdf)
-
-**Definition**: Does not check out.
-
-**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
-
-**re-write Claim**: GiveWell allocates more money in its budget for
-Rent.
-
-**Example-sub**: 
-
-GiveWell 2019 Occupancy expenses: 119k USD
-
-GiveWell 2018 Occupancy expenses: 23k USD
-
-2019 expenses \> 2018 expenses
-
-[Source: pg 6](https://files.givewell.org/files/ClearFund/GiveWell_TCF_2019_Audited_Financial_Statements.pdf)
-
-**Definition**: checks out.
-
-**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
-
----
-
-**Lessons**: Make claims testable by removing the fluff ("affected by
-funding"). Agent is struggling with complicated claims ("affected by
-funding"). As soon as you change that complicated part, you can modify
-the claim to make it testable (as shown above). 
-
-## Notes to an STM
-
-I assumed we don't talk about anything less than 200 claims. The above
-format is what I try to keep up with along this excercise:
-
-- Main claims --\> "**Claim**:"  
-
-- sub claims --\> "**re-write Claim**:" 
-
-- sub claims rewritten --\> **re-write Claim**: 
-
-- Line donates the end of a "**Claim**:", not a "**re-write Claim**:" 
-
-- All "Because" claims are skipped as that is not the goal
-  here. "Because" is removed and the claim is treated regularly. 
-  
-  For e.g.,
-  
-  **Claim**: Most developing countries are substantially poorer than
-incomes suggest because of a combination of shorter lives and extreme
-inequality.
-
-	**re-write Claim**: Most developing countries are "substantially
-poorer" than incomes suggests.
-
-	**re-write Claim**: "developing countries" life expectancy is "low"
-compared to "developed countries"
-
-	etc...
-
-- Have not answered claims about the future with "might", "would",
-  "could". Please let me know at the claim itself if I could have done
-  better.
-  
-- What all counts as **EE**, Calculations counts as EE?
-  Cost-effectiveness Calcs from GiveWell (?)
-  
+## Introduction
+
+This is a Deliberate Practice (DP) exercise to break down statements into
+testable claims. This is then tested with 1 example. 
+
+P.S.   
+The power of using at least 1 example is motivated in [this
+post](/why-concrete-thinking.html). I send these DP exercises to a friend who gives me lots of
+detailed feedback. Example of the feedback is shown at the end of this
+Practice session.
 
 ## Essay on bottleneck
 
@@ -6922,4 +6687,250 @@ and next I want to move on to other things...
 <!-- OPP ??? -->
 
 <!-- https://www.openphilanthropy.org/focus/global-health-and-development/science-for-global-health -->
+
+## Feedback from the previous post
+
+> In the following discussion, I have not used "for a given pay" as I
+> don't have any examples for them. Similarly, certain positions such
+> as director of operations or fundraising people are not considered
+> as I don't have evidence for it.
+
+For future reference, glassdoor.com has salary data points. For
+example,
+https://www.glassdoor.com/Salary/Centre-for-Effective-Altruism-Salaries-E771486.htm.
+
+> Number of "good quality" people ...  Looking at the acceptance rates
+> it appears that EA Orgs are hard to get in just like the top
+> Universities. I am unsure anything related to the number of "good
+> quality" people can be derived from here.
+
+Need to further break down "number of 'good quality' people". Are we
+talking about (a) the number of people in the world with a certain
+level of qualification (say, PhD in Economics and 2 years of work
+experience), whether or not they work in one of the EA organizations,
+(b) the number of people who applied for a particular job posting, or
+(c) the number of people who were hired?
+
+(What is this "quality" you speak of?)
+
+> EA Orgs seem to think that there are more candidates fit for the job
+> than the ones they hired in research. OPP said they got more than
+> 100s of good resumes for the GR positions. In the end they thought
+> multiple people from the pool who didn't make it, would exceed at
+> OPP in the future.
+
+> EA orgs seem to think that there are NOT many candidates fit for the
+> job than the ones they hired in Entrepreneurship. CE had ~20
+> positions and were able to fill only 17 in 2019. But in 2020 with
+> more than 10 times the applications as in 2019, it is probable that
+> they have more "acceptable" candidates than the people they hire.
+
+What they say and think about the number of candidates fit for the job
+is different from the number of people hired or the other claims we
+saw above. Stick to one claim at a time. See what happens when you
+don't try to test the claim "holistically".
+
+> Funding: Short on cash to hire people
+>
+> Meta Orgs don't seem to be affected by funding while considering
+> hiring researchers. OPP said, "our current ability to immediately
+> assess and deploy this base of available talent is weak". It is not
+> clear if hiring is affected by funding in Longtermism Orgs. There is
+> not info I can find regarding this on MIRI for example.
+
+short on cash"? "affected by funding"? "ability to immediately deploy
+available talent is weak"?
+
+Unfortunately, my dictionary is defective and seems to have omitted
+those words, so I'm having a hard time following this.
+
+How are you supposed to test the claim that someone is "short on
+cash"? He didn't hire a million people? Even Bill Gates didn't hire a
+million people.
+
+Contrast that to: this year's hiring budget. Even if that number is
+not directly available, you could look at related numbers like last
+year's expenditure on salaries and other overhead, last year's funds
+raised, and thus whatever surplus amount they have for hiring this
+year (this is one way people may decide their hiring budget; they may
+also look at their projected funds raised this year, etc.). Example:
+MIRI budget breakdown -
+https://intelligence.org/2019/12/02/miris-2019-fundraiser/.
+
+So, one way to look at claims of "funding-constrained" is to see the
+growth in budget and check if there was a surplus compared to last
+year and if more of that went into hiring new employees or if it went
+into higher salaries for existing employees, administrative costs
+(like managers or accountants), and higher rent for a bigger office.
+
+Why does this matter? If someone's projected budget is not higher than
+last year's, then he probably doesn't have much budget for hiring new
+employees. In that case, I would predict that donating more would
+probably lead to more hires and thus hopefully more impact (SST). But
+if his projected budget is higher and he still doesn't allocate much
+for new hires, then I wouldn't expect to see more donations to lead to
+more hires and more I-word. Much of that money might go into higher
+salaries or a bigger office (which may or may not lead to less I-word
+but will probably be different from that for new hires).
+
+> PH representing RP, RC, CS says,
+>
+> I personally feel much more funding constrained / management
+> capacity constrained / team culture "don't grow too quickly"
+> constrained than I feel "I need more talented applicants"
+> constrained.
+
+WTF.
+
+> However, orgs in GH&P hiring for entrepreneurship don't seem to be
+> short on cash. CE (via mail) says that, they were not having any
+> issues with money, but suggest that this year (2020) the situation
+> might be different due to the 10 times more applications.
+
+"issues with money" vs "budget for new hires"
+
+> Whether you are a new or an old org you seem to want money to get
+> more hires. RP is a new org (founded in 2018) and would like money
+> to get more hires, but so does TLYCS (founded in 2010) and the whole
+> RC (2013) CS franchise according to Peter which were founded many
+> years ago.
+
+This is answering a different kind of question from the question for
+this section. This is about "does the age of the organization affect
+how much they 'seem to want money'?" But the question for this section
+was "are they 'short on cash'?" #SeparateThyClaims
+
+> Some Longtermism Orgs are unable to meet their fundraising targets
+> as small as 1m`$`.
+
+"Longtermism"??
+
+> Time spent
+>
+> Total time: 48 hrs (Over 2 weeks) + 9 hrs (another edit after
+> sending it to an STM) Total words: 4700
+>
+> Number of days: 13 Avg hrs per day: 3.6hrs (including weekends and 2
+> full days)
+
+Lovely. Keep up the great work, Mr. Agent. 3.6 hours per day calls for
+a nice celebration (alcohol or whatever you prefer as a treat). Here's
+to several thousand hours more.
+
+*****
+
+Mission #7: Here's your mission, should you choose to accept it - take
+up some passage that has **confused** you (could be about work, politics,
+EA, or AI), narrow down its claims, and test them with one concrete
+example each. The **output dimensions** for each claim would be whether
+you have a concrete example for the subject and the predicate and
+whether the example actually talks about the same thing as the claim
+(survey vs acceptance rate).
+
+The twist is that you have to rewrite the sentence till the claims
+without concrete examples are gone. For example, "we are short on
+cash" will become "we have zero budget for new hires this year" plus
+example.
+
+## Important takeaways
+
+So we have the **claim**, "GiveWell don't seem to be affected by
+funding while hiring researchers". Let's say it is expected to test
+this against **EE** and not with statements such as: "OPP didn't want
+to hire in that round because of ...". Then, I see the problem. I
+can't test the statement. SS Hurts.
+
+Let's try another,
+
+**Claims**: GiveWell "don't want" to hire more researchers ~~not
+because of funding issues~~ despite "having enough funding".
+
+**Note**: Even this is not good. SS is still hurting like hell "don't
+want to hire more researchers", "despite having enough funding".
+
+**re-write Claim**: GiveWell do not allocate more ~~funding~~ money in
+budget than previous year for hiring, despite allocating "more" funds
+to other things like bigger office, higher salaries etc...
+
+**Note**: This seems to be testable by checking budget as an STM has
+informed. *Ufff! that took time to get to.*
+
+**re-write Claim**: GiveWell does not allocate more money in budget
+than previous year for hiring.
+
+**Example-sub**: 
+
+GiveWell 2019 salary expenses: 3.1m USD
+
+GiveWell 2018 salary expenses: 1.9m USD
+
+2019 Salary \> 2018 Salary
+
+[Source: pg 6](https://files.givewell.org/files/ClearFund/GiveWell_TCF_2019_Audited_Financial_Statements.pdf)
+
+**Definition**: Does not check out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+**re-write Claim**: GiveWell allocates more money in its budget for
+Rent.
+
+**Example-sub**: 
+
+GiveWell 2019 Occupancy expenses: 119k USD
+
+GiveWell 2018 Occupancy expenses: 23k USD
+
+2019 expenses \> 2018 expenses
+
+[Source: pg 6](https://files.givewell.org/files/ClearFund/GiveWell_TCF_2019_Audited_Financial_Statements.pdf)
+
+**Definition**: checks out.
+
+**Checklist**: sub; Yes; pre; Yes; ecm; Yes;
+
+---
+
+**Lessons**: Make claims testable by removing the fluff ("affected by
+funding"). Agent is struggling with complicated claims ("affected by
+funding"). As soon as you change that complicated part, you can modify
+the claim to make it testable (as shown above). 
+
+## Notes to an STM
+
+I assumed we don't talk about anything less than 200 claims. The above
+format is what I try to keep up with along this excercise:
+
+- Main claims --\> "**Claim**:"  
+
+- sub claims --\> "**re-write Claim**:" 
+
+- sub claims rewritten --\> **re-write Claim**: 
+
+- Line donates the end of a "**Claim**:", not a "**re-write Claim**:" 
+
+- All "Because" claims are skipped as that is not the goal
+  here. "Because" is removed and the claim is treated regularly. 
+  
+  For e.g.,
+  
+  **Claim**: Most developing countries are substantially poorer than
+incomes suggest because of a combination of shorter lives and extreme
+inequality.
+
+	**re-write Claim**: Most developing countries are "substantially
+poorer" than incomes suggests.
+
+	**re-write Claim**: "developing countries" life expectancy is "low"
+compared to "developed countries"
+
+	etc...
+
+- Have not answered claims about the future with "might", "would",
+  "could". Please let me know at the claim itself if I could have done
+  better.
+  
+- What all counts as **EE**, Calculations counts as EE?
+  Cost-effectiveness Calcs from GiveWell (?)
+  
 

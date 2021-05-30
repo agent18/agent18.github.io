@@ -4,7 +4,7 @@ title: About
 malingerer: /about/
 ---
 
->It's not who I am, but what I do that defines me   
+>It's not who you are underneath, but what you do that defines you.   
 > --- Rachel Dawes
 
 You can find the source code for the Jekyll new theme at: [git hub.com/jglovier/Jekyll-new](https://github.com/jglovier/Jekyll-new)

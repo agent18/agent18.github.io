@@ -9,6 +9,7 @@ permalink: /:title.html
 published: true
 ---
 
+**Status**: Exploratory.
 
 ## Dealing with Claims
 
@@ -50,108 +51,6 @@ Thus we define Concrete Thinking (CT). Concrete thinking is the
 testing of labels (forming a claim), using an example to check against
 the given definition. We shall use CT to check the claims made by
 everyone.
-
-## Dealing with claims by Reasoning
-
-Having to test everything is time consuming albeit with one example
-even. Sometimes we might not even be able to find examples and then
-what do we do? Maybe, reasoning is perfectly capable of verifying
-claims, hopefully faster. Let's look at an example.
-
-**Claims**: (God)[3] wants you to not (eat onions)[1]
-
-**Reasoning**: (Onions)[1] make (you passionate about food)[2] And
-(God)[3] doesn't want (you to be passionate about food)[4]. So God
-wants you to not eat onions.
-
-Makes sense! Right? But let's try to take a deeper look at this. [1]
-leads to [2]. [3] doesn't want [2]. We can infer from this that [3]
-doesn't want [1]---which is the actual claim. So far so good!
-
-But is [1] true though? Is [2] true though? [1] and [2] are but claims
-themselves, which means we do not know whether to accept them or
-reject them. In that case how can I jump the gun on if "[3] doesn't
-want [1]"? Furthermore, I am unable to test either of the claims given
-in the reasoning.
-
-**Conclusion**: *Reasoning does not seem to work when it contains
-claims which cannot be tested.
-
-**Corollary**: All claims need to be testable.
-
-**Let's look at an example from 80khours:**
-
-**Claims**: Human Civilization is at stake (due to AI)---[80khours](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/)
-
-**Reasons**: (The fate of Gorillas)[1] currently depends on the
-(actions of humans)[2]. (Similarly, the fate of humanity)[3] may come
-to depend more on the (actions of machines than our own)[4].
-
-Statement A: [1] depends on [2] and [2] is "much better" than [1].
-Statement B: [3] may depend on [4] if [4] is "much better" than [3].
-
-Statement A can be tested and let's assume it is true. If Statement B
-is true then we assume, that the main claim is satisfied. Statement B
-cannot be tested though. The implied claim, 'if A is true, then B is
-true', also cannot be tested. In conclusion, we don't know if "Human
-Civilization is at stake (due to AI)" as a result of the reasoning.
-
-The above reasoning is what I gave a few weeks back to support the
-above claim. But now I realize that it doesn't absolutely do anything
-to support the claim. It felt right though! 
-
-**Conclusion:** People can come up with all sorts of claims---that
-"feels" right---as they like, but unless it can be tested, we are not
-going to be able to say anything about the claim.
-
-So, the above reasoning didn't give us any information about the
-claim, but then maybe we should just use CT on the main claim "Human
-Civilization is at stake".
-
-**Subject**: Human Civilization
-
-**Predicate**: is at stake
-
-Luckily for us 80khours already gives an example, which we need to
-check against the definition/Predicate.
-
-**Example**: A pharmaceutical company that uses machine learning (ML)
-algorithms to synthesize drugs to cure cancer could result in human
-extinction. (It could turn out that the ML algorithm, found that the
-most effective way of reducing cancer rates was to kill the humans
-before they could grow old enough to develop cancer)[5].
-
-We check this against the definition. And yeah if the example happens,
-it could kill more than [17 million people](https://www.google.com/search?q=number+of+cancer+patients+in+the+world&oq=number+of+cancer&aqs=chrome.1.69i57j0l5.4141j0j7&sourceid=chrome&ie=UTF-8), civilization could be
-at stake. But it must be noted that [5] is but a claim which cannot be
-tested. It is a hypothetical example. As we have seen above, we do not
-respect claims that can't be tested. This implies that this claim
-should be treated in the same level as "God wants us not to eat
-onions", i.e., we should throw it in the trashcan and move on because
-it cannot be tested. Contrast this to the following:
-
-**Claims**: Human Civilization could be at stake due to Diseases (in
-the future)
-
-You can't test **could be**. But that's OK. The closest we can come to
-testing it seems to be with an example from the past; just like
-predicting which bolts will fail based on data from the past.
-
-**Example**: In the past we have seen the *Black Plague wipe out half
-of the people of Western Europe*.
-
-There seems to be atleast one example which matches the definition
-that the Civilization could be at stake.
-
-In conclusion, we see that people can give all sorts of claims,
-reasons and hypothetical examples, but as long as we can't test it
-with atleast ONE EXAMPLE FROM THE PAST, we do not know anything about
-the claim.
-
-We have been talking about having "one example atleast" for sometime
-now. Having an example for something, does not mean that the claim is
-true! Then what is the point of giving that ONE EXAMPLE. Why not two?
-Why not journal level studies?
 
 ## One vs Zero
 
@@ -281,6 +180,108 @@ for now we stick to it and try to think concretely and the journal
 level option is not practical. We are yet to understand when we might
 might need journal level proof and where we might be mislead by ONLY
 GIVING ONE EXAMPLE. (For later!).
+
+## Dealing with claims by Reasoning
+
+Having to test everything is time consuming albeit with one example
+even. Sometimes we might not even be able to find examples and then
+what do we do? Maybe, reasoning is perfectly capable of verifying
+claims, hopefully faster. Let's look at an example.
+
+**Claims**: (God)[3] wants you to not (eat onions)[1]
+
+**Reasoning**: (Onions)[1] make (you passionate about food)[2] And
+(God)[3] doesn't want (you to be passionate about food)[4]. So God
+wants you to not eat onions.
+
+Makes sense! Right? But let's try to take a deeper look at this. [1]
+leads to [2]. [3] doesn't want [2]. We can infer from this that [3]
+doesn't want [1]---which is the actual claim. So far so good!
+
+But is [1] true though? Is [2] true though? [1] and [2] are but claims
+themselves, which means we do not know whether to accept them or
+reject them. In that case how can I jump the gun on if "[3] doesn't
+want [1]"? Furthermore, I am unable to test either of the claims given
+in the reasoning.
+
+**Conclusion**: *Reasoning does not seem to work when it contains
+claims which cannot be tested.
+
+**Corollary**: All claims need to be testable.
+
+**Let's look at an example from 80khours:**
+
+**Claims**: Human Civilization is at stake (due to AI)---[80khours](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/)
+
+**Reasons**: (The fate of Gorillas)[1] currently depends on the
+(actions of humans)[2]. (Similarly, the fate of humanity)[3] may come
+to depend more on the (actions of machines than our own)[4].
+
+Statement A: [1] depends on [2] and [2] is "much better" than [1].
+Statement B: [3] may depend on [4] if [4] is "much better" than [3].
+
+Statement A can be tested and let's assume it is true. If Statement B
+is true then we assume, that the main claim is satisfied. Statement B
+cannot be tested though. The implied claim, 'if A is true, then B is
+true', also cannot be tested. In conclusion, we don't know if "Human
+Civilization is at stake (due to AI)" as a result of the reasoning.
+
+The above reasoning is what I gave a few weeks back to support the
+above claim. But now I realize that it doesn't absolutely do anything
+to support the claim. It felt right though! 
+
+**Conclusion:** People can come up with all sorts of claims---that
+"feels" right---as they like, but unless it can be tested, we are not
+going to be able to say anything about the claim.
+
+So, the above reasoning didn't give us any information about the
+claim, but then maybe we should just use CT on the main claim "Human
+Civilization is at stake".
+
+**Subject**: Human Civilization
+
+**Predicate**: is at stake
+
+Luckily for us 80khours already gives an example, which we need to
+check against the definition/Predicate.
+
+**Example**: A pharmaceutical company that uses machine learning (ML)
+algorithms to synthesize drugs to cure cancer could result in human
+extinction. (It could turn out that the ML algorithm, found that the
+most effective way of reducing cancer rates was to kill the humans
+before they could grow old enough to develop cancer)[5].
+
+We check this against the definition. And yeah if the example happens,
+it could kill more than [17 million people](https://www.google.com/search?q=number+of+cancer+patients+in+the+world&oq=number+of+cancer&aqs=chrome.1.69i57j0l5.4141j0j7&sourceid=chrome&ie=UTF-8), civilization could be
+at stake. But it must be noted that [5] is but a claim which cannot be
+tested. It is a hypothetical example. As we have seen above, we do not
+respect claims that can't be tested. This implies that this claim
+should be treated in the same level as "God wants us not to eat
+onions", i.e., we should throw it in the trashcan and move on because
+it cannot be tested. Contrast this to the following:
+
+**Claims**: Human Civilization could be at stake due to Diseases (in
+the future)
+
+You can't test **could be**. But that's OK. The closest we can come to
+testing it seems to be with an example from the past; just like
+predicting which bolts will fail based on data from the past.
+
+**Example**: In the past we have seen the *Black Plague wipe out half
+of the people of Western Europe*.
+
+There seems to be atleast one example which matches the definition
+that the Civilization could be at stake.
+
+In conclusion, we see that people can give all sorts of claims,
+reasons and hypothetical examples, but as long as we can't test it
+with atleast ONE EXAMPLE FROM THE PAST, we do not know anything about
+the claim.
+
+We have been talking about having "one example atleast" for sometime
+now. Having an example for something, does not mean that the claim is
+true! Then what is the point of giving that ONE EXAMPLE. Why not two?
+Why not journal level studies?
 
 ## Where all do we need concrete thinking
 

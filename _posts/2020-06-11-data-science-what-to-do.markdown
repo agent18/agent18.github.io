@@ -1595,6 +1595,36 @@ expanding scope to the entire YS500, encoder plate
 4. how do you handle angry customers? jsut deal with it, do whats
    possible, have clear conversations on where we are at.
 
+
+## Juan analytics feedback
+
+juanalytics6:32 PM
+https://www.linkedin.com/in/ruslan-gusiev/
+juanalytics6:37 PM
+https://www.xomnia.com/
+https://www.xccelerated.io/
+juanalytics6:39 PM
+https://next.youngcapital.nl/it
+juanalytics7:06 PM
+https://www.linkedin.com/in/jmperafan/
+https://acloudguru.com/ 
+
+
+He said mainly look for jobs that helpe you gain new skills that will
+be useful in the future... 
+
+Suggested perhaps some mlops type course. And was really discouraging
+of taking matlab assignments.
+
+He also said fix your cv to one page and then reapply... didn't give
+much useful information but also said attack companies that he has on
+his cv... and talk to ruslan gusiev...
+
+
+
+
+
+
 ## iron hack
 
 Recently I got in touch with this women adrianna from ironhack and she
@@ -1806,5 +1836,18 @@ Data stored in blocks
 
 
 
+
+
+## other options
+
+1. internhship
+
+Check out dealroom (Nick Deimeters)
+
+2. Jeroen pdeng
+
+3. apply again after changing cv
+
+4. Some program like xcellarated or xomnia or youngcapital
 
 

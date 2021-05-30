@@ -9,6 +9,10 @@ permalink: /:title.html
 published: true
 ---
 
+**Status**: This is an essay where I horribly failed to think
+"concretely". What Talent-constrained meant was all over the place. I
+should have re-written each claim to make it more testable.
+
 *I am deeply grateful to Aaron Gertler who reviewed this article for
 over 3hrs atleast (I don't know the upper bound). His comments were
 very thorough (he didn't leave any hyperlink unclicked). He managed to
