@@ -6,7 +6,7 @@ date: 04-05-2021
 categories: notes
 tags: gaming
 permalink: /:title.html
-published: false
+published: true
 ---
 
 ## Current config
