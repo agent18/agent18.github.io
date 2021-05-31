@@ -123,16 +123,16 @@ Assistant role fit with them? *
   Luke" I think I can gain a lot of insight into what makes a great
   researcher.
   
-- I would like to learn about other roles in EA. With
-  exposure to other team members from Open Philanthropy I think I will
-  also get some insight into the different roles.
+- I would like to learn about other roles in EA. With exposure to
+  other team members from Open Philanthropy I think I will also get
+  some insight into the different roles.
 
   
   
 ### Is there anything else you want to share about why you might be a
 good fit for this role?  
 
-- I have 2 years of research experience (albeit in another field)
+- I have 2 years of research experience (albeit in another field).
 
 - EA is the purpose of my life. It is most important to me to have
   maximum counterfactual impact. It is why I spend 20-30 hrs every

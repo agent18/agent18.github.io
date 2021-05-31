@@ -1,3 +1,14 @@
+---
+layout: post
+comments: true
+title:  "Documentation of setting up my ubuntu 20 in 2021"
+date: 04-05-2021
+categories: notes
+tags: gaming
+permalink: /:title.html
+published: false
+---
+
 ## Current config
 
 **Acer Nitro 5 laptop**
