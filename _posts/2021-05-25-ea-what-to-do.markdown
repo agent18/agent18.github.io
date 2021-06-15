@@ -263,11 +263,12 @@ others from GIVEWELL and Openphil
 - ACE
 - Charity Entrepreneurship (vaidehi)
 
-## Apply to roles and advice?
+## Program assistant role Open Phil
 
 Why are you interested in the Program Assistant role
 Apply to more assistant roles...
 
+[Program assistant role](https://web.archive.org/save/https://www.openphilanthropy.org/get-involved/jobs/program-assistant)
 
 ### Why are you interested in the PA role?
 
@@ -283,14 +284,6 @@ I hope to gain out of this role one of the above:
 
 Several people like [Nicole Ross](https://www.linkedin.com/in/nicole-ross-184a6142/) started as a staff assistant.
 
-### What are your current career goals, and how does the Program
-Assistant role fit with them? *
-
-
-### Is there anything else you want to share about why you might be a
-good fit for this role?  
-
-### Anything else you'd like us to know (including comments or clarifications on any of the above)? 
 
 
 ### content
@@ -386,4 +379,69 @@ https://80000hours.org/career-reviews/#run-a-local-group
 Many people are also not aware that there are now tens of paid
 full-time positions running these groups, so it's rapidly turning into
 a full career path. More info in the write up.
+
+## final response in the task for additional comments
+
+1. I have added formulas and notes wherever possible as it is much more efficient to do it this way for larger spreadsheets. This way I would have to only do the "fact checking" and the rest is automated. I have indicated some additional changes I did using the color ORANGE. 
+
+2. Also, Is there any reason to use 50% "cut-off" to classify probabilities? In Data Science we often use ROC to decide "optimal cut-off" based on what TPR and FPR we need. 
+
+3. This might be nitpicking, but what to do when the "odds" are equal to exactly 50% for "Prediction right" column? I have just marked it using this formula `=IF(C2>50%,"Yes","No")`. I would guess that the researcher doesn't make such predictions as they might not add value.
+
+4. Regarding the additional time: I made some mistakes reading the instructions the first time, but when I was checking before sending it out I saw the mistakes and rectified them, hence the additional time. Sorry about that.
+
+
+## EA 
+
+3b a year in malaria related stuff
+
+Christian Rassi
+
+2020 malaria report... 60% from 2007... 7.6 million lives... Malaria
+interventaion
+
+SMC bednets, improved access,
+
+Stagnagation of progress... ??
+
+evolving stuff...
+
+2.6b dollars in 2019 to meet targets... WHO is a big deal looks like
+they have all sorts of reports.
+
+### What is SMCs and how it is delivered.
+
+Seasonal malaria chemo...
+
+west and central region...
+
+Preventing new malaria 
+
+Pills protecting kids from malaria...
+
+12m children 150000 induviduals ... 
+
+17m children across the countries...
+
+What are the chances of contracting and dying for children...
+
+### urban rural context
+
+Christian Rassi
+
+### Malnutrition
+
+2 to 4% of 33millon die?
+
+
+most cases are under 24 months...
+
+### questions
+
+1. Treating vs prevention
+
+2. vaccinations
+
+
+
 

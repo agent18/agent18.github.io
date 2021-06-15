@@ -86,6 +86,7 @@ CE=DALY's/cost = (DALYs with 5 CBT-DALYs without CBT)/50$/5 =
 12.5/50/5 = 0.05 DALYs per $. For 1$ invested you get 18 days of life
 in return.
 
+## Open Phil Program Assistant question
 
 ### Why are you interested in the PA role?
 

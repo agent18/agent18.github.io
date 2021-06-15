@@ -156,8 +156,6 @@ https://www.edx.org/course/statistical-learning NOT SURE ABUOT THIS!
 
 Do some course...
 
-
-
 **ML course**
 
 fast.ai
@@ -1851,3 +1849,251 @@ Check out dealroom (Nick Deimeters)
 4. Some program like xcellarated or xomnia or youngcapital
 
 
+## Dealroom.co
+
+They gave me a case study on webscraping and duplicate detection.
+
+1. There were around 40 applications for this internship. After one
+   month they basically give the same responsibility as a person in
+   the company (cheap ass fuckers).
+   
+2. They had 4 people at the assignment level and they might select
+   3-4.
+   
+3. Spoke with the lead, who is iranian, giving hasan vibes.
+
+Feedback on webscraping: Differt exceptions to be handled
+differently. Don't use print... Takes a lot of time.
+
+Feedback on duplicate detection: You did a very simple case, you could
+have considered other cases, like just the address, cleaning the upper
+case and lower case etc...
+
+It's not illegal to get data from a public datasite, or startup
+data. Even with login it is a grey area. It is what someone would do
+personally so it is ok... we are just automating it.
+
+More than half of the team is 
+
+4. Make resume 1 page and highlight important stuff. People spend 10s
+   on a resume...
+
+## Ikea
+
+### preparing questions
+
+1. TMAY (done)
+
+2. ikea values and how they fit?
+
+	- caring for people and planet (use EA) (sustainability focus,
+      programs in other countries)
+	- cost conscious (make more out of less, Kaggle competitions top
+      20% and 10%)
+	- simplicity (We are informal, pragmatic and see bureaucracy as
+      our biggest enemy.)
+	- give and take (responsibility 9 encoder relentlessly pursue it until)
+	- lead by example
+	- Different (question existing solutions, think in unconventional
+      ways)
+3. Why ikea
+
+	- high impact
+	- reach to millions and billions of people
+	- new e-commerce line (relatively not much done) (low hanging fruit)
+	- big organization (possibility to learn from others and grow)
+	- against buerocracies (We are informal, pragmatic and see
+      bureaucracy as our biggest enemy.)
+	
+4. What is a mistake you made in the past
+
+	- 
+### first quick indrew with fabianne
+
+ikea feedback 
+
+notes
+
+what are ikea values?
+
+What are your values?
+
+And how does it fit with the general values?
+
+We beleive people can learn certain things.
+
+What do you want in the future?
+
+put in a shortlist only... barf symbol
+
+1. get to know indrew 2. test and then 3. grandfather indrew
+
+### expecting questions
+
+https://www.linkedin.com/in/gautam-kamat-995b6854/?originalSubdomain=Netherlands
+
+1. When you worked under pressure
+
+2. Challenging assignment
+
+3. greatest strengths and weaknesses
+
+4. why should we hire you?
+
+1. my understanding of the role
+
+What I got from Fabianne is that they want to setup a team for the
+e-commerce side to boost sales and understand what is lacking on the
+e-commerce aspect. And you are looking to setup a team for this.
+
+Ecommerce analytics is the process of gathering data from all areas
+that have an impact on your online store and using this information to
+understand the trends and the shift in consumers’ behavior to make
+data-driven decisions that will drive more online sales.
+
+
+
+2. What your values and how do they coincide with ikeas values
+
+3. tell me about yourself
+
+### preparation questions
+
+1. Tell me your understanding about Productivity department?
+
+1. Tell me about a time when you did stake holder management?
+   What sorts of challenges did you have?
+   
+   Time... discussed with
+   Getting time from all the people was hard... Use teams, sometimes
+   planning, no need for escalation.
+   
+   1. I identified and extended the scope of the assignement as it was
+      not going to work. 
+	  
+   2. I identified who the stakeholders are Thermal, different design teams,
+      recipes people, 
+   
+   3. Analysed their individual contributions and went back and forth
+      to realize a minimal value along with another partner. 
+
+2. how did you manage to reach all the stakeholders? What do you do
+   when you were not able to reach them? Did you ever escalate?
+   
+   Answer expected is escalate...
+   
+3. Tell me a time when you did customer support?
+
+5. Tell me about a time when you did root cause analysis?
+
+4. How did you do sanity checks ? hot examples (I told them about
+   checking to see what you expect and what is observed)
+   
+5. Explain what Adverserial validation is? and why it is required?
+
+6. tell me a time about how 
+7. what was your exact contribution in the statistics assignment? 
+
+8. why should we hire you? what do you bring to the table?
+
+9. Tell me about a time you did troubleshooting?
+
+10. Tell me about a time you were in stress? how do you handle it?
+
+11. What do you want to be in 5 years? a leader or a person who is
+determining some niche data analysis trends
+
+12. how will you convince stakeholders about explainable and unexplainable
+AI?
+
+13. What is random forest?
+
+14. How do you network?
+
+15. Waht do you want in a company
+
+### Questions to ask ikea
+
+1. what are you looking for
+
+"python R julia stan tensorflow keras, jupyter azure ML
+SQL oracle
+3 years exp prefered"
+
+2. More about the role? Are you interested in making models, exploring
+   data to get insights? forecasting on products, is it supplychain
+   forecasting, consumer buying forecasting? Failure
+
+3. My hype
+
+huge industry reaching 3 billion people
+
+4. why IKEA
+
+high impact opportunity (nacent start), 
+
+5. how big is the team? What are the broad focus areas of the team
+
+6. What sort of tools do you use?
+
+7. How do you feel about deep learning?
+
+8. What do you like working at ikea?
+
+9. Ideal candidate for this position?
+
+10. what opportunities will I have to learn and grow?
+
+### Actual interview ikea
+
+**What they are looking for**
+
+Someone who is able to execute data visions with the help of a sr Data
+Science.
+
+Cross functionally is able to collaborate...
+
+Business-oriented, bit of data eng ETL and docker pyspark
+capabilities.
+
+People capable of managing stakeholders
+
+**Questions**
+
+- Hard to hear feedback and how you went about it (presentation)
+
+- What are you proud of and not proud of (in life I said EA and
+  certain ways I made decisions in the past)
+  
+- What type of people do you need around
+
+- They  need an alignment person
+
+- What do you expect in the first three months
+
+- explain a data science work right from requirements to modelling
+
+- They want to have in-house people calling hte shots and not from
+  consultancies.
+  
+- Can you tell me more about your hobbies(I said I am not that person
+  anymore), i do other things with my limited time
+  
+- what tyope of person are you? Do you lead? what role do you take up
+  in your organization and with your friends.
+  
+  
+**What they have**
+
+- Strategy focus (translating broad english to real measureable data)
+
+- Affordabillity spectrum (who is all included who is not, povery
+  line, area covering)
+  
+- Expanding to other communities cost code povery etc...
+
+- webscraping and image recognition and scraping data to compare prices
+
+- online feedback of e-commerce
+
+## Leonidas chat and feedback
