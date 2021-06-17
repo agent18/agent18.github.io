@@ -17,7 +17,7 @@ to younger people.
 
 2. Being older they don't have too many YLL's (Years of life lost).
 
-For a blind man of 20 years old, and 80 years  his DALY would be:
+For a blind man of 20 years old, and 80 years Life expectancy his DALY would be:
 
 YLD = 0.6 x 20 = 12 DALYs (aka number of years of healthy life lost)
 

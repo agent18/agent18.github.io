@@ -56,11 +56,23 @@ CLOCK: [2021-06-14 ma 21:36]--[2021-06-14 ma 22:41] =>  1:05
 :END:
 **** Research sample
 :LOGBOOK:
-CLOCK: [2021-06-15 di 22:28]
+CLOCK: [2021-06-16 wo 19:23]--[2021-06-16 wo 19:36] =>  0:13
+CLOCK: [2021-06-15 di 22:28]--[2021-06-15 di 23:31] =>  1:03
 CLOCK: [2021-06-15 di 19:31]--[2021-06-15 di 21:37] =>  2:06
 :END:
-**** exam 2 hrs
+**** exam 2 hrs prep
+:LOGBOOK:
+CLOCK: [2021-06-16 wo 19:36]--[2021-06-16 wo 22:11] =>  2:35
+:END:
+**** exam 2 hrs 
+:LOGBOOK:
+CLOCK: [2021-06-16 wo 22:11]--[2021-06-17 do 00:17] =>  2:06
+:END:
 **** resume and application
+*** Looking
+:LOGBOOK:
+CLOCK: [2021-06-17 do 20:02]
+:END:
 ** Other useful stuff                                                 :meta:
 *** Work done for STM 
 
@@ -4858,27 +4870,6 @@ https://orgmode.org/manual/The-clock-table.html
 
 #+BEGIN: clocktable :maxlevel 2 :scope file :step day :tstart "<-7d>" :tend "<tomorrow>" :tags t :compact t :match "-break-NATW"
 
-Daily report: [2021-06-07 ma]
-| Tags | Headline                       |    Time |
-|------+--------------------------------+---------|
-|      | *Total time*                   | *12:00* |
-|------+--------------------------------+---------|
-|      | interview exams DS/DA/BS jaaps |   12:00 |
-| work | \_  Counted for work           |   12:00 |
-
-Daily report: [2021-06-08 di]
-| Tags | Headline                       |   Time |
-|------+--------------------------------+--------|
-|      | *Total time*                   | *0:30* |
-|------+--------------------------------+--------|
-|      | interview exams DS/DA/BS jaaps |   0:30 |
-| work | \_  Counted for work           |   0:30 |
-
-Daily report: [2021-06-09 wo]
-| Tags | Headline     | Time   |
-|------+--------------+--------|
-|      | *Total time* | *0:00* |
-
 Daily report: [2021-06-10 do]
 | Tags | Headline     | Time   |
 |------+--------------+--------|
@@ -4902,12 +4893,36 @@ Daily report: [2021-06-13 zo]
 Daily report: [2021-06-14 ma]
 | Tags | Headline                       |   Time |
 |------+--------------------------------+--------|
-|      | *Total time*                   | *2:55* |
+|      | *Total time*                   | *4:00* |
 |------+--------------------------------+--------|
-|      | EA what up                     |   0:07 |
-| work | \_  Counted for work           |   0:07 |
+|      | EA what up                     |   1:12 |
+| work | \_  Counted for work           |   1:12 |
 |      | interview exams DS/DA/BS jaaps |   2:48 |
 | work | \_  Counted for work           |   2:48 |
+
+Daily report: [2021-06-15 di]
+| Tags | Headline             |   Time |
+|------+----------------------+--------|
+|      | *Total time*         | *3:16* |
+|------+----------------------+--------|
+|      | EA what up           |   3:16 |
+| work | \_  Counted for work |   3:16 |
+
+Daily report: [2021-06-16 wo]
+| Tags | Headline             |   Time |
+|------+----------------------+--------|
+|      | *Total time*         | *4:37* |
+|------+----------------------+--------|
+|      | EA what up           |   4:37 |
+| work | \_  Counted for work |   4:37 |
+
+Daily report: [2021-06-17 do]
+| Tags | Headline             |   Time |
+|------+----------------------+--------|
+|      | *Total time*         | *0:17* |
+|------+----------------------+--------|
+|      | EA what up           |   0:17 |
+| work | \_  Counted for work |   0:17 |
 #+END:
 
 scrolling issue 
