@@ -3760,7 +3760,6 @@ Also check [this](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/what-is-th
 [This](https://pbpython.com/categorical-encoding.html) describes how to do it in python
 
 
-
 ### splitting columns
 
 cents and dollars

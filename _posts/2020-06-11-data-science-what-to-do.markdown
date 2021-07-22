@@ -345,7 +345,7 @@ They serve the F&B industry allowing them to make data driven decisions.
 	
 	Is such a profile interesting?
 
-2. I have some questions about the job?
+3. I have some questions about the job?
 
 	- It said that you are looking for lead people and at entry level.
 	
@@ -387,12 +387,12 @@ Data Scientist
 
 2. Are you looking for dutch speaking employees only? (dutch)
 
-2. I see that NN is into insurance, mortgages, pension and other
+3. I see that NN is into insurance, mortgages, pension and other
    financial services, but **What sort of products are you hiring DS
    for with the current vacancy?** PRicing... are you expecting any
    financial experience?
 
-2. 
+4. 
 
 	- Masters which was math focussed, Done certification programmes
       from coursera
@@ -401,9 +401,9 @@ Data Scientist
 	- knowlege of working with Tableau (BI)
 	- statistical work at ASML and 1 year experience in python programming
 	
-3. what else can I do to get a job here?	
+5. what else can I do to get a job here?	
 
-4. are there other vacancies you think I would be a fit for?
+6. are there other vacancies you think I would be a fit for?
 
 **He said it is predominantly a dutch company**. He was very
 pleasant. Dozens of people have already applied and "he doesn't mind
@@ -479,27 +479,27 @@ unknown to us."
 machine."
 
 
-2. 
+1. 
 
 "The second type is, because every machine is very precise, but like
 every piece of engineering, it drifts through time."
 
-3. choosing features grounded in physics helps them deal with lack of
+1. choosing features grounded in physics helps them deal with lack of
    dater.
    
-4. Make system learn by itself... have multiple models compete with
+2. Make system learn by itself... have multiple models compete with
    each other... and even do hyper-parameter tuning on the fly.
    
    
-1. **Defect detection**
+3. **Defect detection**
 
 Customer tells x is ok y wafer is bad
 
 
-2. every customer has different requirements. so non-transferable
+1. every customer has different requirements. so non-transferable
    dater.
    
-3. "Because if you look at what the real fab would be crunching, they
+2. "Because if you look at what the real fab would be crunching, they
    would be producing those 20,000 wafers in a week. So we get 20,000
    in three months. So that's anyway good enough for us to get
    going. But the danger there is you could easily say, well, I have a
@@ -834,9 +834,9 @@ experience... python sql pyspark
 
 abn amro,,, focus on 1. center of expertise advanced analytics and data
 
-2. mortgages data lab
+1. mortgages data lab
 
-3. innovaiton and design
+2. innovaiton and design
 
 
 ### DISCUSSION WITH DANIELLE SWEETS trainee.Nl(dutch) REGARDING MISSING
@@ -875,7 +875,7 @@ ask her about the other traineeships?
 
 https://www.linkedin.com/jobs/view/2437113172/?refId=MbH82zRD5y%2B7GC%2FwpqVRaA%3D%3D&trackingId=jlZI20GtcAg6jAacH9mdTw%3D%3D
 
-2. i have been rejected for :
+1. i have been rejected for :
 
     > Unfortunately, I have to inform you that we have not selected
     > you for the follow-up procedure. The reason for this is that
@@ -891,7 +891,7 @@ https://www.linkedin.com/jobs/view/2437113172/?refId=MbH82zRD5y%2B7GC%2FwpqVRaA%
 >
 > Present: Monday to Friday.
 
-3. there are other traineeships that I could do???? 
+1. there are other traineeships that I could do???? 
 
 SHE emailed saying dutch is shit.
 
@@ -1043,17 +1043,17 @@ Note: Everything in the cv is fair game for questioning
    
 3. Tell me a time when you did customer support?
 
-5. Tell me about a time when you did root cause analysis?
+4. Tell me about a time when you did root cause analysis?
 
-4. How did you do sanity checks ? hot examples (I told them about
+5. How did you do sanity checks ? hot examples (I told them about
    checking to see what you expect and what is observed)
    
-5. Explain what Adverserial validation is? and why it is required?
+6. Explain what Adverserial validation is? and why it is required?
 
-6. tell me a time about how 
-7. what was your exact contribution in the statistics assignment? 
+7. tell me a time about how 
+8. what was your exact contribution in the statistics assignment? 
 
-8. why should we hire you? what do you bring to the table?
+9. why should we hire you? what do you bring to the table?
 
 
 **Other analysis I did (sent via email)**
@@ -1096,26 +1096,26 @@ nevertheless.
 
 **Action**: 
 
-0. **Basic sanity checks**
+1. **Basic sanity checks**
 
 	- Is the water reservoir empty? *No*
 	- Is the connection to the water reservoir shutoff by accident?
       *No*
 	  
-1. **Is it a software implementation failure?** Check the "expected
+2. **Is it a software implementation failure?** Check the "expected
    Clamp process" (e.g., which valve should open/close and when) and
    the trace from the "Wafer Clamping Station" to see if they are in
    sync:
    
    *Everything checks out.*
    
-2. **Is there evidence that the clamp process even works on another
+3. **Is there evidence that the clamp process even works on another
    BUILD?** Check if this Clamp process has been tested before on
    another "Wafer clamping module":
    
    *Yes it has.*
 
-3. **What is the difference between the two traces?** Check certain
+4. **What is the difference between the two traces?** Check certain
    "critical features" (such as volume of water, volume of pressurized
    nitrogen), which would impact water performance between the
    "Working Wafer Clamp Module" and the "non-working Wafer clamp
@@ -1124,7 +1124,7 @@ nevertheless.
    *Start pressures are the same but the final pressures are quite
    different.*
    
-4. **Do the two systems have the exact same HARDWARE?** 
+5. **Do the two systems have the exact same HARDWARE?** 
 
 	- I explain my findings to people who have experience with this
     system, and there I got a clue that perhaps I had a smaller
@@ -1133,7 +1133,7 @@ nevertheless.
 	- I start looking in the build sheets but I see no evidence of
 	changes of the nozzle.
 
-5. **Did someone forget to update the buildsheet?**
+6. **Did someone forget to update the buildsheet?**
 
 	- I wanted to test the "different Orifice" hypothesis,
       non-invasively if possible.
@@ -1207,7 +1207,7 @@ performance, all the while having high feedback
 3. can you give me examples of some insights you have had?
 4. Is there customer interaction?
 5. What is the difference between your group and that of herman borg.
-5. What do you expect from me after a year? I really like NP.
+6. What do you expect from me after a year? I really like NP.
 
 
 **Questions they asked**
@@ -1246,14 +1246,14 @@ application overlay OPO, Canon and asml system, MTBI
 David: FC architect, 2007, always OPO, Smash alignment, bsaseliner,
 NTP and product development Belgium
 
-0. Why do you want to be part of this group? answer: started with
+1. Why do you want to be part of this group? answer: started with
    physics/data work and now moved to soft skills/data work.
 
-1. Regression vs  correlation
+2. Regression vs  correlation
 
-2. ML why future
+3. ML why future
 
-3. Why trust my
+4. Why trust my
 
 	How many volvo cars are there… volvvo and teslas… volvos, no one
     trusts ML.
@@ -1308,14 +1308,14 @@ What is the difference between you and CS? missed this Q....
 
 **Questions from them**
 
-0. Why do you want to be part of this group? answer: started with
+1. Why do you want to be part of this group? answer: started with
    physics/data work and now moved to soft skills/data work.
 
-1. Regression vs  correlation
+2. Regression vs  correlation
 
-2. ML why future
+3. ML why future
 
-3. Why trust my
+4. Why trust my
 
 **Questions for them**
 
@@ -1355,7 +1355,7 @@ motivated to be back to netherlands, why do i want to switch jobs
 
 1. Tell me your understanding about  department? about job
 
-1. Tell me about a time when you did stake holder management?
+2. Tell me about a time when you did stake holder management?
    What sorts of challenges did you have?
    
    Time... discussed with PL to get more time on view of value
@@ -1372,38 +1372,38 @@ motivated to be back to netherlands, why do i want to switch jobs
    3. Analysed their individual contributions and went back and forth
       to realize a minimal value along with another partner. 
 
-2. how did you manage to reach all the stakeholders? What do you do
+3. how did you manage to reach all the stakeholders? What do you do
    when you were not able to reach them? Did you ever escalate?
    
    Answer expected is escalate...
    
-3. Tell me a time when you did **customer support**?
+4. Tell me a time when you did **customer support**?
 
 5. Tell me about a time when you did root cause analysis?
 
-4. How did you do sanity checks ? hot examples (I told them about
+6. How did you do sanity checks ? hot examples (I told them about
    checking to see what you expect and what is observed)
    
-5. Explain what Adverserial validation is? and why it is required?
+7. Explain what Adverserial validation is? and why it is required?
 
-6. tell us about your statistics assignment?
-7. what was your exact contribution in the statistics assignment? 
+8. tell us about your statistics assignment?
+9. what was your exact contribution in the statistics assignment? 
 
-8. why should we hire you? what do you bring to the table?
+10. why should we hire you? what do you bring to the table?
 
-9. Tell me about a time you did troubleshooting?
+11. Tell me about a time you did troubleshooting?
 
-10. Tell me about a time you were in **stress**? how do you handle it?
+12. Tell me about a time you were in **stress**? how do you handle it?
 
-11. What do you want to be in 5 years? a leader or a person who is
+13. What do you want to be in 5 years? a leader or a person who is
 determining some niche data analysis trends
 
-12. how will you convince stakeholders about explainable and unexplainable
+14. how will you convince stakeholders about explainable and unexplainable
 AI?
 
-13. What is random forest?
+15. What is random forest?
 
-14. How do you network?
+16. How do you network?
 
 They do research, NTP and functional work of understanding large data
 
@@ -1421,19 +1421,19 @@ what are the challenges you faced?
 It was a general discussion about accuracy specs and range specs
 making it hard to design. the lack of system engineering etc...
 
-2. Where is metrology done?
+1. Where is metrology done?
 
-3. Will E-beam tool be used after development?
+2. Will E-beam tool be used after development?
 
 
-1. Tell me about a time when you did more than what is required?
+3. Tell me about a time when you did more than what is required?
 
 expanding scope to the entire YS500, encoder plate (going beyond to
 check my boss work, checking thier claim with one example)
 
-2. How do you do knowledge sharing? (wow writings, presenting in meetings)
+1. How do you do knowledge sharing? (wow writings, presenting in meetings)
 
-4. how do you handle angry customers? jsut deal with it, do whats
+2. how do you handle angry customers? jsut deal with it, do whats
    possible, have clear conversations on where we are at.
 
 
@@ -1489,7 +1489,7 @@ motivated to be back to netherlands, why do i want to switch jobs
 
 1. Tell me your understanding about Productivity department?
 
-1. Tell me about a time when you did stake holder management?
+2. Tell me about a time when you did stake holder management?
    What sorts of challenges did you have?
    
    Time... discussed with
@@ -1505,38 +1505,38 @@ motivated to be back to netherlands, why do i want to switch jobs
    3. Analysed their individual contributions and went back and forth
       to realize a minimal value along with another partner. 
 
-2. how did you manage to reach all the stakeholders? What do you do
+3. how did you manage to reach all the stakeholders? What do you do
    when you were not able to reach them? Did you ever escalate?
    
    Answer expected is escalate...
    
-3. Tell me a time when you did customer support?
+4. Tell me a time when you did customer support?
 
 5. Tell me about a time when you did root cause analysis?
 
-4. How did you do sanity checks ? hot examples (I told them about
+6. How did you do sanity checks ? hot examples (I told them about
    checking to see what you expect and what is observed)
    
-5. Explain what Adverserial validation is? and why it is required?
+7. Explain what Adverserial validation is? and why it is required?
 
-6. tell me a time about how 
-7. what was your exact contribution in the statistics assignment? 
+8. tell me a time about how 
+9. what was your exact contribution in the statistics assignment? 
 
-8. why should we hire you? what do you bring to the table?
+10. why should we hire you? what do you bring to the table?
 
-9. Tell me about a time you did troubleshooting?
+11. Tell me about a time you did troubleshooting?
 
-10. Tell me about a time you were in stress? how do you handle it?
+12. Tell me about a time you were in stress? how do you handle it?
 
-11. What do you want to be in 5 years? a leader or a person who is
+13. What do you want to be in 5 years? a leader or a person who is
 determining some niche data analysis trends
 
-12. how will you convince stakeholders about explainable and unexplainable
+14. how will you convince stakeholders about explainable and unexplainable
 AI?
 
-13. What is random forest?
+15. What is random forest?
 
-14. How do you network?
+16. How do you network?
 
 ### actual questions
 
@@ -1549,9 +1549,9 @@ AI?
 It was a general discussion about accuracy specs and range specs
 making it hard to design. the lack of system engineering etc...
 
-2. Where is metrology done?
+1. Where is metrology done?
 
-3. Will E-beam tool be used after development?
+2. Will E-beam tool be used after development?
 
 
 **Dominic**
@@ -1586,11 +1586,11 @@ of python.
 
 expanding scope to the entire YS500, encoder plate
 
-2. How do you do knowledge sharing? (wow writings, presenting in meetings)
+1. How do you do knowledge sharing? (wow writings, presenting in meetings)
 
-3. Tell me time about your experience with customer support?
+2. Tell me time about your experience with customer support?
 
-4. how do you handle angry customers? jsut deal with it, do whats
+3. how do you handle angry customers? jsut deal with it, do whats
    possible, have clear conversations on where we are at.
 
 
@@ -1654,9 +1654,9 @@ Who to conduct?
 
 **What to get from them?**
 
-4. get company names to apply
-5. understand what they did other than the bootcamp?
-6. Do they know other people in the same space?
+1. get company names to apply
+2. understand what they did other than the bootcamp?
+3. Do they know other people in the same space?
 
 Can they refer you?
 
@@ -1733,7 +1733,7 @@ with few years of exp in some other field.
 1. design of experiements (56 jobs)
 root cause analysis
 
-1. ""productivity improvement projects and the work typically involves
+2. ""productivity improvement projects and the work typically involves
    a lot of (machine and customer) data crunching, detailed breakdowns
    of tact time of stages, handlers and track, bottle neck analyses
    and the creation of options and solutions to enhance throughput and
@@ -1744,14 +1744,14 @@ root cause analysis
    hands dirty with data (difficult data) comprehensive data
    story.... workign with unclean data answer data.
    
-2. I look at data from ASML's customers to suggest customised
+3. I look at data from ASML's customers to suggest customised
    productivity improvements based on their usage of lithography
    machines. I am involved in new product introduction, and multiple
    stages of the product generation process. I also do data analysis
    and reporting as part of application and business support.
    
    
-3. Data mining with some home made tools, to suggest improvements
+4. Data mining with some home made tools, to suggest improvements
 
 Big data:
 
@@ -1842,11 +1842,11 @@ Data stored in blocks
 
 Check out dealroom (Nick Deimeters)
 
-2. Jeroen pdeng
+1. Jeroen pdeng
 
-3. apply again after changing cv
+2. apply again after changing cv
 
-4. Some program like xcellarated or xomnia or youngcapital
+3. Some program like xcellarated or xomnia or youngcapital
 
 
 ## Dealroom.co
@@ -1875,7 +1875,7 @@ personally so it is ok... we are just automating it.
 
 More than half of the team is 
 
-4. Make resume 1 page and highlight important stuff. People spend 10s
+1. Make resume 1 page and highlight important stuff. People spend 10s
    on a resume...
 
 ## Ikea
@@ -1940,7 +1940,7 @@ https://www.linkedin.com/in/gautam-kamat-995b6854/?originalSubdomain=Netherlands
 
 4. why should we hire you?
 
-1. my understanding of the role
+5. my understanding of the role
 
 What I got from Fabianne is that they want to setup a team for the
 e-commerce side to boost sales and understand what is lacking on the
@@ -1953,15 +1953,15 @@ data-driven decisions that will drive more online sales.
 
 
 
-2. What your values and how do they coincide with ikeas values
+1. What your values and how do they coincide with ikeas values
 
-3. tell me about yourself
+2. tell me about yourself
 
 ### preparation questions
 
 1. Tell me your understanding about Productivity department?
 
-1. Tell me about a time when you did stake holder management?
+2. Tell me about a time when you did stake holder management?
    What sorts of challenges did you have?
    
    Time... discussed with
@@ -1977,40 +1977,40 @@ data-driven decisions that will drive more online sales.
    3. Analysed their individual contributions and went back and forth
       to realize a minimal value along with another partner. 
 
-2. how did you manage to reach all the stakeholders? What do you do
+3. how did you manage to reach all the stakeholders? What do you do
    when you were not able to reach them? Did you ever escalate?
    
    Answer expected is escalate...
    
-3. Tell me a time when you did customer support?
+4. Tell me a time when you did customer support?
 
 5. Tell me about a time when you did root cause analysis?
 
-4. How did you do sanity checks ? hot examples (I told them about
+6. How did you do sanity checks ? hot examples (I told them about
    checking to see what you expect and what is observed)
    
-5. Explain what Adverserial validation is? and why it is required?
+7. Explain what Adverserial validation is? and why it is required?
 
-6. tell me a time about how 
-7. what was your exact contribution in the statistics assignment? 
+8. tell me a time about how 
+9. what was your exact contribution in the statistics assignment? 
 
-8. why should we hire you? what do you bring to the table?
+10. why should we hire you? what do you bring to the table?
 
-9. Tell me about a time you did troubleshooting?
+11. Tell me about a time you did troubleshooting?
 
-10. Tell me about a time you were in stress? how do you handle it?
+12. Tell me about a time you were in stress? how do you handle it?
 
-11. What do you want to be in 5 years? a leader or a person who is
+13. What do you want to be in 5 years? a leader or a person who is
 determining some niche data analysis trends
 
-12. how will you convince stakeholders about explainable and unexplainable
+14. how will you convince stakeholders about explainable and unexplainable
 AI?
 
-13. What is random forest?
+15. What is random forest?
 
-14. How do you network?
+16. How do you network?
 
-15. Waht do you want in a company
+17. Waht do you want in a company
 
 ### Questions to ask ikea
 
@@ -2020,29 +2020,29 @@ AI?
 SQL oracle
 3 years exp prefered"
 
-2. More about the role? Are you interested in making models, exploring
+1. More about the role? Are you interested in making models, exploring
    data to get insights? forecasting on products, is it supplychain
    forecasting, consumer buying forecasting? Failure
 
-3. My hype
+2. My hype
 
 huge industry reaching 3 billion people
 
-4. why IKEA
+1. why IKEA
 
 high impact opportunity (nacent start), 
 
-5. how big is the team? What are the broad focus areas of the team
+1. how big is the team? What are the broad focus areas of the team
 
-6. What sort of tools do you use?
+2. What sort of tools do you use?
 
-7. How do you feel about deep learning?
+3. How do you feel about deep learning?
 
-8. What do you like working at ikea?
+4. What do you like working at ikea?
 
-9. Ideal candidate for this position?
+5. Ideal candidate for this position?
 
-10. what opportunities will I have to learn and grow?
+6. what opportunities will I have to learn and grow?
 
 ### Actual interview ikea
 
@@ -2082,6 +2082,8 @@ People capable of managing stakeholders
 - what tyope of person are you? Do you lead? what role do you take up
   in your organization and with your friends.
   
+- what about feature engineering
+  
   
 **What they have**
 
@@ -2096,4 +2098,329 @@ People capable of managing stakeholders
 
 - online feedback of e-commerce
 
+### IKEA case indrew
+
+1. Take us through your assignment
+   
+   - Json to pandas DF
+   - Clean all columns so that units matched. (assumed I didn't need
+     to match PPP current ratios)
+   - Look at EU And canada countries/cities based on "Euro" identified
+     all income related values and multiplied by 1.18 **using
+     value_unit ()**
+   - Pivot the data so that indicator name becomes 
+   - Remove countries and keep cities
+   - Log, Select NAN handling strategy, Scale
+   - PCA, Kmeans using silouette scores and plot clusters 
+   - Plot clusters and visualize with PCA
+   - Plot histograms
+   
+2. What took time? Pivoting, plotting as I wanted them, initial issue
+   without Log, understanding that it was a log issue and implementing
+   it in the right order, pandas slicing, plotting with np.logspace
+
+2. Why Log?, why pivite? why scale? why NAN
+
+	Why scale?
+	
+	Don't want importance of a variable to be decided by it's
+    size. You want all variables to be treated the same. Large
+    variables affect distance dis-propotionately.
+	
+	Why log?
+	
+	to form clusters in 10-100 and 100000-1mill
+	
+3. explain results of the clustering
+
+- Ideally we would like ratios so that we can see everything in one
+  graph
+- green is a well developed country city looks like, large populations
+  and higher incomes of all and 
+- blue is also well developed
+- include ppp ratios, plot on maps, more detailed explanation of claims
+
+- red is in the middle
+
+4. explain results of the histogram
+
+5. Why kmeans
+
+Most well known, sklearn chart on how the algos can work, good for
+even size cluster, need to explore toher types
+
+3. prep for indrew
+   - what are the axis
+   - what slowed you down
+   - explain the whole process (key htings you saw like countries,
+     other values hidden and needed to be converted)
+	 - other directions you would like to look at? such as was there
+     similarity due to country
+	 
+   - other indrew questions
+   
+Do the same prep as last time.
+
+
+**Actual questions**
+
+Let's go to the indrew. I took them through the case. They just
+listened fully. Told them about 
+
+- how I check things
+- how I use log or ln 
+- how I still did imputing even though I didn't need to
+- Showed them the clusters
+- explained to them with the clusters on what sort of countries they
+  are. 
+- I also told them what I want to do in the future with time
+  segmentation and they bought it. (2008 vs 2025 work)
+- and that was it. They had not quesitons and they said they were
+  impressed and happy with the thoroughness of how I do thinking. 
+  
+John data scientist is from Pricing and is a data scientist but has
+worked in baysian analysis and pushed Machine Learning in IKEA since
+2015 or so.
+
+Noah was in CS now is in management telecom and finance and doing some
+masters in digital messaging now.
+
+1. 2-3 slides on research and convey it to new non statistics people
+
+	I said one slide on claim, one on the evidence and one of
+    important clusters where you prioritize the next city of attack
+    based out of the important cluster.
+
+	It was very nice to see encouraging and heads shaking.
+
+2. What KPIs would ikea be interested in... Cost, revenue and value
+   pice in revenue, supply chain, stores opening.
+   
+3. where would ikea use  Machine Learning in consumer and market
+   insights
+   
+   Forecasting sales, forcasting revenue, 
+   New markets to break into, missing cities to break into, clustreing
+   is a form of unsupervised Machine Learning
+
+4. what was hardest?
+
+	Getting to the point where I know which direction to go with the
+    data. It took me one full day to just get there.
+
+
+They didn't ask me anything in depth. i was allowed to jsut answer.
+
+
+There are three groups --> Consumer insights (Data Science and DE
+together types, NLP), competitors compass and Customer satisfaction.
+
+I clearly told them Data Science of puzzling out is important for me.
+
+
+John told me he likes the support he gets to do things in ikea. and
+that he would like ikea to improve it's decision making process. with
+many stakeholders befor you get to a decision..
+
+
+
+### Assignment prep
+
+> As from what I understood the assignment will be around
+> cluster/segmentation analysis; with machine learning as a bonus. I
+> don’t know if this helps you or makes any sense – but hopefully it
+> gives you a bit of an understanding
+
+1. types of Machine Learning
+
+2. clustering statquest
+
+3. segmentation analysis (example customer segmentation)
+
+4. find example 
+
+5. and reproduce
+
+6. do your own example with fraud detection data
+
+
+**Types of ML**
+
+https://www.youtube.com/watch?v=yN7ypxC7838
+
+1. Supervised
+
+	1. regression (continuous variables)
+		- linear regression
+		- multiple regression
+		- polynomial regression
+		- decision tree
+		- random tree (multiple dts using bootstrapped datasets)
+		- xgboost
+		- nueral network
+	2. classification (discrete)
+		- logistic regression
+		- Support vector machine (sounds like multiple regression but
+          for classification)
+		- naive bayes
+		- DT, rf and nn
+
+2. unsupervised
+
+	- clustering 
+		- kmeans
+		- hirarchecal
+		- mean shift
+		- density based
+	- dimensionality reduction
+		- feature elemination
+		- feature extraction
+		- PCA
+
+### **K-means clustering**
+
+https://www.youtube.com/watch?v=4b5d3muPQmA
+
+https://www.kaggle.com/thejravichandran/kmeans-learning
+
+- k stands for how many clusters you want to identify.
+- process
+  - standardize (normalize)
+  - choose k random points for clustering
+  - now go over every point and classify them as belonging to cluster
+    based on "distance"
+  - Calculate mean of all the different clusters
+  - Repeat step 2. Stop when you see no change in clustering
+  - track variation of different clusters and start over till N outcomes
+    are reached. 
+- variation in cluster around different clusters shows how good or bad
+  out clustering is.
+- **what value for k?**
+  - Plot silouette coefficient vs k And take highest sc k value
+  - find elbow in varience vs k plot (varience decrease stops becoming
+    worth while)
+  - look for uniform k value and highest siloutte coeff in the
+    siloutte sample histogram plot
+- distance => euclidean distance (basically sqrt(sumsq(x-x1,x-x2...)))
+
+- **uses:** clustering to see how each sample is different? and using
+  it in the Machine Learning model
+  
+what about categorical variables???
+
+Are we expected to normalize the results? what are the caveats?
+
+It is **only for numerical** variables and not for
+categorical. Ordinal, maybe.
+
+**Coding**:
+
+- nan strategy
+- making categories with kmeans
+- making sense of categories with kmeans
+- 
+
+
+
+https://www.kaggle.com/fabiendaniel/customer-segmentation
+
+Top voted stuff but too much info
+
+https://www.kaggle.com/mgmarques/customer-segmentation-and-market-basket-analysis
+
+Nice plots and info above... Does not explain the point of seeing the distribution.
+
+- to keep it mind
+  - check number of elements in a cluster
+  - what to do categorical variables?
+   Perhaps as [here](https://datascience.stackexchange.com/a/9385/67821), maybe we just [one hot encode](https://pbpython.com/categorical-encoding.html) them?
+  - get silouette score and plot the variables to visibly see the
+    variables and how they're clustering is...
+  - compare different variables for each cluster (using avg for
+    example), or look at the centroid values ...
+  - log the scaled values or not?
+  - get deeper into clustering using hierarchical
+
+  
+    > StandardScaler : It transforms the data in such a manner that it
+    > has mean as 0 and standard deviation as 1. In short, it
+    > standardizes the data. Standardization is useful for data which
+    > has negative values. It arranges the data in a standard normal
+    > distribution. It is more useful in classification than
+    > regression. You can read this blog of mine.
+    >
+    > Normalizer : It squeezes the data between 0 and 1. It performs
+    > normalization. Due to the decreased range and magnitude, the
+    > gradients in the training process do not explode and you do not
+    > get higher values of loss. Is more useful in regression than
+    > classification. You can read this blog of mine.
+
+
+1. get kmeans of several values stopping at ones with least variation
+2. check elbow plot
+3. check silouette score for each
+4. plot silouette score histogram for each cluster
+5. plot another variable and the different clusters to see where you
+   are at.
+6. hirarchical clustering example with categorical variable?
+7. PCA
+8. linear and multivariate 
+9. how to... do linear and multivariate
+10. plotting basics
+
+7. Look at the case ikea on github?
+
+**Hierarchical clustering** associated with heatmaps and dendograms
+
+https://www.youtube.com/watch?v=7xHsRkOdVwo
+
+https://www.kaggle.com/vipulgandhi/hierarchical-clustering-explanation
+
+What two things are most similar. I have used it in the context of
+trying to find out what two variables are close to each other.
+
+- HC heatmap shows rows or columns "similar" to each other
+  - e.g., heatmap of genes and samples. 
+- process
+  - compare every row with each other on how "similar" it is.
+  - make the first cluster on the most similarest
+  - then do again and again and make the dendogram and arrangement
+  - height of dendogram is the first cluster and the most similar
+
+- assessing new data points and their cluster
+  - centroid
+  - closest
+  - furthest
+
+- "similar" ==> euclidean distance is used a lot
+		    ==> Manhattan distance --> sum(abs(diff))
+- choice is arbitrary. They give different outcomes.
+
+**Segmentation analysis**
+
+Follow this page to do clustering and segmentation reporting...
+
+https://towardsdatascience.com/customer-segmentation-arvato-bertelsmann-project-44e73210a1b7
+
+- Data Overview and Data Cleaning;
+- Exploratory Data Analysis;
+- Unsupervised Machine Learning Task: Cluster Analysis;
+- Customer Segmentation Report;
+- Supervised Machine Learning Task: Targeting Customers for a Marketing Campaign.
+
+**difference between segmentation and clustering**
+https://dfrieds.com/machine-learning/segmentation-vs-clustering.html
+
+**one hot encoding categorical variables**
+
+https://towardsdatascience.com/what-is-one-hot-encoding-and-how-to-use-pandas-get-dummies-function-922eb9bd4970
+
+
+
+### PCA
+
+
+  
+
 ## Leonidas chat and feedback
+
