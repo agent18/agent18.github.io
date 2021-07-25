@@ -482,6 +482,63 @@ staying focused calls for something else.
 
 4. refactor mix ideas and issue, refactor one last time and conclude?
 
+## POMO
+
+**day 0 20th july** started late at 20 hrs and slept as soon as I
+started and had breaks.
+
+**day 1 21st july**
+Also slept after starting work.
+
+Used it at regular work, felt much better on many days (got the
+feeling of having done something)
+
+
+Only done at work.
+
+**day 2 22nd July**
+Started at 18:31, feeling a bit sleepy but not as much
+
+Work was "ok", lots of distractions from IT, but was not as bad as
+friday. There was a rhythm and am still happy to go on this way where
+I can guarenteed take a guilt free break.
+
+Took a 5 min sleep and the timer woke me up
+
+Completed more time than I ever did in the last two days by 19:27. I
+finsed two pomodoros. 
+
+Finished two hrs. It's still hard to come back after 0.5hr of
+break. But I did and here we are.
+
+**Day 3 23rd July**
+
+Was more tired than normal today for starting. I was already late to
+start because I went to pals like an idiot.
+
+Realized I had one hr in the morning and didn't want to work too
+much. So did 25 mins of the work and then decided to procrastinate for
+1.5 hrs. I felt really tired too. Been waking up at 7:15 pretty much
+for 3 days straight. But I am just about to complete a solid podoro of
+about 3 hours with 20 mins break.
+
+
+work pomodoro was ok.
+
+
+**Day 4 sat 24th July**
+
+Still did 2 hours of pomodoro. That is the success of pomodoro. I was
+haveing quite some liqor today.
+
+
+Yesterday I was tired, drunk a bit. I still managed to do 2 hrs and 50
+mins. The last 20 mins was shit, I was finding it really hard to pick
+up a new task and didn't want to start. And procrastinated while time
+is on. I think this was mainly due to the fact that I was drunk
+earlier. Nevertheless, such a day producing such amount of work was
+good. It was a miracle I did 2.5 hrs even.
+
 ## Avalable time: 
 
 Mon 2.5

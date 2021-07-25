@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title:  "Productivity"
-date: 04-06-2021
+date: 19-07-2021
 categories: notes
 tags: other
 permalink: /:title.html
@@ -288,7 +288,7 @@ https://www.lesswrong.com/posts/E4gud47NNqgtsEeEr/my-workflow
 
 - pomodoro of 20 and 3
 
-- time loffing
+- time logging
 
 ### EY
 

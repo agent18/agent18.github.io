@@ -20,7 +20,11 @@ CLOCK: [2021-07-19 ma 21:13]--[2021-07-19 ma 21:42] =>  0:29
 :END:
 *** Attempting to re-write
 :LOGBOOK:
-CLOCK: [2021-07-25 zo 15:24]
+CLOCK: [2021-07-26 ma 01:00]
+CLOCK: [2021-07-25 zo 23:00]--[2021-07-26 ma 00:45] =>  1:45
+CLOCK: [2021-07-25 zo 21:45]--[2021-07-25 zo 22:45] =>  1:00
+CLOCK: [2021-07-25 zo 19:04]--[2021-07-25 zo 21:00] =>  1:56
+CLOCK: [2021-07-25 zo 15:24]--[2021-07-25 zo 16:25] =>  1:01
 CLOCK: [2021-07-25 zo 09:02]--[2021-07-25 zo 11:00] =>  1:58
 CLOCK: [2021-07-25 zo 00:11]--[2021-07-25 zo 00:22] =>  0:11
 CLOCK: [2021-07-24 za 23:19]--[2021-07-25 zo 00:05] =>  0:46
@@ -47,6 +51,8 @@ CLOCK: [2021-07-20 di 23:17]--[2021-07-20 di 23:27] =>  0:10
 
 ** Not counted for DP                                                :break:
 :LOGBOOK:
+CLOCK: [2021-07-25 zo 21:00]--[2021-07-25 zo 21:45] =>  0:45
+CLOCK: [2021-07-25 zo 16:25]--[2021-07-25 zo 19:04] =>  2:39
 CLOCK: [2021-07-25 zo 11:00]--[2021-07-25 zo 15:24] =>  4:24
 CLOCK: [2021-07-24 za 22:37]--[2021-07-24 za 23:19] =>  0:42
 CLOCK: [2021-07-23 vr 22:36]--[2021-07-23 vr 22:55] =>  0:19
@@ -5027,64 +5033,16 @@ about it.
 
 * weekly statistics
 
-#+BEGIN: clocktable :maxlevel 3 :scope file :step week :tstart "<-2w>" :tend "<tomorrow>" :tags t :compact t :match "-break-NATW"
+#+BEGIN: clocktable :maxlevel 3 :scope file :step week :tstart "<-3w>" :tend "<tomorrow>" :tags t :compact t :match "-break-NATW"
 
-Weekly report starting on: [2021-05-31 ma]
-| Tags | Headline                           |      Time |
-|------+------------------------------------+-----------|
-|      | *Total time*                       | *1d 3:14* |
-|------+------------------------------------+-----------|
-|      | EA what up                         |      5:06 |
-| work | \_  Counted for work               |      5:06 |
-| work | \_    exploratory                  |      2:58 |
-| work | \_    luke assistant starting test |      2:08 |
-|      | interview exams DS/DA/BS jaaps     |     22:08 |
-| work | \_  Counted for work               |     22:08 |
-| work | \_    internship at dealroom       |     22:08 |
-
-Weekly report starting on: [2021-06-07 ma]
+Weekly report starting on: [2021-07-04 zo]
 | Tags | Headline                       |    Time |
 |------+--------------------------------+---------|
-|      | *Total time*                   | *12:30* |
+|      | *Total time*                   | *11:48* |
 |------+--------------------------------+---------|
-|      | interview exams DS/DA/BS jaaps |   12:30 |
-| work | \_  Counted for work           |   12:30 |
-| work | \_    internship at dealroom   |   12:30 |
-
-Weekly report starting on: [2021-06-14 ma]
-| Tags | Headline                       |    Time |
-|------+--------------------------------+---------|
-|      | *Total time*                   | *19:15* |
-|------+--------------------------------+---------|
-|      | EA what up                     |   12:03 |
-| work | \_  Counted for work           |   12:03 |
-| work | \_    RP application           |    9:22 |
-| work | \_    Looking                  |    0:56 |
-| work | \_    aquatics cover           |    1:45 |
-|      | interview exams DS/DA/BS jaaps |    7:12 |
-| work | \_  Counted for work           |    7:12 |
-| work | \_    ikea prep                |    7:12 |
-
-Weekly report starting on: [2021-06-21 ma]
-| Tags | Headline                       |   Time |
-|------+--------------------------------+--------|
-|      | *Total time*                   | *7:15* |
-|------+--------------------------------+--------|
-|      | interview exams DS/DA/BS jaaps |   7:15 |
-| work | \_  Counted for work           |   7:15 |
-| work | \_    ikea prep                |   7:15 |
-
-Weekly report starting on: [2021-06-28 ma]
-| Tags | Headline                       | Time      |
-|------+--------------------------------+-----------|
-|      | *Total time*                   | *1d 7:15* |
-|------+--------------------------------+-----------|
-|      | EA what up                     | 4:38      |
-| work | \_  Counted for work           | 4:38      |
-| work | \_    RP application           | 4:38      |
-|      | interview exams DS/DA/BS jaaps | 1d 2:37   |
-| work | \_  Counted for work           | 1d 2:37   |
-| work | \_    ikea case                | 1d 2:37   |
+|      | interview exams DS/DA/BS jaaps |   11:48 |
+| work | \_  Counted for work           |   11:48 |
+| work | \_    ikea case                |   11:48 |
 
 Weekly report starting on: [2021-07-05 ma]
 | Tags | Headline                       |    Time |
@@ -5111,16 +5069,20 @@ Weekly report starting on: [2021-07-12 ma]
 | work | \_    Answering form questions FP |   2:16 |
 
 Weekly report starting on: [2021-07-19 ma]
-| Tags | Headline                      |   Time |
-|------+-------------------------------+--------|
-|      | *Total time*                  | *2:17* |
-|------+-------------------------------+--------|
-|      | productivity essay            |   1:22 |
-| work | \_  Counted for work          |   1:22 |
-| work | \_    Reading and researching |   1:22 |
-|      | EA what up                    |   0:55 |
-| work | \_  Counted for work          |   0:55 |
-| work | \_    Prepping for task       |   0:55 |
+| Tags | Headline                              |      Time |
+|------+---------------------------------------+-----------|
+|      | *Total time*                          | *1d 1:52* |
+|------+---------------------------------------+-----------|
+|      | productivity essay                    |     19:43 |
+| work | \_  Counted for work                  |     19:43 |
+| work | \_    Reading and researching         |      3:37 |
+| work | \_    Attempting to re-write          |     15:56 |
+| work | \_    looking into org-mode for todos |      0:10 |
+|      | EA what up                            |      6:09 |
+| work | \_  Counted for work                  |      6:09 |
+| work | \_    Prepping for task               |      0:55 |
+| work | \_    FP first half hour indrew prep  |      3:59 |
+| work | \_    FP indrew for 45 mins HR types  |      1:15 |
 #+END:
 
 
@@ -5129,11 +5091,6 @@ Weekly report starting on: [2021-07-19 ma]
 https://orgmode.org/manual/The-clock-table.html
 
 #+BEGIN: clocktable :maxlevel 3 :scope file :step day :tstart "<-7d>" :tend "<tomorrow>" :tags t :compact t :match "-break-NATW"
-
-Daily report: [2021-07-18 zo]
-| Tags | Headline     | Time   |
-|------+--------------+--------|
-|      | *Total time* | *0:00* |
 
 Daily report: [2021-07-19 ma]
 | Tags | Headline                      |   Time |
@@ -5200,12 +5157,21 @@ Daily report: [2021-07-24 za]
 Daily report: [2021-07-25 zo]
 | Tags | Headline                      |   Time |
 |------+-------------------------------+--------|
-|      | *Total time*                  | *0:22* |
+|      | *Total time*                  | *7:17* |
 |------+-------------------------------+--------|
-|      | productivity essay            |   0:22 |
-| work | \_  Counted for work          |   0:22 |
+|      | productivity essay            |   7:17 |
+| work | \_  Counted for work          |   7:17 |
 | work | \_    Reading and researching |   0:06 |
-| work | \_    Attempting to re-write  |   0:16 |
+| work | \_    Attempting to re-write  |   7:11 |
+
+Daily report: [2021-07-26 ma]
+| Tags | Headline                     |   Time |
+|------+------------------------------+--------|
+|      | *Total time*                 | *0:45* |
+|------+------------------------------+--------|
+|      | productivity essay           |   0:45 |
+| work | \_  Counted for work         |   0:45 |
+| work | \_    Attempting to re-write |   0:45 |
 #+END:
 
 scrolling issue 
