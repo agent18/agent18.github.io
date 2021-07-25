@@ -213,27 +213,27 @@ Entrepreneurship
 
 2. rigorously apply for internships and assistant positions
 
-4. Search in EA forum
+3. Search in EA forum
 
-5. AMA on EA forum
+4. AMA on EA forum
 
-6. how to have better answered the internships you failed.
+5. how to have better answered the internships you failed.
 
-7. do a course to get uptospeed with statistics of poverty, how to
+6. do a course to get uptospeed with statistics of poverty, how to
    estimate it? etc...
    
-8. Connect with people on LinkedIn and do what?
+7. Connect with people on LinkedIn and do what?
 
-9. Attend GiveWell donor briefing
+8. Attend GiveWell donor briefing
 
-10. help run a local ea group?
+9. help run a local ea group?
 
-11. Find stuff in the EA group?
+10. Find stuff in the EA group?
 
-12. How about DP? in the way that you look at their research see how
+11. How about DP? in the way that you look at their research see how
     they do it and copy it and understand it and then play chess?
 	
-13. Speak to or ask people like Peter and David (from RP)
+12. Speak to or ask people like Peter and David (from RP)
 
 13. volunteering (fb options)
 
@@ -688,7 +688,7 @@ Lives Institute,
 	- For career reaching out to several people in the field to help
       me understand what I should do differently.
    
-6. What would you do if you had to speak to and get impartial
+1. What would you do if you had to speak to and get impartial
    information from a partial advocate of a particular topic? The
    advocate you need information from is focused on making as strong
    of a case for their cause as possible, whereas you need
@@ -697,36 +697,36 @@ Lives Institute,
    - focus on examples, actions, no advice or opinions, only data as
      weak as it maybe. (example, ?)
    
-7. [Not given to you in advance, as we are interested in how you react
+2. [Not given to you in advance, as we are interested in how you react
    to the question without preparation.]
-8. [Not given in advance]
-9. [Not given in advance]
-10. [Not given in advance]
+3. [Not given in advance]
+4. [Not given in advance]
+5. [Not given in advance]
 
 How do you see this? how would you approach this?
 indonesia --> 2022 chance of earthquake > 1bill in damage.... 
 
-11. [Not given in advance]
+1. [Not given in advance]
 
 How do you see this? how would you approach this?
 econmic development is a good thing, factory farming...
 example.. eicher countrues 
 
-12. What would you like to get out of this job? Where do you want to
+1. What would you like to get out of this job? Where do you want to
     progress to? 
 	
 	(grow to manage more researchers but first I need to
     be very good at it, take on more and more responsibility, be more
     independent).
 	
-13. Do you have any prior management experience? If so, can you
+2. Do you have any prior management experience? If so, can you
     describe your role and responsibilities?
 	
 	- just helping new associates
 	- leading committes to organize events... 2012, chariman tudelft
       2015, asml PPC leading it.
 	  
-14. What do you not like about managers you’ve had in the past? If
+3. What do you not like about managers you’ve had in the past? If
     possible, be specific about a time you had an issue or conflict
     with a past manager. What was the issue and what was the
     resolution?
@@ -738,7 +738,7 @@ example.. eicher countrues
 	- no concrete metrics and folding their hands like hell...
 	- manager conflict?
 	
-15. I’m aware this is in the weeds, but please walk me through the
+4. I’m aware this is in the weeds, but please walk me through the
     organizational system you use. When you begin work in the morning,
     how do you decide what to start working on? And as items come up
     during the day, where would you capture those so you didn’t
@@ -750,7 +750,7 @@ example.. eicher countrues
 	- everytime I start work in the evening, I look at the todo I made
       last time and update it.
 	
-16. Have you done any joint research projects in the past, where you
+5. Have you done any joint research projects in the past, where you
     collaborated with at least one other person? If so, how did you
     manage the collaboration?
 	
@@ -760,7 +760,7 @@ example.. eicher countrues
 		- split up who is responsible for what
 		- have regular discussions
 	
-17. When would you be able to start if we were to hire you?
+6. When would you be able to start if we were to hire you?
 
 	- in two months or less, depends... 1 month might also be possible.
 
@@ -889,10 +889,175 @@ Recycle word for word what I sent RP?
 
 **other docs nothing**
 Nope
-### filling up form
+
+### filling up form for application
+
+FP thus sent me a [form](https://web.archive.org/web/20210709213819/https://docs.google.com/forms/d/e/1FAIpQLSeMWpZhhRhHqim-e75ywhsF0q8Tap3BagjbQgSQF3fHtg7U5A/viewform).
+
+in another post (FP-researcher-form.markdown)
+
+### FP indrew question prep list
+
+Indrew with [Fay Nicholls](https://www.linkedin.com/in/faynicholls/?originalSubdomain=uk).
+
+> I also wanted to give you a bit more information on our interview
+> process, so here are the steps that we usually take to evaluate future
+> members of our Research team:
+>
+> 1. A short call with myself to connect and better understand your
+> experience, goals and role expectations (~30 minutes)
+> 2. Completion of an aptitude test, followed by written exercise / work
+>    task designed to showcase your skills (~4-5 hours)
+> 3. Video interviews with various members of the Founders Pledge team
+>    (~2.5 hours)
+
+1. CV explanation
+   1. Experience,
+   
+   - DP, claims,
+   - 4 years of mech engineering
+   - on the side worked 2000 hours on data science
+   
+   Let's write it down...
+   
+   Also a run down general run down and time it..
+   
+   **Different aspects**
+   
+   - math
+   - data science
+   - writing
+   - statistics
+   - research
+   
+   **Together aspects**
+   
+   before 2014, then masters, then I started doing
+   - prepping for backup career DS
+   - writing about career plans, TC 80k, dp practice sessions critical
+     thinking, data science, cities and ambition, productivity, fermi
+   - Giving 10% of gross to Ea
+   - Mech work
+   - currently a Data Analyst
+   
+   
+   2. Goals
+   
+   Be part of a high impact organization. Steer people to most
+   effective ways of spending money. Growth of FP, directly impact
+   where the money goes.
+   
+   3. role expectations (get it from)
+
+	Cause Area Investigation: Most pressing problems and most cost
+    effective ways of tackling them
+	
+	Finding great opportunities to fund
+	
+	Shallow investigations
+	
+	Support philanthropic advisors to provide advice, presenting
+    research findings to members.
+	
+	You are working on long-term, GH&P and animal welfare.
+
+2. What does FP do?
+
+	ok
+
+3. HR type questions
+   Make these questions and answer them and be done with it
+   
+   - Strengths and weaknesses
+	 - never give up, ability to pick up previously unknown tasks and
+       thrive (internship, Machine Learning competition, indrew ike)
+	 - weakness--> lack of research experince but have done (writing,
+       carrer essays where we compare several for life time impact,
+       counterfactual), presentation...
+	     
+   
+   - why we should hire you? 
+   
+   - hard to hear feedback
+   
+   - why this job interests you?
+   
+   - Tell me about your research experience?
+	 what did you do there?
+   - What is your plan to make this world better?
+   
+   - When you did deep review of someone's work?
+   
+   - stakeholder management example
+   
+4. Questions on the form (elaborate) to prepare
+
+	- latste
+	
+
+5. general questions from other indrews?
+
+	- What are you looking for? who is an ideal candidate? Junior or senior
+	- Why did you choose me for this round? 
+	- how many people?
+	- what is something you like about FP and dislike about FP
+	
+	- for later, how is a founder supposed to navigate through the
+      labrynth of information, there is stories, there are reports
+      etc. I have some serious questions about it.
+	- what opportunities will have to learn and grow?
+	- are you just researching gaps in Ea research as done by opp, RP
+      and GIVEWELL.
+
+### FP indrew questions
+
+Team was impressed with your Cv and how you answered questions.
+
+Looking for 2x AR and 1x Sr. Researcher. They are looking for 2x
+generalists.
+
+Completely remote. with open hours for 15 mins flat hirarchy.
+
+Sjir is in Netherlands and Johannes is in Germany.
+
+People like to block time and work and have separate times for
+meetings.
+
+**Familiarize yourself with work from FP.**
+
+**read climate and lifestyle**, I said I will do a review of reports.
+
+Currently 25 people in process for 2 jobs. After aptitute test by end
+of next week.
+
+Aptitude test is coming up
+
+1. Tell about your recent experience? what are you doing?
+   
+   write, give, DP, ME, Data Analyst, critical review
+
+2. How do you manage startup environment dynamic, changes
+
+3. How did you get into EA
+
+4. Do you have any preference on where you would like to work
+
+I said all is equally lucrative, focus is really high-impact.
+
+5. Do I think Bayesianly? Do I have baysian thinkign
+
+5. What they are lookign for
+
+Someone who can add a fresh perspective, curious, great thinker.
+
+They are looking for generalists, with the "right attitude",
+absolutely motivated, generalist, has the skills but that is not the
+only thing.
 
 
-### ALI
+
+
+## ALI
 
 
 **Jeff Sebo**

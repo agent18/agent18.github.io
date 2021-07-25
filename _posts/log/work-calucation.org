@@ -9,6 +9,7 @@
 *** other
 *** Reading and researching
 :LOGBOOK:
+CLOCK: [2021-07-25 zo 00:05]--[2021-07-25 zo 00:11] =>  0:06
 CLOCK: [2021-07-20 di 21:32]--[2021-07-20 di 21:36] =>  0:04
 CLOCK: [2021-07-20 di 20:10]--[2021-07-20 di 21:00] =>  0:50
 CLOCK: [2021-07-20 di 19:27]--[2021-07-20 di 19:54] =>  0:27
@@ -19,6 +20,13 @@ CLOCK: [2021-07-19 ma 21:13]--[2021-07-19 ma 21:42] =>  0:29
 :END:
 *** Attempting to re-write
 :LOGBOOK:
+CLOCK: [2021-07-25 zo 15:24]
+CLOCK: [2021-07-25 zo 09:02]--[2021-07-25 zo 11:00] =>  1:58
+CLOCK: [2021-07-25 zo 00:11]--[2021-07-25 zo 00:22] =>  0:11
+CLOCK: [2021-07-24 za 23:19]--[2021-07-25 zo 00:05] =>  0:46
+CLOCK: [2021-07-24 za 20:48]--[2021-07-24 za 22:37] =>  1:49
+CLOCK: [2021-07-23 vr 22:55]--[2021-07-23 vr 23:39] =>  0:44
+CLOCK: [2021-07-23 vr 20:39]--[2021-07-23 vr 22:35] =>  1:56
 CLOCK: [2021-07-21 wo 23:42]--[2021-07-21 wo 23:48] =>  0:06
 CLOCK: [2021-07-21 wo 23:16]--[2021-07-21 wo 23:42] =>  0:26
 CLOCK: [2021-07-21 wo 21:04]--[2021-07-21 wo 23:02] =>  1:58
@@ -39,6 +47,9 @@ CLOCK: [2021-07-20 di 23:17]--[2021-07-20 di 23:27] =>  0:10
 
 ** Not counted for DP                                                :break:
 :LOGBOOK:
+CLOCK: [2021-07-25 zo 11:00]--[2021-07-25 zo 15:24] =>  4:24
+CLOCK: [2021-07-24 za 22:37]--[2021-07-24 za 23:19] =>  0:42
+CLOCK: [2021-07-23 vr 22:36]--[2021-07-23 vr 22:55] =>  0:19
 CLOCK: [2021-07-21 wo 20:35]--[2021-07-21 wo 21:04] =>  0:29
 CLOCK: [2021-07-21 wo 19:25]--[2021-07-21 wo 19:54] =>  0:29
 CLOCK: [2021-07-20 di 22:46]--[2021-07-20 di 22:49] =>  0:03
@@ -190,13 +201,23 @@ CLOCK: [2021-07-12 ma 10:31]--[2021-07-12 ma 11:35] =>  1:04
 :END:
 *** FP first half hour indrew prep
 :LOGBOOK:
-CLOCK: [2021-07-22 do 18:31]
+CLOCK: [2021-07-22 do 21:59]--[2021-07-22 do 23:00] =>  1:01
+CLOCK: [2021-07-22 do 20:58]--[2021-07-22 do 21:59] =>  1:01
+CLOCK: [2021-07-22 do 18:31]--[2021-07-22 do 20:28] =>  1:57
+:END:
+*** FP indrew for 45 mins HR types
+:LOGBOOK:
+CLOCK: [2021-07-23 vr 20:39]--[2021-07-23 vr 20:39] =>  0:00
+CLOCK: [2021-07-23 vr 19:08]--[2021-07-23 vr 19:33] =>  0:25
+CLOCK: [2021-07-23 vr 09:00]--[2021-07-23 vr 09:50] =>  0:50
 :END:
 ** Other useful stuff                                                 :meta:
 *** Work done for STM 
 
 ** Not counted for DP                                                :break:
 :LOGBOOK:
+
+CLOCK: [2021-07-22 do 20:28]--[2021-07-22 do 20:58] =>  0:30
 CLOCK: [2021-07-19 ma 21:06]--[2021-07-19 ma 21:13] =>  0:07
 CLOCK: [2021-07-12 ma 19:46]--[2021-07-12 ma 20:45] =>  0:59
 CLOCK: [2021-07-12 ma 14:14]--[2021-07-12 ma 17:58] =>  3:44
@@ -5109,26 +5130,6 @@ https://orgmode.org/manual/The-clock-table.html
 
 #+BEGIN: clocktable :maxlevel 3 :scope file :step day :tstart "<-7d>" :tend "<tomorrow>" :tags t :compact t :match "-break-NATW"
 
-Daily report: [2021-07-14 wo]
-| Tags | Headline     | Time   |
-|------+--------------+--------|
-|      | *Total time* | *0:00* |
-
-Daily report: [2021-07-15 do]
-| Tags | Headline     | Time   |
-|------+--------------+--------|
-|      | *Total time* | *0:00* |
-
-Daily report: [2021-07-16 vr]
-| Tags | Headline     | Time   |
-|------+--------------+--------|
-|      | *Total time* | *0:00* |
-
-Daily report: [2021-07-17 za]
-| Tags | Headline     | Time   |
-|------+--------------+--------|
-|      | *Total time* | *0:00* |
-
 Daily report: [2021-07-18 zo]
 | Tags | Headline     | Time   |
 |------+--------------+--------|
@@ -5165,6 +5166,46 @@ Daily report: [2021-07-21 wo]
 |      | productivity essay           |   3:57 |
 | work | \_  Counted for work         |   3:57 |
 | work | \_    Attempting to re-write |   3:57 |
+
+Daily report: [2021-07-22 do]
+| Tags | Headline                             |   Time |
+|------+--------------------------------------+--------|
+|      | *Total time*                         | *3:59* |
+|------+--------------------------------------+--------|
+|      | EA what up                           |   3:59 |
+| work | \_  Counted for work                 |   3:59 |
+| work | \_    FP first half hour indrew prep |   3:59 |
+
+Daily report: [2021-07-23 vr]
+| Tags | Headline                             |   Time |
+|------+--------------------------------------+--------|
+|      | *Total time*                         | *3:55* |
+|------+--------------------------------------+--------|
+|      | productivity essay                   |   2:40 |
+| work | \_  Counted for work                 |   2:40 |
+| work | \_    Attempting to re-write         |   2:40 |
+|      | EA what up                           |   1:15 |
+| work | \_  Counted for work                 |   1:15 |
+| work | \_    FP indrew for 45 mins HR types |   1:15 |
+
+Daily report: [2021-07-24 za]
+| Tags | Headline                     |   Time |
+|------+------------------------------+--------|
+|      | *Total time*                 | *2:30* |
+|------+------------------------------+--------|
+|      | productivity essay           |   2:30 |
+| work | \_  Counted for work         |   2:30 |
+| work | \_    Attempting to re-write |   2:30 |
+
+Daily report: [2021-07-25 zo]
+| Tags | Headline                      |   Time |
+|------+-------------------------------+--------|
+|      | *Total time*                  | *0:22* |
+|------+-------------------------------+--------|
+|      | productivity essay            |   0:22 |
+| work | \_  Counted for work          |   0:22 |
+| work | \_    Reading and researching |   0:06 |
+| work | \_    Attempting to re-write  |   0:16 |
 #+END:
 
 scrolling issue 

@@ -393,6 +393,72 @@ managing the procrastination.
 3. It's not just you. cognitive empathy? Even the great Scott
    Alexander had this in 2009 where he wanted to read books.
 
+## Garbage on commiting
+
+There are several aspects of it right? 
+- doing the 
+
+
+
+
+one
+of the days I started at 18:00hrs (which is a miracle by itself,
+somehow I was motivated to).
+
+I usually commit to doing X hrs of work a day. But then I struggle to
+complete it. I don't like the feeling I get when I have stare down the
+barrel of 4 hrs that I need to complete. Any slip in time, and I have
+to stay way late. It's easy to procrastinate without doing work and
+then because of the commitment you force yourself to finish it in an
+unpleasant way by staying up late. This affects the next day and the
+vicious cycle continues.
+
+For example, one of the days I started at 18:00hrs (which is miracle
+by itself, somehow I was motivated to)
+
+Great now that I have committed to working 4 hours a day for the next
+week (start small) it should be a piece of cake. Let's go! But
+wait. Yesterday for example of a day. I started at 18:00 hrs which is
+a miracle by itself. It has been so hard to start around that time. I
+always procrastinated until 18:30 or 19:00hrs, ALWAYS. After starting,
+I held my breadth for exactly 7 minutes and rushed to the bed as I
+couldn't deal with it. With great difficulty I push myself to get up
+and sit at my desk. Luckily the task yesterday was a low-friction task
+of writing from scratch where I wrote a lot about personal experience
+and didn't care about structure or anything and just was dumping
+material from my head into a paper. I can manage that. :) and I did so
+with just one session >1 hr.
+
+I tell you, committing the duration is just one part of the issue. The
+current task, today for example, I am working on is writing an essay,
+generating new ideas and doing 4 hours of that everyday with a
+deadline to publish at the end of the week. I started at 18hrs and
+after only 13 mins I wanted to go sleep. So I forced myself to sleep
+on my desk and then following that I worked for half an hour, and then
+took a half hour break and another 40 mins and another half hour
+break. 
+
+I can commit to a starting time, and working 25 mins. But that doesn't
+cure my struggle fighting against myself to get things done. Today, (I
+did feel a "lot tired")
+
+
+Unlike a coding assignment--where I am able to work 8-10hours
+on both days of the weekend-- there is "plenty of feedback" on if I am
+on the right track or not. Here, there is absolutely not. It's a hunch
+at best, if I will meet the deadline one week away. I am scratching my
+head to pick up some form of content that helps me with some decent
+structure for an essay. For some reason I feel very hard to focus,
+generate ideas and the weight of having to do 4 more godforsaken hours
+of this is not pleasing at all. I make one mistake of taking 1 hr off
+and then the penalty is huge that I have to extend to late night to
+finish it.
+
+Starting before 18:00 hrs might not even be the issue. Let's say I
+commit to it. I mean it's hard but maybe I can just commit to it. But
+staying focused calls for something else.
+
+
 ## What has worked in the past
    
 ## ideas
