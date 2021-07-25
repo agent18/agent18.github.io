@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Productivity"
 date: 19-07-2021
-categories: notes
+categories: posts
 tags: other
 permalink: /:title.html
 published: true
