@@ -5090,7 +5090,7 @@ Weekly report starting on: [2021-07-19 ma]
 * daily statistics
 https://orgmode.org/manual/The-clock-table.html
 
-#+BEGIN: clocktable :maxlevel 3 :scope file :step day :tstart "<-7d>" :tend "<tomorrow>" :tags t :compact t :match "-break-NATW"
+#+BEGIN: clocktable :maxlevel 3 :scope file :step day :tstart "<-8d>" :tend "<tomorrow>" :tags t :compact t :match "-break-NATW"
 
 Daily report: [2021-07-19 ma]
 | Tags | Headline                      |   Time |
@@ -5167,11 +5167,11 @@ Daily report: [2021-07-25 zo]
 Daily report: [2021-07-26 ma]
 | Tags | Headline                     |   Time |
 |------+------------------------------+--------|
-|      | *Total time*                 | *0:45* |
+|      | *Total time*                 | *1:38* |
 |------+------------------------------+--------|
-|      | productivity essay           |   0:45 |
-| work | \_  Counted for work         |   0:45 |
-| work | \_    Attempting to re-write |   0:45 |
+|      | productivity essay           |   1:38 |
+| work | \_  Counted for work         |   1:38 |
+| work | \_    Attempting to re-write |   1:38 |
 #+END:
 
 scrolling issue 

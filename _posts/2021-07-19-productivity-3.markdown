@@ -234,7 +234,9 @@ within 4.75 hours, with one half hour break and two \>1 hour breaks.
 | 3   | Yes    | 4       | 4.5               | 1             | 2        | 0         |
 | 4   | Yes    | 3       | 3.5               | 1             | 1        | 1         |
 | 5   | Yes    | 3       | 3.75              | 1             | 1        | 1         |
-| 6   | Yes    | 8       | split through day | 3             | 3        | 1         |
+| 6   | Yes    | 9       | split through day | 3             | 3        | 1         |
+| 6   | Yes    | 5.75    | 7                 | 1             | 2        | ~2        |
+
 
 For now I see that with POMODORO there is easily a 2 hour continuous
 session happening that day. In fact the first session of all Pomodoro
@@ -386,6 +388,14 @@ time. Need to get back to my DP.
 <!-- defined". What the fuck are you talking about Saravanen? -->
 
 <!-- write about leechblock bed etc... moving away? -->
+
+## Statistics
+
+Total hours: 25 hours  
+Total words: 3000 words  
+
+Avg per day: 4.25 hrs per day :)
+
 
 ## Footnotes
 
