@@ -1,0 +1,280 @@
+---
+layout: post
+comments: true
+title:  "How to become GiveWell Material"
+date: 02-08-2021
+categories: posts
+tags: data
+permalink: /:title.html
+published: false
+---
+
+## Entry question
+
+What are the steps I need to take to become an EA Researcher?
+
+What is my current level: I have not really done independent
+research. I have some exp with statistics, Data Science etc.
+
+## Current level
+
+| Year-mon | Org                        | Rounds     | People  |
+|----------|----------------------------|------------|---------|
+| Apr-2020 | CE-Intern                  | S-FTFI-WT  | 20/40   |
+| Jun-2020 | HLI-Intern                 | S-WT       | -/30    |
+| Jun-2021 | OpenPhil-Program-Assistant | S-WT       | -/-     |
+| Jun-2021 | Elizabeth-Assistant        | S-FTFI     | 30/30   |
+| Jul-2021 | RP-Researcher              | S-WT1-FTFI | 20/>100 |
+| Jul-2021 | FP-Researcher              | S-HRI      | 25/>100 |
+
+S--> Initial Screening
+FTFI --> Face to Face Interview
+WT --> Work Task
+WT1 --> First Work Task
+HRI --> HR Interview
+
+
+## Literature review
+
+**Forum replies MSJ**
+
+**My Takeaways from your message are:**  
+- Start with an internship. I will keep a lookout for RP's internship
+  opening.
+- Do a literature review or Cost-Effectiveness analysis on some
+  EA-related topic (Look at Saulius's work).
+- For survey related roles use Mixed-Models and reproduce "EA Survey
+  Analysis" and find other insights from the data.
+- There is another survey on wild animal suffering which needs
+  analysis, and you can help me with the getting the data. Correct?
+
+**Forum replies Saulius**
+
+Study ecology?
+
+**Peter Linkedin Message**
+
+> I was wondering if you are able to point out "specific skills" that
+> I need to improve on to become "top RP Material".
+
+> Hi Thej,
+>
+> We thought you were a great candidate but unfortunately the round
+> was very competitive and we decided we wanted to move forward with
+> other candidates. We're unfortunately not able to provide any
+> specific details about your application, but I'm glad you had a good
+> experience.
+>
+> One of the best things applicants interested in roles at
+> organizations like ours can do to improve their odds of being a
+> successful researcher is to read and write independent research for
+> the Effective Altruism Forum and get feedback from the community.
+>
+> It may also be good to acquire other credible credentials relevant
+> to research at such organizations, like becoming a top forecaster on
+> Metaculus or Good Judgement Open. I also recommend [this post](https://forum.effectivealtruism.org/posts/J7PsetipHFoj2Mv7R/notes-on-ea-related-research-writing-testing-fit-learning) by
+> one of our researchers:
+> 
+>
+> There are not currently any internship openings but we are planning
+> another internship for Dec-Mar 2022. We will also have many more
+> openings for permanent researchers.
+>
+> I definitely encourage you to apply to future roles. You can find
+> them by following us on Twitter, LinkedIn, Facebook and/or via
+> newsletter. Hopefully we can find a good fit for you.
+>
+> I hope that helps. Sorry I can't say more.
+>
+> Best, Peter
+
+What are "specific skills"  that I need to improve on to become "top
+RP Material"?
+
+*General advice:*  
+
+- Read and write independent research for the EA forum and get
+  feedback from the community
+- Credible credentials like top forecaster on Metaculus or Good
+  Judgement Open.
+- [This post](https://forum.effectivealtruism.org/posts/J7PsetipHFoj2Mv7R/notes-on-ea-related-research-writing-testing-fit-learning) by colleague  
+- internships in the future
+
+**[This post](https://forum.effectivealtruism.org/posts/J7PsetipHFoj2Mv7R/notes-on-ea-related-research-writing-testing-fit-learning)**
+
+Writing: 
+- writing with [Reasoning transparency](https://www.openphilanthropy.org/reasoning-transparency#Example_of_GiveWell_charity_reviews)
+- posting on forum and facebook groups to get feedback
+
+Research:
+- etc...
+
+
+
+
+**Ask me anything**
+
+Rethink priorities AMA
+
+**Notes from MichealA Forum post**
+
+
+
+**RP skills I need to learn according to David**
+
+What skills are required to become "RP/GW" material
+
+- ability to read social science papers (academic papers in Lancet,
+  Nature or Science) and comment on their methodologies, data quality,
+  internal external validity 
+- solid understanding of statistics and causal inference
+- knowledge how to discount for trustworthiness of a paper
+- "some orgs" might also want a relevant degree ^^
+- Can do online courses, textbooks and material where you have lots of
+  questions and feedback.
+
+**My forum post: What people did to get to an internship and other**
+
+
+
+**My failed indrews feedback**
+
+**MSJ via forum messages**
+
+- Start with an internship.
+- Do a literature review or Cost-Effectiveness analysis on some
+  EA-related topic (Look at Saulius's work).
+- For survey related roles use Mixed-Models and reproduce "EA Survey
+  Analysis" and find other insights from the data. (seems narrow)
+- There is another survey on wild animal suffering which needs
+  analysis, and you can help me with the getting the data.
+- Provide feedback on the research of orgs, publicly or by asking for
+  opportunities to review unpublished work.
+- Sign up to orgs that allow you to be a reviewer (e.g., CE).
+
+**Discussion with Alicia Wang from GW**
+
+the job involves trying to gauge evidence, piecing together poor
+evidence
+
+- Understanding academic research, the strengths and weaknesses and
+  guessing the effect size for the target population, 
+  
+- Cost-Effectiveness analysis -- splitting benefits and cost side for
+  top charities. (e.g., interventions research page kinkaroo mother
+  care report).
+  
+- Communicating in a transparent way probably what is promising and
+  what you are uncertain about.
+  
+- courses from MIT are good and she "recommends it". She has done it
+  in person
+  
+- ability to state the next steps, communicate clearly the uncertainty
+    during work trials.
+
+**Micheal Arid**
+
+
+**Stephan**
+
+- analytical mindset, critical thinking, advanced statistics
+- discounting for uncertainty, economics background
+- writing conversation notes
+- quickly evaluating interventions (how many people have the disease
+  and how much would it cost per person)
+  
+- focussed on efficiency
+- literature pubmed, scholar, econ papers
+- Cost-Effectiveness (botex)
+- ability to read cochrane meta analysis.
+
+
+## Blank
+
+**Different sources**
+1. Messages from eA forum
+2. My Forum posts discussion
+3. Peter's message
+4. Internships and jobs I have failed at and their feedback
+5. discussion with GiveWell people
+6. interviews feedback/ discussion on what to do
+
+**Skills needed?**
+
+**Ideas as a result**
+1. volunteering Jamie Harish or MSJ
+2. Apply to assistant roles
+2. Doing independent research
+   Make Cost-Effectiveness estimates, prioritize cause areas, find
+   best funding opportunities.
+3. criticize others work
+4. indulge in Bayesian thinking
+5. forecasting improving
+6. Work on statistics
+7. Do course on GH&P at JPAL.
+
+
+## So does that tell you what are the next steps to take?
+
+
+## So how do you DP this shit?
+
+
+> Deliberate practice is characterized by several elements, each worth
+> examining. It is activity designed specifically to improve
+> performance, often with a teacher's help; it can be repeated a lot;
+> feedback on results is continuously available; it's highly demanding
+> mentally, whether the activity is purely intellectual, such as chess
+> or business-related activi- ties, or heavily physical, such as
+> sports; and it isn't much fun.
+
+
+
+## Miscellaneous
+
+https://www.eaglobal.org/
+
+
+## Saulius chat
+
+
+> I didn't read your analysis, but I should say that jobs at
+> organisations at OpenPhil are super competitive and hence it's
+> unclear that even if you got the job, the difference between you and
+> the next best person would be very big. Also, the counterfactual for
+> you is earning to give which is probably better than the
+> counterfactual for the next best researcher in that scenario. So if
+> you look at it that way, even if you got the job, it's unclear that
+> you would achieve more counterfactual impact. All of this is
+> probably in your analysis, I'm just writting in case it's not.
+
+The thing is earning to give is not as lucrative unless I can do it in
+California. Me being in Holland will not get me 400k salaries in
+forever. In addition to that, the whole H1B situation is really weird
+and looking at purely the lottery for the visas I have a 50-60% of
+staying there in the US working for >3 years. This significantly
+reduces my earning to give impact. :(
+
+And I get what you are saying. As long as I am "almost the same as the
+next best researcher I displace", I might as well just earn to
+give. But there is this whole ["displacement chain"](https://forum.effectivealtruism.org/posts/nn4nPvxF59AAr2G2n/replaceability-with-differing-priorities#A_more_complete_picture) which I think
+acts in my favor. I will have another look at these estimates that I
+made, next week. I think with the estimates on the impact of being a
+researcher, there are many guesses and I probably didn't discount as
+generously as I should.
+
+> Yeah, researching in my free time and doing assignments was very
+> engaging for me as well. But actual work is very different from
+> assignments because you are given very few instructions and need to
+> figure out the best thing to do and then do it, but there is so much
+> uncertainty in many directions.
+
+Very interesting. I understand it is really hard work to puzzle
+through all this uncertainty. At the outset it looks amazing that one
+can "make sense" of all this uncertainty. Hopefully I get to try
+something either through an internship or job, in case I decide to
+push further in this direction.
+
+Thanks for taking the time to make these comments. I really appreciate
+them. I will take a good look back at my estimates.

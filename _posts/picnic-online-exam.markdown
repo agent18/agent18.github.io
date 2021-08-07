@@ -49,6 +49,8 @@ https://www.practiceaptitudetests.com/numerical-reasoning-tests/#practice-for-fr
 
 ## result
 
+- 36 mins 30 questions
+
 It was way harder with inductive reasoning and towards the end it was
 impossible to stay focussed and get to an answer.
 
@@ -58,3 +60,20 @@ alraeady worked out format about writing the questions and solving
 it...
 
 Took me 11 hrs of preparation with tons of procrastination.
+
+made it to the 48th percentile
+
+
+> Thanks for participating in the test! We really appreciate the
+> effort you put in.   
+> Here are your results: Numerical Reasoning q 44 Inductive Reasoning
+> 31 Deductive Reasoning 37 Overall Score 45
+>
+> The results are indicated in percentiles, showing your performance
+> in relation to the norm group.  To get more insights, have a look at
+> the attached document.
+>
+> Unfortunately, these results are below the benchmark for this
+> position (around 70%). Therefore, we cannot continue with your
+> application. Thanks a lot for your time, effort and interest in
+> Picnic, and best of luck in finding the perfect job soon!

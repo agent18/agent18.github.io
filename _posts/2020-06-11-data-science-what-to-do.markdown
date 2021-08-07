@@ -1878,6 +1878,9 @@ More than half of the team is
 1. Make resume 1 page and highlight important stuff. People spend 10s
    on a resume...
 
+
+
+
 ## Ikea
 
 ### preparing questions

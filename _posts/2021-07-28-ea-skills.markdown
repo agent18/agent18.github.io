@@ -1,0 +1,604 @@
+
+## Let's see if I needed to add something else to the calculations.
+
+Again I am having jitters. What are going to be the exit
+opportunities. What If I start working on it and am not suited for the
+role and they fire me? what If I start working on it and end up not
+liking it? but why will that be?
+
+And I will also be starved for money... I think... cause I will be
+earning 50k. 50k is not bad according to dutch stds.
+
+And lastly is it awesome though?
+
+Plus the idea of working on two things at the same time is such a
+collossal wastage of resources. and then you are forgetting the
+cahnges of making it to the US.
+
+Then I can write this...? or not, then I want to look for jobs
+again... :(
+
+## What info to get?
+
+> Can I maybe message and ask all the people like I did with Data
+>   Analyst? ( this has a long lead time if I need to pursue it. so
+>   let's start with this first.)
+
+
+1. Start with getting from STM what exactly to ask
+
+    > > In a few years I can “build the skills” through DP hopefully
+    > > and see where that gets me.
+    >
+    > This is the weakest link in the chain. You're not clear about what "build the skills" means.
+    >
+    > If you're serious about this, you need to follow what the
+    > successful people here have done. Don't spend your time doing
+    > "DP hopefully and see where that gets me". Offer your services
+    > as an unpaid intern or assistant to the people who are already
+    > in the loop. That way, they will get some benefit from you and
+    > in turn you will find out what kind of skills you actually need
+    > to learn. Ask people directly what steps you need to take to be
+    > "GiveWell researcher material". Application rejections don't
+    > give as much detailed feedback.
+
+	- What successful people have done
+	- Offer services as an intern
+	- What steps do I need to take to become "GiveWell Researcher
+      Material".
+	  
+	> You mentioned in your earlier post that the "EA path" involved
+	> "building the skills through DP hopefully". Given the twists and
+	> turns in the data science app-ing, how sure are you that you
+	> know which skills are needed for EA research? Also, as I'd
+	> mentioned earlier, the results of "EA practice" seem a lot less
+	> tangible than "data science practice". You have a lot of data on
+	> the concrete skills data science jobs are looking for. You can
+	> confidently work on those and get feedback. Not sure if you have
+	> data or feedback like that for EA research.
+	
+	How sure are you that you know what skills to train?
+	
+	How many orgs are there to apply? even?
+	
+	With what belief are you going inside?
+	
+2. Get data science procedure and then rock on.
+
+
+**Peter Wilde ford RP**
+
+> We thought you were a great candidate but unfortunately the round
+> was very competitive and we decided we wanted to move forward with
+> other candidates. We're unfortunately not able to provide any
+> specific details about your application, but I'm glad you had a good
+> experience.
+>
+> One of the best things applicants interested in roles at
+> organizations like ours can do to improve their odds of being a
+> successful researcher is to **read and write independent research**
+> for the Effective Altruism Forum and get feedback from the
+> community.
+>
+> It may also be good to acquire other credible credentials relevant
+> to research at such organizations, like becoming a **top forecaster
+> on Metaculus or Good Judgement Open**. I also recommend this post by
+> one of our researchers:
+> https://forum.effectivealtruism.org/posts/J7PsetipHFoj2Mv7R/notes-on-ea-related-research-writing-testing-fit-learning
+>
+> There are not currently any internship openings but we are planning
+> another internship for Dec-Mar 2022. We will also have many more
+> openings for permanent researchers.
+
+## other sources to understand skill
+
+- Peter linkedin message
+- 5 people who messaged in 
+- whats written in the EA forum
+- Peter links to forum article
+- where I "failed" to get internships
+- Can I maybe message and ask all the people like I did with Data
+  Analyst? ( this has a long lead time if I need to pursue it. so
+  let's start with this first.)
+- info from interviews
+
+
+
+
+
+## question
+
+Hi, 
+
+Can I connect with you to ask you a few questions about being a
+GiveWell Researcher?
+
+Regards,
+Thej
+
+Hi James, 
+
+I am part of the EA community. Can I connect with you to ask you a few questions about being a GiveWell Researcher?
+
+Thanks.
+
+Regards,
+Thej
+
+
+Hi Julie, 
+
+I am part of the EA community. Can I please connect with you to ask
+you a few questions about being a GiveWell Researcher?
+
+Thanks.
+
+Regards,
+Thej
+
+Apply
+https://www.givewell.org/about/jobs/donor-relations-assistant Just
+apply man.
+
+https://www.givewell.org/about/jobs/content-editor maybe?
+
+
+Sent invitation to 5 people. Will send invitation to another 5 people.
+
+## Reaching out to people in the past
+
+I did for 
+
+I found "similar people" (people with same exp) in the business, And
+saw how they made. I have tried something like this in the ea forum
+with my questions post to find people, maybe reach out to those exact
+people on what you should do to become GIVEWELL material... They were
+quite happy to give you feedback, I think you should atleast reach out
+to them.
+
+
+Next
+
+Through that you also find mentor type people... 
+
+There is Peter of course, and then there is 
+
+
+[From this post](https://forum.effectivealtruism.org/posts/hcdwSvGntCDJxCuqx/examples-of-people-who-didn-t-get-into-ea-in-the-past-but), there are 
+1. Peter Wildeford
+2. saulius
+
+Hi Saulius, 
+
+You have been working at RP for about 3 years now. I want to get a
+researcher job like you in a top org like RP, GIVEWELL or OPP. I was
+wondering what I can do to get there. What would be your suggestions
+or skills to work on.
+
+From this post, I gather that you wrote articles criticizing some work
+from ACE and 
+
+ASk Micheal St Jules
+
+A typical job at RP or FP involves, 
+- making Cost-Effectiveness estimates, prioritizing cause areas,
+finding best funding opportunities aka independent research.
+- course on GH&P at JPAL
+- I could also do summary posts
+- improve writing? reasoning transparency
+- apply to assistant jobs, volunteer jobs
+- work on "statistics" internal and external validity? "solid
+  understanding of causal links" while understanding assumptions
+- or work on data analysis?
+- or work on forecasting
+- review other materials
+- "critically" review released material.
+- Bayesian thinking
+
+What do you are the steps one needs to work on to become "givewell
+material"
+
+Corollary, what are the skills that make up a great EA researcher.
+
+what would you work on? what do you expect others to focus on?
+
+I want to know what skills to train myself in
+
+3. Gregory_lewis
+4. MichealStJules
+5. MichealA
+6. Khorton
+
+what do I want to know
+
+### Saulius
+
+Hi Saulius, 
+
+I am coming from [this post](https://forum.effectivealtruism.org/posts/hcdwSvGntCDJxCuqx/examples-of-people-who-didn-t-get-into-ea-in-the-past-but?commentId=AiZ96d7trvcBh9jMg), where you commented that what took
+you from being rejected to being accepted in an EA org as a researcher
+was probably your two articles you wrote on improving Animal lives. In
+addition you said you criticized ACE's work pointing out something
+that you thought was wrong.
+
+~~What are the "concrete" skills that RP would be interested in?~~
+
+Hi Saulius,
+
+I am trying to make a plan of what I would need to do to bring myself
+to the level of "RP GIVEWELL or OPP researcher". I would like to ask
+you for your help/advice.
+
+It appears that now you are in RP for almost 3 years. I was wondering
+what steps you would suggest an OLD YOU (pre-ACE Saulius) to take to
+become an "RP Researcher"? Writing independent research and critically
+evaluating work of other orgs seem to be two things that stand out
+from your comments [here](https://forum.effectivealtruism.org/posts/hcdwSvGntCDJxCuqx/examples-of-people-who-didn-t-get-into-ea-in-the-past-but?commentId=AiZ96d7trvcBh9jMg).
+
+Please let me know. Thank You very much for your time.
+
+**A bit about me** Am 30 years old, Ex-mechanical engineer, recently
+moved to a Data Analyst role in ASML and I am trying to break-into
+EA. This is my blog: [agent18.github.io](http://agent18.github.io/). I got rejected recently
+from an RP round after the personal interview.
+
+Regards,
+Thej Ravichandran
+
+### MSJ
+
+Hi MSJ,
+
+Hope you are doing good.
+
+I am trying to make a plan of what I would need to do to bring myself
+to the level of "RP GIVEWELL or OPP researcher". I would like to ask
+you for your help/advice.
+
+It appears that now you are a fellow at RP. Congrats on that. I was
+wondering what steps you would suggest me (or a pre-CE MSJ) to take to
+become an "RP Researcher"? You have earlier suggested that you had
+written a Forum Prize article, been active in the EA Forum and started
+to run a local EA group [here](https://forum.effectivealtruism.org/posts/hcdwSvGntCDJxCuqx/examples-of-people-who-didn-t-get-into-ea-in-the-past-but?commentId=DivnrA7BNq68xddWf). Now that you have much more
+experience, what steps would you suggest a pre-CE MSJ to take to get
+into EA research roles.
+
+Please let me know. Thank You very much for your time.
+
+**A bit about me** Am 30 years old, Ex-mechanical engineer, recently
+moved to a Data Analyst role in ASML and I am trying to break-into
+EA. This is my blog: [agent18.github.io](http://agent18.github.io/). I got rejected recently
+from an RP round after the personal interview where I was in the top
+20 out of 100-150 applicants.
+
+Regards,  
+Thej Ravichandran
+
+
+
+**Reply to MSJ**
+
+> Hi Thej,
+>
+> For what it's worth, I was also just rejected for RP's survey team
+> position. Was this what you applied to? Or the internship earlier?
+> (I made it to the last round when they were hiring generalist
+> researchers a while ago, and have just been offered a job at Animal
+> Ask.)
+
+
+> Given you're already working in data analysis and made it as far as
+> you did at RP, I think you have a decent shot at Rethink Priorities,
+> but maybe starting with an internship (I heard they will do another
+> round in January, but not sure).
+
+
+> It would be a good idea to look into mixed-effects models if you
+> don't already know much about them, to the point of being able to
+> reproduce their EA survey analysis, and maybe you could try using
+> them at your work.
+
+
+
+> If you can make the time, actually analyzing their data to find out
+> something else interesting could be a good project. I also have raw
+> unanalyzed (AFAIK) data from the wild animal suffering community
+> survey, if you wanted to do data analysis on an unused EA-relevant
+> data set. (Everyone working on it ended up too busy with other
+> things, so we dropped it and handed the data over to the wild animal
+> orgs, but nothing has been published with it.)
+
+> Other projects that could be helpful to get an internship or a
+> permanent role would be to do a literature review or
+> cost-effectiveness analysis on some EA-related topic. Maybe
+> something similar to Saulius's earlier EA Forum posts, which I think
+> helped him get hired at RP.
+
+> I do still think getting a first internship at an EA org is really
+> valuable.
+
+Hi MSJ,
+
+Thank you for your reply.
+
+> For what it's worth, I was also just rejected for RP's survey team
+> position. Was this what you applied to? Or the internship earlier?
+> (I made it to the last round when they were hiring generalist
+> researchers a while ago, and have just been offered a job at Animal
+> Ask.)
+
+It was this position: [Staff Researcher GH&P](https://web.archive.org/web/20210614134506/https://rethinkpriorities.applytojob.com/apply/hMArA0IVxM/Staff-Researcher-Global-Health-And-Development), after that I dared
+not to apply to the Survey position. Congrats on your new offer
+man. Are you going to take it?
+
+**My Takeaways from your message are:**  
+- Start with an internship. I will keep a lookout for RP's internship opening.
+- Do a literature review or Cost-Effectiveness analysis on some
+  EA-related topic (Look at Saulius's work).
+- For survey related roles use Mixed-Models and reproduce "EA Survey
+  Analysis" and find other insights from the data.
+- There is another survey on wild animal suffering which needs
+  analysis, and you can help me with the getting the data. Correct?
+  
+I will check back with you about the wild animal suffering survey data
+if I intend to start on it. I am more inclined to do a literature
+review or a CE analysis. Any other suggestions?
+
+Regards,
+Thej
+
+### Gregory
+
+Hi Gregory,
+
+Hope you are doing good.
+
+I am trying to make a plan of what I would need to do to bring myself
+to the level of "RP GIVEWELL or OPP researcher". Not that this is
+where I should be, but that this is the standard I would like to try to
+bring myself to. I would like to ask you for your help/advice.
+
+You had earlier suggested [here](https://forum.effectivealtruism.org/posts/hcdwSvGntCDJxCuqx/examples-of-people-who-didn-t-get-into-ea-in-the-past-but?commentId=gv9XEmWJPhPnwBPN9) that one should atleast have a
+backup when apping to competitive EA positions. Thanks for that, I
+have now moved to a Data Analyst role to keep that as a backup.
+
+I was wondering what steps you would suggest me (or a pre-2015
+Gregory) to take to become an "EA Researcher"? I understand from your
+comment [here](https://forum.effectivealtruism.org/posts/hcdwSvGntCDJxCuqx/examples-of-people-who-didn-t-get-into-ea-in-the-past-but?commentId=gv9XEmWJPhPnwBPN9) that you think your medical and public health
+background landed you your position at FHI. But if you have some
+advice for me please let me know.
+
+Thank You very much for your time.
+
+**A bit about me** Am 30 years old, Ex-mechanical engineer, recently
+moved to a Data Analyst role in ASML and I am trying to break-into
+EA. This is my blog: [agent18.github.io](http://agent18.github.io/). I got rejected recently
+from an RP round after the personal interview where I was in the top
+20 out of 100-150 applicants.
+
+Regards,  
+Thej Ravichandran
+
+### Jamie Harris
+
+Hi Jamie,
+
+Hope you are doing good. We had earlier had discussions
+[here](https://forum.effectivealtruism.org/posts/Z9x56yiX2ceRZnKTR/a-naive-analysis-on-if-ea-is-talent-constrained?commentId=C37KKuXzfRbthWatZ). Thanks for that.
+
+I am trying to make a plan of what I would need to do to bring myself
+to the level of "EA researcher". I would like to ask you for your help/advice.
+
+I was wondering what steps you would suggest to me (or a younger you)
+to take to become an "EA Researcher" now? I am aware of the
+[Volunteering opportunities listed here](https://www.animaladvocacycareers.org/sv-full-list).
+
+Thank You very much for your time. Sorry if this was not the right
+channel to use to ask for this information.
+
+**A bit about me** Am 30 years old, Ex-mechanical engineer, recently
+moved to a Data Analyst role in ASML and I am trying to break-into
+EA. This is my blog: [agent18.github.io](http://agent18.github.io/). I got rejected recently
+from an RP round after the personal interview where I was in the top
+20 out of 100-150 applicants.
+
+Regards,  
+Thej Ravichandran
+
+![test](../images/stress.png)
+
+## Attributes of DP
+
+> Deliberate practice is characterized by several elements, each worth
+> examining. It is activity designed specifically to improve
+> performance, often with a teacher's help; it can be repeated a lot;
+> feedback on results is continuously available; it's highly demanding
+> mentally, whether the activity is purely intellectual, such as chess
+> or business-related activi- ties, or heavily physical, such as
+> sports; and it isn't much fun.
+
+
+## distractions
+
+Constant distractions.. Tilll now went so many times to 
+
+decide what I am going to do in the hr and get it done biatch...
+
+
+
+## typeracer
+
+I feel the sun on my face. I see trees all around me, the scent of
+wildflowers on a breeze. It's so beautiful. In this moment, I'm not
+stranded in space. It's been ninety-seven years since a nuclear
+apocalypse killed everyone on Earth, leaving the planet simmering in
+radiation. Fortunately, there were survivors. Twelve nations had
+operational space stations at the time of the bombs. There is now only
+the Ark, one station forged from the many.
+
+I feel the sun on my face. I see trees all around me, the scent of
+wildflowers on a breeze. It's so beautiful. In this moment, I'm not
+stranded in space. It's been ninety-seven years since a nuclear
+apocalypse killed everyone on Earth, leaving the planet simmering in
+radiation. Fortunately, there were survivors. Twelve nations ahd
+operational space stations at the time of the bombs. There is now only
+the Ark, one stations forged from the many.
+
+I feel the sun on my face. I see trees all around me, the scent of
+wildflowers on a breeze. It's so beautiful. In this moment, I'm not
+stranded in space. It's been ninety-seven years since a nuclear
+apocalypse killed everyone on Earth, leaving the planet simmering in
+radiation. Fortunately, there were survivors. Twelve nations had
+operational space stations at the time of the bombs. There is now only
+the Ark, one station forged from the many.
+
+
+I see treees all aroudn me
+I see trees all around me.
+I see trees all around me. 
+
+I see trees all around me.
+I see trees all around me.
+I see threes all around me.
+I see trees all around me. 
+I see trees all around me.
+I see trees all around me.
+I see trees all around me.
+I see threes all around me.
+I see trees all around me.
+I see trees all around me.
+I see trees all around me.
+
+the scent of wildlowers,
+the scent 
+the scent
+the scent
+the scent
+the scent 
+the scent
+the scent 
+the scent 
+the scent 
+the scent 
+the scent
+the scent
+the scent of wild flowers
+the scent of wildflowers
+the scent of wildflowers
+the scent of wildflowers
+the scent of wildflowers
+the scent of wildflowers
+the scent of wildflowers
+the scent of wildflowers
+the scent of wildflowers
+the scent of wildflowers
+the scent of wildflowers
+the scent of wildflowers
+
+breeze. 
+breeze
+breeze 
+breeze
+breeze
+breeze
+breeze 
+breeze 
+breeze
+breeze
+breeze 
+breeze
+breeze
+breeze
+breeze
+breeze
+breeze
+breeze
+breeze
+breeze
+breeze
+breeze 
+breeze
+
+beautiful
+beatuiful
+beautiful
+beautiful
+beautiful
+beautiful
+beautiful
+
+beautiful
+beautiful
+beautiful
+beautiful
+beautiful
+beautiful
+beautiful
+beautiful
+beautiful
+beautiful
+beatiuful
+beautiful
+beautiful
+beautiful
+beautiful
+
+I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm not what I
+am and that's all what I am I'm not popoye the sailor man. I'm I'm I'm
+I'm I'm I'm I'm I'm I'm I'm I'm
+I'm
+
+ninety-seven
+ninety-seven
+ninety-seven
+ninety-seven
+ninety-seven
+ninety-seven
+ninety-seven
+ninety-seven
+ninety-seven
+ninety-seven
+ninety-seven
+ninety-seven
+ninety-seven
+ninety-seven
+ninety-seven
+ninety-seven
+ninety-seven
+
+
+nuclear
+nuclear
+nuclear
+nuclear
+nuclear
+nuclear
+nuclear
+nuclear
+nuclear
+nuclear
+nuclear
+nuclear 
+nuclear
+
+
+
+apocalypse
+apocalypse
+apocalypse
+apocalypse
+apocalypse
+apocalypse
+apocalypse
+apocalypse
+apocalypse
+apocalypse
+apocalypse
+
+
+
+Fortunately
+
+Twelve
+
+

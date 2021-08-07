@@ -785,11 +785,16 @@ example.. eicher countrues
   
   1. dev econ guy... 
   
-  2. solid understanding of statistics and causal , read social
-     science paepr understand methodoloigies, understand assumptions.,
-     how trustworthy, statistics, quantitive .. academic
-     articles... --> internal validivity lancet nature or science,
-     data quality , methodology used... 
+  2. solid understanding of statistics and causal inference , read
+     social science paepr understand methodoloigies, understand
+     assumptions., how trustworthy and discounting based on that,
+     statistics, quantitive .. academic articles... --> internal
+     validity lancet nature or science, data quality, methodology
+     used... reading quantitative social science papers (academic
+     articles, lancent nature or science) and digging into it and
+     discussing with other people.
+	 
+	 commenting on internal validity external validity, data quality, methodology.
 	 
 	 formal uni education, not very frew... online courses, material,
      reading textbooks, 
@@ -941,13 +946,13 @@ Indrew with [Fay Nicholls](https://www.linkedin.com/in/faynicholls/?originalSubd
    - currently a Data Analyst
    
    
-   2. Goals
+   1. Goals
    
    Be part of a high impact organization. Steer people to most
    effective ways of spending money. Growth of FP, directly impact
    where the money goes.
    
-   3. role expectations (get it from)
+   1. role expectations (get it from)
 
 	Cause Area Investigation: Most pressing problems and most cost
     effective ways of tackling them
@@ -1027,10 +1032,10 @@ meetings.
 
 **read climate and lifestyle**, I said I will do a review of reports.
 
-Currently 25 people in process for 2 jobs. After aptitute test by end
+Currently 25 people in process for 2 jobs over 100 applications. After aptitute test by end
 of next week.
 
-Aptitude test is coming up
+Aptitude test is coming up and that it's 40 mins.
 
 1. Tell about your recent experience? what are you doing?
    
@@ -1044,9 +1049,9 @@ Aptitude test is coming up
 
 I said all is equally lucrative, focus is really high-impact.
 
-5. Do I think Bayesianly? Do I have baysian thinkign
+1. Do I think Bayesianly? Do I have baysian thinkign
 
-5. What they are lookign for
+2. What they are lookign for
 
 Someone who can add a fresh perspective, curious, great thinker.
 
@@ -1054,8 +1059,27 @@ They are looking for generalists, with the "right attitude",
 absolutely motivated, generalist, has the skills but that is not the
 only thing.
 
+### FP aptitude test
 
+find some sources and grind for 3.5 hours? on the different
+aspects. Look at picnic as an example. It was one of the toughest.
 
+### FP rejection and feedback questionnaire
+
+I was wondering if you can please help me by selecting one or more of these
+checkboxes ( [ ] --> [x] ). There will be no followup questions.
+
+*I didn't go to the next round because:*
+
+[ ] - I did "poorly" in the interview with you
+[ ] - I did "bad" in the aptitude test
+[ ] - I did not know about FP's research
+[ ] - I did not know about Bayesian thinking
+[ ] - Others had >2 years research experience in the EA field  
+[ ] - Others have better qualification (Harvard degree, EA prior
+experience)  
+[ ] - I don't have experience with Fermi Estimates
+[ ] -  other  
 
 ## ALI
 
@@ -1207,3 +1231,175 @@ from guzey... Maybe write a post. --- 19th july 2021
 5. start prepping for september scene (Last 2 weeks of august)
 
  
+## discussion with Alicia Weng on being a GIVEWELL Researcher
+
+**General**
+
+1. My agenda is talk to you about how to become an GiveWell researcher
+2. What is the difference between an analyst, associate, consultant
+   and researcher 
+   
+   How much exp people have... 
+   
+   Identifying promising opportunities, Cost-Effectiveness, evidence
+   reviews, talking to charities, investigating specif opportunities
+   for grants.
+   
+   Analyst, desk review, not open ended...
+   
+3. What is it that you do? what do researchers do? What do analysts
+   do? What is the most recent thing you are working on?
+   
+   - few projects
+   
+   - Malria prvention pills among children, figuring out distribution
+     to diferent sub populations... (effect size translation to target
+     population)
+		 - Thats the intervention gauging, talking to a bunch of
+           charities, not implemented before, checking or guessing who
+           is in a strong positioning to run the intervention.
+	   - Vague, 2 things that ,,.... open endedness, don't have good
+	   answers. Cost-Effectiveness medical oxygen to patients, this
+	   program would be ... modeling parameters... 
+	   
+	   piecing to gether poor evidence... 
+	   
+	   Prioritizing...
+	   
+**Becoming GiveWell Material**
+
+1. What steps should I take to become a "GiveWell Material"? How to
+   get feedback?
+   - writing independent research
+   - writing reviews
+   - working on looking at academic papers, in the context of
+     methodologies, data collection, internal external validity,
+     discounting
+   - courses? economics, statistics? 
+   
+   Understanding academic research evidence of programs (strengths and
+   limitations) biases, effect size given that... example
+   
+	   practice on the website (AMF,)
+	   
+   New interventions (table of looked) reports.
+   
+   Cost-Effectiveness analysis (quantitative) -- splitting benefits
+   and cost side for top charities (interventions research page
+   kinkaroo mother care report givewell website)
+   
+   Communicating very transparent probably promising uncertain.
+   
+   other skills
+   
+   Work trials projects --> check in effectively, clearly state
+   uncertainty, proposing
+   
+2. What are specific skills to work on? How to get good feedback?
+3. Hiring from abroad examples?
+
+	difficult sometimes and but they always don't want it to be a
+    barrier,
+	
+4. What other orgs? and exit opportunities exist for you?
+   
+   35 and 40... how much I like learning opportunities, more
+   difficut. others are invested in my growth. 
+   
+   More ownership of my projects, management, and managing people...
+   
+   GH&P there are "lots" of opportunities
+      
+   JPAL, TIFID, IDinsight,
+   
+   there are people who left to do software. Why?
+   
+5. Longtermism?? quite a bit a bit of overlap... thinking about 
+
+	burden , tractabiltity (forecasting...) framework, open phil
+   
+6. Courses? OCW, MIT Data decisions please do it. 
+
+	Harvard , quantitative master's economics phd
+   
+
+## Discussion with Stephan
+
+
+1. My agenda is talk to you about how to become an EA researcher
+2. What is it that you do? what do Sr. researchers do vs Analysts?
+
+I work remotely (all 4 years). 2017 ,various projects. Biosciences
+guy... ? More exp, training, Advanced projects such as closer to a
+grant decision, analyst early stage
+
+2 projects are investigating interventions that improve water quality,
+technologies Cost-Effectiveness not have safe water, clorine
+dispensers for safe water (well), inline clorination (urban areas
+tanks)
+
+science with uncertainty
+
+another project --> community management on malnutrituion (look for
+malnourished children), get them treatment. address sensitive stuff
+
+am pretty basic on advacnecd statistics, conceptual level, 
+
+Economics bg typical ...
+
+analytical mindset, critical thinking skills, communicate, writing.
+
+3. Do you still have time to do your weight loss, book, neuroscience
+   related activities?
+4. Is there a hiring plan for the coming year? no idea
+5. Hiring from abroad examples? 3 timezones of them 
+6. how did you acquire the skills to get into GIVEWELL?
+7. I have no harvard degree, no PhD (should I not bother with
+   GIVEWELL?)
+8. Is Data Analysis and Data science of any use in GIVEWELL?
+9. What steps should I take to become a "GiveWell Material" so to
+   speak
+   - courses
+   - deliberate practice of certain skills
+	 - reading academic papers
+	 - Cost-Effectiveness analysis
+	 - writing independent research
+	 - statistics
+	 
+	 Application process really values critical thinking and
+     communication skills in writing
+	 
+	 Several stages
+	 
+	 writing conversation notes (listen to a recording and summarize
+     that and key points)
+	 
+	 - conversation notes (find a recording or factual conversation)
+	 - Promising looking intervention, quick evaluation of it,
+       literature searches, google searches for organization, room for
+       funding (how many people have this disease and how much would
+       it cost per person), 
+	   
+	   evidence assessment 
+	   
+	   - major focus on efficiency, getting close to the answer.
+	   - literature pubmed google scholar, econ papers (meta analysis
+         first)
+	 - cost effectiveness analysis (botex) first stage
+	 - meta regression, multiple regression, statistical tests,
+       understand those things. statistics and probability
+	   - any course you would suggest
+	   
+	   - cochrane meta analyse would be helpful
+	   
+	   - he's happy to help if he can.
+	 
+10. What about exit opportunities? What orgs are there?
+11. Would you prefer 100k $ a year or a researcher 5-15% better
+    (whatever that means) than what you find in a typical interview.
+	
+	directing over 200m , I would go for the researcher... everything
+    we have efficient allocation of that money, more than that 
+	
+12. I have to make the choice of pursuing Data science seriously or
+   looking at orgs like givewell
