@@ -35,16 +35,18 @@ of people who qualified to that round.
 | Jul-2021 | RP-Researcher              | S-WT1-FTFI    | 20/>100   |
 | Jul-2021 | FP-Researcher              | S-HRI         | 25/>100   |
 
-S --> Initial Screening
-FTFI --> Face to Face Interview
-WT --> Work Task
-WT1 --> First Work Task
-HRI --> HR Interview
+<br>
 
-CE --> Charity Entrepreneurship 
-HLI --> Happier Lives Institute 
-RP --> Rethink Priorities 
-FP --> Founder's Pledge
+S --> Initial Screening  
+FTFI --> Face to Face Interview  
+WT --> Work Task  
+WT1 --> First Work Task  
+HRI --> HR Interview  
+
+CE --> Charity Entrepreneurship   
+HLI --> Happier Lives Institute   
+RP --> Rethink Priorities   
+FP --> Founder's Pledge  
 
 ## How to get to the potential options?
 
@@ -86,6 +88,8 @@ confused with definitions. Thanks to an STM for pointing it out).
 | Gregory Lewis     | FHI | 9/17                | 3k+         | -        |
 | Micheal St. Jules | CE  | ~10/22              | 1k+         | 2016     |
 | Micheal Arid      | CA  | 7/76                | 7k+         | 2020-jan |
+
+<br>
 
 RP--> Rethink Priorities, CA--> Convergence Analysis, FHI--> Future Of
 Humanities Institute, CE--> Charity Entrepreneurship.
@@ -406,6 +410,8 @@ people like Saulius and Micheal St. Jules, and the time it took them
 to blossom, I think 1-2 years seems "realistic" before I get any
 internship or a full-time job in EA organizations as a Researcher. I
 guess!
+
+---
 
 ## Appendix: What did people do to get into EA
 
