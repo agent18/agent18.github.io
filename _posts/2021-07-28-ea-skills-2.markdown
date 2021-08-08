@@ -6,7 +6,7 @@ date: 02-08-2021
 categories: posts
 tags: data
 permalink: /:title.html
-published: false
+published: true
 ---
 
 ## Entry Question
@@ -14,64 +14,73 @@ published: false
 What are the next concrete steps I could take to become a researcher
 in one of the EA organizations.
 
-## Current level
-
-| Year-mon | Org                        | Rounds passed | "Ranking" |
-|----------|----------------------------|---------------|-----------|
-| Apr-2020 | CE-Intern                  | S-FTFI-WT     | 20/~40    |
-| Jun-2020 | HLI-Intern                 | S-WT          | -/30      |
-| Jun-2021 | OpenPhil-Program-Assistant | S-WT          | -/-       |
-| Jun-2021 | Elizabeth-Assistant        | S-FTFI        | 30/30     |
-| Jul-2021 | RP-Researcher              | S-WT1-FTFI    | 20/>100   |
-| Jul-2021 | FP-Researcher              | S-HRI         | 25/>100   |
-
-S--> Initial Screening
-FTFI --> Face to Face Interview
-WT --> Work Task
-WT1 --> First Work Task
-HRI --> HR Interview
-
 ## Disclaimer
 
 I am "heavily" paraphrasing what people have told me about what
 skills are important. Any misunderstanding from my part is my mistake
 alone.
 
+## Current level
+
+The following table shows when I applied, which organization I applied
+to (and to what position), how far I went in the rounds and the number
+of people who qualified to that round.
+
+| Year-mon | Org                        | Rounds passed | "Ranking" |
+|----------|----------------------------|---------------|-----------|
+| Apr-2020 | CE-Intern                  | S-FTFI-WT     | ~20/~40   |
+| Jun-2020 | HLI-Intern                 | S-WT          | -/30      |
+| Jun-2021 | OpenPhil-Program-Assistant | S-WT          | -/-       |
+| Jun-2021 | Elizabeth-Assistant        | S-FTFI        | 30/30     |
+| Jul-2021 | RP-Researcher              | S-WT1-FTFI    | 20/>100   |
+| Jul-2021 | FP-Researcher              | S-HRI         | 25/>100   |
+
+S --> Initial Screening
+FTFI --> Face to Face Interview
+WT --> Work Task
+WT1 --> First Work Task
+HRI --> HR Interview
+
+CE --> Charity Entrepreneurship 
+HLI --> Happier Lives Institute 
+RP --> Rethink Priorities 
+FP --> Founder's Pledge
+
 ## How to get to the potential options?
 
-1. Well it appears you can look at what successful people did (who
-   were "similar to you" once upon a time).
+1. It appears that I can look at what successful people (who are
+   "similar to me") did.
    
-   "Similar to you" meaning, people without a Harvard degree, people
+   "Similar to me" meaning, people without a Harvard degree, people
    without an economics PhD, people who at some point of time didn't
    get into EA organizations and then later managed to get in.
    
-2. I could offer my services as an intern, or an assistant to people
-   who are already in the loop and that way perhaps I can find out
-   more about what sort of work is being done or what "skills" I would
-   actually need. 
+2. I could offer my services as an intern, or as an assistant to
+   people who are already in EA organizations. And that way perhaps I
+   can find out more about the sort of work being done and/or the sort
+   of "skills" I would actually need.
    
-3. Ask people in the business "what steps I need to take" to become
-   "GiveWell/OPP/RP material"
-
+3. I could ask people in the business "what steps I need to take" to
+   become "GiveWell/OPP/RP material"
 
 ## What did the successful people do
 
-A while back I asked people in the EA community about how people who
-got rejected in EA organizations, "made it" eventually. And the
-following section is a summary of the answers from [that post in the
+A while back I asked a question to the EA community about how people
+who got rejected in EA organizations, "made it" eventually. And the
+following section is based on the answers from [that question in the
 EA forum](https://forum.effectivealtruism.org/posts/hcdwSvGntCDJxCuqx/examples-of-people-who-didn-t-get-into-ea-in-the-past-but).
 
-It appears that the successful people wrote prior to getting into an
-EA organization. Most of the people who wrote in this post atleast
-have a few posts on the EA forum in their belt about EA topics. I on
-the other hand wrote one post on Talent Constrainedness of EA and
-cringe at that article wherein I butchered my concrete
-thinking. (Thanks to an STM for pointing it out).
+It appears that the successful people **wrote a lot in the EA forum**
+prior to getting into an EA organization. As shown in the table below,
+all of the people who answered my question have at least a few posts
+on the EA forum before they got into an EA organization. I on the
+other hand wrote one post on 'Talent Constrainedness of EA' which was
+really bad (wherein I butchered concrete thinking and massively got
+confused with definitions. Thanks to an STM for pointing it out).
 
 | Name              | Org | Posts before EA org | Total Karma | Comments |
 |-------------------|-----|---------------------|-------------|----------|
-| Me                | NA  | 1                   | 154         | Baseline |
+| Me                | N.A | 1                   | 154         | Baseline |
 | Peter Wildeford   | RP  | ~35                 | 7k+         | 2017-Jan |
 | Saulius           | RP  | 3/18                | 3k+         | 2018-Oct |
 | Gregory Lewis     | FHI | 9/17                | 3k+         | -        |
@@ -81,34 +90,324 @@ thinking. (Thanks to an STM for pointing it out).
 RP--> Rethink Priorities, CA--> Convergence Analysis, FHI--> Future Of
 Humanities Institute, CE--> Charity Entrepreneurship.
 
-Some people have made "thoughtful" and "intensely researched posts on
-the EA forum" after being rejected by an EA organization and before
-getting into a Researcher position in an EA organization. Saulius, for
-example, after not making it to ACE as a full-timer (after his
-internship there), published 2 "well researched" articles, where one
-of them even made it to [ACE's Blog](https://animalcharityevaluators.org/blog/is-the-percentage-of-vegetarians-and-vegans-in-the-u-s-increasing/) and the other [on EA Forum](https://forum.effectivealtruism.org/posts/gGiiktK69R2YY7FfG/fish-used-as-live-bait-by-recreational-fishermen)
-(with 50+ karma points). Apparently this sparked the interest amongst
-Rethink Priorities recruiter. **Note:** One has to also do well in the
-tasks and interviews to get into the organization.
+Some people have made **"thoughtful" and "intensely researched posts
+on the EA forum"**, after being rejected by an EA organization and
+before getting into a Researcher position in an EA
+organization. Saulius, for example, after not making it to ACE as a
+full-timer (after his internship there), published 2 "well researched"
+articles, where one of them even made it to [ACE's Blog](https://animalcharityevaluators.org/blog/is-the-percentage-of-vegetarians-and-vegans-in-the-u-s-increasing/) and the
+other [on EA Forum](https://forum.effectivealtruism.org/posts/gGiiktK69R2YY7FfG/fish-used-as-live-bait-by-recreational-fishermen) (with 50+ karma points). Apparently this
+sparked the interest amongst Rethink Priorities' recruiter to invite
+him for an interview. **Note:** One has to also do well in the tasks
+and interviews to get into the organization.
 
-Another example is Micheal St. Jules, after not making it in 2016 to
-ACE or GiveWell, before getting his internship at Charity
-Entrepreneurship in 2020 had won an "EA forum prize" for his post on
-[Biases](https://forum.effectivealtruism.org/posts/gYPT6pGwPWL5YywTK/biases-in-our-estimates-of-scale-neglectedness-and) (which grossed an awesome 90+ karma points, contrast that
-to the 30 points I got for my Talent-Constrained post 🤦).
+Another example is Micheal St. Jules who did not make it in 2016 to
+ACE or GiveWell. Before getting his internship at Charity
+Entrepreneurship in 2020, he had won an "EA forum prize" for his post
+on [Biases](https://forum.effectivealtruism.org/posts/gYPT6pGwPWL5YywTK/biases-in-our-estimates-of-scale-neglectedness-and) (which grossed an awesome 90+ karma points; contrast
+that to the 30 points I got for my Talent-Constrained post 🤦).
 
-Some other people seemed to have applied like crazy and eventually
+In addition to "making thoughtful posts", some people also wrote
+**criticisms, on research** put forth by EA organizations. Both
+[Saulius](https://forum.effectivealtruism.org/posts/hcdwSvGntCDJxCuqx/examples-of-people-who-didn-t-get-into-ea-in-the-past-but?commentId=oxQ3djuMwpZCCdft9) and [Micheal St. Jules](https://forum.effectivealtruism.org/posts/hcdwSvGntCDJxCuqx/examples-of-people-who-didn-t-get-into-ea-in-the-past-but?commentId=YG4u35WiZCFnQXLC3), seem to have been providing
+feedback voluntarily to the organizations they ended up joining for
+internships.
+
+Some other people seemed to have **applied like crazy** and eventually
 made it. Micheal Arid applied to ~30 organization positions before
-getting it eventually into 2 organizations. He suspects that doing all
-these interviews would have helped him understand what the interviews
-required. He shares some of the things he thinks might have helped him
-[here](https://forum.effectivealtruism.org/posts/2eEn8BHW69StPgtCi/how-have-you-become-more-or-less-engaged-with-ea-in-the-last?commentId=v5jwtvF29XoQyHzTw) where the main point seems to be that he read and consumed
-"practically everything EA" (Less wrong articles, books recommended by
-top EA people, all EA conference videos, etc.). He now has a
-staggering 7k karma points in just 3 years. The most awesome thing
-about Arid is that in 3 years since he went from 28 rejections to
-Future Of Humanities Institute goddammit.
+getting in eventually into 2 organizations. He suspects that doing all
+these interviews might have helped him understand what the interviews
+required him to do. He shares some of the things he thinks might have
+helped him [here](https://forum.effectivealtruism.org/posts/2eEn8BHW69StPgtCi/how-have-you-become-more-or-less-engaged-with-ea-in-the-last?commentId=v5jwtvF29XoQyHzTw) where the main point seems to be that he read and
+consumed "practically everything EA" (Less wrong articles, books
+recommended by top EA people, all EA conference videos, etc.). He now
+has a staggering 7k karma points in just 3 years. The most awesome
+thing about Arid is that in 3 years he went from ~28 rejections to a
+Future Of Humanities Institute Researcher.
 
+In Summary, writing "many well researched posts" on the EA forum,
+voluntarily providing feedback on the research to EA organizations,
+applying to more than 20 organizations, and consuming a ton of EA
+content, seem like good things to do.
+
+## Offering services as an intern or assistant
+
+Another way of learning how to become an EA Researcher is probably
+offering services as an assistant to a researcher or taking up an
+internship in EA organizations.
+
+Saulius seems to suggest that after his first internship (at Animal
+Charity Evaluator) "[he knew what sort of articles would be
+useful](https://forum.effectivealtruism.org/posts/hcdwSvGntCDJxCuqx/examples-of-people-who-didn-t-get-into-ea-in-the-past-but?commentId=AiZ96d7trvcBh9jMg)". He also gained relevant connections, with whom he
+collaborated on two articles which eventually got him noticed at the
+Recruiters of Rethink Priorities.
+
+Another example is [Nicole Zok](https://www.linkedin.com/in/nicole-zok-239219115/), who started in GiveWell as a
+conversation notes writer and grew to the level of a Research Analyst
+in 2 years at GiveWell.
+   
+## Asking people what steps/skills to take 
+
+I asked people who are Researchers in EA organizations, the following: "What
+steps could I/someone take to become GiveWell/Rethink Priorities/Open
+Philanthropy material?" or "What skills do I need, to become
+GiveWell/Rethink Priorities/Open Philanthropy material?"
+
+For this I interacted (through direct messages or video call) with
+[Peter Wildeford](https://www.linkedin.com/in/peterhurford8/), [Micheal St. Jules](https://www.linkedin.com/in/michaelstjules/), DW (Researcher at a
+prominent EA org), AL (Junior Research at a prominent EA org) and ST
+(Senior Researcher at a prominent EA org). The following are the steps
+that they have suggested (and I paraphrased). More information on who
+said what is in the appendix. I have also (for lack of a better way)
+sorted the skills below by number of people suggesting it.
+
+- Read and write independent research (>=2)  
+- Practice making cost-effectiveness estimates (>=2)  
+  - Practice discounting for various uncertainties (e.g., what is the
+	effect size for the target population compared to the one described
+	in the paper) (>=2)  
+- Read social science papers and identify the strengths and weaknesses
+  based on data quality, methodology, internal and external validity,
+  assumptions (>=2)  
+- Do MIT courses on GH&P  
+- Be good in Statistics and Causal inference (do courses) (1)  
+- Be good in writing conversation notes (1)  
+- Be good at quickly evaluating interventions (1)   
+- Forecasting (1)  
+
+**Note**: The above skills are not representative of the view of the
+all EA organizations (as the sample people were not selected
+randomly). But amidst that uncertainty and the lack of a better way to
+get this knowledge, I accept the above information and will act on it.
+
+## How to get "better" at skills
+
+**Reading academic papers**
+
+When thinking about something like reading academic research and
+commenting on the [internal validity](https://web.archive.org/save/https://www.verywellmind.com/internal-and-external-validity-4584479), I can make comments all day,
+but I don't think there is any point unless I get feedback. Am I doing
+it right or am I doing it wrong, and how could I do better! And if I
+need to send my work to somebody in order to get feedback then that
+takes weeks. Is it possible to get faster feedback?
+
+[Here](http://pradeep90.github.io/ben-franklin-practice.html) is a great blueprint on Deliberate Practice called the Ben
+Franklin method. Basically, the author wants to improve his
+writing. He takes an example paragraph from someone he reveres (Paul
+Graham in this case and his post on "Schlep Blindness"). The author
+makes some notes on a paragraph and then writes his own version of
+"Schlep Blindness". Next he evaluates his and Paul's performance
+against certain dimensions (such as "do the sentences begin with
+subjects and verbs?" etc.). This way he gets feedback on how good he
+is compared to Paul, and what he can do to improve his performance. A
+key aspect about Deliberate Practice is that the practice can be
+repeated a lot. Paul has written more than 100 essays which means the
+author can pretty much practice like this forever.
+
+When thinking about "reading academic papers and commenting on say
+their internal validity", a similar approach might work well, I
+think. The Deliberate Practice would thus involve:
+
+1. Internal validity comments from someone who is revered (aka 'the
+   reference'),
+
+	For this, Salius's posts mentioned above ([1](https://forum.effectivealtruism.org/posts/gGiiktK69R2YY7FfG/fish-used-as-live-bait-by-recreational-fishermen) and [2](https://animalcharityevaluators.org/blog/is-the-percentage-of-vegetarians-and-vegans-in-the-u-s-increasing/)), High
+	karma posts in the EA forum, and the huge pool of [Intervention
+	reports from GiveWell](https://www.givewell.org/research/other-charity-reviews) (and also [this](https://docs.google.com/spreadsheets/d/1TG7WRU85p1SEjir-5qvIEg4kVG9a4Lnzdgwcub8aKSs/edit#gid=0)), can be used.
+
+	Each of these posts/reports cites many academic papers, and also
+    has some commentary on internal validity of that respective paper.
+
+2. My comments on internal validity for those very same academic
+   papers.
+
+3. Dimensions to evaluate against,
+
+	[Here](https://web.archive.org/web/20210807183445/https://www.verywellmind.com/internal-and-external-validity-4584479) there is a list on what constitutes good internal
+    validity, such as "low attrition rate", "Random sample
+    collection", "Randomization of participants to treatment and
+    control groups", "has there been experimental manipulation" etc.
+	
+The plan is to use these dimensions to evaluate the internal validity
+commentary of both my comments and the reference. This way instant
+feedback can be obtained after evaluating each paper and it is
+possible to see what the reference solution looks like as a way on how
+the commentary should be done.
+	
+I'll admit that it's hard for me to tell for sure if I am evaluating
+the dimensions correctly. For example, when I think of the dimension
+"experimental manipulation", most likely I wont spot it. But there is
+also the reference to compare with. Hope this is good enough.
+	
+The same idea can probably be used for many of the skills listed such
+as "reading academic papers and commenting on external validity,
+methodologies, data collection" and perhaps even "quickly evaluating
+interventions". However, the dimensions to evaluate the work needs to
+be identified. I think there should be some general links on these I
+can find online and use them (Will be done later).
+
+**Cost-Effectiveness Analysis**:
+
+There is another model of Deliberate Practice called the "case method"
+(also the "chess method"). In chess, isolation of an aspect seems a
+little out of hand, as key aspects are probably hard to find. But,
+with chess, thousands of books on different positions, different games
+have been published. The Deliberate Practice routine would be to look
+at a particular position and choose a move and compare it to the move
+chosen by the master ('the reference'). Followed by analysis.
+
+For cost-effectiveness practice, I think this method will serve well
+as I am not sure how to isolate different aspects of it. I would in
+this case, look at an intervention report and for each cited article,
+predict a factor in the cost-effectiveness analysis. And then
+immediately compare with the actual cost-effectiveness analysis. And
+repeat.
+
+The cost-effectiveness practice session would involve the following:
+
+1. Obtaining content that is revered ('the reference'). This can be
+   obtained from GiveWell. There are enough intervention reports and
+   associated Cost-Effectiveness estimates such as [this](https://www.givewell.org/charities/DMI) and more
+   are also [available here](https://docs.google.com/spreadsheets/d/1TG7WRU85p1SEjir-5qvIEg4kVG9a4Lnzdgwcub8aKSs/edit#gid=0).
+  
+2. Reading intervention reports and predicting factors/values for the
+   cost-effectiveness analysis.
+   
+3. Comparing the actual vs prediction for each factor.
+
+I think this practice would also cover "how to discount for
+uncertainties" as we are going to be doing the discounting in the
+cost-effectiveness analysis.
+
+**Writing/Doing Independent Research (with "good reasoning
+transparency")**
+
+For getting better at writing independent research, first I need to
+know what good research looks like. I suspect the "concrete thinking
+practice routine" will help here. Concrete Thinking is about thinking
+in terms of claims and checking them with at least one example. In
+[this post](http://agent18.github.io/dp-subject-predicate-identify-pattern.html), I start with looking at text by someone (me,
+80000hours or EA forum post). I look at each claim that is made, and
+find an example for it. I check this to the best of my abilities
+across dimensions such as "Does the example given match the definition
+of the claim", "Is it possible even to give an example" etc.
+
+A limitation of this method is that it is completely up to my own
+discretion to note if I am right or wrong. To counter this it is often
+useful to send it to a knowledgeable friend for feedback
+("longer-feedback loop"). This way, I do have my immediate feedback
+and I also check how good this feedback is, over some time.
+
+I hope to apply these principles to "writing independent research" as
+well. For this I would need some text to evaluate across some
+dimensions. For "good independent research" text, (as mentioned above)
+I can look at Salius's posts ([1](https://forum.effectivealtruism.org/posts/gGiiktK69R2YY7FfG/fish-used-as-live-bait-by-recreational-fishermen) and [2](https://animalcharityevaluators.org/blog/is-the-percentage-of-vegetarians-and-vegans-in-the-u-s-increasing/)), High karma posts in
+the EA forum, and the huge pool of [Intervention reports from
+GiveWell](https://www.givewell.org/research/other-charity-reviews) (and also [this](https://docs.google.com/spreadsheets/d/1TG7WRU85p1SEjir-5qvIEg4kVG9a4Lnzdgwcub8aKSs/edit#gid=0)).
+
+For dimensions across which I measure the success of such posts, I
+hope I can pick up points from [good reasoning transparency](https://www.openphilanthropy.org/reasoning-transparency),
+"[how we evaluate a study](https://blog.givewell.org/2012/08/23/how-we-evaluate-a-study/)", and some notes by [Micheal Arid](https://forum.effectivealtruism.org/posts/J7PsetipHFoj2Mv7R/notes-on-ea-related-research-writing-testing-fit-learning)
+on high quality research. 
+
+Now using the text and dimensions I can evaluate "how good an article
+is". I can thus evaluate how the greats do it. I can also do the same
+for posts I have written and see how much I fall short on these
+dimensions.
+
+After doing a "few" examples of this practice, I expect to write short
+pieces of research and check it against the above dimensions. As for
+the "longer-feedback loop" I can also post these pieces to EA forum or
+ask specific feedback from particular people of the EA community.
+
+**Statistics, Causal inference and GH&P courses**
+
+As for GH&P, a research analyst from a prominent EA organization (AL)
+told me that she has done [these courses](https://micromasters.mit.edu/dedp/) from MIT in person and
+that she recommends doing them online. Some of these courses are by
+Nobel Laureates (e.g., Esther Duflo teaches [Data Analyses for Social
+Scientists](https://www.edx.org/course/data-analysis-for-social-scientists)). I think I will take at least one of these courses
+(for lack of time) ~~to get introduced to the "framework of doing
+research for GH&P"~~ as it seems like it will be useful.
+
+For statistics I don't want to plan anything specific now. If I am
+going to be reading academic papers anyway, then I will know what sort
+of statistics I would need to do, and I hope I can prepare from there
+on.
+
+As for causal inference, I really don't know what I can do. I shall
+check with the person who suggested it.
+
+**Writing conversation notes**
+
+For writing conversation notes of talks, and to make a Deliberate
+Practice session out of it, I would need conversation audio or
+transcripts, and the conversation notes, from a source we
+revere. Unfortunately, [conversation notes](https://www.givewell.org/research/conversations) like these, only have
+the final notes and not the transcripts of the conversation.
+
+I can *maybe* extract dimensions from several of these conversation
+notes. Following which, I can practice on my own on other EA talks on
+Youtube and check against the dimensions. Perhaps I should reach out
+to someone say from GiveWell, to give me feedback ("longer-feedback
+loop"). Perhaps!
+
+**Forecasting**
+
+I don't think I will do anything about this now. Should I? I don't
+know. I'd rather focus now on writing independent research on GH&P or
+animal welfare.
+
+However a quick look at [Metaculus](https://www.metaculus.com/accounts/profile/100912/) shows that there are tons of
+past forecasts and future forecasts to practice on. Smell 'Deliberate
+Practice', anybody?
+
+## Other things I could do
+
+- Consume a "lot" of EA content (as done by [Micheal Arid](https://forum.effectivealtruism.org/posts/2eEn8BHW69StPgtCi/how-have-you-become-more-or-less-engaged-with-ea-in-the-last?commentId=v5jwtvF29XoQyHzTw)).  
+- There are [Volunteering opportunities](https://www.animaladvocacycareers.org/skilled-volunteering) via Animal Advocacy
+  Careers.  
+- There are opportunities to [provide feedback like the one Charity
+  Entrepreneurship organizes.](https://www.charityentrepreneurship.com/volunteer.html)  
+- I could organize EA discussion groups in places where there is
+  feedback is missing.  
+  
+## My plan to get better
+
+So far it is clear am not already GiveWell/Rethink Priorities/Open
+Philanthropy Material from my applications. So it seems like I need to
+do something to get better than I am now, before I apply.
+
+So I propose to work on the things people from EA organizations have
+suggested, i.e., to start with practicing reading academic papers and
+making comments on various aspects, followed by working on
+cost-effectiveness analysis practice, and slowly climb my way to
+writing independent research on the EA forum (2 posts at least).
+
+On the side I want to do one course from MIT on GH&P and continue
+consuming content (e.g., try reading Eliezer Yudkowsky's series for
+example or taking apart top forum posts in 'concrete thinking').
+
+After spending a few months (3-6 months) on the above, I hope to
+re-apply while maybe providing feedback on the works of other
+organizations and also maybe look for volunteering opportunities
+and/or internships.
+
+Perhaps one thing to do would be to get feedback on this plan from
+someone like Micheal Arid ([who can be reached on a call here](https://forum.effectivealtruism.org/users/michaela)) or
+the EA forum. He is the guy who went from 28 rejections to a
+researcher at Future Of Humanities Institute in 3 years. Wow!
+
+**How sure am I that I know what skills to train?**
+
+I am "sort of sure" about the skills I need to work on, as it came
+from the mouths of some of the people in the business. Looking at
+people like Saulius and Micheal St. Jules, and the time it took them
+to blossom, I think 1-2 years seems "realistic" before I get any
+internship or a full-time job in EA organizations as a Researcher. I
+guess!
+
+## Appendix: What did people do to get into EA
 
 Peter Wildeford worked for over 5 years doing EA research by himself
 after which he was able to co-found an EA org. One thing Peter seems
@@ -159,37 +458,12 @@ In summary,
 - "Consume EA content"
 - Attend EA global
 
+## Appendix: Suggestions on skills/steps to be taken
 
-## Offering services as an intern or assistant
-
-Assistant to a researcher or internship with the idea being that you
-can see what they do and perhaps learn what skills they value and work
-on it later.
-
-Saulius seems to suggest that after his first internship (@ACE) "he
-knew what sort of articles would be useful" and also gained relevant
-connections with whom he collaborated on two articles.
-
-I was unable (in so far as I applied) to get an internship or an
-assistantship, so don't have my own experience to add. But it
-definitely something I should consider in addition to the work I am
-going to do.
-
-
-For example, Saulius seems to suggest that after his
-internship with ACE, he "knew better what kind of articles would be
-useful and had some relevant connections". He wrote a couple of
-articles, which he suspects were the main reason he got invited to
-an RP interview.
-   
-## Asking people what steps/skills to take (clean up)
-
-I asked people who are Researchers in EA orgs, "roughly" the
-following: "What steps would I/someone take to become GIVEWELL/Rethink
-Priorities/OPP material?" or "What skills do I need to become
-GIVEWELL/Rethink Priorities/OPP material?"
 
 **Peter**:
+
+Peter basically told me what's written [here](https://forum.effectivealtruism.org/posts/J7PsetipHFoj2Mv7R/notes-on-ea-related-research-writing-testing-fit-learning?commentId=nhkXnBWcT39ozx9S5).
 
 Peter Wildeford suggests that the best thing applicants can do to
 improve their odds of being a successful researcher is to **read and
@@ -199,10 +473,11 @@ says it may also be good to **get relevant credentials** to perform
 research at such organizations e.g., "top **forecaster** on Metaculus
 or Good Judgement Open".
 
-**David from RP**
+**DW is a Researcher at prominent EA org**  
+<!-- David Moss at Rethink Priorities -->
 
-David is pursuing an economics PhD and was part-timing at Rethink
-Priorities. His suggestions were:
+DW is pursuing an economics PhD and was part-timing at a prominent EA
+org. His suggestions were:
 
 - Be able to "read" social science papers (academic papers in Lancet,
   Nature or Science) and "comment on and understand" their
@@ -216,35 +491,38 @@ And perhaps consider the following steps to get there:
 - Consider getting a relevant degree 
 - Can do online courses for statistics and causal inference, textbooks
   and material where you have lots of questions and feedback.
-- start a reading group where you can discuss with other peers about
+- Start a reading group where you can discuss with other peers about
   academic papers for example.  
 
-**MSJ suggests the following:**
+**Micheal St. Jules suggests the following:**
 
-MSJ's 
-- Try starting with an internship.
-- Provide feedback on the research of orgs, publicly or by asking for
+Micheal St. Jules is currently a Research Fellow at Rethink
+Priorities. He suggested the following:
+
+- Try starting with an internship (instead of a full-time job).
+- Provide feedback on the research of organizations, publicly or by asking for
   opportunities to review unpublished work.
 - Do a literature review or Cost-Effectiveness analysis on some
   EA-related topic (like that of [Saulius](https://forum.effectivealtruism.org/users/saulius)'s posts) and post on EA
   forum
-- Sign up to orgs that allow you to be a reviewer of their research
+- Sign up to organizations that allow you to be a reviewer of their research
   (e.g., Charity Entrepreneurship seems to have some [opportunities
   now](https://www.charityentrepreneurship.com/volunteer.html)).
 
 For "Data Analysis type" roles:
 - For survey related roles use Mixed-Models and reproduce "EA Survey
   Analysis" and find other insights from the data. 
-- There is another survey on wild animal suffering which needs
-  analysis, and you can help me with the getting the data.
+- There is another survey data set which needs analysis, and he can
+  help me with the getting the data.
 
-**Alicia Wang from GIVEWELL's feedback** 
+**AL is a Jr. Researcher at a prominent EA org**   
+<!-- Alicia Wang from GIVEWELL's feedback -->
 
-The Researcher job at GiveWell involves trying to gauge evidence,
-piecing together poor evidence, and working with open-ended
-questions. She also thinks it is a "good idea" to practice with the
-[different reports on GiveWell](https://www.givewell.org/research) (look in ["Prioritized List of
-Programs"](https://docs.google.com/spreadsheets/d/1TG7WRU85p1SEjir-5qvIEg4kVG9a4Lnzdgwcub8aKSs/edit#gid=0) and "[other charity reviews](https://www.givewell.org/research/other-charity-reviews)") the following skills:
+The Researcher job at GiveWell-type-organizations involves trying to
+gauge evidence, piecing together poor evidence, and working with
+open-ended questions. She thinks it is a "good idea" to practice with
+the [different reports on GiveWell](https://www.givewell.org/research) (look in ["Prioritized List of
+Programs"](https://docs.google.com/spreadsheets/d/1TG7WRU85p1SEjir-5qvIEg4kVG9a4Lnzdgwcub8aKSs/edit#gid=0) and "[other charity reviews](https://www.givewell.org/research/other-charity-reviews)"), the following skills:
 
 - Understanding academic research ([how we evaluate a study](https://blog.givewell.org/2012/08/23/how-we-evaluate-a-study/)), the
   strengths and weaknesses and guessing the effect size for the target
@@ -257,221 +535,87 @@ Programs"](https://docs.google.com/spreadsheets/d/1TG7WRU85p1SEjir-5qvIEg4kVG9a4
   what you are uncertain about (again GiveWell reports show how it is
   done and there are at least [61 of them](https://docs.google.com/spreadsheets/d/1TG7WRU85p1SEjir-5qvIEg4kVG9a4Lnzdgwcub8aKSs/edit#gid=0)).
   
-- She has done courses from MIT in person and said she benefited from doing
-  courses [like this](https://micromasters.mit.edu/dedp/) (available in edX). 
+- She has done courses from MIT in person and said she "benefited"
+  from doing courses [like this](https://micromasters.mit.edu/dedp/) (available in edX).
   
 - Also the ability to state the next steps, communicate clearly the
-    uncertainty during work trials. This will be very important also
-    in the tests.
+uncertainty during work trials, is important. This will be very
+important also in the work tasks at GiveWell.
 
-and do it how?
-
-**Stephan**
+**ST is a Sr. Researcher at a prominent EA org**
+<!-- Stephan Guyenet -->
 
 Skills:
 
-- Ability to read Cochrane meta analysis, literature pubmed, scholar, econ papers
-- Cost-Effectiveness (botec)
-- Doing science with uncertainty
+- Ability to read Cochrane meta analysis, literature pubmed, scholar,
+  econ papers  
+- Cost-Effectiveness (botec --> back of the envelope calculations)  
+- Doing science with uncertainty  
 - Quickly evaluating interventions (how many people have the disease
-  and how much would it cost per person)
-- writing conversation notes
-- Critical thinking and communication in writing.
+  and how much would it cost per person)  
+- writing conversation notes  
+- Critical thinking and communication in writing.  
 
-And perhaps take the following steps,
+And perhaps take the following steps,  
 - Practice writing [conversation notes](https://www.givewell.org/research/conversations) like these, although the
-  recordings are not available, try to emulate the style
+  recordings are not available, try to emulate the style  
 - There seems to be lot of material on GiveWell website which I can
-  use to perhaps train on.
+  use to perhaps train on.  
 
-**Conclusion**
+**Summary**
 
-Yes some of the skills are vague, and how to get to "improve these
-skills" is a hard question too. But there is a lot of research
-material on GiveWell's website, which can be used to say deliberate
-practice.
+- read and write independent research  
+	- Write in EA forum with "good reasoning transparency" and get
+	feedback from the community. (Peter)  
+	- write reviews, Provide feedback on research of organizations (e.g.,
+	Charity Entrepreneurship seems to have some [opportunities
+	now](https://www.charityentrepreneurship.com/volunteer.html). (Micheal St. Jules)   
+  
+- Practice doing Cost-effectiveness estimates (Micheal St. Jules, AL
+  and ST)  
 
-A summary of the suggested steps seem to be:
-1. Read and write research (literature reviews, Cost-Effectiveness
-   analysis etc.) with good reasoning transparency
-2. Become a forecaster
-2. Provide feedback on research of organizations (publicly or by signing up to
-   be a reviewer etc.)
-3. "Understand academic papers and make comments on various aspects
-   such as effect size for target population, discounting for
-   uncertainty etc."
-4. "Practice making conversation notes"
-5. "Practice making quick evaluations of an intervention"
-6. "Do courses such as the ones provided by MIT for GH&P and for
-   statistics and causal inference.
-7. Develop the ability to state the next steps
-8. Communicate clearly regarding uncertainty
-9. Critical thinking and communication
+- Forecasting  
+  - Get relevant credentials in Metaculus or Good Judgement Open (Peter)
 
-I still think there is scope to discuss with greats like Arid or even
-other folk from OPP or maybe looking on fb and asking to meet with
-other researchers in groups. For example Arid is ready to have a
-deeper call later once I have read this and have additional questions
-to deal with.
+- Read Social Science papers  
+  - from Lancet, Nature or Science and "reflect" on methodologies,
+    data quality, internal and external validity, weaknesses and
+    assumptions. (DW and AL)
+  - Cochrane meta analysis, pubmed, scholar and econ papers
 
+- Practice discounting for uncertainty  
+  - discounting for trustworthiness of a paper. (DW)
+  - guessing the effect size for the target population from the papers (AL)
+  - doing science with all the uncertainty i.e., you will not have the
+    values you need (ST)
+	
+- Be "good" in Statistics and causal inference (DW)
+  - Do online course to get solid understanding of it. 
+  
+- Get a relevant degree in Economics for example (DW)
+- communication
+  - Write with "good reasoning transparency" (Peter)
+  - Communicating in a transparent way (AL)
+ 
+- Critical thinking (ST)
 
-## Skills and people endorsing it
+- writing conversation notes (ST)
 
-| Steps                          | No. of people endorsing |
-|--------------------------------|-------------------------|
-| Read and write research        | >=2                     |
-| Forecasting                    | 1                       |
-| Critically review org works    | >=2                     |
-| Understand Academic papers     | >=2                     |
-| Practice conversation notes    | 1                       |
-| Practice quick evaluations     | 1                       |
-| Do courses                     | 2                       |
-| Clearly stating next steps     | 1                       |
-| Critical thinking              | 1                       |
-| clearly communicating research | >=2                     |
+- quickly evaluating interventions (ST)
 
-The sample from which I collected is not random and the
-representativesness to the true population must be lacking. But amidst
-that uncertainty and the lack of a better way to get this knowledge, I
-accept the above information.
+## Statistics
 
-## So what steps should you take
+5k words  
+40 hours  
+\>4hrs per day on average
 
-What all it envelopes, what material to use as guideline, and how to practice
+<!-- ## Todo -->
 
-**Courses to improve GH&P knowledge and Statistics**
-
-This course is by esther dufalo . I am just hoping for some
-introduction to GH&P and biases and how they do it... From there I
-will start somewhere. 
-
-For statistics I am not sure I want to already delve into it without
-knowing how deep to go. I am hoping my reading on GiveWell (if it goes
-that far) will help me with this.
-
-**Understanding academic papers**
-
-Plan is to suck on the teet of GiveWell.
-
-**Reading research**
-
-notes by Micheal A
-
-comments by Micheal A
-
-Maybe also ask people
-
-Less wrong content, EA youtube videos, EA global
-
-Perhaps I can write a review on someones work as a way of
-understanding their content?
-
-And then follow it up with a review like how saulius did.
-
-There are also questions to answer here and perhaps I can reach out to
-some people to ask some hot questions they would like investigated
-perhaps?
-
-**Writing Research**
-
-
-
-**Review works of orgs**
-
-**Communicating research clearly**
-
-
-
-
-For lack of any other better way to do it, I am going to prioritize or
-give weight age to steps that are not vague and have a more than 2
-people endorsing it.
-
-
-
-
-## What are the next steps
-
-what can you DP? how? and what you cannot DP and why not?
-
-**Ideas as a result**
-1. volunteering Jamie Harish or MSJ
-2. Apply to assistant roles
-3. Doing independent research
-   Make Cost-Effectiveness estimates, prioritize cause areas, find
-   best funding opportunities.
-4. criticize others work
-5. indulge in Bayesian thinking
-6. forecasting improving
-7. Work on statistics
-8. Do course on GH&P at JPAL.
-9. Ask on the group resources to topic you are researching on
-
-## How sure are you that you know what skills to train
-
-Comments here.
-
-## Some links to follow
-
-1. [Notes on EA related Research Writing by Micheal Arid](https://forum.effectivealtruism.org/posts/J7PsetipHFoj2Mv7R/notes-on-ea-related-research-writing-testing-fit-learning) 
-
-## Appendix: What did people do
-
-Peter Wildeford worked for over 5 years doing EA research by himself
-after which he was able to co-found an EA org. One thing Peter seems
-to have done is write a lot of Forum posts (while "aiming to emulate
-good [reasoning transparency](https://www.openphilanthropy.org/reasoning-transparency)" and the style of highly up-voted
-posts). He has a very high karma of 7000 points. (Contrast that to me
-with 154 points). He has written around 38 posts in the EA forum
-before becoming Co-founder at Rethink Priorities. 
-
-Saulius seems to have started of with an internship in ACE after which
-it didn't convert to a job. A year later he works for Rethink
-Priorities. He was rejected by other organizations too. Meanwhile with
-his experience and connections from ACE, he wrote two "intensely
-researched" articles (one [published on ACE website](https://animalcharityevaluators.org/blog/is-the-percentage-of-vegetarians-and-vegans-in-the-u-s-increasing/) and the [other
-on EA forum](https://forum.effectivealtruism.org/posts/gGiiktK69R2YY7FfG/fish-used-as-live-bait-by-recreational-fishermen)), which seemed to have grabbed the attention of
-recruiters at least. He also has a high karma in the EA forum of about
-3000 points. Prior to getting into Rethink Priorities he had written 3
-posts. **Note:** One has to also do well in the tasks and interviews
-to get into the organization.
-
-Gregory Lewis applied for a research role in GWWC and got rejected
-back in 2015. Since mid-2017 he works for FHI. In the meantime he
-continued to work as a Public Health Doctor and also appears to have
-been writing on the forum. He suspects his current role at FHI was
-"mainly because" of his public health background than his "forum
-ouevre". He also has a high karma 3000 points unsurprisingly.
-
-Micheal St. Jules applied to GIVEWELL and ACE in 2016 and didn't get
-the roles (when he was new to EA). In the recent past he started
-working with his local EA group, started commenting and writing in the
-EA forum which was still not enough. He got an internship in Charity
-Entrepreneurship, following an EA forum prize, attending EA global and
-meeting people from Charity Entrepreneurship. He has over 1000 points
-and currently is a visiting fellow (internship) at Rethink Priorities.
-
-Micheal Arid got ~28 rejections in 2019 before getting 2 job
-offers. After a year of experience he was able to apply for 11
-positions and got 4. In the mean time he seems to have written many
-posts on EA forum. He shares some of the things he thinks might have
-helped him [here](https://forum.effectivealtruism.org/posts/2eEn8BHW69StPgtCi/how-have-you-become-more-or-less-engaged-with-ea-in-the-last?commentId=v5jwtvF29XoQyHzTw) where the main point seems to be that he read or
-consumed "practically everything" (Less wrong articles, books
-recommended top EA people, all EA conference videos, etc..). He now
-has a staggering 7k karma points in just 3 years. The most awesome
-thing about Arid is that in 3 years he made it to FHI. :)
-
-In summary,   
-- write "well" (high karma posts) in the EA forum and "a lot".
-- "Consume EA content"
-- Attend EA global
-
-
-
-## Todo
-
-- finish writing decent draft today.
-- check for accedental ~~scratches~~
-- blur peoples names
-- write 2nd draft and 3rd correction
-- put verbatim in the footnotes
+<!-- - ~~fix the Deliberate Practice section (morning 1 - 2 hrs)~~ -->
+<!-- - ~~conclusion write~~ -->
+<!-- - ~~fix appendix (let's do it now.)~~ -->
+<!-- - ~~re-write each sentence~~ -->
+<!-- - ~~finish the final editings~~ -->
+<!-- - change to cost-effectiveness -->
+<!-- - check final print on github if there are strike throughs -->
+<!-- - ~~spell check~~ -->

@@ -1403,3 +1403,16 @@ analytical mindset, critical thinking skills, communicate, writing.
 	
 12. I have to make the choice of pursuing Data science seriously or
    looking at orgs like givewell
+## writing
+
+Unable to have continuations, My endings suck
+
+> 3. Comparing the actual vs prediction for each factor.
+
+> This practice I think would also cover "how to discount for
+> uncertainties".
+>
+> **Writing/Doing Independent Research (with "good reasoning
+> transparency")**
+
+Which tense to write in?
