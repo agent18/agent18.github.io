@@ -312,7 +312,6 @@ My name is agent18, I hope to do \>30 hours in the coming 4 weeks.
 - Focus on doing whats really important.
 - Consider going to the library to exclusively have a productivity place.
 
-
 ## Some "good" quotes on procrastination
 
 > As a general rule of thumb. If you notice yourself procrastinating,
@@ -396,6 +395,32 @@ Total words: 3000 words
 
 Avg per day: 4.25 hrs per day :)
 
+## Update after 2 weeks
+
+| Wknum  | Amount of hours worked     |
+|--------|----------------------------|
+| Wk +2  | 31                         |
+| Wk +1  | 24 (failed on 2 days here) |
+| Wk-0   | 29                         |
+| Wk-1\* | 7                          |
+| Wk-2   | 12                         |
+| Wk-3   | 31                         |
+| Wk-4   | 7                          |
+| Wk-5   | 20                         |
+| Wk-6   | 12                         |
+| Wk-7   | 25                         |
+
+I still use pomodoro for most of the times. I get distracted a lot,
+and need to keep count track of it.  I have been successful in
+committing since wk-0 every single week reliably. I don't feel the
+burden. It's becoming natural Somehow it's becoming habit? to commit
+
+I still suck and push to the very end to start the task for the
+day. Perhaps I should set a target for within 8pm.
+
+I did fail in wk+2 to finish said task within time. I failed in wk+1
+on 2 days to complete the within said times. Also I didn't really have
+a deadline post or something to get with.
 
 ## Footnotes
 

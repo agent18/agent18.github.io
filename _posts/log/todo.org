@@ -2,62 +2,23 @@
 #+TAGS: work(w)  DP(d) break(b) meta(m) DS(s) blog(g) other(o) reading(r) NATW(n) apping(a)
 #+TODO: TODO(t) DOING(g) CANCELLED(c) FOLLOWUP(f) WAITING(w) DONE(d)
 
-* FOLLOWUP [#B] Application GIVEWELL
-** FOLLOWUP write an email to GiveWell seeking clarification on Visa
-*** TODO If yes apply and see
-DEADLINE: <2021-08-03 di>
-* [#A] Essay on skills 
-DEADLINE: <2021-08-07 za>
-** Gather resources
-*** DONE From GIVEWELL 
-*** DONE Reply to givewell connections on Linkedin
-***** DONE Ask him about researcher and analyst difference
-*** TODO [#A] Talk with Givewell employees
-**** DONE Prep for meeting
-DEADLINE: <2021-08-02 ma>
-**** DONE Stephan to give Calendly link
-**** DONE schedule Talk with Stephan
-**** DONE Actual meeting
-**** WAITING ask Alicia about the exact courses
-**** WAITING ask Alicia about writing her own research
-**** DONE Talk with Stephan Guyenet
-**** TODO make summary of the discussion
-*** TODO [#A] Talk with MichealA
-**** CANCELLED Prep for the meeting
-**** CANCELLED attend the meeting
-**** TODO Process his notes
-*** TODO Reply to forum guys
-**** DONE Identify forum guys to axe?
-[[https://forum.effectivealtruism.org/posts/hcdwSvGntCDJxCuqx/examples-of-people-who-didn-t-get-into-ea-in-the-past-but][From this post:]]
-1. Peter Wildeford
-2. Saulius
-3. Gregory_lewis
-4. MichealStJules
-5. MichealA
-6. Khorton
-7. Lynch
-8. Jamie
+* This week
 
-**** WAITING [#A] write to them if they reply
-***** DONE Saulius
-***** DONE MSJ
-***** DONE Gregory Lewis
-***** WAITING Jamie Harris
-** DONE Come up with a structure for the essay
-** [#A] write a first draft
-*** TODO [#A] Gather all the resources
-*** TODO Extract something meaningful out of it
-*** TODO Translate that to skills 
-*** TODO Translate that to DP
-** DONE Think of other ways to reach out to people
-** TODO Write First-draft conclusion
-** TODO second-draft
-** [#B] Other things to explore?
-*** TODO Is assistant role a direction to know more about the skills
-*** TODO Write about current rejections and where
-** TODO 3 different unique skills and DP them
-* [#C] Essay Beyond OPP, 80000hours and GiveWell
-* [#B] Essay on lifetime impact re-hashed
+** TODO Plan what am I going to do this week? based on how much time you have.
+** DONE Incorporate Sjir and alicia feedback into the post?
+** TODO Write essay
+** DONE read 5 pages of freakanomics (make notes in the weekend)
+** TODO jamie harish doc
+
+
+* [#A] Essay on lifetime impact re-hashed
+
+summary is, an STM thinks otherwise. I want to check if there are
+other discounting factors to be added, maybe make the whole
+cost-effectiveness simpler?
+
+make a post on lifetime calcs of EA guy on forum, see what people have
+to say on that?
 ** think about how the calculations should be taken with a pinch of salt?
 ** Am I being too conservative? How to avoid bias
 ** think what happens when you don't like it?
@@ -65,22 +26,28 @@ DEADLINE: <2021-08-02 ma>
 ** What about retirement will I have money?
 ** https://forum.effectivealtruism.org/posts/QFa92ZKtGp7sckRTR/?commentId=gKnto6pHAxpoJjYpc
 ** for dearth of job orgs contact Micheal Arid 
-* [#C] Org mode learning
+* [#C] Essay Beyond OPP, 80000hours and GiveWell
+Scrape company list from 80000hours
+* [#C] How I spent years and years trying to find out what to do?
+* [#C] wishlist
 ** TODO [#B] org-drill
 
 https://www.youtube.com/watch?v=uraPXeLfWcM&t=612s
 ** TODO [#B] org-roam
 https://www.youtube.com/watch?v=AyhPmypHDEw&list=WL&index=1
-** TODO org-capture and how to use it
-** TODO [#A] org screenshot take
+** TODO [#A] org-capture
+** TODO [#A] org screenshot take and use it in markdown
 https://github.com/dfeich/org-screenshot
 ** TODO USING org-mode for
 *** TODO [#A] setup agenda hotkeys
 https://orgmode.org/manual/Activation.html
 *** DONE Inline picture in markdown-mode
 *** DONE org change end of day recognition in org logs while calculating
+*** TODO how to archive?
+** TODO Auto-update of all git links periodically
 * [#C] Type racer everyday
-*
+** https://10fastfingers.com/typing-test/english
+** https://www.keybr.com/
 
 * [#C] LIFE bigger picture
 ** [#A] Write an essay on what are my goals for 2021

@@ -173,7 +173,9 @@ sorted the skills below by number of people suggesting it.
 - Read social science papers and identify the strengths and weaknesses
   based on data quality, methodology, internal and external validity,
   assumptions (>=2)  
-- Do MIT courses on GH&P  
+- Do MIT courses on GH&P: The Challenges of Global Poverty and
+  Foundations of Development Policy: Advanced Development Economies
+  (1)
 - Be good in Statistics and Causal inference (do courses) (1)  
 - Be good in writing conversation notes (1)  
 - Be good at quickly evaluating interventions (1)   
@@ -386,21 +388,25 @@ So I propose to work on the things people from EA organizations have
 suggested, i.e., to start with practicing reading academic papers and
 making comments on various aspects, followed by working on
 cost-effectiveness analysis practice, and slowly climb my way to
-writing independent research on the EA forum (2 posts at least).
+writing independent research on the EA forum (2 posts at
+least). (However, AL seems to have suggested that independent research
+might not be necessary. Then maybe it is wise to apply before starting
+independent research).
 
 On the side I want to do one course from MIT on GH&P and continue
 consuming content (e.g., try reading Eliezer Yudkowsky's series for
-example or taking apart top forum posts in 'concrete thinking').
+example or take apart top forum posts in 'concrete thinking').
 
 After spending a few months (3-6 months) on the above, I hope to
-re-apply while maybe providing feedback on the works of other
-organizations and also maybe look for volunteering opportunities
-and/or internships.
+re-apply (while maybe providing feedback on the works of other
+organizations), and also considering volunteering opportunities and/or
+internships.
 
 Perhaps one thing to do would be to get feedback on this plan from
 someone like Micheal Arid ([who can be reached on a call here](https://forum.effectivealtruism.org/users/michaela)) or
-the EA forum. He is the guy who went from 28 rejections to a
-researcher at Future Of Humanities Institute in 3 years. Wow!
+the EA forum. Micheal is the guy who went from 28 rejections to a
+researcher at Future Of Humanities Institute in 3 years (Of course
+that is not telling the entire story). But still, wow!
 
 **How sure am I that I know what skills to train?**
 
@@ -548,6 +554,18 @@ Programs"](https://docs.google.com/spreadsheets/d/1TG7WRU85p1SEjir-5qvIEg4kVG9a4
 uncertainty during work trials, is important. This will be very
 important also in the work tasks at GiveWell.
 
+- "I think The Challenges of Global Poverty and Foundations of
+  Development Policy: Advanced Development Economies would be helpful
+  for having some background on development programs and the evidence
+  bases behind them."
+  
+- "I think deliberately practicing based on the GiveWell material is a
+  good start, and I don't think it's necessary or particularly helpful
+  to do independent research. Once you've looked at some of the
+  materials and feel like you have a decent grasp on how GW generally
+  thinks about programs, I'd encourage you to just go ahead and
+  apply!"
+
 **ST is a Sr. Researcher at a prominent EA org**
 <!-- Stephan Guyenet -->
 
@@ -567,6 +585,21 @@ And perhaps take the following steps,
   recordings are not available, try to emulate the style  
 - There seems to be lot of material on GiveWell website which I can
   use to perhaps train on.  
+
+**SJ is a Sr. Researcher at a prominent EA org**
+<!-- Sjir -->
+
+Skills:
+
+- Gain more experience in Bayesian reasoning, e.g., thinking in terms
+  of priors and making small updates
+- Cost-effectiveness analysis
+
+- Also he doesn't think based on my current application to his org that
+I am "likely" to get into his org (in the "future").
+
+- Also consider research-adjacent roles such as advisory roles etc.
+
 
 **Summary**
 

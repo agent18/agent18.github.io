@@ -1,0 +1,492 @@
+---
+layout: post
+comments: true
+title:  "Lifetime Impact of a GiveWell Researcher"
+date:    10-08-2021
+categories: posts
+tags: ea
+permalink: /:title.html
+published: true
+---
+
+## Entry question
+
+What ~~is~~ could be the lifetime *estimated* impact (in `$`
+donated) of being a ~~EA~~ GiveWell researcher?
+
+**Epistemic Status**: Off by a factor 10 (#fermi-estimates)
+
+## TL;DR
+
+This is a fermi estimate and shall be treated like that. Everything is an
+estimate, there are many uncertainties and geometric means have been
+used to bring the limits down to one number.
+
+**Lifetime Impact of a GiveWell Researcher**: `$`8m 
+
+## Introduction
+
+I am curious to know what sort of impact a ~~EA~~ GiveWell Researcher
+has. I choose GiveWell, as there is a very "clear" dollar figure on how
+much money they "influenced" (at least according to them). With this
+essay, the lifetime impact of an entry level researcher starting in
+2021, and working for another 35 years, is estimated. The following
+components help put together the final figure:
+
+**Organization Level**
+
+1. Impact of GiveWell in 2021
+2. Growth rate of GiveWell's impact for the next 35 years
+3. Counterfactual impact of GiveWell
+
+**Researcher Level**
+
+1. Impact attributed to an entry level researcher in the first year
+   (2021)
+2. Growth rate of researcher's impact
+3. Counterfactual impact of a Researcher
+
+The rest of the essay deals with the above components and the final
+lifetime impact calculation.
+
+**Note1**: [Fermi estimates](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates) are in general factor 2 or even factor
+10 off. In many cases this might just be enough.
+
+**Note2:** This estimate does not consider several factors such as
+probability of EA loosing its momentum, probability of getting fired
+and not being able to contribute as a researcher etc.
+
+---
+
+<br>
+
+## Impact and Growth Rate of GiveWell in 2021
+
+GiveWell *estimates* how much [money they move](https://www.givewell.org/about/impact#MoneyMovedDefinition) every year and
+publishes them on their website. For example, in the year 2019 GiveWell
+estimated that they moved `$`[172m](https://www.givewell.org/about/impact). In order to estimate the
+impact of GiveWell in 2021, a bit of extrapolation of data is
+needed. For this extrapolation, the growth rate is used.
+
+To predict the growth rate in the coming years I believe it would be
+reasonable to base it on the money moved from 2015 to 2019 instead of
+2007 to 2019. This is because it appears that in the recent years the
+growth has sort of "plateaued"  and this might be more representative
+of the future .
+
+Thus, the [compound annual growth rate](https://www.investopedia.com/terms/c/cagr.asp) for the money moved between
+2015 and 2019 comes out to be 9.4% (`(172/120)^(1/4)-1`). It's really
+hard to predict the change in growth rate for the coming years. For
+simplicity's sake, a constant growth rate of **9.4%** for the next 35
+years, is assumed.
+
+| Year | Money Moved (`$`) [^2] | Growth |
+|------|-----------------------:|-------:|
+| 2010 |                   1.5m |      - |
+| 2011 |                     5m |   233% |
+| 2012 |                    10m |   100% |
+| 2013 |                    16m |    60% |
+| 2014 |                    28m |    75% |
+| 2015 |                   120m |   329% |
+| 2016 |                   118m |    -2% |
+| 2017 |                   149m |    26% |
+| 2018 |                   161m |     8% |
+| 2019 |                   172m |     7% |
+
+**Impact of GiveWell in 2021**
+
+As for the impact of GiveWell in 2021 it is estimated to be
+**`$`205m** (`172*(1.094)^2`), based on a growth rate of 9.4% and the
+money moved in 2019.
+
+## Counterfactual Impact of GiveWell
+
+The counterfactual impact of GiveWell is the difference in impact
+between the "*Actual Scenario*" (world with GiveWell since 2007) and
+the "*Counterfactual Scenario*" (world without GiveWell since 2007). 
+
+In the counterfactual scenario, it is expected that a GiveWell-like
+organization would have formed anyway, 3-10 years later (than when
+GiveWell was founded)[^6]. It appears likely because, many "similar"
+organizations (such as Charity Science Health, Rethink Priorities,
+Open Philanthropy, The Life You Can Save etc.) have formed since then
+(between 2010 and 2020), involving cost-effectiveness estimates and
+philosophies such as "doing the most-good for a dollar".
+
+While comparing the actual and counterfactual scenario, we compare the
+two scenarios with the same amount of money but only varying
+cost-effectiveness depending on the scenario. As a result it is
+expected that when money doesn't go to GiveWell-like organizations, it
+goes to some random organization which is *guessed* to be within 1 to
+1/50th times as cost-effective.
+
+<!-- **So to estimate the counterfactual impact of GiveWell the following -->
+<!-- is needed:** -->
+
+<!-- 1. Actual Scenario: Money expected to be moved every year by GiveWell, -->
+<!--    from 2021 to 2056. This is obtained by extrapolating GiveWell's -->
+<!--    impact as shown earlier (based on a growth rate of 9.4%). The money -->
+<!--    moved is assumed to have a cost-effectiveness of 1. -->
+
+<!-- 2. Counterfactual Scenario:  -->
+
+<!--    - Money expected to be moved by a "GiveWell-like" organization from -->
+<!--    2021 to 2056. The impact of GiveWell-like organization is simulated by shifting -->
+<!--    GiveWell's impact by 5 years (geometric mean of 3 and 10 -->
+<!--    years). This is also assumed to have a cost-effectiveness of 1 as -->
+<!--    it is a GiveWell-like organization. -->
+   
+<!--    - Money expected to be used by "other" organizations with lower -->
+<!--    cost-effectiveness--assumed to be 1/7 which is a geometric mean of -->
+<!--    1 and 1/50--than GiveWell or GiveWell-like organizations. -->
+
+<!-- 3. Subtracting impact of Actual Scenario from the Counterfactual -->
+<!--    Scenario gives the final impact (having multiplied them by their -->
+<!--    respective cost-effectivenesses). -->
+   
+<!-- 4. The difference is then represented as percentage of the Actual -->
+<!--    impact from the Actual Scenario. -->
+
+For example in 2021, as part of the actual scenario, GiveWell is
+estimated to have moved `$`206m with cost-effectiveness of 1. As part
+of the counterfactual scenario GiveWell-like organization is expected
+to move `$`118m [^10]  with cost-effectiveness of 1, in that year. The
+remainder `$`88m (`206m$ - 118m$`) is used by "other" organizations at
+one-seventh (geometric mean of 1 and 1/50) the cost-effectiveness of
+that of GiveWell. The difference between the actual and the
+counterfactual situation comes to be `$`75m. And finally, the
+counterfactual impact as a function of the money moved in the actual
+scenario is 36%.
+
+The below table summarizes the counterfactual impact for the different
+years. For years **beyond 2021 the counterfactual impact essentially
+starts to become a constant value of 31%**. This **31%** is used in
+the final calculation as a constant. 
+
+{:.tablestyletwo}
+| Year     | AS (m$)[^2] | CS GW-like (m$) | CS non-GW-like (m$) | AS-CS    | CS as % of AS |
+|----------|-------------|-----------------|---------------------|----------|---------------|
+| ...      | ...         | ...             | ...                 | ...      | ...           |
+| 2015     | 120         | 1.5             | 118.5               | 101.6    | 84.64%        |
+| 2016     | 118         | 5               | 113.0               | 96.9     | 82.08%        |
+| 2017     | 149         | 10              | 139.0               | 119.1    | 79.96%        |
+| 2018     | 161         | 16              | 145.0               | 124.3    | 77.20%        |
+| 2019     | 172         | 28              | 144.0               | 123.4    | 71.76%        |
+| 2020     | 188         | 120             | 68.2                | 58.5     | 31.06%        |
+| **2021** | **206**     | **118**         | **87.9**            | **75.4** | **36.6%**     |
+| 2022     | 225         | 149             | 76.3                | 65.4     | 29.03%        |
+| 2023     | 247         | 161             | 85.5                | 73.3     | 29.74%        |
+| 2024     | 270         | 172             | 97.8                | 83.8     | 31.06%        |
+| ...      | ...         | ...             | ...                 | ...      | ...           |
+| 2029     | 423         | 270             | 153.3               | 131.4    | 31.06%        |
+| 2030     | 463         | 295             | 167.7               | 143.8    | 31.06%        |
+| ...      | ...         | ...             | ...                 | ...      | ...           |
+| 2059     | 6,295       | 4,014           | 2,281.2             | 1,955.3  | 31.06%        |
+| 2060     | 6,888       | 4,392           | 2,496.0             | 2,139.4  | 31.06%        |
+| 2061     | 7,537       | 4,806           | 2,731.1             | 2,340.9  | 31.06%        |
+| ...      | ...         | ...             | ...                 | ...      | ...           |
+
+<br>
+AS --> Actual scenario with cost-effectiveness 1  
+CS GW-like -->  Counterfactual scenario with cost-effectiveness 1  
+CS non-GW-like --> Counterfactual scenario with cost-effectiveness 1/7  
+
+**Note**: Cost of operation of GiveWell is not taken into account as
+it is a small sum. For example, it is estimated that the cost of
+operation of GiveWell for 45 people (`$`110k per person) shall be
+`$`5m, contrast that to it's 206m expected to be moved in 2021 (a mere
+3%). So this is skipped confidently.
+
+**Note**: Also the effects of the [displacement chain](https://forum.effectivealtruism.org/posts/nn4nPvxF59AAr2G2n/replaceability-with-differing-priorities#A_more_complete_picture) are not
+considered for simplicity. 
+
+
+## Impact Attributed to an Entry Level Researcher in the First Year
+
+In the year 2015, GiveWell estimates that an entry level researcher
+had 10% of the impact of a co-founder and that there were 9 co-founder
+equivalents [^8]. In other words an entry level researcher was
+estimated to be responsible for 1.1% (`10%/9`) of the total impact (in
+2015). But this is not the whole story.
+
+With more people joining GiveWell this percentage gets diluted. In
+2015 there were 25 "equivalent staff members", where as in 2021 there
+are 45 "equivalent staff members" [^4] and the resulting contribution
+would thus be much less. Let's assume this contribution is inversely
+proportional to the total number of staff. Then, **the impact
+attributed to an entry level researcher in the first year (2021) is
+0.6%** (`1.1%x25/45`).
+
+## Growth Rate of a Researcher
+
+The growth rate of a researcher is split into 2 factors. The first
+being the growth rate associated with the 'increase in experience'
+which leads to higher researcher's contribution as the years pass. And
+the second being the growth rate associated with 'increase in number
+of staff' of GiveWell, which decreases the researcher's contribution
+as years pass.
+
+For the "**growth rate associated with increase in experience**", the
+year variable is held constant (and hence the number of staff is
+constant) and the difference between entry level researcher and
+co-founder is observed.
+
+In 2015, a co-founder is estimated to be responsible for 11% of the
+impact that year and an entry level researcher at 1.1% [^8].  If it
+takes an entry level researcher 10-20 years (geometric mean: 14 years)
+to reach co-founder level, then growth rate per year due to increase
+in experience (alone) is a whopping 19% (`(11%/1.1%)^(1/n)-1`). (It is
+assumed further that the growth rate falls sharply to 0% after
+reaching co-founder level.)
+
+{:.tablestyletwo}
+| Item                                      | Value |
+|-------------------------------------------|-------|
+| Entry level researcher                    | 1.1%  |
+| Co-founder equivalent                     | 11%   |
+| Number of years                           | 14    |
+| Growth rate due to increase in experience | 19%   |
+
+For the "**growth rate attributed to increase in staff**", the
+avg. increase in the number of people per year in GiveWell is
+estimated. This increase is assumed to be negatively proportional to
+growth rate attributed to increase in staff.
+
+From 2015 to 2021 the number of staff has increased from 25 to 45
+[^4]. This implies an increase per year of 10%
+(`(45/25)^(1/6)-1`). This implies a growth rate attributed to increase
+is staff of `-10%`.
+
+## Counterfactual Impact of a Researcher
+
+The researcher positions seem very competitive now (with ~1%
+acceptance rate). If the entry level researcher manages to be 5-15%
+(geometric mean: 9%) better than the next researcher in line (perhaps
+my Deliberately Practicing), then that would be the factor multiplied
+to the impact attributed to a researcher. This would then produce the
+counterfactual impact of the researcher.
+
+**Note**: I tried considering a "complex model" taking into account
+[displacement chains](https://forum.effectivealtruism.org/posts/nn4nPvxF59AAr2G2n/replaceability-with-differing-priorities#A_more_complete_picture) (explained in the appendix), but the
+improvement was almost nothing (few `$`100k) compared to the final
+value, so it has been moved to the appendix. Adding it here only made
+the explanation unnecessarily complicated.
+
+## Bringing it all together for 2021 to 2056
+
+The different factors computed so far are listed below: 
+
+**Organization level**
+
+1. Impact of GiveWell in 2021 = `$`205m
+
+2. Constant growth rate of GiveWell = 9.4%
+
+3. Counterfactual impact = 31%
+
+**Researcher Level**
+
+1. Impact attributed to an entry level researcher in the first year
+   (2021) = 0.6%
+   
+2. Growth Rate due to increase in experience = 19% between 2021 and
+   2035, and 0 otherwise.
+
+3. Growth Rate due to increase in staff members = -10%
+
+4. Counterfactual contribution of Researcher = 9%
+
+Taking them into account brings the counterfactual impact of a
+researcher to `$`8m. The following table shows part of the Google
+Sheets document (???) used to compute the final outcome.
+
+{:.tablestyletwo} 
+| Year | Impact | Counterfactual | Impact attributed | Counterfactual | Total |
+|      | of GW  | impact of GW   | to a researcher   | impact of      |       |
+|      |        |                |                   | a researcher   |       |
+|      | (m$)   | (%)            | (%)               | (%)            | (m$)  |
+|------|--------|----------------|-------------------|----------------|-------|
+| 2021 | 206    | 31%            | 0.60%             | 9%             | 0.03  |
+| 2022 | 225    | 31%            | 0.64%             | 9%             | 0.04  |
+| 2023 | 246    | 31%            | 0.69%             | 9%             | 0.05  |
+| 2024 | 270    | 31%            | 0.74%             | 9%             | 0.06  |
+| 2025 | 295    | 31%            | 0.79%             | 9%             | 0.07  |
+| ...  | ...    | ...            | ...               | ...            | ...   |
+| 2030 | 462    | 31%            | 1.11%             | 9%             | 0.15  |
+| 2031 | 506    | 31%            | 1.19%             | 9%             | 0.17  |
+| 2032 | 553    | 31%            | 1.28%             | 9%             | 0.20  |
+| 2033 | 605    | 31%            | 1.37%             | 9%             | 0.24  |
+| 2034 | 662    | 31%            | 1.46%             | 9%             | 0.28  |
+| 2035 | 724    | 31%            | 1.57%             | 9%             | 0.32  |
+| 2036 | 792    | 31%            | 1.41%             | 9%             | 0.32  |
+| ...  | ...    | ...            | ...               | ...            | ...   |
+| 2055 | 4,367  | 31%            | 0.19%             | 9%             | 0.25  |
+| 2056 | 4,777  | 31%            | 0.17%             | 9%             | 0.25  |
+
+
+**Note**: Milan Griffes estimates [here](https://web.archive.org/web/20210126162534/https://80000hours.org/2016/08/reflections-from-a-givewell-employee/) that as an entry level
+researcher he expects to make an impact of `$`90k (back in 2016). This
+is one-third the estimate for 2021 as per the above calculations.
+
+
+## Why I can only be a factor 10 confident
+
+First of all these are all forecasts, there are a ton of assumptions,
+such as a constant growth rate, counterfactual impact of a researcher
+etc. I don't think a more complex model is the solution. Even a really
+complex model of the growth rate will have it's own un-testable
+assumptions by virtue of it being a forecast.
+
+It is very hard to verify this on any level. For example, GiveWell
+estimates that in 2015 that an entry level researcher contributes 10%
+of a co-founder. I don't know how accurate this is and how they are
+testing this assumption over time.
+
+Many numbers are crazy sensitive. Just consider that the counterfactual
+contribution of a researcher changes to 1% instead of the 9%, then the
+final estimate falls from `$`8m to `$`800k.
+
+The estimation gets even harder with things organizations like Rethink
+Priorities for example, where they produce research and are not really
+moving money.
+
+---
+
+## Appendix: Counterfactual Impact of a Researcher
+
+The counterfactual impact of a researcher is the difference in impact
+between the "*Actual Scenario*" where there is an extra researcher and
+the "*Counterfactual Scenario*" which is without that extra
+researcher.
+
+A model table is shown below attempting to estimate the difference in
+impact between the 2 scenarios. In the actual scenario we have
+researchers `$R_{1}$` to `$R_{n}$` and people who Earn-To-Give
+`$R_{n+1}$` followed by `$E_{2}$` to `$E_{n}$`. In the counterfactual
+scenario we are missing `$R_{1}$` and the whole chain displaces
+upwards accordingly. `EA` is the amount of impact being a researcher
+and `ETGX` is the Earning-To-Give impact of different people. And the
+final counterfactual impact is given by **`$R_{n}-R_{n+1}$`x EA +
+`$R_{n+1}$`x ETG1**.
+
+
+{:.tablestyletwo}
+| Actual      | Counterfactual | Impact    | Difference                                     |
+|-------------|----------------|-----------|------------------------------------------------|
+| `$R_{1}$`   | `$R_{2}$`      | 1x EA     | `$R_{1}-R_{2}$` x EA                           |
+| `$R_{2}$`   | `$R_{3}$`      | 1x EA     | `$R_{2}-R_{3}$` x EA                           |
+| ...         | ...            | ...       | ...                                            |
+| `$R_{n-1}$` | `$R_{n}$`      | 1x EA     | `$R_{n-1}-R_{n}$`x EA                          |
+| `$R_{n}$`   | `$R_{n+1}$`    | 1x EA     | `$R_{n}-R_{n+1}$`x EA                          |
+|             |                |           |                                                |
+| `$R_{n+1}$` | 0              | ETG1      | `$R_{n+1} - 0$` x ETG1                             |
+| `$E_2$`     | `$E_2$`        | ETG2      | 0                                              |
+| ...         | ...            | ...       | 0                                              |
+| `$E_n$`     | `$E_n$`        | ETGN      | 0                                              |
+| -           | -              | **Total** | **`$R_{1}-R_{n+1}$`x EA +  `$R_{n+1}$`x ETG1** |
+
+<br>
+
+There are two components to the counterfactual impact of a
+researcher. The difference between the extra (`$R_{1}$`) and the
+displaced researcher (`$R_{n+1}$`) (`$R_{n}-R_{n+1} x EA$`). The
+researcher positions seem very competitive now (with ~1% acceptance
+rate). If the extra researcher (`$R_{1}$`) manages to be 5-15%
+(geometric mean: 9%) better than the displaced researcher, then the
+impact will be `0.09 x EA`.
+   
+In addition, the displaced researcher's Earning-To-Give (`$R_{n+1}$ x
+ETG1`) will also contribute to the counterfactual impact. Assuming the
+person is european and is willing to donate 10% of his salary, this
+would roughly mean an Earning-To-Give base of `$`4000 plus a growth
+rate of 5%.
+   
+---
+
+<br>
+
+## Footnotes
+
+[^2]: 
+	
+	[2014](https://blog.givewell.org/2015/04/13/givewells-money-moved-and-web-traffic-in-2014/)
+	[2015](https://blog.givewell.org/2016/05/13/givewells-money-moved-web-traffic-2015/)
+	[2016](https://blog.givewell.org/2018/03/30/givewells-money-moved-and-web-traffic-in-2016/)
+	[2017](https://blog.givewell.org/2018/06/29/givewells-money-moved-and-web-traffic-in-2017/)
+	[2018](https://blog.givewell.org/2019/09/09/givewells-money-moved-and-web-traffic-in-2018/)
+	
+	[2019](https://www.givewell.org/about/impact)
+	
+
+## todo
+
+
+- make separate sheet on gokul
+- check the footnotes
+- re-write and finalize
+
+- spell check
+- check the post online
+
+- writing dollar
+- posting and checking on EA forum
+
+
+[^3]: 
+
+	"Specifically, we roughly estimated the number of full-time,
+    co-founder-equivalent people working on each area in each
+    year. (Co-founder time was given a score of 1 but time spent by
+    newer staff was scaled down significantly; for example, we
+    multiplied time spent by entry-level staff in their first year at
+    GiveWell by 0.1. These figures are far from precise, and are
+    intended only to give a rough guess at our changes in total
+    capacity over time.)"---[GiveWell
+	](https://blog.givewell.org/2016/04/05/givewells-progress-in-2015/)
+	
+	0.1
+
+[^4]: 
+
+	Well in 2015 there were [21 people](https://web.archive.org/web/20150601044318/http://www.givewell.org/about/people) and 10 board members (not sure
+	how much work they do). Let's round it to 25 people. ~~It was
+	then estimated that this amounted to 9 co-founder equivalents with
+	considering a 1st year analyst "valued" at 10% of a co-founder[^3]. So
+	an entry level analyst is estimated to be responsible for `10%/9 = 1%`
+	of the whole contribution, where the average is 4%.~~ 
+	
+	In 2021 GiveWell has 41 staff and 6 board members. We round it up
+	to 45 people.---[GiveWell](https://web.archive.org/web/20210816090153/https://www.givewell.org/about/people)
+
+[^5]: 
+
+
+	fill up later
+
+[^6]: 
+
+	 ([80000hours also does something similar to estimate their
+	counterfactual impact](https://web.archive.org/save/https://forum.effectivealtruism.org/posts/fnBnEiwged7y5vQFf/triple-counting-impact-in-ea?commentId=CWxdafynvn3nQ7v9b)
+	 by assuming they changed someone's career path by a few years).
+
+[^7]: 
+
+	In the year 2015, GiveWell estimates that there were 9 co-founders
+    equivalents out of 25 staff
+
+[^8]: 
+
+	"(Co-founder time was given a score of 1 but time spent by newer
+    staff was scaled down significantly; for example, we multiplied
+    time spent by entry-level staff in their first year at GiveWell by
+    0.1.)"--- [GiveWell](https://blog.givewell.org/2016/04/05/givewells-progress-in-2015/)
+ 
+	"The table shows that our overall capacity has increased significantly since 2012 (from approximately 3 co-founder equivalents then to 9 today)."--- [GiveWell](https://blog.givewell.org/2016/04/05/givewells-progress-in-2015/)
+
+
+	
+[^10]: 
+
+    The impact of GiveWell-like organization is simulated by shifting
+	GiveWell's impact by 5 years (geometric mean of 3 and 10
+	years).
