@@ -294,6 +294,12 @@ persuasion by staying away for the most part from "other people".
 
 Go Data Science! 
 
+## Statistics
+
+20 hrs
+
+3200 words
+
 ## Footnotes
 
 [^1]: 

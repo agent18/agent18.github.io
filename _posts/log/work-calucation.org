@@ -126,7 +126,7 @@ CLOCK: [2021-08-24 di 21:23]--[2021-08-24 di 22:12] =>  0:49
 :END:
 *** possible final essay draft
 :LOGBOOK:
-CLOCK: [2021-08-26 do 01:33]
+CLOCK: [2021-08-26 do 01:33]--[2021-08-26 do 02:33] =>  1:00
 
 :END:
 *** DPing                                                              :DP:
