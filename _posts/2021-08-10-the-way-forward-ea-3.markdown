@@ -104,7 +104,7 @@ however see other arguments in favor of one or the other.
 <!-- "personal fit" was the most important thing... Peter also seemed to -->
 <!-- suggest a route based on personal fit, but I never got it. -->
 
-## Upskilling to get a foot in the door
+## Upskilling To Get A Foot In The Door
 
 I recently wrote about [EA skills](/ea-skills-2.html) needed based on a discussion
 with a couple of "EA people". Skills listed include things like
@@ -194,7 +194,7 @@ studies at least).
 As a result, I am more confident about learning Data Science skills
 (and perhaps "mastering" them one day).
 
-## Earning to Give in the US
+## Earning To Give In The US
 
 Going to the US is a crucial part of Earning-To-Give. Earning for the
 rest of my life in the Netherlands will probably get me to
@@ -241,7 +241,7 @@ perhaps I can leave the research to other people who are already good
 at it, and perhaps people who don't have the possibility to
 Earn-To-Give in tech in US.
 
-## Possibility of getting back to the EA
+## Possibility Of Getting Back To The EA
 
 Perhaps in the off chance that EA somehow looks like a lucrative
 option for me in the future (depending on how EA progresses) maybe I
