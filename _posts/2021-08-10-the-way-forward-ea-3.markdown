@@ -194,27 +194,6 @@ studies at least).
 As a result, I am more confident about learning Data Science skills
 (and perhaps "mastering" them one day).
 
-
-## EA is not going to be missing me
-
-The EA sphere is super competitive. Below are the acceptance rates at
-several programs:
-
-| Year | Org | position                            | AR    |
-| ---  | --- | ---                                 | ---   |
-| 2018 | OPP | GR                                  | <5%   |
-| 2018 | EAF | GR & Operations                     | 3%    |
-| 2019 | CE  | CE entrepreneurship program         | 11.7% |
-| 2020 | CE  | CE Entrepreneurship program         | <1%   |
-| 2019 | CE  | Internship Mental Health            | <2.5% |
-| 2019 | FWI | Research analyst Welfare specialist | 2.4%  |
-
-As a result of the competitiveness they are going to continue "just as
-usual" with or without me. No one is going to be "missing me". And
-perhaps I can leave the research to other people who are already good
-at it, and perhaps people who don't have the possibility to
-Earn-To-Give in tech in US.
-
 ## Earning to Give in the US
 
 Going to the US is a crucial part of Earning-To-Give. Earning for the
@@ -241,6 +220,26 @@ job in the US even for 1-2 years, then I will have a large debt (say
 as most of the people I know have managed some job in the US after
 their masters. H1B might be an issue, but getting a job so far doesn't
 seem to be. 
+
+## EA is not going to be missing me
+
+The EA sphere is super competitive. Below are the acceptance rates at
+several programs:
+
+| Year | Org | position                            | AR    |
+| ---  | --- | ---                                 | ---   |
+| 2018 | OPP | GR                                  | <5%   |
+| 2018 | EAF | GR & Operations                     | 3%    |
+| 2019 | CE  | CE entrepreneurship program         | 11.7% |
+| 2020 | CE  | CE Entrepreneurship program         | <1%   |
+| 2019 | CE  | Internship Mental Health            | <2.5% |
+| 2019 | FWI | Research analyst Welfare specialist | 2.4%  |
+
+As a result of the competitiveness they are going to continue "just as
+usual" with or without me. No one is going to be "missing me". And
+perhaps I can leave the research to other people who are already good
+at it, and perhaps people who don't have the possibility to
+Earn-To-Give in tech in US.
 
 ## Possibility of getting back to the EA
 
