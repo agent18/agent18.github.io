@@ -299,15 +299,15 @@ Go Data Science!
 
 [^1]: 
 
-1. 41.9% chance of success after one H1B attempt for Master's pool
-2. 100% chance of getting an RFE
-3. Success of RFE is 60.4%
-4. It is possible to have 3 attempts at the H1B Lottery.
-5. Total probability of success in one year = `41.9% x 100% x
-   60.4%=25.3%`
-6. Total probability of success in 3 years = `1-(1-25.3%)^3`=58%
+	1. 41.9% chance of success after one H1B attempt for Master's pool
+	2. 100% chance of getting an RFE
+	3. Success of RFE is 60.4%
+	4. It is possible to have 3 attempts at the H1B Lottery.
+	5. Total probability of success in one year = `41.9% x 100% x
+	  60.4%=25.3%`
+	6. Total probability of success in 3 years = `1-(1-25.3%)^3`=58%
 
-Based on appendix footnotes in [this article](/career-update.html "This article").
+	Based on appendix footnotes in [this article](/career-update.html "This article").
 
 [^2]: 
 
