@@ -1447,3 +1447,59 @@ Unable to have continuations, My endings suck
 > transparency")**
 
 Which tense to write in? often flabbergasted by this
+
+
+While writing reason what should come first?
+
+
+Struggling and not sure if my verbiage is wordy, struggling to write
+my impact analysis i.e, trying not to be wordy and not sure how to
+explain for example the what to put in footnote and what not, while
+writing that section on counterfactual impact, how do I explain that
+shit in an understandable manner.
+
+should I use bullets or not, but it looks ugly?
+
+
+Take this for example... I am really struggling to write well
+
+> I always panic, thinking about the future. "Oh whats going to happen
+> to me, I am not going to feel motivated for the rest of my life to
+> keep grinding"? Well to that shit talker I say this, Measure what you
+> can test. I can test what has been the scene for the last 5 years. 
+>
+> Why would I randomly imagine that is the case?
+>
+> I do agree persuasion is a bitch, and I think I should focus on being
+> persuaded to become a great Data Science I would imagine in my cali
+> baby. Let's see. Inshallah Inshallah.
+
+and it is painfull to fix this shit... I really suck at writing.
+
+
+Giveing commentary, yes or no?
+
+> Assuming I know what sort of skills is needed (made a post about it
+> [here](/ea-skills-2.html) recently) in the EA world, it is still hard to design a
+> deliberate practice routine in many cases to know how to develop in
+> it.
+
+Unable to connect everything together
+
+> With Data Science also this part might be hard. People don't seem to
+> always be able to articulate what to work on and to what level to work
+> on to get to a job. But my usual rule of thumb is to work on one
+> example problem and seeing it through. This seems to be working pretty
+> well (not with getting an interview but with doing "well"[^6] in
+> interviews and case studies).
+>
+>
+> ## They are not going to be missing me
+>
+> The EA sphere is super competitive. Below are the acceptance rates at
+> several programs.
+
+
+## Make a simpler comparison and show that these are fermi estiamtes
+and that we shouldn't care about this shit anymore and go on to
+something that is more tractable

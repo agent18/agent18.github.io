@@ -1,9 +1,64 @@
 #+COLUMNS: %7TODO(To Do) %40ITEM(Task) %10CLOCKSUM(Clock)
 #+TAGS: work(w)  DP(d) break(b) meta(m) DS(s) blog(g) other(o) reading(r) NATW(n) apping(a)
+* Commenting on paper for Jamie
+** Counted for work                                                    :work:
+*** Prepping for task
+:LOGBOOK:
+CLOCK: [2021-08-17 di 19:42]--[2021-08-17 di 20:29] =>  0:47
+:END:
+*** Looking for content
+
+*** reading paper
+:LOGBOOK:
+CLOCK: [2021-08-19 do 00:08]--[2021-08-19 do 01:15] =>  1:07
+CLOCK: [2021-08-18 wo 21:29]--[2021-08-18 wo 23:27] =>  1:58
+CLOCK: [2021-08-18 wo 19:06]--[2021-08-18 wo 20:58] =>  1:52
+CLOCK: [2021-08-18 wo 17:36]--[2021-08-18 wo 18:07] =>  0:31
+CLOCK: [2021-08-17 di 21:05]--[2021-08-17 di 23:55] =>  2:50
+:END:
+*** other
+*** DPing                                                              :DP:
+** Other useful stuff                                                 :meta:
+:LOGBOOK:
+CLOCK: [2021-08-22 zo 10:23]--[2021-08-22 zo 10:28] =>  0:05
+:END:
+*** Work done for STM 
+
+** Not counted for DP                                                :break:
+:LOGBOOK:
+CLOCK: [2021-08-18 wo 20:58]--[2021-08-18 wo 21:29] =>  0:31
+CLOCK: [2021-08-18 wo 18:03]--[2021-08-18 wo 19:06] =>  1:03
+CLOCK: [2021-08-17 di 20:30]--[2021-08-17 di 21:18] =>  0:48
+:END:
+*** Breaks
+**** Working on Org mode
+**** Dreaming
+**** Random
+*** Sleeping 
+*** Watching Youtube
+*** Playing with phone
+
+*today
+
+finish settling money with achu
+
+watch porn and sleep
+plan for friday to celebrate guns bday
+picnic
+
+for work
+
+Randomization 
+send mail about carpooling 
+final mail (weather and shit)
+
+buy holidays tomorow
+buy shares figure out tomo
 * LIFE decision essay
 ** Counted for work                                                    :work:
 *** Prepping for task
 :LOGBOOK:
+CLOCK: [2021-08-22 zo 10:28]--[2021-08-22 zo 11:26] =>  0:58
 CLOCK: [2021-08-12 do 22:31]--[2021-08-12 do 22:31] =>  0:00
 CLOCK: [2021-08-11 wo 18:19]--[2021-08-11 wo 19:05] =>  0:46
 CLOCK: [2021-08-10 di 21:07]--[2021-08-10 di 23:08] =>  2:01
@@ -14,7 +69,7 @@ CLOCK: [2021-08-10 di 18:50]--[2021-08-10 di 20:38] =>  1:48
 *** other
 *** writing the contend for EA impact
 :LOGBOOK:
-CLOCK: [2021-08-16 ma 22:05]
+CLOCK: [2021-08-16 ma 22:05]--[2021-08-17 di 01:05] =>  3:00
 CLOCK: [2021-08-16 ma 20:42]--[2021-08-16 ma 21:54] =>  1:12
 CLOCK: [2021-08-16 ma 18:15]--[2021-08-16 ma 19:58] =>  1:43
 CLOCK: [2021-08-16 ma 15:36]--[2021-08-16 ma 16:24] =>  0:48
@@ -44,15 +99,60 @@ CLOCK: [2021-08-14 za 00:57]--[2021-08-14 za 01:13] =>  0:16
 CLOCK: [2021-08-13 vr 00:35]--[2021-08-13 vr 00:46] =>  0:11
 CLOCK: [2021-08-11 wo 17:46]--[2021-08-11 wo 18:19] =>  0:33
 :END:
+*** way forward essay research + first dump
+:LOGBOOK:
+CLOCK: [2021-08-23 ma 10:38]--[2021-08-23 ma 12:01] =>  1:23
+CLOCK: [2021-08-22 zo 23:26]--[2021-08-23 ma 00:38] =>  1:12
+CLOCK: [2021-08-22 zo 21:42]--[2021-08-22 zo 22:51] =>  1:09
+CLOCK: [2021-08-22 zo 18:51]--[2021-08-22 zo 20:48] =>  1:57
+:END:
+*** way forward essay 2nd draft
+:LOGBOOK:
+CLOCK: [2021-08-24 di 18:56]--[2021-08-24 di 20:53] =>  1:57
+CLOCK: [2021-08-23 ma 23:05]--[2021-08-23 ma 23:40] =>  0:35
+CLOCK: [2021-08-23 ma 20:12]--[2021-08-23 ma 21:00] =>  0:48
+CLOCK: [2021-08-23 ma 18:54]--[2021-08-23 ma 19:36] =>  0:42
+CLOCK: [2021-08-23 ma 14:08]--[2021-08-23 ma 15:57] =>  1:49
+:END:
+*** way forward essay 3rd draft
+:LOGBOOK:
+CLOCK: [2021-08-25 wo 23:18]--[2021-08-26 do 01:00] =>  1:42
+CLOCK: [2021-08-25 wo 21:48]--[2021-08-25 wo 22:38] =>  0:50
+CLOCK: [2021-08-25 wo 20:30]--[2021-08-25 wo 21:25] =>  0:55
+CLOCK: [2021-08-25 wo 19:10]--[2021-08-25 wo 20:17] =>  1:07
+CLOCK: [2021-08-25 wo 00:45]--[2021-08-25 wo 01:00] =>  0:15
+CLOCK: [2021-08-24 di 23:00]--[2021-08-25 wo 00:45] =>  1:45
+CLOCK: [2021-08-24 di 21:23]--[2021-08-24 di 22:12] =>  0:49
+:END:
+*** possible final essay draft
+:LOGBOOK:
+CLOCK: [2021-08-26 do 01:33]
+
+:END:
 *** DPing                                                              :DP:
 ** Other useful stuff                                                 :meta:
 :LOGBOOK:
+CLOCK: [2021-08-25 wo 01:01]--[2021-08-25 wo 01:07] =>  0:06
+CLOCK: [2021-08-23 ma 23:40]--[2021-08-24 di 00:10] =>  0:30
+CLOCK: [2021-08-23 ma 00:38]--[2021-08-23 ma 01:08] =>  0:30
 CLOCK: [2021-08-11 wo 23:45]--[2021-08-12 do 00:00] =>  0:15
 :END:
 *** Work done for STM 
 
 ** Not counted for DP                                                :break:
 :LOGBOOK:
+CLOCK: [2021-08-26 do 01:00]--[2021-08-26 do 01:25] =>  0:25
+CLOCK: [2021-08-25 wo 22:38]--[2021-08-25 wo 23:18] =>  0:40
+CLOCK: [2021-08-25 wo 21:21]--[2021-08-25 wo 21:48] =>  0:27
+CLOCK: [2021-08-25 wo 20:17]--[2021-08-25 wo 20:30] =>  0:13
+CLOCK: [2021-08-24 di 22:12]--[2021-08-24 di 23:00] =>  0:48
+CLOCK: [2021-08-24 di 20:53]--[2021-08-24 di 21:23] =>  0:30
+CLOCK: [2021-08-23 ma 19:36]--[2021-08-23 ma 20:12] =>  0:36
+CLOCK: [2021-08-23 ma 15:58]--[2021-08-23 ma 18:54] =>  2:56
+CLOCK: [2021-08-23 ma 12:01]--[2021-08-23 ma 14:08] =>  2:07
+CLOCK: [2021-08-22 zo 22:51]--[2021-08-22 zo 23:26] =>  0:35
+CLOCK: [2021-08-22 zo 20:48]--[2021-08-22 zo 21:42] =>  0:54
+CLOCK: [2021-08-22 zo 11:30]--[2021-08-22 zo 18:51] =>  7:21
 CLOCK: [2021-08-16 ma 19:58]--[2021-08-16 ma 20:42] =>  0:44
 CLOCK: [2021-08-16 ma 16:24]--[2021-08-16 ma 18:15] =>  1:51
 CLOCK: [2021-08-16 ma 11:33]--[2021-08-16 ma 15:36] =>  4:03
@@ -5232,12 +5332,28 @@ about it.
 
 * weekly statistics
 
-#+BEGIN: clocktable :maxlevel 3 :scope file :step week :tstart "<-4w>" :tend "<tomorrow>" :tags t :compact t :match "-break-NATW"
+#+BEGIN: clocktable :maxlevel 3 :scope file :step week :tstart "<-7w>" :tend "<tomorrow>" :tags t :compact t :match "-break-NATW"
 
-Weekly report starting on: [2021-07-18 zo]
-| Tags | Headline     | Time   |
-|------+--------------+--------|
-|      | *Total time* | *0:00* |
+Weekly report starting on: [2021-07-08 do]
+| Tags | Headline                |    Time |
+|------+-------------------------+---------|
+|      | *Total time*            | *12:05* |
+|------+-------------------------+---------|
+|      | EA what up              |   12:05 |
+| work | \_  Counted for work    |   12:05 |
+| work | \_    Prepping for task |    1:27 |
+| work | \_    Prepping fermi    |   10:38 |
+
+Weekly report starting on: [2021-07-12 ma]
+| Tags | Headline                          |   Time |
+|------+-----------------------------------+--------|
+|      | *Total time*                      | *6:33* |
+|------+-----------------------------------+--------|
+|      | EA what up                        |   6:33 |
+| work | \_  Counted for work              |   6:33 |
+| work | \_    Prepping fermi              |   1:43 |
+| work | \_    Prepping consequentialism   |   2:34 |
+| work | \_    Answering form questions FP |   2:16 |
 
 Weekly report starting on: [2021-07-19 ma]
 | Tags | Headline                              |      Time |
@@ -5292,6 +5408,35 @@ Weekly report starting on: [2021-08-09 ma]
 |      | EA what up                              |      0:59 |
 | work | \_  Counted for work                    |      0:59 |
 | work | \_    giving feedback                   |      0:59 |
+
+Weekly report starting on: [2021-08-16 ma]
+| Tags | Headline                                      |    Time |
+|------+-----------------------------------------------+---------|
+|      | *Total time*                                  | *22:17* |
+|------+-----------------------------------------------+---------|
+|      | Commenting on paper for Jamie                 |    9:10 |
+| work | \_  Counted for work                          |    9:05 |
+| work | \_    Prepping for task                       |    0:47 |
+| work | \_    reading paper                           |    8:18 |
+| meta | \_  Other useful stuff                        |    0:05 |
+|      | LIFE decision essay                           |   13:07 |
+| work | \_  Counted for work                          |   12:37 |
+| work | \_    Prepping for task                       |    0:58 |
+| work | \_    writing the contend for EA impact       |    7:21 |
+| work | \_    way forward essay research + first dump |    4:18 |
+| meta | \_  Other useful stuff                        |    0:30 |
+
+Weekly report starting on: [2021-08-23 ma]
+| Tags | Headline                                      |    Time |
+|------+-----------------------------------------------+---------|
+|      | *Total time*                                  | *13:31* |
+|------+-----------------------------------------------+---------|
+|      | LIFE decision essay                           |   13:31 |
+| work | \_  Counted for work                          |   12:55 |
+| work | \_    way forward essay research + first dump |    1:23 |
+| work | \_    way forward essay 2nd draft             |    5:51 |
+| work | \_    way forward essay 3rd draft             |    5:41 |
+| meta | \_  Other useful stuff                        |    0:36 |
 #+END:
 
 
@@ -5301,43 +5446,44 @@ https://orgmode.org/manual/The-clock-table.html
 
 #+BEGIN: clocktable :maxlevel 3 :scope file :step day :tstart "<-3d>" :tend "<tomorrow>" :tags t :compact t :match "-break-NATW"
 
-Daily report: [2021-08-13 vr]
-| Tags | Headline                                |   Time |
-|------+-----------------------------------------+--------|
-|      | *Total time*                            | *4:37* |
-|------+-----------------------------------------+--------|
-|      | LIFE decision essay                     |   4:37 |
-| work | \_  Counted for work                    |   4:37 |
-| work | \_    writing the contend for EA impact |   3:35 |
-| work | \_    making fermi estimates            |   0:35 |
-| work | \_    other distractions                |   0:27 |
+Daily report: [2021-08-22 zo]
+| Tags | Headline                                      |   Time |
+|------+-----------------------------------------------+--------|
+|      | *Total time*                                  | *5:51* |
+|------+-----------------------------------------------+--------|
+|      | Commenting on paper for Jamie                 |   0:05 |
+| meta | \_  Other useful stuff                        |   0:05 |
+|      | LIFE decision essay                           |   5:46 |
+| work | \_  Counted for work                          |   5:16 |
+| work | \_    Prepping for task                       |   0:58 |
+| work | \_    way forward essay research + first dump |   4:18 |
+| meta | \_  Other useful stuff                        |   0:30 |
 
-Daily report: [2021-08-14 za]
-| Tags | Headline                                |   Time |
-|------+-----------------------------------------+--------|
-|      | *Total time*                            | *2:06* |
-|------+-----------------------------------------+--------|
-|      | LIFE decision essay                     |   2:06 |
-| work | \_  Counted for work                    |   2:06 |
-| work | \_    writing the contend for EA impact |   2:06 |
+Daily report: [2021-08-23 ma]
+| Tags | Headline                                      |   Time |
+|------+-----------------------------------------------+--------|
+|      | *Total time*                                  | *5:47* |
+|------+-----------------------------------------------+--------|
+|      | LIFE decision essay                           |   5:47 |
+| work | \_  Counted for work                          |   5:17 |
+| work | \_    way forward essay research + first dump |   1:23 |
+| work | \_    way forward essay 2nd draft             |   3:54 |
+| meta | \_  Other useful stuff                        |   0:30 |
 
-Daily report: [2021-08-15 zo]
-| Tags | Headline                                |   Time |
-|------+-----------------------------------------+--------|
-|      | *Total time*                            | *5:49* |
-|------+-----------------------------------------+--------|
-|      | LIFE decision essay                     |   5:49 |
-| work | \_  Counted for work                    |   5:49 |
-| work | \_    writing the contend for EA impact |   5:49 |
+Daily report: [2021-08-24 di]
+| Tags | Headline                          |   Time |
+|------+-----------------------------------+--------|
+|      | *Total time*                      | *4:46* |
+|------+-----------------------------------+--------|
+|      | LIFE decision essay               |   4:46 |
+| work | \_  Counted for work              |   4:46 |
+| work | \_    way forward essay 2nd draft |   1:57 |
+| work | \_    way forward essay 3rd draft |   2:49 |
 
-Daily report: [2021-08-16 ma]
-| Tags | Headline                                |   Time |
-|------+-----------------------------------------+--------|
-|      | *Total time*                            | *1:26* |
-|------+-----------------------------------------+--------|
-|      | LIFE decision essay                     |   1:26 |
-| work | \_  Counted for work                    |   1:26 |
-| work | \_    writing the contend for EA impact |   1:26 |
+Daily report: [2021-08-25 wo]
+| Tags | Headline     | Time   |
+|------+--------------+--------|
+|      | *Total time* | *0:00* |
 #+END:
 
 scrolling issue 

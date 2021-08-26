@@ -269,7 +269,6 @@ how off do you think this is?
 
 ## todo
 
-- spell check
 - check the post online
 - writing dollar
 - posting and checking on EA forum

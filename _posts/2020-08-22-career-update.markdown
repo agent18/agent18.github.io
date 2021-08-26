@@ -98,8 +98,8 @@ Earning potential is quite high in the US. Earnings are substantially
 larger than here in Netherlands (or Europe). I know DS people with
 4yoe in Apple California earning 300k`$` TC and others in Walmart with
 300k`$` TC. While here (Netherlands) people seem to be [earning
-78k-103k$](https://www.glassdoor.nl/Salarissen/Booking-com-Data-Scientist-Amsterdam-Salarissen-EJI_IE256653.0,11_KO12,26_IL.27,36_IM1112.htm?experienceLevel=ONE_TO_THREE) as per Glassdoor. With salaries as in the US there
-are people like ([Jeff Kaufman](https://www.jefftk.com/donations)) who are able to donate 50%. This
+78k-103k$](https://www.glassdoor.nl/Salarissen/Booking-com-Data-Scientist-Amsterdam-Salarissen-EJI_IE256653.0,11_KO12,26_IL.27,36_IM1112.htm?experienceLevel=ONE_TO_THREE) as per Glassdoor. With salaries as in the US there are
+people like ([Jeff Kaufman](https://www.jefftk.com/donations)) who are able to donate 50%. This
 amounts to about 150k`$` per year with a 300k`$` TC.
 
 **Why Research, why not operations?**
@@ -133,7 +133,6 @@ different scenarios.
 ## Scenario 1: DS with Masters in the US
 
 ![DS-masters](./images/career/DS-masters.png "This is blab la blab")
-
 
 The above decision tree shows the different parts expected on the
 "DS-masters" route. I would start with a DS job in Netherlands, find

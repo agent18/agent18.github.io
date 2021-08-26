@@ -146,10 +146,12 @@ getting H0 is true given the mean of the sample.
 
 ### Type 1 and type 2 era
 
+
 |                   | H0 True | H0 False |
 |-------------------|---------|----------|
 | reject H0         | Type I  | Correct  |
 | Fail to reject H0 | Correct | Type II  |
+
 
 ### probability of making a type II error (later)
 
