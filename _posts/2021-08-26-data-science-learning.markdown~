@@ -1,0 +1,250 @@
+## importing files
+
+``` python
+with open(json_path, encoding="utf8", errors='ignore') as f:
+     file = json.load(f)
+```
+
+## Matplotlib
+
+
+- x axis when there is a lot
+- rotate x axis
+- make log axis
+- add grids
+- make multiple graphs
+- what else can matplotlib dag?
+
+**Import statements**
+
+``` python
+import matplotlib.pyplot as plt
+import numpy as np
+```
+
+**Basic plot**
+
+``` python
+## plot (+ label + color + texture + limits + move_label around etc.)
+
+x = np.linspace(1,5,10000)
+a = np.log(x) #loge
+b = np.log10(x) #log10
+c = 2.303*b
+
+plt.plot(x,a)
+plt.plot(x,b)
+plt.plot(x,c)
+
+plt.ylabel("log_base(x)")
+plt.xlabel("x")
+
+plt.title("testing differen log bases")
+
+plt.legend(["ln","log10","2.203 x log10"])
+
+plt.show()
+```
+
+**Basic plot with Legend variation**
+
+``` python
+
+```
+
+## Machine Learning 
+### types
+
+> As from what I understood the assignment will be around
+> cluster/segmentation analysis; with machine learning as a bonus. I
+> don’t know if this helps you or makes any sense – but hopefully it
+> gives you a bit of an understanding
+
+1. types of Machine Learning
+
+2. clustering statquest
+
+3. segmentation analysis (example customer segmentation)
+
+4. find example 
+
+5. and reproduce
+
+6. do your own example with fraud detection data
+
+
+**Types of ML**
+
+https://www.youtube.com/watch?v=yN7ypxC7838
+
+1. Supervised
+
+	1. regression (continuous variables)
+		- linear regression
+		- multiple regression
+		- polynomial regression
+		- decision tree
+		- random tree (multiple dts using bootstrapped datasets)
+		- xgboost
+		- nueral network
+	2. classification (discrete)
+		- logistic regression
+		- Support vector machine (sounds like multiple regression but
+          for classification)
+		- naive bayes
+		- DT, rf and nn
+
+2. unsupervised
+
+	- clustering 
+		- kmeans
+		- hirarchecal
+		- mean shift
+		- density based
+	- dimensionality reduction
+		- feature elemination
+		- feature extraction
+		- PCA
+
+### **K-means clustering**
+
+https://www.youtube.com/watch?v=4b5d3muPQmA
+
+https://www.kaggle.com/thejravichandran/kmeans-learning
+
+- k stands for how many clusters you want to identify.
+- process
+  - standardize (normalize)
+  - choose k random points for clustering
+  - now go over every point and classify them as belonging to cluster
+    based on "distance"
+  - Calculate mean of all the different clusters
+  - Repeat step 2. Stop when you see no change in clustering
+  - track variation of different clusters and start over till N outcomes
+    are reached. 
+- variation in cluster around different clusters shows how good or bad
+  out clustering is.
+- **what value for k?**
+  - Plot silouette coefficient vs k And take highest sc k value
+  - find elbow in varience vs k plot (varience decrease stops becoming
+    worth while)
+  - look for uniform k value and highest siloutte coeff in the
+    siloutte sample histogram plot
+- distance => euclidean distance (basically sqrt(sumsq(x-x1,x-x2...)))
+
+- **uses:** clustering to see how each sample is different? and using
+  it in the Machine Learning model
+  
+what about categorical variables???
+
+Are we expected to normalize the results? what are the caveats?
+
+It is **only for numerical** variables and not for
+categorical. Ordinal, maybe.
+
+**Coding**:
+
+- nan strategy
+- making categories with kmeans
+- making sense of categories with kmeans
+
+https://www.kaggle.com/fabiendaniel/customer-segmentation
+
+Top voted stuff but too much info
+
+https://www.kaggle.com/mgmarques/customer-segmentation-and-market-basket-analysis
+
+Nice plots and info above... Does not explain the point of seeing the distribution.
+
+- to keep it mind
+  - check number of elements in a cluster
+  - what to do categorical variables?
+   Perhaps as [here](https://datascience.stackexchange.com/a/9385/67821), maybe we just [one hot encode](https://pbpython.com/categorical-encoding.html) them?
+  - get silouette score and plot the variables to visibly see the
+    variables and how they're clustering is...
+  - compare different variables for each cluster (using avg for
+    example), or look at the centroid values ...
+  - log the scaled values or not?
+  - get deeper into clustering using hierarchical
+
+  
+    > StandardScaler : It transforms the data in such a manner that it
+    > has mean as 0 and standard deviation as 1. In short, it
+    > standardizes the data. Standardization is useful for data which
+    > has negative values. It arranges the data in a standard normal
+    > distribution. It is more useful in classification than
+    > regression. You can read this blog of mine.
+    >
+    > Normalizer : It squeezes the data between 0 and 1. It performs
+    > normalization. Due to the decreased range and magnitude, the
+    > gradients in the training process do not explode and you do not
+    > get higher values of loss. Is more useful in regression than
+    > classification. You can read this blog of mine.
+
+
+1. get kmeans of several values stopping at ones with least variation
+2. check elbow plot
+3. check silouette score for each
+4. plot silouette score histogram for each cluster
+5. plot another variable and the different clusters to see where you
+   are at.
+6. hirarchical clustering example with categorical variable?
+7. PCA
+8. linear and multivariate 
+9. how to... do linear and multivariate
+10. plotting basics
+
+7. Look at the case ikea on github?
+
+**Hierarchical clustering** associated with heatmaps and dendograms
+
+https://www.youtube.com/watch?v=7xHsRkOdVwo
+
+https://www.kaggle.com/vipulgandhi/hierarchical-clustering-explanation
+
+What two things are most similar. I have used it in the context of
+trying to find out what two variables are close to each other.
+
+- HC heatmap shows rows or columns "similar" to each other
+  - e.g., heatmap of genes and samples. 
+- process
+  - compare every row with each other on how "similar" it is.
+  - make the first cluster on the most similarest
+  - then do again and again and make the dendogram and arrangement
+  - height of dendogram is the first cluster and the most similar
+
+- assessing new data points and their cluster
+  - centroid
+  - closest
+  - furthest
+
+- "similar" ==> euclidean distance is used a lot
+		    ==> Manhattan distance --> sum(abs(diff))
+- choice is arbitrary. They give different outcomes.
+
+**Segmentation analysis**
+
+Follow this page to do clustering and segmentation reporting...
+
+https://towardsdatascience.com/customer-segmentation-arvato-bertelsmann-project-44e73210a1b7
+
+- Data Overview and Data Cleaning;
+- Exploratory Data Analysis;
+- Unsupervised Machine Learning Task: Cluster Analysis;
+- Customer Segmentation Report;
+- Supervised Machine Learning Task: Targeting Customers for a Marketing Campaign.
+
+**difference between segmentation and clustering**
+https://dfrieds.com/machine-learning/segmentation-vs-clustering.html
+
+**one hot encoding categorical variables**
+
+https://towardsdatascience.com/what-is-one-hot-encoding-and-how-to-use-pandas-get-dummies-function-922eb9bd4970
+
+
+
+### PCA
+
+
+  
+

@@ -30,9 +30,6 @@ Please list your key points.**
 - I like seeking challenging assignments. and I thrive in such
   situations.
 
-
-  
-
 ---
 
 **Which giving-opportunity do you currently think is highest impact and why? *

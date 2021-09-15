@@ -472,9 +472,11 @@ https://www.emacswiki.org/emacs/PythonProgrammingInEmacs
 **epistemic status:** I think jupyter was installed with the base already?
 but I checked right? As spyder is already.
 
-Some discussion on Jupyterlab vs Jupyter on [stack](https://stackoverflow.com/questions/50982686/what-is-the-difference-between-jupyter-notebook-and-jupyterlab). Atleast
-someone switched back to Jupyter notebook and people advising
-beginners to go to Jupyter notebook.
+Some discussion on Jupyterlab vs Jupyter on [stack](https://stackoverflow.com/questions/50982686/what-is-the-difference-between-jupyter-notebook-and-jupyterlab). Jupyterlab has
+it's own editor with "emacs keybindings". But I am using jupyter
+notebook and the support for keybindings is shit. Atleast someone
+switched back to Jupyter notebook and people advising beginners to go
+to Jupyter notebook.
 
 **Conda installation**
 
@@ -489,3 +491,233 @@ that is active.
 	
 	jupyter notebook
 	
+## EIN
+
+https://www.youtube.com/watch?v=OB9vFu9Za8w
+
+Legend John miller is managing the EIN package (Emacs IPython
+Notebook)
+
+There is auto completion done with `Jedi` package by looking in kernel
+and jedi.
+
+There is `auto-complete` and `company`, but what he shows here really
+works with `auto-complete`
+
+- poca altrair vega wont work as they us javascript
+
+### EIN docs
+
+https://github.com/millejoh/emacs-ipython-notebook
+
+### EIN setup
+
+Changed variable value in init file and restarted emacs
+
+	(ein:jupyter-default-server-command "/home/pandian/miniconda3/bin/jupyter")
+
+`ein:run` starts the notebook.
+
+Set the following up (present in the [readme](https://github.com/millejoh/emacs-ipython-notebook)) otherwise inline images don't work:
+
+> Ein Output Area Inlined Images: Toggle  on (non-nil)
+>     State : SAVED and set.
+>    Turn on to insert images into buffer.  Default spawns external viewer.
+
+**auto-complete**
+
+Added jedi to list of packages. And the following:
+
+``` lisp
+;; jedi mode connecting with ein
+(setq ein:completion-backend 'ein:use-ac-jedi-backend)
+
+;; http://tkf.github.io/emacs-jedi/latest/
+(add-hook 'python-mode-hook 'jedi:setup)
+(setq jedi:complete-on-dot t)                 ; optional
+```
+
+**JEDI setup**
+
+http://tkf.github.io/emacs-jedi/latest/#quick-start
+
+Shows steps to do. This also requires the path to `virtualenv`. First
+install:
+	
+	conda install virtualenv
+
+so add to init file `custom-set-variables`
+
+	'(jedi:environment-virtualenv '("~/miniconda3/bin/virtualenv"))
+
+When I tested on a new system it works on py files but not in the
+ipynb file. So not sure how to go about it. For now I will stop here.
+
+**code folding**
+
+As done here is done through ob-ein it looks like. I am not sure. I
+have mailed the author for a response.
+
+https://github.com/millejoh/emacs-ipython-notebook/issues/585
+
+https://emacs.stackexchange.com/questions/40489/collapse-input-cell-in-ein
+
+
+### Jedi help
+
+I think it is clear that `virtualenv` is missing. So you need to do
+just two things. With this way don't bother with PATH variable and all
+that. 
+
+1. install `virtualenv` (I use `conda` package manager for everything
+   python related) in your terminal perhaps
+
+		conda activate yourenv
+	
+		conda install virtualenv
+		
+		conda list virtualenv #check if virtualenv is actually installed
+	
+2. and then show `jedi` where `virtualenv` is
+
+`C-h v jedi:environment-virtualenv "~/path-to-conda-env/bin/virtualenv")`
+
+For more help look in the [documentation](http://tkf.github.io/emacs-jedi/latest/#configuration) in `Configuration` or
+comment below.
+
+3. `M-x jedi:install-server`
+   
+4. Test on a `.py` file.
+
+
+### Ein keybindings
+
+Docs:
+http://millejoh.github.io/emacs-ipython-notebook/#running-a-jupyter-notebook-server-from-emacs
+
+**Execute Restart**
+C-c C-c ein:worksheet-execute-cell
+M-RET ein:worksheet-execute-cell-and-goto-next
+<M-S-return> ein:worksheet-execute-cell-and-insert-below
+
+C-c C-/ ein:notebook-scratchsheet-open
+C-c ! ein:worksheet-rename-sheet
+
+C-c C-x C-r ein:notebook-restart-session-command
+C-c C-r ein:notebook-reconnect-session-command
+C-c C-z ein:notebook-kernel-interrupt-command
+
+function (ein:worksheet-execute-all-cell ws)
+Execute all cells in the current worksheet buffer.
+
+**Output manipulation**
+C-c C-e ein:worksheet-toggle-output
+C-c C-l ein:worksheet-clear-output
+C-c C-S-l ein:worksheet-clear-all-output
+
+C-c C-; ein:shared-output-show-code-cell-at-point (to be done in
+output, and it will go to the code cell in another buffer)
+
+C-c C-$ ein:tb-show (**traceback** in another buffer)
+
+**Basic movement**
+
+C-c C-n ein:worksheet-**goto-next**-input
+C-c C-p ein:worksheet-**goto-prev**-input
+<C-up> ein:worksheet-goto-prev-input
+<C-down> ein:worksheet-goto-next-input
+
+C-c <up> ein:worksheet-**move-cell-up**
+C-c <down> ein:worksheet-move-cell-down
+<M-up> ein:worksheet-move-cell-up
+<M-down> ein:worksheet-move-cell-down
+
+**Cell manipulation**
+C-c C-k ein:worksheet-**kill**-cell
+C-c M-w ein:worksheet-copy-cell
+C-c C-w ein:worksheet-**copy**-cell
+C-c C-y ein:worksheet-**yank**-cell
+
+C-c C-a ein:worksheet-insert-cell-above
+C-c C-b ein:worksheet-insert-cell-below
+
+C-c C-t ein:worksheet-**toggle**-cell-type
+C-c C-u ein:worksheet-change-cell-type
+
+C-c C-s ein:worksheet-**split**-cell-at-point
+C-c C-m ein:worksheet-**merge**-cell
+
+C-c C-h ein:pytools-request-tooltip-or-**help** buffer with keybindings
+
+~~C-c C-i ein:completer-complete~~
+~~C-c C-x C-l ein:notebook-toggle-latex-fragment~~
+
+**Notebook restart quit open**
+
+C-c C-x C-r ein:notebook-restart-session-command
+C-c C-r ein:notebook-reconnect-session-command
+C-c C-z ein:notebook-kernel-interrupt-command
+C-c C-q ein:notebook-kill-kernel-then-close-command
+C-c C-# ein:notebook-close
+C-c C-f ein:file-open
+C-c C-o ein:notebook-open
+
+C-x C-w ein:notebook-rename-command
+
+**Not working**
+
+C-c C-. ein:pytools-jump-to-source-command
+Jump to the source code of the object at point. When the prefix argument ‘‘C-u‘‘ is given, open the source code in the other window. You can explicitly specify the object by selecting it.
+
+C-c C-, ein:pytools-jump-back-command
+Go back to the point where ‘ein:pytools-jump-to-source-command’ is executed last time. When the prefix argument ‘‘C-u‘‘ is given, open the last point in the other window.
+
+M-. ein:pytools-jump-to-source-command
+Jump to the source code of the object at point. When the prefix argument ‘‘C-u‘‘ is given, open the source code in the other window. You can explicitly specify the object by selecting it.
+
+M-, ein:pytools-jump-back-command
+Go back to the point where ‘ein:pytools-jump-to-source-command’ is executed last time. When the prefix argument ‘‘C-u‘‘ is given, open the last point in the other window.
+
+**Other**
+
+function (ein:notebook-create-checkpoint notebook)
+Create checkpoint for current notebook based on most recent save.
+
+function (ein:notebook-restore-to-checkpoint notebook checkpoint)
+Restore notebook to previous checkpoint saved on the Jupyter server. Note that if there are multiple checkpoints the user will be prompted on which one to use.
+
+function (ein:notebook-enable-autosaves notebook)
+Enable automatic, periodic saving for notebook.
+
+function (ein:notebook-disable-autosaves notebook)
+Disable automatic, periodic saving for current notebook.
+
+### todo
+  * [x] EIN docs? how to?
+  * [ ] connected buffer keybindings
+  * [ ] advanced buffer keybindings
+  * [x] install ein,
+  * [x] run the command to open jupyter
+  * [ ] color is all black white?
+  * [x] configure the paths needed to jupyter etc
+  * [x] check plot commands
+  * [ ] check how to get jedi autocompletion to work?
+  * [ ] how to go to docs? popus 32:00
+  * [ ] go into traceback
+  * [x] folding?
+  * [x] and jump to file
+  * [ ] using magic commands such as %load
+  * [ ] buffer and notebook share kernel
+  * [ ] buffer also has auto completion and all that shabang
+  * [ ] Why is elpy not instatlling? ?? follow this tutorial
+  https://www.youtube.com/watch?v=mflvdXKyA_g
+  * [ ] line scrolling behaving like fucking excel
+  https://www.reddit.com/r/emacs/comments/8sw3r0/finally_scrolling_over_large_images_with_pixel/
+  https://emacs.stackexchange.com/questions/10354/smooth-mouse-scroll-for-inline-images
+  * [ ] Save images directly (mentioned here:
+        http://millejoh.github.io/emacs-ipython-notebook/#org-mode-integration-ob-ein)
+
+Doesn't look like folding is possible unless I use it in organization
+:( https://github.com/millejoh/emacs-ipython-notebook/issues/585
+
+or consider looking at 

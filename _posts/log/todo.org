@@ -1,32 +1,52 @@
 #+COLUMNS: %7TODO(To Do) %40ITEM(Task) %10CLOCKSUM(Clock)
 #+TAGS: work(w)  DP(d) break(b) meta(m) DS(s) blog(g) other(o) reading(r) NATW(n) apping(a)
-#+TODO: TODO(t) DOING(g) CANCELLED(c) FOLLOWUP(f) WAITING(w) DONE(d)
+#+TODO: TODO(t) DOING(g) DONE(d)
 
+
+* Apply
+** read advis from others?
+** make 5 apps
+** prepare cover JIC
+** copy way of looks for linkedin profile
+** send cv to everybody, anounce that you are looking?
+* now
+** TODO join one data science meetup
+*** find like minded people
 * This week
+** prep for supposed indrews in september
+*** TODO matplotlib thats all
+*** TODO feedback from body on how to do the ting? what all to think about etc.
+*** TODO [#A] repair cv
+*** TODO apply to EA global
+*** contact ikea
+*** plan for aapllication
+**** start with gathering past info
+**** then repair cv based on roos and the other guy
+**** what is silouette score?
+**** why pandas giving error?
 
-** TODO Plan what am I going to do this week? based on how much time you have.
-** DONE Incorporate Sjir and alicia feedback into the post?
-** TODO Write essay
-** DONE read 5 pages of freakanomics (make notes in the weekend)
-** TODO jamie harish doc
-
-
-* [#A] Essay on lifetime impact re-hashed
-
-summary is, an STM thinks otherwise. I want to check if there are
-other discounting factors to be added, maybe make the whole
-cost-effectiveness simpler?
-
-make a post on lifetime calcs of EA guy on forum, see what people have
-to say on that?
-** think about how the calculations should be taken with a pinch of salt?
-** Am I being too conservative? How to avoid bias
-** think what happens when you don't like it?
-** think about what happens when you get laid off?
-** What about retirement will I have money?
-** https://forum.effectivealtruism.org/posts/QFa92ZKtGp7sckRTR/?commentId=gKnto6pHAxpoJjYpc
-** for dearth of job orgs contact Micheal Arid 
-* [#C] wishlist
+* Next week
+** apply for EA global
+** repair CV
+** start apping?
+** start writing one of the chapters of freakanomics
+** fix ein
+** work on ikea assignment
+** ask boss about Data Science requirement
+* wishlist
+** fix ein
+** ikea assignment pursue
+** work on freakonomics
+** work on understanding EY
+* Next NExt week 6 month plan
+** think about eA meetups
+** think about Data Science conferences meetups
+** think about emacs meetups 
+** Jupyter python con
+** plan for the next 6 months
+** dvoirak?
+** writing a lisp mode
+* [#C] organization wishlist
 ** TODO [#B] org-drill
 
 https://www.youtube.com/watch?v=uraPXeLfWcM&t=612s
@@ -37,6 +57,7 @@ https://www.youtube.com/watch?v=AyhPmypHDEw&list=WL&index=1
 https://github.com/dfeich/org-screenshot
 https://www.emacswiki.org/emacs/ScreenShot
 https://stackoverflow.com/questions/17435995/paste-an-image-on-clipboard-to-emacs-org-mode-file-without-saving-it
+
 ** TODO USING org-mode for
 *** TODO [#A] setup agenda hotkeys
 https://orgmode.org/manual/Activation.html
@@ -44,22 +65,17 @@ https://orgmode.org/manual/Activation.html
 *** DONE org change end of day recognition in org logs while calculating
 *** TODO how to archive?
 ** TODO Auto-update of all git links periodically
-* [#C] Type racer everyday
-** https://10fastfingers.com/typing-test/english
-** https://www.keybr.com/
+** TODO C-c C-t opens in a separate frame wtf?
+* pythiath wishlist
+** fix jpyter keybindings
+https://github.com/kpe/jupyterlab-emacskeys
+** open notebooks in emacs
 
-* [#C] LIFE bigger picture
-** [#A] Write an essay on what are my goals for 2021
-*** What to read? economics, statistics, biases lesswrong types etc?
-*** What skills to develop
-*** Where I want to bein 1 year 2 years 3 years and more
-*** 
 * testing image inside
 
 #+CAPTION: This is the caption for the next figure link (or table)
 #+NAME:   fig:SED-HR4049
 [[../../images/stress.png]]
-* inform wrongness of estimates at CE 
 * log
 
 ** 05-08-2021
@@ -69,3 +85,13 @@ even. or maybe it was just engaging to read about someone. Also
 probably had to do with adding the ear plugs
 * testing organization screenshot
 
+* essays I want to write
+** mistakes I made 
+such as writing and writing and writing
+understanding why personal fit is the shiz..
+Make LIFETIME calcs but they have their limitations
+know that you can improve your skills with deleberate practice.
+** career decision and why?
+** essay on 6 months plan
+** Essay on Data Science plan
+** CE wrongness of estiamtes

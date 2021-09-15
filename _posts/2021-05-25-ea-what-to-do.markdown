@@ -1503,3 +1503,12 @@ Unable to connect everything together
 ## Make a simpler comparison and show that these are fermi estiamtes
 and that we shouldn't care about this shit anymore and go on to
 something that is more tractable
+
+
+## What to do now
+
+
+## what to do in 6 months
+
+
+## plans for masters? and other unanswered questions

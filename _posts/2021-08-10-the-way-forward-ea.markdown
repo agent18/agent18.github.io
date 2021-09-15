@@ -76,17 +76,4 @@ it. yesterday came back from axhus at 10, I was initially thinking i
 will come back by 6. Mairla. 
 
 
-Take this for example... I am really struggling to write well
 
-> I always panic, thinking about the future. "Oh whats going to happen
-> to me, I am not going to feel motivated for the rest of my life to
-> keep grinding"? Well to that shit talker I say this, Measure what you
-> can test. I can test what has been the scene for the last 5 years. 
->
-> Why would I randomly imagine that is the case?
->
-> I do agree persuasion is a bitch, and I think I should focus on being
-> persuaded to become a great Data Science I would imagine in my cali
-> baby. Let's see. Inshallah Inshallah.
-
-and it is painfull to fix this shit... I really suck at writing.

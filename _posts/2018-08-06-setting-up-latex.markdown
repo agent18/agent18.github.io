@@ -25,7 +25,7 @@ and shows as `LaTeX\P` in when we do `C-h m`.
 **Run emacs**
 
 `C-c C-c` and then followed by typing `*mk` so that it "compiles" with
-`LaTeXmk`.
+`LaTeXmk`. `C-c C-a` does everything without any prompt.
 
 **Folding**
 
@@ -56,6 +56,9 @@ ERROR: Fatal fontspec error: "cannot-use-pdftex"
 
 **Please add the following to the end of the file and reopen it.**
 
+**MUST REOPEN THE FILE**, THESE THINGS ARE READ ONCE AT THE BEGINNING
+`C-x C-v`.
+
 From [here](https://tex.stackexchange.com/a/21212/97901).
 
 ``` LaTeX
@@ -68,6 +71,15 @@ From [here](https://tex.stackexchange.com/a/21212/97901).
 **Check version of auctex by**
 
 `C-h v AUCTEx-version`
+
+**Another possibility**
+
+https://tex.stackexchange.com/a/26387/97901
+
+	(setq-default TeX-engine 'xetex)
+	(setq-default TeX-PDF-mode t)
+	
+in the init file. **NOT TESTED**!
 
 ## Goal
 

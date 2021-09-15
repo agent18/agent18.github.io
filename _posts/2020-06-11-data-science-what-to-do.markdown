@@ -2226,7 +2226,7 @@ that he would like ikea to improve it's decision making process. with
 many stakeholders befor you get to a decision..
 
 
-
+	
 ### Assignment prep
 
 > As from what I understood the assignment will be around
@@ -2337,7 +2337,7 @@ Nice plots and info above... Does not explain the point of seeing the distributi
   - check number of elements in a cluster
   - what to do categorical variables?
    Perhaps as [here](https://datascience.stackexchange.com/a/9385/67821), maybe we just [one hot encode](https://pbpython.com/categorical-encoding.html) them?
-  - get silouette score and plot the variables to visibly see the
+  - get silhouette score and plot the variables to visibly see the
     variables and how they're clustering is...
   - compare different variables for each cluster (using avg for
     example), or look at the centroid values ...
@@ -2427,3 +2427,43 @@ https://towardsdatascience.com/what-is-one-hot-encoding-and-how-to-use-pandas-ge
 
 ## Leonidas chat and feedback
 
+## Data Science what to do?
+
+What should I prepare for, last time I had issues with working on
+matplotlib and interpretting the results.
+
+For interpretting the results I want to ask body for feedback, and for
+matplotlib I will just do a course now?
+
+## neema 
+
+> Now I’m working with recruitment agency for 11 month contract.I
+> actually applied more than 100 and interview went through less than
+> 10 companies.
+
+> A recruiter approached me about this job and later went through the
+> usual interview process. Master Data management analyst working as a
+> kind of commercial analyst, vendor master data maintenance, etc.I
+> just started last week so it's a learning process,maybe i can give
+> you a clear picture in few months later.
+
+Works now in stryker, didn't get data analyst program in
+
+## Data science sum up of applying advice
+
+**Roos**
+
+
+
+**Leonidas**
+
+**Juan**
+
+ask juan for connecting to this guy https://www.linkedin.com/in/ruslan-gusiev/
+
+
+
+
+## plan
+
+Apply to flink, gorilals, ing, thuisbezrd etc.

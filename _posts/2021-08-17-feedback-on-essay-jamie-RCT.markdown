@@ -112,14 +112,16 @@ control groups and not just one control group? for both interventions?
 
 **High attrition rate**
 
-High attrition seems to suggest the potential for bias. Beyond that I am
-unsure this can be countered for.
+High attrition seems to suggest the potential for bias. For e.g., this
+could suggest that Beyond that I
+am unsure this can be countered for.
 
 - 22% (1-78%), 57% (1-43%) in the one-to-one call (in total it was 39%
 attrition) left in the main and control group respectively.
 
-- 61% (1-39%), 69% (1-31%) did not fill in the online courses (in total it was 65%
-  attrition) in the main and control groups respectively.
+- 61% (1-39%), 69% (1-31%) did not fill in the online courses (in
+  total it was 65% attrition) in the main and control groups
+  respectively.
   
 - They wanted 102 as sample, but ended up with 81 and 112 people for
   the different programs in total. What does this mean for "detecting
