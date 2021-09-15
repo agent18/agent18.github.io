@@ -66,3 +66,35 @@ Get this I am exempt from quarentining:
 > after a long period of separation due to the COVID-19 pandemic** or
 > a visit to a sick family member.
 
+one thing I don't know is how many days before I need to take the test
+to come back...
+
+
+## Testing in netherlands
+
+> In case of travel: A negative result from a PCR (NAAT) test or a
+> rapid antigen test. Which of the 2 tests you need depends on your
+> destination and form of transport. Until 1 October you can have a
+> free test done for your trip. ---
+> https://www.government.nl/topics/coronavirus-covid-19/covid-certificate/covid-certificate-for-travel-or-events
+
+Make appt here: https://www.government.nl/topics/coronavirus-covid-19/tackling-new-coronavirus-in-the-netherlands/travel-and-holidays/free-coronavirus-test-for-travellers
+
+## todo
+
+
+**main things I need to do:**
+
+1. book tickets
+2. setup test in london
+3. 48hrs before another test in london (needed?)
+3. Make the travel form for london
+4. book test here
+5. ask olav about costs and how long
+
+**Peripheral things to dag**
+
+4. have cash in pounds from transferwise
+5. check with insurance
+6. print mandatory qerentine form
+7. 
