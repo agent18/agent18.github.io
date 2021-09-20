@@ -70,6 +70,7 @@ one thing I don't know is how many days before I need to take the test
 to come back...
 
 
+
 ## Testing in netherlands
 
 > In case of travel: A negative result from a PCR (NAAT) test or a

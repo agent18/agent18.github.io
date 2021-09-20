@@ -2451,19 +2451,241 @@ Works now in stryker, didn't get data analyst program in
 
 ## Data science sum up of applying advice
 
-**Roos**
+### **Roos**
+
+**Attend meetups, webinars, groups, eventbrite**
+
+Wow, you've clearly given it a lot of thought! Here are some tips
+
+1. Check these people, they are amazing and def willing to help too!
+https://www.linkedin.com/mwlite/in/jmperafan > did like a million
+courses like you and presents himself really well.
+https://www.linkedin.com/mwlite/in/yusichen > works at TakeAway and
+they are looking for new people!
+
+2. Finding jobs LinkedIn, Indeed and Networking > linkedin but also
+attend webinars/groups in eventbrite/meetup
+
+Finding companies: https://fortune.com/rankings/
+https://www.fastcompany.com/most-innovative-companies/2020
+https://www.forbes.com/just-companies/#5598af32bf01
+https://www.seedtable.com/european-startup-rankings
+
+3. Applying I applied to about 30 businesses but I was really picky!
+Sometimes got rejected because I didn't have any mathematical
+background. Sometimes did an assessment and failed. Sometimes I said I
+didn't want to after speaking to them. Depends and all part of the
+proceaa. Dont lose hope :)
+
+FYI: I found Careerscore a nice platform to keep track of all of my
+applications. Give yourself a clear goal e.g. 5 applications per week.
+
+4. CV
+
+Make sure it is 1 page. Yes you might have to delete some info. Make
+sure you do not put everything on your CV. Only the things that you
+think are relevant for the specific job you are applying for. So yes,
+edit your CV for every application. Use the words and systems from the
+job application, make them bold, make sure the recruiter immediately
+understands the link between you and the job application.
+
+And second, make it more personal. I would add a picture. Make sure
+your LinkedIn profile is up-to-date (here you can add all the info
+that didn't make the cut to your CV) Include a short and clear summary
+of what you are looking for and why (what is your passion). Make sure
+you know who you are, what your values are, your strengths, your
+weaknesses. Use CrystalKnows to get to check what your LinkedIn
+profile says about you (and check recruiters profiles before an
+intervuew/writing cv so that you van alter your communication style to
+their liking)
+
+If you want some inspiration of personality traits:
+https://www.ccsdut.org/site/handlers/filedownload.ashx?moduleinstanceid=257&dataid=912&FileName=character-personality-traits.pdf
+
+Define the job role you want to apply for. Make sure you know what
+kind of job you are looking for. Use it in your LinkedIn title,
+summary and CV.  For tips :
+https://www.dataquest.io/blog/career-guide-data-science-options/
+https://medium.com/analytics-and-data/an-introduction-to-18-roles-in-the-data-ecosystem-d80d88fcbec7
+
+Preparing interview:
+https://www.springboard.com/blog/data-science-interview-questions/
+
+Hope this is all useful information. Dont give up and let me know if
+you have any additiional questions. I'm rooting for you ;)
+
+### **Leonidas**
+
+**Write to HR or find other people**
+
+Hey am apping to this job, ask questions, 
+
+Also find people in a company and message with similar back ground.
+
+Don't be too formal, I am interested... I am apping... short call, or
+ask questions.
+
+**Finding companies**
+
+- Linkedin, indeed.com, glassdoor, angel list startups, and perhaps
+  only big companies. 
+  
+- filter --> Data Analyst, randstand, junior position, Data science
+
+**Motivation**
+
+Why I like your company, interesting fact, ironhack career. Ironhack
+says "mostly useless"n
+
+**Assignments**
+
+csv --> merge key --> how many customers type of question.
+
+Make video explaining logistic regression
+
+data trainer
+
+**other things to work on**
+
+pyspark aws and cloud, sql presto
+
+### **Juan**
+
+1. ask juan for connecting to this guy https://www.linkedin.com/in/ruslan-gusiev/
+
+
+2. attack companies on his CV and talk to ruslan gusiev.
+
+3. Write to hr asking for info about the job, be very apologetic
 
 
 
-**Leonidas**
+### **karan**
 
-**Juan**
+indeed 
 
-ask juan for connecting to this guy https://www.linkedin.com/in/ruslan-gusiev/
+write proper mathivanan
+
+linkedin
+
+big 4
+
+possibly do a 1 year masters.
+
+## applying round 2 plans and ids
+
+### Where to apply
+
+- Juan companies on his cv
+
+Ahold Delhaize, Albert Heijn, Confidential, Vlaamse Energiebedrif,
+JustLease, Biztory, G O D ATA D RIVEN
+
+- linkedin indeed angel list startups
+- Finding jobs LinkedIn, Indeed and Networking > linkedin but also
+attend webinars/groups in eventbrite/meetup
+
+Finding companies: https://fortune.com/rankings/
+https://www.fastcompany.com/most-innovative-companies/2020
+https://www.forbes.com/just-companies/#5598af32bf01
+https://www.seedtable.com/european-startup-rankings
 
 
+**Companies**
+
+[All Iron hack guys from one batch](https://www.linkedin.com/posts/jorgepalacios96_data-analytics-bootcamp-jorge-palacios-activity-6805095637982445568-rHSD/)
+
+Exact, Adyen, Stryker, 510 Redcross initiative, [pon automotive](https://www.linkedin.com/in/albertoviciana/),
+summaview consultancy BV, Docplanner (spain), Traveperk (spain),
+relevant online BV, interimvalley (agency looks like), tomtom, bayer
+crop science, sparkling scoiety, Ikea, Aigent, JustEat Takeaway.com,
+jedlix, vattenfall, quantillion, RetailX, Klarna, abn amro and see if
+he will
+
+Look for Data, Business etc...
+
+- see if there are people who can refer.
+
+### CV improvements
+
+### app tracking   
+
+
+##  gaurav
+
+0. Where you from?
+
+1. What is it that he does?
+
+2. Would it be possible to refer me? 
+
+3. What is AWS and does it have things like a Data Science team?
+
+4. AWS certifications online recommend? 
+
+5. Any thing you know about the data field?
+
+IM, MBA! IT, Data engineering?
+
+Data Science.. in cloud... 
+
+1. Data Scientitss Professional services <-- billable 
+
+AWS core technical stuff in california
+
+2. connect me to 
+
+level 4 <-- starting Jr. data scientist , analyst
+
+3. Data science in AWS?
+
+4. Swift --> recently data anlysts (just wait [swift](https://swift.wd3.myworkdayjobs.com/en-US/Join-Swift/job/Leiden-area-Netherlands/Data-Engineer-Scientist---Security-Support_2021-9392?source=Linkedin))
+
+5. younger bro --> canada deloitte ()
+
+6. AWS cloud practioner (https://www.udemy.com/share/101WjI/)
+   (Linkedin course... )
+
+https://www.udemy.com/course/aws-certified-cloud-practitioner/ 
+
+[AWS certified data science](https://aws.amazon.com/certification/certified-data-analytics-specialty/) 
+
+7. Data Science 
+
+## AWS
+
+1. Exam:
+   https://aws.amazon.com/certification/certified-cloud-practitioner/
+   
+2. Course to prep (what Gaurav did):
+   https://www.linkedin.com/learning/paths/prepare-for-the-aws-certified-cloud-practitioner-exam
+   
+3. Course to prep udemy: https://www.udemy.com/course/aws-certified-cloud-practitioner/
+
+4. Epected to take 15 hrs or so.
+
+5. Practice tests sample:
+   https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf
+   
+6. exam guide
+
+7. digital guide AWS tutorials: https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/?cp=sec&sec=prep
+
+## spoke to Karan body's contact from PWC
+
+- apply to indeed and linkedin
+
+- apply in niche role
+
+- big 4 apply maybe
+
+- check with recruiters 
+
+- call recruiters
 
 
 ## plan
+
+Make a plan off what to do, aping to **re-write Claim**: agancies
 
 Apply to flink, gorilals, ing, thuisbezrd etc.

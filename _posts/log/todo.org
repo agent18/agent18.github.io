@@ -1,7 +1,6 @@
 #+COLUMNS: %7TODO(To Do) %40ITEM(Task) %10CLOCKSUM(Clock)
 #+TAGS: work(w)  DP(d) break(b) meta(m) DS(s) blog(g) other(o) reading(r) NATW(n) apping(a)
-#+TODO: TODO(t) DOING(g) DONE(d)
-
+#+TODO: TODO(t) TOMO(M) DOING(g) DONE(d)
 
 * Apply
 ** read advis from others?
@@ -9,9 +8,22 @@
 ** prepare cover JIC
 ** copy way of looks for linkedin profile
 ** send cv to everybody, anounce that you are looking?
-* now
-** TODO join one data science meetup
-*** find like minded people
+* now 
+** DOING amazon curses in the night
+** TOMO Apply to SWIFT and get him to refer
+** TOMO look at indeed (find 5 apps) 1.5hr
+*** Reach out to people write an email to them?
+*** See if there are people who can refer?
+** TOMO look at linkedin (find 5 apps) 1.5hr
+** TOMO post on software tech to ask for some help
+** TOMO look at company list made and select places to apply
+** think about 2week and 6 months plan, the questions that I need to answer (1hr)
+** Set up appt with Srikas bro
+** TOMO do one thing on the ikea assignment after the discussion with body
+** get from karan his cv and mathivanan
+** Add certifications to the CV
+** spend 2 hrs on writing out claims from belief in belief or the previous lecture
+
 * This week
 ** prep for supposed indrews in september
 *** TODO matplotlib thats all
@@ -66,6 +78,7 @@ https://orgmode.org/manual/Activation.html
 *** TODO how to archive?
 ** TODO Auto-update of all git links periodically
 ** TODO C-c C-t opens in a separate frame wtf?
+** TODO pin window  on one screen for example pomofocus
 * pythiath wishlist
 ** fix jpyter keybindings
 https://github.com/kpe/jupyterlab-emacskeys

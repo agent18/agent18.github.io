@@ -1,0 +1,1331 @@
+# Introduction
+## AWS
+
+1. Exam:
+   https://aws.amazon.com/certification/certified-cloud-practitioner/
+   
+2. Course to prep (what Gaurav did):
+   https://www.linkedin.com/learning/paths/prepare-for-the-aws-certified-cloud-practitioner-exam
+   
+3. Course to prep udemy: https://www.udemy.com/course/aws-certified-cloud-practitioner/
+
+4. Epected to take 15 hrs or so.
+
+5. Practice tests sample:
+   https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf
+   
+6. exam guide: https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf
+
+7. digital guide AWS tutorials: https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/?cp=sec&sec=prep
+
+
+## AWS notes from the Linkedin curses
+
+- Cloud and AWS
+
+- 100$ exam 90 mins
+
+- cloud concepts (26%), security (25%), Tech (33%), billing and
+  pricing (16%)
+  
+- No hands-on. not mandatory to have 6months of AWS practice.
+
+**Course Structure**
+
+1. Cloud concepts
+
+2. Security
+
+3. Core Services
+
+4. Billing and Pricing
+
+# Cloud concepts
+
+## Cloud concepts
+
+Browser --> ISP (Internet service provider) --> Server searches for
+the domain you requested -->  Webhost
+  
+ 
+--> webservices parsec for playing games
+
+**6 Advantages of cloud computing**
+
+- no expensive use through browser (Trade capital expense for variable
+  expense)
+
+- no physical infra, cabling, no hardware replacement 
+
+- don't have to bother about breaking or troubleshooting setup (stop spending
+  money running and maintaing data centers)
+
+- pay only when and what you consume  (increase speed and agility, go
+  global in minutes)
+
+- scale up ease and when necessary (don't guess capacity)
+
+- economy of scale  benifit
+
+**Cloud computing models/concepts**
+
+- SAAS (consume)(software as a service) Gmail (create account and move
+  on) (ready for use software and hardware)
+- PAAS (build) (Platform ...) hiroku (not worried about hardware), Microsoft
+  web hosting services (less flexibility)
+- IAAS (host) (Infrastructure) AWS (control and manage everything)
+
+**Cloud deployment models**
+
+- Cloud (100% IT on the cloud) (Office 265, teams, Azure for app dev
+  and hosting)
+
+- on premises (private cloud) (quick, high privacy) 
+
+- hybrid (on premisese and cloud), extend and scale cloud or as backup
+  economically
+  
+**Design principles of cloud computing**
+
+- avoid unnecessary costs
+
+- reliability (redundancy)
+
+- efficiency  (change goes gloabal in mins)
+
+- Security (protection in transit and at rest, traceability)
+
+- operational excellence (documented, anticipate failure)
+
+**CROPS**
+1. Cost optimization
+2. Reliability
+3. Operational Excellence
+4. Performance Efficiency
+5. Security
+
+## AWS
+
+- IT infrastructure
+
+- Hardware through internet
+
+- pay as you go model
+
+
+- 24 groups of services 
+
+- scalability, reliability, affordability and flexibility
+
+**Big companies**
+
+Airbnb, GE,
+
+Expedia (80% of mission critical apps to AWS)
+
+Atlassian (jera and confluence)
+
+Keloggs 
+
+Citrox
+
+Square enix
+spotify
+USDA USDA NETFLIX
+
+
+## Diving into AWS
+
+**Compute Services**
+
+
+**Storage Services**
+
+**Database Services**
+
+
+**Create and host Wordpress blog using EC2 and route 53**
+
+Elastic Compute Cloud (EC2) = Virtual server on AWS with wordpress
+
+`AMI` (Amazon Machine Images) Pre-configured servers in `AWS Marketplace`
+
+`WordPress Certified by Bitnami` has a Free Tier eligible ubuntu
+server.
+
+Results in a wordpress blog setup and ready to go.
+
+- URL is shit with WCBB, so you can go to `Route 53`  a domain name
+  registrar. 
+  
+- Match domain name with IP address of EC2 instance load wordpress
+  website
+  
+- Domain registration (12$) Montly registration (0.5$)
+
+# Security
+
+- Define AWS shared responsibility model
+
+- Define the AWS Cloud security and compliance concepts
+
+- Identify AWS access management capabilities
+
+- Identify services related for receiveing security related support
+
+## Security in the Cloud
+
+- undisclosed locations
+
+- Who's responsible?
+
+**Security Practices**
+
+1. Shared responsibility model
+2. Security pillar of Well-architected Framework
+3. Principle of Least Privilege
+
+**Shared responsibility**
+
+- Security of the cloud (AWS)
+  - protecting infrastructure (hardware, software, networking, Data
+    Center facilities)
+  - physical stuff
+  
+- Security in the cloud (me)
+  - data encryption
+  - customer data
+  - configuring firewalls
+  - configuring proper access 
+  
+**Well-architected Framework**
+
+1. Operational Excellence
+
+2. Security
+
+3. Reliability
+
+4. Performance Efficiency
+
+5. Cost Optimization
+
+*Within Security*
+
+- Identity and Access Management (IAM)
+
+	- **principle of least privilege**
+		- IAM provides access to resources to both users and other AWS
+          services
+		- start with least and build up as necessary
+		- Marketting Manager access to S3 bucket (file storage)
+			- S3 --> File Storage Service
+			- bucket --> folder inside service that hold files
+			- no access to error logs
+	
+	- actively manage all user access
+
+- Detective Controls
+
+	- enable traceability
+	- alerts
+	- audit actions and changes to system in real time
+
+- Incident Response
+
+	- Intervene, investigate
+	- update documentation and process
+	- learn from past mistakes
+	
+	
+- Infrastructure Protection
+
+	- All layers of infrastructure has security
+	- subnet, load balancer, OS
+	- automate it (replicate it for every new instance)
+
+- Data Protection
+
+	- at rest (storage)
+	- in transit (email)
+	
+	- people away from data and manually manipulate it
+	- Sensitivity of the data (security mechanisms based on)
+	
+	
+
+**AWS Compliance programs**
+
+e.g., so if you are dealing with patient data in US then your data
+needs to be secure with Hippa policies
+
+Quick FAQ responds to the common questions. 
+
+To determine whether your resources can or cannot be stored or hosted on AWS go
+to AWS compliance programs for more info. 
+
+`AWS Artifact` is a service that provides on-demand access to AWS
+security and compliance reports. 
+
+`reports` and `agreements`
+
+## **IAM**
+
+
+- Root User, Users, Groups, **Policies** (document attached to Users or
+  groups), Roles?
+- *Manage users and groups*
+- Set access to users or other AWS services
+- Permissions are global (all regions)
+
+- *granular* control, temporary credentials, integration with AWS
+  services etc...
+
+- Manage users, IAM roles, federated users
+
+**Manage users**
+
+- Create users and security credentials
+
+- administrators, end users, and services that need data and resources
+
+**IAM roles** It is an identity that people or services can assume temporarily
+
+i.e., roles to manage permissions and what roles can do, no username
+and password, it is an identity someone (application user anything) takes up
+
+someone with another aws account can be assigned a role **temporarily**,
+development and production environment.
+
+**Federated users**
+
+Existing people in your company can access aws without having to
+create IAM User for each person
+
+SAML 2.0 or AWS's federation samples
+
+
+Example, --> Using Facebook or gmail credentials to use other services
+
+
+Microsoft Active Directory have federated aceess to AWS IAM
+
+
+Can use IAM roles to map user creds to take up certain roles.
+
+## **AWS Organizations**
+
+Manage billing, accounts, consolidated billing (bulk discounts), group
+accounts, AWS sevice and action access for each account. by placing
+`Service control policies`
+
+> In AWS Organizations, you can apply service control policies (SCPs)
+> to the organization root, an individual member account, or an OU. An
+> SCP affects all IAM users, groups, and roles within an account,
+> including the AWS account root user.
+
+## Web Application Firewall (WAF)
+
+- firewall services for your web apps
+
+- protect not only from attacks but also attacks demanding excessive
+  resources
+  
+- blocked IP requests are not let in. :)
+
+## AWS Key Management Service
+
+> In the same way, you must ensure that your applications’ data is
+> secure while in storage (encryption at rest) and while it is
+> transmitted, known as encryption in transit.
+
+> AWS Key Management Service (AWS KMS) enables you to perform
+> encryption operations through the use of cryptographic keys.
+
+## Shield
+
+**UDP flood** (security group shrugs it off)
+
+Send packets to you taht you need to sort and process 
+
+**HTTP** (AWS shield, filter Machine Learning, threats)
+
+Zombie attack 
+
+**SlowLoris attack** (Elastic Load Balancer)
+
+One person taking lot of time
+
+DDOS attack (Distributed Denial of Service)
+
+Hacker overloading the server with access with 1000's of requests
+
+AWS Shield, detection and automatic mitigation, minimize downtime and
+latency when an attack happens
+
+**Standard** automatically enabled, Free, Protects majority of attacks
+
+CloudFront and Route 53
+
+**Advanced**: 24/7 access to AWS DDos response teams, integrates with
+WAF, near realtime visibility
+
+
+Financial protection against spikes, elastic load balancers, globally
+
+
+Cloudfront instance in front of the server along with Route 53 can
+take care of all this. :)
+
+## Inspector (testing phase and building phase)
+
+- **Automated security and compliance assessment service** for
+  applications. Run tests and get reports
+- Assess for exposure, provides reports, validating tests
+
+- define standards and best practices and make sure it is followed 
+ 
+- Inspects applications to find security issues/vulnerabilities and bring them to your notice.
+
+## Guard Duty (ready and working phase)
+
+- 24/7 threat detection service and unauthorized behavior
+
+- actionable alerts via CloudWatch 
+
+- Easy to deploy
+
+- anomaly detection, unauthorized access
+
+
+
+# Core Services (technology domain)
+
+200 services on 24 categories
+
+## Compute
+
+### EC2 (Amazon Elastic Compute Cloud)
+
+Virtual server
+
+There is a hypervisor which manages the resources of the different
+VM's. It shares the resources between several VM's itseems.
+
+Multitenancy: Sharing underlying hardware between virtual machines
+
+
+You can configure the OS, business apps, web apps, databases,
+enterprise software practices.
+
+- Can vertiaclly scale instances in terms of memory and more CPU
+  (vertically scaling an instance), also control networking.
+  
+- Compute as a service models
+
+### EC2 instances types
+
+1. General purpose (compute memory and networking equally)
+2. Compute optimized (high performance we servers, compute-intensive
+   applications, gaming servers, batch processing)
+3. Memory optimized (preload large amount of unstructured data)
+4. Accelerated computing instances ()
+5. storage optimized (online transaction processing, data warehousing)
+
+### EC2 pricing
+
+1. On-Demand (short-term, no upfront costs or minimum contracts apply)
+2. EC2 Savings plans (amount of committed computer usage 1 or 3 year commitment (66% cost saving))
+3. Reserved Instances (reserve on-demand instances for 1 or 3 years)
+4. Spot instances (ones that can be interupted (upto 90% savings))
+5. dedicated hosts (fully dedicated physical servers expensive)
+
+### EC2 horizontal scaling
+
+- provision workload to exactly the same. For automatic scaling
+  (`Amazon EC2 Auto Scaling`)
+  
+	  - dynamic scaling
+	  - predictive scaling (use both Hybrid to scale faster)
+	  
+- decouple your system i.e., baristas and order takers and you can
+  scale each part individually.
+
+- Builds redundancies if things fail
+
+- Set minimum number of ec2 instances, set desired capacity
+
+- pay for instances you used
+
+### Elastic Beanstalk (like heroku)
+
+- Upload code  and desired configurations, builds environment for you, 
+
+- Can be deployed multiple times
+
+- automated and repeated deployments is 
+
+- Cloudformation (JSON or YAML docs) provisioning all resources,
+  totally automated.
+
+Handles deployment process, capacity, application health monitoring,
+auto scaling, load balancing
+
+- Python, rub, Go, Docker
+
+- control of resources still with user (EC2 instance type), can take
+  over manual management of infrastructure
+
+- free to use
+
+- Pay only for AWS resources (store and run the web app) consumed to
+  deploy 
+ 
+- No need to configure a server
+
+### Elastic Load Balancing (routing the order)
+
+There are many load balancers that are already there that work great,
+install, update, scale, manage, availability. 
+
+So we can do ELB (regional construct), highly available,
+
+Decoupled architecture for front end and back end, all managed by ELB
+based on which instances are available.
+
+Say you have a sale and a lot of sudden traffic,  Site goes
+down... overloading server...
+
+Solution would be to have multiple instances running and have someone
+distribute traffic across different servers
+
+So it automatically distributes incoming traffic, Monitors health of
+servers. 
+
+If site goes doen the ELB will send to remaining servers
+
+### Messaging and queuing
+
+Cashier and barista should not be out of sync, (placing in buffer),
+
+decoupled or loosely coupled (no cascading of failures)
+
+Mesasges are sent to a queue
+
+`Amazon Simple Queue/Notification Service`
+
+SQS (Order board) --> Send store receive messages between components at
+any volume allowing decoupling
+
+Scale automatically reliable and easy to use
+
+SNS (send notification to customer when product is ready)--> Sends
+notifications (mobilie push or even send to trgger other functions or
+events or to other instances)
+
+### Additional Compute services
+
+
+EC2 fleet of instances over time, patch instances, scale, highly
+available manner.
+
+Management better: 
+
+**EC2**
+
+Full underlying control of OS, host traditional apps like mail website
+etc...
+
+Need to patch, scaling, highly available manner hosting needs to be done.
+
+
+**Lambda** --> `Lambda function` code and then `trigger`
+
+Run short functions, event driven applications, no dealing with
+servers at all, no instances, or infrastructure.
+
+Scalable automatically, Desgined to run code < 15 mins not for deep
+learning stuff (but web backend).
+
+**Container orchestration tools** (efficiency and portability)
+
+Like Docker containers (package for your code, dependencies,
+configurations). OS virtualization. Run on EC2 like VMs. 
+
+Container orchestration is the process of controlling starting,
+monitoring cluster of EC2 containers being run. 
+
+`Amazon Elastic container service` or `Amazon Elastic Kubernetes
+Service` (container management system to run and scale containers)
+
+Run Either on EC2 instance where you manage or Fargate, which is managed
+by AWS (serverless)
+
+
+**Aws Fargate**
+
+Serverless running and managing of containers managed by ECS or EKS
+
+
+rest you can leave ----------------------------
+
+**Serverless**
+
+Everything underneath is taken care of. 
+
+**Lambda (Run serverless code)**
+
+Facebook, upload photos, immediate changes, maintaining and scaling
+your resources takes time... 
+
+**Runs a `Lambda function` in response to an event/trigger.** Run code
+under **15 minutes**. Not deep learning, but web backend.
+
+**Pay for time the code is running** and each event is triggered
+
+**no servers to manage or provision**
+
+
+**For more control of infrastructure: AECS (elastic container service)
+or elastic Kubernetes service**
+
+container is a **docker** container
+
+
+Container orchestration --> 
+
+**Fargate**
+
+
+### Lightsail (Preconfigured Virtual servers Ubuntu)
+
+Pre-configed and ready to use OS, web apps, and dev stacks
+
+Monthly fees
+
+one click to launch
+
+Wordpress, ubuntu, node.js, windows
+
+### Deploying and operating in AWS
+
+Application programming interface API (predefined ways of interacting)
+
+Maintaining IT resources on the AWS cloud
+
+1. Management console (AWS MC)
+
+	website console online user friendly and easy to navigate
+
+2. Command line
+
+	Shut down service, add file to S3 bucket, ~~programming language
+    agnostic~~. Write scripts run on AWS to do things we do on console.
+
+3. SDK (Software development kit)
+
+	Deploy services using code such as python C Node.js ruby and 
+
+Describe **infrastructure as code** such as ram, services needed firewall
+settings etc...
+
+4. **Management tools:** AWS cloudformation or Elastic bean stock
+
+- automated and repeated deployments is 
+
+- CloudFormation is used with json and yaml text files to provision
+  resources (**Infrastructure as code**)
+  
+- Elastic BeanStalk you deploy code and configuration and rest is
+  taken care of with building the instance and connections.
+
+
+
+### Global infrastructure
+
+- high availability and fault tolerance 
+- data centers (AZ) around the world
+- independent networking and powersource
+- each region is sealed from the other and no data transfer without
+your approval. (compliance)
+
+**Selecting a region**
+
+	- compliance (data must live in China)
+	- Proximity and keep mind of Latency
+	- Feature availability 
+	- Pricing in different regions
+	
+
+- 6 dozen availability zones (AZs)
+- Region --> 2 or more data centers become --> Many AZs become region
+- region to region connection via fibre network AWS
+- redundantly run in multiple AZ's in a region (no additional cost)
+
+US east, US west, some areas in EU (not all services are everywhere)
+
+Network latency is reduced by depending on region , or compliance
+requirements
+
+
+Resilience uninterupted
+
+Redundancy (multiple copies in differen data centers) by replicating
+
+
+Results in high availability
+
+power failures natural disasters
+
+All regions are connected... Data transfers between AZs are super
+fast.
+
+**Edge locations**
+
+Have local cached copies of data close to customers, separate from
+regions
+
+run amazon `cloudfront` to get to your customers wherever they are.
+
+
+**Aws outputs**
+
+personal AWS data centers in your location
+
+## Storage
+
+### **Instance Stores**
+
+Keeps data only as long as the EC2 instance is running.
+
+### S3 (simple storage service)
+
+5 TB max and folders are called buckets. Version objects, multiple
+buckets.
+
+0-5 terrabytes
+
+Each file is an object
+
+Can scaleup as necessary
+
+- **life cycle policies** to move to a cheaper one after a few days.
+
+3 seperate AZs has the data in Standard and SI tiers.
+
+Has Standard, Intelligent-Tiering (intelligent moving of data based on
+use), Standard-Infrequent, One Zone-Infrequent (no duplicates),
+Glacier (few mins to hours), Glacier Deep Archive (within 12 hrs), 6
+layers of storage based on frequency of use and as a result cost.
+
+Static website hosting is also possible.
+
+All files on link. (videos that need to be accessed by anyone for example.)
+
+- write once read many
+
+### Elastic Block storage
+
+Store in block upto  16 TB SDD (HDD options available)
+
+video of 80 gb with one change (AWS changes only the blocked bits.)
+Every file can be split to several blocks (delta)
+
+### Elastic book store (External hard drive)
+
+EC2 when you need more storage space? No reboot, add extra block
+stores
+
+**mountable** to EC2 instance, dynamically change configuration
+(possibility to encrypt)
+
+automatically replicated within availability zone
+
+exist independently and can be moved to other instances.
+
+### EFS Elastic File system
+
+Managed file system (sharedrive)
+
+Multiple instances can access data in EFS at the same time, scales up
+and down
+
+**Difference between EFS and EBS**
+
+EBS (harddrive) --> Attach to EC2, and AZ resource, EC2 and AZ need to be in the
+same place, Can store files database or applications on it, No
+automatic scaling. It's just a harddrive
+
+EFS (shared drive) --> multiple instances reading and writing at the
+same time, scales automatically, And is Regional resource, any EC2 can
+write to it.
+
+
+### Snowball
+
+onsite to AWS, Data migration tool
+
+50 TB to 100 PB with snow mobile
+
+Free for 10 days of onsite usage, and costs after that.
+
+No transfer fee
+
+### Storage Gateway (???)
+
+low latency and cloud computing
+
+Connects Local data to AWS storage S3 via AWS storage Gateway (VM
+installed on premises). 
+
+
+
+**File** ( Simple Storage service)
+
+Objects in S3, asynchronous updates to S3, Local cache (low latency)
+
+
+
+**Volume** (Persistent)
+
+Blocks (virtual harddisks, `Elastic Block Store`), point in time snap shots
+
+- Stored volume: Complete copy on premises, snapshots to AWS
+
+- Cached volume: keeps recent files in the cache and main copy in AWS
+
+EBS allows Snapshots are to be taken regularly, using incremental
+backup philosophy.
+
+**Tape**
+
+Uses existing tape based infrastructure and backs up to "virtual tapes
+on a VM in on site premises", then to --> S3 --> Glacier
+
+Pay for storage and data retrieval.
+
+
+## Database
+
+### DynamoDB (serverless)
+
+NoSQL database (non relational, dictionary types, intead of tables,
+flexible schemas), simpler queries on one table.
+
+unlimited throughput and storage, **no server**, no need to managed or
+update
+
+AWS does scaling, maintaining redundancies and handles requests as it
+sees fit.
+
+pay for what you use or a specific workload
+
+10 trillion calls, 1ms
+
+highly available, scales up and down
+
+### RDS (relational database service complex table joints functionality)
+
+pay for what you use or reserve at on-demand pricing, redundancy,
+backups, disaster recovery
+
+DB engine: Amazon Arora, PostgreSQL, MySQL, MariaDB, Oracle, etc...
+
+encryption at rest and in transit
+
+### Amazon Aurora  (RDS)
+
+MySQL and PostgreSQL compatible but 5 times faster and 1/10 the cost
+of commercial.
+
+64 TB per instance
+
+Can migrate MySQL DB's or PostgreSQL db using `AWS Database Migration Service`
+
+
+6 copies at any time, there is packup, point in time, high availability
+
+### redshift (data Warehouse)
+
+RDS cannot be used for huge huge volumes of data where you want to
+query to do analysis, and combinging multiple DBs is going to be hard
+(inventory, sales etc...)
+
+Based on past data.
+
+Petabytes of data and looking for a way to analyze it all with Data
+Warehouses (used for analyses)
+
+Scalable, 
+
+### AWS Database Migration Service
+
+Migration helps source and taget dbs, don't have to be of the same
+type.
+
+both source and target are available throughout.
+
+**Consolidation**
+
+**Replication**
+
+**Transfer** 
+
+
+### Additional database
+
+
+**A DocumentDB**: catalogues
+
+**Social networking**: A Neptune
+
+**SupplyChain**: A QLDB (immutable)
+
+**DBAccelarators**: A Elasticache
+
+## Network and content Delivery
+
+
+sever<-- Security Group <-- Subnet (governed by Network ACL) <--- VPC (Gateway)
+
+Each sever comes with it's own security group, which does not allow
+any info unless explicitly stated. default all traffic is allowed
+out. (stateful, remembers and doesn't check every time)
+
+Network ACL (access control list)--> does not let anything into or out of your VPC without
+permissions (stateless)
+
+Default Network ACL for AWS account allows all info in and out. For
+Custom Network ACLS all traffic is deinied.
+
+### VPC (Virtual Private Cloud)
+
+![VPC](../images/VPC.png){ width=50% }
+
+**Private cloud**
+ISP --> Modem --> Router --> Devices
+
+AWS --> Internet Gateway --> Route Table --> AWS Resources 1, 2, 3, 4
+
+private network in the cloud
+
+**Control what goes in and what goes out, with advanced security
+features** Free
+
+subnets (chunk of IPs), route tables, IP tables
+
+---
+
+Resources (S3, EC2) into a VPC
+
+Internet gateway, Virtual Private Gateway
+
+private connection with latency, `AWS Direct connect` (not through the
+internet)
+
+Data Center --> AWS Direct Connect --> Virtual Private Gateway -->
+VPC (physical line)
+
+
+### CloudFront (Caches content to edge locations to load faster)
+
+Content delivery network (delivers data, applications and API), system
+of distributed servers around the world
+
+Delivers apps and websites to the User really fast, caching in edge
+locations
+
+like **farmer --> supermarket --> me**
+
+AWS S3 bucket, EC2, Elastic Load balancer --> Edge location, data
+center caching --> User
+
+No contract, only pay for content delivered using service, scalable
+
+### Route 53 (Routes domains to services and ip addresses)
+
+- Domain name service --> website name to Route 53 --> IP.
+
+- Register domain names 
+
+Geo location routing --> location based.
+
+Website --> (Domain Name registrar)
+
+Domain Name System --> route users to your website or application
+
+Can connect requests to EC2 instance for example. 
+
+Domain Registration, Domain Name System, Health check of web apps
+
+Handles larges query volumes
+
+**Buy .com then connect it to the EC2 instance when users
+connect... loading static website**
+
+## Management Tools
+
+**Management tools:** AWS cloudformation or Elastic bean stock
+
+- automated and repeated deployments is 
+
+- CloudFormation is used with json and yaml text files to provision
+  resources
+  
+- Elastic BeanStalk you deploy code and configuration and rest is
+  taken care of with building the instance and connections.
+
+### CLoudFormation ( text file that copies IT recipes)
+
+**Copy IT recipes --> FREE**
+
+pay only for instances EC2 and S3
+
+Text file in Yaml
+
+### CloudTrail (logs every activity e.g., API calls)
+
+Logging event tracker and security analysis tool,
+
+Monitored to check if it meets regulations, 
+
+user activity, event history, compliance audits simplified, 
+
+Track actions made through SDK or comman-lline tools, API calls
+
+Review logs , setup actions such as deliver reports to S3 buckets  or
+Cloudwatch
+
+90 events for free, stores in S3
+
+**Need access logs some did something they shouldn't have**
+
+### CloudWatch (Monitors resources, CPU usage by EC2 instance)
+
+Actively monitor and collect events and monitor
+
+Gain system-wide visibility into resource utilization, application
+performance and operational health, you can automate certain triggers
+with certain responses.
+
+**Need access to EC2 instance CPU usage**
+# Billing and pricing
+
+
+## AWS course
+
+### CloudTrail (logs every activity e.g., API calls)
+
+Logging event tracker and security analysis tool, e.g., auditing
+transactions at the cash register.
+
+Monitored to check if it meets regulations, 
+
+user activity, event history, compliance audits simplified, 
+
+Track actions made through SDK or comman-lline tools, API calls
+
+Review logs , setup actions such as deliver reports to S3 buckets  or
+Cloudwatch
+
+90 events for free, stores in S3
+
+**Need access logs some did something they shouldn't have**
+
+### CloudWatch (Monitors resources, CPU usage by EC2 instance)
+
+Actively monitor and collect events and monitor
+
+Gain system-wide visibility into resource utilization, application
+performance and operational health, you can automate certain triggers
+with certain responses.
+
+**Need access to EC2 instance CPU usage** Variables tied to your
+resources, create as and what metrics you want `CloudWatchAlarm`,
+integrated with `SNS`.
+
+`CloudWatch Dashboard` shows our metrics.
+
+### AWS Trusted Advisor (???)
+
+- like financial advisors
+
+- **whether you are following AWS best practices or not
+(Cost optimization, Performance, security, fault tolerance, service
+limits)** (???)
+
+
+**Free**
+
+
+1. S3 bucket permissions
+
+2. Security groups -- specific ports unrestricted
+
+3. IAM use
+
+4. MFA on root account
+
+5. EBS and RDS public snapshots
+
+7. service limits
+
+**Business and Enterprise**
+
+1. More checks
+
+2. weekly updates
+
+3. automated actions
+
+4. scan results via API.
+
+## Prepare Your App
+
+### Billing dashboard
+
+- estimate costs
+
+- consolidated billing from different accounts
+
+- Alert you when you are nearing thresholds
+
+- cost explorer as graphs with filtering
+
+- forecasts
+
+- AWS generate billing reports hour, product etc... 
+
+### Types of charges
+
+- Pay as you go
+
+- no huge upfront costs
+
+- compute storage and outbound data transfer
+
+**compute**
+
+- start to end per hr
+
+**Storage**
+
+Pay per GB in S3 
+
+Standard --> 23 cents per GB
+
+Glacier --> 0.4 cents per GB
+
+**Inbound data transfer**
+
+no charges in most cases or between AWS services 
+
+**Aurora**
+
+20 cents per 1 million requests data in and data out
+
+
+
+### consolidated billing
+
+dev team production and test, Marketting website, 
+
+- pay combined for all linked 
+
+- create a payer account that views and pays the billing, can't deploy
+  services (volume discounts)
+  
+- Free
+  
+
+
+### Cost calculations
+
+- Tools -->
+
+**Total Cost of ownership TCO Calculator**
+
+Get reports on estimated savings
+
+
+**AWS Pricing Calculator**
+
+costs per service, service group and total infrastruture
+
+**Cost explorer**: part of billing and cost management console
+
+Visaully see 12 months back, which services you are spending money on, 
+
+filter based on tag, can create reports, 
+
+### AWS Free Tier
+
+always free
+
+12 months free
+
+trials
+
+### AWS Budget
+
+Montors cost and gives you notification, or alert
+
+### AWS Marketplace
+
+
+> AWS Marketplace is a digital catalog that includes thousands of
+> software listings from independent software vendors. You can use AWS
+> Marketplace to find, test, and buy software that runs on AWS.
+
+
+find deploy and manage 3rd party softwares, one click deployment
+options, vendor allows use of older licences, and pay-as-you-go.
+
+## Support plans
+
+### Basic
+
+Free, learning about AWS, No tech support, but forums, account and
+billing questions.
+
+- trusted advisor checks and guidance
+
+- personal health dashboard
+
+### Dev
+
+29$/month, scales or 3% of AWS costs
+deploying prototypes, trying out features, 
+
+1 person can open unlimited number of cases
+
+### Business
+
+100$/month 3-10% of monthly bill
+
+Unlimited number of contacts can open unlimited number of support cases
+
+- AWS support API
+
+- retrieve support text format
+
+- full suite of Trusted advisor
+
+- Infrastructure Event management (extra) real time support and
+  planning help app launches
+
+- SLA 24/7 suppport via phone, email and chat
+
+- one hour response time for urgent support 
+
+
+### Enterprise
+
+- Mission critical support
+- 15 mins 
+
+- phone, email and chat 24/7
+
+- Support Concierge, and Techincal account manager
+- reviews Training's, 3-10% of bill
+
+- 15k$ per month
+
+### Which one's best for you
+
+
+
+# Migration
+
+`CLoud adoption Framework`
+
+**Perspectives**
+
+Business, People, Governance, Platform, Security and Operations
+
+### R's of migration
+
+Rehosting (lift and shift)  
+Replatforming (lift, tinker and shift) SQL to Aurora but no code
+changes  
+Refactoring/re-architecting   Code modification
+Repurchasing  fresh start with new software 
+Retaining   (don't migrate ones that are going to be deprecated)
+Retiring   (10-20% no longer being used)
+
+
+### Snow
+
+onsite to AWS, Data migration tool
+
+50 TB to 100 PB with snow mobile
+
+Free for 10 days of onsite usage, and costs after that.
+
+No transfer fee
+
+**Snowcone**: 8 TB Edge computing EC2 instances, copy data and ship it
+
+**Snowball Edge** 
+
+compute optimized --> 42 TB HDD and 52vCPUs 208 GB memory
+
+storage optimized  --> 80TB HDD and 40 vCPUS and 80Gb memory
+
+**Snowmobile**: truck, 100PB, plug it in, and tamper resistant, 24/7
+surveillance, tamper resistant, encrypted, 
+
+
+
+### VMWare
+
+### Amazon LEX Aug AI Textract
+
+Deploy chatbots test and work with it
+
+A machine learning service that automatically extracts text and data
+from scanned document describes **Amazon Textract**.
+
+
+Amazon **Augmented AI** (Amazon A2I) provides built-in human review
+workflows for common machine learning use cases, such as content
+moderation and text extraction from documents. With Amazon A2I, you
+can also create your own workflows for machine learning models built
+on Amazon **SageMaker** or any other tools.
+
+ 
+
+The other response options are incorrect because:
+
+Amazon **Textract** is a machine learning service that automatically
+extracts text and data from scanned documents.  Amazon **Lex** is a
+service that enables you to build conversational interfaces using
+voice and text.  Amazon **Aurora** is an enterprise-class relational
+database.
+
+## AWS word questions
+
+**The five pillars of the AWS Well-Architected Framework:**
+
+Operational excellence
+Security
+Reliability
+Performance efficiency
+Cost optimization
+
+**Six advantages of cloud computing:**
+
+Trade upfront expense for variable expense.
+Benefit from massive economies of scale.
+Stop guessing capacity.
+Increase speed and agility.
+Stop spending money running and maintaining data centers.
+Go global in minutes.
+
+## Look at
+
+https://d1.awsstatic.com/whitepapers/aws-overview.pdf
+
+http://d1.awsstatic.com/whitepapers/aws_pricing_overview.pdf
+
+https://aws.amazon.com/premiumsupport/plans/
