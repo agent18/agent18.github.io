@@ -598,7 +598,7 @@ http://millejoh.github.io/emacs-ipython-notebook/#running-a-jupyter-notebook-ser
 **Execute Restart**
 C-c C-c ein:worksheet-execute-cell  
 M-RET ein:worksheet-execute-cell-and-goto-next  
-<M-S-return> ein:worksheet-execute-cell-and-insert-below  
+\<M-S-return\> ein:worksheet-execute-cell-and-insert-below  
 
 C-c C-/ ein:notebook-scratchsheet-open  
 C-c ! ein:worksheet-rename-sheet  
