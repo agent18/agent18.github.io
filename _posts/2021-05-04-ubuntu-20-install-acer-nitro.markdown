@@ -106,15 +106,51 @@ and check available desktops again
 
 [link](https://linuxconfig.org/how-to-install-google-chrome-web-browser-on-ubuntu-20-04-focal-fossa)
 
-sudo apt install gdebi-core wget
-wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-sudo gdebi google-chrome-stable_current_amd64.deb
+sudo apt install gdebi-core wget  
+wget
+https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb  
+sudo gdebi google-chrome-stable_current_amd64.deb  
+
 
 
 ## Graphics card
 
 All installed automatically and `nvidia-smi` works spot on.
 
+
+### Second screen suddenly stops working Monitor after restart
+
+I think some updates happen and shit goes to hell. For ubuntu20, I
+never did anything to begin with but worked straight out of the bat. I
+have faced this thing before.
+
+Checked `Software updates` and that seemd to be using xorg. So first
+red flag and the second red flag was that `nvidia-smi` wouldn't work.
+
++ there were some issues with my upgrade or something. I needed to
+  partial upgrade, said ok to everything. 
+  
++ on top of it `sudo apt-get update`, `sudo apt-get upgrade`.
+
++ Check out what is latest launchpad driver available (470 was
+  available but went with 460, as I think that is what I was using
+  before.
+  
++ So, `dpkg --get-selections | grep nvidia`, `sudo apt-get purge
+  nvidia*` and then went to `Software-updater` and then clicked on
+  `460` in `additional drivers`. 
+  
++ Restart and finally open the display settings and switch new monitor
+  on and `keep changes` I think.
+
+## indicator on taskbar system monitor
+
+https://askubuntu.com/a/907807/443958
+
+	sudo apt install indicator-multiload
+	
+	
+	
 ## workspaces
 
 Appearnaces--> enable workspaces, toggle hiding of side bar, add desktop icon

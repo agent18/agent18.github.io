@@ -34,6 +34,7 @@ CLOCK: [2021-09-01 wo 18:11]--[2021-09-01 wo 20:47] =>  2:36
 :END:
 *** Writing the CV
 :LOGBOOK:
+CLOCK: [2021-09-21 di 19:32]--[2021-09-21 di 21:51] =>  2:19
 CLOCK: [2021-09-16 do 21:50]--[2021-09-16 do 22:45] =>  0:55
 CLOCK: [2021-09-16 do 20:21]--[2021-09-16 do 21:48] =>  1:27
 CLOCK: [2021-09-16 do 19:22]--[2021-09-16 do 19:32] =>  0:10
@@ -58,12 +59,49 @@ CLOCK: [2021-09-04 za 00:34]--[2021-09-04 za 01:12] =>  0:38
 CLOCK: [2021-09-03 vr 19:42]--[2021-09-03 vr 20:03] =>  0:21
 CLOCK: [2021-09-03 vr 17:04]--[2021-09-03 vr 19:16] =>  2:12
 :END:
+*** Writing cover
+:LOGBOOK:
+CLOCK: [2021-09-22 wo 08:30]--[2021-09-22 wo 12:30] =>  4:00
+:END:
 *** Application 
 **** Swift
 :LOGBOOK:
+CLOCK: [2021-09-22 wo 14:59]--[2021-09-22 wo 15:55] =>  0:56
 CLOCK: [2021-09-19 zo 20:55]--[2021-09-19 zo 22:05] =>  1:10
 :END:
 
+**** other
+:LOGBOOK:
+CLOCK: [2021-09-24 vr 09:40]--[2021-09-24 vr 10:32] =>  0:52
+CLOCK: [2021-09-24 vr 08:35]--[2021-09-24 vr 09:00] =>  0:25
+CLOCK: [2021-09-23 do 22:35]--[2021-09-23 do 23:07] =>  0:32
+CLOCK: [2021-09-23 do 15:23]--[2021-09-23 do 15:23] =>  0:00
+CLOCK: [2021-09-22 wo 22:21]--[2021-09-22 wo 23:13] =>  0:52
+CLOCK: [2021-09-22 wo 22:06]--[2021-09-22 wo 22:21] =>  0:15
+CLOCK: [2021-09-22 wo 20:38]--[2021-09-22 wo 21:34] =>  0:56
+:END:
+**** apping on sep23rd (12 companies calling attempt)
+:LOGBOOK:
+CLOCK: [2021-09-24 vr 10:56]--[2021-09-24 vr 11:24] =>  0:28
+CLOCK: [2021-09-23 do 15:05]--[2021-09-23 do 16:58] =>  1:53
+:END:
+***** adyen Data Scientist algos
+:LOGBOOK:
+CLOCK: [2021-09-23 do 20:44]--[2021-09-23 do 22:35] =>  1:51
+CLOCK: [2021-09-23 do 18:41]--[2021-09-23 do 20:03] =>  1:22
+:END:
+**** apping on sep24th 
+:LOGBOOK:
+CLOCK: [2021-09-24 vr 20:00]--[2021-09-24 vr 21:00] =>  1:00
+CLOCK: [2021-09-24 vr 18:22]--[2021-09-24 vr 19:19] =>  0:57
+CLOCK: [2021-09-24 vr 17:05]--[2021-09-24 vr 18:03] =>  0:58
+CLOCK: [2021-09-24 vr 13:18]--[2021-09-24 vr 13:41] =>  0:23
+:END:
+**** Calling companies
+:LOGBOOK:
+CLOCK: [2021-09-23 do 11:55]--[2021-09-23 do 12:10] =>  0:15
+CLOCK: [2021-09-23 do 08:55]--[2021-09-23 do 11:00] =>  2:05
+:END:
 *** other
 :LOGBOOK:
 CLOCK: [2021-09-04 za 12:45]--[2021-09-04 za 13:16] =>  0:31
@@ -97,7 +135,11 @@ CLOCK: [2021-09-19 zo 22:05]--[2021-09-19 zo 22:50] =>  0:45
 :END:
 **** Preparing for the exam
 :LOGBOOK:
-CLOCK: [2021-09-20 ma 21:55]
+CLOCK: [2021-09-20 ma 21:55]--[2021-09-20 ma 21:59] =>  0:04
+:END:
+**** preparing for exam
+:LOGBOOK:
+CLOCK: [2021-09-21 di 09:00]--[2021-09-21 di 15:00] =>  6:00
 :END:
 ** Other useful stuff                                                 :meta:
 :LOGBOOK:
@@ -112,6 +154,13 @@ CLOCK: [2021-09-12 zo 10:25]--[2021-09-12 zo 16:55] =>  6:30
 :END:
 ** Not counted for DP                                                :break:
 :LOGBOOK:
+CLOCK: [2021-09-24 vr 19:19]--[2021-09-24 vr 20:00] =>  0:41
+CLOCK: [2021-09-24 vr 18:03]--[2021-09-24 vr 18:22] =>  0:19
+CLOCK: [2021-09-24 vr 13:41]--[2021-09-24 vr 17:05] =>  3:24
+CLOCK: [2021-09-24 vr 10:32]--[2021-09-24 vr 10:56] =>  0:24
+CLOCK: [2021-09-23 do 20:03]--[2021-09-23 do 20:44] =>  0:41
+CLOCK: [2021-09-22 wo 22:21]--[2021-09-22 wo 22:21] =>  0:00
+CLOCK: [2021-09-22 wo 21:34]--[2021-09-22 wo 22:06] =>  0:32
 CLOCK: [2021-09-20 ma 18:32]--[2021-09-20 ma 18:57] =>  0:25
 CLOCK: [2021-09-20 ma 17:39]--[2021-09-20 ma 17:48] =>  0:09
 CLOCK: [2021-09-20 ma 16:45]--[2021-09-20 ma 17:09] =>  0:24
@@ -215,6 +264,17 @@ CLOCK: [2021-08-30 ma 11:10]--[2021-08-30 ma 12:04] =>  0:54
 CLOCK: [2021-08-30 ma 21:03]--[2021-08-30 ma 22:50] =>  1:47
 CLOCK: [2021-08-30 ma 19:35]--[2021-08-30 ma 20:36] =>  1:01
 :END:
+*** Ikea 
+:LOGBOOK:
+CLOCK: [2021-09-25 za 09:56]--[2021-09-25 za 09:57] =>  0:01
+:END:
+**** setting up
+:LOGBOOK:
+CLOCK: [2021-09-25 za 09:57]
+:END:
+**** read history
+**** pick one tax to do
+
 *** other
 :LOGBOOK:
 CLOCK: [2021-08-31 di 06:34]--[2021-08-31 di 07:34] =>  1:00
@@ -5673,41 +5733,43 @@ https://orgmode.org/manual/The-clock-table.html
 
 #+BEGIN: clocktable :maxlevel 3 :scope file :step day :tstart "<-3d>" :tend "<tomorrow>" :tags t :compact t :match "-break-NATW"
 
-Daily report: [2021-09-17 vr]
-| Tags | Headline     | Time   |
-|------+--------------+--------|
-|      | *Total time* | *0:00* |
-
-Daily report: [2021-09-18 za]
+Daily report: [2021-09-21 di]
 | Tags | Headline                         |   Time |
 |------+----------------------------------+--------|
-|      | *Total time*                     | *6:08* |
+|      | *Total time*                     | *8:19* |
 |------+----------------------------------+--------|
-|      | Data science application round 2 |   6:08 |
-| work | \_  Counted for work             |   6:08 |
-| work | \_    Prepping for task          |   0:27 |
-| work | \_    Looking for content        |   3:28 |
-| work | \_    AWS prep                   |   2:13 |
+|      | Data science application round 2 |   8:19 |
+| work | \_  Counted for work             |   8:19 |
+| work | \_    Writing the CV             |   2:19 |
+| work | \_    AWS prep                   |   6:00 |
 
-Daily report: [2021-09-19 zo]
+Daily report: [2021-09-22 wo]
 | Tags | Headline                         |   Time |
 |------+----------------------------------+--------|
-|      | *Total time*                     | *7:45* |
+|      | *Total time*                     | *6:59* |
 |------+----------------------------------+--------|
-|      | Data science application round 2 |   7:45 |
-| work | \_  Counted for work             |   7:45 |
-| work | \_    Application                |   1:10 |
-| work | \_    AWS prep                   |   6:35 |
+|      | Data science application round 2 |   6:59 |
+| work | \_  Counted for work             |   6:59 |
+| work | \_    Writing cover              |   4:00 |
+| work | \_    Application                |   2:59 |
 
-Daily report: [2021-09-20 ma]
+Daily report: [2021-09-23 do]
 | Tags | Headline                         |   Time |
 |------+----------------------------------+--------|
-|      | *Total time*                     | *7:39* |
+|      | *Total time*                     | *7:58* |
 |------+----------------------------------+--------|
-|      | Data science application round 2 |   7:39 |
-| work | \_  Counted for work             |   7:39 |
-| work | \_    Looking for content        |   0:50 |
-| work | \_    AWS prep                   |   6:49 |
+|      | Data science application round 2 |   7:58 |
+| work | \_  Counted for work             |   7:58 |
+| work | \_    Application                |   7:58 |
+
+Daily report: [2021-09-24 vr]
+| Tags | Headline                         |   Time |
+|------+----------------------------------+--------|
+|      | *Total time*                     | *5:03* |
+|------+----------------------------------+--------|
+|      | Data science application round 2 |   5:03 |
+| work | \_  Counted for work             |   5:03 |
+| work | \_    Application                |   5:03 |
 #+END:
 
 scrolling issue 

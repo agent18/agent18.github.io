@@ -2600,7 +2600,13 @@ summaview consultancy BV, Docplanner (spain), Traveperk (spain),
 relevant online BV, interimvalley (agency looks like), tomtom, bayer
 crop science, sparkling scoiety, Ikea, Aigent, JustEat Takeaway.com,
 jedlix, vattenfall, quantillion, RetailX, Klarna, abn amro and see if
-he will
+he will, juniper networks/? 
+
+BLOOM Floris works there, other fintech companies in amsterdam,
+hoberlab?? Andreu works here... this is a data science space... I
+probably need to find companies on sunday and then see if I can call
+or apply to them on monday
+
 
 Look for Data, Business etc...
 
@@ -2689,3 +2695,108 @@ https://www.udemy.com/course/aws-certified-cloud-practitioner/
 Make a plan off what to do, aping to **re-write Claim**: agancies
 
 Apply to flink, gorilals, ing, thuisbezrd etc.
+
+## Call with Norbert from PWC
+
+Had a 10 min call for [this position](https://web.archive.org/web/20210922064705/https://www.pwc.nl/en/careers/description.html?wdjobreqid=210619WD&wdcountry=NLD&jobtitle=Consultant%2520Data%2520Analytics&wdjobsite=Global_Campus_Careers), after 2 weeks and having
+taken down the application and then when I reached out he re-opend the
+vacancy.
+
+Called at 8:52 am. He was kind and ready to talk for 2 mins. He
+remembered me. 
+
+1. How does working with PWC work, one mentor, one buddy and you also
+   work in a team so that should be ok.
+   
+2. It sounds exciting that we get the chance to work in PWC with
+   different types of fields. 
+   
+   Yes you get depending on the projects we win, but in general yeah,
+   until you become an expert... 
+   
+   
+3. I am a lateral entry, non-traditional masters, 
+
+
+	But you have exp, maybe there are senior roles, I said that am
+    afraid to be stuck inbetween. He said hiring managers have to
+    decide what they want not sure how they will weight the bootcamps.
+	
+4. Now about the cover letter he asked to add the following:
+
+	- Make 1 page now it is concise
+	- What you have done?
+	- Why Move from MechE to Data analytics
+	- Why Conulsting?
+	- How you would fitthe team
+
+
+5. He is also afraid I will outgrow the job. Jeez!
+
+## Call template
+
+- Vacancy needs dutch, are you still looking?
+
+- ! years of exp
+
+- what is a typical example of work, Does this mean Data engineering?
+  do you mean webscraping?
+  
+- growth possibilities (do they have a dedicated data team?)
+  
+- mentorship
+
+- not from a traditional masters... Don't have 3 years as a data
+  analysts but 1.5 years in software and certifications, aws, data
+  science and 4 years exp managing stakeholders and doing projects
+
+- any internships
+
+### huisman
+
+- do we need control systmes?
+
+- traditionally huisman makes equipment heavy machinery right, this
+  job aims to support is it?
+  
+- There is testing and other things, all I would love to grow in...
+
+
+### bol.com
+
+- Say that you are interested in experiementation and setting up
+  experiements, Workes a lot on statistics
+  
+- 0 years of exp
+
+- Dutch?
+
+- What is the typical example of work, AB testing or maintaing some
+  dashboards or 
+  
+### vinted
+
+### KSE
+
+- 12:00 to 12:30
+- his name is robert verstappen
+
+As the specialist in the field of dosing and weighing systems and
+automation software for the animal feed industry, KSE Process
+Technology is a globally oriented company.
+
+
+- put mech carreer in the CV
+
+- Sounds like a mix of understanding what needs to be done.
+
+**dutch**... 
+
+### CBRE
+
+Analysing real estate data, monday 27th.
+
+
+DATA consultancy.
+
+Very interesting vacancy follow up on 27th.

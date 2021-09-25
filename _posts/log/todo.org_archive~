@@ -237,3 +237,270 @@ Archived entries from file /home/pandian/agent18/myblock/_posts/log/todo.org
 :ARCHIVE_OLPATH: now/IKEA ASSIGNMENT
 :ARCHIVE_CATEGORY: todo
 :END:
+
+* DONE open pythiath jupyter problem and run the whole thing
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-08-30 ma 09:41
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: now
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE open pythiath jupyter problem and run the whole thing
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-08-30 ma 09:41
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: now
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE find a course for plotting
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-08-30 ma 09:41
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: now
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+
+* typing exercises
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-08-30 ma 09:41
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: now
+:ARCHIVE_CATEGORY: todo
+:END:
+
+* DONE Read the whole thing and fix errors
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-08-30 ma 09:41
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: now/IKEA ASSIGNMENT
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE Why are two graphs different?
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-08-30 ma 09:41
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: now/IKEA ASSIGNMENT
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE Will scaling affect the mean position in a graph? 
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-08-30 ma 09:41
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: now/IKEA ASSIGNMENT
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE why ln? and not log base 10?
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-08-30 ma 09:41
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: now/IKEA ASSIGNMENT
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+
+* Emacs for life jupyter edition
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-08-30 ma 09:43
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: now/IKEA ASSIGNMENT
+:ARCHIVE_CATEGORY: todo
+:END:
+** Listen to the talk
+https://www.youtube.com/watch?v=OB9vFu9Za8w
+** implement it
+
+* TODO Make some simple plots
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-08-30 ma 09:44
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: now/IKEA ASSIGNMENT
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: TODO
+:END:
+
+* DONE plot log base e and log base 10 and try to see the john constantine multiplication
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-08-30 ma 12:56
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: now/IKEA ASSIGNMENT/plotting
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+** colors automated
+** colors specified
+** move legend
+** DONE fmt strings 
+
+* DONE how to control legends?
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-08-30 ma 12:56
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: now/IKEA ASSIGNMENT/plotting
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE open test script to practice plotting
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-08-30 ma 12:56
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: now/IKEA ASSIGNMENT
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE Run the ikea file in ein
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-08-30 ma 12:56
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: now/IKEA ASSIGNMENT
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+
+* TODO PLan what to discuss with body
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-08-30 ma 22:47
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: now/IKEA ASSIGNMENT
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: TODO
+:END:
+
+* Questions to body
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-08-30 ma 22:49
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_CATEGORY: todo
+:END:
+
+** log of mean? or mean log?
+** ln or log doesn't seem to matter in the final results and it's value once you scale.
+** what else could I do? other than these plots, how to improve explor data analy
+** what are questions you look to answer?
+** taking log of all columns? or only certain columns based on what?
+** dealing with values less than 1
+
+* IKEA ASSIGNMENT
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-08-31 di 19:15
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: now
+:ARCHIVE_CATEGORY: todo
+:END:
+** TODO plotting
+*** do one more exercise on matplotlib
+*** understand how the graphs are made and reproduce them? spilt the different aspects
+*** plan on how to make the next set of graphs?
+** TODO Why was I not able to do the next set of plots?
+** TODO plot for different years? and average plot for years?
+** TODO do some sample plots
+** Why error in pandas?
+
+** How to improve?
+*** what does the graphs actually tell you
+*** What sort of info would you like? how to think about it?
+
+* IKEA ASSIGNMENT
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-08-31 di 19:16
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: now
+:ARCHIVE_CATEGORY: todo
+:END:
+** TODO plotting
+*** do one more exercise on matplotlib
+*** understand how the graphs are made and reproduce them? spilt the different aspects
+*** plan on how to make the next set of graphs?
+** TODO Why was I not able to do the next set of plots?
+** TODO plot for different years? and average plot for years?
+** TODO do some sample plots
+** Why error in pandas?
+
+** How to improve?
+*** what does the graphs actually tell you
+*** What sort of info would you like? how to think about it?
+
+* DONE make everything orange
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-03 vr 17:07
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: latex cv/make cv
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+
+
+* DONE photo circle
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-03 vr 17:08
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: latex cv/make cv
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE basic info
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-03 vr 17:08
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: latex cv/make cv
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE photo
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-03 vr 17:08
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: latex cv/make cv
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE get cv template working
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-03 vr 17:08
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: latex cv
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE select cv template 
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-03 vr 17:08
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: latex cv
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE setup CV latex
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-03 vr 17:08
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: latex cv
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+** get my cv roos's and leonidases cv ready
+
+* RP fundraiser
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-03 vr 17:08
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: latex cv
+:ARCHIVE_CATEGORY: todo
+:END:

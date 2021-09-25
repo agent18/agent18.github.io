@@ -9,21 +9,19 @@
 ** copy way of looks for linkedin profile
 ** send cv to everybody, anounce that you are looking?
 * now 
-** DOING amazon curses in the night
-** TOMO Apply to SWIFT and get him to refer
 ** TOMO look at indeed (find 5 apps) 1.5hr
-*** Reach out to people write an email to them?
-*** See if there are people who can refer?
-** TOMO look at linkedin (find 5 apps) 1.5hr
+** TOMO look at linkedin for data science and data Analytics jobs 1.5 hr (make list)
+** TOMO Apply to rest of the companies in morning quickly
+** TOMO check all the companies that you made a list of
+** TOMO Other consultancy vacancies.
+** DOING Reach out to Floris? regarding vinted and bloom
+** Reach out to people write an email to them?
 ** TOMO post on software tech to ask for some help
 ** TOMO look at company list made and select places to apply
 ** think about 2week and 6 months plan, the questions that I need to answer (1hr)
-** Set up appt with Srikas bro
 ** TOMO do one thing on the ikea assignment after the discussion with body
-** get from karan his cv and mathivanan
-** Add certifications to the CV
-** spend 2 hrs on writing out claims from belief in belief or the previous lecture
 
+* ikea
 * This week
 ** prep for supposed indrews in september
 *** TODO matplotlib thats all

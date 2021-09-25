@@ -1329,3 +1329,12 @@ https://d1.awsstatic.com/whitepapers/aws-overview.pdf
 http://d1.awsstatic.com/whitepapers/aws_pricing_overview.pdf
 
 https://aws.amazon.com/premiumsupport/plans/
+## Exam
+
+Need windows laptop to install PUE software. 
+
+Lots of word based questions. Pretty hard I would say. Speed is not
+the problem. 
+
+Half an hour before we assemble and blurry id cards are ok, they will
+manage somehow. Asked to not see anywhere, white board is shit. 
