@@ -624,13 +624,13 @@ C-c C-$ ein:tb-show (**traceback** in another buffer)
 
 C-c C-n ein:worksheet-**goto-next**-input  
 C-c C-p ein:worksheet-**goto-prev**-input  
-<C-up> ein:worksheet-goto-prev-input  
-<C-down> ein:worksheet-goto-next-input  
+\<C-up\> ein:worksheet-goto-prev-input  
+<C-down\> ein:worksheet-goto-next-input  
 
 C-c <up> ein:worksheet-**move-cell-up**  
 C-c <down> ein:worksheet-move-cell-down  
-<M-up> ein:worksheet-move-cell-up  
-<M-down> ein:worksheet-move-cell-down  
+\<M-up> ein:worksheet-move-cell-up  
+\<M-down> ein:worksheet-move-cell-down  
 
 **Cell manipulation**  
 C-c C-k ein:worksheet-**kill**-cell  
