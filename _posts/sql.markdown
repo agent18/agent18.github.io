@@ -1,3 +1,5 @@
+**26th Apr modified**
+
 ## SQL where to learn
 
 
@@ -68,7 +70,8 @@ where conditions (combine filter)
 
 You need an database engine --> PostgreSQL, SQL Server Mysql etc...
 
-[MySQL most popular opensource daterbase](https://youtu.be/7S_tz1z_5bA?t=147).
+[MySQL most popular opensource daterbase](https://youtu.be/7S_tz1z_5bA?t=147) <- Check this tutorial
+out for getting started.
 
 1. MySQL community server install
 
@@ -84,8 +87,21 @@ You need an database engine --> PostgreSQL, SQL Server Mysql etc...
 
 you need mysql-connector or similar modules.
 
+### installation of mysql community server on (ubuntu 20)
 
-### installation of mysql community server
+
+To install mysql-server use:
+https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04
+
+
+to install mysql-workbench: https://askubuntu.com/a/443958/1244415
+
+to establish connection once workbench is open delete existing
+connection, start a new connection give username and password and that
+is about it.
+
+
+### installation of mysql community server (ubuntu 16)
 
 Install packages without verification, I said ok all the time.
 
@@ -158,9 +174,9 @@ Uptime:			2 min 34 sec
 Threads: 1  Questions: 9  Slow queries: 0  Opens: 113  Flush tables: 1  Open tables: 106  Queries per second avg: 0.058
 ```
 
-## password
+### password
 
-a................
+A...........8...!
 
 ### installation workbench
 
@@ -180,14 +196,18 @@ connection and we are in.
 
 
 
-## Learning and excercises
+## Learning and exercises (stanford course)
 
-### Dater
+### Dater for the course
 
 zip file from this [Reference 1](https://www.youtube.com/watch?v=7S_tz1z_5bA): http://bit.ly/2LNdvCd which
 contains text to run dbs.
 
-Files from the stanford course are [schema](https://courses.edx.org/assets/courseware/v1/7be258f060155f581b3cf0d092235ce6/asset-v1:StanfordOnline+SOE.YDB-SQL0001+2T2020+type@asset+block/Schema.sql) and [dater](https://courses.edx.org/assets/courseware/v1/bc24afe0c983ffb91f39b37c56dc46c3/asset-v1:StanfordOnline+SOE.YDB-SQL0001+2T2020+type@asset+block/Data.Sq)
+Files from the [stanford course](https://learning.edx.org/course/course-v1:StanfordOnline+SOE.YDB-SQL0001+2T2020/block-v1:StanfordOnline+SOE.YDB-SQL0001+2T2020+type@sequential+block@f431697049ef486280699ae07477dfda/block-v1:StanfordOnline+SOE.YDB-SQL0001+2T2020+type@vertical+block@986c75a148e0462aaef195d859561ddf) are [schema](https://courses.edx.org/assets/courseware/v1/7be258f060155f581b3cf0d092235ce6/asset-v1:StanfordOnline+SOE.YDB-SQL0001+2T2020+type@asset+block/Schema.sql) and [dater](https://courses.edx.org/assets/courseware/v1/bc24afe0c983ffb91f39b37c56dc46c3/asset-v1:StanfordOnline+SOE.YDB-SQL0001+2T2020+type@asset+block/Data.Sq).
+
+[Schema in wayback machine](https://web.archive.org/save/https://courses.edx.org/asset-v1:StanfordOnline+SOE.YDB-SQL0001+2T2020+type@asset+block/moviedata.html)
+
+[Online data in tables](https://courses.edx.org/asset-v1:StanfordOnline+SOE.YDB-SQL0001+2T2020+type@asset+block/moviedata.html)
 
 ### Issue 1273 error while running `basicselect.sql`
 
@@ -198,9 +218,63 @@ Replace `utf8mb4_0900_ai_ci` with `utf8mb4_general_ci`
 
 ### Issue \*\*\*\* unable to delete
 
+https://stackoverflow.com/a/14232119/5986651
+
 Preferences --> Sql editor --> allow to delete and update 
 
-## coding
+
+Follow the following steps before executing the UPDATE command:
+**In MySQL Workbench**
+
+1. Go to `Edit` --> `Preferences`
+2. Click `"SQL Editor"` tab and `uncheck` "Safe Updates" `check box`
+3. `Query` --> `Reconnect to Server`  // logout and then login
+4. Now execute your SQL query
+
+**p.s., No need to restart the MySQL daemon!**
+
+
+
+
+### shortcuts keybindings
+
+1. C-S-Ret runs everything
+2. C-Ret runs a line
+3. C-S-Pageup moves tabs
+
+## coding snippets
+
+### Questions
+
+- different types of data types in mysql
+- dealing with null values while aggregating
+- difference between mysql and postgres one example
+
+
+### summary
+
+- syntax doesn't seem to be case sensitive
+- also column names are not case sensitive at least mysql copes with it.
+- but table names are case sensitive 
+
+> First we should know the order of execution of Clauses i.e **FROM >
+> WHERE > GROUP BY > HAVING > DISTINCT > SELECT > ORDER BY**. Since >
+WHERE Clause gets executed before GROUP BY Clause the records cannot >
+be filtered by applying WHERE to a GROUP BY applied records.
+
+### Engines
+
+There are many engines to run SQL in. As we run MySQL workbench, it
+runs the mysql engine and certain types of commands as allowed by the
+engine work. If we use `SQLlite`, not everything we do in `MySQL` will
+work.
+
+`SQLlite` is used by edx stanford back-end it is serverless. However
+Mysql needs client server interaction.
+		
+E.g., Full join exists for `postgres` but not for `mysql` or
+`sqllite`.
+
 
 ### create table
 
@@ -222,7 +296,23 @@ create table Student(sID int, sName text, GPA real, sizeHS int);
 create table Apply(sID int, cName text, major text, decision text);
 ```
 
-### join
+### Basic select statement
+
+``` SQL
+select title
+from Movie
+where director = "Steven spelberg";
+```
+
+**Select without duplicates**
+
+``` SQL
+select DISTINCT rID
+from Movie M, Rating R
+where M.mId=R.mID and stars>=3;
+```
+
+### join availability in mysql
 
 
 "inner join" and "join" --> inner join (pandas ref)
@@ -251,6 +341,36 @@ SELECT * FROM t1
 RIGHT JOIN t2 ON t1.id = t2.id
 ```
 
+### Difference between the different joins
+
+**Inner join**
+
+Produces no `NULL`.
+
+``` SQL
+select rID, M.mID, stars
+from Movie M, Rating R
+where M.mID=R.mID
+order by year;
+```
+
+``` SQL
+select rID,mID,stars
+from Movie M join Rating R using (mid);
+```
+**Left Join**
+
+``` SQL
+select rID,mID,stars
+from Movie M left join Rating R using (mid);
+```
+**Right Join**
+
+``` SQL
+select rID,mID,stars
+from Movie M right join Rating R using (mid);
+```
+
 ### join and where equivalency
 
 **be careful about the type of join you use** can have impact on null
@@ -271,7 +391,59 @@ from Movie join Rating using(mID) join Reviewer using(rID)
 order by name, title, stars;
 ```
 
-### Getting null values in an aggregation
+### Multiple joins multiple tables
+
+``` SQL
+select name, title, stars, ratingDate
+from Movie join Rating using (mID) join Reviewer using (rID)
+order by name, title, stars;
+
+select name, title, stars, ratingDate
+from Movie M, Rating Rat, Reviewer Rev
+where M.mID=Rat.mID and Rev.rID=Rat.rID
+order by name, title, stars;
+```
+
+### left join where is null, not in and not exists are the same
+
+> That's why the best way to search for missing values in MySQL is
+> using a LEFT JOIN / IS NULL or NOT IN rather than NOT EXISTS.
+
+``` SQL
+select rID, title
+from Movie M left join Rating R using (mID)
+where rID is null;
+```
+
+or 
+
+``` SQL
+select title
+from Movie M
+where not exists (select * from Rating R where M.mID=R.mID);
+
+Select title
+from Movie 
+where mID not in (select mID from Rating);
+```
+
+
+### joining Table with itself
+
+The Rating table joined with itself gives 30 rows when it has only 14
+rows.
+
+``` SQL
+select Distinct R1.rID, R1.mID, R1.stars
+from Rating R1 join Rating R2 using (rID);
+```
+
+``` SQL
+select rID
+from Rating R1 join Rating R2 using (rID);
+```
+
+### Getting null values in an aggregation ??
 
 ``` SQL
 /**************************************************************
@@ -295,6 +467,189 @@ select sID, 0
 from Student
 where sID not in (select sID from Apply);
 ```
+
+### array 
+
+``` SQL
+select name 
+from Reviewer 
+where rID in (201,202);
+```
+### Select-where! instead use inner join for everything
+
+``` SQL
+select name 
+from Reviewer Re
+where rID in (select R1.rID
+from Rating R1 join Rating R2 using (rID)
+where R1.stars > R2.stars and R1.ratingDate>R2.ratingDate and R1.rID=201);
+
+select name 
+from Reviewer Re join (select R1.rID
+from Rating R1 join Rating R2 using (rID)
+where R1.stars > R2.stars and R1.ratingDate>R2.ratingDate and R1.rID=201) as G
+using (rID);
+```
+### join vs using
+
+> ON is the more general of the two. One can join tables ON a column, a
+> set of columns and even a condition. USING is useful when both tables
+> share a column of the exact same name on which they join. In this
+> case,---https://stackoverflow.com/a/11367066/5986651 
+
+``` SQL
+SELECT ... FROM film JOIN film_actor USING (film_id) 
+
+SELECT * FROM world.City JOIN world.Country ON (City.CountryCode = Country.Code) 
+```
+### count having groupby aggregation
+
+
+``` SQL
+select count(mID),rID
+from Rating
+group by rID,mID
+having count(mID)=2;
+```
+### where and groupby and having (order of execution)
+
+> First we should know the order of execution of Clauses i.e **FROM >
+> WHERE > GROUP BY > HAVING > DISTINCT > SELECT > ORDER BY**. Since
+> WHERE Clause gets executed before GROUP BY Clause the records cannot
+> be filtered by applying WHERE to a GROUP BY applied records.
+>
+> "HAVING is same as the WHERE clause but is applied on grouped records".
+>
+> first the WHERE clause fetches the records based on the condition
+> then the GROUP BY clause groups them accordingly and then the HAVING
+> clause fetches the group records based on the having condition.
+
+
+
+``` SQL6666
+select mid, title, avg(stars)
+from Movie join Rating using (mID)
+where year <1980
+group by mID, title;
+```
+
+We can't reference the result of an aggregate function (for example
+MAX() ) in a WHERE clause of the same SELECT. The following doesn't
+work as a result.
+
+
+``` SQL
+select *
+from (select title , avg(stars) as avg_rating
+		from Rating join Movie using (mID)
+		group by title) as G
+where avg_rating=max(avg_rating);
+```
+
+### from and where subquery
+
+Q9 Some directors directed more than one movie. For all such directors
+, return the titles of all movies directed by them, along with the 
+director name. Sort by director name, then movie title. 
+(As an extra challenge, try writing the query both with and without 
+COUNT.)
+
+``` SQL
+from subquery
+select title, director
+from Movie join (select director
+				from Movie
+                group by director
+                having count(mID)>1) as G using (director)
+order by director, title;
+
+Where subquery
+
+Select title, director
+From Movie
+Where director in (Select director
+					From Movie M2
+					Group By director
+					having count(title)>1)
+Order by director,title;
+```
+
+### naming and convention and case sensitivity and text completion
+
+**Using Like**
+
+``` SQL
+select distinct name
+from Movie 
+join Rating using (mID)
+join Reviewer using (rID)
+where title like "%Wind";
+```
+
+**Not using Like**
+
+``` SQL
+select distinct name
+from Movie 
+join Rating using (mID)
+join Reviewer using (rID)
+where title = "Gone with the Wind";
+```
+
+### combine columns
+
+``` SQL
+select concat(name, rid)
+from Reviewer;
+```
+
+Concatenates name and rid together.
+
+### Union
+
+``` SQL
+select title as T
+from Movie
+union
+select name as T
+from Reviewer
+order by T;
+```
+
+### Split strings
+
+``` SQL
+select title as T
+from Movie
+union
+select name as T
+from Reviewer
+order by SUBSTRING_INDEX(`T`, ' ', -1);
+```
+
+`SUBSTRING_INDEX(`T`, ' ', -1) gets last word`
+
+`SUBSTRING_INDEX(`T`, ' ', -1) gets first 2 words`
+
+
+### Use where min(column)
+
+``` SQL
+select name, title, stars
+from Movie 
+join Rating using (mID)
+join Reviewer using (rID)
+where stars = (select min(stars)
+				from Rating);
+```
+
+
+### max  min vs desc asc
+
+`max(rating)`
+
+`order by rating desc limit 1`
+
 
 ### comments
 
@@ -573,6 +928,87 @@ Insert into Friend
 					Where F1.ID1=F3.ID1 and F2.ID2=F3.ID2)
 	order by F1.ID1, F2.ID2
 ```
+
+
+## Star mark questions
+
+
+Q6: For all cases where the **same reviewer** rated the **same movie twice** and 
+gave it a **higher rating the second time**, return the reviewer's name and 
+the title of the movie.
+
+
+``` SQL
+select name, title
+from Rating R1 join Rating R2  using (rID) 
+join Reviewer Re using (rID)
+join Movie M on R1.mID=M.mID
+where R1.mID=R2.mID and R1.stars > R2.stars and R1.ratingDate >
+R2.ratingDate;
+```
+
+
+``` SQL
+select name, title
+from 
+	(select rID
+	from Rating
+	group by rID,mID
+	having count(mID)=2) as G  # part of count=2
+join Rating R1 using (rID)
+join Rating R2  using (rID) 
+join Reviewer Re using (rID)
+join Movie M on R1.mID=M.mID#using (R1.mID=M.mID)## (mID)
+where R1.mID=R2.mID and R1.stars > R2.stars and R1.ratingDate > R2.ratingDate;
+```
+
+Q7 For each movie that **has at least one rating**, find the **highest
+number of stars** that movie received. Return the movie title and
+number of stars.  Sort by movie title.
+
+``` SQL
+select title, max(stars)
+from Movie join Rating using (mID)
+group by mID,title
+having count(mID)>0
+order by title;
+```
+
+
+Q3 Return all reviewer names and movie names together in a single list
+, alphabetized. (Sorting by the first name of the reviewer and first 
+word in the title is fine; no need for special processing on last names 
+or removing "The".)
+
+
+``` SQL
+select title as T
+from Movie
+union
+select name as T
+from Reviewer
+order by SUBSTRING_INDEX(`T`, ' ', -1);
+```
+
+Q10 Find the movie(s) with the highest average rating. 
+Return the movie title(s) and average rating. (Hint: This query is 
+more difficult to write in SQLite than other systems; you might think 
+of it as finding the highest average rating and then choosing the 
+movie(s) with that average rating.)
+
+``` SQL
+select title, avg(stars) avg_rating
+from Rating join Movie using (mID)
+group by title
+having avg_rating = (select avg(stars) as avg_rating
+					from Rating
+                    group by mID
+                    order by avg_rating
+                    DESC LIMIT 1);
+```
+
+
+
 
 ## References
 

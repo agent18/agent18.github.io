@@ -518,7 +518,7 @@ Changed variable value in init file and restarted emacs
 
 `ein:run` starts the notebook.
 
-Set the following up (present in the [readme](https://github.com/millejoh/emacs-ipython-notebook)) otherwise inline images don't work:
+Set the following up (present in the [readme](https://github.com/millejoh/emacs-ipython-notebook)) otherwise **inline** images don't work:
 
 > Ein Output Area Inlined Images: Toggle  on (non-nil)
 >     State : SAVED and set.
@@ -562,7 +562,21 @@ https://github.com/millejoh/emacs-ipython-notebook/issues/585
 
 https://emacs.stackexchange.com/questions/40489/collapse-input-cell-in-ein
 
+### Setting keybindings for ein
 
+https://github.com/millejoh/emacs-ipython-notebook/issues/174#issuecomment-927278781
+
+https://github.com/millejoh/emacs-ipython-notebook/issues/174#issuecomment-927326233
+
+``` lisp
+(use-package ein-notebook
+  :bind (:map ein:notebook-mode-map
+	      ("C-c C-d" . ein:worksheet-delete-cell)
+	      ("C-c C-x C-a" . ein:worksheet-execute-all-cells-above)
+	      ("C-c C-x C-b" . ein:worksheet-execute-all-cells-below)
+	      ))
+```
+		  
 ### Jedi help
 
 I think it is clear that `virtualenv` is missing. So you need to do
@@ -589,16 +603,63 @@ comment below.
    
 4. Test on a `.py` file.
 
+### Configure external image viewer
+
+Look [here](https://github.com/millejoh/emacs-ipython-notebook#faq). Why I have to look in the FAQ? It is what it is.
+
+There is an example, that if you read multiple times, you will know
+how to make the puzzle.
+
+[mailcap](https://www.gnu.org/software/emacs/manual/html_node/emacs-mime/mailcap.html) is a file parsed, which has some settings for how the
+image, sound, word anything, should be processed, which viewer it
+should open etc.
+
+e.g., 
+
+``` lisp
+image/*; gimp -8 %s
+audio/wav; wavplayer %s
+application/msword; catdoc %s ; copiousoutput ; nametemplate=%s.doc
+```
+
+This says that all image files should be displayed with gimp, that
+WAVE audio files should be played by wavplayer, and that MS-WORD files
+should be inlined by catdoc.
+
+
+**coming to the acutal configurations**
+
+According to https://github.com/millejoh/emacs-ipython-notebook#faq,
+we need to do the following.
+
+`M-x customize-group RET mailcap
+Mailcap User Mime Data`
+
+Once inside, 
+
+Change `Choice` to `Shell Command`. Type there: `convert %s
+-background white -alpha remove -alpha off - | display
+-immutable`. Last part is to change: `Mime type:` to `image/png`.
+
+this will produce images in white background instead of the checkerboard
+pattern. :) 
+
+or add this to the customize able variable: ` '(mailcap-user-mime-data
+'(("convert %s -background white -alpha remove -alpha off - | display
+-immutable" "image/png" nil)))`
+
+### shorten pandas output
+
 
 ### Ein keybindings
 
 Docs:
 http://millejoh.github.io/emacs-ipython-notebook/#running-a-jupyter-notebook-server-from-emacs
 
-**Execute Restart**
-C-c C-c ein:worksheet-execute-cell  
+**Execute Restart**  
+C-c C-c ein:**worksheet-execute-cell**  
 M-RET ein:worksheet-execute-cell-and-goto-next  
-\<M-S-return\> ein:worksheet-execute-cell-and-insert-below  
+M-S-return ein:worksheet-execute-cell-and-insert-below  
 
 C-c C-/ ein:notebook-scratchsheet-open  
 C-c ! ein:worksheet-rename-sheet  
@@ -610,8 +671,23 @@ C-c C-z ein:notebook-kernel-interrupt-command
 function (ein:worksheet-execute-all-cell ws)  
 Execute all cells in the current worksheet buffer.  
 
+
+**Executing above below and delete**
+
+``` lisp
+;; http://millejoh.github.io/emacs-ipython-notebook/#commands-keybinds
+(define-key ein:notebook-mode-map "\C-c\C-d"
+  'ein:worksheet-delete-cell)
+
+(define-key ein:notebook-mode-map "\C-c\C-x\C-a"
+  'ein:worksheet-execute-all-cells-above)
+
+(define-key ein:notebook-mode-map "\C-c\C-x\C-b"
+  'ein:worksheet-execute-all-cells-below)
+```
+
 **Output manipulation**  
-C-c C-e ein:worksheet-toggle-output  
+C-c C-e ein:**worksheet-toggle-output**  
 C-c C-l ein:worksheet-clear-output  
 C-c C-S-l ein:worksheet-clear-all-output  
 
@@ -706,6 +782,8 @@ function (ein:notebook-disable-autosaves notebook)
 Disable automatic, periodic saving for current notebook.  
 
 ### todo
+
+  * [ ] Test organization integration
   * [x] EIN docs? how to?  
   * [ ] connected buffer keybindings  
   * [ ] advanced buffer keybindings  

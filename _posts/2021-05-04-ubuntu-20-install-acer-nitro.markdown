@@ -106,11 +106,21 @@ and check available desktops again
 
 [link](https://linuxconfig.org/how-to-install-google-chrome-web-browser-on-ubuntu-20-04-focal-fossa)
 
-sudo apt install gdebi-core wget  
-wget
-https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb  
-sudo gdebi google-chrome-stable_current_amd64.deb  
+	sudo apt install gdebi-core wget  
+	wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb  
+	sudo gdebi google-chrome-stable_current_amd64.deb  
 
+### update chroath
+
+https://askubuntu.com/a/1275978/443958
+
+> These are a couple of ways to update Google Chrome on Ubuntu 20.04
+> when the installation is done through the .deb file:
+
+> 1. Open Software Updater. Select and install the available Google
+>     Chrome update.  
+> 2. Through Terminal. Type ```sudo apt-get update``` and then ```sudo
+>     apt-get --only-upgrade install google-chrome-stable```.
 
 
 ## Graphics card
@@ -157,7 +167,7 @@ Appearnaces--> enable workspaces, toggle hiding of side bar, add desktop icon
 
 That was it... Gnome had this whole shabang of shit... Now for the last part with compiz manager
 
-## move window from one screen to another
+## move window from one screen to another, Add additional workspaces
 
 Shift-Alt-N is the shortcut we would like... Do the following:
 
@@ -165,6 +175,13 @@ Shift-Alt-N is the shortcut we would like... Do the following:
 	sudo apt-get install compiz-plugins
 
 Go to Put, tick the check box and set the shortcut for `put-to-next-output`.
+
+https://askubuntu.com/a/108306/443958
+
+> On later versions of Ubuntu Workspaces are in the Workspace
+> switcher. The number of desktops can be modified by installing the
+> CompizConfig Settings Manager and changing the numbers listed under
+> "General Options > Desktop Size".
 
 ## ubuntu media codecs
 
@@ -197,7 +214,7 @@ git push
 2. fastblock
 3. cvblock
 4. emacs init
-5. 
+5. sql anything
 
 **Emacs init**
 
@@ -239,7 +256,7 @@ Instructions are [here](https://github.com/fastai/fastpages/blob/master/_fastpag
 7. sudo make server (takes a full 5 mins) to run...
    
 
-### write to git
+### write to git (deprecated, doesn't work)
 
 How to store multiple PATs/passwords for use by git?
 
@@ -284,48 +301,7 @@ credentials (shown [here](https://pastebin.com/K1Lqt7tX)).  I don't understand w
 
 I looked [here](https://stackoverflow.com/a/40312117/5986651) and [here](https://stackoverflow.com/a/51505417/5986651) and I still don't get it.
 
-## latex installation to work with auctex
-
-I have some instructions on my site. Teh init file is set, so no changes there... Need to install other packages I think..
-
-Started and found that latexmk was missing.
-
-	sudo apt-get install latexmk
-Now xetex is missing
-
-	sudo apt-get install texlive-fonts-extra
-
-	sudo apt-get install texlive-latex-recommended
-	sudo apt-get install texlive-xetex
-
-This is it... Generates the pdf required. :)
-
-## okular
-
-sudo apt install okular
-
-## fixing issues with github modified-time
-
-When you clone, all the modified times are missing as it is not recorded in git. The way around is to use some script to match modified times with commit time (which is somewhat good enough.
-
-we start [here](https://stackoverflow.com/a/21735986/5986651) which has 2 solutions which is pointed to. We choose [this one](https://stackoverflow.com/a/13284229/5986651). 
-
-**check pre-reqs**
-[Pre-reqs](https://github.com/MestreLion/git-tools#install)
-
-Need badh, python3, git
-
-**install and run**
-
-	sudo apt install git-restore-mtime
-	git restore-mtime --test
-	git restore-mtime #works in the folder you are in and other sub folders (GREAT)
-	
-Currently at 66mb and now about to test and then `jekyll serve` Let's go... Now it is 69.4mb
-
-cvblock at 696.8 before doing nythin... 
-
-## github tackling the deprecation notice
+## github tackling the deprecation notice to use tokens (Multiple accounts)
 
 > Hi @agent18,      You recently used a password to access the
 > repository at agent18/[agent18.github.io](http://agent18.github.io/)
@@ -337,7 +313,7 @@ cvblock at 696.8 before doing nythin...
 > Thanks,   The GitHub Team
 
 1. Create a token from github: https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token
-2. Copy your token : deleted...
+2. Copy your token : deleted
 3. How to save the password and use it when I want?
 4. Can I do it for different accounts?
 5. Most useful answer: http://gmacario.github.io/2017/08/08/cmdline-git-with-github-2fa.html
@@ -422,7 +398,64 @@ This becomes tricky and it appears as @VonC suggests that we need a `Git-Credent
 [credential "https://dev.azure.com"]
 	useHttpPath = true
  ```
- 
+### Once everything is installed and the next time you want to clone
+
+**How to setup git**
+
+	git clone clone-link 
+
+	git config user.email "user@github.io"
+
+	git config user.name "user"
+
+	git --set-upstream origin main-or-master
+	
+	git pull origin main-or-master
+	
+	git remote set-url origin https://user@github.com/user/sql-stanford.git
+
+With this it will work in my computer if the above setup is done.
+
+## latex installation to work with auctex
+
+I have some instructions on my site. Teh init file is set, so no changes there... Need to install other packages I think..
+
+Started and found that latexmk was missing.
+
+	sudo apt-get install latexmk
+Now xetex is missing
+
+	sudo apt-get install texlive-fonts-extra
+
+	sudo apt-get install texlive-latex-recommended
+	sudo apt-get install texlive-xetex
+
+This is it... Generates the pdf required. :)
+
+## okular
+
+sudo apt install okular
+
+## fixing issues with github modified-time
+
+When you clone, all the modified times are missing as it is not recorded in git. The way around is to use some script to match modified times with commit time (which is somewhat good enough.
+
+we start [here](https://stackoverflow.com/a/21735986/5986651) which has 2 solutions which is pointed to. We choose [this one](https://stackoverflow.com/a/13284229/5986651). 
+
+**check pre-reqs**
+[Pre-reqs](https://github.com/MestreLion/git-tools#install)
+
+Need badh, python3, git
+
+**install and run**
+
+	sudo apt install git-restore-mtime
+	git restore-mtime --test
+	git restore-mtime #works in the folder you are in and other sub folders (GREAT)
+	
+Currently at 66mb and now about to test and then `jekyll serve` Let's go... Now it is 69.4mb
+
+cvblock at 696.8 before doing nythin... 
 
 ## installing jekyll
 

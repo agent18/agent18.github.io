@@ -2,24 +2,39 @@
 #+TAGS: work(w)  DP(d) break(b) meta(m) DS(s) blog(g) other(o) reading(r) NATW(n) apping(a)
 #+TODO: TODO(t) TOMO(M) DOING(g) DONE(d)
 
-* Apply
-** read advis from others?
-** make 5 apps
-** prepare cover JIC
-** copy way of looks for linkedin profile
-** send cv to everybody, anounce that you are looking?
+* for the indrews todag
+** sql important
+** explain forest decision trees, xgboost
+** prepare questions to get ready for
+** prepare
+*** prepare for questions on cv and other generic questions based on ikea and work here
+*** prepare for what to say about what I do now
+*** make questions to work on
+*** explain kaggle work
+*** explain segmentation work
+*** explain how you will explore
+*** Explain why this job?
+** Monday make decision on going to EA
+** app to last set of comapnies
+* Tomo
+** prepare questions atleats (1hr)
+** app find and app to 10 final companies (3-4 hrs)
+** SQL work let's get done (3-4hrs)
+
 * now 
-** TOMO look at indeed (find 5 apps) 1.5hr
-** TOMO look at linkedin for data science and data Analytics jobs 1.5 hr (make list)
-** TOMO Apply to rest of the companies in morning quickly
-** TOMO check all the companies that you made a list of
-** TOMO Other consultancy vacancies.
-** DOING Reach out to Floris? regarding vinted and bloom
-** Reach out to people write an email to them?
-** TOMO post on software tech to ask for some help
-** TOMO look at company list made and select places to apply
+** Other consultancy vacancies and indeed.
+** post on software tech to ask for some help
+** DOING find more companies from Roos's lingusamys (10 proper vacancies)
+** DOING follow up on orctec and exact
+** redo stanford assignments
+** do one thing on the ikea assignment after the discussion with body
 ** think about 2week and 6 months plan, the questions that I need to answer (1hr)
-** TOMO do one thing on the ikea assignment after the discussion with body
+** Fix linkedin (make it Data Science oriented)
+* Other
+** reach out to https://www.linkedin.com/in/andreumora/ and others at adyen
+** reach out to https://www.linkedin.com/in/quirijn-meulenberg-475a3892/ at adyen
+** Deloitte and other consultancy companies... lets try?
+** reach out to recruiters find out what they want in people from ING, adyen, exact etc.
 
 * ikea
 * This week

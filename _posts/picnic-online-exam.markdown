@@ -28,7 +28,7 @@ than --> baseline --> oldspeed
 
 **All the following are equivalent**
 
-Final Edit: I would say these things.
+	Final Edit: I would say these things.
 
 B is 500% faster than A (`(B-A)/A=500%`)
 B's speed is 600% of A's (`B = 600% A`)
@@ -39,7 +39,7 @@ B's speed is greater than A's by a factor of five(awkward IMO)
 
 Cost per pen --> Cost for X pens divided by number of pens.
 
-
+	
 ## other places to take tests
 
 https://www.123test.com/numerical-reasoning-test/id=N0TYI8KPAKKI&version=

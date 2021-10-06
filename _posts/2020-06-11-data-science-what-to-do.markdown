@@ -2122,7 +2122,7 @@ People capable of managing stakeholders
    without Log, understanding that it was a log issue and implementing
    it in the right order, pandas slicing, plotting with np.logspace
 
-2. Why Log?, why pivite? why scale? why NAN
+3. Why Log?, why pivite? why scale? why NAN
 
 	Why scale?
 	
@@ -2134,7 +2134,7 @@ People capable of managing stakeholders
 	
 	to form clusters in 10-100 and 100000-1mill
 	
-3. explain results of the clustering
+4. explain results of the clustering
 
 - Ideally we would like ratios so that we can see everything in one
   graph
@@ -2145,14 +2145,14 @@ People capable of managing stakeholders
 
 - red is in the middle
 
-4. explain results of the histogram
+5. explain results of the histogram
 
-5. Why kmeans
+6. Why kmeans
 
 Most well known, sklearn chart on how the algos can work, good for
 even size cluster, need to explore toher types
 
-3. prep for indrew
+1. prep for indrew
    - what are the axis
    - what slowed you down
    - explain the whole process (key htings you saw like countries,
@@ -2371,7 +2371,7 @@ Nice plots and info above... Does not explain the point of seeing the distributi
 9. how to... do linear and multivariate
 10. plotting basics
 
-7. Look at the case ikea on github?
+11. Look at the case ikea on github?
 
 **Hierarchical clustering** associated with heatmaps and dendograms
 
@@ -2471,7 +2471,7 @@ https://www.fastcompany.com/most-innovative-companies/2020
 https://www.forbes.com/just-companies/#5598af32bf01
 https://www.seedtable.com/european-startup-rankings
 
-3. Applying I applied to about 30 businesses but I was really picky!
+1. Applying I applied to about 30 businesses but I was really picky!
 Sometimes got rejected because I didn't have any mathematical
 background. Sometimes did an assessment and failed. Sometimes I said I
 didn't want to after speaking to them. Depends and all part of the
@@ -2480,7 +2480,7 @@ proceaa. Dont lose hope :)
 FYI: I found Careerscore a nice platform to keep track of all of my
 applications. Give yourself a clear goal e.g. 5 applications per week.
 
-4. CV
+1. CV
 
 Make sure it is 1 page. Yes you might have to delete some info. Make
 sure you do not put everything on your CV. Only the things that you
@@ -2595,17 +2595,21 @@ https://www.seedtable.com/european-startup-rankings
 
 [All Iron hack guys from one batch](https://www.linkedin.com/posts/jorgepalacios96_data-analytics-bootcamp-jorge-palacios-activity-6805095637982445568-rHSD/)
 
-Exact, Adyen, Stryker, 510 Redcross initiative, [pon automotive](https://www.linkedin.com/in/albertoviciana/),
-summaview consultancy BV, Docplanner (spain), Traveperk (spain),
-relevant online BV, interimvalley (agency looks like), tomtom, bayer
-crop science, sparkling scoiety, Ikea, Aigent, JustEat Takeaway.com,
-jedlix, vattenfall, quantillion, RetailX, Klarna, abn amro and see if
-he will, juniper networks/? 
+**Exact**, Adyen, Stryker, 510 Redcross initiative, [pon
+automotive](https://www.linkedin.com/in/albertoviciana/), summaview consultancy BV, Docplanner (spain),
+Traveperk (spain), relevant online BV, interimvalley (agency looks
+like), tomtom, bayer crop science, sparkling scoiety, Ikea,**Aigent,
+JustEat Takeaway.com, jedlix, vattenfall, quantillion, RetailX,
+Klarna, abn amro and see if he will, juniper networks/? BLOOM** Floris
+works there, other fintech companies in amsterdam, hoberlab?? Andreu
+works here... this is a data science space... I probably need to find
+companies on sunday and then see if I can call or apply to them on
+monday ... also look at maker street, ING
 
-BLOOM Floris works there, other fintech companies in amsterdam,
-hoberlab?? Andreu works here... this is a data science space... I
-probably need to find companies on sunday and then see if I can call
-or apply to them on monday
+indeed
+
+ortec finance7
+
 
 
 Look for Data, Business etc...
@@ -2617,19 +2621,19 @@ Look for Data, Business etc...
 ### app tracking   
 
 
-##  gaurav
+## call with gaurav
 
-0. Where you from?
+1. Where you from?
 
-1. What is it that he does?
+2. What is it that he does?
 
-2. Would it be possible to refer me? 
+3. Would it be possible to refer me? 
 
-3. What is AWS and does it have things like a Data Science team?
+4. What is AWS and does it have things like a Data Science team?
 
-4. AWS certifications online recommend? 
+5. AWS certifications online recommend? 
 
-5. Any thing you know about the data field?
+6. Any thing you know about the data field?
 
 IM, MBA! IT, Data engineering?
 
@@ -2639,24 +2643,24 @@ Data Science.. in cloud...
 
 AWS core technical stuff in california
 
-2. connect me to 
+1. connect me to 
 
 level 4 <-- starting Jr. data scientist , analyst
 
-3. Data science in AWS?
+1. Data science in AWS?
 
-4. Swift --> recently data anlysts (just wait [swift](https://swift.wd3.myworkdayjobs.com/en-US/Join-Swift/job/Leiden-area-Netherlands/Data-Engineer-Scientist---Security-Support_2021-9392?source=Linkedin))
+2. Swift --> recently data anlysts (just wait [swift](https://swift.wd3.myworkdayjobs.com/en-US/Join-Swift/job/Leiden-area-Netherlands/Data-Engineer-Scientist---Security-Support_2021-9392?source=Linkedin))
 
-5. younger bro --> canada deloitte ()
+3. younger bro --> canada deloitte ()
 
-6. AWS cloud practioner (https://www.udemy.com/share/101WjI/)
+4. AWS cloud practioner (https://www.udemy.com/share/101WjI/)
    (Linkedin course... )
 
 https://www.udemy.com/course/aws-certified-cloud-practitioner/ 
 
 [AWS certified data science](https://aws.amazon.com/certification/certified-data-analytics-specialty/) 
 
-7. Data Science 
+1. Data Science 
 
 ## AWS
 
@@ -2696,7 +2700,38 @@ Make a plan off what to do, aping to **re-write Claim**: agancies
 
 Apply to flink, gorilals, ing, thuisbezrd etc.
 
-## Call with Norbert from PWC
+
+## Call template
+
+- Vacancy needs dutch, are you still looking?
+
+- ! years of exp
+
+- what is a typical example of work, Does this mean Data engineering?
+  do you mean webscraping?
+  
+- growth possibilities (do they have a dedicated data team?)
+  
+- mentorship
+
+- not from a traditional masters... Don't have 3 years as a data
+  analysts but 1.5 years in software and certifications, aws, data
+  science and 4 years exp managing stakeholders and doing projects
+
+- any internships
+
+### Follow up call PWC Norbert
+
+Norbert 
+
+- Good morning
+- Name
+- I spoke last week regarding the consultant data analyst position
+- I was wondering if the applications have been processed (lo)
+- typical times it takes for 
+
+
+### Call with Norbert from PWC
 
 Had a 10 min call for [this position](https://web.archive.org/web/20210922064705/https://www.pwc.nl/en/careers/description.html?wdjobreqid=210619WD&wdcountry=NLD&jobtitle=Consultant%2520Data%2520Analytics&wdjobsite=Global_Campus_Careers), after 2 weeks and having
 taken down the application and then when I reached out he re-opend the
@@ -2733,24 +2768,14 @@ remembered me.
 
 5. He is also afraid I will outgrow the job. Jeez!
 
-## Call template
+### politie
 
-- Vacancy needs dutch, are you still looking?
+can you give example of the work being done now? It seems a bit broad
+to get there , so you are writing software packages?
 
-- ! years of exp
-
-- what is a typical example of work, Does this mean Data engineering?
-  do you mean webscraping?
-  
-- growth possibilities (do they have a dedicated data team?)
-  
-- mentorship
-
-- not from a traditional masters... Don't have 3 years as a data
-  analysts but 1.5 years in software and certifications, aws, data
-  science and 4 years exp managing stakeholders and doing projects
-
-- any internships
+Call or email Martin Hendriks, data scientist (06 – 18 63 81 06,
+martin.hendriks@politie.nl ) if you would like more information about
+the position.
 
 ### huisman
 
@@ -2794,9 +2819,690 @@ Technology is a globally oriented company.
 
 ### CBRE
 
+1. Dutch
+
+2. Is this the first time you are doing Data Science or has there been 
+
+3. type of work?
+
+Checking and evaluating collected European customer data and
+monitoring data quality, consistency, accuracy and completeness;
+
+1. Lateral Entry
+
+2. whne can I hear back?
+
 Analysing real estate data, monday 27th.
 
 
 DATA consultancy.
 
 Very interesting vacancy follow up on 27th.
+
+### Eneco
+
+1. Dutch vacancy
+
+2. Is this job just about smart thermostat, waste checker and boiler
+monitor, solving problme for end users, concrete
+
+3. Mentorship?
+
+4. traditional masters
+
+am a new comer, lateral entry,
+
+~~example work~~
+
+Application process time
+
+2+ years
+
+### ERasmus MC
+
+- duthc a requirement?
+
+- what sort of activities? Is it data science or engineering? What is
+  an exaple? Is it about showing metrics and dashboarding or?
+  
+  forecast12 months forecast --> survival rates ICU, day (1.5 2-3 DS)
+
+- HBO, but I have other education
+
+- not from traditional masters
+
+you don't know dutch, but everyone here speaks dutch, but that should
+not deter you, but, it's the whole application that counts...
+
+the job has 1.5 Data Science and is going towards 5 people,
+forecasting patient leaving and forecasting survival rates
+
+## Thoughts sep 26 th
+
+What are my options?
+
+1. Ikea like company gives job before dec ( :( )
+
+2. Data Analyst at ASML
+
+	I thing this is not a Data Analyst job, WTF do you mean? I mean I wont
+	get any transferable skill as most of it is going to be domain
+	knowledge of seeing a fingerprint and identifying why it's
+	happening. Breakdown budgets and plots of overlay are already there, I
+	just have to use that stuff and find the root cause. Unlike in the
+	real job. It's in Matlab for fucks sake, there is no bigdata, there is
+	no python, my fear is there is mainly domain knowledge
+
+	On top of it if it comes to shadowmode usage, then it is crunching
+	numbers using shadowmode for the customer, which will tell them
+	whether to use a product or not, based on certain metrics.
+
+	This is really "disconnected" from Data Analyst. Of course if this is
+	the only thing I can get, then by all means take it.
+
+	I have to do a backdoor project for Arnaud Hubaux (intrepreneuring),
+	not all hope is lost, but time is wasted.
+
+	**Consequence**: Moving to V-town and restarting food life again, finding
+	a house and wasting time etc... 
+
+3. Internship at dealroom or finding other internships
+
+	**Consequence**: money for 6 months but after that job?
+
+4. Applying through Recruitment Agencies
+
+5. Possibility to do JNSCSR or other local masters for a year here or
+   in UK?
+
+6. Long term, do a 1 year masters in the US
+
+
+
+Things to consider, moving to v-town and associated overhead, rehab is
+it's own thing so don't bother about it right now.
+
+## Call with Srika
+
+- getting into consultancy companies?
+- cv show
+- what is omania AI
+
+- resume screening, get close tosomeone, understand what they need
+- networking... 
+
+- I am interseted in the copmany, I would like to know more about this
+  position, I want to know more abou tit if it is a good fit for me I
+  pls help me get to know the recruiter, 
+  
+  - what sort of questions?
+	- what has been your experience with adyen, remote working, 
+	- projects talk abou thte team, 
+	- team that you are interested?
+	
+	- do you know someone from the team, or recruiting...
+	
+- adyen
+  - what shoudl you put in the resume, what to focus, my experinecce
+    and how to frame
+
+- 3 tiers of companies...  (reach out to people)
+
+- internships?
+
+- people you know... 
+
+- **find what people want to see from recruiters, people who work
+  there etc.**
+
+**what to look workon**
+
+- Pipelines from dat collection to dashboarding, (pipeline SQL script
+  messy and injested into dashboard, what metrics to see)
+  
+- forecasting and exploratory
+
+## backup linkedin
+
+**Specialities**
+
+►  Troubleshooting and customer support for the Lithography Industry
+► Design for high precision and Vacuum
+► Design and Analysis of dynamically loaded components
+► Design and Analysis of compliant and rigid mechanisms
+► Linear and Nonlinear Structural Mechanics and Dynamics
+► Eigen Frequency Topology Optimization
+► Non Linear Finite Element Methods, Model Order Reduction, Hyper-Reduction
+► Autodesk Inventor, Solid Edge,
+► Ansys APDL(using scripts), Mathematica, MATHCAD 
+
+**Jr Mapper engineer**
+
+- Design/re-design and troubleshooting of sub-modules for the Wafer Clamp Station Team
+- Worked on the entire design cycle, right from requirement discovery to delivering the first instance   to the      customer.
+- Experience in designing for high precision and Vacuum (low to high)
+- Delivered tolerance trains for critical applications
+- Provided Customer support of internal and external clients
+
+**Guest Researcher**
+
+► Linear and Quadratic Manifold.
+► Hyperreduction of the reduced problem - Energy Conserving Sampling and Weighting(ECSW)
+► Discrete empirical interpolation method
+
+
+
+
+## Questions preparation for next week (week of okt 4 2021)
+
+Companies I have indrew with are Relevant online and Postnl.
+
+### **Questions to corporation template**
+
+1. What is it that the company does?
+
+2. What is my role? What is the analytics part? 
+
+3. What are you looking for? What is an ideal candidate?
+
+4. What is an example project?
+
+5. are you hiring for different teams?
+
+6. What sort of tools do you use?
+
+7. Why does company have only 18 people? Is it a startup and if so how
+   is the funding going?
+
+8. why are you looking for?  
+
+### job description relevant online
+
+https://web.archive.org/web/20211003183851/https://relevantonline.eu/join-our-team/data-engineer/
+
+You help shape how to measure performances.  You will **deploy**
+sophisticated **analytics programs, machine learning and statistical
+methods**.  You prepare data for predictive and prescriptive modeling
+and **find hidden patterns using data**. You use data to discover
+tasks that can be automated. You will work on multiple projects so the
+position requires you to be flexible and to be able to plan and
+prioritize well.  Data modelling: **Optimization of the web
+analytics** with several DMP’s and dashboarding tools.
+
+You are open, direct and have a positive attitude.  You have
+experience with web analytics and quickly see opportunities for
+improvement. You are eager to learn and develop yourself.  You are
+familiar with Database systems (SQL and NoSQL), Data warehousing
+solutions, **Data APIs and Python** You have knowledge about
+algorithms and data structures. You are familiar with some of these
+tools: Google Analytics, Data Studio, Optimize, Spreadsheets, Tag
+Manager, Tealium, BigQuery, Klipfolio, New Relic, VWO, A/B Tasty and
+Optimizely.
+
+
+**APIS used**: Kaggle, selenium for using chrome
+
+**What does the company do**: Offers services to other companies to
+improve data architecture, website performance (through dashboards,
+looking at data for conversion rates and creating personalized
+expereinces), and technical foundation.
+
+### relevant online summary first indrew
+
+1. What is it that the company does?
+
+2. What is my role? What is the analytics part? 
+
+- projects and corperations, indicative,
+
+- what I am good at, client facing, pain points for clients,
+
+- bu tyou need someone for something right?
+
+- we can create a role that suits you... 
+
+- that sounds great (2nd round.)
+- wife passed away... (cooking )
+
+220 junior peopel, 2600- **2800** (currently)-3500 (3500 high end) with
+wout or suzzanne.
+
+**Very low salary**
+
+1. What are you looking for? What is an ideal candidate?
+
+2. What is an example project?
+
+3. are you hiring for different teams?
+
+4. What sort of tools do you use?
+
+5. Why does company have only 18 people? Is it a startup and if so how
+   is the funding going?
+
+6. why are you looking for?  Nestle, politie, site is 
+
+7. what susuzzne does is this job?
+
+There is wout and suze does the data works.
+
+very healthy company, 30-35% growth, steady growth financial
+position.**5 monhts you can live**
+
+philips, jumbo, baadi certified, chamber of commerce,
+
+**feb 2016, april 206 started**, instagram... 
+
+**reaching out to sarah... 2ce increase, less than half a year. 15%,
+reach out to here... be modest**
+
+hourly rate... very dynamic
+
+startup to scaleup
+
+e-commerce, web anlytics..
+
+work from isreal. Isreal love... not married any more. 
+
+commercial roles explains product, decision makers not tech
+people... challenges companies are facing.
+
+2005 and 49, websites .. 
+
+visitor comes to your website, purchase, newsletter, proposal...
+
+selling solutions, personalized to user, wout is the tech guy...
+
+service company --> solution company (safe guard data), purchase
+predictor, automated bid to increase advertising,
+
+dashboards, solutions, server side impolementation at custmer side , adblockers,
+browsers, re-direct stuff, data management, data layer warehouse.
+
+finance, marketting, recruitment, manager type role... uterecht...
+
+salary..
+
+- Role
+
+His wife passed away he is in isreal.
+
+sarah is a rising sta working at clients...
+
+### Questions
+
+1. TMAY
+
+2. Why are you leaving ASML
+
+	- no python, no visualization
+	- lot of things build already
+	- mainly domain knowledge on identifying root cause and reaching
+      out to the concerned personl to understand why we see such a
+      foot print
+	- don't do much of Analytics
+	- too much dependent on domain knowledge
+	
+3. What do you do in Analytics
+
+4. What I did in the statistics assignment
+   
+   - Situation: Measuring spread of a something we designed
+   - Task: What is this?
+   - Action: Make test plan to identify repeatability of measurement
+     device followed by repeatability/reproducibility
+	 - number of measurements needed
+	 - Is CI good enough, do we need to improve anything
+	 - perform the tests
+	 - identify sources of randomness
+	 - results don't meet spec (90% it would work) in one pass
+	 - running it twice for now (99%) and reducing the need for a
+       redesign
+	   
+5. what do you do in ASML
+
+
+	- customer comes back to us saying not meeting specs, red flag and
+      we need to figure it out. (assisting a guy)
+		  - take dater
+		  - do budget breakdowns get clues
+		  - plot that respective data
+		  - discuss with the respective domain expert on where to look
+            for such a footprint
+				- one of the parts was heating up
+	 
+6. and other HR type questions
+
+7. What are your strengths and weaknesses
+
+	hardworking
+	quick learner
+	never give up
+	
+	obsession
+	presentation
+
+
+8. keep ready one case of sql problem
+
+
+9. open all projects you want to show
+
+### **Questions HR**
+
+1. why leaving ASML?
+
+2. What about your current job of diagnostic data analysis
+
+3. TMAY 
+
+4. How does your values align with that of postnl or relevant online
+
+5. Why this company?
+
+6. What is a mistake you made in the past?
+
+7. Tell me a time when you worked under pressure
+
+8. Challenging assignment (Machine Learning, and other)
+
+9. My understanding of the role?
+
+10. Tell me a time when you did stake holder management?
+   What sorts of challenges did you have?
+   
+   Time... discussed with
+   Getting time from all the people was hard... Use teams, sometimes
+   planning, no need for escalation.
+   
+   1. I identified and extended the scope of the assignement as it was
+	  not going to work. 
+	  
+   2. I identified who the stakeholders are Thermal, different design teams,
+      recipes people, 
+   
+   3. Analysed their individual contributions and went back and forth
+      to realize a minimal value along with another partner. 
+   
+
+11. how did you manage to reach all the stakeholders? What do you do
+   when you were not able to reach them? Did you ever escalate?
+   
+   Answer expected is escalate...
+   
+12. What do you want to be in 5 years
+
+### **Questions technical to prepare**
+
+1. Tell me a time when you did customer support?
+
+2. Tell me about a time when you did root cause analysis?
+
+3. Tell me about dignostic data analysis at asml
+
+4. Why not ASML? Why are you leaving AMSL?
+
+5. explain
+   
+   - fraud detection
+   - plant species detection
+   - statistics assignment
+   - stakeholder assignment
+   - explain your software work
+
+6. explain random forest, xgboost
+
+7. SQL questions
+
+8. hard to hear feedback and how I went about it? (presentation)
+
+9. What are you proud of and not proud of 
+
+10. What is glm? what is LM? What is regression?
+
+### Statistics questions
+
+1. What is regression? what is LM?
+
+2. What is GLM?
+
+3. What is covariance? correlation?
+
+4. Anova and where is it used?
+
+5. Explain hypothesis testing?
+
+6. reproducibility & repeatabiltiy
+
+### **Questions to them**
+
+1. What is it that the company does?
+
+2. What is my role? What is the analytics part? 
+
+3. What are you looking for? What is an ideal candidate?
+
+4. What is an example project?
+
+5. are you hiring for different teams?
+
+6. What sort of tools do you use?
+
+7. Why does company have only 18 people? Is it a startup and if so how
+   is the funding going?
+## PostNl
+
+### role
+
+https://web.archive.org/web/20210922191736/https://www.postnl.nl/over-postnl/werkenbij/vacatures-voor-hbo-en-wo/data-analist-commercial-intelligence.html?searchterm%3Ddata%26start%3D0&sa=D&source=editors&ust=1633451932113000&usg=AOvVaw0Ru7ufw7PoDKkaiEn_wtDj
+
+
+Provide valuable insights from multiple, complex data sources at
+PostNL Parcels. You create value by generating insights by performing
+data analysis and developing data analysis products.
+
+As a Commercial Data Analyst you are responsible for tackling data
+analysis issues that play a role in the **commercial domain** at the
+Business Unit Packages (eg Marketing, Sales, Product Management). You
+**search for information from various sources and translate this into
+concrete insights and advice** on how we can serve our customers even
+better. You can use your brainpower and your own creativity in
+this. You work independently and accurately and you set high standards
+for the quality of your own work and the work of others. **You switch
+quickly between different projects and keep an overview and the
+intended results**. You actively work together with campaign, account
+and product managers to ensure that the various projects run
+successfully.
+
+Analyzing data from various major data sources and creating valuable
+insights for the benefit of our customers as well as the performance
+of our organization; Making information transparent with customized
+solutions such as **analysis models and dashboards**; Pro-actively
+looking for **new insight**s by researching the data yourself; Act as
+a **spider** in the web when it comes to improving internal
+intelligence databases and information systems; Working together with
+various departments from PostNL to jointly achieve **the best customer
+service**; Improving **product propositions** and increasing customer
+value based on fact-based insights.
+
+---
+
+**What they are:** 
+
+Commercial Intelligence is the department that sets out the guidelines
+for PostNL Parcels & Logistics with regard to commercial policy,
+provides direction, generates solicited and unsolicited innovative and
+explanatory insights, monitors, adjusts and ensures that the strategy
+is implemented. It does this at a strategic level for markets,
+branches, competitors and customers, as well as for the organization
+itself. **The aim of Commercial Intelligence is to direct and manage
+the business of PostNL Parcels & Logistics in a fully data-driven
+manner**. From an overarching virtual Commercial Intelligence Room we
+monitor the total interaction in the supply chain from the sending
+customer to the receiver. Based on data, we aim for optimal use of our
+network.
+
+- pricing, logistics
+ 
+**What I am**
+
+WO thinking and working level, preferably a beta study background (eg
+econometrics, computer science);
+Analytically strong with a practical attitude;  
+Proactive, innovative;  
+Good communication and presentation skills;  
+Experience and/or consultancy skills to concretize issues and
+translate them into necessary solutions;
+Can perform under pressure and has a high degree of independence;  
+Eye for detail and quality;  
+Knowledge of and experience with **programming and modeling data and
+developing (eg Python, SQL, PowerBI) analyzes and dashboards**;  
+Affinity with E-commerce, Marketing campaign management, CRM systems
+and data traffic;  
+Affinity with developments around Big Data and Machine Learning.  
+
+**Indrewers**
+
+Commercial Intelligence (CI) is the process of defining, gathering,
+analyzing and distributing accurate and relevant intelligence
+regarding the products, customers, competitors, business environment
+and the organization itself
+
+Remy Voois, Corporate Recruiter and Lau Akkermans, Manager Insights &
+Analytics  on 10/06/2021 at 15.00 hours.
+
+Remy Voois, 0683868755 or remy.voois@postnl.nl at your earliest
+convenience.
+
+Manager of Insights & Analytics, team of data analysts within PostNL
+Pakketten Commercie, serving the commercial employees (Sales,
+Marketing, Product Management) in their need for fact-based insight.
+
+### postnl todo
+
+1. what products do they do? can you say something about their products?
+
+### **Questions to postnl**
+
+1. So there are some really cool products form postnl, in addition to
+   the parcel service, like changing your address service, how do you
+   sift through that data customer feedback (nlp? n-grams? Machine
+   Learning, sentiment analysis).
+   
+   how else do you collect data about customer satisfaction, or what
+   they want?
+
+2. What is my role? can you give an example of "search for information
+   from various sources"? what sources
+   
+3. What are you looking for? What is an ideal candidate?
+
+4. What is an example project?
+
+5. are you hiring for different teams?
+
+6. What sort of tools do you use???
+
+7. how are the teams, what is the work culture?
+
+8. why are you looking for?  
+
+## GoDataDriven
+
+### position
+
+https://web.archive.org/web/20210302231434/https://godatadriven.com/careers/analytics-engineer/
+
+You’re trained as a data analyst or scientist but have a **deeper
+interest in software engineering than most**.  You’re a
+jack-of-all-trades that loves learning new skills, always trying out
+the latest in data crunching tools.  You’ve excellent visualization
+chops, can write efficient SQL queries and know basic programming in
+Python.
+
+
+**What you will do to make organizations AI-driven**
+
+The Analytics Engineer is the bridge between business and engineering,
+and you **understand what data can bring to the organization**. With
+your strong communication skills, you help **uncover business needs
+and how to support that with data, reporting and visualization**. You
+use software engineering best practices to write production-grade ETL
+pipelines, making high-quality data available for creating business
+value with analytics. You take a pragmatic approach to rapidly
+building visualizations and dashboards, allowing everyone to get
+actionable insights from the data.
+
+**What does GDD do**
+
+they organize (e.g., support with AI maturity scans), build (models), train
+and manage (data pipleine management, automation) AI related systems.
+
+### **Questions to corporation template**
+
+1. you 
+   - organize (build custom solutions for customers
+   https://godatadriven.com/cases/randstad/), support with AI maturity scans
+   - build 
+   
+   , train, manage
+
+2. Xebia is the overarching organization, do you also do inhouse work?
+
+3. how do you support and grow talent?
+
+4. What sort of companies do you think I would fit in and what sort of roles?
+
+### Questions tech
+
+1. Tell me a time when you did stake holder management?
+   What sorts of challenges did you have?
+   
+   Time... discussed with
+   Getting time from all the people was hard... Use teams, sometimes
+   planning, no need for escalation.
+   
+   1. I identified and extended the scope of the assignement as it was
+	  not going to work. 
+	  
+   2. I identified who the stakeholders are Thermal, different design teams,
+      recipes people, 
+   
+   3. Analysed their individual contributions and went back and forth
+      to realize a minimal value along with another partner. 
+	  
+   4. What are the challenges
+	  - getting people to talk and discuss
+	  - finding the right people...
+	  - negotiation with project lead to work on this
+	  
+2. statistics at mapper
+
+3. Data analysis at ASML
+
+4. Machine Learning at xgboost in kaggle
+
+	- what is xgboost, random forest and decision trees
+
+5. deep learnign assignment
+
+6. NLP
+
+7. AWS
+
+8. segementation
+
+9. Webscraping
+
+### Questions HR
+
+1. Strenghts and weaknesses
+
+2. What are you proud of and not proud of
+
+3. Why do you want to work here?
+
+4. TMAY
+
+5. Why leaving ASML
+
