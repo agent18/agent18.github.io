@@ -3039,7 +3039,6 @@ tools: Google Analytics, Data Studio, Optimize, Spreadsheets, Tag
 Manager, Tealium, BigQuery, Klipfolio, New Relic, VWO, A/B Tasty and
 Optimizely.
 
-
 **APIS used**: Kaggle, selenium for using chrome
 
 **What does the company do**: Offers services to other companies to
@@ -3143,7 +3142,8 @@ sarah is a rising sta working at clients...
 	- don't do much of Analytics
 	- too much dependent on domain knowledge
 	
-3. What do you do in Analytics
+3. What do you do in Analytics, what is the job about ? can you tell
+   me more about it..
 
 4. What I did in the statistics assignment
    
@@ -3290,6 +3290,245 @@ sarah is a rising sta working at clients...
 
 7. Why does company have only 18 people? Is it a startup and if so how
    is the funding going?
+   
+8. What do you like about working there, what don't you like about
+   working there?
+   
+9. What do you mean stress? 
+   
+##  Relevant online
+
+### seconnd indrew with Suze
+
+### Questions to Suze
+
+1. What is it that the company does?
+
+2. What is my role? What is the analytics part? 
+
+3. What are you looking for? What is an ideal candidate?
+
+4. What is an example project?
+
+5. are you hiring for different teams?
+
+6. What sort of tools do you use?
+
+python, tereform, git, kubernetes, GCP, big query, google analytics, 
+
+7. Why does company have only 18 people? Is it a startup and if so how
+   is the funding going?
+
+8. why are you looking for?  
+
+### job description
+
+https://web.archive.org/web/20211003183851/https://relevantonline.eu/join-our-team/data-engineer/
+
+You help shape how to measure performances.  You will **deploy**
+sophisticated **analytics programs, machine learning and statistical
+methods**.  You prepare data for predictive and prescriptive modeling
+and **find hidden patterns using data**. You use data to discover
+tasks that can be automated. You will work on multiple projects so the
+position requires you to be flexible and to be able to plan and
+prioritize well.  Data modelling: **Optimization of the web
+analytics** with several DMP’s and dashboarding tools.
+
+You are open, direct and have a positive attitude.  You have
+experience with web analytics and quickly see opportunities for
+improvement. You are eager to learn and develop yourself.  You are
+familiar with Database systems (SQL and NoSQL), Data warehousing
+solutions, **Data APIs and Python** You have knowledge about
+algorithms and data structures. You are familiar with some of these
+tools: Google Analytics, Data Studio, Optimize, Spreadsheets, Tag
+Manager, Tealium, BigQuery, Klipfolio, New Relic, VWO, A/B Tasty and
+Optimizely.
+
+**APIS used**: Kaggle, selenium for using chrome
+
+**What does the company do**: Offers services to other companies to
+improve data architecture, website performance (through dashboards,
+looking at data for conversion rates and creating personalized
+expereinces), and technical foundation.
+
+### meeting
+
+- Data lead Suze --> analytics, google tech manager, cloud
+
+- most advise (consultants), tell the wht to do?
+
+- philips app tracking google analytics dbg snoflake, 
+
+- dynamic, zeets, commercial sites... predictive models,
+  martex... agile... adhoc... 
+  
+- customer interaction, 
+
+- Google tech manager. 
+
+- front end optimization, measurment, DMP, marketting platform,
+  infrastructure, tech management, google , dev ops
+  
+- bigger projects, long term ... pphips specific to work on
+
+thye are google analytics, Google tech
+
+team with specialized people...
+
+- what is an ideal candidate (google data engineering )
+
+project --> transactions, retrive, API, data from front end, combine, 
+
+data layer monitor --> scipt object --> marketting technologies,
+conversions measured,
+
+cloud , scraper, client, emails... 
+
+recommendation engines, automaed customer segementation
+
+Using data, solution, purchase prediction
+
+roo... 
+
+that sounds really good... loose projects...
+  
+Overall it was a belau indrew, they didn't know much about my
+experience until I told them about it, and my capabilities. they think
+I am senior in some aspects and not in other aspects.
+
+### Preparation Questions template (v2)
+
+interviewer: https://www.linkedin.com/in/suze-l%C3%B6bker-26450a90/
+
+**HR**
+
+1. Different types of Data analysis (prescriptive, predictive,
+   descriptive and diagnostic)
+
+2. Why leaving ASML?
+    - in the next two years
+	- lack of transferable skills
+	- no python, no visualization
+	- lot of things built already to make the process easier, 
+	- mainly domain knowledge on identifying root cause and reaching
+      out to the concerned personl to understand why we see such a
+      foot print
+	- don't do much of Analytics
+	- too much dependent on domain knowledge
+
+3. What is your understanding of the Company, Role?
+
+4. What do you want in the role?
+
+	Visualization, forecasting, insight generation, prescriptive Data
+    Analyst, etc..
+
+5. TMAY
+
+6. Strengths and weaknesses
+
+	hardworking
+	quick learner
+	never give up
+	
+	obsession
+	presentation
+
+
+7. What are you proud of and not proud of
+
+8. How do you get people to use your products (involve them early,
+    get feedback from them)
+
+9. Why netherlands	
+	
+**cv related**
+
+1. ASML Data analytics
+
+	- customer comes back to us saying not meeting specs, red flag and
+      we need to figure it out. (assisting a guy)
+		  - take dater
+		  - do budget breakdowns get clues
+		  - plot that respective data
+		  - discuss with the respective domain expert on where to look
+            for such a footprint
+				- one of the parts was heating up
+
+2. Statistics assignment uncertainty
+
+   - Situation: Measuring spread of a something we designed
+   - Task: What is this?
+   - Action: Make test plan to identify repeatability of measurement
+     device followed by repeatability/reproducibility
+	 - number of measurements needed
+	 - Is CI good enough, do we need to improve anything
+	 - perform the tests
+	 - identify sources of randomness
+	 - results don't meet spec (90% it would work) in one pass
+	 - running it twice for now (99%) and reducing the need for a
+       redesign
+	   
+3. Kaggle vision
+   
+	   - hyperparameter tuning,
+	   - memory management
+	   - trying different algorithms on smaller scale (with 5 images)
+	   - unable to run on 1 mill images but ran on 200000 images
+	
+4. Kaggle tabular
+
+	Need to 
+
+5. Customer support time?
+
+6. Root cause analysis
+
+7. Stakeholder management
+   
+   Time... discussed with
+   Getting time from all the people was hard... Use teams, sometimes
+   planning, no need for escalation.
+   
+   1. I identified and extended the scope of the assignement as it was
+	  not going to work. 
+	  
+   2. I identified who the stakeholders are Thermal, different design teams,
+      recipes people, 
+   
+   3. Analysed their individual contributions and went back and forth
+      to realize a minimal value along with another partner. 
+
+**Statistics**
+
+1. Statistics questions: regression vs correlation
+
+2. Gini index
+
+3. explain XGBoost
+
+4. explain Random forest 
+
+5. Difference between classifier and the regression how
+
+6. SQL questions?
+
+7. feedback did you get?
+
+8. explain software work
+
+9. difference between GLM and LM, what is regressions
+
+10. Covariance, hypothesis testing, repro and repeatability
+
+
+
+
+
+
+
+
+
 ## PostNl
 
 ### role
@@ -3407,6 +3646,109 @@ Marketing, Product Management) in their need for fact-based insight.
 
 8. why are you looking for?  
 
+### Questions from postnl Lau akkermans
+
+about Lau: commercially, sickness leav forecasting analytics, strategic hr
+side, finance, politie, kmn, coordinating position in analytics,
+postnl... (11 data analysts in his team), commerical side of parcels,
+sales, marketing campaigns, product managers, agile construciton of
+work, design team. son 4 daugter 1, marathon
+
+1. What do you expect from this job?
+
+2. What do you want to do here?
+
+3. Salary expectation
+
+4. Why are you quitting ASML ( need to be better prepared)
+
+5. Why don't you want to do diagnostic data analysis
+
+6. What statistics assignment did you do?
+
+7. what programming work do you do?
+
+8. How will you get other people to use the products you make?
+   (involve them from the beginning, get a lot of feedback).
+
+9. What was the feedback you received in ASML about yourself (EE and
+   then presentation)
+
+
+10. What is my role? can you give an example of "search for information
+   from various sources"? what sources
+	
+	Maybe what you said, postnl,.. mail business usint, postnl pacel
+	commerical side (commercial, IT, HR) commercial strategy,
+	intelligence,
+	
+11. Why did you come to netherlands
+
+control stratgey and us are supporting...
+
+how many people?
+
+biggest part of work, sales marketting and product management
+
+perfect process parcel model, what is the perfect process, things go
+wrong, things go right,
+
+parcel is alredy in sorting center... forecasting... notifications in
+forecasting, label is not right... show account managers for their
+clients 98%...  (diagnostic), predictive prescriptive, diagnostic,
+
+Sales and account managers, pattern variation detection, competitive
+market, daily volume, market share is under pressure., 80% now it is
+competitive, DHL, ups,
+
+sorting center built.. restricted to provide, today automated sorting
+center (shoebox), 200 robots,
+
+Commerical side serving sales market.... way more work than we can do?
+10 more analysts, start with 5... 4 have filled..
+
+IT is mapped towards physical network, AWS, tech, exploration data
+environment on top of the data lake...
+
+working model, hybrid, agile structure, backlog, teams, customer
+journey team returns, collections (fashion), ffeature teams (automated
+marketting team). data analysts
+
+next team --> future pricing (software designer, pricing analysts go
+indepth, make sure new pricing policy), towards 2025 (mature team),
+being a team, transform DA part, bring more value out of
+data... prescriptive model, action, really helped
+
+couple of interviews, invite 2-3 people, some of the interviewers for
+2nd round based on a case, way of thinking we are interested in it...
+(friday with Feedback)
+   
+how to involve people make use of your factor, interested in them... .
+
+
+
+
+**my question that worked**
+
+mentorships?
+
+ans:  good question, deedback workign together wiht an agile
+team, product owner, our team, more experienced people topic,
+topic. lau is also involved in certain content, see the performance
+and dvelopement
+
+---
+
+Work culture?
+
+machinelearning?
+
+metorships?
+
+what tools did you use
+
+
+
 ## GoDataDriven
 
 ### position
@@ -3505,4 +3847,76 @@ and manage (data pipleine management, automation) AI related systems.
 4. TMAY
 
 5. Why leaving ASML
+
+
+### Actual Questions from Luuk 
+
+There are 3 more sets of indrews, one with  bram (PHd) and tim (sales)
+
+This is a place for excellence, 
+
+5k for education compulsory
+
+1k for car lease
+
+I will not try to low ball you
+
+you can do training here, consultant, you have choice of 3 projects
+here alwasys, each project 3-6 months.
+
+- they do projects for companies, not a recruitment agency.
+
+- there is a buddy system
+
+- you are paid for what you deserve, there are no pay scales.
+
+Talked about chess, talent is overrated, his trips tomorrow
+
+- there is a day every month ehwn you can leave at 13:00 hrs. Work
+  life balance is important
+
+1. why are you leaving ASML
+
+2. What do you want? (very open question)
+
+3. What are you earning now?
+
+## feedback 2021 okt application
+
+### Randstad groep nederland web and data analyst
+
+> Unfortunately, we will not invite you for an interview. We
+> understand that this is not nice to hear and we are happy to tell
+> you why we made this choice. We see you over the years, many
+> beautiful experience and have gained. Compared to the experience we
+> require for this position, we suspect that you have more in-house
+> than we can offer you to be happy in this role for a longer period
+> of time. We think it is important that our colleagues are
+> sufficiently challenged and that they can continuously learn. We
+> have doubts about this in your case , based on your experience and
+> background, so we do not see the right match for this vacancy.
+
+
+### Post Netherlands Data Analyst
+
+> Unfortunately we haven’t spoken any more after the interview we had
+> together with Lau for the Data Analist Commercial Intelligence role
+> at PostNL.
+>
+> We have made the decision to not continue the procedure any
+> further. The main reason for that is that we think that other
+> candidates in the procedure for this role, suit better on level of
+> experience with Data Analyses and also with company culture. I
+> understand that this outcome might come as a disappointment, if you
+> have any questions, please let me know.
+
+### Relevant online
+
+### Go Data Driven
+### Swift
+
+> They already found 5 candidates with atleast 2 years of experience
+> so they are going forward with them to the interview process. They
+> looked very closely at your application but the manager wanted
+> someone who has atleast 2 years of experience as a data scientist
 

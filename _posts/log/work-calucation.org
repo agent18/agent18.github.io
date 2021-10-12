@@ -64,6 +64,9 @@ CLOCK: [2021-09-03 vr 17:04]--[2021-09-03 vr 19:16] =>  2:12
 CLOCK: [2021-09-22 wo 08:30]--[2021-09-22 wo 12:30] =>  4:00
 :END:
 *** Application 
+:LOGBOOK:
+CLOCK: [2021-10-12 di 18:25]--[2021-10-12 di 19:35] =>  1:10
+:END:
 **** Swift
 :LOGBOOK:
 CLOCK: [2021-09-22 wo 14:59]--[2021-09-22 wo 15:55] =>  0:56
@@ -144,6 +147,7 @@ CLOCK: [2021-10-01 vr 19:21]--[2021-10-01 vr 20:35] =>  1:14
 :END:
 *** other
 :LOGBOOK:
+CLOCK: [2021-10-06 wo 18:45]--[2021-10-06 wo 20:32] =>  1:47
 CLOCK: [2021-10-01 vr 14:19]--[2021-10-01 vr 16:19] =>  2:00
 CLOCK: [2021-09-30 do 19:14]--[2021-09-30 do 20:10] =>  0:56
 CLOCK: [2021-09-29 wo 08:20]--[2021-09-29 wo 09:45] =>  1:25
@@ -165,10 +169,43 @@ CLOCK: [2021-10-04 ma 18:07]--[2021-10-04 ma 19:47] =>  1:40
 :END:
 **** prepare for wedenesday indrews
 :LOGBOOK:
-CLOCK: [2021-10-06 wo 12:36]
+CLOCK: [2021-10-06 wo 12:36]--[2021-10-06 wo 14:45] =>  2:09
 CLOCK: [2021-10-05 di 21:13]--[2021-10-05 di 23:05] =>  1:52
 CLOCK: [2021-10-05 di 20:14]--[2021-10-05 di 20:30] =>  0:16
 CLOCK: [2021-10-05 di 19:15]--[2021-10-05 di 20:04] =>  0:49
+:END:
+**** shl for PWC
+:LOGBOOK:
+CLOCK: [2021-10-08 vr 20:01]--[2021-10-08 vr 20:56] =>  0:55
+CLOCK: [2021-10-08 vr 17:50]--[2021-10-08 vr 19:12] =>  1:22
+CLOCK: [2021-10-07 do 21:29]--[2021-10-08 vr 00:18] =>  2:49
+CLOCK: [2021-10-07 do 20:15]--[2021-10-07 do 20:44] =>  0:29
+CLOCK: [2021-10-07 do 18:06]--[2021-10-07 do 20:15] =>  2:09
+CLOCK: [2021-10-06 wo 21:35]--[2021-10-06 wo 22:49] =>  1:14
+:END:
+***** shl deductive
+:LOGBOOK:
+CLOCK: [2021-10-08 vr 22:20]--[2021-10-08 vr 23:37] =>  1:17
+CLOCK: [2021-10-08 vr 22:10]--[2021-10-08 vr 22:20] =>  0:10
+:END:
+***** shl num
+:LOGBOOK:
+CLOCK: [2021-10-10 zo 08:53]--[2021-10-10 zo 16:38] =>  7:45
+CLOCK: [2021-10-09 za 16:52]--[2021-10-09 za 21:50] =>  4:58
+CLOCK: [2021-10-09 za 13:52]--[2021-10-09 za 14:55] =>  1:03
+CLOCK: [2021-10-09 za 10:12]--[2021-10-09 za 10:32] =>  0:20
+CLOCK: [2021-10-09 za 08:37]--[2021-10-09 za 09:22] =>  0:45
+:END:
+**** relevant online
+:LOGBOOK:
+CLOCK: [2021-10-11 ma 12:45]--[2021-10-11 ma 15:45] =>  3:00
+CLOCK: [2021-10-11 ma 10:09]--[2021-10-11 ma 11:00] =>  0:51
+:END:
+**** 
+
+*** indrews
+:LOGBOOK:
+CLOCK: [2021-10-06 wo 15:00]--[2021-10-06 wo 17:00] =>  2:00
 :END:
 *** AWS prep
 **** AWS curses 4 hr curses
@@ -217,6 +254,11 @@ CLOCK: [2021-09-12 zo 10:25]--[2021-09-12 zo 16:55] =>  6:30
 :END:
 ** Not counted for DP                                                :break:
 :LOGBOOK:
+CLOCK: [2021-10-12 di 19:36]
+CLOCK: [2021-10-08 vr 20:56]--[2021-10-08 vr 22:10] =>  1:14
+CLOCK: [2021-10-08 vr 19:12]--[2021-10-08 vr 20:01] =>  0:49
+CLOCK: [2021-10-07 do 20:15]--[2021-10-07 do 20:15] =>  0:00
+CLOCK: [2021-10-06 wo 20:33]--[2021-10-06 wo 21:52] =>  1:19
 CLOCK: [2021-10-05 di 20:04]--[2021-10-05 di 20:14] =>  0:10
 CLOCK: [2021-10-05 di 18:37]--[2021-10-05 di 19:48] =>  1:11
 CLOCK: [2021-10-03 zo 17:51]--[2021-10-03 zo 20:23] =>  2:32
@@ -5833,45 +5875,37 @@ https://orgmode.org/manual/The-clock-table.html
 
 #+BEGIN: clocktable :maxlevel 3 :scope file :step day :tstart "<-3d>" :tend "<tomorrow>" :tags t :compact t :match "-break-NATW"
 
-Daily report: [2021-09-30 do]
+Daily report: [2021-10-07 do]
 | Tags | Headline                         |   Time |
 |------+----------------------------------+--------|
-|      | *Total time*                     | *4:38* |
+|      | *Total time*                     | *5:27* |
 |------+----------------------------------+--------|
-|      | Data science application round 2 |   4:38 |
-| work | \_  Counted for work             |   4:38 |
-| work | \_    Application                |   3:42 |
-| work | \_    other                      |   0:56 |
+|      | Data science application round 2 |   5:27 |
+| work | \_  Counted for work             |   5:27 |
+| work | \_    preparing for indrews      |   5:27 |
 
-Daily report: [2021-10-01 vr]
+Daily report: [2021-10-08 vr]
 | Tags | Headline                         |   Time |
 |------+----------------------------------+--------|
-|      | *Total time*                     | *8:13* |
+|      | *Total time*                     | *3:44* |
 |------+----------------------------------+--------|
-|      | Data science application round 2 |   8:13 |
-| work | \_  Counted for work             |   8:13 |
-| work | \_    Application                |   2:00 |
-| work | \_    Studying                   |   4:13 |
-| work | \_    other                      |   2:00 |
+|      | Data science application round 2 |   3:44 |
+| work | \_  Counted for work             |   3:44 |
+| work | \_    preparing for indrews      |   3:44 |
 
-Daily report: [2021-10-02 za]
+Daily report: [2021-10-09 za]
 | Tags | Headline                         |   Time |
 |------+----------------------------------+--------|
-|      | *Total time*                     | *1:41* |
+|      | *Total time*                     | *2:08* |
 |------+----------------------------------+--------|
-|      | Data science application round 2 |   1:41 |
-| work | \_  Counted for work             |   1:41 |
-| work | \_    Studying                   |   1:41 |
+|      | Data science application round 2 |   2:08 |
+| work | \_  Counted for work             |   2:08 |
+| work | \_    preparing for indrews      |   2:08 |
 
-Daily report: [2021-10-03 zo]
-| Tags | Headline                         |   Time |
-|------+----------------------------------+--------|
-|      | *Total time*                     | *5:50* |
-|------+----------------------------------+--------|
-|      | Data science application round 2 |   5:50 |
-| work | \_  Counted for work             |   5:50 |
-| work | \_    Studying                   |   5:03 |
-| work | \_    preparing for indrews      |   0:47 |
+Daily report: [2021-10-10 zo]
+| Tags | Headline     | Time   |
+|------+--------------+--------|
+|      | *Total time* | *0:00* |
 #+END:
 
 scrolling issue 
