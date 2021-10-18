@@ -5,17 +5,18 @@
 * for the indrews todag
 ** sql important
 ** explain forest decision trees, xgboost
-** prepare questions to get ready for
-** prepare
-*** prepare for questions on cv and other generic questions based on ikea and work here
-*** prepare for what to say about what I do now
-*** make questions to work on
-*** explain kaggle work
-*** explain segmentation work
-*** explain how you will explore
-*** Explain why this job?
-** Monday make decision on going to EA
-** app to last set of comapnies
+** app to last set of companies
+** prep for gorillas
+** prep for ing
+** DOING prep for pwc (setup questions and answers)
+** DOING make notes of gdd indrew questions and rejection feedback
+** find companies to apply for (consultancies, roos links and linkedin)
+** https://startup.jobs/data-analyst-gorillasapp-2222710
+** write to people
+*** write to Lau for feedback
+*** write to the other guy form adyen
+*** write to guys from exact
+** call ing and ask for feedback
 * now 
 ** Other consultancy vacancies and indeed.
 ** post on software tech to ask for some help
@@ -118,4 +119,4 @@ know that you can improve your skills with deleberate practice.
 ** career decision and why?
 ** essay on 6 months plan
 ** Essay on Data Science plan
-** CE wrongness of estiamtes
+** CE wrongness of estimates

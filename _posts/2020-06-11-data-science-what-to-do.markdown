@@ -3962,7 +3962,7 @@ scientist,
 	- NLP --> project on NLP (Link to app:) (takes a few seconds as it
       is hosted on a free server)
 	- Machine Learning --> Top 10% in Kaggle competition: XGBOOST,
-      Random Forests (Link to blogpost:) 
+      Random Forests (Link to blogpost:) /
 	- Clustering --> project on clustering and segmentation of consumer
       data using Kmeans  
 	- Neural Networks --> Top 20% in Kaggle competition  
@@ -3980,7 +3980,7 @@ scientist,
 
 2. About me?
 
-2.    1. ASMl, Data Analyst
+3.    1. ASMl, Data Analyst
    1. ASML ME
    2. ASML SD
    3. python guest researcher
@@ -3994,7 +3994,7 @@ scientist,
    
    what was complex about it?
 
-3. prepare a bit about vision 
+4. prepare a bit about vision 
 
 ### Questions to corporation
 
@@ -4006,6 +4006,117 @@ scientist,
 
 2. can you give me examples of work I would be doing and you are doing?
 
+
+### indrew notes (2nd indrew)
+bram, amsterm 13 years, GDD 2 years, analytics, DS, tim, analytics
+engineering about...
+
+Tim, 1.5 GDD, oracle, sales and public sector,
+
+what is analytics engineer? current roles hot, clients struggling,
+using data effectively, strural data vailability, which data is
+available, literater enough!
+
+DD, in democratization, briding gap between data engineer and DA, all
+customers are , propels an duses , making data available, teaching
+(dashboaring), get data platform, usable, transform, serve, modern
+data stack, injestion, transformin, serve, DBT (data build tool),
+Software engeineering platgorm, git , clear ...
+
+CICD pipeline, model centric DS data centric DS, high quality data.
+
+role?
+
+Why should we hire you...
+
+what projects, e-commerce, hr analytics, I am open
+
+65 people...  finding sales building
+
+are you somone taking charge.. ASML
+
+can you help with ASML...
+
+DS, Aanalytics translators... data science space leadership or
+engineer
+
+What 6 analytics engineeris, learn from you?
+
+ETL,
+
+key Data Democratization:
+
+Big Data expo
+
+1. what do you like and dislike? Why did you choose GDD?
+
+GDD, like, wehre I started this meeting with, overwhelmed, humbling,
+work for the biggest customers in the
+
+dislike sometimes, cocky, trust us...
+
+bram --> best grow in every area,
+
+small company not knownin the management areas, well known,
+complicated,,, political side
+
+next steps... give feedback and give the loop, talk to
+Juan... technical conversaition, assesment, lastly with CEO,
+
+What skills will I learn
+
+They are focussed on things like engineering, what is redshift etc...
+
+1. can you give me examples of work I would be doing and you are
+   doing?
+
+some of colleargues in the team, green field solution, making dat
+available, propse, modern data platform, first use cases
+possible. customer facing, or client... Data engineer (sets up the
+platform)... terrraform, injection tool , transform tool , self
+service tool... ( customer facing, propels clients
+
+tech stack...  pairs...
+
+1. aalytics engneer ,people DA side, DS side engineering part of
+   it.. self sufficient, create usecases, da
+
+democratizing the , easier ... AI and BI
+
+analytics similar, DS modeling, ML engineer (productionsing),
+analytics translator, close to the business and IT.
+
+
+### Actual Questions
+
+1. Introduction
+
+2. role? 
+
+current roles hot, clients struggling,
+using data effectively, strural data vailability, which data is
+available, literater enough!
+
+DD, in democratization, briding gap between data engineer and DA, all
+customers are , propels an duses , making data available, teaching
+(dashboaring), get data platform, usable, transform, serve, modern
+data stack, injestion, transformin, serve, DBT (data build tool),
+Software engeineering platgorm, git , clear ...
+
+1. Why should we hire you?
+
+2. What projects do you want to work on?
+
+3. What type of person are you? do you actively participate in getting
+   new roles or just sit back.
+
+4. What will other analytics engineers learn from you.
+
+5. What are your strong points (hardworking and persevere)
+
+6. Who do you ask for help? if you need
+
+### rejection feedback
 
 ## ING
 ### **Questions to corporation template**
@@ -4392,6 +4503,700 @@ She's positve, mostly get an indrew, around 20th of oct,
 CV +ve, experience with stakeholders is what they are lookign for, 
 
 
+## PWC
+### job posting
+
+Would you like to build trust in society and solve important problems
+using your data analytics skills? We offer you the opportunity to join
+the Data Analytics Consulting team. The Data Analytics Consulting team
+at PwC is a multidisciplinary team that uses their analytics skills to
+come up with practical solutions for complex problems within the
+public, commercial and financial industry. We do this by developing
+for our clients models, apps and data driven solutions based on
+advanced technologies including machine learning, artificial
+intelligence and cloud solutions.
+
+**What’s the work like?**
+
+As a member of the Data Analytics Consulting team, you will use your
+analytical skills to devise practical solutions to complex problems in
+the public, commercial and financial sectors. We cover a broad range
+of analytics, including business modelling, risk management, financial
+risk management, process optimization, executive decision support,
+performance management, data management, customer analytics and
+predictive analytics.
+
+As a Data Analytics consultant, you will be working in a dynamic team
+with a passion for the disciplines they studied at university:
+Econometrics, Statistics and/or Mathematics. The combination of your
+and our expertise means we are able to take complex problems and
+issues and deliver practical advice and insights that allow us to work
+with the clients to produce innovative solutions and superior results.
+
+
+**Who are you?**
+
+As a Data-Analytics consultant, you want to grow, develop
+relationships, make an impact and pursue your maximum potential, as
+well as that of your colleagues. The ideal candidate for this junior
+position:
+
+You have completed a master’s degree (MSc) in disciplines such as
+Econometrics, Mathematics, Statistics, Artificial Intelligence,
+Machine Learning, Computer Science or another beta study with good
+results;
+
+You have **good programming skills** in programs such as MatLab,
+Python or R;
+
+You have communicative and commercial qualities;
+
+You combine clear communication and technical knowledge, and can
+therefore offer added value to clients, no matter their own analytical
+skills;
+
+You are an ambitious team player who enjoys producing quality;
+
+You have a good command English (written and spoken). The Dutch
+language is preferred. 
+	
+### Preparation for 1st indrew
+
+**Indrew with**
+
+https://www.linkedin.com/in/sander-smits/ very similar background,
+worked on computational solid mechanics, went into industry and then
+consulting and now manager.
+
+https://www.linkedin.com/in/nousjka-de-lange-54362780/ econometrics
+masters to consulting
+
+**Sent by Norbert**
+
+The meeting is intended to get to know one another. We are curious to
+know about you, your competencies, and the choices that led to you
+applying. We would also like to know why you want to join PwC and work
+at our Consulting department. You will also have the opportunity to
+ask questions. We will be happy to tell you more about the function of
+Consulting Data Analytics at PwC.
+
+Tips for preparing In preparation for the interview, think about how
+you would answer the following questions:
+
+Why do you want to join PwC and work at our Consulting Data Analytics
+department?
+
+Which of our “Purpose” values apply to you?
+https://www.pwc.nl/en/careers/about-pwc/purpose-and-values.html
+
+Which developments in the field appeal to you, and which do not?
+
+We will also have a look at your programming skills on a conceptual
+level. (what project how you did programming? example of projects)
+
+I trust that I’ve provided you with sufficient information. Please
+don’t hesitate to contact me if you have any questions.
+
+---
+
+**My notes on what to prepare when Norbert called me**
+
+I failed to talk well with Norbert (what do I say, that I am happy?
+that I am, prepare for it. when he says no portfolio is needed and
+would advise against it, just say ok.
+
+4/5 num, 3/5 ind, 3/5 ded. You thus done well. 3/5 is minimum.
+
+- Interview is 2 colleagues for 1 hr from business team
+
+- Interview about motivation, ???
+- feedback on forms--> reflection
+- What are your learning's about your self from resume and from 
+- Why PWC?
+- why share values of PWC link values? ???
+- Why Data Analyst?
+- who you are?
+- why consulting?
+- what do you want to do in PWC? ???
+- questions on programming in Thesis ???
+- draw situations on conceptual level ???
+- Which developments in the field appeal to you, and which do not?
+- programming skills at conceptual level
+
+- what to focus on regarding my career? Machine Learning???? SQL?
+  Tableau? portfolio? python?
+  
+- what do you do as a data analyst ? what is the role?
+
+**Other**
+- why pwc, why this field, why is this important to you?
+- What do you want to learn here
+- what questions did Karan bhai get? ???
+- where is the job?
+- why did you choose master
+- what can you contribute at PWC
+- how do you work in a group
+- which book have you read recently
+
+- data-warehouse, datalake etc.. know your shit
+- amazon services revise?
+
+**job description**
+
+You have communicative and commercial qualities; ???
+
+
+What is the job? 
+
+Introduction --> 4-5 lines (you are who, why PWC, why role)
+
+you must have seen, and shifting to this... (conservative, passion in
+Data Analyst, and pursued on it's own, developing a career), doesn't
+aligns at PWC really well
+
+PWC --> consulting, values, consultancy 3-9 (wider exposure)
+industries
+
+Working in diverse fields --> working in diverse team, background,
+different fiels
+
+conflict witihn a team --> STAR (apoligize, diffuse) --> people were
+not working, got them together made timeline..
+
+Why PWC? big 4, --> purpose and values
+
+PWC in 5 years --> technically and soft skills (training develope
+myself as well add value company personal development)
+
+Karan bhai --> PWC (found role on your own, you reached out to
+understanding more company and the role and also helping through this
+process)
+
+
+- library for plotting roles, OOP
+
+**Role:**
+
+1. availability in team, match skills according, (associate)
+
+2. project to learn if you are junior (always switch over time), I
+   want to switch)
+   
+3. Supply chain --> bicycle company (you are supposed to do it),
+   retail client --> tableau
+
+4. talking to clients and understanding requiremtns, technical to
+   business translation,  --> improve or give example on that
+   
+5. multiple projects
+
+6. work life balance
+
+7. Trainings --> PWC for softskills 
+
+8. networking within PWC (huge company with different people,
+   differten backgrounds and learning from them)
+
+4-5 years --> manager gwo within (projects on your own leading a team,
+network within)
+
+-- end to end pipleing big data, platforms, anlytics, getting
+actionable insights from data.
+
+-- mention AWS
+
+-- 
+
+**What questions**
+
+1. job
+
+2. data Analytics department, structured?
+
+3. kind of projects
+
+4. travel?
+
+5. one thing you like one thing you dislike
+
+6. a project you worked on (currently working on)
+
+keep it interactive.
+
+1. Shirt 
+
+Specific industry, future of data Analytics, (incorporating GPT 3,
+applying cutting edge)
+
+
+
+**Glassdoor questions**
+
+### preparing for 1st indrew (2)
+
+**intro q's**
+
+1. Why this job? **
+
+2. Why consulting? **
+
+	- customer facing
+	- 
+
+3. Why PWC?
+
+	- networking
+	- values match
+	- talked to karan pappala
+	- work life balance
+	- are there odd hours to work?
+
+4. Why is this important to you?
+
+5. What do you want to learn here?**
+
+	- better at communication, networking
+	- data --> insights --> actions, visulizations
+	- working with big data and associated platforms
+	- advanced analytics including Machine Learning, statistics, 
+
+6. What would you like to work on?**
+
+	- end to end pipleing big data, platforms, anlytics, getting
+	actionable insights from data. 
+	
+	- fields: retail (Supermarket, clothing stores), e-commerce
+      (amazon, ebay, flink), supply chain, fintech, Hr analytics,
+      prescriptive, and predictive analytics
+
+
+7. What is your motivation?
+
+8. TMAY ** short versie (who you are, why PWC, why role)
+
+	- talk about also, things like organizing events
+	- running,
+
+9. Which purpose values apply to you?
+
+10. What are your learning's about self?
+
+**CV**
+
+1. Statistics assignment
+
+2. Fraud detection
+
+3. segmentation
+
+4. stake holder management
+
+5. current Data Analyst at ASML.
+
+**ASML**
+
+1. Why leaving current job?
+
+2. What are you doing in your current job?
+
+**General questions**
+
+1. Which developments in the field appeal to you, which do not?
+
+	- open source field (sklearn to Auto sklearn)
+	- large data models (gpt2 vs gpt3) 
+	
+	- Data Science and programming were always meant for anybody with
+      a basic computer, everything else is free or costs little money
+      to learn, and very accessible
+	  
+	- power goes to few who can afford those ridiculous resources
+
+2. what do you think is the role?
+
+3. how did you find this role?
+
+4. What are your major strengths?
+
+5. What are your weaknesses?
+
+6. how do you keep yourself up-to-date with technology?
+
+	- meetups
+	- linkedin follows
+	- kaggle
+	
+7. What is one thing that you are proud of?
+
+
+**Programming/technical**
+
+1. Which libraries do you use in python
+
+2. which libraries do you use for plotting **
+
+3. revise a bit about AWS cloud computing platform items**
+
+4. Different joins in SQL?
+
+5. left join is null, vs where vs ...
+
+**Tell me a time when**
+
+1. Tell me about a time when you did a programming assignment, Data
+   analysis assignment
+   
+   Kaggle, SD work, 
+
+2. Tell me about a time when you had a conflict to resolve
+
+3. Tell me about a time when you had a disagreement
+
+4. how do you work in a team (niche, and learn from seniors and
+   contribute to planning)
+   
+5. Tell me about a time when you did stakeholder management
+
+6. tell me about a time hwen you handled a stressful situation
+
+7. tell me about leading experience
+
+8. How did you cope with a team mate not doing their fare share?
+
+**Question to them**
+
+1. An example of a projects happening now (or what I could potentially
+   be taking up)
+   
+2. how is consulting data analytics department structured? 
+
+3. How is PWC looking at the future? where right now GPT is writing
+   code, GPT is answering all sorts of questions, 
+   
+4. one thing you like and dislike about PWC?
+
+5. A project you worked on?
+
+6. Travel? 
+
+## Gorillas
+
+2500 people, berlin headquarters
+
+### job description
+
+https://web.archive.org/save/https://apply.workable.com/gorillas/j/DC3760CE91/
+
+**About the job Description**
+
+Gorillas is shaping the future of on-demand retail from the ground
+up. In less than one year we have evolved from a single dark store in
+Berlin to a growing global crew operating our hyperlocal model in 9
+countries (with more on the way). Our rider crew makes magic happen on
+the daily, delivering groceries to your door in just 10 minutes.
+
+Our DNA is rooted in a love for cycling and a desire to create change,
+and we’re proud to foster an environment where authenticity is
+celebrated and boldness is encouraged. True to our need for speed, in
+March 2021 we became Germany’s fastest-ever unicorn company with a
+$1bn valuation and €305m total funding raised. As one of Europe’s most
+talked about startups, **we are bringing true digital disruption to
+the supermarket space** and seeking talented individuals to join us in
+building something truly extraordinary.
+
+**About The Opportunity**
+
+Within our **Marketplace & Insights** team in Amsterdam, we're aiming
+to build successful eCommerce platforms for NL and BE with the best
+possible user experience for our customers. Are you passionate about
+data and do you like to solve complex puzzles? As a Data Analyst
+within this team, you will partner up with, among others, e-Commerce
+Specialists on a broad range of analytical commercial challenges
+within Gorillas, focused on **strategy (), growth (to other areas),
+and customer experience (improving app exp, click rates)**. You'll be
+part of a fast-growing company with sky-high ambitions.
+
+**In This Role You Will** 
+
+Together with your team, structure, analyse and **model data to
+translate it into insights** Look for new opportunities for **growth** and
+analyse the **impact of these initiatives** Initiate consumer research
+initiatives and derive insights from the data together with your
+colleagues Participate in projects, such as the analysis of **AB tests**
+**Visualise the data and develop dashboards** in various tools Look for
+optimisation opportunities and make recommendations to adapt existing
+data strategies
+
+**What We Expect From You**
+
+- Completed university studies in a technical, marketing analytics,
+(business) economic, or beta direction
+- 2+ years of experience in an analytical role in a commercial
+environment (preferably eCommerce and/or food retail)
+- Statistically and mathematically skilled,
+- experience with modelling & programming (preferably in SQL and/or
+Python)
+- Experience with Google Analytics or Mixpanel, Tableau or PowerBI
+Preferably
+- experience with marketing retention, and topics such as CRM / CLM
+and Customer Lifetime Value
+- Preferably knowledge of data-driven marketing and growth hacking
+strategies Strong attention to detail
+- Excellent communication skills (written, oral and presentation) in
+order to manage your stakeholders
+- Result-oriented Proven ability to work with strict deadline and
+manoeuvre through a fast-moving environment
+
+**What’s In It For You**
+
+Accelerate your career development by joining one of Europe’s
+fastest-growing startups Flexible working arrangements, plus a
+centrally located office in the heart of Amsterdam A 25% discount on
+all your Gorillas deliveries 🦍 ❤️ Free snacks and drinks in the
+office, and the opportunity to sample new products before anyone else
+Your choice of a Mac or Windows laptop, plus a tech accessory budget
+to maximize your work environment On-site, underground bike storage to
+keep your trusty two-wheeler safe Dogs in the office - bring your
+canine companion to work
+
+### preparation questions
+
+**HR**
+
+1. What is this job?
+
+	Marketing and insights team, strategy growth and customer
+    experience.
+	
+	Translating data --> insights --> actions
+	
+
+2. Why Gorillas
+
+3. Why this job?
+
+	**Job**: 
+	
+	- Ambitious and I would love to be part of it., unicorn status recently
+	- I love the idea of disruption,
+	- for far too long supermarkets have not changed or charge very
+    high prices they don't need to listen to anyone, less innovation
+    in these aspects, until gorilas picnic and flink came into the
+    picture
+	- I love data, and have been the boss in the consumer market --
+    what they say is the ting.  
+	- fast paced environment, e-commerce, can directly see impact
+    quickly and learn from it, quick feedback cycles
+	- 2020 started????
+	
+	**Gorillas**: 
+	
+	- future Huge company, international (unlike other companies have
+      reached [unicorn status](https://techcrunch.com/2021/03/25/gorillacorn/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAALfjHb9lqzxyzCwFeVhzbTP-fLINYueyTgCX-d_JTK1lOpVryOMAAmRIfPRAguz0nPExdMSQStgalghKAossDHpXrz7uzJt2YINmHoaCdOBgQWUHl3jPnjWBNiKRfIxCPbcmLU2xzZ4CuZYZ6vy-F0_M0ijWONPqEEZWaOKf4aN0), so exciting) 
+	- very ambitious
+	- I think I can have very high impact and fast imapct (think of
+      identifying new opportunities to dive in)
+	- Equal opportunities employer, meritocratic
+	- big company, can network and learn from other employees
+	- possibility to contribute in the first weeks already
+	
+	- Good match for my skills (being part of the entire process and
+      the skills I can grow in)
+	- strategy, growth, and customer experience
+	- best engineers (rich data science engineers), e.g., NLP to
+      identify fraudulent companies based on news reports.
+
+4. Why Data Analytics in e-commerce
+
+5. What do you want to do here?
+
+	- everything ranging from basic insight generation from data
+	- segmentation to identify potential markets, to move into
+	- answer tough questions
+	- data --> actionable insights
+	- experiementation --> AB testing
+	- dashboarding to allow other teams to make adhoc decisions
+	- new opportunities in growth
+
+6. What is a mistake you made in the past?
+
+	- 
+	
+
+
+7. Tell me a time when you worked under pressure
+
+	- S: determine products needed use that software using calculation
+      (it was hard, not done before). Boss is putting pressure to wrap
+      it up. But there is a lot of value if I succeed, make
+      commitments with other teams, get info 6 months earlier  
+      T: 1. learnt software, cross-checked with excel calculations
+	  A: Push back or grind a bit more under pressure,focussed on most
+	  important aspects, such as not testing every single time, but
+	  establishing framework testing it and moving on, 
+	  R: we claimed volume, we just did tests 6 months later and we
+	  are so clad we claimed volume, already made the desgin and the
+	  test was a verifiction that I had predicted the out put right
+	  
+
+8. About self? Are you a team player, are you a leader, are you a
+   learner?
+   
+9. Best qualities   
+
+	- perseverance
+	- hardworking
+	- quick learner
+	- team player (niche finding), I try to actively participate in
+      teh planning
+
+10. what is your current role
+
+	**current role?**
+
+	- Agile, 
+    - Stakeholder management
+	- Diagnostic data analysis
+	- software development
+	- project lead type of work, planning, taking control of the
+      meetings, leading the meetings
+	- keeping track of the current goals
+
+
+11. **why leaving ASML?**
+   
+   - group is conservative (latest technology)
+	 - cutting edge in physics, domain knowledege, 
+	 - not exposed to other aspects of data science
+	 - cloud, python, tableau, ML
+   - lack of transferable skills 5-10 years down the line, I wont have
+     the option to consider moving...
+   - Lack of development in analytics/science, 
+   - its' very basic and focusses mainly on domain knowledge and lack
+     of transferable skills like python, html, NLP, machine learning
+   - lot of visualization tools built already, just use them
+   - No SQL, Tableau, python, machine learning,
+
+12. **TMAY** (really short)
+   
+   - Match skills
+   - say interests
+   - such a detailed opening, so many skills clearly listed
+   - quote experience
+	 - Masters in ME quantitative (OOP, Linear Algebra, python,
+       mathematics focused)
+	 - ME job (req disc to customer support and stakeholder
+       management, statistics)
+	 - 1.5 year of bootcamps certifications, AWS certification, FASTAI
+       (Deep learning)
+	 - Projects in Machine learning, NLP, tableau, Hosted web
+       applications, webscraping behind captcha walls, segementation
+       on shiny and SQL (20-30 hrs on the side)
+	 - I also write blogs and maintain my blog, So I control the CSS
+       and HTML aspects of it.
+	 - Currently Data Analyst and SD 
+	 
+	 
+ 1. **How do you fit with skills?**
+
+	- NLP --> project on NLP (Link to app:) (takes a few seconds as it
+      is hosted on a free server)
+	- Machine Learning --> Top 10% in Kaggle competition: XGBOOST,
+      Random Forests (Link to blogpost:) 
+	- Clustering --> project on clustering and segmentation of consumer
+      data using Kmeans  
+	- Neural Networks --> Top 20% in Kaggle competition  
+	- SQL --> Stanford course and assignments
+	- Python --> always into programming, wrote open source software,  
+      scripting and data science projects
+	- API --> Webscraping using Selenium
+	- HTML CSS --> manage my own blogs and work on their CSS
+	- GIT --> Use git at work, open source software development, 
+	- Agile --> been working in an agile way for 3 years 
+	
+ 2. How does your values align with that of Gorillas?
+
+### Questions from me
+
+1. feedback about indrew? 
+
+2. Why did you select me?
+
+3. how many people are you hiring?
+
+4. More about the role? 
+
+5. next steps
+
+6. What is your ideal candidate?
+
+7. said team I am working with or pull from different departments?
+
+8. Travel?
+
+9. Work life balance
+
+
+10. what are current plans of Gorillas? more expansion? why is not
+    coming to delft?
+	
+11. How is the work culture? flexible work 
+
+
+---
+
+berlin --> live in every major city... 9 difffernt countries.. --> 
+
+- super speedy, niche (commercial operations (APP looks and feels))
+
+- everysingle data point... buying team, negotiating , listing
+  delisting, processes, when the data is accurate, descriptions... 
+  
+- pricing, revenue, competitors, forecasts, regional
+  pricing... forecasting... marketplace, specifically. 
+  
+- not be the best fit, strategic, stakeholder management, excel,
+  building reports and 
+  
+- what is your tools. excel... elements
+
+
+- looking at marketplace (correct?) commercial team as insights,
+- what is cutomer tending to buy, 
+
+tom... team lead for market place... 
+
+- tools
+
+- prodile.. analytical abilities, agile, regular change, 
+
+- example project, policies and 
+
+- what are the steps --> tom... case study 3. commercial director
+
+- exampl consultants..
+
+She paused so many times, my god! and would just stop... 
+
+
+### questions she axed
+
+- TMAY with CV!!!! (needs to be short)
+
+- What do you know about Gorillas
+
+- Why did you apply?
+
+- most of the work will be excel?
+
+- agile, different things...
+
+### question preparerent for indrew with TIM
+
+https://tompais.webflow.io/#latest-work
+
+start here...
+
 ## feedback 2021 okt application
 
 ### Randstad groep nederland web and data analyst
@@ -4424,10 +5229,26 @@ CV +ve, experience with stakeholders is what they are lookign for,
 ### Relevant online
 
 ### Go Data Driven
+
+
+https://godatadriven.com/topic/data-democratization-whitepaper/
+
+ 
+
+“We see a good fit with Thej and GDD if he develops his engineering
+skills, starting off with for example reading our whitepaper,
+developing dbt (dbt learn), watching the code breakfast of Fokko and
+Mischa (building a modern data pipeline). From there he should be able
+to expand more and pick up the right skills for an Analytics Engineer
+role at GDD.”
+
+https://godatadriven.com/blog/code-breakfast-build-a-modern-data-pipeline%E2%80%8B/
+
 ### Swift
 
 > They already found 5 candidates with atleast 2 years of experience
 > so they are going forward with them to the interview process. They
 > looked very closely at your application but the manager wanted
 > someone who has atleast 2 years of experience as a data scientist
+
 
