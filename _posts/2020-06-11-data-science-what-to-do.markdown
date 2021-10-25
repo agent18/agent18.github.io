@@ -3529,6 +3529,105 @@ interviewer: https://www.linkedin.com/in/suze-l%C3%B6bker-26450a90/
 
 
 
+### inPerson Indrew notes
+
+1. Make a Google cloud function and make it send a message to Slack
+
+2. He is very appreciative that I came this far.
+
+https://www.youtube.com/watch?v=lEQ68HhpO4g&t=621s
+
+Created a project on GCP and a billing ting on GCP.
+
+**Notes from the meeting**:
+
+- Web analytics company
+
+	- work at the gap between MarTech and IT e.g., 
+		- Writing Google cloud functions to detect Failure in
+          "pixels", and other codes added by others. Once detected do
+          an action, like send an email for example.
+		- Same for different clouds, different triggers, 		
+		
+	- Other things I could be doing
+	
+		- Devops (Build services, test, release, Monitor, plan)
+		- backend of website
+		- Setting up the Scaling, and Load balancing on cloud for companies		
+
+- Prediction 
+
+	- Freo Rabobank has a model to predict customer conversion 
+	- improve and identify which customer segment to focus on based on
+      conversion rates, Credit score etc...
+	- Make it a "product".
+	
+	- For Macieb? Using Evolutionary NN to adapt to new changes in the
+      data and serve on the cloud
+	
+- end to end work
+
+	- Get young capital data in CRAM format --> perform analysis on
+      who is most likely to be hired
+	- Also get&translate eventdriven data into insights  
+	- Set up the service or product on cloud
+
+
+- Write to wout saying this is your understand and this is what you
+  expect, and if you still think it is a match then, I want to discuss
+  things other contract related tings.
+
+## email to wout
+
+Hi Wout,
+
+From our discussion on Friday, I gather the following regarding the type
+of work I will be doing at Relevant Online. I might be wrong in some
+cases, please feel free to correct it:
+
+1. Work at the intersection of MarTech and IT e.g., writing Google
+   cloud functions to be triggered on events such as failure pixels. And
+   subsequently these cloud functions reporting via email etc.
+   
+2. Setting up Cloud platforms for clients e.g., such as and
+   notwithstanding setting up scaling, load balancing, type of
+   buckets, and servers (and maintaining them) etc.
+   
+3. Improving Prediction models of other companies, e.g., for Freo you
+   are "enhancing" the prediction model to predicts "client score" or
+   the "type of people who reliably pay loans". 
+   
+4. Delivering models from scratch, e.g., delivering Evolutionary NN
+   models so that models adapt to new data.
+   
+5. End to End Data Analytics, e.g., For Young Capital you built
+   database from eventdriven data architecture (PUB/SUB) and combined
+   it with YC data stored in CRAM format. You made analysis on who is
+   more likely to be hired based on that. This way you started at the
+   beginning at data collection, made a model and professionalized it
+   on a cloud platform.
+
+
+Things I would like to gain experience in are: 
+
+1. Going from data --> insights --> actions (or improving decision making)
+
+2. Answering questions using data
+
+3. Building models
+
+4. Using Dashboarding, cloud platforms, Python, SQL as tools in
+   realizing the above.
+
+5. Translating Client's business needs into solutions
+
+Overall, I think there is a good match. Let me know what you think.
+
+
+   
+
+
+
 ## PostNl
 
 ### role
@@ -4734,52 +4833,147 @@ applying cutting edge)
 
 ### preparing for 1st indrew (2)
 
+**Indrew with**
+
+https://www.linkedin.com/in/sander-smits/ very similar background,
+worked on computational solid mechanics, went into industry and then
+consulting and now manager.
+
+https://www.linkedin.com/in/nousjka-de-lange-54362780/ econometrics
+masters to consulting
+
+
+**Ask Karan**
+
+- are there odd hours to work? 
+
+- look at data and PWC work
+
+- people centric
+
+- amazon kaadugal
+
 **intro q's**
 
-1. Why this job? **
+1. Why data analytics? **
+   
+	- I love working with data analyst
+		- 20-30hrs  a week for the last 2-3 years
+	- data is the future, companies are becoming more and more data
+      driven, I want to be part of it and grow in this industry.
+	  
+	- high impact opportunity
+	- good match for my goals and future
+	- good match for skills, matlab, sql, python R tableau
 
 2. Why consulting? **
 
 	- customer facing
-	- 
+	- fast paced
+	- exposure to wide variety of fields (retail, e-commerce, supply
+      chain, HR analytics)
+	- great growth opportunities
 
 3. Why PWC?
-
-	- networking
+   
+   - fore front
+	- huge international 
+		- stable job
+		- many opportunities world wide
+		- networking
+		- training
+		- salary
+		- high bar 
 	- values match
+		- act with integrity
+		- make a difference (working with clients and improving
+          something is really rewarding)
+		- care 
+			- people 
+				- recognizing contributions
+				- when your sick supporting you
+				- development centric (networking, learning
+				opportunities, etc.)
+				- karma
+		- re-imagine the possible and work together
+		- work together
 	- talked to karan pappala
+		- 3 months in, he is really pleased with the company
+		- if you are working long enough, you can ask to switch
+		- Network 
 	- work life balance
-	- are there odd hours to work?
+	
+	- projects you work on: customer wants to verify something, and
+      you set up tools to do it (reading text to compare with data in
+      the source), end to end
+	  - validating models made by others (car company using metrics)
+	  - strategy validation (number of people prediction for growth)
+        estimating the effects
+	  - projects: aiding doctors based on data to predict what is the
+        best treatment (???)
+	  - fraud detection (clustering, anamoly detection)
+
 
 4. Why is this important to you?
 
 5. What do you want to learn here?**
 
-	- better at communication, networking
-	- data --> insights --> actions, visulizations
-	- working with big data and associated platforms
-	- advanced analytics including Machine Learning, statistics, 
-
-6. What would you like to work on?**
-
-	- end to end pipleing big data, platforms, anlytics, getting
-	actionable insights from data. 
-	
-	- fields: retail (Supermarket, clothing stores), e-commerce
-      (amazon, ebay, flink), supply chain, fintech, Hr analytics,
-      prescriptive, and predictive analytics
+	- Softskills: Leadership, communication, networking
+	- industries: retail (Supermarket, clothing stores), e-commerce
+      (amazon, ebay, flink), supply chain, Hr analytics, prescriptive,
+      and predictive analytics, finance, consumer analytics.
+	- Analytics: 
+		- Forecasting
+		- data --> insights --> actions, visualizations
+		- working big data and associated platforms
+		- machine learning statistics
+		- end to end product devlopment with DE's
 
 
-7. What is your motivation?
+6. What is your motivation? (as above)
 
-8. TMAY ** short versie (who you are, why PWC, why role)
+7. TMAY ** short versie (who you are, why PWC, why role)
 
+	- ME --> Data analyst
+	- Data Calling while doing a statics assignment in ASML
+	- since then I am working Data Analyst on the side 20-30 hours,
+      portfolio of projects, courses (NLP, Segmentation, machine
+      lerning, Tableau, SQL).
+	- Data Analyst, SD, and PL related work for the team
 	- talk about also, things like organizing events
-	- running,
+	- running, Effective altruism, 
+	- social, chairman, organized events for Lead.
+	
+8. What do you do PL?
 
-9. Which purpose values apply to you?
+- report to PO
 
-10. What are your learning's about self?
+- keep track of progress (escalate if things are not on track)
+
+- work on planning
+
+- request resources
+
+- run team meetings, set the agenda
+
+- I have to make sure to deliver...
+
+- planning
+
+9. What do you do SD?
+
+	OOP, GIT, Architect to implement features (COR, Decorators), 
+
+10. What do you do Data Analyst?
+
+
+11. What are your learning's about self?
+
+- hardworking, 
+- There are moments of despair, but that I can persevere
+- I like responsibility
+- I thrive in situations that make me uncomfortable
+- quick learner
 
 **CV**
 
@@ -4796,6 +4990,9 @@ applying cutting edge)
 **ASML**
 
 1. Why leaving current job?
+
+	- cutting edge lack of
+	- conservative
 
 2. What are you doing in your current job?
 
@@ -4846,18 +5043,133 @@ applying cutting edge)
 1. Tell me about a time when you did a programming assignment, Data
    analysis assignment
    
-   Kaggle, SD work, 
+   - Kaggle 
+	 - **Situation**: Gain Machine Learning experience
+	 - **Task**: Classify --> 1. fraud transactions 2. features are
+       name less
+	   
+	 - **Action**: Data cleaning (reducing features), understanding
+       features (time of day), feature engineering, Adverserial
+       validation, k-fold cross validation, Memory managment etc...,
+       understanding if the error is due to out of domain or
+	   
+	 - **Result**:  Top 10% solution Slowly and steadily. 95% AUC
+       score, 3000 word blog post
+	   
+	- Segmentation
+	 - **Situation**: Learn about clustering 
+	 - **Task**: Cluster and Segment the data based on characteristics
+	 - **Action**: 
+		 - Data cleaning (pivoting, currency differences,
+		 dealing with NANs (look at the indicators)), 
+		 - Scaling and Log transform, write kmeans with plotting of
+		 Silouette score over PCA
+		 - look at the data
+	 - **Result**: Segemented data into 3 where there is clear
+       indication that one set of data is from rich countries, higher
+       spending, higher salaries, higher buying power, lower population
+	 
+	-  Covid -19 Dashboard
+	 - **Situation**: Learn about Tableau
+	 - **Task**: Make a dashboard on covid data comparing countries
+	 - **Action**: 
+		 - Use metrics such as Cases per 100 tests,
+		 - Vaccinations per 1m people
+		 - Map
+		 - bar charts 
+	 - **Result**:
+		 - very surprised to see UK doing quite well than Netherlands
+           despite common notion that UK was not doing good.
+	   
+	- Data Analyst at ASML
+		 - **Situation**: ASML makes Machines and customers have access
+           to teams for troubleshooting and help
+		 - **Task**: Identify source of error
+		 - **Action**: Request certain type of data --> breakdowns -->
+           fingerprints --> domain expert --> look in data for certain
+           patterns
+		 - **Result**: identified error within 1 week from the time of
+           receiving data
+	
+	- Statistics assignment
+	
+		 - **Situation**: 
+		 - **Task**: Quantify the uncertainty in position through flow 
+		 - **Action**: 
+			 - Make test plan, identify sample size required,
+			 - Measurement error (3spread +- 95%CI) : half of budget but continue
+			 - Repro error (3spread +- 95%CI) : 50% more 
+			 - redo measurment, redesign, continue perhaps everuthing
+               was going to be ok. (don't have manpower).
+			 - 90% chance that it will be ok, 10% rerun it => 99% in 2
+               runs at max.
+		 - **Result**: Saved 6 months of redesign effort, maybe
+           measurement error was too much. 
+	
+	
+2. Tell me about a time when you had a **conflict** to resolve
 
-2. Tell me about a time when you had a conflict to resolve
+ 	 - **Situation**: work in a team, different people
+	 - **Task**: discussing technical aspects, he was explaining something
+	 - **Action**:
+	 - **Result**:
 
-3. Tell me about a time when you had a disagreement
+3. Tell me about a time when you had a **disagreement**
+
+	 - **Situation**: Working on a project for 2 months and the end
+       result was that the hardware suddenly stopped working.
+	 - **Task**:
+	 - **Action**: did research, pulled up all the options (price, mw,
+       lead time, probability of working), called in
+       a meeting with the whole team, tradeoff table
+	 - **Result**: disagreement resolved
 
 4. how do you work in a team (niche, and learn from seniors and
    contribute to planning)
    
-5. Tell me about a time when you did stakeholder management
+5. Tell me about a time when you did **stakeholder** management
+	
+	- Stake holder management
+
+   Time... discussed with
+   Getting time from all the people was hard... Use teams, sometimes
+   planning, no need for escalation.
+   
+   1. I identified and extended the scope of the assignement as it was
+      not going to work. 
+	  
+   2. I identified who the stakeholders are Thermal, different design teams,
+      recipes people, 
+   
+   3. Analysed their individual contributions and went back and forth
+      to realize a minimal value along with another partner. 
+
+
+	- S: ASML does 20 + machines
+	- T: budgetting of the important requirement for entire machine
+	- A: 1. Identified and extended the scope the project
+	- 2. negotiate and discuss with the rest 20+ other stakeholders
+      (designers, team leads) to understand their contributions
+	- 3. propose alternate solutions when the budget is not met.
+	- R: -appreciated and ended up meeting the budget. 
+
 
 6. tell me about a time hwen you handled a stressful situation
+
+	- S: Design --> Simulate --> Boss puts pressure to wrap up topic 
+	- A:
+	- 1. Push back but he doesn't budge	
+	- Priorities, Reached out for help on a software, cross-validated
+      only a few times when I made big changes to the system, obtained
+      insights and proposed solution
+	- Reaching out for help
+	- took some extra time to deal with the pressure
+	- R: 
+
+	- push back
+	- prioritizee
+	- take some time
+	- reach out for help
 
 7. tell me about leading experience
 
@@ -4879,9 +5191,158 @@ applying cutting edge)
 
 6. Travel? 
 
+7. Effect covid has had on client relationships?
+
+8. What advice would you give me to expand professional and personal
+   network
+   
+9. Why did you move to consulting
+
+
+---
+
+### indrew notes
+
+**like and dislike** --> working cross-competence, training... , project,
+connections, wanna do... social (activeities organized (chritsmas))
+
+dislike --> higher levels **political**.. doesn't always feel free., once
+a year promotion...
+
+like --> opportunities that are given , different types of projects,
+clients, challenge, new initiatives
+
+dislike? Client is not as far as like you (certain tech) analytics
+tool.. everything new for client, insurance --> simple regression
+model (interpretability)
+
+highpressure?
+
+Noujka --> ams --> tennis
+
+Sander --> computational mechanics, PWC, banking, data remidiation
+projects, current risk modelling (P(defaults, exposure defaults))
+
+**Structure**
+
+PWC
+- accounting firm, 
+- advisory (split-up) --> consulting, deals (mergers), strategy,
+  consulting (short projects)
+- tax legal
+
+consulting --> finance (banks insurance, pension funds), public sector
+-->covt
+- SIPS (Consumer industry product) --> commercial
+--> Competences, analyitics, tech, leadership, risk,  (other way to
+intuition)
+
+--> Data Analyst --> associate, Senior associate (overall Data Analyst
+skills, consulting skills), industry more important but beginning you
+are free from having to make choices. Data Analyst team, across teams, Traininings, 
+
+--> Team 55 people Data Analyst
+
+**Work ex of indrewers**
+
+--> Brief (logistics) in america dashboarding, business units  help
+dash boards (not often that you are placed)
+
+--> Heineikken --> financial sytem old to new 0--> clearning of data
+
+	--> Built a tool, matching invoices (one invoice to )
+	
+	--> tools team 5 people, competences finance, 
+	client access to data bases, VMs
+	
+--> Laptop from the client ()
+
+current risk modelling (defaults client) --> loss ? tools? data model
+from all systems togehter, MSE... clustering (self colleateral -->
+building)
+
+tools and skills? identifying fraud, thesis supervising,--> fraud
+cases, 
+
+AUC, business point of view... --> fraud detection --> 
+
+False positive. 
+
+False negative --> negative is not fraud (your predicting wrong)
+
+xgboost,
+
+why Machine Learning... 
+
+conservative...
+
+- 
+
+- team player here... hard problems,
+
+- PWC powerpoints
+
+- pwc powerpoints -->  (cutting edge.. )
+
+- fraud detection (evryday.. consulting firm.. external view) not
+  cutting edge
+  
+- processing, smarter way..  information insights, predictive
+
+- next steps (tuesday --> business case
+
+- industry.. 
+
+### questions asked
+
+1. TMAY
+
+2. What is False Positive and False negative from a business context?
+   (I sucked at answering this)
+
+3. What does the confusion matrix mean? for fraud detection
+
+4. What sort of team player are you? I said I seek out my niche, 
+
+5. follow up? What if there are two people like you? I am sure I can
+   work together, 
+   
+6. What motivates you in a job?
+
+7. Why are you leaving ASML?
+
+	- It's not cutting edge and conservative with tech and lack of
+      transferable skills
+	  
+	- Even in PWC we are not doing cutting edge stuff everyday
+	
+	- We have to use Powerpoint everyday what will you do then?
+	
+8. Have you any experience with interpretting data? 
+   - I tried saying I had to do it in some context with fraud
+     detection with giving an example about time and date.
+	 
+9. What industry preference ? commerical --> finance --> Govt. but
+   open to others.
+   
+10. What do you do in PL? I said, look at road map made by someone
+    else, Keep track of milstones, answer to higher up, and adjust
+    planning, nad escalate if we need more people, but also consider
+    users that are working now and get their feedback and improve
+    things based on users prio.
+	
+	They were like it seems reactive, Why? I said yes it seems so, as
+    perhaps the user also fucked up. We work agile, we make a product
+    and give it to customer and then they give feedback (also a way of
+    work).
+
+
+I feel like I want to clarify that I am not trying to act like I am
+aiming for a higher position. I am happy to get a start and start at
+the bottom and climb my way from there. 
 ## Gorillas
 
-2500 people, berlin headquarters
+2500 people, Berlin headquarters
 
 ### job description
 
@@ -5174,12 +5635,12 @@ tom... team lead for market place...
 
 - what are the steps --> tom... case study 3. commercial director
 
-- exampl consultants..
+- example consultants..
 
 She paused so many times, my god! and would just stop... 
 
 
-### questions she axed
+### questions she axed(interview 0 with HR)
 
 - TMAY with CV!!!! (needs to be short)
 
@@ -5191,11 +5652,509 @@ She paused so many times, my god! and would just stop...
 
 - agile, different things...
 
-### question preparerent for indrew with TIM
+### question prepareren for indrew with TIM (interview 1)
 
 https://tompais.webflow.io/#latest-work
 
-start here...
+https://web.archive.org/web/20211019173346/https://apply.workable.com/gorillas/j/DC3760CE91/
+
+**Meeting Lizzie and Tim**
+
+1. Why gorillas motivation?
+
+	- ambitious growth towards 2000 people or more in less than 2
+      years, unicorn status, I would love to be part of such growth.
+	- disruption, far too long the big chains have not really
+      progressed in improving customer experience (even today it)
+	- we need dramatic examples to shake them out of apathy and that
+        is Gorillas. Massive growth in less than 1 year
+		
+	- fast paced, learn a lot, have high impact
+		
+2. What is the job?
+
+	- Marketing and insights team 
+	- Setting regional pricing for different products, revenue,
+	competitors, forecasts, regional
+	- forecasting of 
+	- making the UX better by looking at the data
+	- dashboarding, SQL, pricing... forecasting... marketplace, specifically.
+
+3. What do you want to do?
+
+	- order forecasts
+	- capacity forecasting, new products data-driven design and roll-outs
+	- pricing setting based on data
+	- growth area opportunities research segmentation
+	- answering open questions like "how to get new customers?
+      ad-campaigns results, promotions results, other interventions
+      previously considered results", "are customers leaving", "what
+      is driving revenue"?
+	- experimentation AB testing
+	- dash-boarding
+	
+	- data --> insights --> actions --> feedback
+	- dashboards to gain insights
+	- segmentation search for growth opportunities
+	- building end-to-end solutions in combination with DE
+	- AB testing
+	- Machine Learning to aid in forecasting, 
+
+4. TMAY
+
+	- ME (math based) turned Data Analyst and SD and Project Leader
+      (overview of things to be done, answering to Product owner,
+      running the meetings, understanding resources needed, planning)
+	- 2-3 years 20-30 years on the side developing skills
+	- python, tableau, SQL, Machine Learning
+	- projects in python, segmentation, webscraping, kaggle, NLP,
+      deploying apps etc...
+
+	- ME --> Data analyst
+	- Data Calling while doing a statistics assignment in ASML
+	- since then I am working Data Analyst on the side 20-30 hours,
+      portfolio of projects, courses. (Machine Learning, NLP,
+      deploying R Shiny apps, segmentation , webscraping, NLP, SQL,
+      Tableau)
+	- Data Analyst, SD, and PL related work for the team
+	
+	- talk about also, things like organizing events
+	- running, Effective altruism, 
+	- social, chairman, organized events for Lead.
+	
+5. Current job
+
+	- project leaderishh (answerable to product owners on progress,
+      meeting planning, leading meetings)
+	- 
+
+### Questions to tim (interview 1)
+
+1. What is the team? like? DE, Data Analyst?
+
+2. What is a venture manager?
+
+3. An example of a projects happening now (or what I could potentially
+   be taking up)
+   
+4. how is consulting data analytics department structured? 
+
+5. What does the future have in store? What is the growth direction?
+   automation?
+   
+6. What tools are you using?
+
+7. What are the goals for this year?
+   
+8. one thing you like and dislike about PWC?
+
+9. A project you worked on?
+
+10. Travel? 
+
+---
+
+### indrew notes
+
+**What time focusses on**
+
+Only Tom, --> new years, 4 peoplw, amsterdam 3000 empoyees.. 
+
+Market place and revenue growth, revenue streams, customer insght,
+pricing promotions, VC and Startups.
+
+transferable? 
+
+what skills are you looking for?
+
+**About Job**
+
+- job? --> supportng countries local organizations to strategises plan
+  and execute, gloabl team (lean), BI and DATA (dashboards in
+  tableau), benelux raw data and dashboards, actions, strategy... 
+  
+  Wider commercial , supply chain (buyin procurement, assortemtn, ),
+  market place and revenue growth --> app (should be data driven don't
+  use enough data), structures are not inplace.. 
+  
+  Price --> scrape prices, strategic questiosn,  (decrease
+  demand)... (strategic), crunchingthe numbers, defining the action
+  points.
+  
+  Dashboards are not in place, data stream is unstructured, tool...
+  Cross-selling (suggestions B,C,D) --> improve it.... how do we do
+  it... 
+  
+  --> A--> BCD (high rate) --> Variables (history, history category,
+  frequency, similar (price range, products), )
+  
+  you have hit the main baskets
+  
+  -->  dataset of all orders (what products are combined most often)
+  
+  --> 100000 (1-week) -->  dataset
+  
+  --> Category (names --> ) --> Categories, price range,
+  
+  --> Category --> what other category they are going to go for ,
+  categories, price range
+  
+  --> beer might not be interested to buy other beers.
+  
+  --> fresh foods, banana, why banana...
+
+---
+
+software 
+
+**About job**
+
+Data anlytics DE, back end --> streams dashboards -->
+interpretation... excel is a tool in these cases,  update , pricing
+external tools,  SAAS solutions,
+
+**Lead initiatives** around setting up structures, recommendation
+engine, products on a global level, local adaptation,
+
+Automate lead, bottlenecks, young
+
+one thing you like (no one will stop you, )
+
+hope there are people to support? (make or break product
+functionalities)
+
+Admin... 55 to 60k  
+
+**Final reaction**
+
+I will let you know by the end of next week. That's a sign of reject :(
+
+### Questions asked Tim (interview 1)
+
+1. TMAY
+
+2. Why Gorillas
+
+3. How does your skills fit here? (stakeholder managment, leadership)
+
+4. How will you go about predicting what the next product suggestion
+   should be? (my answer: Variables (history, history category,
+   frequency, similar (price range, products)), (his answer:
+   categories might not be a good idea or there are other ideas, as
+   people usually go behind one type of beer and suggesting them other
+   beers is useless). 
+   
+5. What if for everyone banana is suggested? (it could be the last
+   option), (his answer: bananas everyone probably buy it, so no use)
+   
+6. salary? (55-60 he said is possible) (Uno reverse).
+
+
+## Bol.com
+
+interview with recruiter alone on Teath, for the role Data Analyst Optimal Checkout Experience
+
+https://www.linkedin.com/in/geertjandroge/
+
+### job description
+
+**how do you make** our customers happy?  Together with some **47,000
+partners**, bol.com is changing retail to make the daily lives of 13
+million customers easier. This results in an **enormous amount of
+orders and customer-partner interactions**. Plus a diamond mine of
+data. Think of **shopping behavior data**. But also data about the way in
+which customers pay. What **patterns do we see in our checkout**? What
+choices do customers make? And how do those insights help to provide
+customers with more personal and more relevant checkout options? As a
+Data Analyst Checkout Experience you provide insights that 'feed'
+(experiments with) innovations. Concentrate for a seamless customer
+journey with **happy customers and high conversion**.
+
+**What you do**
+as a Data Analyst Optimal Checkout Experience
+- You identify new, **data-related opportunities** within a container of
+  structured and unstructured data: Big Query is (or will be) your
+  best friend
+- You facilitate the team with **data insights** (analysis, **reports**,
+  **dashboards**)
+- You **present insights powerfully and understandably**, so that the
+  team is inspired to get started and make the right choices
+- You stimulate **hypothesis-driven work** and data-driven prioritization
+  among colleagues
+- You **influence the product roadmap** based on your insights: where can
+  we go, why do we want that, and in which phases?
+- You are our in-house guru when it comes to (daily) data analytics
+  questions
+- You prioritize opportunities for improvement that you – together
+  with Business Analysts, Data Scientists and Engineers – translate
+  into concrete and manageable actions, epics and stories
+
+Bol.com is big. The number of data opportunities is enormous. We are
+literally an oversized candy store for data-hungry professionals. 😉
+But 'a lot of data' not only brings opportunities, but also
+challenges, because not all insights are created equal. It is
+therefore important to gain relevant insights and to share them with
+data users in a meaningful and understandable way. Translated to the
+Checkout domain, this means that you zoom in on questions such as 'how
+do you combine order data with customer behavior at the shopping cart
+stage? and 'how do we increase the relevance of our delivery and
+payment options during the checkout process?' The role requires
+data-analytical skills (if you use Excel as be all, end alltool, you
+will be disappointed with us), plus the talent for convincingly
+presenting complex insights and communicating in a manageable
+way. Insights are valuable. Actions more valuable. You help your 10
+colleagues in 1001 ways to make data-driven choices, so that they do
+not innovate based on gut feelings, but work on projects that
+demonstrably add customer value.
+
+**Why you can make a difference**  
+Because you are a hungry data tiger. Someone who looks at the world
+with an analytical eye and spots patterns where others suspect white
+noise. You can quickly identify and understand stumbling blocks and
+opportunities. And gets energy from that. You like a fluid working
+environment and like to interact with changing stakeholders. You also
+enjoy formulating hypotheses and proving or disproving them
+iteratively. To maximize your impact, it is important that you think
+and work **independently**. You **experience and claim ownership and you
+dare to influence the roadmap** based on your analyzes and insights,
+even if that means that you have to challenge colleagues at some
+point.
+
+**What you are**  
+- Well, if you work at HBO/WO level and have experience with test &
+  learn environments
+- Well, if you like to work in a team, show ambition and take the lead
+  based on your knowledge
+- Well, if you consider analytical tools like Tableau, Big Query and
+  PowerPoint as your second home: if you can't run a query in it, it's
+  not a tool ;-)
+  
+**What you are not**  
+- Not, if you have a 'ask you, we run' attitude #own-initiative-is-grossly-overrated
+- Not, if you consider customer behavior and feedback as side effects
+- Not if you find it difficult to deal with continuously shifting priorities
+
+### Questions to prepare
+
+1. Explain the job to me?
+   
+   - Generate insights, drive roadmaps, look at relevant data
+   - Make dashboards, reports presentation
+   
+   - Data Analyst Optimal Checkout Experience
+   - shopping behavior data, checkout data, try to optimize customer
+     experience such as: offering additional products, the right
+     addresses, discounts, delivery options, payment options
+	 
+   - 'how do you combine order data with customer behavior at the
+   shopping cart stage? and 'how do we increase the relevance of our
+   delivery and payment options during the checkout process?
+	 
+   - https://www.bolt.com/blog/checkout-page/
+   
+   - https://www.optimizesmart.com/how-to-use-checkout-behavior-analysis-report-in-google-analytics/
+
+2. Values: Passionate, together, trust, sincerity, grounded.
+
+3. Why Bol.com Why this job? Why Motivation?
+
+	- Why data
+		
+		- I love working with data analyst
+		- 20-30hrs  a week for the last 2-3 years
+		- data is the future, companies are becoming more and more data
+		driven, I want to be part of it and grow in this industry.
+	  
+	    - high impact opportunity
+	    - good match for my goals and future
+	    - good match for skills, matlab, sql, python R tableau
+	
+	- Why this particular analytics job
+	
+		- Shopping cart abandonment rate is ver high (50-74%),
+          investigating what works is very  challenging and that's one
+          of the reasons this interests me.
+		  
+		- potential impact on sales
+		
+		- looking at data like, user type, comparative prices from
+          other websites, browser data, time spent on different
+          segments in the data to checking if the reason is website
+          errors, data collection issue, browser compatibility issue
+	
+	- Why Bol.com
+	
+		- Largest e-commerce giant in NETHERLANDS and Belgium
+		- >3m products
+		- lot of data, 
+		- lot of analytics possibilities
+		- fast paced 
+		- growth centric, due to good systems in place (delphy and Mr.Watson)
+		- good name
+		
+		- network and learn
+
+4. Experience with big Query?
+
+	- data warehouse
+	- No, But I have used GCP in other contexts to run VMs, to use
+      their Google Cloud functions and also am an AWS certified
+	  
+	- Linux, python, programming, fixing my computer etc... 
+	- along with ~150 hours of SQL learning and re-learning
+	
+	- quick learner (internship, new tasks at work, different types of
+      calculations, continuous feedback from all my bosses)
+	
+5. Do you like working with ppt?
+
+6. What do you want to learn here?
+
+	- Softskills: Leadership, communication, networking
+
+	- Analytics: 
+		- Forecasting
+		- data --> insights --> actions, visualizations
+		- Answer questions that the team has using data
+		- working big data and associated platforms
+		- Product development, using advanced statistics in improving
+          understanding of the data.
+		- end to end product devlopment with DE's
+
+7. TMAY?
+
+	- ME --> Data analyst
+	- Data Calling while doing a statics assignment in ASML
+	- since then I am working Data Analyst on the side 20-30 hours,
+      portfolio of projects, courses (NLP, Segmentation, machine
+      lerning, Tableau, SQL).
+	- Data Analyst, SD, and PL related work for the team
+	- talk about also, things like organizing events
+	- running, Effective altruism, 
+	- social, chairman, organized events for Lead.
+
+8. why leaving ASML
+
+	- Conservative (in adopting new tech)
+	- Looking to grow in e-commerce and work on aforementioned skills
+	- I find it much more exciting, I have been in semiconductors and
+      I want to change fields.
+
+9. How does the skills match?
+
+
+10. Strengths
+
+	- quick learner (internship, new tasks at work, different types of
+      calculations, continuous feedback from all my bosses)
+	
+	- Capable of rising up to the situation (leadership)
+	- love a good challenge, even if it is very hard, I know I will
+      despair, but I know I will also get over it
+	- persevere, hardworking, team player 
+	  
+	  
+    
+ 1. Weaknesses
+ 
+	 - presenting keeping in mind other people's background
+	 - stress about a situation, anxious, but I use it to fuel my
+       work.
+	 -   
+	
+**Tell me a time type questions**
+
+1. Tell me about a time when you had a **conflict** to resolve
+
+ 	 - **Situation**: work in a team, different people
+	 - **Task**: discussing technical aspects, he was explaining something
+	 - **Action**:
+	 - **Result**:
+
+2. Tell me about a time when you had a **disagreement**
+
+	 - **Situation**: Working on a project for 2 months and the end
+       result was that the hardware suddenly stopped working.
+	 - **Task**:
+	 - **Action**: did research, pulled up all the options (price, mw,
+       lead time, probability of working), called in
+       a meeting with the whole team, tradeoff table
+	 - **Result**: disagreement resolved
+
+3. How do you work in a team?
+
+	- develop my niche so that we can be mutually beneficial
+	- mentor the juniors
+	- learn from the seniors
+	- always keen on receiving feedback on how I work
+
+4. Tell me about a time when you did **stakeholder** management
+	
+	- Stake holder management
+
+   Time... discussed with
+   Getting time from all the people was hard... Use teams, sometimes
+   planning, no need for escalation.
+   
+   1. I identified and extended the scope of the assignement as it was
+      not going to work. 
+	  
+   2. I identified who the stakeholders are Thermal, different design teams,
+      recipes people, 
+   
+   3. Analysed their individual contributions and went back and forth
+      to realize a minimal value along with another partner. 
+
+
+	- S: ASML does 20 + machines
+	- T: budgetting of the important requirement for entire machine
+	- A: 1. Identified and extended the scope the project
+	- 2. negotiate and discuss with the rest 20+ other stakeholders
+      (designers, team leads) to understand their contributions
+	- 3. propose alternate solutions when the budget is not met.
+	- R: -appreciated and ended up meeting the budget. 
+
+5. tell me about a time hwen you handled a **stressful situation**
+
+	- S: Design --> Simulate --> Boss puts pressure to wrap up topic 
+	- A:
+	- 1. Push back but he doesn't budge	
+	- Priorities, Reached out for help on a software, cross-validated
+      only a few times when I made big changes to the system, obtained
+      insights and proposed solution
+	- Reaching out for help
+	- took some extra time to deal with the pressure
+	- R: 
+
+	- push back
+	- prioritizee
+	- take some time
+	- reach out for help
+	
+6. Leadership what do you do?
+
+	- Lead meetings, set agenda, hear grievances of users
+	- focus on roadmap, inform in higher up meetings about risk, and
+      other aspects
+	- Discuss with users what features
+	
+### Questions to ask
+
+1. An example of a projects happening now (or what I could potentially
+   be taking up)
+   
+2. What is the team composition like?
+
+3. More about the process?
+   
+3. How is the Analytics dept structured? 
+
+4. one thing you like and dislike about bol?
+
+5. A project you worked on?
+
+7. Effect covid has had on work?
+
 
 ## feedback 2021 okt application
 
@@ -5252,3 +6211,91 @@ https://godatadriven.com/blog/code-breakfast-build-a-modern-data-pipeline%E2%80%
 > someone who has atleast 2 years of experience as a data scientist
 
 
+
+### PWC
+
+1. Often answer contradicting 
+
+	e.g., Cutting edge is why I am leaving ASML and then flipped it to
+    meet their answer when they said they rarely do cutting edge
+    everyday
+2. Explanation of Fals Negative and False Positive was basic in a
+   business context
+   
+   Basic question
+   
+3. Too many years experience but no leading so far. Apparently he knows
+   people who lead or are independent from day one. they want to treat
+   me like senior associate. :(
+   
+   I should have probably stressed on how I did independent tasks
+   
+	
+4. What can you do from now?
+
+	1. don't try big 4
+	2. try smaller consulting firms
+	3. work in ASML, proactive, lead tools, show that lead you can
+       lead, after 3 years I rarely do coding, I know what is needed
+       and just lead
+
+5. I told him I am ready to start from the bottom (but apprently that
+   wont work for them, they tried)
+   
+6. Undersell your Data Science experience, currently you have 0
+   business experience
+   
+7. Kaggle is not Data Science experience
+
+	   
+## abn amsterdam
+
+asmterdam --> TEAMS --> 
+
+what is this job?
+
+Secondment --> contract then abn amro 2nd year. 
+
+gamble --> 4500 euros
+## discussion with body okt 24
+
+1. Struggling with what is good exp?
+
+	- Machine Learning (prediction)
+	- Data building dashboards, good 
+	- insights, 
+	- better decisions
+	- data -> insights --> add value
+	- questions to answer
+
+2. Plans for future to came to US
+
+3. current status
+
+	- ing maybe
+	- PWC (interpretability oombu, start from scrath oombu, business
+      context explanation oombu, 5 years exp, expect you to work on
+      your own) but can try other consults
+	- relavant online 
+		- (end to end work starting from writing lambda
+      functions on GCP) --> trial month poss
+		- companies they do that (but I would also need to learn
+          Google Analytics etc...)
+	- bol.com 
+	- Ikea ramba tough (lack of vacanvies)
+	- ASML 
+		- Really unsure what type of work is coming
+		- currently I am PL, + SD mainly, Data Analyst solrathuku
+          ethuvum illa!
+		  
+	- Gorillas (interpretability of data, how will you deal with excel
+      of data pochu)
+	- postnl (no experience)
+
+- false negatives --> business
+- True negative --> financial damages
+
+
+- I want to pwc work across multiple domains, 
+
+- Why diverse 
