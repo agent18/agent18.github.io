@@ -2,53 +2,54 @@
 #+TAGS: work(w)  DP(d) break(b) meta(m) DS(s) blog(g) other(o) reading(r) NATW(n) apping(a)
 #+TODO: TODO(t) TOMO(M) DOING(g) DONE(d)
 
-* for the indrews todag
-** sql important
-** explain forest decision trees, xgboost
-** app to last set of companies
-** prep for gorillas
-** prep for ing
-** DOING prep for pwc (setup questions and answers)
-** DOING make notes of gdd indrew questions and rejection feedback
-** find companies to apply for (consultancies, roos links and linkedin)
-** https://startup.jobs/data-analyst-gorillasapp-2222710
-** write to people
-*** write to Lau for feedback
-*** write to the other guy form adyen
-*** write to guys from exact
-** call ing and ask for feedback
-
-* This weekend
-** write notes on PWC and RO
+* Soon
 ** Write about doing a masters
 *** what do I need for it? Let's make a todo list?
 *** questions I need to answer
 *** Should I still apply? 
 *** how to test the claims brother made?
+** work on assignment from Ikea generate insights?
+* Application
+** huxley call apprently it is a recruitment agency
 ** find out consult companies and apply
 *** find other companies and apply
 *** find other startups!
-** Work related matter
-*** Understand overview (pull features from notes and ppt)
-*** create a backlog for discussion
-*** prepare for wednesday meeting
-*** plan a meeting with Yasri on Tuesday
-** work on assignment from Ikea generate insights?
-** DOING prepare bol.com 
+** Apply to companies applied before
+** Apply to many vacancies within a company
+** ec-mmerce amazon, bol coolblue etc.
+** banks rabobank, ing, abn
+** IT services 
+** find companies to apply for (consultancies, roos links and linkedin)
+** write to people
+*** write to the other guy form adyen
+*** write to guys from exact
+* Today
+** sleep with regularization
+** do deductive practice
+** 
+* Now
+** plan for optiver, ing, aurelis life
+** optiver
+*** DOING prepare deductive
+*** prepare inductive
+*** prepare numerical
+** Ing
+*** DOING need knowledge of XGBoost and random forests
+*** Need to SQL star mark q's and inserting SQL into
+*** plan what to tell him on sunday
+*** portfolio
+** Aurelis life 
+*** HR indrew prepareren tomorrow
+** bol.com
+*** yet to get booked
 
-* Monday
-** Try calling aurelius
-** call and thank Norbert :) 
-** Thank Nuisjke
-** huxley call apprently it is a recruitment agency
-* now 
+
+* Later
 ** Other consultancy vacancies and indeed.
 ** post on software tech to ask for some help
 ** DOING find more companies from Roos's lingusamys (10 proper vacancies)
-** redo stanford assignments
 ** do one thing on the ikea assignment after the discussion with body
 ** think about 2week and 6 months plan, the questions that I need to answer (1hr)
-** Fix linkedin (make it Data Science oriented)
 * Other
 ** reach out to https://www.linkedin.com/in/andreumora/ and others at adyen
 ** reach out to https://www.linkedin.com/in/quirijn-meulenberg-475a3892/ at adyen

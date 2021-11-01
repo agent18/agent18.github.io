@@ -292,3 +292,11 @@ Hope this helps.
 first hit instead...
 
 - tags are things like div, h1, article etc...
+
+
+    > id is used to uniquely identify an HTML element. Ideally, an id should only identify one (and only one) HTML element across your entire document.
+	>
+    > class is (mostly) used to specify what CSS class(es) an element
+    > should have.
+    >
+    > name is (mostly) used to identify elements in a form.
