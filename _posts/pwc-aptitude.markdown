@@ -118,7 +118,7 @@ possible answers.
    - ball in place of arrow
    - **1st inner figure is the 2nd inner figure in the next pic**
    - **envelope filling hourglass** (**when things appear RANDOM**)
-   - **Clock face arrow as number of sides**
+/   - **Clock face arrow as number of sides**
    
 3. **Only one item moves and the rest move around it**
    - signal for this is that you see one item stay in the sam place
@@ -311,6 +311,15 @@ logical. However **1,2,3,2,1** is easier and "more logical"
 https://fdocuments.in/document/shl-inductive-reasoning.html
 
 
+https://www.youtube.com/watch?v=X2AYypzTBLU Downloaded and in drive
+
+https://www.youtube.com/watch?v=TRrtcQDqxKE Downloaded and in drive
+
+https://www.youtube.com/watch?v=o7818gU25FU&list=PLmbqai_yUVRO3RkbTYKuwerzGWwmkp4b-&index=4
+
+https://www.youtube.com/watch?v=XIGIHPiMqwE&list=PLmbqai_yUVRO3RkbTYKuwerzGWwmkp4b-&index=2
+
+Downloaded and in drive
 
 **q1 fd**
 
@@ -328,7 +337,7 @@ Start with counting
 
 - 1,1,2,3,3 movement schema
 
-
+Questions in github imagess shl!
 
 ## Num reasoning
 
@@ -412,7 +421,7 @@ means that 150,000 equals 100% (1) and that is now equal to 90% (0.9).
 
 What is the biggest percentage increase?
 
-*Look for the highest increase and then look for percentage increase.*
+**Look for the highest increase and then look for percentage increase.**
 
 
 **Base Rate over many years**
@@ -581,3 +590,136 @@ was ok. Last I left 3-4 questions...
 Very doubtful that I am going to get ahead. :( It's ok, we move on.
 
 But i did, 3/5 for ded and ind and then 4/5 for num reasoning. 
+## HR organizer test for bol.com
+
+> Well done, we’re moving forward to the next step and one step closer
+> to joining us at bol.com. Hereby, we invite you to complete the
+> assessment from our partner HRorganizer.
+>
+> Before you start: • Please check:
+> https://www.hrorganizer.com/candidate-preparation-assessment. This
+> page shows information and videos to prepare for the assessment; •
+> We advise you to take the test at a quiet time when you are least
+> likely to be disturbed.
+>
+> The test consists of: • Personality questionnaire: This test is to
+> determine your (personal) preferences. The questionnaire consists of
+> various statements. The questionnaire does not have a time limit,
+> however we advise you to choose the answers you identify with the
+> most. Go with your first instinct rather than thinking too hard.
+>
+> • Ability test: The online ability test consists of various
+> components. You are given an explanation prior to each part and you
+> answer sample questions to practice. Once you have completed the
+> explanation and the sample questions, you can start answering the
+> real questions for that part. The aim is to give as much as possible
+> correct answers within the available time. As we also take a look at
+> the way questions are being answered, we advise you not to guess if
+> you really do not know the answer. Try to find a balance between
+> answering quick and giving good answers.
+>
+> When you complete all the components, you are given the possibility
+> to retake only one component. Please note that the best result
+> counts.
+>
+> If you have any questions, feel free to contact me directly.
+
+https://www.hrorganizer.com/en/candidate-preparation-assessment
+
+### HR organizer
+
+
+**Verbal**
+
+Locate relevant info.
+
+- 49 tasks 12 minutes
+
+You will receive instructions along with some 3 practice tasks
+
+- 6 sets of info
+
+
+**What about clicking all exams**
+
+
+**Inductive logical thinking**
+
+https://www.youtube.com/watch?v=C1hs6cuJLNs
+
+- **figures**
+
+- 12 mins 12 tasks
+
+- 2 practice tests
+
+
+**Deductive logic**
+
+https://www.youtube.com/watch?v=c6WijxlpJlM
+
+Rules and patterns to apply 
+
+- 6 minutes as quickly and accurately as possible
+
+- 1 practice test
+
+- Crossword shapes
+
+- 4x4 and 5x5 
+
+- green correct and red not
+
+**Numerical reasoning test**
+
+https://www.youtube.com/watch?v=DeS7Hnyhcx8
+
+- 37 tasks, 12 minutes, 3 practice items
+
+- Similar to verbal
+
+- Many sheets and 3 options per question
+
+**Scoring**
+
+> How is the Online Assessment evaluated?  In the case of ability
+> tests, **points are usually allocated to each correct answer and
+> points deducted for every incorrect answer**. At the end of the
+> test, the points are calculated to give the final score.
+
+**timing number of days**
+
+> How much time do I need to complete an Online Assessment?  
+> Usually, you will have several days to complete all the tests, and
+> you can do the various tests on different days. However, it is
+> important to check the deadline given in your invitation email or
+> letter.
+
+**God bless this soul**
+
+
+Deductive --> 
+
+https://www.youtube.com/watch?v=GB9yv4Ke_Ck
+
+https://www.youtube.com/watch?v=2q5Otn7245w
+
+https://www.youtube.com/watch?v=0XHm2eFiGGk
+
+https://www.youtube.com/watch?v=HF1KyR5ouHQ
+
+inductive --> 
+
+https://www.youtube.com/watch?v=OMo_CRxXn1Q
+
+Numerical? -->
+
+https://www.youtube.com/watch?v=F4zSzSZgZqA
+
+https://www.youtube.com/watch?v=ljpk3_ed8i8
+
+**Do the following?**
+
+
+check if I can do the tests alone?
+

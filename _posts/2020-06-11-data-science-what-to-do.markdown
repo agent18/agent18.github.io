@@ -4653,7 +4653,10 @@ CV +ve, experience with stakeholders is what they are lookign for,
 
 **What don't I know**
 
-- how to work with no sql vs sql, how does the data look. What is schema?
+- how to work with no sql vs sql, how does the data look. What is
+  schema?
+  
+- know about decorators python
 
 **Indrew with**
 https://www.linkedin.com/in/ehsan-mehdad-phd-27a98528/ Ehsan Mehdad is
@@ -4700,7 +4703,7 @@ a periya thalai in this field.
 		- python sql, tableau, machine learning statistics
 		- end to end product devlopment with DE's
 		
-3. Why data analytics? **
+3. Why data analytics?
    
 	- I love working with data analyst
 		- 20-30hrs  a week for the last 2-3 years
@@ -4775,7 +4778,7 @@ https://hbr.org/2018/11/better-people-analytics
 	- Python --> always into programming, wrote open source software,  
       scripting and data science projects
 	- API --> Webscraping using Selenium
-	- HTML (id, name, class tags) CSS --> manage my own blogs and work on their CSS
+	- HTML (id, name, class, tags) CSS --> manage my own blogs and work on their CSS
 	- GIT --> Use git at work, open source software development, 
 	- Agile --> been working in an agile way for 3 years 
 	
@@ -5046,12 +5049,137 @@ https://hbr.org/2018/11/better-people-analytics
 
 5. A project you worked on?
 
-7. Effect covid has had on client relationships?
+6. Effect covid has had on client relationships?
 
-8. What advice would you give me to expand professional and personal
+7. What advice would you give me to expand professional and personal
    network
    
-9. Why did you move to consulting and then come back?
+8. Why did you move to consulting and then come back?
+
+
+### notes and questions
+
+He is from uterect. One part  of the job is to do the technical
+aspects but the other part is to manage stakeholders, convince people
+about your idea. There is lot of freedom, you have to drive yourself.
+
+What they work on needs to be salable otherwise there is no point of
+it. so it they don't have access to actual data, then they should
+anatomize. **He said I was spot on about that**.
+
+I also told him randomly about survey design put my nose in those
+aspects. **He thinks I can learn things, thats no issue** and that I
+am driving myself well.
+   
+follow ups: next round 1.5 hr tech nical portfolio or code you built and created, ), Python sql, 
+
+solve a case together, scoping it, finding your way through it.. team lead, team fit
+
+feedback suggest, bring it to your journey? how to apply your
+knowledge,
+
+
+1. Why HR analytics?
+
+	I said all data is amazing, then I told about google as a
+    validation, and some type of questions that he should buy.
+
+
+2. Are you able to handle that the job is a lot of stakeholder
+   management, independence, lack of what you are going to do
+   tomorrow, more about you driving the process.
+   
+    > One part of the job is to do the technical aspects but the other
+    > 	part is to manage stakeholders, convince people about your
+    > 	idea. There is lot of freedom, you have to drive yourself.
+	
+3. The tech stack is as follows, what is your exp with it?
+
+	technology stack, python, sql, on prem, windows service, front end
+    powerbi, HTML, flask, ipc ing private cloud, container linux
+    trying to launch.
+
+4. You worked in a big company, what do you think are our potential
+   issues in working?
+   
+   data not being available (strick privacy even for meta data
+   apparently), pipelines not being formed, and thats when he started
+   saying about stakeholders, and ideas not being bought.
+   
+5. What is your experience with NoSql, 
+
+	I told me I need to dive into it
+	
+	He also acknowledged that it is not going to be easy to find
+    someone who knows everything they are working on.
+	
+	
+6. Do you know about OOP, decorators Classes Methods (revise this
+   before next indrew).
+   
+7. I also told him randomly about survey design put my nose in those
+   aspects. He thinks I can learn things, thats no issue and that I am
+   driving myself well.
+
+**Questions to them**
+
+1. Example of CL team and WFA team.
+
+CL --> main tool surveys about different topics, diversity,
+organization and health, opinion of ING data, dashboard, pdf, text
+data sentiment analysis, transalational model,
+
+WFA --> ING employess, how much, where to do? space do have, gap
+analysis, scenario analysis, ING might work force to this amount,
+attrition rate, retraining, What they do are the following:
+
+1. Exploration, 
+2. descriptive, 
+3. predictive (working on it now), knobs what are they, scenraio
+
+Where ML? prescriptive, simulation optimization, prodictive, thesis,
+reinforcement learning, similation optimization...  what if,
+reinforcement, different knobs to optimize for, wherein you simulate
+and optimize for. They are looking into **Reinforcement learning**
+
+
+1. How do you use NLP? --> sentiment analysis, transalation, topic
+   modeling, and prescriptive and from the text of the workers.
+
+2. What sort of data are you working on? email? data from HR
+   evaluations, (answered in another way). email meta data is somehow
+   hard to get.
+   
+3. What are things in your vision that you are unable to do but could
+   be a huge addition to the system?
+ 
+4. How long is this department on ?
+
+5. An example of a projects happening now (CL and WF team)
+   
+6. how is  data analytics department structured? what are the
+   different clusters
+ 
+7. one thing you like and dislike about ing?
+
+- great employer (covid)
+- quality and std of work (I like curlture for ing)
+- challaenge, transition to a digital bank (massive giant --> old scool, data-driven_, I would like to see how it works thats why he cam int...
+
+8. A project you worked on?
+
+9. Effect covid has had on client relationships?
+
+10. What advice would you give me to expand professional and personal
+   network
+   
+11. Why did you move to consulting and then come back?
+
+follow ups: next round 1.5 hr tech nical portfolio or code you built and created, ), Python sql, 
+
+solve a case together, scoping it, finding your way through it.. team lead, team fit
+
+feedback suggest, bring it to your journey? how to apply your knowledge, 
 
 
 ## PWC
@@ -6309,19 +6437,27 @@ interview with recruiter alone on Teath, for the role Data Analyst Optimal Check
 
 https://www.linkedin.com/in/geertjandroge/
 
+[link to job](https://www.google.com/url?q=http://web.archive.org/web/20211017191102/https://banen.bol.com/vacature/data-analyst-optimal-checkout-experience/&sa=D&source=editors&ust=1636442128870000&usg=AOvVaw34eaQaD8lP-Nj_TDeVhTj3)
+
+https://www.linkedin.com/in/sander-van-andel-35623ab1/ (business analyst)
+
+Nina Motzheim linkedin as well (people lead)
+
 ### job description
+
+http://web.archive.org/web/20211017191102/https://banen.bol.com/vacature/data-analyst-optimal-checkout-experience/
 
 **how do you make** our customers happy?  Together with some **47,000
 partners**, bol.com is changing retail to make the daily lives of 13
 million customers easier. This results in an **enormous amount of
 orders and customer-partner interactions**. Plus a diamond mine of
-data. Think of **shopping behavior data**. But also data about the way in
-which customers pay. What **patterns do we see in our checkout**? What
-choices do customers make? And how do those insights help to provide
-customers with more personal and more relevant checkout options? As a
-Data Analyst Checkout Experience you provide insights that 'feed'
-(experiments with) innovations. Concentrate for a seamless customer
-journey with **happy customers and high conversion**.
+data. Think of **shopping behavior data**. But also data about the way
+in which customers pay. What **patterns do we see in our checkout**?
+What choices do customers make? And how do those insights help to
+provide customers with more personal and more relevant checkout
+options? As a Data Analyst Checkout Experience you provide insights
+that 'feed' (experiments with) innovations. Concentrate for a seamless
+customer journey with **happy customers and high conversion**.
 
 **What you do**
 as a Data Analyst Optimal Checkout Experience
@@ -6428,12 +6564,12 @@ point.
           investigating what works is very  challenging and that's one
           of the reasons this interests me.
 		  
-		- potential impact on sales
-		
-		- looking at data like, user type, comparative prices from
-          other websites, browser data, time spent on different
-          segments in the data to checking if the reason is website
-          errors, data collection issue, browser compatibility issue
+		- potential impact on sales, influencing the road map,
+          possibility to take the lead
+		  
+		- exploring vague questions on 
+		- data to insights to actions
+		- FREEDOM + autonomy + responsibility
 	
 	- Why Bol.com
 	
@@ -6466,13 +6602,17 @@ point.
 	- Softskills: Leadership, communication, networking
 
 	- Analytics: 
-		- Forecasting
+		- insight generation
+		- root cause on deep dive into an issue
+		- Answer vague questions
+		- AB testing
 		- data --> insights --> actions, visualizations
 		- Answer questions that the team has using data
 		- working big data and associated platforms
-		- Product development, using advanced statistics in improving
-          understanding of the data.
-		- end to end product devlopment with DE's
+		- ~~Product development, using advanced statistics in improving
+          understanding of the data.~~
+		- ~~end to end product devlopment with DE's~~
+		- Forecasting
 
 7. TMAY?
 
@@ -6488,15 +6628,32 @@ point.
 
 8. why leaving ASML
 
-	- Conservative (in adopting new tech)
+	- ~~Conservative (in adopting new tech)~~
 	- Looking to grow in e-commerce and work on aforementioned skills
 	- I find it much more exciting, I have been in semiconductors and
       I want to change fields.
 
 9. How does the skills match?
 
+	- I am capable to work on my own to pick up the tasks
+	- can work with shifting priorities
+	- SQL, BigQuery and ppt life!
+	- high impact job
+	- influence the roadmap
+	- little to no instruction, am workby myself, I pick up tasks on
+      my own volition.
+	  
+10. question on Customer insights, how to answer
 
-10. Strengths
+	- cart --> final review --> transaction
+	- additional charges, which type of user, categories, user
+      segments, markets, time spent on each aspect, what is the
+      baseline, are they re-trying it, payment particularly?,browser
+	- then hypothesis, errors, lack of payment options, feedback from
+      customers, additional costs?, particular Program Manager
+	- solutions --> chat button  
+
+11. Strengths
 
 	- quick learner (internship, new tasks at work, different types of
       calculations, continuous feedback from all my bosses)
@@ -6516,6 +6673,21 @@ point.
 	 -   
 	
 **Tell me a time type questions**
+
+1. Tell me about a time when you were under **pressure**
+   
+   I do my best work when I am under pressure.
+	- **Situation**: promoted and people left
+	- **Task**: Make users and management happy
+	- **Action**: 
+		- time management, 
+		- re-prioritizing based on who needs what and when,
+	    - being clear about what could be out of scope
+		- invite people to code
+	- 
+	
+
+1. Tell me about a time when you used data to convince people
 
 1. Tell me about a time when you had a **conflict** to resolve
 
@@ -6649,6 +6821,549 @@ HM--> Nina .--> eline will contact (tomorrow) to make appt
 	
 	
 	
+### 1st real indrew questions asked
+
+Had 1st indrew with Nina Motzhem and sander van andel. Very nice
+smiling people. 
+
+I think I was giving long answers. 
+
+1. Are you the kind of person they need? (she basically gave me the
+   answer and asked me if I was like that)?
+   
+2. What do you like and dislike about ASML?
+
+	I said, I didn't sign up for 6 months of physics but I had to do
+    it, it's not really in analytics like I want it.
+	
+	on the other hand lot of responsibility's.
+
+3. How did you convince your stakeholders with data (same question
+   asked by vinted).
+   
+   I said I dont' have such an example, but 
+   
+4. how did mange all your work, I read your cover letter
+
+	I stopped believing in cooking, optimized life, reduced
+    interactions as much as possible.
+	
+5. Is feedback important to you? 
+
+	That's the part the defines the growth, the becoming of next level
+    happens there.
+	
+6. What sort of person are you? what will your colleagues say?
+
+	I told 
+
+### notes from first real indrew
+
+**Nina about**
+
+Nina 7 years, dealing wiht chnages, 700 people she started --> 2000
+--> worked within marketting, royalty, customer base, relationship,
+journeys, customer exoerience, data --> , june ,,,, seom one who is
+managing vision, people lead, not data specialist.
+
+harlam, 3 kids, uterect, leiden tennis 1 a week
+
+**Sander about**
+
+Sander, 28 5 years at bol --> BA, suppliers to warehouse (scoring)
+data man, innovate, automate those processes , supplier service team
+goods to bol.com, june --> BA tableau big query SQL.
+
+amsvort, pregnant,, footbal,  expecting babies in bit! :|
+
+Worked in traffic
+
+Manipulation in SQL and then data studio or dashboarding (up to you
+how you use it.)
+
+He worked on what sort of commissions he should change for the
+partners, who is impacted highly, loose sales, they have lot of
+historic data and he used it to predict.
+
+**What do they want in analyst**
+
+self-starter, no seniors, if you want feedback network yourself,
+
+There is freedom, responsibility, you have one PO and a BA to work
+with.
+
+1. Experiments
+2. Exploratory Data Analyst, insights. PO might not really have
+   concrete things for you to do
+3. responsibility + autonomy + freedom
+
+**Type of tings analysts do**
+
+Sander worked on what sort of commissions he should change for the
+partners, who is impacted highly, loose sales, they have lot of
+historic data and he used it to predict. followed tableau.
+
+
+1. Vague questions answer
+
+2. Customer behavior in checkout? one day later delivery categories to display
+
+3. What do we see in error messaging? Where is the issue? Impact on
+   conversion?
+   
+4. How is the basket being used?
+
+**Bol.com**
+
+Started 20 years back with books and dvds just like amazon
+
+Team Marketting and insights
+
+Usually a product team consists of PO, BA, IT.
+
+In my context there is: Basket, Checkout product, order confirmation segments
+
+> product --> PO, BA, IT
+
+> checkout --> 3 sub products --> basket + website + backend (UX,
+> Product owner (customer needs), analysts. --> data analyst is
+> missing... analytics of that department
+
+**My questions**
+
+1. how to learn, will I get feedback, 
+
+   You have to go and get your own, people are nice to help!
+
+
+### feedback after 1st indrew
+
+**when I asked during indrew**
+
+1. came very well prepared, question
+2. listeing and giving back 
+3. enthusiastic (relaxed thej)
+
+Negatives: Dont' over sell yourself (be yourself and be confindent)
+
+**Call from Geert-jan**
+
+1. No case study (never really happens)
+
+2. Very positive, final indrew + capacity test
+
+3. 90mins indrew one for 60 mins (what type of person are you), how
+   flusterd you get when there is stress,
+   
+HR organizer: assessment 1 to 1.5 hrs.
+5 different test 
+1. Personality
+2. Verbal reasoning (main from side)
+3. Number (compelx tables or graphs)
+4. Inductive
+5. Deductive
+
+End you will score... Redo one part which is scored least on... It
+takes best score.
+
+### plan for second indrew
+
+- statistis
+- how will handle pressure type questions (important)
+- vinted what else I could do
+- how to talk to PO?
+- read about optimal customer checkout (important)
+- do mallu questions
+- do vinted questions and understand what body said
+- what sort of questions will they ask? how to know more about the
+  optimal checkout experience ? check glassdoor
+
+
+7. optimizing for growth or engagement
+
+
+### questions online glassdoor
+
+- Who are you? - Do you ever have the urge to know everything about
+  something? - Can you walk us through your resume? - How do you deal
+  with different departments that all want something from you? - What
+  do you do when a senior asks if you can do something for him/her
+  when you are actually too busy (Do you dare to say no) - How is your
+  perseverance? - What are your thoughts on the growing e-commerce
+  market in China?
+  
+is it growing, wechat --> everything in one place, privacy and govt
+control
+
+
+  
+- How do you deal with conflicts or conflicts of interest? Name a
+  project that you are really proud of that shows your experience with
+  business analysis. Why bol.com and not coolblue?
+  
+- When you get a data set, what do you do first? What is your target,
+  What is your hypothesis
+
+
+### indrew prep with mals second indrew
+
+Date/Time: Nov 15, 2021 1:00pm-2:00pm CET
+Interviewers: Rick-Robbert Bergsma, Jasper Broer
+
+https://www.linkedin.com/in/rrbergsma/
+
+Another product owner, Designing the (future) basket, checkout and
+order confirmation experience.
+
+Business Analyst and Lead UX for the '21 checkout. in bol.com etc.
+
+https://www.linkedin.com/in/jbroer/
+
+Seems like business guy, not really a product guy major (bach and
+masters) in business and minor in econ.
+
+Product Owner | Design Thinking | Customer Experience
+
+**About the job**
+
+1. what patterns do we see in our checkout?
+2. What choices do customers make?
+3. Get Seamless customer journey with happy customers and high
+   conversion
+4.  You **influence the product roadmap** based on your insights:
+  where can we go, why do we want that, and in which phases?
+
+**About the job From discussions**
+
+1. What sort of commissions to change for partners, what are the
+   influences on it?
+2. How is the basket being used?
+3. Where is the issue?
+4. What is the impact on conversion
+5. What is the customer behavior like in checkout?
+6. What sort of delivery categories to display?
+
+I need to self start on this job, what sort of questions can I ask the
+POs?
+
+
+**Dashboard**
+
+What will you do?
+
+1. 3 steps moving from one step to another (2 metrics)
+
+2. average revenue per user
+
+3. payment modules? 
+
+4. % of people using different
+
+5. % perc of people 2 days delivery
+
+6. coversion rate --> started, to complete
+
+7. type of users segments (guest account) filters, mobile, guest vs
+   mobile
+   
+   demography, region
+   
+   by payment method
+   
+   by vasket size vs conversion rate
+   
+   avg order size vs avg order value scatter plot
+   
+8. error rate? invalid card 
+
+9. times are not working for you? 
+
+10. steps completed in a page 
+
+11. did something change
+
+**Questions from Mals**
+
+1. monitor health
+
+2. 95% checkout completion rate reduced why? last week
+
+3. feature on checkout additional step to texts about order?
+Monitor the effectiveness of this feature
+
+4. strategy: 1 click checkout on item page, is this an effective
+   strateg or not... 
+
+5. how to improve?
+
+
+- impression and interaction, clcik c
+
+
+**Setting commission increase for partners**
+
+- Metric: profit with and without increase
+
+- will it passively impact of negatively impact
+
+- Say we are increasing the price by 5% what all could be the
+  hypothesis
+  
+  does it negatively affect us?
+  - any historic data on change?
+  - number of sales reduces
+  - sales revenue reduces
+  - price increases per partner before and after
+	- partner number of sales
+  - number of listings per partner reduces
+  - number of partners decreases
+	- outcry from partners (past experiences)
+  - plot linear regression for ?? between what and what
+  - Partners also increase price of listing
+	- sales goes down because other websites
+
+**What patterns do we see in checkout, how is the basket being used**
+
+**What metrics are they interested in?**
+	
+**impact on conversion**
+
+
+### **monitor health through dashboard**
+
+**Talk to POs**
+
+Questions, talking, what is their goal or vision for the product
+
+Ask them to explain more.
+
+checkout completion rate, how many new customers ahve come
+
+
+**Make a dashboard**
+
+1. Track the funnel from the Basket, checkout to order confirmation
+
+2. Average order value, and average order size
+
+3. Stage of checkout abandonment's based on how far they are in
+   checkout, (address check, delivery check for different products,
+   error in payment)
+   
+   - using steps tracking or section traction
+	 - using impressions and interactions
+   
+4. other types of errors, crashes: 404, performance issues ?
+
+5. Access to change log on the site workings, what is happning by POs
+   
+6. filters based on user type
+   - mobile vs tab vs computer
+   - bot detection, Attacks?
+   - browser type
+   - guest vs account holder vs cookie tracked person
+   - how user comes to product selection (customer segmentation filter)
+	 - organic search
+	 - paid search
+	 - social media
+	 - referral
+	 - mobile
+	 - pc
+	 - email
+	 - age, share of wallet
+   - by payment method
+   - order size segments
+   - order value segments
+
+**growth**
+
+1. one checkout
+2. conversion rate
+
+**engagemetn**
+
+1. share this prodcut, holiday gift giude
+
+2. sms module, are people interested.
+
+
+
+
+### **95% checkout completion rate reduced why**
+
+**Checkout completion rate**
+
+- People at thank you page per number of people at checkout page
+
+**Is it really a problem**
+
+- plot it against time
+- could it be a seasonal drop? eyeball it
+
+- one day or gradualyy? usual fluctuations, 
+
+**What could have happened**
+
+
+
+**Where is the anamoly from (check granularity)**
+
+- plot website issues, crashes?
+- plot % of people over time
+  - going to end of checkout
+  - going to address
+  - going to each product deliver
+	- check if it is by partner or not
+  - going to payment information
+	- type of payment method
+  - clicking back to cart
+  - clicking on bol.com
+  - conditions
+  - gift card things?
+
+- mobile vs tablet vs pc/laptop
+- type of delivery
+- product categories
+- average order size and value segments
+- guest vs account
+- how user comes to product selection
+- by payment method
+
+
+**What happened in the anamoly**
+
+- hypothesis (stops at address)
+	- unable to modify address
+	- are there any errors?
+	- did something change in the webpage
+- stops after complete order
+	- plot by payment type/method
+	- see if you have other information from the affiliates
+	- was it a particular time
+	- Did our site crash? or did partner site crash?
+		- check if it is the same for all payment methods
+- You stop at delivery of products
+	- larger shipping times than the rest of products (>1 week)
+	- Lack of options for delivery
+		- partner or bol.com delivery?
+	- errors crashes
+		- did something change in the webpage?
+		- plot the type of errors?
+	- reviews recent check
+
+
+**Other hypothesis**
+
+- numerator and denominator  (wrong), massive influx promo
+
+- markets, user demographic, categories (basket composition), is it
+  for a particular set of prime or select 
+  
+- other features, protection plan subscription
+
+- new features,  
+
+- data issue (check data), pull 2 tables 
+
+
+
+
+
+### **Additional step to accept texts about an order**
+
+**What is the effectiveness of this feature**
+
+**Metric**: 
+
+1. **Manage negative effects** % of people who completed payment w.r.t
+people at checkout,
+
+2. **Do people even want it** number of people who actually click yes
+vs number of users who don't,
+
+3. Checkout to thank you page should be same as checkout to text page
+   (barring issues with payment) for the test group
+
+4. total errors due to the feature and the control
+
+**Random sampling and assignment of users based on recent months**
+
+**Power of test**
+
+figure out margin of error with business context and then calculate n
+
+for margin of error calculate
+
+**Running tests**
+
+Run initially with 10% of the users and see how the ting is working,
+look mainly for errors.
+
+**When to accept it or keep it?**
+
+90% --> keep it
+
+50% 50% --> also keep it 
+
+10% also keep it, perhaps in a less intrusive way.
+
+Why laugh it in the first place
+
+**feedback**
+
+pause --> think of them as peers
+
+spend time on understanding feature, where? spend time 
+
+
+### **1 click checkout on item page, is an effective strategy**
+
+**Metric**
+
+1. adoption rate across price segments,  number of people who click it of all order conversions
+
+2. conversion rate, avg revenue per user, error rates
+
+**Pros**
+
+Easier for people who shop
+
+**cons**
+
+can make many false orders and cancellations, see if this stabilizes
+over time?
+might take up real estate
+
+
+### **Understanding pricing for partners**
+
+**Plan**: pricing that varies with seller sale rate
+
+**Evaluate strategy**
+
+**Plan**: pricing increase by 5%
+
+**Evaluate strategy**
+
+- 
+
+
+
+
+	
+## discussion iwth POs
+
+questions, talking 
+
+understand what they are talking for
+
+checkout completion rate, how many new customers ahve come
+
+what exactly and why?, goals for product? ask about product, 
+
+explain more ... 
+
+
 ## Aurelius Life
 
 ### Job description
@@ -6759,8 +7474,542 @@ Comfortable working with remote teams in diverse time zones
 
 ### notes
 
-## feedback 2021 okt application
+## Ordina
 
+new team, rabobank, risk, product created, implemented
+
+RISHUTE --> MONITORS Transactions anmoly detection... AML analysis,
+Machine Learning,
+
+High performance team, BA, Data engineer, Implementation consultant...
+
+put you at your client... Financial data, strucutre useful... 
+
+## Vinted
+### position
+
+https://web.archive.org/web/20211029115534/https://jobs.lever.co/vinted/d91a9463-aeea-481d-975e-74a3aa253ad5
+
+
+https://www.linkedin.com/in/floris-van-der-gronden/
+
+**interviewer:** 
+
+Vinted is Europe’s biggest pre-loved fashion marketplace, with 45
+million members in 15 countries. We want to make second-hand the first
+choice worldwide.
+
+A team of over 800 people from Vinted’s offices in Vilnius, Berlin,
+Prague, Amsterdam, and Utrecht develop and support our platform. We
+share a unique work culture that’s based on aiming high, taking
+ownership, co-creating, caring, and growth.
+
+Vinted is committed to building an inclusive workplace where people
+from all walks of life feel a sense of belonging. We welcome
+applications from all suitably qualified persons regardless of their
+race, colour, national origin, citizenship, sex, gender identity,
+sexual orientation, religion/beliefs, disability or age. We truly
+believe when we can be fully ourselves, we work better.
+
+As our new Data Analyst in the Data Science & Analytics department,
+you’ll help Vinted achieve its mission of making second hand first
+choice worldwide. By solving complex problems you’ll improve the
+Vinted product and facilitate data driven decision making.
+
+**In this position, you will:**  
+- Be your partners’ primary point of contact to provide answers to
+**(strategic) business questions**
+- Ensure these questions are answered in optimal fashion (e.g. in the
+form of an ad hoc deep-dive, experiment, dashboard, or automatically
+recurring analysis)  
+Collaborate with your team and stakeholders to identify opportunities  
+Analyse identified opportunities to understand their scope and impact
+(i.e. size opportunities)  
+Select important KPIs for the team, track and forecast their performance over time
+Enable stakeholders to independently leverage data for business
+insights via self-serving and dashboarding tools (Looker)  
+
+**About you:**  
+
+3+ years experience working full-time as a Business Strategist, Data Analyst or Data Scientist
+Highly results-oriented and comfortable with iterative processes  
+A good communicator who can present complex topics clearly and persuasively to different audiences
+Excellent written and spoken English  
+Strong interpersonal skills  
+A degree in statistics, physics, econometrics, economics, business or
+a similar field  
+Statistical proficiency (e.g. A/B testing, regression analysis)  
+Proficient in SQL and experience with dashboarding tools (e.g. Looker,
+Tableau, etc.)  
+
+Advantage: Programming experience (Python/Scala/R) and experience with Machine Learning techniques
+Advantage: experience working in a tech company or in a cross-functional product development team
+
+### interview prep questions
+
+1. What is the job about?
+
+	- strategy --> reaching more customers, markets to expand to,
+      understanding why customers not converting and what we can do
+      about it.
+	
+2. What do you want to learn here?
+
+	- Softskills: Leadership, communication, networking
+	- Analytics: 
+		- predictive prescriptive and descriptive
+		- data --> insights --> actions, visualizations
+		- working big data and associated platforms
+		- answering vague questions
+		- python sql, tableau, machine learning statistics
+		- drive progress etc.
+		
+3. Why Analytics?
+
+	- I love working with data analyst
+		- 20-30hrs  a week for the last 2-3 years
+	- data is the future, companies are becoming more and more data
+      driven, I want to be part of it and grow in this industry.
+	  
+	- high impact opportunity
+	- good match for my goals and future
+	- good match for skills, matlab, sql, python R tableau
+	
+4. Why Vinted Analytics (strategic questions)
+
+	focussed on stakeholders
+	skills machinelearning
+	high impact questions
+	
+5. Why Vinted
+	
+	- e-commerce (online marketplace) very large e-commerce (ton of
+      challenges in making it grow understanding the data, and a lot
+      of data) --> control over products (marketplace)
+	- I know Floris, and others and you are welcoming to "lateral
+      entries"
+	  - STRATEGY SIDE --> high impact
+	- sustainability is close to my heart and am ready to work harder
+	- I think there will be a ton of challenges to make it grow and I
+      hope to add value through analytics
+	  - very progressive (90 days anywhere)
+	  - 10% budget for learning
+	  - 500-700 in one year
+	  
+
+new feature --> verified seller batch, success, sell through rate,
+negeative,
+
+sell through rate --> control and test, how to create groups, people
+and listings... 
+
+1. About vinted
+
+	- largest e-commerce platform with 45mil users for 2nd hand
+      products
+	- sells all types of tings
+	- competitors have little mileage
+	- Vinted has offices in Utrecht, Berlin, Prague and Vilnius. We
+      serve 15 markets from these cities: the Netherlands, Belgium,
+      Germany, Great Britain, France, Spain, Italy, Luxembourg,
+      Austria, Poland, Czech Republic, Lithuania, Portugal, Canada and
+      the United States.
+	  - gowring quickly?
+
+	
+2. TMAY ** short versie (who you are, why PWC, why role)
+
+	- ME --> Data analyst
+	- Data Calling while doing a statics assignment in ASML
+	- since then I am working Data Analyst on the side 20-30 hours,
+      portfolio of projects, courses (NLP, Segmentation, machine
+      lerning, Tableau, SQL).
+	- Data Analyst, SD, and PL related work for the team
+	- talk about also, things like organizing events
+	- running, Effective altruism, 
+	- social, chairman, organized events for Lead.
+
+
+
+online companies, Data Analyst, 15 people, Data Science and anlytics
+Water kite surfind sports
+
+vinted --> shipping, 5%, France 40million users, 2nd hard first world
+wide, grow, scale, double each year, US, and canada... Data Science
+and Analytics, analytics engineer (data access), decision scientists
+(Data Analyst, decisions), business questions, Data Scientist,
+predictive modles endign in production. 
+
+80 --> 25 to 80 --> product teams (couple engineers, design, PM, DA),
+one part of the app. Trust domain (scammed, spam)
+
+- ams 2 special ops teams (most product in berlin and lithuania), -->
+  markpet place level intelligence, buyer retention, other team -->
+  technical side of things , analytics more efficient (8 billion
+  evernts per day),
+  
+cloud
+
+prep on things TMAAT questions and technical stuff like fals negatives
+and false positives, and regression and 
+
+
+1. Why leaving ASML?
+
+	- move out of semi con
+	- move into a more data driven company
+	- go into e-commerce
+
+
+
+### Questions to them?
+
+- expansion to other markets?
+
+	- moving other markets, strategy dept, marketplace, which market
+      to move to next, 
+	  
+	- how do you we compare performance in a country is good? (within
+      his team)
+	
+	- 
+
+- What sort of AB testing do you do?
+
+1. What strategic questions? do you need me to answer
+
+2. An example of a projects happening now (or what I could potentially
+   be taking up)
+   
+3. how is  data analytics department structured? what are the
+   different clusters
+ 
+4. one thing you like and dislike about ing?
+
+5. A project you worked on?
+
+6. Effect covid has had on client relationships?
+
+7. What advice would you give me to expand professional and personal
+   network
+   
+8. Why did you move to consulting and then come back?
+
+
+
+### indrew actual questions
+
+1. What do you want to do here?
+
+	Right answer is both commercial (strategy answers) and also
+    product type work (i.e., improving some part of the app, example
+    trust).
+
+2. Why Vinted
+
+3. Told about himself and then asked about me
+
+4. We are making a new feature --> verified seller batch, how do you
+   measure the success of it (sell through rate), can it have a
+   negative impact?
+   
+5. Say you want to measure this verify this, how will you do it?
+
+6. When you split it will you randomize them by their people or the
+   listings
+   
+   is there any bias, there shouldn't be both should be ok. control
+   and other
+
+7. Tell me about a time whne you managed stakeholders using data.
+
+### Notes on indrew
+
+**Him**
+
+29 ams, vinted, team lead special ops (internal consultancy team,
+improving analytics dept as an organization), warehouses, scaling,
+strategic (sales why, customers why? ), DE, analtytics and
+interpretation
+
+**Other**
+
+I told him that I really fucked up the answer. and he said it was not
+that bad that I got randomness and I was seeking clarification etc...
+
+**About Vinted**
+
+vinted --> shipping, 5%, France 40million users, 2nd hard first world
+wide, grow, scale, double each year, US, and canada... Data Science
+and Analytics team consists of analytics engineer (data access),
+decision scientists (Data Analyst, decisions), business questions,
+Data Scientist who predictive modles endign in production.
+
+80 --> 25 to 80 (last year growth) --> product teams (couple
+engineers, design, PM, DA), one part of the app e.g., Trust domain
+(scammed, spam).
+
+This year another 50 people to be added.
+
+- In ams there are 2 special ops teams (most product in berlin and
+  lithuania), --> markpet place level intelligence, buyer retention,
+  other team --> technical side of things , analytics more efficient
+  (8 billion evernts per day), engineering aspects 
+  
+  also answering questions like how do you we compare performance in a
+  country is good? (within his team), doing AB testing.
+  
+  
+**Process**
+
+Rest of the app process --> homework Case 3-4 hrs (home), analysis,
+final stage (tryout at office 6 hours), business case with them as
+well... 
+
+IC2 somewhere between 3500 - 4500
+
+feedback... -->  tomorrow feedback
+
+**Feedback**
+
+https://netflixtechblog.com/what-is-an-a-b-test-b08cc1b57962
+
+
+
+
+
+### Homework assignment at Vinted
+
+Welcome to this Vinted Homework task! The goal of this assignment is to evaluate your skills
+required for a Data Analyst position. Before we start, let’s discuss some ground rules for this
+assignment:
+● This task should take **max. 3 hours** to complete. Ifyou have not answered all the
+questions after 3 hours, please comment briefly on how you would solve the rest.
+● The output should be your **analyses** (e.g. Excel, Python/R,SQL, etc.) and a single **pdf
+file**.
+○ Please include in your **pdf file** the answers to allof the questions below,
+including supporting graphs or figures
+○ Note that the pdf should be a self-explanatory document, i.e. there will be **no
+presentation or interview** about your results. However,we might ask you some
+follow up questions
+● You can use **any tools** you like for this assignmentand for the delivery of the results
+● We expect your solutions to be insightful, justified, clearly communicated and
+understandable by decision makers without a background in statistics.
+
+You can find a **detailed description** of the availabledata on the last page of this assignment.
+
+If there are any questions, please feel free to reach out to your hiring manager.
+We wish you the best of luck!
+
+#### Introduction
+
+Vinted is a second hand marketplace where sellers upload items and try
+to sell them to buyers.  It is normal that supply is larger than
+demand, and not all items are being sold. However, our aim is to make
+sellers happy. In order to provide sellers with as many opportunities
+to sell as possible, they can buy specific features to promote their
+items. One of the available promotion features is the “push up”
+feature that boosts item visibility.
+
+“Push ups” increase the attention given to a specific item on the
+platform by increasing the visibility for potential buyers (i.e. more
+views on the homepage and category page) for 3 days after having
+purchased the “push up” feature. As a result, the item that is up for
+sale will get significantly more views (on average). Currently, it
+costs €2 to buy the “push up” feature. Vinted is considering whether
+this is the best monetization strategy for the value added services.
+
+Your task is to come up with a data-driven approach to evaluate the
+existing “push up” monetization strategy and give suggestions on how
+we could improve the monetization of the platform and its long-term
+effects.
+
+
+#### Data description
+
+```
+Column Type Description
+```
+```
+category_2 string
+```
+```
+High level category available on the platform in which users can
+list an item
+```
+```
+category_3 string
+```
+```
+Low level category available on the platform in which users can
+list an item
+number_of_listings integer The number of listed items per category
+avg_listing_price_eur numeric The average price listers ask for their listed items (EUR)
+revenue_from_push_ups numeric Revenue made by Vinted from the “push up” feature price
+```
+#### Section I: Evaluate current situation (~45 min)
+
+The people at Vinted often introduce new features to the platform. An
+important step in deciding whether to continue a certain feature is to
+evaluate the relevant metric(s).
+
+```
+(A)Explain with at least one graph how well the current “push up” feature is performing.
+```
+```
+(B)In the GIRLS_CLOTHING / FOR_BABIES category, the price of the push up feature is
+more than half of the average listing price. However, there are still sellers willing to pay
+for the feature. Why do you think is this the case?
+```
+#### Section II: Analyse alternative strategies (~1.5 hour)
+
+Besides the “push up” feature in its current form, one could think of
+alternative ways to monetize this feature.
+
+```
+(A)Your colleague suggests keeping a fixed price for the “push up” feature throughout the
+platform. What are the pros and cons of this strategy?
+```
+```
+(B)Can you think of an alternative way to set the pricing of “push ups”? What are the pros
+and cons for this strategy?
+```
+```
+(C)Please evaluate the expected revenue of the strategy proposed in the previous question.
+What is the improvement over the current strategy? Are there any risks involved with this
+strategy?
+```
+#### Section III: Next steps (~30 min)
+
+Suppose you and your team decide to pursue the new pricing feature you
+suggested in this assignment. Describe the next steps in testing your
+suggested pricing strategy in detail, up until the phase where it is
+fully live on the Vinted platform.
+
+_This is the end of the assignment_
+
+
+
+
+### Case study feedback from mals
+
+**Q1**
+
+- "adoption" and willingness are key metrics to focus on.
+
+- across category.
+
+- primary and secondary kpi and scatterplot
+
+- scatterplot overindexing and underindexing categories (this will be
+  key to inform where you can work on and where you dont need to)
+
+	- I don't see the point of best fit line. However scatter plot is
+      great
+	  
+**Q1b**:  push up conversion rate is high?  
+
+- Hypothesis 1: pushup features are bought at higher list price than
+  the avg. list price.
+
+- Hypothesis 2: people still find the feature useful despite the price
+  parity
+  
+  
+**Q2**
+
+Think of varying price system based on adoption rate per category. 
+
+This way you can perhaps increase the price in the categories that are
+doing well.
+
+Can we discuss this again?
+
+
+**Plan**: increase price of pushup as a function of list price 
+
+**Plan**: increase price of pushup as a function of the current
+adoption rate per category. Higher the adoption rate, more the price?
+
+avg/mdian item price per category
+
+adoption rate per category   avg price per listing | push up price
+
+
+ ratio: pushup price per avg list price
+ 
+ 
+ pushup ratio --> x
+ 
+ y --> adoption rate
+ 
+**price elasticity**, how demand will 
+
+conversion rate might not change, adoption change...
+
+
+
+asoption rate sellers opting to y
+
+conversion rate 
+
+loose sellers in terms of pricing
+
+adoption rate leaving --> 5% on avg list
+
+
+---
+
+--> avglisting price/2 and adoption
+--> varying pushup price
+
+x axi
+
+--> how the adoption might 30% 
+
+
+## Failed indrew questions
+
+
+**pwc**
+
+1. What do you want to do ? Don't say cutting edge and machine
+   learning
+   
+   Analytics is the right answer, answering vague questions, going
+   from insights to actions is also good,
+
+2. Explain false negatives and false positives in a business context
+
+3. I like to carve my niche, what happens if you can't?
+
+**Vinted**
+
+1. We are making a new feature --> verified seller batch, how do you
+   measure the success of it (sell through rate), can it have a
+   negative impact?
+   
+2. Say you want to measure this verify this, how will you do it?
+
+3. When you split it will you randomize them by their people or the
+   listings
+   
+   is there any bias, there shouldn't be both should be ok. control
+   and other
+   
+**Gorillas**
+
+1. How will you go about predicting what the next product suggestion
+   should be? (my answer: Variables (history, history category,
+   frequency, similar (price range, products)), (his answer:
+   categories might not be a good idea or there are other ideas, as
+   people usually go behind one type of beer and suggesting them other
+   beers is useless). 
+   
+2. What if for everyone banana is suggested? (it could be the last
+   option), (his answer: bananas everyone probably buy it, so no use)
+
+## feedback 2021 okt application
 ### Randstad groep nederland web and data analyst
 
 > Unfortunately, we will not invite you for an interview. We
@@ -6851,7 +8100,41 @@ https://godatadriven.com/blog/code-breakfast-build-a-modern-data-pipeline%E2%80%
 7. Kaggle is not Data Science experience
 
 	   
-## abn amsterdam
+### vinted
+
+> After careful review and consideration, we have decided not to move
+> forward with your application at this time. From your homework
+> solution, I can see that you have a strong statistical background -
+> however, we are currently looking for people who have more
+> experience on the business side.
+
+> Wishing you all the best on your job search journey,  
+
+> Juno
+
+> **Some feedback to help you improve:** - Try to pick your metrics as
+>   simple as possible - you are now trying to compare the number of
+>   listings sold by the number of pushup features sold, which just is
+>   the total number of listings * 10% vs number of pushups sold -->
+>   you can just leave the 10% out of the equation, since it is a
+>   constant and only complicates
+> interpretation of the results.  
+>
+> - When assuming that a price increase does not do anything with
+> demand, the revenue will always increase, e.g. a price strategy that
+> is 2 euros + 10% would be better than the proposed one. What would
+> happen if you lower the price of the pushup feature?  
+>
+> - A boxplot is not easy to interpret (and even impossible to
+>   understand for people without a statistical background) - it is
+>   better to plot the distribution between variables with a scatter
+>   plot using 2 axes.
+>
+> - When you explain a graph, make sure that the numbers you list also
+>   are visible in the graph (e.g. slide 3: how does the 26% relate to
+>   the 32%? I cannot deduct this from the graph)
+
+### abn amsterdam
 
 asmterdam --> TEAMS --> 
 
@@ -6956,4 +8239,456 @@ better opportunities
 
 - idenitify uni and programs
 - SOP LOR (3x), GRE, Toefel
+
+## discussion with body Nov 6
+
+**discussion on preparation for vinted indrew**
+
+AB test Sell through rate, checkout rate, 
+
+
+where is the error, 
+
+e-commerce --> funnel --> visiting --> buying
+
+
+product page, added to cart, finished a cart,
+
+
+
+how to make a purchase. 
+
+
+
+order --> item
+
+
+min. criteria to get tick mark... 
+
+100 sellers random assignment random samplig -->  cnot part of other
+test, impact on other tests....
+
+
+orthoganal... influence , leakage of other treatments
+
+AB test, power of test, how long the test should be run,
+
+
+6 months, statistical power
+
+how many 
+
+
+power of statistical power... sze of test and 
+
+how can you randomize orders, show tick on certain products sold by
+seler...
+
+
+
+Prep inporting, pandas, matplotlib (bar )
+
+-design of experiencemts 
+
+population -> how many people you need, random assignment random
+selection, metric, goals of the experiment, 
+
+e-commerce --> item page --> highlights of product
+
+x people show module --> 9%
+
+y contole not module --> 8%
+
+CI doesn't matter in difference --> +ve lift or -ve lift or no effect?
+
+what will you do?
+
+other metrics? conversion
+
+if it nots 
+
+Metrics --> 
+
+
+S
+
+metric "add to cart"
+
+should you recoemmentd
+
+
+when to launch it, 
+
+- 
+###
+
+- sales is going down (per month, per week, how much by), typically
+  happenign month to month rando, out of the ordinary... 
+  
+noise?  
+
+why?
+
+Hyothesis?
+
+competitors, seasonailty, product release,
+
+seller problem, buyer problem or product problem, data problem, things
+are broken, 
+
+
+garnularity--> country, category...
+
+
+
+
+Metric... --> sell through rate 
+
+
+groups of sellers, before after ... --> per post.... idfference in
+diferrence
+
+
+average and avergae increase... 
+
+
+
+sell through rate --> Attention (visits), coming (visit to site),
+seeing (view product), aadding to cart (), completing the transaction
+()
+
+last week 5%, 3%, where is it low... --> check granularity, country
+wide, product wise, price wise, catoegory wise, 
+
+
+plot a graph... time, 
+
+Hypothsies --> country, randomness, add to cart, checkout, sellers are
+not able to apply item, 
+
+
+Market place --> sellers and buyers, seller or buyer or both, 
+
+
+seller angle (fraud), scammers, how will  you investigate that
+
+
+
+Sales is going down, scammers,
+
+Skews on site, people call customer care.
+
+### summary of convo!
+
+**AB testing setup**
+
+1. Question: Does feature X work (blue tick mark).
+
+2. Revise question: Will Sell through rate (number of sales) increase if feature X is
+   added to the app and shown to people?
+   
+3. Population: All the people in the world using the app.  
+
+4. AB testing: Of all the listings or people, make 2 groups, i.e.,
+   Randomly sampling? how what about new and old users? 
+   What about random listing? how will you make it happen?
+   Random Assignment? how discuss
+   
+5. Make sure the buyers you Target are not part of another RCT you
+   are doing.
+
+6. What is the statistical power? how many buyers do you need to get
+   statistically significant tests, over how many months.
+
+7. why listings over people? faster results? with listing perhaps the
+   same user gets to see with verified and without verified tick.
+   
+8. Which to work with? CI1 vs CI2 is there an overlap?
+   how will you get a CI? (think about it).
+   
+9. Other metrics to see incase you don't see any effect: Conversion,
+   "add to cart", etc... to know if you should still recommend.
+   
+10. You can compare seller rate for the two groups or also increase in
+    seller rates (difference in difference), when to use what?
+
+---
+
+**Thought experiement with Mallu**
+
+So partner says, "Sales are going down". What to do?
+
+**Is it really a problem**
+
+check for randomness (anamolies), **plot** the fucking data
+
+- could it be due to just time increase and seasonal peaks
+
+**Which part of the funnel**
+
+If you see some random peak or drop then you get into it. Where is it
+coming from?
+
+- Punnel --> Attention (visit to site), Seeing (viewing product),
+  Adding to cart (), Completing the transaction (Conversation), post
+  transaction (getting products)
+  
+- plot ratio 
+
+- denominator or numerator or both
+
+**Why that part of funnel**
+
+- actual Hypothesis generation... If add to cart rate is coming down, 
+
+- Granularity (Countries, product types, products)
+
+- errors? Crashing? people don't want the product? policy change?
+  can't find button? UX changes.
+
+**Scam**
+
+- Customers are complaining and not receiving the products?
+
+- one off, or systematic issue (seasonal, month, week)
+
+- Delivery rate (place the order/gettin order), 
+
+**What happened?**
+
+- Between someone placing the order and getting the order
+
+- Granularity --> market level, category (TV, electronics), spending
+  customers, 
+  
+- softness (delivery rate)
+
+- Hypothesis (what can happen between those two)
+
+	- packing company (carrier delay, category)
+		- **Write problem first and then because to formulate the
+          hypothesis**
+		- Delivery rate is coming down (problem) because Carriers
+          (UPS) is loosing packaging.
+		- Plot delivery rate vs time for granularity to see if this
+          could be the issue.
+	- scam (Sellers are not sending)
+		- Frame the hypothesis: DR is coming down because sellers are
+          not sending packages.
+			- existing and new sellers
+			- order volume (high volume sellers, low volume sellers)
+			- Sellers with some order volume
+			- Proportion of 
+			- increase in number of people who have poorer delivery
+              rates. (Snapshots)
+		- lower delivery rate people has increased
+			- look at snapshots, 
+			- look at range of delivery rate bucket --> their volume
+              over time
+			  
+	- data issue?
+	- data doesn't capture that sellers are unable to fulfil order and
+      cancel from their side (so this is not really scam)
+	- difference of diff vs regular comparision
+	
+- 3 4 problems in market place
+
+	- Recommendation module
+	- AB test this
+		- 
+		
+	- Suddenly your seller rating completion rate reduced by 50%
+	- Our sales data, how does a company doing well in area
+		- revenue, profit, number of sellers , number of buyers
+		- 
+	- how do I know new market is doing well
+	- 5
+	
+	
+			  
+	- this could not be the only hypotheiss, could be all!
+		
+	- buyers fraud
+	- website error 
+	- Cancel the order
+	- policy (zipcode law changed, Signature on delivery)
+
+### Recommendation Module feature AB testing
+
+**Question**: Does adding our current recommendation module work?
+
+**Metric**
+
+For this I want to think about the punnel
+
+Starting with Visiting pager --> Clicking product --> clicking add to
+product --> Checkout page --> converstion --> delivery --> returns so
+on
+
+Lets start with going looking at **Clicks on product vs all
+recommendations shown**, **Add to cart of product vs all
+recommendations**. But in this case where feature doesn't exist for
+the control group, I think I should look at total number of orders in
+the end or the average number of products per customer.
+
+Also track number of clicks on the add to cart button.
+
+Effectiveness, click through rate, add to cart, checkout
+
+**Revised question**
+
+Does showing our recommendation module increase chances of a customer
+buying more or clicking more?
+
+**Doe**
+
+1. Test group: Shown recommendations
+
+2. control group: not shown recommendations
+
+3. Population can be all users or also all listings or ?
+
+	If it is a listing same users might be shown listings with and
+    without recommendations.
+
+**Population**: All users of amazon, let's say. or all listings
+
+**Random Sampling and Assignment**
+
+**Actual Programming**
+
+From all users select n random people, and n/2 are randomly assigned
+and "tracked" for the coming X months. 
+
+**Track:** So we should average, median, percentile etc., number of
+products per customer.
+
+How to cover new users and people who don't have account?
+
+Should I think about recent users or old users?
+
+- is there a reco engie from before... 
+
+**Identify number of people needed (power of test)**
+
+My way --> figure out what would be a good +-CI value, use sd anf
+Z__95 to calculate the number of users needed.
+
+
+try ramping it up... slowly so that you don't create bad experiences.
+
+errors or crashes is focus.
+
+**Recommendation**
+
+neutral, no harm, still taking real-estate, 
+
+
+**Considerations**
+
+Sample data, how long you go back depends on sample size sample size.
+
+not in other experiements
+
+### Seller rating completion rate reduced by 50%
+
+
+**Is it really a problem**
+
+Plot SRCR over time and see if it is due to seasonal peaks or
+randomness.
+
+If there is an anomoly, then...
+
+**Where is anamoly from**
+
+Check granularity --> Market level, Category type (furniture),
+Seller spending segments, user-rating-type (email, next time you open
+app)
+
+**What happened in the anamoly**
+
+Competition rate is defined by 2 tings 
+
+1. numerator (number of ratings completed)
+
+2. denominator (number of emails sent to request ratings + other things)
+
+or both?
+
+but in this case you are interested in the ratio.
+
+
+- Hypothesis: SRCR is dropped suddenly because
+	
+	- a particular type of user-rating-giver (from email or other,
+      because of product) pulling the average down
+	  - people don't get the requests in the first place
+		  - technical issue on the website (or software dev team)	  
+	  - button not working
+
+	- Certain product/categories which usually gets lower rate of
+      SRCR, increases
+
+### New market is doing well?
+
+How to know if a market is doing well or if we need to intervene..
+
+Revenue, profit, number of sellers and number of buyers
+
+Then look into granularity (per category, per
+user-segment-based-on-money)
+
+**Is it really a problem**
+
+Plot revenue, profit, number of sellers and buyers and funnel over
+time.
+  - detect anomalies
+  - compare to baseline from other similar countries based on
+    population and GDP?
+  - plot subover categories, cost range of segments
+  
+Customer sentiment analysis in reviews about the product?
+
+- Try to identify source of the problem (overall, categories, check
+  user segments, check type of users segments)
+
+- average initial growth in other "similar" countries vs this country?
+
+- Revenue, how much should it grow by (baseline), 
+
+**why?** something sucks
+
+
+**within Revenue**
+
+average order value, average order size, always look at both, proxy: 
+
+reasons: economic level
+
+
+**Plots**
+
+1. Trend over time
+
+2. Histogram
+
+3. stacked bar chart over time (q1, q2,q3,q4) percentage of sales
+
+4. % of sales per continent over time. put number inside...
+
+- familiarize with their website
+
+
+
+
+
+
+
+
+
+
+
+## preparation for optimal checkout experience
+
 
