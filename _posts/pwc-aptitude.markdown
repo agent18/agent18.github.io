@@ -337,7 +337,7 @@ Start with counting
 
 - 1,1,2,3,3 movement schema
 
-Questions in github imagess shl!
+rest of the tough Questions in github imagess shl!
 
 ## Num reasoning
 
@@ -633,7 +633,7 @@ https://www.hrorganizer.com/en/candidate-preparation-assessment
 
 Locate relevant info.
 
-- 49 tasks 12 minutes
+- 49 tasks 12 minutes (actual exam 18 statements 6 minutes)
 
 You will receive instructions along with some 3 practice tasks
 
@@ -649,7 +649,7 @@ https://www.youtube.com/watch?v=C1hs6cuJLNs
 
 - **figures**
 
-- 12 mins 12 tasks
+- 12 mins 12 tasks (actual test 18 taxes 6 mins)
 
 - 2 practice tests
 
@@ -704,13 +704,34 @@ https://www.youtube.com/watch?v=GB9yv4Ke_Ck
 
 https://www.youtube.com/watch?v=2q5Otn7245w
 
+> My processing is solely driven by starting at where you have the
+> most amount of information and working your way to the goal. What I
+> like to do first (especially on the harder levels), is to check the
+> row- and column number associated with the cell you want to find and
+> exclude the figures that are on these rows and columns. From that
+> point, I usually find a key that makes me more and more certain over
+> what figure it is. Keep in mind that some of the correct answers I
+> got, was based on pure luck with a 50/50 chance of guessing the
+> right answer. Whenever I'm stuck, but at the same time have 3
+> figures excluded, I just take a random guess at it.  Hope that helps
+> a bit!
+
 https://www.youtube.com/watch?v=0XHm2eFiGGk
 
 https://www.youtube.com/watch?v=HF1KyR5ouHQ
 
+Solving takes 3 rules.
+
+1. what is in ?
+2. Answer to 4 in row
+3. answer to 3 in a row
+4. answer to other
+
 inductive --> 
 
 https://www.youtube.com/watch?v=OMo_CRxXn1Q
+
+https://www.youtube.com/watch?v=GB9yv4Ke_Ck
 
 Numerical? -->
 
@@ -722,4 +743,130 @@ https://www.youtube.com/watch?v=ljpk3_ed8i8
 
 
 check if I can do the tests alone?
+
+### inductive HR organization
+
+Number: how often does a letter or number occur.  
+Position: where is a specific number or letter positioned.  
+Characters: does the figure contain just letters or numbers.  
+Values: what is the value of the numbers in the figure, only high or
+only low, or mixed?  
+Variation: there are, for example, two different values per figure, or
+more.  
+Combination: the above variations can also be combined.  
+
+
+1. Logic pattern group A: All figures contain the letter N three times
+   (star)
+
+2.  Group A logic pattern: Contains only letters.
+
+3.   Logic pattern group A: The position above, below and on the far
+     right are always identical. This can be both letters and
+     numbers. (star 2)
+	 
+4.   Logic pattern group B: The letter F is on the left, in the middle
+     and at the bottom. (star 2)
+
+5.   Logic pattern group A: These are all digits between 1 and 4 (star)
+
+6.  Logic pattern group A: Pattern A always has a 4 in the
+    middle. (star Important)
+
+7.  Logic A: This collection has only two elements used per
+    figure. (star 2)
+
+8. Logic pattern group A: At the positions not in the corner is the
+   same figure. (star 2: pattern)
+   
+9. Logic pattern group B: Contains at least three times the letter C.
+
+10. Logic pattern group A: Consists entirely of numbers, no numbers
+    greater than 4.
+	
+11. Logic pattern group B: Each figure has the letter N four times.
+
+12. Group B logic pattern: Contains only odd numbers
+
+---
+
+**lakjsldfk**
+
+
+1. Logic pattern group A: The left and right numbers are the same.
+
+2. Logic pattern group B: At least three times the letter U.
+
+3. Logic pattern group A: At the positions not in the corner is the
+   same figure. (STAR Made mistake here 3 E T woops)
+   
+4. Contains four of the same figures in the same place.
+
+5. Logic pattern group A: All letters come from the first half of the alphabet.
+
+6. Logic pattern group A: Each figure contains only one digit, this is
+   always the 7 and is always in the same place. (STAR Missed during
+   retest)
+   
+7. : Each time consists of two different symbols.
+
+8. Logic pattern group A: All figures contain the letters A, B, C, D,
+   E, F, G, H and I.
+   
+9.  Logic pattern group A: Top and bottom, left and right are the
+    same.
+	
+10. Logic pattern group A: Top and bottom, left and right are the
+    same.
+	
+11.  Logic pattern group A: Four elements, at the beginning of the
+     alphabet.
+	 
+ 12. : If only group contain two the same elements, this is always the
+     7 that occurs twice.
+	 
+ ---
+ 
+**Actual test on nov18th or sumpin 2021** 
+
+1. 5 of the same kind
+
+2. 4 of the same kind | Corners same
+
+3. number of 7s
+
+4. repeating more than once vs unique values
+
+5. smaller numbers vs larger numbers
+
+6. 3 sevens vs random
+
+7. even vs odd
+
+8. even letters vs odd letters
+
+9. sMALL NUMBER VS LARGER NUMBERS MIXED
+
+10. lower numbers in the bottom half, upper half different
+
+11. one particular number
+
+12. X in the center
+
+13. only numbers
+
+
+## With the psych test
+
+I was not sure how to allocate points, was I to compare only these
+three or should I look to add points towards the end? why will I give
+something 6 points for example?
+
+I like being in charge of team
+
+I invest lot of time in work
+
+I acheive difficult targets
+
+It's not like rating things against each other :( 
 

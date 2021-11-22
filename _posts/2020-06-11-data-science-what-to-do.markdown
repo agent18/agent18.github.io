@@ -6687,16 +6687,16 @@ point.
 	- 
 	
 
-1. Tell me about a time when you used data to convince people
+2. Tell me about a time when you used data to convince people
 
-1. Tell me about a time when you had a **conflict** to resolve
+3. Tell me about a time when you had a **conflict** to resolve
 
  	 - **Situation**: work in a team, different people
 	 - **Task**: discussing technical aspects, he was explaining something
 	 - **Action**:
 	 - **Result**:
 
-2. Tell me about a time when you had a **disagreement**
+4. Tell me about a time when you had a **disagreement**
 
 	 - **Situation**: Working on a project for 2 months and the end
        result was that the hardware suddenly stopped working.
@@ -6706,14 +6706,14 @@ point.
        a meeting with the whole team, tradeoff table
 	 - **Result**: disagreement resolved
 
-3. How do you work in a team?
+5. How do you work in a team?
 
 	- develop my niche so that we can be mutually beneficial
 	- mentor the juniors
 	- learn from the seniors
 	- always keen on receiving feedback on how I work
 
-4. Tell me about a time when you did **stakeholder** management
+6. Tell me about a time when you did **stakeholder** management
 	
 	- Stake holder management
 
@@ -6739,7 +6739,7 @@ point.
 	- 3. propose alternate solutions when the budget is not met.
 	- R: -appreciated and ended up meeting the budget. 
 
-5. tell me about a time hwen you handled a **stressful situation**
+7. tell me about a time hwen you handled a **stressful situation**
 
 	- S: Design --> Simulate --> Boss puts pressure to wrap up topic 
 	- A:
@@ -6756,7 +6756,7 @@ point.
 	- take some time
 	- reach out for help
 	
-6. Leadership what do you do?
+8. Leadership what do you do?
 
 	- Lead meetings, set agenda, hear grievances of users
 	- focus on roadmap, inform in higher up meetings about risk, and
@@ -6856,7 +6856,7 @@ I think I was giving long answers.
 6. What sort of person are you? what will your colleagues say?
 
 	I told 
-
+	
 ### notes from first real indrew
 
 **Nina about**
@@ -6979,7 +6979,7 @@ takes best score.
   optimal checkout experience ? check glassdoor
 
 
-7. optimizing for growth or engagement
+1. optimizing for growth or engagement
 
 
 ### questions online glassdoor
@@ -7186,8 +7186,35 @@ checkout completion rate, how many new customers ahve come
 
 2. sms module, are people interested.
 
+### mail to this guy
 
+Hi Jasper and Rick-Robbert, 
 
+You had asked me how I would look at the health of the **address block prediction** in the checkout page.
+
+**I initially answered it as**: Look at how the customers use the address block, e.g., Metric -->  non-clicks vs clicks on the address block, and that we can refine it more on the click options available.
+
+**I wanted to add the following**: 
+
+1. We could also add a bit of granularity here: We could look at the 2nd 3rd options suggested by the prediction and make a metric with it. E.g., non-clicks vs clicks on 2nd address suggested, or non-clicks vs clicks on "other address".
+
+2. We should plot the above metrics over time to gauge it's health along with a list of filters. Filters used could be things such as:
+   
+   - mobile vs tab vs computer
+   - detected bots vs humans
+   - new customers vs old customers
+   - guest vs account holder
+   - converted vs abandoned 
+   - how user comes to product selection
+	 - organic search
+	 - paid search
+   
+3. We could also track errors and performance issues around the address block to understand if it is an issue around the address block or with the prediction.
+   
+Thanks.
+
+Regards,
+Thej
 
 ### **95% checkout completion rate reduced why**
 
@@ -7351,6 +7378,188 @@ might take up real estate
 
 
 	
+### questions from the 2nd indrew 
+
+- it looks like you want to show your self, take up more and more
+  responsibility etc... are you taht person
+  
+  - yes within reason, I would like to disucss what would be certian
+    things to focus on and do them well (be it making the whole team
+    data driven)
+
+1. TMAY of course
+
+2. what did you do/like being the chairman of study association
+
+3. How do you like working with dutch people
+
+4. Are you comfortable with standing up and giving feedback like why
+   is it not data driven?
+   
+5. how will you make data driven the whole team
+
+### notes from the meeting
+
+**Rick-robert**
+
+3 years in checkout product, rebuilt the whole thing. After reorg it
+became a product. He does UX design, involves customer by goign to
+places and asking them to run scenarios. Also run AB tests, useability
+etc.
+
+from amsterdam has a kid of 8 months.
+
+**Jasper**
+
+PO 3 years 2 years in checkout, uterect gf, it consultancy
+back
+
+**about the job**
+
+40 people in team 10 people non it, organized into 4 teams
+
+business teams don't follow scrum. 
+
+**Current visioin of PO checkout guy**
+
+what is the quality of suggestions we want to improve.
+
+Want to go towards 100% predictoin and have a seemless experience
+
+Not sure why they came up with this vision.
+
+4 BAs and 4 POs for different products, basket, 
+
+errors showing to customer is being worked on
+
+**how they work**
+
+events, incident spikes via IT setup
+
+to track weekly review of numbers
+
+and something else.
+
+**What they want from me**
+
+see how to use other data into checkout data
+There is order data and web analytics, how to combine. They mainly use
+adobe analytics and not sure about python. 
+
+Build models to predict better the things on the customer page.
+
+Identify hidden correlations, what influences certain metrics, more
+like already looking at a line and modeling what it means and where
+the error could be.
+
+make the organization more data-driven than ever.
+
+**Like and dislikes**
+
+1. culture, ability to go ham
+2. great people to work with
+
+3. pyramid top down, unable to inflence with feedback from customers.
+
+### questions prep for regular
+
+who are you meeting tomorrow?
+https://www.linkedin.com/in/robstinenbosch/
+
+and Geert-Jan 
+
+1. What is your understanding of the job
+
+	- 1 data analyst 
+	- look at data from before and integrate it somehow
+		- think about why all people are not using
+		- is there a warranty feature, is there some issue with it, 
+		- marketing insights and their contribution
+		- Start with general talks with team and others and see where
+          that takes me.
+	- build a KPI breakdown (statistics)
+	- build better forecasting models for the checkout
+    - Make team more data driven
+	  - courses, case studies workshops
+	  - hire Data personnel
+	  - less AB testing and more narrow the difference 
+	  - feedback and questioning decisions that are not data driven
+	- answer vague questions on 
+		- health of the different parts of the system
+	- autonomy freedom and responsibility
+	
+2. Why do you want this job?
+
+	- high impact opportunity (1 da)
+	- Shopping cart abandonment rate is very high (50%) any small
+      change to it can increase the revenue a lot. That is what we are
+      working towards.
+	  
+	- data insights to actions
+	- explore vague questions and materialize it for the POs.
+	- influence the roadmap
+	- EDA
+	
+3. Why bol.com
+
+	- better IT (delphy and Dr. Watson library)
+	- large company (networking learning etc.)
+	- growth potential 
+	- powerful position, high impact opportunity
+	
+5. Challenging the status quo, why focusing on quality? why do you
+   think that is important
+ 
+### questions prep for report
+
+1. Why are your scores poor?
+
+	- baseline and lack of practice
+	
+	- **point**: 
+	
+	- top 10%, top 20% grind practice, learning, 
+	- exceeding expectations, 
+	
+	- top 1% nation wide
+	
+	- 20-30 hrs a week grinding.
+			
+2. Work related behavior, what works for you and what doesn't?
+
+- Think of some examples for each cosin!
+
+
+	
+- review notes on the job on what its about
+
+### Questions to them
+
+1. What are ideal traits you look for in an anlyst
+
+2. What is your vision for the coming year and 5 years for the whole
+   checkout
+   
+3. What is something you like and don't like?
+
+4. Currently how do you use data
+
+5. What is your vision for me? the one data analyst you are hiring
+
+6. a one button checkout (extreme things like that in plan?)
+
+- write out what questions you want to axe (based on mallu)
+
+	- ask them questions to understand how features or products are
+		launched : when do they a/b test, when they don’t, how is monitoring
+	and measurement done
+	- how data literate are they, cs they come up with metrics and
+	hypotheses themselves?
+	- if you know what product they own, ask them what their vision for
+	their product is and how they use data to realize the vision
+	-  ask them what are the ideal traits they look for in a data
+	scientist
+
 ## discussion iwth POs
 
 questions, talking 
@@ -7966,6 +8175,265 @@ adoption rate leaving --> 5% on avg list
 x axi
 
 --> how the adoption might 30% 
+
+
+## lely
+### position
+
+https://web.archive.org/web/20211023185005/https://www.lely.com/careers/vacancies/it-data/data-analyst/
+
+**What company does**?
+
+> As an international family business in the agri sector, we work
+> every day to make the lives of livestock farmers more pleasant with
+> innovative solutions and targeted services. To this end, we offer
+> solutions for almost all activities in the cowshed: from milking to
+> cleaning. And advice for the smart organization of the dairy farm
+> using management systems. We are guided and inspired by our vision
+> and the wishes and choices of our customers.
+
+- solutions Advice to agri sector: specifically dairy
+
+- you provide Robots, machines and management systems to help with it
+
+- and a management system that ties everything together to optimize
+  production.
+
+**What is the job about?**
+
+ - there is a lot of data due to 30k customers using it all over the
+  world from --> (agricultural industry, robotics, machines or IoT
+  devices) 
+  
+- Identify better ways to run the business??
+
+**Skills required**
+
+- Education to higher vocational or university level.
+- Capability to think conceptually and advise stakeholders accordingly.
+- Experience as a Data Analyst (knowledge of dairy farming data would be an asset).
+- Experience in visualisation (acquired by working with e.g. Tableau, QlickView or PowerBI).
+- Experience of processing data (SQL, Python).
+- Experience with Pyspark would be a great asset!
+- Knowledge of statistics and research methods.
+- Familiarity with operating large data sets (terabytes).
+- (Azure) Cloud experience would be an asset.
+- Knowledge of machine learning/modelling would be an asset.
+- Some affinity with modern software engineering practices would be an asset.
+- Scrum experience would be an asset.
+
+**Interviewers?**
+
+Levon Goceryan https://www.linkedin.com/in/levongoceryan/
+
+9 years at exact doing data analytics and science, just recently
+joined Lely
+
+Olaf Smid recruiter
+
+### Questions to prepare
+
+1. Explain the job to me?
+   
+ - there is a lot of data due to 30k customers using it all over the
+  world from --> (agricultural industry, robotics, machines or IoT
+  devices) 
+  
+- Identify better ways to run the business??
+
+- big data, sql python, pyspark, scrum, Machine Learning and cloud exp.
+
+2. Why this job? Why Motivation?
+
+	- Why data
+		
+		- I love working with data analyst
+		- 20-30hrs  a week for the last 2-3 years
+		- data is the future, companies are becoming more and more data
+		driven, I want to be part of it and grow in this industry.
+	  
+	    - high impact opportunity
+	    - good match for my goals and future
+	    - good match for skills, matlab, sql, python R tableau
+	
+	- Why this particular analytics job
+	
+		- interesting opportunity, different mix of data
+		- big data, python, sql, Machine Learning, tableau
+	
+	- Why Lely
+	
+		- I expect a lot of interesting challenges, questions out of
+          this industry
+
+4. What do you want to learn here?
+
+	- Softskills: Leadership, communication, networking
+
+	- Analytics: 
+		- insight generation
+		- root cause on deep dive into an issue
+		- Answer vague questions
+		- AB testing
+		- data --> insights --> actions, visualizations
+		- Answer questions that the team has using data
+		- working big data and associated platforms
+		- Forecasting
+
+5. TMAY?
+
+	- ME --> Data analyst
+	- Data Calling while doing a statics assignment in ASML
+	- since then I am working Data Analyst on the side 20-30 hours,
+      portfolio of projects, courses (NLP, Segmentation, machine
+      lerning, Tableau, SQL).
+	- Data Analyst, SD, and PL related work for the team
+	- talk about also, things like organizing events
+	- running, Effective altruism, 
+	- social, chairman, organized events for Lead.
+
+6. why leaving ASML
+
+	- ~~Conservative (in adopting new tech)~~
+	- Looking to move to another industry and work on aforementioned
+      skills
+	- I find it much more exciting, I have been in semiconductors and
+      I want to change fields.
+
+7. How does the skills match?
+   
+   - in addition I am a self-starter
+   - PO types
+   - communicate, clarify and make sure work gets done
+
+
+9. Strengths
+
+	- quick learner (internship, new tasks at work, different types of
+      calculations, continuous feedback from all my bosses)
+	
+	- Capable of rising up to the situation (leadership)
+	- love a good challenge, even if it is very hard, I know I will
+      despair, but I know I will also get over it
+	- persevere, hardworking, team player 
+	  
+	  
+    
+ 1. Weaknesses
+ 
+	 - presenting keeping in mind other people's background
+	 - stress about a situation, anxious, but I use it to fuel my
+       work.
+	 -   
+	
+**Tell me a time type questions**
+
+1. Tell me about a time when you were under **pressure**
+   
+   I do my best work when I am under pressure.
+	- **Situation**: promoted and people left
+	- **Task**: Make users and management happy
+	- **Action**: 
+		- time management, 
+		- re-prioritizing based on who needs what and when,
+	    - being clear about what could be out of scope
+		- invite people to code
+	- 
+	
+
+2. Tell me about a time when you used data to convince people
+
+3. Tell me about a time when you had a **conflict** to resolve
+
+ 	 - **Situation**: work in a team, different people
+	 - **Task**: discussing technical aspects, he was explaining something
+	 - **Action**:
+	 - **Result**:
+
+4. Tell me about a time when you had a **disagreement**
+
+	 - **Situation**: Working on a project for 2 months and the end
+       result was that the hardware suddenly stopped working.
+	 - **Task**:
+	 - **Action**: did research, pulled up all the options (price, mw,
+       lead time, probability of working), called in
+       a meeting with the whole team, tradeoff table
+	 - **Result**: disagreement resolved
+
+5. How do you work in a team?
+
+	- develop my niche so that we can be mutually beneficial
+	- mentor the juniors
+	- learn from the seniors
+	- always keen on receiving feedback on how I work
+
+6. Tell me about a time when you did **stakeholder** management
+	
+	- Stake holder management
+
+   Time... discussed with
+   Getting time from all the people was hard... Use teams, sometimes
+   planning, no need for escalation.
+   
+   1. I identified and extended the scope of the assignement as it was
+      not going to work. 
+	  
+   2. I identified who the stakeholders are Thermal, different design teams,
+      recipes people, 
+   
+   3. Analysed their individual contributions and went back and forth
+      to realize a minimal value along with another partner. 
+
+
+	- S: ASML does 20 + machines
+	- T: budgetting of the important requirement for entire machine
+	- A: 1. Identified and extended the scope the project
+	- 2. negotiate and discuss with the rest 20+ other stakeholders
+      (designers, team leads) to understand their contributions
+	- 3. propose alternate solutions when the budget is not met.
+	- R: -appreciated and ended up meeting the budget. 
+
+7. tell me about a time hwen you handled a **stressful situation**
+
+	- S: Design --> Simulate --> Boss puts pressure to wrap up topic 
+	- A:
+	- 1. Push back but he doesn't budge	
+	- Priorities, Reached out for help on a software, cross-validated
+      only a few times when I made big changes to the system, obtained
+      insights and proposed solution
+	- Reaching out for help
+	- took some extra time to deal with the pressure
+	- R: 
+
+	- push back
+	- prioritizee
+	- take some time
+	- reach out for help
+	
+8. Leadership what do you do?
+
+	- Lead meetings, set agenda, hear grievances of users
+	- focus on roadmap, inform in higher up meetings about risk, and
+      other aspects
+	- Discuss with users what features
+	
+### questions from me
+
+1. what is the scope of this job?
+
+2. how is the company structured?
+
+3. how many scientists analyst you have working in this ?
+
+4. What do you expect me to do?
+
+5. what is your ideal candidate?
+
+6. why are you reaching out after nearly a month?
+
+## Machine Learning for AI alignment bootcamp
+
+https://docs.google.com/document/d/1DTSM8pS_VKz0GmYl9JDfcX1x4gBvKhwFluPrzKIjCZ4/edit?usp=sharing
 
 
 ## Failed indrew questions
