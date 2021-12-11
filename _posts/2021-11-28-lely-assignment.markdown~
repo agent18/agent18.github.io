@@ -1,0 +1,9 @@
+##Lely annual report
+
+The sales department of Lely has the job to give an overview of the performance of the company based on the data available. The end of the year is coming and management is asking for some insights to their products. Based on the following tables information shall be retrieved and combined in order to provide a nice annual report about the sold robots. 
+Management expects at least an answer to the following questions:
+    1. How much revenue did we make per country?
+    2. How much revenue did we make per robot per country?
+    3. How much damage (in €) was reported per robot per year?
+    4. Management also feels there’s something missing in their report. Which data or analysis is, in your opinion, missing and how could we possibly improve the report for coming years?
+    5. Please use the graph and other information below to answer question 5.1 to 5.4. 

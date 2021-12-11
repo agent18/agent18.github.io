@@ -124,3 +124,65 @@ not done anything after that:
 	lazygit "comment"
 	
 and done. :)
+## Git local folder to new repo
+
+[Refer here regarding installation and PATs](https://stackoverflow.com/a/67360592/5986651)
+
+1. create repo (make public or private), should not matter (but not
+   tested on private)
+   
+2.  git commands
+
+		git init
+		git add -A
+		git commit "first commit"
+	
+		git remote set-url origin
+		https://user1@github.com/user1/myRepo1.git
+		git push -u origin main
+
+## git large files shabang
+
+manage large files but with traditional way how we ork with git.
+
+**Installation of git-lfs**
+
+https://packagecloud.io/github/git-lfs/install#bash
+
+``` bash
+curl -s
+https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh
+| sudo bash
+```
+
+Follwed by,
+
+	sudo apt install git-lfs
+
+Initialze and check if git lfs is installed:
+	
+	git lfs install
+
+To track files in a repo:
+
+	git lfs track '*.zip'
+	
+Push
+
+	git add .
+	git commit -m "git lfs commit"
+	git push
+	
+This will give error: 
+
+	error: failed to push some refs to 'https....gitrepo'
+	
+try removing .git/hooks/pre-push and then it works as per [here](https://github.com/git-lfs/git-lfs/issues/2291#issuecomment-305874747).
+
+
+
+**Check out git lfs tracking**
+
+Go to `.gitattributes` or type `git lfs track`. And `git lfs ls-files`
+to see which files are tracked.
+

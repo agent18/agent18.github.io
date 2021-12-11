@@ -1,5 +1,41 @@
 #+COLUMNS: %7TODO(To Do) %40ITEM(Task) %10CLOCKSUM(Clock)
 #+TAGS: work(w)  DP(d) break(b) meta(m) DS(s) blog(g) other(o) reading(r) NATW(n) apping(a)
+* 4 weeks in US
+** Counted for work                                                    :work:
+*** Prepping for task
+
+*** Looking for content
+
+*** other
+*** DPing                                                              :DP:
+** Other useful stuff                                                 :meta:
+*** Work done for STM 
+
+** Not counted for DP                                                :break:
+*** Breaks
+**** Working on Org mode
+**** Dreaming
+**** Random
+*** Sleeping 
+*** Watching Youtube
+*** Playing with phone
+
+*today
+
+finish settling money with achu
+
+watch porn and sleep
+plan for friday to celebrate guns bday
+picnic
+
+for work
+
+Randomization 
+send mail about carpooling 
+final mail (weather and shit)
+
+buy holidays tomorow
+buy shares figure out tomo
 * Data Science Masters
 ** Counted for work                                                    :work:
 *** Prepping for task
@@ -11,6 +47,10 @@ CLOCK: [2021-10-24 zo 15:35]--[2021-10-24 zo 16:35] =>  1:00
 CLOCK: [2021-10-24 zo 13:42]--[2021-10-24 zo 15:00] =>  1:18
 :END:
 
+*** Add indrew tings to git
+:LOGBOOK:
+CLOCK: [2021-12-10 vr 20:14]--[2021-12-10 vr 23:44] =>  3:30
+:END:
 *** other
 *** DPing                                                              :DP:
 ** Other useful stuff                                                 :meta:

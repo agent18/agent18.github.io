@@ -7507,7 +7507,7 @@ and Geert-Jan
 	- growth potential 
 	- powerful position, high impact opportunity
 	
-5. Challenging the status quo, why focusing on quality? why do you
+4. Challenging the status quo, why focusing on quality? why do you
    think that is important
  
 ### questions prep for report
@@ -7559,6 +7559,192 @@ and Geert-Jan
 	their product is and how they use data to realize the vision
 	-  ask them what are the ideal traits they look for in a data
 	scientist
+
+### mail 1 of negotiation
+
+Hi Geert-Jan,
+
+Thank you for sharing the great news about the offer along with the
+details on compensation and benefits. I am very glad the team deemed
+me a good fit for this position and I am really excited about the
+prospect of working at bol.com in Checkout as THE Data Analyst.
+
+I have gone through the documents and I have some questions that I'd
+love to get more clarity on.
+
+1. I understand the cv-ok is to be done to make sure I am actually
+   from ASML. When do we need to do it by? I hope this can be done after December.
+   
+2. I don't know what the salary grades mean with regard to job, I was
+   wondering if you are able to clarify this to me. I did however see
+   what the salary indication for each grade is, in the handbook.
+
+3. Regarding the salary, it is somewhat lower than I expected. I was
+   wondering if you can increase your offer. I was wondering if you
+   took into account the following:
+   
+	   - I have a master's degree oriented towards programming and mathematics
+	   - 5 years experience working in a cross-functional environment
+         and managing stakeholders
+	   - 1.5 years programming experience
+	   - Currently, PO for a software team
+	   - More than 2000 hours of training and projects in addition to
+         daily job, in Analytics and Science.
+		 
+Thank you.
+
+Regards,
+Thej
+
+### mail 1 of negotiation malu coorection 1
+
+Hi Geert-Jan,
+
+Thank you for sharing the great news about the offer along with the
+details on compensation and benefits. I am very glad the team deemed
+me a good fit for this position and I am really excited about the
+prospect of working at bol.com in Checkout as THE Data Analyst.
+
+I have gone through the offer and attached documents and I have some
+questions that I'd love to get more clarity on.
+
+1. I understand the cv-ok is to be done to make sure I am actually
+   from ASML. When do we need to do it by? I hope this can be done
+   after 1st week of December.
+   
+2. I don't know what the salary grades mean with regard to job, I was
+   wondering if you are able to clarify this to me. I did however see
+   what the salary indication for each grade is, in the handbook.
+   
+3. I would like to work 4 days a week. I really enjoy working on
+   Analytics skills and would like to dedicate one full day (5th day
+   of the week) during the week. Would this be possible?
+
+4. Regarding the salary, it is somewhat lower than I expected. I would
+   be grateful if you are able to increase your offer. I was wondering
+   if you took into account the following:
+   
+	   - I have a master's degree oriented towards mathematics and
+         programming which equips me with a deep rooted understanding
+         of statistical concepts and methods for being a quality Analyst.
+	   - 5 years experience in engineering and managing stakeholders,
+         which will make me efficient in collaborating and
+         communicating with cross functional partners like Product
+         Owners, Analysts and other collaborators.
+	   - 1.5 years of professional programming experience in python
+         allowing me to contribute not only to efficient analysis but
+         to also make prototypes as necessary.
+	   - Currently being the PO for a software team, allows me my ability
+         to manage stakeholders, prioritize and deliver products with
+         an effective plan.
+	   - I have spent more than 2000 hours of training and projects in
+         Analytics and Science, in addition to my day job.
+		 
+I did some research on the industry rates and the average base salary
+seems to come to ~4100 Euros per month for a Data Analyst (scaled
+to 40hrs/week). I was wondering if you are able to match that?
+
+I think if you can make me an offer with 4100 Euros per month, it'll
+make my decision extremely easy. And I am ready to sign with you.
+		 
+Thank You very much Geert-Jan. Please let me know what you think.
+
+Regards,
+Thej
+ 
+		 
+		 
+P.S.
+Can you also please send me the detailed version of the capacity test?
+Thank you.
+
+### mail 1 malu correction 2
+
+Hi Geert-Jan,
+
+Thank you for sharing the great news about the offer along with the
+details on compensation and benefits. I am very glad the team deemed
+me a good fit for this position and I am really excited about the
+prospect of working at bol.com in Checkout as THE Data Analyst.
+
+I have gone through the offer and attached documents, and I have some
+questions that I'd love to get more clarity on.
+
+1. I understand the cv-ok is to be done to make sure I am actually
+   from ASML. When do we need to do it by? I hope this can be done
+   after 1st week of December.
+   
+2. I don't know what the salary grades mean with regard to job, I was
+   wondering if you are able to clarify this to me. I did however see
+   what the salary indication for each grade is, in the handbook.
+   
+3. I would like to work 36 hours a week instead of 40 hours a
+   week. Would this be possible?
+
+4. Lastly, I'd love to discuss the offer you mentioned. Based on my
+   research on industry standards for this position, an offer of 4100
+   euros per month (40hr/wk) would make this a more compelling offer
+   for me. I would like to highlight a few details from my background
+   and experience:
+   
+	   - I have a master's degree oriented towards mathematics and
+         programming which equips me with a deep rooted understanding
+         of statistical concepts and methods for being a quality Analyst.
+	   - 5 years experience in engineering and managing stakeholders,
+         which will make me efficient in collaborating and
+         communicating with cross functional partners like Product
+         Owners, Analysts and other collaborators.
+	   - 1.5 years of professional programming experience allowing me
+         to contribute not only to efficient analysis but to also make
+         prototypes as necessary.
+	   - Currently being the PO for a software team, I am able to
+         manage stakeholders, prioritize work and deliver products in
+         a timely manner.
+	   - I have spent more than 2000 hours in training and
+         projects, related to Analytics and Science, in addition to my
+         day job.
+			 
+Thank You very much Geert-Jan. Please let me know what you think.
+
+Regards,
+Thej
+
+
+### final interview notes
+
+It was with Geertjan recruiter and PM Rob or something
+
+Program manager basically wanted to make me let my shied down thats
+about it. 
+
+Asked why my scores were low. Prepared for all those questions.
+
+1. What happens if you don't work so hard?
+
+2. Why are you working so hard?
+
+**Feedback**
+
+tjank you for honesty, end of week...
+
+geertjan --> results ok, concern too hard too fast, overview
+
+Rob --> assesment , too fast? who is thej? hard to get understanding,
+too often, person and professional, I don't know if you are demolish
+your shield, within bol.com is good and good as a person
+
+**Questions to ask**
+	- ask them questions to understand how features or products are
+		launched : when do they a/b test, when they don’t, how is monitoring
+	and measurement done
+	- how data literate are they, cs they come up with metrics and
+	hypotheses themselves?
+	- if you know what product they own, ask them what their vision for
+	their product is and how they use data to realize the vision
+	-  ask them what are the ideal traits they look for in a data
+	scientist
+
+### Final interview questions
 
 ## discussion iwth POs
 
@@ -8266,7 +8452,7 @@ Olaf Smid recruiter
 		- I expect a lot of interesting challenges, questions out of
           this industry
 
-4. What do you want to learn here?
+3. What do you want to learn here?
 
 	- Softskills: Leadership, communication, networking
 
@@ -8280,7 +8466,7 @@ Olaf Smid recruiter
 		- working big data and associated platforms
 		- Forecasting
 
-5. TMAY?
+4. TMAY?
 
 	- ME --> Data analyst
 	- Data Calling while doing a statics assignment in ASML
@@ -8292,7 +8478,7 @@ Olaf Smid recruiter
 	- running, Effective altruism, 
 	- social, chairman, organized events for Lead.
 
-6. why leaving ASML
+5. why leaving ASML
 
 	- ~~Conservative (in adopting new tech)~~
 	- Looking to move to another industry and work on aforementioned
@@ -8300,14 +8486,14 @@ Olaf Smid recruiter
 	- I find it much more exciting, I have been in semiconductors and
       I want to change fields.
 
-7. How does the skills match?
+6. How does the skills match?
    
    - in addition I am a self-starter
    - PO types
    - communicate, clarify and make sure work gets done
 
 
-9. Strengths
+7. Strengths
 
 	- quick learner (internship, new tasks at work, different types of
       calculations, continuous feedback from all my bosses)
@@ -8431,6 +8617,135 @@ Olaf Smid recruiter
 
 6. why are you reaching out after nearly a month?
 
+7. What is your vision?
+
+### 1st interview notes
+
+First interview with olaf and Levon Goceryan (team lead data)
+https://www.linkedin.com/in/levongoceryan/
+
+Second technical indrew
+
+Third with manager
+
+**about**
+18 people within team and other teams in istanbul and check
+
+Family company
+
+products --> sphere (filters out ammonia, nitrogen in the air, why do you do this: rewin nitrogen
+
+nitrogen from urine and manure --> fertilizer.
+
+Vector --> clean and feed the cows
+
+Astronaut --> delicate, no antibiotics sensors, when cow wants...
+
+Orbiter --> process milk themseleves, shorteer logistics line
+
+Horizon --> infomrmation
+
+**Job**
+
+--> Analyst --> robots, divining PO, analytics need? Exploratory
+datanalysis, challenge the stake holder, perform a dash board, user
+analytics why people are not using, not sticky features, 
+
+
+**about job**
+1. dashboarding
+2. Identifying problems and solving it with help from team
+3. bridging the business focus between engieer and scientist
+4. experiments
+5. tech stack, python sql and tableau, big data, ML, data
+   bricks(pyspark)
+   
+### 1st interview questions
+
+1. Why Lely?
+
+2. Why this job?
+
+3. Job is in business side bridging gap between engineers and
+   scientists
+   
+### 2nd indrew technical questions
+
+Case study, overall got good feedback and levon liked the way I
+think. There is a lot of thinking context and own way of thinking
+
+1. where did you learn all this, being from ME. He was quite
+   impressed.
+2. Instead of saying CI, you should say that it is by chance that the
+   data is where it is now. or sumpin. Explain CI to regular people
+   
+3. Something I missed during the indrew is about, generating other
+   hypothesis like what if wifi went missing etc... maybe data was
+   uploaded much later
+
+4. Other metrics for MTBF --> downtime and frequency
+
+### 3rd indrew technical questions
+
+1. why leaving asml
+2. Why lely?
+
+- Had a great exp so far, enjoyed doing the Case. :)
+- Freedom, to be in a team, drive change drive action
+- unique challenges possibilities to improve life future
+- grow in skills I would like to (python, thinking, sql, bigdata and tableau etc.)
+- animals
+
+**about job**
+1. dashboarding
+2. Identifying problems and solving it with help from team
+3. bridging the business focus between engieer and scientist
+4. experiments
+5. tech stack, python sql and tableau, big data, ML, data bricks(pyspark)
+
+6. management software
+7. IOT robot centric work (product team)
+8. Focus on animal (reaction, pleasant for animaly, milk yield)
+
+ex1: move from general to per cow focus (Frenk)
+ex2: disgnostics for SE (aishah)
+
+What is good and bad about lely?
+Friendly company, during covid... Front runners inventors after WWII,
+not very structured, structure the chaos, documented, you need to be a
+self starter, 
+
+
+### Offer
+
+1. Sounds great. 
+2. LAle --> 4k gross per month, (6-8 weeks)
+3. opportunities for the future
+4. 4200 offer, holiday allowance, profit share --> 1500 (50% less), 40 days 
+5. thijs --> 
+6. how do you see me? work ex relevant --> multidisciplinary, data analysts mechanical engineering
+7. Medior (Data Analyst), 
+8. 32 hours, --> perfect
+9. benefits
+
+22nd dec to jan 3rd, decide everybody is out of office, visit family
+move back to india, France with parents, it is possible 2 weeks 
+
+raise collective labor agreement, performance management
+
+cz discount, fitness club (massleus), travel allowance 50km,  pension scheme
+
+Which team? levons team with 18 people
+whats the future? exploring Turqey and istanbul cheque, eventually centers all around the centers, franchise and equiment, 
+
+regional office --> demand engineers on-site, exchanging knowledge, PRoduction site, HR and other things in the States, Possibilities, and growing every year,
+
+Started center in canada, 2-3 years many people make 
+
+
+
+
+### generic questions
 ## Machine Learning for AI alignment bootcamp
 
 https://docs.google.com/document/d/1DTSM8pS_VKz0GmYl9JDfcX1x4gBvKhwFluPrzKIjCZ4/edit?usp=sharing

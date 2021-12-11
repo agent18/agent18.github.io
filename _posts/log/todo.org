@@ -8,80 +8,20 @@
 *** questions I need to answer
 *** Should I still apply? 
 *** how to test the claims brother made?
-** work on assignment from Ikea generate insights?
-* Application
-** huxley call apprently it is a recruitment agency
-** find out consult companies and apply
-*** find other companies and apply
-*** find other startups!
-** Apply to companies applied before
-** Apply to many vacancies within a company
-** ec-mmerce amazon, bol coolblue etc.
-** banks rabobank, ing, abn
-** IT services 
-** find companies to apply for (consultancies, roos links and linkedin)
-** write to people
-*** write to the other guy form adyen
-*** write to guys from exact
-* Today
-** sleep with regularization
-** do deductive practice
-** 
-* Now
-** plan for optiver, ing, aurelis life
-** optiver
-*** DOING prepare deductive
-*** prepare inductive
-*** prepare numerical
-** Ing
-*** DOING need knowledge of XGBoost and random forests
-*** Need to SQL star mark q's and inserting SQL into
-*** plan what to tell him on sunday
-*** portfolio
-** Aurelis life 
-*** HR indrew prepareren tomorrow
-** bol.com
-*** yet to get booked
+
+* 
+* To do in the next 4 week
+** fix slowness of camputer (mainly chroath)
+** what to do about masters
+** send email to everybody
+** rationality book
+*** claims and examples
+** Freakonomics book
+** Meditate
+** SQL learning last week
+** other skills I would need to learn?
 
 
-* Later
-** Other consultancy vacancies and indeed.
-** post on software tech to ask for some help
-** DOING find more companies from Roos's lingusamys (10 proper vacancies)
-** do one thing on the ikea assignment after the discussion with body
-** think about 2week and 6 months plan, the questions that I need to answer (1hr)
-* Other
-** reach out to https://www.linkedin.com/in/andreumora/ and others at adyen
-** reach out to https://www.linkedin.com/in/quirijn-meulenberg-475a3892/ at adyen
-** Deloitte and other consultancy companies... lets try?
-** reach out to other company people like?
-** reach out to recruiters find out what they want in people from ING, adyen, exact etc.
-** follow up on ikea talk to people on linkedin, talk to many people, that is all I want to try?
-** apply check again at thuisbezorgd etc...
-** check with Lau Akkermans
-
-* ikea
-* This week
-** prep for supposed indrews in september
-*** TODO matplotlib thats all
-*** TODO feedback from body on how to do the ting? what all to think about etc.
-*** TODO [#A] repair cv
-*** TODO apply to EA global
-*** contact ikea
-*** plan for aapllication
-**** start with gathering past info
-**** then repair cv based on roos and the other guy
-**** what is silouette score?
-**** why pandas giving error?
-
-* Next week
-** apply for EA global
-** repair CV
-** start apping?
-** start writing one of the chapters of freakanomics
-** fix ein
-** work on ikea assignment
-** ask boss about Data Science requirement
 * wishlist
 ** fix ein
 ** ikea assignment pursue
@@ -133,7 +73,6 @@ The most tough part about the day seems to be the beginning. The last
 two hours seems to have gone ok, more flow, and I can continue further
 even. or maybe it was just engaging to read about someone. Also
 probably had to do with adding the ear plugs
-* testing organization screenshot
 
 * essays I want to write
 ** mistakes I made 

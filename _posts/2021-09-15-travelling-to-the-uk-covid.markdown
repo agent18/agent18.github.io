@@ -14,7 +14,7 @@ must:**
   England (before day 2)
 - complete a passenger locator form
 
-You must do these things whether you are fully vaccinated or not.
+	You must do these things whether you are fully vaccinated or not.
 
 When you arrive in England
 If you are fully vaccinated
@@ -99,3 +99,19 @@ Make appt here: https://www.government.nl/topics/coronavirus-covid-19/tackling-n
 5. check with insurance
 6. print mandatory qerentine form
 7. 
+
+## Travelling to the US
+
+
+1. Covid test + vaccination docs
+
+	[Link:cdc](https://www.cdc.gov/coronavirus/2019-ncov/travelers/testing-international-air-travelers.html#general)
+	
+2. https://www.cdc.gov/coronavirus/2019-ncov/travelers/from-other-countries.html
+
+	Info on covid related countries allowed?
+	
+3. ESTA: valid for two years
+
+4. passport
+	
