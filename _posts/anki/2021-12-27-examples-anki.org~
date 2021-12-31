@@ -1,0 +1,176 @@
+
+* pandian :drill:
+SCHEDULED: <2022-01-02 zo>
+:PROPERTIES:
+:DRILL_CARD_TYPE: multisided
+:DATE_OF_RECORDING: <2021-12-28 di 22:05>
+:ID:       3dd5b05e-2750-4ad2-84a1-88e62f4bd482
+:DRILL_LAST_INTERVAL: 5.0163
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-12-28 di 22:09]
+:END:
+** Word
+pandian
+** Definition
+he who must not be named
+** Example
+pandian walked on the road!
+* Link
+**  https://orgmode.org/worg/org-contrib/org-drill.html
+** organization-capture
+
+* notes
+** org-drill
+** org-drill-cram to cram everything or revise all 
+(org-drill-cram-hours to figure out how many hours before your should
+not re-ask)
+** org-drill-scope 
+Use this to `org-drill` more
+** org-drill-strip-all-data
+** org-drill-scope: (file1 file2 file3 etc.)
+** code
+(setq-local org-drill-cram-hours 13)
+* wishlist
+** org capture
+** org-results stats
+** date of inception
+** org setup
+*** Emacs commands
+*** English definitions
+*** other
+
+* Simple                                                              :drill:
+SCHEDULED: <2022-01-01 za>
+:PROPERTIES:
+:ID:       2dde1b79-8bfa-46aa-a138-0d85abaa6a4d
+:DRILL_LAST_INTERVAL: 4.2757
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-12-28 di 19:00]
+:END:
+What is the capital city of Estonia?
+
+** The Answer
+Tallinn.
+
+* Clozed                                                              :drill:
+SCHEDULED: <2022-01-02 zo>
+:PROPERTIES:
+:ID:       7037fa85-94ee-408e-8c23-baedd03ab046
+:DRILL_LAST_INTERVAL: 5.0701
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-12-28 di 19:01]
+:END:
+The capital city of Estonia is [Tallinn].
+
+* Clozed with hints                                                   :drill:
+SCHEDULED: <2022-01-01 za>
+:PROPERTIES:
+:ID:       8fcb7c06-ccf7-4323-8ac0-22ced3022ba1
+:DRILL_LAST_INTERVAL: 4.2224
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-12-28 di 19:01]
+:END:
+Type 1 hypersensitivity reactions are mediated by [immunoglobulin E||molecule]
+and [mast cells||cell type].
+
+* Two-sided                                                           :drill:
+SCHEDULED: <2022-01-01 za>
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: twosided
+    :ID:       799755ac-9d43-427f-a935-ee28f204d4cc
+    :DRILL_LAST_INTERVAL: 3.6703
+    :DRILL_REPEATS_SINCE_FAIL: 2
+    :DRILL_TOTAL_REPEATS: 1
+    :DRILL_FAILURE_COUNT: 0
+    :DRILL_AVERAGE_QUALITY: 5.0
+    :DRILL_EASE: 2.6
+    :DRILL_LAST_QUALITY: 5
+    :DRILL_LAST_REVIEWED: [2021-12-28 di 19:00]
+    :END:
+
+Translate this word.
+
+** Spanish
+la mujer
+
+** English
+the woman
+
+** Example sentence
+¿Quién fue esa mujer?
+Who was that woman?
+
+* Multi-sided                                                         :drill:
+SCHEDULED: <2022-01-01 za>
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: multisided
+    :ID:       bd2c81c6-e771-4b74-9570-846a2346854b
+    :DRILL_LAST_INTERVAL: 3.9337
+    :DRILL_REPEATS_SINCE_FAIL: 2
+    :DRILL_TOTAL_REPEATS: 1
+    :DRILL_FAILURE_COUNT: 0
+    :DRILL_AVERAGE_QUALITY: 5.0
+    :DRILL_EASE: 2.6
+    :DRILL_LAST_QUALITY: 5
+    :DRILL_LAST_REVIEWED: [2021-12-28 di 19:01]
+    :END:
+
+Translate.
+
+** Spanish
+la mesa
+
+** English
+the table
+
+** Picture
+[[file:../../images/title.jpg][PICTURE]]
+
+* multiclose  (hide1cloze, show1cloze, show2cloze, show1_firstless)   :drill:
+SCHEDULED: <2022-01-01 za>
+  :PROPERTIES:
+  :DRILL_CARD_TYPE: hide1cloze 
+  :ID:       d8aae1d7-532f-47b7-8904-c894006353ac
+  :DRILL_LAST_INTERVAL: 4.4052
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-12-28 di 19:01]
+  :END:
+
+The capital city of [New Zealand] is [Wellington], which is located in
+the [North||North/South] Island and has a population of about
+[400,000].
+
+* COMMENT Local Variables
+# Local Variables:
+# org-drill-cram-hours: 0
+# org-drill-hide-item-headings-p: t
+# org-drill-scope: file
+# org-drill-maximum-items-per-session: 30
+# org-drill-maximum-items-per-session: 20
+# End:
+

@@ -1,0 +1,61 @@
+* lofty :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: multisided
+:DATE_OF_RECORDING: <2021-12-29 wo 10:08>
+:END:
+** Word
+lofty
+** Definition
+Lofty is a good word for describing something that's high above the
+ground, or someone who acts like she's high above everyone else
+** Example
+He set lofty goals for himself as a teacher. She showed a lofty
+disregard for their objections.
+* mire mired :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: multisided
+:DATE_OF_RECORDING: <2021-12-28 di 23:27>
+:END:
+** Word
+mire mired
+** Definition
+involved in something difficult or bothersome
+** Example
+The economy is mired in its longest recession since World War II.  
+The feeling of constantly being outraged and mired in the latest
+controversy is unpleasant.
+* ferguson things                                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: multisided
+:DATE_OF_RECORDING: <2021-12-28 di 23:18>
+:END:
+** Word
+ferguson things
+** Definition
+Something that is sad?
+** Example
+People don't want to reblog ferguson things as they don't
+want negativity in their lives.
+* Link
+**  https://orgmode.org/worg/org-contrib/org-drill.html
+** organization-capture
+** [[./2021-12-27-examples-anki.org][examples]]
+* notes
+** org-drill
+** org-drill-cram to cram everything or revise all 
+(org-drill-cram-hours to figure out how many hours before your should
+not re-ask)
+** org-drill-scope 
+Use this to `org-drill` more
+** org-drill-strip-all-data
+** org-drill-scope: (file1 file2 file3 etc.)
+** code
+(setq-local org-drill-cram-hours 13)
+* COMMENT Local Variables
+# Local Variables:
+# org-drill-cram-hours: 0
+# org-drill-hide-item-headings-p: t
+# org-drill-scope: file
+# org-drill-maximum-items-per-session: 30
+# org-drill-maximum-items-per-session: 20
+# End:

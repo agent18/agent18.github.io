@@ -1,0 +1,45 @@
+## links
+
+https://www.youtube.com/watch?v=uraPXeLfWcM&t=626s
+
+## 
+
+org-drill
+
+org-capture templates + elisp (jonathan megan has a talk on this)
+
+4:43 config
+
+Do it for statistics!
+
+Do it for less wrong stuff!
+
+Do it for thinking stuff discussions with an STM.
+
+Other tings US, visum shit, courses
+
+definition
+
+There is images, Latex, Clozes (fill in the blanks), two-side-cards, user defined e-lisp!
+
+Cloze ku you can use org-drill-left-cloze ...
+
+
+
+## org templates
+
+
+``` lisp
+(setq org-capture-templates
+      '(("t" "Todo" entry (file+headline "~/agent18/myblock/posts/anki/2021-12-27-examples-anki.org" "Tasks")
+         "* TODO %?\n  %i\n  %a")
+        ("j" "Journal" entry (file+datetree "~/org/journal.org")
+         "* %?\nEntered on %U\n  %i\n  %a")))
+```
+
+``` lisp
+("v" "Vocabulary Item" entry
+        (file "~/path/to/vocabulary.org")
+        "* Drill :drill:\n:PROPERTIES:\n:DRILL_CARD_TYPE: twosided\n:END:\n** 
+Item\n%^{New Item}\n** Explanation\n%^{Explanation}")
+```

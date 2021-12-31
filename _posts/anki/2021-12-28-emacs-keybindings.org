@@ -1,0 +1,95 @@
+* org mode images format                                              :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING: <2021-12-28 di 23:15>
+:END:
+** What to do?
+org mode images
+** Key-binding
+[[file:../../images/title.jpg][PICTURETITLE]
+** Additional info:
+It's the ?/
+* add prefix at start of the all selected lines :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING: <2021-12-28 di 23:05>
+:END:
+** What to do?
+add prefix at start of the all selected lines
+** Key-binding
+C-x r t `prefix` Ret
+** TIP:
+Select first line and highlight until last line in that order
+* Format of org mode local variables :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING: <2021-12-28 di 22:57>
+:END:
+** What to do?
+Format of org mode local variables
+** Key-binding
+at the bottom of the essay with 
+#+BEGIN_SRC 
+# Local Variables:
+# org-drill-cram-hours: 0
+# org-drill-hide-item-headings-p: t
+# org-drill-scope: file
+# org-drill-maximum-items-per-session: 30
+# org-drill-maximum-items-per-session: 20
+# End:
+#+END_SRC
+
+** Additional info:
+* Ibuffer Mode :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: hide2cloze
+:DATE_OF_RECORDING: <2021-12-28 di 22:45>
+:END:
+
+In IBUFFER MODE: Kill all buffers using [`m to mark and then D`]. Bury not
+kill a buffer with [`b`]. Remove all marked lines using
+[`k`]. Regenerate the buffer using [`g`]. Sort by File name using [`s
+f`]. Sort by Viewing time using [`s v`]. Sort by major mode [`s m`].
+
+* rename-file :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING: <2021-12-28 di 22:42>
+:END:
+** What to do?
+rename-file
+** Key-binding
+close file --> `M-x rename-file` current file new file -->
+reopen file
+** Additional info:
+KB not worth it
+* Restart Buffer :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING: <2021-12-28 di 22:32>
+:END:
+** What to do?
+Restart Buffer
+** Key-binding
+C-x C-v
+** Additional info:
+re-load variables
+* Link
+**  https://orgmode.org/worg/org-contrib/org-drill.html
+** organization-capture --> just go to the help and init file and work from there
+** [[./2021-12-27-examples-anki.org][examples]]
+
+* notes
+** org-drill
+** org-drill-cram to cram everything or revise all 
+(org-drill-cram-hours to figure out how many hours before your should
+not re-ask)
+** org-drill-scope 
+Use this to `org-drill` more
+** org-drill-strip-all-data
+** org-drill-scope: (file1 file2 file3 etc.)
+** code
+(setq-local org-drill-cram-hours 13)
+* COMMENT Local Variables
+# Local Variables:
+# org-drill-cram-hours: 0
+# org-drill-hide-item-headings-p: t
+# org-drill-scope: file
+# org-drill-maximum-items-per-session: 30
+# org-drill-maximum-items-per-session: 20
+# End:

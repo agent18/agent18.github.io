@@ -9,14 +9,53 @@
 *** Should I still apply? 
 *** how to test the claims brother made?
 
-* 
+* todag
+** setup anki cards for memory???
+** more unis
+** read freakonomics
+** map vs territory
+** prepare for tomorrow meeting an STM
+* Vacation
+** SQL course
+** Data Analyst course or youtube videos
+** Freakonomics
+** Map vs territory
+** identify universities and info about them
+** tell people you are leaving? Jan 1st Niels especially and maybe the guy
+
+* Data Science Masters
+** tabulate the information on website
+** talk
+*** yadnesh 
+*** nehan contacts
+*** holla kaushik followup
+** Uni research
+*** 
+** Claims research
+*** 2 yr vs 1 yr
+*** Data Analyst or BA course to Data Science.
+*** Age?
+*** Dimensions
+** SOP LOR people approach
+*** Matthijs langelaar (1)
+*** Gijs
+*** Albert verburg
+*** Daniel Rixen (1)
+*** Roy
+*** Niels Vergeer (1)
+*** Michel Dansberg (1)
+*** Sandipan or Palani (1)
+*** Jens Staecker (1)
+
+
+
 * To do in the next 4 week
-** fix slowness of camputer (mainly chroath)
 ** what to do about masters
 ** send email to everybody
 ** rationality book
 *** claims and examples
 ** Freakonomics book
+*** one sapter a day
 ** Meditate
 ** SQL learning last week
 ** other skills I would need to learn?
@@ -26,7 +65,8 @@
 ** fix ein
 ** ikea assignment pursue
 ** work on freakonomics
-** work on understanding EY
+** work on understanding Eliezer Yudkowsky
+** workspace on multiple monitors
 * Next NExt week 6 month plan
 ** think about eA meetups
 ** think about Data Science conferences meetups

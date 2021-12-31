@@ -8746,6 +8746,23 @@ Started center in canada, 2-3 years many people make
 
 
 ### generic questions
+### Rejection
+
+Hi Olaf,
+
+Thank You for the offer. Unfortunately, I am unable to accept the offer at this time. I have a similar competing offer from another company in e-commerce, and friends and family are suggesting to take a chance with the e-commerce company.
+
+I really enjoyed the interview process, the discussion with Levon'team on the case study, and the vision for the company. But at this point I have decided to accept the position with the other company.
+
+I really appreciate the time you spent talking with me about the position and I hope our paths cross in the future.
+
+P.S.
+
+I hoped to reach you on the phone, but with the current timezone I am in, this is very hard and I just want to inform you of my decision ASAP. I apologize for that.
+
+Regards,
+
+
 ## Machine Learning for AI alignment bootcamp
 
 https://docs.google.com/document/d/1DTSM8pS_VKz0GmYl9JDfcX1x4gBvKhwFluPrzKIjCZ4/edit?usp=sharing

@@ -301,3 +301,7 @@ we want but not through random events). ([Here](https://youtu.be/nk2CQITm_eo?t=9
   automatically be eliminated
 
 ### Multiple regression
+## Permutation 
+
+
+

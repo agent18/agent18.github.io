@@ -123,6 +123,16 @@ https://askubuntu.com/a/1275978/443958
 >     apt-get --only-upgrade install google-chrome-stable```.
 
 
+### chrome slowing things down
+
+Ruining one youtube and a few tabs slows the hell out of my pc.
+
+Experienced this far too often, so I  disabled the `hardware
+accelaration`
+
+disabled chrome feedback tingy `Help improve Chrome's features and
+performan`. Let's see how it goes from here on! :)
+
 ## Graphics card
 
 All installed automatically and `nvidia-smi` works spot on.
