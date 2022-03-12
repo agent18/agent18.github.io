@@ -1,0 +1,82 @@
+
+* Freakonomics--Chapter2--Term life insurance                         :drill:
+SCHEDULED: <2022-01-09 zo>
+:PROPERTIES:
+:DATE_OF_RECORDING: <2022-01-05 wo 11:48>
+:ID:       5f921a8a-19e8-4969-99e1-c066335e4403
+:DRILL_LAST_INTERVAL: 4.2348
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-01-05 wo 12:10]
+:END:
+
+The price of term life insurance fell steeply in late 1990's why?
+
+** Answer
+
+1. Term life insurance is simple (one policy is identical to
+the other unlike whole life insurance). The other insurances probably
+had something more differnt and were hard to compare. 
+
+2. Price comparison website of this simple commodity.Insurance prices falling
+ In late 1990's the price of term life insurance fell
+dramatically, but other insurances like health and automobile an home
+owners' coverage were not. What could have happened? 
+
+** Additional info:
+* Link
+**  https://orgmode.org/worg/org-contrib/org-drill.html
+** organization-capture
+** [[./2021-12-27-examples-anki.org][examples]]
+
+* notes
+** org-drill
+** org-drill-cram to cram everything or revise all 
+(org-drill-cram-hours to figure out how many hours before your should
+not re-ask)
+** org-drill-scope 
+Use this to `org-drill` more
+** org-drill-strip-all-data
+** org-drill-scope: (file1 file2 file3 etc.)
+** code
+(setq-local org-drill-cram-hours 13)
+* wishlist
+** org capture
+** org-results stats
+** date of inception
+** org setup
+*** Emacs commands
+*** English definitions
+*** other
+
+* Simple                                                              :drill:
+SCHEDULED: <2023-01-17 ma>
+:PROPERTIES:
+:ID:       2dde1b79-8bfa-46aa-a138-0d85abaa6a4d
+:DRILL_LAST_INTERVAL: 11.9053
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-01-05 wo 12:03]
+:END:
+What is the capital city of Estonia?
+
+** The Answer
+Tallinn.
+
+* COMMENT Local Variables
+# Local Variables:
+# org-drill-cram-hours: 0
+# org-drill-hide-item-headings-p: t
+# org-drill-scope: file
+# org-drill-maximum-items-per-session: 30
+# org-drill-maximum-items-per-session: 20
+# End:
+

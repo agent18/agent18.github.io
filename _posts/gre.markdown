@@ -1,0 +1,493 @@
+## How to study for GRE ?
+
+https://www.ets.org/gre/revised_general/about/
+
+https://www.ets.org/gre/revised_general/prepare
+
+https://www.youtube.com/watch?v=9TTKHOSEsxM
+
+
+
+**Syllabus**
+
+https://www.ets.org/gre/revised_general/prepare/verbal_reasoning
+
+
+**Courses comparison**
+
+https://crushthegretest.com/best-gre-prep-courses/
+
+**How to sign up for testing**
+
+https://www.ets.org/s/gre/videos/38520_gre-register-tutorial.html
+
+
+## How to prepare?
+
+https://www.youtube.com/watch?v=BKOmIXAfG28 (320+ score in 3 weeks)
+
+this guy did mainly magoosh, started with a baseline (of 167 in quants)
+
+Vocab is the hardest one.
+
+Do 6-7 full length tests.
+
+---
+
+Kaushik used manhattan 5lb for quants (watch youtube videos on which
+to focus on)
+
+Barrons for verbal
+
+Magoosh flash cards
+
+
+---
+
+This other guy started with 298? and ended up with 167 164 (330+ score)
+https://www.youtube.com/watch?v=ot5w8RwIMhY
+
+Resources:
+1) Magoosh GRE platform:  https://imp.i154272.net/RJO0N
+2) Manhattan 5lb Book: https://amzn.to/2WowuaM 
+
+Everyone is talking about manhattan prep
+
+Verbal: Magoosh flash cards, Barrons 800, Manhattan flash cards, GRE
+word bot
+
+Says 1000-1500 words
+
+Read newspaper US news
+
+150-200 hrs is the claim
+
+give weekly mock tests
+
+## Strategy verbal
+
+Verbal : https://www.youtube.com/watch?v=8vGNFE571AM
+
+https://www.reddit.com/r/GRE/comments/azj4k5/how_to_prepare_for_the_verbal_section_of_gre/
+
+Gregmat, tested tutor vidoes
+
+https://www.youtube.com/watch?v=7CFUyL1iViE
+
+Look at greg mat he has several solved questions. Maybe it is good to
+look there. 
+
+---
+ 
+According to a person who got 170 in Verbal,
+
+> I got a 170 on V and pretty much exclusively used the Magoosh app,
+> fwiw. Most of the words I saw were words on those lists. (including
+> the advanced deck --- [reddit](https://www.reddit.com/r/GRE/comments/h7b3om/how_to_study_vocabulary_on_gre/)
+
+shows the magoosh word list of 1k
+
+
+--- my strat
+
+1. 500 kaplan words
+
+2. 1000 magoosh words
+
+3. word list by [gregmat](https://docs.google.com/spreadsheets/d/1K3BJiTav9J6veTRri8IiLsW-XQtBvTplRSxmrgxyodw/edit#gid=0) 900 words
+
+3. go through word list, root list (500)
+
+4. words in context (256)
+
+5. Grind on RC TC and other things from homie, gregmat
+
+Test your GRE VOCAB!
+
+## Strategy math
+
+https://gre.blog.targettestprep.com/gre-math-cheat-sheet/
+
+
+
+## Duration to study for GRE?
+
+> As you can see, out of a random sample of a 1000+ 320+ scorers in
+> GRE, we found that most of the students who score 320+ in GRE
+> prepare for 45-90 days!  But, there are at least 200+ students who
+> achieved a 320+ in GRE in just 30 days. --- [youtube greedge data](https://www.youtube.com/watch?v=AhZgalyrzCg)
+
+Don't know what the median is but 45-90 days is what I should look at
+(3s value prolly).
+
+> how much time should you spend every day preparing for GRE?  Based
+> on our 320 in GRE in 30 scorers, they have spent approximately 2.5
+> hours/day to prepare for GRE.  With 1 hour & 15 mins on Quant & 1
+> hour & 15 mins on Verbal!
+
+3 hrs a day in 30 days. Doable
+
+
+
+## GRE formate
+
+2 verbal 2 quants and 1 writing + 1 experimental data collection 
+
+Quants --> 
+
+Verbal --> RC, vocabulary --> sentence completion, text equivalence, RC
+
+writing --> 2 essays 
+
+1 section --> 20 questions and 35 mins 
+
+5 sections --> 175 mins
+
+1 writing (2 essays) --> 60 mins 
+
+GRE exam 200$ + 2 ets full tests + pdfs on overview of concepts
+
+Can take GRE every 21 days 
+
+Try 6-10 weeks and then gives you time to retry
+
+## GRE At home
+
+https://www.ets.org/gre/revised_general/register/at_home
+
+
+
+## My plan
+
+**Words**
+
+800 words learning means 18 words a day in 45 days.
+
+- kaplan 52
+
+- kaplan flash cards 500
+
+- Magoosh flash cards
+
+- Barrons 800
+
+See where this takes us.
+
+**Verbal and quants questions per day**
+
+There are 2500 questions in Kaplan. This would mean 52 questions a
+day in 45 days. 
+
+**Video lectures**
+
+Video and read the kaplan book online. Finish them off first. Make
+notes.
+
+additional tips: 
+- tested tutor 
+- greg mat
+
+
+# GRE PREP from Kaplan
+## Quantitative
+
+### Mistakes
+
+1. Missed decimals
+2. x^2 = 25 means x=+-5;
+
+### quantitative comparison
+
+**You have definite relationship if there are numbers clearly given in
+the A and B for**
+
+e.g.,
+
+A--> is **Subject**: from 19 to 31 and B is sum from 22 to 32.
+
+So eliminate option D (no relationship). i.e., we only need to check
+once.
+
+
+**Strats**: 
+
+1. choose number atleast twice
+2. You can add subtract by any quantity, 
+3. you can multiply and divide by positive values only.
+
+i.e., g> 1 and A = g/g+3;
+
+### Data interpretation
+
+**In which of the years did wages increase by less than 1% of the wage
+at the beginning of the year**
+
+Apparently this means look at 2009 and 2010 (for the value of 2009).
+
+**Look at graph to determine the year don't look at actual numbers first**
+
+### Arithmetic
+
+**What percent of 72 is 18 ?** It took me more time than usual.
+
+**Is 12^34 divisible by 81, 144 and 28?** Not by 28. 
+
+12^34 is 2^68 * 3^34 --> 81 is 3^4 clearly divisible, 144 is 12^2, so
+clearly divisible, and 28 is 7*4, there is no 7 in this so this is the
+wrong answer.
+
+**Making mistakes while multiplying and subtracting (10s place)**
+
+205*3.5 = ~707.5~ but it is 715.5 (Don't forget to multiply 10s place)
+
+828.5-707.5 = 120 NOT but 121! 
+
+### absolute values
+
+Always think of them in terms of distance from the center
+
+
+### Proportions ans ratios (star)
+
+When asked "Ratio of boys and girls 5:13, there are 72 more girls than
+boys, how many boys are there"
+
+boys: 5x
+girls: 13x
+diff: 8x
+
+8x = 72; x = 9. Now boys = 5x = 45. :)
+
+
+---
+
+"If y% of 140 is 112" => 112/140 = y%
+
+### Rates (star)
+
+Distance = Time x Rate
+
+Time = Distance / Rate
+
+Rate = Distance / time
+
+
+**Distance is always at the top**
+
+---
+
+**2 people working on a project**
+
+*You can add rates of people.*
+
+Pandian takes 4 hrs to finish a job. Indian takes 6 hrs to finish a
+job, how long for both to finish a job?
+
+Pandian's rate is 1/4 project per hr. Indian's rate is 1/6 projects
+per hr.
+
+Together they can finish 10/24 projects in one hr. Which means
+together they can finish 1 project in (look at the above formula), 
+
+Time = 1 project / (10/24) projects per hr. :)
+
+i.e., 2 2/5 hrs
+
+
+**Formula for 2 people working on a project**
+
+1/T = 1/T1 + 1/T2 i.e., T1xT2/(T1+T2) = T (time for one project)
+
+**Multiply time by number of projects**
+
+time for N projects = T*N
+
+**Star mark question**
+
+> In his Organic Chemistry class, Archibald has test scores of 82, 87,
+> 88, and 95, with one test remaining. Which of the following scores
+> on his final test would change his average by two percentage points?
+
+his average by two percentage points --> +- 2 points. Direction is not
+mentioned. But I assumed it like an idiot.
+
+
+Make org-capture stuff question, tags, answer
+### Gregmat
+
+1. How to do charts:
+https://www.gregmat.com/course/follow-the-process
+
+
+
+## Verbal
+
+Topic : general subject matter Stone of scone
+
+Scope : Who owns the scone, how it changed hands
+
+Purpose : to explain history by also taking sides with scots
+
+WAS THE AUTHOR NEUTRAL OR NOT?
+
+1. Casu Marzu is dangerous to even posess in italy.
+
+2. most sought-after still
+
+3. european laws cheese flies and fly larvae drilled
+
+4. chees is made by maggots
+
+---
+
+1. Detail question
+
+Select a sentence that identifies the preventive process
+
+2. Inference questions
+
+Selection a choice that says  one of the followingk
+
+3. global question
+
+4. Logic question
+
+--- 
+
+5. Reasoning question
+
+When you have a conclusion and an evidence,
+
+1. To strengthen the argument you need something that brings
+   conclusion and evidence close.
+   
+2. To weaken the argument you need something that gets them far away.
+
+
+e.g.,
+
+X and Y are two mayan cities whose ruins are found. Conculsion: They
+both died in the same earthquake.
+
+For this the Assumption needed to strengthen the conclusion would
+somehow relate X & Y together.
+
+
+### Reasoning
+
+Contentment is directly related to an ability to mentally separate the
+judgments of others from one’s own view of the results of one’s
+actions. Thus, if you wish to be content, you should practice
+releasing yourself from a sense of guilt for any failures.
+
+Which of the following is an assumption made by the argument above? 
+	Guilt is an unproductive emotion that should always be suppressed.   
+	Those who are close to judgmental people cannot find any
+	contentment.   
+	Feelings of contentment are always preferable to feelings of
+	guilt.  
+	Contentment can easily be mentally separated from guilt.   
+	Releasing guilt makes it easier to separate one’s own view from
+	the judgments of others.   
+	
+	
+**Conclusion**: (To be content)[1], (you should practice releasing yourself
+from a sense of guilt for any failures)[2]
+
+**Evidence**: (Contentment)[1] is related to (ability to mentally separate
+the judgments of others from one's view.)[3] 
+
+---
+
+The primary factor determining whether an area in the western United
+States will have water shortages in the summer is the amount of
+snowpack in the region’s mountains from the preceding winter that
+lasts into the spring. Precipitation this past winter in Nevada was
+far above normal, so that state is unlikely to experience water
+shortages this coming summer.
+
+Which of the following, if true, provides the most support for the conclusion above?
+	Water use rates throughout the western United States have
+	increased consistently over the past 10 years.  
+	The ability of meteorologists to predict precipitation levels
+	months in advance has improved greatly.  
+	**Most of the precipitation in Nevada's mountains this winter fell
+	as snow.**  
+	Above normal snowpack in Nevada results in increased tourism from
+	skiers and other winter sports enthusiasts.   
+	In Nevada, factors other than the amount of snowpack have a small
+    but measurable effect on the likelihood of a summer water
+    shortage.  
+	
+**Conclusion**: Nevada unlikely to experience water shortage
+
+**Evidence**: Precipitation this past winter in Nevada was far above normal.
+
+**Additional evidence**: Amount of snowpack determines the water
+shortages.
+
+**Missing ling**: Precipitation is in fact snowpack
+
+---
+
+The insect known as the Asian citrus psyllid is a vector of citrus
+greening disease. If it lays its eggs in the new leaves of an infected
+citrus tree, then when the larvae become adults and fly off to feed on
+other citrus trees, they can spread the disease to healthy
+trees. Fortunately, scientists have definitively determined that a
+small number of trees in the Los Angeles area constitute the only
+infected trees in California. Thus, removing and burning those trees
+will stop the disease from spreading into other areas of California.
+
+Which of the following would most weaken the conclusion stated above? 
+	Most diseases affecting agricultural crops in California are
+	transmitted by insects.  
+	Most citrus growers in California are not concerned about citrus
+	greening disease.  
+	A number of areas bordering California have substantial acreage of
+	citrus orchards infected with citrus greening disease.  
+	The bacterium that causes citrus greening disease is only spread
+	by insects.   
+	Florida has been successful in slowing the spread of citrus
+	greening disease by using insecticides to eradicate the Asian
+	citrus psyllid.   
+
+
+**Conclusion**: Removing and burning those trees will stop the disease
+from spreading into other areas of California
+
+**Evidence**:  Spread through insects in bad trees. Bad trees in california.
+
+**Additional Evidence**:
+
+**Answer evidence**: Bad trees outside as well.
+
+---
+
+
+**Conclusion**:
+
+**Evidence**: 
+
+**Additional Evidence**:
+
+**Answer evidence**:
+
+### words
+
+Words and tests
+
+https://docs.google.com/spreadsheets/d/1jRATLVV34vATsL4Y67fZZXQc7qZPYc0c0Yk7Bykh4fw/edit#gid=0
+
+word list and def:
+
+https://gregmatapi.s3.amazonaws.com/media/misc/files/gregmat_wordlist.pdf
+
+
+## Writing prep
+
+kaplan course, 
+
+greg mat
+
+practice a few times and give an exam on ets.

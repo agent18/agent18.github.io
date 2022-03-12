@@ -38,6 +38,11 @@ awesome
 December, January, February. Spring months - March, April, May. Summer
 Months - May, June, Jul, Aug.**
 
+
+https://analytics.ncsu.edu/?page_id=4184 <-- shows all DS courses that
+have come up in the recent times.
+
+
 ## MIDS Berkeley
 
 Seems like they made this completely online, with a 3 sessions on in
@@ -356,7 +361,7 @@ I am looking for the following information about the UCSD course: Master's in Da
 1. What are the Tuition costs of the 40+ credit program?
 2. Is there going to be an i-20 sponsorship for international students?
 3. Is this a STEM course?
-3. What are the deadlines for fall 2022 and spring 2023
+4. What are the deadlines for fall 2022 and spring 2023
 
 The following links do not seem to specify this information:
 1. https://apply.grad.ucsd.edu/masters-programs/ms#data-science-ms-ds75
@@ -398,7 +403,7 @@ https://datascience.ucsd.edu/academics/graduate/financial-opportunities/
 ### **Other Tings**
 
 ## U cal san deago MS in Data science
-
+	
 https://datascience.ucsd.edu/academics/graduate/
 
 https://datascience.ucsd.edu/academics/graduate/graduate-program-requirements/
@@ -497,6 +502,9 @@ in international students FAQ.
 
 
 ### **Requirements for the course**
+https://www.usfca.edu/arts-sciences/graduate-programs/data-science/how-to-apply
+
+There si indrew
 
 https://www.usfca.edu/arts-sciences/graduate-programs/data-science/how-to-apply
 
@@ -550,8 +558,8 @@ https://www.usfca.edu/arts-sciences/graduate-programs/data-science/financing-you
 All students gain real world experience for nine months out of the
 twelve month program (15 hours/week) tackling data science and
 analytics problems at companies around the San Francisco Bay Area and
-beyond.
-
+beyond
+.aar
 ## San Jose State university
 ### **Course hot links**
 
@@ -573,6 +581,8 @@ Fall 2022	March 1, 2022	March 20, 2022
 ### **Is this course for international students who need F1?**
 
 ### **Is it a stem course**
+
+https://www.sjsu.edu/science/special-programs/ms-data-science.php
 
 > The CIP code for the MS Data Science is 30.0801. Per the current DHS
 > posted list from 2016 [pdf] this is a STEM Designated degree
@@ -606,10 +616,12 @@ Statement of Purpose.
 
 ### **Costs/Tuition for the course**
 
+https://www.sjsu.edu/bursar/fees-due-dates/tuition-other-fees/fall.php
+
 Costs --> 4643$ per year or per entire course not sure + 400$ per unit
 i.e., 
 
-4643 + 400x36 = 20-25k
+4643x4 + 400x36 = 32k, 
 
 
 ### **When do people do internship as part of the course**
@@ -625,7 +637,7 @@ i.e.,
 There are a bunch of courses
 
 ## ~~Sacramento State MS business analytics~~
-
+	
 https://www.csus.edu/college/business-administration/graduate/ms-business-analytics.html
 
 > International students will not be issued an F-1 student visa for
@@ -688,7 +700,7 @@ Yes
 
 ### **Requirements for the course**
 
-either the GRE nor the GMAT is required for admission to this
+neither the GRE nor the GMAT is required for admission to this
 program. 
 
 some prereqs and the usual
@@ -711,6 +723,11 @@ some prereqs and the usual
 1535 x 32 = 50k
 
 https://grad.pacific.edu/grad/graduate-tuition
+
+Do international students have to pay more tuition than domestic students?
+
+No. All University of the Pacific students pays the same tuition and fees.
+
 
 ### **When do people do internship as part of the course**
 
@@ -764,7 +781,7 @@ MA Spring Deadline: January 10*~~
 
 https://www.pstat.ucsb.edu/graduate/prospective
 
-No Gre, 
+No Gre, for this year
 
 and the rest is usual
 
@@ -1092,9 +1109,9 @@ Doesn't look like there is anything here
 
 
 
-## ~~CALIFORNIA STATE UNIVERSITY-LONG BEACH~~
+## CALIFORNIA STATE UNIVERSITY-LONG BEACH (MSIS)
 
-Can't find anything.
+Information systems. All logged in Excel
 
 ### **Course hot links**
 
@@ -1124,7 +1141,8 @@ Can't find anything.
 
 
 
-## UCAL Los angeles
+## UCAL Los angeles MENG
+logged in the excel
 ## Georgia tech coop? MS analytics
 
 Georgia Tech offers two options for students seeking a Master’s in
@@ -1162,9 +1180,10 @@ Only FALL
  Yes, we are an official STEM program (CIP code 52.1399).
 
 ### **Duration of the course**
-
+12 months
 ### **Credits required for the program**
-
+https://www.analytics.gatech.edu/curriculum
+36
 ### **Requirements for the course**
 
 https://grad.gatech.edu/degree-programs/analytics-campus-0
@@ -1200,7 +1219,7 @@ For students applying out of state, the combined amount is about $56,000.
 ### **Other Tings**
 
 
-## Sunny buffalo (UB MS in Engineering Sciences  DS track)
+## UB Sunny buffalo (UB MS in Engineering Sciences  DS track)
 
 ### **Course hot links**
 
@@ -1243,13 +1262,14 @@ http://www.buffalo.edu/studentaccounts/tuition-and-fees/fall.non-resident-full-t
 12 + 12 + 6 credits, it means a cost is --> 13k$ + 13k$ + 5.7k$ =
 ~33k$. (for non-resident)
 
-I am considering applying for UB program: Engineering Sciences Masters DS track.
+I am considering applying for UB program: Engineering Sciences Masters
+DS track. --confirmed via email.
 
-https://financialaid.buffalo.edu/costs/
+~~https://financialaid.buffalo.edu/costs/
 https://www.buffalo.edu/studentaccounts/tuition-and-fees/fall.non-resident-full-time.html
 
 
-Expected value is 44k in 2021
+Expected value is 44k in 2021~~
 
 ### **When do people do internship as part of the course**
 
@@ -1266,11 +1286,88 @@ Expected value is 44k in 2021
 ### **Other Tings**
 
 
+## UB Masters of Professional Studies in Data Science and application
+
+wrote in excel
 
 ## ~~UC riversise~~ MS in DS
 
 No MS in DS, but tere ihs BA
 
+## UCal riverside MSBA
+
+### **Course hot links**
+
+https://statistics.ucr.edu/graduate-program
+https://business.ucr.edu/msba
+
+
+Department of statistics
+
+### **Deadline**
+
+Fall 2021 Application Deadlines:
+Round 2: January 31, 2021
+Round 3: March 31, 2021
+International Late Round: June 1, 2021
+
+### **Is this course for international students who need F1?**
+
+### **Is it a stem course**
+The UCR graduate program in Business Analytics is a rigorous STEM
+program jointly offered by the School of Business and the Department
+of Statistics in the College of Agricultural and Natural Sciences. 
+
+
+### **Duration of the course**
+
+9 months or 4 quarters or part-time
+
+### **Credits required for the program**
+
+48 units 8 courses 3 electives 2 capstone courses
+
+
+
+### **Requirements for the course**
+
+No Gre for fall 22
+
+Start the online application 
+Prepare your documents: Statement of Purpose essay, Resume/CV 
+Request a letter of recommendation 
+Upload your transcripts (Digital/unofficial copies of transcripts uploaded to the application will be considered for admission so long as all academic transcripts are submitted. Official copies must be sent after accepting your admissions offer, and before class registration.)
+Upload your official test scores 
+GMAT or GRE scores (Optional)
+GMAT Institution Code: 346-VD-62
+GRE Institution Code: 4839
+TOEFL or IELTS scores (Required for International applicants only)
+TOEFL Institution Code: 4839
+
+
+### **Costs/Tuition for the course**
+
+https://business.ucr.edu/msba/financing-your-program
+
+Cost per unit $1,188
+48 units
+Program tuition: $57,024
+
+
+### **When do people do internship as part of the course**
+
+### **Possibilities for work with or without fee waiver**
+
+### **Where are people getting placed**
+
+### **Any rankings?**
+
+### **Other Tings**
+
+https://business.ucr.edu/msba/curriculum#elective_courses_for_operations_career_track
+Very business oriented course :( i.e., no Machine Learning
+
+financial, marketing operations :(
 
 
 ## UC davis (MSBA)
@@ -1289,7 +1386,11 @@ https://gsm.ucdavis.edu/master-science-business-analytics-msba
 
 https://gsm.ucdavis.edu/master-science-business-analytics/academics/stem-certified-degree
 
-> The UC Davis Master of Science in Business Analytics is a STEM-designated graduate-level program that will provide you with business knowledge in science, technology and engineering needed to be a coveted and highly effective leader in industries across the globe.
+> The UC Davis Master of Science in Business Analytics is a
+> STEM-designated graduate-level program that will provide you with
+> business knowledge in science, technology and engineering needed to
+> be a coveted and highly effective leader in industries across the
+> globe.
 >
 > In the U.S., businesses are increasingly hiring international workers
 > who have STEM degrees to help fill the shortage of qualified workers
@@ -1471,6 +1572,7 @@ Yes. :)
 Needs GRE :(
 
 ### **Costs/Tuition for the course**
+
 https://big.sdsu.edu/admissions
 18k per year (possible 2 years)= 34k with health and shit!
 
@@ -1556,7 +1658,7 @@ not really a possibility  am afraid
 
 ### **Other Tings**
 
-
+#
 ## UCal San Diego
 
 https://rady.ucsd.edu/programs/masters-programs/ms-in-business-analytics/
@@ -1639,77 +1741,6 @@ https://fas.ucsd.edu/cost-of-attendance/rady-school/master-of-business-analytics
 
 
 
-## UCal riverside MSBA
-
-### **Course hot links**
-
-https://statistics.ucr.edu/graduate-program
-https://business.ucr.edu/msba
-
-
-Department of statistics
-
-### **Deadline**
-
-Fall 2021 Application Deadlines:
-Round 2: January 31, 2021
-Round 3: March 31, 2021
-International Late Round: June 1, 2021
-
-### **Is this course for international students who need F1?**
-
-### **Is it a stem course**
-The UCR graduate program in Business Analytics is a rigorous STEM
-program jointly offered by the School of Business and the Department
-of Statistics in the College of Agricultural and Natural Sciences. 
-
-
-### **Duration of the course**
-
-9 months or 4 quarters or part-time
-
-### **Credits required for the program**
-
-48 units 8 courses 3 electives 2 capstone courses
-
-
-
-### **Requirements for the course**
-
-No Gre for fall 22
-
-Start the online application 
-Prepare your documents: Statement of Purpose essay, Resume/CV 
-Request a letter of recommendation 
-Upload your transcripts (Digital/unofficial copies of transcripts uploaded to the application will be considered for admission so long as all academic transcripts are submitted. Official copies must be sent after accepting your admissions offer, and before class registration.)
-Upload your official test scores 
-GMAT or GRE scores (Optional)
-GMAT Institution Code: 346-VD-62
-GRE Institution Code: 4839
-TOEFL or IELTS scores (Required for International applicants only)
-TOEFL Institution Code: 4839
-
-
-### **Costs/Tuition for the course**
-    Cost per unit $1,188
-    48 units
-    Program tuition: $57,024
-
-
-### **When do people do internship as part of the course**
-
-### **Possibilities for work with or without fee waiver**
-
-### **Where are people getting placed**
-
-### **Any rankings?**
-
-### **Other Tings**
-
-https://business.ucr.edu/msba/curriculum#elective_courses_for_operations_career_track
-Very business oriented course :( i.e., no Machine Learning
-
-financial, marketing operations :(
 
 ## San Francisco state (Master of Science in Statistical Data Science)
 ### **Course hot links**
@@ -1967,71 +1998,994 @@ No GRE? No TOEFL? NO RECO LETTER?
 
 . A bachelor’s degree from an accredited college or university with a minimum cumulative GPA of 2.5 (4.0 scale).
 
-2. A two- to three-page statement of intent (essay) that includes the following:
+1. A two- to three-page statement of intent (essay) that includes the following:
 -educational and professional objectives; and
 -an explanation of the reasons for interest in data science and analytics
 
-3. An interview with the program coordinator. The program coordinator will contact the student for an appointment after the completed application is received.
+2. An interview with the program coordinator. The program coordinator will contact the student for an appointment after the completed application is received.
 
-## New York state
-## UT Austin bA?
-## Michigan state 
-## Ucal LA
-## Tony brook
-## UF
-## North Carolina
-## Penn State
-## University of Michigan – Ann Arbor
-## University of Wisconsin
-## University of Connecticut
-## ~~University of Texas Austin~~
+## SUNY system 
 
-only online
+https://www.suny.edu/programsearch/index.jsp
 
-https://stat.utexas.edu/graduate
+Look here for Newyork colleges and cedric degrees
+
+https://www.suny.edu/attend/visit-us/complete-campus-list/
 
 
-## ~~UT austin MS DS~~
 
-Doesn't have a dedicated Data Science track.
+## University at Albany MS DS
+
+### **Course hot links**
+https://www.albany.edu/math/programs/ms-data-science
+
+Course looks good.
+
+### **Deadline**
+
+Fall Spring Summer : ROLLNG.
+
+### **Is this course for international students who need F1?**
+
+### **Is it a stem course**
+https://www.albany.edu/math/programs/ms-data-science
+
+YES
+STEM
+
+> This degree is designated as a STEM program. International students
+> maintaining F-1 status are allowed to apply for up to 12 months of
+> post-completion Optional Practical Training (OPT) following
+> completion/graduation from their degree program. Currently, this
+> degree program is also designated by the Department of Homeland
+> Security (DHS) as an eligible degree for the F-1 STEM OPT work
+> authorization extension; students who secure qualifying employment
+> may be eligible to apply for the STEM OPT extension for a cumulative
+> total of up to 36 months of F-1 OPT work authorization.
+
+### **Duration of the course**
+18-24 months I think, assuming we finish 12 credits per semester
+(which is considered full-time)
+### **Credits required for the program**
+
+https://www.albany.edu/graduatebulletin/data_science_ms_degree.php
+36 credits
+
+### **Requirements for the course**
+
+https://www.albany.edu/graduate/admissions/information-international-applicants
+
+No GRE
+Transcripts from all schools attended (**Unofficial**)
+One letter of recommendation
+Statement of goals
++ TOEFIL
 
 
-## U Den
+
+> If you attended an institution where instruction was conducted in
+> English and your transcript is in English, then that transcript is
+> sufficient. However, you must also provide official documentation on
+> the language of instruction.
+
+### **Costs/Tuition for the course**
+
+https://www.albany.edu/cost-aid/tuition-fees/tuition-fees-international-students
+
+
+27682 for 24 credits per semester total for spring and Fall
+semesters. So to meet 36 credits I am guessing: 27682*1.5 = 41523
+
+### **When do people do internship as part of the course**
+
+### **Possibilities for work with or without fee waiver**
+https://www.albany.edu/cost-aid/tuition-fees/tuition-fees-international-students
+
+### **Where are people getting placed**
+
+### **Any rankings?**
+
+### **Other Tings**
+
+
+## Binghamton University MS DA
+
+### **Course hot links**
+https://www.binghamton.edu/academics/programs/data-analytics/index.html
+
+### **Deadline**
+
+We have rolling admissions. However, for the 2021 cohort, preference
+will be given to those who apply by March 15, 2021.
+
+### **Is this course for international students who need F1?**
+
+### **Is it a stem course**
+
+>Binghamton University’s Master of Science in Data Analytics graduate
+>degree STEM program will prepare you for the analysis and
+>intelligence needs in all sectors of the economy.
+
+### **Duration of the course**
+10 months (Fall winter Spring done.)
+
+### **Credits required for the program**
+https://www.binghamton.edu/academics/programs/data-analytics/curriculum.html
+30 credits 
+### **Requirements for the course**
+
+https://www.binghamton.edu/academics/programs/data-analytics/admissions.html
+
+> Applicants with at least two years of work experience in a business
+> or industrial setting are especially encouraged to apply
+
+TOEFL
+GRE or GMAT scores are accepted, but not required.
+2LOR
+
+### **Costs/Tuition for the course**
+https://www.binghamton.edu/academics/programs/data-analytics/faq.html
+33k
+### **When do people do internship as part of the course**
+!!!!
+
+### **Possibilities for work with or without fee waiver**
+
+### **Where are people getting placed**
+
+### **Any rankings?**
+
+### **Other Tings**
+
+
+## ~~Stony brook U MS in CS DS track~~
+	
+Too many CS courses will be hard!
+https://www.cs.stonybrook.edu/students/Graduate-Studies/MSProgram
+
+also lots of prereq suggests that I need CS background!  
+https://www.cs.stonybrook.edu/sites/default/files/drupalfiles/basicpage/graduate-handbook.pdf
+> Minimal Background in Computer Science:
+
+
+## New york University MS in DS
+### **Course hot links**
+https://cds.nyu.edu/masters-program/
+
+### **Deadline**
+https://cds.nyu.edu/masters-admissions/
+Fall 2022 MS Application Now Open! Deadline to apply is January 22, 2022!
+### **Is this course for international students who need F1?**
+??
+### **Is it a stem course**
+Not sure :(
+
+### **Duration of the course**
+https://cds.nyu.edu/masters-curriculum/
+24 months
+
+### **Credits required for the program**
+36 
+### **Requirements for the course**
+https://cds.nyu.edu/masters-admissions/
+
+GRE scores
+    TOEFL or IELTS; however, TOEFL is preferred (Required for all applicants whose native language is not English and who have not received a university degree in an English-speaking country)
+    Official college transcripts
+    Three letters of recommendation (we prefer all letters on letterhead)
+    Statement of Academic Purpose
+### **Costs/Tuition for the course**
+https://www.nyu.edu/students/student-information-and-resources/bills-payments-and-refunds/tuition-and-fees.html?currentOrProspective=prospective&enrollmentType=graduate&semester=Fall%202020&school=Graduate%20School%20of%20Arts%20and%20Science
+
+12 is considered full time load
+
+Cost per sem with 12 creds is 25k 3 sems atleast is 75k$
+
+### **When do people do internship as part of the course**
+
+### **Possibilities for work with or without fee waiver**
+
+### **Where are people getting placed**
+
+### **Any rankings?**
+
+### **Other Tings**
+
+
+## UF MS in IS and OM
+
+### **Course hot links**
+https://warrington.ufl.edu/master-of-science-in-information-systems-and-operations-management/
+### **Deadline**
+
+https://warrington.ufl.edu/master-of-science-in-information-systems-and-operations-management/courses-and-curriculum/
+
+Fall Deadlines:
+
+    January 1: international (priority)
+    February 15: international
+    June 1: domestic (U.S. citizens & permanent residents)
+
+Spring Deadlines:
+
+    August 1: International
+    October 1: Domestic
+
+
+
+https://warrington.ufl.edu/master-of-science-in-information-systems-and-operations-management/courses-and-curriculum/
+
+non business Data science track
+
+### **Is this course for international students who need F1?**
+
+### **Is it a stem course**
+
+Our STEM-accredited program offers four concentrations that are strategically designed to prepare students for life in the business world.
+
+    (NEW!) Business Analytics
+    Data Science
+    Information Technology
+    Supply Chain Management
+	
+### **Duration of the course**
+
+https://warrington.ufl.edu/master-of-science-in-information-systems-and-operations-management/courses-and-curriculum/
+
+https://warrington.ufl.edu/master-of-science-in-information-systems-and-operations-management/program-options/
+
+Data Science, Information Technology or Supply Chain Management concentrations (with a Business Degree or Minor):
+
+    Length: 1-1/2 years
+    Credits needed: 36
+    Starting semester: Fall or Spring
+
+Data Science, Information Technology or Supply Chain Management concentrations (with a Non-Business Degree):
+
+    Length: 2 years
+    Credits needed: 40
+    Starting semester: Fall or Spring
+
+Students in Business Analytics concentration (for all majors):
+
+    Length: 10 months
+    Credits needed: 36
+    Starting semester: Fall only
+
+
+### **Credits required for the program**
+
+### **Requirements for the course**
+https://warrington.ufl.edu/master-of-science-in-information-systems-and-operations-management/admissions/
+GRE, TOefl, sop, resume, interview
+
+### **Costs/Tuition for the course**
+https://internationalcenter.ufl.edu/start-up
+
+30k 24 credits
+
+### **When do people do internship as part of the course**
+
+### **Possibilities for work with or without fee waiver**
+
+### **Where are people getting placed**
+
+### **Any rankings?**
+
+### **Other Tings**
+
+
+## Texas A&M
+### **Course hot links**
+
+https://tamids.tamu.edu/msds/
+
+### **Deadline**
+
+only fall, 
+
+Application Deadline for Fall 2022: September 15, 2021- March 31, 2022
+
+*We are not currently offering a Spring intake*
+
+### **Is this course for international students who need F1?**
+??
+### **Is it a stem course**
+??
+### **Duration of the course**
+https://tamids.tamu.edu/msds/
+
+10 courses. 3 semesters 4,3,3
+
+### **Credits required for the program**
+
+https://tamids.tamu.edu/msds/
+30 creds
+### **Requirements for the course**
+
+Unoffical transcript, GRE W2022, Toefl
+
+### **Costs/Tuition for the course**
+https://tuition.tamu.edu/
+
+3 sems, lets say 12, 9 and 9 credits i.e., (11.5k +4k) + 12.5k +12.5k 
+
+I have added 3 times 4k in "additional fees for MS data science". This
+comes to about 40.5k
+
+### **When do people do internship as part of the course**
+
+### **Possibilities for work with or without fee waiver**
+
+### **Where are people getting placed**
+
+### **Any rankings?**
+
+### **Other Tings**
+
+
+
+## North Carolina State ( MS in A)
+### **Course hot links**
+
+https://analytics.ncsu.edu/?page_id=123
+
+https://analytics.ncsu.edu/?page_id=1948
+
+### **Deadline**
+
+https://analytics.ncsu.edu/?page_id=1948
+Dec 15 prio and then Feb 15 is also ok
+
+Summer only 
+
+### **Is this course for international students who need F1?**
+
+### **Is it a stem course**
+STEM 
+
+> The MSA is officially designated as a STEM degree. CIP code 11.0802:
+> Data Modeling
+
+### **Duration of the course**
+
+https://analytics.ncsu.edu/?page_id=123
+
+10 month
+
+Starts in Summer Fall and finishes in sprign
+
+### **Credits required for the program**
+https://analytics.ncsu.edu/?page_id=123
+
+30
+
+https://analytics.ncsu.edu/?page_id=78
+
+### **Requirements for the course**
+https://analytics.ncsu.edu/?page_id=13892
+Unnofficial transcript, Toefl, 3 LOR by sending their email ids, NO
+GRE but Interview
+
+### **Costs/Tuition for the course**
+https://analytics.ncsu.edu/?page_id=4202
+47,792
+
+### **When do people do internship as part of the course**
+
+### **Possibilities for work with or without fee waiver**
+
+### **Where are people getting placed**
+
+### **Any rankings?**
+
+### **Other Tings**
+
+
+## Berkeley Masters of Analytics
+### **Course hot links**
+
+https://analytics.berkeley.edu/
+
+
+
+### **Deadline**
+
+
+Application Deadline
+
+January 6, 2022 (Early application deadline)
+March 2, 2022 (Final application deadline)
+
+
+### **Is this course for international students who need F1?**
+
+### **Is it a stem course**
+Si, :)
+
+### **Duration of the course**
+
+11-15 months!
+
+### **Credits required for the program**
+
+Not sure about the courses though! :(
+
+
+    IEOR 240 Optimization Analytics (3 units)
+    IEOR 241 Risk Modeling & Simulation Analytics (3 units)
+    IEOR 242 Applications in Data Analysis (3 units)
+    IEOR 243 Analytics Lab (project course with Python, optimization & simulation) (4 units) 
+
+
+
+Summer (python programming 50 hours), Fall (core), spring (electives),
+Summer internship (0,13, 12, 4 = 29 creds) --> 
+
+Electives
+
+    IEOR 215 Analysis and Design of Databases (3 units)
+    IEOR 220 Economics & Dynamics of Production (3 units)
+    IEOR 221 Introduction to Financial Engineering (3 units)
+    IEOR 222 Financial Engineering Systems I (3 units)
+    IEOR 223 Financial Engineering Systems II (3 units)
+    IEOR 224 Portfolio & Risk Analytics (3 units)
+    IEOR 250 Production Planning & Logistics Models (3 units)
+    IEOR 251 Logistics Operations (3 units)
+    IEOR 252 Service Operations Management (3 units)
+    IEOR 253 Supply Chain Operations & Management (3 units)
+    IEOR 254 Production & Inventory Systems (3 units)
+    IEOR 264 Computational Optimization (3 units)
+    IEOR 265 Learning & Optimization (3 units)
+    IEOR 266 Network Flows & Graphs (3 units)
+
+
+### **Requirements for the course**
+
+TOefl, GRE (W2022), 3 reco letters, unofficial transcripts
+
+### **Costs/Tuition for the course**
+65k;
+https://analytics.berkeley.edu/master-of-analytics-tuition-costs-and-financial-aid/
+
+### **When do people do internship as part of the course**
+https://analytics.berkeley.edu/
+Summer 10 weeks?
+
+### **Possibilities for work with or without fee waiver**
+Very little! :(
+
+### **Where are people getting placed**
+
+### **Any rankings?**
+
+### **Other Tings**
+
+
+## Michigan state  MS in DS
+### **Course hot links**
+https://stt.natsci.msu.edu/graduate-program/ms-in-data-science/
+
+### **Deadline**
+
+https://msds.msu.edu/prospective-students/
+
+> Priority application deadline is January 15, 2022. All applications
+> submitted by this date will receive full consideration.
+> Applications submitted between January 16 and March 15, 2022 will be
+> considered on a rolling basis.
+
+
+### **Is this course for international students who need F1?**
+?
+### **Is it a stem course**
+?
+### **Duration of the course**
+2 years it looks like.
+
+### **Credits required for the program**
+https://msds.msu.edu/courses/
+
+> The MSDS is a 30-credit graduate degree, comprised of 18 required
+> credits, 9 elective credits, and a 3-credit capstone course.
+
+Courses focused on becoming a data god? loks like
+
+Six required courses (18 credits) for this program are balanced between the three units:
+
+    STT 810, a course on probability and mathematical statistics for data scientists at MS level
+    STT 811, a course on applied statistical methodology for data scientists at MS level
+    CSE 482, a computer-science course on big data analysis which includes collecting, storing, preprocessing and analyzing large amounts of data.
+    CSE 881, a computer-science course on data mining, at MS level.
+    CMSE 830, a foundational course on algorithms and methods in Data Science at MS level
+    CMSE 831, a foundational course on applied and computational optimization for data scientists, including implementation, at MS level.
+
+9 credits of elective courses draw from a broad set of courses in the three units. Students with the 6 required courses above are well-prepared for taking electives. The list of electives includes the following, and may include other courses approved by the MS DS committee:
+
+    STT 802, statistical computation using the specialized software R.
+    STT 812, a compact course on modern statistical data analysis, including statistical learning
+    STT 873, a course on statistical learning and data mining
+    STT 874, a course on Bayesian analysis
+    STT 875, a course on R programming for statistics
+    CSE 802, a course on pattern recognition
+    CSE 830, a course on the design and analysis of algorithms
+    CSE 847, a course on machine learning
+    CSE 849, a course on deep learning
+    CMSE/CSE 822, a joint course on parallel computing
+    CMSE 402, a course on communication in data science.
+    Other CMSE elective courses which are being developed at MSU, some of which are topics courses which have already been taught in CSME, and could be taught jointly with other units. Plans exist for the following topics:
+        CMSE 890 Uncertainty Quantification (has been taught)
+        CMSE 890 Applied Topology (has been taught)
+        CMSE 890 Probabilistic Graphical Models (planned)
+        CMSE 890 Mathematical Image Processing (planned)
+        CMSE 890 Biomedical Science Data (planned)
+        CMSE 890 Applied Machine Learning for Biomedicine (planned)
+        CMSE 890 Computational Methods for Machine Learning (planned)
+    Other statistics topics courses STT 890 approved by the MS DS committee.
+    Other computer science topics courses CSE 890 approved by the MS DS committee. 
+    Any graduate-level MSU course covering data science topics which can be approved by the MS DS committee.
+
+A 3-credit capstone course involves completion of an applied, industrial, or governmental data-science project. Credit for this course can be recorded as one of the three topics courses:
+
+    STT 890
+    CSE 890
+    CMSE 890
+
+
+### **Requirements for the course**
+
+    a 2-page letter of motivation (combined personal statement and academic statement, please do not submit two separate letters);
+    a detailed CV/resume including all relevant industrial experience if applicable;
+    full official transcripts from undergraduate and/or graduate institutions, sent by the granting institutions (unofficial copies can be uploaded by the applicant);
+    a minimum of three letters of recommendation sent directly by the recommenders (not attached to the application);
+    if the mother tongue of the candidate is not English, or the candidate is not a citizen of an English-speaking country, the candidate must present a certificate of English proficiency such as a passing score on the TOEFL or equivalent (please visit https://grad.msu.edu/english-language-competency for details);
+    completion of the GRE is optional.
+
+### **Costs/Tuition for the course**
+
+
+https://msds.msu.edu/tuition/
+
+> total of $39,000 for this 30-credit degree program. Other payment
+> options will be available for self-supported residents of Michigan,
+> and for students wishing to complete the program in more than 2
+> years.
+
+### **When do people do internship as part of the course**
+
+### **Possibilities for work with or without fee waiver**
+
+### **Where are people getting placed**
+
+### **Any rankings?**
+
+### **Other Tings**
+
+
+## Michigan state MS in BDS & analytics
+
+Master's in Business Data Science & Analytics
+
+#9  masters in BA QS rankings
+	
+### **Course hot links**
+
+https://broad.msu.edu/masters/business-data-science-analytics/
+
+### **Deadline**
+
+https://broad.msu.edu/masters/business-data-science-analytics/admissions/
+
+Oct 15th for Spring in take. Looks like only Spring
+
+> The application IS CURRENTLY CLOSED FOR SPRING 2022, AND A COHORT OF
+> 48 STUDENTS HAS BEEN REACHED. The application for Spring 2023 will
+> open on March 15th, 2022.
+
+> We do not admit for fall or summer semester start.
+
+### **Is this course for international students who need F1?**
+
+### **Is it a stem course**
+
+STEM
+
+### **Duration of the course**
+
+https://broad.msu.edu/masters/business-data-science-analytics/
+
+12 months
+
+### **Credits required for the program**
+https://broad.msu.edu/masters/business-data-science-analytics/
+30 credits
+
+https://broad.msu.edu/masters/business-data-science-analytics/curriculum/
+
+Spring, Summer, Fall (looks decent)
+
+### **Requirements for the course**
+https://broad.msu.edu/masters/business-data-science-analytics/admissions/
+
+
+GRE Waiver maybe (could be but need to wait till the end)
+
+> MSU students above a 3.25 cumulative GPA are automatically granted
+> GRE/GMAT waivers. Other students MUST request a GMAT/GRE waiver by
+> emailing your unofficial transcripts from all degrees received and
+> your resume/CV to analytics@broad.msu.edu when you are in the
+> process of applying. Please do NOT make this request prior to
+> starting your application, and do NOT submit your application until
+> you RECEIVE CONFIRMATION OF A WAIVER. Waivers are NOT guaranteed,
+> and we will NOT grant waivers if you submit prior to receiving
+> approval!
+
+unofficial transcripts
+2 LORs
+toefl (could be, but need to wait till the end)
+
+
+### **Costs/Tuition for the course**
+
+> Tuition for the M.S. in Business Data Science and Analytics program
+> is set at $36,000 for in-state residents and $39,000 for
+> out-of-state residents.
+
+39k$ 
+
+> For international students’ affidavit of support: We require you to
+> state $60,000 to cover tuition, insurance, books, and any unforeseen
+> expenses to ensure proper financial coverage and processing of your
+> I-20 form.
+
+### **When do people do internship as part of the course**
+
+
+There is a mean internship pay of 25$ per hr. Class of 2019 100%
+"placement". 
+
+Part of summer. ITM 893 Internship or Practicum.
+
+### **Possibilities for work with or without fee waiver**
+
+### **Where are people getting placed**
+
+### **Any rankings?**
+
+### **Other Tings**
+
+
+
+## Penn State MPS and MS
+### **Course hot links**
+
+https://www.worldcampus.psu.edu/degrees-and-certificates/data-analytics-base/overview
+
+https://greatvalley.psu.edu/academics/masters-degrees/data-analytics
+
+There is MPS and MS in Data Analytics. MS needs thesis, MPS does a
+practicun for a semester.
+
+> The M.S. in Data Analytics (M.S.-DAAN) degree is a research-oriented
+> graduate degree program focused on applying predictive and
+> prescriptive analytics to problems across domains. The program will
+> provide students the skills necessary to frame problems in
+> analytical terms amenable to data analysis; identify the datasets
+> necessary to address the problem; the techniques appropriate to
+> reveal the insight sought, and present that insight to stakeholders.
+>
+> The M.P.S. in Data Analytics (M.P.S.-DAAN) degree is an
+> interdisciplinary master’s program that provides students the skills
+> required to collect, classify, analyze, and model data at large and
+> ultra-large scales and across domains using statistics, computer
+> science, machine learning, and software engineering.
+>
+> The M.P.S. curriculum is delivered both in residence at the School
+> of Graduate Professional Studies (Great Valley) and online through
+> the Penn State World Campus.
+
+### **Deadline**
+
+https://greatvalley.psu.edu/admission/application-deadlines
+
+Fall only May 31 deadline,  
+
+### **Is this course for international students who need F1?**
+
+### **Is it a stem course**
+
+https://bulletins.psu.edu/graduate/programs/majors/data-analytics/
+YES
+
+### **Duration of the course**
+https://greatvalley.psu.edu/academics/masters-degrees/data-analytics
+1.5 years (to 2 years I think)
+
+### **Credits required for the program**
+https://bulletins.psu.edu/graduate/programs/majors/data-analytics/#degreerequirementstext
+
+30 
+
+Required courses 9 creds, Business analytics option (predictive analysis.)
+
+You can take electives in ML it appears! (https://bulletins.psu.edu/university-course-descriptions/graduate/daan/)
+
+> The M.P.S. in Data Analytics (M.P.S.-DAAN) degree is an
+> interdisciplinary master’s program that provides students the skills
+> required to collect, classify, analyze, and model data at large and
+> ultra-large scales and across domains using statistics, computer
+> science, machine learning, and software engineering.
+
+### **Requirements for the course**
+
+https://bulletins.psu.edu/graduate/programs/majors/data-analytics/#admissionrequirementstextcontainer
+
+applicable work ex, 2 LOR, GRE, TOEFL
+
+### **Costs/Tuition for the course**
+https://greatvalley.psu.edu/tuition/tuition-and-fees
+
+https://greatvalley.psu.edu/tuition/tuition-and-fees
+
+1771 per credit hour i.e., 1.8k x 30  = 53k$???????? 2 years (sounds a
+lot for pen state!)
+
+Also veriffied here: https://cce.ais.psu.edu/tuition-calculator-ui/#!/
+
+### **When do people do internship as part of the course**
+
+### **Possibilities for work with or without fee waiver**
+
+### **Where are people getting placed**
+
+### **Any rankings?**
+
+### **Other Tings**
+
+
+## University of Michigan – Ann Arbor ( MS in DS)
+### **Course hot links**
+https://lsa.umich.edu/stats/masters_students/mastersprograms/data-science-masters-program.html
+
+### **Deadline**
+
+February 1 for DS Masters in Fall. No winter admission
+
+### **Is this course for international students who need F1?**
+??
+
+### **Is it a stem course**
+??
+
+### **Duration of the course**
+2 years
+### **Credits required for the program**
+
+https://lsa.umich.edu/stats/masters_students/mastersprograms/data-science-masters-program.html
+Courses look great
+
+25
+
+
+### **Requirements for the course**
+
+NO GRE
+Application form
+Recommender names and email addresses
+Transcripts (scan of official or unofficial transcript)
+Statement of Purpose
+Personal Statement
+Resume or CV
+Toefl
+
+### **Costs/Tuition for the course**
+https://ro.umich.edu/tuition-residency/tuition-fees?academic_year=169&college_school=27&full_half_term=35&level_of_study=38
+
+25k per sem of 9 credits Say we could complete it in 3 sems or 27
+creds then that takes **75k** around. 
+
+
+### **When do people do internship as part of the course**
+
+### **Possibilities for work with or without fee waiver**
+
+### **Where are people getting placed**
+
+### **Any rankings?**
+
+### **Other Tings**
+
+
+## University of Wisconsin ( MS in DS)
+### **Course hot links**
+https://datasciencedegree.wisconsin.edu/
+
+ONLINE ONLY LOOKS LIKE!
+
+### **Deadline**
+
+### **Is this course for international students who need F1?**
+
+### **Is it a stem course**
+
+### **Duration of the course**
+
+### **Credits required for the program**
+
+### **Requirements for the course**
+
+### **Costs/Tuition for the course**
+
+### **When do people do internship as part of the course**
+
+### **Possibilities for work with or without fee waiver**
+
+### **Where are people getting placed**
+
+### **Any rankings?**
+
+### **Other Tings**
+
+
+## U wisconsin-madison MS in Stat Ds track
+
+### **Course hot links**
+https://stat.wisc.edu/graduate-studies/data-science-option/
+https://stat.wisc.edu/graduate-studies/data-science-option/#what-is-data-science
+
+### **Deadline**
+Fall sem March 1
+
+Oct 15 for Spring
+
+### **Is this course for international students who need F1?**
+
+### **Is it a stem course**
+
+### **Duration of the course**
+
+> Most students will complete the MSDS program in 1.5 to two years,
+> depending on their preferred pace.
+
+### **Credits required for the program**
+30 credits
+### **Requirements for the course**
+Lot of prereq in Stats which are "highly recommended".
+
+NO GRE. 
+TOEFL
+3 LOR
+Transcrips
+### **Costs/Tuition for the course**
+48k tuition 
+### **When do people do internship as part of the course**
+
+### **Possibilities for work with or without fee waiver**
+
+### **Where are people getting placed**
+
+### **Any rankings?**
+
+### **Other Tings**
+
+## ~~California State Sacramento (MSBA)~~
+
+https://www.csus.edu/college/business-administration/graduate/ms-business-analytics.html
+
+> International students will not be issued an F-1 student visa for this
+> program as it is a completely online program.
+
+There is also MBA  (business analytics in healthcare).
+
+https://www.calstate.edu/attend/degrees-certificates-credentials/Pages/search-degrees-results.aspx?campuses=&k=analytics&
+
+## University of Connecticut (not done)
+### **Course hot links**
+
+### **Deadline**
+
+### **Is this course for international students who need F1?**
+
+### **Is it a stem course**
+
+### **Duration of the course**
+
+### **Credits required for the program**
+
+### **Requirements for the course**
+
+### **Costs/Tuition for the course**
+
+### **When do people do internship as part of the course**
+
+### **Possibilities for work with or without fee waiver**
+
+### **Where are people getting placed**
+
+### **Any rankings?**
+
+### **Other Tings**
+
+
+
+## U Den (not done)
+### **Course hot links**
+
+### **Deadline**
+
+### **Is this course for international students who need F1?**
+
+### **Is it a stem course**
+
+### **Duration of the course**
+
+### **Credits required for the program**
+
+### **Requirements for the course**
+
+### **Costs/Tuition for the course**
+
+### **When do people do internship as part of the course**
+
+### **Possibilities for work with or without fee waiver**
+
+### **Where are people getting placed**
+
+### **Any rankings?**
+
+### **Other Tings**
+
+
 ## Universities to look into
 
-California systems: https://www.universityofcalifornia.edu/uc-system
+**Missed the following:**
+
+Florida International University
+U connecticut
+State University of New York
+Duke University
+
+U Den
+Minneapolis
+
+https://www.linkedin.com/in/niranjanmurali/
+
+----
+
+
+~~California systems~~: https://www.universityofcalifornia.edu/uc-system
 
 SEarch system: https://graduate.universityofcalifornia.edu/admissions/degree-search/index.php
 
 search systme:
 https://www.calstate.edu/attend/campuses/campus-match/Pages/default.aspx
 
-Sacramento state
+~~Sacramento state~~
 
-San jose state
+~~San jose state~~
 
-California state longbeach Nivas amazon
+~~California state longbeach Nivas amazon~~
 
 California state scremento --> https://www.linkedin.com/in/niranjanmurali/
 
 Sanjose santaclara
 
-Arizona Data science
+~~Arizona Data science~~
 
-Georgia tech
+~~Georgia tech~~
 
-North western --> Koushik Holla (good reviews so far)
+~~North western~~ --> Koushik Holla (good reviews so far)
 https://www.linkedin.com/in/kaushik-holla/
 
-sac state
-san jse state
-fullerton state
-sandiego state
-Ucal davis
-erwine Ucal
-Ucal sandeago
-Ut austing (CS)
-UT dallas    
+~~sac state~~
+~~san jse state~~
+~~fullerton state
+sandiego state~~
+~~Ucal davis~~
+~~erwine Ucal~~
+~~Ucal sandeago~~
+~~Ut austing (CS)~~
+~~UT dallas~~    
 
 find out what it is I should be doing?
 
@@ -2220,9 +3174,9 @@ Cheap Unis what to do?
 CMU: https://www.heinz.cmu.edu/programs/information-systems-management-master/16-month
 IUB Kelley School of Business: https://kelley.iu.edu/programs/ms-information-systems/index.html
 Michigan I School: https://www.si.umich.edu/programs/master-science-information
-UConn Business Analytics: https://msbapm.business.uconn.edu/
+~~UConn Business Analytics: https://msbapm.business.uconn.edu/~~
 
-Data Science: https://www.washington.edu/datasciencemasters/
+~~Data Science: https://www.washington.edu/datasciencemasters/~~
 Information Management:
 https://ischool.uw.edu/programs/msim/admissions
 
@@ -2500,8 +3454,8 @@ Learning specialization
 
 **What universities to consider?**
 
-~~San Jose State~~, ~~San Deago state~~, Binghanton, State uni bufaalo, state
-new york, binghamton, tony brook
+~~San Jose State~~, ~~San Deago state~~, ~~Binghanton~~, ~~State uni bufaalo~~, state
+new york, ~~binghamton~~, ~~tony brook~~
 
 SUNY (state uni of new york) look at that, 
 
@@ -2621,3 +3575,438 @@ BI analytics, data Analytics.
 8. Any particular statistics that could be interesting to weigh my choices?
 9. Deadlines and requirements
    
+## Rant
+
+Talk to body,
+
+Talk to that nigga srikanth
+
+
+What to do?
+
+Filter cali unis first?
+
+there are so many questions to be answered?
+
+Should I do BA? or Data Science course?
+
+Talk to someone who did BA?
+
+Shortlist 20 unis or sumping!
+
+Filters on Cali, cost of education, bad courses?, BA vs DS
+
+
+
+
+
+
+
+
+
+## orking
+
+Have I missed any unis in california?
+
+Check the state systems 
+
+https://www.calstate.edu/attend/campuses/campus-match/Pages/default.aspx
+
+https://graduate.universityofcalifornia.edu/admissions/degree-search/index.php
+
+Links are pretty useless, i have more unis than what the link ends up
+showing!
+
+Check the "comprehensive" analytics
+link:https://analytics.ncsu.edu/?page_id=4184
+
+**there are some unis for BA I still need to cover, in case I am looking
+at BA.** according to website above
+
+
+## **Looking** at Cali unis
+
+How many unis do we have at the moment?
+
+20 in cali and about 50 in total
+
+Total, Data Science, DSfla, BA deg (missing all BA degs)
+20, 7, 6, 7+ 
+
+How many unis have Winter or spring?
+
+5, 3, 1, 1+
+
+How long do BA/Data Science/DSfla degrees?
+
+
+|                  | 18-24 | 18 | <15 | Total |
+| DS               | 5     | 0  | 2   | 7     |
+| Data Science fla | 4     | 0  | 2   | 6     |
+| BA               | 1     | 1  | 4   | 7+    |
+
+
+Ask body how to view courses? for example in BA?
+
+Cost of edumacation?
+
+|                  | <30k | 30-40k | 40-50k | 50-60k | >60k |
+| DS               |      | 1      |        | 4      | 1    |
+| Data Science fla |      | 3      |        | 2      | 1    |
+| BA               |      | 1      |        | 3      | 2    |
+
+
+Do we need GRE?
+
+|                  | Y          | N |
+| DS               | 6          | 1 |
+| Data Science fla | almost all | 0  |
+| BA               | A          |  0 |
+
+Also need toefl!
+
+## Am unsure about
+
+So now need to send emails to unis, find contact for BA and someone to
+tell me about summer school, talk to body about courses!
+
+  * [ ] Doing 1 year masters? BA talk to somebody
+
+  * [ ] Doing masters in summer? 18-24 months? tlak to sombody
+
+  * [ ] Internships not mentioned in course what to do? talk or send email
+
+  * [ ] What should be my plan?talk to someone
+
+Should I look at courses and decide or not? what should I look for?
+
+  * [ ] send emails regardng duration of course??? and ask about internship?
+
+
+Data Science/BA/DSfla | Winter? | Duration | Tuition | Internship |
+Courses good/not
+
+## Discussion with body
+
+**Conclusion**
+
+Talk to surag about BA (how long, internship, cost, other unis to
+consider, winter,  any new players you know?), 
+
+Shortlist 10-15 unis (in time)
+
+do GRE and TOefl? how to do it?
+
+don't loose focus on the things you want to do for analytics at
+wrok. you want real world exp
+
+**What**
+
+I looked at 50 unis.
+
+Mainly focused on following criteria:
+
+Data Science/BA/DSfla | Winter? | Duration | Tuition | Internship |
+Courses good/not
+
+Sources: https://analytics.ncsu.edu/?page_id=4184
+
+**What I have**
+
+**Questions I have**
+
+Data Science/BA/DSfla | Winter? | Duration | Tuition | Internship |
+Courses good/not
+
+Doing a BA degree?
+
+Doing a 1 year Data Science degree?
+
+Doing internship during that time? Non summer intenrshipsaern  ot a
+thi,gn siginficantly lower, chances o finternship, good internship
+
+Should I care about Data Science flavor?
+
+Starting in winter/Spring
+
+**Critical path**
+
+1. GRE toefl
+2. money situation
+3. LOR ?
+4. SOP
+5. choosing unis (asking unis questions and talking to people in unis,
+   about jobs, internships, tuition aid etc.)
+6. 
+
+Aiming for Apps in June july?
+
+---
+
+2-3 programs and people made good jobs! 
+
+https://www.linkedin.com/in/surag-gupta/ U Minn
+ 
+https://www.linkedin.com/in/sudakshsingh/ U conn
+
+anotehr guy number is missing... raghav U conn 
+
+https://www.linkedin.com/in/auroshis/
+
+Uconn https://www.linkedin.com/in/niharika-srivastava/
+
+UT austin https://www.linkedin.com/in/vijairangan/
+
+https://www.linkedin.com/in/dhwaniparekh/ 
+
+Connecticut, Cincinnati (sudhaksh, auroshis), Austin (), Minnesota (Surag)
+
+https://www.linkedin.com/in/swang96/
+
+Arizona
+
+Select 15, based on people examples
+
+**Rank:** UTA, cinn, minnesota, connecticut
+
+Short list the ten, surag... don't loose sight of the
+analytics. solved problem, tough situations, large scale data,
+communicate insights... 
+
+SOP... highlight data experience, That yoiu can haev in SOP.
+
+
+Unis by Body
+
+[14:15, 1/23/2022] Body 3: https://www.linkedin.com/in/surag-gupta
+[14:16, 1/23/2022] Body 3: https://www.linkedin.com/in/auroshis
+[14:16, 1/23/2022] Body 3: https://www.linkedin.com/in/sudakshsingh
+[14:18, 1/23/2022] Body 3: https://www.linkedin.com/in/niharika-srivastava
+[14:20, 1/23/2022] Body 3: https://www.linkedin.com/in/vijairangan
+[14:22, 1/23/2022] Body 3: https://www.linkedin.com/in/dhwaniparekh
+[14:23, 1/23/2022] Body 3: Connecticut, Cincinnati, Austin, Minnesota
+https://analytics.ncsu.edu/?page_id=4184
+https://www.linkedin.com/in/swang96
+
+
+## discussion with Surag
+
+Prep work: Look at university and log the info
+
+**What I did**
+
+1. Data science capstone 1 years course by coursera
+
+2. 1 year writing python code for open source software mechanical?
+
+3. 5 years work ex in Mechanical engineering (doing calculations, thinking
+   about requirements etc.) 
+   
+4. Fast ai course, 2 old kaggle competitions vision and tabular data,
+   courses in sql, and one example project in tableau.
+   
+5. Currently Data Analyst for checkout
+
+**About the course**
+
+1. How does the 1 year BA work at Minnesota? Why BA? internship,
+   hectic, courses, any caveats?
+   
+   Masters in DS, analytics program (U cinn, CMU, GT), or statistics,
+   mathematics, (what should I look for?), ML focused statistics,
+   programming. technical and established? what sort of jobs
+   getting. Target is in minneapolis, 3M best buy united health group,
+   general mills.
+   
+   U cinn has a lot of programs. 
+   
+   Cost, ROI
+   
+   10k scholarship might be possible, interview was easy (not
+   technical)
+   
+   GRE --> 325
+   
+   Did not put lot of effort, so it should prolly be ok.
+   
+   Cost, program courses, ranking? (heard of uni), alumni profile
+   
+   ---
+   
+   Last sem --> capstone project TA is doable, assistantship find it
+   after summer, 5k swipe (definitely doable). 
+   
+   STEM, 
+   
+2. Cost of living? 500 per month. (2 roommates) cost of living.
+
+3. How did you choose a university? What other universities to consider?
+   
+4. funding scene? you seem to have done an internship (you seem to
+   have done other things) --> not too picky
+
+5. Pre-req courses
+
+**Statistics**
+
+1. how did you find job hunting? quite a lot of apps 100, last 3-4
+   months.
+
+2. Do you know recent passouts? 1 person didn't get a job out of 80,
+   previous batch got 100%. Let me see? 
+
+3. Did you mange to do an internship? am not sure? Check with university?
+
+**Other questions**
+
+4. What do you think about Masters in Winter? What about internship as
+   an account of that? 
+   
+6. Other unis to consider? What about XYZ uni based on my research?
+
+7. GRE
+
+---
+
+- Rules for CPT?? internship doesn't come under that 
+- USF course good
+
+
+### summary
+
+cost of living --> cheap 500 
+
+Good chance of getting assistantship during course
+
+And scholarship for good students of about 10k is possible
+
+Good chance of Jobs (all but one out of 80 got job in his year)
+
+**Ask university about internship possibility after course.**
+
+Interview was non-technical.
+
+if you are going to be in DS then do that instead. USF is a good
+course.
+
+## Discussion with Shankar
+
+Most of people get jobs during that job, find uni in california, 
+
+**What I did**
+
+1. Data science capstone 1 years course by coursera
+
+2. 1 year writing python code for open source software mechanical?
+
+3. 5 years work ex in Mechanical engineering (doing calculations, thinking
+   about requirements etc.) 
+   
+4. Fast ai course, 2 old kaggle competitions vision and tabular data,
+   courses in sql, and one example project in tableau.
+   
+5. Currently Data Analyst for checkout
+
+
+UT austin, California, New york, Austin as third, see where the
+graduates are, course structure, U cinn (lot more stats based),
+ambitous, 
+
+grad school is lite? 
+
+**About course**
+
+1. How does the 1 year BA work at Minnesota? Why BA? internship,
+   hectic, courses, any caveats? Harder to go from BA to Data Science!
+   Get feedback from you guys...
+   
+2. Cost of living? 8 people 4 rooms, 1500 pp back then!
+
+3. Choose uni? which to consider?
+
+4. Funding scene --> no scope in my time
+
+5. pre-req courses --> 
+
+**Statistics**
+
+1. how did you find job hunting? brutal! consulting got placed, spring
+   tech companies recruit, best bet is seniors, email cold mail on
+   linkedin. everyone
+
+2. Do you know recent passouts? Linkedin, reach out
+
+3. Did you mange to do an internship? am not sure? Check with university?
+
+**Other questions**
+
+4. What do you think about Masters in Winter? What about internship as
+   an account of that? you'll finish in holiday season.
+   
+6. Other unis to consider? What about XYZ uni based on my research? 
+
+7. GRE, 
+
+---
+
+- Rules for CPT?? internship doesn't come under that 
+- USF course good
+- new students contact?
+
+---
+
+### Summary
+
+- Look at people who graduated from university
+- find them on linkedin
+
+
+
+## Discussion with Sid
+
+1. Masters
+
+2. Cali might not be necessary
+
+3. cost will be in this order?
+
+4. Possibility to do one year masters sounds lucrative
+
+5. talking to people over some time (1-2 months) is the only way?
+
+## GRE and toefl kaushik
+
+manhattan 6lb --> goto book, quants () ???, **youtube videos which
+topic to focus on first**  70-80 questions
+
+manhattan online --> shuffling questions
+
+Barrons --> verbal
+
+magoosh flash cards --> 350 flash cards
+
+verbal ??
+
+essay writing 4 or 5 ()
+
+CAT exam --> quants 
+
+4 sessions
+
+score? 165/170... 310 145/170, 
+
+time? 2 months guess
+
+take mocks every week (do) 
+
+- ETS give you mocks are easy (exam feel)
+- Mocks famous ting? (6 mock exams)
+- @2018 he wrote 
+
+introduce me to her... 
+
+udemy course for ielts
+
+**Dont' worry about writing SOP LOR, getting trascripts will be hard**
+
+

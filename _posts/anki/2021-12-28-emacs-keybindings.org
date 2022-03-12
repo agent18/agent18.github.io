@@ -1,6 +1,25 @@
+* org indent all tags  :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING: <2022-02-15 di 20:49>
+:END:
+
+org indent all tags 
+** Key-binding
+C-u C-c C-q
+** Additional info:
+* eval-selection :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING: <2022-02-07 ma 20:51>
+:END:
+
+eval-selection
+** Key-binding
+you can't, go to last point and do `C-x C-e`
+** Additional info:
 * org mode images format                                              :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING: <2021-12-28 di 23:15>
+:ID:       9fe39763-acbe-4f1e-a225-4435a3515745
 :END:
 ** What to do?
 org mode images
@@ -11,6 +30,7 @@ It's the ?/
 * add prefix at start of the all selected lines :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING: <2021-12-28 di 23:05>
+:ID:       b3db6ebe-5c87-4321-bdb5-3772b1106ae9
 :END:
 ** What to do?
 add prefix at start of the all selected lines
@@ -21,6 +41,7 @@ Select first line and highlight until last line in that order
 * Format of org mode local variables :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING: <2021-12-28 di 22:57>
+:ID:       979d839d-e910-48b7-b6de-5e0d39b38aff
 :END:
 ** What to do?
 Format of org mode local variables
@@ -38,9 +59,19 @@ at the bottom of the essay with
 
 ** Additional info:
 * Ibuffer Mode :drill:
+SCHEDULED: <2022-02-11 vr>
 :PROPERTIES:
 :DRILL_CARD_TYPE: hide2cloze
 :DATE_OF_RECORDING: <2021-12-28 di 22:45>
+:ID:       6116aed1-f0b2-4399-90bf-0ed500ab1bd0
+:DRILL_LAST_INTERVAL: 3.7015
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2022-02-07 ma 20:46]
 :END:
 
 In IBUFFER MODE: Kill all buffers using [`m to mark and then D`]. Bury not
@@ -49,10 +80,20 @@ kill a buffer with [`b`]. Remove all marked lines using
 f`]. Sort by Viewing time using [`s v`]. Sort by major mode [`s m`].
 
 * rename-file :drill:
+SCHEDULED: <2022-02-11 vr>
 :PROPERTIES:
 :DATE_OF_RECORDING: <2021-12-28 di 22:42>
+:ID:       13798866-b5cd-4457-8257-7f713bab7f3c
+:DRILL_LAST_INTERVAL: 3.7992
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-02-07 ma 20:48]
 :END:
-** What to do?
+
 rename-file
 ** Key-binding
 close file --> `M-x rename-file` current file new file -->
@@ -60,10 +101,20 @@ reopen file
 ** Additional info:
 KB not worth it
 * Restart Buffer :drill:
+SCHEDULED: <2022-02-12 za>
 :PROPERTIES:
 :DATE_OF_RECORDING: <2021-12-28 di 22:32>
+:ID:       2b59fda7-a89a-443c-98db-28281e6bffd1
+:DRILL_LAST_INTERVAL: 5.4309
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2022-02-07 ma 20:47]
 :END:
-** What to do?
+
 Restart Buffer
 ** Key-binding
 C-x C-v

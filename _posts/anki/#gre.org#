@@ -1,0 +1,391 @@
+
+* mean median mode IQR range sd :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-02-22 di 22:46>
+:END:
+
+what happens whne you subtract all by 3, does mean, IQR, SD change?
+** Answer
+Mean shifts, IQR doesn't as everything shifts, SD doesn't
+change by changing the mean! Remember that!
+** Other info
+https://youtu.be/RsapS-OIzg8?t=1321
+* mean median mode IQR range sd :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-02-22 di 22:44>
+:END:
+
+What happens when you multiply by 3 the following, Does mean
+mdeian, IQR, sd?
+** Answer
+Mean x3, SD x3, IQRx3, median x3
+** Other info
+https://youtu.be/RsapS-OIzg8?t=1321
+* mean median mode interquartile range :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-02-22 di 22:38>
+:END:
+
+19,21,22,22,28,31,33,44,50 Find median, and interquartile range
+** Answer
+Median 28, IQR = 38.5-21.5 = 17
+** Other info
+IQR is nothing but the 25th percentile - 75th. 
+
+25th percentile can be got by looking at 0 to 50th percentile's
+median. ;)
+* data interpretation english :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-02-22 di 22:16>
+:END:
+
+The percent of members who are categorized as farmers is
+greater for the house of representatives than for the senate.
+** Answer
+Number of farmers who are house of reps/ total house of reps >
+number of framers who are senate/total senate
+** Other info
+https://youtu.be/RsapS-OIzg8?t=795
+* data interpretation english :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-02-22 di 18:36>
+:END:
+
+[[file:images/DI-3-english.png][di3-english]]
+
+** Answer
+
+** Other info
+https://youtu.be/B955e623nrk?t=346 tested tutor
+* data interpretation english :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-02-22 di 18:36>
+:END:
+
+A is how much percent less than B?
+** Answer
+(B-A)/B get it? 
+** Other info
+https://youtu.be/B955e623nrk?t=346 tested tutor
+* data interpretation english :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-02-22 di 18:36>
+:END:
+
+A is how much percent greater than B?
+** Answer
+(A-B)/B get it? 
+** Other info
+https://youtu.be/B955e623nrk?t=346 tested tutor
+* Data interpretation english :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-02-21 ma 18:53>
+:END:
+
+Difference in share of population (for people 13 yoa)
+between california and United States is X percentage points; US
+population: 100mill, Cali pop 20 mill; 13 yoa: 30% of US pop; 13yoa:
+32% of cali pop
+** Answer
+2% points. Apparently when talking about share of population in
+percentage points the answer is 2.
+** Other info
+* pythagorean triplets :drill:
+:PROPERTIES:
+:ID:       5f225c86-fdc8-4de9-8426-19426c8f66d1
+:END:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-02-10 do 20:45>
+:END:
+list 3 pythagorean triplets
+** Answer
+3:4:5, 5:12:13, 8,15,17
+** Other info
+* polygons :drill:
+:PROPERTIES:
+:ID:       d30e8ad9-4e74-4bd9-9e78-10e8c7e275d3
+:END:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-02-10 do 20:06>
+:END:
+total angle in a hexagon
+** Answer
+720 (`180*(n-2)` is the formula)
+** Other info
+* triangles :drill:
+:PROPERTIES:
+:ID:       fce6c725-5ebc-449f-8a6e-0e95298378de
+:END:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-02-10 do 19:50>
+:END:
+ratio of sides of right triangle
+** Answer
+30:60:90 is the angle, x:xroot(3):2x is the ratio of sides
+** Other info
+* triangles :drill:
+:PROPERTIES:
+:ID:       0dbaf5ee-91b2-4b80-a23c-0e0db84a74a0
+:END:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-02-10 do 19:49>
+:END:
+Ratio of sides of isoceles triangle
+** Answer
+45:45:90 is the angle ratio, x:x:x^(1/2)
+** Other info
+* Pythagorean triplets :drill:
+:PROPERTIES:
+:ID:       d20170ab-cc37-47dd-9a64-d118c79a6273
+:END:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-02-10 do 19:42>
+:END:
+hypotenuse is 10, side is 6, what is other side?
+** Answer
+8 is the answer. 6:8:10 --> 3:4:5 is a triplet so is 5:12:13, These are just ratios.
+** Other info
+* Triangles :drill:
+:PROPERTIES:
+:ID:       20c3b860-ebe7-45ed-8876-115c90c483e6
+:END:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-02-10 do 19:34>
+:END:
+Range of third side of a triangle with sides 5, 3
+** Answer
+5-3 = 2 to 5+3 = 8
+** Other info
+* Permutations and Combinations :drill:
+:PROPERTIES:
+:ID:       96d49d72-0354-4bef-87a5-7ab74c21d72a
+:END:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-02-09 wo 20:50>
+:END:
+What is the combination formula for 6 letters and 2
+** Answer
+total permutation (6!/(6-2)!) divided by total permutation for
+2 letters in 2 slots (as order doesn't matter) slots
+
+i.e., 6!/(6-2)!/(2!/0!) = 6!/(6-2)!/2 :)
+** Other info
+* Permutations and Combinations :drill:
+:PROPERTIES:
+:ID:       d45359b5-6f66-4f1a-9fbb-cb7a324eaaf0
+:END:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-02-09 wo 20:45>
+:END:
+What is the permutation formula for letters in slots
+** Answer
+total letters factorial / (letters-slots) factorial
+** Other info
+6 letters and 2 slots have 6x5 permutations, i.e., 6!/(6-2)!
+* Permutation and Combination                                        :drill:
+:PROPERTIES:
+:ID:       682e7840-eace-4a97-8a50-ffdce7246619
+:END:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-02-09 wo 20:43>
+:END:
+What does combination mean for 3 letters in 3 slots 
+** Answer
+Answer is 1, Combination doesn't care about order. i.e., ABC
+BCA ACB are all the same in it's eyes.
+** Other info
+* Permutations and Combinations :drill:
+:PROPERTIES:
+:ID:       9ce74e2d-e7bd-4d26-ba96-414d68584451
+:END:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-02-09 wo 20:40>
+:END:
+What does permutation mean? for 3 letters in 3 slots
+** Answer
+Arranging 3 letters on three slots takes 3x2x1, i.e., ABC,
+ACB, BAC, BCA, CAB, CBA. 
+** Other info
+* Mode :drill:
+:PROPERTIES:
+:ID:       92dade8f-1154-4844-9ba2-27687db5179a
+:END:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-02-08 di 19:35>
+:END:
+Mode of 0, 10, 10 ,5, 9, 6, 7, 8,4
+** Answer
+10
+** Other info
+Most frequently used number.
+* Median                                                              :drill:
+:PROPERTIES:
+:ID:       3f0a540e-f33a-4b84-bbaa-f9d1b3531a22
+:END:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-02-08 di 19:34>
+:END:
+What is the median of even list?
+** Answer
+average of the two center numbers
+** Other info
+* Median                                                              :drill:
+:PROPERTIES:
+:ID:       42abbe96-114c-4c2e-92ac-77b7ecfa9236
+:END:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-02-08 di 19:32>
+:END:
+Median of -2.5,-2,0,1,4,5,6
+** Answer
+1. For odd list median is center value
+** Other info
+For even list median is average of two center values
+* weighted average :drill:
+:PROPERTIES:
+:ID:       af0a58d5-bca4-482e-a64d-0761222a113c
+:END:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-02-08 di 19:28>
+:END:
+Averge = 90%. He got 85, 89 and 96 and last test is weighted
+at 2 times. Find last testUse teeter totter method. Balance the three scores with
+90% in the middle of a teeter totter. :)
+** Answer
+90%
+** Other info
+* averages :drill:
+:PROPERTIES:
+:ID:       06a8025b-22c7-4017-923d-c3680c42a26e
+:END:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-02-08 di 19:12>
+:END:
+18 people with 92% and 20 people with 94%
+** Answer
+93.05 (Don't make the whole average calculation)
+** Other info
+You can pull out 92 from the average equation. i.e.,
+(92*38 + 0*18 + 2*20)/38. Massive Star mark.
+* Arithmetic :drill:
+:PROPERTIES:
+:ID:       177f7b65-b412-40af-b9b2-0336ba95affd
+:END:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-02-07 ma 21:14>
+:END:
+828.5-707.5
+** Answer
+121
+** Other info
+NOT 120. don't forget the 10s place
+* Arithmetic :drill:
+:PROPERTIES:
+:ID:       c8241306-8b6c-4bbf-ab1b-ffb40b9cf6ab
+:END:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-02-07 ma 21:12>
+:END:
+205*3.5
+** Answer
+717.5
+** Other info
+205*3.5 = ~707.5~ but it is 715.5 (Don't forget to multiply 10s place)
+* Data :drill:
+:PROPERTIES:
+:ID:       a0d8e1bf-c013-4594-aca5-8b69b0ed6689
+:END:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-02-07 ma 21:03>
+:END:
+In which year did wages increase by less than 2% of the wage
+at the beginning of the year? 
+
+2010: 100; 2011: 101; 2012: 200; 2013:204
+** Answer
+2010
+** Other info
+Beginning of the year --> year of interest apparently
+Wage increase --> base year is the year of interest and next year is
+looked at NOT PREVIOUS YEAR.
+* Percentage, average :drill:
+:PROPERTIES:
+:ID:       02d9f605-0f5f-4ca3-a4b4-f010e989b8ae
+:END:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-02-07 ma 20:58>
+:END:
+> In his Organic Chemistry class, Archibald has test scores of 82, 87,
+> 88, and 95, with one test remaining. Which of the following scores
+> on his final test would change his average by two percentage points?
+** Answer
+78 & 98
+** Other info
+his average by two percentage points --> +- 2 points. Direction is not
+mentioned. But I assumed it like an idiot.
+* Rates                                                               :drill:
+:PROPERTIES:
+:ID:       de493ca7-289e-4a76-a279-765d3a4a8777
+:END:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-02-07 ma 20:55>
+:END:
+Formula for total time for 1 project when 2 people working on a project
+** Answer
+1/T = 1/T1 + 1/T2 i.e., T1xT2/(T1+T2) = T (time for one project)
+** Other info
+* Rates                                                               :drill:
+:PROPERTIES:
+:ID:       3766434e-d2ba-4078-aa44-5b8022ee8a42
+:DRILL_LAST_INTERVAL: 0.0
+:DRILL_REPEATS_SINCE_FAIL: 1
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 0.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 0
+:DRILL_LAST_REVIEWED: [2022-02-07 ma 20:54]
+:END:
+
+Pandian takes 4 hrs to finish a job. Indian takes 6 hrs to finish a
+job, how long for both to finish a job?
+
+** The Answer
+2 2/5
+9
+** Other info
+
+Pandian's rate is 1/4 project per hr. Indian's rate is 1/6 projects
+per hr.
+
+Together they can finish 10/24 projects in one hr. Which means
+together they can finish 1 project in (look at the above formula), 
+
+Time = 1 project / (10/24) projects per hr. :)
+
+i.e., 2 2/5 hrs
+
+* Link
+**  https://orgmode.org/worg/org-contrib/org-drill.html
+** organization-capture
+** [[./2021-12-27-examples-anki.org][examples]]
+* notes
+** org-drill
+** org-drill-cram to cram everything or revise all 
+(org-drill-cram-hours to figure out how many hours before your should
+not re-ask)
+** org-drill-scope 
+Use this to `org-drill` more
+** org-drill-strip-all-data
+** org-drill-scope: (file1 file2 file3 etc.)
+** code
+(setq-local org-drill-cram-hours 13)
+* COMMENT Local Variables
+# Local Variables:
+# org-drill-cram-hours: 0
+# org-drill-hide-item-headings-p: t
+# org-drill-scope: file
+# org-drill-maximum-items-per-session: 30
+# org-drill-maximum-items-per-session: 20
+# End:
+

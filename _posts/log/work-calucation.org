@@ -1,5 +1,72 @@
 #+COLUMNS: %7TODO(To Do) %40ITEM(Task) %10CLOCKSUM(Clock)
 #+TAGS: work(w)  DP(d) break(b) meta(m) DS(s) blog(g) other(o) reading(r) NATW(n) apping(a)
+* work (masters and other tings)
+** Counted for work                                                    :work:
+*** Prepping for task
+*** Looking for content
+*** masters
+*** GRE
+:LOGBOOK:
+CLOCK: [2022-02-23 wo 21:00]--[2022-02-23 wo 22:20] =>  1:20
+CLOCK: [2022-02-22 di 19:30]--[2022-02-22 di 22:16] =>  2:46
+CLOCK: [2022-02-21 ma 18:33]--[2022-02-21 ma 22:05] =>  3:32
+CLOCK: [2022-02-21 ma 14:33]--[2022-02-21 ma 17:33] =>  3:00
+CLOCK: [2022-02-19 za 19:51]--[2022-02-19 za 22:53] =>  3:02
+CLOCK: [2022-02-18 vr 10:54]--[2022-02-18 vr 13:40] =>  2:46
+CLOCK: [2022-02-17 do 21:07]--[2022-02-17 do 21:50] =>  0:43
+CLOCK: [2022-02-16 wo 20:33]--[2022-02-16 wo 21:50] =>  1:17
+CLOCK: [2022-02-16 wo 18:44]--[2022-02-16 wo 19:55] =>  1:11
+CLOCK: [2022-02-15 di 21:38]--[2022-02-15 di 22:08] =>  0:30
+CLOCK: [2022-02-15 di 20:10]--[2022-02-15 di 21:15] =>  1:05
+CLOCK: [2022-02-15 di 18:36]--[2022-02-15 di 19:40] =>  1:04
+CLOCK: [2022-02-14 ma 23:00]--[2022-02-14 ma 23:35] =>  0:35
+CLOCK: [2022-02-14 ma 20:02]--[2022-02-14 ma 22:05] =>  2:03
+CLOCK: [2022-02-10 do 19:11]--[2022-02-10 do 21:20] =>  2:09
+CLOCK: [2022-02-09 wo 19:33]--[2022-02-09 wo 21:25] =>  1:52
+CLOCK: [2022-02-08 di 18:59]--[2022-02-08 di 20:45] =>  1:46
+CLOCK: [2022-02-07 ma 19:20]--[2022-02-07 ma 21:10] =>  1:50
+CLOCK: [2022-02-07 ma 13:46]--[2022-02-07 ma 16:00] =>  2:14
+CLOCK: [2022-02-07 ma 11:32]--[2022-02-07 ma 13:10] =>  1:38
+CLOCK: [2022-02-06 zo 21:15]--[2022-02-06 zo 21:53] =>  0:38
+CLOCK: [2022-02-06 zo 11:46]--[2022-02-06 zo 13:39] =>  1:53
+CLOCK: [2022-02-05 za 09:53]--[2022-02-05 za 10:55] =>  1:02
+CLOCK: [2022-02-02 wo 19:48]--[2022-02-02 wo 20:36] =>  0:48
+CLOCK: [2022-02-01 di 19:40]--[2022-02-01 di 20:34] =>  0:54
+CLOCK: [2022-01-31 ma 19:49]--[2022-01-31 ma 21:00] =>  1:11
+CLOCK: [2022-01-30 zo 08:46]--[2022-01-30 zo 10:25] =>  1:39
+CLOCK: [2022-01-28 vr 06:25]--[2022-01-28 vr 07:31] =>  1:06
+CLOCK: [2022-01-28 vr 06:25]--[2022-01-28 vr 06:25] =>  0:00
+:END:
+*** other
+*** DPing                                                              :DP:
+** Other useful stuff                                                 :meta:
+*** Work done for STM 
+
+** Not counted for DP                                                :break:
+*** Breaks
+**** Working on Org mode
+**** Dreaming
+**** Random
+*** Sleeping 
+*** Watching Youtube
+*** Playing with phone
+
+*today
+
+finish settling money with achu
+
+watch porn and sleep
+plan for friday to celebrate guns bday
+picnic
+
+for work
+
+Randomization 
+send mail about carpooling 
+final mail (weather and shit)
+
+buy holidays tomorow
+buy shares figure out tomo
 * 4 weeks in US
 ** Counted for work                                                    :work:
 *** Prepping for task
@@ -11,6 +78,7 @@ CLOCK: [2021-12-16 do 07:11]--[2021-12-16 do 07:40] =>  0:29
 *** Looking for content
 *** typeracer
 :LOGBOOK:
+CLOCK: [2022-01-06 do 10:49]--[2022-01-06 do 10:58] =>  0:09
 CLOCK: [2021-12-29 wo 08:25]--[2021-12-29 wo 08:55] =>  0:30
 CLOCK: [2021-12-22 wo 22:35]--[2021-12-22 wo 22:43] =>  0:08
 CLOCK: [2021-12-21 di 18:44]--[2021-12-21 di 18:48] =>  0:04
@@ -42,6 +110,35 @@ CLOCK: [2021-12-14 di 17:31]--[2021-12-14 di 18:16] =>  0:45
 :END:
 *** Masters in Data Science research
 :LOGBOOK:
+CLOCK: [2022-01-22 za 09:12]--[2022-01-22 za 10:35] =>  1:23
+CLOCK: [2022-01-18 di 19:23]--[2022-01-18 di 20:20] =>  0:57
+CLOCK: [2022-01-17 ma 02:05]--[2022-01-17 ma 03:20] =>  1:15
+CLOCK: [2022-01-10 ma 09:28]--[2022-01-10 ma 10:29] =>  1:01
+CLOCK: [2022-01-09 zo 18:21]--[2022-01-09 zo 19:18] =>  0:57
+CLOCK: [2022-01-07 vr 13:55]--[2022-01-07 vr 14:49] =>  0:54
+CLOCK: [2022-01-07 vr 11:52]--[2022-01-07 vr 12:30] =>  0:38
+CLOCK: [2022-01-06 do 14:18]--[2022-01-06 do 15:19] =>  1:01
+CLOCK: [2022-01-06 do 10:28]--[2022-01-06 do 10:49] =>  0:21
+CLOCK: [2022-01-06 do 09:20]--[2022-01-06 do 09:32] =>  0:12
+CLOCK: [2022-01-06 do 08:44]--[2022-01-06 do 09:20] =>  0:36
+CLOCK: [2022-01-05 wo 20:19]--[2022-01-05 wo 22:15] =>  1:56
+CLOCK: [2022-01-05 wo 18:24]--[2022-01-05 wo 19:20] =>  0:56
+CLOCK: [2022-01-05 wo 14:15]--[2022-01-05 wo 14:45] =>  0:30
+CLOCK: [2022-01-05 wo 10:17]--[2022-01-05 wo 10:45] =>  0:28
+CLOCK: [2022-01-05 wo 09:53]--[2022-01-05 wo 09:53] =>  0:00
+CLOCK: [2022-01-05 wo 08:38]--[2022-01-05 wo 09:25] =>  0:47
+CLOCK: [2022-01-05 wo 08:14]--[2022-01-05 wo 08:30] =>  0:16
+CLOCK: [2022-01-04 di 15:11]--[2022-01-04 di 16:01] =>  0:50
+CLOCK: [2022-01-04 di 11:05]--[2022-01-04 di 11:31] =>  0:26
+CLOCK: [2022-01-04 di 10:18]--[2022-01-04 di 11:05] =>  0:47
+CLOCK: [2022-01-04 di 08:10]--[2022-01-04 di 08:57] =>  0:47
+CLOCK: [2022-01-03 ma 21:57]--[2022-01-03 ma 22:26] =>  0:29
+CLOCK: [2022-01-03 ma 20:29]--[2022-01-03 ma 21:36] =>  1:07
+CLOCK: [2022-01-03 ma 19:02]--[2022-01-03 ma 19:39] =>  0:37
+CLOCK: [2022-01-03 ma 16:04]--[2022-01-03 ma 16:39] =>  0:35
+CLOCK: [2022-01-03 ma 10:59]--[2022-01-03 ma 12:02] =>  1:03
+CLOCK: [2022-01-03 ma 08:06]--[2022-01-03 ma 09:14] =>  1:08
+CLOCK: [2022-01-02 zo 18:35]--[2022-01-02 zo 19:17] =>  0:42
 CLOCK: [2021-12-30 do 14:34]--[2021-12-30 do 14:34] =>  0:00
 CLOCK: [2021-12-30 do 09:33]--[2021-12-30 do 10:52] =>  1:19
 CLOCK: [2021-12-30 do 07:57]--[2021-12-30 do 08:55] =>  0:58
@@ -83,7 +180,7 @@ CLOCK: [2021-12-15 wo 20:50]--[2021-12-15 wo 22:02] =>  1:12
 :END:
 *** writing
 :LOGBOOK:
-CLOCK: [2021-12-31 vr 09:12]
+CLOCK: [2021-12-31 vr 09:12]--[2021-12-31 vr 11:04] =>  1:52
 CLOCK: [2021-12-31 vr 07:41]--[2021-12-31 vr 08:53] =>  1:12
 CLOCK: [2021-12-30 do 23:19]--[2021-12-31 vr 00:31] =>  1:12
 CLOCK: [2021-12-30 do 20:14]--[2021-12-30 do 21:50] =>  1:36
@@ -95,6 +192,7 @@ CLOCK: [2021-12-29 wo 09:56]--[2021-12-29 wo 11:07] =>  1:11
 :END:
 *** other
 :LOGBOOK:
+CLOCK: [2022-01-03 ma 09:39]--[2022-01-03 ma 10:20] =>  0:41
 CLOCK: [2021-12-28 di 21:09]--[2021-12-28 di 23:31] =>  2:22
 CLOCK: [2021-12-28 di 18:37]--[2021-12-28 di 19:02] =>  0:25
 CLOCK: [2021-12-28 di 16:51]--[2021-12-28 di 18:10] =>  1:19
@@ -108,11 +206,17 @@ CLOCK: [2021-12-25 za 22:01]--[2021-12-25 za 22:50] =>  0:49
 *** DPing                                                              :DP:
 ** Other useful stuff                                                 :meta:
 :LOGBOOK:
+CLOCK: [2022-01-05 wo 11:22]--[2022-01-05 wo 12:12] =>  0:50
+CLOCK: [2022-01-04 di 21:25]--[2022-01-04 di 22:49] =>  1:24
 :END:
 *** Work done for STM 
 
 ** Not counted for DP                                                :break:
 :LOGBOOK:
+CLOCK: [2022-01-06 do 15:19]--[2022-01-06 do 22:17] =>  6:58
+CLOCK: [2022-01-04 di 08:57]--[2022-01-04 di 10:18] =>  1:21
+CLOCK: [2022-01-03 ma 10:20]--[2022-01-03 ma 10:59] =>  0:39
+CLOCK: [2022-01-03 ma 09:14]--[2022-01-03 ma 09:39] =>  0:25
 CLOCK: [2021-12-30 do 21:50]--[2021-12-30 do 23:19] =>  1:29
 CLOCK: [2021-12-30 do 10:53]--[2021-12-30 do 14:34] =>  3:41
 CLOCK: [2021-12-30 do 07:57]--[2021-12-30 do 07:57] =>  0:00
@@ -147,7 +251,7 @@ final mail (weather and shit)
 buy holidays tomorow
 buy shares figure out tomo
 * Data Science Masters
-** Counted for work                                                    :work:
+** Counted for work                                                   :work:
 *** Prepping for task
 
 *** Looking for content
@@ -1361,7 +1465,7 @@ send mail about carpooling
 final mail (weather and shit)
 
 buy holidays tomorow
-buy shares figure out tomo
+buy shares figure out toom
 * spark hadoop
 ** Counted for work                                                    :work:
 *** Prepping for task
@@ -6127,6 +6231,7 @@ Weekly report starting on: [2021-08-23 ma]
 
 Weekly report starting on: [2021-08-30 ma]
 | Tags | Headline             |   Time |
+|      |                      |        |
 |------+----------------------+--------|
 |      | *Total time*         | *2:20* |
 |------+----------------------+--------|
@@ -6142,45 +6247,44 @@ https://orgmode.org/manual/The-clock-table.html
 
 #+BEGIN: clocktable :maxlevel 3 :scope file :step day :tstart "<-3d>" :tend "<tomorrow>" :tags t :compact t :match "-break-NATW"
 
-Daily report: [2021-12-27 ma]
+Daily report: [2022-01-02 zo]
 | Tags | Headline                               |   Time |
 |------+----------------------------------------+--------|
-|      | *Total time*                           | *3:59* |
+|      | *Total time*                           | *0:42* |
 |------+----------------------------------------+--------|
-|      | 4 weeks in US                          |   3:59 |
-| work | \_  Counted for work                   |   3:59 |
-| work | \_    Masters in Data Science research |   3:34 |
-| work | \_    other                            |   0:25 |
+|      | 4 weeks in US                          |   0:42 |
+| work | \_  Counted for work                   |   0:42 |
+| work | \_    Masters in Data Science research |   0:42 |
 
-Daily report: [2021-12-28 di]
-| Tags | Headline             |   Time |
-|------+----------------------+--------|
-|      | *Total time*         | *7:13* |
-|------+----------------------+--------|
-|      | 4 weeks in US        |   7:13 |
-| work | \_  Counted for work |   7:13 |
-| work | \_    other          |   7:13 |
-
-Daily report: [2021-12-29 wo]
+Daily report: [2022-01-03 ma]
 | Tags | Headline                               |   Time |
 |------+----------------------------------------+--------|
 |      | *Total time*                           | *5:40* |
 |------+----------------------------------------+--------|
 |      | 4 weeks in US                          |   5:40 |
 | work | \_  Counted for work                   |   5:40 |
-| work | \_    typeracer                        |   0:30 |
-| work | \_    Masters in Data Science research |   2:07 |
-| work | \_    writing                          |   3:03 |
+| work | \_    Masters in Data Science research |   4:59 |
+| work | \_    other                            |   0:41 |
 
-Daily report: [2021-12-30 do]
+Daily report: [2022-01-04 di]
 | Tags | Headline                               |   Time |
 |------+----------------------------------------+--------|
-|      | *Total time*                           | *5:12* |
+|      | *Total time*                           | *4:14* |
 |------+----------------------------------------+--------|
-|      | 4 weeks in US                          |   5:12 |
-| work | \_  Counted for work                   |   5:12 |
-| work | \_    Masters in Data Science research |   2:17 |
-| work | \_    writing                          |   2:55 |
+|      | 4 weeks in US                          |   4:14 |
+| work | \_  Counted for work                   |   2:50 |
+| work | \_    Masters in Data Science research |   2:50 |
+| meta | \_  Other useful stuff                 |   1:24 |
+
+Daily report: [2022-01-05 wo]
+| Tags | Headline                               |   Time |
+|------+----------------------------------------+--------|
+|      | *Total time*                           | *5:43* |
+|------+----------------------------------------+--------|
+|      | 4 weeks in US                          |   5:43 |
+| work | \_  Counted for work                   |   4:53 |
+| work | \_    Masters in Data Science research |   4:53 |
+| meta | \_  Other useful stuff                 |   0:50 |
 #+END:
 
 scrolling issue 

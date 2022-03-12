@@ -1,7 +1,5605 @@
-* lofty :drill:
+#+TAGS: drill nodef
+* indispensable :drill:
+indispensable
+** Example and meaning
+absolutely necessary.
+"he made himself indispensable to the parish priest"
+h
+Similar:
+essential
+crucial
+necessary
+* furtive :drill:
+furtive
+** Example and meaning
+1. attempting to avoid notice or attention, typically because of guilt or a belief that discovery would lead to trouble; secretive.
+"they spent a furtive day together"
+h
+Similar:
+secretive
+secret
+surreptitious
+sly
+2.     suggestive of guilty nervousness.
+    "the look in his eyes became furtive"
+* feign :drill:
+feign
+** Example and meaning
+pretend to be affected by (a feeling, state, or injury).
+"she feigned nervousness"
+h
+Similar:
+simulate
+fake
+sham
+* fastitious :drill:
+fastitious
+** Example and meaning
+very attentive to and concerned about accuracy and detail.
+"she dressed with fastidious care"
+h
+Similar:
+scrupulous
+punctilious
+painstaking
+meticulous
+assiduous
+
+sedulous
+* exculpate :drill:
+exculpate
+** Example and meaning
+show or declare that (someone) is not guilty of wrongdoing.
+"the article exculpated the mayor"
+* eschew :drill:
+eschew
+** Example and meaning
+deliberately avoid using; abstain from.
+"he appealed to the crowd to eschew violence"
+h
+Similar:
+abstain from
+refrain from
+give up
+* befuddled :drill:
+befuddled
+** Example and meaning
+make (someone) unable to think clearly.
+"the logic used to arrive at this conclusion befuddles me"
+h
+Similar:
+confused
+muddled
+addled
+* ascribe :drill:
+ascribe
+** Example and meaning
+regard something as being due to (a cause).
+"he ascribed Jane's short temper to her upset stomach"
+h
+Similar:
+attribute
+assign
+put down
+set down
+* antithesis :drill:
+antithesis
+** Example and meaning
+a person or thing that is the direct opposite of someone or something else.
+"love is the antithesis of selfishness"
+h
+Similar:
+(direct) opposite
+converse
+reverse
+reversal
+* acumen :drill:
+acumen
+** Example and meaning
+the ability to make good judgements and take quick decisions.
+"she hides a shrewd business acumen"
+h
+Similar:
+astuteness
+awareness
+shrewdness
+acuity
+* repudiate :drill:
+repudiate
+** Example and meaning
+2.
+deny the truth or validity of.
+"the minister repudiated allegations of human rights abuses"
+h
+Similar:
+deny
+refute
+contradict
+rebut
+refuse to accept; reject.
+
+1. "she has repudiated policies associated with previous party leaders"
+h
+Similar:
+reject
+renounce
+abandon
+* precarious :drill:
+precarious
+** Example and meaning
+not securely held or in position; dangerously likely to fall or collapse.
+"a precarious ladder"
+
+    dependent on chance; uncertain.
+    "he made a precarious living as a painter"
+    h
+    Similar:
+    uncertain
+
+insecure
+unreliable
+unsure
+* outstrip :drill:
+outstrip
+** Example and meaning
+ 1 : to go faster or farther than
+2 : to get ahead of
+* mordant :drill:
+mordant
+** Example and meaning
+(especially of humour) having or showing a sharp or critical quality; biting.
+"a mordant sense of humour"
+h
+Similar:
+caustic
+trenchant
+biting
+cutting
+acerbic
+* irascible
+irascible
+
+** Example and meaning
+having or showing a tendency to be easily angered.
+"an irascible and difficult man"
+h
+Similar:
+irritable
+quick-tempered
+short-tempered
+bad-tempered
+* impetuous :drill:
+impetuous
+** Example and meaning
+1. acting or done quickly and without thought or care.
+"she might live to rue this impetuous decision"
+h
+Similar:
+impulsive
+rash
+hasty
+overhasty
+2. moving forcefully or rapidly.
+"an impetuous but controlled flow of water"
+h
+Similar:
+torrential
+powerful
+forceful
+* hodgepodge :drill:
+hodgepodge
+** Example and meaning
+a confused mixture; a hotchpotch.
+"Rob's living room was a hodgepodge of modern furniture and antiques"
+h
+Similar:
+mixture
+mix
+mixed bag
+assortment
+* forbear :drill:
+forbear
+** Example and meaning
+politely or patiently restrain an impulse to do something; refrain.
+"he modestly forbears to include his own work"
+h
+Similar:
+refrain
+abstain
+desist
+keep
+* felicitous :drill:
+felicitous
+** Example and meaning
+well chosen or suited to the circumstances.
+"a felicitous phrase"
+h
+
+Similar:
+apt
+well chosen
+
+pleasing and fortunate.
+"the view was the room's only felicitous feature"
+h
+Similar:
+fortunate
+advantageous
+good
+* erudite :drill:
+erudite
+** Example and meaning
+"Ken could turn any conversation into an erudite discussion"
+h
+Similar:
+learned
+scholarly
+well educated
+knowledgeable
+* elicit :drill:
+elicit
+** Example and meaning
+"I tried to elicit a smile from Joanna"
+h
+Similar:
+obtain
+bring out
+draw out
+extract
+* edify :drill:
+edify
+** Example and meaning
+instruct or improve (someone) morally or intellectually.
+"Rachel had edified their childhood with frequent readings from Belloc"
+
+Similar:
+educate
+instruct
+teach
+school
+tutor
+* dichtotomy :drill:
+dichtotomy
+** Example and meaning
+a division or contrast between two things that are or are represented as being opposed or entirely different.
+"a rigid dichotomy between science and mysticism"
+
+Similar:
+division
+separation
+divorce
+* comity :drill:
+comity
+** Example and meaning
+1.
+an association of nations for their mutual benefit.
+
+    the mutual recognition by nations of the laws and customs of others.
+    plural noun: comity of nations; noun: comity of nations
+
+2.
+courtesy and considerate behaviour towards others.
+"a show of public comity in the White House"
+* brook :drill:
+brook
+** Example and meaning
+tolerate or allow (something, typically dissent or opposition).
+"Jenny would brook no criticism of Matthew"
+
+Similar:
+tolerate
+allow
+stand
+
+bear
+* boorish :drill:
+boorish
+** Example and meaning
+rough and bad-mannered; coarse.
+"boorish behaviour"
+
+Similar:
+coarse
+uncouth
+rude
+discourteous
+* recalcitrant                                                        :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       d10cd8e4-1b1c-43d1-acff-7f9fafe3c8e4
+:DRILL_LAST_INTERVAL: 3.7148
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 20:12]
+:END:
+recalcitrant
+** Example and meaning
+having an obstinately uncooperative attitude towards authority or discipline.
+"a class of recalcitrant fifteen-year-olds"
+h
+Similar:
+uncooperative
+obstinately disobedient
+intractable
+
+Opposite:
+amenable
+docile
+
+
+
+    a person with an obstinately uncooperative attitude.
+    "a stiff-necked recalcitrant and troublemaker"
+* vapid                                                         :drill:leech:
+:PROPERTIES:
+:ID:       644d22ce-041c-46b5-bf82-84cef4a91cf8
+:DRILL_LAST_INTERVAL: 0.0
+:DRILL_REPEATS_SINCE_FAIL: 1
+:DRILL_TOTAL_REPEATS: 16
+:DRILL_FAILURE_COUNT: 16
+:DRILL_AVERAGE_QUALITY: 1.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 1
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 20:10]
+:END:
+vapid
+** Example and meaning
+offering nothing that is stimulating or challenging; bland.
+"tuneful but vapid musical comedies"
+h
+Similar:
+insipid
+uninspired
+colourless
+* utilitarian                                                         :drill:
+
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       47cbd7d9-3134-4da3-a36c-5e2ce0d601c8
+:DRILL_LAST_INTERVAL: 3.976
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:58]
+:END:
+utilitarian
+** Example and meaning
+designed to be useful or practical rather than attractive
+* scrupulous                                                          :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       2f9b9e72-419c-4fc4-8ad4-af9c400c7ac0
+:DRILL_LAST_INTERVAL: 4.0035
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 20:02]
+:END:
+scrupulous
+** Example and meaning
+1. meticulous, puntillious, sedulous; 2. honest,
+avoiding doing wrong. She's too scrupulous to have an affair
+* skulduggery                                                         :drill:
+SCHEDULED: <2022-03-14 ma>
+:PROPERTIES:
+:ID:       8fbd41f1-9c8c-4518-b9ca-8457eb77b6cc
+:DRILL_LAST_INTERVAL: 3.4687
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 1.5
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 20:09]
+:END:
+skulduggery
+** Example and meaning
+underhand, unscrupulous, or dishonest behaviour or activities.
+"a firm that investigates commercial skulduggery"
+h
+Similar:
+trickery
+swindling
+fraudulence
+double-dealing
+sharp practice
+* scant                                                               :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       39c1d3c0-fe69-496e-86c2-ada8d414ef57
+:DRILL_LAST_INTERVAL: 3.8873
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 20:02]
+:END:
+scant
+** Example and meaning
+insufficient, barely sufficient
+* sanguine                                                            :drill:
+SCHEDULED: <2022-03-16 wo>
+:PROPERTIES:
+:ID:       a8a71900-60ee-4059-a858-beedf234bccb
+:DRILL_LAST_INTERVAL: 4.53
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 4
+:DRILL_AVERAGE_QUALITY: 1.4
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 20:07]
+:END:
+sanguine
+** Example and meaning
+optimistic especially in a bad or difficult situation;
+
+optimistic or positive, especially in an apparently bad or difficult situation.  "he
+is sanguine about prospects for the global economy" h Similar:
+optimistic bullish hopeful buoyant
+* pugnacious                                                          :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       80d8520f-8da1-498c-ae56-29ffe28a974e
+:DRILL_LAST_INTERVAL: 4.4403
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 1.667
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 20:05]
+:END:
+pugnacious
+** Example and meaning
+eager or quick to argue, quarrel, or fight.
+"his public statements became increasingly pugnacious"
+h
+Similar:
+combative
+aggressive
+antagonistic
+belligerent
+* perfidy                                                       :drill:leech:
+:PROPERTIES:
+:ID:       124b6590-9551-4ff4-9b64-c47799c1616e
+:DRILL_LAST_INTERVAL: 0.0
+:DRILL_REPEATS_SINCE_FAIL: 1
+:DRILL_TOTAL_REPEATS: 16
+:DRILL_FAILURE_COUNT: 16
+:DRILL_AVERAGE_QUALITY: 1.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 1
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 20:10]
+:END:
+perfidy
+** Example and meaning
+the state of being deceitful and untrustworthy.
+"it was an example of his perfidy"
+
+Similar:
+treachery
+duplicity
+deceit
+* palpable                                                            :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       5bbb3383-090c-4a3f-ac37-1d1f814ced24
+:DRILL_LAST_INTERVAL: 4.3251
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 7
+:DRILL_FAILURE_COUNT: 6
+:DRILL_AVERAGE_QUALITY: 1.286
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 20:09]
+:END:
+palpable
+** Example and meaning
+Tension in the room was so palpable that you could
+almost feel it --> almost tangible, palpable bump on the head --> tangible
+touchable
+noticeable
+detectable
+solid
+* nettlesome                                                          :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       9e7b29f0-8928-47a2-b466-5311c891436a
+:DRILL_LAST_INTERVAL: 4.115
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 20:02]
+:END:
+nettlesome
+** Example and meaning
+
+causing annoyance
+* indiscriminate                                                      :drill:
+SCHEDULED: <2022-03-14 ma>
+:PROPERTIES:
+:ID:       8778b166-21a4-419d-bd8b-a7c4241135d7
+:DRILL_LAST_INTERVAL: 3.0963
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 20:05]
+:END:
+indiscriminate
+** Example and meaning
+discriminate --> differentiate, 
+indiscriminate --> done at random or without careful judgement.
+"the indiscriminate use of antibiotics can cause problems"
+* gainsay                                                       :drill:leech:
+:PROPERTIES:
+:ID:       058f6894-85aa-4043-a133-d4981ea186d3
+:DRILL_LAST_INTERVAL: 0.0
+:DRILL_REPEATS_SINCE_FAIL: 1
+:DRILL_TOTAL_REPEATS: 16
+:DRILL_FAILURE_COUNT: 16
+:DRILL_AVERAGE_QUALITY: 1.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 1
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 20:10]
+:END:
+gainsay
+** Example and meaning
+deny or contradict (a fact or statement).
+"the impact of the railways cannot be gainsaid"
+
+Similar:
+deny
+dispute
+disagree with
+* forestall                                                           :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       ab8430d9-11a3-49d6-874b-ccf54aea5636
+:DRILL_LAST_INTERVAL: 3.7634
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 20:06]
+:END:
+forestall
+** Example and meaning
+act in advance of (someone) in order to prevent them from doing something.
+"he would have spoken but David forestalled him"
+* egregious                                                           :drill:
+SCHEDULED: <2022-03-14 ma>
+:PROPERTIES:
+:ID:       7fe49147-c319-4ffa-a6ce-c1a0f8bb9b6f
+:DRILL_LAST_INTERVAL: 3.2614
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:57]
+:END:
+egregious
+** Example and meaning
+It's outrageous, egregious and preposterous---Seinfeld
+
+Outstandingly bad, shocking
+* convivial                                                           :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       17815623-ad63-4ba6-aad6-d62ebbf569d4
+:DRILL_LAST_INTERVAL: 3.9337
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 8
+:DRILL_FAILURE_COUNT: 7
+:DRILL_AVERAGE_QUALITY: 1.25
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 20:07]
+:END:
+convivial
+** Example and meaning
+friendly, genial, amiable, affable
+* hyperbole                                                           :drill:
+SCHEDULED: <2022-03-16 wo>
+:PROPERTIES:
+:ID:       d5534c8b-87c4-404c-b02b-07b590a34110
+:DRILL_LAST_INTERVAL: 4.6043
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 20:05]
+:END:
+hyperbole
+** Example and meaning
+exaggerated claims not to be taken literally
+* underscore                                                          :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       610ae570-82e2-42ff-87cf-2c74bad4246c
+:DRILL_LAST_INTERVAL: 3.8668
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 20:03]
+:END:
+underscore
+** Example and meaning
+emphasize
+* placid                                                              :drill:
+SCHEDULED: <2022-03-16 wo>
+:PROPERTIES:
+:ID:       3a4287c4-a71b-4c3c-a933-00664b5a7dc6
+:DRILL_LAST_INTERVAL: 4.8081
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:56]
+:END:
+placid
+** Example and meaning
+calm, tranquil
+* intimate                                                            :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       4aa5b6b3-b138-482c-86c0-0f282824c959
+:DRILL_LAST_INTERVAL: 3.9799
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:58]
+:END:
+intimate
+** Example and meaning
+closely acquainted, also IMPLY or state or make known
+* incendiary                                                          :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       c5be2bf9-4a35-4258-8763-9d06b5db3313
+:DRILL_LAST_INTERVAL: 3.8319
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 20:04]
+:END:
+incendiary
+** Example and meaning
+.
+(of a device or attack) designed to cause fires.
+"incendiary bombs"
+h
+Similar:
+combustible
+flammable
+inflammable
+fire-producing
+fire-raising
+2.
+tending to stir up conflict.
+"incendiary rhetoric"
+h
+Similar:
+inflammatory
+rabble-rousing
+provocative
+agitational
+* burgeon                                                             :drill:
+SCHEDULED: <2022-03-14 ma>
+:PROPERTIES:
+:ID:       206c4ac0-4278-4fff-b32d-49b890a06f8f
+:DRILL_LAST_INTERVAL: 2.619
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 1.667
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 20:07]
+:END:
+burgeon
+** Example and meaning
+begin to grow or increase rapidly; flourish.
+"the city's suburbs have burgeoned, sprawling out from the centre"
+* candid                                                              :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       4753b7ef-bf0a-485a-888f-2b698d0a99d4
+:DRILL_LAST_INTERVAL: 3.713
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 20:06]
+:END:
+candid
+** Example and meaning
+truthful and straightforward
+* tendentious                                                         :drill:
+SCHEDULED: <2022-03-12 za>
+:PROPERTIES:
+:ID:       282ce4fc-0823-4f8f-b2bc-15c3f87d7f39
+:DRILL_LAST_INTERVAL: 5.2979
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 1.667
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-07 ma 22:05]
+:END:
+tendentious
+** Example and meaning
+expressing or intending to promote a particular cause or point of
+view, especially a controversial one.  
+
+"a tendentious reading of history" Putin and his tendentious telling
+of why he should free Ukraine from neo-nazis through his RTNOW TV
+* soporific                                                           :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       bedf712e-d2b7-4a25-874b-35625100337c
+:DRILL_LAST_INTERVAL: 7.9308
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:39]
+:END:
+soporific
+** Example and meaning
+tediously boring and monotonous like a soap
+* sedulous                                                            :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       af346b79-bfd0-4c98-bf17-1ea0760bf640
+:DRILL_LAST_INTERVAL: 8.3779
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:30]
+:END:
+sedulous
+** Example and meaning
+(of a person or action) showing dedication and diligence.
+"he watched himself with the most sedulous care"
+h
+Similar:
+diligent
+careful
+meticulous
+thorough
+assiduous
+*punctilious*
+*scrupulous*
+* reproach                                                            :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       a8746c4b-b3a0-4013-9308-4284871cc026
+:DRILL_LAST_INTERVAL: 3.9134
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 1.8
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:33]
+:END:
+reproach
+** Example and meaning
+the expression of disapproval or disappointment.
+"he gave her a look of reproach"
+h
+Similar:
+rebuke
+reproof
+reproval
+admonishment
+* prescient                                                           :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       ba69b1ad-6ae6-4743-8c0a-921ff27a285f
+:DRILL_LAST_INTERVAL: 8.2011
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:52]
+:END:
+prescient
+** Example and meaning
+having or showing knowledge of events before they take place.
+"a prescient warning"
+h
+Similar:
+prophetic
+predictive
+* platitude                                                           :drill:
+SCHEDULED: <2022-03-16 wo>
+:PROPERTIES:
+:ID:       3d786eb2-ce06-4b32-9709-26e535166636
+:DRILL_LAST_INTERVAL: 5.3559
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 1.8
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 20:03]
+:END:
+platitude
+** Example and meaning
+a remark or statement, especially one with a moral content, that has
+been used too often to be interesting or thoughtful.  
+"he masks his disdain for her with platitudes about how she should believe in
+herself more"
+
+Similar:
+cliché
+* neophyte                                                            :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       80a96f6b-36b3-49f7-8350-2154efa10f3e
+:DRILL_LAST_INTERVAL: 7.5714
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:45]
+:END:
+neophyte
+** Example and meaning
+a person who is new to a subject or activity.
+"four-day cooking classes are offered to neophytes and experts"
+* intrepid                                                            :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       02515c06-3ebe-41c6-bc02-4b77ade8a697
+:DRILL_LAST_INTERVAL: 9.1127
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:28]
+:END:
+intrepid
+** example and meaning
+fearless; adventurous (often used for rhetorical or humorous effect).
+"our intrepid reporter" Think gunshot to the head of trepidation
+
+Similar:
+fearless
+unafraid
+** Example and meaning
+* insular                                                             :drill:
+SCHEDULED: <2022-03-14 ma>
+:PROPERTIES:
+:ID:       0ee8fed4-dcc9-401a-945d-fe3679a59494
+:DRILL_LAST_INTERVAL: 3.3649
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:21]
+:END:
+insular
+** Example and meaning
+"a stubbornly insular farming people"
+
+Similar:
+narrow-minded
+limited
+
+2. relating to or from an island.
+"goods of insular origin"
+* indefatigable                                                       :drill:
+SCHEDULED: <2022-03-23 wo>
+:PROPERTIES:
+:ID:       e0db6c78-ed72-4026-be5e-70152638f40d
+:DRILL_LAST_INTERVAL: 11.5464
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:29]
+:END:
+indefatigable
+** Example and meaning
+(of a person or their efforts) persisting tirelessly.
+"an indefatigable defender of human rights"
+
+Similar:
+tireless
+untiring
+never-tiring
+unwearied
+unwearying
+* inexplicable                                                        :drill:
+SCHEDULED: <2022-03-12 za>
+:PROPERTIES:
+:ID:       eefaba9e-cf2c-4586-9b96-6b754658c3e3
+:DRILL_LAST_INTERVAL: 4.7013
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-07 ma 22:02]
+:END:
+inexplicable
+** Example and meaning
+unable to be explained
+* explicable                                                          :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       20470321-7b9a-4ffc-ad4e-807fe76614a0
+:DRILL_LAST_INTERVAL: 8.9583
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:27]
+:END:
+explicable
+** Example and meaning
+explainable
+* venal                                                               :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       7bd13d43-8c58-4c50-bdc5-56aeec769913
+:DRILL_LAST_INTERVAL: 4.0805
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 7
+:DRILL_FAILURE_COUNT: 5
+:DRILL_AVERAGE_QUALITY: 1.571
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 20:03]
+:END:
+venal
+** Example and meaning
+corrupt, susceptible to bribery
+
+"local customs officers are notoriously venal"
+
+Similar:
+corrupt
+corruptible
+bribable
+open to bribery
+
+* transient                                                           :drill:
+SCHEDULED: <2022-03-12 za>
+:PROPERTIES:
+:ID:       020084d3-97fa-43db-87f7-2165db04c394
+:DRILL_LAST_INTERVAL: 5.3553
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-07 ma 22:01]
+:END:
+transient
+** Example and meaning
+lasting for a short time (ephemeral?)
+* tortuous                                                       :drill:hard:
+SCHEDULED: <2022-03-21 ma>
+:PROPERTIES:
+:ID:       5c4c3e5f-fffc-46f6-a799-ecff63e7eeaf
+:DRILL_LAST_INTERVAL: 10.1276
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:31]
+:END:
+tortuous
+** Example and meaning
+full of twists and turns
+* timorous                                                            :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       f3dba7e7-1acb-42c8-8a84-f027e423a4c7
+:DRILL_LAST_INTERVAL: 8.0641
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:38]
+:END:
+timorous
+** Example and meaning
+showing or suffering from nervousness or a lack of confidence.
+"a timorous voice"
+
+Similar:
+easily frightened
+lacking courage
+fearful
+shy
+diffident
+
+craven (lacking courage)
+* subvert                                                             :drill:
+SCHEDULED: <2022-03-22 di>
+:PROPERTIES:
+:ID:       12969b63-b287-47ab-8265-df21b5967d6b
+:DRILL_LAST_INTERVAL: 10.9738
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:48]
+:END:
+subvert
+** Example and meaning
+undermine the power and authority of (an established system or institution).
+"Russians are subverting Ukraine's system.
+
+Similar:
+destabilize
+unsettle
+overthrow
+* specious                                                            :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       406211eb-80aa-4f6b-9bcd-de0cdbfd769b
+:DRILL_LAST_INTERVAL: 7.9877
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:23]
+:END:
+specious
+** Example and meaning
+think suspecious i.e, misleading and especially attractive
+
+superficially possible but actually wrong
+* probity                                                             :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       68c1bf4c-e49a-45f0-9c10-5cbc61b8ffaa
+:DRILL_LAST_INTERVAL: 7.7072
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:51]
+:END:
+probity
+** Example and meaning
+strong moral principles
+* presumptuous                                                        :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       c5cf7a2e-a5a7-4495-a612-444f8fc73b56
+:DRILL_LAST_INTERVAL: 7.7502
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:51]
+:END:
+presumptuous
+** Example and meaning
+of a person or their behaviour) failing to observe the limits of what is permitted or appropriate.
+"I hope I won't be considered presumptuous if I offer some advice"
+h
+Similar:
+brazen
+overconfident
+arrogant
+* pertinacious                                                        :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       c342d66d-5c87-4553-9451-f8a06be556b6
+:DRILL_LAST_INTERVAL: 3.681
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 1.8
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:47]
+:END:
+pertinacious
+** Example and meaning
+PERTAINS TO SOMEONE TYPES, so they persevere.
+holding firmly to an opinion or a course of action.
+"he worked with a pertinacious resistance to interruptions"
+
+Similar:
+determined
+tenacious
+persistent
+persevering
+assiduous
+purposeful
+resolute
+*dogged*
+indefatigable
+* affectation                                                    :drill:hard:
+SCHEDULED: <2022-03-16 wo>
+:PROPERTIES:
+:ID:       20aaa845-93c7-42dc-98d1-5d0d1bc45caf
+:DRILL_LAST_INTERVAL: 5.2205
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 9
+:DRILL_FAILURE_COUNT: 7
+:DRILL_AVERAGE_QUALITY: 1.444
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:21]
+:END:
+affectation
+** Example and meaning
+pretension (pretending), showing a facade (something
+fake or deceptive); pretentind basically!
+
+an affectation of calm  :drill:hard:
+* admonish                                                            :drill:
+SCHEDULED: <2022-03-17 do>
+:PROPERTIES:
+:ID:       fdbab428-f5a3-4bcc-a6bd-b29c019b9442
+:DRILL_LAST_INTERVAL: 6.3876
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:48]
+:END:
+admonish
+** Example and meaning
+warn or reprimand firmly
+* sporadic                                                            :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       2275c026-bfb1-413e-8f7f-eaba9f2fa99f
+:DRILL_LAST_INTERVAL: 8.8249
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:24]
+:END:
+sporadic
+** Example and meaning
+occational
+* lax                                                                 :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       0cf8cb2d-4d65-4ed6-8e72-a08d71076664
+:DRILL_LAST_INTERVAL: 7.8946
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:25]
+:END:
+lax
+** Example and meaning
+1. relaxed 2. too relaxed on strictness, carefullness etc.
+* impertinent                                                         :drill:
+SCHEDULED: <2022-03-18 vr>
+:PROPERTIES:
+:ID:       bcb63bcb-6783-4e93-997e-2dc482d7e14c
+:DRILL_LAST_INTERVAL: 7.0421
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:44]
+:END:
+impertinent
+** Example and meaning
+1. rude, 2. not relevant (irrelavant, not pertinant)
+* dissemble                                                           :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       afc51cbb-f0cd-4322-ad17-b384a551b889
+:DRILL_LAST_INTERVAL: 9.2687
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.667
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:42]
+:END:
+dissemble
+** Example and meaning
+conceal or disguise one's true feelings or beliefs.
+"an honest, sincere person with no need to dissemble"
+h
+Similar:
+dissimulate
+pretend
+deceive
+* dogged                                                              :drill:
+SCHEDULED: <2022-03-18 vr>
+:PROPERTIES:
+:ID:       18a2c4f2-511c-4f8b-b12b-2d17a0c4cb81
+:DRILL_LAST_INTERVAL: 7.1652
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:30]
+:END:
+dogged
+** Example and meaning
+having or showing tenacity and grim persistence.
+"success required dogged determination"
+h
+Similar:
+*tenacious*
+determined
+resolute
+resolved
+* plodding                                                            :drill:
+SCHEDULED: <2022-03-21 ma>
+:PROPERTIES:
+:ID:       b125f08e-343a-484e-8e16-58e6115d730f
+:DRILL_LAST_INTERVAL: 10.2751
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:26]
+:END:
+plodding
+** Example and meaning
+walk doggedly and slowly with heavy steps.
+"we plodded back up the hill"
+Similar:
+trudge
+walk heavily
+
+
+    work slowly and perseveringly at a dull task.
+    "we were plodding through a textbook"
+    h
+    Similar:
+    work one's way
+* wherwithal                                                          :drill:
+:PROPERTIES:
+:ID:       963ffed1-2314-4c69-bbc5-c18d2a83826b
+:END:
+** Example and meaning
+the money or other means needed for a particular purpose.
+"they lacked the wherewithal to pay"
+h
+Similar:
+money
+ready money
+cash
+capital
+finance(s)
+* temerity                                                            :drill:
+SCHEDULED: <2022-03-14 ma>
+:PROPERTIES:
+:ID:       8481cf50-3231-4273-9557-4f7e7224880f
+:DRILL_LAST_INTERVAL: 2.8321
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 1.8
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:21]
+:END:
+temerity
+** Example and meaning
+excessive confidence or boldness; audacity.
+"no one had the temerity to question his conclusions"
+h
+Similar:
+audacity
+boldness
+audaciousness
+nerve
+* felicity                                                            :drill:
+SCHEDULED: <2022-03-16 wo>
+:PROPERTIES:
+:ID:       4c50a980-3bd5-4197-aade-9352ab92a9ab
+:DRILL_LAST_INTERVAL: 4.7795
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 4
+:DRILL_AVERAGE_QUALITY: 1.667
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:45]
+:END:
+felicity
+** Example and meaning
+intense happiness.
+"domestic felicity"
+h
+Similar:
+happiness
+joy
+joyfulness
+joyousness
+
+2.
+the ability to find appropriate expression for one's thoughts.
+"he exposed the kernel of the matter with his customary elegance and felicity"
+
+Similar:
+eloquence
+aptness
+appropriateness
+* furtive                                                        :drill:hard:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       5b04e216-f165-47c0-bd90-ced328424fe8
+:DRILL_LAST_INTERVAL: 3.5551
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 11
+:DRILL_FAILURE_COUNT: 9
+:DRILL_AVERAGE_QUALITY: 1.364
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:48]
+:END:
+furtive
+** Example and meaning
+ttempting to avoid notice or attention, typically because of guilt or a belief that discovery would lead to trouble; secretive.
+"they spent a furtive day together"
+h
+Similar:
+secretive
+secret
+surreptitious
+* cloying                                                             :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       4830ae96-1b2c-4348-9ace-fb4f3dddb1d0
+:DRILL_LAST_INTERVAL: 3.5246
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:21]
+:END:
+cloying
+** Example and meaning
+excessively sweet, rich, or sentimental, especially to a disgusting or
+sickening degree.  "a romantic, rather cloying story"
+
+*synonym:*
+mawkish, mauldin, cloying
+* mawkish                                                             :drill:
+SCHEDULED: <2022-03-23 wo>
+:PROPERTIES:
+:ID:       5202ae5e-6bf8-4e8f-a769-5e8a241d479e
+:DRILL_LAST_INTERVAL: 11.972
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:27]
+:END:
+mawkish
+** Example and meaning
+sentimental in an exaggerated or false way.
+"a mawkish ode to parenthood"; cloying, overly-sentimental
+
+*synonym:*
+mawkish, mauldin, cloying
+* foolhardy                                                           :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       aa3bf58a-cdf1-4e51-9c9d-5c1e7f91fd7d
+:DRILL_LAST_INTERVAL: 3.9905
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 1.8
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:45]
+:END:
+foolhardy
+** Example and meaning
+recklessly bold or rash.
+"it would be foolhardy to go into the scheme without support"
+h
+Similar:
+reckless
+rash
+incautious
+careless
+* superfluous                                                         :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       35a46beb-be80-4ad4-ad58-c769d313ffc1
+:DRILL_LAST_INTERVAL: 8.7147
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:49]
+:END:
+superfluous
+** Example and meaning
+unnecessary
+* subsumed                                                            :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       0cfe6419-16ca-41c0-bdf7-013da0536832
+:DRILL_LAST_INTERVAL: 9.2204
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:30]
+:END:
+subsumed
+** Example and meaning
+include or absorb (something) in something else.
+"most of these phenomena can be subsumed under two broad categories"
+* obloquy                                                             :drill:
+SCHEDULED: <2022-03-14 ma>
+:PROPERTIES:
+:ID:       b1e28c3f-2005-4d33-bc3e-dc8151a32c64
+:DRILL_LAST_INTERVAL: 3.357
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 1.8
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 20:04]
+:END:
+obloquy
+** Example and meaning
+strong public condemnation.
+"he endured years of contempt and obloquy"
+h
+Similar:
+vilification
+opprobrium
+vituperation
+
+* belligerant                                                         :drill:
+SCHEDULED: <2022-03-21 ma>
+:PROPERTIES:
+:ID:       aa82201e-04a6-4c2f-8446-dc59e3d3a102
+:DRILL_LAST_INTERVAL: 9.864
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:28]
+:END:
+belligerant 
+** Example and meaning
+hostile
+* transgression                                                       :drill:
+SCHEDULED: <2022-03-24 do>
+:PROPERTIES:
+:ID:       bce295fb-d594-413d-8c3a-e004cef41494
+:DRILL_LAST_INTERVAL: 12.5686
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:53]
+:END:
+transgression
+** Example and meaning
+an act that goes against a law, rule, or code of conduct; an offence.
+"I'll be keeping an eye out for further transgressions"
+h
+Similar:
+offence
+crime
+sin
+wrong
+* peccadillos                                                         :drill:
+SCHEDULED: <2022-03-17 do>
+:PROPERTIES:
+:ID:       7084df52-b3d9-44aa-81ba-cc63ba0df98f
+:DRILL_LAST_INTERVAL: 6.4521
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:37]
+:END:
+peccadillos
+** Example and meaning
+a relatively minor fault or sin.
+"the sexual peccadilloes of celebrities aren't necessarily news"
+h
+Similar:
+misdemeanour
+minor offence
+petty offence
+* schism                                                              :drill:
+SCHEDULED: <2022-03-22 di>
+:PROPERTIES:
+:ID:       610808cb-7736-4a3e-8d18-2147f1582eb8
+:DRILL_LAST_INTERVAL: 10.722
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:55]
+:END:
+schism
+** Example and meaning
+a split or division between strongly opposed sections or parties, caused by differences in opinion or belief.
+"the widening schism between Church leaders and politicians"
+h
+Similar:
+division
+split
+rift
+
+breach
+* concilliation                                                       :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       7f36b93b-e530-4b9d-a608-cd69c91c78d8
+:DRILL_LAST_INTERVAL: 4.2911
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 9
+:DRILL_FAILURE_COUNT: 7
+:DRILL_AVERAGE_QUALITY: 1.444
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:33]
+:END:
+concilliation
+** Example and meaning
+the action of stopping someone being angry; placation.
+"he held his hands up in a gesture of conciliation"
+h
+Similar:
+appeasement
+pacification
+peacemaking
+2.     the action of mediating between two disputing people or groups.
+    "many disputes are settled through conciliation by the official body"
+* graft                                                               :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       e56c4717-b9bc-4c60-a85d-07413c58b0d2
+:DRILL_LAST_INTERVAL: 3.8488
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 20:03]
+:END:
+graft
+** Example and meaning
+Medicine
+1. transplant (living tissue) as a graft.
+"they can graft a new hand on to the nerve ends"
+h
+Similar:
+transplant
+implant
+transfer
+2.
+combine or integrate (an idea, system, etc.) with another, typically in a way considered inappropriate.
+"old values have been grafted on to a new economic class"
+3. graft --> corruption; curtail govt graft (aka corruption)
+* disseminate      3                                                  :drill:
+SCHEDULED: <2022-03-18 vr>
+:PROPERTIES:
+:ID:       4fedab31-7e71-450c-b613-9b306b2a9caf
+:DRILL_LAST_INTERVAL: 7.098
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:29]
+:END:
+disseminate
+** Example and meaning
+spread (something, especially information) widely.
+"health authorities should foster good practice by disseminating information"
+* exorcise                                                            :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       cb89bf7d-4334-4009-894b-83110175309c
+:DRILL_LAST_INTERVAL: 9.3569
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:29]
+:END:
+exorcise
+** Example and meaning
+completely remove (something unpleasant) from one's mind or memory.
+"she wanted to exorcise some of the pain"
+* obeisance                                                           :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       483bef1e-95d0-4da7-8f0e-04df9c544cac
+:DRILL_LAST_INTERVAL: 3.733
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:33]
+:END:
+obeisance
+** Example and meaning
+deferential respect.
+"the employee paid the boss with excessive obeisance that she got her way."
+
+Similar:
+respect
+homage
+worship
+* droll                                                               :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       069373cc-b04a-4efa-8a5b-10bc00338e00
+:DRILL_LAST_INTERVAL: 7.6011
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:38]
+:END:
+droll
+** Example and meaning
+an amusing person; funny humorous
+* avaracious vs veracious                                             :drill:
+SCHEDULED: <2022-03-21 ma>
+:PROPERTIES:
+:ID:       6c8abc55-b59d-4383-bc5b-ee8bbc443d5a
+:DRILL_LAST_INTERVAL: 9.9093
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:27]
+:END:
+avaracious vs veracious
+** Example and meaning
+avaracious is greedy, and veracious is truthful
+* veracious                                                           :drill:
+SCHEDULED: <2022-03-22 di>
+:PROPERTIES:
+:ID:       a0db27cd-5fda-4e8d-a279-22367ec02b1a
+:DRILL_LAST_INTERVAL: 11.3585
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:29]
+:END:
+veracious
+** Example and meaning
+truthful
+* limpid                                                              :drill:
+SCHEDULED: <2022-03-12 za>
+:PROPERTIES:
+:ID:       0cea3237-fe82-40fb-8612-7b87b2dd8783
+:DRILL_LAST_INTERVAL: 4.8219
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-07 ma 20:15]
+:END:
+limpid
+** Example and meaning
+clear transparent, lucid, pellucid, perspicuous, limpid
+* inchoate                                                            :drill:
+SCHEDULED: <2022-03-16 wo>
+:PROPERTIES:
+:ID:       8af331c6-9e6e-4829-b336-195c828b4e57
+:DRILL_LAST_INTERVAL: 5.0327
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:46]
+:END:
+inchoate
+** Example and meaning
+just begun, not fully formed; "a still inchoate democracy"
+* difference between weary, wary                                      :drill:
+SCHEDULED: <2022-03-14 ma>
+:PROPERTIES:
+:ID:       f1c2514c-f6aa-41f6-b73c-93370dc94989
+:DRILL_LAST_INTERVAL: 3.3807
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:20]
+:END:
+difference between weary, wary
+** Example and meaning
+weary --> tired; wary --> cautious, circumspect
+* plodding                                                            :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       b38924b9-134c-4d9a-b769-f2f9ca068c41
+:DRILL_LAST_INTERVAL: 3.5916
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:20]
+:END:
+plodding
+** Example and meaning
+1. walk doggedly and slowly with heavy steps.
+"we plodded back up the hill"
+h
+Similar:
+trudge
+walk heavily
+clump
+stomp
+
+2. work slowly and perseveringly at a dull task.
+"we were plodding through a textbook"
+h
+Similar:
+work one's way
+wade
+plough
+
+* imperious                                                           :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       3d46d317-020a-4976-9353-2904d5019700
+:DRILL_LAST_INTERVAL: 8.2997
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:31]
+:END:
+imperious
+** Example and meaning
+imperio curse does control people, here it means
+vanitha --> arrogant and domineering.
+* prosaic                                                             :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       d4975f73-3839-4bb2-a6df-d3f4f6dfe987
+:DRILL_LAST_INTERVAL: 7.595
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:53]
+:END:
+prosaic
+** Example and meaning
+1. style of prose than poetry, unimaginative, too
+ordinary, unromantic, commonplace; commonplace; unromantic.
+"the masses were too preoccupied by prosaic day-to-day concerns"
+
+Similar:
+ordinary
+everyday
+usual
+* poignant                                                            :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       cd3f7ca5-0409-4756-bd3e-65cdc2827ba8
+:DRILL_LAST_INTERVAL: 3.9546
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 7
+:DRILL_FAILURE_COUNT: 5
+:DRILL_AVERAGE_QUALITY: 1.571
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:24]
+:END:
+poignant
+** Example and meaning
+Poignant --> a poignant reminder of the passing time (invoking great
+sense of sadness or regret), or also 2. "poignant scent" pungent
+* levity                                                              :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       3142d4f6-d314-43a6-b573-5fcb662c2fa4
+:DRILL_LAST_INTERVAL: 4.1953
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 4
+:DRILL_AVERAGE_QUALITY: 1.667
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:24]
+:END:
+levity
+** Example and meaning
+levity --> the treatment of a serious matter with humour or lack of due respect.
+"as an attempt to introduce a note of levity, the words were a disastrous flop"
+They managed to find some levity in the situation. 
+* insolent                                                            :drill:
+SCHEDULED: <2022-03-22 di>
+:PROPERTIES:
+:ID:       da7e50d6-362a-4b4f-bc05-d7b51684215f
+:DRILL_LAST_INTERVAL: 10.9214
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:43]
+:END:
+insolent
+** Example and meaning
+impertinent; rude, arrogant lack of respect
+* boring                                                              :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       733140db-ab2b-4fdc-bb8d-f20a90ba5e7c
+:DRILL_LAST_INTERVAL: 3.9739
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:20]
+:END:
+boring
+** Example and meaning
+prosaic, humdrum, banal
+* evanescent                                                          :drill:
+SCHEDULED: <2022-03-18 vr>
+:PROPERTIES:
+:ID:       4c452050-e1ee-43c7-8657-0d956f246490
+:DRILL_LAST_INTERVAL: 7.1225
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:16]
+:END:
+evanescent
+** Example and meaning
+vanishing like vapour
+* remediation                                                         :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       8cab647d-984b-4a62-a5c7-8fcfd487e910
+:DRILL_LAST_INTERVAL: 8.1989
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.25
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:13]
+:END:
+remediation
+** Example and meaning
+remedy something
+* minatory                                                            :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       7e8d19db-bce5-4892-bc8b-c403767911d1
+:DRILL_LAST_INTERVAL: 3.603
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 1.8
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 20:06]
+:END:
+minatory
+** Example and meaning
+threatenting; the professors violent lecutres had a
+minatory effect on the children so much so that they stayed in school.
+* palliative                                                     :drill:hard:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       cf177b1d-a903-4461-bff6-e4681e34d1fa
+:DRILL_LAST_INTERVAL: 3.5496
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 4
+:DRILL_AVERAGE_QUALITY: 1.667
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:24]
+:END:
+palliative
+** Example and meaning
+soothing. orthodox medicines turn out to be
+palliative than curative
+* recidivists                                                         :drill:
+SCHEDULED: <2022-03-21 ma>
+:PROPERTIES:
+:ID:       07c5be78-9767-407f-ab92-13cdfc0f5522
+:DRILL_LAST_INTERVAL: 9.9017
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:28]
+:END:
+recidivists
+** Example and meaning
+people who recede to bad behavior
+* largesse                                                            :drill:
+SCHEDULED: <2022-03-14 ma>
+:PROPERTIES:
+:ID:       7e2336a8-f6d3-4b42-9f69-9cdbe301a755
+:DRILL_LAST_INTERVAL: 3.9738
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 1.8
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:25]
+:END:
+largesse
+** Example and meaning
+gifts or generosity
+* celerity                                                            :drill:
+SCHEDULED: <2022-03-14 ma>
+:PROPERTIES:
+:ID:       8f4a78ef-09e8-4f39-888f-3589f7918faa
+:DRILL_LAST_INTERVAL: 3.4948
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 4
+:DRILL_AVERAGE_QUALITY: 1.667
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:25]
+:END:
+celerity
+** Example and meaning
+swiftness of movement
+
+The slave will be punished if his celerity is not fast enough for his
+master.
+* apotheosis                                                          :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       a8fea5df-9c2f-4abe-b805-cd8795711207
+:DRILL_LAST_INTERVAL: 3.5235
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:24]
+:END:
+apotheosis
+** Example and meaning
+Antiquarians concluded that the inscription had the
+ritual that intended to induce a common jackal's apotheosis (elevation
+to god or devine status) into GOD. Makes no sense but hey kaplan GRE
+FTW. 2. highest point in the development of something. apotheosis of
+his career :(
+* antiquarians                                                        :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       258eb3eb-7b92-412a-b9f1-e48ca74a7c1b
+:DRILL_LAST_INTERVAL: 9.4407
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:55]
+:END:
+antiquarians
+** Example and meaning
+antique quarians --> people who study work of art or
+things that have high value or very old things
+* disinterested                                                       :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       143b34ef-eada-4f8d-8856-eef6b536b026
+:DRILL_LAST_INTERVAL: 8.9822
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:28]
+:END:
+disinterested
+** Example and meaning
+2 meanings, 1. unbiased, impartial, then other not interested.
+* desultory                                                           :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       210f8aa9-b829-441b-9992-896f60add1f2
+:DRILL_LAST_INTERVAL: 8.7192
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:53]
+:END:
+desultory
+** Example and meaning
+if it is sultory, you will lack plan, lack purpose, enthusiasm
+* censure                                                             :drill:
+SCHEDULED: <2022-03-18 vr>
+:PROPERTIES:
+:ID:       145b3a3e-8ff1-44c3-890e-1802dd690b1c
+:DRILL_LAST_INTERVAL: 6.8311
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:16]
+:END:
+censure
+** Example and meaning
+scolded, father censured his kids
+* canonize                                                            :drill:
+SCHEDULED: <2022-03-18 vr>
+:PROPERTIES:
+:ID:       7f249217-ee1f-4148-964c-bdcabf7fd7cb
+:DRILL_LAST_INTERVAL: 7.3375
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:15]
+:END:
+canonize
+** Example and meaning
+treat or regard as being above reproach or of great
+significance.; he has been canonized by his fans.
+* artless                                                             :drill:
+SCHEDULED: <2022-03-23 wo>
+:PROPERTIES:
+:ID:       a49e12e2-ead2-4fba-8d38-45fec11069f5
+:DRILL_LAST_INTERVAL: 12.4398
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:30]
+:END:
+artless
+** Example and meaning
+no pretentiousness, no deception, natural, 
+* arcane                                                              :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       ac285fb4-a7d0-4ed7-aa60-f5ef475342df
+:DRILL_LAST_INTERVAL: 7.5921
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:24]
+:END:
+arcane
+** Example and meaning
+not old, but mysterious
+* abjure                                                              :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       ffbb3070-276a-4cdd-9bb9-f344729245ea
+:DRILL_LAST_INTERVAL: 8.5601
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:37]
+:END:
+abjure
+** Example and meaning
+ab sore se bol, renounce a belief
+* contend                                                             :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       57401256-a5de-490e-b01c-a2fb4e1aac57
+:DRILL_LAST_INTERVAL: 4.1115
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 1.8
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:25]
+:END:
+contend
+** Example and meaning
+1.
+struggle to surmount (a difficulty).
+"she had to contend with his uncertain temper"
+h
+Similar:
+cope with
+face
+grapple with
+
+2.
+assert something as a position in an argument.
+"he contends that the judge was wrong"
+Similar:
+assert
+maintain
+hold
+claim
+argue
+* anachronistic                                                       :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       b1fc0865-9e34-4353-a264-90d57d2f1d96
+:DRILL_LAST_INTERVAL: 9.4612
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:44]
+:END:
+anachronistic
+** Example and meaning
+of another time; chorn --> time, a--> another
+* avaricious                                                          :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       e155b0a6-ea2d-401a-a1a7-8a38420175f9
+:DRILL_LAST_INTERVAL: 9.3505
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:38]
+:END:
+avaracious
+** Example and meaning
+Extreme greed for wealth; the oligarchs and their
+avaraciousness.
+* demur                                                               :drill:
+SCHEDULED: <2022-03-21 ma>
+:PROPERTIES:
+:ID:       3f19fd25-3465-4881-a823-6d38d741171d
+:DRILL_LAST_INTERVAL: 10.1457
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:37]
+:END:
+demur
+** Example and meaning
+Raise objections or show reluctance; She demurred when I proposed to her.
+* contrition                                                          :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       ac868ef1-3233-4d86-bf3a-184cdba66c54
+:DRILL_LAST_INTERVAL: 8.8115
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:29]
+:END:
+contrition
+** Example and meaning
+being remourseful
+* calumny                                                             :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       4af8f420-c643-438d-8637-b83446254c65
+:DRILL_LAST_INTERVAL: 9.0594
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:44]
+:END:
+calumny
+** Example and meaning
+calumn nee ah? why are you throwing all these
+accusations at me, "false and slanderous statement about someone"
+* deft                                                                :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       63d930e6-13b0-4791-88c0-17cff9522ff8
+:DRILL_LAST_INTERVAL: 8.2114
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:32]
+:END:
+deft
+** Example and meaning
+skilled
+* brazen                                                              :drill:
+SCHEDULED: <2022-03-17 do>
+:PROPERTIES:
+:ID:       70cff25a-09f8-4220-8197-7ad61bf195ba
+:DRILL_LAST_INTERVAL: 5.7831
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:36]
+:END:
+brazen
+** Example and meaning
+bold and without shame
+* alacirty                                                            :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       147bf3f8-5d27-4482-b178-c9663b8d4320
+:DRILL_LAST_INTERVAL: 8.1791
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:14]
+:END:
+alacirty
+** Example and meaning
+eagerly, readiness
+* ameliorate                                                          :drill:
+SCHEDULED: <2022-03-17 do>
+:PROPERTIES:
+:ID:       524cc91b-5278-4a4f-bff6-82c7013bdf51
+:DRILL_LAST_INTERVAL: 6.4682
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:16]
+:END:
+ameliorate
+** Example and meaning
+amelios "makes bad food better", mitch and cam crave to
+go to that restaurant. 
+* aggrandize                                                          :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       f13c08ed-df49-469c-88c3-f438b2718fc5
+:DRILL_LAST_INTERVAL: 8.4358
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.5
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:05]
+:END:
+aggrandize
+** Example and meaning
+increase in power
+* malignant                                                           :drill:
+SCHEDULED: <2022-03-21 ma>
+:PROPERTIES:
+:ID:       a93e4108-a644-440e-9e38-07f63b3fceb4
+:DRILL_LAST_INTERVAL: 10.4791
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:24]
+:END:
+malignant
+** Example and meaning
+cancer is malignant not benign (very harmful)
+* puerile                                                             :drill:
+SCHEDULED: <2022-03-21 ma>
+:PROPERTIES:
+:ID:       94e06d19-1e57-4e1d-a696-50b029634132
+:DRILL_LAST_INTERVAL: 10.0034
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:36]
+:END:
+puerile
+** Example and meaning
+immature, childishly silly, juvinile, babyish
+* amorphous                                                           :drill:
+SCHEDULED: <2022-03-21 ma>
+:PROPERTIES:
+:ID:       5baf90a2-4e4d-4164-9327-b7c1ae768b71
+:DRILL_LAST_INTERVAL: 9.5592
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:25]
+:END:
+amorphous
+** Example and meaning
+no clear shape, unstructure, unfocused
+* proclivity                                                          :drill:
+SCHEDULED: <2022-03-22 di>
+:PROPERTIES:
+:ID:       5170a7ec-2e41-46a1-96db-76aefb813cf1
+:DRILL_LAST_INTERVAL: 11.4561
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:38]
+:END:
+proclivity
+** Example and meaning
+a tendency to choose or do something regularly; an inclination or
+predisposition towards a particular thing.  "a proclivity for hard
+work"
+    
+Similar:
+liking
+inclination
+tendency
+leaning
+* congenial                                                           :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       2059aaa7-7cd4-4128-a9f9-8b8b861d4cf9
+:DRILL_LAST_INTERVAL: 9.0859
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.5
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:29]
+:END:
+congenial
+** Example and meaning
+friendly (miss congeniality)
+* quixotic                                                            :drill:
+SCHEDULED: <2022-03-18 vr>
+:PROPERTIES:
+:ID:       3953a4b8-01b5-41fb-8147-6ad37c96aee9
+:DRILL_LAST_INTERVAL: 7.3097
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:29]
+:END:
+quixotic
+** Example and meaning
+too optimistic, impractial, extremely idealistic
+* humdum                                                              :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       76fc75ca-8a19-420d-9c26-5e55eebfb976
+:DRILL_LAST_INTERVAL: 8.7638
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:26]
+:END:
+humdum
+** Example and meaning
+routine
+* cerebral                                                            :drill:
+SCHEDULED: <2022-03-18 vr>
+:PROPERTIES:
+:ID:       b584a1ec-2414-461c-b880-ab8f0aeebcc5
+:DRILL_LAST_INTERVAL: 7.0303
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.5
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:13]
+:END:
+cerebral
+** Example and meaning
+deep, needing the use of the brain, intellectual; 
+* dedactic                                                            :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       3a0a602f-8df6-41a8-b456-cfe1f7994fb0
+:DRILL_LAST_INTERVAL: 4.4835
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:45]
+:END:
+dedactic
+** Example and meaning
+condesending, particularly patronizing; Didactic teacher.
+* probity                                                             :drill:
+SCHEDULED: <2022-03-21 ma>
+:PROPERTIES:
+:ID:       b6cbb3c8-84ad-405c-9baf-fb21b61296b3
+:DRILL_LAST_INTERVAL: 9.8073
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 1.8
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:25]
+:END:
+probity
+** Example and meaning
+quality of having strong morals
+* levity                                                              :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       6419a5c7-95f8-4551-b9ce-c9533de778d1
+:DRILL_LAST_INTERVAL: 7.6307
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:32]
+:END:
+levity
+** Example and meaning
+MJ's take on him crying at the funeral of Kobe Bryant and eventually
+becoming another meme, was his way of introducing a note of levity.
+
+Treatment of a serious matter with humour
+* aberrant                                                            :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       e4cdbd22-a7ba-4e52-ae84-5f8f0b4d6012
+:DRILL_LAST_INTERVAL: 4.1718
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 4
+:DRILL_AVERAGE_QUALITY: 1.667
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:22]
+:END:
+aberrant
+** Example and meaning
+adjective: aberrant
+
+departing from an accepted standard.
+"this somewhat aberrant behaviour requires an explanation"
+
+Similar:
+deviant
+deviating
+divergent
+abnormal
+* vile                                                                :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       7d891ac0-0905-4c1b-965c-9a737423afa5
+:DRILL_LAST_INTERVAL: 4.3882
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 20:06]
+:END:
+vile
+** Example and meaning
+repulsive; extremely unpleasantthey find each other vile and hence eventually split up.
+
+Synonyms: 
+vile, odious, abhorrent, loathsome
+* dissident                                                           :drill:
+SCHEDULED: <2022-03-14 ma>
+:PROPERTIES:
+:ID:       c46f376c-c746-494b-a20a-fe7e4e435ab2
+:DRILL_LAST_INTERVAL: 3.1312
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 7
+:DRILL_FAILURE_COUNT: 5
+:DRILL_AVERAGE_QUALITY: 1.571
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:48]
+:END:
+dissident
+** Example and meaning
+Navalny is dissident who was jailed by Putin; a
+person who opposes official policy; protestor, nonconformist
+* heterodox                                                           :drill:
+SCHEDULED: <2022-03-18 vr>
+:PROPERTIES:
+:ID:       c78c442b-5ccd-4992-8fb6-c899ab37ef18
+:DRILL_LAST_INTERVAL: 6.6828
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 1.8
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:30]
+:END:
+heterodox
+** Example and meaning
+unorthodox; not conforming with orthodox standards or beliefs 
+* modish                                                              :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       a6144ce4-8c5e-4f16-b495-36d1ba34b655
+:DRILL_LAST_INTERVAL: 8.5252
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:25]
+:END:
+modish
+** Example and meaning
+stylish. The startup was modish (trendy) and the ASML
+office was traditional.
+* inextricably                                                        :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       599802e6-c4d7-45f9-8fb9-70bf1d6a2d11
+:DRILL_LAST_INTERVAL: 8.8733
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:51]
+:END:
+inextricably
+** Example and meaning
+in a way that is impossible to disentangle or separate.
+"for many top executives, golf and business are inextricably linked"
+* recondite                                                           :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       b10cbdd1-5746-4cc9-b973-9425418cd0c7
+:DRILL_LAST_INTERVAL: 8.9139
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:53]
+:END:
+recondite
+** Example and meaning
+(of a subject or knowledge) little known; abstruse.
+"the book is full of recondite information"
+*Similar:*
+obscure
+abstruse
+arcane
+esoteric
+little known
+* disdainful                                                          :drill:
+SCHEDULED: <2022-03-21 ma>
+:PROPERTIES:
+:ID:       0863106c-0bef-45c7-9aed-1ff9c5e66175
+:DRILL_LAST_INTERVAL: 10.4702
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:44]
+:END:
+disdainful
+** Example and meaning
+showing contempt or lack of respect.
+"with a last disdainful look, she turned towards the door"
+Similar:
+contemptuous
+scornful
+full of contempt
+* beholden (adj)                                                 :drill:hard:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       e0807dac-6acc-4826-b4bf-043910ff1d0d
+:DRILL_LAST_INTERVAL: 8.0012
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 4
+:DRILL_AVERAGE_QUALITY: 1.667
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:15]
+:END:
+beholden (adj)
+** Example and meaning
+Rome's army was no longer beholden to the state, and
+realized power was theirs for the taking. beholden --> owing thanks or
+having a duty to someone in return.
+
+synonyms: indebted, obligated
+* chary                                                          :drill:hard:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       1f05727c-6af4-4b9e-a8aa-e095e57c8cab
+:DRILL_LAST_INTERVAL: 4.1617
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 1.8
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:45]
+:END:
+chary
+** Example and meaning
+cautious or suspiciously reluctant; Investors were
+chary about investing in airvoice sanjay ramasamy's company.
+* tendentious                                                         :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       e5ba908e-bba4-4850-807e-4c4d47fcf0fe
+:DRILL_LAST_INTERVAL: 3.9983
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 8
+:DRILL_FAILURE_COUNT: 6
+:DRILL_AVERAGE_QUALITY: 1.499
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:33]
+:END:
+tendentious
+** Example and meaning
+expressing or intending to promote a particular cause
+or point of view, especially a controversial one. "a tendentious reading of history"
+* pertinacity                                                    :drill:hard:
+SCHEDULED: <2022-03-23 wo>
+:PROPERTIES:
+:ID:       238e1b99-00f7-4903-a891-d68baf49436e
+:DRILL_LAST_INTERVAL: 12.2859
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 4
+:DRILL_AVERAGE_QUALITY: 1.667
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:51]
+:END:
+pertinacity
+** Example and meaning
+The pertinacious/tenacious defence of ukraine against Russia; Not
+readily relinquishing a positition, course of action or principle. ;
+persevering, persistent, pertinacious
+* intemperance                                                        :drill:
+SCHEDULED: <2022-03-16 wo>
+:PROPERTIES:
+:ID:       8768dbbc-6e72-4a86-9d38-f4b74feca9ef
+:DRILL_LAST_INTERVAL: 4.6158
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 7
+:DRILL_FAILURE_COUNT: 5
+:DRILL_AVERAGE_QUALITY: 1.571
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:47]
+:END:
+intemperance
+** Example and meaning
+wasterfulness, excessive indulgence, That a people who are committed
+to intemperence venerate a people who are *profligate* is unsuprising.
+* avaricious                                                          :drill:
+SCHEDULED: <2022-03-21 ma>
+:PROPERTIES:
+:ID:       839c39b1-ab85-450e-b06c-7409c7f71480
+:DRILL_LAST_INTERVAL: 9.9973
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:32]
+:END:
+avaricious
+** Example and meaning
+having or showing an extreme greed for wealth or material gain.
+Similar:
+grasping
+acquisitive
+covetous
+greedy
+* pernicious                                                          :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       e88bd30a-ff13-4602-a345-b1d99f2ac2ba
+:DRILL_LAST_INTERVAL: 3.8837
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 9
+:DRILL_FAILURE_COUNT: 7
+:DRILL_AVERAGE_QUALITY: 1.444
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:22]
+:END:
+pernicious
+** Example and meaning
+having a harmful effect, especially in a gradual or subtle way.
+"the pernicious effects of not doing cardio everyday is death"
+Similar:
+harmful
+damaging
+destructive
+* perspicacious                                                       :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       889d70cc-f266-4e86-810a-1ad73d729d02
+:DRILL_LAST_INTERVAL: 7.7421
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:32]
+:END:
+perspicacious
+** Example and meaning
+    having a ready insight into and understanding of things.
+    "it offers quite a few facts to the perspicacious reporter"
+    
+    Similar:
+    discerning, shrewd, perceptive, astute, penetrating
+* licit (adj)                                                         :drill:
+SCHEDULED: <2022-03-18 vr>
+:PROPERTIES:
+:ID:       3d77221b-c365-4ec7-9f6e-5df3fc74b89d
+:DRILL_LAST_INTERVAL: 7.4336
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:30]
+:END:
+licit (adj)
+** Example and meaning
+not forbidden; lawful.
+"usage patterns differ between licit and illicit drugs"
+* demure                                                              :drill:
+SCHEDULED: <2022-03-14 ma>
+:PROPERTIES:
+:ID:       8dd208a9-a96a-4f55-9b11-f3e468d97972
+:DRILL_LAST_INTERVAL: 2.8413
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 7
+:DRILL_FAILURE_COUNT: 5
+:DRILL_AVERAGE_QUALITY: 1.571
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:47]
+:END:
+demure
+** Example and meaning
+modest, reserved, a demure young lady
+* demurred (verb)                                                     :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       f43c22dd-d355-422c-8616-78ecfaa5a8c5
+:DRILL_LAST_INTERVAL: 8.8026
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:28]
+:END:
+demurred (verb)
+** Example and meaning
+Normally he would take the food, but this time he
+demurred; raise objection or show reluctance.
+* protean                                                             :drill:
+SCHEDULED: <2022-03-21 ma>
+:PROPERTIES:
+:ID:       dd11820b-e692-45c0-b505-777f2b5351aa
+:DRILL_LAST_INTERVAL: 9.5926
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:51]
+:END:
+protean
+** Example and meaning
+Protean chameleon (able and changing skin color of a
+chameleon); protean actor (capable of doing many things; versatile)
+* peremptory                                                          :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       9e82d3c4-8c74-4c0c-b406-2705560d75b1
+:DRILL_LAST_INTERVAL: 3.8453
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 7
+:DRILL_FAILURE_COUNT: 5
+:DRILL_AVERAGE_QUALITY: 1.571
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:33]
+:END:
+peremptory
+** Example and meaning
+In a peremptory tone, the flight attendant told the
+passenger to either fasten his seatbelt or get off the
+plane. (insisting on immediate action or obedience, not open to challenge)
+* acquity                                                             :drill:
+SCHEDULED: <2022-03-22 di>
+:PROPERTIES:
+:ID:       83dc06f9-b07b-49a1-b3c5-a80b9e6f31de
+:DRILL_LAST_INTERVAL: 11.3075
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:54]
+:END:
+acquity
+** Example and meaning
+sharpness or keenness of perception; intellectual
+acuity, mental acuity, hearing acuity; keen perception
+* acceding                                                            :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       8e3fee49-a107-47ec-b8f3-d88f0ee9f479
+:DRILL_LAST_INTERVAL: 8.5742
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:29]
+:END:
+acceding
+** Example and meaning
+agree to a demand, request or treaty; "the members of the writing room
+have little interest in acceding. They much rather argue."
+* pretension                                                          :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       2d8bf925-66b2-4759-888a-93f86bc18e6d
+:DRILL_LAST_INTERVAL: 8.8902
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:28]
+:END:
+pretension
+** Example and meaning
+claim towards something. "pandit skewered the pretensions of those
+with opposing ideologies"
+
+2. Acting. Pretending
+* skewered                                                            :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       c24f7e9c-1f28-42ad-956a-434050502768
+:DRILL_LAST_INTERVAL: 8.894
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:51]
+:END:
+skewered
+** Example and meaning
+informal
+subject to sharp criticism or critical analysis.
+"politicians are used to being skewered"; 
+"pandit skewered the pretensions of those with opposing ideologies"
+
+fasten together or pierce with a pin or skewer.
+"skewer the cubes of beef, using six to eight per skewer"
+* partisan                                                            :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       1ef8c6ea-c7a0-436c-84a8-0752ead162f9
+:DRILL_LAST_INTERVAL: 9.4912
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:39]
+:END:
+partisan
+** Example and meaning
+strong supporter of a cause, party or person;  to the
+delight of the partisan crowd, the pudit skewered the pretensions of
+those with an opposing ideology
+* incorrigible                                                   :drill:hard:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       02f47783-40c6-4922-a65e-14e6ee328f53
+:DRILL_LAST_INTERVAL: 7.5965
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:29]
+:END:
+incorrigible
+** Example and meaning
+unable to change or reform, incorrigible liar
+* emendation                                                          :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       05fa631e-0fbe-4485-9db6-c58bfec7e1f8
+:DRILL_LAST_INTERVAL: 7.7688
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:14]
+:END:
+emendation
+** Example and meaning
+process of making a revision or correction to a text
+* circuitous                                                          :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       2933af36-a4ce-44d9-9ecc-595de1a324aa
+:DRILL_LAST_INTERVAL: 8.3041
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:24]
+:END:
+circuitous
+** Example and meaning
+round about, indirect, longer than the direct way
+* obfuscation                                                         :drill:
+SCHEDULED: <2022-03-21 ma>
+:PROPERTIES:
+:ID:       cda71d96-c005-4818-ab36-5823bb616b15
+:DRILL_LAST_INTERVAL: 10.1678
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:29]
+:END:
+obfuscation
+** Example and meaning
+the action of making something obscure, unclear, or unintelligible.
+"when confronted with sharp questions they resort to obfuscation"
+* bathyscaphe                                                         :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       0aa47a07-ce7e-4964-ba65-4781e3702e5a
+:DRILL_LAST_INTERVAL: 9.0239
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 10
+:DRILL_FAILURE_COUNT: 8
+:DRILL_AVERAGE_QUALITY: 1.4
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:31]
+:END:
+bathyscaphe
+** Example and meaning
+a manned submersible vehicle of a kind used by swiss.
+* geldity                                                             :drill:
+SCHEDULED: <2022-03-18 vr>
+:PROPERTIES:
+:ID:       909e5f3e-c321-41e6-aa0e-e94a0fdc46b8
+:DRILL_LAST_INTERVAL: 6.5641
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:49]
+:END:
+geldity
+** Example and meaning
+the quality or condition of being extremely cold or icy.
+"such gripping gelidity was more dangerous than many injuries"
+* acquisitive                                                         :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       083c4d9b-75ca-4e41-90b4-066f9d660b3c
+:DRILL_LAST_INTERVAL: 3.5089
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 1.8
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:25]
+:END:
+acquisitive
+** Example and meaning
+excessively interested in acquiring money or material
+things, 
+* efflorascence                                                       :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       7392a11d-9695-4662-ba6d-20786cb7bcec
+:DRILL_LAST_INTERVAL: 8.6763
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:27]
+:END:
+efflorascence
+** Example and meaning
+blossoming; What can explain the youthful
+efflorescence of talent and creativity that burns itself out so quickly?
+* renaissance                                                         :drill:
+SCHEDULED: <2022-03-22 di>
+:PROPERTIES:
+:ID:       501f7dc1-7d51-48a7-a004-beb8875ff789
+:DRILL_LAST_INTERVAL: 11.2764
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:44]
+:END:
+renaissance
+** Example and meaning
+1. the revival of European art and literature under the influence of
+   classical models in the 14th–16th centuries.
+the culture and style of art and architecture developed during the Renaissance.
+noun: Renaissance
+
+2. a revival of or renewed interest in something.
+noun: renaissance; plural noun: renaissances
+"cinema-going is enjoying something of a renaissance"
+
+Similar:
+revival
+renewal
+resurrection
+reawakening
+* purgatory                                                           :drill:
+SCHEDULED: <2022-03-21 ma>
+:PROPERTIES:
+:ID:       e1ff1bab-a8b1-4e34-b540-e90374072b52
+:DRILL_LAST_INTERVAL: 10.3126
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:37]
+:END:
+purgatory
+** Example and meaning
+There is no purgatory for war criminals
+ambassidor. They go straight to hell.
+* austerity                                                           :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       a8600d70-68d1-4516-a099-d29ad7baf935
+:DRILL_LAST_INTERVAL: 9.064
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:36]
+:END:
+austerity
+** Example and meaning
+1. sternness --> he is an austere man; 2. difficult conditions --> no comforts
+or luxury--> conditions in prison could harldly be anymore
+austere 3. plain --> austere monastery
+
+synonym: *ascetic*
+* turgid                                                              :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       e5c7501d-4443-4862-941a-08b29ae6f147
+:DRILL_LAST_INTERVAL: 9.4384
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:23]
+:END:
+turgid
+** Example and meaning
+1. swollen, bloated; turgid limbs, turgid leeches
+having had their fill of blood  
+2. pompous, bombastic exhibiting self-importance
+* weil                                                                :drill:
+SCHEDULED: <2022-03-16 wo>
+:PROPERTIES:
+:ID:       ca56351c-7749-428a-9283-a78e90d025ed
+:DRILL_LAST_INTERVAL: 4.9944
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:21]
+:END:
+weil
+** Example and meaning
+Conceal cover, or disguise, cold mists veiled the
+mountain peaks.
+* potentiate                                                          :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       440e8b94-4b93-43f5-9daf-094db71e09ca
+:DRILL_LAST_INTERVAL: 4.2929
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 1.8
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 20:06]
+:END:
+potentiate
+** Example and meaning
+increase the power of; the glucose will potentiate
+intestinal absorption of sodium
+* dispell                                                             :drill:
+SCHEDULED: <2022-03-18 vr>
+:PROPERTIES:
+:ID:       cbced217-ad33-4779-a0b2-c9c5af475861
+:DRILL_LAST_INTERVAL: 7.0051
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 1.8
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:32]
+:END:
+dispell
+** Example and meaning
+the brightness of the day did nothing to dispel
+Elain's dejection
+* antecede                                                            :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       e18afcb7-d6f6-4d67-b462-77ea8f48d85d
+:DRILL_LAST_INTERVAL: 7.7896
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 1.8
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:22]
+:END:
+antecede
+** Example and meaning
+precede
+* augur                                                          :drill:hard:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       e5a630f5-be09-4766-b0aa-5dce0592e58b
+:DRILL_LAST_INTERVAL: 3.8263
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 4
+:DRILL_AVERAGE_QUALITY: 1.667
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:27]
+:END:
+augur
+** Example and meaning
+portend or bode (a specified outcome).
+"they feared that these happenings augured a neo-Nazi revival"
+
+Portend or presage or foreshadow --> be a sign of (something momentous
+about to happen)
+
+* venerate                                                            :drill:
+SCHEDULED: <2022-03-24 do>
+:PROPERTIES:
+:ID:       508af771-b115-438d-a6af-bb24802b9e8f
+:DRILL_LAST_INTERVAL: 12.9967
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:50]
+:END:
+venerate
+** Example and meaning
+respect
+* tome                                                                :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       3e2f1ab9-b599-4d37-8ac8-21f8806296aa
+:DRILL_LAST_INTERVAL: 8.8344
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:50]
+:END:
+tome
+** Example and meaning
+philoso[hers latest tome (book)
+* wandering from place to place                                       :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       ea127200-c7e5-4889-8d5a-2b6606f72b70
+:DRILL_LAST_INTERVAL: 8.0357
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.25
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:29]
+:END:
+wandering from place to place
+** Example and meaning
+itenerant, peripatetic, perigrinnate, 
+* decadent                                                       :drill:hard:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       6db81acb-cb15-47ea-91b0-6d977b8ec9a7
+:DRILL_LAST_INTERVAL: 4.0323
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 8
+:DRILL_FAILURE_COUNT: 6
+:DRILL_AVERAGE_QUALITY: 1.499
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:22]
+:END:
+decadent
+** Example and meaning
+1. Something in a state of decline; characterized by or
+reflecting a state of moral or cultural decline
+
+characterized by or reflecting a state of moral or cultural decline.
+"a decaying, decadent Britain"
+Similar:
+dissipated
+degenerate
+
+
+2. person who is luxuriously self-indulgent.  "for half a
+million dollars, he offers rich decadents the chance to lead a deadly
+safari"
+dissolute
+* astute                                                              :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       bbe32d39-918f-4796-8620-b44d3d047ded
+:DRILL_LAST_INTERVAL: 8.6443
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:52]
+:END:
+astute
+** Example and meaning
+an astute observation; having or showing an ability to accurately assess situations or people and turn this to one's advantage
+* Phlegmatic --> calm and unemotional; bomb diffuser was phlegmatic
+* panegyric --> compliment
+* pastiche --> parody imitation
+* Prevaricate --> Deviate from the truth
+* Perfunctory --> perfunctory smile, mechanical
+* Pariah --> outcast (kushik)
+* Parry --> to deflect with quick witted answer
+* perigrinate --> wander from place to place
+* Perfidious --> to out someone; a perfidious brother
+* Pare --> to trim off excess 
+
+Pared hundreds of potatoes
+* opprobrium --> public disgrace
+* proclivity --> natural inclination
+* petulant                                                            :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       8d3f849f-87bf-4682-be2f-aadf07688b89
+:DRILL_LAST_INTERVAL: 3.7851
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 7
+:DRILL_FAILURE_COUNT: 5
+:DRILL_AVERAGE_QUALITY: 1.571
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:48]
+:END:
+petulant
+** Example and meaning
+He was moody an petulant; childishly sulky or bad-tempered
+* infamy                                                              :drill:
+SCHEDULED: <2022-03-23 wo>
+:PROPERTIES:
+:ID:       c6a3288b-f0d4-4c78-be43-ca4472494871
+:DRILL_LAST_INTERVAL: 11.8107
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:39]
+:END:
+infamy
+** Example and meaning
+being famous for not the right things
+* irate                                                               :drill:
+SCHEDULED: <2022-03-21 ma>
+:PROPERTIES:
+:ID:       082e769e-3ec1-49f2-8412-9d75923b30c8
+:DRILL_LAST_INTERVAL: 9.6243
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:39]
+:END:
+irate
+** Example and meaning
+The mayor received a bunch of irate letters (angry letters)
+* officious                                                           :drill:
+SCHEDULED: <2022-03-21 ma>
+:PROPERTIES:
+:ID:       4489d69b-b49c-4ba7-b528-d40fcecc807b
+:DRILL_LAST_INTERVAL: 9.7546
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:52]
+:END:
+officious
+** Example and meaning
+intrusively enthusiastic; An officious bystander
+* Prevaricate                                                    :drill:hard:
+SCHEDULED: <2022-03-16 wo>
+:PROPERTIES:
+:ID:       e98fd454-77aa-4bf8-870e-54f5935d76d3
+:DRILL_LAST_INTERVAL: 4.727
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 8
+:DRILL_FAILURE_COUNT: 6
+:DRILL_AVERAGE_QUALITY: 1.499
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:45]
+:END:
+Prevaricate
+** Example and meaning
+Deviate from the truth; like equivocate and lie; He
+seemed to prevaricate when journalists asked pointed questions; 
+
+Parry --> to deflect especially by a quick-witted answer
+* militate                                                            :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       0d42da41-84e2-4cdf-b709-9a4123f3ed7e
+:DRILL_LAST_INTERVAL: 8.1369
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:53]
+:END:
+militate
+** Example and meaning
+to operate against; lenin militated against the tsar
+for years before he overthrew him and established the soviet union.
+* livid                                                               :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       8d8dff0d-27a2-41ba-8c07-4f948ab4400b
+:DRILL_LAST_INTERVAL: 7.9558
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.5
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:14]
+:END:
+livid
+** Example and meaning
+reddened with anger; andre was livid when he discovered that someone
+had spilled grape juice all over his cashmere coat
+* Mendacious                                                          :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       5b4f2987-b79f-4363-997f-1328ceea7a47
+:DRILL_LAST_INTERVAL: 7.8767
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:29]
+:END:
+Mendacious
+** Example and meaning
+dishonest, So many of her stories were mendacious
+that I decided she must be a pathological liar
+* iconoclast                                                          :drill:
+SCHEDULED: <2022-03-18 vr>
+:PROPERTIES:
+:ID:       1c539b6f-07e5-4d5a-9312-867bec3b34f5
+:DRILL_LAST_INTERVAL: 6.6211
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:51]
+:END:
+iconoclast
+** Example and meaning
+1. a person who attacks or criticizes cherished beliefs or
+   institutions.
+2.  destroyer of images used in religious worship.
+* trickery                                                            :drill:
+SCHEDULED: <2022-03-22 di>
+:PROPERTIES:
+:ID:       9c05380c-c9ff-4de2-8b7d-3689817d39fd
+:DRILL_LAST_INTERVAL: 10.6253
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:49]
+:END:
+trickery
+** Example and meaning
+legerdemain, chicanery, 
+* exulted                                                        :drill:hard:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       e95226eb-6558-4727-9d5f-af7f1c40fe69
+:DRILL_LAST_INTERVAL: 4.4885
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 4
+:DRILL_AVERAGE_QUALITY: 1.667
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 20:06]
+:END:
+exulted
+** Example and meaning
+Discussion about whether she should be exulted as a feminist or pitied
+as a victim of philandering; feel or show triumphant elation or
+jubilation.  
+
+rejoiced, be joyful, pleased, delighted
+* misogynist                                                          :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       57c30489-f5de-4c06-987a-448bb3b9f3dd
+:DRILL_LAST_INTERVAL: 3.6936
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:22]
+:END:
+misogynist
+** Example and meaning
+a person who dislikes, despises, or is strongly prejudiced against women.
+"a bachelor and renowned misogynist"
+* philandering                                                        :drill:
+SCHEDULED: <2022-03-21 ma>
+:PROPERTIES:
+:ID:       85d073fd-19ba-489c-b4e1-1b9a61667d2a
+:DRILL_LAST_INTERVAL: 10.0412
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:26]
+:END:
+philandering
+** Example and meaning
+(of a man) readily or frequently enter into casual sexual relationships with women.
+"married men who philander"
+* epitomized                                                          :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       f0aa3a7e-aa1f-4db2-a9b9-a01f86f27602
+:DRILL_LAST_INTERVAL: 8.6085
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:25]
+:END:
+
+There is little to debate about her; as much as anybody can, she
+epitomized the metaphor " an open book" 
+
+
+** Example and meaning
+Examplified something. In this case, she was a living example of an
+open book.
+* dimunitive                                                          :drill:
+SCHEDULED: <2022-03-22 di>
+:PROPERTIES:
+:ID:       69d06bf2-4d94-4a3b-ba7d-eed98dcd89b2
+:DRILL_LAST_INTERVAL: 11.1541
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:26]
+:END:
+dimunitive
+** Example and meaning
+small --> "physically dimunitive"
+* mythic                                                              :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       8bd52b72-c81f-4ed4-b0c9-9c41f9cf89b3
+:DRILL_LAST_INTERVAL: 8.6317
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:54]
+:END:
+mythic
+** Example and meaning
+mythical --> to document the events and relationships
+that made kahlo a mythical figure
+* preclude                                                            :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       773274b6-b1fd-40c4-850d-a679a428b5ac
+:DRILL_LAST_INTERVAL: 3.6605
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 7
+:DRILL_FAILURE_COUNT: 5
+:DRILL_AVERAGE_QUALITY: 1.571
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 20:06]
+:END:
+preclude
+** Example and meaning
+Such objections would not preclude them from adopting
+the many other control strategies and principles that are part of IPB;
+preclude --> prevent from happening
+* obstetrician                                                        :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       233ff649-abd7-4845-9503-6ae1cd397798
+:DRILL_LAST_INTERVAL: 4.1441
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:21]
+:END:
+obstetrician
+** Example and meaning
+ 
+The branch of medicine and surgery concerned with childbirth and the care of women giving birth.
+* contemporary                                                        :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       cdbc461a-2d7e-4159-8909-88b5e53a650f
+:DRILL_LAST_INTERVAL: 8.7992
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.2
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:42]
+:END:
+contemporary
+** Example and meaning
+belonging to or occurring in the present.
+"the tension and complexities of our contemporary society"; Current;
+
+"Explain the effect of contemporary situations upon interpretations of
+literature"
+* inflexible                                                          :drill:
+SCHEDULED: <2022-03-21 ma>
+:PROPERTIES:
+:ID:       df0deba4-d2c8-4b88-904f-eebe9f1b87d7
+:DRILL_LAST_INTERVAL: 10.3341
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.25
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:50]
+:END:
+inflexible
+** Example and meaning
+intransigient, obstinate, obdurate, recalcitrant, unyielding,
+stubborn, inexorable, opposite of (lissome, lithe, limber, sinuous)
+* naive                                                               :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       ee01cad5-9650-46ba-a8c6-39a46a52204d
+:DRILL_LAST_INTERVAL: 8.0728
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.4
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:25]
+:END:
+naive
+** Example and meaning
+ingenous, credulous, suceptible
+* presumptuous                                                        :drill:
+SCHEDULED: <2022-03-13 zo>
+:PROPERTIES:
+:ID:       f6fe7341-e8a2-4831-99b9-d5831fb2f9c2
+:DRILL_LAST_INTERVAL: 6.8316
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-06 zo 11:21]
+:END:
+presumptuous
+** Example and meaning
+I think it is a bit presumptuous to do the pinch
+instead of the swirl; Arrogant, failing to observe limits of what is
+permitted and not.
+* conscientious                                                       :drill:
+SCHEDULED: <2022-03-28 ma>
+:PROPERTIES:
+:ID:       4202566b-6a2b-4631-a3ba-60a885308f70
+:DRILL_LAST_INTERVAL: 17.0127
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:03]
+:END:
+conscientious
+** Example and meaning
+the secret I tell you must be used in a conscientious
+way; wishing to do ones duties well and thoroughly.
+* contentious                                                         :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       95a53876-4fa1-48d2-a315-4b1ba57430ae
+:DRILL_LAST_INTERVAL: 9.2213
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.32
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:29]
+:END:
+contentious
+** Example and meaning
+Despite the contentious history of the stone; controversial history
+* disingenuous                                                        :drill:
+SCHEDULED: <2022-03-26 za>
+:PROPERTIES:
+:ID:       8f0421f3-8cc8-43f6-bcb9-318a0ec0d50f
+:DRILL_LAST_INTERVAL: 14.5347
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.2
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:04]
+:END:
+disingenuous
+** Example and meaning
+not sincere, dishonest, deceitful
+* ingenuous                                                           :drill:
+SCHEDULED: <2022-03-21 ma>
+:PROPERTIES:
+:ID:       1fa9a504-e7f3-4c9d-8761-e3e6e75ed543
+:DRILL_LAST_INTERVAL: 14.2801
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-07 ma 19:16]
+:END:
+ingenuous
+** Example and meaning
+innocent
+* effusive                                                            :drill:
+SCHEDULED: <2022-03-21 ma>
+:PROPERTIES:
+:ID:       b0d574b8-8a70-4c00-824c-63eb5a5c93d3
+:DRILL_LAST_INTERVAL: 9.5543
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 11
+:DRILL_FAILURE_COUNT: 8
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:26]
+:END:
+effusive
+** Example and meaning
+showing or expressing gratitude, pleasure, or approval in an unrestrained or heartfelt manner.
+"an effusive welcome"
+* mendacious                                                          :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       b1a102a6-86b6-4d46-9caa-2913018a545b
+:DRILL_LAST_INTERVAL: 8.3395
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 7
+:DRILL_FAILURE_COUNT: 4
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:30]
+:END:
+mendacious
+** Example and meaning
+mendacious propaganda in china; not telling the truth
+* subversive                                                          :drill:
+SCHEDULED: <2022-03-14 ma>
+:PROPERTIES:
+:ID:       fe9d6cbe-8f7c-42ad-908c-0a5f4c20371c
+:DRILL_LAST_INTERVAL: 3.468
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 13
+:DRILL_FAILURE_COUNT: 10
+:DRILL_AVERAGE_QUALITY: 1.615
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:21]
+:END:
+subversive
+** Example and meaning
+trouble making, subversive literature, disruptive
+* heyday                                                              :drill:
+SCHEDULED: <2022-03-17 do>
+:PROPERTIES:
+:ID:       dbd489e8-5eb2-4d7c-aae1-a3ca8586ea0f
+:DRILL_LAST_INTERVAL: 5.9769
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 7
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 2.143
+:DRILL_EASE: 1.94
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:30]
+:END:
+heyday
+** Example and meaning
+From the band's heyday; from the band's success period
+* anachronistic                                                       :drill:
+SCHEDULED: <2022-03-24 do>
+:PROPERTIES:
+:ID:       0134720c-fa3f-4646-887e-f43e838714a4
+:DRILL_LAST_INTERVAL: 13.3088
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.32
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:27]
+:END:
+anachronistic
+** Example and meaning
+From another time other than the one being talked about.  
+
+The aging rock star’s insistence on retaining the ostentatious stage
+designs and special effects from the band’s heyday (success days) made their concerts
+anachronistic in this new era in which subdued, even stark, staging
+was the norm.
+* flamboyant ostentatious                                             :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       3d7e7228-d2e7-4e39-991d-ecaa01ea8242
+:DRILL_LAST_INTERVAL: 8.5005
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-06 zo 10:39]
+:END:
+flamboyant 
+** Example and meaning
+showy pretentious gaudy, ostentatious, showy display
+* ancillary                                                           :drill:
+SCHEDULED: <2022-03-30 wo>
+:PROPERTIES:
+:ID:       554afb2e-f8c6-44bc-8e95-b0d16f8e7eb6
+:DRILL_LAST_INTERVAL: 18.9077
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 8
+:DRILL_FAILURE_COUNT: 5
+:DRILL_AVERAGE_QUALITY: 2.375
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:05]
+:END:
+ancillary
+** Example and meaning
+providing necessary support to the primary activities or operation of an organization, system, etc.
+"ancillary staff"
+* profligate                                                          :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       536cee30-a3d6-4fe0-928d-60824b4c3e87
+:DRILL_LAST_INTERVAL: 4.4792
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 11
+:DRILL_FAILURE_COUNT: 8
+:DRILL_AVERAGE_QUALITY: 1.909
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:46]
+:END:
+profligate
+** Example and meaning
+profligate consumers of energy; wasterful use of resources;
+*licentious, dissolute*
+* prolific                                                            :drill:
+SCHEDULED: <2022-03-17 do>
+:PROPERTIES:
+:ID:       2a744301-4cc5-4150-8ef3-8e1b72a9e0aa
+:DRILL_LAST_INTERVAL: 10.599
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.25
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2022-03-06 zo 10:39]
+:END:
+prolific
+** Example and meaning
+producing a lot of; prolific writer --> inventive
+productive writer, prolific breeders --> producing many offsprings,
+also means LOTS, mahogany was once prolific in the tropical forests.
+* conjecture                                                          :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       a356a1d0-2dc7-45f7-9f35-4ba7474e4ad5
+:DRILL_LAST_INTERVAL: 8.4961
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 7
+:DRILL_FAILURE_COUNT: 4
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:14]
+:END:
+conjecture
+** Example and meaning
+an opinion formed on the basis of incomplete information; 
+synonym: 
+guess, speculation, surmise
+* talkative                                                           :drill:
+SCHEDULED: <2022-03-27 zo>
+:PROPERTIES:
+:ID:       a49e59a2-9ad7-498d-a010-fd49269ec88f
+:DRILL_LAST_INTERVAL: 16.0595
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 20:02]
+:END:
+talkative
+** Example and meaning
+garrulous, loquacious, verbose, voluble
+* thwart                                                              :drill:
+SCHEDULED: <2022-03-31 do>
+:PROPERTIES:
+:ID:       24353597-e0e9-48bc-b432-4f5224cb8a9f
+:DRILL_LAST_INTERVAL: 20.0271
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 2.167
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:16]
+:END:
+thwart
+** Example and meaning
+prevent somone from accomplishing something; Stand in
+the way, thwart someones plans e.g.
+* galvanize                                                           :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       cea4abfb-b67c-44ed-a655-6e7f370f0566
+:DRILL_LAST_INTERVAL: 7.6486
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 8
+:DRILL_FAILURE_COUNT: 5
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:37]
+:END:
+galvanize
+** Example and meaning
+ : to cause (people) to become so excited or concerned about an issue, idea, etc., that they want to do something about it an issue that galvanized the public (to take action)
+2 : to cause (a force that is capable of causing change) to become active The group is hoping to galvanize public opinion against the proposed law.
+* stymied                                                             :drill:
+SCHEDULED: <2022-04-05 di>
+:PROPERTIES:
+:ID:       35bddaac-f23b-4bdb-a4d0-1d700e6f21e5
+:DRILL_LAST_INTERVAL: 25.2623
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 20:01]
+:END:
+stymied
+** Example and meaning
+The changes must not be allowed to stymie new medical
+treatments; impede, prevent or hinder the progress of.
+* magisterial                                                    :drill:hard:
+SCHEDULED: <2022-03-17 do>
+:PROPERTIES:
+:ID:       06fbfd1c-0a8f-4e2b-9f0c-988434043f1f
+:DRILL_LAST_INTERVAL: 5.8826
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 7
+:DRILL_FAILURE_COUNT: 4
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:37]
+:END:
+magisterial
+** Example and meaning
+a magisterial pronouncement; showing great or having
+great authority; authoritative, 
+* reserved in talking or communication or short in speech             :drill:
+SCHEDULED: <2022-03-16 wo>
+:PROPERTIES:
+:ID:       7dd98925-6d3a-4459-a7a3-dcf043d75e13
+:DRILL_LAST_INTERVAL: 10.4549
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.25
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2022-03-06 zo 10:39]
+:END:
+reserved in talking or communication or short in speech
+** Example and meaning
+terse, taciturn, laconic, reticent opposite of loquacious, *curt*
+* clear synonyms                                                      :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       1d8d6d39-7ae5-43da-b59f-d231adb0761b
+:DRILL_LAST_INTERVAL: 7.9253
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 9
+:DRILL_FAILURE_COUNT: 6
+:DRILL_AVERAGE_QUALITY: 2.111
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:28]
+:END:
+clear synonyms
+** Example and meaning
+clear as in 'easy to understand as well'
+lucid, perspicuous, pellucid, limpid, luculent, intelligible
+(comprehensible)
+* perspicuous                                                         :drill:
+SCHEDULED: <2022-03-26 za>
+:PROPERTIES:
+:ID:       4fc140af-cd52-4839-a510-7c748574593c
+:DRILL_LAST_INTERVAL: 14.8273
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 8
+:DRILL_FAILURE_COUNT: 5
+:DRILL_AVERAGE_QUALITY: 2.125
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:28]
+:END:
+perspicuous
+** Example and meaning
+lucid, clearly expressed, easily understood.
+* asinine                                                             :drill:
+SCHEDULED: <2022-03-14 ma>
+:PROPERTIES:
+:ID:       7951284c-9eb2-4603-94b0-7b7defab1744
+:DRILL_LAST_INTERVAL: 3.3391
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 9
+:DRILL_FAILURE_COUNT: 6
+:DRILL_AVERAGE_QUALITY: 1.778
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:24]
+:END:
+asinine
+** Example and meaning
+Lydia ignored his asinine remark; stupid or foolish, silly etc.
+* pellucid                                                            :drill:
+SCHEDULED: <2022-03-28 ma>
+:PROPERTIES:
+:ID:       d97af8e0-de0f-424d-b6d1-da67cf36b86a
+:DRILL_LAST_INTERVAL: 17.3389
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.75
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:03]
+:END:
+pellucid
+** Example and meaning
+Pellucid prose, pellucid water, pellucid tone;
+translucent, easily understood, clear, lucid
+* affable                                                             :drill:
+SCHEDULED: <2022-04-03 zo>
+:PROPERTIES:
+:ID:       2b6f89e9-58ea-45c2-b038-ffcfc6201692
+:DRILL_LAST_INTERVAL: 22.9869
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.2
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:24]
+:END:
+affable
+** Example and meaning
+an affable and agreeable companion; friendly,
+amiable, genial, affable person
+* vagrant                                                             :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       a085af69-a28d-4021-b757-af4890bfcef5
+:DRILL_LAST_INTERVAL: 8.7023
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.2
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:39]
+:END:
+vagrant
+** Example and meaning
+vagrant beggers; not having a settled home people
+* prodigal                                                            :drill:
+SCHEDULED: <2022-03-12 za>
+:PROPERTIES:
+:ID:       ce7bf9e1-4207-4228-b17d-9a6d088d418c
+:DRILL_LAST_INTERVAL: 12.2616
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.667
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2022-02-28 ma 21:37]
+:END:
+prodigal
+** Example and meaning
+spending money or using resources freely and recklessly; wastefully extravagant.
+"prodigal habits die hard"; lavish, wasteful, extravagant
+* indigence (adj)                                                     :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       2e4cdfa0-50bd-4ea7-8bf6-7cd6d99ee769
+:DRILL_LAST_INTERVAL: 11.1301
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 14
+:DRILL_FAILURE_COUNT: 11
+:DRILL_AVERAGE_QUALITY: 1.643
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:49]
+:END:
+indigence (adj)
+** Example and meaning
+Impecunious/indigent children; pecunia means property or money
+therefore, poor is impecunious, also 
+* impecunoious (adj)                                                  :drill:
+SCHEDULED: <2022-03-24 do>
+:PROPERTIES:
+:ID:       a4eb1d0e-d0ee-4a33-9616-aa12ed6d242b
+:DRILL_LAST_INTERVAL: 17.0168
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.2
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-07 ma 19:16]
+:END:
+impecunoious (adj)
+** Example and meaning
+Impecunious children; pecunia means property or money
+therefore, poor is impecunious, also indigent
+* diluvial                                                            :drill:
+SCHEDULED: <2022-03-13 zo>
+:PROPERTIES:
+:ID:       d0e316fb-7a52-48f3-abe6-07a794179a55
+:DRILL_LAST_INTERVAL: 6.905
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 7
+:DRILL_FAILURE_COUNT: 4
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-06 zo 10:54]
+:END:
+diluvial
+** Example and meaning
+relating to or brought about by a flood
+
+Seas will be higher, rain more diluvial and storms fiercer
+* gratuitous                                                          :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       e44fac49-3b3d-4659-ac02-048731013c10
+:DRILL_LAST_INTERVAL: 3.8999
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 11
+:DRILL_FAILURE_COUNT: 8
+:DRILL_AVERAGE_QUALITY: 1.728
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:25]
+:END:
+gratuitous
+** Example and meaning
+1. unecessary; gratuitous violence
+2. done free of charge; gratuitous legal advice
+* seminal                                                             :drill:
+SCHEDULED: <2022-03-12 za>
+:PROPERTIES:
+:ID:       30648b50-f0f8-46cc-ab64-5356a4ed9a80
+:DRILL_LAST_INTERVAL: 6.3693
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.32
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-03-06 zo 10:40]
+:END:
+seminal
+** Example and meaning
+Most Seminal event was the diaspora of germanic
+tribes into lands that  were once someone elses.; strongly influencing
+like semen, does the later developments.
+* diaspora                                                            :drill:
+SCHEDULED: <2022-03-14 ma>
+:PROPERTIES:
+:ID:       7aec0563-011b-4e66-b73b-98195e52a728
+:DRILL_LAST_INTERVAL: 8.004
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.2
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-06 zo 10:54]
+:END:
+diaspora
+** Example and meaning
+dispersion of german tribes into other regions from
+germany for e.g.; dispersion
+* acquiesce                                                           :drill:
+SCHEDULED: <2022-03-28 ma>
+:PROPERTIES:
+:ID:       6d8db303-6e32-4f0f-8b8c-e3184317e383
+:DRILL_LAST_INTERVAL: 16.5607
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 7
+:DRILL_FAILURE_COUNT: 4
+:DRILL_AVERAGE_QUALITY: 2.143
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:05]
+:END:
+acquiesce
+** Example and meaning
+accept something reluctantly but without protest.
+"Sara acquiesced in his decision"
+* predilection                                                        :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       537c0f8f-9900-4bbf-9e88-fc108714f1d1
+:DRILL_LAST_INTERVAL: 8.7481
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-06 zo 11:22]
+:END:
+predilection
+** Example and meaning
+a preference or special liking; penchant, fondness, liking
+* antipathy                                                           :drill:
+SCHEDULED: <2022-03-14 ma>
+:PROPERTIES:
+:ID:       81003941-3d9d-4bb0-bdf9-079c51d5a273
+:DRILL_LAST_INTERVAL: 7.5293
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 2.167
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-06 zo 11:20]
+:END:
+antipathy
+** Example and meaning
+antipathy towards capitalism; hostility, animosity aversion
+* vilipend                                                            :drill:
+SCHEDULED: <2022-03-14 ma>
+:PROPERTIES:
+:ID:       7f84acf7-f59b-4b23-9ed7-5c4d804c443d
+:DRILL_LAST_INTERVAL: 7.6436
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 7
+:DRILL_FAILURE_COUNT: 4
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-06 zo 11:21]
+:END:
+vilipend
+** Example and meaning
+The crowd vilipened the movie; to hold or treat as of
+little worth, to express low opinion of; *Disparage*
+* espouse                                                             :drill:
+SCHEDULED: <2022-03-12 za>
+:PROPERTIES:
+:ID:       8b7baa1a-473b-46cb-b91f-a74c0c777a46
+:DRILL_LAST_INTERVAL: 11.6055
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-02-28 ma 19:52]
+:END:
+espouse
+** Example and meaning
+she espoused the causes of justice and freedom for all; to support to
+*Champion*, to support.
+* engendered                                                          :drill:
+SCHEDULED: <2022-03-13 zo>
+:PROPERTIES:
+:ID:       785d14e5-a05d-401c-80f4-40ec15cbc143
+:DRILL_LAST_INTERVAL: 6.8688
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 2.167
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2022-03-06 zo 10:54]
+:END:
+engendered
+** Example and meaning
+Made policies that engendered chaos; To cause to
+develop, NOT TO SUPPORT.
+* piddling                                                            :drill:
+SCHEDULED: <2022-03-21 ma>
+:PROPERTIES:
+:ID:       2215036c-cbc4-45ed-bb47-16762d1c5d2c
+:DRILL_LAST_INTERVAL: 15.1752
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.25
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-06 zo 10:40]
+:END:
+piddling
+** Example and meaning
+trivial
+* fathomless                                                          :drill:
+SCHEDULED: <2022-03-12 za>
+:PROPERTIES:
+:ID:       b56e0bb0-1a87-413d-beb1-573f51a8b4ca
+:DRILL_LAST_INTERVAL: 5.9916
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.2
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-06 zo 11:18]
+:END:
+fathomless
+** Example and meaning
+Fathomless/staggering genious; unable to measure or understand; extremely deep;
+unfathomable; incomoprehensible; staggering in a sense,
+* incipient                                                           :drill:
+SCHEDULED: <2022-03-13 zo>
+:PROPERTIES:
+:ID:       9d23da67-89f9-4009-9687-b6b2855bb735
+:DRILL_LAST_INTERVAL: 7.4904
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.4
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-06 zo 11:18]
+:END:
+incipient
+** Example and meaning
+Mozart manifested the signs of incipient genius at
+the age of 5; Beginning to develop; *nascent*
+* precocious                                                          :drill:
+SCHEDULED: <2022-03-28 ma>
+:PROPERTIES:
+:ID:       8f1ed928-0690-4a39-8431-d4c605c171aa
+:DRILL_LAST_INTERVAL: 16.8402
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.2
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:24]
+:END:
+precocious
+** Example and meaning
+a precocious talent for computing; having developed
+at an early age, than usual.
+* solemn                                                              :drill:
+SCHEDULED: <2022-03-18 vr>
+:PROPERTIES:
+:ID:       e15f457e-e679-4529-8cb8-9170abc99ad3
+:DRILL_LAST_INTERVAL: 7.3821
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 11
+:DRILL_FAILURE_COUNT: 7
+:DRILL_AVERAGE_QUALITY: 1.818
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:49]
+:END:
+solemn
+** Example and meaning
+dignified and serious. The ashes were laid to rest
+with great solemnity; sincerity, earnestness
+* lugbriousness                                                       :drill:
+SCHEDULED: <2022-03-21 ma>
+:PROPERTIES:
+:ID:       827b16d6-1189-434c-8df8-cf7717121839
+:DRILL_LAST_INTERVAL: 9.9528
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 9
+:DRILL_FAILURE_COUNT: 6
+:DRILL_AVERAGE_QUALITY: 2.111
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:52]
+:END:
+lugbriousness
+** Example and meaning
+sad. The lugbriousness of doing the gre made him cry;
+* mirth                                                               :drill:
+SCHEDULED: <2022-03-21 ma>
+:PROPERTIES:
+:ID:       599b0131-838f-4ad7-b257-44524376d4fc
+:DRILL_LAST_INTERVAL: 9.595
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 9
+:DRILL_FAILURE_COUNT: 6
+:DRILL_AVERAGE_QUALITY: 1.889
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:29]
+:END:
+mirth
+** Example and meaning
+His 6 foot frame shooke with mirth when he heard the
+joke; amusement, *merriment*
+* emancipated                                                         :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       6bdfb767-e5c3-49b0-96dc-633169bb3bd2
+:DRILL_LAST_INTERVAL: 7.7033
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 9
+:DRILL_FAILURE_COUNT: 5
+:DRILL_AVERAGE_QUALITY: 1.89
+:DRILL_EASE: 1.94
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:43]
+:END:
+emancipated
+** Example and meaning
+emancipated young women, liberate, free from (legal) restrictions;
+unconstrained
+
+Britney entirely emancipated from the cruel hold of her father
+* indemnify                                                           :drill:
+SCHEDULED: <2022-03-16 wo>
+:PROPERTIES:
+:ID:       99b076db-05e0-4fad-befc-0861524d2d04
+:DRILL_LAST_INTERVAL: 4.7708
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 9
+:DRILL_FAILURE_COUNT: 5
+:DRILL_AVERAGE_QUALITY: 1.778
+:DRILL_EASE: 1.94
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:25]
+:END:
+indemnify
+** Example and meaning
+the company has taken out insurance to indemnify its
+directors against liability when acting for the group; insure, guard
+against legal liability.
+
+Another meaning: compensate for harm or loss, 
+
+Each of the parties shall indemnify me for all reasonable costs of
+defending such actions and proceedings
+* denigrate                                                           :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       519790f7-4a1a-4625-9ae5-ab9eebfd5a1f
+:DRILL_LAST_INTERVAL: 3.6671
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 8
+:DRILL_FAILURE_COUNT: 5
+:DRILL_AVERAGE_QUALITY: 1.751
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:33]
+:END:
+denigrate
+** Example and meaning
+The cheif was denegrated despite his good actions;
+critisized unfairly, defame, belittle, disparaged, deprecated,
+pejorative
+
+* ignominy                                                            :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       04a1f2b2-3077-4e3c-a35a-0b0a196f0868
+:DRILL_LAST_INTERVAL: 3.6284
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 10
+:DRILL_FAILURE_COUNT: 6
+:DRILL_AVERAGE_QUALITY: 1.7
+:DRILL_EASE: 1.94
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:22]
+:END:
+ignominy
+** Example and meaning
+The ignominy of being imprisoned; public shame; loss of good name
+
+nomen --> name; ig --> opposite of
+* fortitude                                                           :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       71aa045f-2cec-4386-9702-cb1ddb55957b
+:DRILL_LAST_INTERVAL: 7.9044
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 9
+:DRILL_FAILURE_COUNT: 5
+:DRILL_AVERAGE_QUALITY: 1.778
+:DRILL_EASE: 1.94
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:31]
+:END:
+fortitude
+** Example and meaning
+She endured illness with great fortitude; courage
+during tough times; resilience 
+* constancy (noun)                                                    :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       01ceb0f8-cd9b-463b-9aa9-74eccfff8799
+:DRILL_LAST_INTERVAL: 8.6107
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.2
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-06 zo 11:19]
+:END:
+constancy (noun)
+** Example and meaning
+Many voters showed their constancy when it was time for re-election;
+faithfullness, loyalty, and also consistancy, persistance
+* disparaging (adj)                                                   :drill:
+SCHEDULED: <2022-04-01 vr>
+:PROPERTIES:
+:ID:       23bfd574-3697-4d68-a917-7b8c86b9aa48
+:DRILL_LAST_INTERVAL: 21.3237
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:03]
+:END:
+disparaging
+** Example and meaning
+the crowd made uniform disparaging reviews; derogatory
+* Obsequious                                                          :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       34208559-b374-4159-81bc-16de0cee2384
+:DRILL_LAST_INTERVAL: 9.4598
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 8
+:DRILL_FAILURE_COUNT: 4
+:DRILL_AVERAGE_QUALITY: 2.125
+:DRILL_EASE: 2.18
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:49]
+:END:
+Obsequious
+** Example and meaning
+They were served by obsequious waiters.; obidient to
+excessive dergree, servile 
+* deferential                                                         :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       595d1202-a097-4a9c-819e-ed95d6c3753d
+:DRILL_LAST_INTERVAL: 12.5793
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.56
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-03-06 zo 11:21]
+:END:
+deferential
+** Example and meaning
+He was deferential to his guru; respectful
+* deprecating,                                                        :drill:
+SCHEDULED: <2022-04-09 za>
+:PROPERTIES:
+:ID:       31c8b015-e572-44ac-bf82-6f7d6354b7f2
+:DRILL_LAST_INTERVAL: 28.9813
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.667
+:DRILL_EASE: 2.32
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:53]
+:END:
+deprecating
+** Example and meaning
+The movie got uniformly deprecating reviews; disapproving, 
+* imperious                                                           :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       bc2ae8cd-c46c-481d-98b7-35a81ac41b36
+:DRILL_LAST_INTERVAL: 8.5655
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 12
+:DRILL_FAILURE_COUNT: 9
+:DRILL_AVERAGE_QUALITY: 1.75
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2022-03-06 zo 11:19]
+:END:
+imperious
+** Example and meaning
+His imperious demands; arrogant and domineering;
+commanding 
+* taciturn                                                            :drill:
+SCHEDULED: <2022-04-09 za>
+:PROPERTIES:
+:ID:       92c324a1-d000-4147-b9ff-8db0d48a94cd
+:DRILL_LAST_INTERVAL: 28.6701
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.667
+:DRILL_EASE: 2.32
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:58]
+:END:
+taciturn
+** Example and meaning
+At family gatherings she would be taciturn; reticent
+* ambivalent, equivocate                                              :drill:
+SCHEDULED: <2022-03-18 vr>
+:PROPERTIES:
+:ID:       fbe6942b-0292-424c-8550-36d52bc0088c
+:DRILL_LAST_INTERVAL: 11.8497
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-06 zo 11:18]
+:END:
+ambivalent
+** Example and meaning
+Few loved her, few hated her and some were ambivalent
+about her. Mixed feelings or contradictory feelings about something; Equivocate
+* reticent, taciturn                                                  :drill:
+SCHEDULED: <2022-04-05 di>
+:PROPERTIES:
+:ID:       6e85a085-a00e-4679-a736-ed420932d304
+:DRILL_LAST_INTERVAL: 24.6912
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.25
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:57]
+:END:
+Reticent
+** Meaning
+Private figure was reticent about his marriage. I.e., Being Silent;
+not revealing one's thoughts or feelings readily.
+* ostensibly                                                          :drill:
+SCHEDULED: <2022-03-17 do>
+:PROPERTIES:
+:ID:       14594498-9a0b-4541-b71d-ea25fc0b2473
+:DRILL_LAST_INTERVAL: 10.8097
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 7
+:DRILL_FAILURE_COUNT: 4
+:DRILL_AVERAGE_QUALITY: 2.143
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-06 zo 10:55]
+:END:
+
+The nutritional supplement advertisement contained
+[apocryphal||irrefutable, apocryphal, unadorned] claims
+ostensibly based on folklore but unsupported by any citation to
+scientific studies.
+
+** Meaning
+
+ostensibly--> (seeminglNy) stated to be true but might not necessarily
+be so "the party secretary resigned, ostensibly from ill health"
+
+(of a story or statement) of doubtful authenticity, although widely
+circulated as being true.  "his alleged description of opera as ‘fat
+gits singing’ is probably apocryphal"
+* belied                                                              :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       0df0804a-2a17-4650-bd92-b7f980efef58
+:DRILL_LAST_INTERVAL: 8.8272
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.2
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-06 zo 11:21]
+:END:
+
+His lively manner belied his old age
+
+** Meaning
+
+belied --> contradicted ( or fail to justify or give true impression
+of something)
+
+* levee                                                               :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       5f5857a8-d4d4-4bcc-aaa5-5ed0dcb42587
+:DRILL_LAST_INTERVAL: 9.4357
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 2.167
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-06 zo 11:18]
+:END:
+
+levee meaning?
+
+** Meaning
+
+an embankment built to prevent the overflow of a river.
+
+* laconic, loquacious                                                 :drill:
+SCHEDULED: <2022-03-23 wo>
+:PROPERTIES:
+:ID:       aa3daf76-a2c3-463e-9ca5-16714f6431b9
+:DRILL_LAST_INTERVAL: 12.1618
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 8
+:DRILL_FAILURE_COUNT: 5
+:DRILL_AVERAGE_QUALITY: 2.25
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:49]
+:END:
+
+The Senator’s [laconic|| loquacious laconic gregarious] nature was painfully evident at social
+gatherings, gaining her a reputation for being curt and aloof,
+
+** meaning
+
+* inimical                                                            :drill:
+SCHEDULED: <2022-04-01 vr>
+:PROPERTIES:
+:ID:       c52e2fa1-1d6d-4c2e-8aeb-cfd39af2a79f
+:DRILL_LAST_INTERVAL: 21.1782
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:13]
+:END:
+
+Rank and file members of the ruling and primary opposition parties in
+Parliament remained deeply [inimical||ambiguous, magnanimous, attuned,
+gracious, inimical] towards each other despite their leaders’ claims
+of national unity in the face of a growing threat of war in the
+region.
+
+** meaning
+
+hostile
+
+* lassitude listlessness                                              :drill:
+SCHEDULED: <2022-03-16 wo>
+:PROPERTIES:
+:ID:       93c7ddfa-7469-4538-9553-5faf5fc2072e
+:DRILL_LAST_INTERVAL: 15.6641
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-02-28 ma 19:45]
+:END:
+The first challenge in many diagnoses is separating the physical from
+the psychological; the (1)[lassitude||lassitude or listlessness] that is evident in patients
+suffering from nutritional deficiencies that rob them of their vigor
+is often indistinguishable from the (2) _______ exhibited by those
+suffering from depression.
+** Answer
+
+Lassitude, listlessness --> lacking energy
+indolent, languished --> growing weaker
+
+* conspicuous                                                         :drill:
+SCHEDULED: <2022-03-13 zo>
+:PROPERTIES:
+:ID:       c43615d0-7dfb-4a2c-885e-bf6e9e7beae9
+:DRILL_LAST_INTERVAL: 6.8591
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.4
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-06 zo 11:21]
+:END:
+He was very thin with a conspicuous adams apple
+** Meaning 
+clearly visible adams apple.
+* exigent                                                             :drill:
+SCHEDULED: <2022-03-12 za>
+:PROPERTIES:
+:ID:       20f6a0ad-9c37-41b3-a29b-4fe36c77f2e2
+:DRILL_LAST_INTERVAL: 12.3002
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-02-28 ma 19:38]
+:END:
+Exigent
+** Meaning
+Urgent, pressing, demanding
+* paltry                                                              :drill:
+SCHEDULED: <2022-03-18 vr>
+:PROPERTIES:
+:ID:       4e096797-67ef-4b95-8b8b-6713ce9dc922
+:DRILL_LAST_INTERVAL: 7.4026
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 8
+:DRILL_FAILURE_COUNT: 4
+:DRILL_AVERAGE_QUALITY: 1.875
+:DRILL_EASE: 1.94
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:38]
+:END:
+Paltry
+** Meaning
+Small meagre. She would earn a paltry amount of 32$ a month.
+* enervate                                                            :drill:
+:PROPERTIES:
+:ID:       af5cb30d-3f88-4dc6-8828-273bc626aea7
+:END:
+
+** meaning 
+
+weaken
+
+* aggrandize                                                          :drill:
+SCHEDULED: <2022-04-03 zo>
+:PROPERTIES:
+:ID:       3465938d-264e-4a66-a306-dee539a6192a
+:DRILL_LAST_INTERVAL: 23.0125
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.667
+:DRILL_EASE: 2.32
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:22]
+:END:
+aggrandize
+** Meaning
+He did xyz to aggrandize himself by dying a hero's death; increase in
+power, status, wealth, reputation
+* inequitable                                                         :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       f2a3c38e-0846-4f32-8cbb-29d93181828f
+:DRILL_LAST_INTERVAL: 8.6549
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 8
+:DRILL_FAILURE_COUNT: 4
+:DRILL_AVERAGE_QUALITY: 1.875
+:DRILL_EASE: 1.94
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:30]
+:END:
+inequitable
+** Meaning
+Unfair, unjust
+* ennui                                                               :drill:
+:PROPERTIES:
+:ID:       eee5b7e4-12d7-4b96-85da-d75b2542ddcb
+:END:
+
+** meaning 
+
+boredom or apathy
+
+* incommensurate                                                      :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       8e8b9d91-9b4d-4429-9f81-f0311c382ce1
+:DRILL_LAST_INTERVAL: 8.711
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 2.167
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-06 zo 11:22]
+:END:
+incommensurate
+** Meaning
+man's influence on the earth's surface seems incommensurate with his
+scale; Out of proportion.
+* commensurate                                                        :drill:
+SCHEDULED: <2022-03-20 zo>
+:PROPERTIES:
+:ID:       5a5e6b2b-e737-4a44-bb26-08e09ecbd8b5
+:DRILL_LAST_INTERVAL: 9.4906
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:42]
+:END:
+commensurate
+** Meaning
+Salary will be commensurate with experience; Corresponding,
+comparable.
+* Commensurable                                                       :drill:
+SCHEDULED: <2022-03-16 wo>
+:PROPERTIES:
+:ID:       4f09ebc3-2a07-43fa-93d1-4f561c2da1af
+:DRILL_LAST_INTERVAL: 5.0616
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:14]
+:END:
+Commensurable
+** Meaning
+Everything is commensurable. You can compare charity donations to
+people going to a protest.
+* ineluctable                                                         :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       649c6a06-465a-4e5c-93db-265472f80397
+:DRILL_LAST_INTERVAL: 4.01
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 14
+:DRILL_FAILURE_COUNT: 10
+:DRILL_AVERAGE_QUALITY: 1.572
+:DRILL_EASE: 1.94
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 20:05]
+:END:
+ineluctable
+** Meaning
+inescapable/ineluctable facts of history
+* bucolic                                                             :drill:
+SCHEDULED: <2022-03-12 za>
+:PROPERTIES:
+:ID:       52f10dfb-9ab6-48b7-a040-e3ddbfc018c9
+:DRILL_LAST_INTERVAL: 6.1953
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-06 zo 10:54]
+:END:
+bucolic
+** Meaning
+The church is lovely for it's bucolic setting; rural, rustic,
+countryside, agricultural. Relating to countryside aspects
+* Calorific                                                           :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       1061b09c-517c-4ea2-ad5a-18176c37d489
+:DRILL_LAST_INTERVAL: 12.9441
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.25
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-06 zo 11:24]
+:END:
+Calorific
+** Meaning
+Not sure, I thought the gre instructor from kaplan said it means
+having high energy.
+* appellation                                                         :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       6f57ea1e-273e-4fb7-882f-b5581287a3c5
+:DRILL_LAST_INTERVAL: 3.717
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:45]
+:END:
+The [appelation||aphorism or appellation or benediction] is earned due
+to the great view of snow-tipped mountatins above and below.
+
+** Meaning 
+Moniker, name pnn! Ja me PEl, apPELation
+aphorism --> axiom, adage, saying
+
+* aphorism                                                            :drill:
+:PROPERTIES:
+:ID:       e0415b1e-d12b-4619-a864-1dd76b07d8aa
+:END:
+
+** Meaning
+
+Axiom truism
+
+* benediction                                                         :drill:
+SCHEDULED: <2022-03-29 di>
+:PROPERTIES:
+:ID:       093d89b8-71ef-478a-9cfb-6719ccd21f20
+:DRILL_LAST_INTERVAL: 17.9745
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 2.167
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:13]
+:END:
+
+She went with Maureen to Benediction at the church
+
+** Meaning
+
+good blessing (Bene Diction)
+
+* labyrinthine                                                        :drill:
+SCHEDULED: <2022-03-13 zo>
+:PROPERTIES:
+:ID:       adf66ed0-4740-47f5-babf-3e2cc7e393b2
+:DRILL_LAST_INTERVAL: 6.6938
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-06 zo 10:47]
+:END:
+
+Such a [labyrinthine|| frivolous or or labyrinthine or poignant]
+manuscript must be approached with circumspection. Only the most
+seasoned editor should be considered for the job.
+
+** Meaning
+
+intricate and confusing
+
+frivolous --> lack of seriousness no serious purpose or value
+(sunkara) --> frivolous behavior in the class room
+
+Poignant --> a poignant reminder of the passing time (invoking great
+sense of sadness or regret), or also 2. "poignant scent" pungent
+
+* poignant                                                            :drill:
+:PROPERTIES:
+:ID:       d8d4eab9-cc41-4e83-b7db-a7789c7d31a8
+:END:
+
+* frivolous                                                           :drill:
+:PROPERTIES:
+:ID:       afde058d-ebc8-466e-bd8e-b1f59bc91078
+:END:
+
+** Meaning
+Whimsical or silly
+
+* Circumspect                                                         :drill:
+SCHEDULED: <2022-03-31 do>
+:PROPERTIES:
+:ID:       83543866-738f-4782-8f0a-2b3e9b5d670f
+:DRILL_LAST_INTERVAL: 20.0492
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:05]
+:END:
+
+:PROPERTIES:
+:ID:       22c2b407-7d68-426c-853d-4a8400c7a2c3
+:DRILL_LAST_INTERVAL: 3.7839
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-02-14 ma 20:14]
+:END:
+
+Such a complex manuscript must be approached with [circumspection||circumspection, fecundity]. Only
+the most seasoned editor should be considered for the job.
+
+** Meaning
+
+Caution, the girl was circumspect when she met the parents of the guy
+for the first time
+
+* fecundity                                                           :drill:
+SCHEDULED: <2022-03-15 di>
+:PROPERTIES:
+:ID:       79849c0a-f7dc-4541-8106-17fbac3f1c3a
+:DRILL_LAST_INTERVAL: 8.6427
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-06 zo 11:18]
+:END:
+
+The immense fecundity of his imagination made a profound impact on
+european literature
+
+** Meaning
+- ability to produce many new ideas
+- ability to produce an abundance of offspring or new growth;
+  fertility
+
+* toxicology, etymology, taxonomy                                     :drill:
+SCHEDULED: <2022-03-25 vr>
+:PROPERTIES:
+:ID:       65909d0b-3eac-48f0-89ac-9d10c27a10ea
+:DRILL_LAST_INTERVAL: 14.2179
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 8
+:DRILL_FAILURE_COUNT: 4
+:DRILL_AVERAGE_QUALITY: 2.125
+:DRILL_EASE: 2.18
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:26]
+:END:
+
+explnation of Origin and development of word meanings
+** meaning
+etymology is the answer.
+toxicology is science that deals with poisons and their effect.
+taxonomy is the science of classifying different living things and how
+they are related.
+
+* laconic, callow                                                :drill:hard:
+SCHEDULED: <2022-03-13 zo>
+:PROPERTIES:
+:ID:       591fab54-353c-43b2-a246-24b80dffe625
+:DRILL_LAST_INTERVAL: 12.6577
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-02-28 ma 19:32]
+:END:
+
+Although he founded an entire magazine about the art of interview,
+warhol was himself a [laconic || laconic or callow] interview subject
+revealing little about his life and work.
+
+** answer
+Laconic as in revealing little
+Callow is immature.
+
+* promulgated                                                         :drill:
+SCHEDULED: <2022-03-18 vr>
+:PROPERTIES:
+:ID:       a4f9913f-8e79-455a-ad79-b2968857de24
+:DRILL_LAST_INTERVAL: 6.5895
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 9
+:DRILL_FAILURE_COUNT: 5
+:DRILL_AVERAGE_QUALITY: 1.778
+:DRILL_EASE: 1.94
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:51]
+:END:
+
+Now that the message of the underground counterculture youth movement
+is being [Promulgated || Promulgated or reported on] by the mass media, many of the movement's
+followers once loyal to the cause have defected.
+
+** meaning
+promulgated --> spread about and make known
+
+* ingenous, ingenious                                                 :drill:
+SCHEDULED: <2022-03-22 di>
+:PROPERTIES:
+:ID:       c543a08e-eec0-4261-b4b1-7c3d93e2148d
+:DRILL_LAST_INTERVAL: 11.2688
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.2
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:04]
+:END:
+
+ingenous and how it differentiates with ingenious
+
+** Meaning
+
+Ingenous thirst for experience; showing innocent or childlike
+simplicity and candidness. Has nothing to do with ingenious
+
+* Prescient                                                           :drill:
+SCHEDULED: <2022-03-21 ma>
+:PROPERTIES:
+:ID:       fd9fd764-0e3e-4473-92df-4ec372e42aa7
+:DRILL_LAST_INTERVAL: 13.5571
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.25
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-07 ma 19:16]
+:END:
+
+Though the teaser looks chillingly familiar 18 months into a real-life
+pandemic, the series began filming before COVID-19 turned the world
+upside-down, underscoring the story's eerie "prescience".
+
+** Meaning
+Underscoring the story's eerie foreknowledge of events.
+
+* Contentious                                                         :drill:
+SCHEDULED: <2022-03-19 za>
+:PROPERTIES:
+:ID:       605a2b2f-1829-47e6-ad2c-30eea0fb88c3
+:DRILL_LAST_INTERVAL: 7.917
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 7
+:DRILL_FAILURE_COUNT: 4
+:DRILL_AVERAGE_QUALITY: 1.857
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:24]
+:END:
+
+Despite Soy products popularity their use is contentious
+
+** Meaning
+Contentious means controversial
+* Languished                                                          :drill:
+SCHEDULED: <2022-03-25 vr>
+:PROPERTIES:
+:ID:       a12c24f1-c206-48b0-8277-b07603aa47ac
+:DRILL_LAST_INTERVAL: 13.8847
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.2
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:59]
+:END:
+
+plants may appear to be "languishing" simply because they are dormant
+
+** Meaning
+Lack vitality, grow weak Languish --> weaker Listless --> lacking
+energy and enthusiasm, lethargic, sluggish Indolent (habitually lazy)
+* diffident                                                           :drill:
+SCHEDULED: <2022-03-13 zo>
+:PROPERTIES:
+:ID:       46aba828-a1a4-4f10-9d50-aa969c60ea0c
+:DRILL_LAST_INTERVAL: 7.3618
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-03-06 zo 10:54]
+:END:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-02-13 zo 19:37>
+:END:
+The diffident toddler was so uncomfortable at the birthday
+party that he constantly cleaved to his mothers side.
+** Meaning of Sentence
+The SHY youth CLUNG to his mothers side.
+** Word
+diffident
+* imperitive                                                          :drill:
+:PROPERTIES:
+:ID:       f43e3123-6368-4dc4-a102-4e06e4fa41f6
+:END:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-01-01 za 08:19>
+:END:
+** Example
+I would imagine mosquitoes are pretty imperitive to the food chain.
+** Meaning of Sentence
+I would imagine that mosquitoes are Vital for the
+food chain.
+** Word
+imperitive
+* lofty                                                               :drill:
+SCHEDULED: <2022-03-15 di>
 :PROPERTIES:
 :DRILL_CARD_TYPE: multisided
 :DATE_OF_RECORDING: <2021-12-29 wo 10:08>
+:ID:       9fc615f0-12dc-45b6-8f48-d1d414a11cda
+:DRILL_LAST_INTERVAL: 9.1736
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 7
+:DRILL_FAILURE_COUNT: 4
+:DRILL_AVERAGE_QUALITY: 1.571
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-06 zo 11:20]
 :END:
 ** Word
 lofty
@@ -11,10 +5609,23 @@ ground, or someone who acts like she's high above everyone else
 ** Example
 He set lofty goals for himself as a teacher. She showed a lofty
 disregard for their objections.
-* mire mired :drill:
+
+haughty and aloof.
+"lofty intellectual disdain
+* mire mired                                                          :drill:
+SCHEDULED: <2022-03-15 di>
 :PROPERTIES:
 :DRILL_CARD_TYPE: multisided
 :DATE_OF_RECORDING: <2021-12-28 di 23:27>
+:ID:       3e9b30a0-3cf9-42cb-9681-e4421d21d67d
+:DRILL_LAST_INTERVAL: 3.9537
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 9
+:DRILL_FAILURE_COUNT: 6
+:DRILL_AVERAGE_QUALITY: 1.333
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 18:12]
 :END:
 ** Word
 mire mired
@@ -25,9 +5636,19 @@ The economy is mired in its longest recession since World War II.
 The feeling of constantly being outraged and mired in the latest
 controversy is unpleasant.
 * ferguson things                                                     :drill:
+SCHEDULED: <2022-03-31 do>
 :PROPERTIES:
 :DRILL_CARD_TYPE: multisided
 :DATE_OF_RECORDING: <2021-12-28 di 23:18>
+:ID:       2242ac19-2aa2-4f03-a398-cf502bb3880c
+:DRILL_LAST_INTERVAL: 24.5005
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.333
+:DRILL_EASE: 2.56
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-03-06 zo 10:40]
 :END:
 ** Word
 ferguson things
@@ -56,6 +5677,8 @@ Use this to `org-drill` more
 # org-drill-cram-hours: 0
 # org-drill-hide-item-headings-p: t
 # org-drill-scope: file
-# org-drill-maximum-items-per-session: 30
-# org-drill-maximum-items-per-session: 20
+# org-drill-maximum-items-per-session: 100
+# org-drill-maximum-items-per-session: 50
+# org-drill-learn-fraction: 0.3
+# org-drill-leech-method: warn
 # End:

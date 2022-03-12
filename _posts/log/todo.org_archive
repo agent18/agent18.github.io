@@ -933,3 +933,121 @@ stuff and send him my cv?
 :ARCHIVE_CATEGORY: todo
 :END:
 
+
+* DONE Inline picture in markdown-mode
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-01-15 za 13:51
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: organization wishlist/USING org-mode for
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE org change end of day recognition in org logs while calculating
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-01-15 za 13:51
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: organization wishlist/USING org-mode for
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+
+* TODO how to archive?
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-01-15 za 13:51
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: organization wishlist/USING org-mode for
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: TODO
+:END:
+
+* TODO [#A] setup agenda hotkeys
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-01-15 za 13:51
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: organization wishlist/USING org-mode for
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: TODO
+:END:
+https://orgmode.org/manual/Activation.html
+
+* TODO Auto-update of all git links periodically
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-01-15 za 13:51
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: organization wishlist
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: TODO
+:END:
+
+* TODO C-c C-t opens in a separate frame wtf?
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-01-15 za 13:51
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: organization wishlist
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: TODO
+:END:
+
+* TODO pin window  on one screen for example pomofocus
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-01-15 za 13:52
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: organization wishlist
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: TODO
+:END:
+
+* TODO USING org-mode for
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-01-15 za 13:52
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: organization wishlist
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: TODO
+:END:
+
+* TODO [#A] org screenshot take and use it in markdown
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-01-15 za 13:52
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: organization wishlist
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: TODO
+:END:
+https://github.com/dfeich/org-screenshot
+https://www.emacswiki.org/emacs/ScreenShot
+https://stackoverflow.com/questions/17435995/paste-an-image-on-clipboard-to-emacs-org-mode-file-without-saving-it
+
+
+* [#C] organization wishlist
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-01-15 za 13:52
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_CATEGORY: todo
+:END:
+
+* fix jpyter keybindings
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-01-15 za 13:52
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: pythiath wishlist
+:ARCHIVE_CATEGORY: todo
+:END:
+https://github.com/kpe/jupyterlab-emacskeys
+
+* open notebooks in emacs
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-01-15 za 13:52
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_OLPATH: pythiath wishlist
+:ARCHIVE_CATEGORY: todo
+:END:
+
+
+* pythiath wishlist
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-01-15 za 13:52
+:ARCHIVE_FILE: ~/agent18/myblock/_posts/log/todo.org
+:ARCHIVE_CATEGORY: todo
+:END:
