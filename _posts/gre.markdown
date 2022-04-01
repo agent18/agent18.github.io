@@ -318,6 +318,21 @@ Make org-capture stuff question, tags, answer
 1. How to do charts:
 https://www.gregmat.com/course/follow-the-process
 
+### Integers
+
+1. **Stick to prime numbers (`Is 4^17-2^28 divisible by 7?`)
+while factorizing things.**
+
+PRIME FACTORIZATION
+
+### Strategies 
+
+Which of following is even?
+
+1. concept --> divisible by 2
+
+2. Choose numbers --> odd and even 1 and 2
+
 
 
 ## Verbal

@@ -1,5 +1,399 @@
+* exponent star mark :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-21 ma 22:03>
+:END:
 
-* mean median mode IQR range sd :drill:
+A: (x-y)^2  B: 4; x and y are consecutive odd integers.
+** Answer
+A = 4 in all cases (x-y) = +-2. However if you simplify, then
+you have (x-y) which can be +-2 (we should not take the negative case
+in this case). Answer is A and B are equal!
+
+EVEN EXPONENTS DONT CONSIDER THE NEGATIVE EXPONENT!
+** Other info
+* Exponents :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-21 ma 20:38>
+:END:
+
+What is the units digit of 7^241?
+** Answer
+7, 49 , ..3, ...1, ...7 and the tens digit repeats every 4
+powers. So 241/4 is 60 + 1 extra time, i.e., tens digit is 7
+** Other info
+* TC Support contrast trap :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-21 ma 11:29>
+:END:
+
+The media potrayed her as anything but ineffective. Is she
+effective or ineffective?
+** Answer
+She is not ineffective
+** Other info
+* TC support and contrast English :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-20 zo 19:31>
+:END:
+
+They adored him; however ____ is not make for true state of intimacy
+** Answer
+____ basically means "this" (It's a support). Think of this:
+"I love pizza, but my _____ for pizza is ..." (support support support)
+** Other info
+* TC support and contrast english :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-20 zo 19:25>
+:END:
+
+Not only was the the discoverer idolized, but it's market
+value ____ that of the rarest gemstone. (Is it support of contrast?)
+** Answer
+Support. *Not only* and BUT together is the same as AND. "The
+discoverer was idolized and the maket value ____ that of the rarest
+gem". Both sentences mean the same. :)
+
+Same thing with "BUT ALSO" --> SUPPORT.
+Same thing with "IF ALSO" --> SUPPORT
+** Other info
+* percents :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-18 vr 09:05>
+:END:
+
+ If Mary has half as many cents as Nora has dollars, then Nora has what
+percent more cents than Mary does? (100 cents = 1 dollar)
+
+** Answer
+19900%
+** Other info
+* percent :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-17 do 20:56>
+:END:
+
+What percent of 13 is 20% of 195?
+** Answer
+300% BE CAREFUL. Always change x% to x/100
+** Other info
+* percent english :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-17 do 20:44>
+:END:
+
+50 as a percent of 30
+** Answer
+50/30*100% pnn!
+** Other info
+* fractions and decimals english :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-16 wo 20:13>
+:END:
+
+A restaurant has 40% as many men as women, meaning?
+** Answer
+40% women = men, men = 40; women =100
+** Other info
+* fractions and decimals :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-16 wo 20:01>
+:END:
+
+what is the fraction of 7.53333333(bar on 3)
+** Answer
+7+(53-5)/90
+** Other info
+.53 alone --> 53/100
+.53 bar full --> 53/99 (number of 9s proportional to the number under bar)
+.5333 bar on 3 alone --> (53-5)/90 (number of 9s proportional to the
+number under bar)
+* fraction and decimals :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-16 wo 19:59>
+:END:
+
+Which is the fraction of 7.585858585858...(bar on 58)?
+** Answer
+7 + 58/99  =  what ever it equals
+** Other info
+* fractions and decimals :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-16 wo 19:58>
+:END:
+
+What is the fraction of 7.583
+** Answer
+7583/1000 reduce to whatever
+** Other info
+* fractions decimals :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-16 wo 19:22>
+:END:
+
+which is greater? 3/44 or 4/21
+** Answer
+Look at the denominator being smaller and numerator being larger
+** Other info
+* integers factorials :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-14 ma 23:10>
+:END:
+
+how many 900's in 50!
+** Answer
+900 --> (5x3x2)^2; 5 is the one that limits. so there are 12
+5s in 50! i.e, 6 900s
+** Other info
+* integers :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-14 ma 22:32>
+:END:
+
+sum of odd from 1 and 10, inclusive
+sum of odd from 1 to 9, inclusive
+sum of even from 1 to 9, inclusive
+sum of even from 2 to 8, inclusive
+** Answer
+1. sum of odd from 1 and 10, inclusive
+ number of odd numbers = (9-1)/2+1 = 5, median = 9+1 /2 = 5, So 25.
+
+2. sum of odd from 1 to 9, inclusive
+number of odd numbers = (9-1)/2+1 = 5, median = 9+1 /2 = 5, So 25.
+
+3. sum of even from 1 to 9, inclusive
+number of even numbers = (8-2)/2+1 = 4, median = 8+2 /2 = 5, So 20.
+
+4. sum of even from 2 to 8 inclusive
+number of even numbers = (8-2)/2+1 = 4, median = 8+2 /2 = 5, So 20.
+** Other info
+* integers :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-14 ma 22:30>
+:END:
+
+number of numbers between 10 and 20 inclusive and not
+inclusive of 10.
+** Answer
+20-10 + 1 = 11; 20-10 will exclude either 10 or 20.
+** Other info
+* integers :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-14 ma 22:28>
+:END:
+
+ Number of odd numbers between 10 and 100, 35 and 85 inclusive?
+** Answer
+(100-10)/2 + 1 = 46; (85-35)/2 + 1 = 26
+** Other info
+* Percentage english :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-14 ma 22:02>
+:END:
+
+what percent (more of less) of the SP of N, is the SP of W
+** Answer
+what percent (more of less) *THAN/OF* the SP of N, is the SP
+of W! i.e., (W-N)/W
+** Other info
+* Percentage english :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-14 ma 22:01>
+:END:
+
+X is 20% higher than Y, what is Y?
+LP is 20% higher in/for Y (than X), What is Y?
+** Answer
+X/Y= 1.2
+Y/X = 1.2
+** Other info
+* percentage english :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-14 ma 21:59>
+:END:
+
+X gives 60% discount on list price, what is SP?
+** Answer
+40% of LP
+** Other info
+* fractions decimlas :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-14 ma 19:49>
+:END:
+
+Which one is the greatest percentage change in *magnitude*?
+-20% or 4%
+** Answer
+Second one
+** Other info
+* fractions decimals :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-14 ma 19:46>
+:END:
+
+Which one is greater 1/12 or 6/10 
+** Answer
+6/10 is easily greater than 50%, whereas 1/12 is absolutely not.
+** Other info
+* fractions decimals :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-14 ma 19:12>
+:END:
+
+Is 1/139 a terminating decimal? Is 1/125 a terminating
+decimal, is 1/32 a terminating decimal? 48/30 why?
+** Answer
+NO YES YES, because the YES's have either 2 or 5 in them which
+will always terminate.
+** Other info
+* Fractions decimals :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-14 ma 19:11>
+:END:
+
+To get terminating decimals what one-digit positive integers work?
+** Answer
+1,2,5,8 only. NOT 3,6,7, etc.
+** Other info
+* fractions decimals :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-14 ma 19:05>
+:END:
+
+Is 1/12 greater than 1/10?
+** Answer
+No. 1/12 < 1/10
+** Other info
+* fractions decimals :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-14 ma 19:04>
+:END:
+
+Arrange the following in increasing order: 1/12, 1/10, 1/8,
+1/6, 1/4
+** Answer
+same order as question
+** Other info
+* fractions :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-14 ma 18:55>
+:END:
+
+Thousanths digit of 1/5000 and thousanth digit of 1/5000
+(hint: think 25th digit vs 10s digit)
+** Answer
+both are 0 but there is a difference between 1000s and 1000th
+digit (think 25th digit here)
+** Other info
+* integers factors :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-13 zo 22:04>
+:END:
+
+What is the remainder when 13^17 + 17^13 is divided by 10
+** Answer
+remainder based on 10 is always the last digit So, 
+3^17 + 7^13 is good enough --> we only care about the last digit
+
+** Other info
+* factor question :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-13 zo 21:10>
+:END:
+
+If a = 16b and b is a prime number greater than 2, how many positive
+distinct factors does a have?
+** Answer
+10 (1,2,4,8,16,primenum, 4 combnis with the prime number)
+** Other info
+* integer factors :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-13 zo 20:41>
+:END:
+
+2^x = 64; what is x
+** Answer
+6
+** Other info
+* factors integers :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-13 zo 20:26>
+:END:
+
+X is a factor of Y; X is a devisor of Y; X is a multiple of Y
+** Answer
+Y/X; Y/X; X/Y
+** Other info
+* integers factors                                                    :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-13 zo 20:22>
+:END:
+A is divisible by N --> what does it mean? A/N or N/A
+
+** Answer
+A/N = int
+** Other info
+* integers and factors :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-13 zo 19:35>
+:END:
+
+8 has how many factors; 9 has how many factors
+** Answer
+1,2,4,8; 1, 3, 9
+** Other info
+* integers prime :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-13 zo 19:23>
+:END:
+
+Number of common factors of 120 and 210
+** Answer
+Prime factorize --> 5x2^3x3; 5x2x3x7; Common factors are
+5x2x3, so we will have 5,2,3, 5x2, 3x2, 2x3, 5x2x3 all as
+factors. Total 7.
+** Other info
+* integers factors :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-13 zo 19:11>
+:END:
+
+Greatest common multiple of 66 and 99
+** Answer
+33 (think)
+** Other info
+* Factors integers :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-13 zo 19:04>
+:END:
+
+1. The number of distinct positive factors of 10, 
+2. Number of values of x for 10/x to be an integer, 
+3. Number of prime factors for 10.
+
+** Answer
+1. 1, 2, 5, 10 (+ve); 2. infinity (think 0.5, 0.1, 0.005 etc.,
+not just integers), 3. 1,2,5
+
+** Other info
+* integers factors                                                    :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-13 zo 10:23>
+:END:
+
+a is a divisor of N, A/N = int or N/A = int?
+** Answer
+N/A = Int
+** Other info
+* integers                                                            :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-03-13 zo 09:38>
+:END:
+
+Is "20! + 17" divisible by 15 and 17?
+** Answer
+Only 17 is. Divide each term seperately and figure it out.
+** Other info
+* mean median mode IQR range sd                                       :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-02-22 di 22:46>
 :END:
@@ -10,7 +404,7 @@ Mean shifts, IQR doesn't as everything shifts, SD doesn't
 change by changing the mean! Remember that!
 ** Other info
 https://youtu.be/RsapS-OIzg8?t=1321
-* mean median mode IQR range sd :drill:
+* mean median mode IQR range sd                                       :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-02-22 di 22:44>
 :END:
@@ -21,7 +415,7 @@ mdeian, IQR, sd?
 Mean x3, SD x3, IQRx3, median x3
 ** Other info
 https://youtu.be/RsapS-OIzg8?t=1321
-* mean median mode interquartile range :drill:
+* mean median mode interquartile range                                :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-02-22 di 22:38>
 :END:
@@ -34,7 +428,7 @@ IQR is nothing but the 25th percentile - 75th.
 
 25th percentile can be got by looking at 0 to 50th percentile's
 median. ;)
-* data interpretation english :drill:
+* data interpretation english                                         :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-02-22 di 22:16>
 :END:
@@ -46,7 +440,7 @@ Number of farmers who are house of reps/ total house of reps >
 number of framers who are senate/total senate
 ** Other info
 https://youtu.be/RsapS-OIzg8?t=795
-* data interpretation english :drill:
+* data interpretation english                                         :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-02-22 di 18:36>
 :END:
@@ -54,10 +448,10 @@ https://youtu.be/RsapS-OIzg8?t=795
 [[file:images/DI-3-english.png][di3-english]]
 
 ** Answer
-
+50bill; 20.4x170/70.7
 ** Other info
 https://youtu.be/B955e623nrk?t=346 tested tutor
-* data interpretation english :drill:
+* data interpretation english                                         :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-02-22 di 18:36>
 :END:
@@ -67,17 +461,17 @@ A is how much percent less than B?
 (B-A)/B get it? 
 ** Other info
 https://youtu.be/B955e623nrk?t=346 tested tutor
-* data interpretation english :drill:
+* data interpretation english                                         :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-02-22 di 18:36>
 :END:
 
-A is how much percent greater than B?
+A is how much percent greater *than* B?
 ** Answer
 (A-B)/B get it? 
 ** Other info
 https://youtu.be/B955e623nrk?t=346 tested tutor
-* Data interpretation english :drill:
+* Data interpretation english                                         :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-02-21 ma 18:53>
 :END:
@@ -90,7 +484,7 @@ population: 100mill, Cali pop 20 mill; 13 yoa: 30% of US pop; 13yoa:
 2% points. Apparently when talking about share of population in
 percentage points the answer is 2.
 ** Other info
-* pythagorean triplets :drill:
+* pythagorean triplets                                                :drill:
 :PROPERTIES:
 :ID:       5f225c86-fdc8-4de9-8426-19426c8f66d1
 :END:
@@ -101,7 +495,7 @@ list 3 pythagorean triplets
 ** Answer
 3:4:5, 5:12:13, 8,15,17
 ** Other info
-* polygons :drill:
+* polygons                                                            :drill:
 :PROPERTIES:
 :ID:       d30e8ad9-4e74-4bd9-9e78-10e8c7e275d3
 :END:
@@ -112,7 +506,7 @@ total angle in a hexagon
 ** Answer
 720 (`180*(n-2)` is the formula)
 ** Other info
-* triangles :drill:
+* triangles                                                           :drill:
 :PROPERTIES:
 :ID:       fce6c725-5ebc-449f-8a6e-0e95298378de
 :END:
@@ -123,7 +517,7 @@ ratio of sides of right triangle
 ** Answer
 30:60:90 is the angle, x:xroot(3):2x is the ratio of sides
 ** Other info
-* triangles :drill:
+* triangles                                                           :drill:
 :PROPERTIES:
 :ID:       0dbaf5ee-91b2-4b80-a23c-0e0db84a74a0
 :END:
@@ -134,7 +528,7 @@ Ratio of sides of isoceles triangle
 ** Answer
 45:45:90 is the angle ratio, x:x:x^(1/2)
 ** Other info
-* Pythagorean triplets :drill:
+* Pythagorean triplets                                                :drill:
 :PROPERTIES:
 :ID:       d20170ab-cc37-47dd-9a64-d118c79a6273
 :END:
@@ -145,7 +539,7 @@ hypotenuse is 10, side is 6, what is other side?
 ** Answer
 8 is the answer. 6:8:10 --> 3:4:5 is a triplet so is 5:12:13, These are just ratios.
 ** Other info
-* Triangles :drill:
+* Triangles                                                           :drill:
 :PROPERTIES:
 :ID:       20c3b860-ebe7-45ed-8876-115c90c483e6
 :END:
@@ -156,7 +550,7 @@ Range of third side of a triangle with sides 5, 3
 ** Answer
 5-3 = 2 to 5+3 = 8
 ** Other info
-* Permutations and Combinations :drill:
+* Permutations and Combinations                                       :drill:
 :PROPERTIES:
 :ID:       96d49d72-0354-4bef-87a5-7ab74c21d72a
 :END:
@@ -170,7 +564,7 @@ total permutation (6!/(6-2)!) divided by total permutation for
 
 i.e., 6!/(6-2)!/(2!/0!) = 6!/(6-2)!/2 :)
 ** Other info
-* Permutations and Combinations :drill:
+* Permutations and Combinations                                       :drill:
 :PROPERTIES:
 :ID:       d45359b5-6f66-4f1a-9fbb-cb7a324eaaf0
 :END:
@@ -182,7 +576,7 @@ What is the permutation formula for letters in slots
 total letters factorial / (letters-slots) factorial
 ** Other info
 6 letters and 2 slots have 6x5 permutations, i.e., 6!/(6-2)!
-* Permutation and Combination                                        :drill:
+* Permutation and Combination                                         :drill:
 :PROPERTIES:
 :ID:       682e7840-eace-4a97-8a50-ffdce7246619
 :END:
@@ -194,7 +588,7 @@ What does combination mean for 3 letters in 3 slots
 Answer is 1, Combination doesn't care about order. i.e., ABC
 BCA ACB are all the same in it's eyes.
 ** Other info
-* Permutations and Combinations :drill:
+* Permutations and Combinations                                       :drill:
 :PROPERTIES:
 :ID:       9ce74e2d-e7bd-4d26-ba96-414d68584451
 :END:
@@ -206,7 +600,7 @@ What does permutation mean? for 3 letters in 3 slots
 Arranging 3 letters on three slots takes 3x2x1, i.e., ABC,
 ACB, BAC, BCA, CAB, CBA. 
 ** Other info
-* Mode :drill:
+* Mode                                                                :drill:
 :PROPERTIES:
 :ID:       92dade8f-1154-4844-9ba2-27687db5179a
 :END:
@@ -241,7 +635,7 @@ Median of -2.5,-2,0,1,4,5,6
 1. For odd list median is center value
 ** Other info
 For even list median is average of two center values
-* weighted average :drill:
+* weighted average                                                    :drill:
 :PROPERTIES:
 :ID:       af0a58d5-bca4-482e-a64d-0761222a113c
 :END:
@@ -254,7 +648,7 @@ at 2 times. Find last testUse teeter totter method. Balance the three scores wit
 ** Answer
 90%
 ** Other info
-* averages :drill:
+* averages                                                            :drill:
 :PROPERTIES:
 :ID:       06a8025b-22c7-4017-923d-c3680c42a26e
 :END:
@@ -267,7 +661,7 @@ at 2 times. Find last testUse teeter totter method. Balance the three scores wit
 ** Other info
 You can pull out 92 from the average equation. i.e.,
 (92*38 + 0*18 + 2*20)/38. Massive Star mark.
-* Arithmetic :drill:
+* Arithmetic                                                          :drill:
 :PROPERTIES:
 :ID:       177f7b65-b412-40af-b9b2-0336ba95affd
 :END:
@@ -279,19 +673,19 @@ You can pull out 92 from the average equation. i.e.,
 121
 ** Other info
 NOT 120. don't forget the 10s place
-* Arithmetic :drill:
+* Arithmetic                                                          :drill:
 :PROPERTIES:
 :ID:       c8241306-8b6c-4bbf-ab1b-ffb40b9cf6ab
 :END:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-02-07 ma 21:12>
 :END:
-605*3.5
+205*3.5
 ** Answer
 717.5
 ** Other info
 205*3.5 = ~707.5~ but it is 715.5 (Don't forget to multiply 10s place)
-* Data :drill:
+* Data                                                                :drill:
 :PROPERTIES:
 :ID:       a0d8e1bf-c013-4594-aca5-8b69b0ed6689
 :END:
@@ -301,14 +695,14 @@ NOT 120. don't forget the 10s place
 In which year did wages increase by less than 2% of the wage
 at the beginning of the year? 
 
-2010: 100; 2011: 101; 2012: 200; 2013:202
+2010: 100; 2011: 101; 2012: 200; 2013:204
 ** Answer
 2010
 ** Other info
 Beginning of the year --> year of interest apparently
 Wage increase --> base year is the year of interest and next year is
 looked at NOT PREVIOUS YEAR.
-* Percentage, average :drill:
+* Percentage, average                                                 :drill:
 :PROPERTIES:
 :ID:       02d9f605-0f5f-4ca3-a4b4-f010e989b8ae
 :END:
@@ -352,7 +746,7 @@ job, how long for both to finish a job?
 
 ** The Answer
 2 2/5
-
+9
 ** Other info
 
 Pandian's rate is 1/4 project per hr. Indian's rate is 1/6 projects
