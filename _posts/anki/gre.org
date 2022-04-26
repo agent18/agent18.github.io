@@ -1,4 +1,167 @@
-* exponent star mark :drill:
+
+* tc :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-04-26 di 14:50>
+:END:
+
+Our times seem especially _____ to bad ideas, prob ably because in
+throwing off the shackles of tradition, we have ended up being quite
+____ untested theories and untried remedies. 
+
+** Answer
+DP both must be either positive or negative (resistant,
+hostile) or (open to, welcoming ish)
+** Other info
+* tc :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-04-26 di 14:13>
+:END:
+
+Considering she yearned to watch that movie for so long, her
+first reaction was ______
+** Answer
+"bad reaction", tepid. Identify it is a contrast bitch
+** Other info
+* tc :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-04-26 di 11:43>
+:END:
+
+Regardles of what _____ theories of politics may propound,
+there is nothing that requires daily politics to be clear, smooth and consistent
+** Answer
+CLEAR SMOOTH AND CONSISTENT
+** Other info
+* Issue Essay                                                         :drill:
+What should the structure be like for an issue essay?
+** Answer
+1. Introduction
+   1. Hook (generalization, quote, trend) "For many students it is
+      often a struggle to know what courses to take and major to
+      invest in."
+
+   2. Rephrase the prompt. "The prompt recommends"...
+
+   3. Thesis : "in my opinion, I strongly agree..."
+
+   4. Outline : for the following 3 reasons!
+
+2. Body
+   1. Topic sentence (introduce the main idea of the passage)
+      Usually start with the part that you don't agree, colleg
+      students choosing based on job might be a disaster.
+
+   2. Example
+
+   3. How it relates to the thesis and why it matters.
+
+3. conclusion
+
+   1. counter point
+      
+   2. shut down counter point
+      
+   3. rephrase thesis and wrap this baby up.
+      
+4. conlusion moderate opinion
+   
+1. thesis is complex and there is no easy answers
+      
+2. repharse thesis and wrap this baby up!
+
+
+
+* Argument essay                                                      :drill:
+
+What to identify when reading argument?
+** Answer
+1. Main conclusion
+2. Pieces of Evidence
+3. Identify the different unstated assumptions.
+
+* Argument Essay                                                      :drill:
+What is the template for writing in argument essay?
+
+** Answer
+Introduction
+1. Rephrase main conclusion
+
+   "In the editorial it is stated that:"
+
+2. Authors evidence
+3. Thesis (It would help if the author concluded on xyz before getting
+   to his main conclusion)
+
+   "However, before this recommendation can be properly evaluated 3
+   questions must be answered."
+
+Body (3 body paras)
+1. First idea (read question and write appropriately)
+2. example 1 
+3. example 2
+4. Effect on authors conclusion if examples prove true
+
+Conclusion
+
+1. Statement: Argument is flawed
+
+   As it stands, the conclusion is quite flawed due to it's reliance on
+   several unstated assumptions.
+2. Request more evidence
+ 
+   If the author, in the form of a research study, it will be possible
+   to fully evaluate the proposal to add a bike lane to blue highway.
+
+3. Statement: how evidence will help evaluate argument more
+   effectively
+
+
+* Argument essay   
+Holes examples
+** answer
+
+1. Using past to make conclusions 
+2. causal from correlation
+3. Conclusing that one case is representative of multiple cases
+4. badly designed surveys (small sample size)
+5. Percentage... conclude its significant based on quantity.
+6. ignoring the negative consequences.
+
+
+* polygon :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-04-16 za 14:32>
+:END:
+
+internal angle of 9-sided polygon
+** Answer
+external anlge 360/9 = 40, internal angle 180-40 = 140
+** Other info
+* polygon :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-04-16 za 14:30>
+:END:
+
+external angle of 9-sided polygon
+** Answer
+360/9
+** Other info
+also can use (9-2)*180/9 to get internal angle and then
+subtract from 180 to get external angle
+* RC identify intention of sentence                                   :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-04-07 do 20:59>
+:END:
+
+Apparently I drink too much. I do drink a beer or two a
+day. --> What is the second sentence
+** Answer
+concession. Author concedes "partially". "A teenager arguing to her parents that
+she needs a cell phone makes the following concession: I know that you
+think I will just use the phone to text during class and call friends
+instead of doing homework."
+** Other info
+* exponent star mark                                                  :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-21 ma 22:03>
 :END:
@@ -11,7 +174,7 @@ in this case). Answer is A and B are equal!
 
 EVEN EXPONENTS DONT CONSIDER THE NEGATIVE EXPONENT!
 ** Other info
-* Exponents :drill:
+* Exponents                                                           :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-21 ma 20:38>
 :END:
@@ -21,7 +184,7 @@ What is the units digit of 7^241?
 7, 49 , ..3, ...1, ...7 and the tens digit repeats every 4
 powers. So 241/4 is 60 + 1 extra time, i.e., tens digit is 7
 ** Other info
-* TC Support contrast trap :drill:
+* TC Support contrast trap                                            :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-21 ma 11:29>
 :END:
@@ -31,7 +194,7 @@ effective or ineffective?
 ** Answer
 She is not ineffective
 ** Other info
-* TC support and contrast English :drill:
+* TC support and contrast English                                     :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-20 zo 19:31>
 :END:
@@ -41,7 +204,7 @@ They adored him; however ____ is not make for true state of intimacy
 ____ basically means "this" (It's a support). Think of this:
 "I love pizza, but my _____ for pizza is ..." (support support support)
 ** Other info
-* TC support and contrast english :drill:
+* TC support and contrast english                                     :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-20 zo 19:25>
 :END:
@@ -56,7 +219,7 @@ gem". Both sentences mean the same. :)
 Same thing with "BUT ALSO" --> SUPPORT.
 Same thing with "IF ALSO" --> SUPPORT
 ** Other info
-* percents :drill:
+* percents                                                            :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-18 vr 09:05>
 :END:
@@ -67,7 +230,7 @@ percent more cents than Mary does? (100 cents = 1 dollar)
 ** Answer
 19900%
 ** Other info
-* percent :drill:
+* percent                                                             :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-17 do 20:56>
 :END:
@@ -76,7 +239,7 @@ What percent of 13 is 20% of 195?
 ** Answer
 300% BE CAREFUL. Always change x% to x/100
 ** Other info
-* percent english :drill:
+* percent english                                                     :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-17 do 20:44>
 :END:
@@ -85,7 +248,7 @@ What percent of 13 is 20% of 195?
 ** Answer
 50/30*100% pnn!
 ** Other info
-* fractions and decimals english :drill:
+* fractions and decimals english                                      :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-16 wo 20:13>
 :END:
@@ -94,7 +257,7 @@ A restaurant has 40% as many men as women, meaning?
 ** Answer
 40% women = men, men = 40; women =100
 ** Other info
-* fractions and decimals :drill:
+* fractions and decimals                                              :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-16 wo 20:01>
 :END:
@@ -107,7 +270,7 @@ what is the fraction of 7.53333333(bar on 3)
 .53 bar full --> 53/99 (number of 9s proportional to the number under bar)
 .5333 bar on 3 alone --> (53-5)/90 (number of 9s proportional to the
 number under bar)
-* fraction and decimals :drill:
+* fraction and decimals                                               :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-16 wo 19:59>
 :END:
@@ -116,7 +279,7 @@ Which is the fraction of 7.585858585858...(bar on 58)?
 ** Answer
 7 + 58/99  =  what ever it equals
 ** Other info
-* fractions and decimals :drill:
+* fractions and decimals                                              :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-16 wo 19:58>
 :END:
@@ -125,7 +288,7 @@ What is the fraction of 7.583
 ** Answer
 7583/1000 reduce to whatever
 ** Other info
-* fractions decimals :drill:
+* fractions decimals                                                  :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-16 wo 19:22>
 :END:
@@ -134,7 +297,7 @@ which is greater? 3/44 or 4/21
 ** Answer
 Look at the denominator being smaller and numerator being larger
 ** Other info
-* integers factorials :drill:
+* integers factorials                                                 :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-14 ma 23:10>
 :END:
@@ -144,7 +307,7 @@ how many 900's in 50!
 900 --> (5x3x2)^2; 5 is the one that limits. so there are 12
 5s in 50! i.e, 6 900s
 ** Other info
-* integers :drill:
+* integers                                                            :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-14 ma 22:32>
 :END:
@@ -166,7 +329,7 @@ number of even numbers = (8-2)/2+1 = 4, median = 8+2 /2 = 5, So 20.
 4. sum of even from 2 to 8 inclusive
 number of even numbers = (8-2)/2+1 = 4, median = 8+2 /2 = 5, So 20.
 ** Other info
-* integers :drill:
+* integers                                                            :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-14 ma 22:30>
 :END:
@@ -176,7 +339,7 @@ inclusive of 10.
 ** Answer
 20-10 + 1 = 11; 20-10 will exclude either 10 or 20.
 ** Other info
-* integers :drill:
+* integers                                                            :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-14 ma 22:28>
 :END:
@@ -185,7 +348,7 @@ inclusive of 10.
 ** Answer
 (100-10)/2 + 1 = 46; (85-35)/2 + 1 = 26
 ** Other info
-* Percentage english :drill:
+* Percentage english                                                  :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-14 ma 22:02>
 :END:
@@ -195,7 +358,7 @@ what percent (more of less) of the SP of N, is the SP of W
 what percent (more of less) *THAN/OF* the SP of N, is the SP
 of W! i.e., (W-N)/W
 ** Other info
-* Percentage english :drill:
+* Percentage english                                                  :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-14 ma 22:01>
 :END:
@@ -206,7 +369,7 @@ LP is 20% higher in/for Y (than X), What is Y?
 X/Y= 1.2
 Y/X = 1.2
 ** Other info
-* percentage english :drill:
+* percentage english                                                  :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-14 ma 21:59>
 :END:
@@ -214,8 +377,8 @@ Y/X = 1.2
 X gives 60% discount on list price, what is SP?
 ** Answer
 40% of LP
-** Other info
-* fractions decimlas :drill:
+** Other info 
+* fractions decimlas                                                  :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-14 ma 19:49>
 :END:
@@ -225,7 +388,7 @@ Which one is the greatest percentage change in *magnitude*?
 ** Answer
 Second one
 ** Other info
-* fractions decimals :drill:
+* fractions decimals                                                  :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-14 ma 19:46>
 :END:
@@ -234,7 +397,7 @@ Which one is greater 1/12 or 6/10
 ** Answer
 6/10 is easily greater than 50%, whereas 1/12 is absolutely not.
 ** Other info
-* fractions decimals :drill:
+* fractions decimals                                                  :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-14 ma 19:12>
 :END:
@@ -245,7 +408,7 @@ decimal, is 1/32 a terminating decimal? 48/30 why?
 NO YES YES, because the YES's have either 2 or 5 in them which
 will always terminate.
 ** Other info
-* Fractions decimals :drill:
+* Fractions decimals                                                  :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-14 ma 19:11>
 :END:
@@ -254,7 +417,7 @@ To get terminating decimals what one-digit positive integers work?
 ** Answer
 1,2,5,8 only. NOT 3,6,7, etc.
 ** Other info
-* fractions decimals :drill:
+* fractions decimals                                                  :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-14 ma 19:05>
 :END:
@@ -263,7 +426,7 @@ Is 1/12 greater than 1/10?
 ** Answer
 No. 1/12 < 1/10
 ** Other info
-* fractions decimals :drill:
+* fractions decimals                                                  :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-14 ma 19:04>
 :END:
@@ -273,7 +436,7 @@ Arrange the following in increasing order: 1/12, 1/10, 1/8,
 ** Answer
 same order as question
 ** Other info
-* fractions :drill:
+* fractions                                                           :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-14 ma 18:55>
 :END:
@@ -284,7 +447,7 @@ Thousanths digit of 1/5000 and thousanth digit of 1/5000
 both are 0 but there is a difference between 1000s and 1000th
 digit (think 25th digit here)
 ** Other info
-* integers factors :drill:
+* integers factors                                                    :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-13 zo 22:04>
 :END:
@@ -295,7 +458,7 @@ remainder based on 10 is always the last digit So,
 3^17 + 7^13 is good enough --> we only care about the last digit
 
 ** Other info
-* factor question :drill:
+* factor question                                                     :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-13 zo 21:10>
 :END:
@@ -305,7 +468,7 @@ distinct factors does a have?
 ** Answer
 10 (1,2,4,8,16,primenum, 4 combnis with the prime number)
 ** Other info
-* integer factors :drill:
+* integer factors                                                     :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-13 zo 20:41>
 :END:
@@ -314,7 +477,7 @@ distinct factors does a have?
 ** Answer
 6
 ** Other info
-* factors integers :drill:
+* factors integers                                                    :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-13 zo 20:26>
 :END:
@@ -332,7 +495,7 @@ A is divisible by N --> what does it mean? A/N or N/A
 ** Answer
 A/N = int
 ** Other info
-* integers and factors :drill:
+* integers and factors                                                :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-13 zo 19:35>
 :END:
@@ -341,7 +504,7 @@ A/N = int
 ** Answer
 1,2,4,8; 1, 3, 9
 ** Other info
-* integers prime :drill:
+* integers prime                                                      :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-13 zo 19:23>
 :END:
@@ -352,7 +515,7 @@ Prime factorize --> 5x2^3x3; 5x2x3x7; Common factors are
 5x2x3, so we will have 5,2,3, 5x2, 3x2, 2x3, 5x2x3 all as
 factors. Total 7.
 ** Other info
-* integers factors :drill:
+* integers factors                                                    :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-13 zo 19:11>
 :END:
@@ -361,7 +524,7 @@ Greatest common multiple of 66 and 99
 ** Answer
 33 (think)
 ** Other info
-* Factors integers :drill:
+* Factors integers                                                    :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-03-13 zo 19:04>
 :END:

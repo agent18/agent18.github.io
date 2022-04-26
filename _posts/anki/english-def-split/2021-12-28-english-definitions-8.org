@@ -1,0 +1,2052 @@
+#+TAGS: drill nodef
+* elitist                                                             :drill:
+:PROPERTIES:
+:ID:       e10ea2b7-fa3c-42fe-92d9-7b14cd995e0e
+:END:
+elitist
+** Example and meaning
+    demonstrating a *superior attitude* or behaviour associated with an elite.
+    "some that say he is a spoiled, elitist snob"
+* self-effacing                                                       :drill:
+:PROPERTIES:
+:ID:       de5dfaf4-15dd-4456-9790-293fc5b09108
+:END:
+self-effacing
+
+** Example and meaning
+not claiming attention for oneself; retiring and modest.
+"his demeanour was self-effacing, gracious, and polite"
+
+*Unobtrusive* and *modest*
+* unobtrusive                                                         :drill:
+:PROPERTIES:
+:ID:       6499a1f1-67a8-4750-a842-562d6b1c4dca
+:END:
+unobtrusive
+** Example and meaning
+not conspicuous or attracting attention.
+"the service was unobtrusive and efficient"
+* discreet                                                            :drill:
+:PROPERTIES:
+:ID:       ffb92ed3-578a-4aaf-be12-656056290fe1
+:END:
+discreet
+** Example and meaning
+careful and prudent in one's speech or actions, especially in order to keep something confidential or to avoid embarrassment.
+"we made some discreet inquiries"
+
+Similar:
+careful
+circumspect
+cautious
+wary
+
+*This is enough*
+intentionally unobtrusive.
+"a discreet cough"
+
+Similar:
+*unobtrusive*
+inconspicuous
+subtle
+
+* astringent                                                          :drill:
+:PROPERTIES:
+:ID:       cd0a8f7e-0480-4691-8d9a-58e077fb675a
+:END:
+astringent
+** Example and meaning
+1.
+causing the contraction of skin cells and other body tissues.
+"an astringent skin lotion"
+
+Similar:
+constricting
+contracting
+constrictive
+2. (of taste or smell) slightly acidic or bitter.
+"fresh blackcurrants have a rather astringent flavour"
+3. sharp or severe in manner or style.
+"his subversive and astringent humour"
+
+Similar:
+severe
+sharp
+stern
+harsh
+
+* apologist                                                           :drill:
+:PROPERTIES:
+:ID:       5c8dc801-fcd2-4793-bcb9-a1ad076cf996
+:END:
+apologist
+** Example and meaning
+a person who offers an argument in defence of something controversial.
+"critics said he was an apologist for colonialism"
+
+Similar:
+defender
+supporter
+upholder
+* animus                                                              :drill:
+:PROPERTIES:
+:ID:       7c28ff0c-e8ed-4f5e-94c0-e51c3b929081
+:END:
+animus
+** Example and meaning
+1.
+hostility or ill feeling.
+"the author's animus towards her"
+2.
+motivation to do something.
+"the reformist animus came from within the Party"
+* adoit                                                               :drill:
+:PROPERTIES:
+:ID:       c0d43bdb-6a0b-45bf-a49f-0d2d3c572ee0
+:END:
+adoit
+** Example and meaning
+1.
+clever or skilful.
+"he was adroit at tax avoidance"
+
+Similar:
+skilful
+adept
+dexterous
+deft
+* difference between exigent, exulted, exculpated, and emapcipated    :drill:
+:PROPERTIES:
+:ID:       c60d8ce9-e7d7-4390-8e7b-28340c134e4e
+:END:
+difference between exigent, exulted, exculpated, and emapcipated
+** Example and meaning
+exigent --> urgent; Exulted --> rejoiced (exhuted for
+feminism or pitied for the philandering of her husband); exculpated
+--> show or declare someone is not guilty; emacipated --> set free
+(legal obligation) 
+* peddle                                                              :drill:
+:PROPERTIES:
+:ID:       1b48a13b-27f1-4032-8e2a-60e628bdf8af
+:END:
+peddle
+** Example and meaning
+sell (an illegal drug or stolen item).
+"he was arrested after trying to peddle guns" Similar: *TOUT3*
+promote (an idea or view) persistently or widely.
+"he criticized his fellow candidate for peddling risky ideas" *TOUT4*
+
+Similar:
+advocate
+suggest
+urge
+recommend
+* tout                                                                :drill:
+:PROPERTIES:
+:ID:       3a91b6d5-6fed-43ea-ab3b-5b5cdf90aab5
+:END:
+tout
+** Example and meaning
+1. informer (of crime) 
+2. offer racing tips for a share of any resulting winnings. (consultant)
+3. sell (a ticket) for an event at a price higher than the official one.
+"he made his fortune touting tickets"
+
+Synonym: Peddle, sell, hawk, 
+
+4. attempt to persuade people of the merits of.
+"she was touted as a potential Prime Minister"
+
+Synonym: Endorse, recommended
+
+Tout as a noun has all the above definitions but for a person.
+* supersede                                                           :drill:
+:PROPERTIES:
+:ID:       67a75c82-30d7-41d4-bdad-853b601e9713
+:END:
+supersede
+** Example and meaning
+take the place of (a person or thing previously in authority or use); supplant.
+"the older models of car have now been superseded"
+
+Similar:
+*replace*
+supplant
+take the place of
+take over from
+* stoic                                                               :drill:
+:PROPERTIES:
+:ID:       fac0c170-3620-4d6b-b39e-357d30ba2a52
+:END:
+stoic
+** Example and meaning
+a person who can endure pain or hardship without showing their feelings or complaining.
+* somnolent                                                           :drill:
+:PROPERTIES:
+:ID:       9d9209b2-0d97-429c-bd64-408401bb97c8
+:END:
+somnolent
+** Example and meaning
+sleepy; drowsy.
+
+Similar:
+sleepy
+drowsy
+tired
+languid
+* slight                                                              :drill:
+:PROPERTIES:
+:ID:       1e394f05-9142-4457-9c49-8339e07f7f86
+:END:
+slight
+** Example and meaning
+(of a person or their build) not sturdy; thin or slender.
+"she was slight and delicate-looking"
+
+Similar:
+slim
+slender
+slightly built
+petite
+diminutive
+
+2. insult (someone) by treating or speaking of them without proper respect or attention.
+"he was desperate not to slight a guest"
+
+Similar:
+insult
+snub
+rebuff
+
+* salutary                                                            :drill:
+:PROPERTIES:
+:ID:       95cafb14-9ae0-4b43-8ac2-f85f2f149c17
+:END:
+salutary
+** Example and meaning
+(especially with reference to something unwelcome or unpleasant) producing good effects; beneficial.
+"it failed to draw *salutary lessons* from Britain's loss of its colonies"
+
+Similar:
+beneficial
+good
+good for one
+advantageous
+* provincial                                                          :drill:
+:PROPERTIES:
+:ID:       c105409b-9aae-49aa-9c12-5dd411f7ef71
+:END:
+provincial
+** Example and meaning
+1. of or *concerning a province* of a country or empire.
+
+Similar:
+non-metropolitan
+small-town
+non-urban
+outlying
+rural
+
+2. of or concerning the *regions* outside the capital city of a country,
+   especially when regarded as *unsophisticated or narrow-minded*.
+"provincial towns"
+
+Similar:
+regional
+state
+territorial
+district
+local
+* portend                                                             :drill:
+:PROPERTIES:
+:ID:       dcff2d47-0d98-47cb-8cc5-f8deceb643f2
+:END:
+portend
+** Example and meaning
+be a sign or warning that (something, especially something momentous or calamitous) is likely to happen.
+"the eclipses portend some major events"
+h
+Similar:
+presage
+augur
+foreshadow
+foretell
+* pensive                                                             :drill:
+:PROPERTIES:
+:ID:       e0e9d5ae-a5fe-4716-96e8-a8fb073f76a5
+:END:
+pensive
+** Example and meaning
+engaged in, involving, or reflecting deep or serious thought.
+"a pensive mood" anitha from BIG BOSS!
+
+Similar:
+thoughtful
+thinking
+reflective
+contemplative
+* nonchalant                                                          :drill:
+:PROPERTIES:
+:ID:       ce734439-bf20-4b24-bc58-8e23fb86a467
+:END:
+nonchalant
+** Example and meaning
+(of a person or manner) feeling or appearing casually calm and relaxed; not displaying anxiety, interest, or enthusiasm.
+"she gave a nonchalant shrug"
+
+Similar:
+calm
+*cool*
+*unconcerned*
+* indispensable                                                       :drill:
+:PROPERTIES:
+:ID:       db0c231c-09af-4c5a-b21c-34c51118e1e3
+:END:
+indispensable
+** Example and meaning
+absolutely necessary.
+"he made himself indispensable to the parish priest"
+
+Similar:
+essential
+crucial
+necessary
+* furtive                                                             :drill:
+:PROPERTIES:
+:ID:       3c0c4e11-63b6-4776-acd8-b603217a5fbd
+:END:
+furtive
+** Example and meaning
+1. attempting to avoid notice or attention, typically because of guilt
+   or a belief that discovery would lead to trouble; secretive.
+"Young boys and girls in India have to spend furtive days together,
+because of the RSS"
+
+Similar:
+secretive
+secret
+surreptitious
+sly
+2. suggestive of guilty nervousness.
+    "the look in his eyes became furtive"
+* feign                                                               :drill:
+:PROPERTIES:
+:ID:       2586ad94-b822-4a29-a702-d7490025dff0
+:END:
+feign
+** Example and meaning
+pretend to be affected by (a feeling, state, or injury).
+"she feigned nervousness"
+
+Similar:
+simulate
+fake
+sham
+* fastidious                                                          :drill:
+:PROPERTIES:
+:ID:       41366060-0c25-47fb-a12b-960cf3858a15
+:END:
+fastidious
+** Example and meaning
+very attentive to and concerned about accuracy and detail.
+"she dressed with fastidious care"
+
+Similar:
+*scrupulous*
+*punctilious*
+painstaking
+*meticulous*
+*assiduous*
+*sedulous*
+* exculpate                                                           :drill:
+:PROPERTIES:
+:ID:       6a84b5f2-89b1-4fe0-a30f-f0ddd7fdd379
+:END:
+exculpate
+** Example and meaning
+show or declare that (someone) is not guilty of wrongdoing.
+"the article exculpated the mayor"
+* eschew                                                              :drill:
+:PROPERTIES:
+:ID:       199353a7-9db4-4233-b8b0-f029168ca4b4
+:END:
+eschew
+** Example and meaning
+deliberately avoid using; abstain from.
+"he appealed to the crowd to eschew violence"
+
+Similar:
+abstain from
+refrain from
+give up
+* befuddled                                                           :drill:
+:PROPERTIES:
+:ID:       9a9b71d8-3952-4fcd-97d0-144f567b6093
+:END:
+befuddled
+** Example and meaning
+make (someone) unable to think clearly.
+"the logic used to arrive at this conclusion befuddles me"
+
+Similar:
+confused
+muddled
+addled
+* ascribe                                                             :drill:
+:PROPERTIES:
+:ID:       322f1724-d644-4fb9-af5a-5e62d513d828
+:END:
+ascribe
+** Example and meaning
+regard something as being due to (a cause).
+"he ascribed Jane's short temper to her upset stomach"
+
+Similar:
+attribute
+assign
+put down
+set down
+* antithesis                                                          :drill:
+:PROPERTIES:
+:ID:       be4939fd-d52f-4bef-8b20-f554455e240b
+:END:
+antithesis
+** Example and meaning
+a person or thing that is the direct opposite of someone or something else.
+"love is the antithesis of selfishness"
+h
+Similar:
+(direct) opposite
+converse
+reverse
+reversal
+* acumen                                                              :drill:
+:PROPERTIES:
+:ID:       e6eb9d12-4c54-4b1c-8044-698db0d7bb9c
+:END:
+acumen
+** Example and meaning
+the ability to make good judgements and take quick decisions.
+"she hides a shrewd business acumen"
+
+Similar:
+astuteness
+awareness
+shrewdness
+acuity
+* repudiate                                                           :drill:
+:PROPERTIES:
+:ID:       4b414e06-f442-4591-ae92-1d20fd1ab907
+:END:
+repudiate
+** Example and meaning
+2.
+*deny* the truth or validity of.
+"the minister repudiated allegations of human rights abuses"
+
+Similar:
+deny
+refute
+contradict
+rebut
+refuse to accept; reject.
+
+1. "she has repudiated policies associated with previous party leaders"
+
+Similar:
+*reject*
+renounce
+abandon
+* precarious                                                          :drill:
+:PROPERTIES:
+:ID:       0f101347-50fd-44f4-87f0-8ee233b73a00
+:END:
+precarious
+** Example and meaning
+*not securely* held or in position; dangerously likely to fall or collapse.
+"a precarious ladder"
+
+dependent on chance; *uncertain*.
+"he made a precarious living as a painter"
+
+Similar:
+uncertain
+insecure
+unreliable
+unsure
+* outstrip                                                            :drill:
+:PROPERTIES:
+:ID:       eccbd5a5-7d34-453d-9bec-47a7b4065117
+:END:
+outstrip
+** Example and meaning
+ 1 : to go faster or farther than (someone in person or in life)
+2 : to get ahead of
+* mordant                                                             :drill:
+:PROPERTIES:
+:ID:       7227d701-6289-486b-bf54-a0fdff883e07
+:END:
+mordant
+** Example and meaning
+(especially of humour) having or showing a sharp or critical quality; biting.
+"a mordant sense of humour"
+
+Similar:
+caustic
+trenchant
+biting
+cutting
+acerbic
+* irascible                                                           :drill:
+:PROPERTIES:
+:ID:       0db06a02-7639-4d9f-bc88-9c4dfd36e259
+:END:
+irascible
+
+** Example and meaning
+having or showing a tendency to be easily angered.
+"an irascible and difficult man"
+
+Similar:
+*irritable*
+quick-tempered
+*short-tempered*
+bad-tempered
+* impetuous                                                           :drill:
+:PROPERTIES:
+:ID:       010fb484-271d-4dce-8a6b-cf0b73970780
+:END:
+impetuous
+** Example and meaning
+1. acting or done quickly and without thought or care.
+"she might live to rue this impetuous decision"
+
+Similar:
+impulsive
+*rash*
+*hasty*
+overhasty
+2. moving forcefully or rapidly.
+"an impetuous but controlled flow of water"
+
+Similar:
+torrential
+*powerful*
+forceful
+* hodgepodge                                                          :drill:
+:PROPERTIES:
+:ID:       14d6b1c8-c0f9-4fb6-8eba-7268d943b3af
+:END:
+hodgepodge
+** Example and meaning
+a confused mixture; a hotchpotch.
+"Rob's living room was a hodgepodge of modern furniture and antiques"
+
+Similar:
+*mixture*
+mix
+mixed bag
+assortment
+* forbear                                                             :drill:
+:PROPERTIES:
+:ID:       9f937efd-7bfe-4f1d-94b6-9393d846a225
+:END:
+forbear
+** Example and meaning
+politely or patiently restrain an impulse to do something; refrain.
+"he modestly forbears to include his own work"
+
+Similar:
+refrain
+*abstain*
+desist
+keep
+* felicitous                                                          :drill:
+:PROPERTIES:
+:ID:       3b1a8007-d6c6-4fc7-a7cf-51a616f33541
+:END:
+felicitous
+** Example and meaning
+1. well chosen or suited to the circumstances.
+"a felicitous phrase"
+
+Similar:
+apt
+well chosen
+
+2. pleasing and fortunate.
+"the view was the room's only felicitous feature"
+
+Similar:
+*fortunate*
+advantageous
+good
+* erudite                                                             :drill:
+:PROPERTIES:
+:ID:       edfaf1d7-e01c-4371-9f15-fdf6dfdbb907
+:END:
+erudite
+** Example and meaning
+"Ken could turn any conversation into an erudite discussion"
+
+Similar:
+learned
+scholarly
+well educated
+knowledgeable
+* elicit                                                              :drill:
+:PROPERTIES:
+:ID:       e0ff0389-5329-4c5b-bbe2-da3000e60f2a
+:END:
+elicit
+** Example and meaning
+"I tried to elicit a smile from Joanna"
+
+Similar:
+obtain
+bring out
+draw out
+extract
+* edify                                                               :drill:
+:PROPERTIES:
+:ID:       d8bbdcf6-2a8c-4950-9ef1-83b7138fa15a
+:END:
+edify
+** Example and meaning
+instruct or improve (someone) morally or intellectually.
+"Rachel had edified their childhood with frequent readings from Belloc"
+
+Similar:
+educate
+instruct
+teach
+school
+tutor
+* dichtotomy                                                          :drill:
+:PROPERTIES:
+:ID:       b064e5e0-c5dd-4e6c-b5bf-915451caf1c6
+:END:
+dichtotomy
+** Example and meaning
+a division or contrast between two things that are or are represented as being opposed or entirely different.
+"a rigid dichotomy between science and mysticism"
+
+Similar:
+division
+separation
+divorce
+* comity                                                              :drill:
+:PROPERTIES:
+:ID:       f94adef0-6176-472c-b85d-4f398913cc69
+:END:
+comity
+** Example and meaning
+1.
+an association of nations for their mutual benefit.
+
+the mutual recognition by nations of the laws and customs of others.
+plural noun: comity of nations; noun: comity of nations
+
+2.
+courtesy and considerate behaviour towards others.
+"a show of public comity in the White House"
+"a show of comity at my workplace in bol"
+* brook                                                               :drill:
+:PROPERTIES:
+:ID:       0f2e0e07-a412-42cf-a24a-693a4ba77365
+:END:
+brook
+** Example and meaning
+tolerate or allow (something, typically dissent or opposition).
+"Jenny would brook no criticism of Matthew"
+
+Similar:
+*tolerate*
+allow
+stand
+
+bear
+* boorish                                                             :drill:
+:PROPERTIES:
+:ID:       0425a3d0-a858-475e-a3b5-f19adea20be4
+:END:
+boorish
+** Example and meaning
+rough and bad-mannered; coarse.
+"boorish behaviour"
+
+Similar:
+*coarse*
+*uncouth*
+*rude*
+discourteous
+* recalcitrant                                                        :drill:
+:PROPERTIES:
+:ID:       d10cd8e4-1b1c-43d1-acff-7f9fafe3c8e4
+:END:
+recalcitrant
+** Example and meaning
+having an obstinately uncooperative attitude towards authority or discipline.
+"a class of recalcitrant fifteen-year-olds"
+
+Similar:
+*uncooperative*
+obstinately disobedient
+intractable
+
+Opposite:
+amenable
+docile
+
+* vapid                                                         :drill:leech:
+:PROPERTIES:
+:ID:       644d22ce-041c-46b5-bf82-84cef4a91cf8
+:END:
+vapid
+** Example and meaning
+offering nothing that is stimulating or challenging; bland.
+"tuneful but vapid musical comedies"
+
+Similar:
+insipid
+uninspired
+colourless
+* utilitarian                                                         :drill:
+:PROPERTIES:
+:ID:       9d371867-6ad4-4b56-a0ec-299d394471aa
+:END:
+
+:PROPERTIES:
+:ID:       47cbd7d9-3134-4da3-a36c-5e2ce0d601c8
+:DRILL_LAST_INTERVAL: 3.976
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-11 vr 19:58]
+:END:
+utilitarian
+** Example and meaning
+designed to be useful or practical rather than attractive
+* scrupulous                                                          :drill:
+:PROPERTIES:
+:ID:       2f9b9e72-419c-4fc4-8ad4-af9c400c7ac0
+:END:
+scrupulous
+** Example and meaning
+1. meticulous, punctillious, sedulous; 
+2. honest, avoiding doing wrong. She's too scrupulous to have an
+   affair
+* skulduggery                                                         :drill:
+:PROPERTIES:
+:ID:       8fbd41f1-9c8c-4518-b9ca-8457eb77b6cc
+:END:
+skulduggery
+** Example and meaning
+underhand, unscrupulous, or dishonest behaviour or activities.
+"a firm that investigates commercial skulduggery"
+
+Similar:
+*trickery*
+swindling
+*fraudulence*
+double-dealing
+sharp practice
+* scant                                                               :drill:
+:PROPERTIES:
+:ID:       39c1d3c0-fe69-496e-86c2-ada8d414ef57
+:END:
+scant
+** Example and meaning
+insufficient, barely sufficient
+
+* sanguine                                                      :drill:leech:
+:PROPERTIES:
+:ID:       a8a71900-60ee-4059-a858-beedf234bccb
+:END:
+sanguine
+** Example and meaning
+*optimistic especially in a bad or difficult situation;*
+
+"he is sanguine about prospects for the global economy" 
+Similar: optimistic bullish hopeful buoyant
+* pugnacious                                                          :drill:
+:PROPERTIES:
+:ID:       80d8520f-8da1-498c-ae56-29ffe28a974e
+:END:
+pugnacious
+** Example and meaning
+eager or quick to argue, quarrel, or fight.
+"his public statements became increasingly pugnacious"
+
+Similar:
+combative
+aggressive
+antagonistic
+belligerent
+* perfidy                                                       :drill:leech:
+:PROPERTIES:
+:ID:       124b6590-9551-4ff4-9b64-c47799c1616e
+:END:
+perfidy
+** Example and meaning
+the state of being deceitful and untrustworthy. *betray trust*
+"it was an example of his perfidy"
+"Spreading best friends secret all over town is such perfidy"
+
+Similar:
+*treachery*
+duplicity
+deceit
+*disloyal* 
+* palpable                                                            :drill:
+:PROPERTIES:
+:ID:       5bbb3383-090c-4a3f-ac37-1d1f814ced24
+:END:
+palpable
+** Example and meaning
+Tension in the room was so palpable that you could
+almost feel it --> almost tangible, palpable bump on the head --> tangible
+touchable
+noticeable
+detectable
+solid
+* nettlesome                                                          :drill:
+:PROPERTIES:
+:ID:       9e7b29f0-8928-47a2-b466-5311c891436a
+:END:
+nettlesome
+** Example and meaning
+
+causing annoyance
+* indiscriminate                                                      :drill:
+:PROPERTIES:
+:ID:       8778b166-21a4-419d-bd8b-a7c4241135d7
+:END:
+indiscriminate
+** Example and meaning
+discriminate --> differentiate, 
+indiscriminate --> done at random or without careful judgement.
+"the indiscriminate use of antibiotics can cause problems"
+* gainsay                                                       :drill:leech:
+:PROPERTIES:
+:ID:       058f6894-85aa-4043-a133-d4981ea186d3
+:END:
+gainsay
+** Example and meaning
+deny or contradict (a fact or statement).
+"the impact of the railways cannot be gainsaid"
+
+Similar:
+deny
+dispute
+disagree with
+* forestall                                                           :drill:
+:PROPERTIES:
+:ID:       ab8430d9-11a3-49d6-874b-ccf54aea5636
+:END:
+forestall
+** Example and meaning
+act in advance of (someone) in order to prevent them from doing something.
+"he would have spoken but David forestalled him"
+* egregious                                                           :drill:
+:PROPERTIES:
+:ID:       7fe49147-c319-4ffa-a6ce-c1a0f8bb9b6f
+:END:
+egregious
+** Example and meaning
+It's outrageous, egregious and preposterous---Seinfeld
+
+Outstandingly bad, shocking
+* convivial                                                           :drill:
+:PROPERTIES:
+:ID:       17815623-ad63-4ba6-aad6-d62ebbf569d4
+:END:
+convivial
+** Example and meaning
+friendly, genial, amiable, affable
+* hyperbole                                                           :drill:
+:PROPERTIES:
+:ID:       d5534c8b-87c4-404c-b02b-07b590a34110
+:END:
+hyperbole
+** Example and meaning
+exaggerated claims not to be taken literally
+* underscore                                                          :drill:
+:PROPERTIES:
+:ID:       610ae570-82e2-42ff-87cf-2c74bad4246c
+:END:
+underscore
+** Example and meaning
+emphasize
+* placid                                                              :drill:
+:PROPERTIES:
+:ID:       3a4287c4-a71b-4c3c-a933-00664b5a7dc6
+:END:
+placid
+** Example and meaning
+calm, tranquil
+* intimate                                                            :drill:
+:PROPERTIES:
+:ID:       4aa5b6b3-b138-482c-86c0-0f282824c959
+:END:
+intimate
+** Example and meaning
+closely acquainted, also IMPLY or state or make known
+* incendiary                                                          :drill:
+:PROPERTIES:
+:ID:       c5be2bf9-4a35-4258-8763-9d06b5db3313
+:END:
+incendiary
+** Example and meaning
+.
+(of a device or attack) designed to cause fires.
+"incendiary bombs"
+h
+Similar:
+combustible
+flammable
+inflammable
+fire-producing
+fire-raising
+2.
+tending to stir up conflict.
+"incendiary rhetoric"
+h
+Similar:
+inflammatory
+rabble-rousing
+provocative
+agitational
+* burgeon                                                             :drill:
+:PROPERTIES:
+:ID:       206c4ac0-4278-4fff-b32d-49b890a06f8f
+:END:
+burgeon
+** Example and meaning
+begin to grow or increase rapidly; flourish.
+"the city's suburbs have burgeoned, sprawling out from the centre"
+* candid                                                              :drill:
+:PROPERTIES:
+:ID:       4753b7ef-bf0a-485a-888f-2b698d0a99d4
+:END:
+candid
+** Example and meaning
+truthful and straightforward
+* tendentious                                                         :drill:
+:PROPERTIES:
+:ID:       282ce4fc-0823-4f8f-b2bc-15c3f87d7f39
+:END:
+tendentious
+** Example and meaning
+expressing or intending to promote a particular cause or point of
+view, especially a controversial one.  
+
+"a tendentious reading of history" Putin and his tendentious telling
+of why he should free Ukraine from neo-nazis through his RTNOW TV
+* soporific                                                           :drill:
+:PROPERTIES:
+:ID:       bedf712e-d2b7-4a25-874b-35625100337c
+:END:
+soporific
+** Example and meaning
+tediously boring and monotonous like a soap
+* sedulous                                                            :drill:
+:PROPERTIES:
+:ID:       af346b79-bfd0-4c98-bf17-1ea0760bf640
+:END:
+sedulous
+** Example and meaning
+(of a person or action) showing dedication and diligence.
+"he watched himself with the most sedulous care"
+h
+Similar:
+diligent
+careful
+meticulous
+thorough
+assiduous
+*punctilious*
+*scrupulous*
+* reproach                                                            :drill:
+:PROPERTIES:
+:ID:       a8746c4b-b3a0-4013-9308-4284871cc026
+:END:
+reproach
+** Example and meaning
+the expression of disapproval or disappointment.
+"he gave her a look of reproach"
+h
+Similar:
+rebuke
+reproof
+reproval
+admonishment
+* prescient                                                           :drill:
+:PROPERTIES:
+:ID:       ba69b1ad-6ae6-4743-8c0a-921ff27a285f
+:END:
+prescient
+** Example and meaning
+having or showing knowledge of events before they take place.
+"a prescient warning"
+h
+Similar:
+prophetic
+predictive
+* platitude                                                           :drill:
+:PROPERTIES:
+:ID:       3d786eb2-ce06-4b32-9709-26e535166636
+:END:
+platitude
+** Example and meaning
+a remark or statement, especially one with a moral content, that has
+been used too often to be interesting or thoughtful.  
+"he masks his disdain for her with platitudes about how she should believe in
+herself more"
+
+"was that just a generic platitude or was that a subtle bid for
+attention?" --- Leonard after penny said good for you.
+
+Similar:
+cliché
+* neophyte                                                            :drill:
+:PROPERTIES:
+:ID:       80a96f6b-36b3-49f7-8350-2154efa10f3e
+:END:
+neophyte
+** Example and meaning
+a person who is new to a subject or activity.
+"four-day cooking classes are offered to neophytes and experts"
+* intrepid                                                            :drill:
+:PROPERTIES:
+:ID:       02515c06-3ebe-41c6-bc02-4b77ade8a697
+:END:
+intrepid
+** example and meaning
+fearless; adventurous (often used for rhetorical or humorous effect).
+"our intrepid reporter" Think gunshot to the head of trepidation
+
+Similar:
+fearless
+unafraid
+** Example and meaning
+* insular                                                             :drill:
+:PROPERTIES:
+:ID:       0ee8fed4-dcc9-401a-945d-fe3679a59494
+:END:
+insular
+** Example and meaning
+"a stubbornly insular farming people"
+
+Similar:
+narrow-minded
+limited
+
+2. relating to or from an island.
+"goods of insular origin"
+* indefatigable                                                       :drill:
+:PROPERTIES:
+:ID:       e0db6c78-ed72-4026-be5e-70152638f40d
+:END:
+indefatigable
+** Example and meaning
+(of a person or their efforts) persisting tirelessly.
+"an indefatigable defender of human rights"
+
+Similar:
+tireless
+untiring
+never-tiring
+unwearied
+unwearying
+* inexplicable                                                        :drill:
+:PROPERTIES:
+:ID:       eefaba9e-cf2c-4586-9b96-6b754658c3e3
+:END:
+inexplicable
+** Example and meaning
+unable to be explained
+* explicable                                                          :drill:
+:PROPERTIES:
+:ID:       20470321-7b9a-4ffc-ad4e-807fe76614a0
+:END:
+explicable
+** Example and meaning
+explainable
+* venal                                                               :drill:
+:PROPERTIES:
+:ID:       7bd13d43-8c58-4c50-bdc5-56aeec769913
+:END:
+venal
+** Example and meaning
+corrupt, susceptible to bribery
+
+"local customs officers are notoriously venal"
+
+Similar:
+corrupt
+corruptible
+bribable
+open to bribery
+
+* transient                                                           :drill:
+:PROPERTIES:
+:ID:       020084d3-97fa-43db-87f7-2165db04c394
+:END:
+transient
+** Example and meaning
+lasting for a short time (ephemeral?)
+* tortuous                                                       :drill:hard:
+:PROPERTIES:
+:ID:       5c4c3e5f-fffc-46f6-a799-ecff63e7eeaf
+:END:
+tortuous
+** Example and meaning
+full of twists and turns
+* timorous                                                            :drill:
+:PROPERTIES:
+:ID:       f3dba7e7-1acb-42c8-8a84-f027e423a4c7
+:END:
+timorous
+** Example and meaning
+showing or suffering from nervousness or a lack of confidence.
+"a timorous voice"
+
+Similar:
+easily frightened
+lacking courage
+fearful
+shy
+diffident
+
+craven (lacking courage)
+* subvert                                                             :drill:
+:PROPERTIES:
+:ID:       12969b63-b287-47ab-8265-df21b5967d6b
+:END:
+subvert
+** Example and meaning
+undermine the power and authority of (an established system or institution).
+"Russians are subverting Ukraine's system.
+
+Similar:
+destabilize
+unsettle
+overthrow
+* specious                                                            :drill:
+:PROPERTIES:
+:ID:       406211eb-80aa-4f6b-9bcd-de0cdbfd769b
+:END:
+specious
+** Example and meaning
+think suspecious i.e, misleading and especially attractive
+
+superficially possible but actually wrong
+
+plausible but wrong
+*seemingly correct*
+misleading
+deceptive
+*false*
+fallacious
+unsound
+casuistic
+sophistic
+
+* probity                                                             :drill:
+:PROPERTIES:
+:ID:       68c1bf4c-e49a-45f0-9c10-5cbc61b8ffaa
+:END:
+probity
+** Example and meaning
+strong moral principles
+* presumptuous                                                        :drill:
+:PROPERTIES:
+:ID:       c5cf7a2e-a5a7-4495-a612-444f8fc73b56
+:END:
+presumptuous
+** Example and meaning
+of a person or their behaviour) failing to observe the limits of what is permitted or appropriate.
+"I hope I won't be considered presumptuous if I offer some advice"
+h
+Similar:
+brazen
+overconfident
+arrogant
+* pertinacious                                                        :drill:
+:PROPERTIES:
+:ID:       c342d66d-5c87-4553-9451-f8a06be556b6
+:END:
+pertinacious
+** Example and meaning
+PERTAINS TO SOMEONE TYPES, so they persevere.
+holding firmly to an opinion or a course of action.
+"he worked with a pertinacious resistance to interruptions"
+
+Similar:
+determined
+tenacious
+persistent
+persevering
+assiduous
+purposeful
+resolute
+*dogged*
+indefatigable
+* affectation                                                    :drill:hard:
+:PROPERTIES:
+:ID:       20aaa845-93c7-42dc-98d1-5d0d1bc45caf
+:END:
+affectation
+** Example and meaning
+pretension (pretending), showing a facade (something
+fake or deceptive); pretentind basically!
+
+an affectation of calm  :drill:hard:
+* admonish                                                            :drill:
+:PROPERTIES:
+:ID:       fdbab428-f5a3-4bcc-a6bd-b29c019b9442
+:END:
+admonish
+** Example and meaning
+warn or reprimand firmly
+* sporadic                                                            :drill:
+:PROPERTIES:
+:ID:       2275c026-bfb1-413e-8f7f-eaba9f2fa99f
+:END:
+sporadic
+** Example and meaning
+occational
+* lax                                                                 :drill:
+:PROPERTIES:
+:ID:       0cf8cb2d-4d65-4ed6-8e72-a08d71076664
+:END:
+lax
+** Example and meaning
+1. relaxed 2. too relaxed on strictness, carefullness etc.
+* impertinent                                                         :drill:
+:PROPERTIES:
+:ID:       bcb63bcb-6783-4e93-997e-2dc482d7e14c
+:END:
+impertinent
+** Example and meaning
+1. rude, 2. not relevant (irrelavant, not pertinant)
+* dissemble                                                           :drill:
+:PROPERTIES:
+:ID:       afc51cbb-f0cd-4322-ad17-b384a551b889
+:END:
+dissemble
+** Example and meaning
+conceal or disguise one's true feelings or beliefs.
+"an honest, sincere person with no need to dissemble"
+h
+Similar:
+dissimulate
+pretend
+deceive
+* dogged                                                              :drill:
+:PROPERTIES:
+:ID:       18a2c4f2-511c-4f8b-b12b-2d17a0c4cb81
+:END:
+dogged
+** Example and meaning
+having or showing tenacity and grim persistence.
+"success required dogged determination"
+h
+Similar:
+*tenacious*
+determined
+resolute
+resolved
+* plodding                                                            :drill:
+:PROPERTIES:
+:ID:       b125f08e-343a-484e-8e16-58e6115d730f
+:END:
+plodding
+** Example and meaning
+walk doggedly and slowly with heavy steps.
+"we plodded back up the hill"
+Similar:
+trudge
+walk heavily
+
+
+    work slowly and perseveringly at a dull task.
+    "we were plodding through a textbook"
+    h
+    Similar:
+    work one's way
+* wherwithal                                                          :drill:
+:PROPERTIES:
+:ID:       963ffed1-2314-4c69-bbc5-c18d2a83826b
+:END:
+** Example and meaning
+the money or other means needed for a particular purpose.
+"they lacked the wherewithal to pay"
+h
+Similar:
+money
+ready money
+cash
+capital
+finance(s)
+* temerity                                                            :drill:
+:PROPERTIES:
+:ID:       8481cf50-3231-4273-9557-4f7e7224880f
+:END:
+temerity
+** Example and meaning
+excessive confidence or boldness; audacity.
+"no one had the temerity to question his conclusions"
+h
+Similar:
+audacity
+boldness
+audaciousness
+nerve
+* felicity                                                            :drill:
+:PROPERTIES:
+:ID:       4c50a980-3bd5-4197-aade-9352ab92a9ab
+:END:
+felicity
+** Example and meaning
+intense happiness.
+"domestic felicity"
+h
+Similar:
+happiness
+joy
+joyfulness
+joyousness
+
+2.
+the ability to find appropriate expression for one's thoughts.
+"he exposed the kernel of the matter with his customary elegance and felicity"
+
+Similar:
+eloquence
+aptness
+appropriateness
+* furtive                                                        :drill:hard:
+:PROPERTIES:
+:ID:       5b04e216-f165-47c0-bd90-ced328424fe8
+:END:
+furtive
+** Example and meaning
+ttempting to avoid notice or attention, typically because of guilt or a belief that discovery would lead to trouble; secretive.
+"they spent a furtive day together"
+h
+Similar:
+secretive
+secret
+surreptitious
+* cloying                                                             :drill:
+:PROPERTIES:
+:ID:       4830ae96-1b2c-4348-9ace-fb4f3dddb1d0
+:END:
+cloying
+** Example and meaning
+excessively sweet, rich, or sentimental, especially to a disgusting or
+sickening degree.  "a romantic, rather cloying story"
+
+*synonym:*
+mawkish, mauldin, cloying
+* mawkish                                                             :drill:
+:PROPERTIES:
+:ID:       5202ae5e-6bf8-4e8f-a769-5e8a241d479e
+:END:
+mawkish
+** Example and meaning
+sentimental in an exaggerated or false way.
+"a mawkish ode to parenthood"; cloying, overly-sentimental
+
+*synonym:*
+mawkish, mauldin, cloying
+* foolhardy                                                           :drill:
+:PROPERTIES:
+:ID:       aa3bf58a-cdf1-4e51-9c9d-5c1e7f91fd7d
+:END:
+foolhardy
+** Example and meaning
+recklessly bold or rash.
+"it would be foolhardy to go into the scheme without support"
+h
+Similar:
+reckless
+rash
+incautious
+careless
+* superfluous                                                         :drill:
+:PROPERTIES:
+:ID:       35a46beb-be80-4ad4-ad58-c769d313ffc1
+:END:
+superfluous
+** Example and meaning
+unnecessary
+* subsumed                                                            :drill:
+:PROPERTIES:
+:ID:       0cfe6419-16ca-41c0-bdf7-013da0536832
+:END:
+subsumed
+** Example and meaning
+include or absorb (something) in something else.
+"most of these phenomena can be subsumed under two broad categories"
+* obloquy                                                             :drill:
+:PROPERTIES:
+:ID:       b1e28c3f-2005-4d33-bc3e-dc8151a32c64
+:END:
+obloquy
+** Example and meaning
+strong public condemnation.
+"he endured years of contempt and obloquy"
+h
+Similar:
+vilification
+opprobrium
+vituperation
+
+* belligerant                                                         :drill:
+:PROPERTIES:
+:ID:       aa82201e-04a6-4c2f-8446-dc59e3d3a102
+:END:
+belligerant 
+** Example and meaning
+hostile
+* transgression                                                       :drill:
+:PROPERTIES:
+:ID:       bce295fb-d594-413d-8c3a-e004cef41494
+:END:
+transgression
+** Example and meaning
+an act that goes against a law, rule, or code of conduct; an offence.
+"I'll be keeping an eye out for further transgressions"
+h
+Similar:
+offence
+crime
+sin
+wrong
+* peccadillos                                                         :drill:
+:PROPERTIES:
+:ID:       7084df52-b3d9-44aa-81ba-cc63ba0df98f
+:END:
+peccadillos
+** Example and meaning
+a relatively minor fault or sin.
+"the sexual peccadilloes of celebrities aren't necessarily news"
+h
+Similar:
+misdemeanour
+minor offence
+petty offence
+* schism                                                              :drill:
+:PROPERTIES:
+:ID:       610808cb-7736-4a3e-8d18-2147f1582eb8
+:END:
+schism
+** Example and meaning
+a split or division between strongly opposed sections or parties, caused by differences in opinion or belief.
+"the widening schism between Church leaders and politicians"
+h
+Similar:
+division
+split
+rift
+
+breach
+* concilliation                                                       :drill:
+:PROPERTIES:
+:ID:       7f36b93b-e530-4b9d-a608-cd69c91c78d8
+:END:
+concilliation
+** Example and meaning
+the action of stopping someone being angry; placation.
+"he held his hands up in a gesture of conciliation"
+h
+Similar:
+appeasement
+pacification
+peacemaking
+2.     the action of mediating between two disputing people or groups.
+    "many disputes are settled through conciliation by the official body"
+* graft                                                               :drill:
+:PROPERTIES:
+:ID:       e56c4717-b9bc-4c60-a85d-07413c58b0d2
+:END:
+graft
+** Example and meaning
+Medicine
+1. transplant (living tissue) as a graft.
+"they can graft a new hand on to the nerve ends"
+h
+Similar:
+transplant
+implant
+transfer
+2.
+combine or integrate (an idea, system, etc.) with another, typically in a way considered inappropriate.
+"old values have been grafted on to a new economic class"
+3. graft --> corruption; curtail govt graft (aka corruption)
+* disseminate                                                         :drill:
+:PROPERTIES:
+:ID:       4fedab31-7e71-450c-b613-9b306b2a9caf
+:END:
+disseminate
+** Example and meaning
+spread (something, especially information) widely.
+"health authorities should foster good practice by disseminating information"
+* exorcise                                                            :drill:
+:PROPERTIES:
+:ID:       cb89bf7d-4334-4009-894b-83110175309c
+:END:
+exorcise
+** Example and meaning
+completely remove (something unpleasant) from one's mind or memory.
+"she wanted to exorcise some of the pain"
+* obeisance                                                           :drill:
+:PROPERTIES:
+:ID:       483bef1e-95d0-4da7-8f0e-04df9c544cac
+:END:
+obeisance
+** Example and meaning
+deferential respect.
+"the employee paid the boss with excessive obeisance that she got her way."
+
+Similar:
+respect
+homage
+worship
+* droll                                                               :drill:
+:PROPERTIES:
+:ID:       069373cc-b04a-4efa-8a5b-10bc00338e00
+:END:
+droll
+** Example and meaning
+an amusing person; funny humorous
+* avaracious vs veracious                                             :drill:
+:PROPERTIES:
+:ID:       6c8abc55-b59d-4383-bc5b-ee8bbc443d5a
+:END:
+avaracious vs veracious
+** Example and meaning
+avaracious is greedy, and veracious is truthful
+* veracious                                                           :drill:
+:PROPERTIES:
+:ID:       a0db27cd-5fda-4e8d-a279-22367ec02b1a
+:END:
+veracious
+** Example and meaning
+truthful
+* limpid                                                              :drill:
+:PROPERTIES:
+:ID:       0cea3237-fe82-40fb-8612-7b87b2dd8783
+:END:
+limpid
+** Example and meaning
+clear transparent, lucid, pellucid, perspicuous, limpid
+* inchoate                                                            :drill:
+:PROPERTIES:
+:ID:       8af331c6-9e6e-4829-b336-195c828b4e57
+:END:
+inchoate
+** Example and meaning
+just begun, not fully formed; "a still inchoate democracy"
+* difference between weary, wary                                      :drill:
+:PROPERTIES:
+:ID:       f1c2514c-f6aa-41f6-b73c-93370dc94989
+:END:
+difference between weary, wary
+** Example and meaning
+weary --> tired; wary --> cautious, circumspect
+
+*grow tired of or bored with.*
+*"she wearied of the sameness of her life"*
+
+Similar:
+tire of
+become/get weary of
+* plodding                                                            :drill:
+:PROPERTIES:
+:ID:       b38924b9-134c-4d9a-b769-f2f9ca068c41
+:END:
+plodding
+** Example and meaning
+1. walk doggedly and slowly with heavy steps.
+"we plodded back up the hill"
+h
+Similar:
+trudge
+walk heavily
+clump
+stomp
+
+2. work slowly and perseveringly at a dull task.
+"we were plodding through a textbook"
+h
+Similar:
+work one's way
+wade
+plough
+
+* imperious                                                           :drill:
+:PROPERTIES:
+:ID:       3d46d317-020a-4976-9353-2904d5019700
+:END:
+imperious
+** Example and meaning
+imperio curse does control people, here it means
+vanitha --> arrogant and domineering.
+* prosaic                                                             :drill:
+:PROPERTIES:
+:ID:       d4975f73-3839-4bb2-a6df-d3f4f6dfe987
+:END:
+prosaic
+** Example and meaning
+1. style of prose than poetry, unimaginative, too
+ordinary, unromantic, commonplace; commonplace; unromantic.
+"the masses were too preoccupied by prosaic day-to-day concerns"
+
+Similar:
+ordinary
+everyday
+usual
+* poignant                                                            :drill:
+:PROPERTIES:
+:ID:       cd3f7ca5-0409-4756-bd3e-65cdc2827ba8
+:END:
+poignant
+** Example and meaning
+Poignant --> a poignant reminder of the passing time (invoking great
+sense of sadness or regret), or also 2. "poignant scent" pungent
+* levity                                                              :drill:
+:PROPERTIES:
+:ID:       3142d4f6-d314-43a6-b573-5fcb662c2fa4
+:END:
+levity
+** Example and meaning
+levity --> the treatment of a serious matter with humour or lack of due respect.
+"as an attempt to introduce a note of levity, the words were a disastrous flop"
+They managed to find some levity in the situation. 
+* insolent                                                            :drill:
+:PROPERTIES:
+:ID:       da7e50d6-362a-4b4f-bc05-d7b51684215f
+:END:
+insolent
+** Example and meaning
+impertinent; rude, arrogant lack of respect
+* boring                                                              :drill:
+:PROPERTIES:
+:ID:       733140db-ab2b-4fdc-bb8d-f20a90ba5e7c
+:END:
+boring
+** Example and meaning
+prosaic, humdrum, banal
+* evanescent                                                          :drill:
+:PROPERTIES:
+:ID:       4c452050-e1ee-43c7-8657-0d956f246490
+:END:
+evanescent
+** Example and meaning
+vanishing like vapour
+* remediation                                                         :drill:
+:PROPERTIES:
+:ID:       8cab647d-984b-4a62-a5c7-8fcfd487e910
+:END:
+remediation
+** Example and meaning
+remedy something
+* minatory                                                            :drill:
+:PROPERTIES:
+:ID:       7e8d19db-bce5-4892-bc8b-c403767911d1
+:END:
+minatory
+** Example and meaning
+threatenting; the professors violent lecutres had a
+minatory effect on the children so much so that they stayed in school.
+* palliative                                                     :drill:hard:
+:PROPERTIES:
+:ID:       cf177b1d-a903-4461-bff6-e4681e34d1fa
+:END:
+palliative
+** Example and meaning
+soothing. orthodox medicines turn out to be
+palliative than curative
+* recidivists                                                         :drill:
+:PROPERTIES:
+:ID:       07c5be78-9767-407f-ab92-13cdfc0f5522
+:END:
+recidivists
+** Example and meaning
+people who recede to bad behavior
+* largesse                                                            :drill:
+:PROPERTIES:
+:ID:       7e2336a8-f6d3-4b42-9f69-9cdbe301a755
+:END:
+largesse
+** Example and meaning
+gifts or generosity
+* celerity                                                            :drill:
+:PROPERTIES:
+:ID:       8f4a78ef-09e8-4f39-888f-3589f7918faa
+:END:
+celerity
+** Example and meaning
+swiftness of movement
+
+The slave will be punished if his celerity is not fast enough for his
+master.
+* apotheosis                                                          :drill:
+:PROPERTIES:
+:ID:       a8fea5df-9c2f-4abe-b805-cd8795711207
+:END:
+apotheosis
+** Example and meaning
+Antiquarians concluded that the inscription had the
+ritual that intended to induce a common jackal's apotheosis (elevation
+to god or devine status) into GOD. Makes no sense but hey kaplan GRE
+FTW. 2. highest point in the development of something. apotheosis of
+his career :(
+* antiquarians                                                        :drill:
+:PROPERTIES:
+:ID:       258eb3eb-7b92-412a-b9f1-e48ca74a7c1b
+:END:
+antiquarians
+** Example and meaning
+antique quarians --> people who study work of art or
+things that have high value or very old things
+* disinterested                                                       :drill:
+:PROPERTIES:
+:ID:       097ebcd1-17ab-458d-9df1-d28f306677fa
+:END:
+
+:PROPERTIES:
+:ID:       143b34ef-eada-4f8d-8856-eef6b536b026
+:DRILL_LAST_INTERVAL: 24.6275
+:DRILL_REPEATS_SINCE_FAIL: 4
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-03-21 ma 12:43]
+:END:
+disinterested
+** Example and meaning
+2 meanings, 1. unbiased, impartial, then other not interested.
+objective.... FUCK!!!!!!!!!!!!!!!!!! I made a boo boo in the exam on
+this.
+
+* desultory                                                           :drill:
+:PROPERTIES:
+:ID:       210f8aa9-b829-441b-9992-896f60add1f2
+:END:
+desultory
+** Example and meaning
+if it is sultory, you will lack plan, lack purpose, enthusiasm
+* censure                                                             :drill:
+:PROPERTIES:
+:ID:       145b3a3e-8ff1-44c3-890e-1802dd690b1c
+:END:
+censure
+** Example and meaning
+scolded, father censured his kids
+* canonize                                                            :drill:
+:PROPERTIES:
+:ID:       7f249217-ee1f-4148-964c-bdcabf7fd7cb
+:END:
+canonize
+** Example and meaning
+treat or regard as being above reproach or of great
+significance.; he has been canonized by his fans.
+* artless                                                             :drill:
+:PROPERTIES:
+:ID:       a49e12e2-ead2-4fba-8d38-45fec11069f5
+:END:
+artless
+** Example and meaning
+no pretentiousness, no deception, natural, 
+* arcane                                                              :drill:
+:PROPERTIES:
+:ID:       ac285fb4-a7d0-4ed7-aa60-f5ef475342df
+:END:
+arcane
+** Example and meaning
+not old, but mysterious
+* abjure                                                              :drill:
+:PROPERTIES:
+:ID:       ffbb3070-276a-4cdd-9bb9-f344729245ea
+:END:
+abjure
+** Example and meaning
+ab sore se bol, renounce a belief
+* contend                                                             :drill:
+:PROPERTIES:
+:ID:       57401256-a5de-490e-b01c-a2fb4e1aac57
+:END:
+contend
+** Example and meaning
+1.
+struggle to surmount (a difficulty).
+"she had to contend with his uncertain temper"
+h
+Similar:
+cope with
+face
+grapple with
+
+2.
+assert something as a position in an argument.
+"he contends that the judge was wrong"
+Similar:
+assert
+maintain
+hold
+claim
+argue
+* anachronistic                                                       :drill:
+:PROPERTIES:
+:ID:       b1fc0865-9e34-4353-a264-90d57d2f1d96
+:END:
+anachronistic
+** Example and meaning
+of another time; chorn --> time, a--> another
+* avaricious                                                          :drill:
+:PROPERTIES:
+:ID:       e155b0a6-ea2d-401a-a1a7-8a38420175f9
+:END:
+avaracious
+** Example and meaning
+Extreme greed for wealth; the oligarchs and their
+avaraciousness.
+* demur                                                               :drill:
+:PROPERTIES:
+:ID:       3f19fd25-3465-4881-a823-6d38d741171d
+:END:
+demur
+** Example and meaning
+Raise objections or show reluctance; She demurred when I proposed to her.
+* contrition                                                          :drill:
+:PROPERTIES:
+:ID:       ac868ef1-3233-4d86-bf3a-184cdba66c54
+:END:
+contrition
+** Example and meaning
+being remourseful
+* calumny                                                             :drill:
+:PROPERTIES:
+:ID:       4af8f420-c643-438d-8637-b83446254c65
+:END:
+calumny
+** Example and meaning
+calumn nee ah? why are you throwing all these
+accusations at me, "false and slanderous statement about someone"
+* deft                                                                :drill:
+:PROPERTIES:
+:ID:       63d930e6-13b0-4791-88c0-17cff9522ff8
+:END:
+deft
+** Example and meaning
+skilled
+* brazen                                                              :drill:
+:PROPERTIES:
+:ID:       70cff25a-09f8-4220-8197-7ad61bf195ba
+:END:
+brazen
+** Example and meaning
+bold and without shame
+"You can't just go in there brazenly flout the rules and expect me to
+share it with you"
+* alacirty                                                            :drill:
+:PROPERTIES:
+:ID:       147bf3f8-5d27-4482-b178-c9663b8d4320
+:END:
+alacirty
+** Example and meaning
+eagerly, readiness
+* ameliorate                                                          :drill:
+:PROPERTIES:
+:ID:       524cc91b-5278-4a4f-bff6-82c7013bdf51
+:END:
+ameliorate
+** Example and meaning
+amelios "makes bad food better", mitch and cam crave to
+go to that restaurant. 
+* aggrandize                                                          :drill:
+:PROPERTIES:
+:ID:       f13c08ed-df49-469c-88c3-f438b2718fc5
+:END:
+aggrandize
+** Example and meaning
+increase in power
+* malignant                                                           :drill:
+:PROPERTIES:
+:ID:       a93e4108-a644-440e-9e38-07f63b3fceb4
+:END:
+malignant
+** Example and meaning
+cancer is malignant not benign (very harmful)
+* puerile                                                             :drill:
+:PROPERTIES:
+:ID:       94e06d19-1e57-4e1d-a696-50b029634132
+:END:
+puerile
+** Example and meaning
+immature, childishly silly, juvinile, babyish
+* amorphous                                                           :drill:
+:PROPERTIES:
+:ID:       5baf90a2-4e4d-4164-9327-b7c1ae768b71
+:END:
+amorphous
+** Example and meaning
+no clear shape, unstructure, unfocused
+* proclivity                                                          :drill:
+:PROPERTIES:
+:ID:       5170a7ec-2e41-46a1-96db-76aefb813cf1
+:END:
+proclivity
+** Example and meaning
+a tendency to choose or do something regularly; an inclination or
+predisposition towards a particular thing.  "a proclivity for hard
+work"
+    
+Similar:
+liking
+inclination
+tendency
+leaning
+* congenial                                                           :drill:
+:PROPERTIES:
+:ID:       2059aaa7-7cd4-4128-a9f9-8b8b861d4cf9
+:END:
+congenial
+** Example and meaning
+friendly (miss congeniality)
+* quixotic                                                            :drill:
+:PROPERTIES:
+:ID:       3953a4b8-01b5-41fb-8147-6ad37c96aee9
+:END:
+quixotic
+** Example and meaning
+too optimistic, impractial, extremely idealistic
+* humdum                                                              :drill:
+:PROPERTIES:
+:ID:       76fc75ca-8a19-420d-9c26-5e55eebfb976
+:END:
+humdum
+** Example and meaning
+routine
+* cerebral                                                            :drill:
+:PROPERTIES:
+:ID:       b584a1ec-2414-461c-b880-ab8f0aeebcc5
+:END:
+cerebral
+** Example and meaning
+deep, needing the use of the brain, intellectual; 
+* dedactic                                                            :drill:
+:PROPERTIES:
+:ID:       3a0a602f-8df6-41a8-b456-cfe1f7994fb0
+:END:
+dedactic
+** Example and meaning
+condesending, particularly patronizing; Didactic teacher.
+* probity                                                             :drill:
+:PROPERTIES:
+:ID:       b6cbb3c8-84ad-405c-9baf-fb21b61296b3
+:END:
+probity
+** Example and meaning
+quality of having strong morals
+* levity                                                              :drill:
+:PROPERTIES:
+:ID:       6419a5c7-95f8-4551-b9ce-c9533de778d1
+:END:
+levity
+** Example and meaning
+MJ's take on him crying at the funeral of Kobe Bryant and eventually
+becoming another meme, was his way of introducing a note of levity.
+
+Treatment of a serious matter with humour
+* aberrant                                                            :drill:
+:PROPERTIES:
+:ID:       e4cdbd22-a7ba-4e52-ae84-5f8f0b4d6012
+:END:
+aberrant
+** Example and meaning
+adjective: aberrant
+
+departing from an accepted standard.
+"this somewhat aberrant behaviour requires an explanation"
+
+Similar:
+deviant
+deviating
+divergent
+abnormal
+* vile                                                                :drill:
+:PROPERTIES:
+:ID:       7d891ac0-0905-4c1b-965c-9a737423afa5
+:END:
+vile
+** Example and meaning
+repulsive; extremely unpleasantthey find each other vile and hence eventually split up.
+
+Synonyms: 
+vile, odious, abhorrent, loathsome
+* dissident                                                           :drill:
+:PROPERTIES:
+:ID:       c46f376c-c746-494b-a20a-fe7e4e435ab2
+:END:
+dissident
+** Example and meaning
+Navalny is dissident who was jailed by Putin; a
+person who opposes official policy; protestor, nonconformist
+* heterodox                                                           :drill:
+:PROPERTIES:
+:ID:       c78c442b-5ccd-4992-8fb6-c899ab37ef18
+:END:
+heterodox
+** Example and meaning
+unorthodox; not conforming with orthodox standards or beliefs 
+* modish                                                              :drill:
+:PROPERTIES:
+:ID:       a6144ce4-8c5e-4f16-b495-36d1ba34b655
+:END:
+modish
+** Example and meaning
+stylish. The startup was modish (trendy) and the ASML
+office was traditional.
+* inextricably                                                        :drill:
+:PROPERTIES:
+:ID:       599802e6-c4d7-45f9-8fb9-70bf1d6a2d11
+:END:
+inextricably
+** Example and meaning
+in a way that is impossible to disentangle or separate.
+"for many top executives, golf and business are inextricably linked"
+* Link
+**  https://orgmode.org/worg/org-contrib/org-drill.html
+** organization-capture
+** [[./2021-12-27-examples-anki.org][examples]]
+* notes
+** org-drill
+** org-drill-cram to cram everything or revise all 
+(org-drill-cram-hours to figure out how many hours before your should
+not re-ask)
+** org-drill-scope 
+Use this to `org-drill` more
+** org-drill-strip-all-data
+** org-drill-scope: (file1 file2 file3 etc.)
+** code
+(setq-local org-drill-cram-hours 13)
+* COMMENT Local Variables
+# Local Variables:
+# org-drill-cram-hours: 0
+# org-drill-hide-item-headings-p: t
+# org-drill-scope: file
+# org-drill-maximum-items-per-session: 30
+# org-drill-learn-fraction: 0.3
+# org-drill-leech-method: warn
+# End:

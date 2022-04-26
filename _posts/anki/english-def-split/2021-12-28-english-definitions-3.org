@@ -1,0 +1,1395 @@
+#+TAGS: drill nodef
+* ascetic                                                             :drill:
+SCHEDULED: <2022-04-22 vr>
+:PROPERTIES:
+:ID:       9b11293b-838e-4a9d-ac6c-b967754c1786
+:DRILL_LAST_INTERVAL: 3.9473
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:39]
+:END:
+ascetic
+** Example and meaning
+1. characterized by severe self-discipline and abstention from all
+   forms of indulgence, typically for religious reasons.
+"an ascetic life of prayer, fasting, and manual labour"
+
+Similar:
+austere
+self-denying
+abstinent
+abstemious
+* ossify                                                              :drill:
+SCHEDULED: <2022-04-21 do>
+:PROPERTIES:
+:ID:       851880b2-8270-421f-b51e-c54e22c8702c
+:DRILL_LAST_INTERVAL: 4.0224
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-17 zo 15:22]
+:END:
+ossify
+** Example and meaning
+1.
+turn into bone or bony tissue.
+"these tracheal cartilages may ossify"
+
+Similar:
+*turn into bone*
+become bony
+*harden*
+solidify
+stiffen
+2. become rigid or fixed in attitude or position; *cease developing.*
+"our political system has ossified"
+
+Similar:
+become inflexible
+*become rigid*
+fossilize
+harden
+* rhapsody                                                            :drill:
+SCHEDULED: <2022-04-23 za>
+:PROPERTIES:
+:ID:       7dfc91cb-acf4-4ed0-b4e0-208f43e94505
+:DRILL_LAST_INTERVAL: 5.0926
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 1.8
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:42]
+:END:
+rhapsody
+** Example and meaning
+1. an effusively *enthusiastic* or ecstatic *expression of feeling*.
+"rhapsodies of praise"
+
+2. *a portion of an epic poem* adapted for recitation
+* fringe                                                              :drill:
+SCHEDULED: <2022-04-24 zo>
+:PROPERTIES:
+:ID:       eb0ab097-c4e8-4f8b-bc7f-4ffe20f76c96
+:DRILL_LAST_INTERVAL: 4.7414
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.2
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-19 di 17:14]
+:END:
+fringe
+** Example and meaning
+not part of the mainstream; unconventional, peripheral, or extreme.
+"fringe theatre"
+
+Similar:
+*unconventional*
+unorthodox
+offbeat
+*alternative*
+avant-garde
+* recluse                                                             :drill:
+SCHEDULED: <2022-04-22 vr>
+:PROPERTIES:
+:ID:       f2f4e8a3-23c2-425e-9668-a21150cce23f
+:DRILL_LAST_INTERVAL: 3.8627
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:39]
+:END:
+recluse
+** Example and meaning
+*a person who lives a solitary life and tends to avoid other people.*
+"she has turned into a virtual recluse"
+
+Similar:
+hermit
+ascetic
+monk
+nun
+marabout
+* coddle                                                              :drill:
+SCHEDULED: <2022-04-27 wo>
+:PROPERTIES:
+:ID:       a4cc8f45-6c9f-4936-aa78-5e54357f38ed
+:DRILL_LAST_INTERVAL: 7.2797
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.2
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-20 wo 16:57]
+:END:
+coddle
+** Example and meaning
+*treat (someone) in an indulgent or overprotective way.*
+"I was coddled and cosseted"
+
+Similar:
+pamper
+cosset
+mollycoddle
+2. cook (an egg) in water below boiling point.
+"you may have your eggs scrambled, poached, coddled, or boiled"
+* sinuous                                                             :drill:
+SCHEDULED: <2022-04-25 ma>
+:PROPERTIES:
+:ID:       5da458c8-c863-4494-8ee9-aecb4af15d8f
+:DRILL_LAST_INTERVAL: 7.378
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:40]
+:END:
+sinuous
+** Example and meaning
+having many curves and turns.
+"the river follows a sinuous trail through the dale"
+
+Similar:
+winding
+windy
+serpentine
+curving
+twisting
+
+2. lithe and supple.
+"the sinuous grace of a cat"
+
+Similar:
+*lithe*
+supple
+agile
+graceful
+loose-limbed
+limber
+
+* surfeit                                                             :drill:
+SCHEDULED: <2022-04-22 vr>
+:PROPERTIES:
+:ID:       43593056-7c4a-4998-87ec-37da8ffa6595
+:DRILL_LAST_INTERVAL: 4.0419
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:37]
+:END:
+surfeit
+** Example and meaning
+*cause (someone) to desire no more of something as a result of having
+consumed or done it to excess.*
+"I am surfeited with shopping"
+
+Similar:
+satiate
+gorge
+*overfeed*
+*overfill*
+
+* sinecure                                                            :drill:
+SCHEDULED: <2022-04-22 vr>
+:PROPERTIES:
+:ID:       b9f125a1-9025-445b-95c6-5b2a449ae578
+:DRILL_LAST_INTERVAL: 3.7798
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:40]
+:END:
+sinecure
+** Example and meaning
+a position requiring little or no work but giving the holder status or financial benefit.
+"political sinecures for the supporters of ministers"
+
+Similar:
+*"govt job"*
+easy job
+soft option
+cushy number
+money for old rope
+* abrogate                                                            :drill:
+SCHEDULED: <2022-04-23 za>
+:PROPERTIES:
+:ID:       9a6a10a8-2a14-4913-8c90-3e2843759e97
+:DRILL_LAST_INTERVAL: 5.2514
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 8
+:DRILL_FAILURE_COUNT: 6
+:DRILL_AVERAGE_QUALITY: 1.499
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:48]
+:END:
+abrogate
+** Example and meaning
+*repeal or do away with* (a law, right, or formal agreement).
+"a proposal to abrogate temporarily the right to strike"
+
+Similar:
+repudiate
+*revoke*
+repeal
+*rescind*
+overturn
+overrule
+2. *evade* (a responsibility or duty).
+"we believe the board is abrogating its responsibilities to its shareholders"
+* stanch                                                              :drill:
+SCHEDULED: <2022-04-21 do>
+:PROPERTIES:
+:ID:       0634ecec-f53a-4ea1-8a02-631531f2a1c2
+:DRILL_LAST_INTERVAL: 4.0465
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 10
+:DRILL_FAILURE_COUNT: 8
+:DRILL_AVERAGE_QUALITY: 1.399
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-17 zo 16:04]
+:END:
+stanch spelled as staunch sometimes
+** Example and meaning
+(of a wall) of strong or *firm construction.*
+"these staunch walls could withstand attack by cannon"
+
+2. *stop or restrict* (a flow of blood) from a wound.
+"he staunched the blood with whatever came to hand"
+h
+Similar:
+stem
+hold back
+stop
+halt
+check
+block
+
+* frenetic                                                            :drill:
+SCHEDULED: <2022-04-21 do>
+:PROPERTIES:
+:ID:       414cc2dc-19fa-4d55-8491-8c31683b8c34
+:DRILL_LAST_INTERVAL: 4.2907
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-17 zo 15:53]
+:END:
+frenetic
+** Example and meaning
+fast and energetic in a rather wild and uncontrolled way.
+"a frenetic pace of activity"
+
+Similar:
+*frantic*
+wild
+frenzied
+hectic
+fraught
+feverish
+* pastische                                                           :drill:
+SCHEDULED: <2022-04-22 vr>
+:PROPERTIES:
+:ID:       fe868aa7-4c66-43ff-a802-7fbf195abd0b
+:DRILL_LAST_INTERVAL: 3.7129
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 7
+:DRILL_FAILURE_COUNT: 5
+:DRILL_AVERAGE_QUALITY: 1.571
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:45]
+:END:
+pastische
+** Example and meaning
+an artistic work in a style that imitates that of another work, artist, or period.
+"the operetta is a pastiche of 18th century style"
+
+Similar:
+*imitation* or *cover medley*
+parody
+take-off
+pasticcio
+
+an artistic work consisting of a medley of pieces imitating various sources.
+"a pastiche of literary models and sources"
+* obfuscate                                                           :drill:
+SCHEDULED: <2022-04-27 wo>
+:PROPERTIES:
+:ID:       1cc95eac-f7ef-4d60-b4c1-3c91685c046c
+:DRILL_LAST_INTERVAL: 8.7946
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:42]
+:END:
+obfuscate
+** Example and meaning
+*make obscure, unclear*, or unintelligible.
+"the spelling changes will deform some familiar words and obfuscate their etymological origins"
+
+Similar:
+*obscure*
+confuse
+make obscure/unclear
+
+bewilder (someone).
+"the new rule is more likely to obfuscate people than enlighten them"
+
+Similar:
+*bewilder*
+mystify
+puzzle
+perplex
+baffle
+confound
+* ponderous                                                           :drill:
+SCHEDULED: <2022-04-21 do>
+:PROPERTIES:
+:ID:       efac16fa-65ba-474b-aa98-71df8a7d6414
+:DRILL_LAST_INTERVAL: 3.67
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 4
+:DRILL_AVERAGE_QUALITY: 1.667
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-17 zo 16:02]
+:END:
+ponderous
+** Example and meaning
+*slow and clumsy* because of *great weight*.
+"a swarthy, ponderous giant of a man"
+
+Similar:
+clumsy
+slow
+heavy
+awkward
+lumbering
+
+2. (especially of *speech* or writing) *dull or laborious*.
+"the show is loaded down with ponderous one-liners"
+
+Similar:
+laboured
+laborious
+dull
+awkward
+clumsy
+
+* voluble                                                             :drill:
+SCHEDULED: <2022-04-27 wo>
+:PROPERTIES:
+:ID:       3fd8472d-2e7c-4599-916b-8e359faa6484
+:DRILL_LAST_INTERVAL: 8.9074
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:42]
+:END:
+voluble
+** Example and meaning
+(of a person) talking fluently, readily, or incessantly.
+"a voluble game-show host"
+
+Similar:
+talkative
+loquacious
+garrulous
+verbose
+* hapless                                                             :drill:
+SCHEDULED: <2022-04-22 vr>
+:PROPERTIES:
+:ID:       3c10d978-5742-4c85-90c0-e15842e3f6d6
+:DRILL_LAST_INTERVAL: 3.5623
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:38]
+:END:
+hapless
+** Example and meaning
+(especially of a person) unfortunate.
+"the hapless victims of the disaster"
+
+Similar:
+*unfortunate*
+*unlucky*
+luckless
+out of luck
+ill-starred
+ill-fated
+* beguile                                                             :drill:
+SCHEDULED: <2022-04-22 vr>
+:PROPERTIES:
+:ID:       3cb57409-3f58-42fd-95b7-30e637d60e65
+:DRILL_LAST_INTERVAL: 4.3675
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 4
+:DRILL_AVERAGE_QUALITY: 1.667
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:42]
+:END:
+beguile
+** Example and meaning
+1. harm or enchant (someone), often in a deceptive way.
+"he beguiled the voters with his good looks"
+
+Similar:
+*charm* in a deceptive way
+attract
+enchant
+entrance
+win over
+
+2. *help (time) pass pleasantly.*
+"to beguile some of the time they went to the cinema"
+
+Similar:
+entertain
+amuse
+delight
+please
+* shrik                                                               :drill:
+SCHEDULED: <2022-04-24 zo>
+:PROPERTIES:
+:ID:       efebe63c-48f8-41e5-acbf-99365f5e3072
+:DRILL_LAST_INTERVAL: 5.4862
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 18
+:DRILL_FAILURE_COUNT: 15
+:DRILL_AVERAGE_QUALITY: 1.333
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-19 di 17:14]
+:END:
+shrik
+** Example and meaning
+avoid or neglect (a duty or responsibility).
+"I do not shirk any responsibility in this matter"
+
+Similar:
+evade
+*dodge* a duty
+avoid
+get out of
+sidestep
+
+2. *be unwilling to do (something difficult).*
+"we will not shirk from closing a school if the evidence should justify it"
+* extenuate                                                           :drill:
+SCHEDULED: <2022-04-21 do>
+:PROPERTIES:
+:ID:       0d110364-22d6-46d2-bcc9-64d3ad268268
+:DRILL_LAST_INTERVAL: 4.4274
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 4
+:DRILL_AVERAGE_QUALITY: 1.667
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-17 zo 16:01]
+:END:
+extenuate
+** Example and meaning
+*cause (an offence) to seem less serious.*
+"even the fact that you once helped to save my life could not extenuate your offence"
+h
+Similar:
+excuse
+mitigate
+palliate
+make allowances for
+* apprise                                                             :drill:
+SCHEDULED: <2022-04-21 do>
+:PROPERTIES:
+:ID:       e55d7aa3-7560-4911-929c-9b7846f105b2
+:DRILL_LAST_INTERVAL: 3.578
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-17 zo 16:03]
+:END:
+apprise
+** Example and meaning
+inform or tell (someone).
+"I thought it right to apprise Chris of what had happened"
+h
+Similar:
+*inform*
+notify
+tell
+let know
+advise
+brief
+* morbid                                                              :drill:
+SCHEDULED: <2022-04-22 vr>
+:PROPERTIES:
+:ID:       52b63fdd-e0c3-41be-8a08-263e9c012fcf
+:DRILL_LAST_INTERVAL: 4.0682
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:39]
+:END:
+morbid
+** Example and meaning
+characterized by an abnormal and unhealthy interest in disturbing and
+unpleasant subjects, especially death and disease.  
+"I got an ad for a weird electric car company and out of morbid
+curiosity I checked it out"
+
+Similar:
+ghoulish
+macabre
+unhealthy
+gruesome
+grisly
+* parable                                                             :drill:
+SCHEDULED: <2022-04-22 vr>
+:PROPERTIES:
+:ID:       24988677-780c-4527-a8f8-3c3fb19a923c
+:DRILL_LAST_INTERVAL: 3.6434
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:38]
+:END:
+parable
+** Example and meaning
+a simple story used to illustrate a moral or spiritual lesson, as told
+by Jesus in the Gospels.  
+
+"the parable of the blind men and the
+elephant" h Similar: allegory moral story moral tale fable lesson
+* feint                                                               :drill:
+SCHEDULED: <2022-04-22 vr>
+:PROPERTIES:
+:ID:       2376e885-30d4-476c-b0ca-28338238be86
+:DRILL_LAST_INTERVAL: 3.9793
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 1.8
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:48]
+:END:
+feint
+** Example and meaning
+1. *a deceptive or pretended blow*, thrust, or other *movement*, especially in boxing or fencing.
+"a brief feint at the opponent's face" 
+Similar:
+bluff
+blind
+ruse
+deception
+
+* plucky                                                              :drill:
+SCHEDULED: <2022-04-21 do>
+:PROPERTIES:
+:ID:       b64485c2-1888-4540-8dce-0af9c023caf7
+:DRILL_LAST_INTERVAL: 4.3368
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-17 zo 15:53]
+:END:
+plucky
+** Example and meaning
+having or showing determined courage in the face of difficulties.
+"the plucky youngster has astounded medical staff"
+h
+Similar:
+brave
+*courageous in the presence of adversaries*
+bold
+daring
+fearless
+intrepid
+* cogitate                                                            :drill:
+SCHEDULED: <2022-04-21 do>
+:PROPERTIES:
+:ID:       08e79d62-83f8-4d17-8683-bd6405067b57
+:DRILL_LAST_INTERVAL: 4.0035
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 9
+:DRILL_FAILURE_COUNT: 7
+:DRILL_AVERAGE_QUALITY: 1.444
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-17 zo 15:00]
+:END:
+cogitate
+** Example and meaning
+*think deeply about something*; meditate or reflect.
+"he stroked his beard and retired to cogitate"
+
+Similar:
+think (about)
+*contemplate*
+consider
+give thought to
+* capitulate                                                          :drill:
+SCHEDULED: <2022-04-22 vr>
+:PROPERTIES:
+:ID:       88b50b37-3701-49ec-95d6-741452b04322
+:DRILL_LAST_INTERVAL: 3.9156
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:35]
+:END:
+capitulate
+** Example and meaning
+cease to resist an opponent or an unwelcome demand; yield.
+"the patriots had to capitulate to the enemy forces"
+
+Similar:
+*surrender*
+give in
+yield
+admit defeat
+* soliloquy                                                           :drill:
+SCHEDULED: <2022-04-23 za>
+:PROPERTIES:
+:ID:       1a6409c1-97b6-4c26-9db1-cc1977e9d5bb
+:DRILL_LAST_INTERVAL: 5.6338
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-17 zo 14:37]
+:END:
+soliloquy
+** Example and meaning
+an act of speaking one's thoughts aloud when by oneself or regardless of any hearers, especially by a character in a play.
+"Edmund ends the scene as he had begun it, with a soliloquy"
+
+Similar:
+*monologue*
+speech
+address
+lecture
+* tenuous                                                             :drill:
+SCHEDULED: <2022-04-21 do>
+:PROPERTIES:
+:ID:       8dfc5e66-e22a-4546-81f0-843e41d09222
+:DRILL_LAST_INTERVAL: 2.7678
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 11
+:DRILL_FAILURE_COUNT: 9
+:DRILL_AVERAGE_QUALITY: 1.363
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:48]
+:END:
+tenuous
+** Example and meaning
+very weak or slight.
+"the tenuous link between interest rates and investment"
+
+Similar:
+*slight*
+*insubstantial*
+flimsy
+negligible
+weak
+2. very slender or fine; *insubstantial*.
+"a tenuous cloud"
+
+Similar:
+fine
+thin
+slender
+attenuated
+delicate
+* fallow                                                              :drill:
+SCHEDULED: <2022-04-22 vr>
+:PROPERTIES:
+:ID:       d4bcd8bb-c575-4bc6-b8b8-cda31a41bd23
+:DRILL_LAST_INTERVAL: 3.6258
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:44]
+:END:
+fallow
+** Example and meaning
+1. (of farmland) ploughed and harrowed but left for a period without
+   being sown in order to restore its fertility or to avoid surplus
+   production.
+"incentives for farmers to let land lie fallow"
+
+Similar:
+*uncultivated*
+unploughed
+untilled
+2. *unproductive period* "fallow periods"
+3. pale brown color
+* verve                                                               :drill:
+SCHEDULED: <2022-04-27 wo>
+:PROPERTIES:
+:ID:       0eb52d6a-173d-4a16-97d2-789dbe70ad76
+:DRILL_LAST_INTERVAL: 9.264
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:40]
+:END:
+verve
+** Example and meaning
+vigour and spirit or enthusiasm.
+"Kollo sings with supreme verve and flexibility"
+
+Similar:
+*enthusiasm*
+vigour
+energy
+pep
+* deportment                                                          :drill:
+SCHEDULED: <2022-05-03 di>
+:PROPERTIES:
+:ID:       e54e98d1-f347-4a73-bc3f-52a20b9efa6d
+:DRILL_LAST_INTERVAL: 14.5636
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:40]
+:END:
+deportment
+** Example and meaning
+the way a person stands and walks, particularly as an element of etiquette.
+"poise is directly concerned with good deportment"
+
+Similar:
+gait
+*posture*, *behavior*
+carriage
+comportment
+bearing
+* obstreperous                                                        :drill:
+SCHEDULED: <2022-04-22 vr>
+:PROPERTIES:
+:ID:       75f2a13e-9dbe-4b54-a125-fda359c8ce46
+:DRILL_LAST_INTERVAL: 3.8025
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 1.8
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:44]
+:END:
+obstreperous
+** Example and meaning
+noisy and difficult to control.
+"the boy is cocky and obstreperous"
+
+Similar:
+unruly
+unmanageable
+disorderly
+undisciplined
+* bravado                                                             :drill:
+SCHEDULED: <2022-04-22 vr>
+:PROPERTIES:
+:ID:       3c5584f5-cebe-48e2-80f3-c83d64420fc1
+:DRILL_LAST_INTERVAL: 4.3736
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 1.8
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:36]
+:END:
+bravado
+** Example and meaning
+a bold manner or a show of *boldness intended to impress or intimidate.*
+"he possesses none of the classic wheeler-dealer's casual bravado"
+
+Similar:
+*boldness*
+bold manner
+swagger
+swaggering
+bluster
+* flagrant                                                            :drill:
+SCHEDULED: <2022-04-21 do>
+:PROPERTIES:
+:ID:       8cc2a011-b297-4d7e-9fe5-bd93a6c02e5d
+:DRILL_LAST_INTERVAL: 4.442
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-17 zo 22:41]
+:END:
+flagrant
+** Example and meaning
+(of an action considered wrong or immoral) *conspicuously or obviously offensive*.
+"a flagrant violation of the law"
+
+Similar:
+blatant
+*glaring*
+obvious
+overt
+evident
+*conspicuous*
+* spurn                                                               :drill:
+SCHEDULED: <2022-04-23 za>
+:PROPERTIES:
+:ID:       5e59bc27-f18a-4fa6-9f13-2d3d1b47644f
+:DRILL_LAST_INTERVAL: 4.528
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 1.8
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:47]
+:END:
+spurn
+** Example and meaning
+reject with disdain or contempt.
+"he spoke gruffly, as if afraid that his invitation would be spurned"
+
+Similar:
+*refuse*
+decline
+say no to
+reject
+rebuff
+scorn
+
+* dissension                                                          :drill:
+SCHEDULED: <2022-04-26 di>
+:PROPERTIES:
+:ID:       591a018f-d4de-477b-87b6-6c5c9687ccbb
+:DRILL_LAST_INTERVAL: 6.2973
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-20 wo 16:56]
+:END:
+dissension
+** Example and meaning
+*disagreement that leads to discord (lack of harmony)*
+
+Similar:
+*disagreement*
+difference of opinion
+dispute
+dissent
+* slovenly                                                            :drill:
+SCHEDULED: <2022-04-22 vr>
+:PROPERTIES:
+:ID:       87c656a4-8030-4323-a8d2-befa3a14f99e
+:DRILL_LAST_INTERVAL: 4.7186
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 8
+:DRILL_FAILURE_COUNT: 6
+:DRILL_AVERAGE_QUALITY: 1.499
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-17 zo 16:04]
+:END:
+slovenly
+** Example and meaning
+(especially of a person or their appearance) untidy and dirty.
+"a fat, slovenly ex-rock star"
+
+Similar:
+scruffy
+untidy
+messy
+unkempt
+2. (especially of a person or action) careless; excessively casual.
+"slovenly speech"
+
+Similar:
+careless
+slapdash
+slipshod
+disorganized
+* fraught                                                             :drill:
+SCHEDULED: <2022-04-21 do>
+:PROPERTIES:
+:ID:       621fe28e-71c9-4f72-a720-5b1ea28b90ce
+:DRILL_LAST_INTERVAL: 4.4071
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 4
+:DRILL_AVERAGE_QUALITY: 1.667
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-17 zo 15:00]
+:END:
+fraught
+** Example and meaning
+1. (of a situation or course of action) filled with or likely to
+   result in (something undesirable).
+"marketing any new product is fraught with danger"
+
+Similar:
+*full of*
+filled with
+swarming with
+rife with
+
+2. causing or affected by anxiety or stress.
+"there was a fraught silence"
+
+Similar:
+*anxious*
+worried
+upset
+distraught
+overwrought
+
+* jocund                                                              :drill:
+SCHEDULED: <2022-04-21 do>
+:PROPERTIES:
+:ID:       e93dad36-19db-4040-8292-58b2fe7fd7b6
+:DRILL_LAST_INTERVAL: 2.6586
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:37]
+:END:
+jocund
+** Example and meaning
+cheerful and light-hearted.
+"a jocund wedding party"
+
+Similar:
+cheerful
+*happy*
+jolly
+merry
+bright
+* expatiate                                                           :drill:
+SCHEDULED: <2022-04-21 do>
+:PROPERTIES:
+:ID:       0231a35d-8e97-48f5-bb95-1cf8def5f558
+:DRILL_LAST_INTERVAL: 4.4942
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 6
+:DRILL_FAILURE_COUNT: 4
+:DRILL_AVERAGE_QUALITY: 1.667
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-17 zo 14:59]
+:END:
+expatiate
+** Example and meaning
+speak or write in detail about.
+"she expatiated on working-class novelists"
+
+Similar:
+hold forth about
+speak/write at length about
+pontificate about
+* zenith                                                              :drill:
+SCHEDULED: <2022-04-28 do>
+:PROPERTIES:
+:ID:       25796fbe-0730-4db4-84b5-610fa5de9588
+:DRILL_LAST_INTERVAL: 9.7427
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:40]
+:END:
+zenith
+** Example and meaning
+the time at which something is most powerful or successful.
+"in 1977, punk was at its zenith"
+
+Similar:
+*highest point in time*
+high point
+crowning point
+height
+* commiserate                                                         :drill:
+SCHEDULED: <2022-04-22 vr>
+:PROPERTIES:
+:ID:       c687c19e-5feb-41c0-bc00-bed266ec115f
+:DRILL_LAST_INTERVAL: 3.9623
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 1.8
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:37]
+:END:
+commiserate with
+** Example and meaning
+express or feel sympathy or pity; *sympathize.*
+"she went over to commiserate with Rose on her unfortunate circumstances"
+
+Similar:
+offer sympathy to
+be sympathetic to
+express sympathy for
+* contretemps                                                         :drill:
+SCHEDULED: <2022-04-22 vr>
+:PROPERTIES:
+:ID:       71340fc8-7f09-4ad7-82a6-38ff768dd224
+:DRILL_LAST_INTERVAL: 4.2181
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 11
+:DRILL_FAILURE_COUNT: 9
+:DRILL_AVERAGE_QUALITY: 1.363
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:48]
+:END:
+contretemps
+** Example and meaning
+a minor dispute or disagreement.
+"she had occasional contretemps with her staff"
+
+Similar:
+*minor argument*
+quarrel
+squabble
+altercation
+clash
+
+2. an unexpected and unfortunate occurrence.
+"the hotel had to deal with more than one contretemps before the end of the night"
+h
+Similar:
+*mishap*
+misadventure
+accident
+mischance
+
+* chagrin                                                             :drill:
+SCHEDULED: <2022-04-30 za>
+:PROPERTIES:
+:ID:       8541664f-6f15-483a-b768-6c407c630a97
+:DRILL_LAST_INTERVAL: 12.2655
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:41]
+:END:
+chagrin
+** Example and meaning
+annoyance or distress at having failed or been humiliated.
+"to my chagrin, he was nowhere to be seen"
+
+Similar:
+*annoyance at failure or humiliation*
+irritation
+vexation
+exasperation
+displeasure
+* conflagration                                                       :drill:
+SCHEDULED: <2022-04-21 do>
+:PROPERTIES:
+:ID:       e5e9a4ea-ff35-4cc6-bb05-2bb8ca6d6335
+:DRILL_LAST_INTERVAL: 2.7347
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:42]
+:END:
+conflagration
+** Example and meaning
+an extensive fire which destroys a great deal of land or property.
+"tinder-dry conditions sparked fears of a conflagration in many
+drought-devastated communities"
+
+Similar:
+*fire which destroys*
+blaze
+flames
+inferno
+firestorm
+* collude                                                             :drill:
+SCHEDULED: <2022-04-21 do>
+:PROPERTIES:
+:ID:       edb880c5-5a9b-41c7-a2db-4253a4cafc48
+:DRILL_LAST_INTERVAL: 3.3904
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:40]
+:END:
+collude
+** Example and meaning
+*cooperate in a secret or unlawful way in order to deceive or gain an advantage* over others.
+"he accused his opponents of colluding with one another"
+
+Similar:
+conspire
+connive
+intrigue
+be hand in glove
+* ennui                                                               :drill:
+SCHEDULED: <2022-04-27 wo>
+:PROPERTIES:
+:ID:       ffdd3616-b9ad-4770-8bb4-e253034f03ae
+:DRILL_LAST_INTERVAL: 6.7701
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.2
+:DRILL_EASE: 2.08
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-20 wo 16:57]
+:END:
+ennui
+** Example and meaning
+a feeling of listlessness and dissatisfaction arising from a lack of occupation or excitement.
+"an ennuied housewife"
+h
+Similar:
+boredom
+tedium
+*listlessness*
+lethargy
+lassitude
+languor
+* apogee                                                              :drill:
+SCHEDULED: <2022-04-27 wo>
+:PROPERTIES:
+:ID:       9812aa7f-8aa6-45c8-b212-2b882818f523
+:DRILL_LAST_INTERVAL: 10.0649
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.333
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-17 zo 15:47]
+:END:
+apogee
+** Example and meaning
+*the highest point* in the development of something; a climax or culmination.
+"a film which was the apogee of German expressionist cinema"
+* depose                                                              :drill:
+SCHEDULED: <2022-04-21 do>
+:PROPERTIES:
+:ID:       d01db78b-4231-494a-89e6-0d39b89d6177
+:DRILL_LAST_INTERVAL: 4.4679
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 1.8
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-17 zo 22:45]
+:END:
+depose
+** Example and meaning
+1. remove from office suddenly and forcefully.
+"he had been deposed by a military coup"
+
+Similar:
+overthrow
+overturn
+*topple*
+bring down
+remove from office
+
+2. testify to or give (evidence) under oath, typically in a written
+   statement.
+"every affidavit shall state which of the facts deposed to are within
+the deponent's knowledge"
+
+Similar:
+swear
+*testify*
+attest
+undertake
+assert
+* echelon                                                             :drill:
+SCHEDULED: <2022-04-28 do>
+:PROPERTIES:
+:ID:       3dc892dd-548a-48ef-83cb-aaa69bfbaa88
+:DRILL_LAST_INTERVAL: 10.0507
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:40]
+:END:
+echelon
+** Example and meaning
+a level or rank in an organization, a profession, or society.
+"the upper echelons of the business world"
+
+Similar:
+*level*
+rank
+grade
+step
+rung
+* dowdy                                                               :drill:
+SCHEDULED: <2022-04-22 vr>
+:PROPERTIES:
+:ID:       0578b45b-b8de-496c-a0aa-63110c6e05ba
+:DRILL_LAST_INTERVAL: 4.0117
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:35]
+:END:
+dowdy
+** Example and meaning
+(of a person or their clothes) unfashionable and unstylish in
+appearance (typically used of a woman).  
+
+"she could achieve the kind of casual chic which made every other
+woman around her look dowdy"
+
+Similar:
+*unfashionable*
+frumpish
+frumpy
+drab
+* nadir                                                               :drill:
+SCHEDULED: <2022-05-02 ma>
+:PROPERTIES:
+:ID:       c7f4bfc1-0b1c-4b63-a9a0-232a17a19557
+:DRILL_LAST_INTERVAL: 13.9077
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.22
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-04-18 ma 15:41]
+:END:
+nadir
+** Example and meaning
+the lowest or most unsuccessful point in a situation.
+"asking that question was the nadir of my career"
+h
+Similar:
+*the lowest point*
+the all-time low
+the lowest level
+low-water mark
+the bottom
+as low as one can get
+rock-bottom
+* Link
+**  https://orgmode.org/worg/org-contrib/org-drill.html
+** organization-capture
+** [[./2021-12-27-examples-anki.org][examples]]
+* notes
+** org-drill
+** org-drill-cram to cram everything or revise all 
+(org-drill-cram-hours to figure out how many hours before your should
+not re-ask)
+** org-drill-scope 
+Use this to `org-drill` more
+** org-drill-strip-all-data
+** org-drill-scope: (file1 file2 file3 etc.)
+** code
+(setq-local org-drill-cram-hours 13)
+* COMMENT Local Variables
+# Local Variables:
+# org-drill-cram-hours: 0
+# org-drill-hide-item-headings-p: t
+# org-drill-scope: file
+# org-drill-maximum-items-per-session: 30
+# org-drill-learn-fraction: 0.3
+# org-drill-leech-method: warn
+# End:

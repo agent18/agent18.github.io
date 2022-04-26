@@ -1,0 +1,21 @@
+ MR Name                                Size Mode             Filename/Process
+ -- ----                                ---- ----             ----------------
+[ Default ]
+    *scratch*                            145 Lisp Interaction 
+>*% *Messages*                         56720 Messages         
+ *% *Completions*                      15613 Completion List  
+    work-calucation.org               313416 Org              ~/agent18/myblock/_posts/log/work-calucation.org
+    todo.org_archive                   27450 Org              ~/agent18/myblock/_posts/log/todo.org_archive
+    todo.org                            1062 Org              ~/agent18/myblock/_posts/log/todo.org
+    gre.markdown                       13803 Markdown         ~/agent18/myblock/_posts/gre.markdown
+    gre.org                            23722 Org              ~/agent18/myblock/_posts/anki/gre.org
+>   2021-12-28-english-definiti...     19259 Org              ~/agent18/myblock/_posts/anki/english-def-split/2021-12-28-english-definitions-3dot5.org
+    2021-12-28-english-definiti...     34468 Org              ~/agent18/myblock/_posts/anki/english-def-split/2021-12-28-english-definitions-3.org
+    2021-12-28-english-definiti...     28994 Org              ~/agent18/myblock/_posts/anki/english-def-split/2021-12-28-english-definitions-2.org
+    2021-12-28-english-definiti...     34186 Org              ~/agent18/myblock/_posts/anki/english-def-split/2021-12-28-english-definitions-10.org
+    2021-12-28-english-definiti...    251551 Org              ~/agent18/myblock/_posts/anki/english-def-split/2021-12-28-english-definitions-1.org
+>   2021-12-28-english-definiti...    429065 Org              ~/agent18/myblock/_posts/anki/2021-12-28-english-definitions.org
+    2022-01-05-emacs-lisp-notes.el      2877 Emacs-Lisp       ~/agent18/myblock/_posts/2022-01-05-emacs-lisp-notes.el
+    init.el                            12853 Emacs-Lisp       ~/.emacs.d/init.el
+
+    16 buffers                       1265184                  13 files, no processes
