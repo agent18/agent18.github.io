@@ -1,10 +1,30 @@
 
 * tc :drill:
 :PROPERTIES:
+:DATE_OF_RECORDING:<2022-04-27 wo 10:27>
+:END:
+
+In spite of the ____ nature of Scotland terrains, the roads
+were suprisingly free of _____
+** Answer
+It's an IP (infinite possibility), look for answers of the
+same meaning in both blanks
+** Other info
+* circle eqn :drill:
+:PROPERTIES:
+:DATE_OF_RECORDING:<2022-04-26 di 21:23>
+:END:
+
+eqn of circle
+** Answer
+(x-h)^2 + (y-j)^2 = r^2 center at h,j
+** Other info
+* tc                                                                  :drill:
+:PROPERTIES:
 :DATE_OF_RECORDING:<2022-04-26 di 14:50>
 :END:
 
-Our times seem especially _____ to bad ideas, prob ably because in
+Our times seem especially _____ to bad ideas, probably because in
 throwing off the shackles of tradition, we have ended up being quite
 ____ untested theories and untried remedies. 
 
@@ -12,7 +32,7 @@ ____ untested theories and untried remedies.
 DP both must be either positive or negative (resistant,
 hostile) or (open to, welcoming ish)
 ** Other info
-* tc :drill:
+* tc                                                                  :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-04-26 di 14:13>
 :END:
@@ -22,7 +42,7 @@ first reaction was ______
 ** Answer
 "bad reaction", tepid. Identify it is a contrast bitch
 ** Other info
-* tc :drill:
+* tc                                                                  :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-04-26 di 11:43>
 :END:
@@ -38,15 +58,24 @@ What should the structure be like for an issue essay?
 1. Introduction
    1. Hook (generalization, quote, trend) "For many students it is
       often a struggle to know what courses to take and major to
-      invest in."
+      invest in.", "the contention is not a trivial one"
 
    2. Rephrase the prompt. "The prompt recommends"...
 
    3. Thesis : "in my opinion, I strongly agree..."
 
-   4. Outline : for the following 3 reasons!
+   4. Outline : for the following 3 reasons! or following two
+      reasons, + however in extreme cases bla blabla (mostly agree or
+      disagree) 
 
 2. Body
+
+   For mostly agree or disagree I need 2 reasons and one concession in
+   the conclusion paraph, no shutting down.
+
+   For strongly agree I need 2 reasons and one concession which I need
+   to shutdown.
+
    1. Topic sentence (introduce the main idea of the passage)
       Usually start with the part that you don't agree, colleg
       students choosing based on job might be a disaster.
@@ -57,9 +86,14 @@ What should the structure be like for an issue essay?
 
 3. conclusion
 
-   1. counter point
+   1. counter point ( "it can be argued that the opposite is true in
+      scenarios X Y Z . )
       
-   2. shut down counter point
+   2. shut down counter point 
+      
+      (While this seems to be true the real scenario is quite the
+      contrary. Give examples, how do we get jobs?  retorical
+      questions"
       
    3. rephrase thesis and wrap this baby up.
       
@@ -128,16 +162,16 @@ Holes examples
 6. ignoring the negative consequences.
 
 
-* polygon :drill:
+* polygon                                                             :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-04-16 za 14:32>
 :END:
 
-internal angle of 9-sided polygon
+external angle of 9-sided polygon
 ** Answer
 external anlge 360/9 = 40, internal angle 180-40 = 140
 ** Other info
-* polygon :drill:
+* polygon                                                             :drill:
 :PROPERTIES:
 :DATE_OF_RECORDING:<2022-04-16 za 14:30>
 :END:

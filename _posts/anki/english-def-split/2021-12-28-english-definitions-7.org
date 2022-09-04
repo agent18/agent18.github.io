@@ -1,16 +1,16 @@
 #+TAGS: drill nodef
 * acolyte                                                             :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-01 zo>
 :PROPERTIES:
 :ID:       2049e814-c0f9-4e0e-9de9-509b71f74b18
-:DRILL_LAST_INTERVAL: 3.9116
+:DRILL_LAST_INTERVAL: 3.2439
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 15:50]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:45]
 :END:
 acolyte
 ** Example and meaning
@@ -22,17 +22,17 @@ assistant
 helper
 attendant
 * martinet                                                            :drill:
-SCHEDULED: <2022-04-28 do>
+SCHEDULED: <2022-05-03 di>
 :PROPERTIES:
 :ID:       f6944f1f-294b-4d4e-8120-dbe9da363467
-:DRILL_LAST_INTERVAL: 3.221
+:DRILL_LAST_INTERVAL: 4.687
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 1
 :DRILL_AVERAGE_QUALITY: 2.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:14]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 13:00]
 :END:
 martinet
 ** Example and meaning
@@ -45,33 +45,33 @@ slave driver
 stickler for discipline
 taskmaster
 * entice                                                              :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-01 zo>
 :PROPERTIES:
 :ID:       a3696a26-a045-4f30-97f9-8fabcc7837f8
-:DRILL_LAST_INTERVAL: 3.6875
+:DRILL_LAST_INTERVAL: 3.032
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:03]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:45]
 :END:
 entice
 ** Example and meaning
 tempt "she enticed me by showing her ********"
 * apropos                                                             :drill:
-SCHEDULED: <2022-04-28 do>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       100d1a80-4ee9-4f1f-85aa-dfb61d8507c9
-:DRILL_LAST_INTERVAL: 3.122
+:DRILL_LAST_INTERVAL: 3.5566
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:10]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:45]
 :END:
 apropos
 ** Example and meaning
@@ -93,17 +93,17 @@ with regard to
 with respect to
 
 * entrenched                                                          :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       63b70dde-8b5c-4c9b-abfb-a68fd43e1575
-:DRILL_LAST_INTERVAL: 4.0219
+:DRILL_LAST_INTERVAL: 3.6544
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:10]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:42]
 :END:
 entrenched
 ** Example and meaning
@@ -114,17 +114,17 @@ very difficult or unlikely.
 
 Similar: establish settle ensconce
 * exotic                                                              :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       02bc83a8-e213-4361-9326-02f7f134929c
-:DRILL_LAST_INTERVAL: 4.1649
+:DRILL_LAST_INTERVAL: 3.6762
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 15:35]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:43]
 :END:
 exotic
 ** Example and meaning
@@ -132,17 +132,17 @@ exotic
 2. not encountered often "exotic chemicals"
 3. striking "youths with exotic haircuts"
 * forsake                                                             :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       3d3dae9b-994b-4838-8ba5-bf5c29900dd4
-:DRILL_LAST_INTERVAL: 4.1674
+:DRILL_LAST_INTERVAL: 4.1801
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
-:DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 15:59]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:42]
 :END:
 forsake
 ** Example and meaning
@@ -152,17 +152,17 @@ forsake
 *renounce*
 "I won't forsake my vegetarian principles"
 * gratify                                                             :drill:
-SCHEDULED: <2022-04-28 do>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       01d68d5a-8807-4756-8ea0-9809f7e1d256
-:DRILL_LAST_INTERVAL: 3.1966
+:DRILL_LAST_INTERVAL: 4.2371
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:10]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:58]
 :END:
 gratify
 ** Example and meaning
@@ -182,17 +182,17 @@ fulfil
 indulge
 relieve
 * apposite                                                            :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       e1587a39-bc70-4f2d-a4da-a0a03822e0c9
-:DRILL_LAST_INTERVAL: 3.5611
+:DRILL_LAST_INTERVAL: 3.7992
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 15:57]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:53]
 :END:
 apposite
 ** Example and meaning
@@ -201,17 +201,17 @@ apt in the circumstances or in relation to something.
 *apropos*
 *germane
 * propriety                                                           :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       ed0d4133-e642-4d3e-b33f-63361aefbf57
-:DRILL_LAST_INTERVAL: 4.2858
+:DRILL_LAST_INTERVAL: 3.7813
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 15:48]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:39]
 :END:
 propriety
 ** Example and meaning
@@ -233,17 +233,17 @@ Similar:
 rightness
 fitness
 * scintillation                                                       :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       82591a17-1192-4b58-8eb6-a35e6590c71a
-:DRILL_LAST_INTERVAL: 3.98
+:DRILL_LAST_INTERVAL: 4.1305
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 18:51]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:38]
 :END:
 scintillation
 ** Example and meaning
@@ -252,17 +252,17 @@ a *flash* or sparkle of light.
 
 "scintillating man" --> *clever* 
 * strife                                                              :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       d6f9751d-9bf6-406d-9ce3-7821ca76271c
-:DRILL_LAST_INTERVAL: 4.074
+:DRILL_LAST_INTERVAL: 3.8884
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 18:53]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:54]
 :END:
 strife
 ** Example and meaning
@@ -275,17 +275,17 @@ friction
 discord
 disagreement
 * unscrupulous                                                        :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-01 zo>
 :PROPERTIES:
 :ID:       bf3bed90-07ab-488a-9fbd-90b24faf5f1f
-:DRILL_LAST_INTERVAL: 4.093
+:DRILL_LAST_INTERVAL: 3.2414
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:04]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:57]
 :END:
 unscrupulous
 ** Example and meaning
@@ -297,17 +297,17 @@ unprincipled
 unethical
 immoral
 * virulent                                                            :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-01 zo>
 :PROPERTIES:
 :ID:       d64d204b-9970-48b1-b2c7-20ec02c11dad
-:DRILL_LAST_INTERVAL: 4.0138
+:DRILL_LAST_INTERVAL: 3.3829
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 1
 :DRILL_AVERAGE_QUALITY: 2.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:01]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:43]
 :END:
 virulent
 ** Example and meaning
@@ -327,33 +327,33 @@ vitriolic
 malicious
 malevolent
 * volatile                                                            :drill:
-SCHEDULED: <2022-04-28 do>
+SCHEDULED: <2022-05-01 zo>
 :PROPERTIES:
 :ID:       cb1c1aa2-8768-4050-92d6-12aa2f3b8d62
-:DRILL_LAST_INTERVAL: 3.117
+:DRILL_LAST_INTERVAL: 3.3621
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 18:52]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:59]
 :END:
 volatile
 ** Example and meaning
 evaporative, unpredictable, subject to rapid change
 * antedate                                                            :drill:
-SCHEDULED: <2022-04-27 wo>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       46f1ec8a-5be1-4561-80a1-6f99bd20946d
-:DRILL_LAST_INTERVAL: 2.2838
+:DRILL_LAST_INTERVAL: 3.8032
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:10]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:42]
 :END:
 antedate
 ** Example and meaning
@@ -365,17 +365,17 @@ precede or antecede
 predate
 come/go before
 * bridle                                                              :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       06e325f4-c9d5-4cb1-8fd1-a714d6ea18b6
-:DRILL_LAST_INTERVAL: 3.9643
+:DRILL_LAST_INTERVAL: 3.9928
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:11]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:56]
 :END:
 bridle
 ** Example and meaning
@@ -396,17 +396,17 @@ be/become indignant
 take offence
 take umbrage
 * crestfallen                                                         :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       62da80ee-8df4-4578-93fa-a464f0e4dedb
-:DRILL_LAST_INTERVAL: 4.2467
+:DRILL_LAST_INTERVAL: 3.876
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 1
 :DRILL_AVERAGE_QUALITY: 2.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 18:54]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:56]
 :END:
 crestfallen
 ** Example and meaning
@@ -419,50 +419,50 @@ downcast
 despondent
 disappointed
 * curtain                                                             :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       416d728b-80ff-430e-9f66-eb35db3e4fab
-:DRILL_LAST_INTERVAL: 3.5311
+:DRILL_LAST_INTERVAL: 4.0564
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 15:50]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:59]
 :END:
 curtain
 ** Example and meaning
 a disastrous outcome.
 "it looked like curtains for me"
 * elucidate                                                           :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       109d0894-b29b-4046-b364-daa153cfcb15
-:DRILL_LAST_INTERVAL: 3.815
+:DRILL_LAST_INTERVAL: 3.6664
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 18:49]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:41]
 :END:
 elucidate
 ** Example and meaning
 explain or make clear
 * feckless                                                            :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       e6065a2b-3964-4a8e-a608-36d315dcc580
-:DRILL_LAST_INTERVAL: 3.9365
+:DRILL_LAST_INTERVAL: 3.9826
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 18:53]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:43]
 :END:
 feckless
 ** Example and meaning
@@ -474,17 +474,17 @@ useless
 worthless
 *incompetent*
 * fester                                                              :drill:
-SCHEDULED: <2022-04-27 wo>
+SCHEDULED: <2022-05-03 di>
 :PROPERTIES:
 :ID:       e815a30e-45a8-47ff-a56d-ebad10cecf4f
-:DRILL_LAST_INTERVAL: 2.4681
+:DRILL_LAST_INTERVAL: 5.0147
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 3
-:DRILL_FAILURE_COUNT: 2
-:DRILL_AVERAGE_QUALITY: 1.667
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:15]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:58]
 :END:
 fester
 ** Example and meaning
@@ -503,17 +503,17 @@ secrete pus
 "remand prisoners are left to fester in our jails while they wait for
 trial"
 * immure                                                              :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-01 zo>
 :PROPERTIES:
 :ID:       06e1d586-26ad-41ba-ba86-dd2184ef84f8
-:DRILL_LAST_INTERVAL: 3.6909
+:DRILL_LAST_INTERVAL: 3.1288
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:05]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:54]
 :END:
 immure
 ** Example and meaning
@@ -525,17 +525,17 @@ confine
 intern
 shut up
 * inscrutable                                                         :drill:
-SCHEDULED: <2022-04-28 do>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       e1bdb8d9-680c-4b61-82ee-c0b46f637aaf
-:DRILL_LAST_INTERVAL: 2.8666
+:DRILL_LAST_INTERVAL: 3.9067
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 15:50]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:46]
 :END:
 inscrutable
 ** Example and meaning
@@ -549,17 +549,17 @@ unreadable
 impenetrable
 mysterious
 * lionize                                                             :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       27e80c09-9601-4b80-99b3-80f87a2007b5
-:DRILL_LAST_INTERVAL: 3.6082
+:DRILL_LAST_INTERVAL: 3.8068
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:10]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:58]
 :END:
 lionize
 ** Example and meaning
@@ -572,17 +572,17 @@ fete
 glorify
 honour
 * monotonous                                                          :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       6932369c-8cfc-4208-b2b6-19fbaa6ee563
-:DRILL_LAST_INTERVAL: 4.2802
+:DRILL_LAST_INTERVAL: 3.7661
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 15:35]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:39]
 :END:
 monotonous
 ** Example and meaning
@@ -595,17 +595,17 @@ boring
 dull
 uninteresting
 * peculiar                                                            :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       93ccad2b-6844-4385-9d94-f7ce5799e5e3
-:DRILL_LAST_INTERVAL: 3.6129
+:DRILL_LAST_INTERVAL: 3.7853
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:12]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:39]
 :END:
 peculiar
 ** Example and meaning
@@ -624,17 +624,17 @@ Similar:
 characteristic
 distinct
 * premeditate                                                         :drill:
-SCHEDULED: <2022-04-28 do>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       712f66da-d5ab-4d1b-88dd-40d096838e1b
-:DRILL_LAST_INTERVAL: 3.2642
+:DRILL_LAST_INTERVAL: 3.9382
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:06]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:54]
 :END:
 premeditate
 ** Example and meaning
@@ -646,17 +646,17 @@ planned
 intentional
 intended
 * reconcile                                                           :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       b93f40eb-3b70-4e9b-ad83-4f967453186f
-:DRILL_LAST_INTERVAL: 4.4089
+:DRILL_LAST_INTERVAL: 3.9202
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
-:DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 15:59]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:58]
 :END:
 reconcile
 ** Example and meaning
@@ -678,17 +678,17 @@ Similar:
 come to accept
 resign oneself to
 * ruminate                                                            :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-01 zo>
 :PROPERTIES:
 :ID:       02975be1-7230-4d1c-8ff2-d204f994a245
-:DRILL_LAST_INTERVAL: 4.0224
+:DRILL_LAST_INTERVAL: 2.5653
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:04]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:54]
 :END:
 ruminate
 ** Example and meaning
@@ -700,17 +700,17 @@ think about
 contemplate
 consider
 * frivolous                                                           :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-01 zo>
 :PROPERTIES:
 :ID:       18e5ad65-d7a0-4ff4-adb1-95aabcdd0dc2
-:DRILL_LAST_INTERVAL: 3.8982
+:DRILL_LAST_INTERVAL: 3.3048
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 18:50]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:54]
 :END:
 frivolous
 ** Example and meaning
@@ -722,17 +722,17 @@ flippant
 glib
 waggish
 * skittish                                                            :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-01 zo>
 :PROPERTIES:
 :ID:       ac309778-79c5-4661-96bd-04df319d7246
-:DRILL_LAST_INTERVAL: 4.4652
+:DRILL_LAST_INTERVAL: 3.2541
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
-:DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 18:54]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:46]
 :END:
 skittish
 ** Example and meaning
@@ -753,17 +753,17 @@ high-spirited
 frisky
 coltish
 * superfluous                                                         :drill:
-SCHEDULED: <2022-04-28 do>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       78d19a4d-ec72-479a-a3ff-9bdb1740034c
-:DRILL_LAST_INTERVAL: 3.2371
+:DRILL_LAST_INTERVAL: 3.9151
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 18:53]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:42]
 :END:
 superfluous
 ** Example and meaning
@@ -780,17 +780,17 @@ surplus
 redundant
 unneeded
 * synoptic                                                            :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       228add00-68f6-4506-9565-d6bf0911f327
-:DRILL_LAST_INTERVAL: 3.6068
+:DRILL_LAST_INTERVAL: 3.5454
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:12]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:54]
 :END:
 synoptic
 ** Example and meaning
@@ -800,33 +800,33 @@ general summary or synopsis.
 taking or involving a comprehensive mental view, breadth of view
 "a synoptic model of higher education"
 * vociferous                                                          :drill:
-SCHEDULED: <2022-04-30 za>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       dc470e4f-9af5-44b0-a772-db0b8fb308ae
-:DRILL_LAST_INTERVAL: 4.538
+:DRILL_LAST_INTERVAL: 3.9795
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 18:50]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:46]
 :END:
 vociferous
 ** Example and meaning
 loud and forceful
 * vitiate                                                             :drill:
-SCHEDULED: <2022-04-28 do>
+SCHEDULED: <2022-05-01 zo>
 :PROPERTIES:
 :ID:       ddeb40a0-9fa9-474e-8a2b-45b89d796502
-:DRILL_LAST_INTERVAL: 2.9488
+:DRILL_LAST_INTERVAL: 3.4956
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 18:52]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:41]
 :END:
 vitiate
 ** Example and meaning
@@ -835,17 +835,17 @@ spoil or impair the quality or efficiency of.
 destroy or impair the legal validity of.
 "the insurance is vitiated because of foolish acts on the part of the tenant"
 * versimilitude                                                       :drill:
-SCHEDULED: <2022-04-28 do>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       32db6ff4-0572-471d-91f8-1f9b1a71a3ef
-:DRILL_LAST_INTERVAL: 3.3954
+:DRILL_LAST_INTERVAL: 3.9118
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 18:49]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:59]
 :END:
 versimilitude
 ** Example and meaning
@@ -857,17 +857,17 @@ story with verisimilitude."
 "My talks with the kid had quite the versimilitude. She couldn't
 differentiate when I was lying or when I was telling the truth."
 * urbane                                                              :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       255f72a4-c137-4da0-8b22-2f57a3bd7d68
-:DRILL_LAST_INTERVAL: 3.6088
+:DRILL_LAST_INTERVAL: 3.9675
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 3
-:DRILL_FAILURE_COUNT: 2
-:DRILL_AVERAGE_QUALITY: 1.667
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:02]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:39]
 :END:
 urbane
 ** Example and meaning
@@ -880,17 +880,17 @@ sophisticated
 debonair
 worldly
 * transgression                                                       :drill:
-SCHEDULED: <2022-04-28 do>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       0f71166f-0e7d-4bbf-b9b5-b5298d52c98d
-:DRILL_LAST_INTERVAL: 3.4373
+:DRILL_LAST_INTERVAL: 3.6913
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 18:51]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:41]
 :END:
 transgression
 ** Example and meaning
@@ -903,17 +903,17 @@ crime
 sin
 wrong
 * tenable                                                             :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       29a614a4-030a-479f-a951-e966a0fa8bbc
-:DRILL_LAST_INTERVAL: 4.2938
+:DRILL_LAST_INTERVAL: 3.9093
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
-:DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 18:54]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:55]
 :END:
 tenable
 ** Example and meaning
@@ -925,17 +925,17 @@ defensible
 justifiable
 defendable
 * tempestuous                                                         :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       dd51375c-78e2-4e54-8020-eb3ed6f0f53c
-:DRILL_LAST_INTERVAL: 3.7557
+:DRILL_LAST_INTERVAL: 4.3056
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:12]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:46]
 :END:
 tempestuous
 ** Example and meaning
@@ -951,17 +951,17 @@ wild
 2. very stormy.
 "a tempestuous wind"
 * parsimonious                                                        :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       72a87124-3bcc-42aa-8360-fc6683ecdc37
-:DRILL_LAST_INTERVAL: 3.8545
+:DRILL_LAST_INTERVAL: 3.7667
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:10]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:42]
 :END:
 parsimonious
 ** Example and meaning
@@ -974,17 +974,17 @@ close-fisted
 penny-pinching
 cheese-paring
 * opprobrium                                                          :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       e014e6f0-471d-474a-add3-bc2cb9cc8a1e
-:DRILL_LAST_INTERVAL: 4.0632
+:DRILL_LAST_INTERVAL: 3.8805
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
-:DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 18:53]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:43]
 :END:
 opprobrium
 ** Example and meaning (ALSO OBLOQUY)
@@ -1017,17 +1017,17 @@ discredit
 ignominy
 *obloquy*
 * onerous                                                             :drill:
-SCHEDULED: <2022-05-01 zo>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       2a462e6d-bd4b-4455-afcf-ba456c9774e9
-:DRILL_LAST_INTERVAL: 5.5503
+:DRILL_LAST_INTERVAL: 4.4674
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
-:DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 18:54]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:40]
 :END:
 onerous
 ** Example and meaning
@@ -1036,17 +1036,17 @@ trouble, or difficulty.  "he found his duties increasingly onerous"
 
 Similar: burdensome heavy inconvenient
 * hackneyed                                                           :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       f71dd55b-7f11-48dd-9554-cb744c303729
-:DRILL_LAST_INTERVAL: 4.0386
+:DRILL_LAST_INTERVAL: 3.8879
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
-:DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 18:54]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:39]
 :END:
 hackneyed
 ** Example and meaning
@@ -1059,17 +1059,17 @@ overworked
 overdone
 *platitudinous*
 * fungible                                                            :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       05af3715-225c-4683-ab60-86e4f020318f
-:DRILL_LAST_INTERVAL: 4.1243
+:DRILL_LAST_INTERVAL: 3.7619
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
-:DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:13]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:42]
 :END:
 fungible
 ** Example and meaning
@@ -1077,17 +1077,17 @@ replaceable by another identical item; mutually
 interchangeable. Commodities, common shares, dollar bills, lumber,
 wheat are fungible goods
 * exasperated                                                         :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       21f2c2a0-beee-4151-8811-a3e0f11713e1
-:DRILL_LAST_INTERVAL: 3.9893
+:DRILL_LAST_INTERVAL: 4.025
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 15:35]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:59]
 :END:
 exasperated
 ** Example and meaning
@@ -1101,17 +1101,17 @@ anger
 annoy
 irritate
 * distressed                                                          :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-03 di>
 :PROPERTIES:
 :ID:       68bafa36-df75-46d4-a809-42ccb58d8204
-:DRILL_LAST_INTERVAL: 4.0303
+:DRILL_LAST_INTERVAL: 5.289
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
-:DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:14]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:40]
 :END:
 distressed
 ** Example and meaning
@@ -1119,17 +1119,17 @@ suffering from extreme anxiety, sorrow, or pain.
 "I was distressed at the news of his death" (ALSO OF A JACKET being
 put through shit)
 * cavalier                                                            :drill:
-SCHEDULED: <2022-04-28 do>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       ef8f3961-3024-46ea-bfb4-3557614bc7b0
-:DRILL_LAST_INTERVAL: 2.5088
+:DRILL_LAST_INTERVAL: 3.9106
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 3
-:DRILL_FAILURE_COUNT: 2
-:DRILL_AVERAGE_QUALITY: 1.667
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:15]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:43]
 :END:
 cavalier
 ** Example and meaning
@@ -1145,17 +1145,17 @@ casual
 dismissive
 perfunctory
 * canny                                                               :drill:
-SCHEDULED: <2022-04-28 do>
+SCHEDULED: <2022-05-01 zo>
 :PROPERTIES:
 :ID:       ec06dac4-2dbd-460d-8b04-2ce60ae9d23b
-:DRILL_LAST_INTERVAL: 2.6623
+:DRILL_LAST_INTERVAL: 3.1477
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
-:DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 15:59]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:44]
 :END:
 canny
 ** Example and meaning
@@ -1171,17 +1171,17 @@ discerning
 perpicacious
 sagacious
 * beneficient                                                         :drill:
-SCHEDULED: <2022-04-30 za>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       13716efe-41c4-47cb-b8ed-2911c2ed87e3
-:DRILL_LAST_INTERVAL: 4.8679
+:DRILL_LAST_INTERVAL: 3.7591
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
-:DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:00]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:41]
 :END:
 beneficient
 ** Example and meaning
@@ -1194,17 +1194,17 @@ charitable
 altruistic
 humane
 * acrimonious                                                         :drill:
-SCHEDULED: <2022-04-28 do>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       62509103-fb9f-476c-98ca-388f2c092f25
-:DRILL_LAST_INTERVAL: 3.4917
+:DRILL_LAST_INTERVAL: 3.8745
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 1
 :DRILL_AVERAGE_QUALITY: 2.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 18:54]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:44]
 :END:
 acrimonious
 ** Example and meaning
@@ -1218,17 +1218,17 @@ rancorous
 caustic
 acerbic
 * truculent                                                           :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       32e52e8e-8f14-4d55-97f1-856125d0b2ac
-:DRILL_LAST_INTERVAL: 3.7748
+:DRILL_LAST_INTERVAL: 4.3603
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 3
-:DRILL_FAILURE_COUNT: 2
-:DRILL_AVERAGE_QUALITY: 1.667
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:14]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:43]
 :END:
 truculent
 ** Example and meaning
@@ -1243,17 +1243,17 @@ belligerent
 pugnacious
 bellicose
 * skirt                                                               :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       14a9e621-ef7b-4986-858a-815b67915f12
-:DRILL_LAST_INTERVAL: 3.9603
+:DRILL_LAST_INTERVAL: 3.6611
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 15:50]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:39]
 :END:
 skirt
 ** Example and meaning
@@ -1275,17 +1275,17 @@ avoid
 evade
 steer clear of
 * sham                                                                :drill:
-SCHEDULED: <2022-04-28 do>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       110f72f5-8b1c-45dd-b135-e4db813eae82
-:DRILL_LAST_INTERVAL: 3.1704
+:DRILL_LAST_INTERVAL: 4.2344
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 15:50]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:54]
 :END:
 sham
 ** Example and meaning
@@ -1297,17 +1297,17 @@ pretend
 fake
 dissemble
 * satirical                                                           :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       3083c963-4d9e-4f8c-bcdf-3c9c9eb25acc
-:DRILL_LAST_INTERVAL: 3.9813
+:DRILL_LAST_INTERVAL: 4.1018
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:12]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:44]
 :END:
 satirical
 ** Example and meaning
@@ -1327,17 +1327,17 @@ sarcastic
 sardonic
 scornful
 * rapacious                                                           :drill:
-SCHEDULED: <2022-05-01 zo>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       b8be1c21-cdfd-4c59-89e2-863b3cb166eb
-:DRILL_LAST_INTERVAL: 5.5252
+:DRILL_LAST_INTERVAL: 3.9214
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
-:DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:14]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:58]
 :END:
 rapacious
 ** Example and meaning
@@ -1350,17 +1350,17 @@ greedy
 avaricious
 acquisitive
 * pervasive                                                           :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       489afda3-a4b3-4325-8176-10269a1bc1ec
-:DRILL_LAST_INTERVAL: 3.9718
+:DRILL_LAST_INTERVAL: 4.3991
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 18:49]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:54]
 :END:
 pervasive
 ** Example and meaning
@@ -1371,34 +1371,34 @@ widely throughout an area or a group of people.
 and entrenched in our society" h Similar: prevalent penetrating
 pervading
 * perilous                                                            :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       99207692-eeb7-44c4-8ccc-0cbea818353c
-:DRILL_LAST_INTERVAL: 3.6752
+:DRILL_LAST_INTERVAL: 3.7735
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 15:34]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:56]
 :END:
 perilous
 ** Example and meaning
 full of danger or risk.
 "a perilous journey south"
 * perfuntory                                                          :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       ecfb9619-8805-4dd9-b304-1f27f19f6f22
-:DRILL_LAST_INTERVAL: 3.8761
+:DRILL_LAST_INTERVAL: 3.7765
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 18:53]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:58]
 :END:
 perfuntory
 ** Example and meaning
@@ -1412,17 +1412,17 @@ quick
 brief
 hasty
 * panacea                                                             :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-03 di>
 :PROPERTIES:
 :ID:       77f3e0aa-3c0c-4eda-92fe-21221cc571a2
-:DRILL_LAST_INTERVAL: 4.2379
+:DRILL_LAST_INTERVAL: 4.7365
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:10]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:59]
 :END:
 panacea
 ** Example and meaning
@@ -1434,17 +1434,17 @@ universal cure
 cure-all
 cure for all ills
 * fractious                                                           :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       dcfe5eaf-5718-423a-ae74-d55e94dd71e6
-:DRILL_LAST_INTERVAL: 4.2078
+:DRILL_LAST_INTERVAL: 3.8764
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:10]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:47]
 :END:
 fractious
 ** Example and meaning
@@ -1464,17 +1464,17 @@ grumpy
 grouchy
 crotchety
 * droll                                                               :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-03 di>
 :PROPERTIES:
 :ID:       f521232e-2dc4-4075-a506-b9c6746106d8
-:DRILL_LAST_INTERVAL: 4.2562
+:DRILL_LAST_INTERVAL: 4.8133
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 18:52]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:59]
 :END:
 droll
 ** Example and meaning
@@ -1487,17 +1487,17 @@ humorous
 amusing
 
 * delibitate                                                          :drill:
-SCHEDULED: <2022-04-30 za>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       885ca0d8-5122-4b18-9c34-76e4f62d518f
-:DRILL_LAST_INTERVAL: 4.9964
+:DRILL_LAST_INTERVAL: 3.6638
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 18:52]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:39]
 :END:
 delibitate
 ** Example and meaning
@@ -1509,17 +1509,17 @@ weakening
 enfeebling
 enervating
 * clandestine                                                         :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       97b65991-2d54-447b-80ca-418d65368038
-:DRILL_LAST_INTERVAL: 3.9956
+:DRILL_LAST_INTERVAL: 4.0554
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:06]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:39]
 :END:
 clandestine
 ** Example and meaning
@@ -1532,17 +1532,17 @@ covert
 furtive
 surreptitious
 * churlish                                                            :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-03 di>
 :PROPERTIES:
 :ID:       a8fa6f90-af11-4b97-9377-ef0348a69578
-:DRILL_LAST_INTERVAL: 3.5886
+:DRILL_LAST_INTERVAL: 5.1774
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:10]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:46]
 :END:
 churlish
 ** Example and meaning
@@ -1554,17 +1554,17 @@ rude
 ill-mannered
 discourteous
 * chivalrous                                                          :drill:
-SCHEDULED: <2022-04-30 za>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       620414fb-5552-4102-8d28-ffbb87887d35
-:DRILL_LAST_INTERVAL: 4.7119
+:DRILL_LAST_INTERVAL: 4.0066
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 15:49]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:39]
 :END:
 chivalrous
 ** Example and meaning
@@ -1576,17 +1576,17 @@ gallant
 gentlemanly
 honourable
 * boisterous                                                          :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       fa8b98b8-0306-4222-9318-da5c7503a726
-:DRILL_LAST_INTERVAL: 4.4394
+:DRILL_LAST_INTERVAL: 4.016
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:11]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:56]
 :END:
 boisterous
 ** Example and meaning
@@ -1599,17 +1599,17 @@ active
 animated
 exuberant
 * callous                                                             :drill:
-SCHEDULED: <2022-04-30 za>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       45a2d795-9cf2-4114-87c1-9647e111eb9f
-:DRILL_LAST_INTERVAL: 4.5104
+:DRILL_LAST_INTERVAL: 4.3292
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 15:35]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:45]
 :END:
 callous
 ** Example and meaning
@@ -1623,17 +1623,17 @@ uncaring
 cold
 cold-hearted
 * inundated                                                           :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       11995f27-005d-472e-92a3-3fa1fc14ab7f
-:DRILL_LAST_INTERVAL: 4.1372
+:DRILL_LAST_INTERVAL: 3.6578
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 18:51]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:55]
 :END:
 inundated
 ** Example and meaning
@@ -1656,17 +1656,17 @@ deluge
 overflow
 overrun
 * scathing                                                            :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       2ef0efc5-6184-45ca-b04e-3e67ce337a37
-:DRILL_LAST_INTERVAL: 3.9061
+:DRILL_LAST_INTERVAL: 4.0318
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:12]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 13:00]
 :END:
 scathing
 ** Example and meaning
@@ -1679,17 +1679,17 @@ withering
 blistering
 extremely critical
 * overt                                                               :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       0e3b0f95-c5d6-4f0d-8f92-ad745c91341e
-:DRILL_LAST_INTERVAL: 4.1412
+:DRILL_LAST_INTERVAL: 3.6172
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 18:51]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:43]
 :END:
 overt
 ** Example and meaning
@@ -1703,17 +1703,17 @@ unconcealed
 opposite:
 Covert
 * numinous                                                            :drill:
-SCHEDULED: <2022-04-28 do>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       22afc532-b7c9-41b5-924b-b99d85e44d78
-:DRILL_LAST_INTERVAL: 3.4158
+:DRILL_LAST_INTERVAL: 4.1821
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:12]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:56]
 :END:
 numinous
 ** Example and meaning
@@ -1726,17 +1726,17 @@ religious
 divine
 holy
 * invidious                                                           :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-01 zo>
 :PROPERTIES:
 :ID:       579bd2a7-a590-424d-9faf-51df5e77eb65
-:DRILL_LAST_INTERVAL: 3.8168
+:DRILL_LAST_INTERVAL: 3.4699
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 1
 :DRILL_AVERAGE_QUALITY: 2.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:00]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:56]
 :END:
 invidious
 ** Example and meaning
@@ -1755,17 +1755,17 @@ unfair
 unjust
 prejudicial
 * illusory                                                            :drill:
-SCHEDULED: <2022-04-28 do>
+SCHEDULED: <2022-05-03 di>
 :PROPERTIES:
 :ID:       61edf29f-2a0c-429e-b3a3-ca4823c50c92
-:DRILL_LAST_INTERVAL: 3.0773
+:DRILL_LAST_INTERVAL: 4.782
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
-:DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:01]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:57]
 :END:
 illusory
 ** Example and meaning
@@ -1777,34 +1777,34 @@ delusory
 delusional
 delusive
 * fervor                                                              :drill:
-SCHEDULED: <2022-04-28 do>
+SCHEDULED: <2022-05-03 di>
 :PROPERTIES:
 :ID:       1f028aa9-c40d-4d85-91e8-cbf3321197c1
-:DRILL_LAST_INTERVAL: 3.1646
+:DRILL_LAST_INTERVAL: 4.5052
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 18:51]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:54]
 :END:
 fervor
 ** Example and meaning
 passionate feeling
 "talked with all fervor"
 * extraneous                                                          :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-01 zo>
 :PROPERTIES:
 :ID:       0473060b-466b-4b8f-81b1-8b1e5309ebb7
-:DRILL_LAST_INTERVAL: 4.0442
+:DRILL_LAST_INTERVAL: 2.6525
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:10]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:56]
 :END:
 extraneous
 ** Example and meaning
@@ -1820,17 +1820,17 @@ beside the point
 2. external
 "when the transmitter pack is turned off no extraneous noise is heard"
 * diffuse                                                             :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       da666b8b-d0b2-4be3-89a4-5aa7fe569d85
-:DRILL_LAST_INTERVAL: 3.9138
+:DRILL_LAST_INTERVAL: 3.5347
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
-:DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 1.667
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 18:54]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:44]
 :END:
 diffuse
 ** Example and meaning
@@ -1843,17 +1843,17 @@ verbose
 wordy
 prolix
 * covert                                                              :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       5b05843b-adb7-40e3-ad3d-bac4443ad693
-:DRILL_LAST_INTERVAL: 4.496
+:DRILL_LAST_INTERVAL: 3.719
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:11]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:54]
 :END:
 covert
 ** Example and meaning
@@ -1865,17 +1865,17 @@ secret
 furtive
 clandestine
 * countenance                                                   :drill:leech:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       0525aabf-8e90-4be8-81bf-36c1ae862125
-:DRILL_LAST_INTERVAL: 3.8087
+:DRILL_LAST_INTERVAL: 3.8603
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 5
-:DRILL_FAILURE_COUNT: 4
-:DRILL_AVERAGE_QUALITY: 1.4
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 18:55]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:56]
 :END:
 countenance
 ** Example and meaning
@@ -1895,17 +1895,17 @@ tolerate
 permit
 allow
 * byzantine                                                           :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-03 di>
 :PROPERTIES:
 :ID:       515c660e-b0bf-4d14-9060-4c5adee22518
-:DRILL_LAST_INTERVAL: 4.2712
+:DRILL_LAST_INTERVAL: 4.9058
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 15:49]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:58]
 :END:
 byzantine
 ** Example and meaning
@@ -1917,17 +1917,17 @@ byzantine
 adjective: byzantine
 "he has the most Byzantine mind in politics"
 * baroque                                                             :drill:
-SCHEDULED: <2022-04-28 do>
+SCHEDULED: <2022-05-01 zo>
 :PROPERTIES:
 :ID:       76f9148e-b01c-419d-849a-187c34691afa
-:DRILL_LAST_INTERVAL: 2.9009
+:DRILL_LAST_INTERVAL: 2.729
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 15:49]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:46]
 :END:
 baroque
 ** Example and meaning
@@ -1939,17 +1939,17 @@ fancy
 very elaborate
 
 * affinity                                                            :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       ec714541-b902-4ff2-8bac-48194ea10eb3
-:DRILL_LAST_INTERVAL: 3.8117
+:DRILL_LAST_INTERVAL: 3.7
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 18:52]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:42]
 :END:
 affinity
 ** Example and meaning
@@ -1962,17 +1962,17 @@ affinity
 3. *relationship, esp by marriage*
 
 * wayward                                                             :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-03 di>
 :PROPERTIES:
 :ID:       75b30399-e2e8-4229-9df5-47bc168b1f70
-:DRILL_LAST_INTERVAL: 3.8379
+:DRILL_LAST_INTERVAL: 4.5314
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 1
 :DRILL_AVERAGE_QUALITY: 2.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:14]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 13:00]
 :END:
 wayward
 ** Example and meaning
@@ -1988,17 +1988,17 @@ obstinate
 
 PERHAPS --> following no clear principle or law : unpredictable, UNGOVERNABLE\
 * umbrage                                                             :drill:
-SCHEDULED: <2022-04-30 za>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       94f7188f-9806-4631-8d17-f772e4e92ebd
-:DRILL_LAST_INTERVAL: 4.5544
+:DRILL_LAST_INTERVAL: 3.6242
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
-:DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 18:54]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 13:00]
 :END:
 umbrage
 ** Example and meaning
@@ -2009,17 +2009,17 @@ Similar:
 take offence
 be offended
 * trenchant                                                           :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       ea54b94a-9953-4760-8aed-d757bff82ed8
-:DRILL_LAST_INTERVAL: 4.2705
+:DRILL_LAST_INTERVAL: 3.701
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:12]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:38]
 :END:
 trenchant
 ** Example and meaning
@@ -2031,17 +2031,17 @@ incisive
 cutting
 pointed
 * torpor                                                              :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-01 zo>
 :PROPERTIES:
 :ID:       64efb845-4b0b-4e51-836c-08abf7ed14b5
-:DRILL_LAST_INTERVAL: 4.0486
+:DRILL_LAST_INTERVAL: 3.2753
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:12]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:44]
 :END:
 torpor
 ** Example and meaning
@@ -2054,17 +2054,17 @@ torpidity
 sluggishness
 inertia
 * tantalize                                                           :drill:
-SCHEDULED: <2022-04-30 za>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       61b09196-3c65-45a4-aa74-64c2d45471fe
-:DRILL_LAST_INTERVAL: 4.8255
+:DRILL_LAST_INTERVAL: 3.7729
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:13]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:54]
 :END:
 tantalize
 ** Example and meaning
@@ -2080,17 +2080,17 @@ Similar:
 torture
 bait
 * surreptitious                                                       :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       07894874-bb82-451b-9b0f-430616e18590
-:DRILL_LAST_INTERVAL: 3.8274
+:DRILL_LAST_INTERVAL: 3.8458
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 18:53]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:58]
 :END:
 surreptitious
 ** Example and meaning
@@ -2104,68 +2104,68 @@ clandestine
 covert 
 furtive in a sense (furtive is secretive but discovery would be dangerous)
 * polymath                                                            :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-03 di>
 :PROPERTIES:
 :ID:       16f4397d-7f80-42ac-8dc9-2a48875d2782
-:DRILL_LAST_INTERVAL: 4.15
+:DRILL_LAST_INTERVAL: 4.6194
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 15:50]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:41]
 :END:
 polymath
 ** Example and meaning
 a person of wide knowledge or learning.
 "a Renaissance polymath"
 * chuffed                                                             :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       56cfc728-d2f1-46b9-908c-671e90637496
-:DRILL_LAST_INTERVAL: 3.9317
+:DRILL_LAST_INTERVAL: 4.2752
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:03]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:39]
 :END:
 chuffed
 ** Example and meaning
 very pleased.
 "I'm dead chuffed to have won"
 * flummoxed                                                           :drill:
-SCHEDULED: <2022-04-28 do>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       19f4e405-459f-4c2e-84e0-a241ab68c764
-:DRILL_LAST_INTERVAL: 3.1436
+:DRILL_LAST_INTERVAL: 3.8591
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
-:DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 16:12]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 13:00]
 :END:
 flummoxed 
 ** Example and meaning
 bewildered or perplexed.
 "he became flummoxed and speechless"
 * exacting                                                            :drill:
-SCHEDULED: <2022-04-29 vr>
+SCHEDULED: <2022-05-02 ma>
 :PROPERTIES:
 :ID:       ea6d99f3-fd2d-431e-ad56-2d6b81714348
-:DRILL_LAST_INTERVAL: 3.8484
+:DRILL_LAST_INTERVAL: 3.5852
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.36
 :DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-04-25 ma 15:34]
+:DRILL_LAST_REVIEWED: [2022-04-28 do 12:59]
 :END:
 exacting
 ** Example and meaning

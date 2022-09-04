@@ -4,6 +4,21 @@
 ** Counted for work                                                    :work:
 *** Prepping for task
 *** Looking for content
+*** identifying unis prep
+:LOGBOOK:
+CLOCK: [2022-09-04 zo 11:00]
+:END:
+**** Miscellaneous
+
+**** Identify dimensions
+**** find files
+**** Find unis
+**** What do they need though
+**** discuss short put with body
+*** Writing SOP LOR
+**** gather all sop lor
+**** write email to lor profs
+**** gather sop lor
 *** masters
 *** GRE
 :LOGBOOK:
@@ -86,11 +101,16 @@ CLOCK: [2022-03-19 za 15:32]--[2022-03-19 za 16:36] =>  1:04
 :END:
 **** gre Quant
 :LOGBOOK:
-CLOCK: [2022-04-26 di 18:49]
+CLOCK: [2022-04-27 wo 19:53]--[2022-04-27 wo 22:15] =>  2:22
+CLOCK: [2022-04-26 di 18:49]--[2022-04-26 di 21:04] =>  2:15
 CLOCK: [2022-04-22 vr 22:43]--[2022-04-22 vr 23:38] =>  0:55
 :END:
 **** gre TC and SC
 :LOGBOOK:
+CLOCK: [2022-04-27 wo 19:12]--[2022-04-27 wo 19:53] =>  0:41
+CLOCK: [2022-04-27 wo 15:07]--[2022-04-27 wo 16:00] =>  0:53
+CLOCK: [2022-04-27 wo 12:40]--[2022-04-27 wo 13:19] =>  0:39
+CLOCK: [2022-04-27 wo 09:56]--[2022-04-27 wo 10:56] =>  1:00
 CLOCK: [2022-04-26 di 13:53]--[2022-04-26 di 16:10] =>  2:17
 CLOCK: [2022-04-26 di 09:45]--[2022-04-26 di 11:50] =>  2:05
 CLOCK: [2022-04-15 vr 13:20]--[2022-04-15 vr 14:36] =>  1:16
@@ -173,6 +193,7 @@ CLOCK: [2022-04-17 zo 18:49]--[2022-04-17 zo 20:44] =>  1:55
 
 ** Not counted for DP                                                :break:
 :LOGBOOK:
+CLOCK: [2022-04-27 wo 13:19]--[2022-04-27 wo 15:07] =>  1:48
 CLOCK: [2022-04-23 za 12:35]--[2022-04-23 za 16:03] =>  3:28
 CLOCK: [2022-04-19 di 21:30]--[2022-04-19 di 22:09] =>  0:39
 CLOCK: [2022-04-19 di 19:26]--[2022-04-19 di 20:27] =>  1:01

@@ -513,9 +513,9 @@ practice a few times and give an exam on ets.
 3. Verbal --> 10 10 0
 4. Quan --> 16 3 1
 
-## PP2
+## PP1+
 
-| 153 →154          | Correct       | Wrong | Able to finish | TC  | SE  | SP      | LP  |
+| 153 → 154         | Correct       | Wrong | Able to finish | TC  | SE  | SP      | LP  |
 | ----------------- | ------------- | ----- | -------------- | --- | --- | ------- | --- |
 | Verbal 1 (Medium) | 12            | 8     | 17             | 6/6 | 3/4 | 1/6     | 2/4 |
 | Verbal 2 (Medium) | 10 (3fluke)   | 10    | 12             | 3/6 | 2/4 | 2/10    | NA  |
@@ -597,35 +597,52 @@ just right after.
 
 Disastor. 5Q unanswered. Jesus! 14, 15, 16, 19, 20
 
-| type                  | q num | correct | wrong | Guessed correct | work on        |
-|-----------------------|-------|---------|-------|-----------------|----------------|
-| proportions           | 1     |         | 1     |                 | yes            |
-| mod                   | 2     | 2       |       |                 | yes            |
-| A vs b ratio          | 3     |         | 3     |                 |                |
-| coordinate geom       | 4     | 4       |       |                 | yes            |
-| Mean (hard)           | 5     | 5       |       |                 | yes            |
-| Area                  | 6     |         | 6     |                 |                |
-| formula               | 7     | 7       |       |                 |                |
-| % problem             | 8     | 8       |       |                 | yes            |
-| possible values       | 9     |         | 9     |                 | yes            |
-| digit possible values | 10    |         | 10    |                 | yes            |
-| perimeter             | 11    |         | 11    |                 | Missed side :( |
-| eqn                   | 12    | 12      |       |                 |                |
-| remaindeer            | 13    | 13      |       |                 |                |
-| chart                 | 14    |         | 14    |                 | yes            |
-| chart                 | 15    |         | 15    |                 | yes            |
-| chart                 | 16    |         | 16    |                 | yes            |
-| std-constant          | 17    | 17      |       |                 | yes            |
-| mean median           | 18    |         | 18    |                 |                |
-| eqn with long text    | 19    | 19      |       | 19 :(           | yes            |
-| angles                | 20    |         | 20    |                 | yes               |
+| type                    | q num | correct | wrong | Guessed correct | work on        |
+|-------------------------|-------|---------|-------|-----------------|----------------|
+| proportions             | 1     |         | 1     |                 | yes  (2.5min)  |
+| mod                     | 2     | 2       |       |                 | yes            |
+| A vs b ratio Range type | 3     |         | 3     |                 |                |
+| coordinate geom         | 4     | 4       |       |                 | yes            |
+| Mean (hard)             | 5     | 5       |       |                 | yes            |
+| Area                    | 6     |         | 6     |                 |                |
+| formula                 | 7     | 7       |       |                 |                |
+| % problem               | 8     | 8       |       |                 | yes (2.5min)   |
+| possible values         | 9     |         | 9     |                 | yes  (2, 10)   |
+| digit possible values   | 10    |         | 10    |                 | yes            |
+| perimeter               | 11    |         | 11    |                 | Missed side :( |
+| eqn                     | 12    | 12      |       |                 |                |
+| remaindeer              | 13    | 13      |       |                 | (2.5mins)      |
+| chart                   | 14    |         | 14    |                 | yes            |
+| chart                   | 15    |         | 15    |                 | yes            |
+| chart                   | 16    |         | 16    |                 | yes            |
+| std-constant            | 17    | 17      |       |                 | yes            |
+| mean median             | 18    |         | 18    |                 |                |
+| eqn with long text      | 19    | 19      |       | 19 :(           | yes            |
+| angles eqn              | 20    |         | 20    |                 | yes            |
 
+
+1--> mistake in addition of -8/12 and -3/12 JESUS!
+3 --> not sure what the mistake was!
+6 --> mistake in cube root r^3 = 125; r = 25! JESUS!
+9 --> ft to inchs sq! so need to mutiply by 12 x 12
+10 --> didn't know how to 2,4,6,9, numbers given make 2 digit numbers
+with least diff
+
+11 --> 2x+5 - (6-x) = x + ... JESUS!
+12 --> 
+
+18 mean median --> awesome problem http://gre.kmf.com/explain/question/72807-292.html
+
+> A list consists of three different positive integers whose sum
+> is 10. ...
+
+19 --> takes long to solve! :( 2.30... Made an addition mistake :( still
 
 1. angles geometry 
 2. coordinate geom
 3. mean median
 4. possible values digits
-5. charts
+5. charts 
 6. remainder
 7. percent problems
 8. perimeter
@@ -653,6 +670,8 @@ practice : https://www.gregmat.com/problems/quant
 Powerprep solutions:
 https://greprepclub.com/forum/gre-powerprep-the-free-practice-tests-explained-3118.html
 
+PP1 PP2 PP+ questions: https://docs.google.com/spreadsheets/d/1P0J-zDN1D0scJ9gk25gsCSlSiRnv6LugFZZpL9xTdB8/edit#gid=0
+
 ### After feedback from Greg
 
 Aim: 163 to 165 in math; 153 to 160 english
@@ -674,6 +693,17 @@ overcome this.
 Current score 7-9 on 12. 
 
 Do more questions, do hard ones
+
+**TC issues**
+
+1. Something written after evidence should be used
+2. grammar strategy to reject things
+3. Rephrasing
+4. Math
+5. + + (- -) POE
+6. Missed time contrast
+7. fucked up words
+8. Synonyms in passage
 
 **How to recognize double possibility?**
 
@@ -736,7 +766,7 @@ HOW?
    Scroll down to November 24, 2021
  
 2. GRE Math review
-3. Gregmat practice problems medium and then hard
+``3. Gregmat practice problems medium and then hard
    https://www.gregmat.com/problems/verbal
 4. PP2
 5. manhattanprep
@@ -1030,7 +1060,7 @@ abandons it's mining plans
 
 
 **Introduction**
-
+ 
 In the letter the editor the author assumes that if people stop
 purchasing products from CCC, then the company will abandon it's
 mining plans, thereby preventing things like environmental

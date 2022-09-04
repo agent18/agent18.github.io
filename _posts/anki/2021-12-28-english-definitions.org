@@ -1,4 +1,186 @@
 #+TAGS: drill nodef
+* infirm :drill:
+infirm
+** Example and meaning
+not physically or mentally strong, especially through age or illness.
+"those who were old or infirm"
+h
+Similar:
+frail
+weak
+feeble
+enfeebled
+weakly
+* protracted :drill:
+protracted
+** Example and meaning
+lasting for a long time or longer than expected or usual.
+"a protracted and bitter dispute"
+h
+Similar:
+prolonged
+extended
+stretched out
+drawn out
+* fortify :drill:
+fortify
+** Example and meaning
+Strngthen, secure, protect, 
+* arable :drill:
+arable
+** Example and meaning
+(of land) used or suitable for growing crops.
+"acres of arable land"
+* discomfit :drill:
+discomfit
+** Example and meaning
+make (someone) feel uneasy or embarrassed.
+"he was not noticeably discomfited by her tone"
+h
+Similar:
+embarrass
+make uncomfortable
+* coup :drill:
+coup
+** Example and meaning
+1. a sudden, violent, and illegal seizure of power from a government.
+"he was overthrown in an army coup"
+h
+Similar:
+seizure of power
+overthrow
+takeover
+ousting
+an instance of successfully achieving something difficult.
+"it was a major coup to get such a prestigious contract"
+h
+Similar:
+success
+triumph
+feat
+* vanity :drill:
+vanity
+** Example and meaning
+LOVE YOURSELF
+excessive pride in or admiration of one's own appearance or achievements.
+"it flattered his vanity to think I was in love with him"
+h
+Similar:
+*VAIN*
+conceit
+conceitedness
+self-conceit
+narcissism
+self-love
+self-admiration
+self-regard
+self-absorption
+self-obsession
+self-centredness
+egotism
+egoism
+egocentrism
+egomania
+pride
+haughtiness
+arrogance
+boastfulness
+swagger
+imperiousness
+cockiness
+pretension
+affectation
+airs
+show
+ostentation
+vainglory
+braggadocio
+h
+Opposite:
+modesty
+
+    denoting a person or company publishing works at the author's expense.
+    modifier noun: vanity
+    "a vanity press"
+
+2.
+the quality of being worthless or futile.
+"the vanity of human wishes"
+h
+Similar:
+futility
+uselessness
+* transitional :drill:
+transitional
+** Example and meaning
+involving, providing, or consisting of a passage, movement, or change
+from one state, condition, subject, place, etc., to another a
+transitional passage in music
+
+opposite of distinct apparently test 17 TC 5
+* insular :drill:
+insular
+** Example and meaning
+ignorant of or uninterested in cultures, ideas, or peoples outside one's own experience.
+"a stubbornly insular farming people"
+h
+Similar:
+narrow-minded
+limited
+blinkered
+restricted
+inward-looking
+conventional
+parochial
+provincial
+small-town
+
+lacking contact with other people.
+"people living restricted and sometimes insular existences"
+
+Similar:
+isolated
+inaccessible
+cut off
+* rancour :drill:
+rancour
+** Example and meaning
+bitterness or resentfulness, especially when long standing.
+"he spoke without rancour"
+h
+Similar:
+bitterness
+spite
+hate
+hatred
+resentment
+malice
+* awe :drill:
+awe
+** Example and meaning
+a feeling of reverential respect mixed with fear or wonder.
+"they gazed in awe at the small mountain of diamonds"
+h
+Similar:
+wonder
+wonderment
+amazement
+
+* unworldly :drill:
+unworldly
+** Example and meaning
+(of a person) having little awareness of the practicalities of life; unmotivated by material considerations.
+"a pedantic, unworldly boffin"
+h
+Similar:
+naive
+simple
+inexperienced
+innocent
+* grades :drill:
+grades
+** Example and meaning
+steepness
 * difference between historic and historical :drill:
 difference between historic and historical
 ** Example and meaning
